@@ -18,24 +18,59 @@ AI image generators don't line layers up to the exact pixel. Three rules make th
 3. **Split hair into back and front.** Hair behind the head (long hair, ponytails) and hair in front (bangs) are two layers, so the face sits between them.
 4. **Keep the outline separate from the color.** Export every layer as two files: `*_line.png` (only the dark outline) and `*_fill.png` (only the flat colors, no outline). The app tints the fill and puts the line on top. Showing the lines alone gives you **coloring pages** of any family's characters and scenes for free, with no extra art (this is the "Dibujos para colorear" feature).
 
+### What the app lets families choose
+
+Every prompt below is built around the options the Peekabook character creator already has. Each option is either a **separate layer** or a **color the app tints**. Nothing is baked into one flat picture.
+
+| App option | Choices | How it's made |
+|---|---|---|
+| Body type | slim, regular, round | base body (2.1) |
+| Size | mini, kid, mid, adult, tall | base body (2.1): the head stays the same size and only the body below it changes |
+| Skin | color | tinted in code |
+| Freckles | on / off | `freckles` layer (2.2) |
+| Eyes | color | `iris` layer, tinted in code |
+| Glasses | none, round, square, sunglasses + frame color | `glasses` layer (2.7) |
+| Hair | color, type, length, style, bangs | `hair_back` + `hair_front` (+ `hair_tails`), tinted in code (2.3) |
+| Beard | none, stubble, short, full, goatee | `beard` layer, tinted with the hair color (2.3b) |
+| Mustache | none, classic, handlebar, thin, walrus | `mustache` layer, tinted with the hair color (2.3b) |
+| Tops | t-shirt, long sleeve, tank top, button shirt, hoodie, sweater, open jacket, lab coat, suit jacket, dress + color | `top` + `sleeves` (2.4) |
+| Bottoms | jeans, pants, suit pants, shorts, skirt, leggings + color | `bottom` (2.5) |
+| Shoes | sneakers, boots, sandals, flats, dress shoes, barefoot + color | `shoes` (2.6) |
+| Accessories | hat, cap, beanie, sun hat, crown, bow, headband, superhero cape, earrings, scarf, binky, backpack, purse, necklace, bracelet + color | one layer each, some split back/front (2.7) |
+
+`prototypes/chibi-mockups.html` shows three characters drawn with these exact options and layers.
+
 ### Layer order (bottom to top)
 
 | z | Layer | Colored in code? |
 |---|-------|------------------|
-| −2 | `gear_back` (balloon basket, boat, rocket; see 2.9) | no |
-| −1 | `hood_back` (inside of a hood that's up, cape) | optional |
-| 0 | `hair_back` | yes (hair color) |
-| 1 | `body` (skin, head, neutral underwear shape) | yes (skin tone) |
-| 2 | `shoes` | optional |
-| 3 | `bottom` (pants, skirt, shorts) | optional |
-| 4 | `top` (shirt, jacket, dress) | optional |
-| 5 | `face` (eye whites, mouth, blush) | no |
-| 6 | `iris` | yes (eye color) |
-| 6.5 | `hood_front` (hood rim around the face, animal ears on it) | optional |
-| 7 | `hair_front` (bangs) | yes (hair color) |
-| 8 | `accessory_head` (hats, bows, glasses) | optional |
-| 9 | `accessory_hand` (balloon, book, ice cream) | optional |
-| 10 | `gear_front` (basket rim, boat hull, helmet glass, swim ring) | no |
+| 1 | `gear_back` (balloon basket, boat, rocket; see 2.9) | no |
+| 2 | `cape` | yes (accessory color) |
+| 3 | `backpack_back` (the bag behind the body) | yes |
+| 4 | `hood_back` (inside of a hood that's up) | optional |
+| 5 | `hair_back` + `hair_tails` (ponytail, pigtails, bun) | yes (hair color) |
+| 6 | `body_legs` (legs and feet) | yes (skin tone) |
+| 7 | `bottom` (jeans, pants, suit pants, shorts, skirt, leggings) | yes |
+| 8 | `shoes` | yes |
+| 9 | `body_arms` | yes (skin tone) |
+| 10 | `sleeves` | yes (top color) |
+| 11 | `body_torso` | yes (skin tone) |
+| 12 | `top` (t-shirt, shirt, hoodie, sweater, jacket, lab coat, suit, dress) | yes |
+| 13 | `hands` + `bracelet` | skin / no |
+| 14 | `neck` (scarf, necklace, backpack straps, purse strap and bag, cape clasp) | yes (accessory color) |
+| 15 | `braids` (they fall in front of the shoulders) | yes (hair color) |
+| 16 | `head` (head and ears) | yes (skin tone) |
+| 17 | `face` (eyes, mouth, blush) + `freckles` | no |
+| 18 | `iris` | yes (eye color) |
+| 19 | `beard`, then `mustache` | yes (hair color) |
+| 20 | `binky` | yes (accessory color) |
+| 21 | `hood_front` (hood rim around the face, animal ears on it) | optional |
+| 22 | `hair_front` (bangs, side locks, hair sprout) | yes (hair color) |
+| 23 | `glasses` | yes (frame color) |
+| 24 | `earrings` | no |
+| 25 | `hat` (cap, beanie, sun hat, crown, bow, headband) | yes (accessory color) |
+| 26 | `accessory_hand` (balloon, book, ice cream, microphone) | optional |
+| 27 | `gear_front` (basket rim, boat hull, helmet glass, swim ring) | no |
 
 Hair length is just different `hair_back` and `hair_front` pieces (short, bob, shoulder, long, braids, pigtails, curly afro, buzz, etc.).
 
@@ -100,7 +135,30 @@ to the sides and away from the body, feet slightly apart, in a plain light-grey
 no clothes, no shoes, no face details except the head shape and ears. Clean
 silhouette for a paper-doll dress-up system.
 ```
-Make one body per pose you need (see section 2.8). Keep the skin flat grey so the app can tint it to any skin tone.
+Keep the skin flat grey so the app can tint it to any skin tone.
+
+**Body type and size.** Make the base body for every combination of body type and size. The **head is the same size on every body**, so faces, hair, glasses and hats fit everyone. Only the body below the head changes. Add this line to the prompt above:
+```
+Body: {BODY TYPE}. Size: {SIZE}. The head is exactly the same size and position
+relative to the neck as the reference; only the body below the head changes.
+```
+| Size | Total height | Use it for |
+|---|---|---|
+| `mini` | about 1.8 heads tall, chubby, very short arms and legs | babies and toddlers |
+| `kid` | about 2.1 heads tall | young kids |
+| `mid` | about 2.4 heads tall | older kids and teens, short grown-ups, grandparents |
+| `adult` | about 2.8 heads tall, a bit wider shoulders | grown-ups |
+| `tall` | about 3.1 heads tall, the widest shoulders | tall grown-ups |
+
+| Body type | Prompt words |
+|---|---|
+| `slim` | `narrow shoulders and hips, thin arms and legs` |
+| `regular` | `average build, soft rounded shape` |
+| `round` | `round belly and wide hips, chubby arms and legs, arms held a bit further from the body` |
+
+That's 15 base bodies (3 × 5). Every top, bottom and pair of shoes must then fit all 15. With AI images that means 15 versions of each clothing piece. With vector art (see the tip at the end), one piece can stretch to fit every body. The mockups in `prototypes/chibi-mockups.html` work this way.
+
+Make one set per pose you need (see section 2.8).
 
 ### 2.2 Face and eyes
 ```
@@ -109,6 +167,8 @@ white sclera and two sparkle highlights, IRIS drawn as a separate flat light-gre
 (#BFBFBF) circle, small happy mouth, soft pink blush ovals. Everything else is
 transparent. Positioned exactly where the face sits on the base body reference.
 ```
+**Freckles** are their own small layer, so any face can switch them on: `ONLY a few small freckle dots across both cheeks and the nose, darker than the skin, transparent elsewhere`.
+
 Variations (all from your references): `small smile`, `open "D" smile with pink tongue` (excited, waving), `":3" cat mouth`, `happy closed eyes ^ ^` (relaxed, sitting), `surprised O mouth`, `wink`, `heart sparkles in the eyes` (for the "¡Encontrado!" moment), `freckles`.
 
 **Tiny version:** when a character is very far away in a scene (under ~60px), the app can swap in a simpler face: dark dot eyes with one white sparkle and a small curved smile. Make this as a separate `face_tiny` layer.
@@ -123,6 +183,18 @@ face. Transparent background, no head, no face, aligned to the base body referen
 ```
 `{STYLE}` ideas: `short messy`, `pixie cut`, `straight bob with bangs`, `shoulder-length wavy`, `long straight to the waist`, `high ponytail`, `two pigtails`, `two braids`, `space buns`, `curly afro puff`, `big curly afro`, `cornrows`, `locs`, `buzz cut`, `spiky`, `side part`, `hijab (as hair piece, tintable)`, `grey bun for grandma`, `balding with side hair for grandpa`.
 
+### 2.3b Beards and mustaches
+```
+[MASTER STYLE] ONLY a {BEARD or MUSTACHE} for the chibi base head, flat light-grey
+(#E0E0E0) with one darker grey shadow tone so it can be tinted to the hair color,
+bold outline, transparent background, aligned to the base body reference. It must
+leave the eyes and the mouth visible.
+```
+Beards: `light stubble (soft semi-transparent shading along the jaw, no outline)`, `short trimmed beard along the jaw and chin`, `full round fluffy beard below the chin`, `small goatee on the chin`.
+Mustaches: `classic rounded mustache`, `handlebar mustache with curled-up ends`, `thin pencil mustache`, `big bushy walrus mustache`.
+
+Make the beard and the mustache **separate layers**, so any beard can go with any mustache. The mouth moves down a little when a mustache is on.
+
 ### 2.4 Tops
 ```
 [MASTER STYLE] ONLY a {GARMENT} fitted to the chibi base body, drawn in flat
@@ -130,7 +202,7 @@ light-grey (#E6E6E6) with one shadow tone and bold outline. Keep any pattern (st
 dots, stars) in a darker grey so it can be tinted. No body, no head, transparent
 background, aligned to the base body reference.
 ```
-`{GARMENT}` ideas: `t-shirt`, `graphic tee`, `gingham top`, `cropped denim or white jacket (worn open over a top)`, `black leather jacket`, `sailor-collar sweater with ribbon bow`, `oversized hoodie with front pocket`, `striped long-sleeve shirt`, `hoodie with hood down`, `overalls bib`, `puffy winter jacket`, `raincoat`, `sweater with star`, `sundress`, `tutu dress`, `football jersey`, `school uniform`, `cardigan (grandma)`, `button-up shirt with tie (dad)`.
+`{GARMENT}` in the app: `t-shirt`, `long-sleeve shirt`, `tank top with thin straps`, `button-up shirt with collar`, `hoodie with front pocket and drawstrings`, `sweater with ribbed hem`, `open jacket over a light top`, `long white lab coat, open, with a chest pocket and a pen`, `suit jacket with white shirt and tie`, `dress with short puffy sleeves and a flared skirt`. More ideas: `t-shirt`, `graphic tee`, `gingham top`, `cropped denim or white jacket (worn open over a top)`, `black leather jacket`, `sailor-collar sweater with ribbon bow`, `oversized hoodie with front pocket`, `striped long-sleeve shirt`, `hoodie with hood down`, `overalls bib`, `puffy winter jacket`, `raincoat`, `sweater with star`, `sundress`, `tutu dress`, `football jersey`, `school uniform`, `cardigan (grandma)`, `button-up shirt with tie (dad)`.
 
 **Hood up / animal-ear hats:** a hood with the hood up (like the panda hoodie in your references), a onesie hood or an animal-ear beanie needs two layers:
 ```
@@ -148,7 +220,7 @@ When a hood is up, the app hides the parts of `hair_back` that would stick out p
 light-grey with one shadow tone, bold outline, transparent background, aligned to
 the base body reference.
 ```
-Ideas: `jeans`, `denim shorts with rolled hem`, `denim shorts with lace trim`, `shorts`, `pleated skirt`, `cargo pants with pockets and straps`, `leggings`, `cargo pants`, `pajama pants with moons`.
+In the app: `jeans with stitching and rolled cuffs`, `plain pants`, `suit pants with a front crease`, `shorts`, `pleated skirt`, `leggings`. More ideas: `jeans`, `denim shorts with rolled hem`, `denim shorts with lace trim`, `shorts`, `pleated skirt`, `cargo pants with pockets and straps`, `leggings`, `cargo pants`, `pajama pants with moons`.
 
 ### 2.6 Shoes
 ```
@@ -156,7 +228,7 @@ Ideas: `jeans`, `denim shorts with rolled hem`, `denim shorts with lace trim`, `
 with one shadow tone, bold outline, transparent background, aligned to the base body
 reference.
 ```
-Ideas: `sneakers with ankle socks`, `knee socks with loafers`, `black ankle boots with buckles`, `sneakers`, `rain boots`, `sandals`, `ballet flats`, `light-up sneakers`, `snow boots`, `slippers`.
+In the app: `sneakers with white soles`, `ankle boots`, `sandals with straps`, `flats with an ankle strap`, `shiny dress shoes`, and `barefoot` (no layer). More ideas: `sneakers with ankle socks`, `knee socks with loafers`, `black ankle boots with buckles`, `sneakers`, `rain boots`, `sandals`, `ballet flats`, `light-up sneakers`, `snow boots`, `slippers`.
 
 ### 2.7 Accessories
 ```
@@ -164,7 +236,9 @@ Ideas: `sneakers with ankle socks`, `knee socks with loafers`, `black ankle boot
 color is OK but also give a light-grey tintable version, bold outline, transparent
 background, aligned to the base body reference.
 ```
-Head: `headband`, `hair clip with a small bow`, `big ribbon bow on a ponytail`, `stud earrings`, `round glasses`, `sunglasses`, `baseball cap`, `beanie with pom-pom`, `hair bow`, `flower crown`, `headphones`, `party hat`, `crown`, `bunny-ear headband`.
+In the app: `baseball cap`, `beanie with pom-pom`, `wide sun hat with ribbon`, `crown`, `big hair bow`, `headband`, `superhero cape` (split into a back layer and a clasp on the chest), `hoop earrings`, `scarf wrapped around the neck with one hanging end`, `binky / pacifier` (for babies, sits over the mouth), `backpack` (split into the bag behind the body and the straps in front), `crossbody purse`, `necklace with a small pendant`, `bracelet`, `glasses` (round, square, sunglasses; the frame color is tinted in code).
+
+More ideas. Head: `headband`, `hair clip with a small bow`, `big ribbon bow on a ponytail`, `stud earrings`, `round glasses`, `sunglasses`, `baseball cap`, `beanie with pom-pom`, `hair bow`, `flower crown`, `headphones`, `party hat`, `crown`, `bunny-ear headband`.
 Hand or body: `crossbody bag with a thin strap`, `belt`, `microphone`, `drinking glass`, `red balloon`, `ice-cream cone`, `teddy bear`, `backpack`, `book`, `umbrella`, `kite string`, `scarf`, `cape`.
 
 > Hats cover hair. In the app, if a hat is on, hide `hair_front` or swap in a "hat-hair" version.
