@@ -21,6 +21,7 @@ AI image generators don't line layers up to the exact pixel. Three rules make th
 
 | z | Layer | Colored in code? |
 |---|-------|------------------|
+| −1 | `gear_back` (balloon basket, boat, rocket; see 2.9) | no |
 | 0 | `hair_back` | yes (hair color) |
 | 1 | `body` (skin, head, neutral underwear shape) | yes (skin tone) |
 | 2 | `shoes` | optional |
@@ -31,6 +32,7 @@ AI image generators don't line layers up to the exact pixel. Three rules make th
 | 7 | `hair_front` (bangs) | yes (hair color) |
 | 8 | `accessory_head` (hats, bows, glasses) | optional |
 | 9 | `accessory_hand` (balloon, book, ice cream) | optional |
+| 10 | `gear_front` (basket rim, boat hull, helmet glass, swim ring) | no |
 
 Hair length is just different `hair_back` and `hair_front` pieces (short, bob, shoulder, long, braids, pigtails, curly afro, buzz, etc.).
 
@@ -135,6 +137,41 @@ Hand or body: `red balloon`, `ice-cream cone`, `teddy bear`, `backpack`, `book`,
 Make a full base-body set, and fitted layers, for a few poses: `standing`, `waving`, `walking side view`, `sitting`, `peeking from behind something (only head + hands visible)`.
 The **peeking** pose is great for the hiding game. Keep the pose count small, because every pose multiplies the number of assets.
 
+Poses for the sky, water and space (only needed if you use those zones, see section 5):
+- `floating` — legs dangling, arms up or holding something above the head (for balloons, kites, umbrellas, jetpacks, space)
+- `swimming` — only the chest and head above a flat waterline; the bottom of the canvas is cut straight across at the waterline
+- `seated in vehicle` — the same as `sitting`, but hidden from the waist down (boats, balloon baskets, rockets, cars)
+
+### 2.9 Gear that lets chibis go into the sky, water or space
+Gear is what allows a character into a zone other than the ground. Each piece is a layer. Big pieces are split into **back** and **front** so the chibi sits *inside* them.
+
+```
+[MASTER STYLE] ONLY a {GEAR} sized for the chibi base body in the {POSE} pose, flat
+colors with one shadow tone, bold outline, transparent background, aligned to the
+base body reference. If the character sits inside it, output TWO images:
+GEAR_BACK (parts behind the body) and GEAR_FRONT (parts in front of the body, e.g.
+the basket rim, the boat hull, the helmet glass).
+```
+
+| Gear | Pose | Lets them into | Layers |
+|------|------|----------------|--------|
+| bunch of balloons | floating | sky | back |
+| hot-air balloon basket | seated in vehicle | sky | back + front |
+| kite held with both hands | floating | sky | back |
+| umbrella (Mary-Poppins style) | floating | sky | back |
+| witch broom | seated in vehicle | sky | back + front |
+| paper airplane / small plane | seated in vehicle | sky | back + front |
+| superhero cape (flying) | floating | sky | back |
+| swim ring / floaties | swimming | water surface | front |
+| little rowboat / sailboat | seated in vehicle | water surface | back + front |
+| surfboard | standing | water surface | front |
+| snorkel mask + flippers | floating | underwater | front |
+| mini submarine | seated in vehicle | underwater | back + front |
+| astronaut suit + bubble helmet | floating | space | back + front (glass is semi-transparent) |
+| small rocket / jetpack | floating or seated in vehicle | space and sky | back + front |
+
+Tie gear to the season looks and costumes the kids trade medals for (for example, Astronauta = astronaut suit, so that character can float in space).
+
 ---
 
 ## 3. Pets
@@ -157,6 +194,7 @@ Pet layers:
 | `ears_alt` | `ONLY {floppy / pointy / folded} ears for the {SPECIES} base` |
 | `tail_alt` | `ONLY a {curly / fluffy / short stub / long} tail` |
 | `accessory` | `ONLY a {collar with tag / bandana / bow / tiny sweater / harness}` |
+| `gear` | `ONLY a {doggy life vest / swim ring / tiny astronaut bubble helmet / balloon tied to the collar / seat in the owner's basket}` — lets the pet go into water, space or sky too (same rules as section 2.9) |
 
 Colors come from code: a main fur color plus a pattern color, so a Dalmatian, a black lab and a calico cat can share the same assets.
 
@@ -178,6 +216,14 @@ signage words, 3840x2160 (16:9), consistent perspective with the horizon near th
 top so far-away areas are small and near areas are large.
 ```
 `{LOCATION}` ideas: `city park with pond and playground`, `beach boardwalk`, `school yard`, `zoo`, `farm`, `winter village with ice rink`, `birthday party in a backyard`, `supermarket`, `airport`, `museum of dinosaurs`, `space station`, `underwater reef city`, `grandma's house cutaway (dollhouse view)`, `camping forest`.
+
+Scenes with a lot of sky, water or space need **open areas there too** (not just ground). Add this to the prompt for those scenes:
+```
+Leave generous open {sky / water surface / underwater / outer space} areas with only a
+few small clouds, stars, bubbles or waves, so floating, flying or swimming characters can
+be placed there later.
+```
+More ideas: `floating cloud kingdom with sky islands`, `outer space with planets, moon base and asteroids`, `lake with boats and a pier`, `hot-air balloon festival over a valley`, `pirate ships at sea`, `rooftops of a city at sunset (for flying characters)`.
 
 **Negative prompt:** `people, humans, characters, animals, pets, crowd, text, letters, logos, watermark, photorealistic, blur, dark, scary`
 
@@ -206,29 +252,54 @@ segmentation map with NO shading, NO outlines and NO details, only solid colors:
                    (benches, steps, low walls, picnic blankets)
 - YELLOW #FFFF00 = spots where a PEEKING character can appear
                    (behind edges of bushes, doorways, windows, corners)
-- CYAN   #00FFFF = water where only a swimming/boat pose may go
-- RED    #FF0000 = FORBIDDEN: sky, walls, rooftops, tree canopies, deep water,
-                   roads with traffic, fire, cliffs, the top 10% and bottom 8%
+- MAGENTA #FF00FF = open AIR: sky or outer space (only for characters with
+                   flying/floating gear)
+- CYAN   #00FFFF = WATER SURFACE: lakes, sea, pools (swimming or boat gear)
+- NAVY   #000080 = UNDERWATER: open water below the surface (diving gear or
+                   submarine)
+- RED    #FF0000 = ALWAYS FORBIDDEN: solid walls, rooftops, tree canopies,
+                   buildings' faces, roads with traffic, fire, cliffs, big
+                   landmarks that must stay visible, the top 10% and bottom 8%
                    of the image (reserved for app UI)
 - BLACK  #000000 = everything else (also forbidden)
 Same size as the original, perfectly aligned.
 ```
 
+Sky, water and space **aren't forbidden by default**. Each is its own zone, and the scene decides who can go there (see 5.2 and 5.3). A park can have a small patch of sky for balloons. In a space scene, almost everything is air.
+
 ### 5.2 Rules the app should follow (tell your developer, or the coding AI)
 ```
 Placement rules for Peekabook scenes:
-1. A character's FEET anchor point (bottom-center of its sprite) must land on a GREEN
-   pixel (standing) or BLUE pixel (sitting pose). YELLOW only for the peeking pose.
-   Pets use the same rules with their paw anchor.
-2. Sample 3 points across the feet (left/center/right) — all must be valid.
-3. Scale the sprite by depth: scale = lerp(minScale, maxScale, y / imageHeight)
-   (e.g. 0.45 at the horizon, 1.0 at the bottom) so far-away friends look smaller.
-4. The sprite's full bounding box must not overlap RED UI safe zones.
-5. Keep a minimum distance between hidden targets (e.g. 150px scaled) and
-   never let two targets overlap each other.
-6. Difficulty: easy = targets in open GREEN, not behind foreground; hard = prefer
-   YELLOW/peek spots and places partially covered by scene_fg.
-7. Draw order sorted by feet Y so characters lower on screen appear in front.
+1. Each zone color needs a matching POSE and, outside the ground zones, matching GEAR:
+     GREEN   → standing/waving/walking, anchor = feet
+     BLUE    → sitting, anchor = feet
+     YELLOW  → peeking, anchor = feet
+     MAGENTA → floating or seated-in-vehicle + sky or space gear, anchor = body center
+     CYAN    → swimming or boat, anchor = waterline point
+     NAVY    → floating + underwater gear, anchor = body center
+   Pets follow the same rules with their paw/center anchor.
+2. Every scene has a zoneRules table (see 5.3) saying which zones are open and
+   which gear each one accepts. A zone that is not listed, or RED/BLACK, is never used.
+3. Scene default gear: a scene can give gear to everyone automatically (space
+   scene → astronaut suit; underwater scene → snorkel; cloud kingdom → balloons).
+   Otherwise, only characters whose outfit already includes the gear can go into
+   that zone (e.g. a kid wearing the Astronauta costume they won with medals).
+4. For foot-anchored zones, sample 3 points across the feet (left/center/right).
+   For AIR/UNDERWATER, sample the 4 corners of the body's box plus its center.
+   All samples must be the same valid zone.
+5. Scale by depth: scale = lerp(minScale, maxScale, y / imageHeight). In AIR,
+   use the scale of the ground directly below if there is one, else the scene's
+   airScale (space scenes usually have no depth, so use one fixed scale).
+6. The sprite's full bounding box must not overlap RED UI safe zones.
+7. Keep a minimum distance between hidden targets (e.g. 150px scaled) and never
+   let two targets overlap each other.
+8. Spread targets out: don't put every target in the air or every target in the
+   water. Respect the scene's maxPerZone.
+9. Difficulty: easy = targets in open GREEN or open AIR, not behind foreground;
+   hard = YELLOW/peek spots, spots partly covered by scene_fg, and among many
+   decoys wearing the same gear.
+10. Draw order is sorted by anchor Y, so characters lower on screen appear in front.
+    Draw the gear layers in this order: GEAR_BACK → character → GEAR_FRONT.
 ```
 
 ### 5.3 Per-scene metadata file (example)
@@ -244,7 +315,33 @@ Placement rules for Peekabook scenes:
     { "x": 0, "y": 0, "w": 3840, "h": 216 },
     { "x": 0, "y": 1987, "w": 3840, "h": 173 }
   ],
+  "zoneRules": {
+    "ground":     { "open": true },
+    "seat":       { "open": true },
+    "peek":       { "open": true },
+    "air":        { "open": true,  "gear": ["balloons", "kite", "umbrella", "cape"], "maxPerZone": 1 },
+    "water":      { "open": true,  "gear": ["swim_ring", "rowboat"], "maxPerZone": 2 },
+    "underwater": { "open": false }
+  },
+  "sceneDefaultGear": null,
   "fillerCrowd": 40,
+  "maxTargets": 6
+}
+```
+
+The same file for a **space** scene. Everyone floats in astronaut suits, and there's no depth:
+```json
+{
+  "id": "outer_space",
+  "size": [3840, 2160],
+  "depthScale": null,
+  "airScale": 0.8,
+  "zoneRules": {
+    "ground": { "open": true },
+    "air":    { "open": true, "gear": ["astronaut_suit", "rocket", "jetpack"], "maxPerZone": 6 }
+  },
+  "sceneDefaultGear": { "air": "astronaut_suit" },
+  "fillerCrowd": 30,
   "maxTargets": 6
 }
 ```
