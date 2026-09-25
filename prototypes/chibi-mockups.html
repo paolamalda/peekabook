@@ -5,8 +5,7 @@
   :root {
     --bg: #F7FAFA; --surface: #FFFFFF; --alt: #EEF3F3; --line: #E1E8E9;
     --ink: #1D2A30; --ink2: #5B6A70; --teal: #0B6E6A; --tealSoft: #D9F2EF;
-    --coral: #FF8F7A; --coralSoft: #FFEEEA;
-    --stage: #E6F3F0; --stage2: #D3EAE4; --ring: #0B6E6A;
+    --stage: #E6F3F0; --stage2: #D3EAE4;
     --display: "Outfit", "Segoe UI", system-ui, sans-serif;
     --body: "Figtree", "Segoe UI", system-ui, sans-serif;
   }
@@ -15,16 +14,14 @@
       color-scheme: dark;
       --bg: #0F1719; --surface: #172226; --alt: #1E2C31; --line: #2A3A40;
       --ink: #E6EEEF; --ink2: #9DB0B5; --teal: #3CCFC3; --tealSoft: #123B39;
-      --coral: #FF9E8C; --coralSoft: #3A2420;
-      --stage: #DCEDE8; --stage2: #C6E2DA; --ring: #3CCFC3;
+      --stage: #DCEDE8; --stage2: #C6E2DA;
     }
   }
   :root[data-theme="dark"] {
     color-scheme: dark;
     --bg: #0F1719; --surface: #172226; --alt: #1E2C31; --line: #2A3A40;
     --ink: #E6EEEF; --ink2: #9DB0B5; --teal: #3CCFC3; --tealSoft: #123B39;
-    --coral: #FF9E8C; --coralSoft: #3A2420;
-    --stage: #DCEDE8; --stage2: #C6E2DA; --ring: #3CCFC3;
+    --stage: #DCEDE8; --stage2: #C6E2DA;
   }
   * { box-sizing: border-box; }
   body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); padding-inline: 16px; padding-block: 20px 56px; }
@@ -33,670 +30,358 @@
   .brand { font: 600 12px/1 var(--body); letter-spacing: .09em; text-transform: uppercase; color: var(--teal); }
   h1 { font: 700 clamp(26px, 4.5vw, 36px)/1.1 var(--display); margin: 0; text-wrap: balance; }
   h2 { font: 600 20px/1.2 var(--display); margin: 0; }
-  h3 { font: 600 13px/1 var(--body); margin: 0; letter-spacing: .07em; text-transform: uppercase; color: var(--ink2); }
   p { margin: 0; }
   .lede { color: var(--ink2); max-width: 70ch; }
-
-  .main { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 20px; align-items: start; }
-  @media (max-width: 820px) { .main { grid-template-columns: 1fr; } }
-
-  .stagecard { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); display: flex; flex-direction: column; gap: 10px; }
-  @media (max-width: 820px) { .stagecard { position: static; } }
-  .stage { background: linear-gradient(var(--stage) 72%, var(--stage2) 72%); border-radius: 22px; aspect-ratio: 300 / 400; max-width: 100%; overflow: hidden; display: grid; place-items: center; border: 1px solid var(--line); }
-  .stage svg { width: 100%; height: 100%; display: block; }
-  .stage.lineart { background: #FFFFFF; }
-  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-  .btn { font: 600 14px var(--body); border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 8px 14px; border-radius: 999px; cursor: pointer; min-height: 38px; }
-  .btn.primary { background: var(--teal); border-color: var(--teal); color: #fff; }
-  :root[data-theme="dark"] .btn.primary { color: #0F1719; }
-  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .btn.primary { color: #0F1719; } }
-  .btn[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
-  .status { font-size: 13px; color: var(--ink2); min-height: 1.3em; }
-
-  .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 6px 18px 18px; display: flex; flex-direction: column; }
-  .tabs { display: flex; flex-wrap: wrap; gap: 4px; padding: 10px 0 12px; border-bottom: 1px solid var(--line); margin-bottom: 14px; }
-  .tab { font: 600 14px var(--body); border: 0; background: transparent; color: var(--ink2); padding: 8px 12px; border-radius: 999px; cursor: pointer; }
-  .tab[aria-selected="true"] { background: var(--tealSoft); color: var(--ink); }
-  .group { display: flex; flex-direction: column; gap: 16px; }
-  .ctl { display: flex; flex-direction: column; gap: 8px; }
-  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
-  .chip { font: 500 14px var(--body); border: 1px solid var(--line); background: var(--bg); color: var(--ink); padding: 6px 12px; border-radius: 999px; cursor: pointer; min-height: 34px; }
-  .chip[aria-pressed="true"] { background: var(--teal); border-color: var(--teal); color: #fff; }
-  :root[data-theme="dark"] .chip[aria-pressed="true"] { color: #0F1719; }
-  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .chip[aria-pressed="true"] { color: #0F1719; } }
-  .sw { width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--line); cursor: pointer; padding: 0; }
-  .sw[aria-pressed="true"] { outline: 3px solid var(--ring); outline-offset: 2px; border-color: var(--surface); }
-  button:focus-visible { outline: 3px solid var(--ring); outline-offset: 2px; }
-  .note { font-size: 13px; color: var(--ink2); }
-
-  .layers { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; }
-  .layer { flex: none; width: 78px; display: flex; flex-direction: column; gap: 4px; align-items: center; }
-  .layer div { width: 78px; height: 104px; border-radius: 12px; border: 1px solid var(--line); background:
-      conic-gradient(#EEF1F1 25%, #FFFFFF 0 50%, #EEF1F1 0 75%, #FFFFFF 0) 0 0 / 14px 14px; }
-  .layer svg { width: 100%; height: 100%; display: block; }
-  .layer span { font-size: 11px; color: var(--ink2); text-align: center; line-height: 1.2; }
-
   .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
   .card { background: var(--surface); border: 1px solid var(--line); border-radius: 22px; overflow: hidden; display: flex; flex-direction: column; }
-  .card .stage { border: 0; border-radius: 0; }
+  .stage { background: linear-gradient(var(--stage) 80%, var(--stage2) 80%); aspect-ratio: 400 / 540; max-width: 100%; }
+  .stage svg { width: 100%; height: 100%; display: block; }
   .info { padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 12px; }
   dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 14px; }
   dt { color: var(--ink2); font-weight: 600; }
   dd { margin: 0; }
   summary { cursor: pointer; font-weight: 600; color: var(--teal); }
-  details .layers { margin-top: 10px; flex-wrap: wrap; overflow: visible; }
+  summary:focus-visible { outline: 3px solid var(--teal); outline-offset: 2px; border-radius: 4px; }
+  .layers { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .layer { width: 78px; display: flex; flex-direction: column; gap: 4px; align-items: center; }
+  .layer div { width: 78px; height: 104px; border-radius: 12px; border: 1px solid var(--line); background: conic-gradient(#EEF1F1 25%, #FFFFFF 0 50%, #EEF1F1 0 75%, #FFFFFF 0) 0 0 / 14px 14px; }
+  .layer svg { width: 100%; height: 100%; display: block; }
+  .layer span { font-size: 11px; color: var(--ink2); text-align: center; line-height: 1.2; }
+  .note { font-size: 13px; color: var(--ink2); }
   code { font-size: 13px; background: var(--alt); padding: 1px 6px; border-radius: 6px; }
-  .cast { background: linear-gradient(var(--stage) 80%, var(--stage2) 80%); border: 1px solid var(--line); border-radius: 22px; overflow-x: auto; }
-  .cast-row { display: flex; align-items: flex-end; min-width: max-content; padding: 8px 12px 0; }
-  .who { border: 0; background: none; padding: 0; cursor: pointer; display: flex; flex-direction: column; align-items: center; border-radius: 14px; }
-  .who svg { width: 128px; height: 200px; display: block; }
-  .who span { font: 600 13px var(--body); color: #1D2A30; padding: 2px 8px 10px; }
-  .who[aria-pressed="true"] span { color: #0B6E6A; text-decoration: underline; text-underline-offset: 3px; }
-  @media (prefers-reduced-motion: no-preference) { .who:hover svg { transform: translateY(-4px); transition: transform .15s; } }
 </style>
-
-<svg width="0" height="0" style="position:absolute" aria-hidden="true">
-  <defs>
-    <filter id="sticker" x="-20%" y="-20%" width="140%" height="140%">
-      <feMorphology in="SourceAlpha" operator="dilate" radius="6" result="grow"/>
-      <feFlood flood-color="#FFFFFF"/>
-      <feComposite in2="grow" operator="in" result="white"/>
-      <feMorphology in="SourceAlpha" operator="dilate" radius="7.5" result="grow2"/>
-      <feFlood flood-color="#4A3228" flood-opacity=".18"/>
-      <feComposite in2="grow2" operator="in" result="edge"/>
-      <feMerge><feMergeNode in="edge"/><feMergeNode in="white"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-</svg>
 
 <div class="wrap">
   <header>
     <span class="brand">Peekabook</span>
     <h1>Three chibi mockups</h1>
-    <p class="lede">Three characters built from your app's options, in the style of your reference images. Under each one you can see the separate layers it is made of: the app swaps these to change hair, clothes, colors and accessories.</p>
+    <p class="lede">Three characters built from your app's options, in the style of your reference images. Open "Show the layers" under each one to see the separate pieces the app swaps to change hair, clothes, colors and accessories.</p>
   </header>
-
   <div class="cards" id="cards"></div>
-  <p class="note">Drawn by hand as layered vector art to test the layer system. The final art will come from the prompts in <code>docs/art-prompts.md</code>.</p>
+  <p class="note">Drawn as layered vector art to test the layer system. The final art will come from the prompts in <code>docs/art-prompts.md</code>.</p>
 </div>
 
 <script>
 (() => {
   const OUT = '#4A3228';
-  const $ = (id) => document.getElementById(id);
   const f = (v) => Math.round(v * 10) / 10;
   const pt = (p) => `${f(p[0])},${f(p[1])}`;
+  const add = (a, b) => [a[0] + b[0], a[1] + b[1]];
+  const sub = (a, b) => [a[0] - b[0], a[1] - b[1]];
+  const mul = (a, k) => [a[0] * k, a[1] * k];
+  const len = (a) => Math.hypot(a[0], a[1]);
+  const norm = (a) => mul(a, 1 / len(a));
+  const rot = (a, deg) => { const r = deg * Math.PI / 180, c = Math.cos(r), s = Math.sin(r); return [a[0] * c - a[1] * s, a[0] * s + a[1] * c]; };
 
-  // ---------- color helpers ----------
   const h2r = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
   const r2h = (r) => '#' + r.map((v) => Math.max(0, Math.min(255, Math.round(v))).toString(16).padStart(2, '0')).join('');
   const mix = (a, b, t) => { const A = h2r(a), B = h2r(b); return r2h(A.map((v, i) => v + (B[i] - v) * t)); };
   const dark = (c, t) => mix(c, '#2A1A14', t);
   const light = (c, t) => mix(c, '#FFFFFF', t);
 
-  // ---------- palettes ----------
-  const SKIN = [['#FFE6D6', 'Porcelain'], ['#F9D3B8', 'Light'], ['#EDBB8F', 'Beige'], ['#D89C6C', 'Tan'], ['#B47449', 'Caramel'], ['#8A5534', 'Brown'], ['#5E3A24', 'Deep brown']];
-  const EYES = [['#6B3F22', 'Brown'], ['#3A2A24', 'Dark brown'], ['#8C6A2F', 'Hazel'], ['#C08A2E', 'Amber'], ['#3E8A5C', 'Green'], ['#3F7CC0', 'Blue'], ['#7C8A96', 'Grey']];
-  const HAIR = [['#2B2426', 'Black'], ['#4B3024', 'Dark brown'], ['#7A4A2E', 'Brown'], ['#A0472C', 'Auburn'], ['#D9793A', 'Ginger'], ['#E6BD6E', 'Blonde'], ['#F1E3BF', 'Platinum'], ['#B9B4AE', 'Grey'], ['#F4F1EC', 'White'], ['#F29BBB', 'Pink'], ['#7FB3E6', 'Blue'], ['#A68BDB', 'Purple']];
-  const CLOTH = [['#E4574F', 'Red'], ['#FF8F7A', 'Coral'], ['#F5A04A', 'Orange'], ['#F6D365', 'Yellow'], ['#8FD6B4', 'Mint'], ['#5BAA6E', 'Green'], ['#3FA7A0', 'Teal'], ['#8CC3EC', 'Sky'], ['#5A7FB5', 'Denim'], ['#2E3F66', 'Navy'], ['#B79DE3', 'Lilac'], ['#F4A6C0', 'Pink'], ['#FAF7F2', 'White'], ['#A7A9AC', 'Grey'], ['#34303A', 'Black'], ['#8A5A3C', 'Brown']];
-  const FRAMES = [['#2B2426', 'Black'], ['#7A4A2E', 'Tortoise'], ['#D8A93B', 'Gold'], ['#E4574F', 'Red'], ['#3F7CC0', 'Blue']];
-  const GOLD = '#E3B341';
-
-  // ---------- geometry ----------
-  const SIZES = { mini: { L: 96, tf: .5, s: .84, al: .82 }, kid: { L: 130, tf: .46, s: .92, al: .9 }, mid: { L: 165, tf: .45, s: 1, al: .92 }, adult: { L: 205, tf: .44, s: 1.15, al: .92 }, tall: { L: 240, tf: .44, s: 1.22, al: .92 } };
-  const BODY = { slim: { sw: 52, hw: 48, b: 0, aw: 14, lw: 16, ang: 14 }, regular: { sw: 60, hw: 58, b: 3, aw: 16, lw: 19, ang: 16 }, round: { sw: 68, hw: 74, b: 11, aw: 19, lw: 23, ang: 24 } };
-
-  function geo(c) {
-    const sz = SIZES[c.size], bt = BODY[c.body];
-    const cx = 150, ground = 452, L = sz.L, T = L * sz.tf, legLen = L - T;
-    const neckY = ground - L, hipY = neckY + T, hc = neckY - 50, s = sz.s, r = Math.sqrt(s);
-    const sw = bt.sw * s, hw = bt.hw * s, b = bt.b * s, aw = bt.aw * r, lw = bt.lw * r;
-    const legX = hw / 2 - lw / 2 - 1;
-    const a = bt.ang * Math.PI / 180, armLen = T * sz.al + 4;
-    const S = [[cx - (sw / 2 - aw * .4), neckY + aw * .7], [cx + (sw / 2 - aw * .4), neckY + aw * .7]];
-    const dir = [[-Math.sin(a), Math.cos(a)], [Math.sin(a), Math.cos(a)]];
-    const H = S.map((p, i) => [p[0] + dir[i][0] * armLen, p[1] + dir[i][1] * armLen]);
-    return { cx, ground, L, T, legLen, neckY, hipY, hc, s, sw, hw, b, aw, lw, legX, armLen, S, dir, H, waistY: hipY - T * .22 };
-  }
-
-  // ---------- drawing primitives (LINE = coloring-page mode) ----------
-  let LINE = false;
-  const F = (c) => (LINE ? '#FFFFFF' : c);
-  const P = (d, fill, sw = 3, extra = '') => `<path d="${d}" fill="${fill === 'none' ? 'none' : F(fill)}" stroke="${OUT}" stroke-width="${sw}" stroke-linejoin="round" stroke-linecap="round" ${extra}/>`;
-  const PF = (d, fill, extra = '') => (LINE ? '' : `<path d="${d}" fill="${fill}" ${extra}/>`);
-  const E = (x, y, rx, ry, fill, sw = 3, extra = '') => `<ellipse cx="${f(x)}" cy="${f(y)}" rx="${f(rx)}" ry="${f(ry)}" fill="${fill === 'none' ? 'none' : F(fill)}" stroke="${sw ? OUT : 'none'}" stroke-width="${sw}" ${extra}/>`;
-  const EF = (x, y, rx, ry, fill, extra = '') => (LINE ? '' : `<ellipse cx="${f(x)}" cy="${f(y)}" rx="${f(rx)}" ry="${f(ry)}" fill="${fill}" ${extra}/>`);
-  const limb = (a, b, w, fill, cap = 'round') => `<line x1="${f(a[0])}" y1="${f(a[1])}" x2="${f(b[0])}" y2="${f(b[1])}" stroke="${OUT}" stroke-width="${f(w + 5)}" stroke-linecap="${cap}"/><line x1="${f(a[0])}" y1="${f(a[1])}" x2="${f(b[0])}" y2="${f(b[1])}" stroke="${F(fill)}" stroke-width="${f(w)}" stroke-linecap="${cap}"/>`;
-  const line = (d, w = 2, col = OUT, extra = '') => `<path d="${d}" fill="none" stroke="${col}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round" ${extra}/>`;
-  const along = (p, d, t) => [p[0] + d[0] * t, p[1] + d[1] * t];
-
-  // closed Catmull-Rom through points; points flagged [x,y,true] stay sharp (lock tips)
-  function smoothPath(pts) {
+  // ---------- path helpers ----------
+  // closed smooth shape; points flagged [x, y, true] stay sharp (hair tips)
+  function shape(pts) {
     const n = pts.length; let d = `M${pt(pts[0])}`;
     for (let i = 0; i < n; i++) {
       const p0 = pts[(i - 1 + n) % n], p1 = pts[i], p2 = pts[(i + 1) % n], p3 = pts[(i + 2) % n];
-      const c1 = p1[2] ? p1 : [p1[0] + (p2[0] - p0[0]) / 6, p1[1] + (p2[1] - p0[1]) / 6];
-      const c2 = p2[2] ? p2 : [p2[0] - (p3[0] - p1[0]) / 6, p2[1] - (p3[1] - p1[1]) / 6];
+      const c1 = p1[2] ? p1 : add(p1, mul(sub(p2, p0), 1 / 6));
+      const c2 = p2[2] ? p2 : sub(p2, mul(sub(p3, p1), 1 / 6));
       d += ` C${pt(c1)} ${pt(c2)} ${pt(p2)}`;
     }
     return d + 'Z';
   }
-  // curly: resample the outline and bulge each step outward (outline must run clockwise)
-  function curlyPath(pts, step = 13) {
-    const out = [pts[0]]; let acc = 0;
-    for (let i = 0; i < pts.length; i++) {
-      const a = pts[i], b = pts[(i + 1) % pts.length];
-      const len = Math.hypot(b[0] - a[0], b[1] - a[1]); let t = step - acc;
-      while (t <= len) { out.push([a[0] + (b[0] - a[0]) * t / len, a[1] + (b[1] - a[1]) * t / len]); t += step; }
-      acc = (acc + len) % step;
+  function curve(pts) {
+    let d = `M${pt(pts[0])}`;
+    for (let i = 0; i < pts.length - 1; i++) {
+      const p0 = pts[Math.max(0, i - 1)], p1 = pts[i], p2 = pts[i + 1], p3 = pts[Math.min(pts.length - 1, i + 2)];
+      d += ` C${pt(add(p1, mul(sub(p2, p0), 1 / 6)))} ${pt(sub(p2, mul(sub(p3, p1), 1 / 6)))} ${pt(p2)}`;
     }
-    let d = `M${pt(out[0])}`;
-    for (let i = 1; i <= out.length; i++) {
-      const p = out[i % out.length], q = out[i - 1]; const r = Math.hypot(p[0] - q[0], p[1] - q[1]) * .62;
-      d += ` A${f(r)} ${f(r)} 0 0 1 ${pt(p)}`;
-    }
-    return d + 'Z';
+    return d;
   }
-  const arc = (cx, cy, rx, ry, a0, a1, n) => Array.from({ length: n + 1 }, (_, i) => { const t = (a0 + (a1 - a0) * i / n) * Math.PI / 180; return [cx + rx * Math.cos(t), cy + ry * Math.sin(t)]; });
-  const shape = (pts, mode) => (mode === 'curly' || mode === 'coily' ? curlyPath(pts.map((p) => [p[0], p[1]])) : smoothPath(pts));
+  const arc = (c, rx, ry, a0, a1, n) => Array.from({ length: n + 1 }, (_, i) => { const t = (a0 + (a1 - a0) * i / n) * Math.PI / 180; return [c[0] + rx * Math.cos(t), c[1] + ry * Math.sin(t)]; });
+  const P = (d, fill, w = 3, extra = '') => `<path d="${d}" fill="${fill}" stroke="${OUT}" stroke-width="${w}" stroke-linejoin="round" stroke-linecap="round" ${extra}/>`;
+  const S = (d, w, col = OUT, extra = '') => `<path d="${d}" fill="none" stroke="${col}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round" ${extra}/>`;
+  const C = (c, r, fill, w = 2.5) => `<circle cx="${f(c[0])}" cy="${f(c[1])}" r="${f(r)}" fill="${fill}" ${w ? `stroke="${OUT}" stroke-width="${w}"` : ''}/>`;
+  const limb = (pts, w, fill, cap = 'round') => `<path d="${curve(pts)}" fill="none" stroke="${OUT}" stroke-width="${f(w + 5.5)}" stroke-linecap="${cap}" stroke-linejoin="round"/><path d="${curve(pts)}" fill="none" stroke="${fill}" stroke-width="${f(w)}" stroke-linecap="${cap}" stroke-linejoin="round"/>`;
+  function partial(pts, t0, t1) {
+    const segs = pts.slice(1).map((p, i) => len(sub(p, pts[i]))), total = segs.reduce((a, b) => a + b, 0);
+    const at = (t) => { let d = t * total; for (let i = 0; i < segs.length; i++) { if (d <= segs[i] || i === segs.length - 1) return add(pts[i], mul(sub(pts[i + 1], pts[i]), Math.min(1, d / segs[i]))); d -= segs[i]; } };
+    const out = [at(t0)]; let acc = 0;
+    for (let i = 0; i < segs.length; i++) { acc += segs[i]; const t = acc / total; if (t > t0 && t < t1) out.push(pts[i + 1]); }
+    out.push(at(t1)); return out;
+  }
+  // flat cel shade: one darker tone on the lower-right edge of a shape (light comes from the top left)
+  let MID = 0;
+  function shaded(d, fill, dx = -9, dy = -6, t = .15) {
+    const id = `sh${MID++}`;
+    return `${P(d, fill)}<mask id="${id}" maskUnits="userSpaceOnUse" x="-400" y="-400" width="1200" height="1400"><rect x="-400" y="-400" width="1200" height="1400" fill="#fff"/><path d="${d}" transform="translate(${dx},${dy})" fill="#000"/></mask><path d="${d}" fill="${dark(fill, t)}" mask="url(#${id})"/>${S(d, 3)}`;
+  }
+  const lens = (c, u, l, w, fill) => { const n = [-u[1], u[0]], a = add(c, mul(u, -l / 2)), b = add(c, mul(u, l / 2)); return `<path d="M${pt(a)} Q${pt(add(c, mul(n, w)))} ${pt(b)} Q${pt(add(c, mul(n, -w)))} ${pt(a)}Z" fill="${fill}"/>`; };
 
-  // ---------- hair ----------
-  const LONGS = ['chin', 'shoulder', 'long', 'xlong'];
-  function hairEnd(g, len) {
-    return { short: g.hc + 20, chin: g.hc + 50, shoulder: g.neckY + 24, long: g.neckY + g.T * .78, xlong: g.hipY + 14 }[len] ?? g.hc + 20;
-  }
-  function hairBack(c, g) {
-    const { cx, hc } = g, h = c.hair, mode = h.type, col = dark(h.color, .18);
-    if (['bald', 'balding', 'buzz'].includes(h.length)) return '';
-    let out = '';
-    const tied = ['ponytail', 'pigtails', 'bun', 'braids'].includes(h.style);
-    const len = tied ? 'short' : h.length;
-    if (mode === 'coily' && !tied) {
-      const k = { short: -8, chin: 6, shoulder: 16, long: 24, xlong: 30 }[len] ?? 0;
-      const cy = hc - 6 + Math.max(0, k) * .6;
-      out += P(curlyPath(arc(cx, cy, 82 + k, 76 + k, 0, 359, 60)), col);
-      return out;
-    }
-    const vol = mode === 'curly' ? 9 : mode === 'coily' ? 12 : 0;
-    const R = 71 + vol, Ry = 66 + vol, cy = hc - 4, end = hairEnd(g, len);
-    const Wb = len === 'chin' ? R - 4 : len === 'short' ? R - 6 : Math.max(R + 2, g.sw / 2 + 16);
-    const pts = arc(cx, cy, R, Ry, 180, 360, 14);
-    const wav = mode === 'wavy' ? 6 : 0, n = 4;
-    const side = (sgn) => Array.from({ length: n }, (_, i) => { const t = (i + 1) / (n + 1); return [cx + sgn * (R + (Wb - R) * t + (i % 2 ? wav : -wav)), cy + (end - 10 - cy) * t]; });
-    pts.push(...side(1));
-    const locks = len === 'short' ? 0 : mode === 'straight' ? 5 : 4;
-    if (locks) {
-      for (let i = 0; i <= locks * 2; i++) {
-        const x = cx + Wb - (2 * Wb) * i / (locks * 2);
-        const tip = i % 2 === 1;
-        pts.push([x, tip ? end : end - (mode === 'wavy' ? 10 : 15), tip && mode === 'straight']);
-      }
-    } else pts.push([cx + Wb, end], [cx - Wb, end]);
-    pts.push(...side(-1).reverse());
-    out += P(shape(pts, mode), col);
-    return out;
-  }
-  function tails(c, g) {
-    // ponytail, pigtails, bun: drawn behind the head
-    const { cx, hc } = g, h = c.hair, mode = h.type, col = dark(h.color, .12);
-    if (['bald', 'balding', 'buzz'].includes(h.length)) return '';
-    const endFor = { short: hc + 40, chin: hc + 46, shoulder: g.neckY + 16, long: g.neckY + g.T * .6, xlong: g.hipY }[h.length];
-    const tie = '#E86F8A';
-    let out = '';
-    const tail = (sgn, top, end) => {
-      const x = (v) => cx + sgn * v;
-      const mid = (top + end) / 2;
-      const pts = sgn > 0
-        ? [[x(44), top - 22], [x(76), top - 12], [x(96), top + 20], [x(99), mid], [x(92), end - 10], [x(84), end, mode === 'straight'], [x(74), end - 16], [x(76), mid], [x(70), top + 18], [x(50), top - 2]]
-        : [[x(50), top - 2], [x(70), top + 18], [x(76), mid], [x(74), end - 16], [x(84), end, mode === 'straight'], [x(92), end - 10], [x(99), mid], [x(96), top + 20], [x(76), top - 12], [x(44), top - 22]];
-      return P(shape(pts, mode), col);
+  // ---------- rig ----------
+  function rig(p) {
+    const cx = 200, ground = 512, L = p.L, T = L * p.tf, Lg = L - T;
+    const N = [cx, ground - L], hy = N[1] - 58, hipY = N[1] + T;
+    const { sw, hw, aw, lw } = p;
+    const SL = [cx - sw / 2 + aw * .5, N[1] + aw * .55 + 2], SR = [cx + sw / 2 - aw * .5, N[1] + aw * .55 - 2];
+    const ua = T * .5, fa = T * .46;
+    const arm = (Sh, s, pose) => {
+      let E, H;
+      if (pose === 'down') { E = add(Sh, [s * ua * .38, ua * .93]); H = add(E, [s * fa * .22, fa * .97]); }
+      else if (pose === 'wave') { E = add(Sh, [s * ua * .95, ua * .28]); H = add(E, [s * fa * .45, -fa * .9]); }
+      else if (pose === 'hip') { E = add(Sh, [s * ua * .88, ua * .5]); H = add(E, [-s * fa * .7, fa * .72]); }
+      else { E = add(Sh, [s * ua * .62, -ua * .78]); H = add(E, [s * fa * .14, -fa * .99]); }
+      return { S: Sh, E, H, s, pose, pts: [Sh, E, H], u: norm(sub(H, E)) };
     };
-    if (h.style === 'ponytail') {
-      out += tail(1, hc - 32, endFor);
-      out += E(cx + 56, hc - 46, 8, 8, tie, 2.5);
-    } else if (h.style === 'pigtails') {
-      out += tail(1, hc - 10, endFor) + tail(-1, hc - 10, endFor);
-      out += E(cx + 64, hc - 22, 7, 7, tie, 2.5) + E(cx - 64, hc - 22, 7, 7, tie, 2.5);
-    } else if (h.style === 'bun') {
-      const r = mode === 'coily' ? 32 : 25;
-      out += P(mode === 'coily' || mode === 'curly' ? curlyPath(arc(cx, hc - 74, r, r, 0, 359, 40)) : smoothPath(arc(cx, hc - 74, r, r * .92, 0, 359, 16).slice(0, -1)), col);
-      if (!(mode === 'coily' || mode === 'curly')) out += line(`M${f(cx - 14)},${f(hc - 82)} Q${f(cx)},${f(hc - 92)} ${f(cx + 12)},${f(hc - 80)}`, 2, OUT);
-    }
-    return out;
-  }
-  function braids(c, g) {
-    const { cx, hc } = g, h = c.hair;
-    if (h.style !== 'braids' || ['bald', 'balding', 'buzz'].includes(h.length)) return '';
-    const end = { short: hc + 76, chin: hc + 80, shoulder: g.neckY + 34, long: g.neckY + g.T * .7, xlong: g.hipY + 8 }[h.length];
-    let out = '';
-    for (const sgn of [-1, 1]) {
-      const x0 = cx + sgn * 52;
-      for (let y = hc + 26, i = 0; y < end; y += 13, i++) out += E(x0 + sgn * Math.min(10, (y - hc - 26) * .12) + (i % 2 ? 2 : -2), y, 11, 9, h.color, 2.5);
-      const xe = x0 + sgn * 10;
-      out += E(xe, end + 2, 7, 5, '#E86F8A', 2.5);
-      out += P(`M${f(xe - 7)},${f(end + 5)} L${f(xe)},${f(end + 20)} L${f(xe + 7)},${f(end + 5)} Z`, h.color, 2.5);
-    }
-    return out;
-  }
-  function bangsEdge(g, kind) {
-    const { cx, hc } = g; const pts = [];
-    if (kind === 'fringe') {
-      const n = 5;
-      for (let i = 0; i <= n * 2; i++) { const x = cx + 50 - 100 * i / (n * 2); const tip = i % 2 === 1; pts.push([x, tip ? hc - 6 : (i === 0 || i === n * 2 ? hc - 12 : hc - 26), tip]); }
-    } else if (kind === 'side') {
-      pts.push([cx + 50, hc - 10, true], [cx + 36, hc - 34], [cx + 22, hc - 16, true], [cx + 8, hc - 36], [cx - 12, hc - 12, true], [cx - 22, hc - 30], [cx - 40, hc - 4, true], [cx - 46, hc - 18]);
-    } else if (kind === 'part') {
-      pts.push([cx + 50, hc - 4, true], [cx + 34, hc - 22], [cx + 14, hc - 40], [cx, hc - 46, true], [cx - 14, hc - 40], [cx - 34, hc - 22], [cx - 50, hc - 4, true]);
-    } else {
-      pts.push([cx + 50, hc - 26], [cx + 26, hc - 40], [cx, hc - 44], [cx - 26, hc - 40], [cx - 50, hc - 26]);
-    }
-    return pts;
-  }
-  function hairFront(c, g) {
-    const { cx, hc } = g, h = c.hair, mode = h.type, col = h.color;
-    if (h.length === 'bald') return '';
-    if (h.length === 'balding') {
-      const side = (s) => smoothPath([[cx + s * 58, hc - 26], [cx + s * 67, hc - 8], [cx + s * 66, hc + 14, true], [cx + s * 56, hc + 4], [cx + s * 54, hc - 14]].map((p) => p).sort(() => 0));
-      return P(side(-1), col) + P(side(1), col);
-    }
-    if (h.length === 'buzz') {
-      const pts = [...arc(cx, hc, 63, 58, 180, 360, 16), [cx + 60, hc + 2], [cx + 46, hc - 28], [cx, hc - 36], [cx - 46, hc - 28], [cx - 60, hc + 2]];
-      return P(smoothPath(pts), col, 2.5, LINE ? '' : 'fill-opacity=".92"');
-    }
-    const long = LONGS.includes(h.length) && h.style !== 'ponytail' && h.style !== 'bun';
-    const vol = mode === 'curly' ? 6 : mode === 'coily' ? 10 : 0;
-    const R = 68 + vol, Ry = 64 + vol, cy = hc - 4;
-    const sideEnd = long ? hc + 36 : hc + 8;
-    const bangs = mode === 'coily' ? 'none' : h.bangs;
-    const pts = [[cx - R + 5, sideEnd, mode === 'straight'], ...arc(cx, cy, R, Ry, 180, 360, 16).slice(0, 17), [cx + R - 5, sideEnd, mode === 'straight'], [cx + R - 16, sideEnd - 20], [cx + 52, hc - 6]];
-    pts.push(...bangsEdge(g, bangs));
-    pts.push([cx - 52, hc - 6], [cx - R + 16, sideEnd - 20]);
-    let out = P(shape(pts, mode), col);
-    if (!LINE && mode !== 'coily') out += line(`M${f(cx - 42)},${f(hc - 42)} Q${f(cx - 6)},${f(hc - 66)} ${f(cx + 36)},${f(hc - 50)}`, 5, light(col, .38), 'stroke-dasharray="16 7"');
-    if (c.acc.hat === 'none' || c.acc.hat === 'bow' || c.acc.hat === 'headband' || c.acc.hat === 'crown') {
-      if (mode !== 'coily' && h.style !== 'bun') out += P(`M${f(cx + 2)},${f(hc - 66)} Q${f(cx + 10)},${f(hc - 92)} ${f(cx + 26)},${f(hc - 86)} Q${f(cx + 14)},${f(hc - 82)} ${f(cx + 10)},${f(hc - 64)} Z`, col, 2.5);
-    }
-    return out;
-  }
-
-  // ---------- face ----------
-  function face(c, g) {
-    const { cx, hc } = g; let out = '';
-    const ey = hc + 14, my = hc + 36 + (c.mustache !== 'none' ? 3 : 0);
-    out += EF(cx - 40, hc + 30, 10, 6, '#F29A9A', 'opacity=".55"') + EF(cx + 40, hc + 30, 10, 6, '#F29A9A', 'opacity=".55"');
-    if (c.freckles) for (const s of [-1, 1]) for (const [dx, dy] of [[-6, -2], [2, -5], [6, 2], [-2, 4]]) out += `<circle cx="${f(cx + s * 38 + dx)}" cy="${f(hc + 25 + dy)}" r="1.6" fill="${LINE ? OUT : dark(c.skin, .38)}"/>`;
-    const eye = (ex) => {
-      if (c.expr === 'happy') return line(`M${f(ex - 11)},${f(ey + 3)} Q${f(ex)},${f(ey - 10)} ${f(ex + 11)},${f(ey + 3)}`, 3.5);
-      let e = E(ex, ey, 12, 14.5, c.eyes, 2.5);
-      if (!LINE) e += EF(ex, ey + 6, 8.5, 6.5, light(c.eyes, .38)) + EF(ex, ey - 1, 6.5, 8, dark(c.eyes, .55));
-      e += line(`M${f(ex - 13)},${f(ey - 9)} Q${f(ex)},${f(ey - 20)} ${f(ex + 13)},${f(ey - 9)}`, 4.5);
-      e += line(`M${f(ex + (ex > cx ? 12 : -12))},${f(ey - 10)} l${ex > cx ? 5 : -5},-4`, 2.5);
-      if (!LINE) e += `<circle cx="${f(ex - 4)}" cy="${f(ey - 5)}" r="4" fill="#fff"/><circle cx="${f(ex + 4)}" cy="${f(ey + 5)}" r="2" fill="#fff"/>`;
-      return e;
+    const HipL = [cx - hw * .24, hipY - 8], HipR = [cx + hw * .24, hipY - 8];
+    return {
+      p, cx, ground, L, T, Lg, N, hy, hipY, sw, hw, aw, lw, waistY: hipY - T * .22,
+      arms: [arm(SL, -1, p.poseL), arm(SR, 1, p.poseR)],
+      legs: [
+        { s: -1, pts: [HipL, [HipL[0] - 3, hipY + Lg * .48], [HipL[0] - 8, ground - 13]] },
+        { s: 1, pts: [HipR, [HipR[0] + 6, hipY + Lg * .46], [HipR[0] + 14, ground - 10]] },
+      ],
     };
-    out += eye(cx - 25) + eye(cx + 25);
-    if (c.expr === 'grin') out += P(`M${f(cx - 8)},${f(my - 2)} Q${f(cx)},${f(my + 13)} ${f(cx + 8)},${f(my - 2)} Z`, '#8C3A3A', 2.5) + EF(cx, my + 5, 4, 2.5, '#F28C8C');
-    else if (c.expr === 'cat') out += line(`M${f(cx - 7)},${f(my)} Q${f(cx - 3.5)},${f(my + 5)} ${f(cx)},${f(my)} Q${f(cx + 3.5)},${f(my + 5)} ${f(cx + 7)},${f(my)}`, 2.5);
-    else out += line(`M${f(cx - 6)},${f(my)} Q${f(cx)},${f(my + 6)} ${f(cx + 6)},${f(my)}`, 2.5);
-    return out;
-  }
-  function facialHair(c, g) {
-    const { cx, hc } = g, col = c.hair.length === 'bald' && c.hair.color === '#F4F1EC' ? '#E9E4DC' : c.hair.color;
-    const my = hc + 39; let out = '';
-    const jaw = (bottom, inner) => `M${f(cx - 57)},${f(hc + 24)} C${f(cx - 54)},${f(hc + bottom - 8)} ${f(cx - 30)},${f(hc + bottom)} ${f(cx)},${f(hc + bottom)} C${f(cx + 30)},${f(hc + bottom)} ${f(cx + 54)},${f(hc + bottom - 8)} ${f(cx + 57)},${f(hc + 24)} C${f(cx + 46)},${f(hc + 40)} ${f(cx + 24)},${f(hc + inner)} ${f(cx)},${f(hc + inner)} C${f(cx - 24)},${f(hc + inner)} ${f(cx - 46)},${f(hc + 40)} ${f(cx - 57)},${f(hc + 24)} Z`;
-    if (c.beard === 'stubble') out += PF(jaw(62, 46), col, 'opacity=".32"');
-    else if (c.beard === 'short') out += P(jaw(66, 48), col, 2.5);
-    else if (c.beard === 'full') out += P(curlyPath([...arc(cx, hc + 8, 62, 1, 180, 180, 0), [cx - 60, hc + 40], [cx - 40, hc + 80], [cx, hc + 90], [cx + 40, hc + 80], [cx + 60, hc + 40], [cx + 62, hc + 8], [cx + 40, hc + 34], [cx + 14, hc + 48], [cx - 14, hc + 48], [cx - 40, hc + 34]], 12), col, 2.5);
-    else if (c.beard === 'goatee') out += P(`M${f(cx - 12)},${f(my + 8)} Q${f(cx)},${f(my + 4)} ${f(cx + 12)},${f(my + 8)} Q${f(cx + 10)},${f(my + 24)} ${f(cx)},${f(my + 26)} Q${f(cx - 10)},${f(my + 24)} ${f(cx - 12)},${f(my + 8)} Z`, col, 2.5);
-    if (c.mustache === 'classic') out += P(`M${f(cx)},${f(my - 7)} C${f(cx - 6)},${f(my - 11)} ${f(cx - 17)},${f(my - 10)} ${f(cx - 19)},${f(my - 1)} C${f(cx - 12)},${f(my - 4)} ${f(cx - 5)},${f(my - 3)} ${f(cx)},${f(my - 4)} C${f(cx + 5)},${f(my - 3)} ${f(cx + 12)},${f(my - 4)} ${f(cx + 19)},${f(my - 1)} C${f(cx + 17)},${f(my - 10)} ${f(cx + 6)},${f(my - 11)} ${f(cx)},${f(my - 7)} Z`, col, 2.2);
-    else if (c.mustache === 'handlebar') out += P(`M${f(cx)},${f(my - 7)} C${f(cx - 8)},${f(my - 11)} ${f(cx - 18)},${f(my - 6)} ${f(cx - 22)},${f(my - 4)} C${f(cx - 27)},${f(my - 3)} ${f(cx - 28)},${f(my - 10)} ${f(cx - 24)},${f(my - 12)} C${f(cx - 26)},${f(my - 7)} ${f(cx - 22)},${f(my - 6)} ${f(cx - 18)},${f(my - 9)} C${f(cx - 12)},${f(my - 12)} ${f(cx - 4)},${f(my - 13)} ${f(cx)},${f(my - 10)} C${f(cx + 4)},${f(my - 13)} ${f(cx + 12)},${f(my - 12)} ${f(cx + 18)},${f(my - 9)} C${f(cx + 22)},${f(my - 6)} ${f(cx + 26)},${f(my - 7)} ${f(cx + 24)},${f(my - 12)} C${f(cx + 28)},${f(my - 10)} ${f(cx + 27)},${f(my - 3)} ${f(cx + 22)},${f(my - 4)} C${f(cx + 18)},${f(my - 6)} ${f(cx + 8)},${f(my - 11)} ${f(cx)},${f(my - 7)} Z`, col, 2);
-    else if (c.mustache === 'thin') out += line(`M${f(cx - 14)},${f(my - 4)} Q${f(cx)},${f(my - 9)} ${f(cx + 14)},${f(my - 4)}`, 3.5, LINE ? OUT : col);
-    else if (c.mustache === 'walrus') out += P(curlyPath([[cx - 22, my - 12], [cx, my - 15], [cx + 22, my - 12], [cx + 24, my + 2], [cx + 12, my + 4], [cx, my + 2], [cx - 12, my + 4], [cx - 24, my + 2]], 8), col, 2.2);
-    return out;
   }
 
-  // ---------- clothes ----------
-  function torsoPath(g, { e = 0, top = g.neckY, bot = g.hipY } = {}) {
-    const { cx, sw, hw, b } = g, T = bot - top, l = cx - sw / 2 - e, r = cx + sw / 2 + e, hl = cx - hw / 2 - e, hr = cx + hw / 2 + e, k = Math.min(12, sw / 4);
-    return `M${f(l + k)},${f(top)} L${f(r - k)},${f(top)} Q${f(r)},${f(top)} ${f(r)},${f(top + k)} C${f(r + b)},${f(top + T * .45)} ${f(hr + b)},${f(bot - 10)} ${f(hr)},${f(bot - 3)} Q${f(hr)},${f(bot)} ${f(hr - 6)},${f(bot)} L${f(hl + 6)},${f(bot)} Q${f(hl)},${f(bot)} ${f(hl)},${f(bot - 3)} C${f(hl - b)},${f(bot - 10)} ${f(l - b)},${f(top + T * .45)} ${f(l)},${f(top + k)} Q${f(l)},${f(top)} ${f(l + k)},${f(top)} Z`;
+  // ---------- body ----------
+  function torsoPath(g, { e = 0, top = g.N[1] + 2, bot = g.hipY, flare = 0 } = {}) {
+    const { cx, sw, hw } = g, H = bot - top;
+    return shape([[cx - sw / 2 + 12 - e, top], [cx + sw / 2 - 12 + e, top], [cx + sw / 2 + e, top + 12], [cx + sw * .43 + e, top + H * .55], [cx + hw / 2 + e + flare, bot - 5], [cx + hw / 2 + e + flare - 8, bot], [cx - hw / 2 - e - flare + 8, bot], [cx - hw / 2 - e - flare, bot - 5], [cx - sw * .43 - e, top + H * .55], [cx - sw / 2 - e, top + 12]]);
   }
-  const SLEEVE = { tee: .36, longsleeve: 1, tank: 0, shirt: 1, hoodie: 1, sweater: 1, jacket: 1, labcoat: 1, suit: 1, dress: .28 };
-  function sleeves(c, g) {
-    const frac = SLEEVE[c.top]; if (!frac) return '';
-    const col = c.top === 'labcoat' ? c.topColor : c.topColor;
-    let out = '';
-    for (let i = 0; i < 2; i++) {
-      const s = g.S[i], d = g.dir[i], e = along(s, d, g.armLen * frac - (frac === 1 ? 2 : 0));
-      out += limb(along(s, d, -2), e, g.aw + (c.top === 'dress' ? 9 : 5), col, frac === 1 ? 'butt' : 'round');
-      if (frac === 1 && !LINE) { const e2 = along(s, d, g.armLen - 8); out += `<line x1="${f(e2[0])}" y1="${f(e2[1])}" x2="${f(e[0])}" y2="${f(e[1])}" stroke="${dark(col, .12)}" stroke-width="${f(g.aw + 5)}"/>`; }
-      if (frac === 1) { const n = [-d[1], d[0]], w = (g.aw + 5) / 2 + 2.5; out += line(`M${pt([e[0] + n[0] * w, e[1] + n[1] * w])} L${pt([e[0] - n[0] * w, e[1] - n[1] * w])}`, 3); }
+  function hand(g, a, skin) {
+    const r = g.aw * .66, u = a.u, a0 = Math.atan2(u[1], u[0]) * 180 / Math.PI;
+    const dirAt = (deg) => [Math.cos(deg * Math.PI / 180), Math.sin(deg * Math.PI / 180)];
+    const c = add(a.H, mul(u, r * .45));
+    let outline = '', fill = '';
+    const seg = (p0, p1, w) => { outline += S(`M${pt(p0)} L${pt(p1)}`, w + 5.5); fill += S(`M${pt(p0)} L${pt(p1)}`, w, skin); };
+    if (a.pose === 'wave') {
+      const spread = 1, thumbSide = -a.s;
+      [-40, -14, 12, 36].forEach((d, i) => { const dd = dirAt(a0 + d * spread); seg(add(c, mul(dd, r * .3)), add(c, mul(dd, r * (i === 1 || i === 2 ? 1.8 : 1.5))), r * .52); });
+      const td = dirAt(a0 + thumbSide * 78); seg(add(c, mul(td, r * .2)), add(c, mul(td, r * 1.15)), r * .55);
+      outline += C(c, r + 2.75, OUT, 0); fill += C(c, r, skin, 0);
+      return outline + fill + S(`M${pt(add(c, mul(dirAt(a0 - 12 * spread), r * .75)))} L${pt(add(c, mul(dirAt(a0 - 12 * spread), r * 1.1)))}`, 1.4, dark(skin, .35));
     }
-    return out;
-  }
-  function topBody(c, g) {
-    const { cx, neckY, hipY, T, sw, hw } = g, col = c.topColor, sh = dark(col, .12);
-    const hem = { tee: hipY - T * .04, longsleeve: hipY - T * .04, tank: hipY - T * .04, shirt: hipY - T * .02, hoodie: hipY + 2, sweater: hipY, jacket: hipY + 2, labcoat: hipY, suit: hipY + 4, dress: hipY - T * .12 }[c.top];
-    let out = '';
-    if (c.top === 'tank') {
-      out += P(torsoPath(g, { top: neckY + 12, bot: hem, e: -1 }), col);
-      for (const s of [-1, 1]) out += limb([cx + s * sw * .26, neckY + 2], [cx + s * sw * .26, neckY + 14], 4, col);
-      return out;
+    if (a.pose === 'hip' || a.pose === 'down') {
+      const td = dirAt(a0 + (a.pose === 'down' ? a.s : -a.s) * 70); seg(add(c, mul(td, r * .2)), add(c, mul(td, r * 1.05)), r * .55);
+      outline += C(c, r + 2.75, OUT, 0); fill += C(c, r, skin, 0);
+      return outline + fill;
     }
-    if (c.top === 'labcoat') {
-      const bot = hipY + g.legLen * .44, inner = '#CFE3F2';
-      out += P(torsoPath(g, { bot: hipY - T * .04 }), inner);
-      out += line(`M${f(cx)},${f(neckY + 16)} L${f(cx)},${f(hipY - 10)}`, 2);
-      const l = cx - sw / 2, hl = cx - hw / 2 - 10 - g.b, k = Math.min(12, sw / 4);
-      for (const s of [-1, 1]) {
-        const X = (v) => cx + s * (v - cx) * -1;
-        const pts = [[l + k, neckY], [cx - sw * .14, neckY], [cx - sw * .2, hipY - T * .35], [cx - 4, hipY - 2], [cx - 6, bot], [hl - 6, bot], [l - g.b, neckY + T * .5], [l, neckY + k]];
-        const d = pts.map((p, i) => `${i ? 'L' : 'M'}${pt(s < 0 ? p : [2 * cx - p[0], p[1]])}`).join(' ') + 'Z';
-        out += P(d, col);
-      }
-      out += P(`M${f(cx - sw * .38)},${f(neckY + T * .32)} h${f(sw * .2)} v${f(T * .16)} h${f(-sw * .2)} Z`, col, 2);
-      out += limb([cx - sw * .31, neckY + T * .27], [cx - sw * .31, neckY + T * .38], 2.5, '#3F7CC0', 'round');
-      return out;
-    }
-    if (c.top === 'dress') {
-      const waist = hem, bot = hipY + g.legLen * .44;
-      out += P(`M${f(cx - hw / 2 - 2 - g.b * .6)},${f(waist - 2)} L${f(cx + hw / 2 + 2 + g.b * .6)},${f(waist - 2)} L${f(cx + hw / 2 + 24 + g.b)},${f(bot)} Q${f(cx)},${f(bot + 12)} ${f(cx - hw / 2 - 24 - g.b)},${f(bot)} Z`, col);
-      if (!LINE) for (const x of [-.3, 0, .3]) out += line(`M${f(cx + x * hw * .6)},${f(waist + 10)} L${f(cx + x * hw * 1.1)},${f(bot - 2)}`, 2.5, sh);
-      out += P(torsoPath(g, { bot: waist }), col);
-      out += line(`M${f(cx - hw / 2 - 2)},${f(waist - 4)} L${f(cx + hw / 2 + 2)},${f(waist - 4)}`, 4, LINE ? OUT : dark(col, .25));
-      return out;
-    }
-    out += P(torsoPath(g, { bot: hem }), col);
-    if (c.top === 'hoodie') {
-      out += P(`M${f(cx - sw * .3)},${f(hipY - T * .34)} L${f(cx + sw * .3)},${f(hipY - T * .34)} L${f(cx + sw * .38)},${f(hipY - 4)} L${f(cx - sw * .38)},${f(hipY - 4)} Z`, sh, 2);
-      for (const s of [-1, 1]) out += line(`M${f(cx + s * 7)},${f(neckY + 6)} L${f(cx + s * 7)},${f(neckY + 24)}`, 2) + `<circle cx="${f(cx + s * 7)}" cy="${f(neckY + 26)}" r="2.5" fill="${F('#FAF7F2')}" stroke="${OUT}" stroke-width="1.5"/>`;
-    }
-    if (c.top === 'sweater') out += line(`M${f(cx - hw / 2 - 1)},${f(hem - 8)} L${f(cx + hw / 2 + 1)},${f(hem - 8)}`, 2.5);
-    if (c.top === 'shirt') {
-      for (let i = 0; i < 3; i++) out += `<circle cx="${cx}" cy="${f(neckY + 16 + i * (T * .25))}" r="2.2" fill="${OUT}"/>`;
-      out += line(`M${f(cx)},${f(neckY + 8)} L${f(cx)},${f(hem - 4)}`, 1.6);
-    }
-    if (c.top === 'jacket' || c.top === 'suit') {
-      const inner = c.top === 'suit' ? '#FAF7F2' : '#FFF6E8';
-      const vb = c.top === 'suit' ? neckY + T * .5 : hem - 2;
-      out += P(`M${f(cx - sw * .2)},${f(neckY)} L${f(cx + sw * .2)},${f(neckY)} L${f(cx + (c.top === 'suit' ? 2 : sw * .14))},${f(vb)} L${f(cx - (c.top === 'suit' ? 2 : sw * .14))},${f(vb)} Z`, inner, 2.5);
-      if (c.top === 'suit') {
-        out += P(`M${f(cx)},${f(neckY + 8)} L${f(cx + 5)},${f(neckY + 14)} L${f(cx + 4)},${f(neckY + T * .44)} L${f(cx)},${f(neckY + T * .5)} L${f(cx - 4)},${f(neckY + T * .44)} L${f(cx - 5)},${f(neckY + 14)} Z`, '#B84A5A', 2);
-        for (let i = 0; i < 2; i++) out += `<circle cx="${f(cx + 1)}" cy="${f(neckY + T * (.62 + i * .16))}" r="2.3" fill="${OUT}"/>`;
-      } else {
-        out += line(`M${f(cx - sw * .2)},${f(neckY)} L${f(cx - sw * .3)},${f(neckY + T * .3)}`, 2) + line(`M${f(cx + sw * .2)},${f(neckY)} L${f(cx + sw * .3)},${f(neckY + T * .3)}`, 2);
-      }
-    }
-    if (c.top === 'shirt' || c.top === 'labcoat') {
-      for (const s of [-1, 1]) out += P(`M${f(cx)},${f(neckY + 6)} L${f(cx + s * 16)},${f(neckY + 2)} L${f(cx + s * 10)},${f(neckY + 14)} Z`, c.top === 'shirt' ? light(col, .25) : col, 2);
-    }
-    return out;
+    // fist
+    outline += C(c, r + 2.75, OUT, 0); fill += C(c, r * 1.02, skin, 0);
+    return outline + fill + S(`M${pt(add(c, [-r * .6, r * .1]))} Q${pt(add(c, [0, r * .55]))} ${pt(add(c, [r * .6, r * .1]))}`, 2) + S(`M${pt(add(c, [-r * .2, -r * .7]))} L${pt(add(c, [-r * .2, -r * .15]))} M${pt(add(c, [r * .25, -r * .7]))} L${pt(add(c, [r * .25, -r * .15]))}`, 1.5, dark(skin, .35));
   }
-  function hoodRoll(c, g) {
-    if (c.top !== 'hoodie') return '';
-    return E(g.cx, g.neckY - 4, g.sw * .56, 13, dark(c.topColor, .08), 3);
-  }
-  function bottoms(c, g) {
-    if (c.top === 'dress') return '';
-    const { cx, hipY, T, legLen, hw, lw, legX, ground, waistY } = g, col = c.bottomColor;
-    let out = '';
-    if (c.bottom === 'skirt') {
-      const bot = hipY + legLen * .34;
-      out += P(`M${f(cx - hw / 2 - 1 - g.b * .6)},${f(waistY)} L${f(cx + hw / 2 + 1 + g.b * .6)},${f(waistY)} L${f(cx + hw / 2 + 18 + g.b)},${f(bot)} Q${f(cx)},${f(bot + 8)} ${f(cx - hw / 2 - 18 - g.b)},${f(bot)} Z`, col);
-      if (!LINE) for (const x of [-.34, -.1, .14, .38]) out += line(`M${f(cx + x * hw * .8)},${f(waistY + 8)} L${f(cx + x * hw * 1.3)},${f(bot - 1)}`, 2.5, dark(col, .14));
-      return out;
-    }
-    const frac = { jeans: 1, pants: 1, suitpants: 1, shorts: .36, leggings: 1 }[c.bottom];
-    const wide = c.bottom === 'leggings' ? 1 : 5;
-    for (const s of [-1, 1]) {
-      const x = cx + s * legX, y0 = hipY - 4, y1 = frac === 1 ? ground - 9 : y0 + (ground - y0) * frac;
-      out += limb([x, y0], [x, y1], lw + wide, col, frac === 1 ? 'butt' : 'round');
-      if (frac === 1) out += line(`M${f(x - (lw + wide) / 2 - 2.5)},${f(y1)} L${f(x + (lw + wide) / 2 + 2.5)},${f(y1)}`, 3);
-      if (c.bottom === 'jeans' && !LINE) out += line(`M${f(x + s * 3)},${f(y0 + 10)} L${f(x + s * 3)},${f(y1 - 8)}`, 1.6, dark(col, .25), 'stroke-dasharray="3 3"') + `<rect x="${f(x - (lw + wide) / 2)}" y="${f(y1 - 7)}" width="${f(lw + wide)}" height="6" fill="${light(col, .2)}"/>`;
-      if (c.bottom === 'suitpants') out += line(`M${f(x)},${f(y0 + 14)} L${f(x)},${f(y1 - 4)}`, 1.5);
-      if (c.bottom === 'shorts' && !LINE) out += line(`M${f(x - (lw + 5) / 2)},${f(y1 - 5)} L${f(x + (lw + 5) / 2)},${f(y1 - 5)}`, 2, dark(col, .2));
-    }
-    const hw2 = hw / 2 + 2 + g.b * .5;
-    out += P(`M${f(cx - hw2)},${f(waistY)} L${f(cx + hw2)},${f(waistY)} L${f(cx + hw2 - 1)},${f(hipY + 9)} Q${f(cx + 5)},${f(hipY + 11)} ${f(cx)},${f(hipY + 2)} Q${f(cx - 5)},${f(hipY + 11)} ${f(cx - hw2 + 1)},${f(hipY + 9)} Z`, col);
-    if (c.bottom === 'jeans' && !LINE) out += line(`M${f(cx - hw2 + 6)},${f(waistY + 8)} Q${f(cx - hw2 / 2)},${f(waistY + 14)} ${f(cx - 4)},${f(waistY + 8)}`, 1.6, dark(col, .25), 'stroke-dasharray="3 3"');
-    return out;
-  }
-  function legs(c, g) {
-    const { cx, hipY, ground, legX, lw } = g; let out = '';
-    for (const s of [-1, 1]) {
-      const x = cx + s * legX;
-      out += limb([x, hipY - 6], [x, ground - 8], lw, c.skin);
-      out += E(x + s * 2, ground - 6, lw * .6 + 3, 7.5, c.skin, 3);
-    }
-    return out;
-  }
-  function shoes(c, g) {
-    const { cx, ground, legX, lw, legLen } = g, col = c.shoeColor; let out = '';
-    if (c.shoes === 'barefoot') return '';
-    for (const s of [-1, 1]) {
-      const x = cx + s * legX + s * 2, fw = lw * .6 + 3;
-      if (c.shoes === 'sneakers') {
-        out += E(x, ground - 3, fw + 3.5, 5, '#FAF7F2', 2.5) + E(x, ground - 9, fw + 2, 9, col, 3);
-        out += line(`M${f(x - 4)},${f(ground - 14)} l8,0 M${f(x - 4)},${f(ground - 10)} l8,0`, 1.8, LINE ? OUT : '#FAF7F2');
-      } else if (c.shoes === 'boots') {
-        const top = ground - legLen * .36;
-        out += P(`M${f(x - lw / 2 - 4)},${f(top)} L${f(x + lw / 2 + 4)},${f(top)} L${f(x + lw / 2 + 4)},${f(ground - 10)} L${f(x - lw / 2 - 4)},${f(ground - 10)} Z`, col);
-        out += E(x, ground - 7, fw + 3, 8.5, col, 3);
-        out += line(`M${f(x - lw / 2 - 4)},${f(top + 7)} L${f(x + lw / 2 + 4)},${f(top + 7)}`, 2);
-      } else if (c.shoes === 'sandals') {
-        out += E(x, ground - 1.5, fw + 2, 3.5, col, 2.5);
-        out += line(`M${f(x - fw + 1)},${f(ground - 8)} L${f(x + fw - 1)},${f(ground - 8)}`, 4, OUT) + line(`M${f(x - fw + 1)},${f(ground - 8)} L${f(x + fw - 1)},${f(ground - 8)}`, 2.2, F(col));
-      } else if (c.shoes === 'flats') {
-        out += E(x, ground - 6, fw + 1.5, 7.5, col, 3);
-        out += line(`M${f(x - lw / 2)},${f(ground - 13)} L${f(x + lw / 2)},${f(ground - 13)}`, 4.5, OUT) + line(`M${f(x - lw / 2)},${f(ground - 13)} L${f(x + lw / 2)},${f(ground - 13)}`, 2.5, F(col));
-      } else if (c.shoes === 'dress') {
-        out += E(x, ground - 7, fw + 3, 8.5, col, 3) + EF(x - 4, ground - 10, 4, 2, '#FFFFFF', 'opacity=".55"');
-      }
-    }
-    return out;
-  }
-  function arms(c, g) {
-    let out = '';
-    for (let i = 0; i < 2; i++) out += limb(along(g.S[i], g.dir[i], -2), g.H[i], g.aw, c.skin);
-    return out;
-  }
-  function hands(c, g) {
-    let out = '';
-    for (let i = 0; i < 2; i++) out += E(g.H[i][0], g.H[i][1] + 2, g.aw * .62, g.aw * .62, c.skin, 3);
-    if (c.acc.bracelet) {
-      const d = g.dir[0], w = along(g.S[0], d, g.armLen - g.aw * .6 - 2), n = [-d[1], d[0]], r = g.aw / 2 + 3;
-      out += limb([w[0] + n[0] * r, w[1] + n[1] * r], [w[0] - n[0] * r, w[1] - n[1] * r], 3.5, GOLD);
-    }
-    return out;
-  }
-  function head(c, g) {
-    const { cx, hc } = g; let out = '';
-    for (const s of [-1, 1]) out += E(cx + s * 61, hc + 8, 11, 12, c.skin, 3) + (LINE ? '' : EF(cx + s * 62, hc + 9, 5, 6, dark(c.skin, .12)));
-    out += E(cx, hc, 62, 57, c.skin, 3);
-    return out;
-  }
-  function glasses(c, g) {
-    if (c.glasses === 'none') return '';
-    const { cx, hc } = g, ey = hc + 14, col = c.frame; let out = '';
-    const lens = c.glasses === 'sun' ? (LINE ? '#FFFFFF' : '#2B2426') : 'none';
-    for (const s of [-1, 1]) {
-      const ex = cx + s * 25;
-      if (c.glasses === 'square') out += `<rect x="${f(ex - 17)}" y="${f(ey - 14)}" width="34" height="28" rx="7" fill="${LINE ? 'none' : 'rgba(255,255,255,.18)'}" stroke="${LINE ? OUT : col}" stroke-width="3.2"/>`;
-      else out += `<circle cx="${f(ex)}" cy="${f(ey)}" r="17" fill="${lens === 'none' ? (LINE ? 'none' : 'rgba(255,255,255,.18)') : lens}" ${c.glasses === 'sun' && !LINE ? 'fill-opacity=".9"' : ''} stroke="${LINE ? OUT : col}" stroke-width="3.2"/>`;
-      out += line(`M${f(cx + s * (c.glasses === 'square' ? 42 : 42))},${f(ey - 4)} L${f(cx + s * 60)},${f(ey - 6)}`, 3, LINE ? OUT : col);
-    }
-    out += line(`M${f(cx - 8)},${f(ey - 3)} Q${f(cx)},${f(ey - 8)} ${f(cx + 8)},${f(ey - 3)}`, 3, LINE ? OUT : col);
-    if (c.glasses === 'sun' && !LINE) out += `<path d="M${f(cx - 34)},${f(ey - 6)} l6,-5 M${f(cx + 16)},${f(ey - 6)} l6,-5" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".7"/>`;
-    return out;
-  }
-  function hat(c, g) {
-    const { cx, hc } = g, col = c.accColor, t = c.acc.hat; if (!t || t === 'none') return '';
-    const big = c.hair.type === 'coily' && !['bald', 'balding', 'buzz', 'short'].includes(c.hair.length) ? 12 : c.hair.type === 'curly' ? 5 : 0;
-    const y = hc - big;
-    if (t === 'cap') return P(`M${f(cx - 68)},${f(y - 22)} C${f(cx - 68)},${f(y - 94)} ${f(cx + 68)},${f(y - 94)} ${f(cx + 68)},${f(y - 22)} Z`, col) + P(`M${f(cx - 66)},${f(y - 24)} Q${f(cx)},${f(y + 2)} ${f(cx + 66)},${f(y - 24)} Q${f(cx)},${f(y - 12)} ${f(cx - 66)},${f(y - 24)} Z`, dark(col, .15)) + E(cx, y - 77, 5, 3.5, dark(col, .15), 2);
-    if (t === 'beanie') return P(`M${f(cx - 68)},${f(y - 26)} C${f(cx - 68)},${f(y - 98)} ${f(cx + 68)},${f(y - 98)} ${f(cx + 68)},${f(y - 26)} Z`, col) + P(`M${f(cx - 70)},${f(y - 38)} Q${f(cx)},${f(y - 50)} ${f(cx + 70)},${f(y - 38)} L${f(cx + 70)},${f(y - 20)} Q${f(cx)},${f(y - 32)} ${f(cx - 70)},${f(y - 20)} Z`, dark(col, .12)) + P(curlyPath(arc(cx, y - 88, 13, 13, 0, 359, 24), 7), light(col, .35), 2.5);
-    if (t === 'sunhat') return E(cx, y - 32, 104, 20, col, 3) + P(`M${f(cx - 54)},${f(y - 34)} C${f(cx - 54)},${f(y - 96)} ${f(cx + 54)},${f(y - 96)} ${f(cx + 54)},${f(y - 34)} Z`, col) + P(`M${f(cx - 53)},${f(y - 48)} Q${f(cx)},${f(y - 58)} ${f(cx + 53)},${f(y - 48)} L${f(cx + 54)},${f(y - 38)} Q${f(cx)},${f(y - 48)} ${f(cx - 54)},${f(y - 38)} Z`, '#E86F8A', 2.5) + P(`M${f(cx - 104)},${f(y - 32)} A104 20 0 0 0 ${f(cx + 104)},${f(y - 32)} Q${f(cx)},${f(y - 22)} ${f(cx - 104)},${f(y - 32)} Z`, col);
-    if (t === 'crown') return P(`M${f(cx - 36)},${f(y - 58)} L${f(cx - 40)},${f(y - 92)} L${f(cx - 20)},${f(y - 74)} L${f(cx)},${f(y - 100)} L${f(cx + 20)},${f(y - 74)} L${f(cx + 40)},${f(y - 92)} L${f(cx + 36)},${f(y - 58)} Q${f(cx)},${f(y - 66)} ${f(cx - 36)},${f(y - 58)} Z`, GOLD) + E(cx, y - 70, 5, 5, col, 2) + E(cx - 24, y - 66, 3.5, 3.5, '#7FB3E6', 2) + E(cx + 24, y - 66, 3.5, 3.5, '#7FB3E6', 2);
-    if (t === 'bow') { const bx = cx + 38, by = y - 56; return P(`M${f(bx)},${f(by)} L${f(bx - 26)},${f(by - 16)} Q${f(bx - 30)},${f(by + 2)} ${f(bx - 22)},${f(by + 16)} Z`, col) + P(`M${f(bx)},${f(by)} L${f(bx + 26)},${f(by - 16)} Q${f(bx + 30)},${f(by + 2)} ${f(bx + 22)},${f(by + 16)} Z`, col) + E(bx, by, 7, 7, dark(col, .15), 2.5); }
-    if (t === 'headband') return line(`M${f(cx - 64)},${f(y - 14)} Q${f(cx)},${f(y - 100)} ${f(cx + 64)},${f(y - 14)}`, 13, OUT) + line(`M${f(cx - 64)},${f(y - 14)} Q${f(cx)},${f(y - 100)} ${f(cx + 64)},${f(y - 14)}`, 8, F(col));
-    return '';
-  }
-  function capeBack(c, g) {
-    if (!c.acc.cape) return '';
-    const { cx, neckY, sw, hipY, legLen } = g, bot = hipY + legLen * .62;
-    return P(`M${f(cx - sw / 2 + 4)},${f(neckY + 2)} L${f(cx + sw / 2 - 4)},${f(neckY + 2)} L${f(cx + sw / 2 + 34)},${f(bot)} Q${f(cx + sw / 4)},${f(bot + 12)} ${f(cx)},${f(bot)} Q${f(cx - sw / 4)},${f(bot + 12)} ${f(cx - sw / 2 - 34)},${f(bot)} Z`, c.accColor);
-  }
-  function packBack(c, g) {
-    if (!c.acc.backpack) return '';
-    const { cx, neckY, hipY, sw } = g;
-    return `<rect x="${f(cx - sw / 2 - 12)}" y="${f(neckY + 4)}" width="${f(sw + 24)}" height="${f(hipY - neckY - 8)}" rx="14" fill="${F(dark(c.accColor, .1))}" stroke="${OUT}" stroke-width="3"/>`;
-  }
-  function chestAcc(c, g) {
-    const { cx, neckY, hipY, T, sw, hw } = g; let out = '';
-    if (c.acc.backpack) for (const s of [-1, 1]) out += limb([cx + s * sw * .3, neckY + 2], [cx + s * sw * .36, hipY - T * .36], 5, c.accColor, 'butt');
-    if (c.acc.necklace) out += line(`M${f(cx - sw * .26)},${f(neckY + 2)} Q${f(cx)},${f(neckY + 24)} ${f(cx + sw * .26)},${f(neckY + 2)}`, 2.2, LINE ? OUT : GOLD) + E(cx, neckY + 15, 4, 4, c.accColor, 2);
-    if (c.acc.scarf) {
-      out += P(`M${f(cx + sw * .12)},${f(neckY + 10)} L${f(cx + sw * .3)},${f(neckY + 10)} L${f(cx + sw * .34)},${f(neckY + T * .55)} L${f(cx + sw * .12)},${f(neckY + T * .55)} Z`, c.accColor, 2.5);
-      if (!LINE) out += line(`M${f(cx + sw * .13)},${f(neckY + T * .3)} L${f(cx + sw * .32)},${f(neckY + T * .3)}`, 3, light(c.accColor, .4));
-      out += P(`M${f(cx - sw / 2)},${f(neckY - 4)} Q${f(cx)},${f(neckY + 8)} ${f(cx + sw / 2)},${f(neckY - 4)} L${f(cx + sw / 2 + 2)},${f(neckY + 10)} Q${f(cx)},${f(neckY + 24)} ${f(cx - sw / 2 - 2)},${f(neckY + 10)} Z`, c.accColor);
-      if (!LINE) out += line(`M${f(cx - sw / 2 + 4)},${f(neckY + 5)} Q${f(cx)},${f(neckY + 17)} ${f(cx + sw / 2 - 4)},${f(neckY + 5)}`, 3, light(c.accColor, .4));
-    }
-    if (c.acc.purse) {
-      const bx = cx - hw / 2 - 20 - g.b, by = hipY - T * .28;
-      out += line(`M${f(cx + sw * .3)},${f(neckY + 2)} L${f(bx + 12)},${f(by)}`, 4.5, OUT) + line(`M${f(cx + sw * .3)},${f(neckY + 2)} L${f(bx + 12)},${f(by)}`, 2.5, F(dark(c.accColor, .2)));
-      out += `<rect x="${f(bx)}" y="${f(by)}" width="26" height="20" rx="6" fill="${F(c.accColor)}" stroke="${OUT}" stroke-width="3"/>` + P(`M${f(bx)},${f(by + 6)} Q${f(bx + 13)},${f(by + 14)} ${f(bx + 26)},${f(by + 6)}`, 'none', 2) + E(bx + 13, by + 10, 2.5, 2.5, GOLD, 1.5);
-    }
-    if (c.acc.cape) for (const s of [-1, 1]) out += E(cx + s * sw * .32, neckY + 8, 5, 5, GOLD, 2);
-    return out;
-  }
-  function earrings(c, g) {
-    if (!c.acc.earrings) return '';
-    const { cx, hc } = g; let out = '';
-    for (const s of [-1, 1]) out += `<circle cx="${f(cx + s * 62)}" cy="${f(hc + 26)}" r="5.5" fill="none" stroke="${OUT}" stroke-width="4.5"/><circle cx="${f(cx + s * 62)}" cy="${f(hc + 26)}" r="5.5" fill="none" stroke="${F(GOLD)}" stroke-width="2.2"/>`;
-    return out;
-  }
-  function binky(c, g) {
-    if (!c.acc.binky) return '';
-    const { cx, hc } = g, my = hc + 38;
-    return `<circle cx="${cx}" cy="${f(my + 12)}" r="7" fill="none" stroke="${OUT}" stroke-width="5.5"/><circle cx="${cx}" cy="${f(my + 12)}" r="7" fill="none" stroke="${F(c.accColor)}" stroke-width="2.5"/>` + E(cx, my + 1, 14, 9, light(c.accColor, .2), 2.5) + E(cx, my + 1, 4.5, 4, dark(c.accColor, .1), 2);
-  }
-
-  // ---------- assemble ----------
-  function layers(c) {
-    const g = geo(c);
-    return [
-      ['Cape (back)', capeBack(c, g)],
-      ['Backpack', packBack(c, g)],
-      ['Hair (back)', hairBack(c, g) + tails(c, g)],
-      ['Body: legs', legs(c, g)],
-      ['Bottoms', bottoms(c, g)],
-      ['Shoes', shoes(c, g)],
-      ['Body: arms', arms(c, g)],
-      ['Top: sleeves', sleeves(c, g)],
-      ['Body: torso', P(torsoPath(g), c.skin)],
-      ['Top', topBody(c, g) + hoodRoll(c, g)],
-      ['Hands', hands(c, g)],
-      ['Neck & chest', chestAcc(c, g)],
-      ['Braids', braids(c, g)],
-      ['Head', head(c, g)],
-      ['Face', face(c, g)],
-      ['Beard & mustache', facialHair(c, g)],
-      ['Binky', binky(c, g)],
-      ['Hair (front)', hairFront(c, g)],
-      ['Glasses', glasses(c, g)],
-      ['Earrings', earrings(c, g)],
-      ['Hat', hat(c, g)],
-    ];
-  }
-  const VIEW = '0 40 300 430';
-  function svg(c, { sticker = false, shadow = true, line: ln = false, view = VIEW } = {}) {
-    LINE = ln;
-    const body = layers(c).map((l) => l[1]).join('');
-    const g = geo(c);
-    const sh = shadow && !ln ? `<ellipse cx="150" cy="${g.ground - 1}" rx="${f(g.hw / 2 + 34)}" ry="8" fill="#4A3228" opacity=".14"/>` : '';
-    LINE = false;
-    return `<svg viewBox="${view}" xmlns="http://www.w3.org/2000/svg">${sh}<g ${sticker ? 'filter="url(#sticker)"' : ''}>${body}</g></svg>`;
-  }
-
-  // ---------- options (mirror the app) ----------
-  const TABS = [
-    ['Body', [
-      { key: 'body', label: 'Body type', type: 'chips', opts: [['slim', 'Slim'], ['regular', 'Regular'], ['round', 'Round']] },
-      { key: 'size', label: 'Size', type: 'chips', opts: [['mini', 'Mini'], ['kid', 'Kid'], ['mid', 'Mid'], ['adult', 'Adult'], ['tall', 'Tall']] },
-      { key: 'skin', label: 'Skin', type: 'swatch', opts: SKIN },
-      { key: 'freckles', label: 'Freckles', type: 'bool' },
-      { key: 'expr', label: 'Expression', type: 'chips', opts: [['smile', 'Smile'], ['grin', 'Big smile'], ['cat', ':3'], ['happy', 'Happy eyes']] },
-    ]],
-    ['Eyes', [
-      { key: 'eyes', label: 'Eye color', type: 'swatch', opts: EYES },
-      { key: 'glasses', label: 'Glasses', type: 'chips', opts: [['none', 'None'], ['round', 'Round'], ['square', 'Square'], ['sun', 'Sunglasses']] },
-      { key: 'frame', label: 'Frame color', type: 'swatch', opts: FRAMES },
-    ]],
-    ['Hair', [
-      { key: 'hair.color', label: 'Color', type: 'swatch', opts: HAIR },
-      { key: 'hair.type', label: 'Type', type: 'chips', opts: [['straight', 'Straight'], ['wavy', 'Wavy'], ['curly', 'Curly'], ['coily', 'Coily']] },
-      { key: 'hair.length', label: 'Length', type: 'chips', opts: [['bald', 'Bald'], ['balding', 'Balding'], ['buzz', 'Buzz'], ['short', 'Short'], ['chin', 'Chin'], ['shoulder', 'Shoulder'], ['long', 'Long'], ['xlong', 'Very long']] },
-      { key: 'hair.style', label: 'Style', type: 'chips', opts: [['loose', 'Loose'], ['ponytail', 'Ponytail'], ['pigtails', 'Pigtails'], ['bun', 'Bun'], ['braids', 'Braids']] },
-      { key: 'hair.bangs', label: 'Bangs', type: 'chips', opts: [['fringe', 'Fringe'], ['side', 'Side swept'], ['part', 'Middle part'], ['none', 'No bangs']] },
-      { key: 'beard', label: 'Beard', type: 'chips', opts: [['none', 'None'], ['stubble', 'Stubble'], ['short', 'Short'], ['full', 'Full'], ['goatee', 'Goatee']] },
-      { key: 'mustache', label: 'Mustache', type: 'chips', opts: [['none', 'None'], ['classic', 'Classic'], ['handlebar', 'Handlebar'], ['thin', 'Thin'], ['walrus', 'Walrus']] },
-    ]],
-    ['Clothes', [
-      { key: 'top', label: 'Top', type: 'chips', opts: [['tee', 'T-shirt'], ['longsleeve', 'Long sleeve'], ['tank', 'Tank top'], ['shirt', 'Button shirt'], ['hoodie', 'Hoodie'], ['sweater', 'Sweater'], ['jacket', 'Open jacket'], ['labcoat', 'Lab coat'], ['suit', 'Suit jacket'], ['dress', 'Dress']] },
-      { key: 'topColor', label: 'Top color', type: 'swatch', opts: CLOTH },
-      { key: 'bottom', label: 'Bottom', type: 'chips', opts: [['jeans', 'Jeans'], ['pants', 'Pants'], ['suitpants', 'Suit pants'], ['shorts', 'Shorts'], ['skirt', 'Skirt'], ['leggings', 'Leggings']] },
-      { key: 'bottomColor', label: 'Bottom color', type: 'swatch', opts: CLOTH },
-      { key: 'shoes', label: 'Shoes', type: 'chips', opts: [['sneakers', 'Sneakers'], ['boots', 'Boots'], ['sandals', 'Sandals'], ['flats', 'Flats'], ['dress', 'Dress shoes'], ['barefoot', 'Barefoot']] },
-      { key: 'shoeColor', label: 'Shoe color', type: 'swatch', opts: CLOTH },
-    ]],
-    ['Accessories', [
-      { key: 'acc.hat', label: 'On the head', type: 'chips', opts: [['none', 'Nothing'], ['cap', 'Cap'], ['beanie', 'Beanie'], ['sunhat', 'Sun hat'], ['crown', 'Crown'], ['bow', 'Bow'], ['headband', 'Headband']] },
-      { key: 'acc', label: 'Extras', type: 'multi', opts: [['cape', 'Superhero cape'], ['scarf', 'Scarf'], ['earrings', 'Earrings'], ['necklace', 'Necklace'], ['bracelet', 'Bracelet'], ['backpack', 'Backpack'], ['purse', 'Purse'], ['binky', 'Binky']] },
-      { key: 'accColor', label: 'Accessory color', type: 'swatch', opts: CLOTH },
-    ]],
-  ];
-
-  const base = (o) => ({ body: 'regular', size: 'kid', skin: '#F9D3B8', freckles: false, expr: 'smile', eyes: '#6B3F22', glasses: 'none', frame: '#2B2426', hair: { color: '#7A4A2E', type: 'straight', length: 'short', style: 'loose', bangs: 'fringe' }, beard: 'none', mustache: 'none', top: 'tee', topColor: '#8FD6B4', bottom: 'jeans', bottomColor: '#5A7FB5', shoes: 'sneakers', shoeColor: '#E4574F', acc: { hat: 'none' }, accColor: '#E4574F', ...o, hair: { color: '#7A4A2E', type: 'straight', length: 'short', style: 'loose', bangs: 'fringe', ...(o.hair || {}) }, acc: { hat: 'none', ...(o.acc || {}) } });
-  const CAST = [
-    ['Abuelo', base({ body: 'round', size: 'adult', skin: '#EDBB8F', glasses: 'round', frame: '#7A4A2E', hair: { color: '#B9B4AE', length: 'balding' }, mustache: 'walrus', top: 'sweater', topColor: '#5BAA6E', bottom: 'pants', bottomColor: '#8A5A3C', shoes: 'dress', shoeColor: '#8A5A3C', expr: 'happy' })],
-    ['Abuela', base({ body: 'round', size: 'mid', skin: '#F9D3B8', glasses: 'round', frame: '#D8A93B', hair: { color: '#F4F1EC', type: 'wavy', length: 'shoulder', style: 'bun', bangs: 'part' }, top: 'sweater', topColor: '#B79DE3', bottom: 'skirt', bottomColor: '#2E3F66', shoes: 'flats', shoeColor: '#8A5A3C', acc: { necklace: true }, accColor: '#F4A6C0' })],
-    ['Papá', base({ size: 'tall', skin: '#B47449', hair: { color: '#2B2426', type: 'straight', length: 'short', bangs: 'side' }, beard: 'short', mustache: 'classic', glasses: 'square', frame: '#2B2426', top: 'suit', topColor: '#2E3F66', bottom: 'suitpants', bottomColor: '#2E3F66', shoes: 'dress', shoeColor: '#34303A', expr: 'grin' })],
-    ['Mamá', base({ size: 'adult', skin: '#F9D3B8', eyes: '#3E8A5C', hair: { color: '#7A4A2E', type: 'wavy', length: 'shoulder', bangs: 'side' }, top: 'jacket', topColor: '#FF8F7A', bottom: 'jeans', bottomColor: '#5A7FB5', shoes: 'flats', shoeColor: '#FF8F7A', acc: { earrings: true, purse: true }, accColor: '#F6D365' })],
-    ['Tía científica', base({ body: 'slim', size: 'adult', skin: '#D89C6C', hair: { color: '#A0472C', type: 'curly', length: 'long', style: 'ponytail', bangs: 'part' }, glasses: 'square', frame: '#E4574F', top: 'labcoat', topColor: '#FAF7F2', bottom: 'pants', bottomColor: '#34303A', shoes: 'sneakers', shoeColor: '#3FA7A0', expr: 'cat' })],
-    ['Hermana', base({ body: 'slim', size: 'mid', skin: '#EDBB8F', eyes: '#3A2A24', hair: { color: '#4B3024', type: 'straight', length: 'xlong', bangs: 'fringe' }, top: 'tee', topColor: '#F4A6C0', bottom: 'skirt', bottomColor: '#34303A', shoes: 'boots', shoeColor: '#34303A', acc: { hat: 'headband', bracelet: true }, accColor: '#E4574F', expr: 'grin' })],
-    ['Mateo', base({ size: 'kid', skin: '#8A5534', eyes: '#3A2A24', hair: { color: '#2B2426', type: 'coily', length: 'chin' }, top: 'hoodie', topColor: '#3FA7A0', bottom: 'jeans', bottomColor: '#5A7FB5', shoes: 'sneakers', shoeColor: '#F6D365', acc: { backpack: true }, accColor: '#F5A04A', expr: 'grin' })],
-    ['Sofi', base({ size: 'kid', skin: '#F9D3B8', hair: { color: '#D9793A', type: 'straight', length: 'shoulder', style: 'pigtails', bangs: 'fringe' }, freckles: true, top: 'tee', topColor: '#F6D365', bottom: 'leggings', bottomColor: '#5A7FB5', shoes: 'boots', shoeColor: '#E4574F', acc: { cape: true }, accColor: '#E4574F', expr: 'grin' })],
-    ['Lupita', base({ size: 'kid', skin: '#D89C6C', hair: { color: '#4B3024', type: 'straight', length: 'long', style: 'braids', bangs: 'fringe' }, top: 'dress', topColor: '#F6D365', shoes: 'flats', shoeColor: '#E4574F', acc: { hat: 'bow' }, accColor: '#E4574F', expr: 'happy' })],
-    ['Bebé', base({ body: 'round', size: 'mini', skin: '#FFE6D6', eyes: '#3F7CC0', hair: { color: '#E6BD6E', length: 'short', bangs: 'fringe' }, top: 'tee', topColor: '#8CC3EC', bottom: 'shorts', bottomColor: '#8CC3EC', shoes: 'barefoot', acc: { binky: true }, accColor: '#F4A6C0' })],
-  ];
-  CAST.forEach(([, c]) => { if (c.top === 'dress') c.bottom = 'skirt'; });
-  CAST[3][1].bottom = 'jeans';
-
-  // ---------- three mockups ----------
-  const PICK = [2, 3, 7];
-  const label = (k, v) => { for (const [, items] of TABS) for (const it of items) if (it.key === k && it.opts) { const o = it.opts.find((x) => x[0] === v); if (o) return o[1]; } return v; };
-  const describe = (c) => {
-    const acc = Object.keys(c.acc).filter((k) => k !== 'hat' && c.acc[k]).map((k) => label('acc', k));
-    if (c.acc.hat !== 'none') acc.unshift(label('acc.hat', c.acc.hat));
-    return [
-      ['Body', `${label('size', c.size)}, ${label('body', c.body).toLowerCase()}`],
-      ['Skin', `${label('skin', c.skin)}${c.freckles ? ', freckles' : ''}`],
-      ['Eyes', `${label('eyes', c.eyes)}${c.glasses !== 'none' ? ', ' + label('glasses', c.glasses).toLowerCase() + ' glasses' : ''}`],
-      ['Hair', `${label('hair.color', c.hair.color)}, ${label('hair.type', c.hair.type).toLowerCase()}, ${label('hair.length', c.hair.length).toLowerCase()}, ${label('hair.style', c.hair.style).toLowerCase()}`],
-      ...(c.beard !== 'none' || c.mustache !== 'none' ? [['Face hair', [c.beard !== 'none' ? label('beard', c.beard) + ' beard' : '', c.mustache !== 'none' ? label('mustache', c.mustache).toLowerCase() + ' mustache' : ''].filter(Boolean).join(', ')]] : []),
-      ['Clothes', `${label('topColor', c.topColor)} ${label('top', c.top).toLowerCase()}${c.top === 'dress' ? '' : ', ' + label('bottomColor', c.bottomColor).toLowerCase() + ' ' + label('bottom', c.bottom).toLowerCase()}, ${c.shoes === 'barefoot' ? 'barefoot' : label('shoes', c.shoes).toLowerCase()}`],
-      ['Accessories', acc.length ? acc.join(', ') : 'None'],
-    ];
+  const SHOES = {
+    sneaker: (col) => P('M-13,-20 C-6,-25 7,-24 11,-17 C20,-15 31,-10 32,-3 L32,1 L-15,1 C-17,-6 -17,-14 -13,-20 Z', col) + P('M-16,-1 L33,-2 C34,4 30,7 22,7 L-10,7 C-15,7 -17,4 -16,-1 Z', '#FBF8F3', 2.5) + S('M15,-14 C19,-8 24,-5 32,-4', 2) + S('M-3,-19 L7,-15 M-5,-14 L5,-10', 2.2, '#FBF8F3'),
+    boot: (col) => P('M-14,-46 L14,-46 L15,-14 L-14,-14 Z', col) + P('M-13,-18 C-6,-23 7,-22 11,-16 C20,-14 31,-9 32,-3 L32,1 L-15,1 C-17,-6 -17,-12 -13,-18 Z', col) + P('M-16,-1 L33,-2 C34,4 30,7 22,7 L-10,7 C-15,7 -17,4 -16,-1 Z', '#5A4036', 2.5) + P('M-16,-52 L16,-52 L16,-40 L-16,-40 Z', light(col, .18), 2.5) + `<path d="M17,-12 C24,-10 28,-7 30,-4" fill="none" stroke="${light(col, .5)}" stroke-width="2.5" stroke-linecap="round"/>`,
+    dress: (col) => P('M-12,-15 C-4,-19 10,-17 16,-12 C26,-10 33,-6 33,-1 L33,2 L-14,2 C-16,-5 -16,-11 -12,-15 Z', col) + P('M-15,1 L34,1 L33,5 L-13,5 Z', dark(col, .3), 2) + lens([18, -9], norm([1, .3]), 12, 2.2, '#FFFFFF'),
   };
-  $('cards').innerHTML = PICK.map((i) => {
-    const [name, c] = CAST[i];
-    const g = geo(c);
-    const vb = `40 ${f(g.hc - 105)} 220 ${f(g.ground - g.hc + 125)}`;
-    const ls = layers(c).filter(([, s]) => s);
+  function shoes(g, kind, col) {
+    const k = g.lw / 20 * 1.05;
+    return g.legs.map((l) => { const a = l.pts[2]; return `<g transform="translate(${f(a[0])},${f(g.ground - 9)}) scale(${f(l.s * k * 100) / 100},${f(k * 100) / 100})">${SHOES[kind](col)}</g>`; }).join('');
+  }
+
+  // ---------- head & face (local coords: 0,0 = head center) ----------
+  const HEAD = 'M-74,-6 C-74,-58 -40,-72 0,-72 C40,-72 74,-58 74,-6 C74,36 48,66 0,68 C-48,66 -74,36 -74,-6 Z';
+  function head(skin) {
+    return P('M-78,14 C-86,4 -86,26 -74,30 Z', skin) + P('M78,14 C86,4 86,26 74,30 Z', skin) + P(HEAD, skin);
+  }
+  function eye(ex, ey, iris, side) {
+    let o = `<ellipse cx="${ex}" cy="${ey}" rx="15" ry="19" fill="${iris}"/>`;
+    o += `<ellipse cx="${ex}" cy="${ey - 6}" rx="13" ry="11" fill="${dark(iris, .35)}"/>`;
+    o += `<ellipse cx="${ex}" cy="${ey + 10}" rx="10" ry="6" fill="${light(iris, .45)}"/>`;
+    o += `<ellipse cx="${ex}" cy="${ey - 1}" rx="6.5" ry="8.5" fill="${dark(iris, .7)}"/>`;
+    o += `<ellipse cx="${ex}" cy="${ey}" rx="15" ry="19" fill="none" stroke="${OUT}" stroke-width="2"/>`;
+    o += S(`M${ex - side * 16},${ey - 10} Q${ex - side * 2},${ey - 26} ${ex + side * 18},${ey - 6}`, 5.5);
+    o += S(`M${ex + side * 17},${ey - 7} l${side * 7},-6`, 3.2);
+    o += S(`M${ex - 7},${ey + 21} Q${ex},${ey + 23} ${ex + 7},${ey + 20.5}`, 1.8, OUT, 'opacity=".55"');
+    o += `<ellipse cx="${ex - 6}" cy="${ey - 8}" rx="6" ry="7.5" fill="#fff"/><circle cx="${ex + 6.5}" cy="${ey + 7}" r="3" fill="#fff"/><circle cx="${ex + 7}" cy="${ey - 10}" r="1.8" fill="#fff"/>`;
+    return o;
+  }
+  function face(c) {
+    let o = '';
+    for (const s of [-1, 1]) {
+      o += `<ellipse cx="${s * 46}" cy="40" rx="13" ry="7.5" fill="#F59C9C" opacity=".5"/>`;
+      o += S(`M${s * 46 - 7},43 l3,-5 M${s * 46 - 1},43 l3,-5 M${s * 46 + 5},43 l3,-5`, 1.4, '#E07A7E');
+    }
+    if (c.freckles) for (const s of [-1, 1]) for (const [dx, dy] of [[-8, -3], [0, -7], [7, -2], [-1, 2]]) o += `<circle cx="${s * 44 + dx}" cy="${31 + dy}" r="1.7" fill="${dark(c.skin, .4)}"/>`;
+    o += eye(-31, 16, c.eyes, -1) + eye(31, 16, c.eyes, 1);
+    o += S('M-1.5,32 l2.5,1.5', 1.8, OUT, 'opacity=".5"');
+    const my = c.mustache ? 50 : 44;
+    if (c.mouth === 'grin') o += P(`M-10,${my} Q0,${my + 17} 10,${my} Q0,${my + 3} -10,${my} Z`, '#8A3434', 2.2) + `<ellipse cx="0" cy="${my + 8}" rx="5" ry="2.8" fill="#F28890"/>`;
+    else o += P(`M-7,${my} Q0,${my + 9} 7,${my} Q0,${my + 2} -7,${my} Z`, '#8A3434', 2);
+    return o;
+  }
+  function hairShine(col, c0 = [0, -4], rx = 60, ry = 52, a0 = 218, a1 = 322) {
+    const n = 12, top = [], low = [];
+    for (let i = 0; i <= n; i++) {
+      const t = (a0 + (a1 - a0) * i / n) * Math.PI / 180, taper = Math.sin(Math.PI * i / n);
+      top.push([c0[0] + rx * Math.cos(t), c0[1] + ry * Math.sin(t)]);
+      const k = i % 2 ? 1 - .2 * taper : 1 - .1 * taper;
+      low.push([c0[0] + rx * k * Math.cos(t), c0[1] + ry * k * Math.sin(t), i % 2 === 1]);
+    }
+    return `<path d="${shape([...top, ...low.reverse()])}" fill="${light(col, .36)}" opacity=".9"/>`;
+  }
+  const sprout = (col) => P('M2,-86 C4,-110 30,-118 34,-100 C30,-108 16,-104 12,-86 Z', col, 2.5) + P('M-8,-86 C-16,-102 -30,-100 -30,-92 C-24,-96 -16,-94 -12,-84 Z', col, 2.5);
+
+  // ---------- characters ----------
+  const CHARS = [
+    {
+      name: 'Papá', L: 250, tf: .43, sw: 94, hw: 84, aw: 22, lw: 24, poseL: 'down', poseR: 'wave', tilt: -4,
+      skin: '#B47449', eyes: '#5A3620', freckles: false, mouth: 'grin', mustache: true,
+      hairCol: '#2B2426',
+      desc: [['Body', 'Tall, regular'], ['Skin', 'Caramel'], ['Eyes', 'Dark brown, square glasses'], ['Hair', 'Black, straight, short, side-swept'], ['Face hair', 'Short beard, classic mustache'], ['Clothes', 'Navy suit jacket, white shirt, red tie, navy suit pants, dress shoes'], ['Accessories', 'None']],
+      hairBack(c) {
+        return P(shape([...arc([0, -14], 90, 84, 188, 352, 14), [94, 0], [86, 30, true], [70, 20], [-70, 20], [-86, 30, true], [-94, 0]]), dark(c.hairCol, .1));
+      },
+      hairFront(c) {
+        const pts = [[-74, 20, true], [-86, -8], ...arc([0, -14], 86, 80, 192, 348, 14), [86, -8], [76, 18, true], [64, -4], [60, -22], [48, -10, true], [38, -36], [20, -14, true], [8, -40], [-14, -18, true], [-24, -44], [-46, -16, true], [-58, -36], [-64, -12]];
+        let o = P(shape(pts), c.hairCol);
+        o += S('M38,-30 Q44,-50 58,-60 M8,-36 Q16,-58 30,-70 M-24,-42 Q-16,-62 0,-76 M-58,-36 Q-60,-54 -50,-68', 1.6, light(c.hairCol, .2));
+        return o + hairShine(c.hairCol) + sprout(c.hairCol);
+      },
+      facialHair(c) {
+        return P('M-72,22 C-68,58 -38,82 0,84 C38,82 68,58 72,22 C64,46 42,64 24,66 C14,62 -14,62 -24,66 C-42,64 -64,46 -72,22 Z', c.hairCol, 2.5) + P('M0,41 C-8,36 -22,37 -24,47 C-16,43 -8,44 0,45 C8,44 16,43 24,47 C22,37 8,36 0,41 Z', c.hairCol, 2.2);
+      },
+      extrasHead() {
+        let o = '';
+        for (const s of [-1, 1]) o += `<rect x="${s * 31 - 22}" y="-4" width="44" height="40" rx="11" fill="rgba(255,255,255,.14)" stroke="#2B2426" stroke-width="3.6"/>` + S(`M${s * 53},8 L${s * 76},4`, 3.4, '#2B2426');
+        return o + S('M-9,10 Q0,4 9,10', 3.4, '#2B2426');
+      },
+      clothes(g) {
+        const navy = '#2E3F66', { cx, N, T, hipY } = g;
+        let legs = '';
+        for (const l of g.legs) legs += limb(l.pts, g.lw + 9, navy, 'butt') + S(curve(partial(l.pts, .15, .97)), 1.6, dark(navy, .4));
+        legs += P(`M${cx - g.hw / 2 - 3},${g.waistY} L${cx + g.hw / 2 + 3},${g.waistY} L${cx + g.hw / 2 + 2},${hipY + 8} Q${cx + 6},${hipY + 10} ${cx + 2},${hipY - 2} Q${cx - 6},${hipY + 10} ${cx - g.hw / 2 - 2},${hipY + 8} Z`, navy);
+        let sleeves = '';
+        for (const a of g.arms) sleeves += limb(partial(a.pts, .78, .95), g.aw + 5, '#FBF8F3', 'butt') + limb(partial(a.pts, 0, .86), g.aw + 8, navy, 'butt');
+        const top = N[1] + 2, bot = hipY + 12;
+        let body = shaded(torsoPath(g, { bot, e: 2, flare: 3 }), navy);
+        body += P(`M${cx - 18},${top} L${cx + 18},${top} L${cx + 3},${top + T * .55} L${cx - 3},${top + T * .55} Z`, '#FBF8F3', 2.5);
+        body += P(`M${cx},${top + 8} L${cx + 6},${top + 15} L${cx + 5},${top + T * .46} L${cx},${top + T * .53} L${cx - 5},${top + T * .46} L${cx - 6},${top + 15} Z`, '#C0465A', 2.2);
+        for (const s of [-1, 1]) body += P(`M${cx + s * 18},${top} L${cx + s * 34},${top + T * .2} L${cx + s * 22},${top + T * .26} L${cx + s * 3},${top + T * .57} Z`, dark(navy, .12), 2.5);
+        body += S(`M${cx},${top + T * .57} L${cx},${bot - 1}`, 2.2) + C([cx + 5, top + T * .66], 2.6, OUT, 0) + C([cx + 5, top + T * .82], 2.6, OUT, 0);
+        body += S(`M${cx - g.sw * .42},${top + T * .72} l14,-1`, 2.2);
+        return { legs, sleeves, body, shoes: shoes(g, 'dress', '#34303A'), neck: '' };
+      },
+    },
+    {
+      name: 'Mamá', L: 215, tf: .44, sw: 80, hw: 78, aw: 19, lw: 21, poseL: 'hip', poseR: 'wave', tilt: 5,
+      skin: '#F9D3B8', eyes: '#3E8A5C', freckles: false, mouth: 'smile',
+      hairCol: '#5A3526', tips: '#C8844A',
+      desc: [['Body', 'Adult, regular'], ['Skin', 'Light'], ['Eyes', 'Green'], ['Hair', 'Dark brown with caramel tips, wavy, long, side part'], ['Clothes', 'Coral open cardigan, white top, jeans with rolled cuffs, sneakers'], ['Accessories', 'Hoop earrings, necklace']],
+      grad(c, id, t) { return `<linearGradient id="${id}" gradientUnits="userSpaceOnUse" x1="0" y1="${t ? 10 : -10}" x2="0" y2="170"><stop offset="0" stop-color="${t ? dark(c.hairCol, .12) : c.hairCol}"/><stop offset=".45" stop-color="${t ? dark(c.hairCol, .12) : c.hairCol}"/><stop offset="1" stop-color="${t ? dark(c.tips, .12) : c.tips}"/></linearGradient>`; },
+      hairBack(c) {
+        const pts = [...arc([0, -12], 94, 86, 186, 354, 14), [98, 16], [100, 50], [104, 92], [112, 132, true], [98, 122], [100, 160, true], [84, 138], [74, 162, true], [62, 134], [-62, 134], [-76, 162, true], [-86, 138], [-102, 158, true], [-100, 122], [-112, 128, true], [-104, 92], [-100, 50], [-98, 16]];
+        return this.grad(c, 'mb', true) + P(shape(pts), 'url(#mb)');
+      },
+      hairFront(c) {
+        const pts = [[-74, 84, true], [-90, 40], [-92, -2], ...arc([0, -12], 88, 82, 194, 346, 14), [92, -2], [96, 36], [84, 92, true], [70, 48], [64, 10], [58, -10, true], [46, -30], [30, -12, true], [18, -42], [0, -24, true], [-8, -48], [-22, -62, true], [-36, -40], [-54, -10, true], [-58, -26], [-64, 10], [-64, 48]];
+        let o = this.grad(c, 'mf', false) + P(shape(pts), 'url(#mf)');
+        o += S('M-22,-62 Q10,-58 46,-26 M-18,-58 Q2,-44 18,-40 M-26,-58 Q-44,-42 -58,-26 M-72,20 Q-74,50 -72,74 M76,20 Q80,52 80,80', 2, dark(c.hairCol, .3));
+        return o + hairShine(c.hairCol, [0, -2], 60, 50, 226, 320, 6) + sprout(c.hairCol);
+      },
+      extrasHead() {
+        let o = '';
+        for (const s of [-1, 1]) o += `<circle cx="${s * 78}" cy="36" r="7" fill="none" stroke="${OUT}" stroke-width="5"/><circle cx="${s * 78}" cy="36" r="7" fill="none" stroke="#E3B341" stroke-width="2.6"/>`;
+        return o;
+      },
+      clothes(g) {
+        const denim = '#5A7FB5', coral = '#FF8F7A', { cx, N, T, hipY } = g;
+        let legs = '';
+        for (const l of g.legs) legs += limb(l.pts, g.lw + 8, denim, 'butt') + limb(partial(l.pts, .9, 1), g.lw + 12, light(denim, .22), 'butt') + S(curve(partial(l.pts, .12, .86)), 1.6, dark(denim, .3), 'stroke-dasharray="3 3"');
+        legs += P(`M${cx - g.hw / 2 - 3},${g.waistY} L${cx + g.hw / 2 + 3},${g.waistY} L${cx + g.hw / 2 + 2},${hipY + 8} Q${cx + 6},${hipY + 10} ${cx + 2},${hipY - 2} Q${cx - 6},${hipY + 10} ${cx - g.hw / 2 - 2},${hipY + 8} Z`, denim);
+        let sleeves = '';
+        for (const a of g.arms) sleeves += limb(partial(a.pts, 0, .9), g.aw + 8, coral, 'butt') + limb(partial(a.pts, .8, .9), g.aw + 9, dark(coral, .12), 'butt');
+        const top = N[1] + 2, bot = hipY + 8;
+        let body = shaded(torsoPath(g, { bot: hipY }), '#FBF8F3', -8, -5, .1);
+        body += S(`M${cx - 16},${top + 8} Q${cx},${top + 22} ${cx + 16},${top + 8}`, 2);
+        for (const s of [-1, 1]) {
+          const X = (x) => cx + s * x;
+          body += shaded(shape([[X(10), top], [X(g.sw / 2 - 12), top], [X(g.sw / 2 + 2), top + 12], [X(g.sw * .44 + 2), top + T * .55], [X(g.hw / 2 + 5), bot - 5], [X(g.hw / 2 - 3), bot, true], [X(14), bot, true], [X(16), top + T * .5], [X(12), top + 16]]), coral, -7, -5, .13);
+          body += S(`M${X(15)},${bot - 8} L${X(g.hw / 2 + 3)},${bot - 8}`, 2);
+        }
+        for (let i = 0; i < 3; i++) body += C([cx - 20, top + T * (.35 + i * .18)], 2.6, '#FBF8F3', 1.8);
+        const neck = S(`M${cx - 20},${top + 2} Q${cx},${top + 30} ${cx + 20},${top + 2}`, 2, '#E3B341') + P(`M${cx},${top + 19} l5,6 l-5,6 l-5,-6 Z`, '#7FB3E6', 1.8);
+        return { legs, sleeves, body, shoes: shoes(g, 'sneaker', '#FF8F7A'), neck };
+      },
+    },
+    {
+      name: 'Sofi', L: 152, tf: .46, sw: 72, hw: 68, aw: 18, lw: 20, poseL: 'hip', poseR: 'hip', tilt: -6,
+      skin: '#FCDCC4', eyes: '#6B3F22', freckles: true, mouth: 'grin',
+      hairCol: '#D9793A',
+      desc: [['Body', 'Kid, regular'], ['Skin', 'Light, freckles'], ['Eyes', 'Brown'], ['Hair', 'Ginger, straight, long, pigtails with fringe'], ['Clothes', 'Yellow T-shirt with a star, denim shorts, red boots'], ['Accessories', 'Superhero cape']],
+      hairBack(c) {
+        const col = dark(c.hairCol, .12);
+        const tail = [[66, -44], [96, -46], [120, -18], [128, 24], [144, 66, true], [124, 54], [130, 98, true], [110, 78], [102, 114, true], [92, 74], [94, 30], [82, -8]];
+        const left = tail.map(([x, y, s]) => [-x, y, s]).reverse();
+        return P(shape([...arc([0, -12], 90, 84, 186, 354, 14), [92, 8], [86, 38, true], [70, 28], [-70, 28], [-86, 38, true], [-92, 8]]), col) + P(shape(tail), col) + P(shape(left), col) + S('M100,-20 Q116,20 118,56 M-100,-20 Q-116,20 -118,56', 2, dark(c.hairCol, .35));
+      },
+      hairFront(c) {
+        const pts = [[-78, 34, true], [-88, 0], ...arc([0, -12], 86, 80, 192, 348, 14), [88, 0], [78, 34, true], [64, 8], [60, -16], [50, -8, true], [40, -32], [28, -6, true], [17, -34], [5, -5, true], [-5, -34], [-17, -6, true], [-28, -32], [-40, -8, true], [-50, -28], [-60, -10, true], [-64, 6]];
+        let o = P(shape(pts), c.hairCol);
+        o += S('M40,-32 Q42,-48 52,-60 M17,-34 Q18,-52 26,-68 M-5,-34 Q-6,-52 -2,-72 M-28,-32 Q-32,-50 -30,-66 M-50,-28 Q-58,-44 -58,-56', 2, dark(c.hairCol, .28));
+        o += C([82, -30], 9, '#E4574F') + C([-82, -30], 9, '#E4574F') + C([85, -33], 3, '#FFB0A8', 0) + C([-79, -33], 3, '#FFB0A8', 0);
+        return o + hairShine(c.hairCol) + sprout(c.hairCol);
+      },
+      extrasHead() { return ''; },
+      clothes(g) {
+        const denim = '#5A7FB5', yellow = '#F6D365', red = '#E4574F', { cx, N, T, hipY, Lg } = g;
+        const bot = hipY + Lg * .62;
+        const cape = P(`M${cx - g.sw / 2 + 8},${N[1] + 4} L${cx + g.sw / 2 - 8},${N[1] + 4} C${cx + g.sw / 2 + 26},${N[1] + T} ${cx + g.sw / 2 + 58},${bot - 30} ${cx + g.sw / 2 + 74},${bot - 6} Q${cx + g.sw / 2 + 40},${bot + 4} ${cx + 18},${bot - 2} Q${cx - 16},${bot + 10} ${cx - g.sw / 2 - 30},${bot} C${cx - g.sw / 2 - 18},${bot - 40} ${cx - g.sw / 2 - 6},${N[1] + T * .6} ${cx - g.sw / 2 + 8},${N[1] + 4} Z`, red) + S(`M${cx + 6},${N[1] + T * .8} Q${cx + 30},${bot - 30} ${cx + g.sw / 2 + 36},${bot - 4}`, 2.2, dark(red, .3));
+        let legs = '';
+        for (const l of g.legs) legs += limb(partial(l.pts, 0, .4), g.lw + 9, denim, 'butt') + limb(partial(l.pts, .33, .42), g.lw + 12, light(denim, .22), 'butt');
+        legs += P(`M${cx - g.hw / 2 - 3},${g.waistY} L${cx + g.hw / 2 + 3},${g.waistY} L${cx + g.hw / 2 + 3},${hipY + 8} Q${cx + 6},${hipY + 10} ${cx + 2},${hipY - 2} Q${cx - 6},${hipY + 10} ${cx - g.hw / 2 - 3},${hipY + 8} Z`, denim);
+        let sleeves = '';
+        for (const a of g.arms) sleeves += limb(partial(a.pts, 0, .36), g.aw + 9, yellow, 'round');
+        let body = shaded(torsoPath(g, { bot: hipY - 2, e: 1 }), yellow);
+        const sc = [cx, N[1] + T * .52], star = Array.from({ length: 10 }, (_, i) => { const r = i % 2 ? 5 : 11, t = (i * 36 - 90) * Math.PI / 180; return [sc[0] + r * Math.cos(t), sc[1] + r * Math.sin(t)]; });
+        body += P('M' + star.map(pt).join(' L') + 'Z', '#FFFFFF', 2.2);
+        const neck = C([cx - g.sw * .3, N[1] + 10], 5, '#E3B341', 2) + C([cx + g.sw * .3, N[1] + 8], 5, '#E3B341', 2);
+        return { cape, legs, sleeves, body, shoes: shoes(g, 'boot', red), neck };
+      },
+    },
+  ];
+
+  // ---------- assemble into layers ----------
+  function build(c) {
+    const g = rig(c), cl = c.clothes(g);
+    const headT = (inner) => `<g transform="translate(${g.cx},${g.hy}) rotate(${c.tilt})">${inner}</g>`;
+    let legs = '';
+    for (const l of g.legs) legs += limb(l.pts, g.lw, c.skin);
+    let arms = '';
+    for (const a of g.arms) arms += limb(a.pts, g.aw, c.skin);
+    return [
+      ['Cape', cl.cape || ''],
+      ['Hair (back)', headT(c.hairBack(c))],
+      ['Body: legs', legs],
+      ['Shoes', cl.shoes],
+      ['Bottoms', cl.legs],
+      ['Body: arms', arms],
+      ['Sleeves', cl.sleeves],
+      ['Body: torso', P(torsoPath(g), c.skin)],
+      ['Top', cl.body],
+      ['Necklace / clasp', cl.neck],
+      ['Head', headT(head(c.skin))],
+      ['Face', headT(face(c))],
+      ['Beard & mustache', c.facialHair ? headT(c.facialHair(c)) : ''],
+      ['Hair (front)', headT(c.hairFront(c))],
+      ['Glasses / earrings', headT(c.extrasHead(c))],
+      ['Hands', g.arms.map((a) => hand(g, a, c.skin)).join('')],
+    ];
+  }
+
+  document.getElementById('cards').innerHTML = CHARS.map((c) => {
+    const ls = build(c).filter(([, s]) => s), g = rig(c);
+    const shadow = `<ellipse cx="203" cy="${g.ground}" rx="${f(g.hw / 2 + 44)}" ry="9" fill="#4A3228" opacity=".13"/>`;
+    const all = `<svg viewBox="0 0 400 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${c.name}">${shadow}${ls.map((l) => l[1]).join('')}</svg>`;
+    const vb = `50 ${f(g.hy - 125)} 300 ${f(g.ground - g.hy + 145)}`;
     return `<article class="card">
-      <div class="stage">${svg(c, { view: '0 40 300 430' })}</div>
+      <div class="stage">${all}</div>
       <div class="info">
-        <h2>${name}</h2>
-        <dl>${describe(c).map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+        <h2>${c.name}</h2>
+        <dl>${c.desc.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
         <details><summary>Show the ${ls.length} layers</summary>
           <div class="layers">${ls.map(([n, s]) => `<div class="layer"><div><svg viewBox="${vb}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMax meet">${s}</svg></div><span>${n}</span></div>`).join('')}</div>
         </details>

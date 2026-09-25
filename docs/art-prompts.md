@@ -103,6 +103,26 @@ isolated game sprite.
 ```
 The white sticker border and the soft oval shadow on the ground (both in several of your references) are **added by the app**, not drawn. The border can be turned on for easy levels to make friends easier to spot, and the shadow only shows on the ground (not in the sky or water).
 
+### 1.1b Must-haves (from your feedback on the first mockups)
+Add these to every character prompt. They fix what looked wrong in the first test:
+```
+MUST: a natural, relaxed, lively pose, never stiff or perfectly symmetrical:
+weight on one leg, head tilted a little, one arm doing something (waving with an
+open hand, hand on the hip, holding something). Hands clearly visible, cute and
+round, with a thumb and short fingers (never hidden, never just a stump). Shoes
+big, chunky and clearly visible, with soles and simple details, feet turned a
+little outward. BIG voluminous hair that is much wider than the head, made of
+large soft locks with pointed tips that flick outward at the ends, a few thin
+strand lines inside the hair (not straight parallel lines), one lighter shine
+band across the top of the head shaped like a ring with a jagged lower edge,
+and a small curly hair sprout on top. HUGE shiny eyes with a big white highlight
+at the top, a small one at the bottom and a lighter lower iris. The bangs end ABOVE
+the eyes and never cover them. Blush with 3 tiny diagonal lines.
+```
+And add to the negative prompt: `stiff pose, robot pose, T-pose, symmetrical pose, arms straight down, hidden hands, stump hands, tiny feet, flat hair, helmet hair, dashed lines in hair, dull eyes, eyes without highlights, bangs covering the eyes`.
+
+**Ombré hair (optional):** one of your references has dark hair that fades to a lighter color at the tips. For AI images add `hair fades from {COLOR} at the roots to {TIP COLOR} at the tips`. In the app this can be a second hair color ("tips color"), drawn as a gradient on the hair layers. Mamá in the mockups uses it.
+
 ### 1.2 Close-up style (character creator, "¡Encontrado!", medals, stories)
 Same character and shapes, just more polished. Add this to the game style:
 ```
