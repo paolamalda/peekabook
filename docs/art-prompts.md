@@ -16,12 +16,14 @@ AI image generators don't line layers up to the exact pixel. Three rules make th
 1. **Lock one canvas and one pose.** Every layer uses the same canvas (for example 1024×1024), the same pose and the same anchor points. Make the base body first, then give it as a reference or init image when you generate each layer. Stable Diffusion with ControlNet, or Midjourney `--cref`/`--sref`, works best for this.
 2. **Don't make one image per color.** Draw hair, skin, eyes and clothes in **flat light grey** (or with a separate grey "tint mask"). The app colors them in code (multiply or hue tint). One hair style then gives every hair color. The same goes for skin tones and eye colors. That's a few assets instead of hundreds.
 3. **Split hair into back and front.** Hair behind the head (long hair, ponytails) and hair in front (bangs) are two layers, so the face sits between them.
+4. **Keep the outline separate from the color.** Export every layer as two files: `*_line.png` (only the dark outline) and `*_fill.png` (only the flat colors, no outline). The app tints the fill and puts the line on top. Showing the lines alone gives you **coloring pages** of any family's characters and scenes for free, with no extra art (this is the "Dibujos para colorear" feature).
 
 ### Layer order (bottom to top)
 
 | z | Layer | Colored in code? |
 |---|-------|------------------|
-| −1 | `gear_back` (balloon basket, boat, rocket; see 2.9) | no |
+| −2 | `gear_back` (balloon basket, boat, rocket; see 2.9) | no |
+| −1 | `hood_back` (inside of a hood that's up, cape) | optional |
 | 0 | `hair_back` | yes (hair color) |
 | 1 | `body` (skin, head, neutral underwear shape) | yes (skin tone) |
 | 2 | `shoes` | optional |
@@ -29,6 +31,7 @@ AI image generators don't line layers up to the exact pixel. Three rules make th
 | 4 | `top` (shirt, jacket, dress) | optional |
 | 5 | `face` (eye whites, mouth, blush) | no |
 | 6 | `iris` | yes (eye color) |
+| 6.5 | `hood_front` (hood rim around the face, animal ears on it) | optional |
 | 7 | `hair_front` (bangs) | yes (hair color) |
 | 8 | `accessory_head` (hats, bows, glasses) | optional |
 | 9 | `accessory_hand` (balloon, book, ice cream) | optional |
@@ -40,27 +43,47 @@ Hair length is just different `hair_back` and `hair_front` pieces (short, bob, s
 
 ## 1. Master style prompt (add to every character and pet prompt)
 
-Use the same style text word for word each time so everything looks consistent.
+Based on your 15 reference images. Most were **flat and clean** (the waving boy, the girl with long hair walking, the singer girl, the pigtails girl sitting, the red panda, the deer, the wolf, the animal stickers), so that is the game style. The glossy ones (the wavy bob girl, the girl with glasses, the princess) become the close-up style in 1.2.
 
-```
-STYLE: super-cute chibi character, 2.5-head-tall proportions (head is 40% of total
-height), big round head, small soft body, stubby rounded limbs, large sparkly eyes
-positioned low on the face, tiny simple mouth, soft rosy blush, clean bold dark-brown
-outline of even 4px weight, flat cel shading with ONE soft shadow tone, no gradients,
-no texture, no noise, pastel-friendly palette, children's picture-book look,
-kawaii, friendly and warm, vector-illustration style.
+Use the same style text word for word each time so everything looks consistent. **Don't paste the reference images' names, artists or characters into prompts.** Describe the style only (some references had watermarks or were copyrighted characters).
 
-TECH: full body, front-facing 3/4 view, standing neutral pose, arms slightly away from
-the body, feet together, centered on a 1024x1024 canvas, feet touching a baseline at
-y=960px, top of head at y=80px, character is 520px wide max, transparent background,
-no ground shadow, no text, no border, no watermark, isolated asset for game sprite.
+### 1.1 Game style (every layer, every scene sprite)
+```
+STYLE: super-cute chibi kid, about 2 heads tall (the head is HALF of the total
+height), big round soft head with small ears, tiny rounded body, short stubby arms
+and legs, small mitten-like hands and small rounded feet. HUGE glossy eyes set low on
+the face: dark outline on top, a big iris that is lighter at the bottom, 2 white
+sparkle dots (one big, one small). Tiny mouth: a small smile, ":3" or a small open
+"D" smile showing a pink tongue. Round pink blush on both cheeks. Hair in a few big
+chunky locks with pointy tips, one clean shine band of lighter color, often one
+small hair sprout on top. Clean, smooth dark-brown outline (#4A3228), slightly
+thicker around the outer silhouette than on inner details. FLAT colors with ONE soft
+shadow tone, no gradients, no texture, no painterly shading. Warm, soft, slightly
+muted pastel palette. Friendly, cheerful kawaii children's-app look, vector style.
+
+TECH: full body, front 3/4 view, centered on a 1024x1024 canvas, feet on a baseline
+at y=960px, top of head at y=80px, character 520px wide max, transparent background,
+NO white sticker border, NO ground shadow, no text, no watermark, no logo, single
+isolated game sprite.
+```
+The white sticker border and the soft oval shadow on the ground (both in several of your references) are **added by the app**, not drawn. The border can be turned on for easy levels to make friends easier to spot, and the shadow only shows on the ground (not in the sky or water).
+
+### 1.2 Close-up style (character creator, "¡Encontrado!", medals, stories)
+Same character and shapes, just more polished. Add this to the game style:
+```
+CLOSE-UP EXTRA: soft gentle gradients on hair and clothes, glossy highlights on hair
+and eyes, a few clean eyelashes, subtle warm rim light. Same proportions, colors and
+outline color as the game style.
 ```
 
-**Negative prompt** (for Stable Diffusion, Flux and others that support it):
+### 1.3 Negative prompt
+For Stable Diffusion, Flux and others that support it:
 ```
-realistic, 3d render, photo, gradient, texture, background, scenery, floor, shadow on
-ground, text, watermark, extra limbs, extra fingers, cropped, cut off, multiple
-characters, blurry, noisy, scary, sexualized, adult proportions
+realistic, 3d render, photo, painterly, sketch, pencil, texture, noise, background,
+scenery, floor, ground shadow, sticker border, white outline, text, letters,
+watermark, logo, signature, extra limbs, extra fingers, cropped, cut off, multiple
+characters, blurry, scary, sexualized, adult proportions, long legs, tall body,
+famous character, princess from a movie
 ```
 
 ---
@@ -71,7 +94,8 @@ Start every prompt with **[MASTER STYLE]**. When your tool allows it, add the ba
 
 ### 2.1 Base body (make this first; everything else matches it)
 ```
-[MASTER STYLE] A bald, gender-neutral chibi child base body in a plain light-grey
+[MASTER STYLE] A bald, gender-neutral chibi child base body, standing with arms slightly out
+to the sides and away from the body, feet slightly apart, in a plain light-grey
 (#D9D9D9) skin tone, wearing simple skin-tight neutral underwear shapes, no hair,
 no clothes, no shoes, no face details except the head shape and ears. Clean
 silhouette for a paper-doll dress-up system.
@@ -85,7 +109,9 @@ white sclera and two sparkle highlights, IRIS drawn as a separate flat light-gre
 (#BFBFBF) circle, small happy mouth, soft pink blush ovals. Everything else is
 transparent. Positioned exactly where the face sits on the base body reference.
 ```
-Variations: `happy smile`, `open-mouth laugh`, `surprised O mouth`, `wink`, `sleepy`, `freckles`.
+Variations (all from your references): `small smile`, `open "D" smile with pink tongue` (excited, waving), `":3" cat mouth`, `happy closed eyes ^ ^` (relaxed, sitting), `surprised O mouth`, `wink`, `heart sparkles in the eyes` (for the "¡Encontrado!" moment), `freckles`.
+
+**Tiny version:** when a character is very far away in a scene (under ~60px), the app can swap in a simpler face: dark dot eyes with one white sparkle and a small curved smile. Make this as a separate `face_tiny` layer.
 
 ### 2.3 Hair (make back and front for every style)
 ```
@@ -104,7 +130,17 @@ light-grey (#E6E6E6) with one shadow tone and bold outline. Keep any pattern (st
 dots, stars) in a darker grey so it can be tinted. No body, no head, transparent
 background, aligned to the base body reference.
 ```
-`{GARMENT}` ideas: `t-shirt`, `striped long-sleeve shirt`, `hoodie with hood down`, `overalls bib`, `puffy winter jacket`, `raincoat`, `sweater with star`, `sundress`, `tutu dress`, `football jersey`, `school uniform`, `cardigan (grandma)`, `button-up shirt with tie (dad)`.
+`{GARMENT}` ideas: `t-shirt`, `graphic tee`, `gingham top`, `cropped denim or white jacket (worn open over a top)`, `black leather jacket`, `sailor-collar sweater with ribbon bow`, `oversized hoodie with front pocket`, `striped long-sleeve shirt`, `hoodie with hood down`, `overalls bib`, `puffy winter jacket`, `raincoat`, `sweater with star`, `sundress`, `tutu dress`, `football jersey`, `school uniform`, `cardigan (grandma)`, `button-up shirt with tie (dad)`.
+
+**Hood up / animal-ear hats:** a hood with the hood up (like the panda hoodie in your references), a onesie hood or an animal-ear beanie needs two layers:
+```
+[MASTER STYLE] ONLY a raised hood {with round panda ears / bunny ears / cat ears / no
+ears} for the chibi base body. Output TWO images: HOOD_BACK = the inside and the back
+of the hood that shows behind the head and hair, HOOD_FRONT = only the rim of the hood
+framing the face plus the ears on top. Flat light-grey, one shadow tone, bold outline,
+transparent background, aligned to the base body reference.
+```
+When a hood is up, the app hides the parts of `hair_back` that would stick out past the hood. Bangs (`hair_front`) stay on top.
 
 ### 2.5 Bottoms
 ```
@@ -112,7 +148,7 @@ background, aligned to the base body reference.
 light-grey with one shadow tone, bold outline, transparent background, aligned to
 the base body reference.
 ```
-Ideas: `jeans`, `shorts`, `pleated skirt`, `leggings`, `cargo pants`, `pajama pants with moons`.
+Ideas: `jeans`, `denim shorts with rolled hem`, `denim shorts with lace trim`, `shorts`, `pleated skirt`, `cargo pants with pockets and straps`, `leggings`, `cargo pants`, `pajama pants with moons`.
 
 ### 2.6 Shoes
 ```
@@ -120,7 +156,7 @@ Ideas: `jeans`, `shorts`, `pleated skirt`, `leggings`, `cargo pants`, `pajama pa
 with one shadow tone, bold outline, transparent background, aligned to the base body
 reference.
 ```
-Ideas: `sneakers`, `rain boots`, `sandals`, `ballet flats`, `light-up sneakers`, `snow boots`, `slippers`.
+Ideas: `sneakers with ankle socks`, `knee socks with loafers`, `black ankle boots with buckles`, `sneakers`, `rain boots`, `sandals`, `ballet flats`, `light-up sneakers`, `snow boots`, `slippers`.
 
 ### 2.7 Accessories
 ```
@@ -128,13 +164,13 @@ Ideas: `sneakers`, `rain boots`, `sandals`, `ballet flats`, `light-up sneakers`,
 color is OK but also give a light-grey tintable version, bold outline, transparent
 background, aligned to the base body reference.
 ```
-Head: `round glasses`, `sunglasses`, `baseball cap`, `beanie with pom-pom`, `hair bow`, `flower crown`, `headphones`, `party hat`, `crown`, `bunny-ear headband`.
-Hand or body: `red balloon`, `ice-cream cone`, `teddy bear`, `backpack`, `book`, `umbrella`, `kite string`, `scarf`, `cape`.
+Head: `headband`, `hair clip with a small bow`, `big ribbon bow on a ponytail`, `stud earrings`, `round glasses`, `sunglasses`, `baseball cap`, `beanie with pom-pom`, `hair bow`, `flower crown`, `headphones`, `party hat`, `crown`, `bunny-ear headband`.
+Hand or body: `crossbody bag with a thin strap`, `belt`, `microphone`, `drinking glass`, `red balloon`, `ice-cream cone`, `teddy bear`, `backpack`, `book`, `umbrella`, `kite string`, `scarf`, `cape`.
 
 > Hats cover hair. In the app, if a hat is on, hide `hair_front` or swap in a "hat-hair" version.
 
 ### 2.8 Poses (optional, but makes scenes more lively)
-Make a full base-body set, and fitted layers, for a few poses: `standing`, `waving`, `walking side view`, `sitting`, `peeking from behind something (only head + hands visible)`.
+Make a full base-body set, and fitted layers, for a few poses: `standing, arms slightly out to the sides` (the main dress-up pose; sleeves and jackets swap cleanly), `waving, other hand on the hip`, `walking`, `singing / cheering (one arm out)`, `sitting on the ground with knees up`, `kneeling`, `peeking from behind something (only head + hands visible)`.
 The **peeking** pose is great for the hiding game. Keep the pose count small, because every pose multiplies the number of assets.
 
 Poses for the sky, water and space (only needed if you use those zones, see section 5):
@@ -176,27 +212,43 @@ Tie gear to the season looks and costumes the kids trade medals for (for example
 
 ## 3. Pets
 
-Same idea as the characters: a base per species, drawn in grey so it can be tinted, plus pattern and accessory layers.
+One pet style and **one shared body template** for every species. Only the ears, tail, markings and colors change. Your red panda, deer and wolf references set the look.
 
+### 3.1 Pet style (use instead of 1.1 for pets)
 ```
-[MASTER STYLE — replace "chibi character" with "chibi pet" and "2.5-head-tall" with
-"oversized round head, tiny body"] ONLY the base body of a cute chibi {SPECIES},
-sitting, facing 3/4 front, drawn in flat light-grey (#DADADA) with one shadow tone,
-big sparkly eyes (iris as separate grey layer), tiny nose, bold outline, 512x512
-canvas, paws on baseline y=480px, transparent background.
+PET STYLE: super-cute chibi animal, oversized round head (about 60% of the height),
+tiny chubby body, short stubby legs with rounded paws, a lighter cream belly, chest
+and muzzle, HUGE glossy dark eyes with 2 white sparkle dots, tiny nose, small "w" or
+open smiling mouth, round pink blush, fluffy tufts on the chest and cheeks. Same
+dark-brown outline (#4A3228) and FLAT colors with ONE soft shadow tone as the kids,
+so pets and people look like they belong to the same world. 512x512 canvas,
+paws on a baseline at y=480px, transparent background, no sticker border, no ground
+shadow, no text, no watermark.
 ```
-Species: `dog (floppy ears)`, `dog (pointy ears)`, `cat`, `bunny`, `hamster`, `guinea pig`, `parrot`, `turtle`, `goldfish in bowl`, `horse`, `lizard`.
 
-Pet layers:
+### 3.2 Base body (2 poses)
+```
+[PET STYLE] ONLY the base body of a cute chibi {dog / cat / bunny / hamster}, {POSE},
+3/4 front view, flat light-grey (#DADADA) fur with a lighter grey (#F2F2F2) belly and
+muzzle so both can be tinted separately, iris as a separate grey layer, NO ears and
+NO tail (they are separate layers), aligned to the pet template.
+```
+`{POSE}`:
+- `sitting, front paws together, back paws showing their pads` (the main pose)
+- `standing on four legs, head turned toward the viewer, mouth open and happy`
+
+**Species:** start with only `dog`, `cat`, `bunny` and `hamster`. Most other pets can reuse one of these four bodies with new ears and a tail. Add birds, fish or turtles later only if families ask for them, since they need their own bodies.
+
+### 3.3 Pet layers
 | Layer | Prompt fragment |
 |-------|-----------------|
-| `pattern` | `ONLY the {spots / patches / tabby stripes / tuxedo chest / socks} markings for the {SPECIES} base, darker grey, transparent elsewhere` |
-| `ears_alt` | `ONLY {floppy / pointy / folded} ears for the {SPECIES} base` |
-| `tail_alt` | `ONLY a {curly / fluffy / short stub / long} tail` |
+| `ears` | `ONLY {pointy / floppy / folded / long bunny / round} ears for the pet template, grey with a pink inner ear` |
+| `tail` | `ONLY a {fluffy / curly / short stub / long thin / round pom-pom} tail` |
+| `pattern` | `ONLY the {spots / patches / tabby stripes / tuxedo chest / socks / mask around the eyes} markings, darker grey, transparent elsewhere` |
 | `accessory` | `ONLY a {collar with tag / bandana / bow / tiny sweater / harness}` |
-| `gear` | `ONLY a {doggy life vest / swim ring / tiny astronaut bubble helmet / balloon tied to the collar / seat in the owner's basket}` — lets the pet go into water, space or sky too (same rules as section 2.9) |
+| `gear` | `ONLY a {doggy life vest / swim ring / tiny astronaut bubble helmet / balloon tied to the collar / seat in the owner's basket}`. This lets the pet go into water, space or sky too (same rules as section 2.9) |
 
-Colors come from code: a main fur color plus a pattern color, so a Dalmatian, a black lab and a calico cat can share the same assets.
+Colors come from code: the main fur color, the belly/muzzle color and the pattern color. A Dalmatian, a black lab, a golden retriever and a calico cat can then all share the same assets.
 
 ---
 
