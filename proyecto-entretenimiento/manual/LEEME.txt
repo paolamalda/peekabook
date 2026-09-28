@@ -1,0 +1,25 @@
+TU TALENTO, TU MARCA, TU FUTURO · MANUAL VERSIÓN 2
+Desarrolla Talento · 28 de septiembre de 2026
+
+QUÉ TRAE
+--------
+TTMF_manual_v2.docx / .md     Manual corregido: 11 módulos, 68 lecciones (objetivo y gancho),
+                              personajes, comunidad y referencias, fuentes y pendientes.
+TTMF_M1U01_muestra.md         Lección M1 U01 completa, en la sintaxis del generador del curso (v3).
+
+CAMBIOS PRINCIPALES
+-------------------
+- El crédito es el eje: sistema financiero, comparar y elegir (institución primero y
+  luego cuenta, ahorro, seguro y crédito), el crédito es deuda, Buró y Círculo, y salir de deudas.
+- Lo fiscal, los contratos y las regalías se conservan completos, ya corregidos
+  (RESICO no deduce, tasas de 1% a 2.5%, IVA, ANDI/SACM/EJE/SOMEXFON).
+- Módulo nuevo de fraudes y robo de identidad (8 lecciones).
+- Protección (6 lecciones) y futuro (8 lecciones) ampliados.
+- Fondo de sequía: Cetes en Cetesdirecto y cuentas a la vista de bancos con protección
+  del IPAB (Nu, Revolut u otros, verificando su estatus). Sin SOFIPO, SOCAP ni SOFOM.
+- Monetización fuera de las lecciones: solo en canales y marcada como referencia comercial.
+
+POR CONFIRMAR (sección 7 del manual)
+------------------------------------
+E01 a E09: tasas de RESICO, deducciones en RESICO, IMSS independientes, estatus de bancos
+digitales, plazos de Buró, sitios de EJE/SOMEXFON, ANDA, vivienda y robo de identidad.
