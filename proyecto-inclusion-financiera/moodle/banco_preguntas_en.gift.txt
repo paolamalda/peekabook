@@ -1,0 +1,894 @@
+$CATEGORY: $course$/Your Money/M1
+
+::M1 U01 P1::You borrow 300 dollars. How does your net worth change? {
+	~Up 300
+	=No change #you have 300 more, but owe 300
+	~Down 300
+}
+
+::M1 U01 P2::You move 100 dollars from your savings to your checking account. Is it income? {
+	~Yes
+	=No #it only moved
+}
+
+::M1 U01 P3::You pay 20 in credit card interest. What happens to your net worth? {
+	~Up
+	~No change
+	=Down #you paid a cost and did not reduce the debt
+}
+
+::M1 U02 P1::What is 7% of 600? {
+	=42 #600 × 0.07
+	~4.2
+	~420
+}
+
+::M1 U02 P2::A rate goes from 2% to 3%. How many percentage points did it rise? {
+	=1 #the relative increase is 50%, but it is 1 percentage point
+	~50
+	~3
+}
+
+::M1 U02 P3::Inflation dropped from 6% to 4%. Did prices go down? {
+	~Yes
+	=No, they rise more slowly
+}
+
+::M1 U03 P1::What is opportunity cost? {
+	~The price of what you buy
+	=What you give up when you choose
+	~A bank fee
+}
+
+::M1 U03 P2::What do you do when everything seems urgent? {
+	~Pay whoever pushes hardest
+	=Ask for the real deadline, the consequence of waiting and the alternatives
+}
+
+::M1 U03 P3::A long contract deserves\: {
+	~The same review as a daily purchase
+	=More review
+}
+
+::M1 U04 P1::How many payments per year are "every two weeks"? {
+	~24
+	=26
+	~52
+}
+
+::M1 U04 P2::You earn 100 a day and worked 18 days. How much did you receive? {
+	=1,800
+	~3,000
+}
+
+::M1 U04 P3::Should you take on a fixed commitment based on your best month? {
+	~Yes
+	=No
+}
+
+::M1 U05 P1::Which money can you use? {
+	~Gross
+	=Net
+}
+
+::M1 U05 P2::Are all deductions taxes? {
+	~Yes
+	=No
+}
+
+::M1 U05 P3::If they call you a "contractor," does that decide your legal classification? {
+	~Yes
+	=Not necessarily
+}
+
+::M1 U06 P1::A 4-dollar expense, 20 times a month, adds up to how much a year? {
+	~80
+	=960 #80 × 12
+	~480
+}
+
+::M1 U06 P2::Does cancelling the card automatically cancel a subscription? {
+	~Yes
+	=Not necessarily
+}
+
+::M1 U06 P3::Insurance of 600 every 6 months\: how much should you set aside each month? {
+	~50
+	=100
+	~600
+}
+
+::M1 U07 P1::What is the closing balance formula? {
+	=Opening + money in − money out
+	~Money in − money out
+}
+
+::M1 U07 P2::If the month ends positive, can there be a negative week? {
+	=Yes
+	~No
+}
+
+::M1 U07 P3::Is a due-date change you requested already approved? {
+	~Yes
+	=No, not until they confirm
+}
+
+::M1 U08 P1::Does a budget require money left over? {
+	~Yes
+	=No
+}
+
+::M1 U08 P2::A 240 payment is due in 6 months and you have set nothing aside. How much per month? {
+	~20
+	=40
+}
+
+::M1 U08 P3::Does zero-based budgeting mean spending everything? {
+	~Yes
+	=No, it means giving every dollar a job
+}
+
+::M1 U09 P1::Does filing a return guarantee a refund? {
+	~Yes
+	=No
+}
+
+::M1 U09 P2::Does an ITIN authorize work? {
+	~Yes
+	=No
+}
+
+::M1 U09 P3::Does an extension to file extend the time to pay? {
+	~Usually yes
+	=Usually no
+}
+
+::M1 U10 P1::Is app income reportable even if you do not get a form? {
+	=It can be
+	~Never
+}
+
+::M1 U10 P2::Is moving 500 from the business account to your personal account new income? {
+	~Yes
+	=No
+}
+
+::M1 U10 P3::Should you set aside "10%" for taxes because a friend does? {
+	~Yes
+	=No, calculate your own case
+}
+
+::M1 U11 P1::Does an ITIN allow you to work? {
+	~Yes
+	=No
+}
+
+::M1 U11 P2::Can CalEITC be claimed with an ITIN? {
+	=Yes
+	~No
+}
+
+::M1 U11 P3::What happens if you do not use your ITIN on a federal return for three years in a row? {
+	=It expires
+	~Nothing
+}
+
+::M1 U12 P1::What must every paid preparer have? {
+	=A PTIN
+	~Nothing
+}
+
+::M1 U12 P2::In California, a paid preparer who is not a CPA, EA or attorney must register with\: {
+	=CTEC
+	~DMV
+}
+
+::M1 U12 P3::Is it safe to sign a blank return? {
+	~Yes
+	=No
+}
+
+::M1 U13 P1::Does the public charge rule apply to all immigration processes? {
+	~Yes
+	=No
+}
+
+::M1 U13 P2::Under the current rule, is CalFresh considered for public charge? {
+	~Yes
+	=No
+}
+
+::M1 U13 P3::Who can give you immigration advice? {
+	~A notary
+	=An attorney or a DOJ-accredited representative
+}
+
+::M1 U14 P1::What does a checkable goal have? {
+	~Only a wish
+	=Action, date and evidence
+}
+
+::M1 U14 P2::Can "I need to find out" be an action? {
+	=Yes, if it has a date
+	~No
+}
+
+::M1 U14 P3::If your income drops, must you keep the same savings contribution? {
+	~Yes
+	=Not necessarily; adjust the plan
+}
+
+$CATEGORY: $course$/Your Money/M2
+
+::M2 U01 P1::Can you open an account at the central bank? {
+	~Yes
+	=No
+}
+
+::M2 U01 P2::Who should explain a policy deductible? {
+	=The insurer
+	~The central bank
+	~The remittance company
+}
+
+::M2 U01 P3::A company is registered with a regulator. Does that guarantee its offer is right for you? {
+	~Yes
+	=No
+}
+
+::M2 U02 P1::Does "digital" mean it is a bank? {
+	~Yes
+	=No
+}
+
+::M2 U02 P2::Is an investment bought at a bank insured by the FDIC? {
+	~Yes
+	=No
+}
+
+::M2 U02 P3::Does deposit insurance protect against a scam? {
+	~Yes
+	=No
+}
+
+::M2 U03 P1::Is the AB 60 license a REAL ID? {
+	~Yes
+	=No
+}
+
+::M2 U03 P2::Is an ITIN a photo ID? {
+	~Yes
+	=No
+}
+
+::M2 U03 P3::Where do you get a consular ID? {
+	~At any store
+	=At the consulate, with an official appointment
+}
+
+::M2 U04 P1::Are the opening deposit and the minimum balance the same? {
+	~Yes
+	=No
+}
+
+::M2 U04 P2::An account is free with direct deposit and you are paid in cash. Can you assume it is free? {
+	~Yes
+	=No
+}
+
+::M2 U04 P3::Does a joint account let the other person withdraw money? {
+	=Yes
+	~No
+}
+
+::M2 U05 P1::Is a check you already see in your balance guaranteed? {
+	~Yes
+	=No
+}
+
+::M2 U05 P2::Which is harder to recover? {
+	~An unauthorized charge
+	=A payment you authorized because you were tricked
+}
+
+::M2 U05 P3::Is cancelling the card enough to cancel a subscription? {
+	~Yes
+	=No
+}
+
+::M2 U06 P1::Does planning a remittance mean loving your family less? {
+	~Yes
+	=No
+}
+
+::M2 U06 P2::In what currency should you define a need that is paid in Mexico? {
+	~Dollars
+	=Pesos
+}
+
+::M2 U06 P3::Should you ask for your relative's bank password to help them? {
+	~Yes
+	=No
+}
+
+::M2 U07 P1::Is the cost of sending subtracted from capacity? {
+	=Yes
+	~No
+}
+
+::M2 U07 P2::If capacity comes out negative, what do you do? {
+	~Write zero
+	=Show the shortfall and look for options
+}
+
+::M2 U07 P3::Should you promise a fixed amount if your income varies? {
+	~Yes
+	=A range is better
+}
+
+::M2 U08 P1::Does "no fee" guarantee more money arrives? {
+	~Yes
+	=No
+}
+
+::M2 U08 P2::Does the 1% tax apply to all remittances? {
+	~Yes
+	=No, to certain remittances paid with cash or physical instruments
+}
+
+::M2 U08 P3::To compare, what must be the same? {
+	=The base\: same budget or same amount to receive
+	~Nothing
+}
+
+::M2 U09 P1::Where do you check a remittance company's license in California? {
+	=DFPI or NMLS
+	~In its ad
+}
+
+::M2 U09 P2::In general, how long do you have to cancel at no cost? {
+	=30 minutes
+	~30 days
+}
+
+::M2 U09 P3::Does "you have 180 days" mean you should wait? {
+	~Yes
+	=No
+}
+
+::M2 U10 P1::Is borrowed money earned income? {
+	~Yes
+	=No
+}
+
+::M2 U10 P2::If you "renew" by paying only the fee, do you reduce what you owe? {
+	~Yes
+	=No
+}
+
+::M2 U10 P3::Is an app pay advance debt? {
+	=Yes
+	~No
+}
+
+::M2 U11 P1::What number do you call to verify an emergency? {
+	~The one in the message
+	=One you already knew
+}
+
+::M2 U11 P2::Does a voice that sounds exactly like your relative prove it is real? {
+	~Yes
+	=No
+}
+
+::M2 U11 P3::How many parts does a good family agreement have? {
+	~2
+	=6
+}
+
+::M2 U12 P1::In what currency do you define a goal paid in Mexico? {
+	=Pesos
+	~Dollars
+}
+
+::M2 U12 P2::Does your transfer receipt prove you own a piece of land? {
+	~Yes
+	=No
+}
+
+::M2 U12 P3::Can one contribution count toward two goals at once? {
+	~Yes
+	=No
+}
+
+::M2 U13 P1::What better shows that you compared? {
+	~Downloading an app
+	=A sheet with two offers and a date
+}
+
+::M2 U13 P2::Is sending less always better? {
+	~Yes
+	=No
+}
+
+::M2 U13 P3::Does a promotion represent the usual cost? {
+	~Yes
+	=No
+}
+
+$CATEGORY: $course$/Your Money/M3
+
+::M3 U01 P1::Does a good score guarantee you can pay? {
+	~Yes
+	=No
+}
+
+::M3 U01 P2::Is available credit your money? {
+	~Yes
+	=No
+}
+
+::M3 U01 P3::If your cushion is 200 and the payment is 150, what happens if your income drops 100? {
+	~You are still fine
+	=A 50 deficit
+}
+
+::M3 U02 P1::Does checking your own report lower your score? {
+	~Yes
+	=No
+}
+
+::M3 U02 P2::Is a real late payment an error that can be erased? {
+	~Yes
+	=No
+}
+
+::M3 U02 P3::What do you send as proof in a dispute? {
+	~The original
+	=A copy
+}
+
+::M3 U03 P1::Does a secured card deposit pay for your purchases? {
+	~Yes
+	=No
+}
+
+::M3 U03 P2::Do you need to pay interest to build history? {
+	~Yes
+	=No
+}
+
+::M3 U03 P3::Does a product that does not report to the agencies build history? {
+	~Yes
+	=No
+}
+
+::M3 U04 P1::Can a real late payment be erased because it lowers your score? {
+	~Yes
+	=No
+}
+
+::M3 U04 P2::Balance 240 and limit 800. Utilization? {
+	=30%
+	~24%
+}
+
+::M3 U04 P3::A company charges you before doing credit repair work. {
+	=That is a warning sign
+	~That is normal
+}
+
+::M3 U05 P1::Loan A\: 10 payments of 110 plus a 40 fee. B\: 10 payments of 112. Which costs less? {
+	~A (1,140)
+	=B (1,120)
+}
+
+::M3 U05 P2::Does paying the minimum avoid interest? {
+	~Yes
+	=No
+}
+
+::M3 U05 P3::Is deferred interest the same as 0%? {
+	~Yes
+	=No
+}
+
+::M3 U06 P1::Which strategy saves more interest? {
+	=Avalanche
+	~Snowball
+}
+
+::M3 U06 P2::Should you always pay the highest rate first? {
+	~Yes
+	=No, check consequences
+}
+
+::M3 U06 P3::Does a lower payment mean you pay less in total? {
+	~Yes
+	=Not necessarily
+}
+
+::M3 U07 P1::Does a dispute with an agency stop a lawsuit? {
+	~Yes
+	=No
+}
+
+::M3 U07 P2::Can a debt collector threaten you? {
+	~Yes
+	=No
+}
+
+::M3 U07 P3::Is an arrangement you asked for already accepted? {
+	~Yes
+	=No, not until they confirm
+}
+
+::M3 U08 P1::Can co-signing make you responsible for the whole debt? {
+	=Yes
+	~No
+}
+
+::M3 U08 P2::Does a family promise change the contract with the bank? {
+	~Yes
+	=No
+}
+
+::M3 U08 P3::Should you share your password to help? {
+	~Yes
+	=No
+}
+
+::M3 U09 P1::Does a traditional tanda build credit history? {
+	~Yes
+	=No
+}
+
+::M3 U09 P2::Whoever receives first in a tanda gets…? {
+	=An interest-free loan
+	~A profit
+}
+
+::M3 U09 P3::Can an organized circle report to the bureaus? {
+	=Yes
+	~No
+}
+
+::M3 U10 P1::Which improvement can be checked? {
+	~"I'll raise my score 80 points"
+	="I reviewed my report and filed a dispute with a reference number"
+}
+
+::M3 U10 P2::Is opening a card always the first step? {
+	~Yes
+	=No
+}
+
+::M3 U10 P3::Balance 800, interest 16, purchases 90, payment 120. Closing balance? {
+	=786
+	~680
+}
+
+$CATEGORY: $course$/Your Money/M4
+
+::M4 U01 P1::What number do you call to verify? {
+	~The one in the message
+	=One you look up yourself
+}
+
+::M4 U01 P2::Does the browser padlock prove the page is honest? {
+	~Yes
+	=No
+}
+
+::M4 U01 P3::Will your bank ask for the code you received by text? {
+	~Yes
+	=No
+}
+
+::M4 U02 P1::Can a notary public give you immigration advice? {
+	~Yes
+	=No
+}
+
+::M4 U02 P2::Where do you check an attorney's license in California? {
+	=State Bar
+	~In their ad
+}
+
+::M4 U02 P3::Will ICE ask you to pay with gift cards? {
+	~Yes
+	=No
+}
+
+::M4 U03 P1::Which account do you protect first? {
+	~Social media
+	=Main email
+}
+
+::M4 U03 P2::Do you share the code you received if "the bank" calls? {
+	~Yes
+	=No
+}
+
+::M4 U03 P3::Does a budgeting app need to read your messages? {
+	~Yes
+	=No
+}
+
+::M4 U04 P1::Does a credit freeze protect your existing accounts? {
+	~Yes
+	=No
+}
+
+::M4 U04 P2::Is negotiating with the scammer a necessary step? {
+	~Yes
+	=No
+}
+
+::M4 U04 P3::Where do you create an identity theft recovery plan? {
+	=IdentityTheft.gov
+	~Social media
+}
+
+::M4 U05 P1::Is a disagreement about spending always abuse? {
+	~Yes
+	=No
+}
+
+::M4 U05 P2::To pass, must you confront the other person? {
+	~Yes
+	=No
+}
+
+::M4 U05 P3::Does having access to an older relative's money give you the right to use it? {
+	~Yes
+	=No
+}
+
+::M4 U06 P1::Reserve 600 and expenses 1,500. How many months does it cover? {
+	=0.4
+	~2.5
+}
+
+::M4 U06 P2::Is a known annual payment an emergency? {
+	~Yes
+	=No, it is a planned expense
+}
+
+::M4 U06 P3::Is an investment that can drop a good place for the reserve? {
+	~Yes
+	=No
+}
+
+::M4 U07 P1::Does liability insurance repair your car? {
+	~Yes
+	=No
+}
+
+::M4 U07 P2::Does the building owner's insurance cover your belongings? {
+	~Yes
+	=No
+}
+
+::M4 U07 P3::Service 1,500, deductible 300, coinsurance 25%. How much do you pay? {
+	=600 #300 + 25% of 1,200
+	~375
+}
+
+::M4 U08 P1::Is the explanation of benefits a bill? {
+	~Yes
+	=No
+}
+
+::M4 U08 P2::Must California hospitals have a financial assistance policy? {
+	=Yes
+	~No
+}
+
+::M4 U08 P3::Do you delay urgent care to finish the exercise? {
+	~Yes
+	=Never
+}
+
+::M4 U09 P1::Does an unconfirmed payout count as a resource? {
+	~Yes
+	=No
+}
+
+::M4 U09 P2::Does homeowners insurance usually cover earthquakes? {
+	~Yes
+	=It is usually a separate policy
+}
+
+::M4 U09 P3::Do you keep the only copy of your documents at home? {
+	~Yes
+	=No, also somewhere else safe
+}
+
+::M4 U10 P1::Does the Caregiver's Authorization Affidavit change custody? {
+	~Yes
+	=No
+}
+
+::M4 U10 P2::Does sharing your password give legal authorization? {
+	~Yes
+	=No
+}
+
+::M4 U10 P3::How often should you review the plan? {
+	~Never
+	=Every six months or if something changes
+}
+
+::M4 U11 P1::Does a protection plan require buying every insurance? {
+	~Yes
+	=No
+}
+
+::M4 U11 P2::A fake emergency arrives when your income is down. Which parts do you use? {
+	~Only the reserve
+	=Verification, calendar, reserve and remittance agreement
+}
+
+$CATEGORY: $course$/Your Money/M5
+
+::M5 U01 P1::Assets 12,000 and debts 8,500. Net worth? {
+	=3,500
+	~20,500
+}
+
+::M5 U01 P2::Is net worth available cash? {
+	~Yes
+	=No
+}
+
+::M5 U01 P3::Can you assign the same 80 to three goals? {
+	~Yes
+	=No
+}
+
+::M5 U02 P1::1,000 at 4% for two years, with no contributions. Balance? {
+	~1,080
+	=1,081.60
+}
+
+::M5 U02 P2::An investment goes up 10% and then down 10%. Starting at 1,000, how much is left? {
+	~1,000
+	=990
+}
+
+::M5 U02 P3::Net return 5% and inflation 4%. Approximate real return? {
+	=0.96%
+	~9%
+}
+
+::M5 U03 P1::Is an IRA the same as a stock? {
+	~Yes
+	=No
+}
+
+::M5 U03 P2::Is holding two similar funds diversifying? {
+	~Yes
+	=Not necessarily
+}
+
+::M5 U03 P3::Where do you check a broker? {
+	=BrokerCheck
+	~Their social media
+}
+
+::M5 U04 P1::Can a landlord in California ask about your immigration status? {
+	~Yes
+	=No
+}
+
+::M5 U04 P2::Does a 1,800 mortgage cost the same as 1,800 rent? {
+	~Yes
+	=No, there are more costs
+}
+
+::M5 U04 P3::If you receive eviction papers from the court, what do you do? {
+	~Wait
+	=Look for legal help right away
+}
+
+::M5 U05 P1::Car A\: payment 250 and other costs 320. Car B\: payment 310 and other costs 230. Which costs less per month? {
+	~A (570)
+	=B (540)
+}
+
+::M5 U05 P2::Is a longer loan always better because the payment is lower? {
+	~Yes
+	=No
+}
+
+::M5 U05 P3::Is "guaranteed job" in an ad secure income? {
+	~Yes
+	=No
+}
+
+::M5 U06 P1::Does an IRA require earned income to contribute? {
+	=Yes
+	~No
+}
+
+::M5 U06 P2::Is a 20-year projection a promise? {
+	~Yes
+	=No
+}
+
+::M5 U06 P3::Should you cash out your 401(k) when you change jobs without reviewing options? {
+	~Yes
+	=No
+}
+
+::M5 U07 P1::Is the U.S.–Mexico social security agreement in force? {
+	~Yes
+	=No, according to the SSA
+}
+
+::M5 U07 P2::Are an AFORE and a 401(k) equivalent? {
+	~Yes
+	=No
+}
+
+::M5 U07 P3::Do you pay someone who promises to recover your AFORE? {
+	~Yes
+	=I verify and use official channels
+}
+
+::M5 U08 P1::Does sharing your password create a power of attorney? {
+	~Yes
+	=No
+}
+
+::M5 U08 P2::Does updating your phone number change your beneficiary? {
+	~Yes
+	=No
+}
+
+::M5 U08 P3::Can an emergency contact withdraw money from your account? {
+	~Yes
+	=No
+}
+
+::M5 U09 P1::Does adjusting the plan mean you failed? {
+	~Yes
+	=No
+}
+
+::M5 U09 P2::Income −400 and transportation +100. Effect on your cash flow? {
+	~400
+	=500
+}
+
+::M5 U09 P3::After separating, is it enough to split expenses in two? {
+	~Yes
+	=No
+}
+
+::M5 U10 P1::Can you apply for an EIN with an ITIN? {
+	=Yes
+	~No
+}
+
+::M5 U10 P2::Is it a good idea to mix business and household money? {
+	~Yes
+	=No
+}
+
+::M5 U10 P3::Is your time part of the cost? {
+	=Yes
+	~No
+}
+
+::M5 U11 P1::Can you count the same emergency fund as a down payment? {
+	~Yes
+	=No
+}
+
+::M5 U11 P2::Does a good plan always end positive? {
+	~Yes
+	=No, it can show a gap and how to handle it
+}
+

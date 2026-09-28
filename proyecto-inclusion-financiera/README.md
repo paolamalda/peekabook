@@ -16,6 +16,15 @@ Programa gratuito de finanzas personales para migrantes. Piloto en California; d
 | `prompts-app-complementos.md` | Prompts de back end, front end, administración e integraciones de la app |
 | `plan-maestro.md` / `.json` / `.html` | Diferenciadores, complementos, competencia y pendientes |
 
+## Moodle (carpeta `moodle/`)
+
+- `banco_preguntas_es.gift.txt` / `banco_preguntas_en.gift.txt`: 175 preguntas por idioma, importables en formato GIFT.
+- `Guiones_H5P_ES.docx`: guion de la actividad H5P de cada lección.
+- `Guia_LevelUp_Insignias_ES.docx`: niveles, puntos, insignias y finalización.
+- `LEEME.txt`: instrucciones paso a paso.
+
+Los zips de cada entrega están en `../entregas/`, cada uno con su `LEEME.txt`.
+
 ## Recursos (carpeta `recursos/`)
 
 - `Para_saber_mas_por_leccion.xlsx` y `para_saber_mas_moodle.csv`: 140 enlaces oficiales por lección, listos para cargar como recursos URL en Moodle.
@@ -31,6 +40,7 @@ Programa gratuito de finanzas personales para migrantes. Piloto en California; d
 ```bash
 node herramientas/md2docx.js salida.docx "Título" "Subtítulo" archivo1.md archivo2.md ...
 node herramientas/build-plan.js   # regenera el plan maestro desde el JSON
+python3 herramientas/quiz_gift.py   # genera el banco de preguntas GIFT
 python3 herramientas/para_saber_mas.py   # inserta "Para saber más" y genera el catálogo
 python3 herramientas/matriz_datos.py && python3 herramientas/matriz_xlsx.py   # matriz (requiere openpyxl)
 ```

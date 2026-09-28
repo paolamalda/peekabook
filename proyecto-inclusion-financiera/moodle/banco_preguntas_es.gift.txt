@@ -1,0 +1,894 @@
+$CATEGORY: $course$/Tu Dinero/M1
+
+::M1 U01 P1::Te prestan 300 dólares. ¿Cómo cambia tu patrimonio neto? {
+	~Sube 300
+	=No cambia #tienes 300 más, pero debes 300
+	~Baja 300
+}
+
+::M1 U01 P2::Pasas 100 dólares de tu cuenta de ahorro a tu cuenta corriente. ¿Es ingreso? {
+	~Sí
+	=No #solo cambió de lugar
+}
+
+::M1 U01 P3::Pagas 20 de intereses de tu tarjeta. ¿Qué pasa con tu patrimonio? {
+	~Sube
+	~No cambia
+	=Baja #pagaste un costo y no redujiste la deuda
+}
+
+::M1 U02 P1::¿Cuánto es 7% de 600? {
+	=42 #600 × 0.07
+	~4.2
+	~420
+}
+
+::M1 U02 P2::Una tasa sube de 2% a 3%. ¿Cuántos puntos porcentuales subió? {
+	=1 #el aumento relativo es 50%, pero son 1 punto porcentual
+	~50
+	~3
+}
+
+::M1 U02 P3::La inflación bajó de 6% a 4%. ¿Los precios bajaron? {
+	~Sí
+	=No, suben más lento
+}
+
+::M1 U03 P1::¿Qué es el costo de oportunidad? {
+	~El precio de lo que compras
+	=Lo que dejas de obtener al elegir
+	~Una comisión bancaria
+}
+
+::M1 U03 P2::¿Qué hacer cuando todo parece urgente? {
+	~Pagar lo que más presiona
+	=Preguntar la fecha real, la consecuencia de esperar y las alternativas
+}
+
+::M1 U03 P3::Un contrato largo merece\: {
+	~La misma revisión que una compra diaria
+	=Más revisión
+}
+
+::M1 U04 P1::¿Cuántos pagos al año hay "cada dos semanas"? {
+	~24
+	=26
+	~52
+}
+
+::M1 U04 P2::Cobras 100 diarios y trabajaste 18 días. ¿Cuánto recibiste? {
+	=1,800
+	~3,000
+}
+
+::M1 U04 P3::¿Conviene tomar un compromiso fijo con base en tu mejor mes? {
+	~Sí
+	=No
+}
+
+::M1 U05 P1::¿Cuál es el dinero que puedes usar? {
+	~El bruto
+	=El neto
+}
+
+::M1 U05 P2::¿Todos los descuentos son impuestos? {
+	~Sí
+	=No
+}
+
+::M1 U05 P3::Si te llaman "contratista", ¿eso decide tu clasificación legal? {
+	~Sí
+	=No necesariamente
+}
+
+::M1 U06 P1::Un gasto de 4 dólares, 20 veces al mes, ¿cuánto suma al año? {
+	~80
+	=960 #80 × 12
+	~480
+}
+
+::M1 U06 P2::¿Cancelar la tarjeta cancela automáticamente una suscripción? {
+	~Sí
+	=No necesariamente
+}
+
+::M1 U06 P3::Un seguro de 600 cada 6 meses\: ¿cuánto conviene apartar al mes? {
+	~50
+	=100
+	~600
+}
+
+::M1 U07 P1::¿Cuál es la fórmula del saldo final? {
+	=Inicial + entradas − salidas
+	~Entradas − salidas
+}
+
+::M1 U07 P2::Si el mes termina positivo, ¿puede haber una semana negativa? {
+	=Sí
+	~No
+}
+
+::M1 U07 P3::¿Un cambio de fecha solicitado ya está aprobado? {
+	~Sí
+	=No, hasta que lo confirmen
+}
+
+::M1 U08 P1::¿Un presupuesto exige que sobre dinero? {
+	~Sí
+	=No
+}
+
+::M1 U08 P2::Un pago de 240 vence en 6 meses y no has apartado nada. ¿Cuánto apartar al mes? {
+	~20
+	=40
+}
+
+::M1 U08 P3::¿Presupuesto base cero significa gastar todo? {
+	~Sí
+	=No, significa asignar cada dólar
+}
+
+::M1 U09 P1::¿Presentar la declaración garantiza un reembolso? {
+	~Sí
+	=No
+}
+
+::M1 U09 P2::¿El ITIN autoriza a trabajar? {
+	~Sí
+	=No
+}
+
+::M1 U09 P3::Una prórroga para declarar, ¿extiende el plazo para pagar? {
+	~Normalmente sí
+	=Normalmente no
+}
+
+::M1 U10 P1::¿El ingreso de apps es declarable aunque no recibas formulario? {
+	=Puede serlo
+	~Nunca
+}
+
+::M1 U10 P2::Pasar 500 de la cuenta del negocio a la personal, ¿es ingreso nuevo? {
+	~Sí
+	=No
+}
+
+::M1 U10 P3::¿Conviene apartar "el 10%" para impuestos porque un amigo lo hace? {
+	~Sí
+	=No, hay que calcular tu caso
+}
+
+::M1 U11 P1::¿El ITIN sirve para trabajar? {
+	~Sí
+	=No
+}
+
+::M1 U11 P2::¿El CalEITC puede reclamarse con ITIN? {
+	=Sí
+	~No
+}
+
+::M1 U11 P3::¿Qué pasa si no usas tu ITIN en una declaración federal durante tres años seguidos? {
+	=Vence
+	~Nada
+}
+
+::M1 U12 P1::¿Qué debe tener todo preparador pagado? {
+	=PTIN
+	~Nada
+}
+
+::M1 U12 P2::En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en\: {
+	=CTEC
+	~DMV
+}
+
+::M1 U12 P3::¿Es seguro firmar una declaración en blanco? {
+	~Sí
+	=No
+}
+
+::M1 U13 P1::¿La regla de carga pública aplica a todos los trámites migratorios? {
+	~Sí
+	=No
+}
+
+::M1 U13 P2::Según la regla vigente, ¿CalFresh se considera para carga pública? {
+	~Sí
+	=No
+}
+
+::M1 U13 P3::¿Quién puede darte asesoría migratoria? {
+	~Un notario
+	=Un abogado o un representante acreditado por el DOJ
+}
+
+::M1 U14 P1::¿Qué tiene una meta comprobable? {
+	~Solo un deseo
+	=Acción, fecha y evidencia
+}
+
+::M1 U14 P2::¿"Necesito averiguar" puede ser una acción? {
+	=Sí, si tiene fecha
+	~No
+}
+
+::M1 U14 P3::Si baja tu ingreso, ¿debes mantener la misma aportación de ahorro? {
+	~Sí
+	=No necesariamente; ajusta el plan
+}
+
+$CATEGORY: $course$/Tu Dinero/M2
+
+::M2 U01 P1::¿Puedes abrir una cuenta en el banco central? {
+	~Sí
+	=No
+}
+
+::M2 U01 P2::¿Quién debe explicar el deducible de una póliza? {
+	=La aseguradora
+	~El banco central
+	~La remesadora
+}
+
+::M2 U01 P3::Una empresa está registrada ante un regulador. ¿Eso garantiza que su oferta te conviene? {
+	~Sí
+	=No
+}
+
+::M2 U02 P1::¿"Digital" significa que es un banco? {
+	~Sí
+	=No
+}
+
+::M2 U02 P2::¿Una inversión comprada en un banco está asegurada por la FDIC? {
+	~Sí
+	=No
+}
+
+::M2 U02 P3::¿El seguro de depósitos protege contra una estafa? {
+	~Sí
+	=No
+}
+
+::M2 U03 P1::¿La licencia AB 60 sirve como REAL ID? {
+	~Sí
+	=No
+}
+
+::M2 U03 P2::¿El ITIN es una identificación con foto? {
+	~Sí
+	=No
+}
+
+::M2 U03 P3::¿Dónde se tramita la matrícula consular? {
+	~En cualquier tienda
+	=En el consulado, con cita oficial
+}
+
+::M2 U04 P1::¿Depósito de apertura y saldo mínimo son lo mismo? {
+	~Sí
+	=No
+}
+
+::M2 U04 P2::Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? {
+	~Sí
+	=No
+}
+
+::M2 U04 P3::¿Una cuenta conjunta permite a la otra persona retirar dinero? {
+	=Sí
+	~No
+}
+
+::M2 U05 P1::¿Un cheque que ya ves en tu saldo está garantizado? {
+	~Sí
+	=No
+}
+
+::M2 U05 P2::¿Qué es más difícil de recuperar? {
+	~Un cargo no autorizado
+	=Un pago que autorizaste porque te engañaron
+}
+
+::M2 U05 P3::Para cancelar una suscripción, ¿basta con cancelar la tarjeta? {
+	~Sí
+	=No
+}
+
+::M2 U06 P1::¿Planear una remesa significa querer menos a tu familia? {
+	~Sí
+	=No
+}
+
+::M2 U06 P2::¿En qué moneda conviene definir una necesidad que se paga en México? {
+	~Dólares
+	=Pesos
+}
+
+::M2 U06 P3::¿Conviene pedir la contraseña bancaria del familiar para ayudarle? {
+	~Sí
+	=No
+}
+
+::M2 U07 P1::¿El costo de enviar se resta de la capacidad? {
+	=Sí
+	~No
+}
+
+::M2 U07 P2::Si la capacidad sale negativa, ¿qué haces? {
+	~Escribes cero
+	=Muestras el faltante y buscas opciones
+}
+
+::M2 U07 P3::¿Conviene prometer un monto fijo si tu ingreso varía? {
+	~Sí
+	=Mejor un rango
+}
+
+::M2 U08 P1::¿"Sin comisión" garantiza que llegue más dinero? {
+	~Sí
+	=No
+}
+
+::M2 U08 P2::¿El impuesto de 1% aplica a todas las remesas? {
+	~Sí
+	=No, a ciertas remesas pagadas con efectivo o instrumentos físicos
+}
+
+::M2 U08 P3::Para comparar, ¿qué debe ser igual? {
+	=La base\: mismo presupuesto o mismo monto a recibir
+	~Nada
+}
+
+::M2 U09 P1::¿Dónde verificas la licencia de una remesadora en California? {
+	=DFPI o NMLS
+	~En su anuncio
+}
+
+::M2 U09 P2::¿Cuánto tiempo tienes, en general, para cancelar sin costo? {
+	=30 minutos
+	~30 días
+}
+
+::M2 U09 P3::¿"Tienes 180 días" significa que conviene esperar? {
+	~Sí
+	=No
+}
+
+::M2 U10 P1::¿El dinero prestado es ingreso ganado? {
+	~Sí
+	=No
+}
+
+::M2 U10 P2::Si "renuevas" pagando solo el costo, ¿reduces lo que debes? {
+	~Sí
+	=No
+}
+
+::M2 U10 P3::¿Un adelanto de salario por app es deuda? {
+	=Sí
+	~No
+}
+
+::M2 U11 P1::¿A qué número llamas para verificar una emergencia? {
+	~Al del mensaje
+	=A uno que ya conocías
+}
+
+::M2 U11 P2::¿Una voz que suena igual a tu familiar prueba que es real? {
+	~Sí
+	=No
+}
+
+::M2 U11 P3::¿Cuántas partes tiene un buen acuerdo familiar? {
+	~2
+	=6
+}
+
+::M2 U12 P1::¿En qué moneda defines una meta que se paga en México? {
+	=Pesos
+	~Dólares
+}
+
+::M2 U12 P2::¿Tu comprobante de envío prueba que eres dueño de un terreno? {
+	~Sí
+	=No
+}
+
+::M2 U12 P3::¿Una aportación puede contar para dos metas a la vez? {
+	~Sí
+	=No
+}
+
+::M2 U13 P1::¿Qué demuestra mejor que comparaste? {
+	~Descargar una app
+	=Una ficha con dos ofertas y fecha
+}
+
+::M2 U13 P2::¿Enviar menos siempre es mejor? {
+	~Sí
+	=No
+}
+
+::M2 U13 P3::¿Una promoción representa el costo habitual? {
+	~Sí
+	=No
+}
+
+$CATEGORY: $course$/Tu Dinero/M3
+
+::M3 U01 P1::¿Un buen puntaje garantiza que puedes pagar? {
+	~Sí
+	=No
+}
+
+::M3 U01 P2::¿Un límite de crédito disponible es dinero tuyo? {
+	~Sí
+	=No
+}
+
+::M3 U01 P3::Si tienes 200 de margen y la cuota es 150, ¿qué pasa si tu ingreso baja 100? {
+	~Sigues bien
+	=Déficit de 50
+}
+
+::M3 U02 P1::¿Revisar tu propio reporte baja tu puntaje? {
+	~Sí
+	=No
+}
+
+::M3 U02 P2::¿Un atraso real es un error que se puede borrar? {
+	~Sí
+	=No
+}
+
+::M3 U02 P3::¿Qué envías como prueba en una disputa? {
+	~El original
+	=Una copia
+}
+
+::M3 U03 P1::¿El depósito de una tarjeta garantizada paga tus compras? {
+	~Sí
+	=No
+}
+
+::M3 U03 P2::¿Necesitas pagar intereses para crear historial? {
+	~Sí
+	=No
+}
+
+::M3 U03 P3::¿Un producto que no reporta a las agencias construye historial? {
+	~Sí
+	=No
+}
+
+::M3 U04 P1::¿Se puede borrar un atraso real porque baja tu puntaje? {
+	~Sí
+	=No
+}
+
+::M3 U04 P2::Saldo 240 y límite 800. ¿Utilización? {
+	=30%
+	~24%
+}
+
+::M3 U04 P3::¿Una empresa puede cobrarte antes de hacer el trabajo de reparación? {
+	=Es una señal de alarma
+	~Es normal
+}
+
+::M3 U05 P1::Préstamo A\: 10 pagos de 110 más 40 de comisión. B\: 10 pagos de 112. ¿Cuál cuesta menos? {
+	~A (1,140)
+	=B (1,120)
+}
+
+::M3 U05 P2::¿Pagar el mínimo evita intereses? {
+	~Sí
+	=No
+}
+
+::M3 U05 P3::¿Interés diferido es lo mismo que 0%? {
+	~Sí
+	=No
+}
+
+::M3 U06 P1::¿Qué estrategia ahorra más intereses? {
+	=Avalancha
+	~Bola de nieve
+}
+
+::M3 U06 P2::¿Siempre debes pagar primero la tasa más alta? {
+	~Sí
+	=No, revisa consecuencias
+}
+
+::M3 U06 P3::¿Una cuota menor significa que pagas menos en total? {
+	~Sí
+	=No necesariamente
+}
+
+::M3 U07 P1::¿Una disputa con una agencia detiene una demanda? {
+	~Sí
+	=No
+}
+
+::M3 U07 P2::¿Un cobrador puede amenazarte? {
+	~Sí
+	=No
+}
+
+::M3 U07 P3::¿Un acuerdo que pediste ya está aceptado? {
+	~Sí
+	=No, hasta que lo confirmen
+}
+
+::M3 U08 P1::¿Cofirmar puede hacerte responsable de toda la deuda? {
+	=Sí
+	~No
+}
+
+::M3 U08 P2::¿Una promesa familiar cambia el contrato con el banco? {
+	~Sí
+	=No
+}
+
+::M3 U08 P3::¿Conviene compartir tu contraseña para ayudar? {
+	~Sí
+	=No
+}
+
+::M3 U09 P1::¿Una tanda tradicional construye historial de crédito? {
+	~Sí
+	=No
+}
+
+::M3 U09 P2::¿Quién recibe primero en una tanda obtiene…? {
+	=Un préstamo sin interés
+	~Una ganancia
+}
+
+::M3 U09 P3::¿Un círculo organizado puede reportar a buró? {
+	=Sí
+	~No
+}
+
+::M3 U10 P1::¿Qué mejora es comprobable? {
+	~"Subiré 80 puntos"
+	="Revisé mi reporte y presenté una disputa con folio"
+}
+
+::M3 U10 P2::¿Abrir una tarjeta es siempre el primer paso? {
+	~Sí
+	=No
+}
+
+::M3 U10 P3::Saldo 800, interés 16, compras 90, pago 120. ¿Saldo final? {
+	=786
+	~680
+}
+
+$CATEGORY: $course$/Tu Dinero/M4
+
+::M4 U01 P1::¿A qué número llamas para verificar? {
+	~Al del mensaje
+	=Al que buscas por tu cuenta
+}
+
+::M4 U01 P2::¿El candado del navegador prueba que la página es honesta? {
+	~Sí
+	=No
+}
+
+::M4 U01 P3::¿Un banco te pedirá el código que te llegó por mensaje? {
+	~Sí
+	=No
+}
+
+::M4 U02 P1::¿Un notary public puede darte asesoría migratoria? {
+	~Sí
+	=No
+}
+
+::M4 U02 P2::¿Dónde verificas la licencia de un abogado en California? {
+	=State Bar
+	~En su anuncio
+}
+
+::M4 U02 P3::¿ICE te pedirá pagar con tarjetas de regalo? {
+	~Sí
+	=No
+}
+
+::M4 U03 P1::¿Qué cuenta proteges primero? {
+	~Redes sociales
+	=Correo principal
+}
+
+::M4 U03 P2::¿Compartes el código que te llegó si te llama "el banco"? {
+	~Sí
+	=No
+}
+
+::M4 U03 P3::¿Una app de presupuesto necesita leer tus mensajes? {
+	~Sí
+	=No
+}
+
+::M4 U04 P1::¿El congelamiento de crédito protege tus cuentas existentes? {
+	~Sí
+	=No
+}
+
+::M4 U04 P2::¿Negociar con el estafador es un paso necesario? {
+	~Sí
+	=No
+}
+
+::M4 U04 P3::¿Dónde creas un plan de recuperación por robo de identidad? {
+	=IdentityTheft.gov
+	~Redes sociales
+}
+
+::M4 U05 P1::¿Un desacuerdo sobre gastos es siempre abuso? {
+	~Sí
+	=No
+}
+
+::M4 U05 P2::¿Para aprobar debes confrontar a la otra persona? {
+	~Sí
+	=No
+}
+
+::M4 U05 P3::¿Tener acceso al dinero de un familiar mayor te da derecho a usarlo? {
+	~Sí
+	=No
+}
+
+::M4 U06 P1::Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? {
+	=0.4
+	~2.5
+}
+
+::M4 U06 P2::¿Un pago anual conocido es una emergencia? {
+	~Sí
+	=No, es un gasto previsto
+}
+
+::M4 U06 P3::¿Es buen lugar para la reserva una inversión que puede bajar? {
+	~Sí
+	=No
+}
+
+::M4 U07 P1::¿El seguro de responsabilidad civil repara tu auto? {
+	~Sí
+	=No
+}
+
+::M4 U07 P2::¿El seguro del dueño del edificio cubre tus pertenencias? {
+	~Sí
+	=No
+}
+
+::M4 U07 P3::Servicio 1,500, deducible 300, coaseguro 25%. ¿Cuánto pagas? {
+	=600 #300 + 25% de 1,200
+	~375
+}
+
+::M4 U08 P1::¿La explicación de beneficios es una factura? {
+	~Sí
+	=No
+}
+
+::M4 U08 P2::¿Los hospitales de California deben tener política de asistencia financiera? {
+	=Sí
+	~No
+}
+
+::M4 U08 P3::¿Retrasas una atención urgente para terminar el ejercicio? {
+	~Sí
+	=Nunca
+}
+
+::M4 U09 P1::¿Una indemnización no confirmada cuenta como recurso? {
+	~Sí
+	=No
+}
+
+::M4 U09 P2::¿El seguro de casa suele cubrir terremotos? {
+	~Sí
+	=Normalmente es una póliza aparte
+}
+
+::M4 U09 P3::¿Guardas la única copia de tus documentos en casa? {
+	~Sí
+	=No, también en otro lugar seguro
+}
+
+::M4 U10 P1::¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? {
+	~Sí
+	=No
+}
+
+::M4 U10 P2::¿Compartir tu contraseña da autorización legal? {
+	~Sí
+	=No
+}
+
+::M4 U10 P3::¿Cada cuánto conviene revisar el plan? {
+	~Nunca
+	=Cada seis meses o si algo cambia
+}
+
+::M4 U11 P1::¿Un plan de protección exige contratar todos los seguros? {
+	~Sí
+	=No
+}
+
+::M4 U11 P2::Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? {
+	~Solo la reserva
+	=Verificación, calendario, reserva y acuerdo de remesas
+}
+
+$CATEGORY: $course$/Tu Dinero/M5
+
+::M5 U01 P1::Activos 12,000 y deudas 8,500. ¿Patrimonio? {
+	=3,500
+	~20,500
+}
+
+::M5 U01 P2::¿El patrimonio neto es efectivo disponible? {
+	~Sí
+	=No
+}
+
+::M5 U01 P3::¿Puedes asignar los mismos 80 a tres metas? {
+	~Sí
+	=No
+}
+
+::M5 U02 P1::1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? {
+	~1,080
+	=1,081.60
+}
+
+::M5 U02 P2::Una inversión sube 10% y luego baja 10%. De 1,000, ¿cuánto queda? {
+	~1,000
+	=990
+}
+
+::M5 U02 P3::Rendimiento neto 5% e inflación 4%. ¿Rendimiento real aproximado? {
+	=0.96%
+	~9%
+}
+
+::M5 U03 P1::¿Una IRA es lo mismo que una acción? {
+	~Sí
+	=No
+}
+
+::M5 U03 P2::¿Tener dos fondos parecidos es diversificar? {
+	~Sí
+	=No necesariamente
+}
+
+::M5 U03 P3::¿Dónde verificas a un corredor? {
+	=BrokerCheck
+	~En sus redes sociales
+}
+
+::M5 U04 P1::¿El dueño puede preguntar tu situación migratoria en California? {
+	~Sí
+	=No
+}
+
+::M5 U04 P2::¿Una hipoteca de 1,800 cuesta lo mismo que una renta de 1,800? {
+	~Sí
+	=No, hay más costos
+}
+
+::M5 U04 P3::Si recibes papeles de desalojo de la corte, ¿qué haces? {
+	~Esperar
+	=Buscar ayuda legal de inmediato
+}
+
+::M5 U05 P1::Auto A\: cuota 250 y otros costos 320. Auto B\: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? {
+	~A (570)
+	=B (540)
+}
+
+::M5 U05 P2::¿Un préstamo más largo siempre conviene porque baja la cuota? {
+	~Sí
+	=No
+}
+
+::M5 U05 P3::¿"Empleo garantizado" en un anuncio es ingreso seguro? {
+	~Sí
+	=No
+}
+
+::M5 U06 P1::¿Una IRA requiere ingreso del trabajo para aportar? {
+	=Sí
+	~No
+}
+
+::M5 U06 P2::¿Una proyección a 20 años es una promesa? {
+	~Sí
+	=No
+}
+
+::M5 U06 P3::¿Conviene retirar tu 401(k) al cambiar de trabajo sin revisar opciones? {
+	~Sí
+	=No
+}
+
+::M5 U07 P1::¿El acuerdo de seguridad social EE. UU.–México está vigente? {
+	~Sí
+	=No, según la SSA
+}
+
+::M5 U07 P2::¿Una AFORE y un 401(k) son equivalentes? {
+	~Sí
+	=No
+}
+
+::M5 U07 P3::¿Pagas a alguien que promete recuperar tu AFORE? {
+	~Sí
+	=Verifico y uso canales oficiales
+}
+
+::M5 U08 P1::¿Compartir tu contraseña crea un poder legal? {
+	~Sí
+	=No
+}
+
+::M5 U08 P2::¿Actualizar tu teléfono cambia tu beneficiario? {
+	~Sí
+	=No
+}
+
+::M5 U08 P3::¿Un contacto de emergencia puede retirar dinero de tu cuenta? {
+	~Sí
+	=No
+}
+
+::M5 U09 P1::¿Ajustar el plan significa que fallaste? {
+	~Sí
+	=No
+}
+
+::M5 U09 P2::Ingreso −400 y transporte +100. ¿Efecto en tu flujo? {
+	~400
+	=500
+}
+
+::M5 U09 P3::¿Después de separarse basta dividir los gastos entre dos? {
+	~Sí
+	=No
+}
+
+::M5 U10 P1::¿Se puede solicitar un EIN con ITIN? {
+	=Sí
+	~No
+}
+
+::M5 U10 P2::¿Conviene mezclar el dinero del negocio y de la casa? {
+	~Sí
+	=No
+}
+
+::M5 U10 P3::¿Tu tiempo es parte del costo? {
+	=Sí
+	~No
+}
+
+::M5 U11 P1::¿Puedes contar el mismo fondo de emergencia como enganche? {
+	~Sí
+	=No
+}
+
+::M5 U11 P2::¿Un buen plan siempre termina en positivo? {
+	~Sí
+	=No, puede mostrar una brecha y cómo atenderla
+}
+

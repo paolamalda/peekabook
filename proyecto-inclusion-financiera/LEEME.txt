@@ -1,0 +1,48 @@
+TU DINERO, TU FAMILIA, TU FUTURO
+Paquete completo del proyecto
+Actualizado: 28 de septiembre de 2026
+
+Programa gratuito de finanzas personales para personas migrantes.
+Piloto en California; después Texas, Illinois, Nueva York y Florida.
+
+CARPETAS
+--------
+entregables/   Documentos listos para usar o compartir.
+  Manual_participante_ES_v2.1.docx   Manual del participante, español (59 lecciones).
+  Participant_Manual_EN_v2.1.docx    Manual del participante, inglés.
+  Manual_operador_ES_v2.docx         Manual del operador (quien administra el curso).
+  Operator_Manual_EN_v2.docx         Manual del operador, inglés.
+  Proposed_Endeavor_Brief_NIW.docx   Propuesta para el abogado de inmigración (inglés).
+  prompts-app-complementos.md        Instrucciones para construir la app (front y back end).
+  plan-maestro.md / .json / .html    Diferenciadores, complementos, competencia y pendientes.
+  matriz/Matriz_comparativa_v1.xlsx  62 productos financieros comparados.
+  matriz/matriz.html                 Página interactiva de la matriz.
+
+moodle/        Paquete para montar el curso (ver moodle/LEEME.txt).
+  Banco de preguntas ES y EN, guiones H5P, guía de Level Up e insignias.
+
+recursos/      Enlaces oficiales "Para saber más" por lección (Excel, CSV, catálogo).
+
+manual/        Textos editables del manual (es/ y en/), un archivo por módulo.
+operador/      Textos editables del manual del operador.
+herramientas/  Programas que regeneran los Word, la matriz y el banco de preguntas.
+
+ENLACES EN LÍNEA (privados; compártelos desde el botón Compartir)
+-----------------------------------------------------------------
+Plan maestro con pendientes: https://claude.ai/artifact/VZWJwLrDoXAczM5p1xUR7J
+Matriz comparativa viva:     https://claude.ai/artifact/2EG3tsJFyZoYXPimxfBzsF
+
+HISTORIAL DE ENTREGAS
+---------------------
+1. Manuales v2 (ES/EN), manual del operador, plan maestro, prompts de la app,
+   propuesta para el abogado.
+2. "Para saber más" en las 59 lecciones (manuales v2.1) y matriz de 62 productos.
+3. Paquete para Moodle: banco de 175 preguntas (ES/EN), guiones H5P,
+   guía de Level Up e insignias.
+
+REGLAS DEL PROGRAMA
+-------------------
+- Nunca pedir SSN, ITIN, estatus migratorio ni contraseñas.
+- No dar asesoría migratoria; referir a abogados o representantes acreditados.
+- La app nunca guarda ni mueve dinero.
+- Se entrega constancia de participación, no certificado.
