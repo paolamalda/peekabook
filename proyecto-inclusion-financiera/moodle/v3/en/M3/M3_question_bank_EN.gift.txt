@@ -1,0 +1,181 @@
+$CATEGORY: $course$/Your Money v3/M3
+
+::M3 U01 P1::Does a good score guarantee you can pay? {
+	~Yes #Not the best option. The score doesn't make the payment.
+	=No #Correct! The score doesn't make the payment.
+	~Yes, if it's over 700 #Not the best option. The score doesn't make the payment.
+}
+
+::M3 U01 P2::Is an available credit limit your money? {
+	~Yes #Not the best option. It's a loan available to you.
+	=No #Correct! It's a loan available to you.
+	~Yes, if you don't use it #Not the best option. It's a loan available to you.
+}
+
+::M3 U01 P3::If you have a 200 margin and the payment is 150, what happens if your income drops by 100? {
+	~You're still fine #Not the best option. 200 − 100 − 150 \= −50.
+	=A deficit of 50 #Correct! 200 − 100 − 150 \= −50.
+	~You have 50 left #Not the best option. 200 − 100 − 150 \= −50.
+}
+
+::M3 U02 P1::Does checking your own report lower your score? {
+	~Yes #Not the best option. Checking your own doesn't affect it.
+	=No #Correct! Checking your own doesn't affect it.
+	~Yes, 5 points each time #Not the best option. Checking your own doesn't affect it.
+}
+
+::M3 U02 P2::Is a real late payment an error that can be erased? {
+	~Yes #Not the best option. Correct information isn't erased.
+	=No #Correct! Correct information isn't erased.
+	~Yes, if you pay a fee #Not the best option. Correct information isn't erased.
+}
+
+::M3 U02 P3::What do you send as proof in a dispute? {
+	~The original #Not the best option. Keep your originals.
+	=A copy #Correct! Keep your originals.
+	~Nothing; a phone call is enough #Not the best option. Keep your originals.
+}
+
+::M3 U03 P1::Does a secured card's deposit pay for your purchases? {
+	~Yes #Not the best option. You pay your purchases.
+	=No #Correct! You pay your purchases.
+	~Yes, every month #Not the best option. You pay your purchases.
+}
+
+::M3 U03 P2::Do you need to pay interest to build a history? {
+	~Yes #Not the best option. Pay the full balance.
+	=No #Correct! Pay the full balance.
+	~Yes, at least a little each month #Not the best option. Pay the full balance.
+}
+
+::M3 U03 P3::Does a product that doesn't report to the agencies build a history? {
+	~Yes #Not the best option. If it doesn't report, it doesn't count.
+	=No #Correct! If it doesn't report, it doesn't count.
+	~Yes, if you pay on time #Not the best option. If it doesn't report, it doesn't count.
+}
+
+::M3 U04 P1::Can a real late payment be erased because it lowers your score? {
+	~Yes #Not the best option. Correct information stays.
+	=No #Correct! Correct information stays.
+	~Yes, if you pay a company #Not the best option. Correct information stays.
+}
+
+::M3 U04 P2::Balance 240 and limit 800. Utilization? {
+	=30% #Correct! 240 ÷ 800 \= 0.30.
+	~24% #Not the best option. 240 ÷ 800 \= 0.30.
+	~60% #Not the best option. 240 ÷ 800 \= 0.30.
+}
+
+::M3 U04 P3::Can a company charge you before doing the repair work? {
+	=It's a red flag #Correct! The law prohibits it.
+	~It's normal #Not the best option. The law prohibits it.
+	~It's required by law #Not the best option. The law prohibits it.
+}
+
+::M3 U05 P1::Loan A\: 10 payments of 110 plus a 40 fee. B\: 10 payments of 112. Which costs less? {
+	~A (1,140) #Not the best option. B costs 20 less.
+	=B (1,120) #Correct! B costs 20 less.
+	~They cost the same #Not the best option. B costs 20 less.
+}
+
+::M3 U05 P2::Does paying the minimum avoid interest? {
+	~Yes #Not the best option. It only avoids falling behind.
+	=No #Correct! It only avoids falling behind.
+	~Yes, if you pay on time #Not the best option. It only avoids falling behind.
+}
+
+::M3 U05 P3::Is deferred interest the same as 0%? {
+	~Yes #Not the best option. If you don't pay it off in time, they charge it all.
+	=No #Correct! If you don't pay it off in time, they charge it all.
+	~Yes, if the store says so #Not the best option. If you don't pay it off in time, they charge it all.
+}
+
+::M3 U06 P1::Which strategy saves the most interest? {
+	=Avalanche #Correct! It goes after the highest rate.
+	~Snowball #Not the best option. It goes after the highest rate.
+	~Paying only the minimums #Not the best option. It goes after the highest rate.
+}
+
+::M3 U06 P2::Should you always pay the highest rate first? {
+	~Yes #Not the best option. First what puts the basics at risk.
+	=No, check the consequences #Correct! First what puts the basics at risk.
+	~Yes, no exceptions, even if there are other consequences #Not the best option. First what puts the basics at risk.
+}
+
+::M3 U06 P3::Does a lower payment mean you pay less in total? {
+	~Yes #Not the best option. It can stretch out the term.
+	=Not necessarily #Correct! It can stretch out the term.
+	~Yes, you always pay less #Not the best option. It can stretch out the term.
+}
+
+::M3 U07 P1::Does a dispute with a credit agency stop a lawsuit? {
+	~Yes #Not the best option. The court has its own deadline.
+	=No #Correct! The court has its own deadline.
+	~Yes, for 30 days #Not the best option. The court has its own deadline.
+}
+
+::M3 U07 P2::Can a collector threaten you? {
+	~Yes #Not the best option. It's prohibited.
+	=No #Correct! It's prohibited.
+	~Yes, if the debt is old #Not the best option. It's prohibited.
+}
+
+::M3 U07 P3::Is an agreement you asked for already accepted? {
+	~Yes #Not the best option. You need the confirmation.
+	=No, not until they confirm it #Correct! You need the confirmation.
+	~Yes, if you asked by phone #Not the best option. You need the confirmation.
+}
+
+::M3 U08 P1::Can cosigning make you responsible for the whole debt? {
+	=Yes #Correct! The lender can collect all of it from you.
+	~No #Not the best option. The lender can collect all of it from you.
+	~Only for half #Not the best option. The lender can collect all of it from you.
+}
+
+::M3 U08 P2::Does a family promise change the contract with the bank? {
+	~Yes #Not the best option. The contract is what counts.
+	=No #Correct! The contract is what counts.
+	~Yes, if it's in writing between you #Not the best option. The contract is what counts.
+}
+
+::M3 U08 P3::Is it wise to share your password to help? {
+	~Yes #Not the best option. You lose control and the bank's protection.
+	=No #Correct! You lose control and the bank's protection.
+	~Yes, if it's family #Not the best option. You lose control and the bank's protection.
+}
+
+::M3 U09 P1::Does a traditional tanda build credit history? {
+	~Yes #Not the best option. Nobody reports your payments.
+	=No #Correct! Nobody reports your payments.
+	~Yes, if it has more than 10 people #Not the best option. Nobody reports your payments.
+}
+
+::M3 U09 P2::Whoever receives first in a tanda gets…? {
+	=A loan with no interest #Correct! They receive it all before paying.
+	~A profit #Not the best option. They receive it all before paying.
+	~A penalty #Not the best option. They receive it all before paying.
+}
+
+::M3 U09 P3::Can an organized circle report to the agencies? {
+	=Yes #Correct! Many programs do.
+	~No #Not the best option. Many programs do.
+	~Only if it's run by a bank #Not the best option. Many programs do.
+}
+
+::M3 U10 P1::Which improvement can be proven? {
+	~"I'll raise my score 80 points" #Not the best option. It's an action with evidence.
+	="I checked my report and filed a dispute with a confirmation number" #Correct! It's an action with evidence.
+	~"I'll have good credit before the end of this year" #Not the best option. It's an action with evidence.
+}
+
+::M3 U10 P2::Is opening a card always the first step? {
+	~Yes #Not the best option. It depends on your situation.
+	=No #Correct! It depends on your situation.
+	~Yes, the more cards the better #Not the best option. It depends on your situation.
+}
+
+::M3 U10 P3::Balance 800, interest 16, purchases 90, payment 120. Ending balance? {
+	=786 #Correct! 800 + 16 + 90 − 120 \= 786.
+	~680 #Not the best option. 800 + 16 + 90 − 120 \= 786.
+	~920 #Not the best option. 800 + 16 + 90 − 120 \= 786.
+}

@@ -136,4 +136,54 @@ CASOS = {
  ("He switches providers and checks his mom's information.", "He stays out of habit, because he knows the app.", "He stops sending until the promotion comes back."),
  ("That she paid by credit card as a cash advance.", "That she was sending too much money every month.", "That her path couldn't be improved anymore."),
 ],
+"M3 U01": [
+ ("No: he'd be 60 short every month.", "Yes, because the bank approved him.", "Yes, if he stops paying for insurance."),
+ ("No: she asks only for what she needs.", "Yes, in case an emergency comes up.", "Yes, and she keeps it as savings."),
+ ("As a loan he'd have to pay back.", "As extra money he can spend.", "As a reward from the bank for being a customer."),
+],
+"M3 U02": [
+ ("He disputes it as fraud and freezes his credit.", "He pays it so it doesn't hurt his score.", "He ignores it, because he didn't open it."),
+ ("Not necessarily: the report is from before the payment.", "Yes, she has to dispute it today with the agency.", "Yes, the bank kept her card payment."),
+ ("That he already had a history from his phone plan.", "That he had nothing, because he uses an ITIN.", "That his ITIN doesn't work for having credit."),
+],
+"M3 U03": [
+ ("No: Luis pays the 40 on his statement.", "Yes: the deposit pays his purchases up to 300.", "Yes, because that's what he deposited the 300 for."),
+ ("A: it costs less and does report.", "B, because the more expensive one is better.", "Neither: both charge too much."),
+ ("Whether her landlord can report her rent payments.", "Whether she can pay rent with her credit card.", "Whether the owner can lower her rent for paying on time."),
+],
+"M3 U04": [
+ ("No: she disputes only errors and organizes her payments.", "Yes, because 499 is little for clean credit.", "Yes, but she pays only half upfront."),
+ ("He doesn't know, but his debt went down.", "Exactly 100 points this month.", "None, because he still owes money."),
+ ("A scam and a crime.", "A legal and safe option.", "A government program."),
+],
+"M3 U05": [
+ ("A: 1,190. B: 1,176.", "A: 1,140. B: 1,176.", "They cost the same: 1,176."),
+ ("1,680: 780 more than in cash.", "900: the same as in cash.", "1,200: only 300 more than in cash."),
+ ("140, all together.", "35, one at a time.", "70, two plans."),
+],
+"M3 U06": [
+ ("40.", "120.", "80."),
+ ("3,000 versus 4,080.", "They cost the same.", "The 170 one costs less."),
+ ("Ask whether she qualifies for financial assistance.", "Pay it today with her credit card.", "Ignore it, because she had forgotten it."),
+],
+"M3 U07": [
+ ("If there's a temporary option, its cost and how it's put in writing.", "Nothing: he stops paying and waits for the bank to call.", "Whether they'll lend him more money to pay what he owes."),
+ ("No: she checks the court deadline and gets help.", "Yes, the dispute stops any lawsuit.", "She ignores it, because the debt is in dispute."),
+ ("He asks for the information in writing and verifies it.", "He promises to pay by phone so they stop calling.", "He gives his account number to settle it quickly."),
+],
+"M3 U08": [
+ ("The lender collects from Mar and it hurts her report.", "Nothing, because the loan is her cousin's, not hers.", "The bank forgives the debt because he lost his job."),
+ ("Review it together on Alex's phone, without the password.", "Give the password, because it's family.", "Refuse to help and never talk about it again."),
+ ("Because she only lent what she could give away.", "Because her sister paid it all back.", "Because she took out a loan to cover herself."),
+],
+"M3 U09": [
+ ("No, unless someone agrees to swap.", "Yes, as long as she gives a week's notice.", "Yes, if she pays a penalty to the organizer."),
+ ("His payments show up on his credit report.", "Nothing, because circles never report.", "He's charged high interest for being new."),
+ ("To write everything down and give first turns carefully.", "To never join a tanda again.", "To charge interest to whoever receives first."),
+],
+"M3 U10": [
+ ("970.", "1,000.", "1,270."),
+ ("He has the confirmation number and the freeze confirmation.", "His score went up 100 points in a week.", "He can't know until two years have passed."),
+ ("Ask for validation in writing and for financial assistance.", "Pay it all today, even if she doesn't know whether it's hers.", "Change her number so they stop calling her."),
+],
 }
