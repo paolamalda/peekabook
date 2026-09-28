@@ -115,9 +115,9 @@ Daniela recibe los pagos de sus pasteles en una app. La app dice que "trabaja co
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Puedes abrir una cuenta en el banco central? a) Sí · b) No
+1. ¿Puedes abrir una cuenta en el banco central? a) Sí · b) No · c) Sí, con ITIN
 2. ¿Quién debe explicar el deducible de una póliza? a) La aseguradora · b) El banco central · c) La remesadora
-3. Una empresa está registrada ante un regulador. ¿Eso garantiza que su oferta te conviene? a) Sí · b) No
+3. Una empresa está registrada ante un regulador. ¿Eso garantiza que su oferta te conviene? a) Sí · b) No · c) Sí, si tiene muchos clientes
 respuestas: 1-b: no atiende a personas. 2-a: la póliza es suya. 3-b: registro no es garantía.
 
 --- ponlo
@@ -265,9 +265,9 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿"Digital" significa que es un banco? a) Sí · b) No
-2. ¿Una inversión comprada en un banco está asegurada por la FDIC? a) Sí · b) No
-3. ¿El seguro de depósitos protege contra una estafa? a) Sí · b) No
+1. ¿"Digital" significa que es un banco? a) Sí · b) No · c) Sí, si tiene tarjeta de débito
+2. ¿Una inversión comprada en un banco está asegurada por la FDIC? a) Sí · b) No · c) Sí, hasta 250,000
+3. ¿El seguro de depósitos protege contra una estafa? a) Sí · b) No · c) Sí, si reportas en 24 horas
 respuestas: 1-b: describe el acceso, no la licencia. 2-b: las inversiones no son depósitos. 3-b: solo protege si quiebra el banco.
 
 --- ponlo
@@ -410,9 +410,9 @@ Daniela tiene su pasaporte salvadoreño vencido.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿La licencia AB 60 sirve como REAL ID? a) Sí · b) No
-2. ¿El ITIN es una identificación con foto? a) Sí · b) No
-3. ¿Dónde se tramita la matrícula consular? a) En cualquier tienda · b) En el consulado, con cita oficial
+1. ¿La licencia AB 60 sirve como REAL ID? a) Sí · b) No · c) Sí, para volar dentro de EE. UU.
+2. ¿El ITIN es una identificación con foto? a) Sí · b) No · c) Sí, si lo imprimes
+3. ¿Dónde se tramita la matrícula consular? a) En cualquier tienda · b) En el consulado, con cita oficial · c) Con un gestor que venda citas
 respuestas: 1-b: no sirve para fines federales. 2-b: es solo un número fiscal. 3-b: solo en el consulado.
 
 --- ponlo
@@ -559,9 +559,9 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No
-2. Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? a) Sí · b) No
-3. ¿Una cuenta conjunta permite a la otra persona retirar dinero? a) Sí · b) No
+1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No · c) Sí, los dos se pagan cada mes
+2. Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? a) Sí · b) No · c) Sí, si nunca sobregiras
+3. ¿Una cuenta conjunta permite a la otra persona retirar dinero? a) Sí · b) No · c) Solo con tu permiso por escrito cada vez
 respuestas: 1-b: uno es para abrir y otro es mensual. 2-b: depende de si cumples la condición. 3-a: cualquiera de los dueños puede retirar.
 
 --- ponlo
@@ -703,9 +703,9 @@ Luis pagó 150 por Zelle por un celular usado que nunca llegó.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un cheque que ya ves en tu saldo está garantizado? a) Sí · b) No
-2. ¿Qué es más difícil de recuperar? a) Un cargo no autorizado · b) Un pago que autorizaste porque te engañaron
-3. Para cancelar una suscripción, ¿basta con cancelar la tarjeta? a) Sí · b) No
+1. ¿Un cheque que ya ves en tu saldo está garantizado? a) Sí · b) No · c) Sí, después de 24 horas
+2. ¿Qué es más difícil de recuperar? a) Un cargo no autorizado · b) Un pago que autorizaste porque te engañaron · c) Los dos se recuperan igual si reportas en 60 días
+3. Para cancelar una suscripción, ¿basta con cancelar la tarjeta? a) Sí · b) No · c) Sí, si la reportas como perdida
 respuestas: 1-b: puede rebotar. 2-b: tú lo autorizaste. 3-b: cancela con el proveedor.
 
 --- ponlo
@@ -857,9 +857,9 @@ Daniela envía dinero a su hermana en San Salvador para la escuela de su sobrina
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Planear una remesa significa querer menos a tu familia? a) Sí · b) No
-2. ¿En qué moneda conviene definir una necesidad que se paga en México? a) Dólares · b) Pesos
-3. ¿Conviene pedir la contraseña bancaria del familiar para ayudarle? a) Sí · b) No
+1. ¿Planear una remesa significa querer menos a tu familia? a) Sí · b) No · c) Sí, si envías menos que antes
+2. ¿En qué moneda conviene definir una necesidad que se paga en México? a) Dólares · b) Pesos · c) En la moneda del país donde vives tú
+3. ¿Conviene pedir la contraseña bancaria del familiar para ayudarle? a) Sí · b) No · c) Sí, si es tu mamá
 respuestas: 1-b: es cuidar que continúe. 2-b: es la moneda en que se gasta. 3-b: rompe su autonomía y su seguridad.
 
 --- ponlo

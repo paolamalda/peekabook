@@ -175,9 +175,9 @@ Daniela recibe los pagos de sus pasteles en una app. La app dice que "trabaja co
 
 #### Quiz
 
-1. ¿Puedes abrir una cuenta en el banco central? a) Sí · b) No
+1. ¿Puedes abrir una cuenta en el banco central? a) Sí · b) No · c) Sí, con ITIN
 2. ¿Quién debe explicar el deducible de una póliza? a) La aseguradora · b) El banco central · c) La remesadora
-3. Una empresa está registrada ante un regulador. ¿Eso garantiza que su oferta te conviene? a) Sí · b) No
+3. Una empresa está registrada ante un regulador. ¿Eso garantiza que su oferta te conviene? a) Sí · b) No · c) Sí, si tiene muchos clientes
 **Respuestas:** 1-b: no atiende a personas. 2-a: la póliza es suya. 3-b: registro no es garantía.
 
 
@@ -397,9 +397,9 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 
 #### Quiz
 
-1. ¿"Digital" significa que es un banco? a) Sí · b) No
-2. ¿Una inversión comprada en un banco está asegurada por la FDIC? a) Sí · b) No
-3. ¿El seguro de depósitos protege contra una estafa? a) Sí · b) No
+1. ¿"Digital" significa que es un banco? a) Sí · b) No · c) Sí, si tiene tarjeta de débito
+2. ¿Una inversión comprada en un banco está asegurada por la FDIC? a) Sí · b) No · c) Sí, hasta 250,000
+3. ¿El seguro de depósitos protege contra una estafa? a) Sí · b) No · c) Sí, si reportas en 24 horas
 **Respuestas:** 1-b: describe el acceso, no la licencia. 2-b: las inversiones no son depósitos. 3-b: solo protege si quiebra el banco.
 
 
@@ -615,9 +615,9 @@ Daniela tiene su pasaporte salvadoreño vencido.
 
 #### Quiz
 
-1. ¿La licencia AB 60 sirve como REAL ID? a) Sí · b) No
-2. ¿El ITIN es una identificación con foto? a) Sí · b) No
-3. ¿Dónde se tramita la matrícula consular? a) En cualquier tienda · b) En el consulado, con cita oficial
+1. ¿La licencia AB 60 sirve como REAL ID? a) Sí · b) No · c) Sí, para volar dentro de EE. UU.
+2. ¿El ITIN es una identificación con foto? a) Sí · b) No · c) Sí, si lo imprimes
+3. ¿Dónde se tramita la matrícula consular? a) En cualquier tienda · b) En el consulado, con cita oficial · c) Con un gestor que venda citas
 **Respuestas:** 1-b: no sirve para fines federales. 2-b: es solo un número fiscal. 3-b: solo en el consulado.
 
 
@@ -836,9 +836,9 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 
 #### Quiz
 
-1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No
-2. Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? a) Sí · b) No
-3. ¿Una cuenta conjunta permite a la otra persona retirar dinero? a) Sí · b) No
+1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No · c) Sí, los dos se pagan cada mes
+2. Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? a) Sí · b) No · c) Sí, si nunca sobregiras
+3. ¿Una cuenta conjunta permite a la otra persona retirar dinero? a) Sí · b) No · c) Solo con tu permiso por escrito cada vez
 **Respuestas:** 1-b: uno es para abrir y otro es mensual. 2-b: depende de si cumples la condición. 3-a: cualquiera de los dueños puede retirar.
 
 
@@ -1052,9 +1052,9 @@ Luis pagó 150 por Zelle por un celular usado que nunca llegó.
 
 #### Quiz
 
-1. ¿Un cheque que ya ves en tu saldo está garantizado? a) Sí · b) No
-2. ¿Qué es más difícil de recuperar? a) Un cargo no autorizado · b) Un pago que autorizaste porque te engañaron
-3. Para cancelar una suscripción, ¿basta con cancelar la tarjeta? a) Sí · b) No
+1. ¿Un cheque que ya ves en tu saldo está garantizado? a) Sí · b) No · c) Sí, después de 24 horas
+2. ¿Qué es más difícil de recuperar? a) Un cargo no autorizado · b) Un pago que autorizaste porque te engañaron · c) Los dos se recuperan igual si reportas en 60 días
+3. Para cancelar una suscripción, ¿basta con cancelar la tarjeta? a) Sí · b) No · c) Sí, si la reportas como perdida
 **Respuestas:** 1-b: puede rebotar. 2-b: tú lo autorizaste. 3-b: cancela con el proveedor.
 
 
@@ -1285,9 +1285,9 @@ Daniela envía dinero a su hermana en San Salvador para la escuela de su sobrina
 
 #### Quiz
 
-1. ¿Planear una remesa significa querer menos a tu familia? a) Sí · b) No
-2. ¿En qué moneda conviene definir una necesidad que se paga en México? a) Dólares · b) Pesos
-3. ¿Conviene pedir la contraseña bancaria del familiar para ayudarle? a) Sí · b) No
+1. ¿Planear una remesa significa querer menos a tu familia? a) Sí · b) No · c) Sí, si envías menos que antes
+2. ¿En qué moneda conviene definir una necesidad que se paga en México? a) Dólares · b) Pesos · c) En la moneda del país donde vives tú
+3. ¿Conviene pedir la contraseña bancaria del familiar para ayudarle? a) Sí · b) No · c) Sí, si es tu mamá
 **Respuestas:** 1-b: es cuidar que continúe. 2-b: es la moneda en que se gasta. 3-b: rompe su autonomía y su seguridad.
 
 
@@ -1520,9 +1520,9 @@ Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
 
 #### Quiz
 
-1. ¿El costo de enviar se resta de la capacidad? a) Sí · b) No
-2. Si la capacidad sale negativa, ¿qué haces? a) Escribes cero · b) Muestras el faltante y buscas opciones
-3. ¿Conviene prometer un monto fijo si tu ingreso varía? a) Sí · b) Mejor un rango
+1. ¿El costo de enviar se resta de la capacidad? a) Sí · b) No · c) Solo si pagas con tarjeta
+2. Si la capacidad sale negativa, ¿qué haces? a) Escribes cero · b) Muestras el faltante y buscas opciones · c) Pides prestado para enviar el monto acostumbrado
+3. ¿Conviene prometer un monto fijo si tu ingreso varía? a) Sí · b) Mejor un rango · c) Sí, así tu familia se organiza mejor
 **Respuestas:** 1-a: también sale de tu bolsillo. 2-b: el faltante es información. 3-b: un rango te protege.
 
 
@@ -1748,9 +1748,9 @@ Daniela envía a El Salvador, que usa dólar.
 
 #### Quiz
 
-1. ¿"Sin comisión" garantiza que llegue más dinero? a) Sí · b) No
-2. ¿El impuesto de 1% aplica a todas las remesas? a) Sí · b) No, a ciertas remesas pagadas con efectivo o instrumentos físicos
-3. Para comparar, ¿qué debe ser igual? a) La base: mismo presupuesto o mismo monto a recibir · b) Nada
+1. ¿"Sin comisión" garantiza que llegue más dinero? a) Sí · b) No · c) Sí, si también es el primer envío
+2. ¿El impuesto de 1% aplica a todas las remesas? a) Sí · b) No, a ciertas remesas pagadas con efectivo o instrumentos físicos · c) Solo a las remesas enviadas por app a otro país
+3. Para comparar, ¿qué debe ser igual? a) La base: mismo presupuesto o mismo monto a recibir · b) Nada · c) Solo la comisión; el tipo de cambio no importa
 **Respuestas:** 1-b: el tipo de cambio también cuenta. 2-b: solo a las pagadas en efectivo o similares. 3-a: si no, no son comparables.
 
 
@@ -1972,9 +1972,9 @@ Daniela escribió el apellido de su hermana con una letra distinta. Su hermana n
 
 #### Quiz
 
-1. ¿Dónde verificas la licencia de una remesadora en California? a) DFPI o NMLS · b) En su anuncio
-2. ¿Cuánto tiempo tienes, en general, para cancelar sin costo? a) 30 minutos · b) 30 días
-3. ¿"Tienes 180 días" significa que conviene esperar? a) Sí · b) No
+1. ¿Dónde verificas la licencia de una remesadora en California? a) DFPI o NMLS · b) En su anuncio · c) En reseñas de redes sociales
+2. ¿Cuánto tiempo tienes, en general, para cancelar sin costo? a) 30 minutos · b) 30 días · c) 7 días
+3. ¿"Tienes 180 días" significa que conviene esperar? a) Sí · b) No · c) Sí, así el proveedor se da cuenta solo
 **Respuestas:** 1-a: son los registros oficiales. 2-a: si el dinero no se ha cobrado. 3-b: actúa pronto.
 
 
@@ -2197,9 +2197,9 @@ Luis pagó un envío con su tarjeta de crédito.
 
 #### Quiz
 
-1. ¿El dinero prestado es ingreso ganado? a) Sí · b) No
-2. Si "renuevas" pagando solo el costo, ¿reduces lo que debes? a) Sí · b) No
-3. ¿Un adelanto de salario por app es deuda? a) Sí · b) No
+1. ¿El dinero prestado es ingreso ganado? a) Sí · b) No · c) Sí, si es de un familiar
+2. Si "renuevas" pagando solo el costo, ¿reduces lo que debes? a) Sí · b) No · c) Sí, un poco cada vez
+3. ¿Un adelanto de salario por app es deuda? a) Sí · b) No · c) No, porque es tu propio dinero
 **Respuestas:** 1-b: hay que devolverlo. 2-b: sigues debiendo lo mismo. 3-a: se descuenta de tu siguiente pago.
 
 
@@ -2418,9 +2418,9 @@ Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero p
 
 #### Quiz
 
-1. ¿A qué número llamas para verificar una emergencia? a) Al del mensaje · b) A uno que ya conocías
-2. ¿Una voz que suena igual a tu familiar prueba que es real? a) Sí · b) No
-3. ¿Cuántas partes tiene un buen acuerdo familiar? a) 2 · b) 6
+1. ¿A qué número llamas para verificar una emergencia? a) Al del mensaje · b) A uno que ya conocías · c) Al que te dé la persona que llama
+2. ¿Una voz que suena igual a tu familiar prueba que es real? a) Sí · b) No · c) Sí, si dice tu nombre
+3. ¿Cuántas partes tiene un buen acuerdo familiar? a) 2 · b) 6 · c) 1: el monto
 **Respuestas:** 1-b: el del mensaje puede ser del estafador. 2-b: hoy se clonan voces. 3-b: propósito, rango, fecha, emergencias, verificación y revisión.
 
 
@@ -2638,9 +2638,9 @@ Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 
 #### Quiz
 
-1. ¿En qué moneda defines una meta que se paga en México? a) Pesos · b) Dólares
-2. ¿Tu comprobante de envío prueba que eres dueño de un terreno? a) Sí · b) No
-3. ¿Una aportación puede contar para dos metas a la vez? a) Sí · b) No
+1. ¿En qué moneda defines una meta que se paga en México? a) Pesos · b) Dólares · c) En la moneda que esté más barata ese día
+2. ¿Tu comprobante de envío prueba que eres dueño de un terreno? a) Sí · b) No · c) Sí, si guardas todos los recibos
+3. ¿Una aportación puede contar para dos metas a la vez? a) Sí · b) No · c) Sí, si son de la misma familia
 **Respuestas:** 1-a: así se paga. 2-b: solo prueba el envío. 3-b: cada dólar tiene un destino.
 
 
@@ -2858,9 +2858,9 @@ Daniela cobra por horas y por pedidos. Envía a su hermana cada mes.
 
 #### Quiz
 
-1. ¿Qué demuestra mejor que comparaste? a) Descargar una app · b) Una ficha con dos ofertas y fecha
-2. ¿Enviar menos siempre es mejor? a) Sí · b) No
-3. ¿Una promoción representa el costo habitual? a) Sí · b) No
+1. ¿Qué demuestra mejor que comparaste? a) Descargar una app · b) Una ficha con dos ofertas y fecha · c) Preguntar a un amigo cuál usa
+2. ¿Enviar menos siempre es mejor? a) Sí · b) No · c) Sí, si el tipo de cambio sube
+3. ¿Una promoción representa el costo habitual? a) Sí · b) No · c) Sí, si dura más de un mes
 **Respuestas:** 1-b: es evidencia concreta. 2-b: depende de tu capacidad y de la necesidad. 3-b: compara el precio de después.
 
 

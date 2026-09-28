@@ -71,6 +71,11 @@ Si no existe:
 
 ## 4. Banco de preguntas y autoevaluaciones
 
+**Si ya existe la categoría *Tu Dinero v3*** (entrega 17), importar de nuevo duplicaría las preguntas. Antes de importar:
+
+- si las autoevaluaciones no tienen intentos, quítales las preguntas y borra esa categoría;
+- si tienen intentos, renómbrala a *Tu Dinero v3 (anterior)*.
+
 1. *Administración del curso > Banco de preguntas > Importar*: formato GIFT, archivo `4_preguntas/banco_preguntas_v3_es.gift.txt`.
    - Se crean las categorías *Tu Dinero v3/M1* a *M5*, con 177 preguntas.
 2. En cada sección de módulo, deja un cuestionario llamado `Autoevaluación del Módulo N`.
@@ -105,7 +110,9 @@ Los archivos están en `2_h5p/MN/`, en orden. Cada archivo trae sus librerías.
 
 La **primera** carga las instala en el sitio y necesita la cuenta de administrador. Si al subir la primera aparece un error de librerías, detente y reporta el mensaje exacto.
 
-En cada sección de módulo, **después del libro** y en orden de lección:
+**Si las actividades ya existen** (entrega 17), no las dupliques. Edita cada una, borra el archivo en *Archivo del paquete*, sube el nuevo con el mismo nombre y guarda. Luego revisa que abra bien.
+
+Si no existen, en cada sección de módulo, **después del libro** y en orden de lección:
 
 1. *Agregar actividad > Actividad H5P*.
 2. Nombre: `MN UYY · ¿Qué harías?`. Por ejemplo: `M1 U01 · ¿Qué harías?`.
@@ -154,7 +161,7 @@ Sigue la sección 3 de la guía y usa las 8 imágenes de `5_insignias/`.
   - los términos en color muestran su significado.
 - "Actividad interactiva" en la página *Practica* describe "¿Qué harías?".
 - La actividad H5P de M1 U01 funciona y registra la calificación.
-- La autoevaluación de M1 muestra 3 opciones por pregunta y retroalimentación.
+- El quiz de la página *Practica* y la autoevaluación de M1 muestran 3 opciones por pregunta.
 - El libro de apoyo muestra "Ver la clave" en los casos integradores.
 
 ## 10. Reporte para la persona

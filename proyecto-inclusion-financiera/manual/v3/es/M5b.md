@@ -110,9 +110,9 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No
-2. ¿Qué necesitas para localizarla? a) Tu ITIN · b) Tu CURP
-3. ¿Un gestor que cobra por "liberar tu AFORE" es necesario? a) Sí · b) No
+1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No · c) Sí, después de 5 años
+2. ¿Qué necesitas para localizarla? a) Tu ITIN · b) Tu CURP · c) Tu número de matrícula consular
+3. ¿Un gestor que cobra por "liberar tu AFORE" es necesario? a) Sí · b) No · c) Solo si vives fuera
 respuestas: 1-b: sigue siendo tuya. 2-b: la CURP. 3-b: los trámites son gratuitos.
 
 --- ponlo
@@ -252,9 +252,9 @@ Un conocido le ofrece a Andrés "manejar todo" con un poder notarial.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Tu testamento cambia a los beneficiarios de tu seguro? a) Sí · b) No
-2. ¿El formulario de cuidador te quita la custodia? a) Sí · b) No
-3. ¿Cualquier persona debe tener tu poder notarial? a) Sí · b) No
+1. ¿Tu testamento cambia a los beneficiarios de tu seguro? a) Sí · b) No · c) Sí, si es más reciente
+2. ¿El formulario de cuidador te quita la custodia? a) Sí · b) No · c) Sí, por un año
+3. ¿Cualquier persona debe tener tu poder notarial? a) Sí · b) No · c) Solo un abogado
 respuestas: 1-b: se actualizan en cada institución. 2-b: puedes cancelarlo. 3-b: solo alguien de total confianza.
 
 --- ponlo
@@ -410,9 +410,9 @@ Daniela recibió un pedido grande de pasteles y ganó 1,500 extra en una semana.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista
-2. Tu base es 2,000 y ganas 2,800. ¿Qué haces con 800? a) Gastarlo · b) Apartar una parte
-3. ¿Registrar el efectivo te ayuda? a) No · b) Sí
+1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista · c) El promedio del año
+2. Tu base es 2,000 y ganas 2,800. ¿Qué haces con 800? a) Gastarlo · b) Apartar una parte · c) Adelantar pagos de deudas y gastar el resto
+3. ¿Registrar el efectivo te ayuda? a) No · b) Sí · c) Solo si pagas impuestos
 respuestas: 1-b: así el plan aguanta. 2-b: prepara los meses malos. 3-b: sin registro no conoces tu ingreso.
 
 --- ponlo
@@ -553,9 +553,9 @@ A Andrés le ofrecen un "adelanto" para su negocio que se cobra de sus ventas di
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. Vendes 900 y tus costos son 450. ¿Tu ganancia? a) 450 · b) 900
-2. ¿Una LLC en California paga impuesto aunque no gane? a) No · b) Sí, mínimo 800
-3. ¿Qué es lo primero para ordenar tu negocio? a) Separar el dinero · b) Abrir una LLC
+1. Vendes 900 y tus costos son 450. ¿Tu ganancia? a) 450 · b) 900 · c) 1,350
+2. ¿Una LLC en California paga impuesto aunque no gane? a) No · b) Sí, mínimo 800 · c) Solo si tiene empleados
+3. ¿Qué es lo primero para ordenar tu negocio? a) Separar el dinero · b) Abrir una LLC · c) Imprimir tarjetas de presentación
 respuestas: 1-a: 900 − 450. 2-b: hay impuesto mínimo anual. 3-a: sin separar no sabes si ganas.
 
 --- ponlo
@@ -708,9 +708,9 @@ Daniela tuvo que usar su reserva por una emergencia.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) No
-2. ¿Usar tu reserva en una emergencia es un fracaso? a) Sí · b) No, para eso es
-3. ¿Cuándo revisas tu plan? a) Nunca · b) Cada tres o seis meses, o cuando algo cambie
+1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) No · c) Sí, o no sirve
+2. ¿Usar tu reserva en una emergencia es un fracaso? a) Sí · b) No, para eso es · c) Sí, hay que empezar de nuevo
+3. ¿Cuándo revisas tu plan? a) Nunca · b) Cada tres o seis meses, o cuando algo cambie · c) Una vez, al terminar el curso, y guardarlo
 respuestas: 1-b: claro y posible basta. 2-b: la reserva cumplió su función. 3-b: así sigue siendo útil.
 
 --- ponlo

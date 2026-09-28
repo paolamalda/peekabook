@@ -133,9 +133,9 @@ Daniela recibe ingresos de su trabajo por horas y de sus pedidos de pasteles. Me
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un presupuesto exige que sobre dinero? a) Sí · b) No
-2. Un pago de 240 vence en 6 meses y no has apartado nada. ¿Cuánto apartar al mes? a) 20 · b) 40
-3. ¿Presupuesto base cero significa gastar todo? a) Sí · b) No, significa asignar cada dólar
+1. ¿Un presupuesto exige que sobre dinero? a) Sí · b) No · c) Sí, al menos 10%
+2. Un pago de 240 vence en 6 meses y no has apartado nada. ¿Cuánto apartar al mes? a) 20 · b) 40 · c) 240
+3. ¿Presupuesto base cero significa gastar todo? a) Sí · b) No, significa asignar cada dólar · c) Significa no gastar nada que no sea esencial
 respuestas: 1-b: debe mostrar si falta. 2-b: 240 ÷ 6. 3-b: cada dólar tiene un destino, incluido el ahorro.
 
 --- ponlo
@@ -295,9 +295,9 @@ Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Presentar la declaración garantiza un reembolso? a) Sí · b) No
-2. ¿El ITIN autoriza a trabajar? a) Sí · b) No
-3. Una prórroga para declarar, ¿extiende el plazo para pagar? a) Normalmente sí · b) Normalmente no
+1. ¿Presentar la declaración garantiza un reembolso? a) Sí · b) No · c) Sí, si tienes hijos
+2. ¿El ITIN autoriza a trabajar? a) Sí · b) No · c) Sí, si lo renuevas cada año
+3. Una prórroga para declarar, ¿extiende el plazo para pagar? a) Normalmente sí · b) Normalmente no · c) Sí, siempre por seis meses
 respuestas: 1-b: solo si pagaste de más. 2-b: solo sirve para impuestos. 3-b: el pago sigue venciendo en la fecha original.
 
 --- ponlo
@@ -452,9 +452,9 @@ Daniela cobra sus pedidos en efectivo y por Zelle. Compra ingredientes en tres t
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El ingreso de apps es declarable aunque no recibas formulario? a) Puede serlo · b) Nunca
-2. Pasar 500 de la cuenta del negocio a la personal, ¿es ingreso nuevo? a) Sí · b) No
-3. ¿Conviene apartar "el 10%" para impuestos porque un amigo lo hace? a) Sí · b) No, hay que calcular tu caso
+1. ¿El ingreso de apps es declarable aunque no recibas formulario? a) Puede serlo · b) Nunca · c) Solo si pasa de 600
+2. Pasar 500 de la cuenta del negocio a la personal, ¿es ingreso nuevo? a) Sí · b) No · c) Sí, si es más de 400
+3. ¿Conviene apartar "el 10%" para impuestos porque un amigo lo hace? a) Sí · b) No, hay que calcular tu caso · c) Sí, y el 5% si cobras en efectivo
 respuestas: 1-a: el IRS indica que puede serlo. 2-b: solo cambió de lugar. 3-b: cada caso es distinto.
 
 --- ponlo
@@ -603,9 +603,9 @@ Daniela no declaró durante tres años y su ITIN se desactivó.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El ITIN sirve para trabajar? a) Sí · b) No
-2. ¿El CalEITC puede reclamarse con ITIN? a) Sí · b) No
-3. ¿Qué pasa si no usas tu ITIN en una declaración federal durante tres años seguidos? a) Vence · b) Nada
+1. ¿El ITIN sirve para trabajar? a) Sí · b) No · c) Sí, en California
+2. ¿El CalEITC puede reclamarse con ITIN? a) Sí · b) No · c) Solo si tienes SSN
+3. ¿Qué pasa si no usas tu ITIN en una declaración federal durante tres años seguidos? a) Vence · b) Nada · c) Se convierte en SSN
 respuestas: 1-b: solo es para impuestos. 2-a: es un crédito estatal que acepta ITIN. 3-a: el IRS lo desactiva.
 
 --- ponlo
@@ -764,9 +764,9 @@ El preparador de Daniela le pide que el reembolso llegue a "la cuenta de la ofic
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué debe tener todo preparador pagado? a) PTIN · b) Nada
-2. En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en: a) CTEC · b) DMV
-3. ¿Es seguro firmar una declaración en blanco? a) Sí · b) No
+1. ¿Qué debe tener todo preparador pagado? a) PTIN · b) Nada · c) Una licencia de abogado
+2. En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en: a) CTEC · b) DMV · c) El consulado
+3. ¿Es seguro firmar una declaración en blanco? a) Sí · b) No · c) Sí, si es un preparador conocido
 respuestas: 1-a: el PTIN es obligatorio. 2-a: el CTEC es el registro estatal. 3-b: pueden poner datos falsos.
 
 --- ponlo
@@ -912,9 +912,9 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No
-2. Según la regla vigente, ¿CalFresh se considera para carga pública? a) Sí · b) No
-3. ¿Quién puede darte asesoría migratoria? a) Un notario · b) Un abogado o un representante acreditado por el DOJ
+1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No · c) Solo a la ciudadanía
+2. Según la regla vigente, ¿CalFresh se considera para carga pública? a) Sí · b) No · c) Sí, si lo usan los hijos
+3. ¿Quién puede darte asesoría migratoria? a) Un notario · b) Un abogado o un representante acreditado por el DOJ · c) Un consultor de inmigración con oficina y anuncios
 respuestas: 1-b: solo a ciertos trámites. 2-b: no se considera. 3-b: solo ellos están autorizados.
 
 --- ponlo
@@ -1075,9 +1075,9 @@ Luis tiene muchas ideas y ninguna fecha.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué tiene una meta comprobable? a) Solo un deseo · b) Acción, fecha y evidencia
-2. ¿"Necesito averiguar" puede ser una acción? a) Sí, si tiene fecha · b) No
-3. Si baja tu ingreso, ¿debes mantener la misma aportación de ahorro? a) Sí · b) No necesariamente; ajusta el plan
+1. ¿Qué tiene una meta comprobable? a) Solo un deseo · b) Acción, fecha y evidencia · c) Una lista de deseos para el año
+2. ¿"Necesito averiguar" puede ser una acción? a) Sí, si tiene fecha · b) No · c) Solo si otra persona lo hace por ti
+3. Si baja tu ingreso, ¿debes mantener la misma aportación de ahorro? a) Sí · b) No necesariamente; ajusta el plan · c) Sí, y dejar de pagar otras cosas
 respuestas: 1-b: así puedes comprobarla. 2-a: averiguar con fecha es avanzar. 3-b: el plan se adapta a tu realidad.
 
 --- ponlo

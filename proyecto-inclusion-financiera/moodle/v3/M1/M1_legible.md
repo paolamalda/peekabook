@@ -207,7 +207,7 @@ Aparece un depósito de 300 en la cuenta de Luis. No sabe de dónde viene. Días
 #### Quiz
 
 1. Te prestan 300 dólares. ¿Cómo cambia tu patrimonio neto? a) Sube 300 · b) No cambia · c) Baja 300
-2. Pasas 100 dólares de tu cuenta de ahorro a tu cuenta corriente. ¿Es ingreso? a) Sí · b) No
+2. Pasas 100 dólares de tu cuenta de ahorro a tu cuenta corriente. ¿Es ingreso? a) Sí · b) No · c) Sí, si pasa de una cuenta a otra del mismo banco
 3. Pagas 20 de intereses de tu tarjeta. ¿Qué pasa con tu patrimonio? a) Sube · b) No cambia · c) Baja
 **Respuestas:** 1-b: tienes 300 más, pero debes 300. 2-b: solo cambió de lugar. 3-c: pagaste un costo y no redujiste la deuda.
 
@@ -466,7 +466,7 @@ A Luis le ofrecen un préstamo "barato" de 1% a la semana.
 
 1. ¿Cuánto es 7% de 600? a) 42 · b) 4.2 · c) 420
 2. Una tasa sube de 2% a 3%. ¿Cuántos puntos porcentuales subió? a) 1 · b) 50 · c) 3
-3. La inflación bajó de 6% a 4%. ¿Los precios bajaron? a) Sí · b) No, suben más lento
+3. La inflación bajó de 6% a 4%. ¿Los precios bajaron? a) Sí · b) No, suben más lento · c) Sí, bajaron 2% respecto al año anterior
 **Respuestas:** 1-a: 600 × 0.07. 2-a: el aumento relativo es 50%, pero son 1 punto porcentual. 3-b: suben más lento.
 
 
@@ -684,8 +684,8 @@ Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de
 #### Quiz
 
 1. ¿Qué es el costo de oportunidad? a) El precio de lo que compras · b) Lo que dejas de obtener al elegir · c) Una comisión bancaria
-2. ¿Qué hacer cuando todo parece urgente? a) Pagar lo que más presiona · b) Preguntar la fecha real, la consecuencia de esperar y las alternativas
-3. Un contrato largo merece: a) La misma revisión que una compra diaria · b) Más revisión
+2. ¿Qué hacer cuando todo parece urgente? a) Pagar lo que más presiona · b) Preguntar la fecha real, la consecuencia de esperar y las alternativas · c) Esperar a que todo se acomode solo
+3. Un contrato largo merece: a) La misma revisión que una compra diaria · b) Más revisión · c) Menos revisión, porque ya viene redactado
 **Respuestas:** 1-b: es lo que dejas de tener. 2-b: con esos datos puedes comparar. 3-b: te compromete por más tiempo.
 
 
@@ -915,8 +915,8 @@ Daniela cobra 150 por pedido de pasteles. Un mes hizo 18 pedidos y gastó 270 en
 #### Quiz
 
 1. ¿Cuántos pagos al año hay "cada dos semanas"? a) 24 · b) 26 · c) 52
-2. Cobras 100 diarios y trabajaste 18 días. ¿Cuánto recibiste? a) 1,800 · b) 3,000
-3. ¿Conviene tomar un compromiso fijo con base en tu mejor mes? a) Sí · b) No
+2. Cobras 100 diarios y trabajaste 18 días. ¿Cuánto recibiste? a) 1,800 · b) 3,000 · c) 2,400
+3. ¿Conviene tomar un compromiso fijo con base en tu mejor mes? a) Sí · b) No · c) Sí, si es un mes de tres pagos
 **Respuestas:** 1-b: 26 pagos. 2-a: solo cuentan los días trabajados. 3-b: debe caber en tu mes más bajo.
 
 
@@ -1172,9 +1172,9 @@ Luis esperaba 700 y recibió 565.
 
 #### Quiz
 
-1. ¿Cuál es el dinero que puedes usar? a) El bruto · b) El neto
-2. ¿Todos los descuentos son impuestos? a) Sí · b) No
-3. Si te llaman "contratista", ¿eso decide tu clasificación legal? a) Sí · b) No necesariamente
+1. ¿Cuál es el dinero que puedes usar? a) El bruto · b) El neto · c) El que dice tu contrato
+2. ¿Todos los descuentos son impuestos? a) Sí · b) No · c) Sí, excepto el seguro médico
+3. Si te llaman "contratista", ¿eso decide tu clasificación legal? a) Sí · b) No necesariamente · c) Sí, si lo dice por escrito
 **Respuestas:** 1-b: es lo que te depositan. 2-b: también hay seguro, retiro y otros. 3-b: la ley usa sus propias pruebas.
 
 
@@ -1408,7 +1408,7 @@ Daniela compara dos paquetes de fresas para sus pasteles. Solo usará la mitad d
 #### Quiz
 
 1. Un gasto de 4 dólares, 20 veces al mes, ¿cuánto suma al año? a) 80 · b) 960 · c) 480
-2. ¿Cancelar la tarjeta cancela automáticamente una suscripción? a) Sí · b) No necesariamente
+2. ¿Cancelar la tarjeta cancela automáticamente una suscripción? a) Sí · b) No necesariamente · c) Sí, si la tarjeta ya venció
 3. Un seguro de 600 cada 6 meses: ¿cuánto conviene apartar al mes? a) 50 · b) 100 · c) 600
 **Respuestas:** 1-b: 80 al mes por 12 meses. 2-b: hay que cancelar con el proveedor. 3-b: 600 ÷ 6.
 
@@ -1651,9 +1651,9 @@ Luis y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas d
 
 #### Quiz
 
-1. ¿Cuál es la fórmula del saldo final? a) Inicial + entradas − salidas · b) Entradas − salidas
-2. Si el mes termina positivo, ¿puede haber una semana negativa? a) Sí · b) No
-3. ¿Un cambio de fecha que pediste ya está aprobado? a) Sí · b) No, hasta que lo confirmen
+1. ¿Cuál es la fórmula del saldo final? a) Inicial + entradas − salidas · b) Entradas − salidas · c) Entradas + salidas − saldo inicial
+2. Si el mes termina positivo, ¿puede haber una semana negativa? a) Sí · b) No · c) Solo si el mes tiene cinco semanas
+3. ¿Un cambio de fecha que pediste ya está aprobado? a) Sí · b) No, hasta que lo confirmen · c) Sí, si lo pediste por teléfono
 **Respuestas:** 1-a: el saldo de la semana anterior cuenta. 2-a: el problema puede ser de fechas. 3-b: espera la confirmación.
 
 
@@ -1887,9 +1887,9 @@ Daniela recibe ingresos de su trabajo por horas y de sus pedidos de pasteles. Me
 
 #### Quiz
 
-1. ¿Un presupuesto exige que sobre dinero? a) Sí · b) No
-2. Un pago de 240 vence en 6 meses y no has apartado nada. ¿Cuánto apartar al mes? a) 20 · b) 40
-3. ¿Presupuesto base cero significa gastar todo? a) Sí · b) No, significa asignar cada dólar
+1. ¿Un presupuesto exige que sobre dinero? a) Sí · b) No · c) Sí, al menos 10%
+2. Un pago de 240 vence en 6 meses y no has apartado nada. ¿Cuánto apartar al mes? a) 20 · b) 40 · c) 240
+3. ¿Presupuesto base cero significa gastar todo? a) Sí · b) No, significa asignar cada dólar · c) Significa no gastar nada que no sea esencial
 **Respuestas:** 1-b: debe mostrar si falta. 2-b: 240 ÷ 6. 3-b: cada dólar tiene un destino, incluido el ahorro.
 
 
@@ -2130,9 +2130,9 @@ Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 
 #### Quiz
 
-1. ¿Presentar la declaración garantiza un reembolso? a) Sí · b) No
-2. ¿El ITIN autoriza a trabajar? a) Sí · b) No
-3. Una prórroga para declarar, ¿extiende el plazo para pagar? a) Normalmente sí · b) Normalmente no
+1. ¿Presentar la declaración garantiza un reembolso? a) Sí · b) No · c) Sí, si tienes hijos
+2. ¿El ITIN autoriza a trabajar? a) Sí · b) No · c) Sí, si lo renuevas cada año
+3. Una prórroga para declarar, ¿extiende el plazo para pagar? a) Normalmente sí · b) Normalmente no · c) Sí, siempre por seis meses
 **Respuestas:** 1-b: solo si pagaste de más. 2-b: solo sirve para impuestos. 3-b: el pago sigue venciendo en la fecha original.
 
 
@@ -2362,9 +2362,9 @@ Daniela cobra sus pedidos en efectivo y por Zelle. Compra ingredientes en tres t
 
 #### Quiz
 
-1. ¿El ingreso de apps es declarable aunque no recibas formulario? a) Puede serlo · b) Nunca
-2. Pasar 500 de la cuenta del negocio a la personal, ¿es ingreso nuevo? a) Sí · b) No
-3. ¿Conviene apartar "el 10%" para impuestos porque un amigo lo hace? a) Sí · b) No, hay que calcular tu caso
+1. ¿El ingreso de apps es declarable aunque no recibas formulario? a) Puede serlo · b) Nunca · c) Solo si pasa de 600
+2. Pasar 500 de la cuenta del negocio a la personal, ¿es ingreso nuevo? a) Sí · b) No · c) Sí, si es más de 400
+3. ¿Conviene apartar "el 10%" para impuestos porque un amigo lo hace? a) Sí · b) No, hay que calcular tu caso · c) Sí, y el 5% si cobras en efectivo
 **Respuestas:** 1-a: el IRS indica que puede serlo. 2-b: solo cambió de lugar. 3-b: cada caso es distinto.
 
 
@@ -2592,9 +2592,9 @@ Daniela no declaró durante tres años y su ITIN se desactivó.
 
 #### Quiz
 
-1. ¿El ITIN sirve para trabajar? a) Sí · b) No
-2. ¿El CalEITC puede reclamarse con ITIN? a) Sí · b) No
-3. ¿Qué pasa si no usas tu ITIN en una declaración federal durante tres años seguidos? a) Vence · b) Nada
+1. ¿El ITIN sirve para trabajar? a) Sí · b) No · c) Sí, en California
+2. ¿El CalEITC puede reclamarse con ITIN? a) Sí · b) No · c) Solo si tienes SSN
+3. ¿Qué pasa si no usas tu ITIN en una declaración federal durante tres años seguidos? a) Vence · b) Nada · c) Se convierte en SSN
 **Respuestas:** 1-b: solo es para impuestos. 2-a: es un crédito estatal que acepta ITIN. 3-a: el IRS lo desactiva.
 
 
@@ -2829,9 +2829,9 @@ El preparador de Daniela le pide que el reembolso llegue a "la cuenta de la ofic
 
 #### Quiz
 
-1. ¿Qué debe tener todo preparador pagado? a) PTIN · b) Nada
-2. En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en: a) CTEC · b) DMV
-3. ¿Es seguro firmar una declaración en blanco? a) Sí · b) No
+1. ¿Qué debe tener todo preparador pagado? a) PTIN · b) Nada · c) Una licencia de abogado
+2. En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en: a) CTEC · b) DMV · c) El consulado
+3. ¿Es seguro firmar una declaración en blanco? a) Sí · b) No · c) Sí, si es un preparador conocido
 **Respuestas:** 1-a: el PTIN es obligatorio. 2-a: el CTEC es el registro estatal. 3-b: pueden poner datos falsos.
 
 
@@ -3053,9 +3053,9 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 
 #### Quiz
 
-1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No
-2. Según la regla vigente, ¿CalFresh se considera para carga pública? a) Sí · b) No
-3. ¿Quién puede darte asesoría migratoria? a) Un notario · b) Un abogado o un representante acreditado por el DOJ
+1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No · c) Solo a la ciudadanía
+2. Según la regla vigente, ¿CalFresh se considera para carga pública? a) Sí · b) No · c) Sí, si lo usan los hijos
+3. ¿Quién puede darte asesoría migratoria? a) Un notario · b) Un abogado o un representante acreditado por el DOJ · c) Un consultor de inmigración con oficina y anuncios
 **Respuestas:** 1-b: solo a ciertos trámites. 2-b: no se considera. 3-b: solo ellos están autorizados.
 
 
@@ -3298,9 +3298,9 @@ Luis tiene muchas ideas y ninguna fecha.
 
 #### Quiz
 
-1. ¿Qué tiene una meta comprobable? a) Solo un deseo · b) Acción, fecha y evidencia
-2. ¿"Necesito averiguar" puede ser una acción? a) Sí, si tiene fecha · b) No
-3. Si baja tu ingreso, ¿debes mantener la misma aportación de ahorro? a) Sí · b) No necesariamente; ajusta el plan
+1. ¿Qué tiene una meta comprobable? a) Solo un deseo · b) Acción, fecha y evidencia · c) Una lista de deseos para el año
+2. ¿"Necesito averiguar" puede ser una acción? a) Sí, si tiene fecha · b) No · c) Solo si otra persona lo hace por ti
+3. Si baja tu ingreso, ¿debes mantener la misma aportación de ahorro? a) Sí · b) No necesariamente; ajusta el plan · c) Sí, y dejar de pagar otras cosas
 **Respuestas:** 1-b: así puedes comprobarla. 2-a: averiguar con fecha es avanzar. 3-b: el plan se adapta a tu realidad.
 
 

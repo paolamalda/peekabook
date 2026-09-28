@@ -3,7 +3,7 @@
 import re, os, shutil, zipfile, sys, subprocess, glob
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V1, num = sys.argv[1], sys.argv[2]
-name = f"TDTF_{num}_Curso_completo_v3.1"
+name = f"TDTF_{num}_Curso_completo_v3.2"
 out = os.path.join("/tmp", name); shutil.rmtree(out, ignore_errors=True)
 D = {k: os.path.join(out, k) for k in ["1_libros", "2_h5p", "3_glosario", "4_preguntas", "5_insignias", "6_certificado", "7_guias"]}
 for d in D.values(): os.makedirs(d)

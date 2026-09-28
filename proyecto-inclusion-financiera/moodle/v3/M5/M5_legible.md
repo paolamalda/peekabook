@@ -174,9 +174,9 @@ Luis tiene tres metas que suman 275 al mes y solo 150 libres.
 
 #### Quiz
 
-1. Activos 12,000 y deudas 8,500. ¿Patrimonio? a) 3,500 · b) 20,500
-2. ¿El patrimonio neto es efectivo disponible? a) Sí · b) No
-3. ¿Puedes asignar los mismos 80 a tres metas? a) Sí · b) No
+1. Activos 12,000 y deudas 8,500. ¿Patrimonio? a) 3,500 · b) 20,500 · c) 8,500
+2. ¿El patrimonio neto es efectivo disponible? a) Sí · b) No · c) Sí, si incluye el auto
+3. ¿Puedes asignar los mismos 80 a tres metas? a) Sí · b) No · c) Sí, si son metas pequeñas
 **Respuestas:** 1-a: 12,000 − 8,500. 2-b: incluye cosas que no son efectivo. 3-b: cada dólar tiene un destino.
 
 
@@ -385,9 +385,9 @@ Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%
 
 #### Quiz
 
-1. 1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? a) 1,080 · b) 1,081.60
-2. Una inversión sube 10% y luego baja 10%. De 1,000, ¿cuánto queda? a) 1,000 · b) 990
-3. Rendimiento neto 5% e inflación 4%. ¿Rendimiento real aproximado? a) 0.96% · b) 9%
+1. 1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? a) 1,080 · b) 1,081.60 · c) 1,040
+2. Una inversión sube 10% y luego baja 10%. De 1,000, ¿cuánto queda? a) 1,000 · b) 990 · c) 1,010
+3. Rendimiento neto 5% e inflación 4%. ¿Rendimiento real aproximado? a) 0.96% · b) 9% · c) 1%
 **Respuestas:** 1-b: interés compuesto. 2-b: 1,000 × 1.1 × 0.9. 3-a: 1.05 ÷ 1.04 − 1.
 
 
@@ -597,9 +597,9 @@ Daniela recibe una oferta de 20% al mes en criptomonedas.
 
 #### Quiz
 
-1. ¿Una IRA es lo mismo que una acción? a) Sí · b) No
-2. ¿Tener dos fondos parecidos es diversificar? a) Sí · b) No necesariamente
-3. ¿Dónde verificas a un corredor? a) BrokerCheck · b) En sus redes sociales
+1. ¿Una IRA es lo mismo que una acción? a) Sí · b) No · c) Sí, si es de una empresa grande
+2. ¿Tener dos fondos parecidos es diversificar? a) Sí · b) No necesariamente · c) Sí, siempre que sean de empresas distintas
+3. ¿Dónde verificas a un corredor? a) BrokerCheck · b) En sus redes sociales · c) Con el asesor, por mensaje
 **Respuestas:** 1-b: una es la cuenta y la otra el producto. 2-b: pueden tener lo mismo. 3-a: es el registro oficial.
 
 
@@ -806,9 +806,9 @@ Daniela se mudó y el dueño no le devolvió el depósito.
 
 #### Quiz
 
-1. ¿El dueño puede preguntar tu situación migratoria en California? a) Sí · b) No
-2. ¿Una hipoteca de 1,800 cuesta lo mismo que una renta de 1,800? a) Sí · b) No, hay más costos
-3. Si recibes papeles de desalojo de la corte, ¿qué haces? a) Esperar · b) Buscar ayuda legal de inmediato
+1. ¿El dueño puede preguntar tu situación migratoria en California? a) Sí · b) No · c) Solo si es un edificio grande
+2. ¿Una hipoteca de 1,800 cuesta lo mismo que una renta de 1,800? a) Sí · b) No, hay más costos · c) Sí, si la tasa es fija
+3. Si recibes papeles de desalojo de la corte, ¿qué haces? a) Esperar · b) Buscar ayuda legal de inmediato · c) Mudarte sin avisar para evitar la corte
 **Respuestas:** 1-b: está prohibido. 2-b: hay impuestos, seguro y mantenimiento. 3-b: el plazo es muy corto.
 
 
@@ -1031,9 +1031,9 @@ Una agencia le ofrece a Andrés bajar el pago de su auto alargando el préstamo 
 
 #### Quiz
 
-1. Auto A: cuota 250 y otros costos 320. Auto B: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? a) A (570) · b) B (540)
-2. ¿Un préstamo más largo siempre conviene porque baja la cuota? a) Sí · b) No
-3. ¿"Empleo garantizado" en un anuncio es ingreso seguro? a) Sí · b) No
+1. Auto A: cuota 250 y otros costos 320. Auto B: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? a) A (570) · b) B (540) · c) Cuestan lo mismo
+2. ¿Un préstamo más largo siempre conviene porque baja la cuota? a) Sí · b) No · c) Sí, si el auto es nuevo
+3. ¿"Empleo garantizado" en un anuncio es ingreso seguro? a) Sí · b) No · c) Sí, si la escuela es grande
 **Respuestas:** 1-b: 540 es menor. 2-b: pagas más intereses. 3-b: nadie puede garantizarlo.
 
 
@@ -1247,9 +1247,9 @@ Rosa trabajó en México con IMSS y aquí cobra en efectivo.
 
 #### Quiz
 
-1. ¿Una IRA requiere ingreso del trabajo para aportar? a) Sí · b) No
-2. ¿Una proyección a 20 años es una promesa? a) Sí · b) No
-3. ¿Conviene retirar tu 401(k) al cambiar de trabajo sin revisar opciones? a) Sí · b) No
+1. ¿Una IRA requiere ingreso del trabajo para aportar? a) Sí · b) No · c) Solo si tienes SSN
+2. ¿Una proyección a 20 años es una promesa? a) Sí · b) No · c) Sí, si la hace el banco
+3. ¿Conviene retirar tu 401(k) al cambiar de trabajo sin revisar opciones? a) Sí · b) No · c) Sí, si necesitas el dinero
 **Respuestas:** 1-a: necesitas ingreso del trabajo. 2-b: es un escenario. 3-b: revisa antes la transferencia.
 
 
@@ -1452,9 +1452,9 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 
 #### Quiz
 
-1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No
-2. ¿Qué necesitas para localizarla? a) Tu ITIN · b) Tu CURP
-3. ¿Un gestor que cobra por "liberar tu AFORE" es necesario? a) Sí · b) No
+1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No · c) Sí, después de 5 años
+2. ¿Qué necesitas para localizarla? a) Tu ITIN · b) Tu CURP · c) Tu número de matrícula consular
+3. ¿Un gestor que cobra por "liberar tu AFORE" es necesario? a) Sí · b) No · c) Solo si vives fuera
 **Respuestas:** 1-b: sigue siendo tuya. 2-b: la CURP. 3-b: los trámites son gratuitos.
 
 
@@ -1664,9 +1664,9 @@ Un conocido le ofrece a Andrés "manejar todo" con un poder notarial.
 
 #### Quiz
 
-1. ¿Tu testamento cambia a los beneficiarios de tu seguro? a) Sí · b) No
-2. ¿El formulario de cuidador te quita la custodia? a) Sí · b) No
-3. ¿Cualquier persona debe tener tu poder notarial? a) Sí · b) No
+1. ¿Tu testamento cambia a los beneficiarios de tu seguro? a) Sí · b) No · c) Sí, si es más reciente
+2. ¿El formulario de cuidador te quita la custodia? a) Sí · b) No · c) Sí, por un año
+3. ¿Cualquier persona debe tener tu poder notarial? a) Sí · b) No · c) Solo un abogado
 **Respuestas:** 1-b: se actualizan en cada institución. 2-b: puedes cancelarlo. 3-b: solo alguien de total confianza.
 
 
@@ -1895,9 +1895,9 @@ Daniela recibió un pedido grande de pasteles y ganó 1,500 extra en una semana.
 
 #### Quiz
 
-1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista
-2. Tu base es 2,000 y ganas 2,800. ¿Qué haces con 800? a) Gastarlo · b) Apartar una parte
-3. ¿Registrar el efectivo te ayuda? a) No · b) Sí
+1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista · c) El promedio del año
+2. Tu base es 2,000 y ganas 2,800. ¿Qué haces con 800? a) Gastarlo · b) Apartar una parte · c) Adelantar pagos de deudas y gastar el resto
+3. ¿Registrar el efectivo te ayuda? a) No · b) Sí · c) Solo si pagas impuestos
 **Respuestas:** 1-b: así el plan aguanta. 2-b: prepara los meses malos. 3-b: sin registro no conoces tu ingreso.
 
 
@@ -2110,9 +2110,9 @@ A Andrés le ofrecen un "adelanto" para su negocio que se cobra de sus ventas di
 
 #### Quiz
 
-1. Vendes 900 y tus costos son 450. ¿Tu ganancia? a) 450 · b) 900
-2. ¿Una LLC en California paga impuesto aunque no gane? a) No · b) Sí, mínimo 800
-3. ¿Qué es lo primero para ordenar tu negocio? a) Separar el dinero · b) Abrir una LLC
+1. Vendes 900 y tus costos son 450. ¿Tu ganancia? a) 450 · b) 900 · c) 1,350
+2. ¿Una LLC en California paga impuesto aunque no gane? a) No · b) Sí, mínimo 800 · c) Solo si tiene empleados
+3. ¿Qué es lo primero para ordenar tu negocio? a) Separar el dinero · b) Abrir una LLC · c) Imprimir tarjetas de presentación
 **Respuestas:** 1-a: 900 − 450. 2-b: hay impuesto mínimo anual. 3-a: sin separar no sabes si ganas.
 
 
@@ -2341,9 +2341,9 @@ Daniela tuvo que usar su reserva por una emergencia.
 
 #### Quiz
 
-1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) No
-2. ¿Usar tu reserva en una emergencia es un fracaso? a) Sí · b) No, para eso es
-3. ¿Cuándo revisas tu plan? a) Nunca · b) Cada tres o seis meses, o cuando algo cambie
+1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) No · c) Sí, o no sirve
+2. ¿Usar tu reserva en una emergencia es un fracaso? a) Sí · b) No, para eso es · c) Sí, hay que empezar de nuevo
+3. ¿Cuándo revisas tu plan? a) Nunca · b) Cada tres o seis meses, o cuando algo cambie · c) Una vez, al terminar el curso, y guardarlo
 **Respuestas:** 1-b: claro y posible basta. 2-b: la reserva cumplió su función. 3-b: así sigue siendo útil.
 
 

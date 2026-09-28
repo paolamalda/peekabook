@@ -1,5 +1,5 @@
-# Tercera opción (distractor) para las preguntas del quiz v3 que solo tienen dos.
-# Se usa en quiz_gift_v3.py para el banco de preguntas de Moodle.
+# Tercera opción que se agregó a las preguntas del quiz v3 que tenían dos (ya está escrita en manual/v3/es).
+# quiz_gift_v3.py solo la usa si alguna pregunta del manual vuelve a quedar con dos opciones.
 EXTRA = {
 "M1 U01 P2": "Sí, si pasa de una cuenta a otra del mismo banco",
 "M1 U02 P3": "Sí, bajaron 2%",

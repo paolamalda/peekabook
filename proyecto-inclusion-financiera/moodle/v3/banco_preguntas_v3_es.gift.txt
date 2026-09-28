@@ -33,7 +33,7 @@ $CATEGORY: $course$/Tu Dinero v3/M1
 ::M1 U02 P3::La inflación bajó de 6% a 4%. ¿Los precios bajaron? {
 	~Sí #No es la mejor opción. Suben más lento.
 	=No, suben más lento #¡Correcto! Suben más lento.
-	~Sí, bajaron 2% #No es la mejor opción. Suben más lento.
+	~Sí, bajaron 2% respecto al año anterior #No es la mejor opción. Suben más lento.
 }
 
 ::M1 U03 P1::¿Qué es el costo de oportunidad? {
@@ -141,7 +141,7 @@ $CATEGORY: $course$/Tu Dinero v3/M1
 ::M1 U08 P3::¿Presupuesto base cero significa gastar todo? {
 	~Sí #No es la mejor opción. Cada dólar tiene un destino, incluido el ahorro.
 	=No, significa asignar cada dólar #¡Correcto! Cada dólar tiene un destino, incluido el ahorro.
-	~Significa no gastar nada #No es la mejor opción. Cada dólar tiene un destino, incluido el ahorro.
+	~Significa no gastar nada que no sea esencial #No es la mejor opción. Cada dólar tiene un destino, incluido el ahorro.
 }
 
 ::M1 U09 P1::¿Presentar la declaración garantiza un reembolso? {
@@ -231,7 +231,7 @@ $CATEGORY: $course$/Tu Dinero v3/M1
 ::M1 U13 P3::¿Quién puede darte asesoría migratoria? {
 	~Un notario #No es la mejor opción. Solo ellos están autorizados.
 	=Un abogado o un representante acreditado por el DOJ #¡Correcto! Solo ellos están autorizados.
-	~Un notario público #No es la mejor opción. Solo ellos están autorizados.
+	~Un consultor de inmigración con oficina y anuncios #No es la mejor opción. Solo ellos están autorizados.
 }
 
 ::M1 U14 P1::¿Qué tiene una meta comprobable? {
@@ -335,7 +335,7 @@ $CATEGORY: $course$/Tu Dinero v3/M2
 ::M2 U05 P2::¿Qué es más difícil de recuperar? {
 	~Un cargo no autorizado #No es la mejor opción. Tú lo autorizaste.
 	=Un pago que autorizaste porque te engañaron #¡Correcto! Tú lo autorizaste.
-	~Los dos se recuperan igual #No es la mejor opción. Tú lo autorizaste.
+	~Los dos se recuperan igual si reportas en 60 días #No es la mejor opción. Tú lo autorizaste.
 }
 
 ::M2 U05 P3::Para cancelar una suscripción, ¿basta con cancelar la tarjeta? {
@@ -389,13 +389,13 @@ $CATEGORY: $course$/Tu Dinero v3/M2
 ::M2 U08 P2::¿El impuesto de 1% aplica a todas las remesas? {
 	~Sí #No es la mejor opción. Solo a las pagadas en efectivo o similares.
 	=No, a ciertas remesas pagadas con efectivo o instrumentos físicos #¡Correcto! Solo a las pagadas en efectivo o similares.
-	~Solo a las enviadas por app #No es la mejor opción. Solo a las pagadas en efectivo o similares.
+	~Solo a las remesas enviadas por app a otro país #No es la mejor opción. Solo a las pagadas en efectivo o similares.
 }
 
 ::M2 U08 P3::Para comparar, ¿qué debe ser igual? {
 	=La base\: mismo presupuesto o mismo monto a recibir #¡Correcto! Si no, no son comparables.
 	~Nada #No es la mejor opción. Si no, no son comparables.
-	~Solo la comisión #No es la mejor opción. Si no, no son comparables.
+	~Solo la comisión; el tipo de cambio no importa #No es la mejor opción. Si no, no son comparables.
 }
 
 ::M2 U09 P1::¿Dónde verificas la licencia de una remesadora en California? {
@@ -589,13 +589,13 @@ $CATEGORY: $course$/Tu Dinero v3/M3
 ::M3 U06 P2::¿Siempre debes pagar primero la tasa más alta? {
 	~Sí #No es la mejor opción. Primero lo que pone en riesgo lo básico.
 	=No, revisa consecuencias #¡Correcto! Primero lo que pone en riesgo lo básico.
-	~Sí, sin excepción #No es la mejor opción. Primero lo que pone en riesgo lo básico.
+	~Sí, sin excepción, aunque haya otras consecuencias #No es la mejor opción. Primero lo que pone en riesgo lo básico.
 }
 
 ::M3 U06 P3::¿Una cuota menor significa que pagas menos en total? {
 	~Sí #No es la mejor opción. Puede alargar el plazo.
 	=No necesariamente #¡Correcto! Puede alargar el plazo.
-	~Sí, siempre #No es la mejor opción. Puede alargar el plazo.
+	~Sí, siempre pagas menos #No es la mejor opción. Puede alargar el plazo.
 }
 
 ::M3 U07 P1::¿Una disputa con una agencia detiene una demanda? {
@@ -655,7 +655,7 @@ $CATEGORY: $course$/Tu Dinero v3/M3
 ::M3 U10 P1::¿Qué mejora es comprobable? {
 	~"Subiré 80 puntos" #No es la mejor opción. Es una acción con evidencia.
 	="Revisé mi reporte y presenté una disputa con folio" #¡Correcto! Es una acción con evidencia.
-	~"Tendré buen crédito este año" #No es la mejor opción. Es una acción con evidencia.
+	~"Tendré buen crédito antes de que termine este año" #No es la mejor opción. Es una acción con evidencia.
 }
 
 ::M3 U10 P2::¿Abrir una tarjeta es siempre el primer paso? {
@@ -825,13 +825,13 @@ $CATEGORY: $course$/Tu Dinero v3/M4
 ::M4 U09 P2::¿El seguro de casa suele cubrir terremotos? {
 	~Sí #No es la mejor opción. Se contrata aparte.
 	=Normalmente es una póliza aparte #¡Correcto! Se contrata aparte.
-	~Sí, siempre #No es la mejor opción. Se contrata aparte.
+	~Sí, siempre está incluido #No es la mejor opción. Se contrata aparte.
 }
 
 ::M4 U09 P3::¿Guardas la única copia de tus documentos en casa? {
 	~Sí #No es la mejor opción. Guarda copias en dos lugares.
 	=No, también en otro lugar seguro #¡Correcto! Guarda copias en dos lugares.
-	~Sí, en un cajón con llave #No es la mejor opción. Guarda copias en dos lugares.
+	~Sí, en un cajón con llave dentro de casa #No es la mejor opción. Guarda copias en dos lugares.
 }
 
 ::M4 U10 P1::¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? {
@@ -849,7 +849,7 @@ $CATEGORY: $course$/Tu Dinero v3/M4
 ::M4 U10 P3::¿Cada cuánto conviene revisar el plan? {
 	~Nunca #No es la mejor opción. La vida cambia.
 	=Cada seis meses o si algo cambia #¡Correcto! La vida cambia.
-	~Cada cinco años #No es la mejor opción. La vida cambia.
+	~Cada cinco años o al cambiar de país #No es la mejor opción. La vida cambia.
 }
 
 ::M4 U11 P1::¿Un plan de protección exige contratar todos los seguros? {
@@ -861,7 +861,7 @@ $CATEGORY: $course$/Tu Dinero v3/M4
 ::M4 U11 P2::Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? {
 	~Solo la reserva #No es la mejor opción. El plan funciona completo.
 	=Verificación, calendario, reserva y acuerdo de remesas #¡Correcto! El plan funciona completo.
-	~Solo la palabra clave #No es la mejor opción. El plan funciona completo.
+	~Solo la palabra clave y el número de siempre #No es la mejor opción. El plan funciona completo.
 }
 
 ::M4 U11 P3::¿Cada cuánto conviene hacer un simulacro? {
@@ -917,7 +917,7 @@ $CATEGORY: $course$/Tu Dinero v3/M5
 ::M5 U03 P2::¿Tener dos fondos parecidos es diversificar? {
 	~Sí #No es la mejor opción. Pueden tener lo mismo.
 	=No necesariamente #¡Correcto! Pueden tener lo mismo.
-	~Sí, siempre #No es la mejor opción. Pueden tener lo mismo.
+	~Sí, siempre que sean de empresas distintas #No es la mejor opción. Pueden tener lo mismo.
 }
 
 ::M5 U03 P3::¿Dónde verificas a un corredor? {
@@ -941,7 +941,7 @@ $CATEGORY: $course$/Tu Dinero v3/M5
 ::M5 U04 P3::Si recibes papeles de desalojo de la corte, ¿qué haces? {
 	~Esperar #No es la mejor opción. El plazo es muy corto.
 	=Buscar ayuda legal de inmediato #¡Correcto! El plazo es muy corto.
-	~Mudarte sin avisar #No es la mejor opción. El plazo es muy corto.
+	~Mudarte sin avisar para evitar la corte #No es la mejor opción. El plazo es muy corto.
 }
 
 ::M5 U05 P1::Auto A\: cuota 250 y otros costos 320. Auto B\: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? {
@@ -1067,5 +1067,5 @@ $CATEGORY: $course$/Tu Dinero v3/M5
 ::M5 U11 P3::¿Cuándo revisas tu plan? {
 	~Nunca #No es la mejor opción. Así sigue siendo útil.
 	=Cada tres o seis meses, o cuando algo cambie #¡Correcto! Así sigue siendo útil.
-	~Una vez, al terminar el curso #No es la mejor opción. Así sigue siendo útil.
+	~Una vez, al terminar el curso, y guardarlo #No es la mejor opción. Así sigue siendo útil.
 }

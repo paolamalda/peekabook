@@ -111,9 +111,9 @@ Daniela encontró un departamento barato en redes. El "dueño" le pidió el dep�
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Rosa y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿A qué número llamas para verificar? a) Al del mensaje · b) Al que buscas por tu cuenta
-2. ¿El candado del navegador prueba que la página es honesta? a) Sí · b) No
-3. ¿Un banco te pedirá el código que te llegó por mensaje? a) Sí · b) No
+1. ¿A qué número llamas para verificar? a) Al del mensaje · b) Al que buscas por tu cuenta · c) Al que aparece en el correo
+2. ¿El candado del navegador prueba que la página es honesta? a) Sí · b) No · c) Sí, si es verde
+3. ¿Un banco te pedirá el código que te llegó por mensaje? a) Sí · b) No · c) Sí, si llaman desde el número del banco
 respuestas: 1-b: el del mensaje puede ser falso. 2-b: solo indica conexión cifrada. 3-b: el código es solo para ti.
 
 --- ponlo
@@ -260,9 +260,9 @@ Un "asesor" de redes le ofrece a Daniela un permiso de trabajo en tres meses "co
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un notary public puede darte asesoría migratoria? a) Sí · b) No
-2. ¿Dónde verificas la licencia de un abogado en California? a) State Bar · b) En su anuncio
-3. ¿ICE te pedirá pagar con tarjetas de regalo? a) Sí · b) No
+1. ¿Un notary public puede darte asesoría migratoria? a) Sí · b) No · c) Sí, si habla español
+2. ¿Dónde verificas la licencia de un abogado en California? a) State Bar · b) En su anuncio · c) Con un notario
+3. ¿ICE te pedirá pagar con tarjetas de regalo? a) Sí · b) No · c) Solo si es urgente
 respuestas: 1-b: solo certifica firmas. 2-a: es el registro oficial. 3-b: ninguna agencia cobra así.
 
 --- ponlo
@@ -398,9 +398,9 @@ Rosa comparte su teléfono con sus nietos.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué cuenta proteges primero? a) Redes sociales · b) Correo principal
-2. ¿Compartes el código que te llegó si te llama "el banco"? a) Sí · b) No
-3. ¿Una app de presupuesto necesita leer tus mensajes? a) Sí · b) No
+1. ¿Qué cuenta proteges primero? a) Redes sociales · b) Correo principal · c) Tu app de música
+2. ¿Compartes el código que te llegó si te llama "el banco"? a) Sí · b) No · c) Sí, si sabe tu nombre
+3. ¿Una app de presupuesto necesita leer tus mensajes? a) Sí · b) No · c) Sí, para clasificar tus gastos
 respuestas: 1-b: con el correo se recuperan las demás. 2-b: el código es solo para ti. 3-b: no lo necesita.
 
 --- ponlo
@@ -540,9 +540,9 @@ Rosa perdió su cartera en el mercado.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El congelamiento de crédito protege tus cuentas existentes? a) Sí · b) No
-2. ¿Negociar con el estafador es un paso necesario? a) Sí · b) No
-3. ¿Dónde creas un plan de recuperación por robo de identidad? a) IdentityTheft.gov · b) Redes sociales
+1. ¿El congelamiento de crédito protege tus cuentas existentes? a) Sí · b) No · c) Sí, también las tarjetas de crédito
+2. ¿Negociar con el estafador es un paso necesario? a) Sí · b) No · c) Sí, para recuperar tu dinero
+3. ¿Dónde creas un plan de recuperación por robo de identidad? a) IdentityTheft.gov · b) Redes sociales · c) En la página que te envió el estafador
 respuestas: 1-b: solo impide cuentas nuevas. 2-b: deja de hablar con él. 3-a: es el sitio oficial de la FTC.
 
 --- ponlo
@@ -679,9 +679,9 @@ Caso inventado: una persona mayor le da su tarjeta a un sobrino para que le haga
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un desacuerdo sobre gastos es siempre abuso? a) Sí · b) No
-2. ¿Para aprobar debes confrontar a la otra persona? a) Sí · b) No
-3. ¿Tener acceso al dinero de un familiar mayor te da derecho a usarlo? a) Sí · b) No
+1. ¿Un desacuerdo sobre gastos es siempre abuso? a) Sí · b) No · c) Sí, si hay gritos
+2. ¿Para aprobar debes confrontar a la otra persona? a) Sí · b) No · c) Sí, por escrito
+3. ¿Tener acceso al dinero de un familiar mayor te da derecho a usarlo? a) Sí · b) No · c) Sí, si lo cuida
 respuestas: 1-b: importa el patrón. 2-b: puedes usar casos inventados. 3-b: el dinero es suyo.
 
 --- ponlo
@@ -826,9 +826,9 @@ Daniela pagó el refrigerador con tarjeta y todavía debe 400.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? a) 0.4 · b) 2.5
-2. ¿Un pago anual conocido es una emergencia? a) Sí · b) No, es un gasto previsto
-3. ¿Es buen lugar para la reserva una inversión que puede bajar? a) Sí · b) No
+1. Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? a) 0.4 · b) 2.5 · c) 1
+2. ¿Un pago anual conocido es una emergencia? a) Sí · b) No, es un gasto previsto · c) Sí, si es mayor a 500
+3. ¿Es buen lugar para la reserva una inversión que puede bajar? a) Sí · b) No · c) Sí, si sube rápido
 respuestas: 1-a: 600 ÷ 1,500 = 0.4. 2-b: se puede prever. 3-b: la reserva no debe perder valor.
 
 --- ponlo

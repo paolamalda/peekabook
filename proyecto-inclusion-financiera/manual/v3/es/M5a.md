@@ -115,9 +115,9 @@ Luis tiene tres metas que suman 275 al mes y solo 150 libres.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. Activos 12,000 y deudas 8,500. ¿Patrimonio? a) 3,500 · b) 20,500
-2. ¿El patrimonio neto es efectivo disponible? a) Sí · b) No
-3. ¿Puedes asignar los mismos 80 a tres metas? a) Sí · b) No
+1. Activos 12,000 y deudas 8,500. ¿Patrimonio? a) 3,500 · b) 20,500 · c) 8,500
+2. ¿El patrimonio neto es efectivo disponible? a) Sí · b) No · c) Sí, si incluye el auto
+3. ¿Puedes asignar los mismos 80 a tres metas? a) Sí · b) No · c) Sí, si son metas pequeñas
 respuestas: 1-a: 12,000 − 8,500. 2-b: incluye cosas que no son efectivo. 3-b: cada dólar tiene un destino.
 
 --- ponlo
@@ -258,9 +258,9 @@ Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. 1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? a) 1,080 · b) 1,081.60
-2. Una inversión sube 10% y luego baja 10%. De 1,000, ¿cuánto queda? a) 1,000 · b) 990
-3. Rendimiento neto 5% e inflación 4%. ¿Rendimiento real aproximado? a) 0.96% · b) 9%
+1. 1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? a) 1,080 · b) 1,081.60 · c) 1,040
+2. Una inversión sube 10% y luego baja 10%. De 1,000, ¿cuánto queda? a) 1,000 · b) 990 · c) 1,010
+3. Rendimiento neto 5% e inflación 4%. ¿Rendimiento real aproximado? a) 0.96% · b) 9% · c) 1%
 respuestas: 1-b: interés compuesto. 2-b: 1,000 × 1.1 × 0.9. 3-a: 1.05 ÷ 1.04 − 1.
 
 --- ponlo
@@ -400,9 +400,9 @@ Daniela recibe una oferta de 20% al mes en criptomonedas.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Una IRA es lo mismo que una acción? a) Sí · b) No
-2. ¿Tener dos fondos parecidos es diversificar? a) Sí · b) No necesariamente
-3. ¿Dónde verificas a un corredor? a) BrokerCheck · b) En sus redes sociales
+1. ¿Una IRA es lo mismo que una acción? a) Sí · b) No · c) Sí, si es de una empresa grande
+2. ¿Tener dos fondos parecidos es diversificar? a) Sí · b) No necesariamente · c) Sí, siempre que sean de empresas distintas
+3. ¿Dónde verificas a un corredor? a) BrokerCheck · b) En sus redes sociales · c) Con el asesor, por mensaje
 respuestas: 1-b: una es la cuenta y la otra el producto. 2-b: pueden tener lo mismo. 3-a: es el registro oficial.
 
 --- ponlo
@@ -539,9 +539,9 @@ Daniela se mudó y el dueño no le devolvió el depósito.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El dueño puede preguntar tu situación migratoria en California? a) Sí · b) No
-2. ¿Una hipoteca de 1,800 cuesta lo mismo que una renta de 1,800? a) Sí · b) No, hay más costos
-3. Si recibes papeles de desalojo de la corte, ¿qué haces? a) Esperar · b) Buscar ayuda legal de inmediato
+1. ¿El dueño puede preguntar tu situación migratoria en California? a) Sí · b) No · c) Solo si es un edificio grande
+2. ¿Una hipoteca de 1,800 cuesta lo mismo que una renta de 1,800? a) Sí · b) No, hay más costos · c) Sí, si la tasa es fija
+3. Si recibes papeles de desalojo de la corte, ¿qué haces? a) Esperar · b) Buscar ayuda legal de inmediato · c) Mudarte sin avisar para evitar la corte
 respuestas: 1-b: está prohibido. 2-b: hay impuestos, seguro y mantenimiento. 3-b: el plazo es muy corto.
 
 --- ponlo
@@ -690,9 +690,9 @@ Una agencia le ofrece a Andrés bajar el pago de su auto alargando el préstamo 
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. Auto A: cuota 250 y otros costos 320. Auto B: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? a) A (570) · b) B (540)
-2. ¿Un préstamo más largo siempre conviene porque baja la cuota? a) Sí · b) No
-3. ¿"Empleo garantizado" en un anuncio es ingreso seguro? a) Sí · b) No
+1. Auto A: cuota 250 y otros costos 320. Auto B: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? a) A (570) · b) B (540) · c) Cuestan lo mismo
+2. ¿Un préstamo más largo siempre conviene porque baja la cuota? a) Sí · b) No · c) Sí, si el auto es nuevo
+3. ¿"Empleo garantizado" en un anuncio es ingreso seguro? a) Sí · b) No · c) Sí, si la escuela es grande
 respuestas: 1-b: 540 es menor. 2-b: pagas más intereses. 3-b: nadie puede garantizarlo.
 
 --- ponlo
@@ -836,9 +836,9 @@ Rosa trabajó en México con IMSS y aquí cobra en efectivo.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Una IRA requiere ingreso del trabajo para aportar? a) Sí · b) No
-2. ¿Una proyección a 20 años es una promesa? a) Sí · b) No
-3. ¿Conviene retirar tu 401(k) al cambiar de trabajo sin revisar opciones? a) Sí · b) No
+1. ¿Una IRA requiere ingreso del trabajo para aportar? a) Sí · b) No · c) Solo si tienes SSN
+2. ¿Una proyección a 20 años es una promesa? a) Sí · b) No · c) Sí, si la hace el banco
+3. ¿Conviene retirar tu 401(k) al cambiar de trabajo sin revisar opciones? a) Sí · b) No · c) Sí, si necesitas el dinero
 respuestas: 1-a: necesitas ingreso del trabajo. 2-b: es un escenario. 3-b: revisa antes la transferencia.
 
 --- ponlo

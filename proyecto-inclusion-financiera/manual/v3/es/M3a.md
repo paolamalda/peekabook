@@ -117,9 +117,9 @@ A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había ten
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un buen puntaje garantiza que puedes pagar? a) Sí · b) No
-2. ¿Un límite de crédito disponible es dinero tuyo? a) Sí · b) No
-3. Si tienes 200 de margen y la cuota es 150, ¿qué pasa si tu ingreso baja 100? a) Sigues bien · b) Déficit de 50
+1. ¿Un buen puntaje garantiza que puedes pagar? a) Sí · b) No · c) Sí, si pasa de 700
+2. ¿Un límite de crédito disponible es dinero tuyo? a) Sí · b) No · c) Sí, si no lo usas
+3. Si tienes 200 de margen y la cuota es 150, ¿qué pasa si tu ingreso baja 100? a) Sigues bien · b) Déficit de 50 · c) Te sobran 50
 respuestas: 1-b: el puntaje no paga la mensualidad. 2-b: es un préstamo disponible. 3-b: 200 − 100 − 150 = −50.
 
 --- ponlo
@@ -271,9 +271,9 @@ Luis pidió su reporte con ITIN por correo.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Revisar tu propio reporte baja tu puntaje? a) Sí · b) No
-2. ¿Un atraso real es un error que se puede borrar? a) Sí · b) No
-3. ¿Qué envías como prueba en una disputa? a) El original · b) Una copia
+1. ¿Revisar tu propio reporte baja tu puntaje? a) Sí · b) No · c) Sí, 5 puntos cada vez
+2. ¿Un atraso real es un error que se puede borrar? a) Sí · b) No · c) Sí, si pagas una cuota
+3. ¿Qué envías como prueba en una disputa? a) El original · b) Una copia · c) Nada; basta con llamar
 respuestas: 1-b: revisar el tuyo no afecta. 2-b: un dato correcto no se borra. 3-b: guarda tus originales.
 
 --- ponlo
@@ -405,9 +405,9 @@ Daniela paga 1,600 de renta cada mes, siempre a tiempo, en un edificio de 40 dep
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El depósito de una tarjeta garantizada paga tus compras? a) Sí · b) No
-2. ¿Necesitas pagar intereses para crear historial? a) Sí · b) No
-3. ¿Un producto que no reporta a las agencias construye historial? a) Sí · b) No
+1. ¿El depósito de una tarjeta garantizada paga tus compras? a) Sí · b) No · c) Sí, cada mes
+2. ¿Necesitas pagar intereses para crear historial? a) Sí · b) No · c) Sí, al menos un poco cada mes
+3. ¿Un producto que no reporta a las agencias construye historial? a) Sí · b) No · c) Sí, si pagas a tiempo
 respuestas: 1-b: tú pagas tus compras. 2-b: paga el saldo completo. 3-b: si no reporta, no cuenta.
 
 --- ponlo
@@ -549,9 +549,9 @@ A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Se puede borrar un atraso real porque baja tu puntaje? a) Sí · b) No
-2. Saldo 240 y límite 800. ¿Utilización? a) 30% · b) 24%
-3. ¿Una empresa puede cobrarte antes de hacer el trabajo de reparación? a) Es una señal de alarma · b) Es normal
+1. ¿Se puede borrar un atraso real porque baja tu puntaje? a) Sí · b) No · c) Sí, si pagas a una empresa
+2. Saldo 240 y límite 800. ¿Utilización? a) 30% · b) 24% · c) 60%
+3. ¿Una empresa puede cobrarte antes de hacer el trabajo de reparación? a) Es una señal de alarma · b) Es normal · c) Es obligatorio por ley
 respuestas: 1-b: los datos correctos se quedan. 2-a: 240 ÷ 800 = 0.30. 3-a: la ley lo prohíbe.
 
 --- ponlo
@@ -701,9 +701,9 @@ Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. Préstamo A: 10 pagos de 110 más 40 de comisión. B: 10 pagos de 112. ¿Cuál cuesta menos? a) A (1,140) · b) B (1,120)
-2. ¿Pagar el mínimo evita intereses? a) Sí · b) No
-3. ¿Interés diferido es lo mismo que 0%? a) Sí · b) No
+1. Préstamo A: 10 pagos de 110 más 40 de comisión. B: 10 pagos de 112. ¿Cuál cuesta menos? a) A (1,140) · b) B (1,120) · c) Cuestan lo mismo
+2. ¿Pagar el mínimo evita intereses? a) Sí · b) No · c) Sí, si pagas a tiempo
+3. ¿Interés diferido es lo mismo que 0%? a) Sí · b) No · c) Sí, si lo dice la tienda
 respuestas: 1-b: B cuesta 20 menos. 2-b: solo evita el atraso. 3-b: si no liquidas a tiempo, cobran todo.
 
 --- ponlo

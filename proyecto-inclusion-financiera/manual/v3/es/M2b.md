@@ -130,9 +130,9 @@ Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El costo de enviar se resta de la capacidad? a) Sí · b) No
-2. Si la capacidad sale negativa, ¿qué haces? a) Escribes cero · b) Muestras el faltante y buscas opciones
-3. ¿Conviene prometer un monto fijo si tu ingreso varía? a) Sí · b) Mejor un rango
+1. ¿El costo de enviar se resta de la capacidad? a) Sí · b) No · c) Solo si pagas con tarjeta
+2. Si la capacidad sale negativa, ¿qué haces? a) Escribes cero · b) Muestras el faltante y buscas opciones · c) Pides prestado para enviar el monto acostumbrado
+3. ¿Conviene prometer un monto fijo si tu ingreso varía? a) Sí · b) Mejor un rango · c) Sí, así tu familia se organiza mejor
 respuestas: 1-a: también sale de tu bolsillo. 2-b: el faltante es información. 3-b: un rango te protege.
 
 --- ponlo
@@ -283,9 +283,9 @@ Daniela envía a El Salvador, que usa dólar.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿"Sin comisión" garantiza que llegue más dinero? a) Sí · b) No
-2. ¿El impuesto de 1% aplica a todas las remesas? a) Sí · b) No, a ciertas remesas pagadas con efectivo o instrumentos físicos
-3. Para comparar, ¿qué debe ser igual? a) La base: mismo presupuesto o mismo monto a recibir · b) Nada
+1. ¿"Sin comisión" garantiza que llegue más dinero? a) Sí · b) No · c) Sí, si también es el primer envío
+2. ¿El impuesto de 1% aplica a todas las remesas? a) Sí · b) No, a ciertas remesas pagadas con efectivo o instrumentos físicos · c) Solo a las remesas enviadas por app a otro país
+3. Para comparar, ¿qué debe ser igual? a) La base: mismo presupuesto o mismo monto a recibir · b) Nada · c) Solo la comisión; el tipo de cambio no importa
 respuestas: 1-b: el tipo de cambio también cuenta. 2-b: solo a las pagadas en efectivo o similares. 3-a: si no, no son comparables.
 
 --- ponlo
@@ -434,9 +434,9 @@ Daniela escribió el apellido de su hermana con una letra distinta. Su hermana n
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Dónde verificas la licencia de una remesadora en California? a) DFPI o NMLS · b) En su anuncio
-2. ¿Cuánto tiempo tienes, en general, para cancelar sin costo? a) 30 minutos · b) 30 días
-3. ¿"Tienes 180 días" significa que conviene esperar? a) Sí · b) No
+1. ¿Dónde verificas la licencia de una remesadora en California? a) DFPI o NMLS · b) En su anuncio · c) En reseñas de redes sociales
+2. ¿Cuánto tiempo tienes, en general, para cancelar sin costo? a) 30 minutos · b) 30 días · c) 7 días
+3. ¿"Tienes 180 días" significa que conviene esperar? a) Sí · b) No · c) Sí, así el proveedor se da cuenta solo
 respuestas: 1-a: son los registros oficiales. 2-a: si el dinero no se ha cobrado. 3-b: actúa pronto.
 
 --- ponlo
@@ -584,9 +584,9 @@ Luis pagó un envío con su tarjeta de crédito.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El dinero prestado es ingreso ganado? a) Sí · b) No
-2. Si "renuevas" pagando solo el costo, ¿reduces lo que debes? a) Sí · b) No
-3. ¿Un adelanto de salario por app es deuda? a) Sí · b) No
+1. ¿El dinero prestado es ingreso ganado? a) Sí · b) No · c) Sí, si es de un familiar
+2. Si "renuevas" pagando solo el costo, ¿reduces lo que debes? a) Sí · b) No · c) Sí, un poco cada vez
+3. ¿Un adelanto de salario por app es deuda? a) Sí · b) No · c) No, porque es tu propio dinero
 respuestas: 1-b: hay que devolverlo. 2-b: sigues debiendo lo mismo. 3-a: se descuenta de tu siguiente pago.
 
 --- ponlo
@@ -729,9 +729,9 @@ Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero p
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿A qué número llamas para verificar una emergencia? a) Al del mensaje · b) A uno que ya conocías
-2. ¿Una voz que suena igual a tu familiar prueba que es real? a) Sí · b) No
-3. ¿Cuántas partes tiene un buen acuerdo familiar? a) 2 · b) 6
+1. ¿A qué número llamas para verificar una emergencia? a) Al del mensaje · b) A uno que ya conocías · c) Al que te dé la persona que llama
+2. ¿Una voz que suena igual a tu familiar prueba que es real? a) Sí · b) No · c) Sí, si dice tu nombre
+3. ¿Cuántas partes tiene un buen acuerdo familiar? a) 2 · b) 6 · c) 1: el monto
 respuestas: 1-b: el del mensaje puede ser del estafador. 2-b: hoy se clonan voces. 3-b: propósito, rango, fecha, emergencias, verificación y revisión.
 
 --- ponlo
@@ -876,9 +876,9 @@ Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿En qué moneda defines una meta que se paga en México? a) Pesos · b) Dólares
-2. ¿Tu comprobante de envío prueba que eres dueño de un terreno? a) Sí · b) No
-3. ¿Una aportación puede contar para dos metas a la vez? a) Sí · b) No
+1. ¿En qué moneda defines una meta que se paga en México? a) Pesos · b) Dólares · c) En la moneda que esté más barata ese día
+2. ¿Tu comprobante de envío prueba que eres dueño de un terreno? a) Sí · b) No · c) Sí, si guardas todos los recibos
+3. ¿Una aportación puede contar para dos metas a la vez? a) Sí · b) No · c) Sí, si son de la misma familia
 respuestas: 1-a: así se paga. 2-b: solo prueba el envío. 3-b: cada dólar tiene un destino.
 
 --- ponlo
@@ -1023,9 +1023,9 @@ Daniela cobra por horas y por pedidos. Envía a su hermana cada mes.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué demuestra mejor que comparaste? a) Descargar una app · b) Una ficha con dos ofertas y fecha
-2. ¿Enviar menos siempre es mejor? a) Sí · b) No
-3. ¿Una promoción representa el costo habitual? a) Sí · b) No
+1. ¿Qué demuestra mejor que comparaste? a) Descargar una app · b) Una ficha con dos ofertas y fecha · c) Preguntar a un amigo cuál usa
+2. ¿Enviar menos siempre es mejor? a) Sí · b) No · c) Sí, si el tipo de cambio sube
+3. ¿Una promoción representa el costo habitual? a) Sí · b) No · c) Sí, si dura más de un mes
 respuestas: 1-b: es evidencia concreta. 2-b: depende de tu capacidad y de la necesidad. 3-b: compara el precio de después.
 
 --- ponlo

@@ -118,9 +118,9 @@ Rosa compara dos planes: uno con prima baja y deducible de 3,000; otro con prima
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿El seguro de responsabilidad civil repara tu auto? a) Sí · b) No
-2. ¿El seguro del dueño del edificio cubre tus pertenencias? a) Sí · b) No
-3. Servicio 1,500, deducible 300, coaseguro 25%. ¿Cuánto pagas? a) 600 · b) 375
+1. ¿El seguro de responsabilidad civil repara tu auto? a) Sí · b) No · c) Sí, si tú tuviste la culpa
+2. ¿El seguro del dueño del edificio cubre tus pertenencias? a) Sí · b) No · c) Sí, si el robo fue en el edificio
+3. Servicio 1,500, deducible 300, coaseguro 25%. ¿Cuánto pagas? a) 600 · b) 375 · c) 1,500
 respuestas: 1-b: paga daños a otros. 2-b: necesitas seguro de inquilino. 3-a: 300 + 25% de 1,200 = 600.
 
 --- ponlo
@@ -250,9 +250,9 @@ Rosa recibió una EOB del seguro, una factura del hospital y otra del médico de
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿La explicación de beneficios es una factura? a) Sí · b) No
-2. ¿Los hospitales de California deben tener política de asistencia financiera? a) Sí · b) No
-3. ¿Retrasas una atención urgente para terminar el ejercicio? a) Sí · b) Nunca
+1. ¿La explicación de beneficios es una factura? a) Sí · b) No · c) Sí, se paga en 30 días
+2. ¿Los hospitales de California deben tener política de asistencia financiera? a) Sí · b) No · c) Solo los hospitales públicos
+3. ¿Retrasas una atención urgente para terminar el ejercicio? a) Sí · b) Nunca · c) Sí, si falta poco
 respuestas: 1-b: solo explica. 2-a: deben tenerla. 3-b: primero tu salud.
 
 --- ponlo
@@ -385,9 +385,9 @@ Después del incendio, un hombre ofrece a Rosa reparar el techo si le paga todo 
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Una indemnización no confirmada cuenta como recurso? a) Sí · b) No
-2. ¿El seguro de casa suele cubrir terremotos? a) Sí · b) Normalmente es una póliza aparte
-3. ¿Guardas la única copia de tus documentos en casa? a) Sí · b) No, también en otro lugar seguro
+1. ¿Una indemnización no confirmada cuenta como recurso? a) Sí · b) No · c) Sí, si el abogado dice que ganarás
+2. ¿El seguro de casa suele cubrir terremotos? a) Sí · b) Normalmente es una póliza aparte · c) Sí, siempre está incluido
+3. ¿Guardas la única copia de tus documentos en casa? a) Sí · b) No, también en otro lugar seguro · c) Sí, en un cajón con llave dentro de casa
 respuestas: 1-b: solo lo confirmado. 2-b: se contrata aparte. 3-b: guarda copias en dos lugares.
 
 --- ponlo
@@ -522,9 +522,9 @@ Daniela es mamá sola y su familia está en El Salvador.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? a) Sí · b) No
-2. ¿Compartir tu contraseña da autorización legal? a) Sí · b) No
-3. ¿Cada cuánto conviene revisar el plan? a) Nunca · b) Cada seis meses o si algo cambia
+1. ¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? a) Sí · b) No · c) Sí, por un año
+2. ¿Compartir tu contraseña da autorización legal? a) Sí · b) No · c) Sí, si está escrita
+3. ¿Cada cuánto conviene revisar el plan? a) Nunca · b) Cada seis meses o si algo cambia · c) Cada cinco años o al cambiar de país
 respuestas: 1-b: solo autoriza escuela y cierta atención médica. 2-b: se necesita autorización formal. 3-b: la vida cambia.
 
 --- ponlo
@@ -654,9 +654,9 @@ En su simulacro, Mar recibe una llamada falsa de un familiar justo cuando le baj
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Un plan de protección exige contratar todos los seguros? a) Sí · b) No
-2. Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? a) Solo la reserva · b) Verificación, calendario, reserva y acuerdo de remesas
-3. ¿Cada cuánto conviene hacer un simulacro? a) Nunca · b) Al menos una vez al año
+1. ¿Un plan de protección exige contratar todos los seguros? a) Sí · b) No · c) Sí, al menos tres
+2. Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? a) Solo la reserva · b) Verificación, calendario, reserva y acuerdo de remesas · c) Solo la palabra clave y el número de siempre
+3. ¿Cada cuánto conviene hacer un simulacro? a) Nunca · b) Al menos una vez al año · c) Solo cuando pasa algo
 respuestas: 1-b: se priorizan las brechas. 2-b: el plan funciona completo. 3-b: practicar mantiene el plan útil.
 
 --- ponlo

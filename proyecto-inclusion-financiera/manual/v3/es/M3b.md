@@ -117,9 +117,9 @@ Daniela hizo su inventario y descubrió una cuenta médica de 380 que había olv
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué estrategia ahorra más intereses? a) Avalancha · b) Bola de nieve
-2. ¿Siempre debes pagar primero la tasa más alta? a) Sí · b) No, revisa consecuencias
-3. ¿Una cuota menor significa que pagas menos en total? a) Sí · b) No necesariamente
+1. ¿Qué estrategia ahorra más intereses? a) Avalancha · b) Bola de nieve · c) Pagar solo los mínimos
+2. ¿Siempre debes pagar primero la tasa más alta? a) Sí · b) No, revisa consecuencias · c) Sí, sin excepción, aunque haya otras consecuencias
+3. ¿Una cuota menor significa que pagas menos en total? a) Sí · b) No necesariamente · c) Sí, siempre pagas menos
 respuestas: 1-a: ataca la tasa más alta. 2-b: primero lo que pone en riesgo lo básico. 3-b: puede alargar el plazo.
 
 --- ponlo
@@ -257,9 +257,9 @@ Un cobrador llama a Luis por una deuda de un teléfono de hace cinco años, de c
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Una disputa con una agencia detiene una demanda? a) Sí · b) No
-2. ¿Un cobrador puede amenazarte? a) Sí · b) No
-3. ¿Un acuerdo que pediste ya está aceptado? a) Sí · b) No, hasta que lo confirmen
+1. ¿Una disputa con una agencia detiene una demanda? a) Sí · b) No · c) Sí, por 30 días
+2. ¿Un cobrador puede amenazarte? a) Sí · b) No · c) Sí, si la deuda es vieja
+3. ¿Un acuerdo que pediste ya está aceptado? a) Sí · b) No, hasta que lo confirmen · c) Sí, si lo pediste por teléfono
 respuestas: 1-b: la corte tiene su propio plazo. 2-b: está prohibido. 3-b: necesitas la confirmación.
 
 --- ponlo
@@ -436,9 +436,9 @@ Daniela le presta 500 a su hermana. Acuerdan por mensaje que ella pagará 100 al
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Cofirmar puede hacerte responsable de toda la deuda? a) Sí · b) No
-2. ¿Una promesa familiar cambia el contrato con el banco? a) Sí · b) No
-3. ¿Conviene compartir tu contraseña para ayudar? a) Sí · b) No
+1. ¿Cofirmar puede hacerte responsable de toda la deuda? a) Sí · b) No · c) Solo de la mitad
+2. ¿Una promesa familiar cambia el contrato con el banco? a) Sí · b) No · c) Sí, si es por escrito entre ustedes
+3. ¿Conviene compartir tu contraseña para ayudar? a) Sí · b) No · c) Sí, si es familia
 respuestas: 1-a: el prestamista te puede cobrar todo. 2-b: el contrato es lo que cuenta. 3-b: pierdes el control y la protección del banco.
 
 --- ponlo
@@ -572,9 +572,9 @@ En la tanda de Daniela, una integrante dejó de pagar después de recibir.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Una tanda tradicional construye historial de crédito? a) Sí · b) No
-2. ¿Quién recibe primero en una tanda obtiene…? a) Un préstamo sin interés · b) Una ganancia
-3. ¿Un círculo organizado puede reportar a las agencias? a) Sí · b) No
+1. ¿Una tanda tradicional construye historial de crédito? a) Sí · b) No · c) Sí, si es entre más de 10 personas
+2. ¿Quién recibe primero en una tanda obtiene…? a) Un préstamo sin interés · b) Una ganancia · c) Una multa
+3. ¿Un círculo organizado puede reportar a las agencias? a) Sí · b) No · c) Solo si es de un banco
 respuestas: 1-b: nadie reporta tus pagos. 2-a: recibe todo antes de pagar. 3-a: muchos programas lo hacen.
 
 --- ponlo
@@ -714,9 +714,9 @@ Daniela tiene una cuenta médica en cobranza.
 **¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
-1. ¿Qué mejora es comprobable? a) "Subiré 80 puntos" · b) "Revisé mi reporte y presenté una disputa con folio"
-2. ¿Abrir una tarjeta es siempre el primer paso? a) Sí · b) No
-3. Saldo 800, interés 16, compras 90, pago 120. ¿Saldo final? a) 786 · b) 680
+1. ¿Qué mejora es comprobable? a) "Subiré 80 puntos" · b) "Revisé mi reporte y presenté una disputa con folio" · c) "Tendré buen crédito antes de que termine este año"
+2. ¿Abrir una tarjeta es siempre el primer paso? a) Sí · b) No · c) Sí, cuantas más tarjetas mejor
+3. Saldo 800, interés 16, compras 90, pago 120. ¿Saldo final? a) 786 · b) 680 · c) 920
 respuestas: 1-b: es una acción con evidencia. 2-b: depende de tu situación. 3-a: 800 + 16 + 90 − 120 = 786.
 
 --- ponlo

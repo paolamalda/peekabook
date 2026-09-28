@@ -174,9 +174,9 @@ Daniela encontró un departamento barato en redes. El "dueño" le pidió el dep�
 
 #### Quiz
 
-1. ¿A qué número llamas para verificar? a) Al del mensaje · b) Al que buscas por tu cuenta
-2. ¿El candado del navegador prueba que la página es honesta? a) Sí · b) No
-3. ¿Un banco te pedirá el código que te llegó por mensaje? a) Sí · b) No
+1. ¿A qué número llamas para verificar? a) Al del mensaje · b) Al que buscas por tu cuenta · c) Al que aparece en el correo
+2. ¿El candado del navegador prueba que la página es honesta? a) Sí · b) No · c) Sí, si es verde
+3. ¿Un banco te pedirá el código que te llegó por mensaje? a) Sí · b) No · c) Sí, si llaman desde el número del banco
 **Respuestas:** 1-b: el del mensaje puede ser falso. 2-b: solo indica conexión cifrada. 3-b: el código es solo para ti.
 
 
@@ -396,9 +396,9 @@ Un "asesor" de redes le ofrece a Daniela un permiso de trabajo en tres meses "co
 
 #### Quiz
 
-1. ¿Un notary public puede darte asesoría migratoria? a) Sí · b) No
-2. ¿Dónde verificas la licencia de un abogado en California? a) State Bar · b) En su anuncio
-3. ¿ICE te pedirá pagar con tarjetas de regalo? a) Sí · b) No
+1. ¿Un notary public puede darte asesoría migratoria? a) Sí · b) No · c) Sí, si habla español
+2. ¿Dónde verificas la licencia de un abogado en California? a) State Bar · b) En su anuncio · c) Con un notario
+3. ¿ICE te pedirá pagar con tarjetas de regalo? a) Sí · b) No · c) Solo si es urgente
 **Respuestas:** 1-b: solo certifica firmas. 2-a: es el registro oficial. 3-b: ninguna agencia cobra así.
 
 
@@ -607,9 +607,9 @@ Rosa comparte su teléfono con sus nietos.
 
 #### Quiz
 
-1. ¿Qué cuenta proteges primero? a) Redes sociales · b) Correo principal
-2. ¿Compartes el código que te llegó si te llama "el banco"? a) Sí · b) No
-3. ¿Una app de presupuesto necesita leer tus mensajes? a) Sí · b) No
+1. ¿Qué cuenta proteges primero? a) Redes sociales · b) Correo principal · c) Tu app de música
+2. ¿Compartes el código que te llegó si te llama "el banco"? a) Sí · b) No · c) Sí, si sabe tu nombre
+3. ¿Una app de presupuesto necesita leer tus mensajes? a) Sí · b) No · c) Sí, para clasificar tus gastos
 **Respuestas:** 1-b: con el correo se recuperan las demás. 2-b: el código es solo para ti. 3-b: no lo necesita.
 
 
@@ -822,9 +822,9 @@ Rosa perdió su cartera en el mercado.
 
 #### Quiz
 
-1. ¿El congelamiento de crédito protege tus cuentas existentes? a) Sí · b) No
-2. ¿Negociar con el estafador es un paso necesario? a) Sí · b) No
-3. ¿Dónde creas un plan de recuperación por robo de identidad? a) IdentityTheft.gov · b) Redes sociales
+1. ¿El congelamiento de crédito protege tus cuentas existentes? a) Sí · b) No · c) Sí, también las tarjetas de crédito
+2. ¿Negociar con el estafador es un paso necesario? a) Sí · b) No · c) Sí, para recuperar tu dinero
+3. ¿Dónde creas un plan de recuperación por robo de identidad? a) IdentityTheft.gov · b) Redes sociales · c) En la página que te envió el estafador
 **Respuestas:** 1-b: solo impide cuentas nuevas. 2-b: deja de hablar con él. 3-a: es el sitio oficial de la FTC.
 
 
@@ -1034,9 +1034,9 @@ Caso inventado: una persona mayor le da su tarjeta a un sobrino para que le haga
 
 #### Quiz
 
-1. ¿Un desacuerdo sobre gastos es siempre abuso? a) Sí · b) No
-2. ¿Para aprobar debes confrontar a la otra persona? a) Sí · b) No
-3. ¿Tener acceso al dinero de un familiar mayor te da derecho a usarlo? a) Sí · b) No
+1. ¿Un desacuerdo sobre gastos es siempre abuso? a) Sí · b) No · c) Sí, si hay gritos
+2. ¿Para aprobar debes confrontar a la otra persona? a) Sí · b) No · c) Sí, por escrito
+3. ¿Tener acceso al dinero de un familiar mayor te da derecho a usarlo? a) Sí · b) No · c) Sí, si lo cuida
 **Respuestas:** 1-b: importa el patrón. 2-b: puedes usar casos inventados. 3-b: el dinero es suyo.
 
 
@@ -1257,9 +1257,9 @@ Daniela pagó el refrigerador con tarjeta y todavía debe 400.
 
 #### Quiz
 
-1. Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? a) 0.4 · b) 2.5
-2. ¿Un pago anual conocido es una emergencia? a) Sí · b) No, es un gasto previsto
-3. ¿Es buen lugar para la reserva una inversión que puede bajar? a) Sí · b) No
+1. Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? a) 0.4 · b) 2.5 · c) 1
+2. ¿Un pago anual conocido es una emergencia? a) Sí · b) No, es un gasto previsto · c) Sí, si es mayor a 500
+3. ¿Es buen lugar para la reserva una inversión que puede bajar? a) Sí · b) No · c) Sí, si sube rápido
 **Respuestas:** 1-a: 600 ÷ 1,500 = 0.4. 2-b: se puede prever. 3-b: la reserva no debe perder valor.
 
 
@@ -1475,9 +1475,9 @@ Rosa compara dos planes: uno con prima baja y deducible de 3,000; otro con prima
 
 #### Quiz
 
-1. ¿El seguro de responsabilidad civil repara tu auto? a) Sí · b) No
-2. ¿El seguro del dueño del edificio cubre tus pertenencias? a) Sí · b) No
-3. Servicio 1,500, deducible 300, coaseguro 25%. ¿Cuánto pagas? a) 600 · b) 375
+1. ¿El seguro de responsabilidad civil repara tu auto? a) Sí · b) No · c) Sí, si tú tuviste la culpa
+2. ¿El seguro del dueño del edificio cubre tus pertenencias? a) Sí · b) No · c) Sí, si el robo fue en el edificio
+3. Servicio 1,500, deducible 300, coaseguro 25%. ¿Cuánto pagas? a) 600 · b) 375 · c) 1,500
 **Respuestas:** 1-b: paga daños a otros. 2-b: necesitas seguro de inquilino. 3-a: 300 + 25% de 1,200 = 600.
 
 
@@ -1680,9 +1680,9 @@ Rosa recibió una EOB del seguro, una factura del hospital y otra del médico de
 
 #### Quiz
 
-1. ¿La explicación de beneficios es una factura? a) Sí · b) No
-2. ¿Los hospitales de California deben tener política de asistencia financiera? a) Sí · b) No
-3. ¿Retrasas una atención urgente para terminar el ejercicio? a) Sí · b) Nunca
+1. ¿La explicación de beneficios es una factura? a) Sí · b) No · c) Sí, se paga en 30 días
+2. ¿Los hospitales de California deben tener política de asistencia financiera? a) Sí · b) No · c) Solo los hospitales públicos
+3. ¿Retrasas una atención urgente para terminar el ejercicio? a) Sí · b) Nunca · c) Sí, si falta poco
 **Respuestas:** 1-b: solo explica. 2-a: deben tenerla. 3-b: primero tu salud.
 
 
@@ -1885,9 +1885,9 @@ Después del incendio, un hombre ofrece a Rosa reparar el techo si le paga todo 
 
 #### Quiz
 
-1. ¿Una indemnización no confirmada cuenta como recurso? a) Sí · b) No
-2. ¿El seguro de casa suele cubrir terremotos? a) Sí · b) Normalmente es una póliza aparte
-3. ¿Guardas la única copia de tus documentos en casa? a) Sí · b) No, también en otro lugar seguro
+1. ¿Una indemnización no confirmada cuenta como recurso? a) Sí · b) No · c) Sí, si el abogado dice que ganarás
+2. ¿El seguro de casa suele cubrir terremotos? a) Sí · b) Normalmente es una póliza aparte · c) Sí, siempre está incluido
+3. ¿Guardas la única copia de tus documentos en casa? a) Sí · b) No, también en otro lugar seguro · c) Sí, en un cajón con llave dentro de casa
 **Respuestas:** 1-b: solo lo confirmado. 2-b: se contrata aparte. 3-b: guarda copias en dos lugares.
 
 
@@ -2092,9 +2092,9 @@ Daniela es mamá sola y su familia está en El Salvador.
 
 #### Quiz
 
-1. ¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? a) Sí · b) No
-2. ¿Compartir tu contraseña da autorización legal? a) Sí · b) No
-3. ¿Cada cuánto conviene revisar el plan? a) Nunca · b) Cada seis meses o si algo cambia
+1. ¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? a) Sí · b) No · c) Sí, por un año
+2. ¿Compartir tu contraseña da autorización legal? a) Sí · b) No · c) Sí, si está escrita
+3. ¿Cada cuánto conviene revisar el plan? a) Nunca · b) Cada seis meses o si algo cambia · c) Cada cinco años o al cambiar de país
 **Respuestas:** 1-b: solo autoriza escuela y cierta atención médica. 2-b: se necesita autorización formal. 3-b: la vida cambia.
 
 
@@ -2297,9 +2297,9 @@ En su simulacro, Mar recibe una llamada falsa de un familiar justo cuando le baj
 
 #### Quiz
 
-1. ¿Un plan de protección exige contratar todos los seguros? a) Sí · b) No
-2. Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? a) Solo la reserva · b) Verificación, calendario, reserva y acuerdo de remesas
-3. ¿Cada cuánto conviene hacer un simulacro? a) Nunca · b) Al menos una vez al año
+1. ¿Un plan de protección exige contratar todos los seguros? a) Sí · b) No · c) Sí, al menos tres
+2. Llega una falsa emergencia cuando tu ingreso bajó. ¿Qué partes usas? a) Solo la reserva · b) Verificación, calendario, reserva y acuerdo de remesas · c) Solo la palabra clave y el número de siempre
+3. ¿Cada cuánto conviene hacer un simulacro? a) Nunca · b) Al menos una vez al año · c) Solo cuando pasa algo
 **Respuestas:** 1-b: se priorizan las brechas. 2-b: el plan funciona completo. 3-b: practicar mantiene el plan útil.
 
 

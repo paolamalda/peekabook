@@ -1,8 +1,19 @@
-CURSO COMPLETO 3.1 PARA MOODLE 3.10
+CURSO COMPLETO 3.2 PARA MOODLE 3.10
 Tu Dinero, Tu Familia, Tu Futuro · Desarrolla Talento · 28 de septiembre de 2026
 
-QUÉ HAY DE NUEVO RESPECTO A LA ENTREGA 16
+QUÉ CAMBIÓ RESPECTO A LA ENTREGA 17 (3.1)
 -----------------------------------------
+- H5P: se reescribieron las opciones incorrectas para que la respuesta correcta no se
+  distinga por ser la más larga (antes lo era en 163 de 177 casos; ahora en 41, menos
+  que al azar).
+- Quiz dentro del libro: ahora tiene tres opciones, igual que la autoevaluación.
+- Banco: se ajustaron 16 opciones que daban pistas por su largo o se parecían entre sí.
+Si Claude ya aplicó la entrega 17, que repita solo los pasos 1 (libros), 4 (reimportar
+el banco y cambiar las preguntas de las autoevaluaciones) y 5 (reemplazar las H5P:
+en cada actividad, editar y subir el archivo nuevo).
+
+QUÉ TRAE RESPECTO A LA ENTREGA 16
+---------------------------------
 - Libros M1 a M5: portadas renombradas a _0.html (la corrección que encontraste:
   cada lección queda con sus subcapítulos) y el recuadro "Actividad interactiva"
   ahora describe la actividad H5P real de cada lección.
@@ -20,7 +31,7 @@ QUÉ HAY DE NUEVO RESPECTO A LA ENTREGA 16
 ESTE CURSO VIENE EN 3 ZIPS (por tamaño)
 ---------------------------------------
 Parte 1: todo menos las H5P · Parte 2: H5P de M1 y M2 · Parte 3: H5P de M3 a M5.
-Descomprime las tres en el mismo lugar: se juntan en una sola carpeta TDTF_17_Curso_completo_v3.1.
+Descomprime las tres en el mismo lugar: se juntan en una sola carpeta TDTF_18_Curso_completo_v3.2.
 
 QUÉ CONTIENE
 ------------
