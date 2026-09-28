@@ -10,6 +10,7 @@ Esta muestra aplica el nuevo formato a dos lecciones: una de las más largas (M1
 - Al inicio de cada lección se indica el tiempo de lectura de cada versión.
 - Los términos importantes aparecen en color. Al pasar el cursor encima (o tocarlos en el celular, si el tema lo permite) aparece su significado en palabras sencillas.
 - Hay vínculos a fuentes oficiales dentro del texto y recuadros de **Dato adicional**.
+- En "Para saber más" cada recurso dice **qué buscar** dentro del enlace.
 
 ---
 
@@ -179,8 +180,9 @@ Haz una lista con cuatro columnas: efectivo, depósitos, bienes y deudas. No nec
 
 ### Para saber más
 
-- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
-- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults | Qué buscar: elige la versión en español y abre el módulo sobre presupuesto y manejo del dinero. Úsalo para practicar cómo separar ingresos, gastos y deudas.
+- **Estafas de cheques falsos** (FTC; idioma: ES): https://consumidor.ftc.gov/articulos/estafas-de-cheques-falsos | Qué buscar: las señales de un depósito "por error" y qué hacer antes de devolver dinero (Caso 3).
+- **Verificar un banco asegurado** (FDIC BankFind; idioma: EN): https://banks.data.fdic.gov/bankfind-suite/ | Qué buscar: escribe el nombre de tu banco o del banco aliado de tu app y confirma que aparece como asegurado.
 
 **Palabras clave:**
 
@@ -344,8 +346,9 @@ Escribe qué apoyo puedes asumir, qué información falta y qué harás si cambi
 
 ### Para saber más
 
-- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
-- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Cofirmar un préstamo: preguntas frecuentes** (FTC; idioma: EN): https://consumer.ftc.gov/articles/cosigning-loan-faqs | Qué buscar: qué pasa si la otra persona no paga y el texto del aviso para cofirmantes que te deben entregar antes de firmar.
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/ | Qué buscar: escribe "cofirmante" o "cobranza de deudas" en el buscador para ver tus derechos si te cobran una deuda que firmaste.
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults | Qué buscar: el módulo sobre préstamos y crédito, para calcular si una cuota cabe en tu presupuesto.
 
 **Palabras clave:**
 
