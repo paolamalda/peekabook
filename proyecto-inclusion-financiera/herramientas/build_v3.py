@@ -115,19 +115,32 @@ def preview(pages, folder):
             f'<div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">{html.escape(t)}</h2>{b}</div></div></div></body></html>')
     open(os.path.join(folder, "ABRIR_AQUI.html"), "w").write(f'<meta http-equiv="refresh" content="0; url={pages[0][0]}">')
 
+EN = "--en" in sys.argv
+if EN:  # versión en inglés: fuente manual/v3/en, salida moodle/v3/en, interfaz traducida
+    from i18n_en import tr, TITLES
+    SRC, OUT = os.path.join(BASE, "manual", "v3", "en"), os.path.join(BASE, "moodle", "v3", "en")
+    TITULOS.update(TITLES)
+else:
+    tr = lambda s: s
+
 if __name__ == "__main__":
-    for mod in sys.argv[1:]:
+    for mod in [a for a in sys.argv[1:] if not a.startswith("--")]:
         text = module_text(mod)
-        pages = build(text)
+        pages = [(fn, tr(t), tr(b)) for fn, t, b in build(text)]
         d = os.path.join(OUT, mod)
         os.makedirs(d, exist_ok=True)
         with zipfile.ZipFile(os.path.join(d, f"{mod}_libro_Moodle.zip"), "w", zipfile.ZIP_DEFLATED) as z:
             for fn, t, b in pages:
                 z.writestr(fn, page(t, b))
         xml, n = glosario(text, f"Palabras clave · {mod}")
+        xml = tr(xml)
         open(os.path.join(d, f"{mod}_glosario_Moodle.xml"), "w").write(xml)
-        open(os.path.join(d, f"{mod}_legible.md"), "w").write(legible(text, mod))
+        open(os.path.join(d, f"{mod}_legible.md"), "w").write(tr(legible(text, mod)))
         preview(pages, os.path.join(d, "vista_previa"))
+        if EN:
+            for f in os.listdir(os.path.join(d, "vista_previa")):
+                if f.endswith(".html"):
+                    q = os.path.join(d, "vista_previa", f); s = open(q).read(); open(q, "w").write(tr(s))
         c = conteo(text)
         json.dump({"lecciones": len(c), "paginas": len(pages), "terminos": n, "conteo": c}, open(os.path.join(d, "conteo.json"), "w"), ensure_ascii=False)
         print(mod, "lecciones", len(c), "páginas", len(pages), "términos", n)

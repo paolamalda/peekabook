@@ -119,7 +119,7 @@ def md(s):
     h = h.replace("<table>", '<div class="tw"><table>').replace("</table>", "</table></div>")
     def box(m):
         kind = m.group(1)
-        cls = {"Dato adicional": "dato", "Antes de actuar, verifica": "verifica"}.get(kind, "")
+        cls = {"Dato adicional": "dato", "Antes de actuar, verifica": "verifica", "Good to know": "dato", "Before you act, check": "verifica"}.get(kind, "")
         icon = {"dato": "fa-info-circle", "verifica": "fa-check-square-o"}.get(cls, "fa-lightbulb-o")
         return f'<div class="box {cls}"><p><i class="fa {icon}"></i> <span class="h">{kind}:</span>'
     h = re.sub(r"<blockquote>\s*<p><strong>([^<:]+):</strong>", box, h)
