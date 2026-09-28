@@ -115,7 +115,7 @@ Rosa compara dos planes: uno con prima baja y deducible de 3,000; otro con prima
 == practica
 
 --- actividad
-**Calculadora de un evento (H5P):** con una póliza de ejemplo, mira cuánto pagas en un año con y sin evento.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El seguro de responsabilidad civil repara tu auto? a) Sí · b) No
@@ -247,7 +247,7 @@ Rosa recibió una EOB del seguro, una factura del hospital y otra del médico de
 == practica
 
 --- actividad
-**¿Factura o explicación? (H5P):** compara dos documentos del mismo servicio y encuentra la diferencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿La explicación de beneficios es una factura? a) Sí · b) No
@@ -382,7 +382,7 @@ Después del incendio, un hombre ofrece a Rosa reparar el techo si le paga todo 
 == practica
 
 --- actividad
-**Prepara la mochila (juego H5P):** elige qué documentos, contactos y recursos llevarías en una evacuación con tiempo limitado.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Una indemnización no confirmada cuenta como recurso? a) Sí · b) No
@@ -519,7 +519,7 @@ Daniela es mamá sola y su familia está en El Salvador.
 == practica
 
 --- actividad
-**Mi plan familiar (lista guiada H5P):** avanza por las cinco secciones y marca lo que ya tienes, lo que falta y la fecha para completarlo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿La Declaración Jurada de Autorización del Cuidador cambia la custodia? a) Sí · b) No
@@ -651,7 +651,7 @@ En su simulacro, Mar recibe una llamada falsa de un familiar justo cuando le baj
 == practica
 
 --- actividad
-**Simulacro (escenario ramificado H5P):** vive tres emergencias seguidas y usa tu plan para responder.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un plan de protección exige contratar todos los seguros? a) Sí · b) No

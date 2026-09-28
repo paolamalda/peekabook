@@ -169,7 +169,7 @@ Daniela recibe los pagos de sus pasteles en una app. La app dice que "trabaja co
 
 #### Actividad interactiva
 
-**¿Quién responde? (relaciona columnas H5P):** une cada problema con la institución que debe atenderlo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -391,7 +391,7 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 
 #### Actividad interactiva
 
-**¿Banco, cooperativa o app? (juego de clasificación H5P):** lee descripciones y decide qué tipo de institución es y qué verificarías.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -609,7 +609,7 @@ Daniela tiene su pasaporte salvadoreño vencido.
 
 #### Actividad interactiva
 
-**Mi kit de documentos (lista interactiva H5P):** marca los documentos que tienes y el sistema te dice qué preguntar en cada tipo de institución.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -830,7 +830,7 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 
 #### Actividad interactiva
 
-**Calculadora de mi cuenta (H5P):** con un perfil de ejemplo, compara el costo anual de tres cuentas.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1046,7 +1046,7 @@ Luis pagó 150 por Zelle por un celular usado que nunca llegó.
 
 #### Actividad interactiva
 
-**¿Qué saldo tengo? (simulador H5P):** avanza día por día y observa el saldo actual, el pendiente y el disponible.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1279,7 +1279,7 @@ Daniela envía dinero a su hermana en San Salvador para la escuela de su sobrina
 
 #### Actividad interactiva
 
-**Clasifica las solicitudes (H5P):** ordena mensajes de familiares en habitual, previsible, emergencia o proyecto.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1514,7 +1514,7 @@ Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
 
 #### Actividad interactiva
 
-**Calculadora de capacidad (H5P):** con un ejemplo de saldo, pagos y fechas, descubre cuánto puedes enviar hoy y cuánto el viernes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1742,7 +1742,7 @@ Daniela envía a El Salvador, que usa dólar.
 
 #### Actividad interactiva
 
-**Comparador de remesas (H5P):** con tres cotizaciones de ejemplo, descubre cuál entrega más pesos con el mismo presupuesto y cuál cuesta menos para una cantidad fija.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1966,7 +1966,7 @@ Daniela escribió el apellido de su hermana con una letra distinta. Su hermana n
 
 #### Actividad interactiva
 
-**Detective de recibos (H5P):** revisa tres recibos de ejemplo y encuentra los datos que faltan para poder reclamar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2191,7 +2191,7 @@ Luis pagó un envío con su tarjeta de crédito.
 
 #### Actividad interactiva
 
-**Simulador de deuda por remesa (H5P):** mira cómo cambia tu calendario de las próximas 4 semanas si pides prestado para enviar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2412,7 +2412,7 @@ Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero p
 
 #### Actividad interactiva
 
-**¿Real o falso? (escenario H5P):** recibes mensajes y llamadas de "familiares". Decide qué verificar antes de enviar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2632,7 +2632,7 @@ Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 
 #### Actividad interactiva
 
-**Meta en pesos (simulador H5P):** con una meta en pesos y tres tipos de cambio, descubre cuántos dólares necesitas cada mes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2852,7 +2852,7 @@ Daniela cobra por horas y por pedidos. Envía a su hermana cada mes.
 
 #### Actividad interactiva
 
-**Arma el recorrido (diagrama H5P):** conecta cobro, cuenta, pago y envío, y mira el costo total del recorrido.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

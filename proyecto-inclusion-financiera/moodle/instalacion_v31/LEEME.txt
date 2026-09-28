@@ -1,0 +1,53 @@
+CURSO COMPLETO 3.1 PARA MOODLE 3.10
+Tu Dinero, Tu Familia, Tu Futuro · Desarrolla Talento · 28 de septiembre de 2026
+
+QUÉ HAY DE NUEVO RESPECTO A LA ENTREGA 16
+-----------------------------------------
+- Libros M1 a M5: portadas renombradas a _0.html (la corrección que encontraste:
+  cada lección queda con sus subcapítulos) y el recuadro "Actividad interactiva"
+  ahora describe la actividad H5P real de cada lección.
+- 59 actividades H5P "¿Qué harías?" (una por lección): tres casos con tres opciones,
+  calificación y reintento. Probadas en navegador; librerías compatibles con Moodle 3.10.
+- Banco de preguntas nuevo: 177 preguntas de las lecciones nuevas, todas con tres
+  opciones y retroalimentación ("¡Correcto!" / "No es la mejor opción" y por qué).
+- Libro de apoyo con el diseño nuevo: bienvenida actualizada (rutas, puntos, insignias
+  y constancia), casos integradores con los personajes y claves ocultas, prácticas,
+  glosario, dónde pedir ayuda (preguntas frecuentes desplegables) y referencias.
+- 8 insignias con imagen (5 de módulo, 2 especiales y "Plan completo").
+- Constancia de conclusión: fondo listo para el complemento Custom certificate y una muestra.
+- Guía de Level Up, insignias, finalización y constancia.
+
+QUÉ CONTIENE
+------------
+1_libros/        M1–M5 y Apoyo (zip para "Importar capítulo") y resúmenes de sección
+2_h5p/M1..M5/    59 archivos .h5p en orden de lección
+3_glosario/      Glosario_curso_Moodle.xml (118 términos)
+4_preguntas/     banco_preguntas_v3_es.gift.txt (177 preguntas)
+5_insignias/     8 imágenes PNG
+6_certificado/   certificado_fondo.png (para el complemento) y certificado_muestra.png
+7_guias/         guia_gamificacion_v3 (.md y .docx)
+README_ACTUALIZAR_CURSO_PARA_CLAUDE.md    <- para el curso que YA subiste
+README_INSTALAR_DESDE_CERO_PARA_CLAUDE.md <- solo si el curso no existe
+
+CÓMO USARLO
+-----------
+Dale a Claude (con el navegador y tu sesión de administración abierta) este zip y dile:
+"Sigue README_ACTUALIZAR_CURSO_PARA_CLAUDE.md". Claude reemplaza los libros, sube las
+H5P, arma las autoevaluaciones, insignias, Level Up y la constancia, y te entrega un reporte.
+Tiempo estimado: 2 a 3 horas (las 59 H5P se suben una por una).
+
+LO QUE DEBES DECIDIR TÚ
+-----------------------
+- Certificado: Moodle 3.10 no trae certificados. Para la constancia en PDF con nombre y
+  código hace falta el complemento gratuito "Custom certificate" (mod_customcert, rama
+  para 3.10). Claude no instala complementos: si lo quieres, instálalo tú antes (con
+  respaldo previo). Sin él, la insignia "Plan completo" funciona como constancia digital.
+- Si ya hay estudiantes con avance, reemplazar los libros borra su marca de "visto".
+
+A TENER EN CUENTA
+-----------------
+- La primera actividad H5P instala sus librerías en el sitio: súbela con la cuenta de
+  administración.
+- No se probó dentro de tu Moodle; se revisó contra la versión 3.10 y las H5P se
+  probaron en navegador. Si algo falla, el README pide a Claude detenerse y reportar.
+- Pendientes de contenido: K06 a K13 (datos marcados [POR CONFIRMAR]).

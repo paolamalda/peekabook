@@ -114,7 +114,7 @@ A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había ten
 == practica
 
 --- actividad
-**¿Puedo pagarlo? (simulador H5P):** con un margen mensual y una cuota de ejemplo, observa qué pasa si baja tu ingreso 10% y 20%.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un buen puntaje garantiza que puedes pagar? a) Sí · b) No
@@ -268,7 +268,7 @@ Luis pidió su reporte con ITIN por correo.
 == practica
 
 --- actividad
-**Reporte de ejemplo (H5P):** encuentra cuatro datos que requieren acción y elige la ruta correcta para cada uno.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Revisar tu propio reporte baja tu puntaje? a) Sí · b) No
@@ -402,7 +402,7 @@ Daniela paga 1,600 de renta cada mes, siempre a tiempo, en un edificio de 40 dep
 == practica
 
 --- actividad
-**Elige tu primer paso (árbol de decisión H5P):** responde preguntas sobre tus documentos, tu reserva y tu objetivo, y descubre qué opciones revisar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El depósito de una tarjeta garantizada paga tus compras? a) Sí · b) No
@@ -546,7 +546,7 @@ A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
 == practica
 
 --- actividad
-**¿Legítimo o estafa? (tarjetas H5P):** lee anuncios de "reparación de crédito" y decide cuáles son señales de alarma.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Se puede borrar un atraso real porque baja tu puntaje? a) Sí · b) No
@@ -698,7 +698,7 @@ Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
 == practica
 
 --- actividad
-**Tabla de amortización (H5P):** compara el pago mensual y el interés total de un mismo préstamo a 12, 24 y 36 meses.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Préstamo A: 10 pagos de 110 más 40 de comisión. B: 10 pagos de 112. ¿Cuál cuesta menos? a) A (1,140) · b) B (1,120)

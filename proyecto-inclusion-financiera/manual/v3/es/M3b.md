@@ -114,7 +114,7 @@ Daniela hizo su inventario y descubrió una cuenta médica de 380 que había olv
 == practica
 
 --- actividad
-**Avalancha contra bola de nieve (simulador H5P):** compara meses e intereses con tres deudas de ejemplo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué estrategia ahorra más intereses? a) Avalancha · b) Bola de nieve
@@ -254,7 +254,7 @@ Un cobrador llama a Luis por una deuda de un teléfono de hace cinco años, de c
 == practica
 
 --- actividad
-**Llamada con el cobrador (escenario H5P):** practica qué decir, qué preguntar y qué no aceptar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Una disputa con una agencia detiene una demanda? a) Sí · b) No
@@ -433,7 +433,7 @@ Daniela le presta 500 a su hermana. Acuerdan por mensaje que ella pagará 100 al
 == practica
 
 --- actividad
-**¿Firmo o no? (escenario H5P):** tres familiares te piden ayuda. Decide qué harías y descubre las consecuencias de cada decisión.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Cofirmar puede hacerte responsable de toda la deuda? a) Sí · b) No
@@ -569,7 +569,7 @@ En la tanda de Daniela, una integrante dejó de pagar después de recibir.
 == practica
 
 --- actividad
-**Simulador de tanda (H5P):** elige un turno y mira cuánto aportas antes y después de recibir, y qué pasa si alguien deja de pagar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Una tanda tradicional construye historial de crédito? a) Sí · b) No
@@ -711,7 +711,7 @@ Daniela tiene una cuenta médica en cobranza.
 == practica
 
 --- actividad
-**Mi ruta de crédito (sin H5P):** esta lección se trabaja con la tarea "A tu plan" del módulo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué mejora es comprobable? a) "Subiré 80 puntos" · b) "Revisé mi reporte y presenté una disputa con folio"

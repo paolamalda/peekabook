@@ -173,7 +173,7 @@ A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había ten
 
 #### Actividad interactiva
 
-**¿Puedo pagarlo? (simulador H5P):** con un margen mensual y una cuota de ejemplo, observa qué pasa si baja tu ingreso 10% y 20%.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -403,7 +403,7 @@ Luis pidió su reporte con ITIN por correo.
 
 #### Actividad interactiva
 
-**Reporte de ejemplo (H5P):** encuentra cuatro datos que requieren acción y elige la ruta correcta para cada uno.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -607,7 +607,7 @@ Daniela paga 1,600 de renta cada mes, siempre a tiempo, en un edificio de 40 dep
 
 #### Actividad interactiva
 
-**Elige tu primer paso (árbol de decisión H5P):** responde preguntas sobre tus documentos, tu reserva y tu objetivo, y descubre qué opciones revisar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -827,7 +827,7 @@ A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
 
 #### Actividad interactiva
 
-**¿Legítimo o estafa? (tarjetas H5P):** lee anuncios de "reparación de crédito" y decide cuáles son señales de alarma.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1055,7 +1055,7 @@ Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
 
 #### Actividad interactiva
 
-**Tabla de amortización (H5P):** compara el pago mensual y el interés total de un mismo préstamo a 12, 24 y 36 meses.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1272,7 +1272,7 @@ Daniela hizo su inventario y descubrió una cuenta médica de 380 que había olv
 
 #### Actividad interactiva
 
-**Avalancha contra bola de nieve (simulador H5P):** compara meses e intereses con tres deudas de ejemplo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1485,7 +1485,7 @@ Un cobrador llama a Luis por una deuda de un teléfono de hace cinco años, de c
 
 #### Actividad interactiva
 
-**Llamada con el cobrador (escenario H5P):** practica qué decir, qué preguntar y qué no aceptar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1739,7 +1739,7 @@ Daniela le presta 500 a su hermana. Acuerdan por mensaje que ella pagará 100 al
 
 #### Actividad interactiva
 
-**¿Firmo o no? (escenario H5P):** tres familiares te piden ayuda. Decide qué harías y descubre las consecuencias de cada decisión.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1944,7 +1944,7 @@ En la tanda de Daniela, una integrante dejó de pagar después de recibir.
 
 #### Actividad interactiva
 
-**Simulador de tanda (H5P):** elige un turno y mira cuánto aportas antes y después de recibir, y qué pasa si alguien deja de pagar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2159,7 +2159,7 @@ Daniela tiene una cuenta médica en cobranza.
 
 #### Actividad interactiva
 
-**Mi ruta de crédito (sin H5P):** esta lección se trabaja con la tarea "A tu plan" del módulo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

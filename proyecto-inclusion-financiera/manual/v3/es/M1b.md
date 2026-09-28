@@ -130,7 +130,7 @@ Daniela recibe ingresos de su trabajo por horas y de sus pedidos de pasteles. Me
 == practica
 
 --- actividad
-**Sobres digitales (H5P):** reparte un ingreso de ejemplo en sobres. Luego el simulador baja el ingreso 20% y tú decides qué ajustar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un presupuesto exige que sobre dinero? a) Sí · b) No
@@ -292,7 +292,7 @@ Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 == practica
 
 --- actividad
-**¿Deducción o crédito? (arrastra y clasifica, H5P):** clasifica ejemplos y mira cómo cambia el impuesto en cada caso.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Presentar la declaración garantiza un reembolso? a) Sí · b) No
@@ -449,7 +449,7 @@ Daniela cobra sus pedidos en efectivo y por Zelle. Compra ingredientes en tres t
 == practica
 
 --- actividad
-**Arma la carpeta (H5P):** arrastra documentos de ejemplo (W-2, 1099, tickets, estados de cuenta) a la carpeta correcta según el tipo de ingreso.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El ingreso de apps es declarable aunque no recibas formulario? a) Puede serlo · b) Nunca
@@ -600,7 +600,7 @@ Daniela no declaró durante tres años y su ITIN se desactivó.
 == practica
 
 --- actividad
-**Ruta del ITIN (línea de tiempo H5P):** ordena los pasos para solicitar un ITIN y descubre dónde hay ayuda gratuita.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El ITIN sirve para trabajar? a) Sí · b) No
@@ -761,7 +761,7 @@ El preparador de Daniela le pide que el reembolso llegue a "la cuenta de la ofic
 == practica
 
 --- actividad
-**¿Contratarías a este preparador? (escenario H5P):** revisa tres anuncios y conversaciones, y detecta señales de alarma.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué debe tener todo preparador pagado? a) PTIN · b) Nada
@@ -909,7 +909,7 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 == practica
 
 --- actividad
-**¿Mito o realidad? (tarjetas H5P):** voltea diez afirmaciones sobre carga pública y descubre cuáles son correctas según la regla vigente.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No
@@ -1072,7 +1072,7 @@ Luis tiene muchas ideas y ninguna fecha.
 == practica
 
 --- actividad
-**Convierte deseos en metas (H5P):** transforma cinco frases vagas en metas con acción, fecha y evidencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué tiene una meta comprobable? a) Solo un deseo · b) Acción, fecha y evidencia

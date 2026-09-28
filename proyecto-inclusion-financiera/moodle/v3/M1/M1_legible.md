@@ -200,7 +200,7 @@ Aparece un depósito de 300 en la cuenta de Luis. No sabe de dónde viene. Días
 
 #### Actividad interactiva
 
-**Arrastra y clasifica (H5P):** coloca diez movimientos en cuatro columnas: ingreso ganado, préstamo, movimiento entre mis cuentas y devolución. La plataforma te explica cada error.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -458,7 +458,7 @@ A Luis le ofrecen un préstamo "barato" de 1% a la semana.
 
 #### Actividad interactiva
 
-**Simulador de interés (H5P):** compara el interés simple y el compuesto con varios plazos y observa cómo cambia el saldo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -677,7 +677,7 @@ Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de
 
 #### Actividad interactiva
 
-**Elige tu camino (escenario ramificado H5P):** Alex recibe una oferta de celular "solo por hoy". Cada decisión lleva a una consecuencia distinta durante el siguiente mes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -908,7 +908,7 @@ Daniela cobra 150 por pedido de pasteles. Un mes hizo 18 pedidos y gastó 270 en
 
 #### Actividad interactiva
 
-**Calendario de cobros (H5P):** marca los días de cobro de un año con pago cada dos semanas y descubre qué meses reciben tres pagos.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1166,7 +1166,7 @@ Luis esperaba 700 y recibió 565.
 
 #### Actividad interactiva
 
-**Recibo interactivo (H5P):** pasa el cursor por cada parte de un recibo de pago de ejemplo y descubre qué significa.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1401,7 +1401,7 @@ Daniela compara dos paquetes de fresas para sus pasteles. Solo usará la mitad d
 
 #### Actividad interactiva
 
-**Caza de gastos (juego H5P):** en un estado de cuenta de ejemplo, encuentra en 60 segundos las suscripciones, los cargos repetidos y las comisiones evitables.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1645,7 +1645,7 @@ Luis y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas d
 
 #### Actividad interactiva
 
-**Simulador de calendario (H5P):** acomoda cobros y pagos en 8 semanas y observa en qué semana aparece el primer saldo negativo. Prueba mover una fecha y mira cómo cambia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1881,7 +1881,7 @@ Daniela recibe ingresos de su trabajo por horas y de sus pedidos de pasteles. Me
 
 #### Actividad interactiva
 
-**Sobres digitales (H5P):** reparte un ingreso de ejemplo en sobres. Luego el simulador baja el ingreso 20% y tú decides qué ajustar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2124,7 +2124,7 @@ Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 
 #### Actividad interactiva
 
-**¿Deducción o crédito? (arrastra y clasifica, H5P):** clasifica ejemplos y mira cómo cambia el impuesto en cada caso.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2356,7 +2356,7 @@ Daniela cobra sus pedidos en efectivo y por Zelle. Compra ingredientes en tres t
 
 #### Actividad interactiva
 
-**Arma la carpeta (H5P):** arrastra documentos de ejemplo (W-2, 1099, tickets, estados de cuenta) a la carpeta correcta según el tipo de ingreso.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2586,7 +2586,7 @@ Daniela no declaró durante tres años y su ITIN se desactivó.
 
 #### Actividad interactiva
 
-**Ruta del ITIN (línea de tiempo H5P):** ordena los pasos para solicitar un ITIN y descubre dónde hay ayuda gratuita.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2823,7 +2823,7 @@ El preparador de Daniela le pide que el reembolso llegue a "la cuenta de la ofic
 
 #### Actividad interactiva
 
-**¿Contratarías a este preparador? (escenario H5P):** revisa tres anuncios y conversaciones, y detecta señales de alarma.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -3047,7 +3047,7 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 
 #### Actividad interactiva
 
-**¿Mito o realidad? (tarjetas H5P):** voltea diez afirmaciones sobre carga pública y descubre cuáles son correctas según la regla vigente.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -3292,7 +3292,7 @@ Luis tiene muchas ideas y ninguna fecha.
 
 #### Actividad interactiva
 
-**Convierte deseos en metas (H5P):** transforma cinco frases vagas en metas con acción, fecha y evidencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

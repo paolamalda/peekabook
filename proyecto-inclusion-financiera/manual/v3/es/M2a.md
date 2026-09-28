@@ -112,7 +112,7 @@ Daniela recibe los pagos de sus pasteles en una app. La app dice que "trabaja co
 == practica
 
 --- actividad
-**¿Quién responde? (relaciona columnas H5P):** une cada problema con la institución que debe atenderlo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Puedes abrir una cuenta en el banco central? a) Sí · b) No
@@ -262,7 +262,7 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 == practica
 
 --- actividad
-**¿Banco, cooperativa o app? (juego de clasificación H5P):** lee descripciones y decide qué tipo de institución es y qué verificarías.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿"Digital" significa que es un banco? a) Sí · b) No
@@ -407,7 +407,7 @@ Daniela tiene su pasaporte salvadoreño vencido.
 == practica
 
 --- actividad
-**Mi kit de documentos (lista interactiva H5P):** marca los documentos que tienes y el sistema te dice qué preguntar en cada tipo de institución.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿La licencia AB 60 sirve como REAL ID? a) Sí · b) No
@@ -556,7 +556,7 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 == practica
 
 --- actividad
-**Calculadora de mi cuenta (H5P):** con un perfil de ejemplo, compara el costo anual de tres cuentas.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No
@@ -700,7 +700,7 @@ Luis pagó 150 por Zelle por un celular usado que nunca llegó.
 == practica
 
 --- actividad
-**¿Qué saldo tengo? (simulador H5P):** avanza día por día y observa el saldo actual, el pendiente y el disponible.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un cheque que ya ves en tu saldo está garantizado? a) Sí · b) No
@@ -854,7 +854,7 @@ Daniela envía dinero a su hermana en San Salvador para la escuela de su sobrina
 == practica
 
 --- actividad
-**Clasifica las solicitudes (H5P):** ordena mensajes de familiares en habitual, previsible, emergencia o proyecto.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Planear una remesa significa querer menos a tu familia? a) Sí · b) No

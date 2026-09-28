@@ -127,7 +127,7 @@ Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
 == practica
 
 --- actividad
-**Calculadora de capacidad (H5P):** con un ejemplo de saldo, pagos y fechas, descubre cuánto puedes enviar hoy y cuánto el viernes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El costo de enviar se resta de la capacidad? a) Sí · b) No
@@ -280,7 +280,7 @@ Daniela envía a El Salvador, que usa dólar.
 == practica
 
 --- actividad
-**Comparador de remesas (H5P):** con tres cotizaciones de ejemplo, descubre cuál entrega más pesos con el mismo presupuesto y cuál cuesta menos para una cantidad fija.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿"Sin comisión" garantiza que llegue más dinero? a) Sí · b) No
@@ -431,7 +431,7 @@ Daniela escribió el apellido de su hermana con una letra distinta. Su hermana n
 == practica
 
 --- actividad
-**Detective de recibos (H5P):** revisa tres recibos de ejemplo y encuentra los datos que faltan para poder reclamar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Dónde verificas la licencia de una remesadora en California? a) DFPI o NMLS · b) En su anuncio
@@ -581,7 +581,7 @@ Luis pagó un envío con su tarjeta de crédito.
 == practica
 
 --- actividad
-**Simulador de deuda por remesa (H5P):** mira cómo cambia tu calendario de las próximas 4 semanas si pides prestado para enviar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El dinero prestado es ingreso ganado? a) Sí · b) No
@@ -726,7 +726,7 @@ Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero p
 == practica
 
 --- actividad
-**¿Real o falso? (escenario H5P):** recibes mensajes y llamadas de "familiares". Decide qué verificar antes de enviar.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿A qué número llamas para verificar una emergencia? a) Al del mensaje · b) A uno que ya conocías
@@ -873,7 +873,7 @@ Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 == practica
 
 --- actividad
-**Meta en pesos (simulador H5P):** con una meta en pesos y tres tipos de cambio, descubre cuántos dólares necesitas cada mes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿En qué moneda defines una meta que se paga en México? a) Pesos · b) Dólares
@@ -1020,7 +1020,7 @@ Daniela cobra por horas y por pedidos. Envía a su hermana cada mes.
 == practica
 
 --- actividad
-**Arma el recorrido (diagrama H5P):** conecta cobro, cuenta, pago y envío, y mira el costo total del recorrido.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué demuestra mejor que comparaste? a) Descargar una app · b) Una ficha con dos ofertas y fecha

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Dónde encontrar ayuda</title></head><body>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-life-ring"></i> Materiales de apoyo</span><h3>Dónde encontrar ayuda</h3><p class="obj">Dónde pedir ayuda gratuita o de bajo costo, y respuestas a las dudas más comunes.</p></div><div class="card2"><p>Cada opción tiene una función distinta: un regulador no sustituye a un preparador de impuestos ni a un abogado. Antes de compartir documentos, confirma idioma, costo, alcance y credenciales. La información está verificada al 27 de septiembre de 2026; confirma que siga vigente.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Necesidad</th>
+<th>Dónde</th>
+<th>Costo</th>
+<th>Qué verificar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Preparar impuestos</td>
+<td>IRS VITA y TCE</td>
+<td>Gratis para quienes califican</td>
+<td>Sede, idioma, si ayudan con ITIN</td>
+</tr>
+<tr>
+<td>Ayuda fiscal en California</td>
+<td>FTB, ayuda gratuita y CalFile</td>
+<td>Gratis según programa</td>
+<td>Requisitos del año</td>
+</tr>
+<tr>
+<td>Verificar a un preparador</td>
+<td>CTEC (California) y directorio del IRS</td>
+<td>Gratis</td>
+<td>Registro vigente</td>
+</tr>
+<tr>
+<td>Asesoría migratoria</td>
+<td>Abogados con licencia y representantes acreditados del DOJ</td>
+<td>Variable; hay opciones gratuitas</td>
+<td>Licencia en el State Bar o acreditación en la lista del DOJ (EOIR)</td>
+</tr>
+<tr>
+<td>Ayuda legal general</td>
+<td>Servicios de referencia certificados del State Bar de California</td>
+<td>La consulta puede tener costo</td>
+<td>Certificación del servicio y licencia</td>
+</tr>
+<tr>
+<td>Reportar fraude de notarios</td>
+<td>State Bar, Procuraduría General de California, FTC</td>
+<td>Gratis</td>
+<td>Guarda contratos y recibos</td>
+</tr>
+<tr>
+<td>Robo de identidad</td>
+<td>FTC IdentityTheft.gov</td>
+<td>Gratis</td>
+<td>Entra directamente; evita imitadores</td>
+</tr>
+<tr>
+<td>Quejas financieras</td>
+<td>CFPB y DFPI</td>
+<td>Gratis</td>
+<td>Folio de tu queja</td>
+</tr>
+<tr>
+<td>Licencia de remesadoras</td>
+<td>DFPI y NMLS Consumer Access</td>
+<td>Gratis</td>
+<td>Nombre legal exacto</td>
+</tr>
+<tr>
+<td>Bancos y cooperativas</td>
+<td>FDIC BankFind y buscador de la NCUA</td>
+<td>Gratis</td>
+<td>Nombre legal y seguro</td>
+</tr>
+<tr>
+<td>Crear crédito con tandas</td>
+<td>Mission Asset Fund y otros círculos de préstamo</td>
+<td>Gratis</td>
+<td>A qué agencias reportan</td>
+</tr>
+<tr>
+<td>Vivienda</td>
+<td>Consejeros de vivienda certificados por HUD (buscador del CFPB)</td>
+<td>Gratis o bajo costo</td>
+<td>Agencia y área de servicio</td>
+</tr>
+<tr>
+<td>Seguros</td>
+<td>Departamento de Seguros de California (CDI)</td>
+<td>Gratis</td>
+<td>Licencia de la aseguradora y del agente</td>
+</tr>
+<tr>
+<td>Planes de salud</td>
+<td>DMHC, Centro de Ayuda</td>
+<td>Gratis</td>
+<td>Si tu plan está bajo su supervisión</td>
+</tr>
+<tr>
+<td>Salario y derechos laborales</td>
+<td>Departamento de Relaciones Industriales (DIR)</td>
+<td>Gratis</td>
+<td>Guarda horas y recibos</td>
+</tr>
+<tr>
+<td>Negocio propio</td>
+<td>Centros de desarrollo de pequeños negocios (SBDC)</td>
+<td>Gratis o bajo costo</td>
+<td>Asesoría en español</td>
+</tr>
+<tr>
+<td>Retiro</td>
+<td>CalSavers</td>
+<td>Gratis</td>
+<td>Requisitos de participación</td>
+</tr>
+<tr>
+<td>Orientación financiera consular</td>
+<td>Ventanillas de Asesoría Financiera en consulados de México</td>
+<td>Gratis</td>
+<td>Horario y cita</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Preparadores privados.</strong> Puedes compararlos con el mismo esquema. Un ejemplo en San Diego es ATAX Chula Vista Downtown, que anuncia servicios fiscales, incluida ayuda con ITIN; confirma honorarios completos, credencial de quien te atiende y alcance. Aparecer en esta lista no es una recomendación ni un convenio.</p></div><div class="card2"><h4>Guion para pedir información</h4><p>"Vivo en California y necesito ayuda con [tema]. ¿Atienden este caso en español? ¿Qué credencial tiene la persona que me atenderá? ¿Cuál es el costo total y qué no incluye? ¿Qué documentos necesito y cómo los envío de forma segura? ¿Hay una opción gratuita o de bajo costo?"</p></div><div class="pagehead mt-4"><h3>Observaciones de mercado</h3></div><div class="card2"><p>Muestra educativa de cuentas, con datos públicos al 27 de septiembre de 2026. No es una lista completa ni una clasificación de las mejores. Las tarifas publicadas no sustituyen el contrato ni la aprobación. No tenemos acuerdos de referido con estas instituciones. En la plataforma encontrarás la matriz comparativa actualizada.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Producto</th>
+<th>Tipo</th>
+<th>Costo publicado</th>
+<th>Qué verificar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wells Fargo Clear Access Banking</td>
+<td>Banco</td>
+<td>5 al mes o exención (titular de 13 a 24 años o 250 en depósitos electrónicos elegibles)</td>
+<td>Combinación de documentos y qué depósito califica. Acepta matrícula consular como identificación principal, junto con otra identificación.</td>
+</tr>
+<tr>
+<td>Bank of America Advantage SafeBalance</td>
+<td>Banco</td>
+<td>4.95 por ciclo o exención (menor de 25, saldo diario mínimo de 500 o programa de beneficios)</td>
+<td>Documentos, apertura y condiciones completas de exención</td>
+</tr>
+<tr>
+<td>Self-Help Checking</td>
+<td>Cooperativa</td>
+<td>Cuota de 5, sin depósito mínimo de apertura; exenciones por edad, depósito directo o saldo</td>
+<td>Entidad del contrato, afiliación y condiciones en California</td>
+</tr>
+<tr>
+<td>Chime Checking</td>
+<td>Servicio digital con bancos asociados</td>
+<td>Sin cuota mensual de mantenimiento</td>
+<td>Pide SSN válido, 18 años y ciudadanía o residencia legal: no supongas que acepta ITIN. Verifica el banco emisor y otros cargos.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ejercicio.</strong> Una persona de 35 años cobra en efectivo, tiene matrícula consular y no tiene SSN ni ITIN. No elijas por "cero cuota": primero identifica qué documentos acepta cada opción, si puede abrir en sucursal y cuánto cuesta depositar efectivo. Ninguna opción garantiza la apertura.</p></div><div class="pagehead mt-4"><h3>Preguntas frecuentes</h3></div><details><summary>¿Puedo estudiar sin SSN ni ITIN?</summary><div class="a"><p>Sí. Usamos un identificador del programa y casos inventados. Si puedes usar un producto financiero es otra pregunta.</p></div></details><details><summary>¿Debo abrir una cuenta para aprobar?</summary><div class="a"><p>No. Evaluamos que compares y decidas; esperar puede ser la decisión correcta.</p></div></details><details><summary>¿Qué pasa si no puedo ahorrar?</summary><div class="a"><p>Identifica tu brecha, tus prioridades y los apoyos disponibles. No exigimos una cantidad ni culpamos a tus hábitos de todo.</p></div></details><details><summary>¿Debo dejar de enviar remesas?</summary><div class="a"><p>No. El objetivo es integrar tu apoyo familiar, tu capacidad y tu futuro.</p></div></details><details><summary>¿Este curso me da asesoría migratoria?</summary><div class="a"><p>No. Solo un abogado o un representante acreditado por el DOJ puede darla. Te ayudamos a encontrar ayuda confiable.</p></div></details><details><summary>¿Cuándo mejorará mi puntaje?</summary><div class="a"><p>Nadie puede prometer una fecha ni puntos. Trabajamos con datos correctos, pagos sostenibles y seguimiento.</p></div></details><details><summary>¿Puedo usar información inventada?</summary><div class="a"><p>Sí. Evaluamos tu razonamiento; no necesitas revelar tu identidad, tu salud ni tus finanzas.</p></div></details><details><summary>¿Qué hago si una fuente cambió?</summary><div class="a"><p>Márcala, consulta la versión actual y no uses una tarifa vencida como si fuera vigente.</p></div></details><details><summary>¿La constancia tiene acreditación oficial?</summary><div class="a"><p>Es una constancia propia del programa, verificable en línea. No es una licencia ni una acreditación oficial.</p></div></details><details><summary>¿Tengo que dejar una reseña?</summary><div class="a"><p>No. Tu opinión y el seguimiento son voluntarios y no afectan tu acceso ni tu constancia.</p></div></details><details><summary>¿Puedo pedir una videollamada?</summary><div class="a"><p>Ofrecemos sesiones de dudas según la disponibilidad publicada. Los casos que requieren un profesional se canalizan.</p></div></details><details><summary>¿Cómo envío una pregunta?</summary><div class="a"><p>Indica el módulo, la situación sin datos sensibles, qué intentaste y tu duda concreta. Si hay un fraude en curso o una emergencia médica, usa primero el canal de emergencia que corresponda.</p></div></details></div>
+</body></html>

@@ -108,7 +108,7 @@ Daniela encontró un departamento barato en redes. El "dueño" le pidió el dep�
 == practica
 
 --- actividad
-**¿Estafa o no? (H5P):** doce mensajes adaptados de casos reales. Decide si es estafa o es legítimo y aprende la señal clave de cada uno.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Rosa y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿A qué número llamas para verificar? a) Al del mensaje · b) Al que buscas por tu cuenta
@@ -257,7 +257,7 @@ Un "asesor" de redes le ofrece a Daniela un permiso de trabajo en tres meses "co
 == practica
 
 --- actividad
-**¿Puede ayudarme? (tarjetas H5P):** revisa perfiles (notario, consultor, abogado, representante acreditado, gestor de redes) y decide qué puede hacer cada uno.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un notary public puede darte asesoría migratoria? a) Sí · b) No
@@ -395,7 +395,7 @@ Rosa comparte su teléfono con sus nietos.
 == practica
 
 --- actividad
-**Revisión de seguridad (lista interactiva H5P):** marca los controles que ya tienes y recibe tus próximos tres pasos.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué cuenta proteges primero? a) Redes sociales · b) Correo principal
@@ -537,7 +537,7 @@ Rosa perdió su cartera en el mercado.
 == practica
 
 --- actividad
-**Ordena la respuesta (H5P):** acomoda los pasos de respuesta en el orden correcto para tres incidentes distintos.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El congelamiento de crédito protege tus cuentas existentes? a) Sí · b) No
@@ -676,7 +676,7 @@ Caso inventado: una persona mayor le da su tarjeta a un sobrino para que le haga
 == practica
 
 --- actividad
-**¿Acuerdo o control? (clasificación H5P):** lee situaciones y decide si describen un acuerdo sano o un patrón de control. Esta actividad no muestra puntaje.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Un desacuerdo sobre gastos es siempre abuso? a) Sí · b) No
@@ -823,7 +823,7 @@ Daniela pagó el refrigerador con tarjeta y todavía debe 400.
 == practica
 
 --- actividad
-**Termómetro de reserva (H5P):** mira cuántos días te cubre una reserva de ejemplo en distintos escenarios.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Reserva 600 y gastos 1,500. ¿Cuántos meses cubre? a) 0.4 · b) 2.5

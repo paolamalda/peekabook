@@ -112,7 +112,7 @@ Luis tiene tres metas que suman 275 al mes y solo 150 libres.
 == practica
 
 --- actividad
-**Mis metas (organizador H5P):** acomoda tres metas por prioridad y mira si caben en tu margen mensual.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Activos 12,000 y deudas 8,500. ¿Patrimonio? a) 3,500 · b) 20,500
@@ -255,7 +255,7 @@ Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%
 == practica
 
 --- actividad
-**El camino de una inversión (H5P):** observa en tres gráficas ilustrativas cómo puede subir y bajar una inversión a 1, 5 y 15 años.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. 1,000 al 4% durante dos años, sin aportaciones. ¿Saldo? a) 1,080 · b) 1,081.60
@@ -397,7 +397,7 @@ Daniela recibe una oferta de 20% al mes en criptomonedas.
 == practica
 
 --- actividad
-**¿Recipiente o contenido? (clasificación H5P):** separa cuentas y productos, y relaciona cada producto con su riesgo principal.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Una IRA es lo mismo que una acción? a) Sí · b) No
@@ -536,7 +536,7 @@ Daniela se mudó y el dueño no le devolvió el depósito.
 == practica
 
 --- actividad
-**¿Rentar o comprar? (H5P):** revisa los costos que se olvidan al comprar y tus derechos como inquilino.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿El dueño puede preguntar tu situación migratoria en California? a) Sí · b) No
@@ -687,7 +687,7 @@ Una agencia le ofrece a Andrés bajar el pago de su auto alargando el préstamo 
 == practica
 
 --- actividad
-**Calculadora de costo total (H5P):** compara dos autos de ejemplo con todos sus costos en tres años.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Auto A: cuota 250 y otros costos 320. Auto B: cuota 310 y otros 230. ¿Cuál cuesta menos al mes? a) A (570) · b) B (540)
@@ -833,7 +833,7 @@ Rosa trabajó en México con IMSS y aquí cobra en efectivo.
 == practica
 
 --- actividad
-**Mi retiro en escenarios (H5P):** compara una aportación de ejemplo con rendimiento cero, con 5% hipotético y ajustada por inflación.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Una IRA requiere ingreso del trabajo para aportar? a) Sí · b) No

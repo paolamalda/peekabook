@@ -107,7 +107,7 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 == practica
 
 --- actividad
-**Tu AFORE paso a paso (H5P):** ordena los pasos para registrarte en AforeMóvil y actualizar tus beneficiarios.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No
@@ -249,7 +249,7 @@ Un conocido le ofrece a Andrés "manejar todo" con un poder notarial.
 == practica
 
 --- actividad
-**Mi plan familiar (lista H5P):** marca qué documentos ya tienes y cuáles te faltan.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Tu testamento cambia a los beneficiarios de tu seguro? a) Sí · b) No
@@ -406,6 +406,9 @@ Daniela recibió un pedido grande de pasteles y ganó 1,500 extra en una semana.
 
 == practica
 
+--- actividad
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
 --- quiz
 1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista
 2. Tu base es 2,000 y ganas 2,800. ¿Qué haces con 800? a) Gastarlo · b) Apartar una parte
@@ -547,7 +550,7 @@ A Andrés le ofrecen un "adelanto" para su negocio que se cobra de sus ventas di
 == practica
 
 --- actividad
-**Mi negocio en orden (H5P):** separa gastos del negocio y personales, y calcula la ganancia real de un mes de ejemplo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Vendes 900 y tus costos son 450. ¿Tu ganancia? a) 450 · b) 900
@@ -700,6 +703,9 @@ Daniela tuvo que usar su reserva por una emergencia.
 * Sentir culpa si algo falla | Abandonas el plan | Ajústalo y sigue
 
 == practica
+
+--- actividad
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) No

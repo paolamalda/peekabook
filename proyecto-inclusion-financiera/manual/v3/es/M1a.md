@@ -141,7 +141,7 @@ Aparece un depósito de 300 en la cuenta de Luis. No sabe de dónde viene. Días
 == practica
 
 --- actividad
-**Arrastra y clasifica (H5P):** coloca diez movimientos en cuatro columnas: ingreso ganado, préstamo, movimiento entre mis cuentas y devolución. La plataforma te explica cada error.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Te prestan 300 dólares. ¿Cómo cambia tu patrimonio neto? a) Sube 300 · b) No cambia · c) Baja 300
@@ -321,7 +321,7 @@ A Luis le ofrecen un préstamo "barato" de 1% a la semana.
 == practica
 
 --- actividad
-**Simulador de interés (H5P):** compara el interés simple y el compuesto con varios plazos y observa cómo cambia el saldo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Cuánto es 7% de 600? a) 42 · b) 4.2 · c) 420
@@ -470,7 +470,7 @@ Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de
 == practica
 
 --- actividad
-**Elige tu camino (escenario ramificado H5P):** Alex recibe una oferta de celular "solo por hoy". Cada decisión lleva a una consecuencia distinta durante el siguiente mes.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Qué es el costo de oportunidad? a) El precio de lo que compras · b) Lo que dejas de obtener al elegir · c) Una comisión bancaria
@@ -629,7 +629,7 @@ Daniela cobra 150 por pedido de pasteles. Un mes hizo 18 pedidos y gastó 270 en
 == practica
 
 --- actividad
-**Calendario de cobros (H5P):** marca los días de cobro de un año con pago cada dos semanas y descubre qué meses reciben tres pagos.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Cuántos pagos al año hay "cada dos semanas"? a) 24 · b) 26 · c) 52
@@ -806,7 +806,7 @@ Luis esperaba 700 y recibió 565.
 == practica
 
 --- actividad
-**Recibo interactivo (H5P):** pasa el cursor por cada parte de un recibo de pago de ejemplo y descubre qué significa.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Cuál es el dinero que puedes usar? a) El bruto · b) El neto
@@ -966,7 +966,7 @@ Daniela compara dos paquetes de fresas para sus pasteles. Solo usará la mitad d
 == practica
 
 --- actividad
-**Caza de gastos (juego H5P):** en un estado de cuenta de ejemplo, encuentra en 60 segundos las suscripciones, los cargos repetidos y las comisiones evitables.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Un gasto de 4 dólares, 20 veces al mes, ¿cuánto suma al año? a) 80 · b) 960 · c) 480
@@ -1135,7 +1135,7 @@ Luis y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas d
 == practica
 
 --- actividad
-**Simulador de calendario (H5P):** acomoda cobros y pagos en 8 semanas y observa en qué semana aparece el primer saldo negativo. Prueba mover una fecha y mira cómo cambia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. ¿Cuál es la fórmula del saldo final? a) Inicial + entradas − salidas · b) Entradas − salidas

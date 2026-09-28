@@ -168,7 +168,7 @@ Luis tiene tres metas que suman 275 al mes y solo 150 libres.
 
 #### Actividad interactiva
 
-**Mis metas (organizador H5P):** acomoda tres metas por prioridad y mira si caben en tu margen mensual.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -379,7 +379,7 @@ Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%
 
 #### Actividad interactiva
 
-**El camino de una inversión (H5P):** observa en tres gráficas ilustrativas cómo puede subir y bajar una inversión a 1, 5 y 15 años.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -591,7 +591,7 @@ Daniela recibe una oferta de 20% al mes en criptomonedas.
 
 #### Actividad interactiva
 
-**¿Recipiente o contenido? (clasificación H5P):** separa cuentas y productos, y relaciona cada producto con su riesgo principal.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -800,7 +800,7 @@ Daniela se mudó y el dueño no le devolvió el depósito.
 
 #### Actividad interactiva
 
-**¿Rentar o comprar? (H5P):** revisa los costos que se olvidan al comprar y tus derechos como inquilino.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1025,7 +1025,7 @@ Una agencia le ofrece a Andrés bajar el pago de su auto alargando el préstamo 
 
 #### Actividad interactiva
 
-**Calculadora de costo total (H5P):** compara dos autos de ejemplo con todos sus costos en tres años.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1241,7 +1241,7 @@ Rosa trabajó en México con IMSS y aquí cobra en efectivo.
 
 #### Actividad interactiva
 
-**Mi retiro en escenarios (H5P):** compara una aportación de ejemplo con rendimiento cero, con 5% hipotético y ajustada por inflación.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1446,7 +1446,7 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 
 #### Actividad interactiva
 
-**Tu AFORE paso a paso (H5P):** ordena los pasos para registrarte en AforeMóvil y actualizar tus beneficiarios.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1658,7 +1658,7 @@ Un conocido le ofrece a Andrés "manejar todo" con un poder notarial.
 
 #### Actividad interactiva
 
-**Mi plan familiar (lista H5P):** marca qué documentos ya tienes y cuáles te faltan.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1887,6 +1887,12 @@ Daniela recibió un pedido grande de pasteles y ganó 1,500 extra en una semana.
 
 ### Practica
 
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
 #### Quiz
 
 1. ¿Con qué mes planeas si tu ingreso cambia? a) El mejor · b) Un mes bajo realista
@@ -2098,7 +2104,7 @@ A Andrés le ofrecen un "adelanto" para su negocio que se cobra de sus ventas di
 
 #### Actividad interactiva
 
-**Mi negocio en orden (H5P):** separa gastos del negocio y personales, y calcula la ganancia real de un mes de ejemplo.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2326,6 +2332,12 @@ Daniela tuvo que usar su reserva por una emergencia.
 | Sentir culpa si algo falla | Abandonas el plan | Ajústalo y sigue |
 
 ### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
 
 #### Quiz
 

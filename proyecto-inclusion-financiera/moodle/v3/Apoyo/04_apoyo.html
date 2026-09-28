@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Glosario</title></head><body>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-book"></i> Materiales de apoyo</span><h3>Glosario</h3><p class="obj">Las palabras del curso explicadas en lenguaje sencillo, con su nombre en inglés.</p></div><div class="card2"><p>Definiciones en lenguaje sencillo. Un contrato o una ley pueden usar la palabra con un significado más específico. Entre paréntesis está el término en inglés que puedes encontrar en documentos.</p></div><div class="card2"><h4>Dinero y presupuesto</h4><ul>
+<li><strong>Activo</strong> (<em>asset</em>): algo de valor que posees.</li>
+<li><strong>Pasivo</strong> (<em>liability</em>): una deuda u obligación pendiente.</li>
+<li><strong>Patrimonio neto</strong> (<em>net worth</em>): activos menos pasivos. No es lo mismo que efectivo disponible.</li>
+<li><strong>Ingreso bruto</strong> (<em>gross income</em>): lo que ganas antes de descuentos.</li>
+<li><strong>Ingreso neto</strong> (<em>net income</em>): lo que recibes después de descuentos.</li>
+<li><strong>Flujo de efectivo</strong> (<em>cash flow</em>): entradas y salidas de dinero en el tiempo.</li>
+<li><strong>Liquidez</strong> (<em>liquidity</em>): qué tan rápido puedes usar un recurso sin perder valor.</li>
+<li><strong>Saldo disponible</strong> (<em>available balance</em>): lo que el banco te deja usar hoy; puede no incluir pagos futuros.</li>
+<li><strong>Presupuesto</strong> (<em>budget</em>): plan de a dónde irá tu dinero.</li>
+<li><strong>Gasto hormiga</strong> (<em>small recurring expense</em>): gasto pequeño que se repite y suma mucho; no es necesariamente malo.</li>
+<li><strong>Gasto periódico</strong> (<em>periodic expense</em>): pago que se repite sin ser mensual.</li>
+<li><strong>Reserva para gastos previstos</strong> (<em>sinking fund</em>): dinero apartado para un pago conocido.</li>
+<li><strong>Fondo de emergencia</strong> (<em>emergency fund</em>): dinero accesible para imprevistos.</li>
+<li><strong>Costo de oportunidad</strong> (<em>opportunity cost</em>): lo que dejas de obtener al elegir.</li>
+<li><strong>Prioridades</strong> (<em>priorities</em>): lo que decides atender primero.</li>
+<li><strong>Cada dos semanas</strong> (<em>biweekly</em>): cada 14 días; 26 pagos al año.</li>
+<li><strong>Dos veces al mes</strong> (<em>semimonthly</em>): 24 pagos al año.</li>
+<li><strong>Escenarios</strong> (<em>scenarios</em>): versiones posibles del futuro para probar tu plan.</li>
+<li><strong>Doble conteo</strong> (<em>double counting</em>): usar el mismo dinero para dos cosas.</li>
+</ul></div><div class="card2"><h4>Porcentajes, interés e inflación</h4><ul>
+<li><strong>Porcentaje</strong> (<em>percentage</em>): parte de cada cien; 4% = 0.04.</li>
+<li><strong>Punto porcentual</strong> (<em>percentage point</em>): diferencia directa entre porcentajes; de 4% a 6% son 2 puntos.</li>
+<li><strong>Capital o principal</strong> (<em>principal</em>): monto base de un préstamo o inversión.</li>
+<li><strong>Interés</strong> (<em>interest</em>): costo de usar dinero prestado o ganancia de ciertos saldos.</li>
+<li><strong>Interés simple</strong> (<em>simple interest</em>): se calcula siempre sobre el capital inicial.</li>
+<li><strong>Interés compuesto</strong> (<em>compound interest</em>): también se calcula sobre intereses anteriores.</li>
+<li><strong>Tasa efectiva</strong> (<em>effective rate</em>): cambio real en un periodo considerando la capitalización.</li>
+<li><strong>APR</strong> (<em>annual percentage rate</em>): costo anual de un crédito según reglas oficiales.</li>
+<li><strong>APY</strong> (<em>annual percentage yield</em>): rendimiento anual de un ahorro con capitalización.</li>
+<li><strong>Tasa fija</strong> (<em>fixed rate</em>): no cambia durante el plazo acordado.</li>
+<li><strong>Tasa variable</strong> (<em>variable rate</em>): puede cambiar según el contrato.</li>
+<li><strong>Inflación</strong> (<em>inflation</em>): aumento general de precios.</li>
+<li><strong>Desinflación</strong> (<em>disinflation</em>): los precios suben más lento.</li>
+<li><strong>Deflación</strong> (<em>deflation</em>): los precios bajan.</li>
+<li><strong>Poder de compra</strong> (<em>purchasing power</em>): lo que tu dinero puede comprar.</li>
+<li><strong>Tipo de cambio</strong> (<em>exchange rate</em>): precio de una moneda en otra; indica siempre la dirección.</li>
+</ul></div><div class="card2"><h4>Bancos, pagos y remesas</h4><ul>
+<li><strong>Banco central</strong> (<em>central bank</em>): institución pública; no atiende cuentas personales.</li>
+<li><strong>Cooperativa de ahorro y crédito</strong> (<em>credit union</em>): institución financiera de sus socios.</li>
+<li><strong>Fintech:</strong> empresa que usa tecnología para servicios financieros; no prueba que sea banco.</li>
+<li><strong>Neobanco</strong> (<em>neobank</em>): servicio principalmente digital; verifica el banco detrás.</li>
+<li><strong>Entidad responsable</strong> (<em>responsible entity</em>): empresa que responde por el servicio.</li>
+<li><strong>Seguro de depósitos</strong> (<em>deposit insurance</em>): protege depósitos elegibles si quiebra la institución (FDIC o NCUA).</li>
+<li><strong>Cuenta de cheques o corriente</strong> (<em>checking account</em>): para uso frecuente.</li>
+<li><strong>Cuenta de ahorro</strong> (<em>savings account</em>): para guardar dinero.</li>
+<li><strong>Comisión</strong> (<em>fee</em>): cargo por un servicio.</li>
+<li><strong>Comisión de mantenimiento</strong> (<em>maintenance fee</em>): cargo mensual por tener la cuenta.</li>
+<li><strong>Bank On:</strong> estándar nacional de cuentas de bajo costo.</li>
+<li><strong>Sobregiro</strong> (<em>overdraft</em>): gastas más de lo que tienes y el banco lo cubre con un cargo.</li>
+<li><strong>ACH:</strong> red de transferencias electrónicas entre bancos.</li>
+<li><strong>Disputa</strong> (<em>dispute</em>): solicitud para revisar un cargo o dato incorrecto.</li>
+<li><strong>Remesa</strong> (<em>remittance</em>): envío de dinero a otra persona o país.</li>
+<li><strong>Recibo de remesa</strong> (<em>remittance receipt</em>): comprobante del envío.</li>
+<li><strong>Folio</strong> (<em>reference number</em>): número de seguimiento.</li>
+<li><strong>Margen cambiario</strong> (<em>exchange-rate markup</em>): diferencia entre la tasa de referencia y la ofrecida.</li>
+<li><strong>Cotización</strong> (<em>quote</em>): condiciones ofrecidas para un momento y monto.</li>
+<li><strong>DFPI:</strong> regulador financiero de California; otorga licencias a remesadoras.</li>
+<li><strong>NMLS:</strong> registro nacional de licencias de empresas financieras.</li>
+</ul></div><div class="card2"><h4>Identificación e impuestos</h4><ul>
+<li><strong>SSN</strong> (<em>Social Security number</em>): número del Seguro Social.</li>
+<li><strong>ITIN</strong> (<em>Individual Taxpayer Identification Number</em>): número fiscal del IRS para quien no puede tener SSN; no autoriza a trabajar.</li>
+<li><strong>Matrícula consular:</strong> identificación del consulado de México.</li>
+<li><strong>Licencia AB 60:</strong> licencia de conducir de California para quienes no pueden comprobar estancia legal; no es REAL ID.</li>
+<li><strong>Declaración de impuestos</strong> (<em>tax return</em>): informa tus datos y calcula tu impuesto.</li>
+<li><strong>Reembolso</strong> (<em>tax refund</em>): devolución si pagaste de más.</li>
+<li><strong>Retención</strong> (<em>withholding</em>): anticipo de impuestos descontado de tu pago.</li>
+<li><strong>Deducción</strong> (<em>tax deduction</em>): reduce la base del impuesto.</li>
+<li><strong>Crédito fiscal</strong> (<em>tax credit</em>): reduce el impuesto; algunos son reembolsables.</li>
+<li><strong>CalEITC:</strong> crédito estatal de California por ingresos del trabajo; se puede reclamar con ITIN.</li>
+<li><strong>VITA:</strong> ayuda gratuita del IRS para preparar impuestos.</li>
+<li><strong>CTEC:</strong> registro de preparadores de impuestos de California.</li>
+<li><strong>Pagos estimados</strong> (<em>estimated payments</em>): anticipos de impuestos durante el año.</li>
+<li><strong>Tasa marginal</strong> (<em>marginal rate</em>): tasa del último tramo de ingreso.</li>
+<li><strong>Tasa efectiva de impuesto</strong> (<em>effective tax rate</em>): impuesto entre ingreso.</li>
+<li><strong>Carga pública</strong> (<em>public charge</em>): evaluación en ciertos trámites migratorios sobre la dependencia de apoyos del gobierno.</li>
+</ul></div><div class="card2"><h4>Crédito y deudas</h4><ul>
+<li><strong>Historial crediticio</strong> (<em>credit history</em>): registro de tus experiencias de crédito.</li>
+<li><strong>Reporte de crédito</strong> (<em>credit report</em>): documento con tus cuentas y pagos.</li>
+<li><strong>Puntaje</strong> (<em>credit score</em>): número calculado con un modelo.</li>
+<li><strong>Capacidad de pago</strong> (<em>affordability</em>): poder pagar con tus recursos.</li>
+<li><strong>Utilización</strong> (<em>credit utilization</em>): saldo entre límite.</li>
+<li><strong>Tarjeta garantizada</strong> (<em>secured card</em>): respaldada por un depósito.</li>
+<li><strong>Préstamo constructor de crédito</strong> (<em>credit builder loan</em>): pagas y al final recibes el dinero.</li>
+<li><strong>Tanda:</strong> ahorro rotativo entre personas.</li>
+<li><strong>Círculo de préstamo</strong> (<em>lending circle</em>): préstamo social organizado que puede reportar a buró.</li>
+<li><strong>Cofirmante o aval</strong> (<em>co-signer</em>): responde por la deuda de otra persona.</li>
+<li><strong>Usuario autorizado</strong> (<em>authorized user</em>): usa la tarjeta de otra persona.</li>
+<li><strong>Pago mínimo</strong> (<em>minimum payment</em>): lo mínimo requerido; no liquida la deuda.</li>
+<li><strong>Periodo de gracia</strong> (<em>grace period</em>): tiempo para evitar intereses si pagas completo.</li>
+<li><strong>Fecha de corte</strong> (<em>statement closing date</em>): cierre del periodo del estado de cuenta.</li>
+<li><strong>Amortización</strong> (<em>amortization</em>): cómo se reduce el capital con los pagos.</li>
+<li><strong>Mora o atraso</strong> (<em>delinquency</em>): no pagar a tiempo.</li>
+<li><strong>Cobranza</strong> (<em>debt collection</em>): gestiones para cobrar una deuda.</li>
+<li><strong>Consolidación</strong> (<em>consolidation</em>): juntar deudas en una.</li>
+<li><strong>Refinanciamiento</strong> (<em>refinancing</em>): cambiar una deuda por otra con nuevas condiciones.</li>
+<li><strong>Relación deuda-ingreso</strong> (<em>debt-to-income ratio</em>): pagos de deuda entre ingreso.</li>
+</ul></div><div class="card2"><h4>Protección</h4><ul>
+<li><strong>Estafa</strong> (<em>scam</em>): engaño para obtener dinero o datos.</li>
+<li><strong>Phishing:</strong> mensajes o páginas falsas que piden datos.</li>
+<li><strong>Robo de identidad</strong> (<em>identity theft</em>): uso de tus datos para suplantarte.</li>
+<li><strong>Congelamiento de crédito</strong> (<em>credit freeze</em>): impide abrir nuevas cuentas a tu nombre.</li>
+<li><strong>Autenticación de varios pasos</strong> (<em>multifactor authentication</em>): segunda comprobación además de la contraseña.</li>
+<li><strong>Notary public:</strong> en EE. UU. solo certifica firmas; no es abogado.</li>
+<li><strong>Representante acreditado</strong> (<em>accredited representative</em>): autorizado por el DOJ para dar asesoría migratoria en una organización reconocida.</li>
+<li><strong>Abuso económico</strong> (<em>economic abuse</em>): control de los recursos o decisiones económicas de otra persona.</li>
+<li><strong>Prima</strong> (<em>premium</em>): lo que pagas por un seguro.</li>
+<li><strong>Deducible</strong> (<em>deductible</em>): lo que pagas antes de que el seguro pague.</li>
+<li><strong>Copago</strong> (<em>copayment</em>): monto fijo por un servicio.</li>
+<li><strong>Coaseguro</strong> (<em>coinsurance</em>): porcentaje que pagas después del deducible.</li>
+<li><strong>Exclusión</strong> (<em>exclusion</em>): lo que el seguro no cubre.</li>
+<li><strong>Explicación de beneficios</strong> (<em>explanation of benefits</em>): resumen de cómo se procesó una atención; no es factura.</li>
+<li><strong>Plan de contingencia</strong> (<em>contingency plan</em>): pasos preparados para responder a un problema.</li>
+<li><strong>Plan de preparación familiar</strong> (<em>family preparedness plan</em>): instrucciones para que tu familia continúe si no puedes estar.</li>
+<li><strong>Declaración Jurada de Autorización del Cuidador</strong> (<em>Caregiver's Authorization Affidavit</em>): documento de California para asuntos escolares y ciertos médicos de un menor; no cambia la custodia.</li>
+</ul></div><div class="card2"><h4>Patrimonio, vivienda y futuro</h4><ul>
+<li><strong>Aportación</strong> (<em>contribution</em>): dinero que agregas a una cuenta o meta; no es ganancia.</li>
+<li><strong>Rendimiento</strong> (<em>return</em>): ganancia o pérdida de una inversión.</li>
+<li><strong>Rendimiento real</strong> (<em>real return</em>): ajustado por inflación.</li>
+<li><strong>Diversificación</strong> (<em>diversification</em>): repartir el riesgo; no elimina pérdidas.</li>
+<li><strong>Volatilidad</strong> (<em>volatility</em>): qué tanto sube y baja un valor.</li>
+<li><strong>ETF:</strong> fondo que se compra y vende en bolsa.</li>
+<li><strong>Cuenta de retiro</strong> (<em>retirement account</em>): estructura con reglas de impuestos y retiro.</li>
+<li><strong>Aportación patronal</strong> (<em>employer match</em>): lo que pone tu empleador.</li>
+<li><strong>Adquisición de derechos</strong> (<em>vesting</em>): condiciones para que la aportación del empleador sea tuya.</li>
+<li><strong>CalSavers:</strong> programa de retiro de California.</li>
+<li><strong>AFORE:</strong> administradora de fondos para el retiro en México.</li>
+<li><strong>Enganche</strong> (<em>down payment</em>): pago inicial al comprar.</li>
+<li><strong>Costos de cierre</strong> (<em>closing costs</em>): gastos de la compra de una vivienda.</li>
+<li><strong>Tope de renta</strong> (<em>rent cap</em>): aumento máximo permitido.</li>
+<li><strong>Beneficiario</strong> (<em>beneficiary</em>): quien recibe un beneficio.</li>
+<li><strong>Poder notarial</strong> (<em>power of attorney</em>): autoriza a alguien a actuar por ti.</li>
+<li><strong>EIN:</strong> número fiscal de un negocio.</li>
+<li><strong>Costo total de uso</strong> (<em>total cost of ownership</em>): todo lo que cuesta tener y usar algo.</li>
+</ul></div></div>
+</body></html>

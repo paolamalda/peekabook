@@ -186,7 +186,7 @@ def ruta(files, current):
 
 def lesson_pages(block, prefix, next_title=None):
     code, title, meta, secs = parse(block)
-    f = [f"{prefix}.html", f"{prefix}_1_sub.html", f"{prefix}_2_sub.html", f"{prefix}_3_sub.html"]
+    f = [f"{prefix}_0.html", f"{prefix}_1_sub.html", f"{prefix}_2_sub.html", f"{prefix}_3_sub.html"]
     ess, prof = blocks(secs["esencial"]), blocks(secs["profundiza"])
     steps = [b for b in ess if b[0] not in ("comprueba", "recuerda")]
     wrap = lambda body: f'{CSS}<div class="tdtf">{body}</div>'
