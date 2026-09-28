@@ -296,7 +296,7 @@ Localiza la sede de VITA más cercana y anota su horario, idioma y documentos qu
 
 **Palabras clave:** *ITIN:* número fiscal del IRS para quien no puede tener SSN. *CalEITC:* crédito estatal de California por ingresos del trabajo. *Crédito reembolsable:* puede darte dinero aunque no debas impuesto. *VITA:* ayuda fiscal gratuita del IRS con voluntarios certificados. *Agente Certificador de Aceptación:* persona autorizada por el IRS para verificar documentos del ITIN.
 
-**Fuentes:** [S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, ayuda fiscal gratuita · [R19] IRS, VITA.
+**Fuentes:** [S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, ayuda fiscal gratuita · [R19] IRS, VITA · [R48] FTB, CalFile.
 
 ---
 
@@ -380,7 +380,7 @@ Compara dos servicios y una opción gratuita. Anota qué confirmaste y qué falt
 
 **Palabras clave:** *Alcance del servicio:* los trabajos que incluye el precio. *Credenciales:* registros que prueban una preparación o autorización. *PTIN:* número de preparador del IRS. *CTEC:* registro de preparadores de impuestos de California.
 
-**Fuentes:** [S15] FTB, ayuda gratuita · [S16] FTB, Publicación 982.
+**Fuentes:** [S15] FTB, ayuda gratuita · [S16] FTB, Publicación 982 · [R36] CTEC, verificación de preparadores.
 
 ---
 

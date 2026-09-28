@@ -1,0 +1,92 @@
+# Referencias
+
+Las referencias S vienen del temario del programa; las referencias R se agregaron para desarrollar las lecciones. Fecha de consulta de esta edición: 27 y 28 de septiembre de 2026. Las reglas, tarifas y requisitos cambian: consulta la versión vigente antes de actuar.
+
+## Referencias del temario
+
+- **S01** OCDE y Unión Europea. Marco de competencias financieras para adultos.
+- **S02** CFPB. Measuring financial skill.
+- **S03** FDIC. Money Smart para adultos.
+- **S04** CFPB. Your Money, Your Goals.
+- **S05** CFPB. Escala de bienestar financiero.
+- **S06** Reserva Federal. What is the money supply.
+- **S07** NCUA. Diferencias entre una cooperativa y un banco.
+- **S08** FDIC. Banking with third-party apps.
+- **S09** FDIC. BankFind Suite.
+- **S10** CFPB. Guía de estilo y glosario en español.
+- **S11** California DIR. Know Your Rights.
+- **S12** IRS. Individual Taxpayer Identification Number (ITIN).
+- **S13** IRS. Gig Economy Tax Center.
+- **S14** California FTB. ITIN.
+- **S15** California FTB. Get free tax help.
+- **S16** California FTB. Publicación 982, cómo elegir un preparador.
+- **S17** CFPB. ¿Qué es una transferencia de remesas y cuáles son mis derechos?
+- **S18** CFPB. Formas de iniciar o reconstruir un buen historial de crédito.
+- **S19** CFPB. ¿Cuánto tiempo permanece la información en mi reporte de crédito?
+- **S20** FTC. Solo los estafadores dicen que eliminarán toda la información negativa de tu reporte.
+- **S21** California Department of Insurance. Guías para consumidores.
+- **S22** FTC. IdentityTheft.gov.
+- **S23** SEC Investor.gov. Introducción a la inversión.
+- **S24** SEC Investor.gov. Productos de inversión.
+- **S25** SSA. Acuerdo de seguridad social entre EE. UU. y México (firmado, no vigente).
+- **S26** CFPB. Educación financiera efectiva: cinco principios.
+- **S27** CalSavers. Detalles del programa.
+
+## Referencias de las lecciones
+
+- **R01** Banco de Inglaterra. Money creation in the modern economy.
+- **R02** FDIC. Understanding deposit insurance.
+- **R03** NCUA. Cobertura de seguro de depósitos.
+- **R04** IRS. Comunicado IR-2026-48 sobre el impuesto a remesas.
+- **R05** IRS. Publicación 505, retención y pagos estimados.
+- **R06** IRS. Fechas límite y prórrogas.
+- **R07** CFPB. ¿Pedir mi reporte de crédito afecta mi puntaje?
+- **R08** CFPB. ¿Qué información debe darme un cobrador de deudas?
+- **R09** CFPB. ¿Qué es un congelamiento de crédito?
+- **R10** California DMV. Requisitos de seguro.
+- **R11** California FTB. Mandato de cobertura de salud.
+- **R12** California DMHC. Presentar una queja.
+- **R13** Wells Fargo. Clear Access Banking.
+- **R14** Wells Fargo. Preguntas sobre identificación y apertura.
+- **R15** Bank of America. SafeBalance.
+- **R16** Self-Help. Checking.
+- **R17** Chime. Checking account.
+- **R18** Chime Help. Cómo abrir una cuenta.
+- **R19** IRS. Preparación gratuita para quienes califican (VITA y TCE).
+- **R20** ATAX Chula Vista Downtown. Servicios anunciados.
+- **R21** FTC. Acción de marzo de 2022 contra una empresa de reparación de crédito.
+- **R22** CFPB. Encuentra un consejero de vivienda.
+- **R23** State Bar of California. Servicios de referencia de abogados.
+- **R24** CFPB. ¿Cómo funciona el interés compuesto?
+- **R25** CFPB. Regulación DD, cálculo del APY.
+- **R26** Bureau of Labor Statistics. Preguntas frecuentes del índice de precios al consumidor.
+- **R27** IRS. Centro para trabajadores por cuenta propia.
+- **R28** CFPB. ¿Cómo calcula mi tarjeta los intereses?
+- **R29** CFPB. ¿Qué es el periodo de gracia de una tarjeta?
+- **R30** SEC Investor.gov. Cómo afectan las comisiones a tus inversiones.
+- **R31** SEC Investor.gov. Asignación de activos y diversificación.
+- **R32** SEC Investor.gov. Preguntas frecuentes sobre bonos.
+- **R33** USCIS. Carga pública.
+- **R34** Protecting Immigrant Families. Materiales sobre carga pública.
+- **R35** California DHCS. Medi-Cal y cambios de elegibilidad.
+- **R36** California Tax Education Council (CTEC). Verificación de preparadores registrados.
+- **R37** Secretaría de Estado de California. Consultores de inmigración.
+- **R38** Departamento de Justicia (EOIR). Organizaciones reconocidas y representantes acreditados.
+- **R39** Tribunales de California. Declaración Jurada de Autorización del Cuidador.
+- **R40** California DFPI. Buscador de licencias.
+- **R41** NMLS Consumer Access.
+- **R42** California DMV. Licencia de conducir AB 60.
+- **R43** Mission Asset Fund. Círculos de préstamo.
+- **R44** Estado de California. Guía de derechos y responsabilidades de inquilinos.
+- **R45** IRS. Solicitar un número de identificación del empleador (EIN).
+- **R46** Cities for Financial Empowerment Fund. Estándares nacionales de cuentas Bank On.
+- **R47** Procuraduría General de California. Fraude en servicios de inmigración.
+- **R48** California FTB. CalFile.
+- **R49** CONDUSEF. Remesamex.
+- **R50** Banco Mundial. Remittance Prices Worldwide.
+- **R51** FTC. ReportFraud.ftc.gov.
+- **R52** California HCAI. Precios justos y asistencia financiera en hospitales.
+- **R53** Social Security Administration. my Social Security.
+- **R54** CONSAR. Localiza tu AFORE.
+- **R55** California CDTFA. Permiso de vendedor.
+- **R56** SBA. Centros de desarrollo de pequeños negocios (SBDC).

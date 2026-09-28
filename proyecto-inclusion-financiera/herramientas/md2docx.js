@@ -56,14 +56,17 @@ function table(rows) {
   });
 }
 
+let listInstance = 0;
 function convert(md) {
   const out = [];
+  let inNumbered = false;
   const lines = md.replace(/\r/g, '').split('\n');
   let i = 0;
   while (i < lines.length) {
     const line = lines[i];
     const t = line.trim();
     if (!t) { i++; continue; }
+    if (!/^\d+\.\s+/.test(t)) inNumbered = false;
     if (t === '[[TOC]]') {
       out.push(new TableOfContents('Contenido', { hyperlink: true, headingStyleRange: '1-2' }));
       i++; continue;
@@ -102,7 +105,8 @@ function convert(md) {
     }
     const nl = /^\d+\.\s+(.*)$/.exec(t);
     if (nl) {
-      out.push(new Paragraph({ numbering: { reference: 'numbers', level: 0 }, children: runs(nl[1]) }));
+      if (!inNumbered) { listInstance++; inNumbered = true; }
+      out.push(new Paragraph({ numbering: { reference: 'numbers', level: 0, instance: listInstance }, children: runs(nl[1]) }));
       i++; continue;
     }
     // Párrafo: une líneas consecutivas
