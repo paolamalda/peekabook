@@ -19,8 +19,8 @@ Programa gratuito de finanzas personales para migrantes. Piloto en California; d
 ## Moodle (carpeta `moodle/`)
 
 - `banco_preguntas_es.gift.txt` / `banco_preguntas_en.gift.txt`: 175 preguntas por idioma, importables en formato GIFT.
-- `Guiones_H5P_ES.docx`: guion de la actividad H5P de cada lección.
-- `Guia_LevelUp_Insignias_ES.docx`: niveles, puntos, insignias y finalización.
+- `Guiones_H5P_ES.docx` / `H5P_Scripts_EN.docx`: guion de la actividad H5P de cada lección.
+- `Guia_LevelUp_Insignias_ES.docx` / `LevelUp_Badges_Guide_EN.docx`: niveles, puntos, insignias y finalización.
 - `LEEME.txt`: instrucciones paso a paso.
 
 Los zips de cada entrega están en `../entregas/`, cada uno con su `LEEME.txt`.

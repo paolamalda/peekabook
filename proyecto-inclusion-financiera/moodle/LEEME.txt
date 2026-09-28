@@ -16,7 +16,10 @@ QUÉ CONTIENE
    respuestas correctas y retroalimentación. Incluye resultados ya calculados
    para los simuladores.
 
+   H5P_Scripts_EN.docx (y guiones_h5p_en.md): los mismos guiones en inglés.
+
 4. Guia_LevelUp_Insignias_ES.docx (y guia_levelup_insignias.md)
+   LevelUp_Badges_Guide_EN.docx (y levelup_badges_guide_en.md): versión en inglés.
    Niveles, reglas de puntos, 8 insignias, finalización de actividades
    y qué datos exportar para medir impacto.
 
@@ -40,7 +43,7 @@ Paso 4. Para saber más
 
 PENDIENTES Y AVISOS
 -------------------
-- Los guiones H5P están en español. La versión en inglés queda pendiente.
+- Guiones y guía disponibles en español e inglés.
 - Las tarjetas de M1 U13 (carga pública) deben revisarse con el abogado
   antes de publicarse.
 - H5P no hace cálculos con los datos de cada persona. Los simuladores usan

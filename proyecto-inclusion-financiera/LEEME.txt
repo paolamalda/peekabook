@@ -39,6 +39,7 @@ HISTORIAL DE ENTREGAS
 2. "Para saber más" en las 59 lecciones (manuales v2.1) y matriz de 62 productos.
 3. Paquete para Moodle: banco de 175 preguntas (ES/EN), guiones H5P,
    guía de Level Up e insignias.
+4. Guiones H5P y guía de Level Up e insignias en inglés.
 
 REGLAS DEL PROGRAMA
 -------------------

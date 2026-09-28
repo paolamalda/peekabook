@@ -34,7 +34,7 @@ Este documento dice qué construir en H5P para cada lección, con qué tipo de c
 
 ---
 
-# Módulo 1. Tu dinero hoy
+# Módulo 1. Entiende tu dinero y organiza tu economía
 
 ## M1 U01. Arrastra y clasifica
 
@@ -278,7 +278,7 @@ Completar las 7 tarjetas restantes con el abogado a partir de la página de Prot
 
 ---
 
-# Módulo 2. Tu cuenta y tus envíos
+# Módulo 2. Entiende el sistema financiero y planea tus remesas
 
 ## M2 U01. ¿Quién responde?
 
@@ -447,7 +447,7 @@ Completar las 7 tarjetas restantes con el abogado a partir de la página de Prot
 
 ---
 
-# Módulo 3. Tu crédito
+# Módulo 3. Construye tu crédito y maneja tus deudas
 
 ## M3 U01. ¿Puedo pagarlo?
 
@@ -568,7 +568,7 @@ Completar las 7 tarjetas restantes con el abogado a partir de la página de Prot
 
 ---
 
-# Módulo 4. Tu protección
+# Módulo 4. Protege tu dinero, tu identidad y tu familia
 
 ## M4 U01. ¿Estafa o no?
 
@@ -728,7 +728,7 @@ Cada sección tiene los campos *tengo / falta / fecha*.
 
 ---
 
-# Módulo 5. Tu futuro
+# Módulo 5. Construye patrimonio y prepara tu futuro
 
 ## M5 U01. Mis metas
 
