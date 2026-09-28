@@ -4,7 +4,7 @@
 
 No necesitas saber de finanzas para empezar. Cada lección parte de una situación de la vida diaria, explica las palabras técnicas cuando aparecen y termina con una acción que puedes hacer esta semana.
 
-Versión 2.0 · Edición en español · Septiembre de 2026. Existe una edición en inglés con el mismo contenido.
+Versión 2.1 · Edición en español · Septiembre de 2026. Existe una edición en inglés con el mismo contenido.
 
 [[TOC]]
 

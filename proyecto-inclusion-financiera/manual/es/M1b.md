@@ -77,6 +77,13 @@ Con los números del Caso 1 y el ingreso reducido, escribe tres ajustes y cuánt
 
 Arma tu presupuesto habitual y uno con 20% menos de ingreso. Anota un cambio inmediato, una conversación y un recurso de ayuda.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+
 **Palabras clave:** *Presupuesto:* plan de a dónde irá tu dinero. *Déficit:* cuando lo que necesitas es mayor que lo que tienes. *Fondo de emergencia:* dinero apartado para imprevistos. *Reserva para gastos previstos:* dinero apartado para un pago conocido.
 
 **Fuentes:** [S04] CFPB, Your Money Your Goals.
@@ -152,6 +159,14 @@ Impuesto calculado 1,400; anticipos 1,100. ¿Cuál es el resultado? ¿Y si los a
 
 Anota el año fiscal, tus documentos, las fechas verificadas y tus preguntas sin respuesta.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **IRS en español** (IRS; idioma: ES): https://www.irs.gov/es
+- **Cómo solicitar un ITIN** (IRS; idioma: EN/ES): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin
+- **Ayuda fiscal gratuita en California** (FTB; idioma: EN): https://www.ftb.ca.gov/help/free-tax-help/index.html
+
 **Palabras clave:** *Declaración de impuestos:* documento que informa tus datos y calcula tu impuesto. *Reembolso:* devolución cuando pagaste de más. *Retención:* anticipo de impuestos descontado de tu salario. *Deducción:* reduce la base del impuesto. *Crédito fiscal:* reduce el impuesto. *ITIN:* número fiscal del IRS para quien no puede tener SSN.
 
 **Fuentes:** [S12] IRS, ITIN · [R06] IRS, fechas y prórrogas.
@@ -226,6 +241,13 @@ Cobros 1,000; costos del caso 250; transferencia a tu cuenta personal 500. ¿Cu�
 
 Prepara carpetas de ingresos, gastos, salud, familia y avisos del IRS o el FTB. Si tienes bienes o ingresos en otro país, anota esa pregunta para tu preparador.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Centro de impuestos de la economía de plataformas** (IRS; idioma: EN/ES): https://www.irs.gov/businesses/gig-economy-tax-center
+- **Centro para trabajadores por cuenta propia** (IRS; idioma: EN/ES): https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center
+
 **Palabras clave:** *Ingreso de la actividad:* lo que cobras antes de costos. *Costo de la actividad:* lo que gastas para trabajar o vender. *Pagos estimados:* anticipos de impuestos durante el año. *Formulario 1099:* informa ciertos pagos recibidos. *W-2:* resumen anual de salario y retenciones.
 
 **Fuentes:** [S13] IRS, economía de plataformas · [R05] IRS, Publicación 505 · [R27] IRS, trabajadores por cuenta propia.
@@ -293,6 +315,16 @@ Escribe tres preguntas para llevar a tu cita de VITA si declaras con ITIN y tien
 ### A tu plan
 
 Localiza la sede de VITA más cercana y anota su horario, idioma y documentos que pide.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Cómo solicitar un ITIN** (IRS; idioma: EN/ES): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin
+- **Buscador de agentes certificadores (ITIN)** (IRS; idioma: EN): https://www.irs.gov/tin/itin/itin-acceptance-agents
+- **CalEITC: crédito por ingreso del trabajo de California** (FTB; idioma: EN/ES): https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html
+- **Crédito tributario por hijos menores (YCTC)** (FTB; idioma: ES (EN disponible)): https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit-es.html
+- **Preparación gratuita de impuestos (VITA y TCE)** (IRS; idioma: EN/ES): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers
 
 **Palabras clave:** *ITIN:* número fiscal del IRS para quien no puede tener SSN. *CalEITC:* crédito estatal de California por ingresos del trabajo. *Crédito reembolsable:* puede darte dinero aunque no debas impuesto. *VITA:* ayuda fiscal gratuita del IRS con voluntarios certificados. *Agente Certificador de Aceptación:* persona autorizada por el IRS para verificar documentos del ITIN.
 
@@ -378,6 +410,14 @@ Un preparador promete "el máximo reembolso garantizado" antes de ver tus docume
 
 Compara dos servicios y una opción gratuita. Anota qué confirmaste y qué falta.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Verificar a un preparador registrado** (CTEC; idioma: EN): https://www.ctec.org
+- **Preparación gratuita de impuestos (VITA y TCE)** (IRS; idioma: EN/ES): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers
+- **Ayuda fiscal gratuita en California** (FTB; idioma: EN): https://www.ftb.ca.gov/help/free-tax-help/index.html
+
 **Palabras clave:** *Alcance del servicio:* los trabajos que incluye el precio. *Credenciales:* registros que prueban una preparación o autorización. *PTIN:* número de preparador del IRS. *CTEC:* registro de preparadores de impuestos de California.
 
 **Fuentes:** [S15] FTB, ayuda gratuita · [S16] FTB, Publicación 982 · [R36] CTEC, verificación de preparadores.
@@ -450,6 +490,14 @@ Escribe tres preguntas para llevar a una organización de ayuda legal antes de s
 ### A tu plan
 
 Anota qué apoyo necesita tu hogar, quién podría calificar y dónde confirmarás tu caso.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Carga pública: ¿aplica a mí?** (Protecting Immigrant Families; idioma: EN/ES): https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/
+- **Manual de políticas: carga pública** (USCIS; idioma: EN): https://www.uscis.gov/policy-manual/volume-8-part-g
+- **Medi-Cal** (DHCS de California; idioma: EN/ES): https://www.dhcs.ca.gov
 
 **Palabras clave:** *Carga pública:* evaluación en ciertos trámites migratorios sobre la dependencia de apoyos del gobierno. *Representante acreditado:* persona autorizada por el DOJ para dar asesoría migratoria en una organización reconocida. *CalFresh:* ayuda para alimentos en California.
 
@@ -524,5 +572,12 @@ Convierte "quiero ahorrar más" en una acción viable para un hogar que todavía
 ### A tu plan: entrega del expediente E1
 
 Entrega: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días. Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tienes. Resuelve también el **caso integrador E1** al final del manual.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Bienestar financiero: cuestionario y herramientas** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Palabras clave:** *Meta comprobable:* acción con fecha y evidencia. *Evidencia:* registro que muestra lo que hiciste. *Gasto periódico:* pago que se repite sin ser mensual.

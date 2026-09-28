@@ -67,6 +67,13 @@ B cuesta 360 más al año, pero baja el deducible 1,000. La mejor depende de si 
 
 Anota tus riesgos, lo que ya tienes cubierto, lo que falta y una pregunta para un agente con licencia.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Guías y quejas de seguros** (Departamento de Seguros de California; idioma: EN/ES): https://www.insurance.ca.gov
+- **Seguros de salud de California** (Covered California; idioma: EN/ES): https://www.coveredca.com
+
 **Palabras clave:** *Prima:* lo que pagas por el seguro. *Deducible:* lo que pagas antes de que el seguro pague. *Coaseguro:* porcentaje que pagas después del deducible. *Exclusión:* lo que no cubre.
 
 **Fuentes:** [S21] CDI · [R10] DMV, requisitos de seguro · [R11] FTB, mandato de salud.
@@ -129,6 +136,14 @@ Un documento puede explicar cómo procesó tu seguro una atención (**explicaci�
 
 Guarda los contactos de tu plan, tus médicos y el regulador. Pide la política de asistencia financiera del hospital más cercano.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Programa de facturación justa en hospitales** (HCAI de California; idioma: EN): https://hcai.ca.gov/affordability/hospital-fair-billing-program/
+- **Presentar una queja sobre tu plan de salud** (DMHC; idioma: EN/ES): https://www.dmhc.ca.gov/FileaComplaint.aspx
+- **Medi-Cal** (DHCS de California; idioma: EN/ES): https://www.dhcs.ca.gov
+
 **Palabras clave:** *Explicación de beneficios:* resumen de cómo se procesó una atención. *Asistencia financiera:* descuento o atención gratuita por ingresos. *DMHC:* regulador de ciertos planes de salud en California.
 
 **Fuentes:** [R12] DMHC · [R52] California HCAI, precios justos en hospitales.
@@ -188,6 +203,13 @@ Una interrupción puede quitarte ingreso y agregar gastos al mismo tiempo.
 ### A tu plan
 
 Enumera seis componentes de tu carpeta de continuidad y quién sabe dónde está.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Prepárate para emergencias** (Ready.gov; idioma: ES (EN: ready.gov)): https://www.ready.gov/es
+- **Guías y quejas de seguros** (Departamento de Seguros de California; idioma: EN/ES): https://www.insurance.ca.gov
 
 **Palabras clave:** *Plan de contingencia:* pasos preparados para responder a un problema. *Inventario de bienes:* lista con fotos de tus pertenencias.
 
@@ -259,6 +281,14 @@ Una detención, una hospitalización o un viaje de emergencia pueden separarte d
 
 Completa las cinco secciones del plan (puedes usar datos inventados para el curso). Guarda los documentos reales solo en tu carpeta privada.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Declaración Jurada de Autorización del Cuidador** (Tribunales de California; idioma: EN): https://courts.ca.gov/documents/caregiver.pdf
+- **Lista oficial de representantes acreditados** (DOJ EOIR; idioma: EN): https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city
+- **Prepárate para emergencias** (Ready.gov; idioma: ES (EN: ready.gov)): https://www.ready.gov/es
+
 **Palabras clave:** *Plan de preparación familiar:* instrucciones para que tu familia continúe si tú no puedes estar. *Declaración Jurada de Autorización del Cuidador:* documento de California para que un adulto atienda asuntos escolares y ciertos médicos de un menor. *Poder notarial:* documento que autoriza a otra persona a actuar por ti.
 
 **Fuentes:** [R39] Tribunales de California, autorización del cuidador · [R38] DOJ EOIR, representantes acreditados.
@@ -315,5 +345,12 @@ Un plan que solo funciona para una emergencia necesita ajustes.
 ### A tu plan: entrega del expediente E4
 
 Entrega: cinco riesgos prioritarios, comparación de dos coberturas, protocolo de incidentes, índice de tu carpeta de continuidad y plan de preparación familiar, sin datos sensibles. Se evalúa tu razonamiento, no la compra de productos. Resuelve también el **caso integrador E4** al final del manual.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Robo de identidad: reportar y plan de recuperación** (FTC; idioma: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
+- **Prepárate para emergencias** (Ready.gov; idioma: ES (EN: ready.gov)): https://www.ready.gov/es
 
 **Palabras clave:** *Brecha:* diferencia entre tu riesgo y tu protección. *Simulacro:* práctica de una situación inventada.

@@ -61,6 +61,13 @@ Usa valores realistas y marca las estimaciones. El valor sentimental no es un pr
 
 Escribe tres metas y separa la que necesita dinero pronto de la de largo plazo.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Bienestar financiero: cuestionario y herramientas** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
+
 **Palabras clave:** *Patrimonio neto:* activos menos deudas. *Liquidez:* qué tan rápido puedes usar un recurso. *Aportación:* dinero que agregas a una meta.
 
 ---
@@ -126,6 +133,13 @@ Empiezas con 100, agregas 20 de tu bolsillo y terminas con 125.
 
 Para cada meta anota plazo, liquidez, pérdida que podrías soportar y costos. No elijas solo por el rendimiento pasado.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Investor.gov en español** (SEC; idioma: ES): https://www.investor.gov/informacion-en-espanol
+- **Calculadoras e introducción a la inversión** (SEC Investor.gov; idioma: EN): https://www.investor.gov
+
 **Palabras clave:** *Rendimiento:* ganancia o pérdida de una inversión. *Rendimiento real:* ajustado por inflación. *Diversificación:* repartir el riesgo. *Volatilidad:* qué tanto sube y baja un valor.
 
 **Fuentes:** [S23] SEC Investor.gov · [R30] SEC, comisiones.
@@ -188,6 +202,13 @@ Una cuenta puede contener distintos productos, como una bolsa y lo que guardas d
 ### A tu plan
 
 Llena la ficha de inversión: cuenta, producto, meta, riesgo, costo, acceso y entidad verificada. Si no puedes explicarlo, anota qué necesitas aprender antes de contratar.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Verificar a un corredor o asesor** (FINRA BrokerCheck; idioma: EN): https://brokercheck.finra.org
+- **Investor.gov en español** (SEC; idioma: ES): https://www.investor.gov/informacion-en-espanol
 
 **Palabras clave:** *Cuenta de retiro:* estructura con reglas de impuestos y retiro. *ETF:* fondo que cotiza en bolsa. *Riesgo de crédito:* que el emisor no pague. *Custodia:* quién guarda tus inversiones.
 
@@ -261,6 +282,14 @@ Una renta de 1,800 y una hipoteca de 1,800 no cuestan lo mismo. Comprar tiene co
 
 Guarda tu contrato y recibos. Si quieres comprar, agenda una cita con un consejero de vivienda certificado.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Guía de derechos de inquilinos y propietarios 2026** (Departamento de Bienes Raíces de California; idioma: EN): https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf
+- **Buscador de consejeros de vivienda** (CFPB / HUD; idioma: EN): https://www.consumerfinance.gov/find-a-housing-counselor/
+- **Comprar una casa** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/owning-a-home/
+
 **Palabras clave:** *Enganche:* pago inicial al comprar. *Costos de cierre:* gastos de la compra. *Hipoteca:* préstamo para comprar vivienda. *Tope de renta:* aumento máximo permitido.
 
 **Fuentes:** [R44] California, guía de derechos de inquilinos · [R22] CFPB, consejeros de vivienda.
@@ -322,5 +351,12 @@ La cuota sola engaña. Aun así, faltan precio, plazo, enganche, condición del 
 ### A tu plan
 
 Compara dos alternativas y la opción de esperar. Anota al menos cinco costos y una contingencia.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Préstamos para auto** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/auto-loans/
+- **Ayuda federal para estudiar** (Departamento de Educación; idioma: EN/ES): https://studentaid.gov
 
 **Palabras clave:** *Costo total de uso:* todo lo que cuesta tener y usar algo. *Depreciación:* pérdida de valor con el tiempo.

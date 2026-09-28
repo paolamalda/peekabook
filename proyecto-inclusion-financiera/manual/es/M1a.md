@@ -83,6 +83,13 @@ Este mes recibiste: salario 600, un préstamo de 200, una transferencia entre tu
 
 Haz una lista con cuatro columnas: efectivo, depósitos, bienes y deudas. No necesitas compartir montos reales con el curso.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+
 **Palabras clave:** *Activo:* algo de valor que posees. *Pasivo:* una deuda u obligación pendiente. *Patrimonio neto:* activos menos pasivos. *Liquidez:* qué tan rápido puedes usar un recurso sin perder valor.
 
 **Fuentes:** [S06] Reserva Federal, oferta monetaria.
@@ -175,6 +182,13 @@ Ahorras 1,000 y un año después tienes 1,030. Los precios de tu canasta subiero
 
 Anota tres precios que subieron en tu casa este año y una acción que sí depende de ti.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Calculadoras e introducción a la inversión** (SEC Investor.gov; idioma: EN): https://www.investor.gov
+
 **Palabras clave:** *Inflación:* aumento general de precios. *Poder de compra:* lo que tu dinero puede comprar. *Interés compuesto:* interés que también se calcula sobre intereses anteriores. *Punto porcentual:* diferencia directa entre dos porcentajes. *Tipo de cambio:* precio de una moneda en otra.
 
 **Fuentes:** [R24] CFPB, interés compuesto · [R25] CFPB, cálculo de APY · [R26] BLS, índice de precios al consumidor.
@@ -253,6 +267,13 @@ Tienes 60 disponibles para una meta o un regalo. Escribe dos opciones y su conse
 ### A tu plan
 
 Escribe tus tres prioridades y una regla de pausa. No necesitas compartir experiencias personales.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Bienestar financiero: cuestionario y herramientas** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Palabras clave:** *Prioridades:* necesidades o metas que atiendes primero. *Costo de oportunidad:* lo que dejas de obtener al elegir. *Presupuesto:* plan para asignar tu dinero.
 
@@ -335,6 +356,13 @@ Cobras 150 por día, trabajas 18 días y gastas 270 en costos de trabajo. ¿Qué
 
 Haz un calendario de 8 semanas con tus fechas de cobro. Usa un color para lo confirmado y otro para lo estimado.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Centro de impuestos de la economía de plataformas** (IRS; idioma: EN/ES): https://www.irs.gov/businesses/gig-economy-tax-center
+
 **Palabras clave:** *Periodicidad:* cada cuánto recibes dinero. *Cada dos semanas:* 26 pagos al año. *Dos veces al mes:* 24 pagos al año. *Escenarios:* versiones posibles de tu futuro para probar tu plan.
 
 ---
@@ -412,6 +440,13 @@ El recibo muestra 36 horas a 20 dólares y un neto de 600. Tu registro dice 40 h
 
 Crea una carpeta de recibos de pago y un registro de horas. Anota una pregunta sobre una prestación que no entiendas.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Salarios y reclamos laborales (Comisionado Laboral)** (DIR de California; idioma: EN/ES): https://www.dir.ca.gov/dlse/
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+
 **Palabras clave:** *Ingreso bruto:* antes de descuentos. *Ingreso neto:* después de descuentos. *Retención:* dinero que se descuenta y se envía, por ejemplo, como anticipo de impuestos. *Aportación del empleador:* dinero que el empleador pone en tu plan de retiro.
 
 **Fuentes:** [S11] DIR, Know Your Rights.
@@ -482,6 +517,13 @@ Paquete A: 12 piezas por 9 dólares. Paquete B: 20 piezas por 14. Solo usarás 1
 ### A tu plan
 
 Elige un gasto para reducir, uno para cancelar y uno para conservar, y escribe por qué.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
 
 **Palabras clave:** *Gasto hormiga:* gasto pequeño que se repite. *Gasto periódico:* pago que se repite sin ser mensual. *Costo por unidad:* precio entre la cantidad que realmente usas.
 
@@ -567,5 +609,12 @@ Semana 1: saldo inicial 150, entradas 500, salidas 580. Semana 2: entradas 500, 
 ### A tu plan
 
 Completa 8 semanas con fechas reales. Marca cada saldo negativo y la acción que tomarás.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Formas de pagar tus cuentas** (CFPB; idioma: EN; versión ES en la misma serie): https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf
 
 **Palabras clave:** *Flujo de efectivo:* entradas y salidas en el tiempo. *Saldo disponible:* lo que el banco te deja usar hoy; puede no incluir pagos futuros. *Sobregiro:* cuando gastas más de lo que tienes y el banco lo cubre con un cargo. *Fecha de vencimiento:* el último día para pagar.

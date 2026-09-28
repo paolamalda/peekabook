@@ -4,7 +4,7 @@
 
 You do not need to know anything about finance to begin. Each lesson starts with an everyday situation, explains technical words when they appear and ends with an action you can take this week.
 
-Version 2.0 · English edition · September 2026. A Spanish edition with the same content is available.
+Version 2.1 · English edition · September 2026. A Spanish edition with the same content is available.
 
 [[TOC]]
 

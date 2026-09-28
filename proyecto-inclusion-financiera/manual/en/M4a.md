@@ -70,6 +70,14 @@ A message says your bank will close your account in 20 minutes if you do not pro
 
 Write your pause rule (for example, "I never pay or give codes on the first call") and two contacts for verifying.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **FTC consumer advice** (FTC; language: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Report fraud** (FTC; language: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+- **Scams against immigrants** (FTC; language: EN/ES): https://consumer.ftc.gov/features/scams-against-immigrants
+
 **Key words:** *Scam:* deception to get money or information. *Phishing:* fake messages or pages that ask for information. *Independent verification:* confirming through a channel you found yourself.
 
 **Sources:** [S22] FTC, IdentityTheft.gov.
@@ -156,6 +164,15 @@ Write three questions to ask before hiring help with an immigration matter.
 
 Save the contact for an organization with accredited representatives or a certified legal service near you.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **How to avoid immigration scams and get real help** (FTC; language: EN/ES): https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help
+- **Recognized organizations and accredited representatives roster** (DOJ EOIR; language: EN): https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city
+- **Find a lawyer and referral services** (State Bar of California; language: EN/ES): https://www.calbar.ca.gov
+- **Resources for immigrant communities** (Procuraduría General de California; language: EN/ES): https://oag.ca.gov/immigrant
+
 **Key words:** *Notary public:* a person who certifies signatures; not a lawyer. *Accredited representative:* a person authorized by the DOJ to give immigration advice at a recognized organization. *Immigration consultant:* can do non-legal tasks if registered.
 
 **Sources:** [R23] State Bar of California · [R37] California Secretary of State, immigration consultants · [R38] DOJ EOIR, accredited representatives · [R47] California Attorney General, immigration services fraud · [R51] FTC, ReportFraud.
@@ -221,6 +238,13 @@ An account can ask for a second check besides the password (**multifactor authen
 ### For your plan
 
 Complete your five-control checklist and your plan if you lose your phone. The course reviews your plan, never your passwords.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **FTC consumer advice** (FTC; language: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Identity theft: report and recovery plan** (FTC; language: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
 
 **Key words:** *Multifactor authentication:* a second check besides the password. *Remote access:* controlling a device from a distance. *Credentials:* username and password.
 
@@ -288,6 +312,14 @@ If there is immediate physical danger, call 911. Course questions are not an eme
 
 Prepare an incident sheet and a list of official contacts (without full account numbers).
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Identity theft: report and recovery plan** (FTC; language: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
+- **Credit reports and scores** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
+- **Report fraud** (FTC; language: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+
 **Key words:** *Identity theft:* using your information to impersonate you. *Credit freeze:* stops new accounts from being opened in your name. *Reference number:* tracking number.
 
 **Sources:** [S22] FTC, IdentityTheft.gov · [R09] CFPB, credit freeze.
@@ -348,6 +380,13 @@ A disagreement about spending is not automatically abuse. What is worrying is a 
 
 You can complete this lesson with a made-up case. No personal story or proof is requested.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **National Domestic Violence Hotline** (The Hotline; language: EN/ES): https://www.thehotline.org
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+
 **Key words:** *Economic abuse:* control over another person's resources or economic decisions. *Autonomy:* being able to decide about your own money.
 
 ---
@@ -407,5 +446,12 @@ They can be in the same account, but write down how much is for each. Do not cou
 ### For your plan
 
 Define your first stage, where you will keep it, when you will use it and how you will rebuild it. No amount is required to pass.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
 
 **Key words:** *Emergency fund:* money for the unexpected. *Sinking fund:* money for known payments. *Liquidity:* how quickly you can use a resource.

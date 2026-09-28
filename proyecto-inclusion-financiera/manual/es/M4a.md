@@ -70,6 +70,14 @@ Un mensaje dice que tu banco cerrará la cuenta en 20 minutos si no entregas un 
 
 Escribe tu regla de pausa (por ejemplo, "nunca pago ni doy códigos en la primera llamada") y dos contactos de verificación.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Consejos para consumidores en español** (FTC; idioma: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Reportar un fraude** (FTC; idioma: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+- **Estafas contra inmigrantes** (FTC; idioma: EN/ES): https://consumer.ftc.gov/features/scams-against-immigrants
+
 **Palabras clave:** *Estafa:* engaño para obtener dinero o datos. *Phishing:* mensajes o páginas falsas que piden datos. *Verificación independiente:* confirmar por un canal que tú buscaste.
 
 **Fuentes:** [S22] FTC, IdentityTheft.gov.
@@ -156,6 +164,15 @@ Escribe tres preguntas para hacer antes de contratar ayuda para un trámite migr
 
 Guarda el contacto de una organización con representantes acreditados o un servicio legal certificado cerca de ti.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Cómo evitar estafas de inmigración y obtener ayuda real** (FTC; idioma: EN/ES): https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help
+- **Lista oficial de representantes acreditados** (DOJ EOIR; idioma: EN): https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city
+- **Buscar abogado y servicios de referencia** (State Bar of California; idioma: EN/ES): https://www.calbar.ca.gov
+- **Recursos para comunidades inmigrantes** (Procuraduría General de California; idioma: EN/ES): https://oag.ca.gov/immigrant
+
 **Palabras clave:** *Notary public:* persona que certifica firmas; no es abogado. *Representante acreditado:* persona autorizada por el DOJ para dar asesoría migratoria en una organización reconocida. *Consultor de inmigración:* puede hacer tareas no legales si está registrado.
 
 **Fuentes:** [R23] State Bar de California · [R37] Secretaría de Estado de California, consultores de inmigración · [R38] DOJ EOIR, representantes acreditados · [R47] Procuraduría General de California, fraude migratorio · [R51] FTC, ReportFraud.
@@ -221,6 +238,13 @@ Una cuenta puede pedir una segunda comprobación además de la contraseña (**au
 ### A tu plan
 
 Completa tu lista de cinco controles y tu plan si pierdes el teléfono. El curso revisa tu plan, nunca tus contraseñas.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Consejos para consumidores en español** (FTC; idioma: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Robo de identidad: reportar y plan de recuperación** (FTC; idioma: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
 
 **Palabras clave:** *Autenticación de varios pasos:* segunda comprobación además de la contraseña. *Acceso remoto:* controlar un dispositivo a distancia. *Credenciales:* usuario y contraseña.
 
@@ -288,6 +312,14 @@ Si hay peligro físico inmediato, llama al 911. Las preguntas del curso no son u
 
 Prepara una hoja de incidentes y una lista de contactos oficiales (sin números de cuenta completos).
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Robo de identidad: reportar y plan de recuperación** (FTC; idioma: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
+- **Reportes y puntajes de crédito** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
+- **Reportar un fraude** (FTC; idioma: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+
 **Palabras clave:** *Robo de identidad:* uso de tus datos para suplantarte. *Congelamiento de crédito:* impide abrir nuevas cuentas a tu nombre. *Folio:* número de seguimiento.
 
 **Fuentes:** [S22] FTC, IdentityTheft.gov · [R09] CFPB, congelamiento de crédito.
@@ -348,6 +380,13 @@ Un desacuerdo sobre gastos no es automáticamente abuso. Lo que preocupa es el *
 
 Puedes resolver esta lección con un caso inventado. No se pide relato personal ni pruebas.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Línea Nacional contra la Violencia Doméstica** (The Hotline; idioma: EN/ES): https://www.thehotline.org
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+
 **Palabras clave:** *Abuso económico:* control de los recursos o decisiones económicas de otra persona. *Autonomía:* poder decidir sobre tu propio dinero.
 
 ---
@@ -407,5 +446,12 @@ Pueden estar en la misma cuenta, pero anota cuánto es para cada una. No cuentes
 ### A tu plan
 
 Define tu primera etapa, dónde la guardarás, cuándo la usarás y cómo la repondrás. No se exige una cantidad para aprobar.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
 
 **Palabras clave:** *Fondo de emergencia:* dinero para imprevistos. *Reserva para gastos previstos:* dinero para pagos conocidos. *Liquidez:* qué tan rápido puedes usar un recurso.

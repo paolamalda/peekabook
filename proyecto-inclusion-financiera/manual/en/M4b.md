@@ -67,6 +67,13 @@ B costs 360 more a year but lowers the deductible by 1,000. Which is better depe
 
 Write down your risks, what you already have covered, what is missing and a question for a licensed agent.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Insurance guides and complaints** (Departamento de Seguros de California; language: EN/ES): https://www.insurance.ca.gov
+- **Covered California health plans** (Covered California; language: EN/ES): https://www.coveredca.com
+
 **Key words:** *Premium:* what you pay for insurance. *Deductible:* what you pay before the insurance pays. *Coinsurance:* the percentage you pay after the deductible. *Exclusion:* what is not covered.
 
 **Sources:** [S21] CDI · [R10] DMV, insurance requirements · [R11] FTB, health coverage mandate.
@@ -129,6 +136,14 @@ One document can explain how your insurance processed a visit (**explanation of 
 
 Keep the contacts for your plan, your doctors and the regulator. Ask for the financial assistance policy of the nearest hospital.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Hospital Fair Billing Program** (HCAI de California; language: EN): https://hcai.ca.gov/affordability/hospital-fair-billing-program/
+- **File a complaint about your health plan** (DMHC; language: EN/ES): https://www.dmhc.ca.gov/FileaComplaint.aspx
+- **Medi-Cal** (DHCS de California; language: EN/ES): https://www.dhcs.ca.gov
+
 **Key words:** *Explanation of benefits:* summary of how a visit was processed. *Financial assistance:* a discount or free care based on income. *DMHC:* regulator of certain health plans in California.
 
 **Sources:** [R12] DMHC · [R52] California HCAI, hospital fair billing.
@@ -188,6 +203,13 @@ A disruption can take away income and add expenses at the same time.
 ### For your plan
 
 List six parts of your continuity folder and who knows where it is.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Prepare for emergencies** (Ready.gov; language: ES (EN: ready.gov)): https://www.ready.gov/es
+- **Insurance guides and complaints** (Departamento de Seguros de California; language: EN/ES): https://www.insurance.ca.gov
 
 **Key words:** *Contingency plan:* steps prepared to respond to a problem. *Inventory of belongings:* a list with photos of your things.
 
@@ -259,6 +281,14 @@ A detention, a hospital stay or an emergency trip can separate you from your fam
 
 Complete the five sections of the plan (you can use made-up data for the course). Keep real documents only in your private folder.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Caregiver's Authorization Affidavit** (Tribunales de California; language: EN): https://courts.ca.gov/documents/caregiver.pdf
+- **Recognized organizations and accredited representatives roster** (DOJ EOIR; language: EN): https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city
+- **Prepare for emergencies** (Ready.gov; language: ES (EN: ready.gov)): https://www.ready.gov/es
+
 **Key words:** *Family preparedness plan:* instructions so your family can carry on if you cannot be there. *Caregiver's Authorization Affidavit:* a California document so an adult can handle a minor's school and certain medical matters. *Power of attorney:* a document that authorizes another person to act for you.
 
 **Sources:** [R39] California Courts, caregiver authorization · [R38] DOJ EOIR, accredited representatives.
@@ -315,5 +345,12 @@ A plan that only works for one emergency needs adjusting.
 ### For your plan: submit portfolio E4
 
 Submit: five priority risks, a comparison of two coverages, an incident protocol, the index of your continuity folder and your family preparedness plan, without sensitive data. Your reasoning is assessed, not whether you bought products. Also solve **integrative case E4** at the end of the manual.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Identity theft: report and recovery plan** (FTC; language: ES/EN (robodeidentidad.gov)): https://www.identitytheft.gov
+- **Prepare for emergencies** (Ready.gov; language: ES (EN: ready.gov)): https://www.ready.gov/es
 
 **Key words:** *Gap:* the difference between your risk and your protection. *Drill:* practicing a made-up situation.

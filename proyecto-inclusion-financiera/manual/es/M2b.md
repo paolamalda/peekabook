@@ -62,6 +62,13 @@ Si tu próximo cobro llega tres días después de la renta, ¿basta con que el m
 
 Escribe tu rango habitual, las fechas de envío y qué te hará revisar el acuerdo.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+
 **Palabras clave:** *Capacidad de envío:* lo que puedes enviar sin descuidar tus compromisos. *Rango:* monto mínimo y máximo acordado.
 
 ---
@@ -138,6 +145,14 @@ Un envío gravado por el impuesto de 1% es de 300 dólares y la comisión es de 
 
 Compara tres cotizaciones del mismo día con la misma base y el mismo tiempo de entrega.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Remesas: compara envíos (Remesamex)** (CONDUSEF; idioma: ES): https://www.condusef.gob.mx/?p=remesas
+- **Precios de remesas en el mundo** (Banco Mundial; idioma: EN): https://remittanceprices.worldbank.org
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+
 **Palabras clave:** *Tipo de cambio:* pesos que recibes por cada dólar. *Margen cambiario:* diferencia entre la tasa de referencia y la ofrecida. *Cotización:* condiciones ofrecidas para un momento y monto.
 
 **Fuentes:** [R04] IRS, impuesto a remesas · [R49] CONDUSEF, Remesamex · [R50] Banco Mundial, precios de remesas.
@@ -206,6 +221,14 @@ Redacta tu registro de incidencia para un envío que no llegó en la fecha prome
 
 Crea tu ficha de seguimiento de remesas: proveedor, licencia verificada, folio, fecha, problema, petición y respuesta.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Directorio de remesadoras con licencia en California** (DFPI; idioma: EN): https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/
+- **Verificar licencias de empresas financieras** (NMLS Consumer Access; idioma: EN): https://www.nmlsconsumeraccess.org
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+
 **Palabras clave:** *Recibo de remesa:* comprobante con los datos del envío. *Folio:* número de seguimiento. *DFPI:* regulador financiero de California. *NMLS:* registro nacional de licencias de empresas financieras.
 
 **Fuentes:** [S17] CFPB, derechos en remesas · [R40] DFPI, buscador de licencias · [R41] NMLS Consumer Access.
@@ -267,6 +290,13 @@ Recibes 300 prestados y debes devolver 345 en 30 días; además pagas 5 por el e
 ### A tu plan
 
 Escribe qué harías en una emergencia antes de pedir prestado (tres opciones en orden).
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
 
 **Palabras clave:** *Adelanto de efectivo:* retiro de dinero con tarjeta de crédito, normalmente más caro. *Refinanciar o renovar:* cambiar una deuda por otra con nuevas condiciones. *APR:* costo anual de un crédito.
 
@@ -338,6 +368,13 @@ Redacta un acuerdo con propósito, rango, fecha, emergencia, verificación y rev
 
 Guarda tu acuerdo de forma privada y prepara una versión para los meses de menor ingreso.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Consejos para consumidores en español** (FTC; idioma: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Reportar un fraude** (FTC; idioma: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+
 **Palabras clave:** *Acuerdo familiar:* lo que ambas partes entienden y aceptan sobre el apoyo. *Verificación independiente:* confirmar por un canal que ya conocías.
 
 ---
@@ -403,6 +440,13 @@ Envías dinero para un terreno a nombre de otra persona. ¿Qué falta aclarar?
 
 Elige una meta binacional y registra lo confirmado, lo pendiente y el profesional que necesitas.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Remesas: compara envíos (Remesamex)** (CONDUSEF; idioma: ES): https://www.condusef.gob.mx/?p=remesas
+- **Guías para recién llegados: cómo manejar el dinero** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
+
 **Palabras clave:** *Escenarios:* versiones posibles del futuro para probar tu plan. *Beneficiario:* quien recibe el beneficio. *Titularidad:* a nombre de quién está algo.
 
 ---
@@ -457,5 +501,13 @@ Elegir una cuenta y elegir cómo enviar son decisiones conectadas.
 ### A tu plan: entrega del expediente E2
 
 Entrega: mapa de instituciones, comparación de cuentas, tres cotizaciones de envío, calendario de envíos, acuerdo familiar y protocolo de emergencia. Indica qué cifras son simuladas y no incluyas datos del receptor. Resuelve también el **caso integrador E2** al final del manual.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Guías para recién llegados: cómo manejar el dinero** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
+- **Cuentas certificadas Bank On** (CFE Fund; idioma: EN/ES): https://joinbankon.org
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
 
 **Palabras clave:** *Evidencia:* registro que muestra lo que hiciste. *Prueba de estrés:* revisar tu plan con condiciones peores.

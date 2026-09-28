@@ -77,6 +77,13 @@ Using Case 1 with the reduced income, write three adjustments and how much each 
 
 Build your usual budget and one with 20% less income. Write one immediate change, one conversation and one source of help.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+
 **Key words:** *Budget:* a plan for where your money goes. *Deficit:* when what you need is more than what you have. *Emergency fund:* money set aside for the unexpected. *Sinking fund:* money set aside for a known payment.
 
 **Sources:** [S04] CFPB, Your Money, Your Goals.
@@ -152,6 +159,14 @@ Calculated tax 1,400; prepayments 1,100. What is the result? And if prepayments 
 
 Write down the tax year, your documents, the dates you verified and your unanswered questions.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **IRS in Spanish** (IRS; language: ES): https://www.irs.gov/es
+- **How to apply for an ITIN** (IRS; language: EN/ES): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin
+- **Free tax help in California** (FTB; language: EN): https://www.ftb.ca.gov/help/free-tax-help/index.html
+
 **Key words:** *Tax return:* a document that reports your information and calculates your tax. *Refund:* money returned when you paid too much. *Withholding:* tax prepayment taken from your pay. *Deduction:* lowers the income your tax is based on. *Tax credit:* lowers the tax. *ITIN:* IRS tax number for people who cannot get an SSN.
 
 **Sources:** [S12] IRS, ITIN · [R06] IRS, deadlines and extensions.
@@ -226,6 +241,13 @@ Receipts 1,000; case costs 250; transfer to your personal account 500. What is t
 
 Prepare folders for income, expenses, health, family and notices from the IRS or FTB. If you have property or income in another country, write that question down for your preparer.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Gig Economy Tax Center** (IRS; language: EN/ES): https://www.irs.gov/businesses/gig-economy-tax-center
+- **Self-Employed Individuals Tax Center** (IRS; language: EN/ES): https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center
+
 **Key words:** *Business receipts:* what you collect before costs. *Business cost:* what you spend to work or sell. *Estimated payments:* tax prepayments during the year. *Form 1099:* reports certain payments received. *W-2:* annual summary of wages and withholding.
 
 **Sources:** [S13] IRS, gig economy · [R05] IRS, Publication 505 · [R27] IRS, self-employed individuals.
@@ -293,6 +315,16 @@ Write three questions to bring to your VITA appointment if you file with an ITIN
 ### For your plan
 
 Find the nearest VITA site and write down its hours, language and the documents it asks for.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **How to apply for an ITIN** (IRS; language: EN/ES): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin
+- **ITIN acceptance agents locator** (IRS; language: EN): https://www.irs.gov/tin/itin/itin-acceptance-agents
+- **California Earned Income Tax Credit (CalEITC)** (FTB; language: EN/ES): https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html
+- **Young Child Tax Credit (YCTC)** (FTB; language: ES (EN available)): https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit-es.html
+- **Free tax return preparation (VITA and TCE)** (IRS; language: EN/ES): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers
 
 **Key words:** *ITIN:* IRS tax number for people who cannot get an SSN. *CalEITC:* California's earned income tax credit. *Refundable credit:* can give you money even if you owe no tax. *VITA:* free IRS tax help from certified volunteers. *Certifying Acceptance Agent:* a person authorized by the IRS to verify ITIN documents.
 
@@ -378,6 +410,14 @@ A preparer promises "the maximum refund, guaranteed" before seeing your document
 
 Compare two services and one free option. Write down what you confirmed and what is still missing.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Verify a registered tax preparer** (CTEC; language: EN): https://www.ctec.org
+- **Free tax return preparation (VITA and TCE)** (IRS; language: EN/ES): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers
+- **Free tax help in California** (FTB; language: EN): https://www.ftb.ca.gov/help/free-tax-help/index.html
+
 **Key words:** *Scope of service:* the work included in the price. *Credentials:* records that prove training or authorization. *PTIN:* IRS preparer number. *CTEC:* California's tax preparer registry.
 
 **Sources:** [S15] FTB, free help · [S16] FTB, Publication 982 · [R36] CTEC, preparer lookup.
@@ -450,6 +490,14 @@ Write three questions to bring to a legal aid organization before applying for s
 ### For your plan
 
 Write down what support your household needs, who might qualify and where you will confirm your case.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Public charge: does it apply to me?** (Protecting Immigrant Families; language: EN/ES): https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/
+- **Policy Manual: public charge** (USCIS; language: EN): https://www.uscis.gov/policy-manual/volume-8-part-g
+- **Medi-Cal** (DHCS de California; language: EN/ES): https://www.dhcs.ca.gov
 
 **Key words:** *Public charge:* an assessment in certain immigration processes about dependence on government support. *Accredited representative:* a person authorized by the DOJ to give immigration advice at a recognized organization. *CalFresh:* food assistance in California.
 
@@ -524,5 +572,12 @@ Turn "I want to save more" into a doable action for a household that still has a
 ### For your plan: submit portfolio E1
 
 Submit: diagnosis, 8-week calendar, usual budget and lower-income budget, tax checklist and three 90-day actions. What is assessed is consistency and the ability to adjust, not how much money you have. Also solve **integrative case E1** at the end of the manual.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Financial well-being questionnaire and tools** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Key words:** *Checkable goal:* an action with a date and evidence. *Evidence:* a record that shows what you did. *Periodic expense:* a payment that repeats but is not monthly.

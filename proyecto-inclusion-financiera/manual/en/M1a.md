@@ -83,6 +83,13 @@ This month you received: wages of 600, a loan of 200, a transfer between your ac
 
 Make a list with four columns: cash, deposits, belongings and debts. You do not need to share real amounts with the course.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+
 **Key words:** *Asset:* something of value you own. *Liability:* a debt or pending obligation. *Net worth:* assets minus liabilities. *Liquidity:* how quickly you can use a resource without losing value.
 
 **Sources:** [S06] Federal Reserve, money supply.
@@ -175,6 +182,13 @@ You save 1,000 and a year later have 1,030. Prices in your basket rose 5%. Did y
 
 Write down three prices that went up in your home this year and one action that is within your control.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Investing calculators and basics** (SEC Investor.gov; language: EN): https://www.investor.gov
+
 **Key words:** *Inflation:* a general rise in prices. *Purchasing power:* what your money can buy. *Compound interest:* interest also calculated on earlier interest. *Percentage point:* the direct difference between two percentages. *Exchange rate:* the price of one currency in another.
 
 **Sources:** [R24] CFPB, compound interest · [R25] CFPB, APY calculation · [R26] BLS, consumer price index.
@@ -253,6 +267,13 @@ You have 60 available for a goal or a gift. Write two options and their conseque
 ### For your plan
 
 Write your three priorities and a pause rule. You do not need to share personal experiences.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Financial well-being questionnaire and tools** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Key words:** *Priorities:* needs or goals you take care of first. *Opportunity cost:* what you give up when you choose. *Budget:* a plan for where your money goes.
 
@@ -335,6 +356,13 @@ You earn 150 a day, work 18 days and spend 270 on work costs. What is left befor
 
 Make an 8-week calendar with your paydays. Use one color for confirmed income and another for estimated income.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Gig Economy Tax Center** (IRS; language: EN/ES): https://www.irs.gov/businesses/gig-economy-tax-center
+
 **Key words:** *Pay frequency:* how often you receive money. *Biweekly:* 26 payments a year. *Semimonthly:* 24 payments a year. *Scenarios:* possible versions of your future to test your plan.
 
 ---
@@ -412,6 +440,13 @@ The stub shows 36 hours at 20 dollars and net pay of 600. Your record says 40 ho
 
 Create a folder for pay stubs and a record of your hours. Write one question about a benefit you do not understand.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Wages and wage claims (Labor Commissioner)** (DIR de California; language: EN/ES): https://www.dir.ca.gov/dlse/
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+
 **Key words:** *Gross pay:* before deductions. *Net pay:* after deductions. *Withholding:* money deducted and sent, for example as a tax prepayment. *Employer contribution:* money your employer puts into your retirement plan.
 
 **Sources:** [S11] DIR, Know Your Rights.
@@ -482,6 +517,13 @@ Package A: 12 items for 9 dollars. Package B: 20 items for 14. You will only use
 ### For your plan
 
 Choose one expense to reduce, one to cancel and one to keep, and write why.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
 
 **Key words:** *Small recurring expense:* a small expense that repeats. *Periodic expense:* a payment that repeats but is not monthly. *Cost per unit:* price divided by the quantity you actually use.
 
@@ -567,5 +609,12 @@ Week 1: opening balance 150, money in 500, money out 580. Week 2: money in 500, 
 ### For your plan
 
 Fill in 8 weeks with real dates. Mark every negative balance and the action you will take.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Ways to pay your bills** (CFPB; language: EN; Spanish version in the same series): https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf
 
 **Key words:** *Cash flow:* money in and out over time. *Available balance:* what the bank lets you use today; it may not include future payments. *Overdraft:* when you spend more than you have and the bank covers it for a fee. *Due date:* the last day to pay.

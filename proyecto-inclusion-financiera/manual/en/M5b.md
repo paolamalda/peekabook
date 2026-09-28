@@ -55,6 +55,14 @@ Planning for retirement does not start with choosing an investment, but with und
 
 Make your inventory of sources, your questions and a first step. You do not have to contribute to pass.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **my Social Security** (SSA; language: EN/ES): https://www.ssa.gov/myaccount/
+- **CalSavers** (Estado de California; language: EN/ES): https://www.calsavers.com
+- **Investing calculators and basics** (SEC Investor.gov; language: EN): https://www.investor.gov
+
 **Key words:** *Employer match:* what your employer puts in. *Vesting:* conditions for that contribution to become yours. *IRA:* personal retirement account. *CalSavers:* California's retirement program.
 
 **Sources:** [S27] CalSavers · [R53] Social Security, my Social Security.
@@ -112,6 +120,13 @@ Not necessarily. An account, a benefit or a document can have different rules in
 ### For your plan
 
 Make your map by country with what is confirmed, what is missing and who you will ask.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Find your AFORE (e-SAR)** (CONSAR; language: ES): https://www.esar.com.mx/PortalEsar/public/index.do
+- **International social security agreements** (SSA; language: EN): https://www.ssa.gov/international/agreements_overview.html
 
 **Key words:** *Cross-border planning:* organizing money and obligations in more than one country. *AFORE:* retirement fund administrator in Mexico.
 
@@ -175,6 +190,13 @@ The person designated to receive a benefit is a **beneficiary**. Someone who can
 
 Choose five actions: locate a document, check a beneficiary, ask about a power of attorney, agree on a contact or update your index.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+- **Find a lawyer and referral services** (State Bar of California; language: EN/ES): https://www.calbar.ca.gov
+
 **Key words:** *Beneficiary:* the person who receives a benefit. *Power of attorney:* authorizes someone to act for you. *Account owner:* the person who owns an account.
 
 ---
@@ -232,6 +254,13 @@ Cancelling a 15 subscription helps, but leaves a 185 deficit. Small cuts are not
 ### For your plan
 
 Fill in a change sheet with four affected pieces, verified dates and a support contact.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
 
 **Key words:** *Scenario:* a possible version to test your plan. *Cash flow:* money in and out over time.
 
@@ -300,6 +329,14 @@ Mar sells tamales on weekends. She collects 600 a month and spends 250 on ingred
 
 Calculate the real profit of your activity and write down which permit you need to look into in your city.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Get an Employer Identification Number (EIN)** (IRS; language: EN/ES): https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number
+- **Local small business assistance (SBDC)** (SBA; language: EN/ES): https://www.sba.gov/local-assistance
+- **Seller's permits and sales tax** (CDTFA; language: EN/ES): https://www.cdtfa.ca.gov
+
 **Key words:** *EIN:* a business's tax number. *Seller's permit:* registration to collect sales tax. *LLC:* a type of limited liability company.
 
 **Sources:** [R45] IRS, EIN · [R55] CDTFA · [R56] SBA, Small Business Development Centers.
@@ -357,5 +394,12 @@ Explain two decisions with this structure: need, options, information, choice, r
 ### For your plan: final submission
 
 Submit portfolios E1 to E5, sources, assumptions and your follow-up plan. You can use made-up data. You do not have to buy, invest, reduce remittances or post a review to receive your diploma. Also solve **integrative case E5** at the end of the manual.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Financial well-being questionnaire and tools** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Key words:** *Double counting:* using the same money for two things. *Cross-check:* confirming that all parts of the plan add up.

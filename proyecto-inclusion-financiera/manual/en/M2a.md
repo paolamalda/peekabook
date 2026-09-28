@@ -70,6 +70,14 @@ For each financial service you use, write down: brand, responsible entity, funct
 
 Build your services map. A logo is not enough.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+- **Verify an insured bank** (FDIC BankFind; language: EN): https://banks.data.fdic.gov/bankfind-suite/
+
 **Key words:** *Responsible entity:* the company responsible for the service under the contract. *Central bank:* a public institution that does not handle personal accounts. *Fintech:* a company that uses technology for financial services. *Exchange-rate markup:* the difference between a reference rate and the rate you are offered.
 
 **Sources:** [S06] Federal Reserve · [R01] Bank of England, money creation.
@@ -144,6 +152,14 @@ An app says "we work with banks." What four facts do you need to know whether yo
 ### For your plan
 
 Keep the official lookup and its date. Mark what you could not verify.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Verify an insured bank** (FDIC BankFind; language: EN): https://banks.data.fdic.gov/bankfind-suite/
+- **Find an insured credit union** (NCUA; language: EN): https://mapping.ncua.gov
+- **Bank On certified accounts** (CFE Fund; language: EN/ES): https://joinbankon.org
 
 **Key words:** *Deposit insurance:* protects eligible deposits if the institution fails. *Credit union:* a member-owned institution. *Neobank:* a marketing name for mainly digital services; check the bank behind it.
 
@@ -221,6 +237,14 @@ Write the exact question you would ask a bank by phone before going to open an a
 
 Build your document kit: what you have, what is about to expire and what you still need to get.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **AB 60 driver's license** (DMV de California; language: EN/ES): https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/
+- **Mexican consulate appointments (MiConsulado)** (SRE; language: ES): https://citas.sre.gob.mx
+- **Checklist for opening a bank account** (CFPB; language: EN; Spanish version in the same series): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf
+
 **Key words:** *Consular ID:* identification issued by the Mexican consulate. *AB 60:* California driver's license for people who cannot prove lawful presence. *REAL ID:* identification valid for federal purposes.
 
 **Sources:** [R14] Wells Fargo, identification · [R42] California DMV, AB 60.
@@ -295,6 +319,14 @@ You use cash every week. What should you compare besides the monthly fee?
 ### For your plan
 
 Fill in the comparison sheet for two accounts. You do not need to open one to pass.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Bank On certified accounts** (CFE Fund; language: EN/ES): https://joinbankon.org
+- **Checklist for opening a bank account** (CFPB; language: EN; Spanish version in the same series): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf
+- **Newcomer's guides to managing money** (CFPB; language: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
 
 **Key words:** *Maintenance fee:* monthly charge for having the account. *Checking account:* for frequent use. *Savings account:* for saving. *Bank On:* national standard for low-cost accounts.
 
@@ -371,6 +403,13 @@ Your own record: opening 300, deposit 500, purchases of 120 and 80, scheduled pa
 
 Set up useful alerts and a weekly review. Never share passwords or codes.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Ways to pay your bills** (CFPB; language: EN; Spanish version in the same series): https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
+
 **Key words:** *Available balance:* what the bank lets you use today. *Reconcile:* compare your record with the bank's. *Dispute:* a request to review an incorrect charge. *ACH:* electronic transfer network between banks.
 
 ---
@@ -437,5 +476,12 @@ Your family asks for 200 a month for food, 120 at the start of school and 400 fo
 ### For your plan
 
 Make a map: person, purpose, frequency and range. You can use made-up names.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **Compare remittances (Remesamex)** (CONDUSEF; language: ES): https://www.condusef.gob.mx/?p=remesas
 
 **Key words:** *Remittance:* money sent to another person or country. *Exchange rate:* the price of one currency in another. *Priorities:* what you take care of first.

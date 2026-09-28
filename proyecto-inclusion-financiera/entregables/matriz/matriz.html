@@ -1,0 +1,100 @@
+<title>Matriz comparativa</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1d2a26;--mute:#5c6b66;--line:#dfe3df;--acc:#1f5c4a;--accs:#eaf2ee;--warn:#fff4d6;--warnk:#7a5a00}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141a18;--card:#1c2421;--ink:#e6ece9;--mute:#9aaaa4;--line:#2e3935;--acc:#6fc2a4;--accs:#20322b;--warn:#3a321b;--warnk:#f0d48a}}
+:root[data-theme="dark"]{--bg:#141a18;--card:#1c2421;--ink:#e6ece9;--mute:#9aaaa4;--line:#2e3935;--acc:#6fc2a4;--accs:#20322b;--warn:#3a321b;--warnk:#f0d48a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.5rem;margin:0 0 4px}p.sub{color:var(--mute);margin:0 0 14px}
+.note{background:var(--accs);border-radius:10px;padding:10px 14px;margin:0 0 16px;font-size:.9rem}
+.note li{margin:2px 0}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:8px;margin-bottom:10px}
+input,select,textarea{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:6px 0 12px;color:var(--mute);font-size:.9rem}
+button{font:inherit;border:1px solid var(--acc);background:var(--acc);color:#fff;border-radius:8px;padding:7px 12px;cursor:pointer}
+button.ghost{background:transparent;color:var(--acc)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:6px}
+.card.pc{border-left:4px solid var(--warnk)}
+.top{display:flex;justify-content:space-between;gap:8px;align-items:start}
+.card h3{margin:0;font-size:1.02rem}
+.tag{font-size:.75rem;background:var(--accs);color:var(--acc);border-radius:99px;padding:2px 8px;white-space:nowrap}
+.tag.w{background:var(--warn);color:var(--warnk)}
+dl{margin:0;display:grid;grid-template-columns:110px 1fr;gap:3px 8px;font-size:.88rem}dt{color:var(--mute)}dd{margin:0}
+.foot{display:flex;justify-content:space-between;align-items:center;font-size:.8rem;color:var(--mute);margin-top:4px;gap:8px}
+a{color:var(--acc)}
+dialog{border:none;border-radius:12px;padding:0;max-width:640px;width:calc(100% - 32px);background:var(--card);color:var(--ink)}
+dialog form{padding:18px;display:grid;gap:8px}dialog label{font-size:.85rem;color:var(--mute)}
+.row{display:flex;gap:8px;justify-content:flex-end;margin-top:6px}
+.empty{padding:30px;text-align:center;color:var(--mute)}
+</style>
+<div class="wrap">
+<h1>Matriz comparativa de productos financieros</h1>
+<p class="sub">Para personas migrantes en California. Bancos, cooperativas, neobancos, remesadoras, crédito y tarjetas prepagadas.</p>
+<ul class="note">
+<li>Desde el 1 de enero de 2026 hay un impuesto federal de 1% en remesas pagadas con efectivo, giro o cheque de caja. Si pagas desde cuenta bancaria o tarjeta, no aplica.</li>
+<li>Los costos cambian. Antes de usar un producto, confirma en la página oficial o en sucursal. Las tarjetas con borde amarillo están por confirmar.</li>
+<li>El programa no recomienda productos ni recibe pagos de ellos.</li>
+</ul>
+<div class="filters">
+<input id="q" type="search" placeholder="Buscar producto o palabra" aria-label="Buscar">
+<select id="cat" aria-label="Categoría"><option value="">Todas las categorías</option></select>
+<select id="doc" aria-label="Documentos"><option value="">Cualquier documento</option><option value="nossn">No pide SSN</option><option value="itin">Acepta ITIN</option><option value="mat">Acepta matrícula o ID extranjera</option></select>
+<select id="cash" aria-label="Efectivo"><option value="">Con o sin efectivo</option><option value="si">Acepta efectivo</option></select>
+<select id="est" aria-label="Estado"><option value="">Todos los estados</option><option value="verificado">Verificado</option><option value="por confirmar">Por confirmar</option></select>
+</div>
+<div class="bar"><span id="count">Cargando…</span><span id="tools"></span></div>
+<div id="grid" class="grid"></div>
+</div>
+<dialog id="dlg"><form id="frm" method="dialog"></form></dialog>
+<script>
+const F=[["nombre","Producto"],["categoria","Categoría"],["costo_mensual","Costo mensual"],["costos_clave","Costos clave"],["identificacion","Identificación"],["ssn_itin","SSN / ITIN"],["efectivo","Efectivo"],["cobertura","Cobertura"],["ventaja","Ventaja"],["cuidado","Cuidado"],["fuente","Fuente (URL)"],["fecha","Verificado (AAAA-MM-DD)"],["estado","Estado"]];
+const SHOW=[["costo_mensual","Costo mensual"],["costos_clave","Costos clave"],["identificacion","Identificación"],["ssn_itin","SSN / ITIN"],["efectivo","Efectivo"],["cobertura","Cobertura"],["ventaja","Ventaja"],["cuidado","Cuidado"]];
+let rows=[],db=null,editor=false;
+const $=id=>document.getElementById(id);
+const el=(t,p={},...k)=>{const e=document.createElement(t);Object.assign(e,p);k.forEach(c=>e.append(c));return e};
+function match(r){
+ const q=$("q").value.trim().toLowerCase(),s=(r.ssn_itin||"").toLowerCase(),id=(r.identificacion||"").toLowerCase();
+ if(q&&!Object.values(r).join(" ").toLowerCase().includes(q))return false;
+ if($("cat").value&&r.categoria!==$("cat").value)return false;
+ if($("est").value&&r.estado!==$("est").value)return false;
+ const d=$("doc").value;
+ if(d==="nossn"&&!/no requiere ssn|sin ssn|no pide ssn|id extranjera/.test(s))return false;
+ if(d==="itin"&&!/itin|tin/.test(s)||d==="itin"&&/itin no|itin por confirmar|confirmar itin|itin no claro/.test(s))return false;
+ if(d==="mat"&&!/matrícula|id extranjera|id alternativa|id nacional/.test(id+" "+s))return false;
+ if($("cash").value==="si"&&!/^(sí|gratis|en tiendas|en walmart|walgreens|pago en|\d)/i.test(r.efectivo||""))return false;
+ return true}
+function render(){
+ const g=$("grid");g.replaceChildren();const list=rows.filter(match);
+ $("count").textContent=`${list.length} de ${rows.length} productos`;
+ if(!rows.length){g.append(el("div",{className:"empty",textContent:db?"Aún no hay productos cargados.":"No se pudo cargar la matriz en esta vista."}));return}
+ list.forEach(r=>{
+  const pc=r.estado!=="verificado",c=el("article",{className:"card"+(pc?" pc":"")});
+  c.append(el("div",{className:"top"},el("h3",{textContent:r.nombre}),el("span",{className:"tag"+(pc?" w":""),textContent:r.categoria})));
+  const dl=el("dl");SHOW.forEach(([k,l])=>{if(r[k])dl.append(el("dt",{textContent:l}),el("dd",{textContent:r[k]}))});c.append(dl);
+  const f=el("div",{className:"foot"});const left=el("span",{textContent:`${r.estado||""} · ${r.fecha||""} · `});
+  if(/^https:\/\//.test(r.fuente||""))left.append(el("a",{href:r.fuente,target:"_blank",rel:"noopener",textContent:"fuente"}));
+  f.append(left);if(editor)f.append(el("button",{className:"ghost",textContent:"Editar",onclick:()=>edit(r)}));
+  c.append(f);g.append(c)})}
+function fillCats(){const s=$("cat"),v=s.value;s.replaceChildren(el("option",{value:"",textContent:"Todas las categorías"}));
+ [...new Set(rows.map(r=>r.categoria))].sort().forEach(c=>s.append(el("option",{value:c,textContent:c})));s.value=v}
+function edit(r){
+ const f=$("frm");f.replaceChildren(el("h3",{textContent:r?"Editar producto":"Nuevo producto"}));const inp={};
+ F.forEach(([k,l])=>{const i=k==="estado"?el("select",{},el("option",{value:"verificado",textContent:"verificado"}),el("option",{value:"por confirmar",textContent:"por confirmar"})):el(/clave|ventaja|cuidado/.test(k)?"textarea":"input",{rows:2});
+  i.value=r?.[k]||(k==="fecha"?new Date().toISOString().slice(0,10):"");inp[k]=i;f.append(el("label",{textContent:l},i))});
+ const msg=el("span");
+ f.append(el("div",{className:"row"},msg,el("button",{type:"button",className:"ghost",textContent:"Cancelar",onclick:()=>$("dlg").close()}),el("button",{type:"button",textContent:"Guardar",onclick:async()=>{
+  const d={};F.forEach(([k])=>d[k]=inp[k].value.trim());if(!d.nombre){msg.textContent="Falta el nombre";return}
+  const id=r?.id||"P"+Date.now().toString(36);
+  try{await db.doc("productos/"+id).set({...d,id});$("dlg").close()}catch(e){msg.textContent="No se pudo guardar: "+(e.code||e.message)}}})));
+ $("dlg").showModal()}
+["q","cat","doc","cash","est"].forEach(i=>$(i).addEventListener("input",render));
+render();
+(async()=>{
+ db=await claude.use("db");const user=await claude.use("user");
+ if(!db){render();return}
+ editor=user?await user.canEdit():false;
+ if(editor)$("tools").append(el("button",{textContent:"Agregar producto",onclick:()=>edit(null)}));
+ db.collection("productos").orderBy("nombre").onSnapshot(s=>{rows=s.docs.map(d=>({id:d.id,...d.data()}));fillCats();render()},e=>{$("count").textContent="Error al cargar: "+(e.code||"")});
+})();
+</script>

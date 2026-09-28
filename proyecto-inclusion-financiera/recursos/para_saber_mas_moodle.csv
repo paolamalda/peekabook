@@ -1,0 +1,141 @@
+leccion,id_recurso,nombre_es,nombre_en,organizacion,url,idioma
+M1 U01,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M1 U01,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M1 U02,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M1 U02,INV,Calculadoras e introducción a la inversión,Investing calculators and basics,SEC Investor.gov,https://www.investor.gov,EN
+M1 U03,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U03,CFPBWB,Bienestar financiero: cuestionario y herramientas,Financial well-being questionnaire and tools,CFPB,https://www.consumerfinance.gov/consumer-tools/financial-well-being/,ES/EN
+M1 U04,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U04,GIG,Centro de impuestos de la economía de plataformas,Gig Economy Tax Center,IRS,https://www.irs.gov/businesses/gig-economy-tax-center,EN/ES
+M1 U05,DIR,Salarios y reclamos laborales (Comisionado Laboral),Wages and wage claims (Labor Commissioner),DIR de California,https://www.dir.ca.gov/dlse/,EN/ES
+M1 U05,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M1 U06,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M1 U06,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U07,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U07,PAYBILLS,Formas de pagar tus cuentas,Ways to pay your bills,CFPB,https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf,EN; versión ES en la misma serie
+M1 U08,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U08,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M1 U09,IRSES,IRS en español,IRS in Spanish,IRS,https://www.irs.gov/es,ES
+M1 U09,ITIN,Cómo solicitar un ITIN,How to apply for an ITIN,IRS,https://www.irs.gov/tin/itin/how-to-apply-for-an-itin,EN/ES
+M1 U09,FTBFREE,Ayuda fiscal gratuita en California,Free tax help in California,FTB,https://www.ftb.ca.gov/help/free-tax-help/index.html,EN
+M1 U10,GIG,Centro de impuestos de la economía de plataformas,Gig Economy Tax Center,IRS,https://www.irs.gov/businesses/gig-economy-tax-center,EN/ES
+M1 U10,SE,Centro para trabajadores por cuenta propia,Self-Employed Individuals Tax Center,IRS,https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center,EN/ES
+M1 U11,ITIN,Cómo solicitar un ITIN,How to apply for an ITIN,IRS,https://www.irs.gov/tin/itin/how-to-apply-for-an-itin,EN/ES
+M1 U11,CAA,Buscador de agentes certificadores (ITIN),ITIN acceptance agents locator,IRS,https://www.irs.gov/tin/itin/itin-acceptance-agents,EN
+M1 U11,CALEITC,CalEITC: crédito por ingreso del trabajo de California,California Earned Income Tax Credit (CalEITC),FTB,https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html,EN/ES
+M1 U11,YCTC,Crédito tributario por hijos menores (YCTC),Young Child Tax Credit (YCTC),FTB,https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit-es.html,ES (EN disponible)
+M1 U11,VITA,Preparación gratuita de impuestos (VITA y TCE),Free tax return preparation (VITA and TCE),IRS,https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers,EN/ES
+M1 U12,CTEC,Verificar a un preparador registrado,Verify a registered tax preparer,CTEC,https://www.ctec.org,EN
+M1 U12,VITA,Preparación gratuita de impuestos (VITA y TCE),Free tax return preparation (VITA and TCE),IRS,https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers,EN/ES
+M1 U12,FTBFREE,Ayuda fiscal gratuita en California,Free tax help in California,FTB,https://www.ftb.ca.gov/help/free-tax-help/index.html,EN
+M1 U13,PIF,Carga pública: ¿aplica a mí?,Public charge: does it apply to me?,Protecting Immigrant Families,https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/,EN/ES
+M1 U13,USCISPC,Manual de políticas: carga pública,Policy Manual: public charge,USCIS,https://www.uscis.gov/policy-manual/volume-8-part-g,EN
+M1 U13,DHCS,Medi-Cal,Medi-Cal,DHCS de California,https://www.dhcs.ca.gov,EN/ES
+M1 U14,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M1 U14,CFPBWB,Bienestar financiero: cuestionario y herramientas,Financial well-being questionnaire and tools,CFPB,https://www.consumerfinance.gov/consumer-tools/financial-well-being/,ES/EN
+M2 U01,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M2 U01,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M2 U01,BANKFIND,Verificar un banco asegurado,Verify an insured bank,FDIC BankFind,https://banks.data.fdic.gov/bankfind-suite/,EN
+M2 U02,BANKFIND,Verificar un banco asegurado,Verify an insured bank,FDIC BankFind,https://banks.data.fdic.gov/bankfind-suite/,EN
+M2 U02,NCUA,Buscar una cooperativa asegurada,Find an insured credit union,NCUA,https://mapping.ncua.gov,EN
+M2 U02,BANKON,Cuentas certificadas Bank On,Bank On certified accounts,CFE Fund,https://joinbankon.org,EN/ES
+M2 U03,AB60,Licencia de conducir AB 60,AB 60 driver's license,DMV de California,https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/,EN/ES
+M2 U03,MICON,Citas en consulados de México (MiConsulado),Mexican consulate appointments (MiConsulado),SRE,https://citas.sre.gob.mx,ES
+M2 U03,CHECK,Lista para abrir una cuenta bancaria,Checklist for opening a bank account,CFPB,https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf,EN; versión ES en la misma serie
+M2 U04,BANKON,Cuentas certificadas Bank On,Bank On certified accounts,CFE Fund,https://joinbankon.org,EN/ES
+M2 U04,CHECK,Lista para abrir una cuenta bancaria,Checklist for opening a bank account,CFPB,https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf,EN; versión ES en la misma serie
+M2 U04,NEWC,Guías para recién llegados: cómo manejar el dinero,Newcomer's guides to managing money,CFPB,https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/,ES/EN
+M2 U05,PAYBILLS,Formas de pagar tus cuentas,Ways to pay your bills,CFPB,https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf,EN; versión ES en la misma serie
+M2 U05,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M2 U06,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M2 U06,CONDUSEF,Remesas: compara envíos (Remesamex),Compare remittances (Remesamex),CONDUSEF,https://www.condusef.gob.mx/?p=remesas,ES
+M2 U07,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M2 U07,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M2 U08,CONDUSEF,Remesas: compara envíos (Remesamex),Compare remittances (Remesamex),CONDUSEF,https://www.condusef.gob.mx/?p=remesas,ES
+M2 U08,WB,Precios de remesas en el mundo,Remittance Prices Worldwide,Banco Mundial,https://remittanceprices.worldbank.org,EN
+M2 U08,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M2 U09,DFPI,Directorio de remesadoras con licencia en California,Directory of licensed money transmitters in California,DFPI,https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/,EN
+M2 U09,NMLS,Verificar licencias de empresas financieras,Verify financial company licenses,NMLS Consumer Access,https://www.nmlsconsumeraccess.org,EN
+M2 U09,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M2 U10,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M2 U10,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M2 U11,CONS,Consejos para consumidores en español,FTC consumer advice,FTC,https://consumidor.ftc.gov,ES (EN: consumer.ftc.gov)
+M2 U11,RF,Reportar un fraude,Report fraud,FTC,https://reportefraude.ftc.gov,ES (EN: reportfraud.ftc.gov)
+M2 U12,CONDUSEF,Remesas: compara envíos (Remesamex),Compare remittances (Remesamex),CONDUSEF,https://www.condusef.gob.mx/?p=remesas,ES
+M2 U12,NEWC,Guías para recién llegados: cómo manejar el dinero,Newcomer's guides to managing money,CFPB,https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/,ES/EN
+M2 U13,NEWC,Guías para recién llegados: cómo manejar el dinero,Newcomer's guides to managing money,CFPB,https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/,ES/EN
+M2 U13,BANKON,Cuentas certificadas Bank On,Bank On certified accounts,CFE Fund,https://joinbankon.org,EN/ES
+M2 U13,REMIT,¿Qué es una remesa y cuáles son mis derechos?,What is a remittance transfer and what are my rights?,CFPB,https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/,EN; ES en CFPB en español
+M3 U01,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M3 U01,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M3 U02,ACR,Reportes de crédito gratuitos,Free credit reports,AnnualCreditReport.com,https://www.annualcreditreport.com,EN
+M3 U02,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M3 U03,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M3 U03,MAF,Círculos de préstamo,Lending circles,Mission Asset Fund,https://www.missionassetfund.org/lending-circles/,EN/ES
+M3 U03,NEWC,Guías para recién llegados: cómo manejar el dinero,Newcomer's guides to managing money,CFPB,https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/,ES/EN
+M3 U04,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M3 U04,CONS,Consejos para consumidores en español,FTC consumer advice,FTC,https://consumidor.ftc.gov,ES (EN: consumer.ftc.gov)
+M3 U05,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M3 U05,AUTO,Préstamos para auto,Auto loans,CFPB,https://www.consumerfinance.gov/consumer-tools/auto-loans/,ES/EN
+M3 U06,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M3 U06,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M3 U07,COLL,Cobranza de deudas: tus derechos,Debt collection: your rights,CFPB,https://www.consumerfinance.gov/consumer-tools/debt-collection/,ES/EN
+M3 U07,CALBAR,Buscar abogado y servicios de referencia,Find a lawyer and referral services,State Bar of California,https://www.calbar.ca.gov,EN/ES
+M3 U08,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M3 U08,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M3 U09,MAF,Círculos de préstamo,Lending circles,Mission Asset Fund,https://www.missionassetfund.org/lending-circles/,EN/ES
+M3 U10,ACR,Reportes de crédito gratuitos,Free credit reports,AnnualCreditReport.com,https://www.annualcreditreport.com,EN
+M3 U10,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M4 U01,CONS,Consejos para consumidores en español,FTC consumer advice,FTC,https://consumidor.ftc.gov,ES (EN: consumer.ftc.gov)
+M4 U01,RF,Reportar un fraude,Report fraud,FTC,https://reportefraude.ftc.gov,ES (EN: reportfraud.ftc.gov)
+M4 U01,FTCIMM,Estafas contra inmigrantes,Scams against immigrants,FTC,https://consumer.ftc.gov/features/scams-against-immigrants,EN/ES
+M4 U02,FTCIMM2,Cómo evitar estafas de inmigración y obtener ayuda real,How to avoid immigration scams and get real help,FTC,https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help,EN/ES
+M4 U02,EOIR,Lista oficial de representantes acreditados,Recognized organizations and accredited representatives roster,DOJ EOIR,https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city,EN
+M4 U02,CALBAR,Buscar abogado y servicios de referencia,Find a lawyer and referral services,State Bar of California,https://www.calbar.ca.gov,EN/ES
+M4 U02,CAAG,Recursos para comunidades inmigrantes,Resources for immigrant communities,Procuraduría General de California,https://oag.ca.gov/immigrant,EN/ES
+M4 U03,CONS,Consejos para consumidores en español,FTC consumer advice,FTC,https://consumidor.ftc.gov,ES (EN: consumer.ftc.gov)
+M4 U03,IDT,Robo de identidad: reportar y plan de recuperación,Identity theft: report and recovery plan,FTC,https://www.identitytheft.gov,ES/EN (robodeidentidad.gov)
+M4 U04,IDT,Robo de identidad: reportar y plan de recuperación,Identity theft: report and recovery plan,FTC,https://www.identitytheft.gov,ES/EN (robodeidentidad.gov)
+M4 U04,CRED,Reportes y puntajes de crédito,Credit reports and scores,CFPB,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/,ES/EN
+M4 U04,RF,Reportar un fraude,Report fraud,FTC,https://reportefraude.ftc.gov,ES (EN: reportfraud.ftc.gov)
+M4 U05,HOTLINE,Línea Nacional contra la Violencia Doméstica,National Domestic Violence Hotline,The Hotline,https://www.thehotline.org,EN/ES
+M4 U05,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M4 U06,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M4 U06,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M4 U07,CDI,Guías y quejas de seguros,Insurance guides and complaints,Departamento de Seguros de California,https://www.insurance.ca.gov,EN/ES
+M4 U07,COVERED,Seguros de salud de California,Covered California health plans,Covered California,https://www.coveredca.com,EN/ES
+M4 U08,HCAI,Programa de facturación justa en hospitales,Hospital Fair Billing Program,HCAI de California,https://hcai.ca.gov/affordability/hospital-fair-billing-program/,EN
+M4 U08,DMHC,Presentar una queja sobre tu plan de salud,File a complaint about your health plan,DMHC,https://www.dmhc.ca.gov/FileaComplaint.aspx,EN/ES
+M4 U08,DHCS,Medi-Cal,Medi-Cal,DHCS de California,https://www.dhcs.ca.gov,EN/ES
+M4 U09,READY,Prepárate para emergencias,Prepare for emergencies,Ready.gov,https://www.ready.gov/es,ES (EN: ready.gov)
+M4 U09,CDI,Guías y quejas de seguros,Insurance guides and complaints,Departamento de Seguros de California,https://www.insurance.ca.gov,EN/ES
+M4 U10,CAREG,Declaración Jurada de Autorización del Cuidador,Caregiver's Authorization Affidavit,Tribunales de California,https://courts.ca.gov/documents/caregiver.pdf,EN
+M4 U10,EOIR,Lista oficial de representantes acreditados,Recognized organizations and accredited representatives roster,DOJ EOIR,https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city,EN
+M4 U10,READY,Prepárate para emergencias,Prepare for emergencies,Ready.gov,https://www.ready.gov/es,ES (EN: ready.gov)
+M4 U11,IDT,Robo de identidad: reportar y plan de recuperación,Identity theft: report and recovery plan,FTC,https://www.identitytheft.gov,ES/EN (robodeidentidad.gov)
+M4 U11,READY,Prepárate para emergencias,Prepare for emergencies,Ready.gov,https://www.ready.gov/es,ES (EN: ready.gov)
+M5 U01,MS,Money Smart para adultos,Money Smart for Adults,FDIC,https://www.fdic.gov/consumer-resource-center/money-smart-adults,ES/EN
+M5 U01,CFPBWB,Bienestar financiero: cuestionario y herramientas,Financial well-being questionnaire and tools,CFPB,https://www.consumerfinance.gov/consumer-tools/financial-well-being/,ES/EN
+M5 U02,INVES,Investor.gov en español,Investor.gov in Spanish,SEC,https://www.investor.gov/informacion-en-espanol,ES
+M5 U02,INV,Calculadoras e introducción a la inversión,Investing calculators and basics,SEC Investor.gov,https://www.investor.gov,EN
+M5 U03,BROKER,Verificar a un corredor o asesor,Check a broker or adviser,FINRA BrokerCheck,https://brokercheck.finra.org,EN
+M5 U03,INVES,Investor.gov en español,Investor.gov in Spanish,SEC,https://www.investor.gov/informacion-en-espanol,ES
+M5 U04,TENANT,Guía de derechos de inquilinos y propietarios 2026,2026 guide to tenants' and landlords' rights,Departamento de Bienes Raíces de California,https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf,EN
+M5 U04,HCOUNS,Buscador de consejeros de vivienda,Find a housing counselor,CFPB / HUD,https://www.consumerfinance.gov/find-a-housing-counselor/,EN
+M5 U04,HOME,Comprar una casa,Buying a house,CFPB,https://www.consumerfinance.gov/owning-a-home/,ES/EN
+M5 U05,AUTO,Préstamos para auto,Auto loans,CFPB,https://www.consumerfinance.gov/consumer-tools/auto-loans/,ES/EN
+M5 U05,STUDENT,Ayuda federal para estudiar,Federal student aid,Departamento de Educación,https://studentaid.gov,EN/ES
+M5 U06,SSA,Mi cuenta del Seguro Social,my Social Security,SSA,https://www.ssa.gov/myaccount/,EN/ES
+M5 U06,CALSAV,CalSavers,CalSavers,Estado de California,https://www.calsavers.com,EN/ES
+M5 U06,INV,Calculadoras e introducción a la inversión,Investing calculators and basics,SEC Investor.gov,https://www.investor.gov,EN
+M5 U07,ESAR,Localiza tu AFORE (e-SAR),Find your AFORE (e-SAR),CONSAR,https://www.esar.com.mx/PortalEsar/public/index.do,ES
+M5 U07,SSAINT,Acuerdos internacionales de seguridad social,International social security agreements,SSA,https://www.ssa.gov/international/agreements_overview.html,EN
+M5 U08,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M5 U08,CALBAR,Buscar abogado y servicios de referencia,Find a lawyer and referral services,State Bar of California,https://www.calbar.ca.gov,EN/ES
+M5 U09,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M5 U09,CFPBES,CFPB en español,CFPB in Spanish,CFPB,https://www.consumerfinance.gov/es/,ES
+M5 U10,EIN,Solicitar un número de identificación del empleador (EIN),Get an Employer Identification Number (EIN),IRS,https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number,EN/ES
+M5 U10,SBA,Asesoría local para pequeños negocios (SBDC),Local small business assistance (SBDC),SBA,https://www.sba.gov/local-assistance,EN/ES
+M5 U10,CDTFA,Permisos de vendedor e impuesto sobre ventas,Seller's permits and sales tax,CDTFA,https://www.cdtfa.ca.gov,EN/ES
+M5 U11,EDU,"Herramientas para educación financiera (incluye Your Money, Your Goals)","Financial education tools (includes Your Money, Your Goals)",CFPB,https://www.consumerfinance.gov/consumer-tools/educator-tools/,"EN, algunas en ES"
+M5 U11,CFPBWB,Bienestar financiero: cuestionario y herramientas,Financial well-being questionnaire and tools,CFPB,https://www.consumerfinance.gov/consumer-tools/financial-well-being/,ES/EN

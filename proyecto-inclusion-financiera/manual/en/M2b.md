@@ -62,6 +62,13 @@ If your next paycheck arrives three days after rent is due, is a positive monthl
 
 Write your usual range, your sending dates and what will make you review the agreement.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **Financial education tools (includes Your Money, Your Goals)** (CFPB; language: EN, some in Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+
 **Key words:** *Sending capacity:* what you can send without neglecting your commitments. *Range:* agreed minimum and maximum amount.
 
 ---
@@ -138,6 +145,14 @@ A transfer subject to the 1% tax is 300 dollars and the fee is 5, charged separa
 
 Compare three quotes from the same day with the same base and the same delivery time.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Compare remittances (Remesamex)** (CONDUSEF; language: ES): https://www.condusef.gob.mx/?p=remesas
+- **Remittance Prices Worldwide** (Banco Mundial; language: EN): https://remittanceprices.worldbank.org
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+
 **Key words:** *Exchange rate:* pesos you receive for each dollar. *Exchange-rate markup:* the difference between the reference rate and the offered rate. *Quote:* terms offered for a given moment and amount.
 
 **Sources:** [R04] IRS, remittance tax · [R49] CONDUSEF, Remesamex · [R50] World Bank, remittance prices.
@@ -206,6 +221,14 @@ Write your incident record for a transfer that did not arrive on the promised da
 
 Create your remittance follow-up sheet: provider, license verified, reference number, date, problem, request and response.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Directory of licensed money transmitters in California** (DFPI; language: EN): https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/
+- **Verify financial company licenses** (NMLS Consumer Access; language: EN): https://www.nmlsconsumeraccess.org
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+
 **Key words:** *Remittance receipt:* proof with the transfer details. *Reference number:* tracking number. *DFPI:* California's financial regulator. *NMLS:* national registry of financial company licenses.
 
 **Sources:** [S17] CFPB, remittance rights · [R40] DFPI, license search · [R41] NMLS Consumer Access.
@@ -267,6 +290,13 @@ You borrow 300 and must repay 345 in 30 days; you also pay 5 for the transfer. A
 ### For your plan
 
 Write what you would do in an emergency before borrowing (three options in order).
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **CFPB in Spanish** (CFPB; language: ES): https://www.consumerfinance.gov/es/
 
 **Key words:** *Cash advance:* taking out money with a credit card, usually more expensive. *Refinancing or rolling over:* replacing a debt with another under new terms. *APR:* yearly cost of credit.
 
@@ -338,6 +368,13 @@ Write an agreement with purpose, range, date, emergency, verification and review
 
 Keep your agreement private and prepare a version for lower-income months.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **FTC consumer advice** (FTC; language: ES (EN: consumer.ftc.gov)): https://consumidor.ftc.gov
+- **Report fraud** (FTC; language: ES (EN: reportfraud.ftc.gov)): https://reportefraude.ftc.gov
+
 **Key words:** *Family agreement:* what both sides understand and accept about the support. *Independent verification:* confirming through a channel you already knew.
 
 ---
@@ -403,6 +440,13 @@ You send money for land in someone else's name. What needs to be clarified?
 
 Choose a cross-border goal and record what is confirmed, what is pending and the professional you need.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Compare remittances (Remesamex)** (CONDUSEF; language: ES): https://www.condusef.gob.mx/?p=remesas
+- **Newcomer's guides to managing money** (CFPB; language: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
+
 **Key words:** *Scenarios:* possible versions of the future to test your plan. *Beneficiary:* the person who receives the benefit. *Ownership:* whose name something is in.
 
 ---
@@ -457,5 +501,13 @@ Choosing an account and choosing how to send are connected decisions.
 ### For your plan: submit portfolio E2
 
 Submit: institutions map, account comparison, three transfer quotes, sending calendar, family agreement and emergency protocol. Mark which figures are simulated and do not include the recipient's details. Also solve **integrative case E2** at the end of the manual.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Newcomer's guides to managing money** (CFPB; language: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
+- **Bank On certified accounts** (CFE Fund; language: EN/ES): https://joinbankon.org
+- **What is a remittance transfer and what are my rights?** (CFPB; language: EN; Spanish on CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
 
 **Key words:** *Evidence:* a record that shows what you did. *Stress test:* reviewing your plan under worse conditions.

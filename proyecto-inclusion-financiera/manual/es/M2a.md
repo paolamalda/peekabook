@@ -70,6 +70,14 @@ Para cada servicio financiero que usas, escribe: marca, entidad responsable, fun
 
 Arma tu mapa de servicios. Un logotipo no basta.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Money Smart para adultos** (FDIC; idioma: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+- **Verificar un banco asegurado** (FDIC BankFind; idioma: EN): https://banks.data.fdic.gov/bankfind-suite/
+
 **Palabras clave:** *Entidad responsable:* la empresa que responde por el servicio según el contrato. *Banco central:* institución pública que no atiende cuentas personales. *Fintech:* empresa que usa tecnología para servicios financieros. *Margen cambiario:* diferencia entre una tasa de referencia y la que te ofrecen.
 
 **Fuentes:** [S06] Reserva Federal · [R01] Banco de Inglaterra, creación de dinero.
@@ -144,6 +152,14 @@ Una app dice "trabajamos con bancos". ¿Qué cuatro datos necesitas para saber s
 ### A tu plan
 
 Guarda la consulta oficial y su fecha. Marca lo que no pudiste verificar.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Verificar un banco asegurado** (FDIC BankFind; idioma: EN): https://banks.data.fdic.gov/bankfind-suite/
+- **Buscar una cooperativa asegurada** (NCUA; idioma: EN): https://mapping.ncua.gov
+- **Cuentas certificadas Bank On** (CFE Fund; idioma: EN/ES): https://joinbankon.org
 
 **Palabras clave:** *Seguro de depósitos:* protección de depósitos elegibles si quiebra la institución. *Cooperativa de ahorro y crédito:* institución de socios. *Neobanco:* nombre comercial de servicios principalmente digitales; verifica el banco detrás.
 
@@ -221,6 +237,14 @@ Escribe la pregunta exacta que harías por teléfono a un banco antes de ir a ab
 
 Haz tu kit de documentos: qué tienes, qué está por vencer y qué te falta tramitar.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Licencia de conducir AB 60** (DMV de California; idioma: EN/ES): https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/
+- **Citas en consulados de México (MiConsulado)** (SRE; idioma: ES): https://citas.sre.gob.mx
+- **Lista para abrir una cuenta bancaria** (CFPB; idioma: EN; versión ES en la misma serie): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf
+
 **Palabras clave:** *Matrícula consular:* identificación emitida por el consulado de México. *AB 60:* licencia de conducir de California para quienes no pueden comprobar estancia legal. *REAL ID:* identificación válida para fines federales.
 
 **Fuentes:** [R14] Wells Fargo, identificación · [R42] DMV de California, AB 60.
@@ -295,6 +319,14 @@ Usas efectivo cada semana. ¿Qué debes comparar además de la cuota mensual?
 ### A tu plan
 
 Llena la ficha comparativa de dos cuentas. No necesitas abrir una para aprobar.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Cuentas certificadas Bank On** (CFE Fund; idioma: EN/ES): https://joinbankon.org
+- **Lista para abrir una cuenta bancaria** (CFPB; idioma: EN; versión ES en la misma serie): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf
+- **Guías para recién llegados: cómo manejar el dinero** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/
 
 **Palabras clave:** *Comisión de mantenimiento:* cargo mensual por tener la cuenta. *Cuenta corriente o de cheques:* para uso frecuente. *Cuenta de ahorro:* para guardar. *Bank On:* estándar nacional de cuentas de bajo costo.
 
@@ -371,6 +403,13 @@ Registro propio: inicio 300, depósito 500, compras 120 y 80, pago programado 20
 
 Configura alertas útiles y una revisión semanal. Nunca compartas contraseñas ni códigos.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Formas de pagar tus cuentas** (CFPB; idioma: EN; versión ES en la misma serie): https://files.consumerfinance.gov/f/documents/cfpb_ways-to-pay-your-bills_2022-08.pdf
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+
 **Palabras clave:** *Saldo disponible:* lo que el banco te deja usar hoy. *Conciliar:* comparar tu registro con el del banco. *Disputa:* solicitud para revisar un cargo incorrecto. *ACH:* red de transferencias electrónicas entre bancos.
 
 ---
@@ -437,5 +476,12 @@ Tu familia pide 200 mensuales para comida, 120 al inicio de clases y 400 por hos
 ### A tu plan
 
 Haz un mapa: persona, propósito, frecuencia y rango. Puedes usar nombres inventados.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **¿Qué es una remesa y cuáles son mis derechos?** (CFPB; idioma: EN; ES en CFPB en español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
+- **Remesas: compara envíos (Remesamex)** (CONDUSEF; idioma: ES): https://www.condusef.gob.mx/?p=remesas
 
 **Palabras clave:** *Remesa:* envío de dinero a otra persona o país. *Tipo de cambio:* precio de una moneda en otra. *Prioridades:* lo que atiendes primero.

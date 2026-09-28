@@ -55,6 +55,14 @@ Planear el retiro no empieza por elegir una inversión, sino por entender tus ne
 
 Haz tu inventario de fuentes, tus preguntas y un primer paso. No se exige aportar para aprobar.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Mi cuenta del Seguro Social** (SSA; idioma: EN/ES): https://www.ssa.gov/myaccount/
+- **CalSavers** (Estado de California; idioma: EN/ES): https://www.calsavers.com
+- **Calculadoras e introducción a la inversión** (SEC Investor.gov; idioma: EN): https://www.investor.gov
+
 **Palabras clave:** *Aportación patronal:* lo que pone tu empleador. *Adquisición de derechos (vesting):* condiciones para que esa aportación sea tuya. *IRA:* cuenta personal de retiro. *CalSavers:* programa de retiro de California.
 
 **Fuentes:** [S27] CalSavers · [R53] Social Security, my Social Security.
@@ -112,6 +120,13 @@ No necesariamente. Una cuenta, un beneficio o un documento puede tener reglas di
 ### A tu plan
 
 Haz tu mapa por país con lo confirmado, lo que falta y a quién consultarás.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Localiza tu AFORE (e-SAR)** (CONSAR; idioma: ES): https://www.esar.com.mx/PortalEsar/public/index.do
+- **Acuerdos internacionales de seguridad social** (SSA; idioma: EN): https://www.ssa.gov/international/agreements_overview.html
 
 **Palabras clave:** *Planeación transfronteriza:* organizar dinero y obligaciones en más de un país. *AFORE:* administradora de fondos para el retiro en México.
 
@@ -175,6 +190,13 @@ La persona designada para recibir un beneficio es un **beneficiario**. Quien pue
 
 Elige cinco acciones: localizar un documento, verificar un beneficiario, preguntar por un poder notarial, acordar un contacto o actualizar tu índice.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
+- **Buscar abogado y servicios de referencia** (State Bar of California; idioma: EN/ES): https://www.calbar.ca.gov
+
 **Palabras clave:** *Beneficiario:* quien recibe un beneficio. *Poder notarial:* autoriza a alguien a actuar por ti. *Titular:* dueño de una cuenta.
 
 ---
@@ -232,6 +254,13 @@ Cancelar una suscripción de 15 ayuda, pero deja un déficit de 185. Los pequeñ
 ### A tu plan
 
 Completa una hoja de cambios con cuatro piezas afectadas, fechas verificadas y un contacto de apoyo.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **CFPB en español** (CFPB; idioma: ES): https://www.consumerfinance.gov/es/
 
 **Palabras clave:** *Escenario:* versión posible para probar tu plan. *Flujo de efectivo:* entradas y salidas en el tiempo.
 
@@ -300,6 +329,14 @@ Mar vende tamales los fines de semana. Cobra 600 al mes y gasta 250 en ingredien
 
 Calcula la ganancia real de tu actividad y anota qué permiso necesitas averiguar en tu ciudad.
 
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Solicitar un número de identificación del empleador (EIN)** (IRS; idioma: EN/ES): https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number
+- **Asesoría local para pequeños negocios (SBDC)** (SBA; idioma: EN/ES): https://www.sba.gov/local-assistance
+- **Permisos de vendedor e impuesto sobre ventas** (CDTFA; idioma: EN/ES): https://www.cdtfa.ca.gov
+
 **Palabras clave:** *EIN:* número fiscal de un negocio. *Permiso de vendedor:* registro para cobrar impuesto sobre ventas. *LLC:* tipo de empresa con responsabilidad limitada.
 
 **Fuentes:** [R45] IRS, EIN · [R55] CDTFA · [R56] SBA, centros de desarrollo de pequeños negocios.
@@ -357,5 +394,12 @@ Explica dos decisiones con esta estructura: necesidad, opciones, información, e
 ### A tu plan: entrega final
 
 Entrega los expedientes E1 a E5, fuentes, supuestos y tu plan de seguimiento. Puedes usar datos inventados. No se exige comprar, invertir, reducir remesas ni publicar una opinión para recibir tu diploma. Resuelve también el **caso integrador E5** al final del manual.
+
+### Para saber más
+
+Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):
+
+- **Herramientas para educación financiera (incluye Your Money, Your Goals)** (CFPB; idioma: EN, algunas en ES): https://www.consumerfinance.gov/consumer-tools/educator-tools/
+- **Bienestar financiero: cuestionario y herramientas** (CFPB; idioma: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
 
 **Palabras clave:** *Doble conteo:* usar el mismo dinero para dos cosas. *Revisión cruzada:* comprobar que todas las partes del plan cuadran.

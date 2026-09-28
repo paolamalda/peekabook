@@ -61,6 +61,13 @@ Use realistic values and mark estimates. Sentimental value is not a selling pric
 
 Write three goals and separate the one that needs money soon from the long-term one.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Money Smart for Adults** (FDIC; language: ES/EN): https://www.fdic.gov/consumer-resource-center/money-smart-adults
+- **Financial well-being questionnaire and tools** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/financial-well-being/
+
 **Key words:** *Net worth:* assets minus debts. *Liquidity:* how quickly you can use a resource. *Contribution:* money you add to a goal.
 
 ---
@@ -126,6 +133,13 @@ You start with 100, add 20 of your own and end up with 125.
 
 For each goal write down the time frame, liquidity, the loss you could handle and costs. Do not choose only by past returns.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Investor.gov in Spanish** (SEC; language: ES): https://www.investor.gov/informacion-en-espanol
+- **Investing calculators and basics** (SEC Investor.gov; language: EN): https://www.investor.gov
+
 **Key words:** *Return:* gain or loss on an investment. *Real return:* adjusted for inflation. *Diversification:* spreading risk. *Volatility:* how much a value goes up and down.
 
 **Sources:** [S23] SEC Investor.gov · [R30] SEC, fees.
@@ -188,6 +202,13 @@ An account can hold different products, like a bag and what you put in it.
 ### For your plan
 
 Fill in the investment sheet: account, product, goal, risk, cost, access and verified firm. If you cannot explain it, write down what you need to learn before signing up.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Check a broker or adviser** (FINRA BrokerCheck; language: EN): https://brokercheck.finra.org
+- **Investor.gov in Spanish** (SEC; language: ES): https://www.investor.gov/informacion-en-espanol
 
 **Key words:** *Retirement account:* a structure with tax and withdrawal rules. *ETF:* a fund traded on the stock exchange. *Credit risk:* the issuer may not pay. *Custody:* who holds your investments.
 
@@ -261,6 +282,14 @@ A 1,800 rent and a 1,800 mortgage payment do not cost the same. Buying has extra
 
 Keep your lease and receipts. If you want to buy, schedule an appointment with a certified housing counselor.
 
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **2026 guide to tenants' and landlords' rights** (Departamento de Bienes Raíces de California; language: EN): https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf
+- **Find a housing counselor** (CFPB / HUD; language: EN): https://www.consumerfinance.gov/find-a-housing-counselor/
+- **Buying a house** (CFPB; language: ES/EN): https://www.consumerfinance.gov/owning-a-home/
+
 **Key words:** *Down payment:* the upfront payment when buying. *Closing costs:* expenses of the purchase. *Mortgage:* a loan to buy a home. *Rent cap:* the maximum allowed increase.
 
 **Sources:** [R44] California, tenant rights guide · [R22] CFPB, housing counselors.
@@ -322,5 +351,12 @@ The payment alone is misleading. Still, the price, term, down payment, condition
 ### For your plan
 
 Compare two alternatives and the option of waiting. Write down at least five costs and one contingency.
+
+### Learn more
+
+Free, official resources to go further (verified September 28, 2026):
+
+- **Auto loans** (CFPB; language: ES/EN): https://www.consumerfinance.gov/consumer-tools/auto-loans/
+- **Federal student aid** (Departamento de Educación; language: EN/ES): https://studentaid.gov
 
 **Key words:** *Total cost of ownership:* everything it costs to have and use something. *Depreciation:* loss of value over time.
