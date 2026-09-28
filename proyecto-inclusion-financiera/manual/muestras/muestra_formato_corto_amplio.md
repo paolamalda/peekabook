@@ -4,8 +4,8 @@ Esta muestra aplica el nuevo formato a dos lecciones: una de las más largas (M1
 
 **Cómo funciona el formato:**
 
-- **Versión corta (2 a 3 minutos):** lo indispensable para actuar. Sirve para quien tiene poco tiempo o ya conoce el tema.
-- **Versión amplia (8 a 10 minutos, contando la corta):** explicación paso a paso, ejemplos con números, tres casos y errores frecuentes.
+- **Versión corta (5 minutos):** lo indispensable para actuar. Sirve para quien tiene poco tiempo o ya conoce el tema.
+- **Versión amplia (10 minutos, contando la corta):** explicación paso a paso, ejemplos con números, tres casos y errores frecuentes.
 - **Después de las dos versiones:** actividad, quiz, práctica y plan. Son iguales para todas las personas.
 - Al inicio de cada lección se indica el tiempo de lectura de cada versión.
 
@@ -15,9 +15,9 @@ Esta muestra aplica el nuevo formato a dos lecciones: una de las más largas (M1
 
 **Lo que lograrás:** distinguir el dinero que ganas del dinero que te prestan, el que solo cambias de lugar y el que te devuelven.
 
-> **Tiempo de lectura:** versión corta 2 a 3 minutos · versión amplia 8 a 10 minutos.
+> **Tiempo de lectura:** versión corta 5 minutos · versión amplia 10 minutos.
 
-### Versión corta (2 a 3 minutos)
+### Versión corta (5 minutos)
 
 No todo el dinero que entra a tu cuenta o a tu bolsillo es dinero que ganaste. Hay cuatro tipos de entradas:
 
@@ -36,13 +36,31 @@ No todo el dinero que entra a tu cuenta o a tu bolsillo es dinero que ganaste. H
 
 > **Idea clave:** un préstamo te da dinero para usar hoy, pero no te hace más rico. Lo que tienes menos lo que debes se llama **patrimonio neto**.
 
+**Por qué importa.** Si cuentas un préstamo o un adelanto como si fuera salario, puedes comprometerte a gastos que tu trabajo no cubre. El problema aparece semanas después, cuando el préstamo se descuenta o hay que pagarlo.
+
+**Un caso en un minuto.** A Alex le adelantan 400 de su salario. Esa semana su cuenta muestra más dinero que nunca. Si lo gasta en un refrigerador, en las próximas semanas cobrará 400 menos y le faltará para la renta. El adelanto no era ingreso nuevo: era su propio salario futuro.
+
+**Cómo aplicarlo esta semana:**
+
+1. Revisa los depósitos de tu cuenta del último mes.
+2. Marca cada uno con una letra: **I** (ingreso ganado), **P** (préstamo), **M** (movimiento entre tus cuentas) o **D** (devolución).
+3. Suma solo los que marcaste con **I**. Ese es tu ingreso real del mes.
+4. Para cada **P**, anota cuánto debes y cuándo lo pagas.
+
+**Señales de que un depósito no es ingreso:**
+
+- Viene de una app de adelantos o de tu patrón "a cuenta" de tu salario.
+- Alguien te dice que te lo prestó o que te lo "depositó por error".
+- Es una transferencia desde otra cuenta tuya.
+- Tiene la palabra *refund*, *reversal* o *credit adjustment* en tu estado de cuenta.
+
 **Para recordar:**
 
 - Antes de gastar un depósito grande, pregúntate de dónde vino.
 - Si es préstamo, anota cuándo y cómo lo vas a devolver.
 - Si no sabes qué es un depósito, márcalo "por aclarar" y no lo gastes todavía.
 
-### Versión amplia (8 a 10 minutos)
+### Versión amplia (10 minutos)
 
 #### Para qué sirve el dinero
 
@@ -175,9 +193,9 @@ Haz una lista con cuatro columnas: efectivo, depósitos, bienes y deudas. No nec
 
 **Lo que lograrás:** evaluar los riesgos de firmar, prestar o endeudarte por tu familia, y ayudar sin poner en riesgo tu propia estabilidad.
 
-> **Tiempo de lectura:** versión corta 2 a 3 minutos · versión amplia 8 a 10 minutos.
+> **Tiempo de lectura:** versión corta 5 minutos · versión amplia 10 minutos.
 
-### Versión corta (2 a 3 minutos)
+### Versión corta (5 minutos)
 
 Cuando firmas como **cofirmante o aval** de un préstamo, te comprometes a pagar si la otra persona no paga. Para el prestamista, esa deuda también es tuya.
 
@@ -189,13 +207,33 @@ Cuando firmas como **cofirmante o aval** de un préstamo, te comprometes a pagar
 
 > **Idea clave:** una promesa familiar no cambia el contrato con el prestamista. Si el contrato dice que respondes, respondes.
 
+**Tres formas de ayudar que pueden dejarte una deuda:**
+
+| Forma de ayudar | Qué puede pasarte |
+|---|---|
+| Cofirmar un préstamo | Pagar todo el saldo si la otra persona no paga, y que los atrasos aparezcan en tu crédito |
+| Prestar tu tarjeta de crédito | Todo lo que se gaste queda a tu nombre |
+| Compartir tu contraseña | Pueden mover tu dinero o pedir préstamos, y el banco podría no reembolsarte |
+
+**Un ejemplo con números.** Ganas 2,400 al mes y te quedan 150 libres después de tus gastos. Tu primo te pide cofirmar un auto con pago de 180 al mes. Si él deja de pagar, a ti te faltan 30 cada mes, sin contar los cargos por atraso. En este caso, firmar pone en riesgo tu renta.
+
+**Otra forma de ayudar.** Si quieres apoyar, ofrece una cantidad que puedas dar sin que te la devuelvan, o ayuda con información: acompañar a comparar opciones o buscar una cooperativa.
+
+**Cinco preguntas antes de firmar:**
+
+1. ¿Cuánto es el pago mensual y por cuántos meses?
+2. Si la otra persona deja de pagar, ¿puedo pagarlo yo completo?
+3. ¿Me darán el aviso para cofirmantes y una copia del contrato?
+4. ¿Cómo me enteraré si hay un atraso?
+5. ¿Hay otra forma de ayudar que no me deje una deuda?
+
 **Para recordar:**
 
 - Firmar un préstamo, prestar tu tarjeta y compartir tu contraseña son riesgos distintos, pero los tres pueden dejarte una deuda.
 - Decir "no" o proponer otra forma de ayudar también es cuidar a tu familia.
 - Si alguien te amenaza o te obliga a firmar, busca apoyo seguro (M4 U05).
 
-### Versión amplia (8 a 10 minutos)
+### Versión amplia (10 minutos)
 
 #### Qué significa ser cofirmante
 
