@@ -241,4 +241,59 @@ CASOS = {
  ("That her friend had no key and didn't know about the folder.", "That everything was perfect and nothing needed to change.", "That practicing is useless if nothing really happens."),
  ("Code word, calendar, savings and remittance agreement.", "Only her savings, because it's a money emergency.", "Nothing: she sends the money because it's a relative."),
 ],
+"M5 U01": [
+ ("35 a month.", "50 a month.", "15 a month."),
+ ("His liquidity: what he can use right away.", "Nothing: his 2,500 net worth is enough.", "Sell his car today to have cash just in case."),
+ ("He prioritizes two goals and puts off the third.", "He assigns the same 150 to all three goals.", "He takes a personal loan to cover all three at once."),
+],
+"M5 U02": [
+ ("No: if it drops, she won't have enough for the trip.", "Yes, because it could go up 15% in three months.", "Yes, but she invests only half of the money."),
+ ("50.", "300.", "250."),
+ ("No: it went from 1,000 to 960.", "Yes: it ended at exactly 1,000.", "No: it gained 4% over the two years."),
+],
+"M5 U03": [
+ ("He asks about his options and chooses by time frame and risk.", "Nothing: the IRA invests itself in the best option.", "He closes the account because it didn't earn anything."),
+ ("No: he doubled his risk in the same sector.", "Yes: having two funds is already diversifying.", "Yes, because technology companies always go up in price."),
+ ("She looks up the adviser on BrokerCheck and doesn't invest.", "She invests a little to test whether it's true.", "She invites her friends to earn a commission per person."),
+],
+"M5 U04": [
+ ("He checks whether the cap applies and answers in writing.", "He pays the 15% because the landlord can charge anything.", "He stops paying rent until the landlord backs down."),
+ ("That he needs more savings and to check his credit.", "That he can buy tomorrow with what he already has.", "That he can never buy a house because he files with an ITIN."),
+ ("Ask in writing for the deposit or the list of deductions.", "Forget the deposit, because the landlord always wins.", "Stop paying her new rent to make up for it."),
+],
+"M5 U05": [
+ ("Total price, term, down payment, condition and value.", "Nothing else: B is cheaper and he already decided.", "Only the color, the model and the accessories he likes most."),
+ ("2,000.", "1,200.", "1,500."),
+ ("Probably not: he'd pay more interest.", "Yes: paying less each month is always better.", "Yes, especially if the car is new and has a long warranty."),
+],
+"M5 U06": [
+ ("He asks about transferring it and about taxes and penalties.", "He cashes it out to use on whatever he needs.", "He leaves it where it is without checking what happens to it."),
+ ("How much is deducted and how to change it.", "Nothing, because it's mandatory and can't change.", "She opts out right away without reading anything."),
+ ("Her AFORE, her savings and whether she worked with an SSN.", "Only U.S. Social Security.", "Nothing, because without an SSN no kind of retirement exists."),
+],
+"M5 U07": [
+ ("She uses e-SAR or AforeMóvil with her CURP.", "She pays a middleman to look for it.", "She travels to Mexico to ask in person."),
+ ("He doesn't accept: the procedures are free.", "He accepts, because it's faster and easier.", "He negotiates the fee down to 15% of the balance."),
+ ("No: to add weeks she must ask IMSS.", "Yes: every contribution adds contribution weeks.", "No, and she can't do anything from the U.S."),
+],
+"M5 U08": [
+ ("California's Caregiver's Authorization Affidavit.", "A will made before a notary public.", "A handwritten letter, even if it isn't signed."),
+ ("Probably the ex-partner: she must update it.", "Her children, because her will says so.", "The state, because two documents say different things."),
+ ("He gives it only to someone he fully trusts.", "He signs it so he doesn't have to worry about anything.", "He signs it if the acquaintance charges little for the favor."),
+],
+"M5 U09": [
+ ("He sets aside part of the extra from each good month.", "He spends the extra and borrows in December.", "He looks for another job just for the rainy months."),
+ ("She writes down every day what she receives.", "She guesses how much she earns.", "She asks her coworkers how much they earn a month."),
+ ("No: she sets aside for taxes, reserve and ingredients.", "Yes, because she earned it with her work that week.", "She lends it to a friend so it earns more."),
+],
+"M5 U10": [
+ ("600.", "1,200.", "1,800."),
+ ("Probably not: he starts as a sole proprietorship.", "Yes: every business should be an LLC from day one.", "Yes, because an LLC pays no tax while it's small."),
+ ("The total cost and yearly rate, and he compares with a CDFI.", "Nothing: if the money arrives fast, it's worth accepting.", "Only the amount they lend him, not what they charge."),
+],
+"M5 U11": [
+ ("He chooses one small action with a date.", "He waits until everything is clear first.", "He works on all three goals at the same time."),
+ ("Income, base budget, retirement and beneficiaries.", "Nothing: his plan stays the same even if he changes jobs.", "Only his new address and phone number."),
+ ("No: the reserve did its job; now she rebuilds it.", "Yes: she must start a new plan from scratch.", "Yes: if she had to use it, saving no longer makes sense."),
+],
 }

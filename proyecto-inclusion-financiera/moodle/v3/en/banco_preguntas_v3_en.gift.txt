@@ -869,3 +869,203 @@ $CATEGORY: $course$/Your Money v3/M4
 	=At least once a year #Correct! Practicing keeps the plan useful.
 	~Only when something happens #Not the best option. Practicing keeps the plan useful.
 }
+
+$CATEGORY: $course$/Your Money v3/M5
+
+::M5 U01 P1::Assets 12,000 and debts 8,500. Net worth? {
+	=3,500 #Correct! 12,000 − 8,500.
+	~20,500 #Not the best option. 12,000 − 8,500.
+	~8,500 #Not the best option. 12,000 − 8,500.
+}
+
+::M5 U01 P2::Is net worth the same as available cash? {
+	~Yes #Not the best option. It includes things that aren't cash.
+	=No #Correct! It includes things that aren't cash.
+	~Yes, if it includes the car #Not the best option. It includes things that aren't cash.
+}
+
+::M5 U01 P3::Can you assign the same 80 to three goals? {
+	~Yes #Not the best option. Every dollar has one job.
+	=No #Correct! Every dollar has one job.
+	~Yes, if they're small goals #Not the best option. Every dollar has one job.
+}
+
+::M5 U02 P1::1,000 at 4% for two years, with no contributions. Balance? {
+	~1,080 #Not the best option. Compound interest.
+	=1,081.60 #Correct! Compound interest.
+	~1,040 #Not the best option. Compound interest.
+}
+
+::M5 U02 P2::An investment goes up 10% and then down 10%. Starting from 1,000, how much is left? {
+	~1,000 #Not the best option. 1,000 × 1.1 × 0.9.
+	=990 #Correct! 1,000 × 1.1 × 0.9.
+	~1,010 #Not the best option. 1,000 × 1.1 × 0.9.
+}
+
+::M5 U02 P3::Net return 5% and inflation 4%. Approximate real return? {
+	=0.96% #Correct! 1.05 ÷ 1.04 − 1.
+	~9% #Not the best option. 1.05 ÷ 1.04 − 1.
+	~1% #Not the best option. 1.05 ÷ 1.04 − 1.
+}
+
+::M5 U03 P1::Is an IRA the same as a stock? {
+	~Yes #Not the best option. One is the account and the other the product.
+	=No #Correct! One is the account and the other the product.
+	~Yes, if it's from a big company #Not the best option. One is the account and the other the product.
+}
+
+::M5 U03 P2::Is having two similar funds diversifying? {
+	~Yes #Not the best option. They may hold the same things.
+	=Not necessarily #Correct! They may hold the same things.
+	~Yes, as long as they're from different companies #Not the best option. They may hold the same things.
+}
+
+::M5 U03 P3::Where do you check a broker? {
+	=BrokerCheck #Correct! It's the official registry.
+	~On their social media #Not the best option. It's the official registry.
+	~With the adviser, by message #Not the best option. It's the official registry.
+}
+
+::M5 U04 P1::Can the landlord ask about your immigration status in California? {
+	~Yes #Not the best option. It's prohibited.
+	=No #Correct! It's prohibited.
+	~Only if it's a large building #Not the best option. It's prohibited.
+}
+
+::M5 U04 P2::Does an 1,800 mortgage cost the same as 1,800 in rent? {
+	~Yes #Not the best option. There are taxes, insurance and maintenance.
+	=No, there are more costs #Correct! There are taxes, insurance and maintenance.
+	~Yes, if the rate is fixed #Not the best option. There are taxes, insurance and maintenance.
+}
+
+::M5 U04 P3::If you get court eviction papers, what do you do? {
+	~Wait #Not the best option. The deadline is very short.
+	=Get legal help right away #Correct! The deadline is very short.
+	~Move out without notice to avoid court #Not the best option. The deadline is very short.
+}
+
+::M5 U05 P1::Car A\: payment 250 and other costs 320. Car B\: payment 310 and other costs 230. Which costs less each month? {
+	~A (570) #Not the best option. 540 is less.
+	=B (540) #Correct! 540 is less.
+	~They cost the same #Not the best option. 540 is less.
+}
+
+::M5 U05 P2::Is a longer loan always better because it lowers the payment? {
+	~Yes #Not the best option. You pay more interest.
+	=No #Correct! You pay more interest.
+	~Yes, if the car is new #Not the best option. You pay more interest.
+}
+
+::M5 U05 P3::Is a "guaranteed job" in an ad secure income? {
+	~Yes #Not the best option. Nobody can guarantee it.
+	=No #Correct! Nobody can guarantee it.
+	~Yes, if the school is large #Not the best option. Nobody can guarantee it.
+}
+
+::M5 U06 P1::Does an IRA require work income to contribute? {
+	=Yes #Correct! You need work income.
+	~No #Not the best option. You need work income.
+	~Only if you have an SSN #Not the best option. You need work income.
+}
+
+::M5 U06 P2::Is a 20-year projection a promise? {
+	~Yes #Not the best option. It's a scenario.
+	=No #Correct! It's a scenario.
+	~Yes, if the bank makes it #Not the best option. It's a scenario.
+}
+
+::M5 U06 P3::Should you cash out your 401(k) when you change jobs without checking options? {
+	~Yes #Not the best option. Check the transfer first.
+	=No #Correct! Check the transfer first.
+	~Yes, if you need the money #Not the best option. Check the transfer first.
+}
+
+::M5 U07 P1::Do you lose your AFORE by living in the U.S.? {
+	~Yes #Not the best option. It's still yours.
+	=No #Correct! It's still yours.
+	~Yes, after 5 years #Not the best option. It's still yours.
+}
+
+::M5 U07 P2::What do you need to find it? {
+	~Your ITIN #Not the best option. The CURP.
+	=Your CURP #Correct! The CURP.
+	~Your consular ID number #Not the best option. The CURP.
+}
+
+::M5 U07 P3::Is a middleman who charges to "release your AFORE" necessary? {
+	~Yes #Not the best option. The procedures are free.
+	=No #Correct! The procedures are free.
+	~Only if you live abroad #Not the best option. The procedures are free.
+}
+
+::M5 U08 P1::Does your will change the beneficiaries of your insurance? {
+	~Yes #Not the best option. They're updated at each institution.
+	=No #Correct! They're updated at each institution.
+	~Yes, if it's more recent #Not the best option. They're updated at each institution.
+}
+
+::M5 U08 P2::Does the caregiver form take away your custody? {
+	~Yes #Not the best option. You can cancel it.
+	=No #Correct! You can cancel it.
+	~Yes, for one year #Not the best option. You can cancel it.
+}
+
+::M5 U08 P3::Should just anyone have your power of attorney? {
+	~Yes #Not the best option. Only someone you fully trust.
+	=No #Correct! Only someone you fully trust.
+	~Only a lawyer #Not the best option. Only someone you fully trust.
+}
+
+::M5 U09 P1::What month do you plan with if your income changes? {
+	~The best one #Not the best option. That way the plan holds up.
+	=A realistic low month #Correct! That way the plan holds up.
+	~The year's average #Not the best option. That way the plan holds up.
+}
+
+::M5 U09 P2::Your base is 2,000 and you earn 2,800. What do you do with the 800? {
+	~Spend it #Not the best option. It prepares for bad months.
+	=Set part of it aside #Correct! It prepares for bad months.
+	~Prepay debts and spend the rest #Not the best option. It prepares for bad months.
+}
+
+::M5 U09 P3::Does recording your cash help you? {
+	~No #Not the best option. Without a record you don't know your income.
+	=Yes #Correct! Without a record you don't know your income.
+	~Only if you pay taxes #Not the best option. Without a record you don't know your income.
+}
+
+::M5 U10 P1::You sell 900 and your costs are 450. Your profit? {
+	=450 #Correct! 900 − 450.
+	~900 #Not the best option. 900 − 450.
+	~1,350 #Not the best option. 900 − 450.
+}
+
+::M5 U10 P2::Does an LLC in California pay tax even if it doesn't make money? {
+	~No #Not the best option. There's a yearly minimum tax.
+	=Yes, at least 800 #Correct! There's a yearly minimum tax.
+	~Only if it has employees #Not the best option. There's a yearly minimum tax.
+}
+
+::M5 U10 P3::What's the first step to organize your business? {
+	=Separate the money #Correct! Without separating you don't know if you make money.
+	~Open an LLC #Not the best option. Without separating you don't know if you make money.
+	~Print business cards #Not the best option. Without separating you don't know if you make money.
+}
+
+::M5 U11 P1::Does your plan have to be perfect to start? {
+	~Yes #Not the best option. Clear and doable is enough.
+	=No #Correct! Clear and doable is enough.
+	~Yes, or it's useless #Not the best option. Clear and doable is enough.
+}
+
+::M5 U11 P2::Is using your reserve in an emergency a failure? {
+	~Yes #Not the best option. The reserve did its job.
+	=No, that's what it's for #Correct! The reserve did its job.
+	~Yes, you have to start over #Not the best option. The reserve did its job.
+}
+
+::M5 U11 P3::When do you review your plan? {
+	~Never #Not the best option. That keeps it useful.
+	=Every three or six months, or when something changes #Correct! That keeps it useful.
+	~Once, when you finish the course, and put it away #Not the best option. That keeps it useful.
+}
