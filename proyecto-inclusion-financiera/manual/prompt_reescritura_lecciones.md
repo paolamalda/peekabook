@@ -22,7 +22,7 @@ Un solo archivo Markdown con todas las lecciones del módulo, usando **exactamen
 ```
 # M1 U01 | Título de la lección como pregunta
 objetivo: Una frase: qué podrá hacer la persona al terminar.
-gancho: 3 a 4 frases con Alex o Mar que presentan el problema de la lección.
+gancho: 3 a 4 frases con uno de los personajes del módulo que presentan el problema de la lección.
 
 == esencial
 
@@ -86,7 +86,7 @@ Situación.
 == practica
 
 --- actividad
-**Nombre de la actividad (tipo H5P):** qué hace la persona. (Conserva la actividad original.)
+**¿Qué harías? (H5P):** tres situaciones de esta lección con [personajes de los casos]. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 --- quiz
 1. Pregunta a) opción · b) opción · c) opción
@@ -115,8 +115,10 @@ Fuentes de la lección.
 
 **Extensión:**
 
-- **Lo esencial = 5 minutos:** 500 a 600 palabras, en 5 a 7 bloques, más "comprueba" (2 preguntas) y "recuerda" (3 puntos). Debe bastar por sí solo para actuar.
-- **Profundiza = 5 minutos más:** 550 a 700 palabras, más 3 casos y 4 errores frecuentes. No repite lo esencial: lo amplía con datos, ejemplos y matices.
+Se cuentan palabras visibles (sin las definiciones de los términos). A 90–110 palabras por minuto:
+
+- **Lo esencial = 5 minutos:** 350 a 500 palabras, en 5 a 7 bloques, más "comprueba" (2 preguntas) y "recuerda" (3 puntos). Debe bastar por sí solo para actuar.
+- **Lección completa = 10 minutos:** 800 a 1,200 palabras. Profundiza lleva 3 casos y 4 errores frecuentes. No repite lo esencial: lo amplía con datos, ejemplos y matices.
 - Usa al menos un bloque visual en lo esencial: `tarjetas` o `ecuacion`. Y al menos una `tabla` en profundiza, si el tema lo permite.
 
 **Redacción:**
@@ -127,7 +129,10 @@ Fuentes de la lección.
 - Explica siempre el porqué.
 - Sin culpa ni juicios: "puedes", "te conviene", nunca "debiste".
 - Sin tono defensivo ni avisos repetidos.
-- Números con ejemplo concreto. Usa a Alex y Mar en los casos.
+- Números con ejemplo concreto.
+- Usa a los personajes del módulo (ver `manual/personajes.md`): M1 Alex y Mar, Luis y Daniela; M2 Luis, Daniela, Alex y Mar; M3 Luis, Andrés, Mar y Daniela; M4 Rosa, Daniela, Alex y Mar; M5 Andrés, Rosa, Daniela y Luis.
+- Nunca digas la situación migratoria de un personaje. Si el tema lo pide, usa "sin residencia legal", "sin permiso para trabajar" o "sin visa de trabajo"; nunca "ilegal" ni "sin papeles".
+- Del trabajo de Mar di solo lo necesario: le pagan cada semana, recibe la mayor parte de sus propinas en efectivo, a veces le pagan por app y algunos fines de semana vende comida por encargo.
 - No mezcles temas en un mismo párrafo. Si cambias de tema, cambia de párrafo o de bloque.
 
 **Términos:**
@@ -162,8 +167,7 @@ Fuentes de la lección.
 
 - el código y el título;
 - el objetivo;
-- la actividad H5P;
-- las 3 preguntas del quiz, con sus respuestas;
+- las 3 preguntas del quiz, con sus respuestas. Cada pregunta lleva **tres opciones** (a, b, c) de largo parecido: la correcta no debe ser siempre la más larga;
 - los datos correctos.
 
 Mejora todo lo demás.
@@ -171,11 +175,12 @@ Mejora todo lo demás.
 ### Antes de entregar, revisa
 
 1. Cada lección tiene las secciones `esencial`, `profundiza`, `practica`, `recursos`, `palabras` y `fuentes`.
-2. Lo esencial tiene de 500 a 600 palabras y profundiza de 550 a 700. Indica el conteo al final de cada lección, en un comentario HTML: `<!-- esencial: N palabras · profundiza: N palabras -->`.
+2. Lo esencial tiene de 350 a 500 palabras visibles y la lección completa de 800 a 1,200. Indica el conteo al final de cada lección, en un comentario HTML: `<!-- esencial: N palabras · profundiza: N palabras -->`.
 3. Ningún párrafo mezcla dos temas.
 4. Cada recurso tiene "Qué buscar".
 5. Todos los cálculos son correctos. Rehaz cada operación.
 6. La sintaxis es exactamente la del formato (`---`, `==`, `||`, `|`, `{{ | }}`).
+7. Para la actividad H5P, entrega por cada caso una respuesta correcta y dos incorrectas convincentes, de largo parecido (formato de `herramientas/datos_casos.py`).
 
 Después, entrega un resumen corto con:
 
