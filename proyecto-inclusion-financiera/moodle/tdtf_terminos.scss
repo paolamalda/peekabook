@@ -1,0 +1,30 @@
+// Tu Dinero, Tu Familia, Tu Futuro: términos con significado al pasar el cursor.
+// Pegar al final de: Administración del sitio > Apariencia > Temas > Boost > Configuración avanzada > SCSS en bruto.
+abbr.tdtf-termino {
+  position: relative;
+  color: #E4007C;
+  font-weight: 600;
+  text-decoration: underline dotted #E4007C;
+  cursor: help;
+  border-bottom: 0;
+}
+abbr.tdtf-termino:hover::after,
+abbr.tdtf-termino:focus::after,
+abbr.tdtf-termino:active::after {
+  content: attr(title);
+  position: absolute;
+  left: 0;
+  top: 1.6em;
+  z-index: 1000;
+  width: max-content;
+  max-width: 280px;
+  background: #061F40;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: .9rem;
+  line-height: 1.35;
+  padding: 8px 12px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(6, 31, 64, .2);
+  white-space: normal;
+}
