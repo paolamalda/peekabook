@@ -1,0 +1,19 @@
+CÓMO USAR ESTE PAQUETE
+Tu Dinero, Tu Familia, Tu Futuro · Instalación en Moodle
+Versión 1 · 28 de septiembre de 2026
+
+1. Descomprime este zip en tu computadora.
+2. Haz un respaldo del sitio antes de empezar (cPanel > Respaldos).
+3. Abre tu Moodle en Chrome e inicia sesión como administrador.
+4. Abre Claude con acceso al navegador (Claude en Chrome) y escribe:
+   "Lee README_PARA_CLAUDE.md de esta carpeta y sigue las instrucciones
+    para instalar el curso en mi Moodle."
+   Adjunta o señala la carpeta descomprimida.
+5. Claude creará el curso OCULTO, cargará las 59 lecciones, las 175
+   preguntas y 3 actividades H5P de muestra, y te dará un reporte con
+   capturas.
+6. Revisa el curso. Si te gusta, seguimos con el resto de H5P, las
+   insignias y la versión en inglés.
+
+Si prefieres hacerlo tú, los mismos pasos están en README_PARA_CLAUDE.md.
+Lee también ESTADO_DEL_PROYECTO.txt: dice qué está listo y qué falta.

@@ -1,0 +1,39 @@
+ESTADO DEL PROYECTO: QUÉ ESTÁ LISTO Y QUÉ FALTA
+Tu Dinero, Tu Familia, Tu Futuro · 28 de septiembre de 2026
+
+RESUMEN
+-------
+Materiales para el piloto en California (contenido): 85% listo.
+Curso armado en Moodle:                              0% (este paquete lo inicia).
+Programa completo (piloto + legal + app + medición):  aprox. 40%.
+
+DETALLE POR ÁREA
+----------------
+Área                                   Listo   Qué falta
+-------------------------------------  ------  ------------------------------------------
+Manual del participante (ES y EN)       95%    Revisión del abogado; 7 tarjetas de carga pública
+Manual del operador (ES y EN)           90%    Actualizar con lo de Moodle cuando esté montado
+"Para saber más" (140 enlaces)          90%    Dar clic a cada enlace antes de publicar
+Banco de preguntas (175 ES + 175 EN)   100%    Importar
+Guiones H5P (56 actividades, ES y EN)   95%    7 tarjetas de M1 U13 con el abogado
+Actividades H5P construidas en Moodle    0%    Construir 56 (este paquete hace 3 de muestra)
+Level Up e insignias (diseño)          100%    Configurar en Moodle
+Matriz comparativa (62 productos)       50%    Confirmar 30 productos, sobre todo si aceptan ITIN
+Curso en Moodle                          0%    Instalar con este paquete y revisar
+Curso en inglés en Moodle                0%    Repetir con libros/en y preguntas en inglés
+Plan maestro y pendientes              100%    Los 50 pendientes siguen abiertos (nadie los ha marcado)
+Revisión legal (L01-L13)                 0%    Contratar y revisar con abogado
+Donativos y figura legal (G, P)          0%    Decidir asociación o cooperativa
+Consejo asesor (A01-A05)                 0%    Invitar integrantes
+Medición de impacto (E01-E06)           20%    Encuestas de entrada y salida
+Evidencia para EB-2 NIW (V01-V06)       30%    Propuesta al abogado lista; faltan cartas y datos
+App de complementos                     10%    Solo prompts; falta construir
+Módulos estatales TX, IL, NY, FL         0%    Después del piloto en California
+
+ORDEN SUGERIDO
+--------------
+1. Instalar este paquete en Moodle y revisar cómo se ve.
+2. Ajustes que salgan de la revisión.
+3. Construir las 53 actividades H5P restantes y configurar las insignias.
+4. Revisión legal y 7 tarjetas de carga pública.
+5. Encuestas de impacto y piloto con un grupo pequeño.
