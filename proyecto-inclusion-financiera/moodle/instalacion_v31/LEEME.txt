@@ -17,6 +17,11 @@ QUÉ HAY DE NUEVO RESPECTO A LA ENTREGA 16
 - Constancia de conclusión: fondo listo para el complemento Custom certificate y una muestra.
 - Guía de Level Up, insignias, finalización y constancia.
 
+ESTE CURSO VIENE EN 3 ZIPS (por tamaño)
+---------------------------------------
+Parte 1: todo menos las H5P · Parte 2: H5P de M1 y M2 · Parte 3: H5P de M3 a M5.
+Descomprime las tres en el mismo lugar: se juntan en una sola carpeta TDTF_17_Curso_completo_v3.1.
+
 QUÉ CONTIENE
 ------------
 1_libros/        M1–M5 y Apoyo (zip para "Importar capítulo") y resúmenes de sección
