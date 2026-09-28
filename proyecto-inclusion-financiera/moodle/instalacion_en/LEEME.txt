@@ -1,0 +1,40 @@
+CURSO COMPLETO EN INGLÉS 3.2 PARA MOODLE 3.10
+Your Money, Your Family, Your Future · Desarrolla Talento · 28 de septiembre de 2026
+
+QUÉ ES
+------
+La versión en inglés del curso completo, equivalente a la entrega 18 en español.
+Es un curso NUEVO y separado (nombre corto TDTF-CA-EN): no reemplaza al curso en español.
+
+ESTE CURSO VIENE EN 3 ZIPS (por tamaño)
+---------------------------------------
+Parte 1: todo menos las H5P · Parte 2: H5P de M1 y M2 · Parte 3: H5P de M3 a M5.
+Descomprime las tres en el mismo lugar: se juntan en una sola carpeta TDTF_25_Full_course_EN_v3.2.
+
+QUÉ CONTIENE
+------------
+1_books/         M1–M5 y Support (zip para "Importar capítulo") y resúmenes de sección
+2_h5p/M1..M5/    59 actividades "What would you do?" en orden de lección
+3_glossary/      Course_glossary_Moodle.xml (glosario combinado)
+4_questions/     question_bank_v3_en.gift.txt (177 preguntas, categorías "Your Money v3/M1..M5")
+5_badges/        8 insignias en inglés (My money in order, Smart sending, Credit on track,
+                 Protected family, Future in motion, Scam detective, Expert comparer, Complete plan)
+6_certificate/   certificate_background.png (para Certificado personalizado) y certificate_sample.png
+7_guides/        gamification_guide_v3 (.md y .docx), en inglés
+README_INSTALAR_CURSO_INGLES_PARA_CLAUDE.md  <- instrucciones para Claude (en español)
+
+CÓMO USARLO
+-----------
+Dale a Claude (con el navegador y tu sesión de administración abierta) las 3 partes y dile:
+"Sigue README_INSTALAR_CURSO_INGLES_PARA_CLAUDE.md". Claude crea el curso oculto, sube libros,
+H5P, banco, autoevaluaciones, Level Up, insignias y la constancia, y te entrega un reporte.
+Tiempo estimado: 2 a 3 horas.
+
+A TENER EN CUENTA
+-----------------
+- El certificado ya está instalado (mod_customcert), así que la constancia se configura completa.
+- Las librerías H5P son las mismas que las del curso en español: ya deben estar en el sitio.
+- La traducción no ha tenido revisión de una persona nativa en inglés. Recomendado antes de abrir el curso.
+- Se conservan en español, a propósito: nombres de México (AFORE, CURP, IMSS, matrícula consular,
+  Modalidad 40) y el término en español entre paréntesis en el glosario de apoyo.
+- Pendientes de contenido: K06 a K13 (datos marcados [POR CONFIRMAR]), igual que en español.

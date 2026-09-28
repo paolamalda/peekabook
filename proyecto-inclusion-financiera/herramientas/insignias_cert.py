@@ -1,5 +1,6 @@
 # Genera las imágenes de las insignias (PNG 512) y el fondo del certificado (PNG A4 horizontal).
-import os, json, subprocess
+import os, json, subprocess, sys
+EN = "--en" in sys.argv
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 A = "/tmp/assets_tdtf"
 F = "/tmp/fnt"
@@ -12,6 +13,27 @@ B = [("01_M1_mi_dinero_en_orden", "M1", "Mi dinero en orden", "fa-calendar-check
      ("06_detective_de_estafas", "ESPECIAL", "Detective de estafas", "fa-search"),
      ("07_comparador_experto", "ESPECIAL", "Comparador experto", "fa-balance-scale"),
      ("08_plan_completo", "CURSO", "Plan completo", "fa-trophy")]
+if EN:
+    B = [("01_M1_my_money_in_order", "M1", "My money in order", "fa-calendar-check-o"),
+         ("02_M2_smart_sending", "M2", "Smart sending", "fa-paper-plane"),
+         ("03_M3_credit_on_track", "M3", "Credit on track", "fa-line-chart"),
+         ("04_M4_protected_family", "M4", "Protected family", "fa-shield"),
+         ("05_M5_future_in_motion", "M5", "Future in motion", "fa-leaf"),
+         ("06_scam_detective", "SPECIAL", "Scam detective", "fa-search"),
+         ("07_expert_comparer", "SPECIAL", "Expert comparer", "fa-balance-scale"),
+         ("08_complete_plan", "COURSE", "Complete plan", "fa-trophy")]
+T = dict(top="YOUR MONEY · YOUR FAMILY · YOUR FUTURE", t="Certificate of Completion", otorga="Awarded to", name="Participant name",
+         txt="for completing the financial education program <b>Your Money, Your Family, Your Future</b> (California pilot), with its five modules and self-assessments passed.",
+         mods=["My money", "Financial system and remittances", "Credit and debt", "Protection", "Future and wealth"],
+         date="September 28, 2026", fecha="Date", cod="Verification code",
+         nota="An educational recognition from the program. It isn't a professional license or an official accreditation.") if EN else \
+    dict(top="TU DINERO · TU FAMILIA · TU FUTURO", t="Constancia de conclusión", otorga="Se otorga a", name="Nombre de la persona",
+         txt="por concluir el programa de educación financiera <b>Tu Dinero, Tu Familia, Tu Futuro</b> (piloto California), con sus cinco módulos y autoevaluaciones aprobadas.",
+         mods=["Mi dinero", "Sistema financiero y remesas", "Crédito y deudas", "Protección", "Futuro y patrimonio"],
+         date="28 de septiembre de 2026", fecha="Fecha", cod="Código de verificación",
+         nota="Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial.")
+MODS = "".join(f"<span>{m}</span>" for m in T["mods"])
+OUTB, OUTC = [os.path.join(BASE, "moodle/v3/en" if EN else "moodle/v3", d) for d in ("insignias", "certificado")]
 def badge(tag, name, icon, gold=False):
     ring = "linear-gradient(135deg,#E4007C,#FF4FA8)" if gold else "linear-gradient(135deg,#0A3161,#061F40)"
     return f'''<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet href="file://{A}/fa.css">{FONTS}
@@ -44,22 +66,23 @@ CERT = lambda sample: f'''<!doctype html><html><head><meta charset=utf-8><link r
 .nota{{position:absolute;bottom:108px;width:100%;text-align:center;font:500 24px Figtree;color:#5A6478}}.ph{{color:#E4007C}}</style></head><body><div class=p>
 <div class=circ></div><div class=circ2></div><div class=band></div><div class=f></div><div class=f2></div>
 <div class=brand>Desarrolla <span>Talento</span></div>
-<div class=top>TU DINERO · TU FAMILIA · TU FUTURO</div><div class=t>Constancia de conclusión</div>
-<div class=otorga>Se otorga a</div>{'<div class=name>Nombre de la persona</div>' if sample else ''}<div class=line></div>
-<div class=txt>por concluir el programa de educación financiera <b>Tu Dinero, Tu Familia, Tu Futuro</b> (piloto California), con sus cinco módulos y autoevaluaciones aprobadas.</div>
-<div class=mods><span>Mi dinero</span><span>Sistema financiero y remesas</span><span>Crédito y deudas</span><span>Protección</span><span>Futuro y patrimonio</span></div>
+<div class=top>{T['top']}</div><div class=t>{T['t']}</div>
+<div class=otorga>{T['otorga']}</div>{'<div class=name>'+T['name']+'</div>' if sample else ''}<div class=line></div>
+<div class=txt>{T['txt']}</div>
+<div class=mods>{MODS}</div>
 <div class=seal><i class="fa fa-trophy"></i></div>
-<div class=foot><div class=c>{'<span class=ph>28 de septiembre de 2026</span>' if sample else '&nbsp;'}<div>Fecha</div></div><div class=c>{'<span class=ph>AbC123xYz9</span>' if sample else '&nbsp;'}<div>Código de verificación</div></div></div>
-<div class=nota>Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial.</div>
+<div class=foot><div class=c>{'<span class=ph>'+T['date']+'</span>' if sample else '&nbsp;'}<div>{T['fecha']}</div></div><div class=c>{'<span class=ph>AbC123xYz9</span>' if sample else '&nbsp;'}<div>{T['cod']}</div></div></div>
+<div class=nota>{T['nota']}</div>
 </div></body></html>'''
 jobs = []
+os.makedirs(OUTB, exist_ok=True); os.makedirs(OUTC, exist_ok=True)
 tmp = "/tmp/badges_html"; os.makedirs(tmp, exist_ok=True)
 for fn, tag, name, icon in B:
-    p = f"{tmp}/{fn}.html"; open(p, "w").write(badge(tag, name, icon, gold=(tag == "CURSO")))
-    jobs.append((p, os.path.join(BASE, "moodle/v3/insignias", fn + ".png"), 512, 512, True))
+    p = f"{tmp}/{fn}.html"; open(p, "w").write(badge(tag, name, icon, gold=(tag in ("CURSO", "COURSE"))))
+    jobs.append((p, os.path.join(OUTB, fn + ".png"), 512, 512, True))
 for s, out in [(False, "certificado_fondo.png"), (True, "certificado_muestra.png")]:
     p = f"{tmp}/{out}.html"; open(p, "w").write(CERT(s))
-    jobs.append((p, os.path.join(BASE, "moodle/v3/certificado", out), 2339, 1654, False))
+    jobs.append((p, os.path.join(OUTC, out), 2339, 1654, False))
 js = "const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();for(const [f,o,w,h,t] of %s){const p=await b.newPage({viewport:{width:w,height:h}});await p.goto('file://'+f);await p.waitForTimeout(1200);await p.screenshot({path:o,omitBackground:t});await p.close();}await b.close();})();" % json.dumps(jobs)
 open(f"{tmp}/r.js", "w").write(js)
 subprocess.run(["node", f"{tmp}/r.js"], check=True, env={**os.environ, "NODE_PATH": subprocess.check_output(["npm", "root", "-g"]).decode().strip()})

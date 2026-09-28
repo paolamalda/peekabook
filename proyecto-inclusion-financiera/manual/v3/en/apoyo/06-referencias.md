@@ -1,0 +1,92 @@
+# References
+
+S references come from the program syllabus; R references were added to develop the lessons. Date accessed for this edition: September 27 and 28, 2026. Rules, fees and requirements change: check the current version before you act.
+
+## Syllabus references
+
+- **S01** OECD and European Union. Financial competence framework for adults.
+- **S02** CFPB. Measuring financial skill.
+- **S03** FDIC. Money Smart for Adults.
+- **S04** CFPB. Your Money, Your Goals.
+- **S05** CFPB. Financial Well-Being Scale.
+- **S06** Federal Reserve. What is the money supply.
+- **S07** NCUA. Differences between a credit union and a bank.
+- **S08** FDIC. Banking with third-party apps.
+- **S09** FDIC. BankFind Suite.
+- **S10** CFPB. Spanish style guide and glossary.
+- **S11** California DIR. Know Your Rights.
+- **S12** IRS. Individual Taxpayer Identification Number (ITIN).
+- **S13** IRS. Gig Economy Tax Center.
+- **S14** California FTB. ITIN.
+- **S15** California FTB. Get free tax help.
+- **S16** California FTB. Publication 982, choosing a tax preparer.
+- **S17** CFPB. What is a remittance transfer and what are my rights?
+- **S18** CFPB. Ways to start or rebuild a good credit history.
+- **S19** CFPB. How long does information stay on my credit report?
+- **S20** FTC. Only scammers say they'll remove all negative information from your credit report.
+- **S21** California Department of Insurance. Consumer guides.
+- **S22** FTC. IdentityTheft.gov.
+- **S23** SEC Investor.gov. Introduction to investing.
+- **S24** SEC Investor.gov. Investment products.
+- **S25** SSA. U.S.–Mexico social security agreement (signed, not in effect).
+- **S26** CFPB. Effective financial education: five principles.
+- **S27** CalSavers. Program details.
+
+## Lesson references
+
+- **R01** Bank of England. Money creation in the modern economy.
+- **R02** FDIC. Understanding deposit insurance.
+- **R03** NCUA. Share insurance coverage.
+- **R04** IRS. News release IR-2026-48 on the remittance tax.
+- **R05** IRS. Publication 505, Tax Withholding and Estimated Tax.
+- **R06** IRS. Deadlines and extensions.
+- **R07** CFPB. Does checking my credit report hurt my score?
+- **R08** CFPB. What information does a debt collector have to give me?
+- **R09** CFPB. What is a credit freeze?
+- **R10** California DMV. Insurance requirements.
+- **R11** California FTB. Health care mandate.
+- **R12** California DMHC. File a complaint.
+- **R13** Wells Fargo. Clear Access Banking.
+- **R14** Wells Fargo. Questions about ID and account opening.
+- **R15** Bank of America. SafeBalance.
+- **R16** Self-Help. Checking.
+- **R17** Chime. Checking account.
+- **R18** Chime Help. How to open an account.
+- **R19** IRS. Free tax preparation for qualifying taxpayers (VITA and TCE).
+- **R20** ATAX Chula Vista Downtown. Advertised services.
+- **R21** FTC. March 2022 action against a credit repair company.
+- **R22** CFPB. Find a housing counselor.
+- **R23** State Bar of California. Lawyer referral services.
+- **R24** CFPB. How does compound interest work?
+- **R25** CFPB. Regulation DD, APY calculation.
+- **R26** Bureau of Labor Statistics. Consumer Price Index frequently asked questions.
+- **R27** IRS. Self-Employed Individuals Tax Center.
+- **R28** CFPB. How does my credit card calculate interest?
+- **R29** CFPB. What is a credit card grace period?
+- **R30** SEC Investor.gov. How fees affect your investments.
+- **R31** SEC Investor.gov. Asset allocation and diversification.
+- **R32** SEC Investor.gov. Bonds frequently asked questions.
+- **R33** USCIS. Public charge.
+- **R34** Protecting Immigrant Families. Public charge materials.
+- **R35** California DHCS. Medi-Cal and eligibility changes.
+- **R36** California Tax Education Council (CTEC). Registered preparer lookup.
+- **R37** California Secretary of State. Immigration consultants.
+- **R38** Department of Justice (EOIR). Recognized organizations and accredited representatives.
+- **R39** California Courts. Caregiver's Authorization Affidavit.
+- **R40** California DFPI. License search.
+- **R41** NMLS Consumer Access.
+- **R42** California DMV. AB 60 driver's license.
+- **R43** Mission Asset Fund. Lending circles.
+- **R44** State of California. Guide to tenants' rights and responsibilities.
+- **R45** IRS. Apply for an Employer Identification Number (EIN).
+- **R46** Cities for Financial Empowerment Fund. Bank On National Account Standards.
+- **R47** California Attorney General. Immigration services fraud.
+- **R48** California FTB. CalFile.
+- **R49** CONDUSEF. Remesamex.
+- **R50** World Bank. Remittance Prices Worldwide.
+- **R51** FTC. ReportFraud.ftc.gov.
+- **R52** California HCAI. Hospital fair pricing and financial assistance.
+- **R53** Social Security Administration. my Social Security.
+- **R54** CONSAR. Find your AFORE.
+- **R55** California CDTFA. Seller's permit.
+- **R56** SBA. Small Business Development Centers (SBDC).
