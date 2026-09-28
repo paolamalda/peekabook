@@ -18,9 +18,11 @@ def module_text(mod):
     return "\n\n".join(open(os.path.join(SRC, f)).read().strip() for f in files)
 
 def words(s):
+    # Palabras visibles para el lector: incluye títulos de bloques; excluye definiciones ocultas, iconos y marcas de formato.
     s = re.sub(r"\{\{([^|}]+)\|[^}]+\}\}", r"\1", s)
-    s = re.sub(r"(?m)^--- .*$|^\* fa-\S+ \||\|\||https?://\S+", " ", s)
-    return len(re.findall(r"\w+", s))
+    s = re.sub(r"https?://\S+|fa-[a-z0-9-]+|\b(paso|pasos|tarjetas|ecuacion|tema|tabla|comprueba|recuerda|casos|errores)\b(?=\s*\||\s*$)", " ", s)
+    s = re.sub(r"\|\||[|*=#>?]|---|\b(si|no|igual)\s*$", " ", s, flags=re.M)
+    return len([w for w in s.split() if re.search(r"\w", w)])
 
 def conteo(text):
     rows = []

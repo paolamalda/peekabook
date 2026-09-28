@@ -1,0 +1,727 @@
+# M3 U01 | ¿Que me presten significa que puedo pagar?
+objetivo: Diferenciar la aprobación de un préstamo de tu capacidad real de pago.
+gancho: A Andrés le aprobaron un préstamo para un auto nuevo en quince minutos. Salió de la agencia contento. Al primer mes se dio cuenta de que, con el seguro, el pago no le cabía en el presupuesto. En esta lección aprenderás a saber si puedes pagar antes de firmar.
+
+== esencial
+
+--- paso | fa-check-circle | Aprobado no es lo mismo que pagable
+Que un prestamista te apruebe significa que **él** cree que le vas a pagar. No significa que el pago te convenga ni que te quede cómodo.
+
+Los prestamistas revisan tu ingreso y tu historial, pero no conocen todos tus gastos, tus remesas ni tus planes.
+
+--- ecuacion | fa-calculator | Haz la cuenta tú
+Te ofrecen un pago de 50 al mes. Después de comida, vivienda y compromisos, solo te quedan 30.
+= 30 | Lo que te queda libre
+- 50 | El pago ofrecido
+= −20 | Te faltarían cada mes
+Tu **{{capacidad de pago|Lo que puedes pagar cada mes sin dejar de cubrir tus gastos básicos, también en un mes difícil.}}** es poder cubrir el pago con tus recursos, también en un mes difícil.
+
+--- tarjetas | fa-th-large | Tres cosas distintas
+* fa-file-text-o | {{Reporte de crédito|Historial de cómo pagas tus deudas. Los bancos lo revisan para decidir si te prestan.}} | Información de tus cuentas y pagos. | Lo revisa el prestamista. | igual
+* fa-tachometer | {{Puntaje de crédito|Número que resume tu historial. Entre más alto, más fácil y barato te prestan.}} | Un número que resume parte de tu reporte. | Ayuda a que te aprueben. | igual
+* fa-balance-scale | Capacidad de pago | Lo que te queda después de tus gastos. | Solo tú la conoces bien. | si
+
+--- pasos | fa-list-ol | Cuatro preguntas antes de pedir un préstamo
+1. **¿Me lo aprueban?** Depende del prestamista.
+2. **¿Puedo pagarlo?** Depende de tu calendario y tu presupuesto.
+3. **¿Me conviene?** Depende del propósito y de las alternativas.
+4. **¿Qué arriesgo?** Si hay garantía, puedes perder el bien.
+
+--- paso | fa-user | Un caso en un minuto
+A Mar le aprobaron un préstamo de 1,000 y le ofrecieron 500 más "por si acaso".
+
+Mar hizo la cuenta: el pago con 1,500 no le cabía en un mes con menos propinas. Aceptó solo los 1,000 que necesitaba.
+
+Dinero prestado extra es deuda extra, aunque sea fácil obtenerlo.
+
+> **Idea clave:** un buen puntaje no paga la mensualidad por ti.
+
+--- pasos | fa-check-square-o | Hazlo esta semana
+1. Calcula cuánto te queda cada mes después de tus gastos básicos, deudas y remesas.
+2. Resta el pago que te ofrecen, más seguro y otros costos.
+3. Repite la cuenta con 20% menos de ingreso.
+
+--- comprueba
+1. Te aprobaron un préstamo. ¿Eso significa que puedes pagarlo? || No. Tienes que revisar si el pago cabe en tu presupuesto, también en un mes difícil.
+2. ¿Un límite de crédito disponible es dinero tuyo? || No. Es dinero que te prestarían y tendrías que devolver.
+
+--- recuerda
+- Aprobado no es lo mismo que pagable.
+- Prueba el pago con un mes de menos ingreso.
+- Pide solo lo que necesitas.
+
+== profundiza
+
+--- tarjetas | fa-credit-card | Tipos de crédito
+* fa-refresh | {{Crédito revolvente|Crédito que puedes volver a usar conforme pagas, como una tarjeta de crédito.}} | Tarjetas y líneas de crédito. Puedes volver a usarlo. | El saldo puede crecer si no lo controlas. | no
+* fa-calendar | A plazos | Préstamo personal o de auto, con pagos fijos. | Sabes cuándo terminas. | igual
+* fa-lock | Con {{garantía|Algo de valor, como tu auto, que respalda una deuda. Si no pagas, te lo pueden quitar.}} | Un bien respalda la deuda, como el auto. | Si no pagas, puedes perder el bien. | no
+
+--- tema | fa-percent | Relación deuda-ingreso
+La {{relación deuda-ingreso|Qué parte de tu ingreso se va en pagar deudas cada mes.}} compara tus pagos de deuda con tu ingreso.
+
+Pagos de deuda de 450 ÷ ingreso bruto de 3,000 = 15%. Con ingreso neto de 2,400, es 18.75%. Di siempre cuál usaste.
+
+Esta relación no incluye tus gastos básicos, como la renta o la comida. Por eso no reemplaza tu presupuesto.
+
+--- tema | fa-bolt | Prueba de estrés
+Si después de tus obligaciones te quedan 200 y la nueva cuota es 150, tu margen es 50.
+
+Si tu ingreso baja 100, tendrás un déficit de 50. Pregúntate si podrías sostener ese pago en un mes con menos horas o menos propinas.
+
+--- tema | fa-car | Los costos que no se ven
+Financiar un auto también implica seguro, gasolina, mantenimiento, registro y placas.
+
+Un préstamo para muebles puede tener seguro de crédito incluido que no necesitas. Pregunta qué incluye la mensualidad.
+
+> **Dato adicional:** en California, los seguros de auto tienen montos mínimos obligatorios de responsabilidad. Si financias un auto, el prestamista también te pedirá seguro de cobertura amplia, que cuesta más.
+
+--- tema | fa-thumbs-o-up | El crédito como herramienta
+El crédito te permite usar recursos hoy a cambio de una obligación futura. Puede ayudarte a lograr una meta, como un auto para trabajar, y también quitarte flexibilidad.
+
+No midas tu avance por cuántas tarjetas tienes o por tu límite disponible. Un límite de crédito no es dinero tuyo.
+
+--- tema | fa-comments | Preguntas para el prestamista
+Antes de firmar, pregunta por escrito:
+
+- ¿Cuál es el APR y el costo total del préstamo?
+- ¿Hay comisión por abrirlo o por pagarlo antes?
+- ¿Qué pasa si me atraso un pago?
+- ¿El pago incluye seguros o productos que no pedí?
+
+Si no te dan las respuestas por escrito, no firmes todavía.
+
+--- casos
+### Caso 1. El auto de Andrés
+Andrés gana 2,500 netos al mes. Sus gastos y compromisos suman 2,250: le quedan 250. La cuota del auto sería 220 y el seguro 90 más.
+? ¿Puede pagarlo? || No. Le faltarían 60 cada mes, aunque se lo aprobaron.
+? ¿Qué opciones tiene? || Un auto más barato, un enganche mayor o esperar a juntar más.
+
+### Caso 2. Los 500 extra de Mar
+A Mar le aprueban 500 más de lo que pidió.
+? ¿Debe aceptarlos para "aprovechar"? || No. Son deuda extra con su propio costo. Pide solo lo que necesita.
+
+### Caso 3. La primera tarjeta de Luis
+A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había tenido tanto "dinero disponible".
+? ¿Cómo debe verlo? || Como un préstamo que tendría que pagar, no como dinero suyo.
+
+--- errores
+* Pensar que si te aprueban puedes pagar | Te atrasas desde el primer mes | Haz tu propia cuenta
+* Aceptar más de lo que necesitas | Pagas intereses por dinero que no usas | Pide solo lo necesario
+* Olvidar los costos extra | El pago real es mayor | Suma seguro, gasolina y mantenimiento
+* Ver el límite de crédito como dinero tuyo | Gastas y se acumula la deuda | Úsalo solo con un plan de pago
+
+== practica
+
+--- actividad
+**¿Puedo pagarlo? (simulador H5P):** con un margen mensual y una cuota de ejemplo, observa qué pasa si baja tu ingreso 10% y 20%.
+
+--- quiz
+1. ¿Un buen puntaje garantiza que puedes pagar? a) Sí · b) No
+2. ¿Un límite de crédito disponible es dinero tuyo? a) Sí · b) No
+3. Si tienes 200 de margen y la cuota es 150, ¿qué pasa si tu ingreso baja 100? a) Sigues bien · b) Déficit de 50
+respuestas: 1-b: el puntaje no paga la mensualidad. 2-b: es un préstamo disponible. 3-b: 200 − 100 − 150 = −50.
+
+--- ponlo
+El prestamista te ofrece 500 más de lo que pediste. ¿Debes aceptarlos para "aprovechar"?
+respuesta: No necesariamente. Compara la necesidad, el costo y el pago. El dinero prestado adicional es una obligación adicional.
+
+--- plan
+Define el propósito, el monto que necesitas, el pago que puedes cubrir y qué harías si baja tu ingreso. Si no tienes margen, el primer paso puede ser estabilizar tus finanzas.
+
+== recursos
+- **Reportes y puntajes de crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: la diferencia entre reporte y puntaje, y qué factores usan los prestamistas.
+- **Préstamos para auto** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/auto-loans/ | Qué buscar: la hoja para calcular el costo total del auto con seguro y mantenimiento antes de ir a la agencia.
+- **Money Smart para adultos** (FDIC · español e inglés): https://www.fdic.gov/consumer-resource-center/money-smart-adults | Qué buscar: el módulo "Préstamos: lo básico" para practicar cómo evaluar un préstamo.
+
+== palabras
+- *Capacidad de pago:* poder pagar con tus recursos.
+- *Crédito revolvente:* se puede volver a usar.
+- *Garantía:* bien que respalda una deuda.
+- *Relación deuda-ingreso:* pagos de deuda entre ingreso.
+
+== fuentes
+CFPB, reportes y puntajes · CFPB, préstamos para auto · Departamento de Seguros de California, seguro de auto.
+
+
+# M3 U02 | ¿Cómo sé qué información usan sobre mis deudas?
+objetivo: Leer tu reporte de crédito, identificar errores y disputarlos correctamente.
+gancho: A Andrés le negaron un préstamo por "información en su reporte". No sabía que tenía un reporte ni qué decía. Cuando lo revisó, encontró una tarjeta que nunca abrió. En esta lección aprenderás a revisar tu reporte y a corregir errores.
+
+== esencial
+
+--- paso | fa-file-text-o | Qué es tu reporte de crédito
+Tu **reporte de crédito** reúne información de tus cuentas y de cómo pagas. Lo hacen tres agencias: **Equifax, Experian y TransUnion**.
+
+Tu **puntaje** es un número que se calcula con parte de esa información.
+
+Si alguna vez tuviste una tarjeta, un préstamo o un plan de celular a plazos, probablemente tienes un reporte.
+
+--- paso | fa-download | Cómo obtenerlo gratis
+Puedes ver tus reportes de las tres agencias **gratis cada semana** en el sitio oficial **AnnualCreditReport.com**.
+
+Revisar tu propio reporte **no** baja tu puntaje.
+
+Si declaras con ITIN, algunas agencias te permiten pedir el reporte por correo o por teléfono en lugar de en línea. Pregunta el procedimiento.
+
+--- tarjetas | fa-th-large | Qué revisar en tu reporte
+* fa-user | Tus datos | Nombre, domicilios, fecha de nacimiento. | ¿Son tuyos? | igual
+* fa-credit-card | Cuentas | Acreedor, saldo, límite, estado e historial de pagos. | ¿Las reconoces? | igual
+* fa-search | Consultas | Quién pidió ver tu reporte. | ¿Tú lo autorizaste? | igual
+* fa-exclamation-triangle | Cobranzas | Deudas que pasaron a un cobrador. | ¿Son correctas? | no
+
+--- pasos | fa-list-ol | Tres pasos
+1. **Comprueba** que los datos personales sean tuyos.
+2. **Revisa** cada cuenta: saldo, fechas y pagos.
+3. **Marca** lo que no reconoces o parece incorrecto.
+
+--- paso | fa-balance-scale | Error no es lo mismo que dato desfavorable
+Un atraso que sí ocurrió no es un error, aunque te baje el puntaje. Se atiende pagando y organizándote.
+
+Un dato incorrecto sí se corrige con una **{{disputa|Solicitud formal para que la agencia investigue y corrija un dato equivocado de tu reporte.}}** bien documentada.
+
+> **Idea clave:** usa solo AnnualCreditReport.com. Otras páginas cobran o piden datos de tu tarjeta.
+
+--- paso | fa-user | Un caso en un minuto
+Andrés pidió sus tres reportes gratis. En uno aparecía una dirección de otra ciudad donde nunca vivió y una tarjeta que no abrió.
+
+Tomó capturas, disputó los dos datos en línea con la agencia y congeló su crédito en las tres agencias. Anotó los folios y puso una alerta para revisar en 30 días.
+
+--- pasos | fa-check-square-o | Hazlo esta semana
+1. Entra a AnnualCreditReport.com y pide tus tres reportes.
+2. Revisa tus datos personales y cada cuenta.
+3. Anota lo que no reconoces para investigarlo.
+
+--- comprueba
+1. ¿Revisar tu propio reporte baja tu puntaje? || No. Puedes revisarlo sin afectar tu puntaje.
+2. Tu reporte muestra un atraso real. ¿Es un error que se puede borrar? || No. Un dato correcto no se borra; se atiende pagando.
+
+--- recuerda
+- Revisa tus tres reportes gratis en AnnualCreditReport.com.
+- Separa errores de datos desfavorables correctos.
+- Disputa solo los errores, con pruebas.
+
+== profundiza
+
+--- tema | fa-question-circle | Un dato desconocido puede ser tres cosas
+1. **Un error** de la agencia o del acreedor.
+2. **El nombre comercial distinto** de tu acreedor: la tienda te dio la tarjeta, pero aparece el banco.
+3. **Un posible fraude:** alguien abrió una cuenta a tu nombre.
+
+Identifica cuál es antes de actuar.
+
+--- tabla | fa-list-ol | Cómo disputar un error
+| Paso | Qué hacer |
+|---|---|
+| 1 | Identifica el dato exacto que está mal |
+| 2 | Explica por qué es incorrecto |
+| 3 | Adjunta una copia de tu prueba, nunca el original |
+| 4 | Envía la disputa a la agencia y, si puedes, al acreedor |
+| 5 | Guarda copia, fecha y número de folio |
+
+La agencia normalmente tiene 30 días para investigar y responderte.
+
+--- tema | fa-clock-o | Cuánto tiempo se queda la información
+Muchos datos negativos correctos pueden permanecer hasta siete años. Ciertas bancarrotas, hasta diez.
+
+No los tomes como una fecha de "limpieza": depende del tipo de registro. Mientras tanto, pagar a tiempo de aquí en adelante sí mejora tu historial.
+
+> **Dato adicional:** puedes congelar tu crédito gratis en las tres agencias. Así nadie puede abrir cuentas nuevas a tu nombre. Lo verás en M4 U04.
+
+--- tema | fa-ban | Nunca mientas en una disputa
+Nunca declares robo de identidad para borrar un atraso real. Es falso y puede tener consecuencias legales.
+
+Las disputas funcionan para corregir errores, no para borrar la historia.
+
+--- tema | fa-envelope-o | Cómo escribir tu disputa
+Una buena disputa es corta y concreta:
+
+"Soy [nombre]. En mi reporte aparece la cuenta terminada en 1234 con un saldo de 900. Esa cuenta se cerró en cero el 10 de marzo. Adjunto copia de la carta de cierre. Pido que investiguen y corrijan el saldo."
+
+Tapa tus datos sensibles en las copias, como tu número completo de cuenta.
+
+--- tema | fa-bell | Si te niegan un crédito
+Si te niegan un préstamo o una renta por tu reporte, te deben decir qué agencia lo emitió.
+
+Tienes derecho a pedir ese reporte gratis dentro de los 60 días siguientes y a disputar los errores.
+
+--- casos
+### Caso 1. La tarjeta de otra persona
+El reporte de Andrés muestra una tarjeta que nunca abrió y un atraso real de un teléfono.
+? ¿Qué hace con la tarjeta? || La disputa como posible fraude y congela su crédito.
+? ¿Y con el atraso real? || Lo atiende pagando y pidiendo un acuerdo.
+
+### Caso 2. El saldo que no se actualizó
+Mar pagó una tarjeta, pero el reporte muestra 900 de saldo.
+? ¿Es un error? || Revisa la fecha del reporte: se generó antes del pago. Espera la siguiente actualización antes de disputar.
+
+### Caso 3. El primer reporte de Luis
+Luis pidió su reporte con ITIN por correo.
+? ¿Qué encontró? || Su plan de teléfono a plazos, pagado a tiempo. Ya tenía historial sin saberlo.
+
+--- errores
+* Usar páginas que cobran por tu reporte | Pagas por algo gratis o te roban datos | Usa AnnualCreditReport.com
+* Disputar un dato correcto | No se borra y pierdes tiempo | Disputa solo errores
+* Enviar documentos originales | Los pierdes | Envía copias
+* No guardar el folio de la disputa | No puedes dar seguimiento | Anota fecha, folio y respuesta
+
+== practica
+
+--- actividad
+**Reporte de ejemplo (H5P):** encuentra cuatro datos que requieren acción y elige la ruta correcta para cada uno.
+
+--- quiz
+1. ¿Revisar tu propio reporte baja tu puntaje? a) Sí · b) No
+2. ¿Un atraso real es un error que se puede borrar? a) Sí · b) No
+3. ¿Qué envías como prueba en una disputa? a) El original · b) Una copia
+respuestas: 1-b: revisar el tuyo no afecta. 2-b: un dato correcto no se borra. 3-b: guarda tus originales.
+
+--- ponlo
+Tu reporte muestra un saldo de 900 en una cuenta que tu comprobante de cierre indica en cero. Redacta la solicitud.
+respuesta: Identifica la cuenta con los últimos dígitos, describe la diferencia, adjunta copia del comprobante con tus datos sensibles tapados y pide investigar y corregir.
+
+--- plan
+Registra la fecha de tu revisión, lo que encontraste, tu prueba y la próxima revisión. No entregues tu reporte completo al curso.
+
+== recursos
+- **Reportes de crédito gratuitos** (AnnualCreditReport.com · inglés y español): https://www.annualcreditreport.com | Qué buscar: "Solicitar reportes" para pedir los de las tres agencias; si usas ITIN, la opción por correo.
+- **Cómo disputar errores** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: las cartas modelo para disputar un error con la agencia y con el acreedor.
+
+== palabras
+- *Reporte de crédito:* registro de tus cuentas y pagos.
+- *Puntaje:* número calculado con un modelo.
+- *Disputa:* solicitud para corregir información incorrecta.
+- *Folio:* número de seguimiento.
+
+== fuentes
+[R07] CFPB, consultar tu reporte · [S19] CFPB, permanencia de datos · FTC, disputas.
+
+
+# M3 U03 | ¿Cómo empiezo si no tengo historial?
+objetivo: Comparar opciones para crear historial de crédito sin endeudarte de más.
+gancho: Luis quiere rentar su propio departamento, pero el dueño le pide historial de crédito. Nunca ha tenido una tarjeta: siempre paga en efectivo o con su app. No sabe por dónde empezar. En esta lección conocerás las formas más seguras de crear historial.
+
+== esencial
+
+--- paso | fa-leaf | No tener historial no es malo
+No tener historial no significa ser irresponsable. Muchas personas llegan a EE. UU. sin historial o prefieren usar efectivo.
+
+Pero sin historial es más difícil rentar, conseguir un préstamo o un buen precio en el seguro del auto. Por eso conviene empezar con cuidado.
+
+--- tarjetas | fa-th-large | Formas de empezar
+* fa-credit-card | {{Tarjeta garantizada|Tarjeta de crédito que pide un depósito como respaldo. Pagas tus compras como con cualquier tarjeta.}} | Dejas un depósito que respalda tu límite. Pagas tus compras cada mes. | Pregunta si reporta a las tres agencias. | si
+* fa-users | {{Círculo de préstamo|Grupo que presta sin interés, como una tanda, pero organizado y que reporta tus pagos a las agencias.}} | Un grupo presta sin interés y reporta tus pagos. | Busca una organización reconocida. | si
+* fa-home | Reporte de renta | Tus pagos de renta a tiempo pueden reportarse a las agencias. | Pregunta a tu arrendador. | si
+* fa-money | Préstamo constructor de crédito | Pagas cuotas y al final recibes el dinero. | Revisa el costo total. | igual
+
+--- paso | fa-exclamation-circle | Cuidado con bloquear tu dinero
+Si tienes 500 de reserva y un producto te pide bloquear 400 como depósito, solo te quedan 100 para emergencias.
+
+Ningún producto conviene si bloquea tu único dinero para la renta.
+
+--- paso | fa-check | No necesitas pagar intereses
+Para crear historial con una tarjeta, **usa poco y paga el saldo completo cada mes**. Así no pagas intereses y tu historial crece igual.
+
+> **Idea clave:** un producto que no reporta a las agencias de crédito no te construye historial, aunque pagues puntual.
+
+--- pasos | fa-check-square-o | Hazlo esta semana
+1. Pregunta a tu arrendador si puede reportar tu renta a las agencias.
+2. Pregunta en una cooperativa por tarjetas garantizadas o círculos de préstamo con ITIN.
+3. Anota cuánto dinero quedaría bloqueado en cada opción.
+
+--- paso | fa-user | Un caso en un minuto
+Andrés llegó a EE. UU. con buen historial en México, pero aquí no tenía nada. Preguntó en una empresa que usa historial de otros países y una tarjeta lo aceptó con su historial mexicano.
+
+Luis, sin historial en ningún país, empezó con una tarjeta garantizada de 200 y pidió que reportaran su renta.
+
+--- comprueba
+1. ¿El depósito de una tarjeta garantizada paga tus compras? || No. Tú pagas tus compras cada mes; el depósito solo respalda el límite.
+2. ¿Necesitas pagar intereses para crear historial? || No. Si pagas el saldo completo cada mes, no pagas intereses.
+
+--- recuerda
+- Elige productos que reporten a las tres agencias.
+- No bloquees tu dinero de emergencias.
+- Paga el saldo completo cada mes.
+
+== profundiza
+
+--- tabla | fa-table | Compara las opciones
+| Opción | Cómo funciona | Qué revisar |
+|---|---|---|
+| Tarjeta garantizada | Depósito que respalda el límite | ¿Reporta? ¿Cuota anual? ¿Cuándo devuelven el depósito? |
+| Préstamo constructor | Pagas cuotas y al final recibes el dinero | Costo total, a quién reporta |
+| Préstamo respaldado por ahorro | Tus ahorros garantizan el préstamo | Dinero bloqueado, interés |
+| Círculo de préstamo | Grupo que presta sin interés y reporta (M3 U09) | Quién lo organiza |
+| Usuario autorizado | Te agregan a la tarjeta de alguien | Su manejo también te afecta |
+| Reporte de renta | Tus pagos de renta se reportan | Si el servicio cobra |
+
+--- tema | fa-home | Tu renta puede construir tu crédito
+Si pagas renta cada mes, ya haces algo que puede contar para tu historial.
+
+En California, una ley reciente (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos la opción de reportar sus pagos puntuales de renta a las agencias de crédito. Aplica a ciertos edificios, por ejemplo los de 15 o más unidades, y reporta solo pagos positivos si tú lo pides. [POR CONFIRMAR]
+
+Pregunta a tu arrendador si ofrece este servicio y si tiene algún costo.
+
+> **Dato adicional:** también hay empresas que reportan tu renta a cambio de una cuota. Antes de pagar, confirma que reporten a las tres agencias y que puedas cancelar.
+
+--- tema | fa-id-card | Con ITIN o con historial de otro país
+Varias cooperativas y algunos bancos ofrecen tarjetas y préstamos con ITIN. Pregunta directamente.
+
+Algunas empresas permiten usar tu historial de crédito de otro país, como México, para ciertas solicitudes en EE. UU. Verifica qué países e instituciones participan.
+
+--- tema | fa-user-plus | Usuario autorizado y cofirmante no son lo mismo
+Como **usuario autorizado** usas la tarjeta de otra persona y su historial puede ayudarte. En muchos casos no eres responsable legal de la deuda.
+
+Como **cofirmante** firmas y respondes por la deuda si la otra persona no paga. Lo verás en M3 U08.
+
+--- tema | fa-calendar | Cuánto tarda en aparecer
+Normalmente tus primeros pagos aparecen en tu reporte uno o dos meses después de abrir la cuenta.
+
+Para que exista un puntaje, muchos modelos necesitan al menos seis meses de historial. Ten paciencia: lo importante es pagar a tiempo cada mes.
+
+--- casos
+### Caso 1. La tarjeta garantizada de Luis
+Luis deposita 300 en una tarjeta garantizada y compra 40 de gasolina.
+? ¿El depósito paga esos 40? || No. Luis debe pagar los 40 según su estado de cuenta.
+? ¿Cómo crea historial sin pagar intereses? || Pagando el saldo completo cada mes.
+
+### Caso 2. Dos ofertas para Mar
+Oferta A cuesta 36 al año y confirma en el contrato que reporta a las tres agencias. Oferta B cuesta 120 y no confirma que reporte.
+? ¿Cuál conviene? || La A: cuesta menos y sí construye historial.
+
+### Caso 3. La renta de Daniela
+Daniela paga 1,600 de renta cada mes, siempre a tiempo, en un edificio de 40 departamentos.
+? ¿Qué puede preguntar? || Si su arrendador ofrece reportar sus pagos de renta a las agencias de crédito.
+
+--- errores
+* Elegir un producto que no reporta | Pagas y no construyes historial | Confirma en el contrato
+* Bloquear tu reserva de emergencia | Te quedas sin dinero para imprevistos | Usa un depósito menor o espera
+* Pagar solo el mínimo de la tarjeta | Pagas intereses sin necesidad | Paga el saldo completo
+* Pensar que necesitas muchas tarjetas | Más riesgo de deuda | Una sola, bien usada, basta
+
+== practica
+
+--- actividad
+**Elige tu primer paso (árbol de decisión H5P):** responde preguntas sobre tus documentos, tu reserva y tu objetivo, y descubre qué opciones revisar.
+
+--- quiz
+1. ¿El depósito de una tarjeta garantizada paga tus compras? a) Sí · b) No
+2. ¿Necesitas pagar intereses para crear historial? a) Sí · b) No
+3. ¿Un producto que no reporta a las agencias construye historial? a) Sí · b) No
+respuestas: 1-b: tú pagas tus compras. 2-b: paga el saldo completo. 3-b: si no reporta, no cuenta.
+
+--- ponlo
+Tienes 500 de reserva. Un producto exige bloquear 400. Hay una posible emergencia de 250. ¿Qué haces?
+respuesta: La emergencia no quedaría cubierta. Considera un producto con menor depósito, esperar, o una ruta que no bloquee tu reserva, como el reporte de renta o un círculo de préstamo.
+
+--- plan
+Compara dos productos y la opción de esperar para fortalecer tu reserva. Anota cuál reporta y cuánto dinero bloquea.
+
+== recursos
+- **Iniciar o reconstruir tu historial** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: la guía "Cómo crear historial de crédito" y las preguntas para una tarjeta garantizada.
+- **Círculos de préstamo** (Mission Asset Fund · español e inglés): https://www.missionassetfund.org/lending-circles/ | Qué buscar: cómo inscribirte, los requisitos y si aceptan ITIN.
+
+== palabras
+- *Historial crediticio:* registro de tus experiencias de crédito.
+- *Tarjeta garantizada:* respaldada por un depósito.
+- *Usuario autorizado:* usa la tarjeta de otra persona.
+- *Cofirmante:* responde por la deuda de otro.
+
+== fuentes
+[S18] CFPB, iniciar o reconstruir historial · Mission Asset Fund · California AB 2747 (reporte de renta) [POR CONFIRMAR].
+
+
+# M3 U04 | ¿Mejorar mi crédito significa borrar todo?
+objetivo: Elegir acciones válidas para recuperar tu historial y reconocer promesas falsas.
+gancho: Mar vio un anuncio: "Borramos tus deudas del buró en 30 días, 499 dólares". Tenía algunos atrasos y la oferta sonaba perfecta. Antes de pagar, preguntó. En esta lección aprenderás qué sí puedes hacer y qué promesas son falsas.
+
+== esencial
+
+--- paso | fa-eraser | No se borra lo que sí pasó
+Si un dato de tu reporte está mal, puedes disputarlo. Si un atraso sí ocurrió, no se borra: el trabajo es otro.
+
+Mejorar tu crédito significa corregir errores y, sobre todo, pagar a tiempo de aquí en adelante.
+
+--- tarjetas | fa-th-large | Corregir y reconstruir son distintos
+* fa-wrench | Corregir | Buscar que tu reporte sea exacto, con disputas y pruebas. | Solo para errores. | igual
+* fa-line-chart | Reconstruir | Pagar a tiempo, bajar saldos y no abrir deudas de más. | Toma meses, pero funciona. | si
+
+--- paso | fa-percent | La utilización de tus tarjetas
+La **{{utilización de crédito|Qué parte de tu límite de tarjeta estás usando. Si debes 300 de un límite de 1,000, usas 30%.}}** es cuánto de tu límite estás usando.
+
+Saldo 900 con límite 1,500 = 60%. Si bajas el saldo a 450, queda en 30%.
+
+Usar menos de tu límite ayuda a tu puntaje. No existe un porcentaje mágico que garantice un número.
+
+--- paso | fa-exclamation-triangle | Promesas falsas
+Desconfía de quien promete:
+
+- borrar toda la información negativa;
+- subir tu puntaje una cantidad garantizada;
+- crear una "nueva identidad de crédito";
+- cobrar antes de hacer el trabajo.
+
+Todo lo que hace una empresa legítima de reparación de crédito, tú lo puedes hacer gratis.
+
+--- pasos | fa-check-square-o | Hazlo esta semana
+1. Revisa tu reporte y separa errores de datos correctos.
+2. Disputa solo los errores, con pruebas.
+3. Pon alertas para pagar todo a tiempo.
+
+> **Idea clave:** nadie puede garantizarte una cantidad de puntos ni borrar información correcta.
+
+--- paso | fa-user | Un caso en un minuto
+Daniela tenía dos pagos atrasados el año pasado. En lugar de pagar por "reparar" su crédito, puso pagos automáticos del mínimo en sus dos tarjetas y bajó su saldo poco a poco.
+
+Un año después, sus atrasos siguen en el reporte, pero tiene doce meses seguidos de pagos a tiempo. Ya le aprobaron un préstamo con mejor tasa.
+
+--- tarjetas | fa-th-large | Qué pesa en tu puntaje
+* fa-calendar-check-o | Pagos a tiempo | Lo que más pesa. | Nunca te atrases. | si
+* fa-percent | Utilización | Cuánto de tu límite usas. | Usa poco. | si
+* fa-hourglass-half | Antigüedad | Cuánto tiempo tienes con crédito. | No cierres tu tarjeta más antigua sin pensar. | igual
+
+--- comprueba
+1. ¿Se puede borrar un atraso real porque baja tu puntaje? || No. Un dato correcto se queda; se mejora pagando a tiempo.
+2. Una empresa te cobra antes de hacer la "reparación". ¿Es normal? || No. Es una señal de alarma y la ley lo prohíbe.
+
+--- recuerda
+- Corrige errores y reconstruye pagando a tiempo.
+- Baja el saldo de tus tarjetas.
+- Nadie puede borrar lo que sí pasó.
+
+== profundiza
+
+--- tema | fa-search | Identifica la causa
+Primero identifica por qué tu historial no está bien: un error, un fraude, un atraso, saldos altos o cambios recientes.
+
+Cada causa tiene una acción distinta. Un fraude se reporta; un error se disputa; un atraso se atiende con un plan de pagos; un saldo alto se baja poco a poco.
+
+--- tema | fa-calendar-check-o | Rutina que funciona
+- Anota las fechas de pago de todas tus deudas.
+- Asegura que haya dinero antes de cada pago automático.
+- Si ves que te vas a atrasar, contacta al acreedor antes de la fecha.
+
+Un solo pago a tiempo no cambia todo. Muchos pagos a tiempo, uno tras otro, sí.
+
+--- tema | fa-clock-o | Los relojes son distintos
+Tu pago, la actualización de tu reporte, el tiempo que se queda un dato y el cambio de tu puntaje ocurren en momentos distintos.
+
+Por eso puedes pagar hoy y ver el cambio en tu reporte uno o dos meses después.
+
+--- tema | fa-gavel | La ley te protege
+La ley federal prohíbe que las empresas de reparación de crédito te cobren antes de hacer el trabajo. También deben darte un contrato por escrito y tienes 3 días para cancelarlo.
+
+> **Dato adicional:** en California, las empresas de servicios de crédito deben registrarse ante el estado. Si una no lo está, es una señal de alarma.
+
+--- tema | fa-lightbulb-o | Ideas que sí ayudan
+- Pon un recordatorio o un pago automático del mínimo en cada tarjeta.
+- Paga más de una vez al mes si puedes: baja tu utilización.
+- No abras varias cuentas nuevas en poco tiempo.
+- Si tienes una tarjeta vieja sin cuota anual, mantenla abierta y úsala de vez en cuando.
+
+--- tema | fa-user-secret | Cómo reconocer a una empresa legítima
+Una empresa legítima de asesoría de crédito no te promete resultados, no te cobra antes y te da un contrato por escrito.
+
+Muchas agencias sin fines de lucro ofrecen asesoría gratis o de bajo costo. Pregunta si están afiliadas a una organización nacional de consejería de crédito.
+
+--- casos
+### Caso 1. La oferta de 30 días
+A Mar le ofrecen borrar sus atrasos reales en 30 días por 499 dólares.
+? ¿Contrata? || No. Revisa sus datos, disputa solo errores y organiza sus pagos.
+
+### Caso 2. La utilización de Andrés
+Andrés tiene 600 de saldo con un límite de 1,000: 60%. Paga 300 y baja a 30%.
+? ¿Cuántos puntos subirá? || No lo sabe, pero sí sabe que redujo su deuda y su utilización.
+
+### Caso 3. La "nueva identidad" de Luis
+A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
+? ¿Qué es? || Una estafa y un delito. Usar un número que no es tuyo puede traer problemas legales serios.
+
+--- errores
+* Pagar por "borrar" atrasos reales | Pierdes dinero y el dato se queda | Organiza tus pagos
+* Esperar un número de puntos garantizado | Te frustras | Mide acciones: pagos a tiempo, saldo menor
+* Abrir muchas tarjetas nuevas | Más consultas y más riesgo | Usa bien las que tienes
+* Aceptar un "número nuevo" | Delito y problemas legales | Usa solo tu SSN o ITIN
+
+== practica
+
+--- actividad
+**¿Legítimo o estafa? (tarjetas H5P):** lee anuncios de "reparación de crédito" y decide cuáles son señales de alarma.
+
+--- quiz
+1. ¿Se puede borrar un atraso real porque baja tu puntaje? a) Sí · b) No
+2. Saldo 240 y límite 800. ¿Utilización? a) 30% · b) 24%
+3. ¿Una empresa puede cobrarte antes de hacer el trabajo de reparación? a) Es una señal de alarma · b) Es normal
+respuestas: 1-b: los datos correctos se quedan. 2-a: 240 ÷ 800 = 0.30. 3-a: la ley lo prohíbe.
+
+--- ponlo
+Un servicio garantiza borrar tus atrasos reales en 30 días. ¿Qué haces?
+respuesta: No contratas por esa promesa. Verificas tus datos, disputas solo errores y organizas tus pagos.
+
+--- plan
+Elige tres acciones con fecha: revisar tu reporte, corregir si aplica y organizar tus pagos. Registra resultados, sin esperar una fecha garantizada.
+
+== recursos
+- **Reparación de crédito: estafas** (FTC · español): https://consumidor.ftc.gov | Qué buscar: escribe "reparación de crédito" para ver las señales de estafa y cómo hacerlo tú gratis.
+- **Reportes y puntajes de crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: "Cómo mejorar tu puntaje" y la explicación de la utilización.
+
+== palabras
+- *Utilización de crédito:* saldo entre límite.
+- *Mora o atraso:* no pagar a tiempo.
+- *Cobranza:* gestiones para cobrar una deuda.
+
+== fuentes
+[S20] FTC, reparación de crédito · Ley de Organizaciones de Reparación de Crédito · Código Civil de California, servicios de crédito.
+
+
+# M3 U05 | ¿Por qué un pago pequeño puede salir más caro?
+objetivo: Comparar préstamos y tarjetas por su costo total, no por la mensualidad.
+gancho: A Daniela le ofrecieron un horno profesional para su negocio "por solo 70 dólares al mes". Parecía barato. Cuando multiplicó, el horno le costaba casi el doble de su precio. En esta lección aprenderás a ver el costo total antes de firmar.
+
+== esencial
+
+--- tabla | fa-calculator | La mensualidad baja puede costar más
+| Oferta | Pago al mes | Meses | Total |
+|---|---|---|---|
+| 1 | 10 | 10 | 100 |
+| 2 | 8 | 15 | 120 |
+
+La oferta 2 tiene el pago más bajo, pero cuesta 20 más en total.
+
+--- paso | fa-plus-circle | Suma todo
+Una mensualidad pequeña puede venir de un plazo más largo y de un **{{costo total|Todo lo que pagas por un préstamo: los pagos, los intereses y las comisiones, sumados.}}** mayor.
+
+Suma todos los pagos y los cargos. Compara ese total con lo que recibes.
+
+--- pasos | fa-list-ol | Tres pasos para comparar
+1. **Identifica cuánto recibes** de verdad, después de comisiones.
+2. **Suma todos los pagos y cargos.**
+3. **Revisa si los pagos caben** en tus fechas de cobro.
+
+--- paso | fa-credit-card | El pago mínimo de la tarjeta
+El **{{pago mínimo|Lo menos que puedes pagar de tu tarjeta para no atrasarte. Si solo pagas eso, la deuda tarda años en bajar.}}** mantiene tu tarjeta al corriente, pero alarga mucho la deuda.
+
+Si solo pagas el mínimo, puedes tardar años en terminar y pagar mucho en intereses. Tu estado de cuenta muestra cuánto tardarías.
+
+--- paso | fa-user | Un caso en un minuto
+Luis compró un celular con "paga en 4" en una app, luego unos tenis y luego unos audífonos. Cada plan era de 35 dólares.
+
+Por separado parecían pequeños. Juntos eran 140 cada dos semanas, y se cobraban solos de su tarjeta de débito.
+
+Ahora anota todos sus planes en un solo lugar antes de agregar uno más.
+
+> **Idea clave:** compara por el costo total, no por lo que pagas cada mes.
+
+--- paso | fa-question-circle | Tres preguntas antes de aceptar
+1. ¿Cuánto recibo de verdad?
+2. ¿Cuánto pago en total, sumando todo?
+3. ¿Qué pasa si me atraso?
+
+Si no puedes contestar las tres, todavía no tienes suficiente información para firmar.
+
+--- comprueba
+1. ¿Pagar el mínimo de tu tarjeta evita intereses? || No. Solo evita el atraso; los intereses se siguen cobrando.
+2. Pagos de 70 durante 24 meses por un préstamo de 1,000. ¿Cuánto pagas en total? || 1,680, porque 70 × 24 = 1,680.
+
+--- recuerda
+- Multiplica la mensualidad por el número de pagos.
+- El pago mínimo alarga la deuda.
+- Suma todos tus planes de "paga después".
+
+== profundiza
+
+--- tema | fa-percent | El APR
+El **APR** es el costo anual del crédito calculado con reglas oficiales. Sirve para comparar préstamos entre sí.
+
+Revisa qué cargos incluye y cuáles no. Un préstamo con APR más bajo normalmente cuesta menos.
+
+--- tabla | fa-table | Cómo se reparte un pago
+Préstamo de 1,000 al 1% mensual con pagos de 100.
+
+| Mes | Saldo inicial | Interés | Abono a capital | Saldo final |
+|---|---|---|---|---|
+| 1 | 1,000.00 | 10.00 | 90.00 | 910.00 |
+| 2 | 910.00 | 9.10 | 90.90 | 819.10 |
+| 3 | 819.10 | 8.19 | 91.81 | 727.29 |
+
+El interés se calcula sobre lo que queda por pagar. Por eso cada mes abonas un poco más al {{capital|La cantidad que te prestaron, sin contar intereses.}}.
+
+--- tarjetas | fa-credit-card | Palabras de tu tarjeta
+* fa-scissors | Fecha de corte | Cierre del periodo de tu estado de cuenta. | Lo que compras después va al siguiente. | igual
+* fa-calendar-times-o | Fecha límite de pago | Último día para pagar sin atraso. | Paga antes. | no
+* fa-gift | {{Periodo de gracia|Tiempo en que no te cobran intereses si pagas todo el saldo a tiempo.}} | Si pagas el saldo completo a tiempo, no hay intereses en compras. | No aplica a adelantos de efectivo. | si
+* fa-exclamation | Interés diferido | Si no liquidas a tiempo, te cobran todo el interés acumulado. | No es igual que 0%. | no
+
+--- tema | fa-shopping-bag | Otros productos que comprometen tus cobros
+"Compra ahora y paga después", renta con opción a compra y préstamos de día de pago también comprometen tus próximos cobros.
+
+Suma todos tus planes, no cada uno aislado.
+
+--- tema | fa-scissors | Cargos iniciales
+Si te prestan 1,000 pero te retienen 50 de comisión, recibes 950. Si devuelves 1,100, el costo es 150 sobre lo que realmente recibiste.
+
+> **Dato adicional:** en California, la renta con opción a compra tiene límites legales en el precio total. Aun así, casi siempre cuesta mucho más que comprar de contado o ahorrar unos meses.
+
+--- tema | fa-calendar | Compra ahora y paga después
+Las apps de "paga en 4" no suelen cobrar intereses si pagas a tiempo, pero pueden cobrar cargos por atraso.
+
+El riesgo es sumar varios planes a la vez y que se cobren de tu tarjeta de débito cuando no tienes saldo.
+
+Antes de usar uno, anota todos los que ya tienes y sus fechas.
+
+--- tema | fa-ban | Préstamos de día de pago
+Los préstamos de día de pago son pequeños y se pagan en tu próximo cobro. Suelen tener un costo anual muy alto.
+
+En California tienen límites de monto y de cargos, pero aun así son caros. Antes, pregunta en tu cooperativa por un préstamo pequeño de bajo costo.
+
+--- casos
+### Caso 1. Dos préstamos de Andrés
+A: recibe 1,000, paga 50 al inicio y 12 pagos de 95. B: recibe 1,000, sin comisión, 12 pagos de 98.
+? ¿Cuánto cuesta cada uno? || A: 50 + 1,140 = 1,190. B: 1,176.
+? ¿Cuál conviene? || B, que cuesta 14 menos.
+
+### Caso 2. El horno de Daniela
+El horno cuesta 900 de contado. La tienda ofrece pagos de 70 al mes durante 24 meses.
+? ¿Cuánto pagaría en total? || 1,680: 780 más que de contado.
+? ¿Qué opciones tiene? || Ahorrar unos meses, buscar un préstamo de una cooperativa con menor costo o comprar uno usado.
+
+### Caso 3. Los planes de Luis
+Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
+? ¿Cuánto le sale cada dos semanas? || 140, juntos.
+
+--- errores
+* Comparar solo la mensualidad | Pagas mucho más en total | Suma todos los pagos
+* Pagar solo el mínimo | La deuda dura años | Paga más del mínimo o el total
+* Creer que interés diferido es 0% | Te cobran todo el interés de golpe | Liquida antes de la fecha
+* Sumar planes de "paga después" sin control | Se come tus cobros | Anótalos todos en un lugar
+
+== practica
+
+--- actividad
+**Tabla de amortización (H5P):** compara el pago mensual y el interés total de un mismo préstamo a 12, 24 y 36 meses.
+
+--- quiz
+1. Préstamo A: 10 pagos de 110 más 40 de comisión. B: 10 pagos de 112. ¿Cuál cuesta menos? a) A (1,140) · b) B (1,120)
+2. ¿Pagar el mínimo evita intereses? a) Sí · b) No
+3. ¿Interés diferido es lo mismo que 0%? a) Sí · b) No
+respuestas: 1-b: B cuesta 20 menos. 2-b: solo evita el atraso. 3-b: si no liquidas a tiempo, cobran todo.
+
+--- ponlo
+La oferta C tiene pagos de 70 durante 24 meses, sin otros cargos, para los mismos 1,000. ¿Es más barata?
+respuesta: No. 70 × 24 = 1,680. La cuota es menor, pero el costo total es mucho mayor.
+
+--- plan
+Compara dos ofertas para la misma necesidad: monto recibido, total, calendario, garantía y riesgos.
+
+== recursos
+- **Cómo funciona el interés de las tarjetas** (CFPB · español e inglés): https://www.consumerfinance.gov/es/ | Qué buscar: escribe "periodo de gracia" y "interés diferido" para ver ejemplos con números.
+- **Préstamos para auto** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/auto-loans/ | Qué buscar: la herramienta para comparar ofertas de préstamo por costo total.
+
+== palabras
+- *APR:* costo anual del crédito.
+- *Amortización:* cómo se reduce el capital con los pagos.
+- *Pago mínimo:* lo mínimo requerido cada mes.
+- *Periodo de gracia:* tiempo en que puedes evitar intereses.
+
+== fuentes
+[R28] CFPB, interés de tarjetas · [R29] CFPB, periodo de gracia · Ley Karnette de renta con opción a compra de California.

@@ -368,7 +368,7 @@ Como anotó cada viaje, puede demostrar cuántas millas usó para trabajar. Su g
 
 Si no hubiera guardado nada, podría pagar impuestos sobre dinero que en realidad gastó en su trabajo.
 
---- paso | fa-piggy-bank | Aparta para impuestos desde el primer día
+--- paso | fa-money | Aparta para impuestos desde el primer día
 Si trabajas por tu cuenta, nadie te descuenta impuestos. Por eso conviene abrir un sobre o una cuenta aparte solo para impuestos.
 
 Cada vez que cobres, pasa una parte a ese sobre. Así, cuando llegue el momento de pagar, no tendrás que sacar el dinero de la renta o la comida.

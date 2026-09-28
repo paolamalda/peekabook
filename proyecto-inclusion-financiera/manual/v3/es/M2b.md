@@ -85,7 +85,7 @@ Cuando varios hermanos envían a los papás, conviene acordar cuánto pone cada 
 
 Así nadie carga solo con todo y los papás saben con qué cuentan cada mes.
 
---- tema | fa-piggy-bank | Un sobre para envíos
+--- tema | fa-money | Un sobre para envíos
 Si envías cada mes, abre un sobre digital o una cuenta aparte solo para envíos.
 
 Pasa una parte de cada cobro a ese sobre. Cuando llegue la fecha de envío, el dinero ya está ahí y no tienes que decidir con prisa.
@@ -843,7 +843,7 @@ Hay estafas que venden terrenos que no existen, que ya tienen dueño o que no se
 
 Antes de pagar, pide la escritura, verifica en el Registro Público de la Propiedad y no pagues por adelantado grandes sumas a desconocidos.
 
---- tema | fa-piggy-bank | Dónde guardar el dinero de la meta
+--- tema | fa-money | Dónde guardar el dinero de la meta
 Mientras ahorras para tu meta en México, guarda el dinero separado de tu cuenta del día a día, por ejemplo en una cuenta de ahorro asegurada.
 
 Envíalo cuando se vaya a usar, no antes. Así el dinero no se gasta en otra cosa allá ni se pierde si cambia el plan.
