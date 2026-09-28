@@ -251,3 +251,239 @@ $CATEGORY: $course$/Your Money v3/M1
 	=Not necessarily; adjust the plan #Correct! The plan adapts to your reality.
 	~Yes, and stop paying other things #Not the best option. The plan adapts to your reality.
 }
+
+$CATEGORY: $course$/Your Money v3/M2
+
+::M2 U01 P1::Can you open an account at the central bank? {
+	~Yes #Not the best option. It doesn't serve individuals.
+	=No #Correct! It doesn't serve individuals.
+	~Yes, with an ITIN #Not the best option. It doesn't serve individuals.
+}
+
+::M2 U01 P2::Who should explain a policy's deductible? {
+	=The insurer #Correct! The policy is theirs.
+	~The central bank #Not the best option. The policy is theirs.
+	~The money transmitter #Not the best option. The policy is theirs.
+}
+
+::M2 U01 P3::A company is registered with a regulator. Does that guarantee its offer is good for you? {
+	~Yes #Not the best option. Registration is not a guarantee.
+	=No #Correct! Registration is not a guarantee.
+	~Yes, if it has many customers #Not the best option. Registration is not a guarantee.
+}
+
+::M2 U02 P1::Does "digital" mean it's a bank? {
+	~Yes #Not the best option. It describes access, not the license.
+	=No #Correct! It describes access, not the license.
+	~Yes, if it has a debit card #Not the best option. It describes access, not the license.
+}
+
+::M2 U02 P2::Is an investment bought at a bank FDIC-insured? {
+	~Yes #Not the best option. Investments aren't deposits.
+	=No #Correct! Investments aren't deposits.
+	~Yes, up to 250,000 #Not the best option. Investments aren't deposits.
+}
+
+::M2 U02 P3::Does deposit insurance protect you from a scam? {
+	~Yes #Not the best option. It only protects you if the bank fails.
+	=No #Correct! It only protects you if the bank fails.
+	~Yes, if you report it within 24 hours #Not the best option. It only protects you if the bank fails.
+}
+
+::M2 U03 P1::Does the AB 60 license work as a REAL ID? {
+	~Yes #Not the best option. It doesn't work for federal purposes.
+	=No #Correct! It doesn't work for federal purposes.
+	~Yes, for flying within the U.S. #Not the best option. It doesn't work for federal purposes.
+}
+
+::M2 U03 P2::Is the ITIN a photo ID? {
+	~Yes #Not the best option. It's only a tax number.
+	=No #Correct! It's only a tax number.
+	~Yes, if you print it #Not the best option. It's only a tax number.
+}
+
+::M2 U03 P3::Where do you get a consular ID? {
+	~At any store #Not the best option. Only at the consulate.
+	=At the consulate, with an official appointment #Correct! Only at the consulate.
+	~Through a helper who sells appointments #Not the best option. Only at the consulate.
+}
+
+::M2 U04 P1::Are the opening deposit and the minimum balance the same? {
+	~Yes #Not the best option. One is to open and the other is monthly.
+	=No #Correct! One is to open and the other is monthly.
+	~Yes, both are paid every month #Not the best option. One is to open and the other is monthly.
+}
+
+::M2 U04 P2::An account is free with direct deposit and you get paid in cash. Can you assume it's free? {
+	~Yes #Not the best option. It depends on whether you meet the condition.
+	=No #Correct! It depends on whether you meet the condition.
+	~Yes, if you never overdraw #Not the best option. It depends on whether you meet the condition.
+}
+
+::M2 U04 P3::Does a joint account let the other person withdraw money? {
+	=Yes #Correct! Any owner can withdraw.
+	~No #Not the best option. Any owner can withdraw.
+	~Only with your written permission each time #Not the best option. Any owner can withdraw.
+}
+
+::M2 U05 P1::Is a check you already see in your balance guaranteed? {
+	~Yes #Not the best option. It can bounce.
+	=No #Correct! It can bounce.
+	~Yes, after 24 hours #Not the best option. It can bounce.
+}
+
+::M2 U05 P2::Which is harder to get back? {
+	~An unauthorized charge #Not the best option. You authorized it.
+	=A payment you authorized because you were tricked #Correct! You authorized it.
+	~Both are recovered the same if you report within 60 days #Not the best option. You authorized it.
+}
+
+::M2 U05 P3::To cancel a subscription, is canceling the card enough? {
+	~Yes #Not the best option. Cancel with the company.
+	=No #Correct! Cancel with the company.
+	~Yes, if you report it lost #Not the best option. Cancel with the company.
+}
+
+::M2 U06 P1::Does planning a remittance mean loving your family less? {
+	~Yes #Not the best option. It's making sure it continues.
+	=No #Correct! It's making sure it continues.
+	~Yes, if you send less than before #Not the best option. It's making sure it continues.
+}
+
+::M2 U06 P2::In what currency should you define a need that's paid in Mexico? {
+	~Dollars #Not the best option. It's the currency it's spent in.
+	=Pesos #Correct! It's the currency it's spent in.
+	~The currency of the country where you live #Not the best option. It's the currency it's spent in.
+}
+
+::M2 U06 P3::Is it wise to ask for your relative's bank password to help them? {
+	~Yes #Not the best option. It undermines their independence and security.
+	=No #Correct! It undermines their independence and security.
+	~Yes, if it's your mom #Not the best option. It undermines their independence and security.
+}
+
+::M2 U07 P1::Is the cost of sending subtracted from your capacity? {
+	=Yes #Correct! It also comes out of your pocket.
+	~No #Not the best option. It also comes out of your pocket.
+	~Only if you pay by card #Not the best option. It also comes out of your pocket.
+}
+
+::M2 U07 P2::If your capacity comes out negative, what do you do? {
+	~Write zero #Not the best option. The shortfall is information.
+	=Show the shortfall and look for options #Correct! The shortfall is information.
+	~Borrow to send the usual amount #Not the best option. The shortfall is information.
+}
+
+::M2 U07 P3::Is it wise to promise a fixed amount if your income varies? {
+	~Yes #Not the best option. A range protects you.
+	=Better a range #Correct! A range protects you.
+	~Yes, that way your family can plan better #Not the best option. A range protects you.
+}
+
+::M2 U08 P1::Does "no fee" guarantee more money arrives? {
+	~Yes #Not the best option. The exchange rate also counts.
+	=No #Correct! The exchange rate also counts.
+	~Yes, if it's also the first transfer #Not the best option. The exchange rate also counts.
+}
+
+::M2 U08 P2::Does the 1% tax apply to all remittances? {
+	~Yes #Not the best option. Only those paid in cash or similar.
+	=No, to certain remittances paid with cash or physical instruments #Correct! Only those paid in cash or similar.
+	~Only to remittances sent by app to another country #Not the best option. Only those paid in cash or similar.
+}
+
+::M2 U08 P3::To compare, what has to be the same? {
+	=The base\: same budget or same amount to be received #Correct! Otherwise they can't be compared.
+	~Nothing #Not the best option. Otherwise they can't be compared.
+	~Only the fee; the exchange rate doesn't matter #Not the best option. Otherwise they can't be compared.
+}
+
+::M2 U09 P1::Where do you check a money transmitter's license in California? {
+	=DFPI or NMLS #Correct! They're the official records.
+	~In its ad #Not the best option. They're the official records.
+	~In social media reviews #Not the best option. They're the official records.
+}
+
+::M2 U09 P2::In general, how much time do you have to cancel at no cost? {
+	=30 minutes #Correct! If the money hasn't been picked up.
+	~30 days #Not the best option. If the money hasn't been picked up.
+	~7 days #Not the best option. If the money hasn't been picked up.
+}
+
+::M2 U09 P3::Does "you have 180 days" mean it's wise to wait? {
+	~Yes #Not the best option. Act quickly.
+	=No #Correct! Act quickly.
+	~Yes, so the company notices on its own #Not the best option. Act quickly.
+}
+
+::M2 U10 P1::Is borrowed money earned income? {
+	~Yes #Not the best option. You have to pay it back.
+	=No #Correct! You have to pay it back.
+	~Yes, if it's from a relative #Not the best option. You have to pay it back.
+}
+
+::M2 U10 P2::If you "roll over" by paying only the fee, do you reduce what you owe? {
+	~Yes #Not the best option. You still owe the same.
+	=No #Correct! You still owe the same.
+	~Yes, a little each time #Not the best option. You still owe the same.
+}
+
+::M2 U10 P3::Is a pay advance through an app a debt? {
+	=Yes #Correct! It comes out of your next paycheck.
+	~No #Not the best option. It comes out of your next paycheck.
+	~No, because it's your own money #Not the best option. It comes out of your next paycheck.
+}
+
+::M2 U11 P1::Which number do you call to verify an emergency? {
+	~The one in the message #Not the best option. The one in the message may belong to the scammer.
+	=One you already knew #Correct! The one in the message may belong to the scammer.
+	~The one the caller gives you #Not the best option. The one in the message may belong to the scammer.
+}
+
+::M2 U11 P2::Does a voice that sounds just like your relative prove it's real? {
+	~Yes #Not the best option. Voices can be cloned today.
+	=No #Correct! Voices can be cloned today.
+	~Yes, if it says your name #Not the best option. Voices can be cloned today.
+}
+
+::M2 U11 P3::How many parts does a good family agreement have? {
+	~2 #Not the best option. Purpose, range, date, emergencies, verification and review.
+	=6 #Correct! Purpose, range, date, emergencies, verification and review.
+	~1\: the amount #Not the best option. Purpose, range, date, emergencies, verification and review.
+}
+
+::M2 U12 P1::In what currency do you set a goal that's paid in Mexico? {
+	=Pesos #Correct! That's how it's paid.
+	~Dollars #Not the best option. That's how it's paid.
+	~Whichever currency is cheaper that day #Not the best option. That's how it's paid.
+}
+
+::M2 U12 P2::Does your transfer receipt prove you own a piece of land? {
+	~Yes #Not the best option. It only proves the transfer.
+	=No #Correct! It only proves the transfer.
+	~Yes, if you keep all the receipts #Not the best option. It only proves the transfer.
+}
+
+::M2 U12 P3::Can one contribution count for two goals at the same time? {
+	~Yes #Not the best option. Every dollar has one job.
+	=No #Correct! Every dollar has one job.
+	~Yes, if they're for the same family #Not the best option. Every dollar has one job.
+}
+
+::M2 U13 P1::What best shows that you compared? {
+	~Downloading an app #Not the best option. It's concrete evidence.
+	=A sheet with two offers and a date #Correct! It's concrete evidence.
+	~Asking a friend which one they use #Not the best option. It's concrete evidence.
+}
+
+::M2 U13 P2::Is sending less always better? {
+	~Yes #Not the best option. It depends on your capacity and the need.
+	=No #Correct! It depends on your capacity and the need.
+	~Yes, if the exchange rate goes up #Not the best option. It depends on your capacity and the need.
+}
+
+::M2 U13 P3::Does a promotion represent the usual cost? {
+	~Yes #Not the best option. Compare the later price.
+	=No #Correct! Compare the later price.
+	~Yes, if it lasts more than a month #Not the best option. Compare the later price.
+}
