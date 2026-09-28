@@ -1,0 +1,95 @@
+CURSO COMPLETO PARA MOODLE (FORMATO NUEVO)
+Tu Dinero, Tu Familia, Tu Futuro · Desarrolla Talento · 28 de septiembre de 2026
+Hecho para Moodle 3.10 (tema Boost); aún no se ha subido a la plataforma. No necesita plugins nuevos ni migrar MySQL.
+
+QUÉ CONTIENE
+------------
+1_libros/M1_libro_Moodle.zip ... M5_libro_Moodle.zip
+    Las 59 lecciones en formato nuevo. Cada lección = 1 capítulo (portada con ruta
+    de 5 o 10 min) + 3 subcapítulos (Lo esencial, Profundiza, Practica).
+1_libros/Apoyo_libro_Moodle.zip
+    Bienvenida, casos, prácticas, glosario general, ayuda y referencias.
+    OJO: este libro aún está en el diseño anterior (texto plano). Funciona igual.
+1_libros/M1_resumen.html ... M5_resumen.html
+    Texto para la descripción de cada sección.
+2_glosario/Glosario_curso_Moodle.xml
+    Un solo glosario con todos los términos del curso (sin repetidos).
+3_preguntas/banco_preguntas_es.gift.txt
+    175 preguntas (versión anterior; siguen siendo válidas). Las lecciones nuevas
+    ya traen su propia práctica con respuestas dentro del libro.
+4_guias/  Guía de Level Up e insignias y guiones H5P.
+README_PARA_CLAUDE.md  Las mismas instrucciones, para que Claude lo instale por ti.
+
+ANTES DE EMPEZAR
+----------------
+- Ten un respaldo reciente del sitio (cPanel o Administración del sitio > Cursos > Respaldos).
+- Entra como administrador.
+
+PASO A PASO (unos 30 a 40 minutos)
+----------------------------------
+1. CREAR EL CURSO
+   Administración del sitio > Cursos > Agregar un nuevo curso.
+   Nombre: Tu Dinero, Tu Familia, Tu Futuro (piloto California) · Nombre corto: TDTF-CA-ES
+   Visibilidad: Ocultar · Formato: Temas, 7 secciones · Seguimiento de finalización: Sí.
+
+2. NOMBRAR LAS SECCIONES (modo de edición)
+   General: Bienvenida
+   1: Módulo 1. Entiende tu dinero y organiza tu economía
+   2: Módulo 2. Entiende el sistema financiero y planea tus remesas
+   3: Módulo 3. Construye tu crédito y maneja tus deudas
+   4: Módulo 4. Protege tu dinero, tu identidad y tu familia
+   5: Módulo 5. Construye patrimonio y prepara tu futuro
+   6: Materiales de apoyo
+   7: Evaluación y constancia
+   En la descripción de cada módulo pega el contenido de MN_resumen.html
+   (en el editor, botón "</>" o "HTML", pega y guarda).
+
+3. UN LIBRO POR MÓDULO (repetir para M1 a M5)
+   En la sección del módulo: Agregar una actividad o un recurso > Libro.
+   Nombre: Lecciones del Módulo N · Formato de capítulo: Nada (los títulos ya traen número)
+   · Finalización: "Ver". Guardar y mostrar.
+   En el menú del libro (engrane): Importar capítulo > sube MN_libro_Moodle.zip >
+   Tipo: "Cada archivo HTML representa un capítulo" > Importar.
+   Debes ver:  M1 14 capítulos (56 páginas) · M2 13 (52) · M3 10 (40) · M4 11 (44) · M5 11 (44).
+   Los subcapítulos aparecen sangrados bajo cada lección. Eso es correcto.
+
+4. LIBRO DE APOYO
+   Sección 6: Libro "Materiales de apoyo" > Importar capítulo > Apoyo_libro_Moodle.zip (6 capítulos).
+
+5. GLOSARIO
+   Sección 6: Agregar > Glosario > "Palabras clave del curso" > Guardar y mostrar.
+   Engrane > Importar entradas > sube Glosario_curso_Moodle.xml > Destino: glosario actual.
+
+6. BANCO DE PREGUNTAS Y AUTOEVALUACIONES (opcional en esta primera revisión)
+   Administración del curso > Banco de preguntas > Importar > GIFT > banco_preguntas_es.gift.txt.
+   Luego, por módulo: Agregar > Cuestionario "Autoevaluación del Módulo N",
+   aprobación 70%, intentos ilimitados, agrega las preguntas de la categoría MN.
+
+7. FORO DE DUDAS (sección General)
+   Foro para uso general "Dudas y comentarios". Descripción: "No compartas números de
+   cuenta, SSN, ITIN, contraseñas ni tu situación migratoria."
+
+8. LEVEL UP (si ya está el bloque)
+   Agrega el bloque al curso y sigue 4_guias/Guia_LevelUp_Insignias_ES.docx.
+   No crees insignias todavía.
+
+9. REVISA
+   Abre 2 o 3 lecciones como estudiante (Cambiar rol a... > Estudiante):
+   - la portada muestra "Ruta rápida 5 min" y "Ruta completa 10 min";
+   - los términos en color muestran su significado al pasar el cursor o tocarlos;
+   - las respuestas se abren con un clic;
+   - los íconos se ven (si ves cuadros vacíos, avísame).
+
+IMPORTANTE
+----------
+- No edites las lecciones con el editor de Moodle: puede borrar el diseño. Si hay que
+  corregir algo, se corrige el archivo y se vuelve a importar.
+- Para reemplazar un módulo: borra el libro y crea uno nuevo con el zip corregido.
+- El curso queda oculto hasta que tú lo apruebes.
+
+QUÉ FALTA (no bloquea subirlo)
+------------------------------
+- Libro de apoyo en el diseño nuevo.
+- Versión en inglés con las lecciones nuevas.
+- H5P y preguntas para los casos y personajes nuevos.
+- Pendientes K06 a K13 (datos marcados [POR CONFIRMAR] dentro de las lecciones).
