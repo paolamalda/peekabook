@@ -1,6 +1,6 @@
 # Plan maestro del programa
 
-Actualizado: 28 de septiembre de 2026
+Actualizado: 2026-09-28
 
 ## Diferenciadores
 
@@ -93,6 +93,10 @@ Actualizado: 28 de septiembre de 2026
 - [ ] **L11** App: confirmar que no custodia ni transfiere dinero (evita licencia de transmisor) y revisar términos de tiendas de apps. *(Responsable: Abogado fintech)*
 - [ ] **L12** Licencias de contenido de terceros (obras del gobierno federal, Creative Commons) y permisos para casos reales. *(Responsable: Coordinación curricular)*
 - [ ] **L13** Seguro de responsabilidad profesional (E&O) para la organización. *(Responsable: Administración)*
+- [ ] **K06** Confirmar AB 2747 (California): arrendadores con 15 o más unidades deben ofrecer reportar la renta puntual a burós. Umbral, fecha de vigencia y excepciones (M3 U03). *(Responsable: Abogado)*
+- [ ] **K07** Confirmar si en California un pago parcial revive una deuda prescrita (plazo de 4 años) y cómo redactar la recomendación (M3 U07). *(Responsable: Abogado)*
+- [ ] **K10** Confirmar que en California el aviso para cofirmantes debe entregarse en inglés y en español (M3 U08). *(Responsable: Abogado)*
+- [ ] **K11** Revisar redacción sobre carga pública, Medi-Cal para adultos sin residencia legal (cambios 2026) y clínicas FQHC (M1 U13). *(Responsable: Abogado)*
 
 ### Donativos
 
@@ -148,4 +152,8 @@ Actualizado: 28 de septiembre de 2026
 - [ ] **K03** Integrar contenido gratuito de referencia (FDIC, CFPB, SEC, IRS) como 'Para saber más'. *(Responsable: Claude + Paola)*
 - [ ] **K04** Fichas estatales: Texas, Illinois, Nueva York y Florida. *(Responsable: Coordinación curricular)*
 - [ ] **K05** Grabar audios y construir los interactivos H5P de M1. *(Responsable: Producción)*
+- [ ] **K08** Confirmar qué programas de CalHFA aceptan ITIN y qué prestamistas (cooperativas, CDFI) ofrecen hipotecas con ITIN (M5 U04). *(Responsable: Coordinación curricular)*
+- [ ] **K09** Confirmar con IMSS o consulado las modalidades para quien vive fuera de México: Modalidad 40 (pensión) y 33 (salud); corregir mención a Modalidad 10 (M5 U07). *(Responsable: Coordinación curricular)*
+- [ ] **K12** Probar con un clic todos los enlaces de 'Para saber más' y de dentro del texto; revisar cada 6 meses. *(Responsable: Coordinación curricular)*
+- [ ] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)*
 
