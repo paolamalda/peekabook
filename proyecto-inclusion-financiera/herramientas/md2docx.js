@@ -68,7 +68,7 @@ function convert(md) {
     if (!t) { i++; continue; }
     if (!/^\d+\.\s+/.test(t)) inNumbered = false;
     if (t === '[[TOC]]') {
-      out.push(new TableOfContents('Contenido', { hyperlink: true, headingStyleRange: '1-2' }));
+      out.push(new TableOfContents(process.env.TOC_TITLE || 'Contenido', { hyperlink: true, headingStyleRange: '1-2' }));
       i++; continue;
     }
     if (t === '---') { out.push(new Paragraph({ children: [new PageBreak()] })); i++; continue; }
