@@ -1,4 +1,4 @@
-ENTREGA 10: MÓDULO 2 EN FORMATO NUEVO
+ENTREGA 15: MÓDULO 2 EN FORMATO NUEVO
 Tu Dinero, Tu Familia, Tu Futuro · Desarrolla Talento · 28 de septiembre de 2026
 
 QUÉ CONTIENE
@@ -20,41 +20,29 @@ CÓMO SUBIRLO A MOODLE
 
 QUÉ CAMBIÓ EN ESTE MÓDULO
 ------------------------
-- 13 lecciones con portada, ruta de 5 o 10 minutos, Lo esencial, Profundiza y Practica.
-- Personajes: Luis, Daniela, Alex y Mar.
-- Tus ampliaciones incluidas: pago no autorizado contra pago por engaño en Zelle y apps (U05),
-  envío directo a cuenta en México o Financiera para el Bienestar para evitar el 1% (U06, U08, U13),
-  palabra clave familiar y voces clonadas con IA (U11).
-- Nuevos temas: quejas ante el CFPB, cierre de apps intermediarias, ChexSystems, cuentas sin
-  sobregiro, protección de 50 dólares si avisas en 2 días, hermanos que apoyan juntos, sobre de
-  envíos, rapidez contra costo, qué debe decir tu recibo, fondo para emergencias familiares,
-  poder notarial en consulado, estafas de terrenos.
-- Daniela envía a El Salvador: se aclara que usa dólar y no hay tipo de cambio.
+Versión 3.1: reemplaza a la entrega anterior de este módulo.
+Se corrigieron los íconos que no aparecían en Moodle 3.10 (Font Awesome 4.7): alcancía, sello, chip, planta y círculo.
+El contenido de las lecciones es el mismo.
 
 EXTENSIÓN POR LECCIÓN (palabras: Lo esencial / lección completa)
 -------------------------------------------------------------
-M2 U01: 430 / 982
-M2 U02: 423 / 969
-M2 U03: 372 / 913
-M2 U04: 385 / 880
-M2 U05: 357 / 860
-M2 U06: 356 / 892
-M2 U07: 380 / 901
-M2 U08: 331 / 851
-M2 U09: 329 / 851
-M2 U10: 378 / 871
-M2 U11: 305 / 832
-M2 U12: 328 / 856
-M2 U13: 337 / 824
+M2 U01: 458 / 1035
+M2 U02: 451 / 1022
+M2 U03: 393 / 961
+M2 U04: 415 / 935
+M2 U05: 389 / 923
+M2 U06: 382 / 956
+M2 U07: 411 / 962
+M2 U08: 354 / 900
+M2 U09: 353 / 906
+M2 U10: 409 / 937
+M2 U11: 333 / 892
+M2 U12: 351 / 901
+M2 U13: 365 / 879
 
 A ritmo de lectura pausada (90 a 110 palabras por minuto) y con las pausas para
 responder, Lo esencial toma unos 4 a 5 minutos y la lección completa unos 9 a 10.
 
 POR REVISAR ANTES DE PUBLICAR (también en el plan maestro)
 --------------------------------------------------------
-- Probar enlaces nuevos: queja del CFPB en español, FDIC seguro de depósitos, DFPI, IRS impuesto a
-  remesas.
-- U05: límites de responsabilidad de la Regulación E (50 dólares en 2 días hábiles, 60 días).
-- U08: reglas del impuesto de 1% a remesas en efectivo (confirmar con IRS cada año).
-- U03: discriminación por origen nacional en servicios (Departamento de Derechos Civiles de CA).
-- U13: dato del Banco de México sobre remesas por transferencia electrónica.
+Nada nuevo; aplican los pendientes K06 a K13.

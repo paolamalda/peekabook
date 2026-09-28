@@ -1,13 +1,13 @@
-ENTREGA 09: MÓDULO 1 EN FORMATO NUEVO
+ENTREGA 14: MÓDULO 1 EN FORMATO NUEVO
 Tu Dinero, Tu Familia, Tu Futuro · Desarrolla Talento · 28 de septiembre de 2026
 
 QUÉ CONTIENE
 ------------
-M1_Lecciones_v3.docx        Las 14 lecciones para leer y revisar en Word.
-vista_previa/ABRIR_AQUI.html Ábrelo con doble clic: así se verá en Moodle.
-M1_libro_Moodle.zip          56 páginas (14 lecciones x 4) para importar en un Libro.
-M1_glosario_Moodle.xml       Glosario con los 48 términos del módulo.
-M1a.md / M1b.md              Texto editable (formato para el generador).
+M1_Lecciones_v3.docx         Las 14 lecciones para leer y revisar en Word.
+vista_previa/ABRIR_AQUI.html  Ábrelo con doble clic: así se verá en Moodle.
+M1_libro_Moodle.zip           56 páginas (14 lecciones x 4) para importar en un Libro.
+M1_glosario_Moodle.xml        Glosario con los 48 términos del módulo.
+M1a.md / M1b.md               Texto editable (formato para el generador).
 
 CÓMO SUBIRLO A MOODLE
 ---------------------
@@ -20,43 +20,30 @@ CÓMO SUBIRLO A MOODLE
 
 QUÉ CAMBIÓ EN ESTE MÓDULO
 ------------------------
-- Las 14 lecciones tienen portada con ruta de 5 o 10 minutos, Lo esencial, Profundiza
-  y Practica, cada una en su página.
-- Personajes nuevos: Alex y Mar, Luis, Daniela y Rosa. Nadie tiene situación migratoria
-  declarada.
-- Tus ampliaciones incluidas: bitácora de efectivo y propinas (U04 y U10), ITIN que se
-  desactiva a los 3 años (U09 y U11), clínicas comunitarias FQHC (U13).
-- Nuevos temas: adelantos de nómina, préstamos de '1% semanal', SDI y horas extra en
-  California, derecho a reclamar salarios, renovación automática de suscripciones,
-  regla 50/30/20, planes de pago del IRS, estafas fiscales, qué llevar a VITA.
-- Cada recurso de 'Para saber más' dice qué buscar.
+Versión 3.1: reemplaza a la entrega anterior de este módulo.
+Se corrigieron los íconos que no aparecían en Moodle 3.10 (Font Awesome 4.7): alcancía, sello, chip, planta y círculo.
+El contenido de las lecciones es el mismo.
 
 EXTENSIÓN POR LECCIÓN (palabras: Lo esencial / lección completa)
 -------------------------------------------------------------
-M1 U01: 495 / 1221
-M1 U02: 434 / 1174
-M1 U03: 428 / 1002
-M1 U04: 433 / 1007
-M1 U05: 453 / 1029
-M1 U06: 445 / 1017
-M1 U07: 403 / 974
-M1 U08: 420 / 1012
-M1 U09: 425 / 1021
-M1 U10: 420 / 982
-M1 U11: 365 / 899
-M1 U12: 384 / 931
-M1 U13: 398 / 942
-M1 U14: 356 / 858
+M1 U01: 525 / 1280
+M1 U02: 457 / 1200
+M1 U03: 457 / 1055
+M1 U04: 458 / 1035
+M1 U05: 491 / 1096
+M1 U06: 480 / 1067
+M1 U07: 431 / 1034
+M1 U08: 449 / 1062
+M1 U09: 462 / 1084
+M1 U10: 447 / 1033
+M1 U11: 396 / 964
+M1 U12: 409 / 981
+M1 U13: 427 / 997
+M1 U14: 388 / 917
 
-A ritmo de lectura pausada (90 a 110 palabras por minuto), Lo esencial toma 4 a 5
-minutos y la lección completa 9 a 11.
+A ritmo de lectura pausada (90 a 110 palabras por minuto) y con las pausas para
+responder, Lo esencial toma unos 4 a 5 minutos y la lección completa unos 9 a 10.
 
-POR REVISAR ANTES DE PUBLICAR (también en el plan maestro, K11 a K13)
------------------------------------------------------------------
-- Probar los enlaces nuevos: BLS (índice de precios), calculadora de Investor.gov, DIR
-  salario mínimo, directorio de preparadores del IRS, HRSA centros de salud, Procuraduría
-  de California (consumidores).
-- M1 U06: ley de California sobre cancelación en línea de suscripciones (confirmar).
-- M1 U12: fianza de 5,000 dólares de los preparadores CTEC (confirmar cifra vigente).
-- M1 U13: cambios de Medi-Cal para adultos en 2026 (revisar con abogado, K11).
-- M1 U05: reglas de horas extra (hay excepciones por tipo de trabajo).
+POR REVISAR ANTES DE PUBLICAR (también en el plan maestro)
+--------------------------------------------------------
+Nada nuevo; aplican los pendientes K06 a K13.
