@@ -186,4 +186,59 @@ CASOS = {
  ("He has the confirmation number and the freeze confirmation.", "His score went up 100 points in a week.", "He can't know until two years have passed."),
  ("Ask for validation in writing and for financial assistance.", "Pay it all today, even if she doesn't know whether it's hers.", "Change her number so they stop calling her."),
 ],
+"M4 U01": [
+ ("Verify the company and check with the bank first.", "Transfer quickly so the job isn't lost.", "Deposit the check and keep a share."),
+ ("She doesn't give the code and calls the number on her card.", "She sends the code so she doesn't lose her account.", "She answers the message to ask for more time."),
+ ("Not pay without seeing the place or verifying the owner.", "Pay quickly to hold the apartment.", "Pay only half and the rest on arrival."),
+],
+"M4 U02": [
+ ("She takes her to accredited representatives, who advise for free.", "She advises paying quickly to secure a spot in line.", "She lends money so it can be paid to the office in installments."),
+ ("Hangs up and calls the cousin and the family.", "Buys the gift cards to help.", "Gives personal information so they can verify."),
+ ("A false application is a crime and can lead to deportation.", "None: it's a quick process lots of people use.", "Only losing the fee if the permit isn't approved."),
+],
+"M4 U03": [
+ ("No: change both and turn on two-step.", "Yes: changing the bank one is enough.", "Only change the online store one."),
+ ("She closes the browser and doesn't call.", "She calls and installs the app they ask for.", "She pays for support to remove the virus."),
+ ("She puts a PIN on her bank app.", "She gives the password to her grandchildren.", "She stops using her phone."),
+],
+"M4 U04": [
+ ("Document it and follow the IdentityTheft.gov guide.", "Pay the loan so it doesn't hurt the credit.", "Wait to see if it disappears from the report."),
+ ("She calls the bank, locks it and changes her password.", "She waits until tomorrow to see if anything odd happens.", "She calls the number that asked for the code."),
+ ("She locks her card and calls the bank.", "She waits to see if someone turns it in.", "She asks for a new card next month."),
+],
+"M4 U05": [
+ ("Lack of information, pressure and risk of debt.", "None: it's normal for a partner to decide that.", "Just a normal disagreement about spending."),
+ ("No: it's a healthy agreement with independence for both.", "Yes, because they review every household expense together.", "Yes, because each one has a weekly limit."),
+ ("Financial abuse.", "Family help.", "A loan."),
+],
+"M4 U06": [
+ ("Half a month.", "Two months.", "One month."),
+ ("A planned expense: 50 a month covers it.", "An emergency nobody could predict.", "An expense worth avoiding by paying late."),
+ ("She pays the card and sets aside 10 a week.", "She doesn't save until the card is paid off.", "She gets another card to have more room."),
+],
+"M4 U07": [
+ ("No: if there's a crash while working, it won't pay.", "Yes, because it costs less each month.", "Yes, if Alex always drives carefully."),
+ ("No: the building's insurance doesn't cover her things.", "Yes: the owner's insurance covers the whole building.", "Yes, if the theft happened at night or on a weekend."),
+ ("The low deductible, because she goes to the doctor often.", "The low premium, because it always comes out cheaper.", "Either one, because in the end they cost the same."),
+],
+"M4 U08": [
+ ("She asks for an explanation before paying.", "She pays the 300 the bill says.", "She pays 150 and doesn't tell anyone."),
+ ("Ask about the hospital's financial assistance.", "Pay by credit card so as not to owe the hospital.", "Ignore the bill until it goes to collections."),
+ ("The out-of-network rate shouldn't be charged to her.", "She has to pay all three bills in full.", "She pays only the hospital's and throws out the rest."),
+],
+"M4 U09": [
+ ("650.", "900.", "400."),
+ ("A secure copy of documents and contacts on paper.", "A more expensive, tougher phone for next time.", "Nothing: you can't prepare anything for an evacuation."),
+ ("She checks his license and pays as work progresses, with a contract.", "She pays everything upfront so he starts right away.", "She pays him in cash with no receipt to save money."),
+],
+"M4 U10": [
+ ("The caregiver affidavit, a folder and the month's payments.", "Nothing in writing: Mar's sister already knows what to do.", "Only a will, because that covers everything else."),
+ ("A formal authorization, like a power of attorney.", "Also sharing the email password.", "A handwritten letter, even if it isn't signed."),
+ ("A friend as caregiver and her cousin as backup.", "Nobody, because her family is in El Salvador.", "A neighbor she barely knows, because he lives closer."),
+],
+"M4 U11": [
+ ("Check the coverage and slowly increase the savings.", "Assume the 300 in savings solves the risk.", "Buy every insurance offered that month."),
+ ("That her friend had no key and didn't know about the folder.", "That everything was perfect and nothing needed to change.", "That practicing is useless if nothing really happens."),
+ ("Code word, calendar, savings and remittance agreement.", "Only her savings, because it's a money emergency.", "Nothing: she sends the money because it's a relative."),
+],
 }

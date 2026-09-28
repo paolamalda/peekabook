@@ -1,0 +1,199 @@
+$CATEGORY: $course$/Your Money v3/M4
+
+::M4 U01 P1::Which number do you call to verify? {
+	~The one in the message #Not the best option. The one in the message may be fake.
+	=The one you look up yourself #Correct! The one in the message may be fake.
+	~The one in the email #Not the best option. The one in the message may be fake.
+}
+
+::M4 U01 P2::Does the browser padlock prove a website is honest? {
+	~Yes #Not the best option. It only shows an encrypted connection.
+	=No #Correct! It only shows an encrypted connection.
+	~Yes, if it's green #Not the best option. It only shows an encrypted connection.
+}
+
+::M4 U01 P3::Will a bank ask you for the code you got by text? {
+	~Yes #Not the best option. The code is only for you.
+	=No #Correct! The code is only for you.
+	~Yes, if they call from the bank's number #Not the best option. The code is only for you.
+}
+
+::M4 U02 P1::Can a notary public give you immigration advice? {
+	~Yes #Not the best option. They only certify signatures.
+	=No #Correct! They only certify signatures.
+	~Yes, if they speak Spanish #Not the best option. They only certify signatures.
+}
+
+::M4 U02 P2::Where do you check an attorney's license in California? {
+	=State Bar #Correct! It's the official registry.
+	~In their ad #Not the best option. It's the official registry.
+	~With a notario #Not the best option. It's the official registry.
+}
+
+::M4 U02 P3::Will ICE ask you to pay with gift cards? {
+	~Yes #Not the best option. No agency charges that way.
+	=No #Correct! No agency charges that way.
+	~Only if it's urgent #Not the best option. No agency charges that way.
+}
+
+::M4 U03 P1::Which account do you protect first? {
+	~Social media #Not the best option. The others are recovered through your email.
+	=Main email #Correct! The others are recovered through your email.
+	~Your music app #Not the best option. The others are recovered through your email.
+}
+
+::M4 U03 P2::Do you share the code you received if "the bank" calls? {
+	~Yes #Not the best option. The code is only for you.
+	=No #Correct! The code is only for you.
+	~Yes, if they know your name #Not the best option. The code is only for you.
+}
+
+::M4 U03 P3::Does a budgeting app need to read your messages? {
+	~Yes #Not the best option. It doesn't need to.
+	=No #Correct! It doesn't need to.
+	~Yes, to sort your expenses #Not the best option. It doesn't need to.
+}
+
+::M4 U04 P1::Does a credit freeze protect your existing accounts? {
+	~Yes #Not the best option. It only prevents new accounts.
+	=No #Correct! It only prevents new accounts.
+	~Yes, credit cards too #Not the best option. It only prevents new accounts.
+}
+
+::M4 U04 P2::Is negotiating with the scammer a necessary step? {
+	~Yes #Not the best option. Stop talking to them.
+	=No #Correct! Stop talking to them.
+	~Yes, to get your money back #Not the best option. Stop talking to them.
+}
+
+::M4 U04 P3::Where do you create a recovery plan for identity theft? {
+	=IdentityTheft.gov #Correct! It's the FTC's official site.
+	~Social media #Not the best option. It's the FTC's official site.
+	~On the website the scammer sent you #Not the best option. It's the FTC's official site.
+}
+
+::M4 U05 P1::Is a disagreement about spending always abuse? {
+	~Yes #Not the best option. The pattern is what matters.
+	=No #Correct! The pattern is what matters.
+	~Yes, if there's yelling #Not the best option. The pattern is what matters.
+}
+
+::M4 U05 P2::To pass, do you have to confront the other person? {
+	~Yes #Not the best option. You can use made-up cases.
+	=No #Correct! You can use made-up cases.
+	~Yes, in writing #Not the best option. You can use made-up cases.
+}
+
+::M4 U05 P3::Does having access to an older relative's money give you the right to use it? {
+	~Yes #Not the best option. The money is theirs.
+	=No #Correct! The money is theirs.
+	~Yes, if you take care of them #Not the best option. The money is theirs.
+}
+
+::M4 U06 P1::Savings of 600 and expenses of 1,500. How many months does it cover? {
+	=0.4 #Correct! 600 ÷ 1,500 \= 0.4.
+	~2.5 #Not the best option. 600 ÷ 1,500 \= 0.4.
+	~1 #Not the best option. 600 ÷ 1,500 \= 0.4.
+}
+
+::M4 U06 P2::Is a known yearly payment an emergency? {
+	~Yes #Not the best option. It can be planned for.
+	=No, it's a planned expense #Correct! It can be planned for.
+	~Yes, if it's over 500 #Not the best option. It can be planned for.
+}
+
+::M4 U06 P3::Is an investment that can go down a good place for your savings? {
+	~Yes #Not the best option. Savings shouldn't lose value.
+	=No #Correct! Savings shouldn't lose value.
+	~Yes, if it goes up fast #Not the best option. Savings shouldn't lose value.
+}
+
+::M4 U07 P1::Does liability insurance fix your car? {
+	~Yes #Not the best option. It pays for damage to others.
+	=No #Correct! It pays for damage to others.
+	~Yes, if the crash was your fault #Not the best option. It pays for damage to others.
+}
+
+::M4 U07 P2::Does the building owner's insurance cover your belongings? {
+	~Yes #Not the best option. You need renters insurance.
+	=No #Correct! You need renters insurance.
+	~Yes, if the theft was in the building #Not the best option. You need renters insurance.
+}
+
+::M4 U07 P3::A 1,500 service, 300 deductible, 25% coinsurance. How much do you pay? {
+	=600 #Correct! 300 + 25% of 1,200 \= 600.
+	~375 #Not the best option. 300 + 25% of 1,200 \= 600.
+	~1,500 #Not the best option. 300 + 25% of 1,200 \= 600.
+}
+
+::M4 U08 P1::Is the explanation of benefits a bill? {
+	~Yes #Not the best option. It only explains.
+	=No #Correct! It only explains.
+	~Yes, it's due in 30 days #Not the best option. It only explains.
+}
+
+::M4 U08 P2::Must California hospitals have a financial assistance policy? {
+	=Yes #Correct! They must have one.
+	~No #Not the best option. They must have one.
+	~Only public hospitals #Not the best option. They must have one.
+}
+
+::M4 U08 P3::Do you delay urgent care to finish the exercise? {
+	~Yes #Not the best option. Your health comes first.
+	=Never #Correct! Your health comes first.
+	~Yes, if there's little left #Not the best option. Your health comes first.
+}
+
+::M4 U09 P1::Does an unconfirmed insurance payment count as a resource? {
+	~Yes #Not the best option. Only what's confirmed.
+	=No #Correct! Only what's confirmed.
+	~Yes, if the lawyer says you'll win #Not the best option. Only what's confirmed.
+}
+
+::M4 U09 P2::Does homeowners insurance usually cover earthquakes? {
+	~Yes #Not the best option. It's bought separately.
+	=It's usually a separate policy #Correct! It's bought separately.
+	~Yes, it's always included #Not the best option. It's bought separately.
+}
+
+::M4 U09 P3::Do you keep the only copy of your documents at home? {
+	~Yes #Not the best option. Keep copies in two places.
+	=No, also in another safe place #Correct! Keep copies in two places.
+	~Yes, in a locked drawer at home #Not the best option. Keep copies in two places.
+}
+
+::M4 U10 P1::Does the Caregiver's Authorization Affidavit change custody? {
+	~Yes #Not the best option. It only authorizes school and some medical care.
+	=No #Correct! It only authorizes school and some medical care.
+	~Yes, for one year #Not the best option. It only authorizes school and some medical care.
+}
+
+::M4 U10 P2::Does sharing your password give legal authorization? {
+	~Yes #Not the best option. A formal authorization is needed.
+	=No #Correct! A formal authorization is needed.
+	~Yes, if it's written down #Not the best option. A formal authorization is needed.
+}
+
+::M4 U10 P3::How often should you review the plan? {
+	~Never #Not the best option. Life changes.
+	=Every six months or if something changes #Correct! Life changes.
+	~Every five years or when moving to another country #Not the best option. Life changes.
+}
+
+::M4 U11 P1::Does a protection plan require buying every insurance? {
+	~Yes #Not the best option. You prioritize the gaps.
+	=No #Correct! You prioritize the gaps.
+	~Yes, at least three #Not the best option. You prioritize the gaps.
+}
+
+::M4 U11 P2::A fake emergency arrives when your income has dropped. Which parts do you use? {
+	~Only the savings #Not the best option. The plan works as a whole.
+	=Verification, calendar, savings and remittance agreement #Correct! The plan works as a whole.
+	~Only the code word and the usual number #Not the best option. The plan works as a whole.
+}
+
+::M4 U11 P3::How often should you do a drill? {
+	~Never #Not the best option. Practicing keeps the plan useful.
+	=At least once a year #Correct! Practicing keeps the plan useful.
+	~Only when something happens #Not the best option. Practicing keeps the plan useful.
+}
