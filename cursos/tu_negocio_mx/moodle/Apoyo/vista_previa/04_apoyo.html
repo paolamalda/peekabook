@@ -1,0 +1,191 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Glosario</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Glosario</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-book"></i> Materiales de apoyo</span><h3>Glosario</h3><p class="obj">Las palabras del curso explicadas en lenguaje sencillo, por módulo.</p></div><div class="card2"><p>Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.</p></div><div class="card2"><h4>Tu negocio y tu casa: dinero separado</h4><ul>
+<li><strong>Corte:</strong> suma de ventas y gastos de un periodo para saber cuánto ganaste.</li>
+<li><strong>Cuenta del negocio:</strong> cuenta o caja que usas solo para cobrar y pagar cosas del negocio.</li>
+<li><strong>Excedente:</strong> lo que sobra después de pagar costos y tu sueldo.</li>
+<li><strong>Ganancia:</strong> lo que queda de las ventas después de pagar todos los costos del negocio.</li>
+<li><strong>Registro:</strong> lista de lo que entra y sale del negocio, con fecha y concepto.</li>
+<li><strong>Sueldo del dueño:</strong> cantidad fija que el negocio te paga cada semana o quincena por tu trabajo.</li>
+<li><strong>Ventas:</strong> todo lo que cobras a tus clientes, antes de restar lo que te costó.</li>
+</ul></div><div class="card2"><h4>Costos y precio</h4><ul>
+<li><strong>Costo fijo:</strong> gasto que pagas vendas o no, como la renta o tu sueldo.</li>
+<li><strong>Costo por unidad:</strong> lo que te cuesta producir o vender una pieza, un platillo o un servicio, contando costos variables y una parte de los fijos.</li>
+<li><strong>Costo variable:</strong> gasto que sube con cada venta, como insumos o empaques.</li>
+<li><strong>Inventario:</strong> mercancía o insumos que compraste y todavía no vendes.</li>
+<li><strong>Margen de contribución:</strong> lo que queda de cada venta después de pagar sus costos variables, para cubrir los fijos.</li>
+<li><strong>Margen:</strong> parte del precio que queda después de cubrir el costo.</li>
+<li><strong>Merma:</strong> mercancía que se echa a perder, se rompe o se pierde y ya no puedes vender.</li>
+<li><strong>Precio piso:</strong> el precio mínimo que cubre tu costo.</li>
+<li><strong>Punto de equilibrio:</strong> ventas mínimas para cubrir todos tus costos: ni ganas ni pierdes.</li>
+<li><strong>Rotación:</strong> qué tan rápido se vende un producto.</li>
+</ul></div><div class="card2"><h4>Flujo de efectivo</h4><ul>
+<li><strong>Abono:</strong> pago parcial de una deuda.</li>
+<li><strong>Anticipo:</strong> parte del pago que el cliente da antes de que hagas el trabajo.</li>
+<li><strong>Fiado:</strong> venta que el cliente paga después, sin intereses, basada en la confianza.</li>
+<li><strong>Flujo de efectivo:</strong> el dinero que realmente entra y sale del negocio, y cuándo.</li>
+<li><strong>Reserva del negocio:</strong> dinero apartado para cubrir los costos fijos del negocio en meses flojos o imprevistos.</li>
+<li><strong>Temporada baja:</strong> meses en que tu negocio vende menos.</li>
+</ul></div><div class="card2"><h4>Cobrar y vender sin perder</h4><ul>
+<li><strong>CEP:</strong> Comprobante Electrónico de Pago que emite Banxico cuando una transferencia se liquida.</li>
+<li><strong>CLABE:</strong> número de 18 dígitos para recibir transferencias.</li>
+<li><strong>Contracargo:</strong> cuando el banco del cliente le regresa un pago con tarjeta porque lo desconoce o lo reclama.</li>
+<li><strong>Excedente falso:</strong> engaño en el que te piden regresar un pago de más que no existe.</li>
+<li><strong>Link de pago:</strong> enlace que envías a tu cliente para que pague con tarjeta a distancia.</li>
+<li><strong>SPEI:</strong> sistema de pagos de Banco de México para transferencias entre bancos, casi al instante.</li>
+<li><strong>Suplantación de proveedor:</strong> fraude en el que alguien se hace pasar por tu proveedor para que pagues a otra cuenta.</li>
+<li><strong>Terminal punto de venta:</strong> aparato o app para cobrar con tarjeta.</li>
+</ul></div><div class="card2"><h4>Formalízate sin miedo</h4><ul>
+<li><strong>Acreditar:</strong> restar el IVA que pagaste en tus compras del IVA que cobraste.</li>
+<li><strong>Acuse:</strong> comprobante de que presentaste una declaración.</li>
+<li><strong>Buzón tributario:</strong> buzón en el sitio del SAT donde recibes avisos y notificaciones oficiales.</li>
+<li><strong>Constancia de situación fiscal:</strong> documento del SAT con tu RFC, nombre, régimen y código postal fiscal.</li>
+<li><strong>Declaración mensual:</strong> pago de impuestos del mes que se presenta en el portal del SAT.</li>
+<li><strong>e.firma:</strong> firma electrónica del SAT; sirve para trámites y para facturar.</li>
+<li><strong>Factura (CFDI):</strong> Comprobante Fiscal Digital por Internet: documento del SAT que prueba una venta.</li>
+<li><strong>Factura global:</strong> factura que agrupa las ventas a público en general de un periodo.</li>
+<li><strong>ISR:</strong> impuesto sobre la renta.</li>
+<li><strong>IVA:</strong> impuesto al valor agregado: lo cobras a tu cliente y lo entregas al SAT, menos el IVA que pagaste en tus compras.</li>
+<li><strong>Recargos:</strong> cobro extra por pagar impuestos tarde.</li>
+<li><strong>RESICO:</strong> Régimen Simplificado de Confianza: pagas ISR con una tasa baja sobre lo que cobras, sin deducir gastos.</li>
+<li><strong>Retención:</strong> impuesto que tu cliente descuenta de tu pago y entrega al SAT por ti.</li>
+<li><strong>RFC:</strong> Registro Federal de Contribuyentes: tu clave para el SAT.</li>
+<li><strong>Tasa 0%:</strong> productos que llevan IVA, pero con tasa cero.</li>
+</ul></div><div class="card2"><h4>Crédito para tu negocio</h4><ul>
+<li><strong>Aval:</strong> persona que se compromete a pagar si el deudor no paga.</li>
+<li><strong>Capital de trabajo:</strong> dinero para operar el día a día: mercancía, insumos y pagos.</li>
+<li><strong>CAT:</strong> Costo Anual Total: indicador que suma intereses y comisiones para comparar créditos.</li>
+<li><strong>Crédito de proveedores:</strong> plazo que te da un proveedor para pagar la mercancía.</li>
+<li><strong>Escenario prudente:</strong> cálculo con ventas menores a las esperadas.</li>
+<li><strong>Garantía:</strong> bien o persona que respalda el pago de un crédito.</li>
+<li><strong>Montadeudas:</strong> prestamistas o apps que cobran con amenazas y costos abusivos.</li>
+<li><strong>Obligado solidario:</strong> persona que responde por la deuda igual que tú.</li>
+<li><strong>Pago mínimo:</strong> lo menos que puedes pagar de tu tarjeta; la deuda casi no baja.</li>
+<li><strong>SIPRES:</strong> Sistema de Registro de Prestadores de Servicios Financieros de CONDUSEF.</li>
+</ul></div><div class="card2"><h4>Protege tu negocio</h4><ul>
+<li><strong>Clase:</strong> grupo de productos o servicios que cubre un registro de marca.</li>
+<li><strong>Deducible:</strong> parte del daño que pagas tú antes de que pague el seguro.</li>
+<li><strong>Exclusión:</strong> lo que el seguro no cubre.</li>
+<li><strong>Extorsión:</strong> amenaza para obtener dinero.</li>
+<li><strong>IMPI:</strong> Instituto Mexicano de la Propiedad Industrial: registra marcas en México.</li>
+<li><strong>Incapacidad:</strong> pago del IMSS cuando no puedes trabajar por enfermedad o accidente.</li>
+<li><strong>Marca:</strong> nombre, logotipo o combinación que distingue tu producto o servicio.</li>
+<li><strong>Modalidad 10:</strong> incorporación voluntaria al IMSS para personas trabajadoras independientes, con servicio médico, incapacidades y retiro.</li>
+<li><strong>Responsabilidad civil:</strong> obligación de pagar los daños que causas a otras personas.</li>
+<li><strong>Suplantación de autoridad:</strong> fraude en el que alguien se hace pasar por el SAT u otra autoridad.</li>
+<li><strong>UMA:</strong> Unidad de Medida y Actualización; referencia para cuotas y multas.</li>
+</ul></div><div class="card2"><h4>Crecer con orden</h4><ul>
+<li><strong>CFDI de retenciones:</strong> comprobante de lo que te retuvieron.</li>
+<li><strong>Plataforma digital:</strong> sitio o app que conecta a vendedores y compradores y cobra una comisión.</li>
+<li><strong>Prestaciones:</strong> derechos de la persona trabajadora además del sueldo, como aguinaldo y vacaciones.</li>
+<li><strong>Relación laboral:</strong> trabajo subordinado, con horario y pago, que genera obligaciones para el patrón.</li>
+<li><strong>Tablero:</strong> tabla con los números clave del negocio cada mes.</li>
+<li><strong>Ticket promedio:</strong> lo que gasta en promedio cada cliente por compra: ventas entre número de ventas.</li>
+</ul></div><div class="card2"><h4>Tu futuro</h4><ul>
+<li><strong>AFORE:</strong> administradora de tu cuenta de ahorro para el retiro.</li>
+<li><strong>Aportación voluntaria:</strong> dinero que tú agregas a tu cuenta de retiro.</li>
+<li><strong>Cotitular:</strong> otra persona con derechos sobre una cuenta.</li>
+<li><strong>Plan de una página:</strong> resumen de las decisiones de tu negocio en una hoja.</li>
+<li><strong>PPR:</strong> plan personal de retiro, con posibles beneficios fiscales.</li>
+<li><strong>Revisión trimestral:</strong> revisión de tu plan cada tres meses.</li>
+<li><strong>Suspensión de actividades:</strong> aviso al SAT de que dejas de tener actividad por un tiempo.</li>
+</ul></div></div>
+</div></div></div></body></html>

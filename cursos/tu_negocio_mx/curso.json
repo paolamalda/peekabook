@@ -1,0 +1,117 @@
+{
+ "sigla": "TNDF",
+ "titulo": "Tu Negocio, Tu Dinero, Tu Futuro",
+ "subtitulo": "Versión 1.0 · México · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.0",
+ "lang": "es",
+ "intro": "Curso de finanzas para personas que emprenden o trabajan por su cuenta en México: 9 módulos, 33 lecciones, desde separar el dinero hasta formalizarte, crecer y proteger tu futuro.",
+ "categoria": "Tu Negocio MX",
+ "banco": "banco_preguntas_tndf_mx.gift.txt",
+ "min_leccion": [10, 15],
+ "modulos": {
+  "M1": "Módulo 1. Tu negocio y tu casa: dinero separado",
+  "M2": "Módulo 2. Costos y precio",
+  "M3": "Módulo 3. Flujo de efectivo",
+  "M4": "Módulo 4. Cobrar y vender sin perder",
+  "M5": "Módulo 5. Formalízate sin miedo",
+  "M6": "Módulo 6. Crédito para tu negocio",
+  "M7": "Módulo 7. Protege tu negocio",
+  "M8": "Módulo 8. Crecer con orden",
+  "M9": "Módulo 9. Tu futuro"
+ },
+ "resultados": {
+  "M1": "Tu dinero del negocio separado del de tu casa, tu sueldo fijo y tus registros al día.",
+  "M2": "Tus costos calculados, tu precio con margen y tu punto de equilibrio.",
+  "M3": "Tu calendario de entradas y salidas, tu política de fiado y tu reserva para temporada baja.",
+  "M4": "Tus formas de cobro comparadas y tu protocolo contra fraudes al vender.",
+  "M5": "Tu RFC, tu régimen, tus facturas y tus declaraciones en orden.",
+  "M6": "Saber si necesitas crédito, cuánto cuesta y cómo no mezclarlo con tus deudas personales.",
+  "M7": "Tu seguridad social, tus seguros, tu marca y tu protección contra fraudes.",
+  "M8": "Tus reglas para contratar, vender en línea y medir cómo va tu negocio.",
+  "M9": "Tu ahorro para el retiro, tu plan si el negocio cambia y tu plan de una página."
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, las rutas de 5 o 10 minutos, los personajes, insignias y constancia.",
+  "02": "Cuatro casos de negocio que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda gratuita o de bajo costo, y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "insignias": [
+  ["01_dinero_separado", "M1", "Dinero separado", "fa-columns"],
+  ["02_precio_justo", "M2", "Precio justo", "fa-tag"],
+  ["03_flujo_bajo_control", "M3 · M4", "Flujo bajo control", "fa-exchange"],
+  ["04_negocio_formal", "M5", "Negocio formal", "fa-file-text-o"],
+  ["05_credito_inteligente", "M6", "Crédito inteligente", "fa-credit-card"],
+  ["06_negocio_protegido", "M7", "Negocio protegido", "fa-shield"],
+  ["07_crecer_con_orden", "M8 · M9", "Crecer con orden", "fa-line-chart"],
+  ["08_plan_completo", "CURSO", "Plan completo", "fa-trophy"]
+ ],
+ "constancia": {
+  "top": "TU NEGOCIO · TU DINERO · TU FUTURO",
+  "titulo": "Constancia de conclusión",
+  "otorga": "Se otorga a",
+  "nombre": "Nombre de la persona",
+  "texto": "por concluir el programa de educación financiera para emprender <b>Tu Negocio, Tu Dinero, Tu Futuro</b> (México), con sus nueve módulos y autoevaluaciones aprobadas.",
+  "mods": ["Dinero separado", "Precio y flujo", "Formalidad", "Crédito y protección", "Crecer y futuro"],
+  "fecha": "Fecha", "fecha_muestra": "29 de septiembre de 2026", "codigo": "Código de verificación",
+  "nota": "Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial."
+ },
+ "comunidad": {
+  "titulo": "Comunidad Tu Negocio",
+  "subtitulo": "Versión 1.0 · México · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.0",
+  "intro": "Complemento del curso Tu Negocio, Tu Dinero, Tu Futuro: espacio aparte en Moodle para dudas por tema, alertas de fraude, un foro para presentar tu negocio, logros y una sesión mensual en vivo. Se complementa con un canal de WhatsApp.",
+  "leads": {
+   "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
+   "02": "Las reglas que protegen tus datos y los de todos.",
+   "03": "Cómo preguntar y cómo presentar tu negocio.",
+   "04": "Las fechas del año que importan a quien emprende.",
+   "05": "La sesión mensual, los retos del mes y la encuesta.",
+   "06": "Qué es educación y qué es una oferta comercial, con total transparencia."
+  },
+  "carpeta": {
+   "nombre": "Comunidad_Tu_Negocio_MX", "zip": "Comunidad_Tu_Negocio_MX_v1.0",
+   "descripciones": ["Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
+                     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
+                     "Guía de implementación: creación en Moodle paso a paso y calendario editorial.",
+                     "Paquete para instalar: libro, vista previa y el README para Claude."],
+   "lista": ["Profesor nombrado y con el manual del profesor leído", "Canal de WhatsApp creado (solo publica el equipo)",
+             "Fecha y enlace de la primera sesión mensual", "Comunidad creada con 04_Moodle/README_CREAR_COMUNIDAD_PARA_CLAUDE.md",
+             "Primeras publicaciones programadas con el calendario editorial"],
+   "notas": ["Nunca se piden datos personales ni fiscales (RFC, contraseñas, e.firma).",
+             "En «Presenta tu negocio» se permite una publicación al mes por persona; nunca préstamos, inversiones ni productos financieros."]
+  }
+ },
+ "instalacion": {
+  "nombre_corto": "TNDF-MX",
+  "readme": "README_INSTALAR_TU_NEGOCIO_MX_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas tu RFC, contraseñas del SAT, e.firma, números de cuenta ni montos reales de tu negocio.",
+  "niveles": [["Idea", 0, "Al entrar"], ["Arranque", 200, "Durante el Módulo 2"], ["En marcha", 400, "Durante el Módulo 4"], ["Formal", 650, "Durante el Módulo 5"], ["En crecimiento", 900, "Durante el Módulo 7"], ["Consolidado", 1100, "Durante el Módulo 9"]],
+  "insignias_info": [
+   ["Autoevaluación del Módulo 1", "Separaste el dinero del negocio y de tu casa y te pagas un sueldo."],
+   ["Autoevaluación del Módulo 2", "Conoces tus costos, tu margen y tu punto de equilibrio."],
+   ["Autoevaluaciones de los Módulos 3 y 4", "Controlas tu flujo, tu fiado y tus formas de cobro sin perder."],
+   ["Autoevaluación del Módulo 5", "Tienes tu RFC, tu régimen, tus facturas y declaraciones en orden."],
+   ["Autoevaluación del Módulo 6", "Sabes si necesitas crédito y cuánto cuesta de verdad."],
+   ["Autoevaluación del Módulo 7", "Protegiste tu salud, tu negocio, tu marca y te cuidas de fraudes."],
+   ["Autoevaluaciones de los Módulos 8 y 9", "Creces con orden y tienes tu plan de una página."],
+   ["Finalización del curso", "Concluiste los nueve módulos del programa."]],
+  "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`TNDF-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
+ },
+ "carpeta": {
+  "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX", "zip": "Tu_Negocio_MX_v1.0",
+  "manual": "Manual_del_programa_TNDF_MX_v1.0", "contenido": "Contenido_completo_TNDF_MX_v1.0", "guia": "Guia_implementacion_TNDF_MX_v1.0",
+  "descripciones": ["Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
+                    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+                    "Guía de implementación: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento (.docx y .md).",
+                    "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."],
+  "lista": ["Coordinación leyó el manual del programa", "Contenido fiscal revisado por un contador", "Datos vigentes confirmados en el sitio oficial (manual, sección de datos verificados)",
+            "Curso instalado con 04_Moodle/README_INSTALAR_TU_NEGOCIO_MX_PARA_CLAUDE.md", "Level Up, insignias y constancia configurados",
+            "Comunidad creada (carpeta Comunidad Tu Negocio)", "Revisión con rol de estudiante", "Calendario de mantenimiento asignado"],
+  "notas": ["Las lecciones no recomiendan bancos, terminales, plataformas ni créditos específicos; enseñan a comparar.",
+            "No se recomiendan SOFIPO, SOCAP ni SOFOM.",
+            "El curso orienta en temas fiscales, pero cada caso se revisa con un contador o con el SAT."]
+ }
+}

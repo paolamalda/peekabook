@@ -1,0 +1,610 @@
+# Módulo 7. Protege tu negocio
+
+## M7 U01. IMSS para personas independientes (Modalidad 10)
+
+**Lo que lograrás:** Conocer la incorporación voluntaria al IMSS para personas que trabajan por su cuenta: qué cubre, cuánto cuesta y cómo inscribirte.
+
+**Para empezar:** Toño se cayó de una escalera y estuvo tres semanas sin trabajar. No tenía servicio médico ni ingreso. En esta lección verás cómo protegerte con el IMSS aunque trabajes por tu cuenta.
+
+### Lo esencial (5 minutos)
+
+#### Qué es
+
+La Modalidad 10 permite a las personas trabajadoras independientes inscribirse al IMSS y pagar su propia cuota. Tienes derechos parecidos a los de un empleado.
+
+
+
+#### Qué cubre
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Servicio médico | Para ti y tus beneficiarios. | Consultas, cirugías, maternidad. |
+| Incapacidades | Pago si no puedes trabajar por enfermedad o accidente. | Protege tu ingreso. |
+| Retiro | Ahorro en tu AFORE y semanas cotizadas. | Para tu pensión. |
+| Vivienda (opcional) | Aportar 5% a Infonavit. | Acceso a crédito. |
+
+#### Cómo inscribirte
+
+En el sitio del IMSS para personas trabajadoras independientes: registras tus datos, eliges tu ingreso, la calculadora te da la cuota y pagas mensual, semestral o anual.
+
+
+
+#### Un caso en un minuto
+
+Toño se inscribió cotizando con un ingreso cercano a lo que gana. Paga unos 3,000 al mes. Cuando se lastimó la mano meses después, tuvo atención y un pago por incapacidad.
+
+> **Idea clave:** si trabajas por tu cuenta, el IMSS voluntario te da salud, incapacidades y retiro; calcula tu cuota en el sitio oficial.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué cubre la Modalidad 10?
+*Respuesta:* Servicio médico, incapacidades, retiro y, si quieres, vivienda.
+
+2. ¿Dónde calculas tu cuota?
+*Respuesta:* En la calculadora del sitio del IMSS.
+
+
+#### Para recordar
+
+- Salud, incapacidades y retiro.
+- Cuota según ingreso registrado.
+- Trámite oficial en el IMSS.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Qué ingreso registrar
+
+Si registras un ingreso muy bajo, pagas poco, pero tus incapacidades y tu pensión serán bajas. Si registras cerca de lo que ganas, pagas más y te protege mejor. Elige lo que puedas pagar cada mes sin fallar.
+
+
+
+#### Modalidad 10 y Modalidad 40
+
+La 10 es para quien trabaja por su cuenta hoy y da servicio médico. La 40 es para quien ya no cotiza y quiere mejorar su pensión de Ley 73, y no incluye servicio médico. Son distintas.
+
+
+
+#### Gestores
+
+La inscripción se hace en el sitio del IMSS. Desconfía de quien cobra por «darte de alta» o te ofrece cotizar a través de empresas que no conoces.
+
+> **Antes de actuar, verifica:** la cuota con la calculadora oficial del IMSS; el salario mínimo y la UMA cambian cada año.
+
+
+
+#### Casos
+
+
+**Caso 1. El accidente de Toño**
+
+Toño trabaja por su cuenta y no tiene servicio médico.
+- *¿Qué hace?* Revisa la Modalidad 10 en el IMSS y calcula su cuota.
+
+
+**Caso 2. El ingreso registrado de Mariana**
+
+Mariana quiere registrar el ingreso más bajo posible.
+- *¿Qué considera?* Que sus incapacidades y pensión serán más bajas; elige lo que pueda pagar.
+
+
+**Caso 3. El gestor de Rosa**
+
+Un gestor ofrece a Rosa darla de alta en el IMSS a través de una empresa.
+- *¿Qué hace?* Se inscribe ella en el sitio oficial del IMSS.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Sin seguridad social | Sin ingreso si enfermas | Modalidad 10 |
+| Confundir con la 40 | Sin servicio médico | Son distintas |
+| Registrar muy bajo | Protección baja | Equilibrio |
+| Usar gestores | Riesgo de fraude | Sitio oficial |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, Mariana y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué incluye la Modalidad 10 que no incluye la 40? a) Retiro · b) Semanas cotizadas · c) Servicio médico
+2. ¿Qué pasa si registras un ingreso muy bajo? a) Pagas poco, pero tu protección es menor · b) Pagas poco y tu protección es exactamente la misma que con uno alto · c) No te aceptan
+3. ¿Dónde te inscribes? a) Con un gestor · b) En el sitio del IMSS · c) En tu banco
+**Respuestas:** 1-c: la 10 da servicio médico. 2-a: incapacidad y pensión más bajas. 3-b: trámite oficial.
+
+
+
+#### Ponlo en práctica
+
+Pagas 2,600 al mes de Modalidad 10. ¿Cuánto pagas al año?
+**Respuesta:** 31,200.
+
+
+
+#### A tu plan
+
+Entra a la calculadora del IMSS para personas independientes y calcula tu cuota con tu ingreso.
+
+
+
+### Para saber más
+
+- **Personas trabajadoras independientes** (IMSS · español): https://www.imss.gob.mx/personas-trabajadoras-independientes — **Qué buscar:** «calculadora».
+
+### Palabras clave
+
+- *Modalidad 10:* incorporación voluntaria al IMSS para personas trabajadoras independientes, con servicio médico, incapacidades y retiro.
+- *Incapacidad:* pago del IMSS cuando no puedes trabajar por enfermedad o accidente.
+- *UMA:* Unidad de Medida y Actualización; referencia para cuotas y multas.
+
+### Fuentes
+
+IMSS · Ley del Seguro Social, consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U02. Seguros para tu negocio
+
+**Lo que lograrás:** Identificar los riesgos de tu negocio y conocer los seguros que los cubren y qué preguntar antes de contratar.
+
+**Para empezar:** Una noche se metieron a la tienda de Don Pepe y se llevaron mercancía y el refrigerador. Perdió unos 60,000 y no tenía seguro. En esta lección verás qué seguros existen para negocios pequeños.
+
+### Lo esencial (5 minutos)
+
+#### Riesgos y seguros
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Incendio y daños | Local, equipo y mercancía. | Seguro de daños o para pyme. |
+| Robo | Mercancía y efectivo con violencia. | Cobertura de robo. |
+| Responsabilidad civil | Si un cliente se lastima o dañas algo ajeno. | Muy útil en oficios. |
+| Accidentes personales | Si tú te lastimas. | Complementa el IMSS. |
+
+#### Antes de contratar, pregunta
+
+1. ¿Qué cubre y qué no (exclusiones)?
+2. ¿Cuál es el deducible?
+3. ¿Hasta cuánto paga (suma asegurada)?
+4. ¿Qué medidas de seguridad exigen (chapas, alarma)?
+5. ¿Cómo se reclama y en cuántos días pagan?
+
+
+
+#### Un caso en un minuto
+
+Don Pepe cotizó un paquete para pequeño comercio con incendio, robo y responsabilidad civil. Le costaba 450 al mes. Revisó que cubriera el refrigerador y la mercancía, y que no exigiera alarma que no tenía.
+
+> **Idea clave:** identifica lo que no podrías reponer y asegúralo; lee exclusiones y deducible antes de firmar.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué cubre la responsabilidad civil?
+*Respuesta:* Daños que causes a otras personas o sus bienes.
+
+2. ¿Qué revisas antes de firmar?
+*Respuesta:* Exclusiones, deducible, suma asegurada y requisitos.
+
+
+#### Para recordar
+
+- Asegura lo que no podrías reponer.
+- Exclusiones y deducible.
+- Requisitos de seguridad.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tus riesgos
+
+| Riesgo | ¿Podrías pagarlo tú? | ¿Seguro? |
+|---|---|---|
+| Robo de mercancía | | |
+| Incendio del local | | |
+| Un cliente se lastima | | |
+| Tú te lastimas | | |
+
+
+
+#### Verifica la aseguradora
+
+Busca a la aseguradora en la CNSF y en el Buró de Entidades Financieras de CONDUSEF. Pide la póliza completa antes de pagar y guarda tus facturas de equipo y mercancía: te las pedirán al reclamar.
+
+
+
+#### Suma asegurada baja
+
+Si aseguras por menos de lo que vale lo asegurado, la aseguradora puede pagarte en proporción. Actualiza la suma asegurada cuando compres equipo o crezca tu inventario.
+
+
+
+#### Casos
+
+
+**Caso 1. El robo en la tienda**
+
+Don Pepe no quiere volver a perder 60,000 por un robo.
+- *¿Qué hace?* Cotiza un seguro para pequeño comercio y revisa exclusiones y requisitos.
+
+
+**Caso 2. La instalación de Toño**
+
+Toño instala cableado en casas y podría causar un daño.
+- *¿Qué revisa?* Un seguro de responsabilidad civil para su oficio.
+
+
+**Caso 3. Las facturas de Rosa**
+
+Rosa compró una estufa industrial y no guardó la factura.
+- *¿Qué hace desde ahora?* Guarda facturas de equipo para poder reclamar.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Sin seguro | Pérdida total | Asegura lo esencial |
+| No leer exclusiones | No te pagan | Lee antes |
+| Suma asegurada baja | Pago proporcional | Actualízala |
+| Sin facturas | Reclamo difícil | Guárdalas |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Toño y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Un cliente se resbala en tu local. ¿Qué seguro ayuda? a) Seguro de auto · b) Responsabilidad civil · c) Seguro de vida
+2. ¿Qué es el deducible? a) La parte del daño que pagas tú · b) Lo que paga la aseguradora · c) El precio de la póliza
+3. ¿Dónde verificas a la aseguradora? a) En su publicidad · b) En redes sociales · c) En la CNSF y CONDUSEF
+**Respuestas:** 1-b: daños a terceros. 2-a: tu parte. 3-c: registros oficiales.
+
+
+
+#### Ponlo en práctica
+
+Un robo te causa 40,000 de daño y el deducible es 10%. ¿Cuánto paga la aseguradora?
+**Respuesta:** 36,000.
+
+
+
+#### A tu plan
+
+Llena tu tabla de riesgos y cotiza al menos dos seguros para lo que no podrías reponer.
+
+
+
+### Para saber más
+
+- **Aseguradoras autorizadas** (CNSF · español): https://www.gob.mx/cnsf — **Qué buscar:** «instituciones autorizadas».
+- **Seguros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro para pyme».
+
+### Palabras clave
+
+- *Deducible:* parte del daño que pagas tú antes de que pague el seguro.
+- *Responsabilidad civil:* obligación de pagar los daños que causas a otras personas.
+- *Exclusión:* lo que el seguro no cubre.
+
+### Fuentes
+
+CNSF · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U03. Fraudes a negocios
+
+**Lo que lograrás:** Reconocer los fraudes y extorsiones que sufren los negocios y responder con un protocolo.
+
+**Para empezar:** A Rosa le llamó un «inspector del SAT» diciendo que clausurarían su fonda si no depositaba 5,000 hoy. A Don Pepe le llamaron «del cártel» exigiendo una cuota. En esta lección verás cómo reconocer estos engaños y qué hacer.
+
+### Lo esencial (5 minutos)
+
+#### Fraudes frecuentes a negocios
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Autoridad falsa | «SAT», «Protección Civil» o «Salud» piden depósito para no clausurar. | Las autoridades no cobran así. |
+| Extorsión telefónica | Amenazas, cobro de piso falso, «ya te estamos vigilando». | Cuelga y denuncia. |
+| Proveedor falso | Cambio de cuenta o pedido que nunca llega. | Confirma por otro medio. |
+| Facturas falsas | Te las ofrecen o usan tu RFC. | Revisa tu buzón. |
+
+#### Tu protocolo
+
+1. Cuelga. No negocies ni des datos.
+2. Verifica por tu cuenta: la autoridad real notifica por escrito o en tu buzón tributario.
+3. Nunca deposites para evitar una clausura o una amenaza.
+4. Denuncia al 089 (denuncia anónima) o al 088, y a la fiscalía.
+5. Avisa a tu equipo y a los negocios vecinos.
+
+
+
+#### Un caso en un minuto
+
+Rosa colgó y revisó su buzón tributario: no había nada. Llamó al número oficial del SAT y le confirmaron que no cobran por teléfono. Denunció el número y avisó a otras fondas de la colonia.
+
+> **Idea clave:** ninguna autoridad cobra por teléfono ni pide depósitos para evitar clausuras; cuelga, verifica y denuncia.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cómo notifica el SAT?
+*Respuesta:* Por escrito o en tu buzón tributario, nunca pidiendo depósitos por teléfono.
+
+2. ¿Qué haces ante una amenaza por teléfono?
+*Respuesta:* Cuelgas, no das datos y denuncias.
+
+
+#### Para recordar
+
+- Cuelga y verifica.
+- Nunca depositar.
+- Denuncia y avisa.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Extorsión telefónica
+
+La mayoría de las extorsiones por teléfono son engaños desde lejos: usan datos de redes sociales para parecer creíbles. No confirmes nombres ni horarios, no des datos de tu familia y cuelga. Si la amenaza es presencial o persistente, denuncia ante la fiscalía y busca apoyo de las autoridades.
+
+
+
+#### Tu RFC y tus facturas
+
+Revisa en el portal del SAT las facturas emitidas a tu nombre. Si aparecen facturas que no hiciste, cambia tu contraseña, revisa tu e.firma y presenta una queja ante el SAT o PRODECON.
+
+
+
+#### Menos datos en redes
+
+Evita publicar horarios de depósito, montos de venta, fotos de tu caja o de tu familia en el negocio. Los extorsionadores usan esa información.
+
+
+
+#### Casos
+
+
+**Caso 1. El «inspector» de Rosa**
+
+Un «inspector del SAT» exige a Rosa un depósito de 5,000 para no clausurar.
+- *¿Qué hace?* Cuelga, revisa su buzón tributario y denuncia el número.
+
+
+**Caso 2. La llamada a Don Pepe**
+
+Alguien llama a Don Pepe exigiendo una cuota semanal.
+- *¿Qué hace?* No negocia, cuelga y denuncia al 089 o al 088.
+
+
+**Caso 3. Las facturas de Toño**
+
+Toño ve en el SAT facturas emitidas a su nombre que no hizo.
+- *¿Qué hace?* Cambia su contraseña, revisa su e.firma y presenta queja ante el SAT.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Depositar por miedo | Pierdes dinero y te vuelven a llamar | Nunca |
+| Negociar | Dan más datos | Cuelga |
+| Publicar de más | Te estudian | Cuida tus redes |
+| No denunciar | Siguen con otros | 089 o 088 |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Don Pepe y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te llaman «del SAT» para pedir un depósito hoy. ¿Qué haces? a) Depositas para evitar la clausura · b) Pides el número de cuenta por mensaje · c) Cuelgas y revisas tu buzón tributario
+2. ¿Qué no debes hacer ante una extorsión telefónica? a) Negociar o dar datos · b) Colgar · c) Denunciar
+3. Aparecen facturas a tu nombre que no emitiste. ¿Qué haces? a) Las ignoras · b) Cambias tu contraseña y presentas queja ante el SAT · c) Esperas a la declaración anual para ver si se corrigen solas
+**Respuestas:** 1-c: no cobran por teléfono. 2-a: les das información. 3-b: protege tu RFC.
+
+
+
+#### Ponlo en práctica
+
+Tres negocios de tu calle recibieron la misma llamada falsa del «SAT». Si cada uno hubiera depositado 5,000, ¿cuánto habrían perdido en total?
+**Respuesta:** 15,000.
+
+
+
+#### A tu plan
+
+Escribe tu protocolo contra extorsión y fraudes, y compártelo con quien te ayuda en el negocio.
+
+
+
+### Para saber más
+
+- **Fraudes y suplantación del SAT** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «evita ser víctima de fraude».
+- **Denuncia anónima** (089) y **Guardia Nacional** (088).
+
+### Palabras clave
+
+- *Extorsión:* amenaza para obtener dinero.
+- *Suplantación de autoridad:* fraude en el que alguien se hace pasar por el SAT u otra autoridad.
+
+### Fuentes
+
+SAT · Guardia Nacional · Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U04. Tu marca y tu nombre
+
+**Lo que lograrás:** Saber cuándo conviene registrar tu marca, cómo buscar si ya existe y cómo hacerlo sin gestores abusivos.
+
+**Para empezar:** Mariana vende con el nombre «Luna Morena» desde hace dos años. Una tienda en línea le escribió diciendo que la marca es suya y que debe dejar de usarla. En esta lección verás cómo proteger tu nombre.
+
+### Lo esencial (5 minutos)
+
+#### Qué es una marca registrada
+
+Registrar tu marca en el IMPI te da el derecho exclusivo de usarla en México para ciertos productos o servicios (clases). Sin registro, otra persona puede registrarla antes.
+
+
+
+#### Pasos
+
+1. Busca en MarcaNET (IMPI) si el nombre ya está registrado o en trámite.
+2. Identifica la clase de tus productos o servicios.
+3. Presenta la solicitud en línea y paga la tarifa.
+4. Da seguimiento y responde requerimientos.
+
+> **Dato vigente:** el registro de marca en el IMPI cuesta 2,695.18 pesos más IVA por clase, dura 10 años y debe declararse su uso a los 3 años. Consultado el 29 de septiembre de 2026 a través de la tarifa del IMPI.
+
+
+
+#### Cuándo conviene
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Tu nombre ya vende | Clientes te buscan por él. | Protégelo. |
+| Vendes en línea | Más visible, más riesgo de copia. | Regístralo. |
+| Solo empiezas | Busca que esté libre. | Regístralo cuando puedas. |
+| Gestor con «garantía» | Nadie garantiza el registro. | Desconfía. |
+
+#### Un caso en un minuto
+
+Mariana buscó en MarcaNET: «Luna Morena» estaba registrada por la tienda para ropa. Consultó en el IMPI y decidió cambiar a un nombre libre, que registró a tiempo antes de crecer más.
+
+> **Idea clave:** busca en MarcaNET antes de invertir en un nombre y regístralo cuando empiece a vender.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde buscas si una marca existe?
+*Respuesta:* En MarcaNET del IMPI.
+
+2. ¿Qué es una clase?
+*Respuesta:* El grupo de productos o servicios que cubre tu registro.
+
+
+#### Para recordar
+
+- Busca en MarcaNET.
+- Registra por clase.
+- 10 años, declara uso a los 3.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Gestores y correos falsos
+
+Después de registrar, pueden llegarte cartas o correos cobrando por «publicar» o «proteger» tu marca en registros internacionales. No son del IMPI. Paga solo en los canales oficiales.
+
+
+
+#### Nombre de usuario y dominio
+
+Tu cuenta de redes y tu dominio no son marca registrada. Te ayudan a vender, pero no te protegen si alguien registra el nombre en el IMPI.
+
+
+
+#### Si te reclaman
+
+Si alguien dice que tu nombre es su marca, verifica en MarcaNET antes de responder. Si su registro es real y cubre tus productos, lo más prudente suele ser cambiar de nombre. Consulta al IMPI o a una persona experta antes de firmar acuerdos.
+
+
+
+#### Casos
+
+
+**Caso 1. La marca de Mariana**
+
+Una tienda dice a Mariana que «Luna Morena» es su marca.
+- *¿Qué hace?* Verifica en MarcaNET y, si el registro es real, cambia de nombre.
+
+
+**Caso 2. El nombre de la fonda**
+
+Rosa quiere poner un letrero grande con un nombre nuevo.
+- *¿Qué hace antes?* Busca en MarcaNET que el nombre esté libre.
+
+
+**Caso 3. El correo a Toño**
+
+Toño recibe un correo que cobra por «publicar su marca internacionalmente».
+- *¿Qué hace?* No paga y verifica con el IMPI.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No buscar antes | Pierdes el nombre | MarcaNET |
+| Creer que la cuenta de redes protege | Te lo quitan | Registra |
+| Pagar correos falsos | Fraude | Canales oficiales |
+| Olvidar declarar uso | Se puede cancelar | A los 3 años |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Rosa y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde buscas si un nombre ya es marca? a) En MarcaNET del IMPI · b) En redes sociales · c) En un buscador de internet
+2. ¿Tu cuenta de redes te da derecho exclusivo sobre el nombre? a) Sí, si tiene muchos seguidores · b) Sí, si la abriste primero · c) No
+3. ¿Cuánto dura un registro de marca? a) 1 año · b) 10 años · c) Para siempre sin trámites
+**Respuestas:** 1-a: buscador oficial. 2-c: solo el registro en el IMPI. 3-b: y se renueva.
+
+
+
+#### Ponlo en práctica
+
+Registras tu marca en dos clases. ¿Cuánto pagas sin IVA?
+**Respuesta:** 2,695.18 por 2: 5,390.36.
+
+
+
+#### A tu plan
+
+Busca en MarcaNET el nombre de tu negocio.
+
+
+
+### Para saber más
+
+- **MarcaNET** (IMPI · español): https://www.gob.mx/impi — **Qué buscar:** «MarcaNET» y «registro de marca en línea».
+
+### Palabras clave
+
+- *Marca:* nombre, logotipo o combinación que distingue tu producto o servicio.
+- *IMPI:* Instituto Mexicano de la Propiedad Industrial: registra marcas en México.
+- *Clase:* grupo de productos o servicios que cubre un registro de marca.
+
+### Fuentes
+
+IMPI, consultado el 29 de septiembre de 2026.
+
+---

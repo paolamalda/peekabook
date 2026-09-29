@@ -157,7 +157,7 @@ def render_block(kind, icon, title, content, n=None):
         inner = f'<div class="tiles">{"".join(tiles)}</div>'
     elif kind == "ecuacion":
         lines = content.splitlines()
-        eq = [l for l in lines if re.match(r"^[=\-+] ", l)]
+        eq = [l for l in lines if re.match(r"^[=\-+×÷] ", l)]
         intro = "\n".join(lines[:lines.index(eq[0])])
         outro = "\n".join(lines[lines.index(eq[-1]) + 1:])
         cells = []
@@ -165,7 +165,7 @@ def render_block(kind, icon, title, content, n=None):
             op, rest = l[0], l[2:]
             num, lab = [x.strip() for x in rest.split("|", 1)]
             if i > 0:
-                cells.append(f'<div class="op">{"=" if i == len(eq) - 1 else ("−" if op == "-" else "+")}</div>')
+                cells.append(f'<div class="op">{"=" if i == len(eq) - 1 else {"-": "−", "×": "×", "÷": "÷"}.get(op, "+")}</div>')
             cells.append(f'<div class="n{" res" if i == len(eq) - 1 else ""}"><b>{num}</b><span>{lab}</span></div>')
         inner = md(intro) + f'<div class="eq">{"".join(cells)}</div>' + md(outro)
     elif kind == "pasos":

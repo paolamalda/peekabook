@@ -1,0 +1,457 @@
+# Módulo 4. Cobrar y vender sin perder
+
+## M4 U01. Efectivo, transferencia, terminal o link de pago
+
+**Lo que lograrás:** Comparar las formas de cobro por su costo, rapidez y seguridad, y elegir las que convienen a tu negocio.
+
+**Para empezar:** A Rosa le ofrecen una terminal para cobrar con tarjeta. Sus clientes se la piden, pero no sabe cuánto le cobrarán ni cuándo le depositan. En esta lección verás cómo comparar.
+
+### Lo esencial (5 minutos)
+
+#### Formas de cobro
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Efectivo | Sin comisión. | Riesgo de robo y billetes falsos. |
+| Transferencia (SPEI) | Sin comisión en la mayoría de cuentas. | Confírmala en tu app. |
+| Terminal | Cobras con tarjeta. | Comisión por cobro. |
+| Link de pago | Cobras a distancia. | Comisión; revisa contracargos. |
+
+#### Lo que cuesta cobrar con tarjeta
+
+- Cobros con tarjeta al mes: **10,000**
+× 3.5% | Comisión con IVA (aprox.)
+- Costo al mes: **350**
+Si la terminal te trae ventas que no tendrías, puede convenir; súmalo a tus costos variables.
+
+
+#### Antes de contratar una terminal, pregunta
+
+1. Comisión por cobro, con IVA, para débito y crédito.
+2. Renta mensual, venta mínima o costo del aparato.
+3. En cuántos días depositan y a qué cuenta.
+4. Qué pasa con los contracargos y quién los paga.
+
+
+
+#### Un caso en un minuto
+
+Rosa comparó tres terminales: una sin renta y 3.5% de comisión, otra con renta de 200 y 2.5%. Con 8,000 al mes en tarjeta, la primera le cuesta 280 y la segunda 400. Eligió la primera.
+
+> **Idea clave:** compara el costo total al mes con tus ventas reales, no solo el porcentaje.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué preguntas antes de contratar una terminal?
+*Respuesta:* Comisión con IVA, renta o mínimo, días de depósito y contracargos.
+
+2. ¿Puedes cargar la comisión al cliente?
+*Respuesta:* No como recargo por pagar con tarjeta: inclúyela en tu precio.
+
+
+#### Para recordar
+
+- Compara costo total.
+- Pregunta depósito y contracargos.
+- La comisión va en tu precio.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Compara tus opciones
+
+| Dato | Opción A | Opción B | Opción C |
+|---|---|---|---|
+| Comisión con IVA | | | |
+| Renta o mínimo al mes | | | |
+| Días de depósito | | | |
+| Costo total con tus ventas | | | |
+
+
+
+#### Recargos por pagar con tarjeta
+
+CONDUSEF señala que el comercio no debe cobrar un recargo al cliente por pagar con tarjeta. Si tu margen es pequeño, ajusta tu precio para todos o fija un monto mínimo de compra con tarjeta que avises con claridad.
+
+
+
+#### Efectivo seguro
+
+Si cobras mucho en efectivo: cuenta en privado, deposita seguido, varía horarios y rutas, y revisa billetes grandes. Menos efectivo en el local es menos riesgo.
+
+
+
+#### Casos
+
+
+**Caso 1. La terminal de Rosa**
+
+A Rosa le ofrecen una terminal con renta mensual y comisión baja.
+- *¿Qué hace?* Calcula el costo total con sus ventas reales y lo compara con otras opciones.
+
+
+**Caso 2. El recargo de Don Pepe**
+
+Don Pepe quiere cobrar 5% extra a quien pague con tarjeta.
+- *¿Qué hace?* Incluye el costo en su precio o fija un mínimo avisado, sin recargo.
+
+
+**Caso 3. El link de Mariana**
+
+Mariana quiere cobrar con link a clientes que no conoce.
+- *¿Qué revisa?* Comisión, días de depósito y quién paga si hay contracargo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Ver solo el porcentaje | Costo oculto | Costo total |
+| Cobrar recargo | Queja del cliente | En el precio |
+| No preguntar depósito | Hueco de flujo | Días de depósito |
+| Mucho efectivo guardado | Robo | Deposita seguido |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Don Pepe y Mariana. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Cobras 6,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? a) 180 · b) 600 · c) 30
+2. ¿Qué haces con la comisión de la terminal? a) La cobras aparte a quien paga con tarjeta · b) La incluyes en tu precio · c) Le pides al cliente que pague en efectivo siempre
+3. Terminal A: 3.5% sin renta. Terminal B: 2.5% más 150 de renta. Vendes 10,000 con tarjeta. ¿Cuál es más barata? a) La A: 350 · b) La B: 400 · c) Cuestan igual
+**Respuestas:** 1-a: 3% de 6,000. 2-b: sin recargo. 3-a: 350 contra 250 más 150.
+
+
+
+#### Ponlo en práctica
+
+Con la terminal B (2.5% más 150 de renta), ¿a partir de cuántas ventas al mes es más barata que la A (3.5% sin renta)?
+**Respuesta:** Cuando la diferencia de 1% supera los 150: más de 15,000 al mes.
+
+
+
+#### A tu plan
+
+Anota cuánto cobras al mes con tarjeta y compara al menos dos opciones de terminal con tus números.
+
+
+
+### Para saber más
+
+- **Terminales y cobros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «terminal punto de venta» y «comisiones».
+- **Transferencias** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** «SPEI».
+
+### Palabras clave
+
+- *Terminal punto de venta:* aparato o app para cobrar con tarjeta.
+- *Link de pago:* enlace que envías a tu cliente para que pague con tarjeta a distancia.
+- *Contracargo:* cuando el banco del cliente le regresa un pago con tarjeta porque lo desconoce o lo reclama.
+
+### Fuentes
+
+CONDUSEF · Banco de México, consultados el 29 de septiembre de 2026.
+
+---
+
+## M4 U02. Cobros con CoDi, QR y transferencias seguras
+
+**Lo que lograrás:** Cobrar por transferencia o código QR confirmando cada pago en tu app y cuidando tu cuenta.
+
+**Para empezar:** Mariana entrega pedidos cuando el cliente le manda la captura de la transferencia. Una vez la captura era falsa y perdió un vestido de 900. En esta lección verás cómo confirmar cada pago.
+
+### Lo esencial (5 minutos)
+
+#### Cobrar por transferencia o QR
+
+Con una transferencia SPEI o un código QR (como CoDi o el de tu banco), el dinero llega a tu cuenta en segundos, casi siempre sin comisión. Pero **la captura del cliente no es prueba de pago**.
+
+
+
+#### Antes de entregar, confirma
+
+1. Abre tu app del banco y revisa que el dinero **ya esté en tu cuenta**.
+2. Revisa monto, nombre y hora.
+3. Si tienes duda, consulta el CEP en el sitio de Banxico.
+4. Solo entonces entrega.
+
+> **Dato vigente:** el CEP se descarga en el sitio de Banco de México con fecha, clave de rastreo o referencia, banco emisor, banco receptor, cuenta y monto; confirma que la transferencia SPEI se liquidó. Consultado el 29 de septiembre de 2026 a través de Banco de México.
+
+
+
+#### Cuida tu cuenta de cobro
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Alertas | Aviso de cada depósito. | Confirmas al instante. |
+| Tu límite de transferencias | Ajústalo a lo que pagas. | Menos riesgo. |
+| Comparte solo la CLABE | Nunca NIP, códigos ni contraseñas. | Para cobrar basta la CLABE. |
+| Captura como prueba | Se falsifica fácil. | No es prueba. |
+
+#### Un caso en un minuto
+
+Mariana activó las alertas de su app. Ahora solo entrega cuando le llega la notificación del banco. Dos clientes con capturas falsas desaparecieron cuando les dijo que esperaría el depósito.
+
+> **Idea clave:** entrega solo cuando el dinero esté en tu cuenta, no cuando te manden una captura.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Por qué una captura no es prueba de pago?
+*Respuesta:* Porque se puede falsificar o ser de una transferencia que no se completó.
+
+2. ¿Qué dato compartes para cobrar?
+*Respuesta:* Solo tu CLABE o tu código QR; nunca NIP, contraseñas ni códigos.
+
+
+#### Para recordar
+
+- Revisa en tu app antes de entregar.
+- CEP si hay duda.
+- Solo la CLABE.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu límite de transferencias
+
+Desde 2026, cada persona puede fijar en su banco un límite para sus transferencias desde la app. Para tu cuenta de cobro, el límite de salida puede ser bajo: así, si alguien entra a tu app, no puede vaciarla.
+
+> **Dato vigente:** si no fijas tu límite de transferencias (Monto Transaccional del Usuario, MTU), el banco aplica uno de 1,500 UDIS; puedes ajustarlo en tu app. Obligatorio desde el 1 de enero de 2026. Consultado el 29 de septiembre de 2026 a través de la CNBV.
+
+
+
+#### Transferencias «programadas»
+
+Algunas capturas falsas muestran transferencias «en proceso» o «programadas». Si el dinero no está en tu cuenta, no está pagado.
+
+
+
+#### Casos
+
+
+**Caso 1. La captura de Mariana**
+
+Un cliente manda a Mariana una captura y pide que envíe ya.
+- *¿Qué hace?* Revisa su app y envía solo cuando el depósito aparezca.
+
+
+**Caso 2. La transferencia «en proceso»**
+
+Un cliente de Toño dice que la transferencia está «en proceso» y quiere que empiece.
+- *¿Qué hace?* Espera a que el dinero llegue o consulta el CEP.
+
+
+**Caso 3. El código de Rosa**
+
+Alguien que dice ser cliente le pide a Rosa el código que le llegó «para pagarle».
+- *¿Qué hace?* No da el código: para pagarle solo necesita su CLABE.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aceptar capturas | Pierdes mercancía | Revisa tu app |
+| Dar códigos «para cobrar» | Te vacían la cuenta | Solo la CLABE |
+| Sin alertas | No ves los depósitos | Actívalas |
+| Límite alto en cuenta de cobro | Más riesgo | Bájalo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Toño y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuándo entregas un pedido pagado por transferencia? a) Cuando te mandan la captura · b) Cuando el cliente te jura por teléfono que ya pagó · c) Cuando el dinero aparece en tu cuenta
+2. ¿Qué necesitas dar para que te paguen? a) Tu CLABE o tu QR · b) Tu NIP · c) El código que te llegó por mensaje
+3. ¿Qué es el CEP? a) Una captura del cliente · b) El comprobante de Banxico que confirma la transferencia · c) Un tipo de tarjeta
+**Respuestas:** 1-c: la captura no es prueba. 2-a: basta para cobrar. 3-b: confirma que se liquidó.
+
+
+
+#### Ponlo en práctica
+
+Recibes 12 pedidos al día por transferencia. Si revisar cada uno en tu app toma 30 segundos, ¿cuánto tiempo al día te cuesta confirmar?
+**Respuesta:** 6 minutos al día.
+
+
+
+#### A tu plan
+
+Activa las alertas de depósito en tu app y ajusta el límite de transferencias de tu cuenta de cobro.
+
+
+
+### Para saber más
+
+- **Comprobante Electrónico de Pago (CEP)** (Banco de México · español): https://www.banxico.org.mx/cep — **Qué buscar:** «descarga tu CEP».
+- **Fraudes** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «fraudes financieros».
+
+### Palabras clave
+
+- *SPEI:* sistema de pagos de Banco de México para transferencias entre bancos, casi al instante.
+- *CEP:* Comprobante Electrónico de Pago que emite Banxico cuando una transferencia se liquida.
+- *CLABE:* número de 18 dígitos para recibir transferencias.
+
+### Fuentes
+
+Banco de México · CNBV · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M4 U03. Fraudes al vender
+
+**Lo que lograrás:** Reconocer los fraudes más comunes contra quien vende y tener un protocolo para no caer.
+
+**Para empezar:** A Don Pepe le llamó alguien «del proveedor» para cobrarle un pedido por adelantado a otra cuenta. A Mariana le escribió un cliente que «le depositó de más» y pide que le regrese la diferencia. En esta lección verás estos y otros fraudes.
+
+### Lo esencial (5 minutos)
+
+#### Fraudes frecuentes al vender
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Comprobante falso | Captura o ticket alterado. | Revisa tu app. |
+| «Te deposité de más» | Te piden regresar la diferencia. | El pago original no existe o se revierte. |
+| Tarjeta robada | Compra grande con link, prisa por el envío. | Contracargo. |
+| Cambio de cuenta del proveedor | «Ahora deposita a esta otra cuenta». | Confirma por otro medio. |
+
+#### Tu protocolo
+
+1. Entrega solo con el dinero en tu cuenta.
+2. Nunca regreses «excedentes» sin confirmar el depósito en tu app, y regrésalos solo a la misma cuenta de origen.
+3. Ante cambios de cuenta de un proveedor, llama al número que ya tenías.
+4. Desconfía de la prisa, las compras grandes de desconocidos y los envíos a otra dirección.
+
+
+
+#### Un caso en un minuto
+
+Mariana revisó su app: no había ningún depósito «de más». Le dijo al cliente que devolvería cualquier excedente cuando apareciera en su cuenta, a la misma cuenta de origen. El cliente dejó de escribir.
+
+> **Idea clave:** prisa, excedentes y cambios de cuenta son señales de fraude; confirma en tu app y por un medio que tú elijas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces si te dicen que te depositaron de más?
+*Respuesta:* Revisas tu app; si el excedente está, lo devuelves solo a la cuenta de origen.
+
+2. ¿Qué haces si un proveedor cambia de cuenta?
+*Respuesta:* Confirmas llamando al número que ya tenías.
+
+
+#### Para recordar
+
+- Prisa = alerta.
+- Confirma en tu app.
+- Cambios de cuenta: llama tú.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Contracargos
+
+Si cobras con tarjeta y el titular desconoce la compra, su banco puede regresarle el dinero y tu proveedor de pagos te lo descuenta. Guarda pruebas de entrega (guía de paquetería, firma, fotos) y evita envíos grandes a desconocidos con pagos a distancia.
+
+
+
+#### Si ya te pasó
+
+Guarda capturas, mensajes y números. Reporta a tu banco o proveedor de pagos, reclama por escrito y guarda el folio. Si hubo engaño, denuncia ante la fiscalía y al 088. Avisa a otros vendedores en la comunidad, sin datos personales.
+
+> **Antes de actuar, verifica:** cualquier cambio de datos de pago de un proveedor por un medio que tú elijas, y nunca con el número o enlace que venga en el mismo mensaje.
+
+
+
+#### Casos
+
+
+**Caso 1. El «depósito de más»**
+
+Un cliente dice a Mariana que le depositó 2,000 de más y pide que se los regrese.
+- *¿Qué hace?* Revisa su app y solo devuelve un excedente real a la cuenta de origen.
+
+
+**Caso 2. El proveedor de Don Pepe**
+
+Una llamada «del proveedor» pide a Don Pepe pagar un pedido a una cuenta nueva.
+- *¿Qué hace?* Cuelga y llama al número del proveedor que ya tenía.
+
+
+**Caso 3. El pedido grande de Toño**
+
+Un desconocido pide a Toño material por 15,000 con link de pago y envío urgente a otra ciudad.
+- *¿Qué hace?* Desconfía, pide confirmación y no envía sin verificar.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Devolver excedentes sin revisar | Pierdes dinero | Revisa tu app |
+| Pagar a cuentas nuevas | Proveedor falso | Llama al número conocido |
+| Envíos urgentes a desconocidos | Contracargo | Verifica |
+| No guardar pruebas | No puedes reclamar | Guarda todo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Don Pepe y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Un cliente dice que te depositó de más. ¿Qué haces primero? a) Le regresas la diferencia de inmediato para quedar bien · b) Revisas tu app para ver si el excedente existe · c) Le das su número de cuenta a otro cliente
+2. Tu proveedor te escribe que cambió de cuenta. ¿Qué haces? a) Pagas a la nueva cuenta · b) Respondes al mismo mensaje · c) Llamas al número que ya tenías
+3. ¿Cuál es una señal de fraude al vender? a) Prisa y compra grande de un desconocido · b) Un cliente que pregunta por tallas, colores y tiempos de envío · c) Un pago que ya está en tu cuenta
+**Respuestas:** 1-b: casi nunca existe. 2-c: confirma por otro medio. 3-a: la prisa es un gancho.
+
+
+
+#### Ponlo en práctica
+
+En un año, tres capturas falsas te costaron 900, 1,200 y 650. ¿Cuánto habrías evitado revisando tu app?
+**Respuesta:** 2,750.
+
+
+
+#### A tu plan
+
+Escribe tu protocolo contra fraudes en una tarjeta y pégala donde cobras.
+
+
+
+### Para saber más
+
+- **Fraudes** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «fraudes financieros».
+- **Denuncia** (Guardia Nacional · español): 088 — **Qué buscar:** fraude y delitos en línea.
+
+### Palabras clave
+
+- *Excedente falso:* engaño en el que te piden regresar un pago de más que no existe.
+- *Suplantación de proveedor:* fraude en el que alguien se hace pasar por tu proveedor para que pagues a otra cuenta.
+
+### Fuentes
+
+CONDUSEF · Guardia Nacional, consultados el 29 de septiembre de 2026.
+
+---
