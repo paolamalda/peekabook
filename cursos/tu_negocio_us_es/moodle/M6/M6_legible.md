@@ -167,6 +167,8 @@ SBA, consultado el 29 de septiembre de 2026.
 | Micropréstamos de la SBA | A través de intermediarios. | Hasta $50,000. |
 | Adelantos de efectivo sobre ventas (MCA) | Cobran diario; muy caros. | Evítalos. |
 
+> **Dato vigente:** el programa de micropréstamos de la SBA ofrece préstamos de hasta $50,000 a través de organizaciones intermediarias sin fines de lucro, que suelen dar también asesoría. Consultado el 29 de septiembre de 2026 a través de la SBA.
+
 #### Verifica antes de pedir
 
 1. Busca el nombre exacto de quien presta y su sitio oficial.
@@ -318,7 +320,7 @@ El APR resume el costo anual del crédito con intereses y ciertas cuotas. Sirve 
 #### Lo que realmente pagas
 
 - Adelanto recibido: **$10,000**
-× 1.35 | Tasa de factor
+- Tasa de factor: **1.35**
 - Total a pagar en 6 meses: **$13,500**
 El préstamo de la cooperativa, con 14% de APR a 12 meses, cuesta unos $775 de intereses en total.
 

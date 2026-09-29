@@ -1,6 +1,6 @@
 # Tu Patrimonio, Tu Tranquilidad, Tu Futuro
 
-Manual del programa · Versión 1.0 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.1 · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
 
@@ -16,7 +16,7 @@ Educación financiera para mujeres que administran su casa y su patrimonio en M�
 | Público | Mujeres residentes en México, de 45 a 75 años aproximadamente, dedicadas al hogar, con nivel socioeconómico medio o medio alto. Algunas trabajan; muchas tienen o tendrán una pensión; llevan cuentas personales, tienen ahorros y, a veces, inversiones |
 | Tono | Tuteo cálido, español de México, frases cortas, sin tecnicismos, sin culpas y sin paternalismo |
 | Formato | Mixto: curso en Moodle 3.10 (lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluaciones y constancia), sesiones de acompañamiento en grupo, práctica guiada con el celular y libro de apoyo imprimible |
-| Duración | 11 módulos, 51 lecciones |
+| Duración | 11 módulos, 52 lecciones |
 | Eje | Protección contra fraudes y robo de identidad, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -42,7 +42,7 @@ Educación financiera para mujeres que administran su casa y su patrimonio en M�
 |---|---|---|
 | **Carmen** (58) | Casada con Jorge, vive en la Ciudad de México. Su esposo siempre manejó las cuentas y las inversiones; ella lleva el gasto de la casa y una cuenta propia con ahorros | No sabe qué tienen, dónde está ni qué pasaría si Jorge faltara |
 | **Lucía** (64) | Viuda desde hace un año, vive en Guadalajara. Recibe pensión de viudez del IMSS; heredó inversiones que no entiende. Sus hijos le «ayudan» con el celular | Le da miedo la tecnología y ya recibió dos llamadas «del banco» |
-| **Maru** (52) | Vive en Puebla. Trabajó 12 años en una empresa antes de casarse (cotizó desde 1990) y vende por catálogo. Piensa en la Modalidad 40 | Saber si todavía puede y si le conviene |
+| **Maru** (52) | Vive en Puebla. Trabajó 12 años en una empresa antes de casarse (cotizó desde 1990) y vende por catálogo. Piensa en la Modalidad 40. Su esposo, Raúl, es maestro en escuelas públicas federales (ISSSTE) | Saber si todavía puede y si le conviene |
 | **Elena** (47) | Divorciada, vive en Monterrey con dos hijos adolescentes. Trabaja en una inmobiliaria y ayuda con las cuentas de su mamá | Su seguro de gastos médicos subió 30% y no sabe si cancelarlo |
 
 Son personajes inventados; cualquier parecido con personas reales es coincidencia.
@@ -59,7 +59,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M4 Fraudes: que no te pase | 8 | Protocolo contra fraudes y plan de respuesta |
 | M5 Tus cuentas y tu ahorro protegido | 4 | Cuentas revisadas, ahorro dentro del IPAB y fondo de emergencia |
 | M6 Tus inversiones | 5 | Qué tienes, cuánto rinde, cuánto cuesta y quién te asesora |
-| M7 Pensión y retiro | 5 | Mapa de pensiones y cálculo de retiro |
+| M7 Pensión y retiro | 6 | Mapa de pensiones (IMSS e ISSSTE) y cálculo de retiro |
 | M8 Salud y seguros | 5 | Seguro de gastos médicos entendido y comparado |
 | M9 Impuestos sin miedo | 3 | Saber si declaras, qué te retienen y qué deduces |
 | M10 Patrimonio y familia | 5 | Testamento, beneficiarios y documentos en orden |
@@ -153,7 +153,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U04 · Pensión de viudez y pensiones del Bienestar** Monto, trámite y compatibilidad; Mujeres Bienestar (60 a 64) y Adultos Mayores (65 o más).
 
-**M7 U05 · ¿Cuánto necesito para mi retiro?** Gasto esperado, ingresos de pensión y ahorro que falta.
+**M7 U05 · Si tú o tu pareja trabajaron para el gobierno: ISSSTE** Régimen del décimo transitorio o cuentas individuales, requisitos de jubilación 2026, hoja única de servicios, pensión de viudez del ISSSTE (100% en el régimen anterior) y periodos en IMSS e ISSSTE.
+
+**M7 U06 · ¿Cuánto necesito para mi retiro?** Gasto esperado, ingresos de pensión y ahorro que falta.
 
 ## Módulo 8. Salud y seguros
 
@@ -236,6 +238,7 @@ Cada lección toma de 10 a 15 minutos (5 si solo se lee lo esencial), más la ac
 | Cetesdirecto | https://www.cetesdirecto.com | Cetes y BONDDIA |
 | CNSF | https://www.gob.mx/cnsf | Aseguradoras autorizadas |
 | IMSS | https://www.imss.gob.mx | Semanas cotizadas, Modalidad 40, pensión de viudez |
+| ISSSTE y PENSIONISSSTE | https://www.gob.mx/issste · https://www.gob.mx/pensionissste | Régimen, hoja única de servicios, jubilación, pensión por causa de muerte |
 | CONSAR y e-SAR | https://www.e-sar.com.mx | Localizar tu AFORE |
 | Programas para el Bienestar | https://programasparaelbienestar.gob.mx | Pensión Mujeres Bienestar y Adultos Mayores |
 | SAT | https://www.sat.gob.mx | Declaración anual, constancias, deducciones |
@@ -262,5 +265,7 @@ Cada lección toma de 10 a 15 minutos (5 si solo se lee lo esencial), más la ac
 | P11 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
 | P12 | Tope de deducciones personales | El menor entre 5 UMA anuales (213,973.20 pesos en 2026) y 15% de los ingresos | LISR art. 151 |
 | P13 | Asesores en inversiones | Deben estar en el Registro de Asesores en Inversiones de la CNBV | CNBV |
+| P14 | Jubilación ISSSTE, décimo transitorio | En 2026 y 2027: mujeres 56 años y 28 de servicio; hombres 58 años y 30 de servicio; baja gradualmente hasta 53 y 55 años en 2034 | Decreto DOF 24-jun-2025; ISSSTE |
+| P15 | Viudez ISSSTE | 100% de la pensión que recibía o le habría correspondido a la persona fallecida; si falleció en activo por causas ajenas al trabajo, al menos 3 años cotizados | Ley del ISSSTE; ISSSTE |
 
 **Datos que se confirman en cada sesión o renovación:** precios de pólizas, tasas de Cetes, costos notariales y montos de programas sociales.

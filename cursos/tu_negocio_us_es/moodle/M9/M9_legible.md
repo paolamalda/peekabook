@@ -31,6 +31,8 @@ El impuesto por cuenta propia que pagas (M5 U03) cuenta para tu Seguro Social. P
 | Solo 401(k) | Para dueños sin empleados. | $24,500 como empleado más aportación del negocio, máximo $72,000. |
 | Solo el negocio | Depende de tu salud. | Riesgoso. |
 
+> **Dato vigente:** para 2026, el límite de aportación a una IRA es de $7,500 ($8,600 con 50 años o más); a una SEP IRA, hasta 25% de la compensación y un máximo de $72,000; y a un Solo 401(k), $24,500 como empleado y un total de $72,000, sin contar aportaciones adicionales por edad. Consultado el 29 de septiembre de 2026 a través del IRS.
+
 #### Un caso en un minuto
 
 Don Ramón revisó su cuenta en ssa.gov: tiene 52 créditos y un estimado de $1,300 al mes a los 67 años. Abrió una IRA y aporta $300 al mes. Sabe que cada año que espera para reclamar su pensión, el pago mensual sube.

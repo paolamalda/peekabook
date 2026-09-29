@@ -172,6 +172,11 @@ CASOS = {
  ("Cuelga: el registro es gratuito.", "Paga para que le aumenten la pensión.", "Da los datos de su tarjeta para el depósito."),
 ],
 "M7 U05": [
+ ("Piden la hoja única y confirman el régimen.", "Suponen que está en el régimen viejo.", "Pagan a un gestor para que lo averigüe."),
+ ("La acompaña al ISSSTE con los documentos.", "Le dice que ya pasó mucho tiempo.", "Busca a un gestor que lo haga por ella."),
+ ("Que no pague: el trámite es gratuito.", "Que pague la mitad al empezar.", "Que pague si le da recibo."),
+],
+"M7 U06": [
  ("Calculan gasto, pensión y diferencia.", "Suponen que la pensión alcanza.", "Esperan a jubilarse para ver qué pasa."),
  ("Agrega el seguro y los medicamentos a su gasto.", "Lo deja fuera: ya lo paga cada año.", "Supone que el IMSS cubrirá todo."),
  ("Calcula su retiro y decide cuánto ayudar.", "Presta todo lo que le piden sus hijos.", "Deja de ayudar sin hablarlo con ellos."),

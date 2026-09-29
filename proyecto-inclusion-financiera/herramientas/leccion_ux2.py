@@ -155,6 +155,8 @@ def render_block(kind, icon, title, content, n=None):
             tiles.append(f'<div class="tile"><div class="ic"><i class="fa {ic}"></i></div><div class="nm">{terms(nm)}</div>'
                          f'<div class="ex">{terms(ex)}</div><div class="st {cls}">{terms(st)}</div></div>')
         inner = f'<div class="tiles">{"".join(tiles)}</div>'
+        resto = "\n".join(l for l in content.splitlines() if not l.startswith("* ")).strip()
+        if resto: inner += md(resto)
     elif kind == "ecuacion":
         lines = content.splitlines()
         eq = [l for l in lines if re.match(r"^[=\-+×÷] ", l)]
@@ -171,6 +173,8 @@ def render_block(kind, icon, title, content, n=None):
     elif kind == "pasos":
         items = re.findall(r"(?m)^\d+\.\s+(.+)$", content)
         inner = '<ol class="check">' + "".join(f"<li>{md(i)[3:-4]}</li>" for i in items) + "</ol>"
+        resto = "\n".join(l for l in content.splitlines() if not re.match(r"^\d+\.\s+", l)).strip()
+        if resto: inner += md(resto)
     else:
         inner = md(content)
     num = f'<div class="num"><i class="fa {icon}"></i></div>' if n is not None else ""

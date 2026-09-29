@@ -330,7 +330,7 @@ La reserva del negocio es el colchón del negocio: dinero para pagar costos fijo
 #### La reserva de Mariana
 
 - Costos fijos al mes (con su sueldo): **5,000**
-× 3 | Meses de colchón
+- Meses de colchón: **3**
 - Meta de reserva: **15,000**
 Aparta un porcentaje de cada venta hasta llegar a la meta.
 

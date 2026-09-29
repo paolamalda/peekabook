@@ -8,6 +8,7 @@ Cada cifra de las lecciones va en un recuadro «Dato vigente» con fecha y fuent
 | Enero | Retención de ISR por intereses (Ley de Ingresos del año) | M5 U04, M9 U02 |
 | Febrero | Nueva UMA: límite exento de pensiones y tope de deducciones | M9 |
 | Enero | Porcentaje de cuota de Modalidad 40 (sube cada año hasta 2030) | M7 U03 |
+| Enero | Edad y años de servicio del décimo transitorio del ISSSTE (bajan gradualmente hasta 2034) | M7 U05 |
 | Cada seis meses | Valor de la UDI: límite del IPAB y del MTU en pesos | M3 U03, M5 U02 |
 | Cada seis meses | Cifras de fraude de CONDUSEF | M4 U01 |
 | Cada año | REPEP, REUS y registro de líneas con CURP | M4 U06, M4 U07 |

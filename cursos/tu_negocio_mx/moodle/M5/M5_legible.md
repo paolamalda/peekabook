@@ -183,7 +183,7 @@ El RESICO para personas físicas es un régimen del SAT en el que pagas ISR con 
 #### El ISR de Toño en un mes
 
 - Lo que cobró (sin IVA): **22,000**
-× 1% | Tasa por cobrar hasta 25,000
+- Tasa por cobrar hasta 25,000: **1%**
 - ISR del mes: **220**
 Si la constructora le retuvo 1.25% (275 de un trabajo), lo resta de su pago.
 

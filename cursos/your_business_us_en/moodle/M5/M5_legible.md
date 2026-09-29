@@ -323,11 +323,13 @@ IRS · CDTFA · CSLB · CalGold, accessed September 29, 2026.
 | Business deductions | Ordinary and necessary expenses. | They lower your profit. |
 | 20% deduction (QBI) | On business profit, with limits. | Lowers your income tax. |
 
+> **Current fact:** self-employment tax is 15.3% (12.4% Social Security and 2.9% Medicare) on 92.35% of your net profit; you pay it if you earn $400 or more. The Social Security portion applies up to $184,500 in 2026. The 20% qualified business income (QBI) deduction became permanent starting in 2026. Accessed September 29, 2026 through the IRS and the One Big Beautiful Bill Act.
+
 #### Daniela's self-employment tax
 
 - Net profit for the year: **$14,000**
-× 92.35% | Tax base
-× 15.3% | Rate
+- Tax base: **92.35%**
+- Rate: **15.3%**
 - Self-employment tax (approx.): **$1,978**
 Depending on her total income, she may also owe income tax.
 
@@ -488,6 +490,8 @@ Since nobody withholds taxes for you, the IRS expects you to pay during the year
 | All income is reported | Whether or not you get a 1099. | Always. |
 | "No 1099, no reporting" | Common mistake. | Not true. |
 
+> **Current fact:** starting with 2026 payments, Form 1099-NEC is sent when a business pays you $2,000 or more in the year (previously $600). Form 1099-K is sent by platforms and processors when your payments exceed $20,000 and 200 transactions. All income is reported even if you don't receive a form. Accessed September 29, 2026 through the IRS and the One Big Beautiful Bill Act.
+
 #### A case in one minute
 
 Javier understood that the 1099-NEC only reports what he already earned. Now he pays every quarter with IRS Direct Pay using what he sets aside. The "IRS" call was a scam: the IRS doesn't call to demand gift cards.
@@ -639,7 +643,7 @@ Sales tax is collected from your customer and sent to the state. It's not part o
 #### Tax on one of Daniela's sales
 
 - Price of a necklace: **$50**
-× 9.25% | Total rate in her city (example)
+- Total rate in her city (example): **9.25%**
 - Tax she collects and sends to the state: **$4.63**
 
 

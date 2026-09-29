@@ -17,10 +17,12 @@
 | Terminal | Cobras con tarjeta. | Comisión por cobro. |
 | Link de pago | Cobras a distancia. | Comisión; revisa contracargos. |
 
+> **Dato vigente:** las terminales y los links de pago cobran comúnmente entre 2.0% y 3.6% más IVA por cada cobro con tarjeta, según el proveedor y el tipo de tarjeta; algunos cobran renta mensual o piden una venta mínima. Consultado el 29 de septiembre de 2026 a través de comparativos de mercado y CONDUSEF.
+
 #### Lo que cuesta cobrar con tarjeta
 
 - Cobros con tarjeta al mes: **10,000**
-× 3.5% | Comisión con IVA (aprox.)
+- Comisión con IVA (aprox.): **3.5%**
 - Costo al mes: **350**
 Si la terminal te trae ventas que no tendrías, puede convenir; súmalo a tus costos variables.
 

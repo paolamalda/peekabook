@@ -332,7 +332,7 @@ The average ticket is what each customer spends on average. If it goes up, you s
 #### Don Ramón's ticket
 
 - Monthly sales: **$12,000**
-÷ 1,000 | Number of sales
+- Number of sales: **1,000**
 - Average ticket: **$12**
 If each customer spent $1.50 more, he'd sell $1,500 more a month.
 

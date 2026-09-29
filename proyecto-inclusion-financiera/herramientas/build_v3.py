@@ -63,9 +63,11 @@ def legible(text, mod):
                 if kind == "tarjetas":
                     out += ["| Tipo | Descripción | Qué significa para ti |", "|---|---|---|"]
                     out += [f"| {c[1]} | {c[2]} | {c[3]} |" for c in ([x.strip() for x in l[2:].split("|")] for l in ct.splitlines() if l.startswith("* "))]
+                    resto = [l for l in ct.splitlines() if l.strip() and not l.startswith("* ")]
+                    if resto: out += [""] + resto
                 elif kind == "ecuacion":
                     for l in ct.splitlines():
-                        m = re.match(r"^([=\-+]) (.+?)\s*\|\s*(.+)$", l)
+                        m = re.match(r"^([=\-+×÷]) (.+?)\s*\|\s*(.+)$", l)
                         out.append(f"- {m.group(3)}: **{m.group(2)}**" if m else l)
                 elif kind == "comprueba":
                     for l in ct.splitlines():

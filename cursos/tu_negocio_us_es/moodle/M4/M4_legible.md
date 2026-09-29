@@ -17,10 +17,12 @@
 | Lector de tarjetas | Cobras con tarjeta. | Comisión por cobro. |
 | Link de pago o factura en línea | Cobras a distancia. | Comisión; revisa contracargos. |
 
+> **Dato vigente:** los procesadores de pago cobran comúnmente entre 2.6% y 3.5% por cobro con tarjeta, más una cuota fija de unos centavos por transacción; los cobros a distancia suelen costar más que los presenciales. Consultado el 29 de septiembre de 2026 a través de las tarifas publicadas de procesadores de pago.
+
 #### Lo que cuesta cobrar con tarjeta
 
 - Cobros con tarjeta al mes: **$8,000**
-× 2.9% | Comisión aproximada
+- Comisión aproximada: **2.9%**
 - Costo al mes: **$232**
 Súmalo a tus costos variables; también es un gasto deducible del negocio.
 

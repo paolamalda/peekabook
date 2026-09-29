@@ -484,7 +484,7 @@ Gobierno de México · notarías estatales, consultados el 29 de septiembre de 2
 
 #### Ayudar sí, pero con cuentas claras
 
-Ayudar a tus hijos es natural. Lo importante es que tu ayuda no ponga en riesgo tu retiro ni tu salud. Primero calcula tu retiro (M7 U05); después decide cuánto puedes dar.
+Ayudar a tus hijos es natural. Lo importante es que tu ayuda no ponga en riesgo tu retiro ni tu salud. Primero calcula tu retiro (M7 U06); después decide cuánto puedes dar.
 
 
 

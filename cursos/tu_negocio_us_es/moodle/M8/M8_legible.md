@@ -332,7 +332,7 @@ El ticket promedio es lo que gasta cada cliente en promedio. Si sube, vendes má
 #### El ticket de Don Ramón
 
 - Ventas del mes: **$12,000**
-÷ 1,000 | Número de ventas
+- Número de ventas: **1,000**
 - Ticket promedio: **$12**
 Si cada cliente gastara $1.50 más, vendería $1,500 más al mes.
 

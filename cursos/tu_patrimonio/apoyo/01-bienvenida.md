@@ -6,7 +6,7 @@ Aquí aprenderás a saber qué tienes y dónde está, entender el sistema financ
 
 No necesitas saber de finanzas ni de tecnología. Cada lección parte de una situación real y termina con una acción que puedes hacer esta semana.
 
-Versión 1.0 · Septiembre de 2026.
+Versión 1.1 · Septiembre de 2026.
 
 ## Cómo está hecho cada módulo
 
@@ -36,7 +36,7 @@ Las **palabras en color** muestran su significado al pasar el cursor o al tocarl
 
 - **Carmen** (58): casada con Jorge; él siempre manejó las cuentas y las inversiones.
 - **Lucía** (64): viuda desde hace un año; recibe pensión de viudez y heredó inversiones.
-- **Maru** (52): trabajó 12 años antes de casarse y vende por catálogo.
+- **Maru** (52): trabajó 12 años antes de casarse y vende por catálogo; su esposo, Raúl, es maestro con ISSSTE.
 - **Elena** (47): divorciada, con dos hijos; su seguro médico subió 30%.
 
 ## Tres reglas del programa

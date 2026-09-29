@@ -167,6 +167,8 @@ SBA, accessed September 29, 2026.
 | SBA microloans | Through intermediaries. | Up to $50,000. |
 | Merchant cash advances (MCA) | Daily payments; very expensive. | Avoid them. |
 
+> **Current fact:** the SBA microloan program offers loans of up to $50,000 through nonprofit intermediary organizations, which often also provide coaching. Accessed September 29, 2026 through the SBA.
+
 #### Check before you apply
 
 1. Look up the lender's exact name and official website.
@@ -318,7 +320,7 @@ The APR sums up the yearly cost of credit with interest and certain fees. It's f
 #### What you actually pay
 
 - Advance received: **$10,000**
-× 1.35 | Factor rate
+- Factor rate: **1.35**
 - Total to repay in 6 months: **$13,500**
 The credit union loan, at 14% APR over 12 months, costs about $775 in total interest.
 

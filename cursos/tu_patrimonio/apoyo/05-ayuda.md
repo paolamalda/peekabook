@@ -14,6 +14,7 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 | Reporte de crédito y bloqueo | Buró de Crédito y Círculo de Crédito | Un reporte gratis al año en cada uno | Solo sitios oficiales |
 | Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Gratis | Desvincula las que no son tuyas |
 | Semanas cotizadas, Modalidad 40 y viudez | IMSS | Gratis | Trámites sin gestores |
+| Régimen, jubilación y viudez del gobierno federal | ISSSTE y PENSIONISSSTE; hoja única de servicios en la dependencia | Gratis | Trámites sin gestores |
 | AFORE | CONSAR, e-SAR y AforeMóvil | Gratis | CURP |
 | Pensiones del Bienestar | Programas para el Bienestar | Gratis | Solo módulos oficiales |
 | Dudas con el SAT | SAT y PRODECON | Gratis | Tu contraseña del SAT |

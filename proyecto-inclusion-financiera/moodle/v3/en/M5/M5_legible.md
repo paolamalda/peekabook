@@ -269,6 +269,9 @@ Rosa asks: "And if it goes down?" It could drop 20% and leave her with 800. Sinc
 | Do I have my savings cushion? | Without it, an emergency forces you to sell at a bad time. | Cushion first. |
 | Do I have expensive debts? | Paying off a card at 25% "earns" more than almost any investment. | Pay the expensive debt first. |
 
+If you answer all three well, you can start investing with a little, calmly.
+> **Before you act, check:** who manages the investment, how much it charges in total, how you get your money out and whether it's registered with the SEC or FINRA.
+
 #### Check your understanding
 
 1. Your account went from 2,000 to 2,300 and you put in 250. How much did the investment earn?
@@ -910,6 +913,8 @@ The total cost is 2,000, not 1,200. She decides to take it anyway, because she e
 | What's the yearly rate (APR)? | Compare with your bank or credit union. | Bring an offer beforehand. |
 | What extras are included? | Warranties, insurance and optional services. | You can say no. |
 
+If you're pressured to sign today, that's a good reason to wait.
+
 #### Waiting is also an option
 
 Sometimes the best purchase is waiting a few months. With a bigger down payment, the loan is smaller and you pay less interest.
@@ -1345,6 +1350,9 @@ She updated her beneficiaries and set aside a small voluntary contribution every
 | Contribute | Voluntary contributions by card or at stores. | Small amounts. |
 | Switch AFORE | If another one suits you better. | Compare fees and returns. |
 
+It's all free. Nobody should charge you to use the app.
+> **Before you act, check:** that you're using CONSAR's official app and not a copy. Never pay to sign up.
+
 #### Check your understanding
 
 1. What do you need to find your AFORE?
@@ -1763,6 +1771,8 @@ In June he earned 3,400 and set aside 1,000. In December, with the rains, he use
 | Income account | Everything you earn lands here. | You don't spend from here. |
 | Spending account | Each week you move your fixed "salary." | You pay your bills from here. |
 | Reserve account | The extra from good months. | For low months. |
+
+If you don't want three accounts, start with two: one for spending and one for the reserve. What matters is separating.
 
 #### Your plan in four steps
 

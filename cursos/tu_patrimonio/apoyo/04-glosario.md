@@ -104,13 +104,17 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Aportación voluntaria:** ahorro extra que haces tú en tu AFORE.
 - **Concubinato:** unión de pareja sin matrimonio, con efectos legales si se cumplen requisitos.
 - **Conservación de derechos:** periodo después de tu baja en el que aún puedes hacer ciertos trámites.
+- **Cuentas individuales:** régimen del ISSSTE en el que la pensión sale del ahorro en una AFORE, como PENSIONISSSTE.
 - **Diferencia de retiro:** lo que te falta cada mes entre tu gasto y tus pensiones.
+- **Hoja única de servicios:** documento que resume los años de servicio y los sueldos de una persona en el gobierno.
+- **ISSSTE:** Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado: seguridad social de quienes trabajan para el gobierno federal.
 - **Ley 73:** reglas del IMSS para quienes cotizaron antes del 1 de julio de 1997.
 - **Ley 97:** reglas del IMSS para quienes empezaron a cotizar desde el 1 de julio de 1997; la pensión depende de tu AFORE.
 - **Modalidad 40:** continuación voluntaria en el IMSS: pagas tú las cuotas para mejorar tu pensión de Ley 73.
 - **NSS:** Número de Seguridad Social.
 - **Pensión de viudez:** pensión que recibe la pareja de una persona asegurada o pensionada que falleció.
 - **Retiro:** etapa de la vida en la que dejas de trabajar y vives de pensiones y ahorros.
+- **Régimen del décimo transitorio:** régimen anterior del ISSSTE: el Instituto paga la pensión según años de servicio, edad y sueldo.
 - **Semanas cotizadas:** semanas en que se pagaron cuotas al IMSS a tu nombre.
 
 ## Salud y seguros

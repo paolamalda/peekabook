@@ -17,10 +17,12 @@
 | Card reader | You take cards. | Fee per payment. |
 | Payment link or online invoice | You get paid remotely. | Fee; check chargebacks. |
 
+> **Current fact:** payment processors commonly charge between 2.6% and 3.5% per card payment, plus a flat fee of a few cents per transaction; remote payments usually cost more than in-person ones. Accessed September 29, 2026 through processors' published rates.
+
 #### What taking cards costs
 
 - Card payments per month: **$8,000**
-× 2.9% | Approximate fee
+- Approximate fee: **2.9%**
 - Monthly cost: **$232**
 Add it to your variable costs; it's also a deductible business expense.
 

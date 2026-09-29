@@ -11,6 +11,7 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **I05** Cetesdirecto: Cetes y BONDDIA.
 - **I06** CNSF: aseguradoras y agentes.
 - **I07** IMSS: semanas cotizadas, Modalidad 40, pensión de viudez.
+- **I07b** ISSSTE y PENSIONISSSTE: régimen del décimo transitorio, cuentas individuales, pensión por causa de muerte.
 - **I08** CONSAR, e-SAR y AforeMóvil.
 - **I09** Programas para el Bienestar: Pensión Mujeres Bienestar y Pensión para Adultos Mayores.
 - **I10** SAT y PRODECON: declaraciones, retenciones, deducciones.
@@ -34,4 +35,5 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **M02** Notas informativas sobre el Monto Transaccional del Usuario (MTU) de la CNBV.
 - **M03** Notas informativas sobre montos 2026 de las pensiones del Bienestar.
 - **M04** Notas informativas sobre Modalidad 40 y pensión de viudez del IMSS en 2026.
+- **M06** Decreto del 24 de junio de 2025 (DOF) sobre la edad de jubilación en el décimo transitorio del ISSSTE y notas informativas de 2026.
 - **M05** Notas informativas sobre el registro de líneas móviles con CURP.

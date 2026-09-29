@@ -323,11 +323,13 @@ IRS · CDTFA · CSLB · CalGold, consultados el 29 de septiembre de 2026.
 | Deducciones del negocio | Gastos ordinarios y necesarios. | Bajan tu ganancia. |
 | Deducción de 20% (QBI) | Sobre la ganancia del negocio, con límites. | Baja tu impuesto sobre la renta. |
 
+> **Dato vigente:** el impuesto sobre el trabajo por cuenta propia es de 15.3% (12.4% Seguro Social y 2.9% Medicare) sobre el 92.35% de tu ganancia neta; se paga si ganas $400 o más. La parte de Seguro Social se aplica hasta $184,500 en 2026. La deducción de 20% por ingreso calificado de negocio (QBI) quedó permanente desde 2026. Consultado el 29 de septiembre de 2026 a través del IRS y la ley One Big Beautiful Bill Act.
+
 #### El impuesto por cuenta propia de Daniela
 
 - Ganancia neta del año: **$14,000**
-× 92.35% | Base del impuesto
-× 15.3% | Tasa
+- Base del impuesto: **92.35%**
+- Tasa: **15.3%**
 - Impuesto por cuenta propia (aprox.): **$1,978**
 Además, según su ingreso total, puede deber impuesto sobre la renta.
 
@@ -488,6 +490,8 @@ Como nadie te retiene impuestos, el IRS espera que pagues durante el año con pa
 | Todo ingreso se declara | Recibas o no un 1099. | Siempre. |
 | «Si no me llega 1099, no declaro» | Error común. | No es así. |
 
+> **Dato vigente:** desde los pagos de 2026, el formulario 1099-NEC se envía cuando un negocio te paga $2,000 o más en el año (antes $600). El 1099-K lo envían plataformas y procesadores cuando tus cobros superan $20,000 y 200 transacciones. Todo ingreso se declara aunque no recibas formulario. Consultado el 29 de septiembre de 2026 a través del IRS y la ley One Big Beautiful Bill Act.
+
 #### Un caso en un minuto
 
 Javier entendió que el 1099-NEC solo reporta lo que ya ganó. Ahora paga cada trimestre en IRS Direct Pay con lo que aparta. La llamada «del IRS» era un fraude: el IRS no llama para exigir tarjetas de regalo.
@@ -639,7 +643,7 @@ El sales tax lo cobras a tu cliente y lo entregas al estado. No es parte de tu g
 #### El impuesto en una venta de Daniela
 
 - Precio de un collar: **$50**
-× 9.25% | Tasa total de su ciudad (ejemplo)
+- Tasa total de su ciudad (ejemplo): **9.25%**
 - Impuesto que cobra y entrega al estado: **$4.63**
 
 

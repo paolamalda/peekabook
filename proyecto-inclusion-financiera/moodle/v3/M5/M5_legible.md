@@ -269,6 +269,9 @@ Rosa pregunta: "¿Y si baja?". Podría bajar 20% y quedarse con 800. Como necesi
 | ¿Tengo mi reserva? | Sin reserva, una emergencia te obliga a vender en mal momento. | Primero la reserva. |
 | ¿Tengo deudas caras? | Pagar una tarjeta al 25% "gana" más que casi cualquier inversión. | Paga primero lo caro. |
 
+Si respondes bien las tres, puedes empezar a invertir con poco y con calma.
+> **Antes de actuar, verifica:** quién administra la inversión, cuánto cobra en total, cómo sacas tu dinero y si está registrada ante la SEC o FINRA.
+
 #### Comprueba lo que entendiste
 
 1. Tu cuenta pasó de 2,000 a 2,300 y tú aportaste 250. ¿Cuánto ganó la inversión?
@@ -910,6 +913,8 @@ El costo total es 2,000, no 1,200. Aun así decide tomarlo, porque espera subir 
 | ¿Cuál es la tasa anual (APR)? | Compara con tu banco o cooperativa. | Trae una oferta previa. |
 | ¿Qué extras incluye? | Garantías, seguros y servicios opcionales. | Puedes decir que no. |
 
+Si te presionan para firmar hoy, es una buena razón para esperar.
+
 #### Esperar también es una opción
 
 A veces la mejor compra es esperar unos meses. Con un enganche mayor, el préstamo es más chico y pagas menos intereses.
@@ -1345,6 +1350,9 @@ Actualizó a sus beneficiarios y apartó una aportación voluntaria pequeña cad
 | Aportar | Aportaciones voluntarias con tarjeta o en tiendas. | Montos pequeños. |
 | Cambiarte de AFORE | Si otra te conviene más. | Compara comisiones y rendimientos. |
 
+Todo es gratis. Nadie te debe cobrar por usar la app.
+> **Antes de actuar, verifica:** que estés en la app oficial de CONSAR y no en una copia. Nunca pagues para registrarte.
+
 #### Comprueba lo que entendiste
 
 1. ¿Qué necesitas para localizar tu AFORE?
@@ -1763,6 +1771,8 @@ En junio ganó 3,400 y apartó 1,000. En diciembre, con lluvias, usó esa reserv
 | Cuenta de entrada | Aquí cae todo lo que ganas. | No gastas de aquí. |
 | Cuenta de gastos | Cada semana pasas tu "sueldo" fijo. | Pagas tus cuentas de aquí. |
 | Cuenta de reserva | Lo extra de los meses buenos. | Para meses bajos. |
+
+Si no quieres tres cuentas, empieza con dos: una de gastos y una de reserva. Lo importante es separar.
 
 #### Tu plan en cuatro pasos
 

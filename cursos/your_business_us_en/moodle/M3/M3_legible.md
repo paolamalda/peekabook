@@ -329,7 +329,7 @@ The business reserve is the business's cushion: money to pay fixed costs and you
 #### Don Ramón's reserve
 
 - Monthly fixed costs (with his salary): **$6,000**
-× 2 | Months of cushion
+- Months of cushion: **2**
 - Reserve goal: **$12,000**
 Set aside a percentage of each sale in the good months until you reach the goal.
 

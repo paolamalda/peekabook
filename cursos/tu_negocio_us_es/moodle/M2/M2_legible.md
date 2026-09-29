@@ -172,7 +172,7 @@ Tu precio se revisa desde tres lados: **tu costo** (el piso, nunca cobres menos)
 #### Precio con margen
 
 - Costo real por par de aretes: **$14**
-÷ 0.70 | Para un margen de 30% sobre el precio
+- Para un margen de 30% sobre el precio: **0.70**
 - Precio mínimo: **$20**
 Daniela vende en $25: su margen es de 44%. Tiene espacio para promociones sin perder.
 
@@ -329,7 +329,7 @@ Divide tus **costos fijos** entre lo que te deja cada dólar de venta después d
 #### El food truck de Don Ramón
 
 - Costos fijos al mes: **$6,000**
-÷ 60% | Lo que le deja cada venta después de ingredientes y comisiones
+- Lo que le deja cada venta después de ingredientes y comisiones: **60%**
 - Ventas mínimas al mes (unos $400 por día, 25 días): **$10,000**
 Si vende menos de $10,000, pierde; si vende más, gana.
 

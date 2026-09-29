@@ -23,6 +23,8 @@ La Modalidad 10 permite a las personas trabajadoras independientes inscribirse a
 | Retiro | Ahorro en tu AFORE y semanas cotizadas. | Para tu pensión. |
 | Vivienda (opcional) | Aportar 5% a Infonavit. | Acceso a crédito. |
 
+> **Dato vigente:** en la Modalidad 10 se cotiza con un ingreso de un salario mínimo (9,582.47 pesos al mes en 2026) hasta 25 UMA; la cuota mínima ronda 2,500 pesos al mes y la aportación a Infonavit (5%) es opcional. La cuota exacta se calcula en la calculadora del IMSS. Consultado el 29 de septiembre de 2026 a través del IMSS y medios especializados.
+
 #### Cómo inscribirte
 
 En el sitio del IMSS para personas trabajadoras independientes: registras tus datos, eliges tu ingreso, la calculadora te da la cuota y pagas mensual, semestral o anual.

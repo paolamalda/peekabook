@@ -1,8 +1,8 @@
 {
  "sigla": "TPTF",
  "titulo": "Tu Patrimonio, Tu Tranquilidad, Tu Futuro",
- "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
- "version": "1.0",
+ "subtitulo": "Versión 1.1 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.1",
  "lang": "es",
  "intro": "Curso de educación financiera para mujeres que administran su casa y su patrimonio en México: 11 módulos, con la protección contra fraudes como eje.",
  "categoria": "Tu Patrimonio",
@@ -115,8 +115,8 @@
  },
  "comunidad": {
   "titulo": "Comunidad Tu Patrimonio",
-  "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
-  "version": "1.0",
+  "subtitulo": "Versión 1.1 · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.1",
   "intro": "Complemento del curso Tu Patrimonio, Tu Tranquilidad, Tu Futuro: espacio aparte en Moodle, con sesiones de acompañamiento, para dudas, alertas de fraude y avisos. Se complementa con un canal de WhatsApp y una línea de apoyo.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -128,7 +128,7 @@
   },
   "carpeta": {
    "nombre": "Comunidad_Tu_Patrimonio",
-   "zip": "Comunidad_Tu_Patrimonio_v1.0",
+   "zip": "Comunidad_Tu_Patrimonio_v1.1",
    "descripciones": [
     "Manual del profesor (arranque, rutina, sesiones de acompañamiento, práctica guiada, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
@@ -151,10 +151,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Patrimonio_Tu_Tranquilidad_Tu_Futuro",
-  "zip": "Tu_Patrimonio_v1.0",
-  "manual": "Manual_del_programa_TPTF_v1.0",
-  "contenido": "Contenido_completo_TPTF_v1.0",
-  "guia": "Guia_implementacion_TPTF_v1.0",
+  "zip": "Tu_Patrimonio_v1.1",
+  "manual": "Manual_del_programa_TPTF_v1.1",
+  "contenido": "Contenido_completo_TPTF_v1.1",
+  "guia": "Guia_implementacion_TPTF_v1.1",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de acompañamiento y datos verificados.",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

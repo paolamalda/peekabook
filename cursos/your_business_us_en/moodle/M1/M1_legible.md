@@ -183,6 +183,8 @@ Your business and your home are two different pockets. If you mix them, you'll n
 | Mixed | Everything in one account. | You don't know if you earn. |
 | Payments to your personal app | They get lost among your expenses. | Use a business account. |
 
+> **Current fact:** the FDIC insures deposits at banks up to $250,000 per depositor, per bank, per ownership category; the NCUA protects the same at credit unions. Accessed September 29, 2026 through the FDIC and NCUA.
+
 #### A case in one minute
 
 Lupita opened a second checking account at a credit union, with no monthly fee, and linked her payment app to it. Now she knows how much she sells each week.

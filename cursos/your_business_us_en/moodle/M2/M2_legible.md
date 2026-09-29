@@ -172,7 +172,7 @@ Check your price from three sides: **your cost** (the floor, never charge less),
 #### Price with a margin
 
 - Real cost per pair of earrings: **$14**
-÷ 0.70 | For a 30% margin on price
+- For a 30% margin on price: **0.70**
 - Minimum price: **$20**
 Daniela sells at $25: her margin is 44%. She has room for promotions without losing.
 
@@ -329,7 +329,7 @@ Divide your **fixed costs** by what each dollar of sales leaves after variable c
 #### Don Ramón's food truck
 
 - Monthly fixed costs: **$6,000**
-÷ 60% | What each sale leaves after ingredients and fees
+- What each sale leaves after ingredients and fees: **60%**
 - Minimum monthly sales (about $400 a day, 25 days): **$10,000**
 If he sells less than $10,000, he loses; if he sells more, he earns.
 

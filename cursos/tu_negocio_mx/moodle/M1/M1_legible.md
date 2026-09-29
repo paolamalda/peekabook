@@ -329,7 +329,7 @@ Si trabajas en tu negocio, mereces un sueldo. Fijo, en la misma fecha, como si f
 #### El sueldo de Rosa
 
 - Ganancia promedio al mes: **6,500**
-× 70% | Parte para su sueldo
+- Parte para su sueldo: **70%**
 - Sueldo mensual (unos 1,140 por semana): **4,550**
 Los 1,950 restantes se quedan en la fonda para la reserva.
 

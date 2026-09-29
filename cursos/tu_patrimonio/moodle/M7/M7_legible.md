@@ -19,7 +19,7 @@ Tu retiro puede venir de varias fuentes: una pensión por tu propio trabajo, una
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | IMSS | Si trabajaste en una empresa privada. | Ley 73 o Ley 97. |
-| ISSSTE | Si trabajaste para el gobierno. | Reglas propias. |
+| ISSSTE | Si trabajaste para el gobierno. | Reglas propias (M7 U05). |
 | Viudez | Si tu pareja cotizaba o tenía pensión. | M7 U04. |
 | Bienestar | Mujeres de 60 a 64 y personas de 65 o más. | Programas sociales. |
 
@@ -340,6 +340,8 @@ La Modalidad 40 es la continuación voluntaria en el régimen del IMSS: pagas t�
 | Tus plazos | Conservación de derechos. | Si pasó mucho tiempo, puede que no. |
 | El costo | 14.438% del salario que registres en 2026. | Sube cada año. |
 
+> **Dato vigente:** la Modalidad 40 requiere al menos 52 semanas cotizadas en los últimos cinco años al darse de baja, dentro de los plazos de conservación de derechos; la cuota es de 14.438% del salario registrado en 2026 y sube hasta 18.8% en 2030. Consultado el 29 de septiembre de 2026 a través del IMSS (LSS art. 218) y medios especializados.
+
 #### Con números
 
 Pide al IMSS una estimación de tu pensión **con** y **sin** Modalidad 40. Compara lo que pagarías en total contra lo que ganarías de pensión al mes. Si tardarías muchos años en recuperar lo pagado, quizá no te convenga.
@@ -497,6 +499,8 @@ Si tu pareja tenía pensión del IMSS o cumplía requisitos, puedes tener derech
 | Pago | En la Tarjeta del Bienestar. | Cada dos meses. |
 | Gratis | Nadie cobra por registrarte. | Solo módulos oficiales. |
 
+> **Dato vigente:** en 2026, la Pensión Mujeres Bienestar entrega 3,100 pesos bimestrales a mujeres de 60 a 64 años y la Pensión para Adultos Mayores, 6,400 pesos bimestrales a personas de 65 o más. Consultado el 29 de septiembre de 2026 a través de Programas para el Bienestar.
+
 #### Los documentos
 
 Para la viudez suelen pedir actas de matrimonio (o prueba de concubinato), de defunción y de nacimiento, identificación, CURP y los datos del IMSS de tu pareja. Tenerlos en tu carpeta acelera el trámite.
@@ -632,7 +636,177 @@ IMSS · Programas para el Bienestar, consultados el 29 de septiembre de 2026.
 
 ---
 
-## M7 U05. ¿Cuánto necesito para mi retiro?
+## M7 U05. Si tú o tu pareja trabajaron para el gobierno: ISSSTE
+
+**Lo que lograrás:** Saber en qué régimen del ISSSTE están tú o tu pareja, qué requisitos hay en 2026 para jubilarse en el régimen anterior, cómo funciona la pensión de viudez del ISSSTE y qué documentos pedir.
+
+**Para empezar:** Raúl, el esposo de Maru, es maestro y trabajó 31 años en escuelas públicas federales. Maru no sabe si él «está en el régimen viejo o en el de AFORE», ni qué le tocaría a ella si él faltara. En esta lección verás cómo averiguarlo sin gestores.
+
+### Lo esencial (5 minutos)
+
+#### Dos regímenes
+
+Quien trabajaba para el gobierno cuando cambió la ley del ISSSTE en 2007 eligió entre dos caminos. El régimen del décimo transitorio (el Instituto paga la pensión según años de servicio y sueldo) o las cuentas individuales (la pensión sale del ahorro en una AFORE, con un bono de pensión por los años anteriores). Quien entró a trabajar después de 2007 está en cuentas individuales.
+
+
+
+#### ¿En cuál está?
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Décimo transitorio | Eligió quedarse en el régimen anterior. | Pensión por años de servicio y edad. |
+| Cuentas individuales | Eligió el bono o entró después de 2007. | Pensión según su ahorro en la AFORE. |
+| Hoja única de servicios | Documento que resume sus años y sueldos. | Se pide en su dependencia. |
+| Gestor que «acelera» | Los trámites del ISSSTE son gratuitos. | No pagues por adelantado. |
+
+> **Dato vigente:** en el régimen del décimo transitorio, en 2026 y 2027 las mujeres pueden jubilarse a los 56 años con 28 años de servicio y los hombres a los 58 con 30 años; la edad baja de forma gradual hasta 53 y 55 años en 2034. Consultado el 29 de septiembre de 2026 a través del decreto publicado en el DOF el 24 de junio de 2025 y medios especializados.
+
+#### Pensión de viudez del ISSSTE
+
+Si tu pareja era pensionada del ISSSTE o trabajaba y cumplía los requisitos, puedes tener derecho a pensión de viudez. En el régimen anterior equivale al 100% de la pensión que recibía o que le habría correspondido; si hay hijos con derecho, el monto se reparte entre la familia. En cuentas individuales se paga con su ahorro y un seguro de sobrevivencia.
+
+> **Dato vigente:** la pensión por viudez del ISSSTE equivale al 100% de la pensión que recibía la persona pensionada o que le habría correspondido; si la persona trabajadora falleció por causas ajenas al trabajo, necesitaba al menos 3 años de cotización. Consultado el 29 de septiembre de 2026 a través del ISSSTE (gob.mx/issste) y medios especializados.
+
+
+
+#### Un caso en un minuto
+
+Maru le pidió a Raúl revisar juntos su hoja única de servicios. Raúl está en el décimo transitorio, tiene 31 años de servicio y 59 de edad: ya cumple los requisitos de 2026. También confirmaron que Maru aparece como su esposa en el registro del ISSSTE.
+
+> **Idea clave:** averigua el régimen, los años de servicio y quién aparece como beneficiaria; con eso sabes qué pensión esperar y qué te tocaría a ti.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué dos regímenes hay en el ISSSTE?
+*Respuesta:* El décimo transitorio (el Instituto paga según años y sueldo) y las cuentas individuales (pensión con el ahorro en la AFORE).
+
+2. ¿Cuánto es, en general, la pensión de viudez en el régimen anterior?
+*Respuesta:* El 100% de la pensión que recibía o le habría correspondido, repartida si hay hijos con derecho.
+
+
+#### Para recordar
+
+- Primero, el régimen.
+- Hoja única de servicios.
+- Viudez: 100% en el régimen anterior.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Lo que necesitas saber de tu pareja (o de ti)
+
+| Dato | Dónde se consulta | Lo que encontré |
+|---|---|---|
+| Régimen (décimo transitorio o cuentas individuales) | ISSSTE o su dependencia | |
+| Años de servicio | Hoja única de servicios | |
+| AFORE (PENSIONISSSTE u otra) | e-SAR o PENSIONISSSTE | |
+| Beneficiarios registrados | ISSSTE y AFORE | |
+| Acta de matrimonio o prueba de concubinato | Registro Civil | |
+
+
+
+#### Si tuviste IMSS e ISSSTE
+
+Mucha gente trabajó una parte de su vida en empresas (IMSS) y otra en el gobierno (ISSSTE). En algunos casos se pueden sumar los periodos cotizados en ambos institutos para cumplir requisitos. Pide en el IMSS y en el ISSSTE que te revisen los dos historiales antes de decidir.
+
+
+
+#### Viudez y tu propia pensión
+
+Si tú también tienes pensión (del IMSS o del ISSSTE), pregunta en el ISSSTE si puedes recibir las dos completas o si hay límites. Las reglas de compatibilidad dependen del régimen y del tipo de pensión.
+
+
+
+#### Cuando llegue el momento
+
+Para el trámite de viudez suelen pedirse: acta de defunción, acta de matrimonio (o prueba de concubinato), identificación, CURP, comprobante de domicilio y documentos de la pensión o del empleo de tu pareja. Tenerlos en tu carpeta (M1 U04) te ahorra meses.
+
+> **Antes de actuar, verifica:** tu régimen, tus requisitos y tus montos directamente en el ISSSTE; las reglas cambian con decretos y dependen de cada caso.
+
+
+
+#### Casos
+
+
+**Caso 1. El régimen de Raúl**
+
+Maru no sabe si Raúl está en el régimen anterior o en cuentas individuales.
+- *¿Qué hacen?* Piden juntos la hoja única de servicios y confirman el régimen en el ISSSTE.
+
+
+**Caso 2. La mamá de Elena**
+
+La mamá de Elena es viuda de un maestro que era pensionado del ISSSTE y nunca tramitó la pensión de viudez.
+- *¿Qué hace Elena?* La acompaña al ISSSTE con los documentos para iniciar el trámite, sin gestores.
+
+
+**Caso 3. El gestor**
+
+Un gestor ofrece a Carmen «acelerar» la pensión ISSSTE de su hermano por 20,000 pesos.
+- *¿Qué le aconseja Carmen?* Que no pague: los trámites del ISSSTE son gratuitos y se hacen directamente.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No saber el régimen | Expectativas falsas | Hoja única de servicios |
+| Beneficiarios sin revisar | Trámites largos | Revisa el registro |
+| Pagar gestores | Fraude | Trámite gratuito |
+| Olvidar años en el IMSS | Pierdes periodos | Revisa ambos historiales |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Maru, Elena y Carmen. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué documento resume los años de servicio en el gobierno? a) El estado de cuenta del banco · b) La hoja única de servicios · c) La constancia del SAT
+2. En el régimen del décimo transitorio, ¿con qué requisitos se jubila una mujer en 2026? a) 60 años y 25 años de servicio · b) 65 años y 1,000 semanas · c) 56 años y 28 años de servicio
+3. Tu esposo recibía 20,000 de pensión del ISSSTE en el régimen anterior y no hay hijos con derecho. ¿Cuánto sería, en general, tu pensión de viudez? a) 20,000 · b) 18,000 · c) 10,000
+**Respuestas:** 1-b: se pide en la dependencia. 2-c: requisitos de 2026 y 2027. 3-a: 100% de su pensión.
+
+
+
+#### Ponlo en práctica
+
+Un hombre en el décimo transitorio tiene 57 años y 30 años de servicio en 2026. ¿Ya puede jubilarse? ¿Cuándo sí?
+**Respuesta:** Todavía no: en 2026 se piden 58 años. Podrá al cumplir 58; en 2028 la edad baja a 57.
+
+
+
+#### A tu plan
+
+Pregunta a tu pareja (o revisa tú) en qué régimen del ISSSTE está, pide la hoja única de servicios y confirma quién aparece como beneficiaria.
+
+
+
+### Para saber más
+
+- **Pensiones del ISSSTE** (ISSSTE · español): https://www.gob.mx/issste — **Qué buscar:** «pensión por causa de muerte» y «jubilación décimo transitorio».
+- **PENSIONISSSTE** (español): https://www.gob.mx/pensionissste — **Qué buscar:** «estado de cuenta» y «beneficiarios».
+
+### Palabras clave
+
+- *ISSSTE:* Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado: seguridad social de quienes trabajan para el gobierno federal.
+- *Régimen del décimo transitorio:* régimen anterior del ISSSTE: el Instituto paga la pensión según años de servicio, edad y sueldo.
+- *Cuentas individuales:* régimen del ISSSTE en el que la pensión sale del ahorro en una AFORE, como PENSIONISSSTE.
+- *Hoja única de servicios:* documento que resume los años de servicio y los sueldos de una persona en el gobierno.
+
+### Fuentes
+
+ISSSTE · PENSIONISSSTE · Diario Oficial de la Federación (24-jun-2025), consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U06. ¿Cuánto necesito para mi retiro?
 
 **Lo que lograrás:** Estimar cuánto gastarás en tu retiro, cuánto recibirás de pensiones y cuánto ahorro necesitas para cubrir la diferencia.
 

@@ -183,6 +183,8 @@ El negocio y tu casa son dos bolsas distintas. Si mezclas, nunca sabrás si tu n
 | Mezclados | Todo en una cuenta. | No sabes si ganas. |
 | Cobros a tu app personal | Se pierden entre tus gastos. | Usa una cuenta del negocio. |
 
+> **Dato vigente:** el FDIC asegura los depósitos en bancos hasta $250,000 por persona, por banco y por tipo de cuenta; el NCUA protege lo mismo en cooperativas de crédito (credit unions). Consultado el 29 de septiembre de 2026 a través de FDIC y NCUA.
+
 #### Un caso en un minuto
 
 Lupita abrió una segunda cuenta de cheques en una cooperativa de crédito, sin cargo mensual, y conectó su app de pagos a esa cuenta. Ya sabe cuánto vende cada semana.

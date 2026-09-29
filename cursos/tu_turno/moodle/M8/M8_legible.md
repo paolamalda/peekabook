@@ -23,6 +23,8 @@ Una AFORE guarda e invierte dinero para tu retiro. Si ya tienes una, puedes suma
 | Cada quincena | Aunque sea poco. | Suma con los años. |
 | Para después | Es para tu retiro. | No lo toques. |
 
+> **Dato vigente:** puedes hacer aportaciones voluntarias a tu AFORE desde 50 pesos en tiendas participantes con tu CURP, o desde la app AforeMóvil. Consultado el 29 de septiembre de 2026 a través de la CONSAR.
+
 #### 100 por quincena
 
 - Por quincena: **100**

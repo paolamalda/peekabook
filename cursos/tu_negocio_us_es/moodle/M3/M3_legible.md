@@ -329,7 +329,7 @@ La reserva del negocio es el colchón del negocio: dinero para pagar costos fijo
 #### La reserva de Don Ramón
 
 - Costos fijos al mes (con su sueldo): **$6,000**
-× 2 | Meses de colchón
+- Meses de colchón: **2**
 - Meta de reserva: **$12,000**
 Aparta un porcentaje de cada venta en los meses buenos hasta llegar a la meta.
 

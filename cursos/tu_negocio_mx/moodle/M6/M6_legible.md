@@ -317,7 +317,7 @@ El CAT suma intereses y comisiones en un solo porcentaje anual. Sirve para compa
 #### Lo que realmente pagas
 
 - Pago mensual: **2,600**
-× 24 | Meses
+- Meses: **24**
 - Total a pagar por 50,000: **62,400**
 Le cuesta 12,400 más de lo que recibe, antes de comisiones y seguros.
 

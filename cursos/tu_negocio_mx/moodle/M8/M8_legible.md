@@ -173,6 +173,8 @@ CONASAMI · IMSS · Ley Federal del Trabajo, consultados el 29 de septiembre de 
 | Retención de ISR | La plataforma la entrega al SAT. | Se acredita. |
 | Retención de IVA | Depende de si diste tu RFC. | 8% o 16%. |
 
+> **Dato vigente:** en 2026, las plataformas digitales retienen a personas físicas 2.5% de ISR sobre el ingreso sin IVA por venta de bienes y servicios (antes 1%). De IVA retienen 8% del precio sin IVA si registraste tu RFC en la plataforma, y 16% si no. Consultado el 29 de septiembre de 2026 a través del SAT y las reformas fiscales de 2026.
+
 #### La bolsa de Mariana
 
 - Precio sin IVA (500 ÷ 1.16): **431**
@@ -330,7 +332,7 @@ El ticket promedio es lo que gasta cada cliente en promedio. Si sube, vendes má
 #### El ticket de Don Pepe
 
 - Ventas del mes: **69,000**
-÷ 2,300 | Número de ventas
+- Número de ventas: **2,300**
 - Ticket promedio: **30**
 Si cada cliente comprara 5 pesos más, vendería 11,500 más al mes.
 

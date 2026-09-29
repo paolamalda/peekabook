@@ -31,6 +31,8 @@ The self-employment tax you pay (M5 U03) counts toward your Social Security. To 
 | Solo 401(k) | For owners with no employees. | $24,500 as the employee plus the business's contribution, maximum $72,000. |
 | Only the business | Depends on your health. | Risky. |
 
+> **Current fact:** for 2026, the IRA contribution limit is $7,500 ($8,600 at age 50 or older); a SEP IRA allows up to 25% of compensation and a maximum of $72,000; and a Solo 401(k) allows $24,500 as the employee and $72,000 in total, not counting age-based catch-up contributions. Accessed September 29, 2026 through the IRS.
+
 #### A case in one minute
 
 Don Ramón checked his account at ssa.gov: he has 52 credits and an estimate of $1,300 a month at 67. He opened an IRA and contributes $300 a month. He knows that each year he waits to claim, his monthly benefit goes up.

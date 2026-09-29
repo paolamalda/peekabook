@@ -328,7 +328,7 @@ Divide tus **costos fijos** entre lo que te deja cada peso de venta después de 
 #### La tienda de Don Pepe
 
 - Costos fijos al mes: **12,000**
-÷ 20% | Lo que le deja cada venta después de pagar la mercancía
+- Lo que le deja cada venta después de pagar la mercancía: **20%**
 - Ventas mínimas al mes (unos 2,000 al día): **60,000**
 Si vende menos de 60,000, pierde; si vende más, gana.
 

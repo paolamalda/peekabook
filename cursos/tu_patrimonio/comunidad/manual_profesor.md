@@ -2,7 +2,7 @@
 
 Para la persona que acompaña al grupo: abre la comunidad, da las sesiones de acompañamiento, atiende la línea de apoyo, responde en los foros y lleva el orden. Si trabajan en equipo, sirve para repartir tareas; si eres una sola persona, síguelo completo.
 
-Versión 1.0 · Septiembre de 2026 · Acompaña al curso *Tu Patrimonio, Tu Tranquilidad, Tu Futuro* y a la *Guía de moderación*.
+Versión 1.1 · Septiembre de 2026 · Acompaña al curso *Tu Patrimonio, Tu Tranquilidad, Tu Futuro* y a la *Guía de moderación*.
 
 [[TOC]]
 
@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso, no un curso aparte con contenido p
 
 | | Curso (TPTF-MX) | Comunidad (TPTF-COM) |
 |---|---|---|
-| Para qué | Aprender: 11 módulos, 51 lecciones | Acompañar: sesiones, dudas, alertas, logros y línea de apoyo |
+| Para qué | Aprender: 11 módulos, 52 lecciones | Acompañar: sesiones, dudas, alertas, logros y línea de apoyo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No |
 | Quién entra | Las inscritas al programa | Las mismas personas, desde un enlace en el curso |
@@ -157,7 +157,7 @@ El mes sigue el **calendario editorial**: semana 1 fechas, semana 2 reto, semana
 | M4 | «¿Colgarías?»: leer guiones de llamadas y mensajes y decidir |
 | M5 | Repartir un ahorro de 5 millones dentro del límite del IPAB |
 | M6 | Leer un estado de cuenta de inversión de ejemplo |
-| M7 | Llenar el mapa de pensiones y el cálculo de retiro |
+| M7 | Llenar el mapa de pensiones (IMSS o ISSSTE) y el cálculo de retiro |
 | M8 | Calcular lo que pagas en una cirugía con deducible y coaseguro |
 | M9 | ¿Declaro o no? con casos de ejemplo |
 | M10 | Preparar la cita con la notaría |
@@ -264,7 +264,7 @@ Si una participante dice que alguien le quitó su tarjeta, decide sus gastos o l
 | Fraudes: llamadas, mensajes, extorsión, cajero, identidad, REPEP y REUS, plan de respuesta | M4 U01 a U08 |
 | Cuentas, IPAB, fondo de emergencia, Cetes | M5 U01 a U04 |
 | Inversiones, estado de cuenta, asesores, inversiones milagro | M6 U01 a U05 |
-| Pensiones, AFORE, Modalidad 40, viudez, Bienestar, cálculo de retiro | M7 U01 a U05 |
+| Pensiones, AFORE, Modalidad 40, viudez, Bienestar, ISSSTE, cálculo de retiro | M7 U01 a U06 |
 | Seguro de gastos médicos, vida, casa y auto | M8 U01 a U05 |
 | Declaración, retenciones, deducciones | M9 U01 a U03 |
 | Testamento, beneficiarios, poderes, hijos, viudez o separación | M10 U01 a U05 |
