@@ -1,6 +1,6 @@
 # Tu Talento, Tu Marca, Tu Futuro
 
-Manual del programa · Versión 2 · Desarrolla Talento · 28 de septiembre de 2026
+Manual del programa · Versión 2.3 · Desarrolla Talento · 29 de septiembre de 2026
 
 Finanzas, crédito, carrera, protección y futuro para personas que trabajan en el entretenimiento en México.
 
@@ -396,31 +396,7 @@ Objetivo: reunir tus números, deudas, reserva, protección, metas y tres accion
 
 ---
 
-# 4. Qué cambió respecto a la versión 1
-
-| Tema | Versión 1 | Versión 2 |
-|---|---|---|
-| Enfoque | Crédito en un módulo de 4 lecciones, como "herramienta en la sequía" | Crédito como eje: 5 módulos (sistema, comparar, deuda, Buró, salir de deudas) |
-| RESICO | "Deducir" vestuario y gastos en RESICO | RESICO no permite deducir; las deducciones aplican en Actividad Empresarial |
-| Tasa RESICO | 2.5% fija | De 1% a 2.5% según el ingreso del mes; retención de 1.25% al facturar a empresas |
-| IVA | Casi no aparecía | Lección propia (M2 U02) |
-| IMSS | Modalidad 10 sin detalle | Modalidad 10 en protección (M10 U02) y Modalidad 40 en futuro (M11 U03) |
-| Regalías | AADI y "SOMEMEX" | Organizaciones mexicanas: ANDA (sindicato), ANDI, SACM, EJE y SOMEXFON |
-| Buró | Una lección | Módulo de 10 lecciones: Buró vs. Círculo, reportes gratis, plazos, reclamaciones, bloqueo y alertas |
-| RESICO | Sin exclusiones | Exclusión por asimilados, sin deducciones personales, declaración anual según RMF |
-| Fuente F02 | Guía ANDI / SAG-AFTRA (no verificable) | Eliminada |
-| Fondo de sequía | "CETES a la vista", NAFTRAC, SOFIPO | Cetes en Cetesdirecto (BONDDIA) y cuentas a la vista de bancos protegidos por el IPAB |
-| e-SAR | esar.com.mx | e-sar.com.mx |
-| Fórmula | Texto dañado | Corregida |
-| Comparar | Solo tarjetas | Módulo completo: institución, cuenta, ahorro, seguro y crédito |
-| Fraudes | Sin módulo | Módulo 9 completo: fraudes, falsos castings, phishing, robo de identidad, robo de cuentas, montadeudas, inversiones milagro, registros para que no te llamen con publicidad (REPEP y REUS) y plan de respuesta |
-| Futuro y prevención | 2 módulos cortos | Módulo 10 (6 lecciones) y Módulo 11 (9 lecciones) |
-| Monetización | Puntos de venta dentro de las lecciones | Fuera de las lecciones; solo en canales, identificada como referencia |
-| Quiz | Preguntas de memoria | Preguntas de decisión |
-
----
-
-# 5. Comunidad, canales y referencias
+# 4. Comunidad, canales y referencias
 
 ## Espacio propio para este grupo
 
@@ -452,7 +428,7 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 
 ---
 
-# 6. Bibliografía y fuentes oficiales
+# 5. Bibliografía y fuentes oficiales
 
 ## Libros
 
@@ -498,7 +474,7 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 
 ---
 
-# 7. Datos verificados (29 de septiembre de 2026)
+# 6. Datos verificados (29 de septiembre de 2026)
 
 | Clave | Dato | Resultado | Fuente |
 |---|---|---|---|

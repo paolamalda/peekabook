@@ -2,7 +2,7 @@
 
 Vas a crear el curso en inglés "Your Money, Your Family, Your Future" en academia.desarrollatalento.com. El sitio usa Moodle 3.10, el tema Boost, Level Up 3.15.2 y el complemento **Certificado personalizado** (mod_customcert), que ya está instalado.
 
-El curso en español (TDTF-CA-ES) ya existe. **No lo toques.** Este es un curso nuevo y separado.
+Es un curso separado del curso en español (TDTF-CA-ES). Si ese curso existe, **no lo toques.**
 
 Trabaja con el navegador y con la sesión de administrador que la persona abrió.
 
@@ -21,7 +21,7 @@ Todo el contenido del curso va en inglés. Estas instrucciones están en españo
 
 1. Confirma que no existe un curso con nombre corto `TDTF-CA-EN`. Si existe, detente y pregunta.
 2. Confirma en *Administración del sitio > Extensiones > Resumen de extensiones* que existen **Certificado personalizado** y **Level Up**.
-3. Las librerías H5P ya están instaladas por el curso en español. Si al subir la primera H5P aparece un error de librerías, detente y reporta el mensaje exacto.
+3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
 ## 1. Crear el curso
 

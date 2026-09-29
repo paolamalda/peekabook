@@ -30,34 +30,8 @@ Dale a Claude (con el navegador y tu sesión de administración abierta) las 3 p
 "Sigue README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md". Claude crea el curso oculto y te entrega un reporte.
 Tiempo estimado: 3 a 4 horas (las 73 H5P se suben una por una).
 
-QUÉ CAMBIÓ EN LA VERSIÓN 1.2
-----------------------------
-Nueva lección M9 U08 "Que dejen de llamarte: REPEP, REUS y tu línea": inscripción gratuita en el
-REPEP de Profeco (publicidad de bienes y servicios) y en el REUS de CONDUSEF (publicidad financiera),
-qué no cubren, cómo denunciar, consulta y desvinculación de líneas registradas con tu CURP y
-"registros" falsos que cobran. El plan de respuesta pasa a ser M9 U09.
-También: referencia en M4 U04 y M9 U05; libro de apoyo (Dónde encontrar ayuda, preguntas
-frecuentes, glosario y referencias); datos E20 a E22 en 7_guias/datos_verificados.md.
-Si Claude ya instaló la versión 1.1, que haga solo esto:
-  1. Reemplazar los libros de M4, M9 y Apoyo (borrar capítulos e importar el zip nuevo).
-  2. Renombrar la H5P "M9 U08 · ¿Qué harías?" a "M9 U09 · ¿Qué harías?" (no cambia su contenido)
-     y agregar antes de ella la nueva "M9 U08 · ¿Qué harías?" con 2_h5p/M9/M9_U08_que_harias.h5p.
-  3. En el banco, borrar las preguntas de "Tu Talento/M9", importar 4_preguntas/solo_M9_v1.2.gift.txt
-     y volver a agregar todas las preguntas de M9 (27) a la Autoevaluación del Módulo 9.
-  4. Level Up y demás actividades no cambian.
-
-QUÉ CAMBIÓ EN LA VERSIÓN 1.1
-----------------------------
-Se investigaron y resolvieron los 19 datos pendientes. Cada uno quedó en la lección como
-"Dato vigente", con cifra, fecha de consulta (29 de septiembre de 2026) y fuente: RMF 2026,
-UMA 2026, LISR, LRSIC, Circulares de Banxico, disposiciones de CONDUSEF, IMSS, INDAUTOR, IMPI,
-Buró de Crédito, Círculo de Crédito y Segob. Resumen en 7_guias/datos_verificados.md.
-Nuevo: convenio IMSS-ANDA (septiembre de 2026) para la seguridad social de artistas independientes.
-Si Claude ya instaló la versión 1: que reemplace los libros de M2, M3, M5, M7, M8, M10 y M11
-y el libro de apoyo (mismo procedimiento del README, paso 3 y 4). Las H5P y el banco no cambiaron.
-
 A TENER EN CUENTA
 -----------------
 - Lecciones sin recomendaciones comerciales; las referencias van solo en canales (ver comunidad_y_canales).
-- En las H5P y los quizzes la respuesta correcta ya no se distingue por ser la más larga ni por su letra.
+- En las H5P y los quizzes la respuesta correcta no se distingue por ser la más larga ni por su letra.
 - Recomendado: revisión de un contador y de un abogado del medio antes de abrir el curso.

@@ -3,15 +3,14 @@ Paquete completo del proyecto
 Actualizado: 28 de septiembre de 2026
 
 Programa gratuito de finanzas personales para personas migrantes.
+Las carpetas finales de cada curso están en entregas/ (ver entregas/LEEME.txt).
 Piloto en California; después Texas, Illinois, Nueva York y Florida.
 
 CARPETAS
 --------
 entregables/   Documentos listos para usar o compartir.
-  Manual_participante_ES_v2.1.docx   Manual del participante, español (59 lecciones).
-  Participant_Manual_EN_v2.1.docx    Manual del participante, inglés.
-  Manual_operador_ES_v2.docx         Manual del operador (quien administra el curso).
-  Operator_Manual_EN_v2.docx         Manual del operador, inglés.
+  Manual_operador_ES_v3.docx         Manual del operador v3.0 (quien administra el curso).
+  Operator_Manual_EN_v3.docx         Manual del operador, inglés.
   Proposed_Endeavor_Brief_NIW.docx   Propuesta para el abogado de inmigración (inglés).
   prompts-app-complementos.md        Instrucciones para construir la app (front y back end).
   plan-maestro.md / .json / .html    Diferenciadores, complementos, competencia y pendientes.

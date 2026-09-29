@@ -1,8 +1,8 @@
 # Operator manual
 
-This manual is for the team that runs the program: coordination, facilitation, assessment, support and data. Participants do not need to read it. It contains the program profile, the editorial guide, assessment with answer keys, metrics, the comparison matrix, state expansion, program records and the change log.
+This manual is for the team that runs the program: coordination, facilitation, assessment, support and data. Participants do not need to read it. It contains the program profile, the editorial guide, assessment with answer keys, metrics, the comparison matrix, state expansion, and program records.
 
-Version 2.0 · September 2026 · Accompanies the Participant Manual v2.0 (Spanish and English editions).
+Version 3.0 · September 2026 · Matches course v3.2 in Moodle and its full content (Spanish and English editions).
 
 [[TOC]]
 
@@ -15,12 +15,13 @@ Version 2.0 · September 2026 · Accompanies the Participant Manual v2.0 (Spanis
 | Academic name | Personal finance and economics for non-financial learners |
 | Public name | Your Money, Your Family, Your Future / Tu Dinero, Tu Familia, Tu Futuro |
 | Format | 100% online, self-paced, with question support and optional live sessions |
-| Cost to participants | Free: content, assessments, retries, support, companion tool and certificates |
+| Platform | Moodle 3.10 with lesson books, H5P activities, self-assessments, Level Up, badges and Custom certificate |
+| Cost to participants | Free: content, assessments, retries, support, companion tool and certificate |
 | Audience | Immigrant adults in the U.S., with an SSN, an ITIN or neither; wage earners, self-employed, platform workers or mixed income; with dependents and ties to Mexico or other countries |
 | Geographic coverage | Federal core and state module. Pilot in California; then Texas, Illinois, New York and Florida |
-| Estimated duration | 56 to 76 hours with practice; to be adjusted with pilot data |
-| Structure | 5 modules, 59 lessons, 5 integrative cases, 22 calculation practices |
-| Certificate | Program-issued verifiable certificate per module and program diploma; not a license or official accreditation |
+| Estimated duration | About 13 hours on the platform (5 to 10 minute lessons, activities and self-assessments), plus time for the integrative cases and the plan; to be adjusted with pilot data |
+| Structure | 5 modules, 59 lessons, 59 "What would you do?" H5P activities, 5 self-assessments (177 questions), 5 integrative cases and 22 calculation practices |
+| Certificate | A badge per module and a verifiable certificate of completion after passing the five self-assessments; not a license or official accreditation |
 
 **Overall objective.** By the end, participants build, justify and adjust a plan that connects income, expenses, taxes, financial services, remittances, credit, protection and goals. They compare alternatives, recognize risks, verify information and seek the right help.
 
@@ -32,13 +33,13 @@ Version 2.0 · September 2026 · Accompanies the Participant Manual v2.0 (Spanis
 
 ## Architecture
 
-| Module | Lessons | Portfolio | Estimated hours |
+| Module | Lessons | Integrative case | Hours on the platform |
 |---|---|---|---|
-| M1 Understand your money and organize your finances | 14 | E1 calendar, budget, tax folder and 90-day plan | 14 to 18 |
-| M2 Understand the financial system and plan your remittances | 13 | E2 services comparison and remittance plan | 12 to 16 |
-| M3 Build your credit and manage your debts | 10 | E3 credit pathway and debt plan | 10 to 14 |
-| M4 Protect your money, your identity and your family | 11 | E4 protection and family preparedness plan | 10 to 14 |
-| M5 Build wealth and prepare your future | 11 | E5 integrated financial plan | 10 to 14 |
+| M1 Understand your money and organize your finances | 14 | E1 calendar, budget, tax folder and 90-day plan | about 3 |
+| M2 Understand the financial system and plan your remittances | 13 | E2 services comparison and remittance plan | about 3 |
+| M3 Build your credit and manage your debts | 10 | E3 credit pathway and debt plan | about 2.5 |
+| M4 Protect your money, your identity and your family | 11 | E4 protection and family preparedness plan | about 2.5 |
+| M5 Build wealth and prepare your future | 11 | E5 integrated financial plan | about 2.5 |
 
 **Cross-cutting competencies:** C1 interpret information and terms; C2 calculate and compare; C3 plan and adjust; C4 verify providers and protect oneself; C5 exercise rights and seek help; C6 communicate agreements autonomously; C7 document and review decisions.
 
@@ -50,17 +51,13 @@ Version 2.0 · September 2026 · Accompanies the Participant Manual v2.0 (Spanis
 
 ## Fixed lesson structure
 
-1. An everyday **question** as the title.
-2. **What you will achieve:** an observable outcome in one sentence.
-3. **The essentials** (3 to 5 minutes): situation, three steps and a key idea. It must make sense without reading the rest.
-4. **Go deeper** (8 to 12 minutes): full explanation, calculations and tables.
-5. **Cases:** two situations with Alex, Mar or other characters.
-6. **Interactive activity:** H5P type and description.
-7. **Quiz:** three multiple-choice questions with answers and explanations.
-8. **Practice:** exercise with an answer.
-9. **Before you act, check:** a single box with what must be confirmed.
-10. **For your plan:** a concrete action.
-11. **Key words** (only terms that appear in that lesson) and **sources**.
+Each lesson is a chapter in its module's book. The cover page offers two paths: the essentials only (5 minutes) or the full lesson (10 minutes).
+
+1. An everyday **question** as the title, an **objective** in one sentence and a **hook** with one of the characters.
+2. **The essentials** (5 minutes, 350 to 500 words): steps, cards or a simple calculation; **check** (2 questions with answers) and **remember** (3 points). It is enough on its own to act.
+3. **Go deeper** (full lesson of 800 to 1,200 words): topics and tables with data, **3 cases** with the characters and **4 common mistakes**. Facts to confirm go in a "Before you act, check" box.
+4. **Practice:** the "What would you do?" H5P activity, a **quiz** of 3 questions with 3 options, a **practice exercise** with its answer and **for your plan** (a concrete action, without asking for real amounts).
+5. **Learn more:** official resources with "what to look for" in each link; the lesson's **key words** and **sources**.
 
 ## Tone
 
@@ -107,56 +104,63 @@ Each lesson records: reviewer, verified credential, date, comments and resolutio
 
 # 3. Interactive content and gamification
 
-## Activity types (H5P in Moodle)
+## Platform activities
 
-| H5P type | Use in the program | Examples |
-|---|---|---|
-| Drag and Drop / Drag the Words | Sorting | M1 U01 income or loan; M2 U06 request types |
-| Branching Scenario | Deciding with consequences | M1 U03 "today only" offer; M4 U11 drill |
-| Interactive Video / Image Hotspots | Exploring a document | M1 U05 pay stub; M4 U08 bill and EOB |
-| Flashcards / Dialog Cards | Myth or fact | M1 U13 public charge; M3 U04 credit repair |
-| Question Set / Single Choice Set | Lesson quiz | All |
-| Calculators (Column + forms) | Calculating | M2 U07 capacity; M2 U08 comparer; M5 U04 rent or buy |
-| Timeline | Ordering steps | M1 U11 ITIN path; M4 U04 fraud response |
-| Personality Quiz / decision tree | Choosing a pathway | M3 U03 first step; M3 U10 credit pathway |
+| Activity | How many | What it does | Completion |
+|---|---|---|---|
+| Book "Module N Lessons" | 1 per module | The module's lessons, with a quiz on the *Practice* page | View |
+| H5P "MN UYY · What would you do?" (Single Choice Set) | 1 per lesson (59) | Three cases from the lesson with three options; shows the right answer and allows retries | Receive a grade |
+| Module N Self-assessment | 1 per module | All questions in the module's bank (42, 39, 30, 33 and 33), with feedback | 70% passing grade |
+| Support materials | 1 book | Welcome, integrative cases with keys, calculation practices, glossary, help and references | View |
+
+In the H5P activities the wrong options are about as long as the right one, so length gives no hint.
 
 ## Gamification rules
 
-- Points for completing lessons, quizzes and **missions with real actions** (for example, "I recorded my payments for 2 weeks," "I compared 3 remittance companies"), with voluntary evidence.
-- Weekly streak, not daily.
-- Badges per module (Open Badges) and for cross-cutting achievements (for example, "Scam detective" for completing M4 U01, U02 and U04).
+- **Level Up:** 25 points for completing any activity and 5 for posting in the forum; viewing pages earns no points. Completing the course gives about 1,725 points.
+- **Levels:** Getting started (0), Getting organized (150), Using my account (450), Caring for my credit (800), Protecting my family (1,150) and Building my future (1,500).
+- **Anonymous leaderboard** or none: nobody's name is ever shown.
+- **Badges:** one per module (My money in order, Smart sending, Credit on track, Protected family and Future in motion), two special ones (Scam detective and Expert comparer) and Complete plan at the end of the course.
 - **Never** reward amounts of money, purchases, sign-ups or reviews.
-- Suggested plugins: Level Up XP (levels), native Moodle badges and completion tracking.
 
 ## Serialized story
 
-Alex and Mar appear in every module. Each module is a "season" with a family challenge resolved in the integrative case. Later courses (advanced credit, entrepreneurship, housing) continue their story to encourage participants to keep going.
+Six characters accompany the course: Alex and Mar, Luis, Daniela, Rosa and Andrés. Each module puts at the front those who live the topic most closely and closes with an integrative case: E1 Alex and Mar (calendar), E2 Luis (remittances), E3 Andrés (credit and debt), E4 Rosa (protection) and E5 Daniela (future).
 
 ---
 
 # 4. Assessment
 
-## Instruments
+## On the platform
+
+| Instrument | Use | Result |
+|---|---|---|
+| Lesson quiz | 3 questions with 3 options on the *Practice* page, with answers | Self-check, not graded |
+| "What would you do?" H5P | 3 cases per lesson, graded, with retries | Lesson completion and points |
+| Module self-assessment | Bank of 177 questions with three options and feedback; 70% to pass, unlimited attempts | Module badge |
+| Course completion | All five self-assessments passed | Complete plan badge and certificate of completion |
+
+## Application assessment (with facilitation)
+
+For facilitated cohorts and for the indicators in section 8. It does not change the platform certificate: it measures learning and application.
 
 | Instrument | Use | When |
 |---|---|---|
-| Baseline | Items 01, 03, 06 and 09 from each module (20 total), without showing keys | At enrollment |
-| Lesson quiz | 3 questions per lesson, with immediate feedback | Each lesson |
-| Lesson practice | "Practice" and "For your plan" | Each lesson |
-| Closing bank | 10 items per module (plus alternate items) | At module close |
-| Integrative case | E1 to E5 | At module close |
+| Baseline | Items 01, 03, 06 and 09 from each module (20 total, section 5), without showing keys | At enrollment (T0) |
+| Closing bank | 10 items per module (plus alternates), section 5 | At module close (T1) |
+| Integrative case | E1 to E5 in the support book, scored with the rubric | At module close |
+| Calculation practices | P01 to P22 in the support book | During the module |
 
-These are original instruments without external psychometric validation. When repeated items are compared between baseline and closing, report the possible practice effect. The integrative cases provide application evidence. Open responses and portfolios require an evaluator or a validated system before issuance is automated.
+These are original instruments without external psychometric validation. When repeated items are compared between baseline and closing, report the possible practice effect. Open responses and cases require an evaluator.
 
 ## Scoring
 
 - **Items:** 0 (incorrect or unsafe), 1 (main idea correct but incomplete; in calculations, correct method with a calculation error), 2 (sufficient answer and reasoning).
 - **Knowledge** = sum ÷ 20 × 100.
-- **Practice and portfolio:** four-dimension rubric scored 0 to 3 (interpretation, calculation, decision and documentation); sum ÷ 12 × 100.
-- **Module score** = 20% knowledge + 30% practice + 50% integrative case.
-- **Passing:** 80 out of 100, at least level 2 on every integrative-case dimension and correction of critical errors. Retries with feedback are free.
-- **Additional calculation practices (P01 to P22):** averaged with the practice of the lesson they belong to, on a 0 to 100 scale, without changing the weight of the lessons.
+- **Integrative case:** four-dimension rubric scored 0 to 3; sum ÷ 12 × 100.
+- **Module mastery** = 40% knowledge + 60% integrative case. Mastery requires 80 out of 100, at least level 2 on every case dimension and correction of critical errors. Retries with feedback are free.
 
+**Simulated example.** Knowledge 16 of 20 = 80; case 10 of 12 = 83.33. Result = 0.40 × 80 + 0.60 × 83.33 = 82. Mastery only if every case dimension is at least 2 and critical errors have been corrected.
 ## Rubric
 
 | Dimension | 0 | 1 | 2 | 3 |
@@ -165,10 +169,6 @@ These are original instruments without external psychometric validation. When re
 | Calculation and use of information | Invalid method or evidence | Partly correct method with an error that changes the decision | Correct calculation or correct use of conditions and evidence | Also checks units, assumptions or a variation |
 | Decision | Unsafe or unrelated action | Incompletely justified proposal | Feasible action considering needs, costs and risks | Compares alternatives and anticipates a contingency |
 | Documentation | No next step recorded | Vague step without date or support | Records action, date and source or assumption | Adds follow-up and an adjustment trigger |
-
-**Aggregation.** Each lesson practice has equal weight within the practice component. All practices in the module must be completed (14, 13, 10, 11 or 11); a missing practice is not replaced with the average. Portfolio E is scored separately and not counted twice.
-
-**Simulated example.** Knowledge 16 of 20 = 80; practice average 85; portfolio 10 of 12 = 83.33. Result = 0.20 × 80 + 0.30 × 85 + 0.50 × 83.33 = 83.17. Pass only if every case dimension is at least 2 and critical errors have been corrected.
 
 ## Critical errors by module
 
@@ -180,15 +180,15 @@ These are original instruments without external psychometric validation. When re
 | M4 | Sharing access codes; not verifying a suspicious request; recommending a notario or consultant for immigration advice |
 | M5 | Counting one reserve toward several goals; guaranteeing an uncertain return |
 
-## Approval record
+## Assessment record
 
-Participant ID · module and version · practices completed · knowledge score · practice average · case dimensions · final score · errors corrected · reviewer · date.
+Participant ID · module and version · knowledge score · case dimensions · mastery · errors corrected · reviewer · date.
 
 ---
 
 # 5. Closing item bank and answer keys
 
-For operator use only. Not published in the participant manual. Alternate items (11 and 12) cover the new lessons in version 2.0 and can be used to create equivalent versions.
+For operator use only. Not shown on the platform. Alternate items (11 and 12) can be used to create equivalent versions of the baseline and the closing bank.
 
 ## Module 1
 
@@ -330,7 +330,7 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 
 ## Definitions
 
-- **Enrolled:** unique accepted ID. **Started:** completed the baseline or first activity. **Passed:** met a module's criteria. **Graduated:** passed the whole program.
+- **Enrolled:** unique accepted ID. **Started:** completed the baseline or first activity. **Passed:** passed a module's self-assessment. **Graduated:** passed the whole program.
 - **T0** baseline; **T1** module or program close (say which); **D30, D90 and D180** from T1.
 - Windows: D30 between days 21 and 45; D90 between 75 and 105; D180 between 150 and 210. Keep the actual date.
 
@@ -382,13 +382,13 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 
 ---
 
-# 9. Certificate and diploma
+# 9. Badges and certificate
 
-**Certificate text.** The issuing organization [name] certifies that [chosen name] passed module [name and version] of the Your Money, Your Family, Your Future program through the established activities and evidence. Issued [date]. Verification code [code]. Nominal curriculum workload [hours approved by the operator, distinct from recorded time]. Competencies demonstrated [list]. This certificate is the program's own educational recognition and is not a professional license or official accreditation.
+**Badges.** Moodle awards a badge for passing each module's self-assessment, two special badges and the Complete plan badge at the end of the course. They are digital badges with criteria, issuer (Desarrolla Talento) and date.
 
-**Format.** Open Badges digital badge issued from Moodle, with a verification link and metadata (criteria, evidence, issuer, date). The full diploma lists all five modules and the integrated portfolio.
+**Certificate of completion.** Issued with the Custom certificate plugin after passing the five self-assessments. It shows the person's name, the completion date and a verification code. Legend: the program's own educational recognition; it is not a professional license or official accreditation.
 
-**Rule.** The certificate is never conditioned on a review, purchase, referral or account opening.
+**Rule.** Badges and the certificate are never conditioned on a review, purchase, referral or account opening.
 
 ---
 
@@ -433,44 +433,3 @@ Curriculum coordination (scope and versions) · subject review (finance, taxes, 
 | F11 | Privacy and incident response protocol |
 | F12 | Professional review log |
 
----
-
-# 11. Change log from version 1.2 to 2.0
-
-## General changes
-
-1. Languages separated into two manuals (Spanish and English) with the same structure.
-2. Fixed layered lesson structure: essentials, go deeper, cases, activity, quiz, practice, check, plan, key words and sources.
-3. Defensive tone removed from running text; cautions go in a single box.
-4. Out-of-context glossary boxes fixed (for example, tax "withholding" in lessons about check holds or withheld documents, and insurance "deductible" in the tax deductions lesson).
-5. Section order unified in both languages.
-6. Participant manual separated from the operator manual.
-7. 8 lessons added and information updated (tax on cash-funded remittances, DFPI licenses, CTEC, Bank On accounts, weekly credit reports, 2025 auto insurance minimums, medical debt in California, hospital financial assistance, Medi-Cal changes).
-8. Mention of Directo a México removed due to low use.
-9. Product tables moved to the living comparison matrix.
-
-## Lesson mapping
-
-| v1.2 | v2.0 | Note |
-|---|---|---|
-| M1 U01 to U10 | M1 U01 to U10 | Rewritten |
-| — | M1 U11 | New: tax benefits with an ITIN (CalEITC, YCTC, VITA) |
-| M1 U11 | M1 U12 | CTEC added |
-| — | M1 U13 | New: public charge and public benefits |
-| M1 U12 | M1 U14 | 90-day plan |
-| M2 U01, U02 | M2 U01, U02 | Rewritten |
-| — | M2 U03 | New: ID for financial services |
-| M2 U03 to U12 | M2 U04 to U13 | Bank On, DFPI license and payment method for the tax added |
-| M3 U01 to U08 | M3 U01 to U08 | Rewritten |
-| — | M3 U09 | New: tandas and lending circles |
-| M3 U09 | M3 U10 | Credit pathway |
-| M4 U01 | M4 U01 | Rewritten |
-| — | M4 U02 | New: notario fraud and government impersonators |
-| M4 U02 to U08 | M4 U03 to U09 | Financial assistance and medical debt added |
-| — | M4 U10 | New: family preparedness plan |
-| M4 U09 | M4 U11 | Protection plan |
-| M5 U01 to U03 | M5 U01 to U03 | Rewritten |
-| M5 U04 | M5 U04 and U05 | Split: housing and tenants (new) and car and education |
-| M5 U05 to U08 | M5 U06 to U09 | Rewritten |
-| — | M5 U10 | New: starting a business with an ITIN |
-| M5 U09 | M5 U11 | Integrated plan |

@@ -2,7 +2,7 @@
 
 Vas a crear el curso nuevo **Tu Talento, Tu Marca, Tu Futuro** en academia.desarrollatalento.com. El sitio usa Moodle 3.10, el tema Boost, Level Up 3.15.2 y el complemento **Certificado personalizado** (mod_customcert), ya instalados.
 
-Los cursos de "Tu Dinero, Tu Familia, Tu Futuro" ya existen. **No los toques.**
+Si en el sitio existen otros cursos (por ejemplo, "Tu Dinero, Tu Familia, Tu Futuro"), **no los toques.**
 
 Trabaja con el navegador y con la sesión de administrador que la persona abrió.
 
@@ -19,7 +19,7 @@ Reglas:
 
 1. Confirma que no existe un curso con nombre corto `TTMF-MX`. Si existe, detente y pregunta.
 2. Confirma que existen **Certificado personalizado** y **Level Up** en *Administración del sitio > Extensiones > Resumen de extensiones*.
-3. Las librerías H5P ya están en el sitio. Si al subir la primera H5P aparece un error de librerías, detente y reporta el mensaje exacto.
+3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
 ## 1. Crear el curso
 
@@ -110,7 +110,7 @@ Sigue `7_guias/guia_gamificacion_ttmf.md`: secciones 2 (Level Up), 3 (8 insignia
 
 ## 9. Comunidad (opcional, pregunta antes)
 
-Pregunta a la persona si quiere que crees el curso **Comunidad Tu Talento** (`TTMF-COM`, oculto) con los foros de `7_guias/comunidad_y_canales.md`. La cohorte y el canal de WhatsApp los configura la persona.
+Pregunta a la persona si quiere que crees el curso **Comunidad Tu Talento** (`TTMF-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`. La cohorte y el canal de WhatsApp los configura la persona.
 
 ## 10. Revisión final (con rol de estudiante)
 

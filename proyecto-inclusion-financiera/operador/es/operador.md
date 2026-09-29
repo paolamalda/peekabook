@@ -1,8 +1,8 @@
 # Manual del operador
 
-Este manual es para el equipo que opera el programa: coordinación, facilitación, evaluación, soporte y datos. El participante no necesita leerlo. Contiene la ficha del programa, la guía editorial, la evaluación con claves, las métricas, la matriz comparativa, la expansión por estados, el expediente documental y el control de cambios.
+Este manual es para el equipo que opera el programa: coordinación, facilitación, evaluación, soporte y datos. El participante no necesita leerlo. Contiene la ficha del programa, la guía editorial, la evaluación con claves, las métricas, la matriz comparativa, la expansión por estados y el expediente documental.
 
-Versión 2.0 · Septiembre de 2026 · Acompaña al Manual del participante v2.0 (ediciones en español e inglés).
+Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.2 en Moodle y a su contenido completo (ediciones en español e inglés).
 
 [[TOC]]
 
@@ -15,12 +15,13 @@ Versión 2.0 · Septiembre de 2026 · Acompaña al Manual del participante v2.0 
 | Nombre académico | Finanzas y economía personal para no financieros |
 | Nombre de comunicación | Tu Dinero, Tu Familia, Tu Futuro / Your Money, Your Family, Your Future |
 | Modalidad | 100% en línea, autónomo, con apoyo para dudas y sesiones en vivo opcionales |
-| Costo para el participante | Gratuito: contenidos, evaluaciones, reintentos, apoyo, herramienta complementaria y constancias |
+| Plataforma | Moodle 3.10 con libros de lecciones, actividades H5P, autoevaluaciones, Level Up, insignias y Certificado personalizado |
+| Costo para el participante | Gratuito: contenidos, evaluaciones, reintentos, apoyo, herramienta complementaria y constancia |
 | Público | Adultos migrantes en EE. UU., con SSN, ITIN o sin ninguno; asalariados, independientes, trabajadores de plataformas o con ingresos mixtos; con dependientes y vínculos con México u otros países |
 | Cobertura geográfica | Núcleo federal y módulo estatal. Piloto en California; después Texas, Illinois, Nueva York y Florida |
-| Duración estimada | 56 a 76 horas con prácticas; se ajustará con datos del piloto |
-| Estructura | 5 módulos, 59 lecciones, 5 casos integradores, 22 prácticas de cálculo |
-| Constancia | Constancia propia verificable por módulo y diploma propio del programa; no es licencia ni acreditación oficial |
+| Duración estimada | Unas 13 horas en la plataforma (lecciones de 5 a 10 minutos, actividades y autoevaluaciones), más el tiempo de los casos integradores y el plan; se ajustará con datos del piloto |
+| Estructura | 5 módulos, 59 lecciones, 59 actividades H5P «¿Qué harías?», 5 autoevaluaciones (177 preguntas), 5 casos integradores y 22 prácticas de cálculo |
+| Constancia | Insignia por módulo y constancia de conclusión verificable al aprobar las cinco autoevaluaciones; no es licencia ni acreditación oficial |
 
 **Objetivo general.** Al terminar, la persona construye, justifica y ajusta un plan que conecta ingresos, gastos, impuestos, servicios financieros, remesas, crédito, protección y metas. Compara alternativas, reconoce riesgos, verifica información y pide la ayuda adecuada.
 
@@ -32,13 +33,13 @@ Versión 2.0 · Septiembre de 2026 · Acompaña al Manual del participante v2.0 
 
 ## Arquitectura
 
-| Módulo | Lecciones | Expediente | Horas estimadas |
+| Módulo | Lecciones | Caso integrador | Horas en plataforma |
 |---|---|---|---|
-| M1 Entiende tu dinero y organiza tu economía | 14 | E1 calendario, presupuesto, carpeta fiscal y plan de 90 días | 14 a 18 |
-| M2 Entiende el sistema financiero y planea tus remesas | 13 | E2 comparación de servicios y plan de remesas | 12 a 16 |
-| M3 Construye tu crédito y maneja tus deudas | 10 | E3 ruta de crédito y plan de deudas | 10 a 14 |
-| M4 Protege tu dinero, tu identidad y tu familia | 11 | E4 plan de protección y preparación familiar | 10 a 14 |
-| M5 Construye patrimonio y prepara tu futuro | 11 | E5 plan financiero integrado | 10 a 14 |
+| M1 Entiende tu dinero y organiza tu economía | 14 | E1 calendario, presupuesto, carpeta fiscal y plan de 90 días | unas 3 |
+| M2 Entiende el sistema financiero y planea tus remesas | 13 | E2 comparación de servicios y plan de remesas | unas 3 |
+| M3 Construye tu crédito y maneja tus deudas | 10 | E3 ruta de crédito y plan de deudas | unas 2.5 |
+| M4 Protege tu dinero, tu identidad y tu familia | 11 | E4 plan de protección y preparación familiar | unas 2.5 |
+| M5 Construye patrimonio y prepara tu futuro | 11 | E5 plan financiero integrado | unas 2.5 |
 
 **Competencias transversales:** C1 interpretar información y términos; C2 calcular y comparar; C3 planear y ajustar; C4 verificar proveedores y protegerse; C5 ejercer derechos y buscar ayuda; C6 comunicar acuerdos con autonomía; C7 documentar y revisar decisiones.
 
@@ -50,17 +51,13 @@ Versión 2.0 · Septiembre de 2026 · Acompaña al Manual del participante v2.0 
 
 ## Estructura fija de cada lección
 
-1. **Pregunta** de la vida diaria como título.
-2. **Lo que lograrás:** resultado observable en una frase.
-3. **Lo esencial** (3 a 5 minutos): situación, tres pasos y una idea clave. Debe entenderse sin leer el resto.
-4. **Profundiza** (8 a 12 minutos): explicación completa, cálculos y tablas.
-5. **Casos:** dos situaciones con Alex, Mar u otros personajes.
-6. **Actividad interactiva:** tipo de H5P y descripción.
-7. **Quiz:** tres preguntas de opción múltiple con respuesta y explicación.
-8. **Ponlo en práctica:** ejercicio con respuesta.
-9. **Antes de actuar, verifica:** un solo recuadro con lo que se debe confirmar.
-10. **A tu plan:** acción concreta.
-11. **Palabras clave** (solo términos que aparecen en esa lección) y **fuentes**.
+Cada lección es un capítulo del libro de su módulo. La portada ofrece dos rutas: solo lo esencial (5 minutos) o la lección completa (10 minutos).
+
+1. **Título** en forma de pregunta de la vida diaria, **objetivo** en una frase y **gancho** con uno de los personajes.
+2. **Lo esencial** (5 minutos, 350 a 500 palabras): pasos, tarjetas o un cálculo sencillo; **comprueba** (2 preguntas con respuesta) y **recuerda** (3 puntos). Basta por sí solo para actuar.
+3. **Profundiza** (lección completa de 800 a 1,200 palabras): temas y tablas con datos, **3 casos** con los personajes y **4 errores frecuentes**. Los datos que se deben confirmar van en un recuadro «Antes de actuar, verifica».
+4. **Practica:** la actividad H5P «¿Qué harías?», un **quiz** de 3 preguntas con 3 opciones, **ponlo en práctica** (ejercicio con respuesta) y **a tu plan** (acción concreta, sin pedir montos reales).
+5. **Para saber más:** recursos oficiales con «qué buscar» en cada enlace; **palabras clave** de la lección y **fuentes**.
 
 ## Tono
 
@@ -107,56 +104,63 @@ Cada lección registra: revisor, credencial verificada, fecha, observaciones y r
 
 # 3. Interactivos y gamificación
 
-## Tipos de actividad (H5P en Moodle)
+## Actividades de la plataforma
 
-| Tipo de H5P | Uso en el programa | Ejemplos |
-|---|---|---|
-| Drag and Drop / Drag the Words | Clasificar | M1 U01 ingreso o préstamo; M2 U06 tipos de solicitud |
-| Branching Scenario | Decidir con consecuencias | M1 U03 oferta "solo hoy"; M4 U11 simulacro |
-| Interactive Video / Image Hotspots | Explorar un documento | M1 U05 recibo de pago; M4 U08 factura y EOB |
-| Flashcards / Dialog Cards | Mito o realidad | M1 U13 carga pública; M3 U04 reparación de crédito |
-| Question Set / Single Choice Set | Quiz de cada lección | Todas |
-| Calculadoras (Column + formularios) | Calcular | M2 U07 capacidad; M2 U08 comparador; M5 U04 rentar o comprar |
-| Timeline | Ordenar pasos | M1 U11 ruta del ITIN; M4 U04 respuesta a fraude |
-| Personality Quiz / árbol de decisión | Elegir una ruta | M3 U03 primer paso; M3 U10 ruta de crédito |
+| Actividad | Cuántas | Qué hace | Finalización |
+|---|---|---|---|
+| Libro «Lecciones del Módulo N» | 1 por módulo | Las lecciones del módulo, con quiz en la página *Practica* | Ver |
+| H5P «MN UYY · ¿Qué harías?» (Single Choice Set) | 1 por lección (59) | Tres casos de la lección con tres opciones; muestra la correcta y permite reintentar | Recibir calificación |
+| Autoevaluación del Módulo N | 1 por módulo | Todas las preguntas del banco del módulo (42, 39, 30, 33 y 33), con retroalimentación | Calificación aprobatoria de 70% |
+| Materiales de apoyo | 1 libro | Bienvenida, casos integradores con clave, prácticas de cálculo, glosario, ayuda y referencias | Ver |
+
+En las H5P las opciones incorrectas tienen un largo parecido al de la correcta, para que el largo no dé pistas.
 
 ## Reglas de gamificación
 
-- Puntos por completar lecciones, quizzes y **misiones con acciones reales** (por ejemplo, "registré mis pagos de 2 semanas", "comparé 3 remesadoras"), con evidencia voluntaria.
-- Racha semanal, no diaria.
-- Insignias por módulo (Open Badges) y por logros transversales (por ejemplo, "Detective de estafas" al completar M4 U01, U02 y U04).
+- **Level Up:** 25 puntos por completar cualquier actividad y 5 por participar en el foro; ver páginas no da puntos. Completar el curso da unos 1,725 puntos.
+- **Niveles:** Empiezo (0), Me organizo (150), Uso mi cuenta (450), Cuido mi crédito (800), Protejo a mi familia (1,150) y Construyo mi futuro (1,500).
+- **Clasificación anónima** o desactivada: nunca se muestra el nombre de nadie.
+- **Insignias:** una por módulo (Mi dinero en orden, Envío inteligente, Crédito con rumbo, Familia protegida y Futuro en marcha), dos especiales (Detective de estafas y Comparador experto) y Plan completo al concluir el curso.
 - **Nunca** se premian montos de dinero, compras, contrataciones ni reseñas.
-- Plugins sugeridos: Level Up XP (niveles), insignias nativas de Moodle y seguimiento de finalización.
 
 ## Historia en serie
 
-Alex y Mar aparecen en todos los módulos. Cada módulo es una "temporada" con un reto familiar que se resuelve en el caso integrador. Los cursos posteriores (crédito avanzado, emprendimiento, vivienda) continúan su historia para motivar la continuidad.
+Seis personajes acompañan el curso: Alex y Mar, Luis, Daniela, Rosa y Andrés. Cada módulo pone al frente a quienes viven más de cerca el tema y cierra con un caso integrador: E1 Alex y Mar (calendario), E2 Luis (remesas), E3 Andrés (crédito y deudas), E4 Rosa (protección) y E5 Daniela (futuro).
 
 ---
 
 # 4. Evaluación
 
-## Instrumentos
+## En la plataforma
+
+| Instrumento | Uso | Resultado |
+|---|---|---|
+| Quiz de lección | 3 preguntas con 3 opciones en la página *Practica*, con respuestas | Autocomprobación, sin calificación |
+| H5P «¿Qué harías?» | 3 casos por lección, con calificación y reintentos | Finalización de la lección y puntos |
+| Autoevaluación del módulo | Banco de 177 preguntas con tres opciones y retroalimentación; aprobatoria 70%, intentos ilimitados | Insignia del módulo |
+| Finalización del curso | Las cinco autoevaluaciones aprobadas | Insignia Plan completo y constancia de conclusión |
+
+## Evaluación de aplicación (con acompañamiento)
+
+Para cohortes con facilitación y para los indicadores de la sección 8. No cambia la constancia de la plataforma: mide aprendizaje y aplicación.
 
 | Instrumento | Uso | Momento |
 |---|---|---|
-| Diagnóstico | Reactivos 01, 03, 06 y 09 de cada módulo (20 en total), sin mostrar claves | Al inscribirse |
-| Quiz de lección | 3 preguntas por lección, con retroalimentación inmediata | En cada lección |
-| Práctica de lección | "Ponlo en práctica" y "A tu plan" | En cada lección |
-| Banco de cierre | 10 reactivos por módulo (más reactivos alternos) | Al cerrar el módulo |
-| Caso integrador | E1 a E5 | Al cerrar el módulo |
+| Diagnóstico | Reactivos 01, 03, 06 y 09 de cada módulo (20 en total, sección 5), sin mostrar claves | Al inscribirse (T0) |
+| Banco de cierre | 10 reactivos por módulo (más alternos), sección 5 | Al cerrar el módulo (T1) |
+| Caso integrador | E1 a E5 del libro de apoyo, calificados con la rúbrica | Al cerrar el módulo |
+| Prácticas de cálculo | P01 a P22 del libro de apoyo | Durante el módulo |
 
-Son instrumentos propios sin validación psicométrica externa. Si se comparan reactivos repetidos entre diagnóstico y cierre, se informa el posible efecto de práctica. Los casos integradores aportan evidencia de aplicación. Las respuestas abiertas y los expedientes requieren un evaluador o un sistema validado antes de automatizar la emisión.
+Son instrumentos propios sin validación psicométrica externa. Si se comparan reactivos repetidos entre diagnóstico y cierre, se informa el posible efecto de práctica. Las respuestas abiertas y los casos requieren un evaluador.
 
 ## Puntuación
 
 - **Reactivos:** 0 (incorrecto o inseguro), 1 (idea central correcta pero incompleta; en cálculos, método correcto con error de cálculo), 2 (respuesta y justificación suficientes).
 - **Conocimientos** = suma ÷ 20 × 100.
-- **Prácticas y expediente:** rúbrica de cuatro dimensiones de 0 a 3 (interpretación, cálculo, decisión y documentación); suma ÷ 12 × 100.
-- **Calificación del módulo** = 20% conocimientos + 30% prácticas + 50% caso integrador.
-- **Aprobación:** 80 de 100, al menos nivel 2 en cada dimensión del caso integrador y corrección de errores críticos. Los reintentos con retroalimentación son gratuitos.
-- **Prácticas adicionales de cálculo (P01 a P22):** se promedian con la práctica de la lección a la que pertenecen, en escala de 0 a 100, sin cambiar el peso de las lecciones.
+- **Caso integrador:** rúbrica de cuatro dimensiones de 0 a 3; suma ÷ 12 × 100.
+- **Dominio del módulo** = 40% conocimientos + 60% caso integrador. Hay dominio con 80 de 100, al menos nivel 2 en cada dimensión del caso y corrección de errores críticos. Los reintentos con retroalimentación son gratuitos.
 
+**Ejemplo simulado.** Conocimientos 16 de 20 = 80; caso 10 de 12 = 83.33. Resultado = 0.40 × 80 + 0.60 × 83.33 = 82. Hay dominio solo si cada dimensión del caso tiene al menos 2 y se corrigieron los errores críticos.
 ## Rúbrica
 
 | Dimensión | 0 | 1 | 2 | 3 |
@@ -165,10 +169,6 @@ Son instrumentos propios sin validación psicométrica externa. Si se comparan r
 | Cálculo y uso de información | Procedimiento o evidencia inválidos | Método parcialmente correcto con un error que cambia la decisión | Cálculo correcto o uso correcto de condiciones y evidencia | Además comprueba unidades, supuestos o una variación |
 | Decisión | Acción insegura o sin relación | Propuesta con justificación incompleta | Acción viable que considera necesidad, costos y riesgos | Compara alternativas y anticipa una contingencia |
 | Documentación | No registra siguiente paso | Paso ambiguo sin fecha o respaldo | Registra acción, fecha y fuente o supuesto | Añade seguimiento y condición para ajustar |
-
-**Agregación.** Cada práctica de lección pesa igual dentro del componente de práctica. Se deben completar todas las prácticas del módulo (14, 13, 10, 11 u 11); no se sustituye una práctica faltante con el promedio. El expediente E se califica aparte y no se cuenta dos veces.
-
-**Ejemplo simulado.** Conocimientos 16 de 20 = 80; práctica promedio 85; expediente 10 de 12 = 83.33. Resultado = 0.20 × 80 + 0.30 × 85 + 0.50 × 83.33 = 83.17. Aprueba solo si cada dimensión del caso tiene al menos 2 y se corrigieron los errores críticos.
 
 ## Errores críticos por módulo
 
@@ -180,15 +180,15 @@ Son instrumentos propios sin validación psicométrica externa. Si se comparan r
 | M4 | Compartir códigos de acceso; no verificar una solicitud sospechosa; recomendar a un notario o consultor para asesoría migratoria |
 | M5 | Contar una misma reserva para varias metas; garantizar un rendimiento incierto |
 
-## Registro de aprobación
+## Registro de evaluación
 
-Identificador del participante · módulo y versión · prácticas completas · puntaje de conocimientos · promedio de práctica · dimensiones del caso · calificación final · errores corregidos · revisor · fecha.
+Identificador del participante · módulo y versión · puntaje de conocimientos · dimensiones del caso · dominio · errores corregidos · revisor · fecha.
 
 ---
 
 # 5. Banco de reactivos de cierre y claves
 
-Uso exclusivo del operador. No se publica en el manual del participante. Los reactivos alternos (11 y 12) cubren las lecciones nuevas de la versión 2.0 y sirven para crear versiones equivalentes.
+Uso exclusivo del operador. No se muestra en la plataforma. Los reactivos alternos (11 y 12) sirven para crear versiones equivalentes del diagnóstico y del cierre.
 
 ## Módulo 1
 
@@ -330,7 +330,7 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 
 ## Definiciones
 
-- **Inscrito:** identificador único aceptado. **Iniciado:** completó diagnóstico o primera actividad. **Aprobado:** cumplió criterios de un módulo. **Graduado:** aprobó todo el programa.
+- **Inscrito:** identificador único aceptado. **Iniciado:** completó diagnóstico o primera actividad. **Aprobado:** aprobó la autoevaluación de un módulo. **Graduado:** aprobó todo el programa.
 - **T0** línea base; **T1** cierre del módulo o programa (indicar cuál); **D30, D90 y D180** desde T1.
 - Ventanas: D30 entre 21 y 45 días; D90 entre 75 y 105; D180 entre 150 y 210. Guardar la fecha real.
 
@@ -382,13 +382,13 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 
 ---
 
-# 9. Constancia y diploma
+# 9. Insignias y constancia
 
-**Texto de la constancia.** La entidad emisora [nombre] hace constar que [nombre elegido] aprobó el módulo [nombre y versión] del programa Tu Dinero, Tu Familia, Tu Futuro, mediante las actividades y evidencias establecidas. Fecha de emisión [fecha]. Código de verificación [código]. Carga curricular nominal [horas aprobadas por el operador, distintas del tiempo registrado]. Competencias demostradas [lista]. Esta constancia es un reconocimiento educativo propio y no constituye licencia profesional ni acreditación oficial.
+**Insignias.** Moodle entrega una insignia al aprobar la autoevaluación de cada módulo, dos insignias especiales y la insignia Plan completo al concluir el curso. Son insignias digitales con criterio, emisor (Desarrolla Talento) y fecha.
 
-**Formato.** Insignia digital Open Badges emitida desde Moodle, con enlace de verificación y metadatos (criterios, evidencia, emisor, fecha). El diploma integral identifica los cinco módulos y el portafolio integrado.
+**Constancia de conclusión.** Se emite con el complemento Certificado personalizado al aprobar las cinco autoevaluaciones. Lleva el nombre de la persona, la fecha de conclusión y un código de verificación. Leyenda: reconocimiento educativo propio del programa; no constituye licencia profesional ni acreditación oficial.
 
-**Regla.** Nunca se condiciona la constancia a una reseña, compra, referido o apertura de cuenta.
+**Regla.** Nunca se condicionan las insignias ni la constancia a una reseña, compra, referido o apertura de cuenta.
 
 ---
 
@@ -433,44 +433,3 @@ Coordinación curricular (alcance y versiones) · revisión temática (finanzas,
 | F11 | Protocolo de privacidad y respuesta a incidentes |
 | F12 | Registro de revisión profesional |
 
----
-
-# 11. Control de cambios de la versión 1.2 a la 2.0
-
-## Cambios generales
-
-1. Idiomas separados en dos manuales (español e inglés) con la misma estructura.
-2. Estructura fija de lección en capas: lo esencial, profundiza, casos, actividad, quiz, práctica, verificación, plan, palabras clave y fuentes.
-3. Se retiró el tono defensivo del texto corrido; las advertencias van en un solo recuadro.
-4. Se corrigieron los recuadros de glosario fuera de contexto (por ejemplo, "retención" fiscal en lecciones sobre retención de cheques o de documentos, y "deducible" de seguros en la lección de deducciones fiscales).
-5. Se unificó el orden de las secciones en ambos idiomas.
-6. Se separó el manual del participante del manual del operador.
-7. Se agregaron 8 lecciones y se actualizó información (impuesto a remesas en efectivo, licencias DFPI, CTEC, cuentas Bank On, reportes de crédito semanales, mínimos de seguro de auto 2025, deudas médicas en California, asistencia financiera hospitalaria, cambios de Medi-Cal).
-8. Se retiró la mención a Directo a México por su bajo uso.
-9. Las tablas de productos se trasladan a la matriz comparativa viva.
-
-## Correspondencia de lecciones
-
-| v1.2 | v2.0 | Nota |
-|---|---|---|
-| M1 U01 a U10 | M1 U01 a U10 | Reescritas |
-| — | M1 U11 | Nueva: apoyos fiscales con ITIN (CalEITC, YCTC, VITA) |
-| M1 U11 | M1 U12 | Se agrega CTEC |
-| — | M1 U13 | Nueva: carga pública y apoyos |
-| M1 U12 | M1 U14 | Plan de 90 días |
-| M2 U01, U02 | M2 U01, U02 | Reescritas |
-| — | M2 U03 | Nueva: identificación para trámites financieros |
-| M2 U03 a U12 | M2 U04 a U13 | Se agregan Bank On, licencia DFPI y medio de pago en el impuesto |
-| M3 U01 a U08 | M3 U01 a U08 | Reescritas |
-| — | M3 U09 | Nueva: tandas y círculos de préstamo |
-| M3 U09 | M3 U10 | Ruta de crédito |
-| M4 U01 | M4 U01 | Reescrita |
-| — | M4 U02 | Nueva: fraude de notarios e impostores del gobierno |
-| M4 U02 a U08 | M4 U03 a U09 | Se agregan asistencia financiera y deudas médicas |
-| — | M4 U10 | Nueva: plan de preparación familiar |
-| M4 U09 | M4 U11 | Plan de protección |
-| M5 U01 a U03 | M5 U01 a U03 | Reescritas |
-| M5 U04 | M5 U04 y U05 | Se divide: vivienda e inquilinos (nueva) y auto y educación |
-| M5 U05 a U08 | M5 U06 a U09 | Reescritas |
-| — | M5 U10 | Nueva: emprender con ITIN |
-| M5 U09 | M5 U11 | Plan integrado |

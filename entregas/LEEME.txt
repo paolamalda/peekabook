@@ -1,0 +1,19 @@
+CARPETAS FINALES DE LOS CURSOS · Desarrolla Talento · Septiembre de 2026
+
+Cada curso es una carpeta completa con la misma estructura:
+  00_LEEME        qué hay, cómo se arma y lista para dar el curso por completo
+  01_Manual       el programa (para coordinación)
+  02_Contenido    todo lo que ve la persona participante
+  03_Guia         instalación, gamificación y mantenimiento
+  04_Moodle       paquete listo para instalar, con el README para Claude
+
+Si un curso viene en varias partes, descomprímelas todas en el mismo lugar.
+
+Tu_Dinero_ES_v3.2_parte1de3..3de3        Tu Dinero, Tu Familia, Tu Futuro (español)
+Your_Money_EN_v3.2_parte1de3..3de3       Your Money, Your Family, Your Future (inglés)
+Tu_Talento_v1.2_parte1de3..3de3          Tu Talento, Tu Marca, Tu Futuro
+Comunidad_Tu_Talento_v1.1                Comunidad Tu Talento
+
+archivo_versiones_anteriores/  entregas previas, solo como historial; no se usan.
+
+Para regenerar las carpetas: python3 proyecto-inclusion-financiera/herramientas/carpetas_cursos.py
