@@ -286,4 +286,79 @@ CASOS = {
  ("Denunciar: le puede pasar a cualquiera.", "Olvidarlo para no pasar vergüenza.", "Esperar a ver si el banco la llama."),
  ("Aviso sencillo sin datos personales.", "Publica sus estados de cuenta completos.", "No avisa a nadie para no alarmar."),
 ],
+"M10 U01": [
+ ("Contrata un SGMM que cubra su actividad.", "Sigue sin seguro porque casi no se lesiona.", "Guarda la tarjeta solo para emergencias."),
+ ("Pagar mucho coaseguro en un gasto grande.", "Ninguno: el coaseguro nunca es alto.", "Que le suban la prima cada mes."),
+ ("No: la prima sube y puede tener exclusiones.", "Sí: a los 50 los seguros son más baratos.", "Sí, porque antes no le hace falta."),
+],
+"M10 U02": [
+ ("Inscribirse en la Modalidad 10.", "Esperar a que lo contraten por nómina.", "Nada: sin patrón no hay IMSS."),
+ ("Que incapacidades y pensión usan ese ingreso.", "Nada: el ingreso no cambia los beneficios.", "Que así recibe una pensión más alta."),
+ ("Compara ANDA con lo que da la Modalidad 10.", "Nada: la ANDA cubre retiro y vivienda.", "Se da de baja de la ANDA para ahorrar."),
+],
+"M10 U03": [
+ ("IMSS, fondo, seguro y un ingreso puente.", "Solo su tarjeta de crédito los tres meses.", "Bailar aunque le duela para no perder."),
+ ("Autorización, definición y exclusiones.", "Solo que el agente sea amable.", "Nada: si es caro, seguro es bueno."),
+ ("Poco: busca una ligada a su ocupación.", "Sí, esa definición es la más amplia.", "Sí, si la prima es la más barata."),
+],
+"M10 U04": [
+ ("Seguro temporal y beneficiarios en todo.", "Espera a que su hija sea mayor de edad.", "Pone todo su ahorro a nombre de su hija."),
+ ("Los nombra en banco, AFORE y seguros.", "Los pone solo en su testamento.", "Espera a tener más dinero para hacerlo."),
+ ("Lo compara con temporal más ahorro propio.", "Lo contrata porque incluye ahorro.", "Contrata dos para tener más ahorro."),
+],
+"M10 U05": [
+ ("Asesoría, pruebas y protección en INDAUTOR e IMPI.", "Cambia de nombre para evitar problemas.", "Sigue igual porque ella lo usó primero."),
+ ("Busca y registra marca y reserva.", "Imprime las playeras y registra después.", "Usa el nombre sin registrar nada."),
+ ("Revisa el vencimiento y renueva.", "Nada: la marca es para siempre.", "Registra una marca nueva distinta."),
+],
+"M10 U06": [
+ ("Hace su testamento y su carpeta familiar.", "Espera a ser mayor para hacerlo.", "Le deja todo dicho de palabra a su hermana."),
+ ("Las incluye en su testamento por escrito.", "Nada: las regalías terminan con ella.", "Pide que se las paguen por adelantado."),
+ ("No: deja instrucciones, no contraseñas.", "Sí: así su familia entra a todo.", "Sí, pero en un papel pegado al celular."),
+],
+"M11 U01": [
+ ("Aparta IVA e ISR y reparte el mismo día.", "Paga primero el viaje que tenía pendiente.", "Deja todo en su cuenta y decide después."),
+ ("Esperar un mes y revisar su mes bajo.", "Dar el enganche hoy antes de gastarlo.", "Comprar el auto a crédito sin enganche."),
+ ("Más a retiro, carrera y concentradora.", "Todo a disfrutar porque ya cumplió.", "Pedir un crédito para invertir más."),
+],
+"M11 U02": [
+ ("La busca con su CURP y actualiza beneficiarios.", "Da por perdido ese dinero para siempre.", "Pide a un gestor que la busque por él."),
+ ("No acepta: los trámites son gratuitos.", "Acepta porque así es más rápido.", "Negocia que le cobren solo 15%."),
+ ("Compara con datos de CONSAR y se cambia.", "Se queda aunque rinda poco.", "Se cambia por el regalo de un agente."),
+],
+"M11 U03": [
+ ("Sí: es de Ley 73 y está en plazo.", "No: la Modalidad 40 es solo para jóvenes.", "Sí, pero solo con un gestor."),
+ ("No de la misma forma: no es de Ley 73.", "Sí, igual que a cualquier persona.", "Sí, y además le da servicio médico."),
+ ("Desconfía y hace el trámite él mismo.", "Acepta el préstamo para pagarla.", "Paga al gestor la mitad por adelantado."),
+],
+"M11 U04": [
+ ("No por eso: en RESICO no hay deducción.", "Sí: todo PPR baja sus impuestos.", "Sí, si aporta más de lo que le piden."),
+ ("Que esté dentro del tope y sus costos.", "Nada: cualquier monto es deducible.", "Solo que el agente le dé regalo."),
+ ("No: perdería el beneficio si lo saca.", "Sí: así su fondo gana más.", "Sí, porque puede sacarlo cuando quiera."),
+],
+"M11 U05": [
+ ("Invierte a largo plazo, diversificado y autorizado.", "Toma el curso de trading para ganar diario.", "Pone su fondo de sequía en trading."),
+ ("Diversificar con un fondo o ETF.", "Todo en esa acción si le gusta la empresa.", "Todo en criptomonedas para ganar más."),
+ ("Que su plazo es largo y las bajas pasan.", "Que debe vender todo antes de perder más.", "Que debe pedir prestado para comprar más."),
+],
+"M11 U06": [
+ ("Sigue rentando, ahorra y ordena sus impuestos.", "Compra ya con su fondo de sequía de enganche.", "Pide un préstamo personal para el enganche."),
+ ("No por ahora: debe caber en su mes bajo.", "Sí: con los meses buenos le alcanza.", "Sí, si usa la tarjeta en los meses malos."),
+ ("Su saldo en Infonavit y sus opciones.", "Nada: los independientes no tienen opciones.", "Solo créditos por app para vivienda."),
+],
+"M11 U07": [
+ ("Calcula su punto de equilibrio y empieza pequeño.", "Renta el local más grande para crecer rápido.", "Abre con su fondo de sequía como capital."),
+ ("Espacio, precio, alumnos y cómo declararlo.", "Solo cuántos seguidores tiene en redes.", "Nada: las clases siempre dejan ganancia."),
+ ("No: capital aparte y empezar pequeño.", "Sí: el fondo está para invertirlo.", "Sí, y además pide un crédito."),
+],
+"M11 U08": [
+ ("Construye su siguiente etapa desde ahora.", "Espera a los 55 para pensar qué hacer.", "Deja la música y busca otro empleo ya."),
+ ("Ahorrar, proteger y diversificar.", "Gastar porque siempre será así.", "Dejar de aprender porque ya llegó."),
+ ("Presupuestar formación cada año.", "Esperar a que un curso le llegue gratis.", "Formarse solo si pierde trabajo."),
+],
+"M11 U09": [
+ ("Elige una acción pequeña con fecha.", "Espera a tener todo claro primero.", "Hace todo al mismo tiempo."),
+ ("Régimen, sueldo, pago base y deducciones.", "Nada: su plan sigue igual siempre.", "Solo su dirección y su teléfono."),
+ ("No: el fondo cumplió; ahora lo rellena.", "Sí: debe empezar un plan desde cero.", "Sí: ya no tiene sentido ahorrar."),
+],
 }
