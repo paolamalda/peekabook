@@ -154,10 +154,10 @@ El mánager de Gael calcula su 15% sobre el pago con IVA incluido.
 
 #### Quiz
 
-1. Te ofrecen 40,000 por un personaje. ¿Con qué número decides si te alcanza para un compromiso nuevo? a) 40,000 · b) Lo que queda después de comisión, impuestos y gastos · c) 40,000 más el IVA
-2. Estás en RESICO y gastas 10,000 en vestuario. ¿Qué pasa con tus impuestos? a) Bajan 10,000 · b) No cambian · c) Bajan a la mitad
-3. Cobras 20,000 más IVA. ¿Qué haces con el IVA? a) Lo apartas para el SAT · b) Lo usas como ganancia · c) Lo usas para pagar tu tarjeta
-**Respuestas:** 1-b: tu ganancia real es la que paga tu vida. 2-b: RESICO no permite deducir gastos. 3-a: el IVA no es tuyo.
+1. Te ofrecen 40,000 por un personaje. ¿Con qué número decides si te alcanza para un compromiso nuevo? a) Lo que queda después de comisión, impuestos y gastos · b) 40,000 · c) 40,000 más el IVA que te pagan, porque ya es tuyo
+2. Estás en RESICO y gastas 10,000 en vestuario. ¿Qué pasa con tus impuestos? a) No cambian · b) Bajan 10,000 · c) Bajan a la mitad
+3. Cobras 20,000 más IVA. ¿Qué haces con el IVA? a) Lo usas como ganancia · b) Lo usas para pagar tu tarjeta · c) Lo apartas para el SAT
+**Respuestas:** 1-a: tu ganancia real es la que paga tu vida. 2-a: RESICO no permite deducir gastos. 3-c: el IVA no es tuyo.
 
 
 
@@ -348,10 +348,10 @@ Renata paga sus tarjetas y sus salidas directo desde la cuenta donde le deposita
 
 #### Quiz
 
-1. Tu ganancia real del año es 240,000 y apartas 36,000 para reserva y retiro. ¿Cuál es tu sueldo mensual? a) 20,000 · b) 17,000 · c) 23,000
-2. Este mes cobraste el triple de lo normal. ¿Qué haces con tu sueldo? a) Lo triplicas · b) Lo mantienes igual · c) Lo subes a la mitad
-3. ¿Desde qué cuenta pagas tu renta? a) Desde la concentradora · b) Desde tu cuenta de gastos · c) Desde la tarjeta de crédito
-**Respuestas:** 1-b: 240,000 − 36,000 = 204,000; entre 12 son 17,000. 2-b: lo extra se queda para los meses bajos. 3-b: tu vida se paga con tu sueldo.
+1. Tu ganancia real del año es 240,000 y apartas 36,000 para reserva y retiro. ¿Cuál es tu sueldo mensual? a) 17,000 · b) 20,000 · c) 23,000
+2. Este mes cobraste el triple de lo normal. ¿Qué haces con tu sueldo? a) Lo mantienes igual · b) Lo triplicas · c) Lo subes a la mitad
+3. ¿Desde qué cuenta pagas tu renta? a) Desde la concentradora · b) Desde la tarjeta de crédito · c) Desde tu cuenta de gastos
+**Respuestas:** 1-a: 240,000 − 36,000 = 204,000; entre 12 son 17,000. 2-a: lo extra se queda para los meses bajos. 3-c: tu vida se paga con tu sueldo.
 
 
 
@@ -531,9 +531,9 @@ Toño no tiene grabaciones en enero y tiene 30,000 en su fondo.
 #### Quiz
 
 1. Gastos básicos de 16,000 y 5 meses sin proyecto. ¿Meta del fondo? a) 80,000 · b) 21,000 · c) 16,000
-2. ¿Qué gasto NO entra en el cálculo? a) Luz y agua · b) Medicinas · c) Salidas con amigos
-3. Usaste tu fondo en un mes sin trabajo. ¿Qué sigue? a) Dejarlo en cero · b) Volver a llenarlo con tus siguientes pagos · c) Pedir un préstamo para rellenarlo
-**Respuestas:** 1-a: 16,000 × 5. 2-c: se pueden pausar en la sequía. 3-b: se rellena poco a poco.
+2. ¿Qué gasto NO entra en el cálculo? a) Luz, agua, gas e internet de tu casa · b) Medicinas · c) Salidas con amigos
+3. Usaste tu fondo en un mes sin trabajo. ¿Qué sigue? a) Dejarlo en cero · b) Pedir un préstamo para rellenarlo de inmediato y no quedarte sin nada · c) Volver a llenarlo con tus siguientes pagos
+**Respuestas:** 1-a: 16,000 × 5. 2-c: se pueden pausar en la sequía. 3-c: se rellena poco a poco.
 
 
 
@@ -715,10 +715,10 @@ Gael quiere abrir una cuenta en un banco digital que le paga rendimiento diario.
 
 #### Quiz
 
-1. ¿Qué es lo más importante para tu fondo de sequía? a) El rendimiento más alto · b) La seguridad y poder sacarlo rápido · c) Que esté en una app nueva
+1. ¿Qué es lo más importante para tu fondo de sequía? a) La seguridad y poder sacarlo rápido · b) El rendimiento más alto que encuentres en cualquier app · c) Que esté en una app nueva
 2. ¿Qué opción de Cetesdirecto te permite retirar al día siguiente? a) BONDDIA · b) Cetes a un año · c) Bonos a 10 años
 3. ¿Dónde confirmas que una entidad es un banco? a) En sus redes sociales · b) En el padrón de la CNBV · c) En las reseñas de la app
-**Respuestas:** 1-b: primero seguridad y liquidez. 2-a: BONDDIA tiene liquidez diaria. 3-b: la CNBV supervisa a los bancos.
+**Respuestas:** 1-a: primero seguridad y liquidez. 2-a: BONDDIA tiene liquidez diaria. 3-b: la CNBV supervisa a los bancos.
 
 
 
@@ -1085,9 +1085,9 @@ Renata va a cobrar un evento en 60 días y quiere comprar ropa hoy con la tarjet
 #### Quiz
 
 1. ¿Con qué fecha planeas tus gastos? a) La fecha en que trabajas · b) La fecha en que te pagan · c) La fecha en que firmas
-2. Tienes 4,000 y gastos de 15,000 este mes; tu pago llega en dos meses. ¿Cuánto te falta este mes? a) 11,000 · b) 15,000 · c) 19,000
-3. Tu factura lleva 20 días de retraso. ¿Qué haces? a) Esperar sin decir nada · b) Enviar un recordatorio por escrito · c) Publicarlo en redes
-**Respuestas:** 1-b: solo el dinero en tu cuenta es tuyo. 2-a: 15,000 − 4,000. 3-b: el seguimiento por escrito ayuda y deja registro.
+2. Tienes 4,000 y gastos de 15,000 este mes; tu pago llega en dos meses. ¿Cuánto te falta este mes? a) 15,000 · b) 19,000 · c) 11,000
+3. Tu factura lleva 20 días de retraso. ¿Qué haces? a) Esperar sin decir nada · b) Publicarlo en redes para presionar a la productora · c) Enviar un recordatorio por escrito
+**Respuestas:** 1-b: solo el dinero en tu cuenta es tuyo. 2-c: 15,000 − 4,000. 3-c: el seguimiento por escrito ayuda y deja registro.
 
 
 

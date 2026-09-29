@@ -139,9 +139,9 @@ Toño tiene 41 años y piensa esperar a los 50 para contratar.
 #### Quiz
 
 1. Gasto de 100,000, deducible de 10,000 y coaseguro de 10%. ¿Cuánto pagas tú? a) 19,000 · b) 10,000 · c) 1,000
-2. ¿Qué protege el tope de coaseguro? a) Limita lo que pagas en coaseguro · b) Sube la prima · c) Elimina el deducible
-3. ¿Cuándo conviene contratar un SGMM? a) Joven y sano · b) Cuando ya estás enfermo · c) Después de los 60
-**Respuestas:** 1-a: 10,000 + 10% de 90,000. 2-a: pone un máximo. 3-a: prima menor y menos exclusiones.
+2. ¿Qué protege el tope de coaseguro? a) Sube la prima · b) Limita lo que pagas en coaseguro · c) Elimina el deducible de tu póliza
+3. ¿Cuándo conviene contratar un SGMM? a) Cuando ya estás enfermo · b) Joven y sano · c) Después de los 60
+**Respuestas:** 1-a: 10,000 + 10% de 90,000. 2-b: pone un máximo. 3-b: prima menor y menos exclusiones.
 
 
 
@@ -310,10 +310,10 @@ Toño es agremiado de la ANDA y no sabe si necesita el IMSS.
 
 #### Quiz
 
-1. ¿Qué modalidad del IMSS es para personas trabajadoras independientes? a) Modalidad 10 · b) Modalidad 40 · c) Ninguna
-2. ¿Qué te da la Modalidad 10 que un SGMM no? a) Incapacidades, retiro y vivienda · b) Hospitales privados · c) Nada
-3. Registras un ingreso muy bajo. ¿Qué pasa? a) Pagas menos, pero tus incapacidades y pensión son menores · b) Nada cambia · c) Te dan más beneficios
-**Respuestas:** 1-a: es la incorporación voluntaria de independientes. 2-a: el SGMM solo cubre gastos médicos. 3-a: se calculan con el ingreso registrado.
+1. ¿Qué modalidad del IMSS es para personas trabajadoras independientes? a) Modalidad 40 · b) Modalidad 10 · c) Ninguna
+2. ¿Qué te da la Modalidad 10 que un SGMM no? a) Incapacidades, retiro y vivienda · b) Hospitales privados de la red de tu aseguradora · c) Nada
+3. Registras un ingreso muy bajo. ¿Qué pasa? a) Nada cambia · b) Te dan más beneficios porque pagas menos cuota · c) Pagas menos, pero tus incapacidades y pensión son menores
+**Respuestas:** 1-b: es la incorporación voluntaria de independientes. 2-a: el SGMM solo cubre gastos médicos. 3-c: se calculan con el ingreso registrado.
 
 
 
@@ -477,10 +477,10 @@ La póliza de Gael paga solo si "no puede desempeñar ningún trabajo".
 
 #### Quiz
 
-1. ¿Qué cubre la pérdida de ingreso por no poder trabajar? a) Incapacidad del IMSS y seguros de accidentes · b) Solo el SGMM · c) Nada
+1. ¿Qué cubre la pérdida de ingreso por no poder trabajar? a) Incapacidad del IMSS y seguros de accidentes · b) Solo el SGMM · c) Nada: si no trabajas, nadie te paga
 2. ¿Qué definición de incapacidad te conviene? a) No poder hacer tu trabajo · b) No poder hacer ningún trabajo · c) Ninguna
-3. ¿Dónde verificas a una aseguradora? a) CNSF · b) SAT · c) INDAUTOR
-**Respuestas:** 1-a: protegen tu ingreso. 2-a: se ajusta a tu ocupación. 3-a: la CNSF supervisa seguros.
+3. ¿Dónde verificas a una aseguradora? a) SAT · b) INDAUTOR · c) CNSF
+**Respuestas:** 1-a: protegen tu ingreso. 2-a: se ajusta a tu ocupación. 3-c: la CNSF supervisa seguros.
 
 
 
@@ -647,9 +647,9 @@ A Gael le ofrecen un seguro de vida con ahorro muy caro.
 #### Quiz
 
 1. ¿Qué tipo de seguro de vida suele ser más barato? a) Temporal · b) Con ahorro · c) Son iguales
-2. ¿Dónde nombras beneficiarios? a) En cada cuenta, seguro y AFORE · b) Solo en el testamento · c) En redes
+2. ¿Dónde nombras beneficiarios? a) Solo en el testamento · b) En cada cuenta, seguro y AFORE · c) Solo en tu testamento, una sola vez
 3. Gasto de 10,000 al mes por 10 años. ¿Monto aproximado de seguro? a) 1,200,000 · b) 120,000 · c) 10,000
-**Respuestas:** 1-a: solo protege, sin ahorro. 2-a: cada producto tiene su designación. 3-a: 10,000 × 120 meses.
+**Respuestas:** 1-a: solo protege, sin ahorro. 2-b: cada producto tiene su designación. 3-a: 10,000 × 120 meses.
 
 
 
@@ -810,10 +810,10 @@ Gael registró su marca hace casi diez años.
 
 #### Quiz
 
-1. ¿Qué institución protege tu nombre artístico con una reserva de derechos? a) INDAUTOR · b) SAT · c) CONDUSEF
-2. ¿Dónde registras una marca para tu línea de ropa? a) IMPI · b) IMSS · c) ANDA
-3. ¿Qué haces antes de registrar? a) Buscar si el nombre ya existe · b) Imprimir playeras · c) Nada
-**Respuestas:** 1-a: INDAUTOR otorga reservas de derechos. 2-a: el IMPI registra marcas. 3-a: buscar evita conflictos.
+1. ¿Qué institución protege tu nombre artístico con una reserva de derechos? a) SAT · b) INDAUTOR · c) CONDUSEF
+2. ¿Dónde registras una marca para tu línea de ropa? a) IMSS · b) ANDA · c) IMPI
+3. ¿Qué haces antes de registrar? a) Imprimir playeras · b) Imprimir playeras y ver si el nombre funciona · c) Buscar si el nombre ya existe
+**Respuestas:** 1-b: INDAUTOR otorga reservas de derechos. 2-c: el IMPI registra marcas. 3-c: buscar evita conflictos.
 
 
 
@@ -979,10 +979,10 @@ Renata quiere dejar sus contraseñas escritas en su carpeta familiar.
 
 #### Quiz
 
-1. ¿Ante quién haces un testamento público abierto? a) Un notario · b) El SAT · c) Tu banco
-2. ¿Tus regalías se pueden heredar? a) Sí · b) No · c) Solo las del extranjero
-3. ¿Qué NO pones en tu carpeta familiar? a) Contraseñas completas · b) Pólizas · c) Contactos
-**Respuestas:** 1-a: el notario lo formaliza. 2-a: son derechos patrimoniales. 3-a: evita riesgos de robo.
+1. ¿Ante quién haces un testamento público abierto? a) El SAT · b) Tu banco · c) Un notario
+2. ¿Tus regalías se pueden heredar? a) No · b) Sí · c) Solo las del extranjero
+3. ¿Qué NO pones en tu carpeta familiar? a) Pólizas · b) Contraseñas completas · c) Contactos de tu contador y tu notario
+**Respuestas:** 1-c: el notario lo formaliza. 2-b: son derechos patrimoniales. 3-b: evita riesgos de robo.
 
 
 

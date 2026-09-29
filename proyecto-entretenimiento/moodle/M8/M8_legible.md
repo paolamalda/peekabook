@@ -131,9 +131,9 @@ Gael cobró un pago grande y tiene su fondo de sequía completo.
 #### Quiz
 
 1. Con la avalancha, ¿qué deuda pagas primero? a) La de mayor costo · b) La más pequeña · c) La más antigua
-2. ¿Qué haces con las demás deudas mientras atacas una? a) Pagas al menos el mínimo · b) Dejas de pagarlas · c) Pagas la mitad del mínimo
-3. Terminas una deuda. ¿Qué haces con lo que le pagabas? a) Lo sumas a la siguiente deuda · b) Lo gastas · c) Pides otro crédito
-**Respuestas:** 1-a: pagas menos intereses. 2-a: así no te atrasas. 3-a: el efecto se acelera.
+2. ¿Qué haces con las demás deudas mientras atacas una? a) Dejas de pagarlas · b) Pagas al menos el mínimo · c) Pagas la mitad del mínimo
+3. Terminas una deuda. ¿Qué haces con lo que le pagabas? a) Lo gastas · b) Pides otro crédito para seguir avanzando · c) Lo sumas a la siguiente deuda
+**Respuestas:** 1-a: pagas menos intereses. 2-b: así no te atrasas. 3-c: el efecto se acelera.
 
 
 
@@ -302,10 +302,10 @@ Gael sabe que el próximo mes no podrá pagar su crédito.
 
 #### Quiz
 
-1. ¿Qué opción deja una clave de observación por pagar menos? a) Quita · b) Reestructura · c) Pago puntual
-2. ¿Qué pides al terminar de pagar un acuerdo? a) Carta de liquidación · b) Un regalo · c) Otra tarjeta
-3. ¿Cuándo tienes más opciones para negociar? a) Antes de atrasarte · b) Después de un año de atraso · c) Cuando te demandan
-**Respuestas:** 1-a: pagas menos de lo que debías. 2-a: prueba que terminaste. 3-a: estando al corriente hay más opciones.
+1. ¿Qué opción deja una clave de observación por pagar menos? a) Reestructura · b) Quita · c) Pago puntual
+2. ¿Qué pides al terminar de pagar un acuerdo? a) Carta de liquidación · b) Un regalo · c) Otra tarjeta con mejor línea de crédito
+3. ¿Cuándo tienes más opciones para negociar? a) Después de un año de atraso · b) Antes de atrasarte · c) Cuando te demandan
+**Respuestas:** 1-b: pagas menos de lo que debías. 2-a: prueba que terminaste. 3-b: estando al corriente hay más opciones.
 
 
 
@@ -476,10 +476,10 @@ Valeria consolidó sus deudas y sus tarjetas quedaron en cero.
 
 #### Quiz
 
-1. ¿Qué debe cumplir una consolidación para convenir? a) CAT y total menores, y no volver a usar las tarjetas · b) Solo pago mensual menor · c) Plazo más largo
+1. ¿Qué debe cumplir una consolidación para convenir? a) Solo que el pago mensual sea menor al que tienes hoy · b) CAT y total menores, y no volver a usar las tarjetas · c) Plazo más largo
 2. 36 pagos de 3,500. ¿Cuál es el total? a) 126,000 · b) 3,500 · c) 105,000
-3. Te piden un pago por adelantado para consolidar. ¿Qué es? a) Señal de fraude · b) Normal · c) Un seguro
-**Respuestas:** 1-a: así realmente pagas menos. 2-a: 36 × 3,500. 3-a: nadie legítimo cobra antes.
+3. Te piden un pago por adelantado para consolidar. ¿Qué es? a) Normal · b) Señal de fraude · c) Un seguro que protege tu consolidación
+**Respuestas:** 1-b: así realmente pagas menos. 2-a: 36 × 3,500. 3-b: nadie legítimo cobra antes.
 
 
 
@@ -644,10 +644,10 @@ Un despacho llama a la mamá de Toño y la presiona para que pague.
 
 #### Quiz
 
-1. ¿Qué registro de CONDUSEF sirve para verificar despachos de cobranza? a) REDECO · b) RECA · c) SIPRES
+1. ¿Qué registro de CONDUSEF sirve para verificar despachos de cobranza? a) RECA · b) SIPRES · c) REDECO
 2. ¿Pueden amenazar a tu familia por tu deuda? a) No · b) Sí · c) Solo si viven contigo
-3. Te piden pagar a una cuenta personal. ¿Qué haces? a) Pagas solo a la institución · b) Pagas para que dejen de llamar · c) Pagas la mitad
-**Respuestas:** 1-a: es el registro de despachos. 2-a: está prohibido. 3-a: evita fraudes.
+3. Te piden pagar a una cuenta personal. ¿Qué haces? a) Pagas para que dejen de llamar · b) Pagas solo a la institución · c) Pagas la mitad
+**Respuestas:** 1-c: es el registro de despachos. 2-a: está prohibido. 3-b: evita fraudes.
 
 
 
@@ -716,7 +716,7 @@ Si tu fondo de sequía está vacío, llena al menos un mes de gastos antes de ha
 
 Valeria paga 4,000 cada mes pase lo que pase. En abril cobró 60,000: apartó impuestos, completó un mes de fondo y mandó 9,000 extra a su deuda más cara.
 
-Cada tres meses revisa su inventario. En un año bajó su deuda de 70,000 a 18,000.
+Cada tres meses revisa su inventario. En un año bajó su deuda de 70,000 a 11,000.
 
 > **Idea clave:** un pago base fijo y extras en meses buenos te sacan de deudas aunque tu ingreso cambie.
 
@@ -748,7 +748,7 @@ Cada tres meses revisa su inventario. En un año bajó su deuda de 70,000 a 18,0
 | 1 | 12,000 | 9,000 | 52,000 |
 | 2 | 12,000 | 4,000 | 38,000 |
 | 3 | 12,000 | 6,000 | 22,000 |
-| 4 | 12,000 | 0 | 18,000 (con intereses) |
+| 4 | 12,000 | 0 | 11,000 |
 
 
 
@@ -812,10 +812,10 @@ Toño no puede cubrir su pago base este mes.
 
 #### Quiz
 
-1. Mes bajo de 18,000 y gastos básicos de 15,000. ¿Pago base a deudas? a) 3,000 · b) 18,000 · c) 15,000
-2. ¿Cada cuánto revisas tu plan? a) Cada tres meses · b) Cada cinco años · c) Nunca
-3. Cobraste mucho y tu fondo está vacío. ¿Qué haces primero? a) Impuestos y un mes de fondo · b) Todo a deudas · c) Todo a gastos
-**Respuestas:** 1-a: 18,000 − 15,000. 2-a: así ajustas a tiempo. 3-a: así evitas volver a endeudarte.
+1. Mes bajo de 18,000 y gastos básicos de 15,000. ¿Pago base a deudas? a) 18,000 · b) 15,000 · c) 3,000
+2. ¿Cada cuánto revisas tu plan? a) Cada cinco años · b) Cada tres meses · c) Nunca
+3. Cobraste mucho y tu fondo está vacío. ¿Qué haces primero? a) Todo a deudas · b) Impuestos y un mes de fondo · c) Todo a gastos, porque te lo mereces
+**Respuestas:** 1-c: 18,000 − 15,000. 2-b: así ajustas a tiempo. 3-b: así evitas volver a endeudarte.
 
 
 

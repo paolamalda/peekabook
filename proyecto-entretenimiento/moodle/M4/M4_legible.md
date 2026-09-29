@@ -133,10 +133,10 @@ Toño tuvo un problema con una casa de empeño.
 
 #### Quiz
 
-1. ¿Qué autoridad protege tus depósitos en bancos? a) IPAB · b) Profeco · c) CONSAR
-2. ¿A quién presentas una reclamación contra tu banco si no te resuelven? a) CONDUSEF · b) SAT · c) IMSS
-3. Te llaman "del Banco de México" para ofrecerte un crédito. ¿Qué es? a) Una oferta oficial · b) Un fraude · c) Un programa nuevo
-**Respuestas:** 1-a: el IPAB protege depósitos bancarios. 2-a: CONDUSEF atiende reclamaciones. 3-b: Banxico no presta a personas.
+1. ¿Qué autoridad protege tus depósitos en bancos? a) Profeco · b) IPAB · c) CONSAR
+2. ¿A quién presentas una reclamación contra tu banco si no te resuelven? a) CONDUSEF · b) SAT · c) El IMSS, porque es una institución pública
+3. Te llaman "del Banco de México" para ofrecerte un crédito. ¿Qué es? a) Un fraude · b) Una oferta oficial · c) Un programa nuevo
+**Respuestas:** 1-b: el IPAB protege depósitos bancarios. 2-a: CONDUSEF atiende reclamaciones. 3-a: Banxico no presta a personas.
 
 
 
@@ -311,9 +311,9 @@ Valeria tiene una tarjeta de una tienda departamental y no sabe quién es el acr
 #### Quiz
 
 1. ¿Qué entidad solo presta y no puede captar ahorro? a) Banco · b) SOFOM · c) Banco digital
-2. ¿Qué protege el IPAB? a) Depósitos en bancos · b) Cualquier app · c) Créditos de tienda
-3. ¿Dónde encuentras el nombre legal de tu tarjeta? a) En la publicidad · b) En el contrato o estado de cuenta · c) En las redes de la marca
-**Respuestas:** 1-b: la SOFOM solo otorga crédito. 2-a: solo depósitos bancarios. 3-b: ahí aparece la entidad responsable.
+2. ¿Qué protege el IPAB? a) Cualquier app · b) Créditos de tienda · c) Depósitos en bancos
+3. ¿Dónde encuentras el nombre legal de tu tarjeta? a) En la publicidad · b) En el contrato o estado de cuenta · c) En las redes sociales de la marca de la tarjeta
+**Respuestas:** 1-b: la SOFOM solo otorga crédito. 2-c: solo depósitos bancarios. 3-b: ahí aparece la entidad responsable.
 
 
 
@@ -481,10 +481,10 @@ Gael duda entre dos bancos para abrir su cuenta concentradora.
 
 #### Quiz
 
-1. ¿Dónde confirmas que una empresa es prestador de servicios financieros registrado? a) SIPRES · b) Google Maps · c) Sus redes sociales
-2. ¿Qué herramienta muestra quejas y sanciones de una institución? a) Buró de Entidades Financieras · b) Buró de Crédito · c) El SAT
+1. ¿Dónde confirmas que una empresa es prestador de servicios financieros registrado? a) Google Maps · b) Sus redes sociales · c) SIPRES
+2. ¿Qué herramienta muestra quejas y sanciones de una institución? a) Buró de Crédito · b) Buró de Entidades Financieras · c) El SAT, que revisa a todas las empresas del país
 3. Una app no aparece en el SIPRES. ¿Qué haces? a) La uso con poco dinero · b) No contrato · c) Le pregunto al asesor de la app
-**Respuestas:** 1-a: el SIPRES es el registro de CONDUSEF. 2-a: el Buró de Entidades Financieras evalúa instituciones. 3-b: no está registrada.
+**Respuestas:** 1-c: el SIPRES es el registro de CONDUSEF. 2-b: el Buró de Entidades Financieras evalúa instituciones. 3-b: no está registrada.
 
 
 
@@ -654,10 +654,10 @@ Renata recibe llamadas diarias ofreciéndole créditos.
 
 #### Quiz
 
-1. ¿Dónde reclamas primero un cargo que no reconoces? a) En la UNE de la institución · b) En redes sociales · c) En el SAT
-2. ¿Qué es el RECA? a) Un registro de contratos de productos financieros · b) Un tipo de crédito · c) Una tarjeta
-3. ¿Para qué sirve el REUS? a) Para pedir créditos · b) Para no recibir publicidad financiera · c) Para ver tu Buró
-**Respuestas:** 1-a: la UNE atiende reclamaciones. 2-a: ahí consultas contratos. 3-b: limita las ofertas por teléfono y mensaje.
+1. ¿Dónde reclamas primero un cargo que no reconoces? a) En la UNE de la institución · b) En redes sociales, etiquetando a la institución · c) En el SAT
+2. ¿Qué es el RECA? a) Un registro de contratos de productos financieros · b) Un tipo de crédito rápido para personas sin historial · c) Una tarjeta
+3. ¿Para qué sirve el REUS? a) Para no recibir publicidad financiera · b) Para pedir créditos · c) Para ver tu Buró de Crédito gratis cuando quieras
+**Respuestas:** 1-a: la UNE atiende reclamaciones. 2-a: ahí consultas contratos. 3-a: limita las ofertas por teléfono y mensaje.
 
 
 

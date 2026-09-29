@@ -130,8 +130,8 @@ Toño viaja por giras y necesita sacar dinero en muchas ciudades.
 #### Quiz
 
 1. ¿Qué eliges primero? a) La institución · b) El regalo de la promoción · c) El color de la tarjeta
-2. Cobras mucho en efectivo. ¿Qué preguntas? a) Cuánto cuesta depositar efectivo y dónde · b) Si la tarjeta es de metal · c) Si tienen puntos para viajes
-3. ¿Qué herramienta muestra quejas por institución? a) Buró de Entidades Financieras · b) Buró de Crédito · c) Las reseñas de la app
+2. Cobras mucho en efectivo. ¿Qué preguntas? a) Cuánto cuesta depositar efectivo y dónde · b) Si la tarjeta es de metal · c) Si tienen puntos para viajes y descuentos en conciertos
+3. ¿Qué herramienta muestra quejas por institución? a) Buró de Entidades Financieras · b) Buró de Crédito · c) Las reseñas de la app en la tienda del celular
 **Respuestas:** 1-a: primero con quién. 2-a: según cómo cobras. 3-a: es la herramienta de CONDUSEF.
 
 
@@ -294,9 +294,9 @@ Renata tiene una cuenta básica y le rechazan un depósito grande por el límite
 #### Quiz
 
 1. Una cuenta cobra 200 al mes de manejo. ¿Cuánto pagas al año? a) 2,400 · b) 200 · c) 1,200
-2. ¿Tienes derecho a elegir en qué banco recibir tu nómina? a) No · b) Sí, con la portabilidad de nómina · c) Solo si tu patrón acepta
-3. Cobras en efectivo en eventos. ¿Qué revisas? a) Dónde y cuánto cuesta depositar · b) El diseño de la tarjeta · c) Si la app tiene juegos
-**Respuestas:** 1-a: 200 × 12. 2-b: es un derecho sin costo. 3-a: según cómo cobras.
+2. ¿Tienes derecho a elegir en qué banco recibir tu nómina? a) No · b) Sí, con la portabilidad de nómina · c) Solo si tu patrón acepta cambiar de banco
+3. Cobras en efectivo en eventos. ¿Qué revisas? a) El diseño de la tarjeta y si tiene tu nombre grabado · b) Dónde y cuánto cuesta depositar · c) Si la app tiene juegos
+**Respuestas:** 1-a: 200 × 12. 2-b: es un derecho sin costo. 3-b: según cómo cobras.
 
 
 
@@ -462,10 +462,10 @@ Un banco anuncia a Gael una "tasa de 12%", pero su GAT real es 1%.
 
 #### Quiz
 
-1. Necesitas el dinero en 3 meses. ¿Qué opción es más adecuada? a) Cetes a 3 meses o menos · b) Acciones · c) Un plazo de 2 años
-2. ¿Qué indicador descuenta la inflación? a) GAT nominal · b) GAT real · c) Tasa anunciada
+1. Necesitas el dinero en 3 meses. ¿Qué opción es más adecuada? a) Cetes a 3 meses o menos · b) Acciones · c) Un plazo fijo de 2 años con mejor tasa
+2. ¿Qué indicador descuenta la inflación? a) GAT real · b) GAT nominal · c) Tasa anunciada
 3. Te ofrecen 10% mensual garantizado. ¿Qué es? a) Una gran oportunidad · b) Señal de fraude · c) Una inversión segura del gobierno
-**Respuestas:** 1-a: el plazo coincide con tu meta. 2-b: muestra la ganancia real. 3-b: nadie garantiza eso sin riesgo.
+**Respuestas:** 1-a: el plazo coincide con tu meta. 2-a: muestra la ganancia real. 3-b: nadie garantiza eso sin riesgo.
 
 
 
@@ -635,10 +635,10 @@ La tarjeta de Valeria incluye un seguro de 149 al mes que no pidió.
 
 #### Quiz
 
-1. Gasto de 40,000, deducible de 5,000 y coaseguro de 10%. ¿Cuánto pagas tú? a) 8,500 · b) 5,000 · c) 4,000
-2. ¿Qué parte de la póliza dice lo que NO cubre? a) Las exclusiones · b) La prima · c) La suma asegurada
-3. ¿Quién supervisa a las aseguradoras? a) CNSF · b) SAT · c) IMSS
-**Respuestas:** 1-a: 5,000 + 10% de 35,000 = 8,500. 2-a: por eso se leen primero. 3-a: la CNSF supervisa seguros.
+1. Gasto de 40,000, deducible de 5,000 y coaseguro de 10%. ¿Cuánto pagas tú? a) 5,000 · b) 8,500 · c) 4,000
+2. ¿Qué parte de la póliza dice lo que NO cubre? a) La prima · b) Las exclusiones · c) La suma asegurada
+3. ¿Quién supervisa a las aseguradoras? a) SAT · b) IMSS · c) CNSF
+**Respuestas:** 1-b: 5,000 + 10% de 35,000 = 8,500. 2-b: por eso se leen primero. 3-c: la CNSF supervisa seguros.
 
 
 
@@ -813,9 +813,9 @@ Un crédito de 50,000 cobra 5% de apertura.
 #### Quiz
 
 1. Crédito de 12 pagos de 2,000 y otro de 18 pagos de 1,500, ambos por 20,000. ¿Cuál cuesta menos en total? a) El de 12 pagos (24,000) · b) El de 18 pagos (27,000) · c) Cuestan igual
-2. ¿Qué indicador suma intereses y comisiones? a) CAT · b) GAT · c) UDI
-3. Te cobran 4% de apertura en 30,000. ¿Cuánto recibes? a) 28,800 · b) 30,000 · c) 31,200
-**Respuestas:** 1-a: 24,000 contra 27,000. 2-a: el CAT es el costo total. 3-a: 30,000 menos 1,200.
+2. ¿Qué indicador suma intereses y comisiones? a) GAT · b) CAT · c) UDI
+3. Te cobran 4% de apertura en 30,000. ¿Cuánto recibes? a) 30,000 · b) 31,200 · c) 28,800
+**Respuestas:** 1-a: 24,000 contra 27,000. 2-b: el CAT es el costo total. 3-c: 30,000 menos 1,200.
 
 
 
@@ -977,10 +977,10 @@ Gael quiere pedir un préstamo por app para pagar su tarjeta.
 
 #### Quiz
 
-1. ¿Qué crédito es revolvente? a) La tarjeta de crédito · b) El hipotecario · c) El automotriz
-2. ¿Qué conviene para comprar equipo de trabajo planeado? a) Préstamo por app · b) Crédito simple con CAT bajo o MSI que quepan en tu presupuesto · c) Pagar solo el mínimo de la tarjeta
+1. ¿Qué crédito es revolvente? a) El hipotecario · b) La tarjeta de crédito · c) El automotriz para comprar un auto
+2. ¿Qué conviene para comprar equipo de trabajo planeado? a) Préstamo por app · b) Pagar solo el mínimo de la tarjeta de crédito hasta que alcance para todo · c) Crédito simple con CAT bajo o MSI que quepan en tu presupuesto
 3. No te alcanza para la renta este mes. ¿Qué haces primero? a) Usar tu fondo de sequía · b) Pedir un préstamo por app · c) Empeñar tu equipo de trabajo
-**Respuestas:** 1-a: la línea se usa y se vuelve a usar. 2-b: pagos fijos y costo menor. 3-a: el crédito no resuelve un faltante del día a día.
+**Respuestas:** 1-b: la línea se usa y se vuelve a usar. 2-c: pagos fijos y costo menor. 3-a: el crédito no resuelve un faltante del día a día.
 
 
 
@@ -1147,10 +1147,10 @@ Un ejecutivo le promete a Toño que "después le bajan la tasa".
 
 #### Quiz
 
-1. ¿Qué dato de la carátula te dice todo lo que pagarás? a) El total a pagar · b) El logotipo · c) La sucursal
+1. ¿Qué dato de la carátula te dice todo lo que pagarás? a) El logotipo · b) El total a pagar · c) La sucursal donde firmas
 2. Te prometen de palabra que quitan un seguro. ¿Qué haces? a) Confías · b) Pides que quede por escrito · c) Firmas y reclamas después
-3. ¿Dónde puedes leer contratos registrados de productos financieros? a) En el RECA de CONDUSEF · b) En el SAT · c) En las redes del banco
-**Respuestas:** 1-a: incluye pagos y costos. 2-b: lo escrito es lo que vale. 3-a: es el registro oficial.
+3. ¿Dónde puedes leer contratos registrados de productos financieros? a) En el SAT · b) En las redes del banco · c) En el RECA de CONDUSEF
+**Respuestas:** 1-b: incluye pagos y costos. 2-b: lo escrito es lo que vale. 3-c: es el registro oficial.
 
 
 

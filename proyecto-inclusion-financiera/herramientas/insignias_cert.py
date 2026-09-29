@@ -32,8 +32,21 @@ T = dict(top="YOUR MONEY · YOUR FAMILY · YOUR FUTURE", t="Certificate of Compl
          mods=["Mi dinero", "Sistema financiero y remesas", "Crédito y deudas", "Protección", "Futuro y patrimonio"],
          date="28 de septiembre de 2026", fecha="Fecha", cod="Código de verificación",
          nota="Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial.")
+TTMF = "--ttmf" in sys.argv
+if TTMF:
+    B = [("01_dinero_real", "M1", "Dinero real", "fa-calendar-check-o"),
+         ("02_carrera_en_regla", "M2 · M3", "Carrera en regla", "fa-briefcase"),
+         ("03_se_elegir", "M4 · M5", "Sé elegir", "fa-balance-scale"),
+         ("04_credito_bajo_control", "M6 · M8", "Crédito bajo control", "fa-credit-card"),
+         ("05_nadie_me_engana", "M9", "Nadie me engaña", "fa-search"),
+         ("06_proteccion_activa", "M10", "Protección activa", "fa-umbrella"),
+         ("07_futuro_en_escena", "M11", "Futuro en escena", "fa-star"),
+         ("08_plan_completo", "CURSO", "Plan completo", "fa-trophy")]
+    T.update(top="TU TALENTO · TU MARCA · TU FUTURO",
+             txt="por concluir el programa de educación financiera <b>Tu Talento, Tu Marca, Tu Futuro</b>, con sus once módulos y autoevaluaciones aprobadas.",
+             mods=["Tu dinero y tu carrera", "Sistema financiero", "Crédito y deudas", "Protección", "Futuro"])
 MODS = "".join(f"<span>{m}</span>" for m in T["mods"])
-OUTB, OUTC = [os.path.join(BASE, "moodle/v3/en" if EN else "moodle/v3", d) for d in ("insignias", "certificado")]
+OUTB, OUTC = [os.path.join(os.path.dirname(BASE), "proyecto-entretenimiento", "moodle", d) for d in ("insignias", "certificado")] if TTMF else [os.path.join(BASE, "moodle/v3/en" if EN else "moodle/v3", d) for d in ("insignias", "certificado")]
 def badge(tag, name, icon, gold=False):
     ring = "linear-gradient(135deg,#E4007C,#FF4FA8)" if gold else "linear-gradient(135deg,#0A3161,#061F40)"
     return f'''<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet href="file://{A}/fa.css">{FONTS}

@@ -154,9 +154,9 @@ Toño no sabe en qué régimen está.
 #### Quiz
 
 1. En RESICO cobras 40,000 en el mes. ¿Qué tasa de ISR aplica? a) 1.1% · b) 2.5% · c) 10%
-2. Gastas 40% de lo que cobras en tu trabajo. ¿Qué te conviene revisar con tu contador? a) Pasarte a asimilados · b) Si te conviene Actividad Empresarial · c) Dejar de facturar
-3. ¿Dónde confirmas tu régimen actual? a) En tu estado de cuenta · b) En tu constancia de situación fiscal · c) En tu contrato con la productora
-**Respuestas:** 1-a: hasta 50,000 al mes es 1.1%. 2-b: ahí puedes deducir gastos. 3-b: la constancia del SAT dice tu régimen.
+2. Gastas 40% de lo que cobras en tu trabajo. ¿Qué te conviene revisar con tu contador? a) Pasarte a asimilados para que te retengan todo a ti · b) Dejar de facturar · c) Si te conviene Actividad Empresarial
+3. ¿Dónde confirmas tu régimen actual? a) En tu estado de cuenta · b) En tu contrato con la productora que te paga más · c) En tu constancia de situación fiscal
+**Respuestas:** 1-a: hasta 50,000 al mes es 1.1%. 2-c: ahí puedes deducir gastos. 3-c: la constancia del SAT dice tu régimen.
 
 
 
@@ -340,10 +340,10 @@ Gael se gastó el IVA de tres meses y no ha declarado.
 
 #### Quiz
 
-1. Facturas 30,000 más IVA a una persona. ¿Cuánto es el IVA? a) 3,000 · b) 4,800 · c) 1,200
-2. ¿Qué IVA puedes restar del que cobraste? a) El de tus gastos de trabajo con factura a tu nombre · b) El de tu súper · c) Cualquier IVA que pagues
-3. ¿Hasta qué día declaras el IVA del mes? a) El último día del mes · b) El día 17 del mes siguiente · c) En abril, una vez al año
-**Respuestas:** 1-b: 16% de 30,000. 2-a: solo el de tu actividad, con factura. 3-b: es una declaración mensual.
+1. Facturas 30,000 más IVA a una persona. ¿Cuánto es el IVA? a) 4,800 · b) 3,000 · c) 1,200
+2. ¿Qué IVA puedes restar del que cobraste? a) El de tu súper · b) El de tus gastos de trabajo con factura a tu nombre · c) Cualquier IVA que pagues en el mes, sea de trabajo o personal
+3. ¿Hasta qué día declaras el IVA del mes? a) El día 17 del mes siguiente · b) El último día del mes · c) En abril, una vez al año
+**Respuestas:** 1-a: 16% de 30,000. 2-b: solo el de tu actividad, con factura. 3-a: es una declaración mensual.
 
 
 
@@ -516,10 +516,10 @@ Un conocido le ofrece a Gael facturas de gastos "para pagar menos".
 
 #### Quiz
 
-1. ¿En qué régimen puedes deducir tus gastos de trabajo? a) RESICO · b) Actividad Empresarial y Profesional · c) En ninguno
+1. ¿En qué régimen puedes deducir tus gastos de trabajo? a) RESICO · b) Actividad Empresarial y Profesional · c) En ninguno: los gastos de trabajo nunca se pueden deducir
 2. ¿Qué gasto NO es deducible? a) Clases de canto con factura · b) Comisión del mánager con factura · c) Ropa de uso diario
-3. Compraste equipo de 3,000 en efectivo. ¿Qué pasa? a) Se deduce igual · b) Puede no deducirse por pagarlo en efectivo · c) Se deduce el doble
-**Respuestas:** 1-b: RESICO no permite deducciones. 2-c: es un gasto personal. 3-b: arriba de 2,000 debe pagarse con medios electrónicos.
+3. Compraste equipo de 3,000 en efectivo. ¿Qué pasa? a) Se deduce igual · b) Se deduce el doble porque fue un pago en efectivo · c) Puede no deducirse por pagarlo en efectivo
+**Respuestas:** 1-b: RESICO no permite deducciones. 2-c: es un gasto personal. 3-c: arriba de 2,000 debe pagarse con medios electrónicos.
 
 
 
@@ -691,10 +691,10 @@ A Gael le rechazaron una factura porque el código postal no coincidía.
 
 #### Quiz
 
-1. ¿Por dónde te avisa el SAT? a) Por redes sociales · b) Por el buzón tributario · c) Por una llamada de un número desconocido
-2. ¿Qué institución te orienta gratis frente al SAT? a) PRODECON · b) CONDUSEF · c) Profeco
-3. Un mes no facturaste. ¿Qué haces? a) Nada · b) Presentar la declaración en ceros, si te corresponde · c) Facturar algo para no quedar en ceros
-**Respuestas:** 1-b: es el canal oficial. 2-a: defiende al contribuyente. 3-b: no presentarla genera multas.
+1. ¿Por dónde te avisa el SAT? a) Por redes sociales · b) Por una llamada de un número desconocido · c) Por el buzón tributario
+2. ¿Qué institución te orienta gratis frente al SAT? a) CONDUSEF · b) Profeco · c) PRODECON
+3. Un mes no facturaste. ¿Qué haces? a) Nada · b) Facturar algo aunque sea pequeño para no quedar en ceros ese mes · c) Presentar la declaración en ceros, si te corresponde
+**Respuestas:** 1-c: es el canal oficial. 2-c: defiende al contribuyente. 3-c: no presentarla genera multas.
 
 
 
@@ -869,10 +869,10 @@ Toño solo tiene ingresos en RESICO y quiere deducir sus lentes.
 
 #### Quiz
 
-1. ¿Qué gasto puede ser deducción personal? a) Tu consulta de psicología con factura, pagada con tarjeta · b) Tu súper · c) Tus vacaciones
+1. ¿Qué gasto puede ser deducción personal? a) Tu súper del mes, si pagas con tarjeta y guardas el ticket de compra · b) Tus vacaciones · c) Tu consulta de psicología con factura, pagada con tarjeta
 2. ¿Quién NO usa deducciones personales para esos ingresos? a) Quien cobra por asimilados · b) Quien está en Actividad Empresarial · c) Quien está en RESICO
 3. ¿Qué pasa si la CLABE de tu devolución no está a tu nombre? a) Llega igual · b) La devolución se rechaza · c) Te la mandan en efectivo
-**Respuestas:** 1-a: con factura y pago electrónico. 2-c: RESICO no usa deducciones personales. 3-b: la cuenta debe ser tuya.
+**Respuestas:** 1-c: con factura y pago electrónico. 2-c: RESICO no usa deducciones personales. 3-b: la cuenta debe ser tuya.
 
 
 

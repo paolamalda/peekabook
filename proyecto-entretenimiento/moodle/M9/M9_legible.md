@@ -133,10 +133,10 @@ Le llaman a Toño diciendo que hay una denuncia en su contra y que pague para "a
 
 #### Quiz
 
-1. Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? a) Cuelgas y llamas al número oficial · b) Lo das para cancelar rápido · c) Lo mandas por WhatsApp
-2. ¿Qué gancho usa "si no pagas hoy, te bloqueamos"? a) Urgencia y miedo · b) Premio · c) Ninguno
-3. ¿Quién te puede pedir tu NIP por teléfono? a) Nadie · b) Tu banco · c) CONDUSEF
-**Respuestas:** 1-a: la regla de oro. 2-a: te presiona para no pensar. 3-a: ninguna institución lo pide.
+1. Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? a) Lo das para cancelar rápido · b) Lo mandas por WhatsApp al número que te llamó · c) Cuelgas y llamas al número oficial
+2. ¿Qué gancho usa "si no pagas hoy, te bloqueamos"? a) Premio, porque te ofrecen algo · b) Ninguno · c) Urgencia y miedo
+3. ¿Quién te puede pedir tu NIP por teléfono? a) Tu banco · b) CONDUSEF · c) Nadie
+**Respuestas:** 1-c: la regla de oro. 2-c: te presiona para no pensar. 3-c: ninguna institución lo pide.
 
 
 
@@ -303,10 +303,10 @@ El casting de Valeria es en una casa particular y le piden ir sola.
 
 #### Quiz
 
-1. Te piden pagar por audicionar. ¿Qué es? a) Señal de falso casting · b) Algo normal · c) Un seguro
-2. ¿Cuándo entregas tu INE a una productora? a) Cuando ya firmaste con una empresa verificada · b) Desde el primer mensaje · c) Por Instagram
-3. ¿Cómo verificas una convocatoria? a) En el sitio y contacto oficial de la productora · b) Por el logotipo · c) Por los "me gusta"
-**Respuestas:** 1-a: las producciones reales no cobran. 2-a: tus datos valen. 3-a: los logotipos se copian.
+1. Te piden pagar por audicionar. ¿Qué es? a) Algo normal · b) Un seguro para tu audición · c) Señal de falso casting
+2. ¿Cuándo entregas tu INE a una productora? a) Cuando ya firmaste con una empresa verificada · b) Desde el primer mensaje · c) Por Instagram, cuando te lo pidan por mensaje directo
+3. ¿Cómo verificas una convocatoria? a) Por el logotipo · b) Por los "me gusta" y seguidores de la cuenta que publica · c) En el sitio y contacto oficial de la productora
+**Respuestas:** 1-c: las producciones reales no cobran. 2-a: tus datos valen. 3-c: los logotipos se copian.
 
 
 
@@ -473,10 +473,10 @@ Un correo le dice a Gael que tiene un reembolso del SAT y le pide su cuenta y su
 
 #### Quiz
 
-1. ¿Cómo entras a tu banco de forma segura? a) Desde la app oficial o escribiendo la dirección · b) Desde el enlace del mensaje · c) Desde un anuncio
-2. ¿Qué ayuda a proteger tus cuentas? a) Verificación en dos pasos · b) Usar la misma contraseña · c) Compartir tu código
-3. Ya escribiste tus claves en una página falsa. ¿Qué haces primero? a) Llamas a tu banco para bloquear · b) Esperas · c) Borras el mensaje y ya
-**Respuestas:** 1-a: evitas páginas falsas. 2-a: agrega una capa de seguridad. 3-a: cada minuto cuenta.
+1. ¿Cómo entras a tu banco de forma segura? a) Desde la app oficial o escribiendo la dirección · b) Desde el enlace del mensaje · c) Desde un anuncio patrocinado en tus redes sociales
+2. ¿Qué ayuda a proteger tus cuentas? a) Usar la misma contraseña · b) Compartir tu código · c) Verificación en dos pasos
+3. Ya escribiste tus claves en una página falsa. ¿Qué haces primero? a) Llamas a tu banco para bloquear · b) Esperas · c) Borras el mensaje y sigues con tu día
+**Respuestas:** 1-a: evitas páginas falsas. 2-c: agrega una capa de seguridad. 3-a: cada minuto cuenta.
 
 
 
@@ -646,10 +646,10 @@ A Renata le llega una tarjeta de crédito que nunca pidió.
 
 #### Quiz
 
-1. ¿Qué es una señal de robo de identidad? a) Un crédito en tu reporte que no pediste · b) Tu estado de cuenta mensual · c) Una promoción de tu banco
-2. ¿Qué escribes en una copia de tu INE? a) Para qué es y la fecha · b) Tu contraseña · c) Nada
-3. ¿Qué te ayuda a probar que no pediste un crédito? a) Denuncia, reclamaciones y folios · b) Un mensaje en redes · c) Pagarlo
-**Respuestas:** 1-a: alguien usó tus datos. 2-a: limita su uso. 3-a: son tus pruebas.
+1. ¿Qué es una señal de robo de identidad? a) Tu estado de cuenta mensual · b) Una promoción nueva de tu banco por correo · c) Un crédito en tu reporte que no pediste
+2. ¿Qué escribes en una copia de tu INE? a) Tu contraseña · b) Nada, así sirve para cualquier trámite · c) Para qué es y la fecha
+3. ¿Qué te ayuda a probar que no pediste un crédito? a) Un mensaje en redes · b) Pagarlo para demostrar tu buena fe · c) Denuncia, reclamaciones y folios
+**Respuestas:** 1-c: alguien usó tus datos. 2-c: limita su uso. 3-c: son tus pruebas.
 
 
 
@@ -821,10 +821,10 @@ Renata dejó de trabajar con su mánager, que aún tiene su contraseña.
 
 #### Quiz
 
-1. ¿Qué cuenta proteges primero? a) Tu correo · b) Tu juego favorito · c) Ninguna
-2. Te roban tu cuenta y piden rescate. ¿Qué haces? a) Recuperas por la vía oficial y no pagas · b) Pagas para recuperarla rápido · c) Abres otra cuenta y olvidas la anterior
-3. ¿Cómo das acceso a tu equipo a tus redes? a) Con roles de la plataforma · b) Con tu contraseña · c) Con tu celular
-**Respuestas:** 1-a: es la llave de todo. 2-a: pagar alimenta la extorsión. 3-a: así controlas y retiras accesos.
+1. ¿Qué cuenta proteges primero? a) Tu juego favorito · b) Ninguna · c) Tu correo
+2. Te roban tu cuenta y piden rescate. ¿Qué haces? a) Pagas para recuperarla rápido · b) Recuperas por la vía oficial y no pagas · c) Abres otra cuenta y olvidas la anterior
+3. ¿Cómo das acceso a tu equipo a tus redes? a) Con roles de la plataforma · b) Con tu contraseña · c) Con tu celular, prestándolo cuando haga falta
+**Respuestas:** 1-c: es la llave de todo. 2-b: pagar alimenta la extorsión. 3-a: así controlas y retiras accesos.
 
 
 
@@ -991,9 +991,9 @@ Una app de préstamos le pide a Toño acceso a sus contactos y a su galería.
 #### Quiz
 
 1. ¿Dónde verificas si una financiera está registrada? a) SIPRES de CONDUSEF · b) Tienda de apps · c) Sus redes
-2. Una app te amenaza con publicar tus fotos si no pagas. ¿Qué haces? a) No pagas y denuncias al 088 · b) Pagas para que pare · c) Pides otro préstamo para pagar
-3. Te piden un pago antes de prestarte. ¿Qué es? a) Señal de fraude · b) Normal · c) Una comisión legal
-**Respuestas:** 1-a: es el registro oficial. 2-a: pagar no detiene la extorsión. 3-a: nadie legítimo cobra antes.
+2. Una app te amenaza con publicar tus fotos si no pagas. ¿Qué haces? a) Pagas para que pare · b) No pagas y denuncias al 088 · c) Pides otro préstamo para pagar
+3. Te piden un pago antes de prestarte. ¿Qué es? a) Normal · b) Una comisión legal · c) Señal de fraude
+**Respuestas:** 1-a: es el registro oficial. 2-b: pagar no detiene la extorsión. 3-c: nadie legítimo cobra antes.
 
 
 
@@ -1162,10 +1162,10 @@ Un anuncio con un famoso promete a Toño duplicar su dinero en criptomonedas en 
 
 #### Quiz
 
-1. Te prometen 10% mensual garantizado. ¿Qué es? a) Señal de fraude · b) Una buena inversión · c) Un Cete
-2. Te pagan bonos por invitar gente. ¿Qué es? a) Esquema piramidal · b) Inversión regulada · c) Ahorro
-3. ¿Dónde revisas advertencias sobre entidades no autorizadas? a) CNBV · b) Redes sociales · c) El grupo de inversión
-**Respuestas:** 1-a: nadie garantiza eso. 2-a: depende de que entren más personas. 3-a: la CNBV publica advertencias.
+1. Te prometen 10% mensual garantizado. ¿Qué es? a) Una buena inversión · b) Un Cete · c) Señal de fraude
+2. Te pagan bonos por invitar gente. ¿Qué es? a) Inversión regulada · b) Ahorro · c) Esquema piramidal
+3. ¿Dónde revisas advertencias sobre entidades no autorizadas? a) Redes sociales · b) CNBV · c) El grupo de inversión
+**Respuestas:** 1-c: nadie garantiza eso. 2-c: depende de que entren más personas. 3-b: la CNBV publica advertencias.
 
 
 
@@ -1331,10 +1331,10 @@ Usaron el nombre de Valeria para pedir dinero a sus seguidores.
 
 #### Quiz
 
-1. ¿Qué haces primero ante cargos que no reconoces? a) Bloquear tus tarjetas · b) Esperar al estado de cuenta · c) Publicarlo en redes
+1. ¿Qué haces primero ante cargos que no reconoces? a) Esperar al estado de cuenta · b) Publicarlo en redes · c) Bloquear tus tarjetas
 2. ¿A qué número reportas delitos en línea? a) 088 · b) 911 para todo · c) Al número del mensaje
-3. ¿Qué guardas como evidencia? a) Capturas, números, estados de cuenta y folios · b) Nada · c) Solo tu contraseña
-**Respuestas:** 1-a: evita más cargos. 2-a: es la línea de la Guardia Nacional para delitos en línea. 3-a: sin evidencia es difícil reclamar.
+3. ¿Qué guardas como evidencia? a) Nada · b) Solo tu contraseña, para que la revisen · c) Capturas, números, estados de cuenta y folios
+**Respuestas:** 1-c: evita más cargos. 2-a: es la línea de la Guardia Nacional para delitos en línea. 3-c: sin evidencia es difícil reclamar.
 
 
 

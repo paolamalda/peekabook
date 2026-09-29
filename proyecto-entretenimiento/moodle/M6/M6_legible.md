@@ -137,10 +137,10 @@ Valeria quiere pagar una cena de 4,000 con tarjeta y no tiene pagos por cobrar e
 
 #### Quiz
 
-1. Tu línea es 40,000 y debes 15,000. ¿Cuánto dinero tuyo hay ahí? a) 25,000 · b) Nada · c) 40,000
-2. Te suben la línea. ¿Qué significa? a) Te pagan más · b) Te pueden prestar más · c) Ya no tienes deuda
-3. ¿Qué pregunta haces antes de usar crédito? a) ¿Cuántos puntos gano? · b) ¿Con qué ingreso lo pagaré y cuándo? · c) ¿Cuánto disponible me queda?
-**Respuestas:** 1-b: el disponible es crédito, no dinero tuyo. 2-b: es más deuda posible. 3-b: sin plan de pago no conviene.
+1. Tu línea es 40,000 y debes 15,000. ¿Cuánto dinero tuyo hay ahí? a) 25,000 · b) 40,000 · c) Nada
+2. Te suben la línea. ¿Qué significa? a) Te pueden prestar más · b) Te pagan más · c) Ya no tienes deuda
+3. ¿Qué pregunta haces antes de usar crédito? a) ¿Cuántos puntos gano? · b) ¿Cuánto disponible me queda después de esta compra? · c) ¿Con qué ingreso lo pagaré y cuándo?
+**Respuestas:** 1-c: el disponible es crédito, no dinero tuyo. 2-a: es más deuda posible. 3-c: sin plan de pago no conviene.
 
 
 
@@ -309,10 +309,10 @@ Toño olvida la fecha límite y se atrasa dos días.
 
 #### Quiz
 
-1. ¿Qué pago te evita pagar intereses ese mes? a) Pago mínimo · b) Pago para no generar intereses · c) Cualquier pago
+1. ¿Qué pago te evita pagar intereses ese mes? a) Pago mínimo · b) Cualquier pago, aunque sea menor al mínimo · c) Pago para no generar intereses
 2. ¿Qué fecha marca el último día para pagar sin atraso? a) Fecha de corte · b) Fecha límite de pago · c) Fecha de emisión
-3. Deuda de 20,000 al 4% mensual más IVA. Pagando 1,000 al mes, ¿cuánto pagas en total? a) Unos 20,000 · b) Unos 58,000 · c) Unos 24,000
-**Respuestas:** 1-b: cubre las compras del periodo. 2-b: después hay atraso. 3-b: casi el triple por pagar poco.
+3. Deuda de 20,000 al 4% mensual más IVA. Pagando 1,000 al mes, ¿cuánto pagas en total? a) Unos 58,000 · b) Unos 20,000 · c) Unos 24,000
+**Respuestas:** 1-c: cubre las compras del periodo. 2-b: después hay atraso. 3-a: casi el triple por pagar poco.
 
 
 
@@ -482,10 +482,10 @@ Toño necesita un micrófono de 12,000 para trabajar y no tiene otras mensualida
 
 #### Quiz
 
-1. ¿Qué compra conviene más a MSI? a) Equipo de trabajo planeado · b) Una cena · c) Un viaje de fin de semana
-2. Tienes mensualidades de 1,500, 2,000 y 800. ¿Cuánto pagas al mes? a) 4,300 · b) 2,000 · c) 3,500
-3. ¿Qué preguntas antes de comprar a MSI? a) El precio de contado · b) El color de la caja · c) Cuántos puntos te dan
-**Respuestas:** 1-a: dura más que los pagos y te genera ingreso. 2-a: 1,500 + 2,000 + 800. 3-a: a veces el precio a MSI es más alto.
+1. ¿Qué compra conviene más a MSI? a) Una cena · b) Equipo de trabajo planeado · c) Un viaje de fin de semana
+2. Tienes mensualidades de 1,500, 2,000 y 800. ¿Cuánto pagas al mes? a) 2,000 · b) 4,300 · c) 3,500
+3. ¿Qué preguntas antes de comprar a MSI? a) El color de la caja · b) El precio de contado · c) Cuántos puntos te dan
+**Respuestas:** 1-b: dura más que los pagos y te genera ingreso. 2-b: 1,500 + 2,000 + 800. 3-b: a veces el precio a MSI es más alto.
 
 
 
@@ -654,10 +654,10 @@ En su reporte aparece un crédito de tienda que Renata creía liquidado.
 
 #### Quiz
 
-1. ¿Qué dato NO necesitas en tu inventario? a) Saldo · b) Color de la tarjeta · c) Fecha límite
+1. ¿Qué dato NO necesitas en tu inventario? a) Color de la tarjeta · b) Saldo · c) Fecha límite de pago de cada tarjeta
 2. ¿Incluyes la deuda con tu hermano? a) Sí · b) No, porque no cobra intereses · c) Solo si te la cobra
-3. ¿Dónde confirmas tus deudas reportadas? a) En tus reportes de Buró y Círculo · b) En redes sociales · c) En tu declaración anual
-**Respuestas:** 1-b: no ayuda al plan. 2-a: también es un compromiso. 3-a: ahí aparecen los créditos a tu nombre.
+3. ¿Dónde confirmas tus deudas reportadas? a) En redes sociales · b) En tus reportes de Buró y Círculo · c) En tu declaración anual, en la parte de deudas
+**Respuestas:** 1-a: no ayuda al plan. 2-a: también es un compromiso. 3-b: ahí aparecen los créditos a tu nombre.
 
 
 
@@ -827,10 +827,10 @@ Renata calcula su capacidad con su promedio de 35,000, pero su mes bajo es de 15
 
 #### Quiz
 
-1. Mes bajo de 30,000 y pagos de deuda de 6,000. ¿En qué zona estás? a) Verde (20%) · b) Amarilla · c) Roja
-2. ¿Con qué mes decides cuánta deuda puedes tener? a) El mejor · b) El promedio · c) Tu mes bajo
-3. Te aprueban un crédito que te llevaría a 45% de tu mes bajo. ¿Qué haces? a) Lo aceptas · b) No lo tomas o pides menos · c) Pides otro más
-**Respuestas:** 1-a: 6,000 es 20% de 30,000. 2-c: así aguantas los meses sin trabajo. 3-b: estarías en zona roja.
+1. Mes bajo de 30,000 y pagos de deuda de 6,000. ¿En qué zona estás? a) Amarilla · b) Roja · c) Verde (20%)
+2. ¿Con qué mes decides cuánta deuda puedes tener? a) Tu mes bajo · b) El mejor · c) El promedio
+3. Te aprueban un crédito que te llevaría a 45% de tu mes bajo. ¿Qué haces? a) Lo aceptas · b) Pides otro crédito más para tener margen · c) No lo tomas o pides menos
+**Respuestas:** 1-c: 6,000 es 20% de 30,000. 2-a: así aguantas los meses sin trabajo. 3-c: estarías en zona roja.
 
 
 
@@ -1001,10 +1001,10 @@ Renata no tiene para la renta y piensa en un préstamo por app.
 
 #### Quiz
 
-1. ¿Qué es un faltante recurrente? a) No tener para tu vida diaria en los meses sin trabajo · b) Un accidente · c) Una reparación urgente
+1. ¿Qué es un faltante recurrente? a) Un accidente · b) No tener para tu vida diaria en los meses sin trabajo · c) Una reparación urgente del auto que usas para ir a tus llamados
 2. ¿Qué usas primero en la sequía? a) La tarjeta · b) Tu fondo de sequía · c) Un préstamo por app
-3. Se acaba tu fondo y no hay trabajo. ¿Qué haces antes de atrasarte? a) Hablas con tus acreedores · b) Dejas de pagar sin avisar · c) Pides a un prestamista informal
-**Respuestas:** 1-a: se repite y se prepara. 2-b: para eso existe. 3-a: negociar antes evita atrasos.
+3. Se acaba tu fondo y no hay trabajo. ¿Qué haces antes de atrasarte? a) Dejas de pagar sin avisar · b) Pides a un prestamista informal · c) Hablas con tus acreedores
+**Respuestas:** 1-b: se repite y se prepara. 2-b: para eso existe. 3-c: negociar antes evita atrasos.
 
 
 

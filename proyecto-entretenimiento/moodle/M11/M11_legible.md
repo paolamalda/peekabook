@@ -139,9 +139,9 @@ Toño no tiene deudas y su fondo está completo.
 #### Quiz
 
 1. ¿Qué apartas primero de un pago gordo? a) Impuestos · b) Un viaje · c) Un auto
-2. Cobras 100,000 más IVA. ¿Cuánto IVA apartas? a) 16,000 · b) 10,000 · c) 0
-3. ¿Cuándo repartes el pago? a) El mismo día que llega · b) En tres meses · c) Cuando se acabe
-**Respuestas:** 1-a: el IVA y el ISR no son tuyos. 2-a: 16% de 100,000. 3-a: antes de decidir compras.
+2. Cobras 100,000 más IVA. ¿Cuánto IVA apartas? a) 10,000 · b) 16,000 · c) 0
+3. ¿Cuándo repartes el pago? a) El mismo día que llega · b) En tres meses · c) Cuando se acabe lo que tenías en tu cuenta
+**Respuestas:** 1-a: el IVA y el ISR no son tuyos. 2-b: 16% de 100,000. 3-a: antes de decidir compras.
 
 
 
@@ -305,10 +305,10 @@ La AFORE de Gael tiene de los rendimientos más bajos.
 
 #### Quiz
 
-1. ¿Qué necesitas para localizar tu AFORE? a) Tu CURP · b) Tu RFC con contraseña del SAT · c) Tu número de tarjeta
-2. ¿Tu AFORE se pierde al dejar un trabajo? a) No · b) Sí · c) Solo después de 5 años
+1. ¿Qué necesitas para localizar tu AFORE? a) Tu RFC con contraseña del SAT · b) Tu número de tarjeta · c) Tu CURP
+2. ¿Tu AFORE se pierde al dejar un trabajo? a) Sí · b) Solo después de 5 años · c) No
 3. ¿Cuánto cuesta cambiarte de AFORE? a) Es gratis · b) 10% del saldo · c) Depende del gestor
-**Respuestas:** 1-a: la CURP identifica tu cuenta. 2-a: sigue siendo tuya. 3-a: el cambio es gratuito.
+**Respuestas:** 1-c: la CURP identifica tu cuenta. 2-c: sigue siendo tuya. 3-a: el cambio es gratuito.
 
 
 
@@ -474,10 +474,10 @@ Un gestor le ofrece a Gael tramitarle la Modalidad 40 con un préstamo para paga
 
 #### Quiz
 
-1. ¿Qué requisito de semanas pide la Modalidad 40? a) 52 semanas en los últimos cinco años · b) 1,000 semanas en un año · c) Ninguno
-2. ¿La Modalidad 40 da servicio médico? a) No · b) Sí · c) Solo a los hijos
-3. ¿Cuál es la modalidad para quien trabaja por su cuenta hoy y quiere servicio médico? a) Modalidad 10 · b) Modalidad 40 · c) Ninguna
-**Respuestas:** 1-a: es el requisito de la ley. 2-a: solo suma semanas para la pensión. 3-a: da seguridad social completa.
+1. ¿Qué requisito de semanas pide la Modalidad 40? a) 1,000 semanas en un año · b) 1,000 semanas cotizadas en un solo año · c) 52 semanas en los últimos cinco años
+2. ¿La Modalidad 40 da servicio médico? a) Sí · b) No · c) Solo a los hijos
+3. ¿Cuál es la modalidad para quien trabaja por su cuenta hoy y quiere servicio médico? a) Modalidad 40 · b) Ninguna · c) Modalidad 10
+**Respuestas:** 1-c: es el requisito de la ley. 2-b: solo suma semanas para la pensión. 3-c: da seguridad social completa.
 
 
 
@@ -639,10 +639,10 @@ Renata quiere poner su fondo de sequía en un PPR.
 
 #### Quiz
 
-1. ¿En qué régimen NO aplica la deducción del PPR? a) RESICO · b) Asimilados · c) Actividad Empresarial
-2. ¿Qué pasa si retiras tu PPR antes de tiempo? a) Pierdes el beneficio y te retienen impuestos · b) Nada · c) Ganas más
-3. ¿Con qué comparas un PPR? a) Con aportaciones voluntarias a tu AFORE · b) Con una tarjeta de crédito · c) Con un préstamo
-**Respuestas:** 1-a: RESICO no usa deducciones personales. 2-a: es para el retiro. 3-a: ambos son para el retiro.
+1. ¿En qué régimen NO aplica la deducción del PPR? a) Asimilados · b) RESICO · c) Actividad Empresarial
+2. ¿Qué pasa si retiras tu PPR antes de tiempo? a) Pierdes el beneficio y te retienen impuestos · b) Nada · c) Ganas más porque ya no pagas comisiones
+3. ¿Con qué comparas un PPR? a) Con una tarjeta de crédito · b) Con aportaciones voluntarias a tu AFORE · c) Con un préstamo personal a plazo largo
+**Respuestas:** 1-b: RESICO no usa deducciones personales. 2-a: es para el retiro. 3-b: ambos son para el retiro.
 
 
 
@@ -806,10 +806,10 @@ El fondo de Toño bajó 12% este año y quiere venderlo todo.
 
 #### Quiz
 
-1. ¿Qué es diversificar? a) Repartir en muchas inversiones · b) Poner todo en una acción · c) Guardar efectivo
-2. ¿Dónde verificas una casa de bolsa? a) CNBV · b) Redes sociales · c) Un grupo de chat
-3. Tu inversión de largo plazo baja 10%. ¿Qué haces? a) Recuerdas tu plazo y no vendes por miedo · b) Vendes todo · c) Pides prestado para comprar más
-**Respuestas:** 1-a: reduce el riesgo. 2-a: supervisa a los intermediarios. 3-a: las bajas son normales en el largo plazo.
+1. ¿Qué es diversificar? a) Poner todo en una acción · b) Guardar efectivo · c) Repartir en muchas inversiones
+2. ¿Dónde verificas una casa de bolsa? a) Redes sociales · b) CNBV · c) Un grupo de chat
+3. Tu inversión de largo plazo baja 10%. ¿Qué haces? a) Vendes todo · b) Recuerdas tu plazo y no vendes por miedo · c) Pides prestado para comprar más barato
+**Respuestas:** 1-c: reduce el riesgo. 2-b: supervisa a los intermediarios. 3-b: las bajas son normales en el largo plazo.
 
 
 
@@ -975,10 +975,10 @@ Toño cotizó años en nómina y ahora está en Modalidad 10.
 
 #### Quiz
 
-1. Departamento de 1,500,000 con enganche de 20%. ¿Cuánto es el enganche? a) 300,000 · b) 150,000 · c) 20,000
-2. ¿Con qué mes decides si la mensualidad cabe? a) Tu mes bajo · b) Tu mejor mes · c) El promedio de tus mejores meses
-3. ¿Qué te ayuda a obtener un crédito hipotecario como independiente? a) Impuestos en orden y buen historial · b) Muchas tarjetas · c) Pagar en efectivo
-**Respuestas:** 1-a: 20% de 1,500,000. 2-a: así aguantas la sequía. 3-a: demuestran tus ingresos y tu forma de pagar.
+1. Departamento de 1,500,000 con enganche de 20%. ¿Cuánto es el enganche? a) 150,000 · b) 20,000 · c) 300,000
+2. ¿Con qué mes decides si la mensualidad cabe? a) Tu mejor mes · b) Tu mes bajo · c) El promedio de tus mejores meses
+3. ¿Qué te ayuda a obtener un crédito hipotecario como independiente? a) Muchas tarjetas · b) Pagar todo en efectivo para que no te revisen · c) Impuestos en orden y buen historial
+**Respuestas:** 1-c: 20% de 1,500,000. 2-b: así aguantas la sequía. 3-c: demuestran tus ingresos y tu forma de pagar.
 
 
 
@@ -1144,10 +1144,10 @@ Valeria quiere lanzar una línea de ropa usando su fondo de sequía.
 
 #### Quiz
 
-1. 20 alumnos a 800 y costos de 14,000. ¿Ganancia antes de impuestos? a) 2,000 · b) 16,000 · c) 30,000
-2. ¿Qué es el punto de equilibrio? a) Lo que necesitas vender para cubrir tus costos · b) Tu ganancia máxima · c) Tu precio
-3. ¿Con qué capital inicias un negocio? a) Capital aparte, no tu fondo de sequía · b) Tu fondo de sequía · c) Un préstamo por app
-**Respuestas:** 1-a: 16,000 − 14,000. 2-a: por debajo pierdes. 3-a: protege tu colchón.
+1. 20 alumnos a 800 y costos de 14,000. ¿Ganancia antes de impuestos? a) 16,000 · b) 30,000 · c) 2,000
+2. ¿Qué es el punto de equilibrio? a) Tu ganancia máxima · b) Lo que necesitas vender para cubrir tus costos · c) Tu precio más alto posible
+3. ¿Con qué capital inicias un negocio? a) Tu fondo de sequía · b) Capital aparte, no tu fondo de sequía · c) Un préstamo por app que llega en minutos
+**Respuestas:** 1-c: 16,000 − 14,000. 2-b: por debajo pierdes. 3-b: protege tu colchón.
 
 
 
@@ -1310,10 +1310,10 @@ Gael no ha tomado un curso en cinco años.
 
 #### Quiz
 
-1. ¿Cuál es la etapa en que enseñas, diriges o produces? a) Transición · b) Formación · c) Ninguna
-2. ¿Cuándo preparas tu transición? a) Desde ahora · b) Cuando ya no haya trabajo · c) Nunca
-3. ¿Qué haces en tu mejor momento? a) Ahorrar, proteger y diversificar · b) Gastar todo · c) Dejar de aprender
-**Respuestas:** 1-a: es la etapa de cambio. 2-a: así es una elección. 3-a: las etapas cambian.
+1. ¿Cuál es la etapa en que enseñas, diriges o produces? a) Formación · b) Ninguna · c) Transición
+2. ¿Cuándo preparas tu transición? a) Cuando ya no haya trabajo · b) Nunca · c) Desde ahora
+3. ¿Qué haces en tu mejor momento? a) Gastar todo · b) Dejar de aprender y aprovechar el momento · c) Ahorrar, proteger y diversificar
+**Respuestas:** 1-c: es la etapa de cambio. 2-c: así es una elección. 3-c: las etapas cambian.
 
 
 
@@ -1484,10 +1484,10 @@ Toño tuvo que usar su fondo en una sequía larga.
 
 #### Quiz
 
-1. ¿Tu plan tiene que ser perfecto para empezar? a) No · b) Sí · c) Solo si tienes contador
-2. Usar tu fondo en una sequía, ¿es un fracaso? a) No, para eso es · b) Sí · c) Solo si fue mucho
-3. ¿Cada cuánto revisas tu plan? a) Cada tres meses o cuando algo cambie · b) Una vez en la vida · c) Nunca
-**Respuestas:** 1-a: claro y posible basta. 2-a: el fondo cumplió su función. 3-a: así sigue siendo útil.
+1. ¿Tu plan tiene que ser perfecto para empezar? a) Sí · b) Solo si tienes contador · c) No
+2. Usar tu fondo en una sequía, ¿es un fracaso? a) Sí · b) Solo si fue mucho · c) No, para eso es
+3. ¿Cada cuánto revisas tu plan? a) Una vez en la vida, cuando termines el curso · b) Nunca · c) Cada tres meses o cuando algo cambie
+**Respuestas:** 1-c: claro y posible basta. 2-c: el fondo cumplió su función. 3-c: así sigue siendo útil.
 
 
 

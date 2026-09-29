@@ -128,10 +128,10 @@ Renata teme pedir su reporte porque "le baja el score".
 
 #### Quiz
 
-1. ¿Qué hace el Buró de Crédito? a) Guarda tu historial de crédito · b) Presta dinero · c) Castiga a quien no paga
-2. ¿Quién decide si te dan un crédito? a) El Buró · b) La institución a la que se lo pides · c) CONDUSEF
+1. ¿Qué hace el Buró de Crédito? a) Presta dinero · b) Castiga a quien no paga sus créditos · c) Guarda tu historial de crédito
+2. ¿Quién decide si te dan un crédito? a) El Buró · b) La institución a la que se lo pides · c) CONDUSEF, después de revisar tu historial completo
 3. ¿Consultar tu propio reporte baja tu score? a) Sí · b) No · c) Solo la primera vez
-**Respuestas:** 1-a: es una base de datos. 2-b: cada institución decide. 3-b: tu propia consulta no te afecta.
+**Respuestas:** 1-c: es una base de datos. 2-b: cada institución decide. 3-b: tu propia consulta no te afecta.
 
 
 
@@ -294,10 +294,10 @@ En el reporte de Círculo de Gael aparece una consulta de una financiera que no 
 
 #### Quiz
 
-1. ¿Cuántas sociedades de información crediticia para personas debes revisar? a) Una · b) Dos: Buró y Círculo · c) Ninguna
-2. Un crédito aparece solo en Buró. ¿Qué significa? a) Que es un error seguro · b) Que esa institución reporta a Buró · c) Que es fraude
-3. ¿Cada cuánto tienes un reporte gratis en cada una? a) Cada 12 meses · b) Cada 5 años · c) Nunca
-**Respuestas:** 1-b: cada institución reporta a una u otra. 2-b: no todas reportan a las dos. 3-a: es tu derecho por ley.
+1. ¿Cuántas sociedades de información crediticia para personas debes revisar? a) Dos: Buró y Círculo · b) Una · c) Ninguna, si nunca has pedido un crédito
+2. Un crédito aparece solo en Buró. ¿Qué significa? a) Que es un error seguro · b) Que es un fraude de la institución que reportó · c) Que esa institución reporta a Buró
+3. ¿Cada cuánto tienes un reporte gratis en cada una? a) Cada 5 años · b) Nunca · c) Cada 12 meses
+**Respuestas:** 1-a: cada institución reporta a una u otra. 2-c: no todas reportan a las dos. 3-c: es tu derecho por ley.
 
 
 
@@ -467,10 +467,10 @@ Valeria quiere revisar su historial cada seis meses sin pagar.
 
 #### Quiz
 
-1. ¿Dónde pides tu reporte gratis? a) En el sitio oficial de cada sociedad · b) En un anuncio de redes · c) Con un gestor
-2. ¿Cada cuánto es gratis en cada sociedad? a) Cada 12 meses · b) Cada mes · c) Cada 5 años
-3. ¿Cómo revisas tu historial cada seis meses sin pagar? a) Alternando Buró y Círculo · b) Pidiendo dos veces en Buró · c) No se puede
-**Respuestas:** 1-a: evita robo de identidad. 2-a: es tu derecho por ley. 3-a: cada sociedad te da uno gratis al año.
+1. ¿Dónde pides tu reporte gratis? a) En un anuncio de redes · b) Con un gestor que te lo consigue más rápido · c) En el sitio oficial de cada sociedad
+2. ¿Cada cuánto es gratis en cada sociedad? a) Cada mes · b) Cada 5 años · c) Cada 12 meses
+3. ¿Cómo revisas tu historial cada seis meses sin pagar? a) Pidiendo dos veces en Buró · b) Alternando Buró y Círculo · c) No se puede
+**Respuestas:** 1-c: evita robo de identidad. 2-c: es tu derecho por ley. 3-b: cada sociedad te da uno gratis al año.
 
 
 
@@ -635,10 +635,10 @@ Renata ve siete consultas de financieras en dos meses; solo pidió dos créditos
 
 #### Quiz
 
-1. ¿Qué parte del reporte muestra si pagaste a tiempo? a) La forma de pago · b) Los domicilios · c) El RFC
-2. ¿Qué explica una clave de observación? a) Una situación especial de una cuenta · b) Tu edad · c) Tu régimen fiscal
-3. Una cuenta que liquidaste aparece con saldo. ¿Qué haces? a) Reclamas con tu carta de liquidación · b) La pagas otra vez · c) Nada
-**Respuestas:** 1-a: muestra puntualidad o atraso. 2-a: por ejemplo, una quita. 3-a: con tu comprobante se corrige.
+1. ¿Qué parte del reporte muestra si pagaste a tiempo? a) Los domicilios · b) El RFC · c) La forma de pago
+2. ¿Qué explica una clave de observación? a) Tu edad · b) Tu régimen fiscal ante el SAT · c) Una situación especial de una cuenta
+3. Una cuenta que liquidaste aparece con saldo. ¿Qué haces? a) Reclamas con tu carta de liquidación · b) La pagas otra vez para que ya no aparezca · c) Nada
+**Respuestas:** 1-c: muestra puntualidad o atraso. 2-c: por ejemplo, una quita. 3-a: con tu comprobante se corrige.
 
 
 
@@ -803,10 +803,10 @@ A Toño le ofrecen subir su score 150 puntos por 3,000.
 
 #### Quiz
 
-1. Saldo de 9,000 en una línea de 30,000. ¿Qué uso de línea tienes? a) 30% · b) 9% · c) 70%
-2. ¿Qué acción ayuda más a tu score? a) Pagar a tiempo · b) Pedir muchas tarjetas · c) Pagar por subirlo
-3. ¿El score viene en tu reporte gratuito? a) No, es un producto aparte · b) Sí, siempre · c) Solo en Círculo
-**Respuestas:** 1-a: 9,000 ÷ 30,000. 2-a: la puntualidad es lo más importante. 3-a: en general tiene costo.
+1. Saldo de 9,000 en una línea de 30,000. ¿Qué uso de línea tienes? a) 9% · b) 70% · c) 30%
+2. ¿Qué acción ayuda más a tu score? a) Pedir muchas tarjetas · b) Pagar a tiempo · c) Pagar por subirlo
+3. ¿El score viene en tu reporte gratuito? a) No, es un producto aparte · b) Sí, siempre · c) Solo en Círculo de Crédito, no en Buró
+**Respuestas:** 1-c: 9,000 ÷ 30,000. 2-b: la puntualidad es lo más importante. 3-a: en general tiene costo.
 
 
 
@@ -976,10 +976,10 @@ Gael piensa no pagar una deuda y esperar a que se elimine.
 
 #### Quiz
 
-1. Deuda de 20 UDIS. ¿Después de cuánto se elimina? a) 1 año · b) 6 años · c) Nunca
-2. Deuda de 2,000 UDIS sin juicio ni fraude. ¿Plazo? a) 2 años · b) 6 años · c) 10 años
-3. ¿Qué deudas no se eliminan por plazo? a) Las de más de 400,000 UDIS, en juicio o con fraude · b) Todas las de tarjeta · c) Las de tienda
-**Respuestas:** 1-a: hasta 25 UDIS es 1 año. 2-b: más de 1,000 UDIS es 6 años. 3-a: son las excepciones de la ley.
+1. Deuda de 20 UDIS. ¿Después de cuánto se elimina? a) 6 años · b) Nunca · c) 1 año
+2. Deuda de 2,000 UDIS sin juicio ni fraude. ¿Plazo? a) 6 años · b) 2 años · c) 10 años
+3. ¿Qué deudas no se eliminan por plazo? a) Todas las de tarjeta de crédito, sin importar el monto · b) Las de más de 400,000 UDIS, en juicio o con fraude · c) Las de tienda
+**Respuestas:** 1-c: hasta 25 UDIS es 1 año. 2-a: más de 1,000 UDIS es 6 años. 3-b: son las excepciones de la ley.
 
 
 
@@ -1144,10 +1144,10 @@ Gael reclamó hace meses y no le han resuelto.
 
 #### Quiz
 
-1. ¿Dónde reclamas un error de tu reporte? a) En la sociedad donde aparece · b) En el SAT · c) En redes sociales
-2. ¿Qué prueba sirve si ya pagaste? a) Tu carta de liquidación · b) Un mensaje a un amigo · c) Nada
-3. Tu reclamación no se resolvió. ¿A quién acudes? a) CONDUSEF · b) Profeco · c) Un despacho que limpia el Buró
-**Respuestas:** 1-a: ahí se corrige. 2-a: prueba que liquidaste. 3-a: CONDUSEF atiende a usuarios.
+1. ¿Dónde reclamas un error de tu reporte? a) En la sociedad donde aparece · b) En el SAT · c) En redes sociales, para que la institución responda
+2. ¿Qué prueba sirve si ya pagaste? a) Un mensaje a un amigo · b) Nada · c) Tu carta de liquidación
+3. Tu reclamación no se resolvió. ¿A quién acudes? a) Profeco · b) Un despacho que limpia el Buró · c) CONDUSEF
+**Respuestas:** 1-a: ahí se corrige. 2-c: prueba que liquidaste. 3-c: CONDUSEF atiende a usuarios.
 
 
 
@@ -1310,8 +1310,8 @@ A Valeria le llega una alerta de una consulta que no hizo.
 
 1. ¿Qué servicio impide que consulten tu historial? a) Bloqueo · b) Score · c) Reporte especial
 2. ¿Qué servicio te avisa de consultas y créditos nuevos? a) Alertas · b) Bloqueo · c) RECA
-3. Vas a pedir un crédito y tu historial está bloqueado. ¿Qué haces? a) Desbloqueas antes y vuelves a bloquear después · b) Pides el crédito así · c) Cancelas el bloqueo para siempre
-**Respuestas:** 1-a: el bloqueo previene. 2-a: las alertas avisan. 3-a: así no te rechazan un crédito legítimo.
+3. Vas a pedir un crédito y tu historial está bloqueado. ¿Qué haces? a) Pides el crédito así · b) Desbloqueas antes y vuelves a bloquear después · c) Cancelas el bloqueo para siempre y ya no lo usas
+**Respuestas:** 1-a: el bloqueo previene. 2-a: las alertas avisan. 3-b: así no te rechazan un crédito legítimo.
 
 
 
@@ -1476,9 +1476,9 @@ Un conocido le dice a Gael que tiene "un contacto en el Buró".
 #### Quiz
 
 1. Te prometen sacarte del Buró en 30 días por un pago. ¿Qué es? a) Fraude · b) Un servicio oficial · c) Una reclamación legal
-2. ¿Quién puede eliminar información correcta antes del plazo? a) Nadie · b) Un despacho con contactos · c) Un abogado caro
-3. Ya pagaste a un despacho falso. ¿Qué haces? a) Guardas pruebas, denuncias y reportas · b) Pagas más para que termine · c) Nada
-**Respuestas:** 1-a: nadie puede borrar información correcta. 2-a: solo el plazo legal. 3-a: así proteges tu dinero y a otras personas.
+2. ¿Quién puede eliminar información correcta antes del plazo? a) Un despacho con contactos · b) Nadie · c) Un abogado caro
+3. Ya pagaste a un despacho falso. ¿Qué haces? a) Pagas un poco más para que terminen el trámite · b) Nada · c) Guardas pruebas, denuncias y reportas
+**Respuestas:** 1-a: nadie puede borrar información correcta. 2-b: solo el plazo legal. 3-c: así proteges tu dinero y a otras personas.
 
 
 
@@ -1649,10 +1649,10 @@ Renata pide tarjetas en tres bancos el mismo mes "para ver cuál la aprueba".
 
 #### Quiz
 
-1. ¿Qué ayuda a tu historial? a) Pagar a tiempo y mantener saldos bajos · b) Pedir muchas tarjetas · c) Pagar a un despacho
-2. No tienes historial. ¿Cómo empiezas? a) Con un producto pequeño que pagas completo · b) Con un crédito grande · c) Con un préstamo por app
-3. ¿Cada cuánto revisas tus reportes mientras mejoras? a) Cada seis meses · b) Cada cinco años · c) Nunca
-**Respuestas:** 1-a: constancia y saldos bajos. 2-a: construyes historial sin riesgo grande. 3-a: alternando Buró y Círculo, sin costo.
+1. ¿Qué ayuda a tu historial? a) Pedir muchas tarjetas · b) Pagar a un despacho que mejore tu historial · c) Pagar a tiempo y mantener saldos bajos
+2. No tienes historial. ¿Cómo empiezas? a) Con un crédito grande · b) Con un préstamo por app que no revisa tu historial · c) Con un producto pequeño que pagas completo
+3. ¿Cada cuánto revisas tus reportes mientras mejoras? a) Cada cinco años · b) Nunca · c) Cada seis meses
+**Respuestas:** 1-c: constancia y saldos bajos. 2-c: construyes historial sin riesgo grande. 3-c: alternando Buró y Círculo, sin costo.
 
 
 
