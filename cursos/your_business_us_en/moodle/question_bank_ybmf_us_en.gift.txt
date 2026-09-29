@@ -1,0 +1,611 @@
+$CATEGORY: $course$/Your Business US EN/M1
+
+::M1 U01 P1::You sell $3,000 and your costs are $2,200. How much do you earn? {
+	=$800 #Correct! $3,000 minus $2,200.
+	~$3,000 #Not the best option. $3,000 minus $2,200.
+	~$5,200 #Not the best option. $3,000 minus $2,200.
+}
+
+::M1 U01 P2::What is profit? {
+	~Everything you charge customers in the month, in cash and through apps #Not the best option. Sales minus costs.
+	=What's left after paying all costs #Correct! Sales minus costs.
+	~What's in your account at closing #Not the best option. Sales minus costs.
+}
+
+::M1 U01 P3::Your sales and costs are the same. What happens? {
+	~You earn a little, but the business does leave you something #Not the best option. Nothing is left for you.
+	~You lose money every month #Not the best option. Nothing is left for you.
+	=You break even\: you work for free #Correct! Nothing is left for you.
+}
+
+::M1 U02 P1::Where do you pay business materials from? {
+	~Your household account #Not the best option. Each pocket pays its own.
+	=The business account #Correct! Each pocket pays its own.
+	~Whatever you have that day in your wallet or cash box #Not the best option. Each pocket pays its own.
+}
+
+::M1 U02 P2::You use $200 from the business for a household emergency. What do you do? {
+	~Forget it, it's your business anyway #Not the best option. That way it doesn't get lost.
+	~Cover it with your credit card and forget about it #Not the best option. That way it doesn't get lost.
+	=Write it down as a loan and pay it back #Correct! That way it doesn't get lost.
+}
+
+::M1 U02 P3::How much does the FDIC insure per depositor, per bank, per ownership category? {
+	=$250,000 #Correct! Per depositor, bank and category.
+	~$25,000 #Not the best option. Per depositor, bank and category.
+	~Everything you have, no limit #Not the best option. Per depositor, bank and category.
+}
+
+::M1 U03 P1::Your profit is $2,000 and you set aside 25% for taxes. How much is that? {
+	~$250 #Not the best option. 25% of $2,000.
+	~$2,000 #Not the best option. 25% of $2,000.
+	=$500 #Correct! 25% of $2,000.
+}
+
+::M1 U03 P2::You had an excellent week. What do you do? {
+	=Pay yourself your salary and set the extra aside #Correct! The extra gets set aside.
+	~Take all the extra home because you earned it #Not the best option. The extra gets set aside.
+	~Raise your salary starting that day #Not the best option. The extra gets set aside.
+}
+
+::M1 U03 P3::Why do you set aside taxes as an owner? {
+	=Because nobody withholds them for you #Correct! You pay them yourself.
+	~Because the bank asks you to when you open the account #Not the best option. You pay them yourself.
+	~There's no need\: they pay themselves #Not the best option. You pay them yourself.
+}
+
+::M1 U04 P1::What's the minimum you write down every day? {
+	~Only the big sales #Not the best option. That's enough.
+	~Whatever you remember on Sunday #Not the best option. That's enough.
+	=Date, sales and expenses #Correct! That's enough.
+}
+
+::M1 U04 P2::What do you need to deduct miles? {
+	=A log of each trip #Correct! No log, no deduction.
+	~Only the month's gas receipt #Not the best option. No log, no deduction.
+	~Nothing, it's calculated automatically #Not the best option. No log, no deduction.
+}
+
+::M1 U04 P3::An app asks for your bank password. What do you do? {
+	~Give it if the app is free and has good reviews #Not the best option. It asks for too much.
+	=Don't give it and choose another tool #Correct! It asks for too much.
+	~Give only your Social Security number #Not the best option. It asks for too much.
+}
+
+$CATEGORY: $course$/Your Business US EN/M2
+
+::M2 U01 P1::Which of these is a variable cost? {
+	~Your online store subscription #Not the best option. It goes up with each sale.
+	=The packaging for each order #Correct! It goes up with each sale.
+	~Your phone plan #Not the best option. It goes up with each sale.
+}
+
+::M2 U01 P2::Your fixed costs are $600 and you sell 200 pieces a month. How much fixed cost goes to each piece? {
+	=$3 #Correct! $600 divided by 200.
+	~$30 #Not the best option. $600 divided by 200.
+	~$600 #Not the best option. $600 divided by 200.
+}
+
+::M2 U01 P3::Is your salary a business cost? {
+	~No, it's profit #Not the best option. Without it you work for free.
+	~Only if something is left at the end of the month #Not the best option. Without it you work for free.
+	=Yes, it's a fixed cost #Correct! Without it you work for free.
+}
+
+::M2 U02 P1::Your cost is $35. What is the minimum price for a 30% margin on price? {
+	~$45.50 #Not the best option. $35 divided by 0.70.
+	~$35 #Not the best option. $35 divided by 0.70.
+	=$50 #Correct! $35 divided by 0.70.
+}
+
+::M2 U02 P2::When should you never sell? {
+	=Below your cost #Correct! You lose on every sale.
+	~Higher than the competition #Not the best option. You lose on every sale.
+	~With a written guarantee for your customer #Not the best option. You lose on every sale.
+}
+
+::M2 U02 P3::Your materials went up. What do you do? {
+	~Use cheaper materials without telling your customers #Not the best option. With notice and clarity.
+	=Recalculate your cost and announce the new price #Correct! With notice and clarity.
+	~Wait for prices to drop on their own #Not the best option. With notice and clarity.
+}
+
+::M2 U03 P1::Fixed costs of $3,000 and each sale leaves 50%. Break-even point? {
+	~$1,500 #Not the best option. $3,000 divided by 0.50.
+	=$6,000 #Correct! $3,000 divided by 0.50.
+	~$3,500 #Not the best option. $3,000 divided by 0.50.
+}
+
+::M2 U03 P2::You sell less than your break-even point. What happens? {
+	~You earn a little #Not the best option. You don't cover your costs.
+	~You're even #Not the best option. You don't cover your costs.
+	=You lose money #Correct! You don't cover your costs.
+}
+
+::M2 U03 P3::What lowers your break-even point? {
+	=Lowering fixed costs #Correct! You need to sell less.
+	~Renting a bigger place in a better area #Not the best option. You need to sell less.
+	~Giving customers more credit #Not the best option. You need to sell less.
+}
+
+::M2 U04 P1::What is waste? {
+	~The volume discount your supplier gives you #Not the best option. Money thrown away.
+	=What goes bad or can no longer be sold #Correct! Money thrown away.
+	~New merchandise #Not the best option. Money thrown away.
+}
+
+::M2 U04 P2::You have 30 pieces that don't sell. What do you do? {
+	=Offer them at a discount #Correct! Money sitting still.
+	~Buy more to display #Not the best option. Money sitting still.
+	~Keep them just in case #Not the best option. Money sitting still.
+}
+
+::M2 U04 P3::When does a "buy more" deal pay off? {
+	~Always #Not the best option. Otherwise it's expensive.
+	~If the supplier is trustworthy and gives you a good price #Not the best option. Otherwise it's expensive.
+	=If you sell it all before it expires #Correct! Otherwise it's expensive.
+}
+
+$CATEGORY: $course$/Your Business US EN/M3
+
+::M3 U01 P1::You have $600, will collect $900 and will pay $1,700 this week. How do you end? {
+	~$200 left over #Not the best option. $600 plus $900 minus $1,700.
+	~$3,200 #Not the best option. $600 plus $900 minus $1,700.
+	=$200 short #Correct! $600 plus $900 minus $1,700.
+}
+
+::M3 U01 P2::What improves your cash flow? {
+	~Paying suppliers early so they treat you better #Not the best option. You collect earlier.
+	=Asking for deposits on big jobs #Correct! You collect earlier.
+	~Giving customers more time #Not the best option. You collect earlier.
+}
+
+::M3 U01 P3::Your calendar shows a gap in three weeks. What do you do? {
+	=Look for solutions starting today #Correct! Act ahead of time.
+	~Wait and see if it fixes itself #Not the best option. Act ahead of time.
+	~Get a quick advance the day it runs out #Not the best option. Act ahead of time.
+}
+
+::M3 U02 P1::What is selling on credit for your business? {
+	~A sale already collected #Not the best option. Money that hasn't come back.
+	=An interest-free loan to your customer #Correct! Money that hasn't come back.
+	~Extra profit #Not the best option. Money that hasn't come back.
+}
+
+::M3 U02 P2::A customer hasn't paid and places another order. What do you do? {
+	~Deliver so you don't lose them #Not the best option. Clear rule.
+	~Post their name on your social media to pressure them #Not the best option. Clear rule.
+	=No more credit until they pay #Correct! Clear rule.
+}
+
+::M3 U02 P3::What do you ask for on a big order? {
+	=A deposit and a written agreement #Correct! It protects you.
+	~Only their phone number #Not the best option. It protects you.
+	~Nothing\: trust is enough #Not the best option. It protects you.
+}
+
+::M3 U03 P1::Fixed costs of $1,500 a month. Reserve for 3 months? {
+	~$500 #Not the best option. $1,500 times 3.
+	~$1,500 #Not the best option. $1,500 times 3.
+	=$4,500 #Correct! $1,500 times 3.
+}
+
+::M3 U03 P2::Where should you keep the reserve? {
+	=In an insured savings account #Correct! Protected and available.
+	~In cash at home, where you always have it handy #Not the best option. Protected and available.
+	~In more inventory #Not the best option. Protected and available.
+}
+
+::M3 U03 P3::Your insurance costs $1,200 a year. How much do you set aside monthly? {
+	~$120 #Not the best option. $1,200 divided by 12.
+	=$100 #Correct! $1,200 divided by 12.
+	~$1,200 #Not the best option. $1,200 divided by 12.
+}
+
+$CATEGORY: $course$/Your Business US EN/M4
+
+::M4 U01 P1::You take $5,000 a month in cards and the fee is 3%. How much do you pay? {
+	=$150 #Correct! 3% of $5,000.
+	~$500 #Not the best option. 3% of $5,000.
+	~$15 #Not the best option. 3% of $5,000.
+}
+
+::M4 U01 P2::Are payments through apps business income? {
+	~No, if they're under $600 #Not the best option. All income is reported.
+	=Yes, however they arrive #Correct! All income is reported.
+	~Only if you receive a Form 1099-K #Not the best option. All income is reported.
+}
+
+::M4 U01 P3::Option A\: 2.6% with no monthly fee. Option B\: 2.3% plus $30 a month. You take $4,000 in cards. Which is cheaper, not counting flat fees? {
+	=A\: $104 #Correct! $104 versus $92 plus $30.
+	~B\: $122 #Not the best option. $104 versus $92 plus $30.
+	~They cost the same #Not the best option. $104 versus $92 plus $30.
+}
+
+::M4 U02 P1::When do you deliver an order paid through an app? {
+	~When they send you the screenshot #Not the best option. A screenshot isn't proof.
+	~When the customer swears on the phone they already paid #Not the best option. A screenshot isn't proof.
+	=When the money is available in your account #Correct! A screenshot isn't proof.
+}
+
+::M4 U02 P2::What do you share to get paid? {
+	=Your payment username or email #Correct! That's enough to get paid.
+	~Your password #Not the best option. That's enough to get paid.
+	~The code you got by text #Not the best option. That's enough to get paid.
+}
+
+::M4 U02 P3::An email says your payment is on hold until you pay for an "upgrade." What is it? {
+	~A normal app procedure #Not the best option. Apps don't charge that way.
+	=A scam\: check inside the app #Correct! Apps don't charge that way.
+	~A bank fee #Not the best option. Apps don't charge that way.
+}
+
+::M4 U03 P1::You're overpaid by check and asked for the difference. What do you do? {
+	~Send the difference as soon as the check shows as available #Not the best option. It's the overpayment scam.
+	=Send nothing back and ask for the exact amount #Correct! It's the overpayment scam.
+	~Send back half #Not the best option. It's the overpayment scam.
+}
+
+::M4 U03 P2::Your supplier writes that they changed accounts. What do you do? {
+	~Pay the new account #Not the best option. Confirm another way.
+	~Reply to the same email to confirm #Not the best option. Confirm another way.
+	=Call the number you already had #Correct! Confirm another way.
+}
+
+::M4 U03 P3::What is a sign of a scam when selling? {
+	=Rush, a big purchase and shipping to another address #Correct! Rush is a hook.
+	~A customer asking about sizes, colors and shipping times #Not the best option. Rush is a hook.
+	~A payment available for the exact amount #Not the best option. Rush is a hook.
+}
+
+$CATEGORY: $course$/Your Business US EN/M5
+
+::M5 U01 P1::Which business form starts without company paperwork? {
+	=Sole proprietor #Correct! You start when you sell.
+	~LLC #Not the best option. You start when you sell.
+	~Corporation #Not the best option. You start when you sell.
+}
+
+::M5 U01 P2::Your California LLC had no sales this year. Does it pay the minimum tax? {
+	~No, if it didn't sell #Not the best option. Even with no sales.
+	~Only if it earned over $10,000 #Not the best option. Even with no sales.
+	=Yes, $800 while it exists #Correct! Even with no sales.
+}
+
+::M5 U01 P3::What makes an LLC lose its protection? {
+	~Having insurance #Not the best option. The separation breaks.
+	=Mixing LLC money with yours #Correct! The separation breaks.
+	~Having its own LLC account #Not the best option. The separation breaks.
+}
+
+::M5 U02 P1::Where do you get your EIN? {
+	~From a private site that charges a fee #Not the best option. It's free.
+	=Free at irs.gov #Correct! It's free.
+	~At your bank #Not the best option. It's free.
+}
+
+::M5 U02 P2::What is the ITIN for? {
+	=Filing taxes if you can't get an SSN #Correct! IRS tax number.
+	~Working as an employee #Not the best option. IRS tax number.
+	~Voting #Not the best option. IRS tax number.
+}
+
+::M5 U02 P3::In California, when do you need a CSLB license? {
+	~Never for small painting or repair jobs #Not the best option. Rule in effect since 2025.
+	~Only if you have full-time employees #Not the best option. Rule in effect since 2025.
+	=For jobs over $1,000 or that require a permit #Correct! Rule in effect since 2025.
+}
+
+::M5 U03 P1::What is the self-employment tax rate? {
+	=15.3% #Correct! Social Security and Medicare.
+	~7.65% #Not the best option. Social Security and Medicare.
+	~2.5% #Not the best option. Social Security and Medicare.
+}
+
+::M5 U03 P2::You made $350 in business profit this year. Do you pay self-employment tax? {
+	~Yes, always, even if you earn little #Not the best option. The minimum is $400.
+	~Yes, if you sold through apps #Not the best option. The minimum is $400.
+	=No, because it's under $400 #Correct! The minimum is $400.
+}
+
+::M5 U03 P3::What do you need to deduct an expense? {
+	~To remember it #Not the best option. Ordinary, necessary and with proof.
+	=That it's for the business and you have proof #Correct! Ordinary, necessary and with proof.
+	~That it's over $600 #Not the best option. Ordinary, necessary and with proof.
+}
+
+::M5 U04 P1::Which is a 2026 estimated payment date? {
+	=June 15 #Correct! Second estimated payment.
+	~December 31 #Not the best option. Second estimated payment.
+	~March 1 #Not the best option. Second estimated payment.
+}
+
+::M5 U04 P2::You didn't get a 1099-K for your platform sales. What do you do? {
+	~Don't report those sales #Not the best option. All income is reported.
+	~Report only if you sold more than $600 #Not the best option. All income is reported.
+	=Report them anyway #Correct! All income is reported.
+}
+
+::M5 U04 P3::Someone calls "from the IRS" to be paid today with gift cards. What is it? {
+	=A scam #Correct! The IRS doesn't collect that way.
+	~A real urgent collection #Not the best option. The IRS doesn't collect that way.
+	~A new IRS method for small payments #Not the best option. The IRS doesn't collect that way.
+}
+
+::M5 U05 P1::What is California's base statewide sales tax rate? {
+	~16% #Not the best option. Plus local rates.
+	~0% #Not the best option. Plus local rates.
+	=7.25% #Correct! Plus local rates.
+}
+
+::M5 U05 P2::You sell $1,000 in products at a 9% rate. How much tax do you collect? {
+	=$90 #Correct! 9% of $1,000.
+	~$9 #Not the best option. 9% of $1,000.
+	~$900 #Not the best option. 9% of $1,000.
+}
+
+::M5 U05 P3::What do you do with the sales tax you collect? {
+	~Use it to buy materials #Not the best option. It belongs to the state.
+	=Set it aside and send it to the state #Correct! It belongs to the state.
+	~Keep it as a business reserve #Not the best option. It belongs to the state.
+}
+
+$CATEGORY: $course$/Your Business US EN/M6
+
+::M6 U01 P1::Extra profit is $300 a month and the payment is $400. What happens? {
+	~The loan pays for itself #Not the best option. Payment higher than profit.
+	=You're $100 short each month #Correct! Payment higher than profit.
+	~You earn $100 #Not the best option. Payment higher than profit.
+}
+
+::M6 U01 P2::What is business credit healthiest for? {
+	~Paying household bills this month #Not the best option. It can pay for itself.
+	~Covering the losses of the last few months #Not the best option. It can pay for itself.
+	=Something that brings in sales #Correct! It can pay for itself.
+}
+
+::M6 U01 P3::What do you do before borrowing for an order? {
+	=Check whether the customer can pay a deposit #Correct! An interest-free alternative.
+	~Ask for the maximum amount #Not the best option. An interest-free alternative.
+	~Quickly sign the first offer so you don't lose the day's deal #Not the best option. An interest-free alternative.
+}
+
+::M6 U02 P1::You're asked for a fee to release your loan. What is it? {
+	~A normal procedure #Not the best option. Never pay up front.
+	~A legally required opening fee #Not the best option. Never pay up front.
+	=A sign of a scam #Correct! Never pay up front.
+}
+
+::M6 U02 P2::Where do you check a lender in California? {
+	=With the DFPI #Correct! The state regulator.
+	~On its social media #Not the best option. The state regulator.
+	~In its app reviews #Not the best option. The state regulator.
+}
+
+::M6 U02 P3::Up to how much do SBA microloans lend? {
+	~$5,000 #Not the best option. Through intermediaries.
+	=$50,000 #Correct! Through intermediaries.
+	~No limit #Not the best option. Through intermediaries.
+}
+
+::M6 U03 P1::Two offers with the same amount and term\: 12% APR and 30% APR. Which is cheaper? {
+	=The 12% one #Correct! Lower APR.
+	~The 30% one #Not the best option. Lower APR.
+	~They cost the same #Not the best option. Lower APR.
+}
+
+::M6 U03 P2::A $5,000 advance with a 1.4 factor. How much do you repay in total? {
+	~$5,400 #Not the best option. $5,000 times 1.4.
+	~$1,400 #Not the best option. $5,000 times 1.4.
+	=$7,000 #Correct! $5,000 times 1.4.
+}
+
+::M6 U03 P3::What is a personal guarantee? {
+	~The loan isn't collected if the business closes #Not the best option. You answer with your assets.
+	=You pay if the business doesn't #Correct! You answer with your assets.
+	~Free insurance #Not the best option. You answer with your assets.
+}
+
+::M6 U04 P1::When is it acceptable to use your personal card for the business? {
+	~If you pay the minimum each month #Not the best option. No interest.
+	~Whenever the business needs it, even if you don't pay in full #Not the best option. No interest.
+	=If you pay in full each month and keep receipts #Correct! No interest.
+}
+
+::M6 U04 P2::If you cosign and the borrower doesn't pay, what happens? {
+	=They can collect from you #Correct! You're responsible for the debt.
+	~Nothing, you only signed #Not the best option. You're responsible for the debt.
+	~The bank forgives the debt #Not the best option. You're responsible for the debt.
+}
+
+::M6 U04 P3::Where do you lend to a relative from? {
+	~The business account #Not the best option. Without affecting the business.
+	=Your salary or savings, in writing #Correct! Without affecting the business.
+	~The business card #Not the best option. Without affecting the business.
+}
+
+$CATEGORY: $course$/Your Business US EN/M7
+
+::M7 U01 P1::Where do you look for health insurance in California if you're self-employed? {
+	=Covered California and Medi-Cal #Correct! Official options.
+	~Only at your bank #Not the best option. Official options.
+	~At the IRS #Not the best option. Official options.
+}
+
+::M7 U01 P2::You lost your job-based coverage mid-year. What can you check? {
+	~Nothing, you wait for November #Not the best option. Qualifying life event.
+	=Whether that change lets you enroll now #Correct! Qualifying life event.
+	~A loan for doctor visits #Not the best option. Qualifying life event.
+}
+
+::M7 U01 P3::You get help with your premium and your income goes up. What do you do? {
+	~Nothing until next year #Not the best option. Avoids owing at tax time.
+	~Cancel the insurance #Not the best option. Avoids owing at tax time.
+	=Update your estimated income #Correct! Avoids owing at tax time.
+}
+
+::M7 U02 P1::A customer slips at your stand. Which insurance helps? {
+	~Life insurance #Not the best option. Damage to others.
+	=General liability #Correct! Damage to others.
+	~Personal auto insurance #Not the best option. Damage to others.
+}
+
+::M7 U02 P2::What is the deductible? {
+	=The part of the damage you pay #Correct! Your share.
+	~What the insurer pays #Not the best option. Your share.
+	~The price of the policy #Not the best option. Your share.
+}
+
+::M7 U02 P3::You have one employee in California. Which insurance is required? {
+	~Life insurance for the employee #Not the best option. Required with employees.
+	~Equipment insurance #Not the best option. Required with employees.
+	=Workers' compensation #Correct! Required with employees.
+}
+
+::M7 U03 P1::A letter charges you for an LLC "certificate" and threatens a penalty. What do you do first? {
+	~Pay to avoid the penalty #Not the best option. Verify before paying.
+	~Call the number on the letter #Not the best option. Verify before paying.
+	=Check the sender and verify on the official site #Correct! Verify before paying.
+}
+
+::M7 U03 P2::What does a real authority never accept as payment? {
+	=Gift cards #Correct! Sign of a scam.
+	~Checks #Not the best option. Sign of a scam.
+	~Payment on its official site #Not the best option. Sign of a scam.
+}
+
+::M7 U03 P3::Where do you report a scam against your business? {
+	~In the company's reviews #Not the best option. Official report.
+	=At ReportFraud.ftc.gov #Correct! Official report.
+	~Nowhere #Not the best option. Official report.
+}
+
+::M7 U04 P1::Where do you search whether a name is already a federal trademark? {
+	=The USPTO #Correct! Official search.
+	~Social media #Not the best option. Official search.
+	~An internet search engine #Not the best option. Official search.
+}
+
+::M7 U04 P2::Does your social media account give you exclusive nationwide rights to the name? {
+	~Yes, if it has many followers #Not the best option. Only registration does.
+	~Yes, if you opened it first #Not the best option. Only registration does.
+	=No #Correct! Only registration does.
+}
+
+::M7 U04 P3::Which domain do real USPTO notices come from? {
+	~Any email with "trademark" in the subject #Not the best option. Official domain.
+	=uspto.gov #Correct! Official domain.
+	~A law firm that writes to you first #Not the best option. Official domain.
+}
+
+$CATEGORY: $course$/Your Business US EN/M8
+
+::M8 U01 P1::Someone works at your place, on your schedule and following your instructions. What are they usually? {
+	=An employee #Correct! You control the work.
+	~An independent contractor #Not the best option. You control the work.
+	~A partner #Not the best option. You control the work.
+}
+
+::M8 U01 P2::Which insurance is required in California if you have employees? {
+	~Life insurance for each employee #Not the best option. Required.
+	=Workers' compensation #Correct! Required.
+	~Auto insurance #Not the best option. Required.
+}
+
+::M8 U01 P3::You pay an independent designer $2,500 in the year. What do you send them? {
+	~A W-2 #Not the best option. From $2,000 in 2026.
+	~Nothing #Not the best option. From $2,000 in 2026.
+	=A 1099-NEC #Correct! From $2,000 in 2026.
+}
+
+::M8 U02 P1::When does a platform send a 1099-K? {
+	~Always, from the first sale #Not the best option. Current threshold.
+	=With over $20,000 and over 200 transactions #Correct! Current threshold.
+	~Only if you ask for it #Not the best option. Current threshold.
+}
+
+::M8 U02 P2::Your 1099-K shows $24,000 gross. How much do you report as profit? {
+	~The full $24,000 #Not the best option. Costs are subtracted.
+	~Nothing, the platform already reported it #Not the best option. Costs are subtracted.
+	=Payments minus refunds, fees and costs #Correct! Costs are subtracted.
+}
+
+::M8 U02 P3::Who usually collects sales tax on large platform sales? {
+	=The platform #Correct! Marketplace facilitator.
+	~Nobody #Not the best option. Marketplace facilitator.
+	~Your customer, directly to the state #Not the best option. Marketplace facilitator.
+}
+
+::M8 U03 P1::Sales of $6,000 from 400 sales. Average ticket? {
+	~$2,400 #Not the best option. $6,000 divided by 400.
+	~$150 #Not the best option. $6,000 divided by 400.
+	=$15 #Correct! $6,000 divided by 400.
+}
+
+::M8 U03 P2::Your margin dropped. What do you check first? {
+	=Prices and costs of what you sell #Correct! Margin depends on them.
+	~The color of your logo #Not the best option. Margin depends on them.
+	~Your card limit #Not the best option. Margin depends on them.
+}
+
+::M8 U03 P3::Your business is seasonal. What do you compare July with? {
+	~June #Not the best option. Same season.
+	=July last year #Correct! Same season.
+	~January #Not the best option. Same season.
+}
+
+$CATEGORY: $course$/Your Business US EN/M9
+
+::M9 U01 P1::Where do you check your Social Security record? {
+	~At your bank #Not the best option. Official site.
+	=At ssa.gov #Correct! Official site.
+	~At the IRS #Not the best option. Official site.
+}
+
+::M9 U01 P2::How much can you put in an IRA in 2026 if you're under 50? {
+	~$72,000 #Not the best option. 2026 limit.
+	~$24,500 #Not the best option. 2026 limit.
+	=$7,500 #Correct! 2026 limit.
+}
+
+::M9 U01 P3::Why isn't the business enough for retirement? {
+	=It depends on you being able to work #Correct! Your health changes.
+	~Because small businesses don't pay taxes #Not the best option. Your health changes.
+	~Because it's small #Not the best option. Your health changes.
+}
+
+::M9 U02 P1::You close your California LLC business. What do you do? {
+	~Nothing\: you just stop selling until you come back #Not the best option. The minimum keeps running.
+	~Close the bank account and that's it #Not the best option. The minimum keeps running.
+	=Formally dissolve it so you stop owing the minimum #Correct! The minimum keeps running.
+}
+
+::M9 U02 P2::What should not be written in your business folder? {
+	=Your passwords #Correct! Theft risk.
+	~The list of suppliers #Not the best option. Theft risk.
+	~The payment dates #Not the best option. Theft risk.
+}
+
+::M9 U02 P3::How do you hand the business over to a relative? {
+	~By word of mouth #Not the best option. Avoids conflict.
+	=With a written agreement #Correct! Avoids conflict.
+	~Without telling anyone #Not the best option. Avoids conflict.
+}
+
+::M9 U03 P1::How often do you review your one-page plan? {
+	=Every three months #Correct! Quarterly review.
+	~Once in a lifetime #Not the best option. Quarterly review.
+	~Every day #Not the best option. Quarterly review.
+}
+
+::M9 U03 P2::Where do you start if a lot is missing? {
+	~Registering your trademark #Not the best option. The foundation.
+	=Separating money and setting aside taxes #Correct! The foundation.
+	~Taking out a loan to get everything organized at once #Not the best option. The foundation.
+}
+
+::M9 U03 P3::What do you share in the community? {
+	~Your real amounts, accounts and monthly sales #Not the best option. No data.
+	~Your Social Security number #Not the best option. No data.
+	=Your plan with no personal data #Correct! No data.
+}

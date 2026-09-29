@@ -1,0 +1,247 @@
+{
+ "sigla": "YBMF",
+ "titulo": "Your Business, Your Money, Your Future · U.S.",
+ "subtitulo": "Version 1.0 · United States (federal and California) · English · Desarrolla Talento · September 2026",
+ "version": "1.0",
+ "lang": "en",
+ "intro": "Money course for Latino entrepreneurs and self-employed people in the United States: 9 modules, 33 lessons, with federal rules and California examples.",
+ "categoria": "Your Business US EN",
+ "banco": "question_bank_ybmf_us_en.gift.txt",
+ "min_leccion": [
+  10,
+  15
+ ],
+ "modulos": {
+  "M1": "Module 1. Your business and your home: separate money",
+  "M2": "Module 2. Costs and price",
+  "M3": "Module 3. Cash flow",
+  "M4": "Module 4. Get paid and sell without losing",
+  "M5": "Module 5. Formalize and handle taxes without fear",
+  "M6": "Module 6. Credit for your business",
+  "M7": "Module 7. Protect your business",
+  "M8": "Module 8. Grow in an orderly way",
+  "M9": "Module 9. Your future"
+ },
+ "resultados": {
+  "M1": "Your business money separate from your home, a tax account, a fixed salary and up-to-date records.",
+  "M2": "Your costs calculated, your price with margin and your break-even point.",
+  "M3": "Your cash-flow calendar, your customer credit rules and your reserve for slow seasons.",
+  "M4": "Your payment methods compared and your plan against scams when you sell.",
+  "M5": "Your structure, tax numbers, permits, estimated payments and sales tax in order.",
+  "M6": "Knowing whether you need credit, what it really costs and how not to mix it with personal debt.",
+  "M7": "Your health insurance, business insurance, trademark and protection against scams.",
+  "M8": "Your rules for hiring, selling online and measuring how your business is doing.",
+  "M9": "Your Social Security checked, your retirement account, your plan if the business changes and your one-page plan."
+ },
+ "apoyo_leads": {
+  "01": "Start here: how the course works, the 5- or 10-minute paths, the characters, badges and certificate.",
+  "02": "Four business cases that bring together what you learned. Solve them before opening the key.",
+  "03": "Short exercises to practice the course calculations. Answers are at the end.",
+  "04": "The course words explained in plain language, by module.",
+  "05": "Where to get free or low-cost help, and answers to common questions.",
+  "06": "The sources we used in the course, so you can check them."
+ },
+ "insignias": [
+  [
+   "01_separate_money",
+   "M1",
+   "Separate money",
+   "fa-columns"
+  ],
+  [
+   "02_fair_price",
+   "M2",
+   "Fair price",
+   "fa-tag"
+  ],
+  [
+   "03_cash_flow_under_control",
+   "M3 · M4",
+   "Cash flow under control",
+   "fa-exchange"
+  ],
+  [
+   "04_formal_business",
+   "M5",
+   "Formal business",
+   "fa-file-text-o"
+  ],
+  [
+   "05_smart_credit",
+   "M6",
+   "Smart credit",
+   "fa-credit-card"
+  ],
+  [
+   "06_protected_business",
+   "M7",
+   "Protected business",
+   "fa-shield"
+  ],
+  [
+   "07_orderly_growth",
+   "M8 · M9",
+   "Orderly growth",
+   "fa-line-chart"
+  ],
+  [
+   "08_full_plan",
+   "COURSE",
+   "Full plan",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "top": "YOUR BUSINESS · YOUR MONEY · YOUR FUTURE · U.S.",
+  "titulo": "Certificate of completion",
+  "otorga": "Presented to",
+  "nombre": "Participant name",
+  "texto": "for completing the financial education program for entrepreneurs <b>Your Business, Your Money, Your Future</b> (United States), with its nine modules and self-assessments passed.",
+  "mods": [
+   "Separate money",
+   "Price and cash flow",
+   "Taxes and formality",
+   "Credit and protection",
+   "Growth and future"
+  ],
+  "fecha": "Date",
+  "fecha_muestra": "September 29, 2026",
+  "codigo": "Verification code",
+  "nota": "Educational recognition from the program. It is not a professional license or an official accreditation."
+ },
+ "comunidad": {
+  "titulo": "Your Business Community · U.S.",
+  "subtitulo": "Version 1.0 · United States · English · Desarrolla Talento · September 2026",
+  "version": "1.0",
+  "intro": "Companion to the course Your Business, Your Money, Your Future (U.S.): a separate Moodle space for questions by topic, scam alerts, a forum to introduce your business, wins and a monthly live session. Complemented by a WhatsApp channel.",
+  "leads": {
+   "01": "What the community is, what you'll find and how to get started.",
+   "02": "The rules that protect your data and everyone else's.",
+   "03": "How to ask questions and how to introduce your business.",
+   "04": "The dates of the year that matter to entrepreneurs in the United States.",
+   "05": "The monthly session, monthly challenges and the survey.",
+   "06": "What is education and what is a commercial offer, with full transparency."
+  },
+  "carpeta": {
+   "nombre": "Your_Business_Community_US_EN",
+   "zip": "Your_Business_Community_US_EN_v1.0",
+   "descripciones": [
+    "Teacher manual (launch, routine, live session, answers, log and ready-made texts) and community manual (spaces, channel and moderation).",
+    "Book \"Community guide\" (6 chapters) in .docx and .md.",
+    "Implementation guide: step-by-step setup in Moodle and editorial calendar.",
+    "Package to install: book, preview and the README for Claude."
+   ],
+   "lista": [
+    "Teacher named and teacher manual read",
+    "WhatsApp channel created (only the team posts)",
+    "Date and link for the first monthly session",
+    "Community created with 04_Moodle/README_CREATE_COMMUNITY_FOR_CLAUDE.md",
+    "First posts scheduled with the editorial calendar"
+   ],
+   "notas": [
+    "Personal or tax data (SSN, ITIN, EIN, passwords) and immigration status are never requested.",
+    "In \"Introduce your business\" each person may post once a month; never loans, investments or financial products."
+   ]
+  }
+ },
+ "instalacion": {
+  "nombre_corto": "YBMF-US-EN",
+  "readme": "README_INSTALL_YOUR_BUSINESS_US_EN_FOR_CLAUDE.md",
+  "aviso_foro": "Do not share your SSN, ITIN, EIN, passwords, account numbers, your business's real amounts or your immigration status.",
+  "niveles": [
+   [
+    "Idea",
+    0,
+    "On arrival"
+   ],
+   [
+    "Launch",
+    200,
+    "During Module 2"
+   ],
+   [
+    "Up and running",
+    400,
+    "During Module 4"
+   ],
+   [
+    "Formal",
+    650,
+    "During Module 5"
+   ],
+   [
+    "Growing",
+    900,
+    "During Module 7"
+   ],
+   [
+    "Established",
+    1100,
+    "During Module 9"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Module 1 self-assessment",
+    "You separated business and household money and pay yourself a salary."
+   ],
+   [
+    "Module 2 self-assessment",
+    "You know your costs, your margin and your break-even point."
+   ],
+   [
+    "Module 3 and 4 self-assessments",
+    "You manage your cash flow, customer credit and payment methods without losing."
+   ],
+   [
+    "Module 5 self-assessment",
+    "Your structure, numbers, permits and taxes are in order."
+   ],
+   [
+    "Module 6 self-assessment",
+    "You know whether you need credit and what it really costs."
+   ],
+   [
+    "Module 7 self-assessment",
+    "You protected your health, business and trademark, and you guard against scams."
+   ],
+   [
+    "Module 8 and 9 self-assessments",
+    "You grow in an orderly way and have your one-page plan."
+   ],
+   [
+    "Course completion",
+    "You completed all nine modules of the program."
+   ]
+  ],
+  "extra_readme": "\n## 9. Community (optional, ask first)\n\nAsk the person whether they want you to create the course **Your Business Community · U.S.** (`YBMF-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.\n"
+ },
+ "carpeta": {
+  "nombre": "Your_Business_Your_Money_Your_Future_US_EN",
+  "zip": "Your_Business_US_EN_v1.0",
+  "manual": "Program_manual_YBMF_US_EN_v1.0",
+  "contenido": "Full_content_YBMF_US_EN_v1.0",
+  "guia": "Implementation_guide_YBMF_US_EN_v1.0",
+  "descripciones": [
+   "Program manual: audience, rules, modules and lessons, characters and verified facts.",
+   "Full content: characters, lessons, support book, H5P and question bank (.docx and .md).",
+   "Implementation guide: Moodle installation, gamification, community and channels, and maintenance (.docx and .md).",
+   "Package to install: books, H5P, glossary, question bank, badges, certificate, guides, preview and the README for Claude."
+  ],
+  "lista": [
+   "Coordination read the program manual",
+   "Tax content reviewed by a tax preparer or CPA",
+   "Current facts confirmed on official sites (manual, verified facts section)",
+   "Course installed with 04_Moodle/README_INSTALL_YOUR_BUSINESS_US_EN_FOR_CLAUDE.md",
+   "Level Up, badges and certificate set up",
+   "Community created (Your Business Community folder)",
+   "Review with the student role",
+   "Maintenance calendar assigned"
+  ],
+  "notas": [
+   "Lessons do not recommend specific banks, processors, platforms or loans; they teach how to compare.",
+   "Federal rules with California examples; in other states, local rules are checked.",
+   "The course gives tax orientation, but each case is reviewed with a tax preparer or CPA. It does not give immigration advice."
+  ]
+ }
+}

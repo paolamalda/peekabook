@@ -96,7 +96,7 @@ def construir(D, CFG):
          f"# {txt(en, 'Parte', 'Part')} 1. " + txt(en, "Instalación en Moodle, paso a paso", "Installation in Moodle, step by step") +
          f"\n\n{txt(en, 'El mismo archivo está en', 'The same file is in')} `04_Moodle/{readme}`.\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, readme)))),
          f"# {txt(en, 'Parte', 'Part')} 2. " + txt(en, "Actividades, puntos, insignias y constancia", "Activities, points, badges and certificate") +
-         "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, "guia_gamificacion.md"))))]
+         "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, txt(en, "guia_gamificacion.md", "gamification_guide.md")))))]
     extra = 3
     if os.path.exists(os.path.join(I, "comunidad_y_canales.md")):
         G.append(f"# {txt(en, 'Parte', 'Part')} {extra}. " + txt(en, "Comunidad y canales", "Community and channels") + "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, "comunidad_y_canales.md"))))); extra += 1
@@ -119,11 +119,13 @@ def construir(D, CFG):
     K.copiar(os.path.join(M, CFG["banco"]), os.path.join(mo, Pr))
     K.copiar(os.path.join(M, "insignias", "*.png"), os.path.join(mo, Bd))
     K.copiar(os.path.join(M, "certificado", "*.png"), os.path.join(mo, Ce))
-    K.copiar(os.path.join(I, "guia_gamificacion.md"), os.path.join(mo, Gu))
-    K.docx(os.path.join(I, "guia_gamificacion.md"), os.path.join(mo, Gu, "guia_gamificacion.docx"), tit,
+    gn = txt(en, "guia_gamificacion", "gamification_guide")
+    K.copiar(os.path.join(I, gn + ".md"), os.path.join(mo, Gu))
+    K.docx(os.path.join(I, gn + ".md"), os.path.join(mo, Gu, gn + ".docx"), tit,
            txt(en, "Actividades, puntos, insignias y constancia", "Activities, points, badges and certificate"))
     if os.path.exists(os.path.join(I, "comunidad_y_canales.md")):
-        K.copiar(os.path.join(I, "comunidad_y_canales.md"), os.path.join(mo, Gu))
+        os.makedirs(os.path.join(mo, Gu), exist_ok=True)
+        shutil.copy(os.path.join(I, "comunidad_y_canales.md"), os.path.join(mo, Gu, txt(en, "comunidad_y_canales.md", "community_and_channels.md")))
     K.copiar(os.path.join(I, readme), mo)
     est = list(zip(dirs, F["descripciones"]))
     leeme = txt(en, "00_LEEME.txt", "00_README.txt")

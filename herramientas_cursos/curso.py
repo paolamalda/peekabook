@@ -69,7 +69,7 @@ def paso_libros():
         B.preview(pages, os.path.join(d, "vista_previa"))
         if EN:
             for f in glob.glob(os.path.join(d, "vista_previa", "*.html")):
-                open(f, "w").write(tr(leer(f)))
+                t = tr(leer(f)); open(f, "w").write(t)
         c = B.conteo(text)
         json.dump({"lecciones": len(c), "paginas": len(pages), "terminos": n, "conteo": c}, open(os.path.join(d, "conteo.json"), "w"), ensure_ascii=False)
         # resumen de la sección de Moodle
@@ -371,8 +371,8 @@ def paso_verificar():
 
 
 def paso_instalacion():
-    import instalacion_es
-    instalacion_es.generar(D, CFG, lecciones)
+    import instalacion_en, instalacion_es
+    (instalacion_en if EN else instalacion_es).generar(D, CFG, lecciones)
 
 
 PASOS = {"instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
