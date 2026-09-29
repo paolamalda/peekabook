@@ -296,6 +296,7 @@ def manual_ttmf(d):
 
 def manual_com(d):
     escribir(d, "Manual_de_la_comunidad_v1.1", com_manual(), "Comunidad Tu Talento", "Manual de la comunidad · Versión 1.1 · Septiembre de 2026")
+    escribir(d, "Manual_del_profesor_comunidad_v1", [leer(f"{TT}/comunidad/manual_profesor.md")], "Comunidad Tu Talento", "Manual del profesor · Versión 1 · Septiembre de 2026")
 
 
 ES_TXT = dict(t_estructura="QUÉ HAY EN ESTA CARPETA", t_lista="LISTA PARA DAR EL CURSO POR COMPLETO",
@@ -357,12 +358,12 @@ CURSOS = [
       h5p_partes=[[f"M{i}" for i in range(1, 7)], [f"M{i}" for i in range(7, 12)]]),
  dict(ES_TXT, carpeta="Comunidad_Tu_Talento", zip="Comunidad_Tu_Talento_v1.1", leeme="00_LEEME.txt",
       titulo="Comunidad Tu Talento", sub="Versión 1.1 · Desarrolla Talento · Septiembre de 2026",
-      intro="Espacio en Moodle, aparte del curso Tu Talento, para avisos, dudas por tema, alertas de fraude, logros, sesión mensual y un foro separado de referencias comerciales. Se complementa con un canal de WhatsApp.",
-      desc=["Manual de la comunidad v1.1: propósito, espacios, canal, referencias comerciales y moderación.",
+      intro="Complemento del curso Tu Talento, Tu Marca, Tu Futuro: espacio en Moodle aparte, para avisos, dudas por tema, alertas de fraude, logros, sesión mensual y un foro separado de referencias comerciales. Se complementa con un canal de WhatsApp.",
+      desc=["Manual del profesor v1 (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad v1.1 (propósito, espacios, canal y moderación).",
             "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
             "Guía de implementación v1.1: creación en Moodle paso a paso y calendario editorial.",
             "Paquete para instalar: libro, vista previa y el README para Claude."],
-      lista=["Equipo de moderación nombrado y con el manual leído", "Canal de WhatsApp creado (solo publica el equipo)",
+      lista=["Profesor nombrado y con el manual del profesor leído (preparación: sección 2)", "Equipo de moderación nombrado y con el manual leído", "Canal de WhatsApp creado (solo publica el equipo)",
              "Fecha y enlace de la primera sesión mensual", "Comunidad creada con 04_Moodle/README_CREAR_COMUNIDAD_PARA_CLAUDE.md",
              "Primeras publicaciones programadas con el calendario editorial"],
       notas=["Nunca se piden datos personales; los foros no aceptan archivos adjuntos.",
@@ -419,5 +420,7 @@ def construir(c):
 
 
 if __name__ == "__main__":
+    import sys
     for c in CURSOS:
-        construir(c)
+        if len(sys.argv) == 1 or c["zip"] in sys.argv[1:]:
+            construir(c)
