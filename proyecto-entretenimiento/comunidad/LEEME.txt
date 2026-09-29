@@ -1,0 +1,35 @@
+COMUNIDAD TU TALENTO · CURSO PARA MOODLE 3.10
+Desarrolla Talento · 29 de septiembre de 2026
+
+QUÉ ES
+------
+El espacio de la comunidad del programa Tu Talento, Tu Marca, Tu Futuro, separado del curso:
+avisos, foros de dudas por tema, alertas de fraude, logros, sesión mensual en vivo, encuesta
+y un foro aparte para referencias comerciales, siempre señaladas.
+
+QUÉ CONTIENE
+------------
+1_libro/         Comunidad_libro_Moodle.zip: "Guía de la comunidad" (6 capítulos: bienvenida,
+                 reglas y privacidad, cómo preguntar, calendario del año, sesiones y retos,
+                 cómo funcionan las referencias comerciales)
+2_equipo/        guía de moderación y calendario editorial con plantillas del canal (.md y .docx)
+3_vista_previa/  cómo se ve la guía (abre ABRIR_AQUI.html)
+README_CREAR_COMUNIDAD_PARA_CLAUDE.md  <- instrucciones para Claude
+
+CÓMO USARLO
+-----------
+Ten a la mano: la fecha y el enlace de la primera sesión mensual, el enlace del canal de
+WhatsApp y si quieres inscribir con una cohorte. Dale a Claude este zip y dile:
+"Sigue README_CREAR_COMUNIDAD_PARA_CLAUDE.md". Tiempo estimado: 30 a 45 minutos.
+
+LO QUE HACES TÚ
+---------------
+- Crear el canal de WhatsApp (solo publica el equipo).
+- Crear la cohorte "Tu Talento" si quieres inscribir a todas las personas de una vez
+  (Administración del sitio > Usuarios > Cohortes).
+- Nombrar al equipo de moderación.
+
+A TENER EN CUENTA
+-----------------
+- Los foros no permiten adjuntos para evitar que se suban documentos con datos personales.
+- Las referencias comerciales solo van en su foro y en el canal, con el aviso de comisión.
