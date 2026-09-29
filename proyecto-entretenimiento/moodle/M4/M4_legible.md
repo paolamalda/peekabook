@@ -589,9 +589,9 @@ El contrato debe estar inscrito en el Registro de Contratos de Adhesión (**RECA
 
 #### Arrepentirte después de firmar
 
-Para algunos productos de crédito, la ley te da un periodo corto para cancelar sin penalización, si no has usado el producto.
+Tienes 10 días hábiles después de firmar un contrato de adhesión para cancelarlo sin costo ni responsabilidad, siempre que no hayas usado el producto. No aplica a créditos con garantía hipotecaria. La cancelación surte efecto a más tardar el segundo día hábil después de que la reciben.
 
-> **Dato por confirmar:** el plazo para cancelar un crédito sin penalización después de firmarlo y los productos a los que aplica. Consultado el 29 de septiembre de 2026 a través de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Antes de decidir, confírmalo en CONDUSEF o en el sitio oficial de la institución.
+> **Dato vigente:** artículo 11 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Consultado el 29 de septiembre de 2026 a través de CONDUSEF. Antes de decidir, confirma las condiciones de tu producto en CONDUSEF o en el sitio oficial de la institución.
 
 
 

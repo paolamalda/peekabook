@@ -221,4 +221,69 @@ CASOS = {
  ("Una tarjeta pequeña o garantizada, pagada completa.", "Un crédito grande para que la tomen en serio.", "Un préstamo por app para empezar rápido."),
  ("No: mejor comparar antes y pedir solo una.", "Sí: así aumenta sus posibilidades.", "Sí, si las pide el mismo día."),
 ],
+"M8 U01": [
+ ("Se pone al corriente y ataca la más cara.", "Paga un poco de cada una sin orden.", "Deja de pagar la de su hermano."),
+ ("La bola de nieve: terminar una pequeña.", "Dejar de pagar hasta sentirse mejor.", "Pedir otra tarjeta para motivarse."),
+ ("Abona extra a la deuda que ataca.", "Lo gasta porque ya tiene su fondo.", "Lo divide en partes iguales entre todas."),
+],
+"M8 U02": [
+ ("Verifica, pide por escrito y compara.", "Acepta de inmediato: es muy buen trato.", "Cuelga y deja de pagar para negociar."),
+ ("No deposita y paga solo a la institución.", "Deposita porque así termina más rápido.", "Deposita la mitad para probar."),
+ ("Antes de atrasarse: llama al banco.", "Cuando tenga tres meses de atraso.", "Cuando lo llamen de cobranza."),
+],
+"M8 U03": [
+ ("No: su plan actual cuesta menos.", "Sí: el pago mensual es menor.", "Sí, y además pide otra tarjeta."),
+ ("Tasa posterior, total y no usar la otra.", "Solo que no cobre comisión hoy.", "Nada: menor tasa siempre conviene."),
+ ("Cierra o guarda las que no necesita.", "Las usa para gastos del mes.", "Pide que le suban la línea."),
+],
+"M8 U04": [
+ ("Pide datos, verifica en REDECO y se queja.", "Paga lo que sea para que dejen de llamar.", "Cambia de número y no hace nada más."),
+ ("No deposita y confirma con la institución.", "Deposita para que lo dejen tranquilo.", "Deposita la mitad y pide recibo."),
+ ("Presentar una queja en el REDECO.", "Pagar para que no molesten a su mamá.", "Pedirle a su mamá que pague."),
+],
+"M8 U05": [
+ ("4,000 al mes, pase lo que pase.", "Lo que le sobre cada mes, si sobra.", "20,000, todo su mes bajo."),
+ ("Impuestos, un mes de fondo y extra a deuda.", "Todo a su deuda más cara de una vez.", "Todo a gastos, porque se lo merece."),
+ ("Usa su fondo, avisa y ajusta el plan.", "Deja de pagar sin avisar este mes.", "Pide un préstamo por app para cubrirlo."),
+],
+"M9 U01": [
+ ("Cuelga y llama al número de su tarjeta.", "Da el código para cancelar el cargo rápido.", "Pide que le manden el código por correo."),
+ ("No paga: verifica y lo reporta.", "Paga el trámite para recibir el auto.", "Paga la mitad y el resto al recibirlo."),
+ ("Cuelga: ninguna autoridad cobra así.", "Paga para evitar problemas legales.", "Da sus datos para aclarar la denuncia."),
+],
+"M9 U02": [
+ ("Verifica por el canal oficial; no paga ni envía INE.", "Paga el material para no perder la oportunidad.", "Manda su INE, pero no paga hasta el casting."),
+ ("No paga: cobran comisión, no inscripción.", "Paga porque así consigue más castings.", "Paga en dos partes para asegurar su lugar."),
+ ("Verifica, no va sola, avisa o no asiste.", "Va sola porque así lo piden en el casting.", "Va, pero apaga su celular para no distraerse."),
+],
+"M9 U03": [
+ ("No abrir el enlace y entrar por la app.", "Abrir el enlace y revisar si se ve real.", "Responder el mensaje para preguntar."),
+ ("No paga y verifica en el sitio oficial.", "Paga porque son solo 49 pesos.", "Paga y después reclama si no llega."),
+ ("No responde y revisa en el portal del SAT.", "Envía sus datos para recibir el reembolso.", "Manda solo su cuenta, sin la contraseña."),
+],
+"M9 U04": [
+ ("Reportes, bloqueo, reclamaciones y denuncia.", "Paga el préstamo para que no lo molesten.", "Ignora la cobranza porque no es su deuda."),
+ ("Escribe para qué es y la fecha.", "La manda por WhatsApp sin marcar.", "Envía una foto de ambos lados sin más."),
+ ("No la activa, llama y revisa reportes.", "La activa para ver si funciona.", "La guarda por si algún día la necesita."),
+],
+"M9 U05": [
+ ("No paga: recupera por la vía oficial.", "Paga el rescate para recuperarla rápido.", "Abre otra cuenta y olvida la anterior."),
+ ("Llama a su compañía desde otro teléfono.", "Espera a que regrese la señal sola.", "Reinicia el celular y sigue su día."),
+ ("Cambia la contraseña y retira accesos.", "Confía en que el exmánager no entrará.", "Le pide por favor que no use la cuenta."),
+],
+"M9 U06": [
+ ("No paga, guarda evidencia y denuncia.", "Paga los 7,000 para que la dejen en paz.", "Pide otro préstamo en otra app para pagar."),
+ ("No paga: cobrar antes es fraude.", "Paga porque 1,500 es poco comparado.", "Paga la garantía y pide recibo."),
+ ("No acepta y busca opciones registradas.", "Acepta porque todas las apps lo piden.", "Acepta solo el acceso a la galería."),
+],
+"M9 U07": [
+ ("No invierte: son señales de fraude.", "Invierte porque es un conocido del medio.", "Invierte poco para ver si de verdad paga."),
+ ("Esquema piramidal: no entra.", "Una buena inversión entre amigas.", "Un ahorro seguro con bonos extra."),
+ ("No invierte: la promesa es imposible.", "Invierte porque lo recomienda un famoso.", "Invierte solo lo que le sobre este mes."),
+],
+"M9 U08": [
+ ("Bloquea su tarjeta y su acceso.", "Espera al estado de cuenta.", "Publica los cargos en redes."),
+ ("Denunciar: le puede pasar a cualquiera.", "Olvidarlo para no pasar vergüenza.", "Esperar a ver si el banco la llama."),
+ ("Aviso sencillo sin datos personales.", "Publica sus estados de cuenta completos.", "No avisa a nadie para no alarmar."),
+],
 }
