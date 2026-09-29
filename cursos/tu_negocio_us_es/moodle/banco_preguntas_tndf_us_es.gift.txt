@@ -1,0 +1,611 @@
+$CATEGORY: $course$/Tu Negocio US ES/M1
+
+::M1 U01 P1::Vendes $3,000 y tus costos son $2,200. ¿Cuánto ganas? {
+	=$800 #¡Correcto! $3,000 menos $2,200.
+	~$3,000 #No es la mejor opción. $3,000 menos $2,200.
+	~$5,200 #No es la mejor opción. $3,000 menos $2,200.
+}
+
+::M1 U01 P2::¿Qué es la ganancia? {
+	~Todo lo que cobras a tus clientes en el mes, en efectivo y por apps #No es la mejor opción. Ventas menos costos.
+	=Lo que queda después de pagar todos los costos #¡Correcto! Ventas menos costos.
+	~Lo que hay en tu cuenta al cerrar #No es la mejor opción. Ventas menos costos.
+}
+
+::M1 U01 P3::Tus ventas y tus costos son iguales. ¿Qué pasa? {
+	~Ganas poco, pero el negocio sí te deja algo #No es la mejor opción. No queda nada para ti.
+	~Pierdes dinero cada mes #No es la mejor opción. No queda nada para ti.
+	=Sales tablas\: trabajas gratis #¡Correcto! No queda nada para ti.
+}
+
+::M1 U02 P1::¿Desde dónde pagas el material del negocio? {
+	~Desde tu cuenta de la casa #No es la mejor opción. Cada bolsa paga lo suyo.
+	=Desde la cuenta del negocio #¡Correcto! Cada bolsa paga lo suyo.
+	~Desde lo que haya ese día en tu cartera o en la caja #No es la mejor opción. Cada bolsa paga lo suyo.
+}
+
+::M1 U02 P2::Usas $200 del negocio para una emergencia de tu casa. ¿Qué haces? {
+	~Lo olvidas, total es tu negocio #No es la mejor opción. Así no se pierde.
+	~Lo cubres con tu tarjeta de crédito y te olvidas del tema #No es la mejor opción. Así no se pierde.
+	=Lo anotas como préstamo y lo devuelves #¡Correcto! Así no se pierde.
+}
+
+::M1 U02 P3::¿Hasta cuánto asegura el FDIC por persona, por banco y por tipo de cuenta? {
+	=$250,000 #¡Correcto! Por persona, banco y tipo de cuenta.
+	~$25,000 #No es la mejor opción. Por persona, banco y tipo de cuenta.
+	~Todo lo que tengas, sin límite #No es la mejor opción. Por persona, banco y tipo de cuenta.
+}
+
+::M1 U03 P1::Tu ganancia es $2,000 y apartas 25% para impuestos. ¿Cuánto apartas? {
+	~$250 #No es la mejor opción. 25% de $2,000.
+	~$2,000 #No es la mejor opción. 25% de $2,000.
+	=$500 #¡Correcto! 25% de $2,000.
+}
+
+::M1 U03 P2::Tuviste una semana excelente. ¿Qué haces? {
+	=Te pagas tu sueldo y apartas el excedente #¡Correcto! El excedente se aparta.
+	~Sacas todo lo extra para la casa porque te lo ganaste #No es la mejor opción. El excedente se aparta.
+	~Te subes el sueldo desde ese día #No es la mejor opción. El excedente se aparta.
+}
+
+::M1 U03 P3::¿Por qué apartas impuestos como dueño? {
+	=Porque nadie te los retiene #¡Correcto! Los pagas tú.
+	~Porque el banco te lo pide al abrir la cuenta #No es la mejor opción. Los pagas tú.
+	~No hace falta\: se pagan solos #No es la mejor opción. Los pagas tú.
+}
+
+::M1 U04 P1::¿Qué es lo mínimo que anotas cada día? {
+	~Solo las ventas grandes #No es la mejor opción. Con eso basta.
+	~Lo que recuerdes el domingo #No es la mejor opción. Con eso basta.
+	=Fecha, ventas y gastos #¡Correcto! Con eso basta.
+}
+
+::M1 U04 P2::¿Qué necesitas para deducir millas? {
+	=Un registro de cada viaje #¡Correcto! Sin registro no hay deducción.
+	~Solo el recibo de gasolina del mes #No es la mejor opción. Sin registro no hay deducción.
+	~Nada, se calcula solo #No es la mejor opción. Sin registro no hay deducción.
+}
+
+::M1 U04 P3::Una app te pide la contraseña de tu banco. ¿Qué haces? {
+	~Se la das si es gratis y tiene buenas reseñas #No es la mejor opción. Pide de más.
+	=No se la das y eliges otra herramienta #¡Correcto! Pide de más.
+	~Le das solo tu número de Seguro Social #No es la mejor opción. Pide de más.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M2
+
+::M2 U01 P1::¿Cuál de estos es un costo variable? {
+	~La suscripción de tu tienda en línea #No es la mejor opción. Sube con cada venta.
+	=El empaque de cada pedido #¡Correcto! Sube con cada venta.
+	~Tu plan de teléfono #No es la mejor opción. Sube con cada venta.
+}
+
+::M2 U01 P2::Tus fijos son $600 y vendes 200 piezas al mes. ¿Cuánto fijo le toca a cada pieza? {
+	=$3 #¡Correcto! $600 entre 200.
+	~$30 #No es la mejor opción. $600 entre 200.
+	~$600 #No es la mejor opción. $600 entre 200.
+}
+
+::M2 U01 P3::¿Tu sueldo es un costo del negocio? {
+	~No, es ganancia #No es la mejor opción. Sin él trabajas gratis.
+	~Solo si te sobra algo al final del mes #No es la mejor opción. Sin él trabajas gratis.
+	=Sí, es un costo fijo #¡Correcto! Sin él trabajas gratis.
+}
+
+::M2 U02 P1::Tu costo es $35. ¿Cuál es el precio mínimo para un margen de 30% sobre el precio? {
+	~$45.50 #No es la mejor opción. $35 entre 0.70.
+	~$35 #No es la mejor opción. $35 entre 0.70.
+	=$50 #¡Correcto! $35 entre 0.70.
+}
+
+::M2 U02 P2::¿Cuándo nunca debes vender? {
+	=Por debajo de tu costo #¡Correcto! Pierdes con cada venta.
+	~Más caro que la competencia #No es la mejor opción. Pierdes con cada venta.
+	~Con garantía por escrito para tu cliente #No es la mejor opción. Pierdes con cada venta.
+}
+
+::M2 U02 P3::Tus materiales subieron. ¿Qué haces? {
+	~Usas material más barato sin avisar a tus clientes #No es la mejor opción. Con aviso y claridad.
+	=Recalculas tu costo y avisas del nuevo precio #¡Correcto! Con aviso y claridad.
+	~Esperas a que bajen solos #No es la mejor opción. Con aviso y claridad.
+}
+
+::M2 U03 P1::Fijos de $3,000 y cada venta te deja 50%. ¿Punto de equilibrio? {
+	~$1,500 #No es la mejor opción. $3,000 entre 0.50.
+	=$6,000 #¡Correcto! $3,000 entre 0.50.
+	~$3,500 #No es la mejor opción. $3,000 entre 0.50.
+}
+
+::M2 U03 P2::Vendes menos que tu punto de equilibrio. ¿Qué pasa? {
+	~Ganas poco #No es la mejor opción. No cubres tus costos.
+	~Estás igual #No es la mejor opción. No cubres tus costos.
+	=Pierdes dinero #¡Correcto! No cubres tus costos.
+}
+
+::M2 U03 P3::¿Qué baja tu punto de equilibrio? {
+	=Bajar costos fijos #¡Correcto! Necesitas vender menos.
+	~Rentar un local más grande en una mejor zona #No es la mejor opción. Necesitas vender menos.
+	~Dar más crédito a tus clientes #No es la mejor opción. Necesitas vender menos.
+}
+
+::M2 U04 P1::¿Qué es la merma? {
+	~El descuento que te da el proveedor por volumen #No es la mejor opción. Dinero tirado.
+	=Lo que se echa a perder o ya no puedes vender #¡Correcto! Dinero tirado.
+	~La mercancía nueva #No es la mejor opción. Dinero tirado.
+}
+
+::M2 U04 P2::Tienes 30 piezas que no se venden. ¿Qué haces? {
+	=Las ofreces con descuento #¡Correcto! Dinero parado.
+	~Compras más para exhibir #No es la mejor opción. Dinero parado.
+	~Las guardas por si acaso #No es la mejor opción. Dinero parado.
+}
+
+::M2 U04 P3::¿Cuándo conviene una oferta de «lleva más»? {
+	~Siempre #No es la mejor opción. Si no, sale cara.
+	~Si el proveedor es de confianza y te da buen precio #No es la mejor opción. Si no, sale cara.
+	=Si vendes todo antes de que caduque #¡Correcto! Si no, sale cara.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M3
+
+::M3 U01 P1::Tienes $600, cobrarás $900 y pagarás $1,700 esta semana. ¿Cómo terminas? {
+	~Con $200 de sobra #No es la mejor opción. $600 más $900 menos $1,700.
+	~Con $3,200 #No es la mejor opción. $600 más $900 menos $1,700.
+	=Con $200 de faltante #¡Correcto! $600 más $900 menos $1,700.
+}
+
+::M3 U01 P2::¿Qué mejora tu flujo? {
+	~Pagar antes a tus proveedores para que te traten mejor #No es la mejor opción. Cobras antes.
+	=Pedir depósito en trabajos grandes #¡Correcto! Cobras antes.
+	~Dar más plazo a tus clientes #No es la mejor opción. Cobras antes.
+}
+
+::M3 U01 P3::Tu calendario muestra un hueco en tres semanas. ¿Qué haces? {
+	=Buscas soluciones desde hoy #¡Correcto! Actúa antes.
+	~Esperas a ver si se arregla #No es la mejor opción. Actúa antes.
+	~Pides un adelanto rápido el día que falte #No es la mejor opción. Actúa antes.
+}
+
+::M3 U02 P1::¿Qué es vender a crédito para tu negocio? {
+	~Una venta ya cobrada #No es la mejor opción. Dinero que no ha regresado.
+	=Un préstamo sin intereses a tu cliente #¡Correcto! Dinero que no ha regresado.
+	~Una ganancia extra #No es la mejor opción. Dinero que no ha regresado.
+}
+
+::M3 U02 P2::Un cliente no ha pagado y pide otro pedido. ¿Qué haces? {
+	~Le entregas para no perderlo #No es la mejor opción. Regla clara.
+	~Publicas su nombre en tus redes para presionarlo #No es la mejor opción. Regla clara.
+	=No le das más crédito hasta que pague #¡Correcto! Regla clara.
+}
+
+::M3 U02 P3::¿Qué pides en un pedido grande? {
+	=Un depósito y el acuerdo por escrito #¡Correcto! Te protege.
+	~Solo su número de teléfono #No es la mejor opción. Te protege.
+	~Nada\: la confianza basta #No es la mejor opción. Te protege.
+}
+
+::M3 U03 P1::Costos fijos de $1,500 al mes. ¿Reserva para 3 meses? {
+	~$500 #No es la mejor opción. $1,500 por 3.
+	~$1,500 #No es la mejor opción. $1,500 por 3.
+	=$4,500 #¡Correcto! $1,500 por 3.
+}
+
+::M3 U03 P2::¿Dónde conviene guardar la reserva? {
+	=En una cuenta de ahorro asegurada #¡Correcto! Protegida y disponible.
+	~En efectivo en tu casa, donde siempre la tienes a la mano #No es la mejor opción. Protegida y disponible.
+	~En más inventario #No es la mejor opción. Protegida y disponible.
+}
+
+::M3 U03 P3::Tu seguro cuesta $1,200 al año. ¿Cuánto apartas al mes? {
+	~$120 #No es la mejor opción. $1,200 entre 12.
+	=$100 #¡Correcto! $1,200 entre 12.
+	~$1,200 #No es la mejor opción. $1,200 entre 12.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M4
+
+::M4 U01 P1::Cobras $5,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
+	=$150 #¡Correcto! 3% de $5,000.
+	~$500 #No es la mejor opción. 3% de $5,000.
+	~$15 #No es la mejor opción. 3% de $5,000.
+}
+
+::M4 U01 P2::¿Los cobros por apps de pago son ingreso del negocio? {
+	~No, si son menos de $600 #No es la mejor opción. Todo ingreso se declara.
+	=Sí, llegue por donde llegue #¡Correcto! Todo ingreso se declara.
+	~Solo si recibes un formulario 1099-K #No es la mejor opción. Todo ingreso se declara.
+}
+
+::M4 U01 P3::Opción A\: 2.6% sin cargo mensual. Opción B\: 2.3% más $30 al mes. Vendes $4,000 con tarjeta. ¿Cuál es más barata, sin contar cuotas fijas? {
+	=La A\: $104 #¡Correcto! $104 contra $92 más $30.
+	~La B\: $122 #No es la mejor opción. $104 contra $92 más $30.
+	~Cuestan igual #No es la mejor opción. $104 contra $92 más $30.
+}
+
+::M4 U02 P1::¿Cuándo entregas un pedido pagado por app? {
+	~Cuando te mandan la captura #No es la mejor opción. La captura no es prueba.
+	~Cuando el cliente te jura por teléfono que ya pagó #No es la mejor opción. La captura no es prueba.
+	=Cuando el dinero está disponible en tu cuenta #¡Correcto! La captura no es prueba.
+}
+
+::M4 U02 P2::¿Qué compartes para que te paguen? {
+	=Tu usuario o correo de cobro #¡Correcto! Basta para cobrar.
+	~Tu contraseña #No es la mejor opción. Basta para cobrar.
+	~El código que te llegó por mensaje #No es la mejor opción. Basta para cobrar.
+}
+
+::M4 U02 P3::Un correo dice que tu pago está detenido hasta que pagues una «actualización». ¿Qué es? {
+	~Un trámite normal de la app #No es la mejor opción. Las apps no cobran así.
+	=Un fraude\: revisa dentro de la app #¡Correcto! Las apps no cobran así.
+	~Un cargo de tu banco #No es la mejor opción. Las apps no cobran así.
+}
+
+::M4 U03 P1::Te pagan de más con un cheque y piden la diferencia. ¿Qué haces? {
+	~Regresas la diferencia en cuanto el cheque aparece disponible #No es la mejor opción. Es el fraude del cheque.
+	=No regresas nada y pides el monto exacto #¡Correcto! Es el fraude del cheque.
+	~Regresas la mitad #No es la mejor opción. Es el fraude del cheque.
+}
+
+::M4 U03 P2::Tu proveedor te escribe que cambió de cuenta. ¿Qué haces? {
+	~Pagas a la nueva cuenta #No es la mejor opción. Confirma por otro medio.
+	~Respondes al mismo correo para confirmar #No es la mejor opción. Confirma por otro medio.
+	=Llamas al número que ya tenías #¡Correcto! Confirma por otro medio.
+}
+
+::M4 U03 P3::¿Cuál es una señal de fraude al vender? {
+	=Prisa, compra grande y envío a otra dirección #¡Correcto! La prisa es un gancho.
+	~Un cliente que pregunta por tallas, colores y tiempos de envío #No es la mejor opción. La prisa es un gancho.
+	~Un pago disponible por el monto exacto #No es la mejor opción. La prisa es un gancho.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M5
+
+::M5 U01 P1::¿Qué forma de negocio empieza sin trámite de empresa? {
+	=Dueño único #¡Correcto! Empiezas al vender.
+	~LLC #No es la mejor opción. Empiezas al vender.
+	~Corporación #No es la mejor opción. Empiezas al vender.
+}
+
+::M5 U01 P2::Tu LLC en California no tuvo ventas este año. ¿Paga el impuesto mínimo? {
+	~No, si no vendió #No es la mejor opción. Aunque no venda.
+	~Solo si ganó más de $10,000 #No es la mejor opción. Aunque no venda.
+	=Sí, $800 mientras exista #¡Correcto! Aunque no venda.
+}
+
+::M5 U01 P3::¿Qué hace que una LLC pierda protección? {
+	~Tener seguro #No es la mejor opción. La separación se rompe.
+	=Mezclar el dinero de la LLC con el tuyo #¡Correcto! La separación se rompe.
+	~Tener una cuenta propia de la LLC #No es la mejor opción. La separación se rompe.
+}
+
+::M5 U02 P1::¿Dónde sacas tu EIN? {
+	~En un sitio privado que cobra una tarifa #No es la mejor opción. Es gratuito.
+	=Gratis en irs.gov #¡Correcto! Es gratuito.
+	~En tu banco #No es la mejor opción. Es gratuito.
+}
+
+::M5 U02 P2::¿Para qué sirve el ITIN? {
+	=Para declarar impuestos si no puedes tener SSN #¡Correcto! Número fiscal del IRS.
+	~Para trabajar como empleado #No es la mejor opción. Número fiscal del IRS.
+	~Para votar #No es la mejor opción. Número fiscal del IRS.
+}
+
+::M5 U02 P3::En California, ¿cuándo necesitas licencia de la CSLB? {
+	~Nunca para trabajos pequeños de pintura o reparación #No es la mejor opción. Regla vigente desde 2025.
+	~Solo si tienes empleados de tiempo completo #No es la mejor opción. Regla vigente desde 2025.
+	=En trabajos de más de $1,000 o que requieren permiso #¡Correcto! Regla vigente desde 2025.
+}
+
+::M5 U03 P1::¿Cuál es la tasa del impuesto sobre el trabajo por cuenta propia? {
+	=15.3% #¡Correcto! Seguro Social y Medicare.
+	~7.65% #No es la mejor opción. Seguro Social y Medicare.
+	~2.5% #No es la mejor opción. Seguro Social y Medicare.
+}
+
+::M5 U03 P2::Ganaste $350 limpios en el año con tu negocio. ¿Pagas impuesto por cuenta propia? {
+	~Sí, siempre, aunque ganes poco #No es la mejor opción. El mínimo es $400.
+	~Sí, si vendiste por apps #No es la mejor opción. El mínimo es $400.
+	=No, porque es menos de $400 #¡Correcto! El mínimo es $400.
+}
+
+::M5 U03 P3::¿Qué necesitas para deducir un gasto? {
+	~Recordarlo #No es la mejor opción. Ordinario, necesario y con prueba.
+	=Que sea del negocio y tener prueba #¡Correcto! Ordinario, necesario y con prueba.
+	~Que sea mayor de $600 #No es la mejor opción. Ordinario, necesario y con prueba.
+}
+
+::M5 U04 P1::¿Cuál es una fecha de pago estimado de 2026? {
+	=15 de junio #¡Correcto! Segundo pago estimado.
+	~31 de diciembre #No es la mejor opción. Segundo pago estimado.
+	~1 de marzo #No es la mejor opción. Segundo pago estimado.
+}
+
+::M5 U04 P2::No recibiste 1099-K por tus ventas en una plataforma. ¿Qué haces? {
+	~No declaras esas ventas #No es la mejor opción. Todo ingreso se declara.
+	~Declaras solo si vendiste más de $600 #No es la mejor opción. Todo ingreso se declara.
+	=Las declaras igual #¡Correcto! Todo ingreso se declara.
+}
+
+::M5 U04 P3::Te llaman «del IRS» para pagar hoy con tarjetas de regalo. ¿Qué es? {
+	=Un fraude #¡Correcto! El IRS no cobra así.
+	~Un cobro urgente real #No es la mejor opción. El IRS no cobra así.
+	~Un nuevo método del IRS para pagos pequeños #No es la mejor opción. El IRS no cobra así.
+}
+
+::M5 U05 P1::¿Cuál es la tasa estatal base de sales tax en California? {
+	~16% #No es la mejor opción. Más tasas locales.
+	~0% #No es la mejor opción. Más tasas locales.
+	=7.25% #¡Correcto! Más tasas locales.
+}
+
+::M5 U05 P2::Vendes $1,000 en productos con una tasa de 9%. ¿Cuánto impuesto cobras? {
+	=$90 #¡Correcto! 9% de $1,000.
+	~$9 #No es la mejor opción. 9% de $1,000.
+	~$900 #No es la mejor opción. 9% de $1,000.
+}
+
+::M5 U05 P3::¿Qué haces con el sales tax que cobras? {
+	~Lo usas para comprar material #No es la mejor opción. Es del estado.
+	=Lo separas y lo entregas al estado #¡Correcto! Es del estado.
+	~Lo guardas como reserva del negocio #No es la mejor opción. Es del estado.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M6
+
+::M6 U01 P1::La ganancia extra es $300 al mes y el pago es $400. ¿Qué pasa? {
+	~El crédito se paga solo #No es la mejor opción. Pago mayor que ganancia.
+	=Te faltan $100 al mes #¡Correcto! Pago mayor que ganancia.
+	~Ganas $100 #No es la mejor opción. Pago mayor que ganancia.
+}
+
+::M6 U01 P2::¿Para qué es más sano un crédito del negocio? {
+	~Para pagar gastos de la casa este mes #No es la mejor opción. Puede pagarse solo.
+	~Para cubrir las pérdidas de los últimos meses #No es la mejor opción. Puede pagarse solo.
+	=Para algo que genere ventas #¡Correcto! Puede pagarse solo.
+}
+
+::M6 U01 P3::¿Qué haces antes de pedir crédito para un pedido? {
+	=Revisas si el cliente puede dar depósito #¡Correcto! Alternativa sin intereses.
+	~Pides el monto máximo #No es la mejor opción. Alternativa sin intereses.
+	~Firmas rápido el primer crédito para no perder la oferta del día #No es la mejor opción. Alternativa sin intereses.
+}
+
+::M6 U02 P1::Te piden una cuota para liberar tu préstamo. ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Nunca pagues por adelantado.
+	~Una comisión de apertura de ley #No es la mejor opción. Nunca pagues por adelantado.
+	=Una señal de fraude #¡Correcto! Nunca pagues por adelantado.
+}
+
+::M6 U02 P2::¿Dónde verificas a un prestamista en California? {
+	=En el DFPI #¡Correcto! Regulador del estado.
+	~En sus redes sociales #No es la mejor opción. Regulador del estado.
+	~En las reseñas de su app #No es la mejor opción. Regulador del estado.
+}
+
+::M6 U02 P3::¿Hasta cuánto prestan los microcréditos de la SBA? {
+	~$5,000 #No es la mejor opción. A través de intermediarios.
+	=$50,000 #¡Correcto! A través de intermediarios.
+	~Sin límite #No es la mejor opción. A través de intermediarios.
+}
+
+::M6 U03 P1::Dos créditos de igual monto y plazo\: APR 12% y APR 30%. ¿Cuál es más barato? {
+	=El de 12% #¡Correcto! Menor APR.
+	~El de 30% #No es la mejor opción. Menor APR.
+	~Cuestan igual #No es la mejor opción. Menor APR.
+}
+
+::M6 U03 P2::Un adelanto de $5,000 con factor de 1.4. ¿Cuánto pagas en total? {
+	~$5,400 #No es la mejor opción. $5,000 por 1.4.
+	~$1,400 #No es la mejor opción. $5,000 por 1.4.
+	=$7,000 #¡Correcto! $5,000 por 1.4.
+}
+
+::M6 U03 P3::¿Qué es una garantía personal? {
+	~Que el préstamo no se cobra si el negocio cierra #No es la mejor opción. Respondes con tus bienes.
+	=Que pagas tú si el negocio no paga #¡Correcto! Respondes con tus bienes.
+	~Un seguro gratuito #No es la mejor opción. Respondes con tus bienes.
+}
+
+::M6 U04 P1::¿Cuándo es aceptable usar tu tarjeta personal para el negocio? {
+	~Si pagas el mínimo cada mes #No es la mejor opción. Sin intereses.
+	~Siempre que el negocio lo necesite, aunque no pagues el total #No es la mejor opción. Sin intereses.
+	=Si pagas el total cada mes y guardas recibos #¡Correcto! Sin intereses.
+}
+
+::M6 U04 P2::Si eres cofirmante y el deudor no paga, ¿qué pasa? {
+	=Te pueden cobrar a ti #¡Correcto! Respondes por la deuda.
+	~Nada, solo firmaste #No es la mejor opción. Respondes por la deuda.
+	~El banco perdona la deuda #No es la mejor opción. Respondes por la deuda.
+}
+
+::M6 U04 P3::¿De dónde prestas a un familiar? {
+	~De la cuenta del negocio #No es la mejor opción. Sin afectar el negocio.
+	=De tu sueldo o tu ahorro, por escrito #¡Correcto! Sin afectar el negocio.
+	~Con la tarjeta del negocio #No es la mejor opción. Sin afectar el negocio.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M7
+
+::M7 U01 P1::¿Dónde revisas seguro médico en California si trabajas por tu cuenta? {
+	=En Covered California y Medi-Cal #¡Correcto! Opciones oficiales.
+	~Solo con tu banco #No es la mejor opción. Opciones oficiales.
+	~En el IRS #No es la mejor opción. Opciones oficiales.
+}
+
+::M7 U01 P2::Perdiste el seguro de tu trabajo a mitad de año. ¿Qué puedes revisar? {
+	~Nada, esperas a noviembre #No es la mejor opción. Cambio de vida.
+	=Si ese cambio te permite inscribirte ya #¡Correcto! Cambio de vida.
+	~Un préstamo para consultas #No es la mejor opción. Cambio de vida.
+}
+
+::M7 U01 P3::Recibes ayuda para tu prima y tu ingreso sube. ¿Qué haces? {
+	~No haces nada hasta el próximo año #No es la mejor opción. Evita deber al declarar.
+	~Cancelas el seguro #No es la mejor opción. Evita deber al declarar.
+	=Actualizas tu ingreso estimado #¡Correcto! Evita deber al declarar.
+}
+
+::M7 U02 P1::Un cliente se resbala en tu puesto. ¿Qué seguro ayuda? {
+	~Seguro de vida #No es la mejor opción. Daños a terceros.
+	=Responsabilidad civil general #¡Correcto! Daños a terceros.
+	~Seguro de auto personal #No es la mejor opción. Daños a terceros.
+}
+
+::M7 U02 P2::¿Qué es el deducible? {
+	=La parte del daño que pagas tú #¡Correcto! Tu parte.
+	~Lo que paga la aseguradora #No es la mejor opción. Tu parte.
+	~El precio de la póliza #No es la mejor opción. Tu parte.
+}
+
+::M7 U02 P3::Tienes un empleado en California. ¿Qué seguro es obligatorio? {
+	~Seguro de vida para el empleado #No es la mejor opción. Obligatorio con empleados.
+	~Seguro de equipo #No es la mejor opción. Obligatorio con empleados.
+	=Compensación al trabajador #¡Correcto! Obligatorio con empleados.
+}
+
+::M7 U03 P1::Una carta cobra por un «certificado» de tu LLC con amenaza de multa. ¿Qué haces primero? {
+	~Pagas para evitar la multa #No es la mejor opción. Verifica antes de pagar.
+	~Llamas al número de la carta #No es la mejor opción. Verifica antes de pagar.
+	=Revisas el remitente y verificas en el sitio oficial #¡Correcto! Verifica antes de pagar.
+}
+
+::M7 U03 P2::¿Con qué nunca paga una autoridad real? {
+	=Con tarjetas de regalo #¡Correcto! Señal de fraude.
+	~Con cheque #No es la mejor opción. Señal de fraude.
+	~En su sitio oficial #No es la mejor opción. Señal de fraude.
+}
+
+::M7 U03 P3::¿Dónde reportas un fraude a tu negocio? {
+	~En las reseñas de la empresa #No es la mejor opción. Reporte oficial.
+	=En ReportFraud.ftc.gov #¡Correcto! Reporte oficial.
+	~En ningún lado #No es la mejor opción. Reporte oficial.
+}
+
+::M7 U04 P1::¿Dónde buscas si un nombre ya es marca federal? {
+	=En la USPTO #¡Correcto! Buscador oficial.
+	~En redes sociales #No es la mejor opción. Buscador oficial.
+	~En un buscador de internet #No es la mejor opción. Buscador oficial.
+}
+
+::M7 U04 P2::¿Tu cuenta de redes te da derecho exclusivo sobre el nombre en todo el país? {
+	~Sí, si tiene muchos seguidores #No es la mejor opción. Solo el registro.
+	~Sí, si la abriste primero #No es la mejor opción. Solo el registro.
+	=No #¡Correcto! Solo el registro.
+}
+
+::M7 U04 P3::¿De qué dominio vienen los avisos reales de la USPTO? {
+	~De cualquier correo con «marca» en el asunto #No es la mejor opción. Dominio oficial.
+	=De uspto.gov #¡Correcto! Dominio oficial.
+	~De un despacho que te escribe primero #No es la mejor opción. Dominio oficial.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M8
+
+::M8 U01 P1::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {
+	=Un empleado #¡Correcto! Tú controlas el trabajo.
+	~Un contratista independiente #No es la mejor opción. Tú controlas el trabajo.
+	~Un socio #No es la mejor opción. Tú controlas el trabajo.
+}
+
+::M8 U01 P2::¿Qué seguro es obligatorio en California si tienes empleados? {
+	~Seguro de vida para cada empleado #No es la mejor opción. Obligatorio.
+	=Compensación al trabajador #¡Correcto! Obligatorio.
+	~Seguro de auto #No es la mejor opción. Obligatorio.
+}
+
+::M8 U01 P3::Pagas $2,500 en el año a un diseñador independiente. ¿Qué le envías? {
+	~Un W-2 #No es la mejor opción. Desde $2,000 en 2026.
+	~Nada #No es la mejor opción. Desde $2,000 en 2026.
+	=Un 1099-NEC #¡Correcto! Desde $2,000 en 2026.
+}
+
+::M8 U02 P1::¿Cuándo envía una plataforma el 1099-K? {
+	~Siempre, desde la primera venta #No es la mejor opción. Umbral vigente.
+	=Con más de $20,000 y más de 200 transacciones #¡Correcto! Umbral vigente.
+	~Solo si lo pides #No es la mejor opción. Umbral vigente.
+}
+
+::M8 U02 P2::Tu 1099-K muestra $24,000 brutos. ¿Cuánto declaras como ganancia? {
+	~$24,000 completos #No es la mejor opción. Se restan costos.
+	~Nada, ya lo reportó la plataforma #No es la mejor opción. Se restan costos.
+	=Los cobros menos devoluciones, comisiones y costos #¡Correcto! Se restan costos.
+}
+
+::M8 U02 P3::¿Quién suele cobrar el sales tax de ventas en plataformas grandes? {
+	=La plataforma #¡Correcto! Facilitador de mercado.
+	~Nadie #No es la mejor opción. Facilitador de mercado.
+	~Tu cliente directamente al estado #No es la mejor opción. Facilitador de mercado.
+}
+
+::M8 U03 P1::Ventas de $6,000 en 400 ventas. ¿Ticket promedio? {
+	~$2,400 #No es la mejor opción. $6,000 entre 400.
+	~$150 #No es la mejor opción. $6,000 entre 400.
+	=$15 #¡Correcto! $6,000 entre 400.
+}
+
+::M8 U03 P2::Tu margen bajó. ¿Qué revisas primero? {
+	=Precios y costos de lo que vendes #¡Correcto! El margen depende de ellos.
+	~El color de tu logo #No es la mejor opción. El margen depende de ellos.
+	~Tu límite de la tarjeta #No es la mejor opción. El margen depende de ellos.
+}
+
+::M8 U03 P3::Tu negocio tiene temporadas. ¿Con qué comparas julio? {
+	~Con junio #No es la mejor opción. Misma temporada.
+	=Con julio del año pasado #¡Correcto! Misma temporada.
+	~Con enero #No es la mejor opción. Misma temporada.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES/M9
+
+::M9 U01 P1::¿Dónde revisas tu historial del Seguro Social? {
+	~En tu banco #No es la mejor opción. Sitio oficial.
+	=En ssa.gov #¡Correcto! Sitio oficial.
+	~En el IRS #No es la mejor opción. Sitio oficial.
+}
+
+::M9 U01 P2::¿Cuánto puedes aportar a una IRA en 2026 si tienes menos de 50 años? {
+	~$72,000 #No es la mejor opción. Límite de 2026.
+	~$24,500 #No es la mejor opción. Límite de 2026.
+	=$7,500 #¡Correcto! Límite de 2026.
+}
+
+::M9 U01 P3::¿Por qué el negocio no basta como retiro? {
+	=Depende de que puedas trabajar #¡Correcto! Tu salud cambia.
+	~Porque los negocios pequeños no pagan impuestos #No es la mejor opción. Tu salud cambia.
+	~Porque es pequeño #No es la mejor opción. Tu salud cambia.
+}
+
+::M9 U02 P1::Cierras tu negocio con LLC en California. ¿Qué haces? {
+	~Nada\: solo dejas de vender hasta que vuelvas #No es la mejor opción. El mínimo sigue corriendo.
+	~Cancelas tu cuenta del banco y listo #No es la mejor opción. El mínimo sigue corriendo.
+	=La disuelves formalmente para no seguir pagando el mínimo #¡Correcto! El mínimo sigue corriendo.
+}
+
+::M9 U02 P2::¿Qué no debe ir escrito en tu carpeta del negocio? {
+	=Tus contraseñas #¡Correcto! Riesgo de robo.
+	~La lista de proveedores #No es la mejor opción. Riesgo de robo.
+	~Las fechas de pago #No es la mejor opción. Riesgo de robo.
+}
+
+::M9 U02 P3::¿Cómo pasas el negocio a un familiar? {
+	~De palabra #No es la mejor opción. Evita conflictos.
+	=Con un acuerdo por escrito #¡Correcto! Evita conflictos.
+	~Sin avisar a nadie #No es la mejor opción. Evita conflictos.
+}
+
+::M9 U03 P1::¿Cada cuánto revisas tu plan de una página? {
+	=Cada tres meses #¡Correcto! Revisión trimestral.
+	~Una vez en la vida #No es la mejor opción. Revisión trimestral.
+	~Cada día #No es la mejor opción. Revisión trimestral.
+}
+
+::M9 U03 P2::¿Por dónde empiezas si te faltan muchas cosas? {
+	~Por registrar tu marca #No es la mejor opción. La base de todo.
+	=Por separar el dinero y apartar impuestos #¡Correcto! La base de todo.
+	~Por pedir un préstamo para ordenar todo de una vez #No es la mejor opción. La base de todo.
+}
+
+::M9 U03 P3::¿Qué compartes en la comunidad? {
+	~Tus montos, cuentas y ventas reales del mes #No es la mejor opción. Sin datos.
+	~Tu número de Seguro Social #No es la mejor opción. Sin datos.
+	=Tu plan sin datos personales #¡Correcto! Sin datos.
+}

@@ -1,0 +1,766 @@
+# Módulo 5. Formalízate e impuestos sin miedo
+
+## M5 U01. ¿Dueño único, LLC u otra forma?
+
+**Lo que lograrás:** Conocer las formas más comunes de organizar un negocio pequeño, qué protegen y cuánto cuestan, para decidir con información.
+
+**Para empezar:** A Javier le dijeron que «tiene que abrir una LLC» para trabajar con contratistas. Un sitio en internet le cobra $299 por hacerlo. No sabe si la necesita. En esta lección verás las opciones.
+
+### Lo esencial (5 minutos)
+
+#### Las formas más comunes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Dueño único (sole proprietor) | Empiezas al vender; sin trámite de empresa. | Tú respondes con tus bienes. |
+| LLC | Empresa registrada en tu estado. | Separa tus bienes personales de las deudas del negocio, si la manejas bien. |
+| Sociedad (partnership) | Dos o más dueños. | Acuerdo por escrito. |
+| Corporación | Más trámites y reglas. | Para negocios más grandes. |
+
+#### La pregunta clave
+
+Una LLC puede proteger tu casa y tus ahorros si el negocio tiene deudas o demandas, pero cuesta dinero cada año y exige mantener todo separado. Para muchos negocios que empiezan, ser dueño único con buen seguro es suficiente al inicio.
+
+> **Dato vigente:** en California, una LLC paga un impuesto mínimo anual de $800 al Franchise Tax Board, aunque no tenga ingresos, hasta que se disuelve formalmente; también presenta una declaración de información cada dos años ante el Secretary of State. Consultado el 29 de septiembre de 2026 a través del Franchise Tax Board y el Secretary of State de California.
+
+
+
+#### Un caso en un minuto
+
+Javier hizo cuentas: la LLC le costaría al menos $800 al año en California. Decidió empezar como dueño único con un seguro de responsabilidad civil (M7 U02) y revisar la LLC cuando crezca. Si la abre, lo hará en el sitio oficial del estado, sin pagar $299 a un intermediario.
+
+> **Idea clave:** la LLC protege, pero cuesta; compara con tu riesgo y tu seguro, y haz los trámites en los sitios oficiales.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué protege una LLC?
+*Respuesta:* Tus bienes personales frente a deudas o demandas del negocio, si la manejas bien.
+
+2. ¿Cuánto cuesta una LLC en California como mínimo al año?
+*Respuesta:* $800 de impuesto mínimo anual.
+
+
+#### Para recordar
+
+- Dueño único: sencillo, sin separación.
+- LLC: protege, pero cuesta.
+- Trámites en sitios oficiales.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Nombre comercial (DBA)
+
+Si como dueño único usas un nombre distinto al tuyo («Tamales Lupita»), en California registras un nombre comercial ficticio (Fictitious Business Name o DBA) en tu condado. No es una empresa: solo registra el nombre.
+
+
+
+#### Para que la LLC te proteja
+
+Usa una cuenta bancaria solo de la LLC, firma contratos a nombre de la LLC y no mezcles dinero. Si mezclas, un juez puede no respetar la separación.
+
+
+
+#### Cuidado con los intermediarios
+
+Muchos sitios cobran por abrir una LLC o sacar un EIN, trámites que puedes hacer tú en los sitios oficiales. También llegan cartas que imitan al gobierno cobrando por «certificados» o «reportes anuales». Revisa siempre el remitente.
+
+> **Antes de actuar, verifica:** las reglas y costos de tu estado en el sitio del Secretary of State; si tienes dudas, consulta a un contador o a un centro gratuito de la SBA (SBDC).
+
+
+
+#### Casos
+
+
+**Caso 1. La LLC de Javier**
+
+Un sitio le cobra a Javier $299 por abrir una LLC «obligatoria».
+- *¿Qué hace?* Compara costos y riesgos, y si la abre, lo hace en el sitio oficial del estado.
+
+
+**Caso 2. El nombre de Lupita**
+
+Lupita vende como «Tamales Lupita» y es dueña única.
+- *¿Qué hace?* Registra su nombre comercial ficticio en su condado.
+
+
+**Caso 3. La cuenta de la LLC de Daniela**
+
+Daniela tiene una LLC, pero cobra en su cuenta personal.
+- *¿Qué hace?* Abre una cuenta solo de la LLC y deja de mezclar.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Abrir LLC sin calcular | $800 cada año | Compara |
+| Pagar intermediarios | Gasto innecesario | Sitio oficial |
+| Mezclar en la LLC | Pierdes protección | Cuenta aparte |
+| Olvidar el DBA | Problemas con bancos | Registra tu nombre |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Javier, Lupita y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué forma de negocio empieza sin trámite de empresa? a) Dueño único · b) LLC · c) Corporación
+2. Tu LLC en California no tuvo ventas este año. ¿Paga el impuesto mínimo? a) No, si no vendió · b) Solo si ganó más de $10,000 · c) Sí, $800 mientras exista
+3. ¿Qué hace que una LLC pierda protección? a) Tener seguro · b) Mezclar el dinero de la LLC con el tuyo · c) Tener una cuenta propia de la LLC
+**Respuestas:** 1-a: empiezas al vender. 2-c: aunque no venda. 3-b: la separación se rompe.
+
+
+
+#### Ponlo en práctica
+
+Mantienes una LLC en California durante 3 años. ¿Cuánto pagas como mínimo en impuesto anual?
+**Respuesta:** $800 por 3: $2,400.
+
+
+
+#### A tu plan
+
+Anota qué forma tiene hoy tu negocio y qué riesgo te preocupa; revisa las reglas de tu estado.
+
+
+
+### Para saber más
+
+- **Elige una estructura** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «estructura empresarial».
+- **LLC en California** (Secretary of State · inglés): https://bizfileonline.sos.ca.gov — **Qué buscar:** «LLC».
+
+### Palabras clave
+
+- *LLC:* compañía de responsabilidad limitada: empresa registrada en un estado que separa tus bienes personales de las deudas del negocio.
+- *Dueño único (sole proprietor):* persona que tiene un negocio a su nombre, sin crear una empresa aparte.
+- *DBA:* nombre comercial ficticio con el que operas.
+
+### Fuentes
+
+SBA · Franchise Tax Board · California Secretary of State, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U02. Números y permisos: EIN, ITIN y licencias
+
+**Lo que lograrás:** Saber qué número fiscal usar, cómo tramitar un EIN gratis y qué licencias y permisos puede necesitar tu negocio.
+
+**Para empezar:** Lupita quiere vender tamales en un mercado y le piden «licencia, permiso de salud y seller's permit». No sabe por dónde empezar ni si puede con su ITIN. En esta lección verás los números y permisos más comunes.
+
+### Lo esencial (5 minutos)
+
+#### Tus números fiscales
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| SSN o ITIN | Tu número personal para impuestos. | El ITIN sirve para declarar si no tienes SSN. |
+| EIN | Número del negocio ante el IRS. | Gratis en irs.gov. |
+| Seller's permit (California) | Para vender productos con sales tax. | Del CDTFA, sin costo. |
+| Sitios que cobran por el EIN | El trámite es gratis. | No pagues. |
+
+#### El EIN
+
+El EIN identifica a tu negocio. Lo necesitas si tienes empleados o una LLC con ciertas características, y es útil para abrir cuentas y dar a clientes en lugar de tu SSN. Se tramita gratis en el sitio del IRS; quien lo solicita debe tener SSN o ITIN.
+
+
+
+#### Permisos que puedes necesitar
+
+1. **Licencia de negocio** de tu ciudad o condado.
+2. **Seller's permit** del CDTFA si vendes productos (M5 U05).
+3. **Permiso de salud** del condado si vendes comida (por ejemplo, operación de comida casera o Cottage Food, o permiso para food truck).
+4. **Licencia profesional** si tu oficio la pide (por ejemplo, la CSLB para construcción).
+
+> **Dato vigente:** en California, los trabajos de construcción o reparación de más de $1,000 en total (mano de obra y materiales), o que requieren permiso, necesitan licencia de la Contractors State License Board (CSLB). Consultado el 29 de septiembre de 2026 a través de la CSLB (AB 2622, vigente desde el 1 de enero de 2025).
+
+
+
+#### Un caso en un minuto
+
+Lupita sacó su EIN gratis en irs.gov con su ITIN, pidió su seller's permit al CDTFA sin costo y se registró como operación de comida casera en el departamento de salud de su condado. Ahora puede vender en el mercado.
+
+> **Idea clave:** el EIN y el seller's permit son gratis en los sitios oficiales; revisa en tu ciudad y tu condado qué licencias pide tu giro.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuánto cuesta el EIN?
+*Respuesta:* Nada: es gratis en irs.gov.
+
+2. ¿Qué permiso necesitas en California para vender productos con impuesto sobre ventas?
+*Respuesta:* El seller's permit del CDTFA.
+
+
+#### Para recordar
+
+- EIN gratis en irs.gov.
+- Seller's permit sin costo.
+- Licencias según ciudad y giro.
+
+
+
+### Profundiza (5 minutos más)
+
+#### El ITIN
+
+El ITIN es un número del IRS para quien debe declarar impuestos y no puede tener SSN. Con él puedes declarar los ingresos de tu negocio y solicitar un EIN. Se tramita con el formulario W-7, directamente o con un Agente Tramitador Certificado (CAA). Declarar tus ingresos crea un historial que puede servirte para crédito y otros trámites.
+
+
+
+#### Tu situación migratoria
+
+Este curso no da asesoría migratoria. Si tienes dudas sobre cómo tu situación afecta tu negocio, consulta a un abogado de inmigración o a una organización acreditada por el Departamento de Justicia. Desconfía de «notarios» que ofrecen trámites migratorios.
+
+
+
+#### Busca lo que pide tu ciudad
+
+CalGold (calgold.ca.gov) te muestra los permisos que suelen pedirse en California según tu ciudad y tu giro. En otros estados, busca la oficina de pequeños negocios de tu estado o tu SBDC local.
+
+
+
+#### Casos
+
+
+**Caso 1. El EIN de Lupita**
+
+Un sitio cobra a Lupita $150 por tramitar su EIN.
+- *¿Qué hace?* Lo tramita gratis en irs.gov con su ITIN.
+
+
+**Caso 2. El trabajo grande de Javier**
+
+A Javier le ofrecen remodelar un baño por $4,000.
+- *¿Qué revisa?* Que en California necesita licencia de la CSLB para trabajos de más de $1,000.
+
+
+**Caso 3. El notario de Don Ramón**
+
+Un «notario» ofrece a Don Ramón arreglar sus papeles migratorios y sus permisos por $2,000.
+- *¿Qué hace?* No le paga y busca un abogado o una organización acreditada.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar por el EIN | Gasto innecesario | irs.gov |
+| Vender sin permisos | Multas o cierre | Revisa en tu ciudad |
+| Trabajos grandes sin licencia | Multas y sin cobro | Revisa la CSLB |
+| Confiar en «notarios» | Fraude | Abogado o organización acreditada |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lupita, Javier y Don Ramón. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde sacas tu EIN? a) En un sitio privado que cobra una tarifa · b) Gratis en irs.gov · c) En tu banco
+2. ¿Para qué sirve el ITIN? a) Para declarar impuestos si no puedes tener SSN · b) Para trabajar como empleado · c) Para votar
+3. En California, ¿cuándo necesitas licencia de la CSLB? a) Nunca para trabajos pequeños de pintura o reparación · b) Solo si tienes empleados de tiempo completo · c) En trabajos de más de $1,000 o que requieren permiso
+**Respuestas:** 1-b: es gratuito. 2-a: número fiscal del IRS. 3-c: regla vigente desde 2025.
+
+
+
+#### Ponlo en práctica
+
+Un sitio te cobra $150 por el EIN y $100 por el seller's permit. ¿Cuánto te ahorras haciéndolo tú?
+**Respuesta:** $250.
+
+
+
+#### A tu plan
+
+Busca en CalGold (o la oficina de tu estado) qué licencias pide tu giro en tu ciudad.
+
+
+
+### Para saber más
+
+- **Solicita un EIN** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «número de identificación del empleador».
+- **ITIN** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «ITIN formulario W-7».
+- **Permisos en California** (CalGold · inglés): https://www.calgold.ca.gov — **Qué buscar:** tu ciudad y tu giro.
+
+### Palabras clave
+
+- *EIN:* número de identificación del empleador: número del negocio ante el IRS, gratuito.
+- *ITIN:* número de identificación personal del contribuyente, para quien no puede tener SSN.
+- *Seller's permit:* permiso de California para vender productos y cobrar impuesto sobre ventas.
+
+### Fuentes
+
+IRS · CDTFA · CSLB · CalGold, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U03. Tus impuestos federales como dueño
+
+**Lo que lograrás:** Entender los dos impuestos federales que paga un dueño único, qué gastos se deducen y cuánto apartar.
+
+**Para empezar:** Daniela ganó $14,000 limpios en su primer año vendiendo joyería. En abril descubrió que debía más de $2,000 al IRS y no había apartado nada. En esta lección verás por qué y cómo prepararte.
+
+### Lo esencial (5 minutos)
+
+#### Dos impuestos sobre tu ganancia
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Impuesto sobre el trabajo por cuenta propia | Seguro Social y Medicare. | 15.3% de casi toda tu ganancia. |
+| Impuesto sobre la renta | Según tu ingreso total y tu familia. | Puede ser 0% o más. |
+| Deducciones del negocio | Gastos ordinarios y necesarios. | Bajan tu ganancia. |
+| Deducción de 20% (QBI) | Sobre la ganancia del negocio, con límites. | Baja tu impuesto sobre la renta. |
+
+#### El impuesto por cuenta propia de Daniela
+
+- Ganancia neta del año: **$14,000**
+× 92.35% | Base del impuesto
+× 15.3% | Tasa
+- Impuesto por cuenta propia (aprox.): **$1,978**
+Además, según su ingreso total, puede deber impuesto sobre la renta.
+
+
+#### Un caso en un minuto
+
+Daniela no sabía que, como dueña, paga el Seguro Social y el Medicare completos. Este año aparta 25% de cada ganancia en una cuenta aparte y lleva sus recibos para deducir material, envíos y comisiones.
+
+> **Idea clave:** como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta; aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué dos impuestos federales paga un dueño único sobre su ganancia?
+*Respuesta:* El impuesto sobre el trabajo por cuenta propia y el impuesto sobre la renta.
+
+2. ¿Desde qué ganancia pagas el impuesto por cuenta propia?
+*Respuesta:* Desde $400 de ganancia neta al año.
+
+
+#### Para recordar
+
+- 15.3% por cuenta propia.
+- Más impuesto sobre la renta.
+- Deducciones con recibos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Gastos que suelen deducirse
+
+| Gasto | Qué necesitas |
+|---|---|
+| Material, ingredientes, mercancía | Recibos |
+| Comisiones de apps y tarjetas | Estados de cuenta |
+| Millas del negocio (tarifa estándar) | Registro de viajes |
+| Parte del teléfono e internet | Cálculo del uso del negocio |
+| Oficina en casa (espacio usado solo para el negocio) | Medidas y reglas del IRS |
+| Seguro del negocio, licencias, permisos | Recibos |
+
+
+
+#### El Schedule C
+
+Como dueño único, reportas ventas y gastos en el Schedule C de tu declaración (Formulario 1040) y calculas el impuesto por cuenta propia en el Schedule SE. La mitad del impuesto por cuenta propia se resta de tu ingreso.
+
+
+
+#### Ayuda gratuita o de bajo costo
+
+Los programas VITA ayudan gratis a personas con ingresos moderados, aunque no todos atienden negocios con gastos complejos. Si tu negocio crece, un contador o un preparador con PTIN te ahorra errores. Tu estado (en California, el Franchise Tax Board) también cobra impuesto sobre la renta.
+
+> **Antes de actuar, verifica:** tu situación con un preparador de impuestos; las reglas cambian cada año y dependen de tu familia y tus otros ingresos.
+
+
+
+#### Casos
+
+
+**Caso 1. La sorpresa de Daniela**
+
+Daniela debe más de $2,000 al IRS y no apartó nada.
+- *¿Qué hace desde hoy?* Aparta 25% de cada ganancia y guarda recibos para deducir.
+
+
+**Caso 2. Los recibos de Javier**
+
+Javier no guarda los recibos de pintura porque «el IRS no los pide».
+- *¿Qué hace?* Los guarda: sin recibos no puede demostrar sus deducciones.
+
+
+**Caso 3. La ganancia pequeña de Lupita**
+
+Lupita ganó $3,000 limpios en el año y cree que no tiene que declarar.
+- *¿Qué revisa?* Que con $400 o más de ganancia debe declarar y pagar impuesto por cuenta propia.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No apartar | Deuda con el IRS | 25% a 30% |
+| Sin recibos | Pierdes deducciones | Guárdalos |
+| Creer que ganancias chicas no se declaran | Multas | Desde $400 |
+| Olvidar el impuesto del estado | Doble sorpresa | Revisa tu estado |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Javier y Lupita. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es la tasa del impuesto sobre el trabajo por cuenta propia? a) 15.3% · b) 7.65% · c) 2.5%
+2. Ganaste $350 limpios en el año con tu negocio. ¿Pagas impuesto por cuenta propia? a) Sí, siempre, aunque ganes poco · b) Sí, si vendiste por apps · c) No, porque es menos de $400
+3. ¿Qué necesitas para deducir un gasto? a) Recordarlo · b) Que sea del negocio y tener prueba · c) Que sea mayor de $600
+**Respuestas:** 1-a: Seguro Social y Medicare. 2-c: el mínimo es $400. 3-b: ordinario, necesario y con prueba.
+
+
+
+#### Ponlo en práctica
+
+Tu ganancia neta es $20,000. ¿Cuánto es aproximadamente tu impuesto por cuenta propia?
+**Respuesta:** $20,000 por 92.35% por 15.3%: unos $2,826.
+
+
+
+#### A tu plan
+
+Abre una cuenta para impuestos y define qué porcentaje de cada ganancia apartarás.
+
+
+
+### Para saber más
+
+- **Impuesto sobre el trabajo por cuenta propia** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «trabajo por cuenta propia».
+- **Ayuda gratuita VITA** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «VITA».
+
+### Palabras clave
+
+- *Impuesto sobre el trabajo por cuenta propia:* Seguro Social y Medicare que paga quien trabaja por su cuenta.
+- *Deducción:* gasto que se resta de tus ingresos para calcular impuestos.
+- *QBI:* deducción de hasta 20% sobre la ganancia calificada de un negocio.
+
+### Fuentes
+
+IRS · One Big Beautiful Bill Act (2025), consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U04. Pagos trimestrales y formularios 1099
+
+**Lo que lograrás:** Conocer las fechas de los pagos estimados, los formularios 1099 que puedes recibir o enviar y cómo protegerte de fraudes «del IRS».
+
+**Para empezar:** Javier recibió un formulario 1099 de un contratista y no sabía qué era. Además, le llamaron «del IRS» diciendo que lo arrestarían si no pagaba con tarjetas de regalo. En esta lección verás tu calendario y cómo cuidarte.
+
+### Lo esencial (5 minutos)
+
+#### Pagos estimados
+
+Como nadie te retiene impuestos, el IRS espera que pagues durante el año con pagos estimados si calculas que deberás $1,000 o más. Si no, puedes pagar multas.
+
+> **Dato vigente:** las fechas de pagos estimados para el año fiscal 2026 son el 15 de abril, el 15 de junio y el 15 de septiembre de 2026, y el 15 de enero de 2027. Consultado el 29 de septiembre de 2026 a través del IRS (Formulario 1040-ES).
+
+
+
+#### Los formularios 1099
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| 1099-NEC | Un negocio te pagó por servicios. | Desde $2,000 en pagos de 2026. |
+| 1099-K | Una plataforma o procesador reporta tus cobros. | Más de $20,000 y más de 200 cobros. |
+| Todo ingreso se declara | Recibas o no un 1099. | Siempre. |
+| «Si no me llega 1099, no declaro» | Error común. | No es así. |
+
+#### Un caso en un minuto
+
+Javier entendió que el 1099-NEC solo reporta lo que ya ganó. Ahora paga cada trimestre en IRS Direct Pay con lo que aparta. La llamada «del IRS» era un fraude: el IRS no llama para exigir tarjetas de regalo.
+
+> **Idea clave:** paga tus impuestos cada trimestre y declara todo tu ingreso; el IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuándo debes hacer pagos estimados?
+*Respuesta:* Si calculas que deberás $1,000 o más al IRS en el año.
+
+2. ¿Declaras un ingreso si no recibiste 1099?
+*Respuesta:* Sí: todo ingreso se declara.
+
+
+#### Para recordar
+
+- Abril, junio, septiembre y enero.
+- Todo ingreso se declara.
+- El IRS no pide tarjetas de regalo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Cuánto pagar cada trimestre
+
+Una forma práctica: toma lo que apartaste (25% a 30% de tu ganancia del trimestre) y págalo en IRS Direct Pay o en tu cuenta en línea del IRS. Tu preparador de impuestos puede calcularlo mejor con el formulario 1040-ES. En California, el FTB también pide pagos estimados del impuesto estatal.
+
+
+
+#### Fraudes «del IRS»
+
+El IRS normalmente te contacta primero por correo postal. No llama para exigir pagos inmediatos, no pide tarjetas de regalo, criptomonedas ni transferencias a personas, y no amenaza con policía. Si dudas, entra tú a irs.gov o llama al número oficial.
+
+
+
+#### Tu PIN de protección de identidad
+
+El IRS ofrece un PIN de protección de identidad (IP PIN) para evitar que alguien presente una declaración con tu SSN o ITIN. Solicítalo en irs.gov.
+
+
+
+#### Casos
+
+
+**Caso 1. El 1099 de Javier**
+
+Javier recibió un 1099-NEC por $6,000 de un contratista.
+- *¿Qué hace?* Lo incluye en su declaración junto con el resto de sus ingresos.
+
+
+**Caso 2. La llamada a Don Ramón**
+
+Una llamada «del IRS» exige a Don Ramón pagar hoy con tarjetas de regalo.
+- *¿Qué hace?* Cuelga y revisa su cuenta en irs.gov; es un fraude.
+
+
+**Caso 3. Las ventas de Daniela**
+
+Daniela vendió $9,000 en una plataforma y no recibió 1099-K.
+- *¿Qué hace?* Declara esas ventas: todo ingreso se declara.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No pagar trimestral | Multas | Paga cada trimestre |
+| Esperar el 1099 | No declaras ingreso | Declara todo |
+| Pagar con tarjetas de regalo | Fraude | Nunca |
+| Contestar llamadas «del IRS» | Robo | Entra tú a irs.gov |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Javier, Don Ramón y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es una fecha de pago estimado de 2026? a) 15 de junio · b) 31 de diciembre · c) 1 de marzo
+2. No recibiste 1099-K por tus ventas en una plataforma. ¿Qué haces? a) No declaras esas ventas · b) Declaras solo si vendiste más de $600 · c) Las declaras igual
+3. Te llaman «del IRS» para pagar hoy con tarjetas de regalo. ¿Qué es? a) Un fraude · b) Un cobro urgente real · c) Un nuevo método del IRS para pagos pequeños
+**Respuestas:** 1-a: segundo pago estimado. 2-c: todo ingreso se declara. 3-a: el IRS no cobra así.
+
+
+
+#### Ponlo en práctica
+
+Tu ganancia del trimestre fue $5,000 y apartas 25%. ¿Cuánto pagas de estimado?
+**Respuesta:** $1,250.
+
+
+
+#### A tu plan
+
+Anota las cuatro fechas de pagos estimados en tu calendario y solicita tu IP PIN en irs.gov.
+
+
+
+### Para saber más
+
+- **Pagos estimados** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «impuesto estimado 1040-ES».
+- **Estafas del IRS** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «estafas».
+
+### Palabras clave
+
+- *Pagos estimados:* pagos de impuestos que haces cada trimestre sobre lo que vas ganando.
+- *1099-NEC:* formulario que reporta pagos por servicios a trabajadores independientes.
+- *1099-K:* formulario que reporta cobros por plataformas y procesadores de pago.
+- *IP PIN:* número del IRS que protege tu declaración contra el robo de identidad.
+
+### Fuentes
+
+IRS · One Big Beautiful Bill Act (2025), consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U05. El impuesto sobre ventas (sales tax)
+
+**Lo que lograrás:** Saber qué ventas llevan impuesto sobre ventas, cómo se cobra y cómo se entrega al estado.
+
+**Para empezar:** Lupita vende comida en un mercado y en fiestas. Alguien le dijo que tiene que cobrar sales tax; otra persona le dijo que la comida no lleva. En esta lección verás cómo funciona, con el ejemplo de California.
+
+### Lo esencial (5 minutos)
+
+#### El impuesto no es tuyo
+
+El sales tax lo cobras a tu cliente y lo entregas al estado. No es parte de tu ganancia: sepáralo desde que cobras. Cada estado tiene sus reglas; algunos no cobran impuesto sobre ventas.
+
+> **Dato vigente:** en California, la tasa estatal base de impuesto sobre ventas es de 7.25%, y muchas ciudades y condados suman tasas locales. Para vender productos sujetos a impuesto se necesita un seller's permit del CDTFA, que no tiene costo. Consultado el 29 de septiembre de 2026 a través del CDTFA.
+
+
+
+#### ¿Lleva impuesto? (California, en general)
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Productos: ropa, joyería, artículos | Sí, en general. | Seller's permit. |
+| Comida caliente o para comer ahí | Sí, en general. | Reglas especiales. |
+| Comida fría para llevar | Muchas veces no. | Revisa tu caso. |
+| Muchos servicios (pintura, limpieza) | En general no. | Revisa el material. |
+
+#### El impuesto en una venta de Daniela
+
+- Precio de un collar: **$50**
+× 9.25% | Tasa total de su ciudad (ejemplo)
+- Impuesto que cobra y entrega al estado: **$4.63**
+
+
+#### Un caso en un minuto
+
+Lupita consultó al CDTFA: su comida caliente en el mercado lleva impuesto; los tamales fríos para llevar, en general no. Ahora separa lo que cobra de impuesto en su cuenta para impuestos y presenta su declaración cuando el CDTFA le indica.
+
+> **Idea clave:** el sales tax es del estado, no tuyo; averigua qué ventas lo llevan, cóbralo aparte y sepáralo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿De quién es el sales tax que cobras?
+*Respuesta:* Del estado; tú lo cobras y lo entregas.
+
+2. ¿Qué necesitas en California para vender productos con impuesto?
+*Respuesta:* Un seller's permit del CDTFA.
+
+
+#### Para recordar
+
+- Es del estado.
+- Depende del producto y del estado.
+- Sepáralo al cobrar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si vendes en plataformas
+
+En la mayoría de los estados, las plataformas grandes de comercio en línea cobran y entregan el sales tax por ti en las ventas que pasan por ellas (se les llama «facilitadores de mercado»). Tus ventas directas por tu página o redes siguen siendo tu responsabilidad.
+
+
+
+#### Declaraciones de sales tax
+
+El CDTFA te asigna una frecuencia (anual, trimestral o mensual) según cuánto vendes. Presenta aunque no hayas vendido nada en el periodo, si así te lo indican.
+
+
+
+#### Ferias y eventos
+
+Si vendes en ferias o eventos temporales, puedes necesitar un permiso temporal o reportar las ventas del lugar del evento. Pregunta al organizador y al CDTFA.
+
+> **Antes de actuar, verifica:** qué productos llevan impuesto y la tasa de tu ciudad en el sitio del CDTFA (o de tu estado); las reglas de comida son especiales.
+
+
+
+#### Casos
+
+
+**Caso 1. La comida de Lupita**
+
+Lupita no sabe si su comida lleva impuesto.
+- *¿Qué hace?* Consulta al CDTFA qué ventas llevan impuesto y lo separa al cobrar.
+
+
+**Caso 2. La tienda en línea de Daniela**
+
+Daniela vende en una plataforma grande y también por su página.
+- *¿Qué revisa?* Que la plataforma cobra el impuesto en sus ventas, pero ella debe cobrarlo en su página.
+
+
+**Caso 3. Los servicios de Javier**
+
+Javier cree que debe cobrar sales tax por pintar.
+- *¿Qué revisa?* Que muchos servicios no llevan impuesto y consulta su caso con el CDTFA.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que el impuesto es tuyo | Te lo gastas | Sepáralo |
+| Aplicarlo a todo | Precio alto | Revisa tu producto |
+| Olvidar las ventas directas | Deuda con el estado | Cóbralo |
+| No presentar | Multas | Según tu frecuencia |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lupita, Daniela y Javier. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es la tasa estatal base de sales tax en California? a) 16% · b) 0% · c) 7.25%
+2. Vendes $1,000 en productos con una tasa de 9%. ¿Cuánto impuesto cobras? a) $90 · b) $9 · c) $900
+3. ¿Qué haces con el sales tax que cobras? a) Lo usas para comprar material · b) Lo separas y lo entregas al estado · c) Lo guardas como reserva del negocio
+**Respuestas:** 1-c: más tasas locales. 2-a: 9% de $1,000. 3-b: es del estado.
+
+
+
+#### Ponlo en práctica
+
+Vendes $2,400 en el trimestre con una tasa de 9.5%. ¿Cuánto impuesto debes entregar?
+**Respuesta:** $228.
+
+
+
+#### A tu plan
+
+Revisa si tus ventas llevan sales tax en tu estado y, si aplica, tramita tu permiso.
+
+
+
+### Para saber más
+
+- **Seller's permit y tasas** (CDTFA · español e inglés): https://www.cdtfa.ca.gov — **Qué buscar:** «seller's permit» y «tasas».
+
+### Palabras clave
+
+- *Sales tax:* impuesto sobre ventas que cobras a tu cliente y entregas al estado.
+- *Facilitador de mercado:* plataforma que cobra y entrega el sales tax por quienes venden en ella.
+
+### Fuentes
+
+CDTFA, consultado el 29 de septiembre de 2026.
+
+---
