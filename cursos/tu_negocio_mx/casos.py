@@ -21,6 +21,11 @@ CASOS = {
  ("Busca gastos o retiros sin anotar.", "Ajusta el corte para que cuadre con la caja.", "Lo ignora porque la diferencia es pequeña."),
  ("No la usa y elige libreta u hoja.", "La usa porque es gratis y fácil.", "Manda solo la foto de su INE para probarla."),
 ],
+"M1 U05": [
+ ("No toma del negocio y busca ayuda.", "Toma los 2,000 y los repone el sábado.", "Apuesta el doble para recuperar rápido."),
+ ("No usa dinero del negocio y verifica.", "Deposita: el bono lo vale.", "Usa la tarjeta de crédito en vez de la del negocio."),
+ ("No se lo da y le comparte dónde pedir ayuda.", "Se lo da como adelanto de sueldo.", "Le presta con intereses."),
+],
 "M2 U01": [
  ("Empaque, envío, comisión y fijos.", "Nada: ya sabe que gana 120 por blusa.", "Solo el costo del envío de cada pedido."),
  ("Su costo por hora con fijos y sueldo.", "Lo que cobra su compadre por hora.", "El precio de la herramienta más cara que tiene."),
@@ -141,6 +146,21 @@ CASOS = {
  ("Pide su reporte, reclama, denuncia y bloquea.", "Paga el crédito para que ya no le llamen.", "Ignora las llamadas hasta que se cansen."),
  ("Inscribe sus números en el REPEP y el REUS.", "Cambia de número cada vez que le llaman.", "Contesta y pide que lo saquen de la lista."),
 ],
+"M7 U06": [
+ ("Cuelga y confirma con el número que tenía.", "Paga: es la voz de su proveedor.", "Pide la cuenta nueva por mensaje."),
+ ("No invierte: es un video falso.", "Invierte poco para probar.", "Invierte si el video tiene muchas vistas."),
+ ("Avisa su única cuenta y denuncia.", "Borra sus redes y espera.", "Pide a las clientas que paguen a otra cuenta."),
+],
+"M7 U07": [
+ ("Le toma foto y la guarda en la nube.", "Sigue solo con la libreta de papel.", "Deja de dar fiado para no anotar."),
+ ("Pregunta sus coberturas y ajusta.", "Supone que el seguro cubre todo.", "Cancela el seguro para ahorrar."),
+ ("Pide presupuesto y paga por avance.", "Paga todo para que empiece ya.", "Paga en efectivo sin recibo."),
+],
+"M7 U08": [
+ ("Calcula la suma y cotiza un temporal.", "Espera a tener más dinero para pensarlo.", "Contrata el primero que le ofrezcan."),
+ ("Verifica en Profeco y no paga de golpe.", "Paga cinco años por el descuento.", "Firma sin leer porque es barato."),
+ ("Actualiza beneficiarios y porcentajes.", "Lo deja así: su mamá lo repartirá.", "Cancela el seguro y saca otro nuevo."),
+],
 "M8 U01": [
  ("El costo real y su equilibrio.", "Solo si la ayudante acepta 1,800.", "Nada: el sueldo es todo el costo."),
  ("Acuerdan horario y pago por escrito.", "Sigue igual porque es familia.", "Le paga cuando sobre algo al mes."),
@@ -155,6 +175,11 @@ CASOS = {
  ("Revisa costos y ajusta.", "Vende más para compensar el margen.", "Sigue igual; un mes no dice nada."),
  ("Con febrero del año pasado.", "Con el mejor mes del año.", "Con enero de este año."),
  ("Una bebida o postre para subir el ticket.", "Abre más horas para tener más clientes.", "Baja precios para que compren más."),
+],
+"M8 U04": [
+ ("Publica horario y mensaje automático.", "Contesta siempre para no perder clientes.", "Apaga el celular una semana."),
+ ("Revisa sus números y decide una acción.", "No los ve para no preocuparse.", "Baja precios sin revisar nada."),
+ ("Separan un momento para cada tema.", "Hablan del negocio en cada comida.", "Dejan de hablar del negocio."),
 ],
 "M9 U01": [
  ("La localiza en e-SAR con su CURP.", "Supone que no tiene y no busca.", "Pregunta en su banco si la tiene."),

@@ -20,6 +20,11 @@ CASOS = {
  ("Anota fecha, destino, motivo y millas.", "Calcula las millas a ojo en abril.", "Guarda solo los recibos de gasolina."),
  ("No da su contraseña y elige otra opción.", "Se la da porque la app es gratis.", "Le da solo su número de Seguro Social."),
 ],
+"M1 U05": [
+ ("No toca ese dinero y busca ayuda.", "Usa los $300 y los repone después.", "Apuesta el doble para recuperar rápido."),
+ ("Revisa que está prohibido y no usa el negocio.", "Compra el paquete: las monedas son gratis.", "Compra con la tarjeta del negocio."),
+ ("No se lo da y le comparte dónde pedir ayuda.", "Se lo da como adelanto de sueldo.", "Le presta con intereses."),
+],
 "M2 U01": [
  ("Empaque, envío, comisión y fijos.", "Nada: ya sabe que gana $19 por par.", "Solo el costo del envío de cada pedido."),
  ("Su costo por hora con fijos y sueldo.", "Lo que cobran otros pintores por hora.", "El precio de su herramienta más cara."),
@@ -140,6 +145,16 @@ CASOS = {
  ("Se registra en donotcall.gov y bloquea.", "Cambia de número cada vez que le llaman.", "Contesta y pide que la saquen de la lista."),
  ("No paga y usa AnnualCreditReport.com.", "Paga los $30 porque dice que es oficial.", "Da su SSN para ver si es real."),
 ],
+"M7 U06": [
+ ("Cuelga y confirma con el número que tenía.", "Paga: es la voz de su proveedor.", "Pide la cuenta nueva por mensaje."),
+ ("No invierte: es un video falso.", "Invierte poco para probar.", "Invierte si el video tiene muchas vistas."),
+ ("Avisa su forma de cobro y reporta a la FTC.", "Borra sus redes y espera.", "Pide a las clientas que paguen a otra cuenta."),
+],
+"M7 U07": [
+ ("Pregunta por interrupción del negocio.", "Supone que el seguro cubre todo.", "Cancela el seguro para ahorrar."),
+ ("No paga y lo reporta.", "Paga los $100 para asegurar la ayuda.", "Paga la mitad y el resto después."),
+ ("Revisa si el IRS pospuso las fechas.", "Paga la multa sin revisar.", "Deja de pagar impuestos ese año."),
+],
 "M8 U01": [
  ("Se registra como empleadora.", "Le paga en efectivo como contratista.", "Le pide que trabaje gratis unos meses."),
  ("Que necesita licencia y compensación.", "Nada: el ayudante es su primo.", "Solo que el ayudante tenga ITIN."),
@@ -154,6 +169,11 @@ CASOS = {
  ("Revisa costos y ajusta.", "Vende más para compensar el margen.", "Sigue igual; un mes no dice nada."),
  ("Con enero del año pasado.", "Con el mejor mes del año.", "Con diciembre de este año."),
  ("Un combo o bebida para subir el ticket.", "Abre más horas para tener más clientes.", "Baja precios para que compren más."),
+],
+"M8 U04": [
+ ("Publica horario y respuesta automática.", "Contesta siempre para no perder clientes.", "Apaga el teléfono una semana."),
+ ("Revisa sus números y decide una acción.", "No los ve para no preocuparse.", "Baja precios sin revisar nada."),
+ ("Separan un momento para cada tema.", "Hablan del negocio en cada comida.", "Dejan de hablar del negocio."),
 ],
 "M9 U01": [
  ("Revisa su estimado en ssa.gov.", "Supone que no le tocará nada.", "Pregunta en su banco cuánto recibirá."),

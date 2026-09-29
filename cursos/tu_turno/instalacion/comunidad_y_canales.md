@@ -24,7 +24,7 @@ Este curso no tiene una comunidad en Moodle. Se acompaña con un canal de WhatsA
 | 9 | Acuerda una palabra clave con tu familia | M6 U03 |
 | 10 | Anota tu clínica y el hospital cercano | M7 U02 |
 | 11 | Localiza tu AFORE con tu CURP | M8 U01 |
-| 12 | Llena tu plan de una página | M8 U03 |
+| 12 | Llena tu plan de una página | M8 U04 |
 
 ## 3. Si una empresa ofrece el curso
 

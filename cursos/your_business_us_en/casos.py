@@ -20,6 +20,11 @@ CASOS = {
  ("Logs date, destination, purpose and miles.", "Estimates his miles by eye in April.", "Keeps only his gas receipts."),
  ("Doesn't give his password and picks another tool.", "Gives it because the app is free.", "Gives only his Social Security number."),
 ],
+"M1 U05": [
+ ("Doesn't touch that money and gets help.", "Uses the $300 and puts it back later.", "Bets double to win it back fast."),
+ ("Checks that it's banned and keeps business money out.", "Buys the package: the coins are free.", "Buys it with the business card."),
+ ("Doesn't give it and shares where to get help.", "Gives it as a salary advance.", "Lends it with interest."),
+],
 "M2 U01": [
  ("Packaging, shipping, fees and fixed costs.", "Nothing: she knows she makes $19 a pair.", "Only the shipping cost of each order."),
  ("His cost per hour with fixed costs and salary.", "What other painters charge per hour.", "The price of his most expensive tool."),
@@ -140,6 +145,16 @@ CASOS = {
  ("Registers at donotcall.gov and blocks calls.", "Changes her number every time they call.", "Answers and asks to be taken off the list."),
  ("Doesn't pay and uses AnnualCreditReport.com.", "Pays the $30 because it says it's official.", "Gives her SSN to see if it's real."),
 ],
+"M7 U06": [
+ ("Hangs up and confirms with the number he had.", "Pays: it's his supplier's voice.", "Asks for the new account by message."),
+ ("Doesn't invest: it's a fake video.", "Invests a little to try it.", "Invests if the video has lots of views."),
+ ("Posts her payment method and reports to the FTC.", "Deletes her social media and waits.", "Asks customers to pay another account."),
+],
+"M7 U07": [
+ ("Asks about business interruption coverage.", "Assumes insurance covers everything.", "Cancels the insurance to save money."),
+ ("Doesn't pay and reports it.", "Pays the $100 to secure the aid.", "Pays half now and the rest later."),
+ ("Checks whether the IRS postponed deadlines.", "Pays the penalty without checking.", "Stops paying taxes that year."),
+],
 "M8 U01": [
  ("Registers as an employer.", "Pays her in cash as a contractor.", "Asks her to work for free for a few months."),
  ("That he needs a license and workers' comp.", "Nothing: the helper is his cousin.", "Only that the helper has an ITIN."),
@@ -154,6 +169,11 @@ CASOS = {
  ("Checks costs and adjusts.", "Sells more to make up for the margin.", "Keeps going; one month says nothing."),
  ("With January of last year.", "With the best month of the year.", "With December of this year."),
  ("A combo or drink to raise the ticket.", "Opens longer hours to get more customers.", "Lowers prices so people buy more."),
+],
+"M8 U04": [
+ ("Posts hours and an automatic reply.", "Always answers so she doesn't lose customers.", "Turns off her phone for a week."),
+ ("Reviews her numbers and decides one action.", "Doesn't look so she won't worry.", "Cuts prices without checking anything."),
+ ("They set one time for each topic.", "They talk business at every meal.", "They stop talking about the business."),
 ],
 "M9 U01": [
  ("Checks his estimate at ssa.gov.", "Assumes he won't get anything.", "Asks his bank how much he'll get."),

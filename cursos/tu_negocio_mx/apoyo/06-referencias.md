@@ -20,6 +20,7 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **I14** Profeco: derechos del consumidor y REPEP.
 - **I16** Comisión Reguladora de Telecomunicaciones: líneas móviles y CURP.
 - **I17** Buró de Crédito y Círculo de Crédito: reportes y bloqueo.
+- **I18** Secretaría de Gobernación: permisionarios de juegos y sorteos; Secretaría de Salud: Línea de la Vida; CENAPRED: protección civil.
 - **I15** Guardia Nacional (088) y denuncia anónima (089).
 
 ## Leyes y disposiciones

@@ -17,7 +17,7 @@ Financial education for Latino entrepreneurs and self-employed people in the Uni
 | Tone | Friendly and direct, plain English, short sentences, no blame |
 | Format | Moodle 3.10 course: 5- or 10-minute lessons, H5P "What would you do?" activities, a self-assessment per module and a certificate. Support book and separate community |
 | Scope | Federal rules with California examples; other states are told what to check locally |
-| Length | 9 modules, 34 lessons |
+| Length | 9 modules, 38 lessons |
 | Languages | English (this course) and Spanish (parallel course) |
 
 ## The problem it solves
@@ -56,14 +56,14 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 | Module | Lessons | Outcome |
 |---|---|---|
-| M1 Your business and your home: separate money | 4 | Separate money, tax account, fixed salary and records |
+| M1 Your business and your home: separate money | 5 | Separate money, tax account, fixed salary, records and online betting |
 | M2 Costs and price | 4 | Costs calculated, price with margin and break-even point |
 | M3 Cash flow | 3 | Cash-flow calendar, customer credit and reserve |
 | M4 Get paid and sell without losing | 3 | Payment methods compared and anti-scam plan |
 | M5 Formalize and handle taxes without fear | 5 | Structure, EIN and ITIN, permits, federal taxes, estimated payments and sales tax |
 | M6 Credit for your business | 4 | Decide whether you need credit, compare by APR and don't mix |
-| M7 Protect your business | 5 | Health insurance, business insurance, scams against businesses, trademark, identity and unwanted calls |
-| M8 Grow in an orderly way | 3 | Hire correctly, sell on platforms and measure |
+| M7 Protect your business | 7 | Health insurance, business insurance, scams (including AI), trademark, identity, unwanted calls and disasters |
+| M8 Grow in an orderly way | 4 | Hire correctly, sell on platforms, measure and look after your energy |
 | M9 Your future | 3 | Social Security and retirement, continuity plan and one-page plan |
 
 **Badges:** Separate money (M1), Fair price (M2), Cash flow under control (M3 and M4), Formal business (M5), Smart credit (M6), Protected business (M7), Orderly growth (M8 and M9) and Full plan (course).
@@ -81,6 +81,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 **M1 U03 · Pay yourself a salary** Taxes first (25% to 30%), then reserve, then your fixed salary.
 
 **M1 U04 · Records in 10 minutes a day** Daily log, receipts, business miles (IRS standard rate) and weekly check.
+
+**M1 U05 · Online betting: business money isn't for gambling** Warning signs, California rules (AB 831), taxable winnings and 1-800-GAMBLER.
 
 ## Module 2. Costs and price
 
@@ -142,6 +144,10 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M7 U05 · Identity theft and unwanted calls** Credit freeze at all three bureaus, fraud alert, free weekly reports, IdentityTheft.gov, ITIN and the National Do Not Call Registry.
 
+**M7 U06 · AI scams: fake voices, videos and messages** Suppliers with cloned voices, fake celebrity videos, code words and warning customers.
+
+**M7 U07 · If disaster strikes: your business ready** Backups, photos, flood, earthquake and business interruption coverage; FEMA, SBA loans and IRS relief.
+
 ## Module 8. Grow in an orderly way
 
 **M8 U01 · Hiring help** Employee or contractor (ABC test), California minimum wage, payroll, workers' comp, W-9 and 1099-NEC.
@@ -149,6 +155,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 **M8 U02 · Selling online and on platforms** Fees, shipping, ads, 1099-K and sales tax on platforms.
 
 **M8 U03 · Your monthly numbers** Sales, margin, profit, cash and average ticket.
+
+**M8 U04 · Stress, business and family** Order hours, a day off, a weekly money talk and the 988 line.
 
 ## Module 9. Your future
 
@@ -196,6 +204,8 @@ The support book includes case studies, calculation practice, glossary, where to
 | SSA | https://www.ssa.gov | Credits and retirement estimate |
 | IdentityTheft.gov and donotcall.gov | https://www.identitytheft.gov · https://www.donotcall.gov | Identity theft and Do Not Call Registry |
 | AnnualCreditReport.com | https://www.annualcreditreport.com | Free credit reports |
+| FEMA | https://www.disasterassistance.gov | Disaster assistance |
+| 988 and 1-800-GAMBLER | 988 · 1-800-GAMBLER | Emotional crisis and compulsive gambling |
 
 ---
 
@@ -221,5 +231,7 @@ The support book includes case studies, calculation practice, glossary, where to
 | U16 | California small claims court | Up to $12,500 for individuals | California Courts |
 | U17 | Freezes, alerts and reports | Free freeze and unfreeze at Equifax, Experian and TransUnion; free initial fraud alert for one year; free weekly reports | FTC |
 | U18 | National Do Not Call Registry | Free; up to 31 days for calls to stop; never expires | FTC |
+| U19 | SBA disaster loans | Up to $500,000 for homes, $100,000 for personal property and $2 million for businesses; rate up to 4% without credit elsewhere | SBA |
+| U20 | Betting in California | Online sports betting not legal; online sweepstakes casinos banned since Jan 1, 2026 (AB 831) | AB 831; media |
 
 **Facts confirmed every year or before each group:** retirement limits, mileage rate, Social Security wage base, 1099 thresholds (inflation-adjusted from 2027), minimum wage, USPTO fees and processor and platform fees.

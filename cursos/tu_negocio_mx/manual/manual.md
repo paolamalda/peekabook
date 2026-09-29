@@ -16,7 +16,7 @@ Educación financiera para personas que emprenden o trabajan por su cuenta en M�
 | Público | Personas residentes en México, de 18 años en adelante, con un negocio pequeño o un trabajo por su cuenta: comida, comercio, oficios, servicios, venta por catálogo o por internet. Muchas son informales o recién formales; algunas tienen una o dos personas que les ayudan |
 | Tono | Tuteo cercano, español de México, frases cortas, ejemplos de negocio real, sin tecnicismos y sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo imprimible y comunidad aparte |
-| Duración | 9 módulos, 34 lecciones |
+| Duración | 9 módulos, 39 lecciones |
 | Eje | Separar el dinero del negocio y de la casa, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -55,14 +55,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu negocio y tu casa: dinero separado | 4 | Dinero separado, sueldo fijo y registros al día |
+| M1 Tu negocio y tu casa: dinero separado | 5 | Dinero separado, sueldo fijo, registros al día y apuestas en línea |
 | M2 Costos y precio | 4 | Costos calculados, precio con margen y punto de equilibrio |
 | M3 Flujo de efectivo | 3 | Calendario de entradas y salidas, política de fiado y reserva |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate sin miedo | 5 | RFC, régimen, facturas y declaraciones en orden |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, cuánto cuesta y cómo no mezclarlo |
-| M7 Protege tu negocio | 5 | Seguridad social, seguros, fraudes a negocios, marca e identidad |
-| M8 Crecer con orden | 3 | Reglas para contratar, vender en línea y medir |
+| M7 Protege tu negocio | 8 | Seguridad social, seguros, fraudes (también con IA), marca, identidad, desastres y seguro de vida |
+| M8 Crecer con orden | 4 | Reglas para contratar, vender en línea, medir y cuidar tu energía |
 | M9 Tu futuro | 3 | Retiro, plan de continuidad y plan de una página |
 
 **Insignias:** Dinero separado (M1), Precio justo (M2), Flujo bajo control (M3 y M4), Negocio formal (M5), Crédito inteligente (M6), Negocio protegido (M7), Crecer con orden (M8 y M9) y Plan completo (curso).
@@ -80,6 +80,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M1 U03 · Págate un sueldo** Sueldo fijo para ti, cuánto y cuándo; lo que sobra se queda en el negocio.
 
 **M1 U04 · Registros en 10 minutos al día** Libreta, hoja de cálculo o app; qué anotar y el corte semanal.
+
+**M1 U05 · Apuestas en línea: el dinero del negocio no se juega** Señales de alerta, nunca del negocio ni con crédito, sitios con permiso y ayuda.
 
 ## Módulo 2. Costos y precio
 
@@ -141,6 +143,12 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U05 · Tu identidad y la de tu negocio** Robo de identidad, cuentas de WhatsApp y redes, facturas a tu nombre, bloqueo en Buró, líneas con tu CURP, REPEP y REUS.
 
+**M7 U06 · Fraudes con inteligencia artificial: voces, videos y mensajes falsos** Proveedores con voz clonada, videos falsos de famosos, palabra clave y aviso a clientes.
+
+**M7 U07 · Si llega un desastre: tu negocio preparado** Respaldo, fotos del inventario, coberturas de terremoto e inundación, aplazamientos y fraudes después del desastre.
+
+**M7 U08 · Si faltas: seguro de vida y gastos funerarios** Suma asegurada, seguro temporal, beneficiarios, Modalidad 10 y previsión funeraria registrada en Profeco.
+
 ## Módulo 8. Crecer con orden
 
 **M8 U01 · Contratar ayuda** Costo real de una persona, obligaciones con el IMSS y el SAT, y acuerdos claros con familiares.
@@ -148,6 +156,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M8 U02 · Vender en línea y en plataformas** Comisiones, envíos, retenciones de ISR e IVA, y reputación.
 
 **M8 U03 · Tus números del mes** Ventas, margen, ganancia, flujo y ticket promedio; decidir con datos.
+
+**M8 U04 · Estrés, negocio y familia** Horario de atención, día de descanso, plática de dinero semanal y dónde pedir apoyo.
 
 ## Módulo 9. Tu futuro
 
@@ -194,6 +204,10 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | Profeco (REPEP) | https://repep.profeco.gob.mx | Registro para evitar publicidad |
 | Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Líneas registradas con tu CURP |
 | Buró de Crédito | https://www.burodecredito.com.mx | Reporte gratis y bloqueo |
+| Secretaría de Gobernación | https://www.gob.mx/segob | Permisionarios de juegos y sorteos |
+| CNSF | https://www.gob.mx/cnsf | Aseguradoras autorizadas |
+| CENAPRED | https://www.gob.mx/cenapred | Plan de protección civil |
+| Línea de la Vida | 800 911 2000 | Apoyo emocional y adicciones, 24 horas |
 
 ---
 

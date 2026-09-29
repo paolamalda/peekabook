@@ -16,7 +16,7 @@ Finanzas personales en microlecciones para guardias de seguridad y personas con 
 | Público | Guardias de seguridad y personas con turnos de 24 por 24 horas o similares, con ingresos cercanos al salario mínimo; muchas tienen deudas, participan en tandas y no conocen el sistema financiero |
 | Tono | Tuteo cálido y directo, español de México, frases muy cortas, sin tecnicismos, sin culpas |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y para tomarse entre turnos; actividades H5P «¿Qué harías?», autoevaluaciones, constancia y un canal de avisos por WhatsApp |
-| Duración | 8 módulos, 27 lecciones |
+| Duración | 8 módulos, 32 lecciones |
 
 ## El problema que resuelve
 
@@ -53,14 +53,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu quincena rinde | 4 | Presupuesto de quincena con turnos y ahorro apartado primero |
+| M1 Tu quincena rinde | 5 | Presupuesto de quincena con turnos y ahorro apartado primero |
 | M2 Tu cuenta y tu dinero | 3 | Cuenta sin comisiones; cobrar, pagar y reclamar |
-| M3 Tus deudas claras | 4 | Lista de deudas, costo real y plan para salir |
+| M3 Tus deudas claras | 5 | Lista de deudas, costo real, plan para salir y apuestas en línea |
 | M4 Tandas y ahorro en grupo | 2 | Tanda más segura o ahorro propio |
 | M5 Buró de Crédito sin miedo | 3 | Reporte revisado y cómo mejorar el historial |
-| M6 Que no te extorsionen | 5 | Protocolo contra fraudes, montadeudas, extorsión y robo de identidad; registros para que no te llamen |
-| M7 Tu familia y los imprevistos | 3 | Fondo de emergencia y protección familiar |
-| M8 Tu futuro | 3 | Retiro por tu cuenta, ingreso extra y plan de una página |
+| M6 Que no te extorsionen | 6 | Protocolo contra fraudes, montadeudas, extorsión y robo de identidad; registros para que no te llamen |
+| M7 Tu familia y los imprevistos | 4 | Fondo de emergencia, protección familiar y desastres |
+| M8 Tu futuro | 4 | Retiro por tu cuenta, ingreso extra, vivienda y plan de una página |
 
 ---
 
@@ -73,6 +73,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M1 U03 · Los gastos del turno que no ves** Comida, refrescos, recargas y transporte.
 
 **M1 U04 · Aparta primero** Ahorro automático el día de pago.
+
+**M1 U05 · Dinero y estrés: cómo hablarlo en casa** Señales de estrés financiero, la plática de dinero de 20 minutos y dónde pedir apoyo.
 
 
 **M2 U01 · Una cuenta sin comisiones** Cuenta básica y cuenta de nómina.
@@ -89,6 +91,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M3 U03 · Prestamistas y «gota a gota»** Por qué son peligrosos y cómo salir.
 
 **M3 U04 · Tu plan para salir de deudas** Bola de nieve o avalancha, y negociar.
+
+**M3 U05 · Apuestas en línea: cuando el juego se vuelve deuda** Señales de alerta, sitios con permiso, límites, autoexclusión y ayuda.
 
 
 **M4 U01 · Tandas: cómo funcionan y qué puede salir mal**
@@ -113,6 +117,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M6 U05 · Tu identidad y que dejen de llamarte** Copias de INE con leyenda, reporte de crédito, bloqueo en Buró, líneas de celular con tu CURP, REPEP y REUS.
 
+**M6 U06 · Voces y videos falsos con inteligencia artificial** Voces clonadas, videos falsos de famosos, palabra clave familiar y redes privadas.
+
 
 **M7 U01 · Tu fondo de emergencia, de poco a poco**
 
@@ -120,12 +126,16 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U03 · Seguro de vida, gastos funerarios y beneficiarios**
 
+**M7 U04 · Si llega un desastre: sismo, inundación o incendio** Mochila de documentos, dinero en cuenta, aplazamiento de pagos y fraudes después del desastre.
+
 
 **M8 U01 · Ahorro para el retiro por tu cuenta** Aportaciones voluntarias desde 50 pesos.
 
 **M8 U02 · Un ingreso extra en tus días de descanso**
 
-**M8 U03 · Tu plan de una página**
+**M8 U03 · Tu casa: Infonavit y el crédito de 100 puntos** Subcuenta de vivienda, Mi Cuenta Infonavit, modelo de 100 puntos para salarios bajos, descuento en nómina y coyotes.
+
+**M8 U04 · Tu plan de una página**
 
 
 ---
@@ -160,6 +170,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | Guardia Nacional | 088 | Fraudes en línea |
 | Profeco | https://repep.profeco.gob.mx | REPEP |
 | Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Líneas registradas con tu CURP |
+| Infonavit | https://micuenta.infonavit.org.mx | Puntos, saldo de vivienda y precalificación |
+| Secretaría de Gobernación | https://www.gob.mx/segob | Permisionarios de juegos y sorteos |
+| Línea de la Vida | 800 911 2000 | Apoyo emocional y adicciones, 24 horas |
 
 ---
 
@@ -176,3 +189,4 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | G07 | Seguro de depósitos | 400,000 UDIS por persona y por banco | IPAB |
 | G08 | REPEP y REUS | REPEP gratis, 30 días, no vence; REUS gratis, hasta 45 días, dura dos años | Profeco; CONDUSEF |
 | G09 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
+| G10 | Infonavit, modelo de 100 puntos | 1 a 2 salarios mínimos, 6 meses seguidos cotizando y sin vivienda propia; tasa fija de 3.69% a 10.45% según salario | Infonavit; medios |

@@ -21,6 +21,8 @@ Fuentes usadas en el curso, consultadas el 29 de septiembre de 2026.
 - **I15** CalSavers.
 - **I16** California Courts: reclamos menores.
 - **I17** FTC: congelamiento de crédito, alertas de fraude, IdentityTheft.gov y Registro Nacional No Llame; AnnualCreditReport.com.
+- **I18** FEMA, SBA (préstamos por desastre) e IRS (alivio por desastre).
+- **I19** National Council on Problem Gambling (1-800-GAMBLER) y 988 Suicide & Crisis Lifeline.
 
 ## Leyes y disposiciones
 

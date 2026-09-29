@@ -16,6 +16,9 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 | Extorsión o cobro de piso | 089 (denuncia anónima) y 911 | Gratis | No negocies |
 | Derechos de tus clientes | Profeco | Gratis | Exhibición de precios |
 | Llamadas de publicidad | REPEP de Profeco y REUS de la CONDUSEF | Gratis | Nadie cobra por inscribirte |
+| Seguro de vida y previsión funeraria | CNSF (aseguradoras) y Profeco (contratos funerarios) | Gratis consultar | Contrato registrado |
+| Apuestas o estrés que se salen de control | Línea de la Vida (800 911 2000) y Centros de Integración Juvenil | Gratis | Atención 24 horas |
+| Desastres | Protección Civil y módulos oficiales de apoyo | Gratis | Nadie cobra por anotarte |
 | Créditos o líneas a tu nombre | Buró y Círculo de Crédito; portal.crt.gob.mx; CONDUSEF; denuncia | Gratis | Folios y copia de la denuncia |
 | Localizar tu AFORE | e-SAR con tu CURP; CONSAR | Gratis | CURP |
 | Permisos del negocio | Tu alcaldía o municipio; Protección Civil; salud estatal | Variable | Pregunta en ventanilla oficial |

@@ -17,7 +17,7 @@ Educación financiera para personas latinas que emprenden o trabajan por su cuen
 | Tono | Tuteo cercano, español neutro con términos en inglés cuando se usan así en la vida diaria (EIN, sales tax, LLC), frases cortas, sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo y comunidad aparte |
 | Alcance | Reglas federales con ejemplos de California; en otros estados se indica revisar las reglas locales |
-| Duración | 9 módulos, 34 lecciones |
+| Duración | 9 módulos, 38 lecciones |
 | Idiomas | Español (este curso) e inglés (curso paralelo *Your Business, Your Money, Your Future*) |
 
 ## El problema que resuelve
@@ -56,14 +56,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu negocio y tu casa: dinero separado | 4 | Dinero separado, cuenta para impuestos, sueldo fijo y registros |
+| M1 Tu negocio y tu casa: dinero separado | 5 | Dinero separado, cuenta para impuestos, sueldo fijo, registros y apuestas en línea |
 | M2 Costos y precio | 4 | Costos calculados, precio con margen y punto de equilibrio |
 | M3 Flujo de efectivo | 3 | Calendario de flujo, crédito a clientes y reserva |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate e impuestos sin miedo | 5 | Estructura, EIN e ITIN, permisos, impuestos federales, pagos estimados y sales tax |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, compararlo por APR y no mezclarlo |
-| M7 Protege tu negocio | 5 | Seguro médico, seguros del negocio, fraudes a negocios, marca, identidad y llamadas no deseadas |
-| M8 Crecer con orden | 3 | Contratar bien, vender en plataformas y medir |
+| M7 Protege tu negocio | 7 | Seguro médico, seguros del negocio, fraudes (también con IA), marca, identidad, llamadas no deseadas y desastres |
+| M8 Crecer con orden | 4 | Contratar bien, vender en plataformas, medir y cuidar tu energía |
 | M9 Tu futuro | 3 | Seguro Social y retiro, plan de continuidad y plan de una página |
 
 **Insignias:** Dinero separado (M1), Precio justo (M2), Flujo bajo control (M3 y M4), Negocio formal (M5), Crédito inteligente (M6), Negocio protegido (M7), Crecer con orden (M8 y M9) y Plan completo (curso).
@@ -81,6 +81,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M1 U03 · Págate un sueldo** Primero impuestos (25% a 30%), luego reserva, luego tu sueldo fijo.
 
 **M1 U04 · Registros en 10 minutos al día** Registro diario, recibos, millas del negocio (tarifa estándar del IRS) y corte semanal.
+
+**M1 U05 · Apuestas en línea: el dinero del negocio no se juega** Señales de alerta, reglas en California (AB 831), ganancias que se declaran y 1-800-GAMBLER.
 
 ## Módulo 2. Costos y precio
 
@@ -142,6 +144,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U05 · Robo de identidad y llamadas no deseadas** Congelamiento de crédito en las tres agencias, alerta de fraude, reportes semanales gratis, IdentityTheft.gov, ITIN y Registro Nacional No Llame.
 
+**M7 U06 · Fraudes con inteligencia artificial: voces, videos y mensajes falsos** Proveedores con voz clonada, videos falsos de famosos, palabra clave y aviso a clientes.
+
+**M7 U07 · Si llega un desastre: tu negocio preparado** Respaldo, fotos, coberturas de inundación, terremoto e interrupción del negocio; FEMA, préstamos de la SBA y alivio del IRS.
+
 ## Módulo 8. Crecer con orden
 
 **M8 U01 · Contratar ayuda** Empleado o contratista (prueba ABC), salario mínimo de California, nómina, compensación, W-9 y 1099-NEC.
@@ -149,6 +155,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M8 U02 · Vender en línea y en plataformas** Comisiones, envío, anuncios, 1099-K y sales tax en plataformas.
 
 **M8 U03 · Tus números del mes** Ventas, margen, ganancia, efectivo y ticket promedio.
+
+**M8 U04 · Estrés, negocio y familia** Horario de pedidos, día de descanso, plática de dinero semanal y la línea 988.
 
 ## Módulo 9. Tu futuro
 
@@ -196,6 +204,8 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | SSA | https://www.ssa.gov/espanol | Créditos y estimado de retiro |
 | IdentityTheft.gov y donotcall.gov | https://www.robodeidentidad.gov · https://www.donotcall.gov/es | Robo de identidad y Registro No Llame |
 | AnnualCreditReport.com | https://www.annualcreditreport.com | Reportes de crédito gratis |
+| FEMA | https://www.disasterassistance.gov/es | Asistencia por desastre |
+| 988 y 1-800-GAMBLER | 988 · 1-800-GAMBLER | Crisis emocional y juego compulsivo |
 
 ---
 
@@ -221,5 +231,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | U16 | Corte de reclamos menores en California | Hasta $12,500 para personas | California Courts |
 | U17 | Congelamiento, alertas y reportes | Congelar y descongelar gratis en Equifax, Experian y TransUnion; alerta de fraude inicial gratis por un año; reportes gratis cada semana | FTC |
 | U18 | Registro Nacional No Llame | Gratis; hasta 31 días para que dejen de llamar; no vence | FTC |
+| U19 | Préstamos por desastre de la SBA | Hasta $500,000 vivienda, $100,000 bienes personales y $2 millones negocios; tasa de hasta 4% sin crédito en otro lado | SBA |
+| U20 | Apuestas en California | Apuestas deportivas en línea no legales; casinos de sorteo en línea prohibidos desde el 1-ene-2026 (AB 831) | Ley AB 831; medios |
 
 **Datos que se confirman cada año o antes de cada grupo:** límites de retiro, tarifa por milla, base del Seguro Social, umbrales de 1099 (se ajustan por inflación desde 2027), salario mínimo, tarifas de USPTO y comisiones de procesadores y plataformas.

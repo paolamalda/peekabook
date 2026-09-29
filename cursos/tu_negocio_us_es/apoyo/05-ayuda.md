@@ -18,6 +18,9 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | Robo de identidad | IdentityTheft.gov | Gratis | Plan de recuperación |
 | Congelar tu crédito y ver tus reportes | Equifax, Experian y TransUnion; AnnualCreditReport.com | Gratis | En las tres agencias |
 | Llamadas de ventas | Registro No Llame (donotcall.gov) | Gratis | No vence |
+| Desastres | DisasterAssistance.gov (FEMA), sba.gov e irs.gov | Gratis | Nadie cobra por inscribirte |
+| Juego compulsivo | 1-800-GAMBLER | Gratis | 24 horas |
+| Crisis emocional | Línea 988 (llamada o texto) | Gratis | 24 horas, en español |
 | Marca | USPTO; registro estatal | Con costo | Solo uspto.gov |
 | Retiro | ssa.gov; CalSavers | Gratis | Tu cuenta en my Social Security |
 | Dudas migratorias | Abogados u organizaciones acreditadas por el Departamento de Justicia | Gratis o con costo | Nunca «notarios» |

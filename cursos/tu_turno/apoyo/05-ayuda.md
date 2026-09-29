@@ -15,6 +15,9 @@ Todas las opciones de esta tabla son oficiales y gratuitas. Información consult
 | Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Desvincula las que no son tuyas |
 | Créditos que no pediste | Reclamación a la empresa, al Buró o Círculo y denuncia; CONDUSEF | Folios y copia de la denuncia |
 | Tu AFORE | e-SAR y AforeMóvil | Tu CURP |
+| Tu crédito y ahorro de vivienda | Mi Cuenta Infonavit (con tu NSS) | Trámite gratis, sin coyotes |
+| Apuestas que se salen de control | Línea de la Vida (800 911 2000) y Centros de Integración Juvenil | Atención gratuita |
+| Desastres | Protección Civil y módulos oficiales de apoyo | Nadie cobra por anotarte |
 | Aseguradoras | CNSF | Que esté autorizada |
 | Apoyo emocional | Línea de la Vida: 800 911 2000 | Atención 24 horas |
 

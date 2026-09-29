@@ -11,9 +11,11 @@ Fuentes que usamos en el curso, consultadas el 29 de septiembre de 2026.
 - **I05** CONSAR, e-SAR y AforeMóvil: aportaciones voluntarias.
 - **I06** CNSF: aseguradoras autorizadas.
 - **I07** Profeco: casas de empeño y REPEP.
-- **I07b** Comisión Reguladora de Telecomunicaciones: líneas móviles y CURP.
-- **I08** Guardia Nacional: 088.
-- **I09** IPAB: seguro de depósitos.
+- **I08** Comisión Reguladora de Telecomunicaciones: líneas móviles y CURP.
+- **I09** Infonavit: subcuenta de vivienda y modelo de 100 puntos.
+- **I10** Secretaría de Gobernación: permisionarios de juegos y sorteos; Secretaría de Salud: Línea de la Vida; CENAPRED: plan familiar de protección civil.
+- **I11** Guardia Nacional: 088.
+- **I12** IPAB: seguro de depósitos.
 
 ## Leyes
 

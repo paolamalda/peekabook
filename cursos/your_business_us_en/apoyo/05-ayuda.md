@@ -18,6 +18,9 @@ All options in this table are official or nonprofit. Information checked on Sept
 | Identity theft | IdentityTheft.gov | Free | Recovery plan |
 | Freeze your credit and see your reports | Equifax, Experian and TransUnion; AnnualCreditReport.com | Free | At all three bureaus |
 | Sales calls | Do Not Call Registry (donotcall.gov) | Free | Never expires |
+| Disasters | DisasterAssistance.gov (FEMA), sba.gov and irs.gov | Free | Nobody charges to register you |
+| Compulsive gambling | 1-800-GAMBLER | Free | 24 hours |
+| Emotional crisis | 988 Lifeline (call or text) | Free | 24 hours, English and Spanish |
 | Trademark | USPTO; state registry | Paid | Only uspto.gov |
 | Retirement | ssa.gov; CalSavers | Free | Your my Social Security account |
 | Immigration questions | Attorneys or organizations accredited by the Department of Justice | Free or paid | Never "notarios" |

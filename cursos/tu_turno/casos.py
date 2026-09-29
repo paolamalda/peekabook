@@ -20,6 +20,11 @@ CASOS = {
  ("Separa su ahorro en un sobre el día que cobra.", "Guarda el ahorro en la cartera del turno.", "Lo gasta y ahorra el próximo mes."),
  ("Abre una cuenta aparte para ahorrar.", "Sigue en la misma cuenta, con fuerza de voluntad.", "Se lo da a un amigo para que se lo guarde."),
 ],
+"M1 U05": [
+ ("Eligen un día fijo para hablarlo con números.", "Lo hablan al salir él del turno.", "Dejan de hablar de dinero para no pelear."),
+ ("Los revisa y anota cuánto debe.", "Los sigue sin abrir para no estresarse.", "Cambia de número para que no le escriban."),
+ ("Le explica el plan y acuerdan un gusto.", "Le compra todo para no sentirse mal.", "Le dice que no hay dinero y ya."),
+],
 "M2 U01": [
  ("Pide la cuenta básica sin comisiones.", "Sigue pagando; así es en todos los bancos.", "Cierra la cuenta y guarda todo en efectivo en su casa."),
  ("Retira en cajeros de su banco o paga con tarjeta.", "Sigue en el cajero más cercano, aunque cobre.", "Retira todo de una vez y lo carga en el turno."),
@@ -54,6 +59,11 @@ CASOS = {
  ("Elige un método y pone lo extra en una deuda.", "Sigue pagando un poco a cada una.", "Pide un préstamo para pagarlas todas juntas."),
  ("Llama antes a la tienda y pide el acuerdo por escrito.", "Espera a que lo llamen de cobranza.", "No paga y cambia de número."),
  ("No la acepta hasta salir de deudas.", "La acepta para emergencias.", "La acepta y solo la usa para pagar sus otras deudas cada mes."),
+],
+"M3 U05": [
+ ("No pide el préstamo y busca ayuda.", "Pide el préstamo para recuperar lo perdido.", "Apuesta el doble en el siguiente partido."),
+ ("Si tiene permiso y sale de sus gustos.", "Nada: el bono vale la pena.", "Solo si el partido es importante."),
+ ("No le presta y le comparte dónde pedir ayuda.", "Le presta porque es compañero.", "Le presta con intereses."),
 ],
 "M4 U01": [
  ("Pone reglas por escrito y da los primeros turnos a gente de confianza.", "Cancela todas las tandas para siempre.", "Cobra una multa a todas las compañeras."),
@@ -105,6 +115,11 @@ CASOS = {
  ("Inscribe su celular en el REPEP y el REUS.", "Cambia de número cada vez que le llaman.", "Contesta y pide que la saquen de la lista."),
  ("No manda nada y verifica la empresa.", "Manda la foto porque la vacante es buena.", "Paga los 300 pesos y manda el INE después."),
 ],
+"M6 U06": [
+ ("Cuelga y llama al celular de su hijo.", "Deposita: es la voz de su hijo.", "Responde el audio pidiendo la cuenta."),
+ ("No invierte: es un video falso.", "Invierte poco para probar.", "Comparte el video con su familia."),
+ ("No los da y confirma en persona.", "Los da porque es la voz del jefe.", "Da la mitad de los códigos."),
+],
 "M7 U01": [
  ("Aparta 100 por quincena para su fondo.", "Sigue pidiendo en apps cuando haga falta.", "Espera al aguinaldo para empezar."),
  ("No presta su fondo.", "Lo presta; es su compañero.", "Presta la mitad y confía en que le pague pronto."),
@@ -120,6 +135,11 @@ CASOS = {
  ("Busca uno con póliza de una aseguradora autorizada.", "Contrata el plan porque es barato.", "Paga el primer mes para probar."),
  ("Las guarda en una carpeta y avisa dónde.", "Las deja en el casillero del trabajo.", "No dice nada para no preocupar a su familia con esos temas."),
 ],
+"M7 U04": [
+ ("Hace copias y fotos protegidas.", "Deja los originales en el cajón.", "Sube las fotos a su perfil público."),
+ ("No paga y va al módulo oficial.", "Paga los 500 para asegurar el apoyo.", "Paga la mitad y el resto después."),
+ ("Pide aplazamiento por escrito.", "Deja de pagar sin avisar.", "Pide otro préstamo para cubrir el pago."),
+],
 "M8 U01": [
  ("Empieza con aportaciones pequeñas cada quincena.", "Espera a ganar más para empezar.", "Espera a cumplir 50 años."),
  ("La localiza gratis con su CURP.", "Paga a un gestor para encontrarla.", "Supone que no tiene AFORE y no busca."),
@@ -131,6 +151,11 @@ CASOS = {
  ("Reduce los días extra para cuidar su salud.", "Trabaja también en sus horas de sueño.", "Toma bebidas energéticas para aguantar todos los días de descanso."),
 ],
 "M8 U03": [
+ ("Revisa sus puntos en Mi Cuenta Infonavit.", "Supone que nunca podrá.", "Paga a un gestor para que revise."),
+ ("No paga: el trámite es gratis.", "Paga los 3,000 para adelantarlo.", "Le da su contraseña al gestor."),
+ ("Si su presupuesto aguanta el descuento.", "Solo si la casa le gusta.", "Firma rápido para no perder la casa."),
+],
+"M8 U04": [
  ("Llena su plan de una página.", "Deja las notas sueltas como están.", "Borra todas sus notas para empezar de cero algún día."),
  ("Lo revisa cada día de pago.", "Lo guarda y lo revisa en diciembre.", "Lo tira porque ya lo hizo."),
  ("No lo anota: no lleva datos sensibles.", "Lo anota para no olvidarlo.", "Anota solo la mitad del NIP."),
