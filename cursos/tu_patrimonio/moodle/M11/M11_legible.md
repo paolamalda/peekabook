@@ -1,0 +1,479 @@
+# Módulo 11. Decidir con calma y tu plan
+
+## M11 U01. Decidir con calma: tus reglas
+
+**Lo que lograrás:** Tener tus propias reglas para decidir sobre tu dinero: la regla de las 72 horas, la segunda opinión y las preguntas antes de firmar.
+
+**Para empezar:** Maru compró un seguro «con ahorro» en una presentación de dos horas en la que le regalaron una comida. Firmó esa misma tarde. Al mes, se arrepintió. En esta lección harás tus reglas para no decidir con prisa.
+
+### Lo esencial (5 minutos)
+
+#### La regla de las 72 horas
+
+Para cualquier decisión de dinero importante, espera **72 horas** antes de firmar. Si la oferta desaparece en ese tiempo, probablemente no era buena.
+
+
+
+#### Tus tres reglas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| 72 horas | Nada importante se firma el mismo día. | La prisa es del vendedor. |
+| Segunda opinión | Pregunta a alguien sin interés en la venta. | Otra mirada. |
+| Cinco preguntas | Costo, riesgo, plazo, salida y quién gana. | Por escrito. |
+| Todo por escrito | Lo que no está escrito, no existe. | Pide el documento. |
+
+#### Cinco preguntas antes de firmar
+
+¿Cuánto me cuesta en total? ¿Qué puedo perder? ¿Por cuánto tiempo me compromete? ¿Cómo me salgo y cuánto cuesta? ¿Quién gana si digo que sí?
+
+
+
+#### Un caso en un minuto
+
+Maru canceló el seguro dentro del plazo que le daba el contrato. Ahora tiene una tarjeta en su cartera con sus tres reglas. En la siguiente presentación, pidió el documento y se lo llevó a casa.
+
+> **Idea clave:** 72 horas, segunda opinión y cinco preguntas por escrito antes de firmar.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué dice la regla de las 72 horas?
+*Respuesta:* Que esperes 72 horas antes de firmar una decisión importante de dinero.
+
+2. ¿A quién pides segunda opinión?
+*Respuesta:* A alguien sin interés en la venta.
+
+
+#### Para recordar
+
+- 72 horas.
+- Segunda opinión.
+- Cinco preguntas por escrito.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tus cinco preguntas
+
+| Pregunta | Respuesta por escrito |
+|---|---|
+| ¿Cuánto me cuesta en total? | |
+| ¿Qué puedo perder? | |
+| ¿Por cuánto tiempo me compromete? | |
+| ¿Cómo me salgo y cuánto cuesta? | |
+| ¿Quién gana si digo que sí? | |
+
+
+
+#### Presentaciones y regalos
+
+Las presentaciones con comida, regalos o viajes están diseñadas para que decidas con emoción. Puedes asistir, pero no firmes ese día.
+
+
+
+#### Si ya firmaste
+
+Muchos contratos financieros te dan un periodo para cancelar sin costo. Revisa tu contrato y, si aplica, cancela por escrito dentro del plazo.
+
+> **Antes de actuar, verifica:** el plazo de cancelación de cada contrato; si no lo sabes, pregúntalo antes de firmar.
+
+
+
+#### Casos
+
+
+**Caso 1. La presentación de Maru**
+
+Al final de una presentación con comida, le piden a Maru que firme ese mismo día.
+- *¿Qué hace?* Pide el documento, se lo lleva y espera 72 horas.
+
+
+**Caso 2. La oferta de Carmen**
+
+Le dicen a Carmen que la tasa especial «solo es hoy».
+- *¿Qué hace?* No firma: la prisa es una señal para esperar.
+
+
+**Caso 3. El contrato de Lucía**
+
+Lucía firmó un contrato y al día siguiente se arrepintió.
+- *¿Qué hace?* Revisa si tiene plazo de cancelación y cancela por escrito.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar el mismo día | Te arrepientes | 72 horas |
+| Preguntar solo al vendedor | Visión parcial | Segunda opinión |
+| Promesas de palabra | No existen | Por escrito |
+| No saber cómo salir | Te atrapa | Pregunta antes |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Maru, Carmen y Lucía. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te dicen «la oferta solo es hoy». ¿Qué haces? a) Esperas y comparas · b) Firmas para no perderla · c) Pides un descuento extra
+2. ¿A quién pides segunda opinión? a) Al vendedor · b) A alguien sin interés en la venta · c) A quien te invitó a la presentación
+3. Firmaste y te arrepientes al día siguiente. ¿Qué haces? a) Nada, ya firmaste · b) Dejas de pagar para que te cancelen el contrato · c) Revisas el plazo de cancelación
+**Respuestas:** 1-a: la prisa es del vendedor. 2-b: sin conflicto de interés. 3-c: muchos contratos lo permiten.
+
+
+
+#### Ponlo en práctica
+
+Escribe tus tres reglas en una tarjeta para tu cartera.
+**Respuesta:** 1) Nada importante se firma el mismo día; 2) pido segunda opinión; 3) las cinco preguntas por escrito.
+
+
+
+#### A tu plan
+
+Escribe tu tarjeta de reglas y guárdala en tu cartera.
+
+
+
+### Para saber más
+
+- **Derechos del usuario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «cancelación de contratos».
+
+### Palabras clave
+
+- *Segunda opinión:* consulta con alguien que no gana nada con tu decisión.
+- *Periodo de cancelación:* plazo para cancelar un contrato sin costo.
+
+### Fuentes
+
+CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M11 U02. Presión familiar y control del dinero
+
+**Lo que lograrás:** Reconocer la presión familiar y el control económico, poner límites y saber dónde pedir apoyo.
+
+**Para empezar:** Desde que enviudó, un familiar de Lucía maneja «por ella» su tarjeta, le dice en qué puede gastar y se enoja si pregunta. Lucía siente que ya no decide sobre su propio dinero. En esta lección verás cómo reconocerlo y qué hacer.
+
+### Lo esencial (5 minutos)
+
+#### Ayuda o control
+
+Ayudar es explicar y acompañar. Controlar es decidir por ti, quitarte el acceso a tu dinero o presionarte. El control económico es una forma de violencia, aunque venga de alguien cercano.
+
+
+
+#### Señales de control
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Te quitan el acceso | A tus cuentas o tarjetas. | Tu dinero es tuyo. |
+| Te vigilan | Cada gasto, con enojo. | No es cuidado. |
+| Te presionan para firmar | Poderes, préstamos, ventas. | Detente. |
+| Te aíslan | No quieren que hables con otros. | Busca apoyo. |
+
+#### Tus primeros pasos
+
+Recupera el acceso a tus cuentas (cambia contraseñas y NIP), habla con tu persona de confianza y busca orientación. No tienes que resolverlo sola.
+
+
+
+#### Un caso en un minuto
+
+Lucía cambió el NIP de su tarjeta y se la quedó. Habló con su hija y llamaron juntas a una línea de orientación. Le ayudaron a poner límites con calma y con apoyo.
+
+> **Idea clave:** tu dinero es tuyo; si alguien te lo controla, recupera el acceso y busca apoyo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué diferencia hay entre ayudar y controlar?
+*Respuesta:* Ayudar es explicar y acompañar; controlar es decidir por ti o quitarte el acceso.
+
+2. ¿Qué haces primero si alguien controla tu dinero?
+*Respuesta:* Recupero el acceso a mis cuentas y busco apoyo.
+
+
+#### Para recordar
+
+- Ayuda acompaña; control decide por ti.
+- Recupera tu acceso.
+- Busca apoyo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Frases para poner límites
+
+| Situación | Puedes decir |
+|---|---|
+| Te piden tu tarjeta | «Prefiero manejarla yo; si necesito ayuda, te pido que me expliques» |
+| Te presionan para prestar | «Lo pensaré 72 horas y te respondo» |
+| Te piden firmar un poder | «Lo consultaré en la notaría antes» |
+| Critican tus gastos | «Es mi dinero y lo estoy cuidando» |
+
+
+
+#### Dónde pedir apoyo
+
+Puedes buscar orientación en las instancias de las mujeres de tu estado, en el DIF o en los servicios de atención a personas adultas mayores. Si hay amenazas o riesgo, llama al 911. Para apoyo emocional, la Línea de la Vida: 800 911 2000.
+
+
+
+#### Sin culpa
+
+Poner límites no es desamor. Puedes querer a tu familia y cuidar tu dinero al mismo tiempo.
+
+> **Antes de actuar, verifica:** los teléfonos de las instancias de tu estado y guárdalos en tu hoja de emergencia.
+
+
+
+#### Casos
+
+
+**Caso 1. La tarjeta de Lucía**
+
+Un familiar maneja la tarjeta de Lucía y decide en qué gasta.
+- *¿Qué hace?* Cambia su NIP, recupera la tarjeta y busca apoyo con su persona de confianza.
+
+
+**Caso 2. La presión a Carmen**
+
+Un sobrino presiona a Carmen para que le preste y se enoja si duda.
+- *¿Qué hace?* Le dice que lo pensará 72 horas y no presta por presión.
+
+
+**Caso 3. El aislamiento de Elena**
+
+La pareja de Elena no quiere que hable de dinero con nadie más.
+- *¿Qué hace?* Busca orientación en una instancia de apoyo a las mujeres.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Normalizar el control | Pierdes tu dinero | Reconócelo |
+| Ceder por culpa | Más control | Pon límites |
+| Resolverlo sola | Más difícil | Busca apoyo |
+| Esperar a que cambie | Empeora | Actúa |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Carmen y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Un familiar se queda con tu tarjeta y decide tus gastos. ¿Qué es? a) Ayuda normal · b) Control económico · c) Una forma de cuidarte
+2. ¿Qué haces primero? a) Recuperas el acceso a tus cuentas · b) Esperas a que cambie · c) Le das también tu contraseña
+3. Te presionan para prestar dinero. ¿Qué respondes? a) Que sí, para evitar problemas · b) Que no hablarás más del tema · c) Que lo pensarás 72 horas
+**Respuestas:** 1-b: deciden por ti. 2-a: tu dinero es tuyo. 3-c: la presión no decide.
+
+
+
+#### Ponlo en práctica
+
+Escribe una frase para poner un límite en una situación que hayas vivido.
+**Respuesta:** Por ejemplo: «Prefiero manejar yo mi tarjeta; si necesito ayuda, te pido que me expliques».
+
+
+
+#### A tu plan
+
+Guarda en tu hoja de emergencia el teléfono de la instancia de las mujeres de tu estado y de la Línea de la Vida.
+
+
+
+### Para saber más
+
+- **Apoyo a mujeres** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** instancia de las mujeres de tu estado.
+- **Línea de la Vida** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** «Línea de la Vida», 800 911 2000.
+
+### Palabras clave
+
+- *Control económico:* cuando otra persona decide sobre tu dinero sin tu consentimiento o te impide usarlo.
+- *Límite:* acuerdo claro sobre lo que aceptas y lo que no.
+
+### Fuentes
+
+Gobierno de México, consultado el 29 de septiembre de 2026.
+
+---
+
+## M11 U03. Tu plan de una página
+
+**Lo que lograrás:** Reunir en una sola hoja tu mapa, tu protección contra fraudes, tu ahorro, tu retiro, tu salud y tu familia, con fechas para revisarlo.
+
+**Para empezar:** Carmen tiene su inventario, sus candados en la app, su fondo de emergencia, su cálculo de retiro y su testamento. Pero están en hojas distintas. Quiere verlo todo junto y saber qué revisar cada año. En esta lección harás tu plan de una página.
+
+### Lo esencial (5 minutos)
+
+#### Todo en una hoja
+
+Tu plan de una página no reemplaza tu carpeta: la resume. Te dice en un minuto dónde estás y qué sigue.
+
+
+
+#### Las seis partes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Mapa | Tu inventario resumido. | Módulos 1 y 2. |
+| Seguridad | Candados, persona de confianza, palabra clave. | Módulos 3 y 4. |
+| Ahorro | Fondo de emergencia y dónde está. | Módulos 5 y 6. |
+| Retiro, salud y familia | Pensiones, seguro, testamento, beneficiarios. | Módulos 7 a 10. |
+
+#### Fechas para revisar
+
+Anota cuándo revisas cada cosa: tu carpeta en septiembre, tu reporte de crédito una vez al año, tu seguro antes de renovar y tu declaración en abril.
+
+
+
+#### Un caso en un minuto
+
+Carmen llenó su plan en una tarde. Lo guardó al frente de su carpeta y le dio una copia a su persona de confianza, sin números de cuenta. Cada septiembre lo actualiza.
+
+> **Idea clave:** tu plan de una página resume tu carpeta y te dice qué revisar cada año.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿El plan reemplaza tu carpeta?
+*Respuesta:* No. La resume.
+
+2. ¿Cuándo revisas tu carpeta y tu plan?
+*Respuesta:* Una vez al año, por ejemplo en septiembre.
+
+
+#### Para recordar
+
+- Seis partes en una hoja.
+- Fechas para revisar.
+- Sin números de cuenta.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu plan de una página
+
+| Parte | Lo que tengo hoy | Siguiente paso | Fecha |
+|---|---|---|---|
+| Mapa | | | |
+| Seguridad | | | |
+| Ahorro | | | |
+| Inversiones | | | |
+| Retiro | | | |
+| Salud y seguros | | | |
+| Familia y testamento | | | |
+
+
+
+#### Calendario del año
+
+| Mes | Qué revisas |
+|---|---|
+| Enero | Gastos anuales del año |
+| Abril | Declaración anual |
+| Septiembre | Carpeta, testamento y plan |
+| Antes de renovar | Seguros |
+| Una vez al año | Reporte de crédito y beneficiarios |
+
+
+
+#### Cuando cambia tu vida
+
+Una viudez, una separación, una herencia o una enfermedad cambian tu plan. Actualízalo en cuanto puedas, con calma y con apoyo.
+
+> **Antes de actuar, verifica:** que tu plan no tenga contraseñas, NIP ni números completos de cuenta.
+
+
+
+#### Casos
+
+
+**Caso 1. Las hojas de Carmen**
+
+Carmen tiene todo en hojas distintas y no ve el conjunto.
+- *¿Qué hace?* Llena su plan de una página y lo pone al frente de su carpeta.
+
+
+**Caso 2. La copia de Lucía**
+
+Lucía quiere darle una copia de su plan a su hija.
+- *¿Qué hace?* Le da una copia sin números de cuenta ni contraseñas.
+
+
+**Caso 3. La herencia de Maru**
+
+Maru recibió una herencia y su plan ya no refleja su situación.
+- *¿Qué hace?* Actualiza su plan con calma, respetando la pausa para decisiones grandes.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Todo disperso | No ves el conjunto | Plan de una página |
+| Datos sensibles en el plan | Riesgo | Sin números ni contraseñas |
+| No fijar fechas | Se olvida | Calendario |
+| No actualizar | Plan viejo | Revisa cada año |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Lucía y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué incluye tu plan de una página? a) Tus contraseñas, para tenerlas juntas · b) Un resumen de mapa, seguridad, ahorro, retiro, salud y familia · c) Solo tus inversiones, que son lo más importante del plan
+2. ¿Qué compartes con tu persona de confianza? a) Una copia sin números ni contraseñas · b) El plan con tus NIP · c) Nada, nunca
+3. ¿Cuándo actualizas tu plan? a) Solo si pierdes dinero · b) Cada cinco años · c) Cada año y cuando cambia tu vida
+**Respuestas:** 1-b: son sus seis partes. 2-a: sin datos sensibles. 3-c: así sigue al día.
+
+
+
+#### Ponlo en práctica
+
+Llena tu plan de una página con al menos un siguiente paso y una fecha para cada parte.
+**Respuesta:** Por ejemplo: seguridad, fijar límite de transferencias (esta semana); ahorro, completar fondo (diciembre); familia, testamento (septiembre).
+
+
+
+#### A tu plan
+
+Llena tu plan de una página, ponlo al frente de tu carpeta y agenda su revisión en septiembre.
+
+
+
+### Para saber más
+
+- **Educación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** herramientas de planeación.
+
+### Palabras clave
+
+- *Plan de una página:* resumen de tus decisiones de dinero en una sola hoja, con fechas para revisarlas.
+
+### Fuentes
+
+CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---

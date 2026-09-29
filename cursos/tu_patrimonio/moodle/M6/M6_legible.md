@@ -1,0 +1,789 @@
+# Módulo 6. Tus inversiones
+
+## M6 U01. Rendimiento, riesgo, plazo y liquidez
+
+**Lo que lograrás:** Hacerte cuatro preguntas antes de cualquier inversión (cuánto rinde, cuánto puede bajar, por cuánto tiempo y qué tan rápido lo recupero) y comparar contra la inflación.
+
+**Para empezar:** Lucía heredó un fondo que el año pasado «ganó 12%» y este año bajó 3%. Se asustó y quiere sacarlo todo. No sabe si hizo bien su esposo en elegirlo ni si ella debe mantenerlo. En esta lección aprenderás las cuatro preguntas para entender cualquier inversión.
+
+### Lo esencial (5 minutos)
+
+#### Cuatro preguntas
+
+Antes de invertir o de sacar una inversión, pregunta: **¿cuánto rinde?**, **¿cuánto puede bajar?**, **¿por cuánto tiempo?** y **¿qué tan rápido lo recupero?** Son el rendimiento, el riesgo, el plazo y la liquidez.
+
+
+
+#### Los cuatro conceptos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Rendimiento | Lo que gana tu dinero. | Compáralo con la inflación. |
+| Riesgo | Cuánto puede bajar. | Más rendimiento, más riesgo. |
+| Plazo | Cuánto tiempo lo dejas. | Según cuándo lo necesitas. |
+| Liquidez | Qué tan rápido lo conviertes en efectivo. | Para emergencias, alta. |
+
+#### Rendimiento real
+
+Si una inversión gana 7% y la inflación fue 4%, tu rendimiento real es de unos 3%. Si gana menos que la inflación, tu dinero compra menos que antes.
+
+
+
+#### Un caso en un minuto
+
+Lucía revisó su fondo: es de largo plazo y puede bajar algunos años. No necesita ese dinero en los próximos cinco. Decidió no venderlo por el susto y revisar si su riesgo le acomoda.
+
+> **Idea clave:** ninguna inversión tiene todo: más rendimiento suele traer más riesgo o menos liquidez.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la liquidez?
+*Respuesta:* Qué tan rápido conviertes una inversión en efectivo.
+
+2. ¿Qué pasa si una inversión gana menos que la inflación?
+*Respuesta:* Tu dinero pierde poder de compra.
+
+
+#### Para recordar
+
+- Rendimiento, riesgo, plazo y liquidez.
+- Compara con la inflación.
+- Más rendimiento suele traer más riesgo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Comparar tres opciones
+
+| Opción | Rendimiento | Riesgo | Liquidez |
+|---|---|---|---|
+| Cuenta de ahorro | Bajo | Muy bajo | Alta |
+| Cetes a 91 días | Moderado | Bajo | Al vencimiento |
+| Fondo de acciones | Puede ser alto | Alto | Días |
+
+
+
+#### El tiempo que tienes
+
+El dinero que necesitarás pronto no debe estar en inversiones que puedan bajar. El que no necesitarás en muchos años puede tolerar más altibajos. A tu edad, conviene pensar en cuándo necesitarás cada peso.
+
+
+
+#### Tu tolerancia
+
+Si una baja del 10% te quitaría el sueño o te haría vender en pánico, esa inversión no es para ti, aunque sea «buena». Invertir bien también es dormir tranquila.
+
+> **Antes de actuar, verifica:** el rendimiento pasado no garantiza el futuro; pide siempre el documento con la información clave de la inversión.
+
+
+
+#### Casos
+
+
+**Caso 1. El fondo de Lucía**
+
+El fondo heredado de Lucía bajó 3% este año y ella quiere venderlo por el susto.
+- *¿Qué hace?* Revisa su plazo y su riesgo antes de vender; si no necesita el dinero pronto, no decide por pánico.
+
+
+**Caso 2. La cuenta de Carmen**
+
+La cuenta de ahorro de Carmen paga 1% y la inflación fue 4%.
+- *¿Qué hace?* Entiende que pierde poder de compra y busca una opción adecuada a su plazo.
+
+
+**Caso 3. El dinero de Maru**
+
+Maru necesitará dinero en seis meses y le ofrecen un fondo de acciones.
+- *¿Qué hace?* Elige una opción de bajo riesgo para ese plazo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Ver solo el rendimiento | Ignoras el riesgo | Cuatro preguntas |
+| Vender por pánico | Conviertes la baja en pérdida | Revisa tu plazo |
+| Invertir lo que necesitas pronto | Puede bajar | Bajo riesgo |
+| Olvidar la inflación | Pierdes poder de compra | Rendimiento real |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Carmen y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? a) 13% · b) 3% · c) 8%, porque la inflación no cuenta
+2. ¿Qué inversión conviene para dinero que necesitas en tres meses? a) Una de bajo riesgo y corto plazo · b) Un fondo de acciones que ganó mucho el año pasado · c) Una a cinco años
+3. ¿Qué es el riesgo? a) Lo que te cobra la institución · b) El plazo mínimo de la inversión · c) Cuánto puede bajar tu inversión
+**Respuestas:** 1-b: 8 menos 5. 2-a: el plazo manda. 3-c: la posibilidad de perder.
+
+
+
+#### Ponlo en práctica
+
+Tienes 100,000 en una cuenta que paga 1% y la inflación es 4%. ¿Cuánto pierdes en poder de compra en un año, aproximadamente?
+**Respuesta:** Unos 3,000 (3% de 100,000).
+
+
+
+#### A tu plan
+
+Para cada inversión de tu inventario, anota su rendimiento, riesgo, plazo y liquidez.
+
+
+
+### Para saber más
+
+- **Inversiones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «invertir» y conceptos básicos.
+- **Inflación** (INEGI · español): https://www.inegi.org.mx — **Qué buscar:** «inflación», para comparar tu rendimiento.
+
+### Palabras clave
+
+- *Rendimiento real:* lo que gana tu dinero descontando la inflación.
+- *Liquidez:* qué tan rápido conviertes una inversión en efectivo.
+- *Riesgo:* la posibilidad de que tu inversión baje de valor.
+
+### Fuentes
+
+CONDUSEF · INEGI, consultados el 29 de septiembre de 2026.
+
+---
+
+## M6 U02. Qué hay en el menú
+
+**Lo que lograrás:** Distinguir los instrumentos más comunes (pagarés, Cetes y bonos, fondos de inversión y acciones) y saber cuáles protege el IPAB.
+
+**Para empezar:** En el estado de cuenta de Carmen aparecen palabras como «PRLV», «fondo de deuda» y «SIC». Ella no sabe qué tiene. En esta lección conocerás el menú básico de inversiones para entender lo que ya tienes.
+
+### Lo esencial (5 minutos)
+
+#### El menú básico
+
+Hay muchos nombres, pero casi todo cae en cuatro grupos: depósitos a plazo en bancos, deuda de gobierno o empresas, fondos de inversión y acciones.
+
+
+
+#### Cuatro grupos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Pagaré bancario | Depósito a plazo en un banco. | Lo protege el IPAB. |
+| Cetes y bonos | Le prestas al gobierno o a empresas. | Riesgo bajo a moderado. |
+| Fondo de inversión | Juntas tu dinero con otras personas. | Diversifica; puede subir o bajar. |
+| Acciones | Compras una parte de una empresa. | Riesgo alto. |
+
+#### Diversificar
+
+Diversificar es no poner todo en una sola cosa. Un fondo de inversión diversifica por ti, pero su valor cambia cada día.
+
+
+
+#### Un caso en un minuto
+
+Carmen preguntó a su casa de bolsa: el «PRLV» era un pagaré, el «fondo de deuda» invertía en bonos y el «SIC» eran acciones de empresas extranjeras. Ahora sabe qué partes pueden bajar.
+
+> **Idea clave:** saber en qué grupo está cada inversión te dice cuánto riesgo tiene y si la protege el IPAB.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué grupo protege el IPAB?
+*Respuesta:* Los pagarés y depósitos bancarios.
+
+2. ¿Qué es diversificar?
+*Respuesta:* Repartir tu dinero en distintas inversiones.
+
+
+#### Para recordar
+
+- Depósitos, deuda, fondos y acciones.
+- Solo los depósitos bancarios tienen IPAB.
+- Diversificar reduce el riesgo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Palabras de tu estado de cuenta
+
+| Palabra | Qué es |
+|---|---|
+| PRLV o pagaré | Depósito a plazo en un banco |
+| Cetes, Bonos M, Udibonos | Deuda del gobierno federal |
+| Fondo de deuda | Fondo que invierte en bonos |
+| Fondo de renta variable | Fondo que invierte en acciones |
+| SIC | Acciones o fondos extranjeros que se compran en México |
+
+
+
+#### Comisiones de los fondos
+
+Los fondos cobran una comisión anual por administración que se descuenta de su valor. Una diferencia de 1% al año, por muchos años, es mucho dinero. Pregúntala y compárala.
+
+
+
+#### Productos complejos
+
+Si no entiendes cómo gana dinero una inversión, no la compres. Productos «estructurados» o con nombres complicados pueden tener riesgos que no ves.
+
+> **Antes de actuar, verifica:** el prospecto o documento de información clave del fondo: su objetivo, riesgo y comisiones.
+
+
+
+#### Casos
+
+
+**Caso 1. El estado de cuenta de Carmen**
+
+Carmen no entiende las palabras «PRLV», «fondo de deuda» y «SIC» de su estado de cuenta.
+- *¿Qué hace?* Pregunta a su institución qué es cada una y la clasifica en su grupo.
+
+
+**Caso 2. La propuesta a Lucía**
+
+A Lucía le ofrecen «un estructurado con capital protegido» que no entiende.
+- *¿Qué hace?* No lo compra hasta entender cómo gana y qué riesgos tiene.
+
+
+**Caso 3. El único fondo de Elena**
+
+Elena tiene todos sus ahorros en las acciones de una sola empresa.
+- *¿Qué hace?* Considera diversificar para no depender de una sola inversión.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No saber qué tienes | No ves el riesgo | Clasifica cada inversión |
+| Comprar lo que no entiendes | Riesgos ocultos | Pregunta o no compres |
+| Ignorar comisiones | Menos rendimiento | Compáralas |
+| Todo en una sola cosa | Mucho riesgo | Diversifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Lucía y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué es un PRLV? a) Una acción de una empresa del extranjero · b) Un fondo de acciones · c) Un pagaré bancario
+2. ¿Qué haces si no entiendes una inversión? a) No la compras hasta entenderla · b) La compras poco para probar · c) Confías en quien la ofrece
+3. ¿Por qué importa la comisión de un fondo? a) No importa si el fondo es bueno · b) Se descuenta de tu rendimiento cada año · c) Solo se paga al entrar
+**Respuestas:** 1-c: depósito a plazo. 2-a: nunca compres lo que no entiendes. 3-b: reduce tu ganancia.
+
+
+
+#### Ponlo en práctica
+
+Un fondo cobra 2% al año y otro 1%. Con 500,000 invertidos, ¿cuánto pagas de más al año en el primero?
+**Respuesta:** 1% de 500,000: 5,000 al año.
+
+
+
+#### A tu plan
+
+Clasifica cada inversión de tu estado de cuenta en uno de los cuatro grupos.
+
+
+
+### Para saber más
+
+- **Fondos de inversión** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «fondos de inversión» y comparativos.
+- **Padrón** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** operadoras de fondos y casas de bolsa.
+
+### Palabras clave
+
+- *Diversificar:* repartir tu dinero en distintas inversiones para no depender de una sola.
+- *Fondo de inversión:* dinero de muchas personas que un administrador invierte junto.
+- *Pagaré:* depósito a plazo en un banco.
+
+### Fuentes
+
+CONDUSEF · CNBV, consultados el 29 de septiembre de 2026.
+
+---
+
+## M6 U03. Lee tu estado de cuenta de inversión
+
+**Lo que lograrás:** Leer tu estado de cuenta de inversión: posición, movimientos, rendimiento del periodo, comisiones y retenciones.
+
+**Para empezar:** Cada mes le llega a Lucía un estado de cuenta de 12 páginas de la casa de bolsa. Lo guarda sin abrir porque «no le entiende». Ahí podría ver si le cobran de más o si alguien movió algo. En esta lección lo leerás en diez minutos.
+
+### Lo esencial (5 minutos)
+
+#### Cinco partes
+
+Casi todos los estados de cuenta de inversión tienen cinco partes: datos del cliente, resumen o posición, movimientos, rendimiento y cargos (comisiones e impuestos).
+
+
+
+#### Qué mirar primero
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Posición | Qué tienes y cuánto vale hoy. | Tu foto del mes. |
+| Movimientos | Compras, ventas, depósitos y retiros. | ¿Los reconoces todos? |
+| Rendimiento | Cuánto ganó o perdió en el periodo. | Compara con meses anteriores. |
+| Comisiones y retenciones | Lo que te cobran y lo que te retienen de impuestos. | Revisa que sean las pactadas. |
+
+#### Los movimientos
+
+Revisa que reconozcas todos los movimientos. Una compra o venta que no autorizaste es motivo de reclamación inmediata.
+
+
+
+#### Un caso en un minuto
+
+Lucía abrió su estado con la tabla de esta lección. Vio su posición, un rendimiento negativo del mes y una comisión mayor a la que le dijeron. Llamó a la institución y le explicaron un cobro por un servicio que no pidió; lo reclamó.
+
+> **Idea clave:** diez minutos al mes con tu estado de cuenta te dicen qué tienes, qué pasó y cuánto te cobran.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la posición?
+*Respuesta:* Lo que tienes y cuánto vale a la fecha del estado.
+
+2. ¿Qué haces si ves un movimiento que no autorizaste?
+*Respuesta:* Reclamo de inmediato a la institución.
+
+
+#### Para recordar
+
+- Posición, movimientos y rendimiento.
+- Comisiones y retenciones.
+- Reclama lo que no reconozcas.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu revisión mensual
+
+| Pregunta | Dónde | Sí o no |
+|---|---|---|
+| ¿Reconozco todos los movimientos? | Movimientos | |
+| ¿La comisión es la pactada? | Cargos | |
+| ¿El valor total es el que esperaba? | Posición | |
+| ¿Hay retención de impuestos? | Cargos | |
+
+
+
+#### Un mes malo no es un año malo
+
+El rendimiento de un solo mes puede ser negativo en inversiones que suben y bajan. Mira el rendimiento de doce meses o más y compáralo con la inflación.
+
+
+
+#### Guarda tus estados
+
+Guarda al menos los del último año y la constancia anual de retenciones: la necesitas para tus impuestos (módulo 9).
+
+> **Antes de actuar, verifica:** el formato cambia en cada institución; pide que te expliquen tu primer estado de cuenta en una cita.
+
+
+
+#### Casos
+
+
+**Caso 1. Las 12 páginas de Lucía**
+
+Lucía guarda sus estados de cuenta sin abrirlos.
+- *¿Qué hace?* Los revisa cada mes con la tabla: posición, movimientos, rendimiento y cargos.
+
+
+**Caso 2. La venta de Carmen**
+
+Carmen ve una venta de acciones que no autorizó.
+- *¿Qué hace?* Reclama de inmediato a la institución, por escrito y con folio.
+
+
+**Caso 3. El mes de Elena**
+
+El fondo de Elena perdió 2% este mes.
+- *¿Qué hace?* Revisa el rendimiento de doce meses antes de preocuparse.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No abrir el estado de cuenta | No ves errores | Revísalo cada mes |
+| Ignorar movimientos raros | Pierdes plazo | Reclama pronto |
+| Juzgar por un mes | Decisiones de pánico | Mira doce meses |
+| Tirar los estados | Los necesitas | Guarda un año |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Carmen y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué parte muestra lo que tienes hoy? a) La posición · b) Los movimientos del mes · c) La lista de comisiones cobradas
+2. Tu fondo bajó 2% en un mes. ¿Qué haces? a) Lo vendes todo de inmediato para no perder más este año · b) Revisas el rendimiento de doce meses · c) Cambias de institución hoy mismo
+3. ¿Qué guardas para tus impuestos? a) Solo el último estado · b) Nada, lo tiene el SAT · c) La constancia anual de retenciones
+**Respuestas:** 1-a: tu foto del mes. 2-b: un mes no es un año. 3-c: la necesitas para declarar.
+
+
+
+#### Ponlo en práctica
+
+Tu posición era 800,000 el mes pasado; este mes es 790,000 y no hubo retiros. ¿Cuánto cambió en porcentaje?
+**Respuesta:** Bajó 10,000, que es 1.25% de 800,000.
+
+
+
+#### A tu plan
+
+Revisa tu último estado de cuenta de inversión con la tabla de revisión.
+
+
+
+### Para saber más
+
+- **Estados de cuenta** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «estado de cuenta» y cómo leerlo.
+
+### Palabras clave
+
+- *Posición:* lo que tienes y cuánto vale a la fecha del estado de cuenta.
+- *Retención:* impuesto que la institución descuenta y entrega al SAT por ti.
+- *Constancia de retenciones:* documento anual con lo que te retuvieron.
+
+### Fuentes
+
+CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M6 U04. Tu asesor: verifica, pregunta y compara
+
+**Lo que lograrás:** Verificar a un asesor de inversiones en el registro de la CNBV, hacerle las preguntas clave sobre comisiones y conflictos de interés, y comparar antes de decidir.
+
+**Para empezar:** El asesor que manejaba las inversiones del esposo de Lucía la visita para «seguir atendiéndola» y le propone mover todo a un producto nuevo. Es amable y lo conoce desde hace años. ¿Cómo sabe si le conviene a ella o a él? En esta lección aprenderás a evaluar a tu asesor.
+
+### Lo esencial (5 minutos)
+
+#### Verifica
+
+Si te asesora una persona independiente, debe estar en el Registro de Asesores en Inversiones de la CNBV. Si trabaja para un banco o casa de bolsa, confirma con la institución, por su teléfono oficial, que trabaja ahí.
+
+
+
+#### Preguntas clave
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| ¿Cómo te pagan? | Comisión por venta, cuota fija o porcentaje. | Revela conflictos. |
+| ¿Cuánto me cuesta en total? | Comisiones de entrada, salida y anuales. | Por escrito. |
+| ¿Cuánto puede bajar? | El peor escenario. | Riesgo real. |
+| ¿Por qué cambiar? | Si propone mover lo que ya tienes. | Cada cambio puede costar. |
+
+#### Conflicto de interés
+
+Si tu asesor gana más al venderte ciertos productos, puede recomendarlos aunque no sean los mejores para ti. Es un conflicto de interés. Preguntar no es desconfiar: es cuidarte.
+
+
+
+#### Un caso en un minuto
+
+Lucía preguntó cuánto costaba el producto nuevo y cómo le pagaban al asesor. Resultó que cobraba una comisión alta de entrada. Pidió la propuesta por escrito y la comparó con otra institución. Decidió no cambiar.
+
+> **Idea clave:** verifica, pregunta cómo le pagan y compara por escrito antes de mover tu dinero.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde verificas a un asesor independiente?
+*Respuesta:* En el Registro de Asesores en Inversiones de la CNBV.
+
+2. ¿Por qué preguntar cómo le pagan?
+*Respuesta:* Para saber si tiene un conflicto de interés.
+
+
+#### Para recordar
+
+- Verifica en la CNBV o con la institución.
+- Pregunta costos y cómo le pagan.
+- Compara por escrito.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Propuesta por escrito
+
+| Dato | Propuesta A | Propuesta B |
+|---|---|---|
+| Institución | | |
+| Producto | | |
+| Comisión de entrada | | |
+| Comisión anual | | |
+| Riesgo (peor año) | | |
+| Plazo y liquidez | | |
+
+
+
+#### Tu dinero, tu decisión
+
+Tu asesor recomienda; tú decides. No firmes contratos en blanco ni des poder para que opere tu cuenta sin consultarte. Puedes pedir que toda operación requiera tu autorización.
+
+
+
+#### Nunca a su cuenta
+
+Ningún asesor recibe dinero en su cuenta personal. Tu dinero va a una cuenta a tu nombre en la institución.
+
+> **Dato vigente:** los asesores en inversiones deben registrarse ante la CNBV y, si son personas físicas, contar con certificación de un organismo autorizado. Consultado el 29 de septiembre de 2026 a través de la CNBV.
+
+
+
+#### Casos
+
+
+**Caso 1. El producto nuevo para Lucía**
+
+El asesor de siempre le propone a Lucía mover todo a un producto nuevo.
+- *¿Qué hace?* Pregunta costos y cómo le pagan, pide la propuesta por escrito y compara.
+
+
+**Caso 2. El contrato de Carmen**
+
+Le piden a Carmen firmar un contrato que permite al asesor operar sin consultarla.
+- *¿Qué hace?* Pide que cada operación requiera su autorización.
+
+
+**Caso 3. El depósito de Maru**
+
+Un asesor le pide a Maru depositar a su cuenta personal para «agilizar».
+- *¿Qué hace?* No deposita: el dinero va solo a una cuenta a su nombre en la institución.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Confiar por años de trato | No ves conflictos | Pregunta cómo le pagan |
+| Mover sin comparar | Pagas comisiones | Compara por escrito |
+| Dar poder amplio | Operan sin ti | Tu autorización |
+| Depositar a una persona | Pierdes tu dinero | Solo a tu cuenta |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Carmen y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué preguntas a tu asesor antes de decidir? a) Cuántos clientes tiene y desde cuándo · b) Cómo le pagan y cuánto cuesta en total · c) Si ya lo compró él mismo
+2. Un asesor independiente, ¿dónde lo verificas? a) En sus redes sociales y en las opiniones de otros clientes · b) En el registro de la CNBV · c) Con sus otros clientes
+3. ¿Quién decide sobre tu dinero? a) Tu asesor, que sabe más del tema · b) Tu familia · c) Tú
+**Respuestas:** 1-b: revela conflictos. 2-b: el registro oficial. 3-c: el asesor recomienda, tú decides.
+
+
+
+#### Ponlo en práctica
+
+Una propuesta cobra 3% de entrada sobre 1,000,000. ¿Cuánto pagas solo por entrar?
+**Respuesta:** 3% de 1,000,000: 30,000.
+
+
+
+#### A tu plan
+
+Haz a tu asesor las cuatro preguntas clave y pide la respuesta por escrito.
+
+
+
+### Para saber más
+
+- **Registro de Asesores en Inversiones** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** «Registro de Asesores en Inversiones».
+
+### Palabras clave
+
+- *Registro de Asesores en Inversiones:* registro de la CNBV donde aparecen los asesores autorizados.
+- *Conflicto de interés:* situación en la que quien te aconseja gana más si decides de cierta forma.
+
+### Fuentes
+
+CNBV, consultado el 29 de septiembre de 2026.
+
+---
+
+## M6 U05. Inversiones milagro y «yo te lo manejo»
+
+**Lo que lograrás:** Reconocer pirámides, rendimientos garantizados, criptomonedas «seguras» y a conocidos o familiares que ofrecen manejar tu dinero sin autorización.
+
+**Para empezar:** En el grupo de amigas del club, una conocida cuenta que invirtió en «un negocio de divisas» que paga 5% mensual y que ya recuperó lo invertido. Carmen tiene ahorros quietos y le da pena preguntar si es seguro. En esta lección verás las señales.
+
+### Lo esencial (5 minutos)
+
+#### Si suena demasiado bueno…
+
+Las inversiones milagro prometen mucho, rápido y sin riesgo. Ninguna inversión legítima garantiza rendimientos altos. Si lo prometen, es la primera señal.
+
+
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Garantizado y alto | «5% mensual seguro». | Imposible sin riesgo. |
+| Trae a más personas | Te pagan por invitar. | Pirámide. |
+| «Yo te lo manejo» | Un conocido invierte por ti sin estar registrado. | Sin protección. |
+| Cripto «segura» | Te prometen ganancias fijas. | Muy volátil y sin protección. |
+
+#### Cómo funciona una pirámide
+
+En un esquema piramidal los primeros cobran con el dinero de los que entran después. Por eso algunos «ya recuperaron». Cuando deja de entrar gente, se derrumba.
+
+
+
+#### Un caso en un minuto
+
+Carmen preguntó el nombre de la empresa y lo buscó en la CNBV: había una advertencia. Meses después, el «negocio de divisas» dejó de pagar.
+
+> **Idea clave:** rendimiento alto garantizado, pagos por invitar o alguien que «te lo maneja» sin registro son señales de fraude.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Por qué algunos «ya recuperaron» en una pirámide?
+*Respuesta:* Porque les pagan con el dinero de quienes entran después.
+
+2. ¿Existe una inversión legítima con rendimiento alto garantizado?
+*Respuesta:* No.
+
+
+#### Para recordar
+
+- Garantizado y alto = alerta.
+- Pagos por invitar = pirámide.
+- Nadie maneja tu dinero sin registro.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Antes de decir que sí
+
+| Pregunta | Si la respuesta es… |
+|---|---|
+| ¿Está autorizada en la CNBV? | No: no inviertes |
+| ¿Garantizan el rendimiento? | Sí: alerta |
+| ¿Te pagan por traer gente? | Sí: pirámide |
+| ¿El dinero va a una persona? | Sí: no inviertes |
+
+
+
+#### Cuando viene de alguien cercano
+
+Los fraudes se mueven entre amigas, familias y grupos de confianza. La persona que te invita puede creer de verdad en el negocio. No es un juicio sobre ella: es una verificación para ti.
+
+
+
+#### Criptomonedas
+
+Las criptomonedas pueden subir o bajar mucho en días y no las protege el IPAB. Si alguien te promete ganancias fijas con cripto, es fraude.
+
+> **Antes de actuar, verifica:** las advertencias de la CNBV y el Portal de Fraudes Financieros de la CONDUSEF.
+
+
+
+#### Casos
+
+
+**Caso 1. El negocio de divisas de Carmen**
+
+Una amiga del club le ofrece a Carmen 5% mensual en un negocio de divisas.
+- *¿Qué hace?* Busca la empresa en la CNBV y no invierte si no está autorizada.
+
+
+**Caso 2. El sobrino de Lucía**
+
+El sobrino de Lucía le ofrece «manejarle» sus ahorros en la bolsa desde su cuenta.
+- *¿Qué hace?* No le da su dinero: debe estar en una cuenta a su nombre en una institución autorizada.
+
+
+**Caso 3. La invitación de Maru**
+
+Le ofrecen a Maru ganar comisiones por cada amiga que invite a invertir.
+- *¿Qué hace?* No entra: pagar por invitar es señal de pirámide.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer en lo garantizado | Pierdes todo | Desconfía |
+| Invertir por confianza | Fraude entre conocidos | Verifica |
+| Dar tu dinero a familiares | Sin protección | Cuenta a tu nombre |
+| Invitar a otras | Las arrastras | Denuncia |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Lucía y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te ofrecen 5% mensual garantizado. ¿Qué es? a) Una buena oportunidad si la persona es conocida · b) Una señal de fraude · c) Normal en divisas
+2. Te pagan por invitar a más personas. ¿Qué es? a) Una pirámide · b) Un programa de referidos legítimo que conviene · c) Un bono de bienvenida
+3. Tu sobrino quiere manejar tus ahorros en su cuenta. ¿Qué haces? a) Aceptas si firma un pagaré · b) Aceptas solo una parte · c) No: tu dinero va a una cuenta a tu nombre
+**Respuestas:** 1-b: nada legítimo garantiza eso. 2-a: pagan con el dinero de nuevos. 3-c: sin protección en su cuenta.
+
+
+
+#### Ponlo en práctica
+
+Te prometen 5% mensual. ¿Cuánto sería al año, sin interés sobre interés, y cómo se compara con Cetes?
+**Respuesta:** 60% al año, muchas veces más que los Cetes; un rendimiento así, garantizado, es imposible sin fraude.
+
+
+
+#### A tu plan
+
+Si alguien te ofrece una inversión, usa la tabla «antes de decir que sí» antes de responder.
+
+
+
+### Para saber más
+
+- **Advertencias** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** entidades no autorizadas.
+- **Portal de Fraudes Financieros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** pirámides e inversiones fraudulentas.
+
+### Palabras clave
+
+- *Esquema piramidal:* fraude que paga a los primeros con el dinero de quienes entran después.
+- *Criptomoneda:* dinero digital sin respaldo de un banco central y con precio muy variable.
+
+### Fuentes
+
+CNBV · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---

@@ -1,0 +1,644 @@
+# Módulo 1. Tu dinero hoy: mapa y orden
+
+## M1 U01. ¿Qué tengo y dónde está?
+
+**Lo que lograrás:** Hacer el inventario de tu patrimonio: cuentas, inversiones, seguros, inmuebles, pensiones y deudas, sin anotar números completos ni contraseñas.
+
+**Para empezar:** Carmen sabe que tienen «algo invertido» y un departamento que rentan, pero todo lo maneja Jorge. Una tarde se pregunta qué haría si él se enfermara mañana. No sabe en qué banco está cada cosa ni a quién llamar. En esta lección harás el mapa que a Carmen le falta.
+
+### Lo esencial (5 minutos)
+
+#### Primero, el mapa
+
+No puedes cuidar lo que no conoces. El primer paso no es invertir ni cambiar de banco: es saber qué hay y dónde está.
+
+Tu inventario es una lista sencilla. No necesitas saldos exactos: basta con saber qué es, en qué institución está y a nombre de quién.
+
+
+
+#### Lo que va en tu inventario
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cuentas | Débito, ahorro, nómina, cuentas en dólares. | Banco y a nombre de quién. |
+| Inversiones | Pagarés, Cetes, fondos, casa de bolsa. | Institución y contacto. |
+| Seguros | Gastos médicos, vida, casa, auto. | Aseguradora y renovación. |
+| Inmuebles y deudas | Casa, departamento, créditos, tarjetas. | Escrituras y saldos aproximados. |
+
+#### Lo que nunca anotas
+
+En tu inventario **no** van números completos de tarjeta, NIP, contraseñas ni códigos. Anota solo los últimos cuatro dígitos de cada cuenta. Así, si alguien encuentra la lista, no puede usarla.
+
+
+
+#### Un caso en un minuto
+
+Carmen se sentó con Jorge un domingo. Con los estados de cuenta a la mano, llenaron una tabla: dos cuentas de banco, un fondo en una casa de bolsa, el seguro de gastos médicos y el departamento.
+
+Descubrieron una cuenta vieja que nadie usaba y que cobraba comisión cada mes.
+
+> **Idea clave:** un inventario sencillo te da tranquilidad y es el punto de partida de todo el curso.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Necesitas los saldos exactos para tu inventario?
+*Respuesta:* No. Basta con qué es, dónde está y a nombre de quién; los saldos pueden ser aproximados.
+
+2. ¿Anotas tu NIP o contraseñas en el inventario?
+*Respuesta:* No. Solo los últimos cuatro dígitos; así la lista no sirve para robarte.
+
+
+#### Para recordar
+
+- Qué tienes, dónde está y a nombre de quién.
+- Sin números completos, NIP ni contraseñas.
+- Revísalo cada año.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu inventario en una hoja
+
+Llena una fila por cada cosa. Usa números redondeados.
+| Tipo | Institución | A nombre de | Últimos 4 dígitos | Saldo aproximado | Contacto |
+|---|---|---|---|---|---|
+| Cuenta de débito | Banco A | Carmen | 1234 | 80,000 | Sucursal Del Valle |
+| Fondo de inversión | Casa de bolsa B | Jorge | 5678 | 900,000 | Asesor, teléfono oficial |
+| Seguro de gastos médicos | Aseguradora C | Jorge y Carmen | — | Renueva en marzo | Agente |
+| Departamento | — | Ambos | — | Valor aproximado | Escrituras en la carpeta |
+
+
+
+#### ¿A nombre de quién?
+
+Anota el titular de cada cosa. Importa porque, si el titular falta, lo que sigue depende de los **beneficiarios** y del **testamento** (módulo 10). Una cuenta a nombre de tu pareja no es tuya, aunque el dinero sea de la familia.
+
+
+
+#### Dónde encontrar lo que no sabes
+
+- Estados de cuenta en papel o en el correo.
+- Constancias de retenciones que llegan cada año (módulo 9).
+- Pólizas y recibos de seguros.
+- El reporte de crédito, que muestra créditos y tarjetas a tu nombre.
+
+> **Antes de actuar, verifica:** si encuentras una cuenta o inversión que no reconoces, llama al número oficial de la institución, no al que venga en un papel viejo o en un mensaje.
+
+
+
+#### Casos
+
+
+**Caso 1. La lista de Carmen**
+
+Carmen quiere hacer su inventario y piensa anotar el NIP de cada tarjeta «para no olvidarlo».
+- *¿Qué hace?* Anota solo los últimos cuatro dígitos y guarda los NIP en su memoria, nunca en la lista.
+
+
+**Caso 2. La herencia de Lucía**
+
+Lucía heredó inversiones de su esposo y no sabe dónde están todas.
+- *¿Qué hace?* Revisa estados de cuenta y constancias de retenciones del último año para identificar cada institución.
+
+
+**Caso 3. La cuenta olvidada de Elena**
+
+Elena encuentra en su inventario una cuenta que no usa desde hace años y que cobra comisión.
+- *¿Qué hace?* Confirma el saldo con el banco y decide si la cancela por escrito.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No saber qué hay | Dependes de otra persona | Haz tu inventario |
+| Anotar NIP y contraseñas | La lista sirve para robarte | Solo últimos 4 dígitos |
+| Confundir titular y familia | Sorpresas si alguien falta | Anota a nombre de quién |
+| Hacerlo una vez y olvidarlo | Se queda viejo | Revísalo cada año |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Lucía y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué va en tu inventario? a) Tus contraseñas, para tenerlas juntas · b) Qué tienes, dónde está y a nombre de quién · c) Solo las cuentas con más dinero, porque las demás no importan
+2. ¿Qué datos de una cuenta anotas? a) Los últimos cuatro dígitos · b) El número completo y el NIP · c) Ninguno, solo el banco sin detalles
+3. Encuentras una inversión que no reconoces. ¿Qué haces? a) Llamas al número que viene en un papel viejo · b) Esperas a que te llamen · c) Llamas al número oficial de la institución
+**Respuestas:** 1-b: es el mapa básico. 2-a: así la lista no sirve para robarte. 3-c: solo el número oficial es seguro.
+
+
+
+#### Ponlo en práctica
+
+Carmen tiene 80,000 en su cuenta, 900,000 en un fondo a nombre de Jorge y 250,000 en una cuenta de ambos. ¿Cuánto está a nombre de Carmen, sola o compartido?
+**Respuesta:** 80,000 más 250,000: 330,000. Los 900,000 del fondo están a nombre de Jorge.
+
+
+
+#### A tu plan
+
+Llena la tabla de inventario con lo que sepas hoy y marca lo que te falta averiguar.
+
+
+
+### Para saber más
+
+- **Buró de Entidades Financieras** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** la institución de cada cuenta, para saber cómo atiende a sus clientes.
+- **Reporte de Crédito Especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** el reporte gratis una vez al año, para ver créditos y tarjetas a tu nombre.
+
+### Palabras clave
+
+- *Inventario:* lista de todo lo que tienes y lo que debes, con dónde está cada cosa.
+- *Titular:* la persona a cuyo nombre está una cuenta o un bien.
+- *Patrimonio:* lo que tienes menos lo que debes.
+
+### Fuentes
+
+CONDUSEF · Buró de Crédito, consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U02. ¿Cuánto cuesta vivir en mi casa, al mes y al año?
+
+**Lo que lograrás:** Calcular el gasto real de tu casa, incluidos los gastos que llegan una o dos veces al año, y convertirlo en un «mes promedio».
+
+**Para empezar:** Cada enero, Elena se sorprende: predial, seguro del auto, inscripciones y la renovación del seguro médico llegan casi juntos. Siente que el dinero «desaparece». En realidad, son gastos que ya sabía que venían. En esta lección aprenderás a verlos venir.
+
+### Lo esencial (5 minutos)
+
+#### Tres tipos de gasto
+
+Los **fijos** son iguales cada mes (colegiaturas, servicio de limpieza). Los **variables** cambian (súper, gasolina). Los gastos anuales son los que más sorprenden.
+
+
+
+#### Tu mes promedio
+
+Elena suma lo que gasta cada mes y le agrega la parte mensual de sus gastos anuales.
+- Gasto de cada mes: **45,000**
+- Gastos anuales divididos entre 12: **7,000**
+- Tu mes promedio: **52,000**
+Si apartas 7,000 cada mes, enero deja de ser una sorpresa.
+
+
+#### Tu lista de gastos anuales
+
+Predial, agua, seguros de gastos médicos, casa y auto, tenencia o refrendo, inscripciones, mantenimiento de la casa, regalos de diciembre y vacaciones.
+
+
+
+#### Un caso en un minuto
+
+Elena sumó sus gastos anuales: 84,000. Entre 12, son 7,000 al mes. Abrió una cuenta aparte para eso y aparta la cantidad cada quincena.
+
+Este enero pagó todo sin tocar su ahorro de emergencia.
+
+> **Idea clave:** el gasto real de tu casa incluye lo que pagas una vez al año; divídelo entre 12 y apártalo cada mes.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es un gasto anual?
+*Respuesta:* Un pago que llega una o pocas veces al año, como el predial o un seguro.
+
+2. ¿Cómo calculas tu mes promedio?
+*Respuesta:* Sumas el gasto de cada mes más los gastos anuales divididos entre 12.
+
+
+#### Para recordar
+
+- Fijos, variables y anuales.
+- Anuales entre 12, cada mes.
+- Una cuenta aparte para lo anual.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Ejemplo de gastos anuales
+
+| Gasto | Monto al año | Al mes |
+|---|---|---|
+| Seguro de gastos médicos | 48,000 | 4,000 |
+| Predial y agua | 9,600 | 800 |
+| Seguro del auto y refrendo | 14,400 | 1,200 |
+| Inscripciones y útiles | 12,000 | 1,000 |
+| **Total** | **84,000** | **7,000** |
+
+
+
+#### Cómo saber cuánto gastas
+
+Revisa tres meses de estados de cuenta de tus tarjetas y cuentas, y agrupa los gastos. Si pagas mucho en efectivo, anota durante un mes lo que sale de tu cartera. No se trata de juzgar cada compra, sino de saber a dónde va el dinero.
+
+
+
+#### Si el gasto es mayor que el ingreso
+
+Si tu mes promedio es mayor que lo que entra, empieza por los gastos anuales y por los servicios que ya no usas. Evita cubrir la diferencia con tarjeta de crédito: es una deuda que crece.
+
+> **Antes de actuar, verifica:** antes de cancelar un seguro para ahorrar, revisa el módulo 8; algunos seguros no se pueden recuperar en las mismas condiciones.
+
+
+
+#### Casos
+
+
+**Caso 1. El enero de Elena**
+
+Elena paga en enero el seguro del auto, el predial y las inscripciones, y siempre usa su ahorro.
+- *¿Qué hace?* Suma sus gastos anuales, los divide entre 12 y aparta esa cantidad cada mes en una cuenta aparte.
+
+
+**Caso 2. El gasto de Carmen**
+
+Carmen no sabe cuánto gasta la casa; Jorge dice que «unos 40 mil».
+- *¿Qué hace?* Revisa tres meses de estados de cuenta y agrupa los gastos para saber la cifra real.
+
+
+**Caso 3. La diferencia de Maru**
+
+El mes promedio de Maru es 3,000 mayor que su ingreso y lo cubre con la tarjeta.
+- *¿Qué hace?* Revisa sus gastos anuales y los servicios que no usa, y deja de cubrir la diferencia con crédito.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Olvidar los gastos anuales | Enero te sorprende | Divídelos entre 12 |
+| Calcular «de memoria» | La cifra no es real | Usa estados de cuenta |
+| Cubrir la diferencia con tarjeta | La deuda crece | Ajusta gastos |
+| Mezclar lo anual con el gasto diario | Te lo gastas | Cuenta aparte |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Elena, Carmen y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es un gasto anual? a) El súper de cada semana · b) La luz de cada bimestre, que casi no cambia · c) El seguro de gastos médicos
+2. Tus gastos anuales suman 60,000. ¿Cuánto apartas al mes? a) 5,000 · b) 6,000 · c) 60,000, todo en enero
+3. Tu mes promedio es mayor que tu ingreso. ¿Qué haces primero? a) Lo cubres con la tarjeta de crédito · b) Revisas gastos anuales y servicios que no usas · c) Cancelas tu seguro médico para ajustar el gasto de inmediato
+**Respuestas:** 1-c: llega una vez al año. 2-a: 60,000 entre 12 son 5,000. 3-b: ajustar es mejor que endeudarte.
+
+
+
+#### Ponlo en práctica
+
+Tus gastos de cada mes son 38,000 y tus gastos anuales suman 54,000. ¿Cuál es tu mes promedio?
+**Respuesta:** 54,000 entre 12 son 4,500. Tu mes promedio es 38,000 más 4,500: 42,500.
+
+
+
+#### A tu plan
+
+Haz tu lista de gastos anuales, súmalos y divídelos entre 12. Esa es la cantidad que apartarás cada mes.
+
+
+
+### Para saber más
+
+- **Presupuesto personal** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «presupuesto» y sus calculadoras, para ordenar tus gastos.
+
+### Palabras clave
+
+- *Gastos anuales:* pagos que llegan una o pocas veces al año, como predial, seguros o tenencia.
+- *Mes promedio:* lo que gasta tu casa cada mes más la parte mensual de los gastos anuales.
+
+### Fuentes
+
+CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M1 U03. Mi dinero, nuestro dinero
+
+**Lo que lograrás:** Hablar de dinero en pareja y en familia, conocer el régimen de tu matrimonio y tener una cuenta propia para tu tranquilidad.
+
+**Para empezar:** Carmen nunca ha preguntado cuánto ganan ni cuánto tienen: «eso lo ve Jorge». No es desconfianza; así se acostumbraron. Pero si algo cambiara, ella tendría que empezar de cero. En esta lección verás cómo abrir la conversación sin pelear.
+
+### Lo esencial (5 minutos)
+
+#### Hablar de dinero es cuidarse
+
+Conocer el dinero de la familia no es desconfiar: es cuidarse. Si solo una persona sabe dónde está todo, la familia depende de ella. Si falta, se enferma o se separan, la otra persona queda sin información.
+
+
+
+#### Tres acuerdos básicos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Transparencia | Las dos personas saben qué hay y dónde. | Sin sorpresas. |
+| Cuenta propia | Cada quien tiene una cuenta a su nombre. | Tu respaldo. |
+| Cita mensual | Revisan juntos gastos y metas. | Menos discusiones. |
+
+#### El régimen de tu matrimonio
+
+Si estás casada por lo civil, tu matrimonio tiene un régimen patrimonial. En la **sociedad conyugal**, lo adquirido durante el matrimonio es de las dos personas. En la **separación de bienes**, cada quien es dueño de lo suyo. Lo dice tu acta de matrimonio.
+
+
+
+#### Un caso en un minuto
+
+Carmen le propuso a Jorge una «cita de dinero» al mes. Empezaron con el inventario del módulo 1. Jorge le mostró sus cuentas y ella abrió una cuenta propia para su ahorro.
+
+> **Idea clave:** hablar de dinero en familia no es desconfianza; es tranquilidad para las dos personas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde dice cuál es el régimen de tu matrimonio?
+*Respuesta:* En tu acta de matrimonio.
+
+2. ¿Para qué sirve una cuenta propia?
+*Respuesta:* Es tu respaldo: tienes acceso a dinero a tu nombre si algo cambia.
+
+
+#### Para recordar
+
+- Las dos personas saben qué hay.
+- Cuenta propia a tu nombre.
+- Revisa tu acta de matrimonio.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Cómo empezar la conversación
+
+- Elige un momento tranquilo, no en medio de un problema.
+- Empieza por una meta común: «quiero que estemos preparados si alguno falta».
+- Propón hacer juntos el inventario.
+- Acuerden una cita mensual de 30 minutos.
+
+
+
+#### Los dos regímenes
+
+| | Sociedad conyugal | Separación de bienes |
+|---|---|---|
+| Lo que compran durante el matrimonio | Es de las dos personas | Es de quien lo compró |
+| Si se separan | Se reparte | Cada quien conserva lo suyo |
+| Qué revisar | Acta de matrimonio y capitulaciones | Acta de matrimonio y capitulaciones |
+
+> **Antes de actuar, verifica:** las reglas cambian según el estado y según lo que firmaron al casarse. Para tu caso, consulta a una notaría o a un abogado.
+
+
+
+#### Si la conversación no es posible
+
+Si tu pareja se niega siempre a hablar de dinero, te quita el acceso a tus cuentas o controla todo lo que gastas, puede tratarse de control económico. En el módulo 11 verás cómo reconocerlo y dónde pedir apoyo.
+
+
+
+#### Casos
+
+
+**Caso 1. La cita de Carmen**
+
+Carmen quiere saber qué tienen, pero teme que Jorge se moleste.
+- *¿Qué hace?* Propone una cita tranquila con una meta común: estar preparados si alguno falta.
+
+
+**Caso 2. La cuenta de Maru**
+
+Maru deposita lo que gana por catálogo en la cuenta de su esposo.
+- *¿Qué hace?* Abre una cuenta a su nombre para tener su propio respaldo.
+
+
+**Caso 3. El acta de Elena**
+
+Elena no sabe qué régimen tuvo su matrimonio al divorciarse.
+- *¿Qué hace?* Revisa su acta de matrimonio y, si hay dudas, consulta a una notaría o a un abogado.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Dejar todo en una sola persona | Dependencia total | Transparencia |
+| No tener nada a tu nombre | Sin respaldo | Cuenta propia |
+| Hablar solo en crisis | Discusiones | Cita mensual |
+| Suponer el régimen | Sorpresas | Revisa tu acta |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Maru y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde consultas el régimen de tu matrimonio? a) En tu estado de cuenta · b) En la escritura de la casa · c) En tu acta de matrimonio
+2. ¿Qué es la sociedad conyugal? a) Lo adquirido en el matrimonio es de las dos personas · b) Cada quien conserva lo que compró, aunque sea durante el matrimonio · c) Una cuenta de banco compartida por la pareja
+3. ¿Cuál es un buen primer paso para hablar de dinero? a) Hacer juntos el inventario · b) Pedir todas las contraseñas de golpe · c) Esperar a que haya un problema
+**Respuestas:** 1-c: el acta lo indica. 2-a: se comparte lo adquirido. 3-a: es concreto y sin juicios.
+
+
+
+#### Ponlo en práctica
+
+Durante su matrimonio en sociedad conyugal, Carmen y Jorge compraron un departamento de 2,400,000. ¿Qué parte corresponde a cada quien?
+**Respuesta:** En sociedad conyugal, lo adquirido es de las dos personas: 1,200,000 cada quien, salvo acuerdos distintos en sus capitulaciones.
+
+
+
+#### A tu plan
+
+Busca tu acta de matrimonio, anota tu régimen y propón a tu familia una cita mensual de dinero.
+
+
+
+### Para saber más
+
+- **Mes del Testamento y trámites notariales** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** «notarías» de tu estado, para consultar dudas sobre tu régimen.
+- **Educación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «finanzas en pareja», con ideas para la conversación.
+
+### Palabras clave
+
+- *Régimen patrimonial:* la regla que define de quién son los bienes en el matrimonio: sociedad conyugal o separación de bienes.
+- *Capitulaciones:* el acuerdo que la pareja firma al casarse sobre sus bienes.
+
+### Fuentes
+
+CONDUSEF · Código Civil Federal, consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U04. Tu carpeta de documentos
+
+**Lo que lograrás:** Reunir en una carpeta los documentos que tu familia necesitaría en una emergencia, guardarlos seguros y decir a una persona de confianza dónde están.
+
+**Para empezar:** Cuando murió su esposo, Lucía pasó semanas buscando pólizas, escrituras y contratos. Algunos aparecieron en cajones, otros nunca. Hoy quiere evitarles eso a sus hijos. En esta lección armarás tu carpeta.
+
+### Lo esencial (5 minutos)
+
+#### Una carpeta, un lugar
+
+Tu carpeta de documentos reúne lo que tu familia necesitaría si tú no pudieras decidir. Debe estar en un solo lugar y alguien de confianza debe saber dónde.
+
+
+
+#### Qué va en tu carpeta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Identidad | Copia de INE, CURP, actas de nacimiento y de matrimonio. | Para cualquier trámite. |
+| Bienes | Escrituras, facturas del auto. | Prueban que es tuyo. |
+| Seguros y pensión | Pólizas, AFORE, resoluciones de pensión. | Para cobrar. |
+| Testamento y beneficiarios | Copia del testamento y designaciones. | Para que se cumpla tu voluntad. |
+
+#### Protegida, no escondida
+
+Guarda los originales en un lugar seguro de tu casa o en una caja de seguridad. Si haces copias digitales, guárdalas con contraseña. Nunca guardes en la carpeta tu NIP ni tus contraseñas.
+
+
+
+#### Un caso en un minuto
+
+Lucía compró una carpeta con separadores: identidad, casa, seguros, pensión y testamento. Le dijo a su hija mayor dónde está. En una hoja al frente anotó a quién llamar en cada caso: notaría, aseguradora y banco.
+
+> **Idea clave:** una carpeta ordenada y una persona que sabe dónde está ahorran semanas de angustia a tu familia.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Guardas tus contraseñas en la carpeta?
+*Respuesta:* No. La carpeta tiene documentos; las contraseñas no se escriben.
+
+2. ¿Quién debe saber dónde está la carpeta?
+*Respuesta:* Al menos una persona de confianza.
+
+
+#### Para recordar
+
+- Un solo lugar.
+- Una persona de confianza sabe dónde.
+- Sin contraseñas ni NIP.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Lista de revisión
+
+| Documento | Lo tengo | Dónde está el original |
+|---|---|---|
+| Actas de nacimiento y matrimonio | | |
+| INE y CURP (copia) | | |
+| Escrituras | | |
+| Pólizas de seguro | | |
+| Estado de cuenta de la AFORE y resolución de pensión | | |
+| Testamento (copia) | | |
+| Contactos: notaría, agente, banco | | |
+
+
+
+#### Copias digitales
+
+Si escaneas tus documentos, guárdalos en una carpeta protegida con contraseña o en la nube con verificación en dos pasos. No mandes copias de tu INE por WhatsApp a quien no conoces: es la materia prima del robo de identidad (módulo 4).
+
+
+
+#### Mantenla al día
+
+Revisa la carpeta una vez al año, por ejemplo en septiembre, el Mes del Testamento. Cambia las pólizas vencidas y actualiza contactos.
+
+> **Antes de actuar, verifica:** si vas a entregar copias de tu INE para un trámite, escribe sobre la copia para qué es y la fecha. Así es más difícil que la usen para otra cosa.
+
+
+
+#### Casos
+
+
+**Caso 1. La carpeta de Lucía**
+
+Lucía tiene sus documentos en tres cajones distintos y nadie sabe dónde.
+- *¿Qué hace?* Los reúne en una carpeta con separadores y le dice a su hija dónde está.
+
+
+**Caso 2. El escaneo de Carmen**
+
+Carmen quiere escanear su carpeta y mandarla por WhatsApp a sus hijos «por si acaso».
+- *¿Qué hace?* Guarda las copias en una carpeta protegida con contraseña y solo comparte dónde está.
+
+
+**Caso 3. La copia de Maru**
+
+Le piden a Maru una copia de su INE para registrarse como vendedora por catálogo.
+- *¿Qué hace?* Escribe sobre la copia para qué es y la fecha antes de entregarla.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Documentos dispersos | Tu familia no los encuentra | Una carpeta |
+| Contraseñas en la carpeta | Riesgo de robo | Nunca las escribas |
+| Copias de INE por chat | Robo de identidad | Comparte con cuidado |
+| No actualizarla | Pólizas vencidas | Revisión anual |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Carmen y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué NO va en tu carpeta? a) Tu NIP y tus contraseñas · b) La copia de tu testamento · c) Las pólizas de seguro vigentes
+2. ¿Cuándo conviene revisar la carpeta? a) Solo cuando hay una emergencia · b) Una vez al año · c) Nunca, si ya está hecha
+3. ¿Cómo entregas una copia de tu INE para un trámite? a) Sin anotar nada, como te la pidan · b) Por WhatsApp a quien la pida, para que el trámite sea rápido · c) Con una nota de para qué es y la fecha
+**Respuestas:** 1-a: nunca se escriben. 2-b: así se mantiene al día. 3-c: dificulta que la usen para otra cosa.
+
+
+
+#### Ponlo en práctica
+
+Llena la lista de revisión. Si te faltan tres documentos, ¿cuál buscas primero?
+**Respuesta:** Por ejemplo: primero las pólizas y la resolución de pensión, porque tu familia las necesita para cobrar; después las escrituras y el testamento.
+
+
+
+#### A tu plan
+
+Arma tu carpeta con los separadores de la lista y dile a una persona de confianza dónde está.
+
+
+
+### Para saber más
+
+- **Mes del Testamento** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** «Mes del Testamento», para revisar tu carpeta cada septiembre.
+- **Robo de identidad** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «robo de identidad», para cuidar tus copias.
+
+### Palabras clave
+
+- *Carpeta de documentos:* el lugar donde guardas los papeles importantes de tu patrimonio y tu familia.
+- *Caja de seguridad:* espacio que renta un banco para guardar objetos y documentos.
+
+### Fuentes
+
+CONDUSEF · Gobierno de México, consultados el 29 de septiembre de 2026.
+
+---

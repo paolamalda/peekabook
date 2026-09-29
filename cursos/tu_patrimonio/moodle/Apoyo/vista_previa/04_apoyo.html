@@ -1,0 +1,241 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Glosario</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Glosario</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-book"></i> Materiales de apoyo</span><h3>Glosario</h3><p class="obj">Las palabras del curso explicadas en lenguaje sencillo, por módulo.</p></div><div class="card2"><p>Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.</p></div><div class="card2"><h4>Tu dinero hoy: mapa y orden</h4><ul>
+<li><strong>Caja de seguridad:</strong> espacio que renta un banco para guardar objetos y documentos.</li>
+<li><strong>Capitulaciones:</strong> el acuerdo que la pareja firma al casarse sobre sus bienes.</li>
+<li><strong>Carpeta de documentos:</strong> el lugar donde guardas los papeles importantes de tu patrimonio y tu familia.</li>
+<li><strong>Gastos anuales:</strong> pagos que llegan una o pocas veces al año, como predial, seguros o tenencia.</li>
+<li><strong>Inventario:</strong> lista de todo lo que tienes y lo que debes, con dónde está cada cosa.</li>
+<li><strong>Mes promedio:</strong> lo que gasta tu casa cada mes más la parte mensual de los gastos anuales.</li>
+<li><strong>Patrimonio:</strong> lo que tienes menos lo que debes.</li>
+<li><strong>Régimen patrimonial:</strong> la regla que define de quién son los bienes en el matrimonio: sociedad conyugal o separación de bienes.</li>
+<li><strong>Titular:</strong> la persona a cuyo nombre está una cuenta o un bien.</li>
+</ul></div><div class="card2"><h4>Conoce el sistema financiero</h4><ul>
+<li><strong>Advertencia:</strong> aviso de la autoridad sobre empresas que operan sin autorización.</li>
+<li><strong>Autoridad financiera:</strong> organismo del gobierno que pone reglas, vigila o defiende a los usuarios.</li>
+<li><strong>Buró de Entidades Financieras:</strong> herramienta de CONDUSEF que muestra quejas, sanciones y cómo resuelve cada institución.</li>
+<li><strong>Conciliación:</strong> reunión que organiza la CONDUSEF entre tú y la institución para resolver una queja.</li>
+<li><strong>Depósito:</strong> dinero que guardas en un banco y que te devuelven completo, con o sin intereses.</li>
+<li><strong>Folio:</strong> el número que identifica tu reclamación.</li>
+<li><strong>Inversión:</strong> dinero que pones a trabajar para que crezca, con la posibilidad de ganar o perder.</li>
+<li><strong>Nombre legal:</strong> el nombre oficial de la institución, que aparece en el contrato.</li>
+<li><strong>SIPRES:</strong> registro de prestadores de servicios financieros de CONDUSEF.</li>
+<li><strong>Sistema financiero:</strong> el conjunto de autoridades e instituciones que manejan el ahorro, el crédito, los seguros, las inversiones y los pagos.</li>
+<li><strong>UNE:</strong> la Unidad Especializada de Atención a Usuarios de cada institución, que recibe reclamaciones.</li>
+</ul></div><div class="card2"><h4>El celular sin miedo</h4><ul>
+<li><strong>Banca móvil:</strong> la app de tu banco en el celular.</li>
+<li><strong>Bloqueo de pantalla:</strong> código, huella o rostro para abrir el celular.</li>
+<li><strong>CEP:</strong> Comprobante Electrónico de Pago que emite Banxico para las transferencias SPEI.</li>
+<li><strong>CLABE:</strong> número de 18 dígitos que identifica una cuenta para recibir transferencias.</li>
+<li><strong>Contraseña:</strong> clave secreta para entrar a tu app; solo tú la conoces.</li>
+<li><strong>Código de verificación:</strong> número que te llega por mensaje o genera tu token para confirmar una operación.</li>
+<li><strong>Gafete:</strong> identificación visible del personal del banco.</li>
+<li><strong>Monto Transaccional del Usuario:</strong> el límite de dinero que puedes transferir desde tu app, que tú misma fijas.</li>
+<li><strong>Persona de confianza:</strong> alguien que eliges con calma para ayudarte con dudas, sin darle tus contraseñas.</li>
+<li><strong>SPEI:</strong> el sistema de transferencias entre bancos de Banxico.</li>
+<li><strong>Tarjeta digital:</strong> tarjeta virtual para compras en internet, con datos que cambian.</li>
+<li><strong>Token:</strong> generador de códigos, en tu app o en un aparato, para autorizar operaciones.</li>
+<li><strong>UDI:</strong> unidad cuyo valor en pesos cambia con la inflación.</li>
+</ul></div><div class="card2"><h4>Fraudes: que no te pase</h4><ul>
+<li><strong>Bloqueo de historial:</strong> servicio que impide que consulten tu historial sin tu autorización.</li>
+<li><strong>Clonación:</strong> copia de los datos de tu tarjeta con un aparato oculto.</li>
+<li><strong>Cuenta segura:</strong> engaño en el que te piden mover tu dinero a una cuenta del estafador.</li>
+<li><strong>Cuento del tío:</strong> engaño en el que te piden dinero para cobrar una supuesta herencia o premio.</li>
+<li><strong>Denuncia:</strong> aviso formal de un delito ante la autoridad.</li>
+<li><strong>Enlace:</strong> dirección que te lleva a una página.</li>
+<li><strong>Evidencia:</strong> pruebas de lo que pasó.</li>
+<li><strong>Extorsión:</strong> exigir dinero con amenazas.</li>
+<li><strong>Fraude:</strong> engaño para quitarte dinero o datos.</li>
+<li><strong>Ingeniería social:</strong> engaño que usa emociones como la prisa o el miedo para que hagas algo que te perjudica.</li>
+<li><strong>NIP:</strong> número secreto de tu tarjeta para usar el cajero o pagar.</li>
+<li><strong>Palabra clave:</strong> palabra que solo tu familia conoce para confirmar quién llama.</li>
+<li><strong>Phishing:</strong> engaño con mensajes o páginas falsas que imitan a una empresa para robar tus datos.</li>
+<li><strong>REPEP:</strong> Registro Público para Evitar Publicidad, de Profeco.</li>
+<li><strong>Reporte de crédito:</strong> documento con tus créditos, pagos y consultas.</li>
+<li><strong>REUS:</strong> Registro Público de Usuarios, de CONDUSEF, para no recibir publicidad financiera.</li>
+<li><strong>Robo de identidad:</strong> uso de tus datos para hacerse pasar por ti y pedir créditos o hacer trámites.</li>
+<li><strong>Secuestro virtual:</strong> extorsión en la que fingen tener a un familiar para que pagues rápido, sin que exista secuestro.</li>
+<li><strong>Smishing:</strong> phishing por mensaje de texto.</li>
+<li><strong>Vishing:</strong> fraude por llamada telefónica que se hace pasar por una institución.</li>
+</ul></div><div class="card2"><h4>Tus cuentas y tu ahorro protegido</h4><ul>
+<li><strong>BONDDIA:</strong> opción de Cetesdirecto que permite retirar cualquier día hábil.</li>
+<li><strong>Cetes:</strong> Certificados de la Tesorería: deuda del gobierno federal que te paga un rendimiento a un plazo.</li>
+<li><strong>Coaseguro:</strong> el porcentaje del gasto que pagas tú después del deducible.</li>
+<li><strong>Comisión:</strong> cobro del banco por un servicio.</li>
+<li><strong>Cuenta mancomunada:</strong> cuenta con dos o más titulares.</li>
+<li><strong>Deducible:</strong> la cantidad que pagas tú antes de que el seguro empiece a pagar.</li>
+<li><strong>Domiciliación:</strong> pago automático de un servicio con cargo a tu cuenta.</li>
+<li><strong>Fondo de emergencia:</strong> dinero apartado solo para imprevistos, disponible de inmediato.</li>
+<li><strong>GAT:</strong> Ganancia Anual Total: lo que te paga una cuenta o inversión al año, antes de impuestos.</li>
+<li><strong>IPAB:</strong> Instituto para la Protección al Ahorro Bancario, que protege tus depósitos si un banco quiebra.</li>
+<li><strong>Reinversión:</strong> volver a invertir automáticamente al terminar el plazo.</li>
+<li><strong>UDIS:</strong> unidad cuyo valor en pesos cambia con la inflación.</li>
+</ul></div><div class="card2"><h4>Tus inversiones</h4><ul>
+<li><strong>Conflicto de interés:</strong> situación en la que quien te aconseja gana más si decides de cierta forma.</li>
+<li><strong>Constancia de retenciones:</strong> documento anual con lo que te retuvieron.</li>
+<li><strong>Criptomoneda:</strong> dinero digital sin respaldo de un banco central y con precio muy variable.</li>
+<li><strong>Diversificar:</strong> repartir tu dinero en distintas inversiones para no depender de una sola.</li>
+<li><strong>Esquema piramidal:</strong> fraude que paga a los primeros con el dinero de quienes entran después.</li>
+<li><strong>Fondo de inversión:</strong> dinero de muchas personas que un administrador invierte junto.</li>
+<li><strong>Liquidez:</strong> qué tan rápido conviertes una inversión en efectivo.</li>
+<li><strong>Pagaré:</strong> depósito a plazo en un banco.</li>
+<li><strong>Posición:</strong> lo que tienes y cuánto vale a la fecha del estado de cuenta.</li>
+<li><strong>Registro de Asesores en Inversiones:</strong> registro de la CNBV donde aparecen los asesores autorizados.</li>
+<li><strong>Rendimiento real:</strong> lo que gana tu dinero descontando la inflación.</li>
+<li><strong>Retención:</strong> impuesto que la institución descuenta y entrega al SAT por ti.</li>
+<li><strong>Riesgo:</strong> la posibilidad de que tu inversión baje de valor.</li>
+</ul></div><div class="card2"><h4>Pensión y retiro</h4><ul>
+<li><strong>AFORE:</strong> administradora que guarda e invierte tu ahorro para el retiro.</li>
+<li><strong>Aportación voluntaria:</strong> ahorro extra que haces tú en tu AFORE.</li>
+<li><strong>Concubinato:</strong> unión de pareja sin matrimonio, con efectos legales si se cumplen requisitos.</li>
+<li><strong>Conservación de derechos:</strong> periodo después de tu baja en el que aún puedes hacer ciertos trámites.</li>
+<li><strong>Diferencia de retiro:</strong> lo que te falta cada mes entre tu gasto y tus pensiones.</li>
+<li><strong>Ley 73:</strong> reglas del IMSS para quienes cotizaron antes del 1 de julio de 1997.</li>
+<li><strong>Ley 97:</strong> reglas del IMSS para quienes empezaron a cotizar desde el 1 de julio de 1997; la pensión depende de tu AFORE.</li>
+<li><strong>Modalidad 40:</strong> continuación voluntaria en el IMSS: pagas tú las cuotas para mejorar tu pensión de Ley 73.</li>
+<li><strong>NSS:</strong> Número de Seguridad Social.</li>
+<li><strong>Pensión de viudez:</strong> pensión que recibe la pareja de una persona asegurada o pensionada que falleció.</li>
+<li><strong>Retiro:</strong> etapa de la vida en la que dejas de trabajar y vives de pensiones y ahorros.</li>
+<li><strong>Semanas cotizadas:</strong> semanas en que se pagaron cuotas al IMSS a tu nombre.</li>
+</ul></div><div class="card2"><h4>Salud y seguros</h4><ul>
+<li><strong>Ajustador:</strong> persona de la aseguradora que evalúa un siniestro.</li>
+<li><strong>Antigüedad:</strong> tiempo que llevas asegurada sin interrupción.</li>
+<li><strong>Beneficiario:</strong> persona que recibe el pago del seguro.</li>
+<li><strong>Carátula:</strong> primera hoja de la póliza con los datos principales: suma asegurada, deducible, coaseguro y vigencia.</li>
+<li><strong>Condiciones generales:</strong> documento con todas las reglas de la póliza.</li>
+<li><strong>Exclusión:</strong> lo que el seguro no cubre.</li>
+<li><strong>Periodo de espera:</strong> tiempo que debe pasar para que el seguro cubra ciertos padecimientos.</li>
+<li><strong>Preexistencias:</strong> enfermedades que ya tenías antes de contratar un seguro.</li>
+<li><strong>Prima:</strong> lo que pagas por tu seguro.</li>
+<li><strong>Responsabilidad civil:</strong> cobertura que paga los daños que causas a otras personas o a sus bienes.</li>
+<li><strong>Seguro de Gastos Médicos Mayores:</strong> seguro que paga gastos médicos grandes: hospitalización, cirugías y tratamientos.</li>
+<li><strong>Seguro de vida:</strong> seguro que paga una suma a tus beneficiarios si falleces.</li>
+<li><strong>Tabulador:</strong> lista de montos máximos que paga la aseguradora por los honorarios de cada procedimiento.</li>
+<li><strong>Valor comercial:</strong> lo que vale hoy tu auto en el mercado.</li>
+<li><strong>Valor de rescate:</strong> lo que te devuelven si cancelas un seguro con ahorro.</li>
+</ul></div><div class="card2"><h4>Impuestos sin miedo</h4><ul>
+<li><strong>Deducción personal:</strong> gasto que puedes restar de tus ingresos en tu declaración anual para pagar menos impuesto.</li>
+<li><strong>e.firma:</strong> tu firma electrónica para trámites con el SAT.</li>
+<li><strong>Exento:</strong> ingreso que no paga impuesto.</li>
+<li><strong>Factura:</strong> comprobante fiscal digital (CFDI) a tu nombre.</li>
+<li><strong>RFC:</strong> Registro Federal de Contribuyentes, tu clave ante el SAT.</li>
+<li><strong>Saldo a favor:</strong> impuesto que pagaste de más y el SAT te puede devolver.</li>
+<li><strong>UMA:</strong> Unidad de Medida y Actualización, referencia para límites fiscales.</li>
+</ul></div><div class="card2"><h4>Patrimonio y familia</h4><ul>
+<li><strong>Albacea:</strong> persona que se encarga del trámite de la herencia.</li>
+<li><strong>Aval:</strong> persona que se compromete a pagar una deuda si quien la pidió no paga.</li>
+<li><strong>Convenio de separación:</strong> acuerdo sobre bienes y obligaciones al separarse.</li>
+<li><strong>Duelo:</strong> proceso emocional después de una pérdida.</li>
+<li><strong>Heredero:</strong> persona que recibe los bienes de otra al fallecer.</li>
+<li><strong>Herencia en vida:</strong> transferir bienes a tus herederos mientras vives.</li>
+<li><strong>Poder notarial:</strong> documento ante notario en el que autorizas a otra persona a actuar por ti.</li>
+<li><strong>Revocar:</strong> cancelar un poder o un documento.</li>
+<li><strong>Testamento:</strong> documento en el que decides a quién pasan tus bienes cuando faltes.</li>
+<li><strong>Tutor:</strong> persona que cuida los intereses de un menor de edad.</li>
+<li><strong>Voluntad anticipada:</strong> documento en el que dices qué tratamientos médicos quieres o no si no puedes decidir.</li>
+</ul></div><div class="card2"><h4>Decidir con calma y tu plan</h4><ul>
+<li><strong>Control económico:</strong> cuando otra persona decide sobre tu dinero sin tu consentimiento o te impide usarlo.</li>
+<li><strong>Límite:</strong> acuerdo claro sobre lo que aceptas y lo que no.</li>
+<li><strong>Periodo de cancelación:</strong> plazo para cancelar un contrato sin costo.</li>
+<li><strong>Plan de una página:</strong> resumen de tus decisiones de dinero en una sola hoja, con fechas para revisarlas.</li>
+<li><strong>Segunda opinión:</strong> consulta con alguien que no gana nada con tu decisión.</li>
+</ul></div></div>
+</div></div></div></body></html>

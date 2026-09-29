@@ -1,0 +1,388 @@
+# Generador común de cursos (formato v3): libros de Moodle, H5P «¿Qué harías?», banco GIFT, libro de apoyo,
+# libro de comunidad, insignias y constancia, verificación y carpeta final (manual, contenido, guía y Moodle).
+#
+# Cada curso vive en cursos/<carpeta>/ con:
+#   curso.json            configuración (títulos, módulos, insignias, textos de la constancia…)
+#   lecciones/M1.md …     lecciones en la sintaxis v3 (ver prompt de reescritura)
+#   casos.py              CASOS = {"M1 U01": [(correcta, incorrecta, incorrecta), …]}
+#   apoyo/01…06.md        libro de apoyo
+#   manual/manual.md      manual del programa
+#   instalacion/          README de instalación y guía de gamificación
+#   comunidad/            (opcional) libro, manual del profesor, moderación, calendario y README
+#
+# Uso: python3 herramientas_cursos/curso.py cursos/<carpeta> [libros h5p banco apoyo comunidad insignias verificar carpeta | todo]
+import re, os, sys, json, glob, html, zipfile, shutil, subprocess, importlib.util
+
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HF = os.path.join(RAIZ, "proyecto-inclusion-financiera", "herramientas")
+sys.path.insert(0, HF)
+import build_v3 as B
+from leccion_ux2 import build, page, CSS, md, terms
+from i18n_en import tr as tr_en
+
+S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
+ENV = dict(os.environ, NODE_PATH=f"{S}/nodeenv/node_modules")
+H5PLIB = "/tmp/h5plib"
+
+D = os.path.abspath(sys.argv[1])
+CFG = json.load(open(os.path.join(D, "curso.json"), encoding="utf-8"))
+EN = CFG.get("lang") == "en"
+tr = tr_en if EN else (lambda s: s)
+MODS = CFG["modulos"]  # {"M1": "Módulo 1. …"}
+OUT = os.path.join(D, "moodle")
+LEC = os.path.join(D, "lecciones")
+
+
+def leer(p):
+    return open(p, encoding="utf-8").read()
+
+
+def lecciones(mod):
+    """[(code, title, bloque)] de un módulo."""
+    t = leer(os.path.join(LEC, f"{mod}.md"))
+    out = []
+    for b in re.split(r"(?m)^# (?=M\d+ U\d\d)", t)[1:]:
+        code, title = [x.strip() for x in b.split("\n", 1)[0].split("|", 1)]
+        out.append((code, title, b))
+    return out
+
+
+def casos():
+    spec = importlib.util.spec_from_file_location("casos_curso", os.path.join(D, "casos.py"))
+    m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+    return m.CASOS
+
+
+# ---------------------------------------------------------------------------
+def paso_libros():
+    B.TITULOS.clear(); B.TITULOS.update(MODS)
+    for mod in MODS:
+        text = leer(os.path.join(LEC, f"{mod}.md"))
+        pages = [(fn, tr(t), tr(b)) for fn, t, b in build(text)]
+        d = os.path.join(OUT, mod); os.makedirs(d, exist_ok=True)
+        with zipfile.ZipFile(os.path.join(d, f"{mod}_libro_Moodle.zip"), "w", zipfile.ZIP_DEFLATED) as z:
+            for fn, t, b in pages: z.writestr(fn, page(t, b))
+        xml, n = B.glosario(text, ("Key words · " if EN else "Palabras clave · ") + mod)
+        open(os.path.join(d, f"{mod}_glosario_Moodle.xml"), "w").write(tr(xml))
+        open(os.path.join(d, f"{mod}_legible.md"), "w").write(tr(B.legible(text, mod)))
+        shutil.rmtree(os.path.join(d, "vista_previa"), ignore_errors=True)
+        B.preview(pages, os.path.join(d, "vista_previa"))
+        if EN:
+            for f in glob.glob(os.path.join(d, "vista_previa", "*.html")):
+                open(f, "w").write(tr(leer(f)))
+        c = B.conteo(text)
+        json.dump({"lecciones": len(c), "paginas": len(pages), "terminos": n, "conteo": c}, open(os.path.join(d, "conteo.json"), "w"), ensure_ascii=False)
+        # resumen de la sección de Moodle
+        les = lecciones(mod)
+        k = len(les); a, b = k * CFG.get("min_leccion", [10, 15])[0], k * CFG.get("min_leccion", [10, 15])[1]
+        res = CFG.get("resultados", {}).get(mod, "")
+        if EN:
+            html_res = (f"<p><strong>Module outcome:</strong> {html.escape(res)}</p>" if res else "") + \
+                f"<p><strong>Lessons:</strong> {k} · <strong>Estimated time:</strong> {a} to {b} minutes, plus activities and self-assessment.</p>" + \
+                "<ol>" + "".join(f"<li>{html.escape(t)}</li>" for _, t, _ in les) + "</ol>" + \
+                "<p>In this section: the lesson book, one \"What would you do?\" activity per lesson and the module self-assessment.</p>"
+        else:
+            html_res = (f"<p><strong>Resultado del módulo:</strong> {html.escape(res)}</p>" if res else "") + \
+                f"<p><strong>Lecciones:</strong> {k} · <strong>Tiempo estimado:</strong> de {a} a {b} minutos, más actividades y autoevaluación.</p>" + \
+                "<ol>" + "".join(f"<li>{html.escape(t)}</li>" for _, t, _ in les) + "</ol>" + \
+                "<p>En esta sección: el libro de lecciones, una actividad «¿Qué harías?» por lección y la autoevaluación del módulo.</p>"
+        open(os.path.join(d, f"{mod}_resumen.html"), "w").write(html_res)
+        print(mod, "lecciones", len(c), "páginas", len(pages), "términos", n, "·", " ".join(f"{e}/{p}" for _, e, p in c))
+
+
+# ---------------------------------------------------------------------------
+def paso_h5p():
+    LIBS = [("H5P.SingleChoiceSet", "scs"), ("H5P.JoubelUI", "h5p-joubel-ui"), ("H5P.Question", "h5p-question"),
+            ("H5P.Transition", "h5p-transition"), ("H5P.FontIcons", "h5p-font-icons"), ("FontAwesome", "fa")]
+    OK = re.compile(r"\.(js|css|json|png|jpg|jpeg|gif|svg|eot|ttf|woff|woff2|otf|mp3|ogg|wav)$", re.I)
+    lib_files, deps = [], []
+    for mach, dd in LIBS:
+        meta = json.load(open(os.path.join(H5PLIB, dd, "library.json")))
+        folder = f"{mach}-{meta['majorVersion']}.{meta['minorVersion']}"
+        deps.append({"machineName": mach, "majorVersion": meta["majorVersion"], "minorVersion": meta["minorVersion"]})
+        for r, ds, fs in os.walk(os.path.join(H5PLIB, dd)):
+            ds[:] = [x for x in ds if not x.startswith(".") and x not in ("node_modules", "test", "tests")]
+            for f in fs:
+                if f.startswith(".") or not OK.search(f): continue
+                if os.path.basename(r) == "language" and f not in ("es.json", "es-mx.json", ".en.json"): continue
+                p = os.path.join(r, f)
+                lib_files.append((p, folder + "/" + os.path.relpath(p, os.path.join(H5PLIB, dd))))
+    if EN:
+        L10N = {"nextButtonLabel": "Next case", "showSolutionButtonLabel": "See answers", "retryButtonLabel": "Try again",
+                "solutionViewTitle": "Answers", "correctText": "Correct!", "incorrectText": "Not the best option",
+                "shouldSelect": "This was the best option", "shouldNotSelect": "This wasn't the best option",
+                "muteButtonLabel": "Mute sounds", "closeButtonLabel": "Close", "slideOfTotal": "Case :num of :total",
+                "scoreBarLabel": "You got :num out of :total points", "solutionListQuestionNumber": "Case :num",
+                "a11yShowSolution": "Show the answers.", "a11yRetry": "Restart the activity."}
+        FB = ["Review the cases in Go deeper and try again.", "Great job! You know what to do in these situations."]
+    else:
+        L10N = {"nextButtonLabel": "Siguiente caso", "showSolutionButtonLabel": "Ver respuestas", "retryButtonLabel": "Intentar de nuevo",
+                "solutionViewTitle": "Respuestas", "correctText": "¡Correcto!", "incorrectText": "No es la mejor opción",
+                "shouldSelect": "Esta era la mejor opción", "shouldNotSelect": "Esta no era la mejor opción",
+                "muteButtonLabel": "Silenciar sonidos", "closeButtonLabel": "Cerrar", "slideOfTotal": "Caso :num de :total",
+                "scoreBarLabel": "Obtuviste :num de :total puntos", "solutionListQuestionNumber": "Caso :num",
+                "a11yShowSolution": "Mostrar las respuestas.", "a11yRetry": "Reiniciar la actividad."}
+        FB = ["Revisa los casos en Profundiza e inténtalo otra vez.", "¡Muy bien! Ya sabes qué hacer en estas situaciones."]
+    CASOS = casos()
+    dest_dir = os.path.join(OUT, "h5p"); shutil.rmtree(dest_dir, ignore_errors=True); os.makedirs(dest_dir)
+    n = 0
+    for mod in MODS:
+        for code, title, les in lecciones(mod):
+            cs = re.search(r"--- casos\n(.*?)\n--- ", les, re.S).group(1)
+            choices = []
+            for c, opts in zip(re.split(r"(?m)^### ", cs)[1:], CASOS[code]):
+                h, b = c.split("\n", 1)
+                ctx = re.sub(r"\{\{([^|}]+)\|[^}]+\}\}", r"\1", " ".join(l for l in b.splitlines() if l.strip() and not l.startswith("? ")))
+                q = re.search(r"(?m)^\? (.+?)\s*\|\|", b).group(1)
+                name = re.sub(r"^(Caso|Case) \d+\.\s*", "", h.strip())
+                choices.append({"question": f"<p><strong>{html.escape(name)}.</strong> {html.escape(ctx)}</p><p><strong>{html.escape(q)}</strong></p>",
+                                "answers": [f"<p>{html.escape(o)}</p>" for o in opts]})
+            content = {"choices": choices,
+                       "overallFeedback": [{"from": 0, "to": 66, "feedback": FB[0]}, {"from": 67, "to": 100, "feedback": FB[1]}],
+                       "behaviour": {"autoContinue": False, "timeoutCorrect": 2000, "timeoutWrong": 3000, "soundEffectsEnabled": False,
+                                     "enableRetry": True, "enableSolutionsButton": True, "passPercentage": 67},
+                       "l10n": L10N}
+            lab = "What would you do?" if EN else "¿Qué harías?"
+            h5pjson = {"title": f"{code} {lab}", "language": "en" if EN else "es", "mainLibrary": "H5P.SingleChoiceSet",
+                       "embedTypes": ["div", "iframe"], "license": "U", "defaultLanguage": "en" if EN else "es", "preloadedDependencies": deps}
+            dest = os.path.join(dest_dir, f"{code.replace(' ', '_')}_" + ("what_would_you_do" if EN else "que_harias") + ".h5p")
+            with zipfile.ZipFile(dest, "w", zipfile.ZIP_DEFLATED) as z:
+                z.writestr("h5p.json", json.dumps(h5pjson, ensure_ascii=False, indent=1))
+                z.writestr("content/content.json", json.dumps(content, ensure_ascii=False))
+                for p, a in lib_files: z.write(p, a)
+            n += 1
+    print(n, "actividades H5P")
+
+
+# ---------------------------------------------------------------------------
+def paso_banco():
+    def esc(t): return re.sub(r"([~=#{}:])", r"\\\1", re.sub(r"\{\{([^|}]+)\|[^}]+\}\}", r"\1", t).replace("*", "").strip())
+    ok_t, no_t = ("Correct!", "Not the best option.") if EN else ("¡Correcto!", "No es la mejor opción.")
+    out, n, probs = [], 0, []
+    for mod in MODS:
+        out.append(f"$CATEGORY: $course$/{CFG['categoria']}/{mod}\n")
+        for code, title, les in lecciones(mod):
+            q = re.search(r"--- quiz\n(.*?)\n(?:respuestas|answers):\s*(.*?)\n", les, re.S)
+            ans = {k: (l, why.strip()) for k, l, why in re.findall(r"(\d+)-([a-c]):\s*(.*?)(?=\s\d+-[a-c]:|$)", q.group(2))}
+            for k, line in re.findall(r"(?m)^(\d+)\.\s+(.*)$", q.group(1)):
+                parts = re.split(r"\s+(?=[a-c]\)\s)", line)
+                stem, opts = parts[0], [re.sub(r"\s*·\s*$", "", o) for o in parts[1:]]
+                if k not in ans or len(opts) != 3: probs.append(f"{code} P{k}"); continue
+                good, why = ans[k]; why = why[:1].upper() + why[1:]
+                body = [("=" if o[0] == good else "~") + esc(o[3:]) + (f" #{ok_t} {esc(why)}" if o[0] == good else f" #{no_t} {esc(why)}") for o in opts]
+                out.append(f"::{code} P{k}::{esc(stem)} {{\n" + "\n".join("\t" + b for b in body) + "\n}\n")
+                n += 1
+    p = os.path.join(OUT, CFG["banco"]); open(p, "w").write("\n".join(out))
+    print(n, "preguntas ·", os.path.basename(p), "· problemas:", probs)
+
+
+# ---------------------------------------------------------------------------
+def libro(src, out_dir, zipname, sufijo, cab, leads, icons, faq_title, casos_num="02"):
+    L = dict(key="See the key", ans="See the answers", hdr="Answers", keyre=r"(Key|Answers)", taskre=r"Additional task") if EN else \
+        dict(key="Ver la clave", ans="Ver las respuestas", hdr="Respuestas", keyre=r"(Clave|Respuestas)", taskre=r"Tarea adicional")
+
+    def hide(sec_md):
+        m = re.search(r"(?m)^\*\*" + L["keyre"] + r"\.?\*\*", sec_md)
+        if not m: return md(sec_md)
+        before, rest = sec_md[:m.start()], sec_md[m.start():]
+        t = re.search(r"(?m)^\*\*" + L["taskre"] + r"\.\*\*", rest)
+        tail = rest[t.start():] if t else ""
+        rest = rest[:t.start()] if t else rest
+        return md(before) + f'<details><summary>{L["key"]}</summary><div class="a">{md(rest)}</div></details>' + md(tail)
+
+    def faq(sec_md):
+        items = re.findall(r"(?m)^\*\*(¿?[^*]+\?)\*\*\s*(.+)$", sec_md)
+        return "".join(f'<details><summary>{html.escape(q)}</summary><div class="a">{md(a)}</div></details>' for q, a in items)
+
+    os.makedirs(out_dir, exist_ok=True)
+    files = []
+    for p in sorted(glob.glob(os.path.join(src, "*.md"))):
+        num = os.path.basename(p)[:2]
+        text = leer(p).replace("[[TOC]]", "")
+        tops = re.split(r"(?m)^# ", text)[1:]
+        title = tops[0].split("\n", 1)[0].strip()
+        body = f'<div class="hero"><span class="code"><i class="fa {icons.get(num, "fa-book")}"></i> {cab}</span><h3>{title}</h3><p class="obj">{leads.get(num, "")}</p></div>'
+        for ti, top in enumerate(tops):
+            h, rest = (top.split("\n", 1) + [""])[:2]
+            if ti: body += f'<div class="pagehead mt-4"><h3>{h.strip()}</h3></div>'
+            secs = re.split(r"(?m)^## ", rest)
+            intro = secs[0].strip().strip("-").strip()
+            if intro:
+                body += faq(intro) if h.strip() == faq_title else f'<div class="card2">{md(intro)}</div>'
+            for s in secs[1:]:
+                sh, sb = (s.split("\n", 1) + [""])[:2]
+                sb = sb.strip().rstrip("-").strip()
+                if sh.strip() == L["hdr"]:
+                    inner = f'<details><summary>{L["ans"]}</summary><div class="a">{md(sb)}</div></details>'
+                elif num == casos_num:
+                    inner = hide(sb)
+                else:
+                    inner = md(sb)
+                body += f'<div class="card2"><h4>{terms(sh.strip())}</h4>{inner}</div>'
+        fn = f"{num}_{sufijo}.html"
+        open(os.path.join(out_dir, fn), "w", encoding="utf-8").write(page(title, f'{CSS}<div class="tdtf">{body}</div>'))
+        files.append((fn, title))
+    with zipfile.ZipFile(os.path.join(out_dir, zipname), "w", zipfile.ZIP_DEFLATED) as zf:
+        for fn, _ in files: zf.write(os.path.join(out_dir, fn), fn)
+    pages = [(fn, t, leer(os.path.join(out_dir, fn)).split("<body>")[1].split("</body>")[0]) for fn, t in files]
+    shutil.rmtree(os.path.join(out_dir, "vista_previa"), ignore_errors=True)
+    B.preview(pages, os.path.join(out_dir, "vista_previa"))
+    print(len(files), "capítulos ·", zipname)
+
+
+def paso_glosario():
+    """Genera apoyo/04-glosario.md con las palabras clave de las lecciones, por módulo, sin repetir."""
+    vistos, out = set(), ["# Glossary" if EN else "# Glosario", "",
+                          ("Plain-language definitions of the course words, grouped by module." if EN else
+                           "Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.")]
+    for mod, titulo in MODS.items():
+        filas = []
+        for code, title, les in lecciones(mod):
+            m = re.search(r"== (?:palabras|words)\n(.*?)(?:\n== |\Z)", les, re.S)
+            if not m: continue
+            for k, v in re.findall(r"(?m)^- \*([^*:]+):\*\s*(.+)$", m.group(1)):
+                if k.lower() in vistos: continue
+                vistos.add(k.lower()); filas.append(f"- **{k.strip()}:** {v.strip()}")
+        if filas:
+            out += ["", "## " + re.sub(r"^(Módulo|Module) \d+\. ", "", titulo), ""] + sorted(filas, key=str.lower)
+    open(os.path.join(D, "apoyo", "04-glosario.md"), "w").write("\n".join(out) + "\n")
+    print(len(vistos), "términos en el glosario de apoyo")
+
+
+def paso_apoyo():
+    icons = {"01": "fa-home", "02": "fa-users", "03": "fa-calculator", "04": "fa-book", "05": "fa-life-ring", "06": "fa-list"}
+    libro(os.path.join(D, "apoyo"), os.path.join(OUT, "Apoyo"), "Apoyo_libro_Moodle.zip", "apoyo",
+          "Support materials" if EN else "Materiales de apoyo", CFG["apoyo_leads"], icons,
+          "Frequently asked questions" if EN else "Preguntas frecuentes")
+
+
+def paso_comunidad():
+    if not CFG.get("comunidad"): return
+    icons = {"01": "fa-users", "02": "fa-shield", "03": "fa-comments", "04": "fa-calendar", "05": "fa-video-camera", "06": "fa-handshake-o"}
+    libro(os.path.join(D, "comunidad", "libro"), os.path.join(D, "comunidad", "moodle"), "Comunidad_libro_Moodle.zip", "comunidad",
+          "Community guide" if EN else "Guía de la comunidad", CFG["comunidad"]["leads"], icons,
+          "Frequently asked questions" if EN else "Preguntas frecuentes", casos_num="--")
+
+
+# ---------------------------------------------------------------------------
+def paso_insignias():
+    A, F = "/tmp/assets_tdtf", "/tmp/fnt"
+    FONTS = "<style>" + "".join(f"@font-face{{font-family:'{fam}';font-weight:{w};src:url(file://{F}/fontsource-{pk}-5.3.0/package/files/{pk}-latin-{w}-normal.woff2)}}" for fam, pk in (("Figtree", "figtree"), ("Bricolage Grotesque", "bricolage-grotesque")) for w in (500, 600, 700, 800)) + "</style>"
+    T = CFG["constancia"]
+    MODH = "".join(f"<span>{m}</span>" for m in T["mods"])
+    curso_tag = "COURSE" if EN else "CURSO"
+
+    def badge(tag, name, icon, gold):
+        ring = "linear-gradient(135deg,#E4007C,#FF4FA8)" if gold else "linear-gradient(135deg,#0A3161,#061F40)"
+        size = 34 if len(name) <= 20 else 28
+        return f'''<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet href="file://{A}/fa.css">{FONTS}
+<style>html,body{{margin:0;background:transparent}}.b{{width:512px;height:512px;position:relative}}
+.o{{position:absolute;inset:16px;border-radius:50%;background:{ring};box-shadow:0 10px 30px rgba(6,31,64,.35)}}
+.i{{position:absolute;inset:44px;border-radius:50%;background:#fff;border:6px solid #E6ECF5}}
+.c{{position:absolute;inset:70px;border-radius:50%;background:linear-gradient(160deg,#0A3161,#061F40);display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff}}
+.c i{{font-size:120px;color:#fff}}.tag{{font:700 26px Figtree;letter-spacing:3px;color:#FF4FA8;margin-top:14px}}
+.r{{position:absolute;left:18px;right:18px;bottom:38px;background:#E4007C;color:#fff;border-radius:18px;text-align:center;font:800 {size}px 'Bricolage Grotesque';padding:12px 6px;box-shadow:0 6px 16px rgba(228,0,124,.35)}}</style></head>
+<body><div class=b><div class=o></div><div class=i></div><div class=c><i class="fa {icon}"></i><div class=tag>{tag}</div></div><div class=r>{name}</div></div></body></html>'''
+
+    def cert(sample):
+        return f'''<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet href="file://{A}/fa.css">{FONTS}
+<style>html,body{{margin:0}}.p{{width:2339px;height:1654px;position:relative;background:#fff;font-family:Figtree;overflow:hidden}}
+.f{{position:absolute;inset:60px;border:10px solid #0A3161;border-radius:40px}}.f2{{position:absolute;inset:92px;border:3px solid #E4007C;border-radius:28px}}
+.band{{position:absolute;left:0;top:0;bottom:0;width:26px;background:#E4007C}}
+.circ{{position:absolute;right:-260px;top:-260px;width:760px;height:760px;border-radius:50%;background:#E6ECF5}}
+.circ2{{position:absolute;left:-200px;bottom:-260px;width:620px;height:620px;border-radius:50%;background:#F5F7FB}}
+.top{{position:absolute;top:190px;width:100%;text-align:center;color:#5A6478;font:600 44px Figtree;letter-spacing:10px}}
+.t{{position:absolute;top:270px;width:100%;text-align:center;color:#0A3161;font:800 150px 'Bricolage Grotesque'}}
+.otorga{{position:absolute;top:500px;width:100%;text-align:center;color:#5A6478;font:500 46px Figtree}}
+.line{{position:absolute;top:760px;left:520px;right:520px;border-top:4px solid #E5E8F0}}
+.name{{position:absolute;top:610px;width:100%;text-align:center;color:#0B1220;font:700 110px 'Bricolage Grotesque'}}
+.txt{{position:absolute;top:810px;left:330px;right:330px;text-align:center;color:#0B1220;font:500 46px/1.45 Figtree}}
+.txt b{{color:#0A3161}}.mods{{position:absolute;top:1010px;width:100%;text-align:center;font:600 32px Figtree;color:#5A6478}}
+.mods span{{display:inline-block;margin:0 14px;padding:10px 26px;border-radius:40px;background:#E6ECF5;color:#0A3161}}
+.foot{{position:absolute;bottom:170px;left:260px;right:260px;display:flex;justify-content:space-between;align-items:flex-end;color:#5A6478;font:500 34px Figtree}}
+.foot .c{{text-align:center;width:560px}}.foot .c div{{border-top:3px solid #0A3161;padding-top:14px;margin-top:70px}}
+.seal{{position:absolute;bottom:150px;left:50%;margin-left:-150px;width:300px;height:300px;border-radius:50%;background:linear-gradient(135deg,#E4007C,#FF4FA8);display:flex;align-items:center;justify-content:center;box-shadow:0 10px 30px rgba(228,0,124,.3)}}
+.seal i{{font-size:140px;color:#fff}}.brand{{position:absolute;top:120px;left:150px;font:800 40px 'Bricolage Grotesque';color:#0A3161}}.brand span{{color:#E4007C}}
+.nota{{position:absolute;bottom:108px;width:100%;text-align:center;font:500 24px Figtree;color:#5A6478}}.ph{{color:#E4007C}}</style></head><body><div class=p>
+<div class=circ></div><div class=circ2></div><div class=band></div><div class=f></div><div class=f2></div>
+<div class=brand>Desarrolla <span>Talento</span></div>
+<div class=top>{T['top']}</div><div class=t>{T['titulo']}</div>
+<div class=otorga>{T['otorga']}</div>{'<div class=name>' + T['nombre'] + '</div>' if sample else ''}<div class=line></div>
+<div class=txt>{T['texto']}</div>
+<div class=mods>{MODH}</div>
+<div class=seal><i class="fa fa-trophy"></i></div>
+<div class=foot><div class=c>{'<span class=ph>' + T['fecha_muestra'] + '</span>' if sample else '&nbsp;'}<div>{T['fecha']}</div></div><div class=c>{'<span class=ph>AbC123xYz9</span>' if sample else '&nbsp;'}<div>{T['codigo']}</div></div></div>
+<div class=nota>{T['nota']}</div>
+</div></body></html>'''
+
+    OUTB, OUTC = os.path.join(OUT, "insignias"), os.path.join(OUT, "certificado")
+    shutil.rmtree(OUTB, ignore_errors=True)
+    os.makedirs(OUTB); os.makedirs(OUTC, exist_ok=True)
+    tmp = "/tmp/badges_html_curso"; shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp)
+    jobs = []
+    for fn, tag, name, icon in CFG["insignias"]:
+        p = f"{tmp}/{fn}.html"; open(p, "w").write(badge(tag, name, icon, tag == curso_tag))
+        jobs.append((p, os.path.join(OUTB, fn + ".png"), 512, 512, True))
+    names = ("certificate_background.png", "certificate_sample.png") if EN else ("certificado_fondo.png", "certificado_muestra.png")
+    for smp, out in zip((False, True), names):
+        p = f"{tmp}/{out}.html"; open(p, "w").write(cert(smp))
+        jobs.append((p, os.path.join(OUTC, out), 2339, 1654, False))
+    js = "const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();for(const [f,o,w,h,t] of %s){const p=await b.newPage({viewport:{width:w,height:h}});await p.goto('file://'+f);await p.waitForTimeout(1200);await p.screenshot({path:o,omitBackground:t});await p.close();}await b.close();})();" % json.dumps(jobs)
+    open(f"{tmp}/r.js", "w").write(js)
+    subprocess.run(["node", f"{tmp}/r.js"], check=True, env={**os.environ, "NODE_PATH": subprocess.check_output(["npm", "root", "-g"]).decode().strip()})
+    print(len(CFG["insignias"]), "insignias y constancia")
+
+
+# ---------------------------------------------------------------------------
+def paso_verificar():
+    """Revisa estructura, conteos, balance de respuestas y largos."""
+    CASOS = casos()
+    tot, probs, largo_h5p, largo_q, pos = 0, [], 0, 0, {"a": 0, "b": 0, "c": 0}
+    corto_h5p = 0
+    nq = 0
+    for mod in MODS:
+        for code, title, les in lecciones(mod):
+            tot += 1
+            for sec in ["== esencial", "== profundiza", "== practica", "== recursos", "== palabras", "== fuentes", "--- casos", "--- errores", "--- quiz", "--- ponlo", "--- plan", "--- comprueba", "--- recuerda"]:
+                if sec not in les: probs.append(f"{code}: falta {sec}")
+            ncas = len(re.findall(r"(?m)^### ", les))
+            if ncas != 3: probs.append(f"{code}: {ncas} casos")
+            if code not in CASOS: probs.append(f"{code}: sin CASOS"); continue
+            if len(CASOS[code]) != 3: probs.append(f"{code}: CASOS con {len(CASOS[code])}")
+            for t in CASOS[code]:
+                if len(t) != 3: probs.append(f"{code}: tupla de {len(t)}")
+                else:
+                    if len(t[0]) > max(len(t[1]), len(t[2])): largo_h5p += 1
+                    if len(t[0]) < min(len(t[1]), len(t[2])): corto_h5p += 1
+            q = re.search(r"--- quiz\n(.*?)\n(?:respuestas|answers):\s*(.*?)\n", les, re.S)
+            if not q: probs.append(f"{code}: quiz sin respuestas"); continue
+            ans = dict(re.findall(r"(\d+)-([a-c]):", q.group(2)))
+            for k, line in re.findall(r"(?m)^(\d+)\.\s+(.*)$", q.group(1)):
+                parts = re.split(r"\s+(?=[a-c]\)\s)", line)
+                opts = {o[0]: re.sub(r"\s*·\s*$", "", o)[3:] for o in parts[1:]}
+                if len(opts) != 3 or k not in ans: probs.append(f"{code} P{k}: formato"); continue
+                nq += 1; pos[ans[k]] += 1
+                if len(opts[ans[k]]) > max(len(v) for x, v in opts.items() if x != ans[k]): largo_q += 1
+    extra = set(CASOS) - {c for m in MODS for c, _, _ in lecciones(m)}
+    if extra: probs.append(f"CASOS sin lección: {sorted(extra)}")
+    print(f"{tot} lecciones · {nq} preguntas · posiciones {pos} · correcta más larga: H5P {largo_h5p}/{tot*3}, quiz {largo_q}/{nq} · correcta más corta en H5P: {corto_h5p}/{tot*3}")
+    print("problemas:", probs or "ninguno")
+    return probs
+
+
+def paso_instalacion():
+    import instalacion_es
+    instalacion_es.generar(D, CFG, lecciones)
+
+
+PASOS = {"instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
+         "insignias": paso_insignias, "verificar": paso_verificar}
+
+if __name__ == "__main__":
+    pedidos = sys.argv[2:] or ["todo"]
+    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias"]
+    for p in pedidos:
+        if p == "carpeta":
+            import carpeta; carpeta.construir(D, CFG)
+        else:
+            PASOS[p]()

@@ -1,0 +1,939 @@
+$CATEGORY: $course$/Tu Patrimonio/M1
+
+::M1 U01 P1::¿Qué va en tu inventario? {
+	~Tus contraseñas, para tenerlas juntas #No es la mejor opción. Es el mapa básico.
+	=Qué tienes, dónde está y a nombre de quién #¡Correcto! Es el mapa básico.
+	~Solo las cuentas con más dinero, porque las demás no importan #No es la mejor opción. Es el mapa básico.
+}
+
+::M1 U01 P2::¿Qué datos de una cuenta anotas? {
+	=Los últimos cuatro dígitos #¡Correcto! Así la lista no sirve para robarte.
+	~El número completo y el NIP #No es la mejor opción. Así la lista no sirve para robarte.
+	~Ninguno, solo el banco sin detalles #No es la mejor opción. Así la lista no sirve para robarte.
+}
+
+::M1 U01 P3::Encuentras una inversión que no reconoces. ¿Qué haces? {
+	~Llamas al número que viene en un papel viejo #No es la mejor opción. Solo el número oficial es seguro.
+	~Esperas a que te llamen #No es la mejor opción. Solo el número oficial es seguro.
+	=Llamas al número oficial de la institución #¡Correcto! Solo el número oficial es seguro.
+}
+
+::M1 U02 P1::¿Cuál es un gasto anual? {
+	~El súper de cada semana #No es la mejor opción. Llega una vez al año.
+	~La luz de cada bimestre, que casi no cambia #No es la mejor opción. Llega una vez al año.
+	=El seguro de gastos médicos #¡Correcto! Llega una vez al año.
+}
+
+::M1 U02 P2::Tus gastos anuales suman 60,000. ¿Cuánto apartas al mes? {
+	=5,000 #¡Correcto! 60,000 entre 12 son 5,000.
+	~6,000 #No es la mejor opción. 60,000 entre 12 son 5,000.
+	~60,000, todo en enero #No es la mejor opción. 60,000 entre 12 son 5,000.
+}
+
+::M1 U02 P3::Tu mes promedio es mayor que tu ingreso. ¿Qué haces primero? {
+	~Lo cubres con la tarjeta de crédito #No es la mejor opción. Ajustar es mejor que endeudarte.
+	=Revisas gastos anuales y servicios que no usas #¡Correcto! Ajustar es mejor que endeudarte.
+	~Cancelas tu seguro médico para ajustar el gasto de inmediato #No es la mejor opción. Ajustar es mejor que endeudarte.
+}
+
+::M1 U03 P1::¿Dónde consultas el régimen de tu matrimonio? {
+	~En tu estado de cuenta #No es la mejor opción. El acta lo indica.
+	~En la escritura de la casa #No es la mejor opción. El acta lo indica.
+	=En tu acta de matrimonio #¡Correcto! El acta lo indica.
+}
+
+::M1 U03 P2::¿Qué es la sociedad conyugal? {
+	=Lo adquirido en el matrimonio es de las dos personas #¡Correcto! Se comparte lo adquirido.
+	~Cada quien conserva lo que compró, aunque sea durante el matrimonio #No es la mejor opción. Se comparte lo adquirido.
+	~Una cuenta de banco compartida por la pareja #No es la mejor opción. Se comparte lo adquirido.
+}
+
+::M1 U03 P3::¿Cuál es un buen primer paso para hablar de dinero? {
+	=Hacer juntos el inventario #¡Correcto! Es concreto y sin juicios.
+	~Pedir todas las contraseñas de golpe #No es la mejor opción. Es concreto y sin juicios.
+	~Esperar a que haya un problema #No es la mejor opción. Es concreto y sin juicios.
+}
+
+::M1 U04 P1::¿Qué NO va en tu carpeta? {
+	=Tu NIP y tus contraseñas #¡Correcto! Nunca se escriben.
+	~La copia de tu testamento #No es la mejor opción. Nunca se escriben.
+	~Las pólizas de seguro vigentes #No es la mejor opción. Nunca se escriben.
+}
+
+::M1 U04 P2::¿Cuándo conviene revisar la carpeta? {
+	~Solo cuando hay una emergencia #No es la mejor opción. Así se mantiene al día.
+	=Una vez al año #¡Correcto! Así se mantiene al día.
+	~Nunca, si ya está hecha #No es la mejor opción. Así se mantiene al día.
+}
+
+::M1 U04 P3::¿Cómo entregas una copia de tu INE para un trámite? {
+	~Sin anotar nada, como te la pidan #No es la mejor opción. Dificulta que la usen para otra cosa.
+	~Por WhatsApp a quien la pida, para que el trámite sea rápido #No es la mejor opción. Dificulta que la usen para otra cosa.
+	=Con una nota de para qué es y la fecha #¡Correcto! Dificulta que la usen para otra cosa.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M2
+
+::M2 U01 P1::¿Qué hace la CONDUSEF? {
+	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. Es gratuita y defiende a los usuarios.
+	=Orienta y defiende a los usuarios #¡Correcto! Es gratuita y defiende a los usuarios.
+	~Presta dinero en emergencias #No es la mejor opción. Es gratuita y defiende a los usuarios.
+}
+
+::M2 U01 P2::¿Dónde verificas si un banco está autorizado? {
+	=En el padrón de la CNBV #¡Correcto! La CNBV tiene el padrón.
+	~En su página de redes sociales #No es la mejor opción. La CNBV tiene el padrón.
+	~Preguntando al asesor que te llamó #No es la mejor opción. La CNBV tiene el padrón.
+}
+
+::M2 U01 P3::Alguien «del SAT» te pide un depósito para evitar una multa. ¿Qué es? {
+	~Un trámite normal si es urgente #No es la mejor opción. Cuelga y verifica en el canal oficial.
+	~Una promoción del gobierno #No es la mejor opción. Cuelga y verifica en el canal oficial.
+	=Un fraude\: las autoridades no piden depósitos así #¡Correcto! Cuelga y verifica en el canal oficial.
+}
+
+::M2 U02 P1::¿Qué protege el IPAB? {
+	~Los fondos de inversión de una casa de bolsa #No es la mejor opción. Protege depósitos bancarios.
+	=Los depósitos en bancos #¡Correcto! Protege depósitos bancarios.
+	~Todas las inversiones del país #No es la mejor opción. Protege depósitos bancarios.
+}
+
+::M2 U02 P2::¿Qué es una inversión? {
+	=Dinero que puede subir o bajar de valor #¡Correcto! Puede ganar o perder.
+	~Dinero que siempre te devuelven igual #No es la mejor opción. Puede ganar o perder.
+	~Un seguro de vida con ahorro garantizado #No es la mejor opción. Puede ganar o perder.
+}
+
+::M2 U02 P3::En la sucursal te ofrecen un producto. ¿Qué preguntas primero? {
+	~Si hay regalo por contratar #No es la mejor opción. La protección depende de la institución.
+	=Quién es la institución que lo da #¡Correcto! La protección depende de la institución.
+	~Cuántas personas ya lo compraron #No es la mejor opción. La protección depende de la institución.
+}
+
+::M2 U03 P1::¿Qué revisas primero de una institución? {
+	~Si tiene oficinas bonitas #No es la mejor opción. Primero que exista y esté autorizada.
+	~Si alguien conocido ya invirtió #No es la mejor opción. Primero que exista y esté autorizada.
+	=Si existe y está autorizada #¡Correcto! Primero que exista y esté autorizada.
+}
+
+::M2 U03 P2::Un promotor te pide depositar a su cuenta personal. ¿Qué haces? {
+	=No depositas\: solo a cuenta de la institución #¡Correcto! Nunca a personas.
+	~Depositas si te da un recibo firmado con el logotipo de la institución #No es la mejor opción. Nunca a personas.
+	~Depositas la mitad para probar #No es la mejor opción. Nunca a personas.
+}
+
+::M2 U03 P3::¿Dónde ves quejas y multas de una institución? {
+	~En sus redes sociales #No es la mejor opción. Es la herramienta oficial de CONDUSEF.
+	=En el Buró de Entidades Financieras #¡Correcto! Es la herramienta oficial de CONDUSEF.
+	~En los comentarios de su página #No es la mejor opción. Es la herramienta oficial de CONDUSEF.
+}
+
+::M2 U04 P1::¿Dónde reclamas primero? {
+	~En redes sociales del banco #No es la mejor opción. La UNE es el primer paso.
+	=En la UNE de la institución #¡Correcto! La UNE es el primer paso.
+	~Con un gestor que cobra #No es la mejor opción. La UNE es el primer paso.
+}
+
+::M2 U04 P2::¿Qué haces si no te resuelven? {
+	~Te olvidas del cargo #No es la mejor opción. La CONDUSEF es gratuita.
+	~Pagas para que un despacho reclame #No es la mejor opción. La CONDUSEF es gratuita.
+	=Acudes a la CONDUSEF con tu folio #¡Correcto! La CONDUSEF es gratuita.
+}
+
+::M2 U04 P3::Un seguro de 350 al mes que no pediste, durante un año. ¿Cuánto reclamas? {
+	=4,200 #¡Correcto! 350 por 12 meses son 4,200.
+	~350 #No es la mejor opción. 350 por 12 meses son 4,200.
+	~3,500 #No es la mejor opción. 350 por 12 meses son 4,200.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M3
+
+::M3 U01 P1::¿Qué nunca te pide tu banco? {
+	~Que revises tus movimientos #No es la mejor opción. Los códigos son solo tuyos.
+	=El código de un mensaje #¡Correcto! Los códigos son solo tuyos.
+	~Que actives los avisos #No es la mejor opción. Los códigos son solo tuyos.
+}
+
+::M3 U01 P2::¿De dónde descargas la app de tu banco? {
+	=De la tienda oficial del celular #¡Correcto! Evita apps falsas.
+	~De un enlace que te llegó #No es la mejor opción. Evita apps falsas.
+	~De la página que te recomendó un conocido #No es la mejor opción. Evita apps falsas.
+}
+
+::M3 U01 P3::¿Cuál es el teléfono seguro de tu banco? {
+	~El que viene en un mensaje #No es la mejor opción. Es el oficial.
+	~El que te da quien te llamó #No es la mejor opción. Es el oficial.
+	=El de atrás de tu tarjeta #¡Correcto! Es el oficial.
+}
+
+::M3 U02 P1::¿Cuál es mejor contraseña? {
+	=Una frase propia con números #¡Correcto! Difícil de adivinar.
+	~Tu fecha de nacimiento, que nunca se te olvida #No es la mejor opción. Difícil de adivinar.
+	~123456, fácil de recordar #No es la mejor opción. Difícil de adivinar.
+}
+
+::M3 U02 P2::Tu hija vio tu contraseña al ayudarte. ¿Qué haces? {
+	~Nada, es de confianza #No es la mejor opción. Solo tú debes saberla.
+	=La cambias por una que solo tú sepas #¡Correcto! Solo tú debes saberla.
+	~Se la das también a tu otro hijo #No es la mejor opción. Solo tú debes saberla.
+}
+
+::M3 U02 P3::¿Qué haces antes de regalar tu celular? {
+	~Solo quitas las fotos #No es la mejor opción. Así nadie entra a tu banco.
+	~Nada, ya es de tu familia #No es la mejor opción. Así nadie entra a tu banco.
+	=Cierras el banco, quitas el token y lo borras #¡Correcto! Así nadie entra a tu banco.
+}
+
+::M3 U03 P1::Nunca transfieres más de 4,000. ¿Qué límite fijas? {
+	~El más alto posible #No es la mejor opción. El límite a tu medida.
+	=4,000 #¡Correcto! El límite a tu medida.
+	~El que ponga el banco #No es la mejor opción. El límite a tu medida.
+}
+
+::M3 U03 P2::¿Qué usas para comprar en internet? {
+	=La tarjeta digital #¡Correcto! Protege tu tarjeta física.
+	~La tarjeta física de débito #No es la mejor opción. Protege tu tarjeta física.
+	~La tarjeta de otra persona #No es la mejor opción. Protege tu tarjeta física.
+}
+
+::M3 U03 P3::¿Recibir un reembolso requiere subir tu límite? {
+	~Sí, siempre que el reembolso sea mayor que tu límite actual #No es la mejor opción. Quien lo pida busca robarte.
+	~Solo si es urgente #No es la mejor opción. Quien lo pida busca robarte.
+	=No\: el límite es para lo que tú envías #¡Correcto! Quien lo pida busca robarte.
+}
+
+::M3 U04 P1::¿Qué es el CEP? {
+	=El comprobante oficial de una transferencia SPEI #¡Correcto! Lo emite Banxico.
+	~Una clave para entrar a tu app #No es la mejor opción. Lo emite Banxico.
+	~Un cobro por transferir #No es la mejor opción. Lo emite Banxico.
+}
+
+::M3 U04 P2::Te llega un correo\: «cambié mi cuenta». ¿Qué haces? {
+	~Pagas a la cuenta nueva #No es la mejor opción. Es un fraude común.
+	=Confirmas por teléfono con un número que ya tenías #¡Correcto! Es un fraude común.
+	~Contestas el correo para confirmar #No es la mejor opción. Es un fraude común.
+}
+
+::M3 U04 P3::¿Qué revisas antes de enviar? {
+	~Solo la CLABE, porque el nombre lo pone el banco #No es la mejor opción. Ambos evitan errores.
+	~Solo el monto #No es la mejor opción. Ambos evitan errores.
+	=El nombre del titular y el monto #¡Correcto! Ambos evitan errores.
+}
+
+::M3 U05 P1::¿Quién puede ayudarte en el cajero? {
+	=Nadie desconocido #¡Correcto! Ayuda de desconocidos es un riesgo.
+	~Quien se ofrezca amablemente #No es la mejor opción. Ayuda de desconocidos es un riesgo.
+	~Cualquier persona formada detrás #No es la mejor opción. Ayuda de desconocidos es un riesgo.
+}
+
+::M3 U05 P2::¿Qué hace tu persona de confianza? {
+	=Te explica y tú haces los pasos #¡Correcto! Tú mantienes el control.
+	~Opera tu banca con tu contraseña #No es la mejor opción. Tú mantienes el control.
+	~Guarda tu celular por ti #No es la mejor opción. Tú mantienes el control.
+}
+
+::M3 U05 P3::Tu hija te pide la contraseña para ayudarte. ¿Qué haces? {
+	~Se la das\: es tu hija y así te ayuda más rápido cuando no estás #No es la mejor opción. Nadie más debe saberla.
+	=Le pides que te explique y tú la escribes #¡Correcto! Nadie más debe saberla.
+	~Le das la mitad de la contraseña #No es la mejor opción. Nadie más debe saberla.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M4
+
+::M4 U01 P1::¿Qué gancho usa «tiene cinco minutos o pierde su dinero»? {
+	~Premio #No es la mejor opción. La prisa es el gancho.
+	=Urgencia #¡Correcto! La prisa es el gancho.
+	~Ninguno, es un aviso normal #No es la mejor opción. La prisa es el gancho.
+}
+
+::M4 U01 P2::Te piden guardar el secreto. ¿Qué haces? {
+	=Lo cuentas a tu persona de confianza #¡Correcto! El secreto es una señal de fraude.
+	~Lo guardas para no meterte en problemas #No es la mejor opción. El secreto es una señal de fraude.
+	~Pides más detalles a quien llama #No es la mejor opción. El secreto es una señal de fraude.
+}
+
+::M4 U01 P3::¿Cuál es la regla de oro? {
+	~Dar solo los datos que ya tienen, para confirmar que son del banco #No es la mejor opción. Siempre verifica tú.
+	~Pedir el nombre completo de quien llama #No es la mejor opción. Siempre verifica tú.
+	=Colgar y verificar tú por un canal conocido #¡Correcto! Siempre verifica tú.
+}
+
+::M4 U02 P1::¿Para qué sirve en realidad el código que te piden? {
+	~Para cancelar el cargo #No es la mejor opción. El código autoriza operaciones.
+	=Para autorizar una operación a favor del estafador #¡Correcto! El código autoriza operaciones.
+	~Para verificar tu identidad ante el banco #No es la mejor opción. El código autoriza operaciones.
+}
+
+::M4 U02 P2::¿Qué haces si te piden mover tu dinero a una cuenta segura? {
+	=Cuelgas y llamas al número oficial #¡Correcto! La cuenta segura no existe.
+	~Lo mueves solo una parte #No es la mejor opción. La cuenta segura no existe.
+	~Pides el nombre de la cuenta #No es la mejor opción. La cuenta segura no existe.
+}
+
+::M4 U02 P3::Ya diste el código. ¿Qué haces primero? {
+	~Esperas a ver si pasa algo #No es la mejor opción. Cada minuto cuenta.
+	~Le reclamas a quien llamó y le pides que devuelva lo que tomó #No es la mejor opción. Cada minuto cuenta.
+	=Llamas al banco y pides bloquear todo #¡Correcto! Cada minuto cuenta.
+}
+
+::M4 U03 P1::¿Qué haces con un mensaje que dice que tu cuenta será cancelada? {
+	=Abres tu app sin usar el enlace #¡Correcto! Nunca uses el enlace.
+	~Entras al enlace para revisar #No es la mejor opción. Nunca uses el enlace.
+	~Respondes el mensaje con tus datos #No es la mejor opción. Nunca uses el enlace.
+}
+
+::M4 U03 P2::Te llega un cobro de paquetería que no esperas. ¿Qué es? {
+	~Un envío olvidado que debes pagar #No es la mejor opción. Buscan tus datos.
+	=Un intento de robar tu tarjeta #¡Correcto! Buscan tus datos.
+	~Un regalo de un familiar #No es la mejor opción. Buscan tus datos.
+}
+
+::M4 U03 P3::«Tu hijo» te escribe desde un número nuevo pidiéndote dinero. ¿Qué haces? {
+	~Envías poco para ayudar #No es la mejor opción. Confirma por un canal conocido.
+	~Le pides una foto para confirmar #No es la mejor opción. Confirma por un canal conocido.
+	=Le llamas a su número de siempre #¡Correcto! Confirma por un canal conocido.
+}
+
+::M4 U04 P1::¿Qué es el secuestro virtual? {
+	=Fingir un secuestro para que pagues rápido #¡Correcto! Nadie está secuestrado.
+	~Un secuestro real transmitido por internet #No es la mejor opción. Nadie está secuestrado.
+	~Un juego en redes sociales #No es la mejor opción. Nadie está secuestrado.
+}
+
+::M4 U04 P2::¿Qué haces primero ante la llamada? {
+	~Pagas primero y luego verificas si tu familiar está bien #No es la mejor opción. Localizar primero.
+	=Cuelgas y localizas a tu familiar #¡Correcto! Localizar primero.
+	~Negocias una cantidad menor #No es la mejor opción. Localizar primero.
+}
+
+::M4 U04 P3::¿Para qué sirve la palabra clave? {
+	~Para entrar a tu banco #No es la mejor opción. Quien no la sabe, no es tu familiar.
+	~Para las redes de la familia #No es la mejor opción. Quien no la sabe, no es tu familiar.
+	=Para saber si quien llama es de verdad tu familiar #¡Correcto! Quien no la sabe, no es tu familiar.
+}
+
+::M4 U05 P1::Tu tarjeta se atora. ¿Qué haces? {
+	~Aceptas la ayuda de quien esté cerca #No es la mejor opción. Nunca aceptes ayuda de desconocidos.
+	=Bloqueas por teléfono y vas a la sucursal #¡Correcto! Nunca aceptes ayuda de desconocidos.
+	~Marcas el NIP varias veces hasta que el cajero te regrese la tarjeta #No es la mejor opción. Nunca aceptes ayuda de desconocidos.
+}
+
+::M4 U05 P2::¿Dónde es más seguro usar el cajero? {
+	~En la calle, de noche #No es la mejor opción. Más seguridad.
+	~En una plaza sin vigilancia #No es la mejor opción. Más seguridad.
+	=Dentro de una sucursal, de día #¡Correcto! Más seguridad.
+}
+
+::M4 U05 P3::Te piden dinero para cobrar una herencia. ¿Qué es? {
+	=El cuento del tío #¡Correcto! Nadie regala así.
+	~Una oportunidad rara #No es la mejor opción. Nadie regala así.
+	~Un trámite notarial normal #No es la mejor opción. Nadie regala así.
+}
+
+::M4 U06 P1::Te cobran un crédito que nunca pediste. ¿Qué haces primero? {
+	~Lo pagas para que no te afecte #No es la mejor opción. Primero sabes qué hay.
+	~Esperas a que dejen de llamar, porque la deuda no es tuya #No es la mejor opción. Primero sabes qué hay.
+	=Pides tu reporte de crédito y reclamas #¡Correcto! Primero sabes qué hay.
+}
+
+::M4 U06 P2::¿Cuánto cuesta consultar las líneas con tu CURP? {
+	=Nada #¡Correcto! Es gratuito.
+	~Lo que cobre cada compañía #No es la mejor opción. Es gratuito.
+	~Una cuota anual al gobierno #No es la mejor opción. Es gratuito.
+}
+
+::M4 U06 P3::¿Qué haces con estados de cuenta viejos? {
+	~Los guardas sueltos en un cajón #No es la mejor opción. Así no roban tus datos.
+	=Los rompes antes de tirarlos #¡Correcto! Así no roban tus datos.
+	~Los tiras enteros a la basura #No es la mejor opción. Así no roban tus datos.
+}
+
+::M4 U07 P1::¿Dónde inscribes tu número contra la publicidad de tiendas? {
+	~En el REUS #No es la mejor opción. Cubre bienes y servicios.
+	=En el REPEP #¡Correcto! Cubre bienes y servicios.
+	~En el Buró de Crédito #No es la mejor opción. Cubre bienes y servicios.
+}
+
+::M4 U07 P2::¿Cada cuánto renuevas el REUS? {
+	=Cada dos años #¡Correcto! Dura dos años.
+	~Nunca, es permanente #No es la mejor opción. Dura dos años.
+	~Cada mes #No es la mejor opción. Dura dos años.
+}
+
+::M4 U07 P3::Te cobran por inscribirte en el REPEP. ¿Qué es? {
+	~Una cuota oficial #No es la mejor opción. Es gratis.
+	~Un servicio exprés #No es la mejor opción. Es gratis.
+	=Un fraude #¡Correcto! Es gratis.
+}
+
+::M4 U08 P1::¿Qué haces primero si ves cargos que no reconoces? {
+	=Bloqueas tarjetas y accesos #¡Correcto! Frena el daño.
+	~Esperas al estado de cuenta #No es la mejor opción. Frena el daño.
+	~Publicas los cargos en redes #No es la mejor opción. Frena el daño.
+}
+
+::M4 U08 P2::¿A dónde reportas delitos en línea? {
+	~Al 070 #No es la mejor opción. El 088 recibe delitos en línea.
+	=Al 088 #¡Correcto! El 088 recibe delitos en línea.
+	~Al número que venga en un mensaje #No es la mejor opción. El 088 recibe delitos en línea.
+}
+
+::M4 U08 P3::¿Qué guardas como evidencia? {
+	~Nada, porque el banco ya tiene todos los registros de tus movimientos #No es la mejor opción. Ayudan a tu reclamación.
+	~Solo el último estado de cuenta #No es la mejor opción. Ayudan a tu reclamación.
+	=Capturas, fechas, montos y folios #¡Correcto! Ayudan a tu reclamación.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M5
+
+::M5 U01 P1::¿Qué indica la GAT real? {
+	~Lo que te cobra el banco cada mes por manejo #No es la mejor opción. Descuenta la inflación.
+	=Lo que te paga descontando la inflación #¡Correcto! Descuenta la inflación.
+	~El saldo mínimo #No es la mejor opción. Descuenta la inflación.
+}
+
+::M5 U01 P2::¿Cómo cancelas una cuenta? {
+	=Por escrito y con constancia #¡Correcto! Si solo la dejas, sigue cobrando.
+	~Dejando de usarla para siempre #No es la mejor opción. Si solo la dejas, sigue cobrando.
+	~Retirando todo el saldo en el cajero #No es la mejor opción. Si solo la dejas, sigue cobrando.
+}
+
+::M5 U01 P3::Una cuenta cobra 150 al mes y no la usas. ¿Cuánto pagas al año? {
+	~150 #No es la mejor opción. 150 por 12 son 1,800.
+	~1,500 #No es la mejor opción. 150 por 12 son 1,800.
+	=1,800 #¡Correcto! 150 por 12 son 1,800.
+}
+
+::M5 U02 P1::¿Hasta cuánto protege el IPAB? {
+	~Todo lo que tengas en el banco #No es la mejor opción. El límite está en UDIS.
+	=400,000 UDIS por persona y por banco #¡Correcto! El límite está en UDIS.
+	~400,000 pesos #No es la mejor opción. El límite está en UDIS.
+}
+
+::M5 U02 P2::¿Qué protege el IPAB? {
+	=Tus depósitos bancarios #¡Correcto! Solo depósitos.
+	~Tus fondos de inversión y acciones #No es la mejor opción. Solo depósitos.
+	~Tu AFORE #No es la mejor opción. Solo depósitos.
+}
+
+::M5 U02 P3::Tienes 5 millones en un banco. ¿Qué conviene? {
+	~Dejarlos juntos por comodidad, ya que el IPAB los cubre todos #No es la mejor opción. Así todo queda protegido.
+	~Pasar todo a efectivo en casa #No es la mejor opción. Así todo queda protegido.
+	=Repartirlos para quedar dentro del límite #¡Correcto! Así todo queda protegido.
+}
+
+::M5 U03 P1::¿Dónde conviene tu fondo de emergencia? {
+	~En acciones, para que rinda más a largo plazo #No es la mejor opción. Disponible y seguro.
+	=En una cuenta protegida o Cetes de corto plazo #¡Correcto! Disponible y seguro.
+	~En un plazo fijo de cinco años #No es la mejor opción. Disponible y seguro.
+}
+
+::M5 U03 P2::Tu gasto es 40,000 al mes. ¿Cuánto es un fondo de tres meses, sin deducible? {
+	=120,000 #¡Correcto! 40,000 por tres.
+	~40,000 #No es la mejor opción. 40,000 por tres.
+	~400,000 #No es la mejor opción. 40,000 por tres.
+}
+
+::M5 U03 P3::Usaste tu fondo. ¿Qué haces después? {
+	=Lo repones antes que otros ahorros #¡Correcto! Es tu primera red.
+	~Lo dejas vacío hasta el próximo año #No es la mejor opción. Es tu primera red.
+	~Lo sustituyes con tu tarjeta de crédito #No es la mejor opción. Es tu primera red.
+}
+
+::M5 U04 P1::¿Qué son los Cetes? {
+	~Acciones de empresas mexicanas grandes #No es la mejor opción. Le prestas al gobierno.
+	=Deuda del gobierno federal #¡Correcto! Le prestas al gobierno.
+	~Un seguro de ahorro #No es la mejor opción. Le prestas al gobierno.
+}
+
+::M5 U04 P2::¿Qué eliges si puedes necesitar el dinero cualquier día? {
+	=BONDDIA #¡Correcto! Retiro diario.
+	~Cetes a 364 días, que pagan más #No es la mejor opción. Retiro diario.
+	~Un plazo fijo largo #No es la mejor opción. Retiro diario.
+}
+
+::M5 U04 P3::Te llaman de «Cetesdirecto» con una tasa especial. ¿Qué haces? {
+	~Aceptas si la tasa es mejor que la que ves en el sitio oficial #No es la mejor opción. No llaman para ofrecer tasas.
+	~Pides que te manden el enlace #No es la mejor opción. No llaman para ofrecer tasas.
+	=Cuelgas y entras solo al sitio oficial #¡Correcto! No llaman para ofrecer tasas.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M6
+
+::M6 U01 P1::Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? {
+	~13% #No es la mejor opción. 8 menos 5.
+	=3% #¡Correcto! 8 menos 5.
+	~8%, porque la inflación no cuenta #No es la mejor opción. 8 menos 5.
+}
+
+::M6 U01 P2::¿Qué inversión conviene para dinero que necesitas en tres meses? {
+	=Una de bajo riesgo y corto plazo #¡Correcto! El plazo manda.
+	~Un fondo de acciones que ganó mucho el año pasado #No es la mejor opción. El plazo manda.
+	~Una a cinco años #No es la mejor opción. El plazo manda.
+}
+
+::M6 U01 P3::¿Qué es el riesgo? {
+	~Lo que te cobra la institución #No es la mejor opción. La posibilidad de perder.
+	~El plazo mínimo de la inversión #No es la mejor opción. La posibilidad de perder.
+	=Cuánto puede bajar tu inversión #¡Correcto! La posibilidad de perder.
+}
+
+::M6 U02 P1::¿Qué es un PRLV? {
+	~Una acción de una empresa del extranjero #No es la mejor opción. Depósito a plazo.
+	~Un fondo de acciones #No es la mejor opción. Depósito a plazo.
+	=Un pagaré bancario #¡Correcto! Depósito a plazo.
+}
+
+::M6 U02 P2::¿Qué haces si no entiendes una inversión? {
+	=No la compras hasta entenderla #¡Correcto! Nunca compres lo que no entiendes.
+	~La compras poco para probar #No es la mejor opción. Nunca compres lo que no entiendes.
+	~Confías en quien la ofrece #No es la mejor opción. Nunca compres lo que no entiendes.
+}
+
+::M6 U02 P3::¿Por qué importa la comisión de un fondo? {
+	~No importa si el fondo es bueno #No es la mejor opción. Reduce tu ganancia.
+	=Se descuenta de tu rendimiento cada año #¡Correcto! Reduce tu ganancia.
+	~Solo se paga al entrar #No es la mejor opción. Reduce tu ganancia.
+}
+
+::M6 U03 P1::¿Qué parte muestra lo que tienes hoy? {
+	=La posición #¡Correcto! Tu foto del mes.
+	~Los movimientos del mes #No es la mejor opción. Tu foto del mes.
+	~La lista de comisiones cobradas #No es la mejor opción. Tu foto del mes.
+}
+
+::M6 U03 P2::Tu fondo bajó 2% en un mes. ¿Qué haces? {
+	~Lo vendes todo de inmediato para no perder más este año #No es la mejor opción. Un mes no es un año.
+	=Revisas el rendimiento de doce meses #¡Correcto! Un mes no es un año.
+	~Cambias de institución hoy mismo #No es la mejor opción. Un mes no es un año.
+}
+
+::M6 U03 P3::¿Qué guardas para tus impuestos? {
+	~Solo el último estado #No es la mejor opción. La necesitas para declarar.
+	~Nada, lo tiene el SAT #No es la mejor opción. La necesitas para declarar.
+	=La constancia anual de retenciones #¡Correcto! La necesitas para declarar.
+}
+
+::M6 U04 P1::¿Qué preguntas a tu asesor antes de decidir? {
+	~Cuántos clientes tiene y desde cuándo #No es la mejor opción. Revela conflictos.
+	=Cómo le pagan y cuánto cuesta en total #¡Correcto! Revela conflictos.
+	~Si ya lo compró él mismo #No es la mejor opción. Revela conflictos.
+}
+
+::M6 U04 P2::Un asesor independiente, ¿dónde lo verificas? {
+	~En sus redes sociales y en las opiniones de otros clientes #No es la mejor opción. El registro oficial.
+	=En el registro de la CNBV #¡Correcto! El registro oficial.
+	~Con sus otros clientes #No es la mejor opción. El registro oficial.
+}
+
+::M6 U04 P3::¿Quién decide sobre tu dinero? {
+	~Tu asesor, que sabe más del tema #No es la mejor opción. El asesor recomienda, tú decides.
+	~Tu familia #No es la mejor opción. El asesor recomienda, tú decides.
+	=Tú #¡Correcto! El asesor recomienda, tú decides.
+}
+
+::M6 U05 P1::Te ofrecen 5% mensual garantizado. ¿Qué es? {
+	~Una buena oportunidad si la persona es conocida #No es la mejor opción. Nada legítimo garantiza eso.
+	=Una señal de fraude #¡Correcto! Nada legítimo garantiza eso.
+	~Normal en divisas #No es la mejor opción. Nada legítimo garantiza eso.
+}
+
+::M6 U05 P2::Te pagan por invitar a más personas. ¿Qué es? {
+	=Una pirámide #¡Correcto! Pagan con el dinero de nuevos.
+	~Un programa de referidos legítimo que conviene #No es la mejor opción. Pagan con el dinero de nuevos.
+	~Un bono de bienvenida #No es la mejor opción. Pagan con el dinero de nuevos.
+}
+
+::M6 U05 P3::Tu sobrino quiere manejar tus ahorros en su cuenta. ¿Qué haces? {
+	~Aceptas si firma un pagaré #No es la mejor opción. Sin protección en su cuenta.
+	~Aceptas solo una parte #No es la mejor opción. Sin protección en su cuenta.
+	=No\: tu dinero va a una cuenta a tu nombre #¡Correcto! Sin protección en su cuenta.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M7
+
+::M7 U01 P1::Empezaste a cotizar en 1990. ¿Qué ley te puede aplicar? {
+	=La Ley 73 #¡Correcto! Cotizaste antes de julio de 1997.
+	~La Ley 97, que aplica a todos por igual #No es la mejor opción. Cotizaste antes de julio de 1997.
+	~Ninguna, por la fecha #No es la mejor opción. Cotizaste antes de julio de 1997.
+}
+
+::M7 U01 P2::¿Dónde consultas tus semanas cotizadas? {
+	~En tu banco, con el número de tu cuenta de nómina #No es la mejor opción. Con tu CURP y NSS.
+	=En el IMSS con tu CURP y NSS #¡Correcto! Con tu CURP y NSS.
+	~En el SAT, con tu RFC #No es la mejor opción. Con tu CURP y NSS.
+}
+
+::M7 U01 P3::Te dedicaste a la casa y trabajaste antes. ¿Qué haces? {
+	~Nada\: no tienes pensión #No es la mejor opción. Puedes tener derechos.
+	~Esperas a que te llamen #No es la mejor opción. Puedes tener derechos.
+	=Consultas tus semanas y tu AFORE #¡Correcto! Puedes tener derechos.
+}
+
+::M7 U02 P1::¿Qué necesitas para localizar tu AFORE? {
+	=Tu CURP #¡Correcto! Con tu CURP.
+	~Una cita con un gestor #No es la mejor opción. Con tu CURP.
+	~El número de tu última empresa #No es la mejor opción. Con tu CURP.
+}
+
+::M7 U02 P2::Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? {
+	~Aceptas\: el regalo es gratis #No es la mejor opción. El regalo no mejora tu retiro.
+	=Comparas rendimientos en la CONSAR antes #¡Correcto! El regalo no mejora tu retiro.
+	~Te cambias y, si no te gusta, regresas a tu AFORE anterior #No es la mejor opción. El regalo no mejora tu retiro.
+}
+
+::M7 U02 P3::¿Puedes ahorrar en tu AFORE si ya no trabajas formalmente? {
+	~No, solo con patrón #No es la mejor opción. Cualquiera puede aportar.
+	~Solo si tienes más de 60 años #No es la mejor opción. Cualquiera puede aportar.
+	=Sí, con aportaciones voluntarias #¡Correcto! Cualquiera puede aportar.
+}
+
+::M7 U03 P1::¿Qué haces antes de pagar la Modalidad 40? {
+	~Pagas un gestor para que lo revise #No es la mejor opción. Decide con números.
+	=Confirmas requisitos y pides una estimación en el IMSS #¡Correcto! Decide con números.
+	~Pagas un año para probar #No es la mejor opción. Decide con números.
+}
+
+::M7 U03 P2::Registras 20,000 de salario en 2026. ¿Cuánto es la cuota aproximada? {
+	~2,000 #No es la mejor opción. 14.438% de 20,000.
+	~20,000 #No es la mejor opción. 14.438% de 20,000.
+	=2,888 #¡Correcto! 14.438% de 20,000.
+}
+
+::M7 U03 P3::¿Quién puede cobrarte por inscribirte? {
+	=Nadie\: el trámite es gratuito #¡Correcto! Es gratuito.
+	~Un gestor autorizado por el IMSS para agilizar la inscripción #No es la mejor opción. Es gratuito.
+	~Tu AFORE, con una comisión #No es la mejor opción. Es gratuito.
+}
+
+::M7 U04 P1::¿Cuánto da la Pensión de Adultos Mayores en 2026? {
+	~3,100 cada mes, igual que Mujeres Bienestar #No es la mejor opción. Bimestral.
+	=6,400 cada dos meses #¡Correcto! Bimestral.
+	~6,400 cada mes #No es la mejor opción. Bimestral.
+}
+
+::M7 U04 P2::Te piden dinero para aumentar tu pensión del Bienestar. ¿Qué es? {
+	=Un fraude #¡Correcto! Es gratuito.
+	~Un trámite especial para adultos mayores #No es la mejor opción. Es gratuito.
+	~Una cuota voluntaria #No es la mejor opción. Es gratuito.
+}
+
+::M7 U04 P3::La pensión de tu esposo es de 20,000 al mes. ¿Cuánto sería, en general, tu pensión de viudez? {
+	~20,000 #No es la mejor opción. 90% de 20,000.
+	~10,000 #No es la mejor opción. 90% de 20,000.
+	=18,000 #¡Correcto! 90% de 20,000.
+}
+
+::M7 U05 P1::Gastarás 40,000 y recibirás 25,000 de pensiones. ¿Cuál es la diferencia al mes? {
+	~65,000 #No es la mejor opción. 40,000 menos 25,000.
+	~25,000 #No es la mejor opción. 40,000 menos 25,000.
+	=15,000 #¡Correcto! 40,000 menos 25,000.
+}
+
+::M7 U05 P2::¿Qué gasto suele subir en el retiro? {
+	~Transporte al trabajo #No es la mejor opción. La salud aumenta.
+	=Salud y medicamentos #¡Correcto! La salud aumenta.
+	~Colegiaturas de los hijos #No es la mejor opción. La salud aumenta.
+}
+
+::M7 U05 P3::¿Qué haces antes de prestar a tus hijos? {
+	=Calculas tu retiro #¡Correcto! Primero tu seguridad.
+	~Les prestas lo que pidan #No es la mejor opción. Primero tu seguridad.
+	~Les pides un pagaré y listo #No es la mejor opción. Primero tu seguridad.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M8
+
+::M8 U01 P1::¿Qué es el coaseguro? {
+	=El porcentaje que pagas después del deducible #¡Correcto! Tu parte después del deducible.
+	~Lo máximo que paga la aseguradora por evento #No es la mejor opción. Tu parte después del deducible.
+	~Una cuota mensual extra que se suma a tu prima anual del seguro #No es la mejor opción. Tu parte después del deducible.
+}
+
+::M8 U01 P2::Cirugía de 100,000, deducible 10,000 y coaseguro 10%. ¿Cuánto pagas tú? {
+	~10,000 #No es la mejor opción. 10,000 más 10% de 90,000.
+	=19,000 #¡Correcto! 10,000 más 10% de 90,000.
+	~20,000 #No es la mejor opción. 10,000 más 10% de 90,000.
+}
+
+::M8 U01 P3::¿Qué pides antes de una cirugía programada? {
+	~Un descuento al hospital #No es la mejor opción. Confirma cobertura.
+	=La programación de cirugía #¡Correcto! Confirma cobertura.
+	~Un préstamo al banco por si acaso #No es la mejor opción. Confirma cobertura.
+}
+
+::M8 U02 P1::¿Qué pasa si cancelas y luego contratas otro seguro? {
+	~Todo sigue igual en la nueva aseguradora #No es la mejor opción. Pierdes antigüedad y coberturas.
+	=Te pueden excluir preexistencias #¡Correcto! Pierdes antigüedad y coberturas.
+	~Te bajan la prima #No es la mejor opción. Pierdes antigüedad y coberturas.
+}
+
+::M8 U02 P2::¿Qué opción baja tu prima? {
+	=Subir tu deducible #¡Correcto! Pagas más en un evento, menos de prima.
+	~Agregar coberturas nuevas #No es la mejor opción. Pagas más en un evento, menos de prima.
+	~Pagar mensualmente en lugar de anual #No es la mejor opción. Pagas más en un evento, menos de prima.
+}
+
+::M8 U02 P3::¿Cuándo cancelas tu póliza actual al cambiarte? {
+	~En cuanto firmas la solicitud nueva #No es la mejor opción. Nunca te quedes sin cobertura.
+	~Un mes antes para ahorrar #No es la mejor opción. Nunca te quedes sin cobertura.
+	=Cuando la nueva ya está vigente #¡Correcto! Nunca te quedes sin cobertura.
+}
+
+::M8 U03 P1::¿Cómo comparas dos seguros? {
+	=Con el mismo perfil de coberturas #¡Correcto! Así comparas lo mismo.
+	~Solo por el precio anual #No es la mejor opción. Así comparas lo mismo.
+	~Por la marca más conocida #No es la mejor opción. Así comparas lo mismo.
+}
+
+::M8 U03 P2::¿Dónde están las exclusiones? {
+	~En la publicidad y los folletos que te da el agente #No es la mejor opción. Ahí están las reglas.
+	=En las condiciones generales #¡Correcto! Ahí están las reglas.
+	~En el recibo de pago #No es la mejor opción. Ahí están las reglas.
+}
+
+::M8 U03 P3::¿Qué verificas de tu agente? {
+	=Su cédula en la CNSF #¡Correcto! Debe estar autorizado.
+	~Cuántos años lleva en la ciudad #No es la mejor opción. Debe estar autorizado.
+	~Si tiene redes sociales #No es la mejor opción. Debe estar autorizado.
+}
+
+::M8 U04 P1::¿Para qué sirve un seguro de vida? {
+	~Para ahorrar sin riesgo #No es la mejor opción. Protege a tus dependientes.
+	~Para pagar tus gastos médicos #No es la mejor opción. Protege a tus dependientes.
+	=Para proteger a quien depende de ti #¡Correcto! Protege a tus dependientes.
+}
+
+::M8 U04 P2::¿Qué pides antes de cancelar un seguro con ahorro? {
+	=El valor de rescate por escrito #¡Correcto! Para no perder aportaciones.
+	~Un regalo por renovar o un descuento en la siguiente prima #No es la mejor opción. Para no perder aportaciones.
+	~Nada, solo lo cancelas #No es la mejor opción. Para no perder aportaciones.
+}
+
+::M8 U04 P3::¿Cuánto cuesta actualizar beneficiarios? {
+	~Una comisión fija #No es la mejor opción. Es gratis.
+	=Nada #¡Correcto! Es gratis.
+	~Depende de la suma asegurada #No es la mejor opción. Es gratis.
+}
+
+::M8 U05 P1::¿Qué cobertura del auto es la más importante? {
+	~Cristales y rines, que son lo que más se daña #No es la mejor opción. Cubre daños a otros.
+	~Asistencia vial #No es la mejor opción. Cubre daños a otros.
+	=Responsabilidad civil #¡Correcto! Cubre daños a otros.
+}
+
+::M8 U05 P2::Chocas y te piden arreglarse sin el seguro. ¿Qué haces? {
+	~Aceptas para ahorrar tiempo #No es la mejor opción. El ajustador protege tus derechos.
+	=Llamas a la aseguradora y esperas al ajustador #¡Correcto! El ajustador protege tus derechos.
+	~Das tus datos y te vas #No es la mejor opción. El ajustador protege tus derechos.
+}
+
+::M8 U05 P3::¿Qué revisas al renovar el seguro de la casa? {
+	=El costo de reconstruir y los riesgos de tu zona #¡Correcto! Así te cubres bien.
+	~Solo el precio #No es la mejor opción. Así te cubres bien.
+	~El color de la póliza #No es la mejor opción. Así te cubres bien.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M9
+
+::M9 U01 P1::Recibes rentas de un departamento. ¿Qué pasa? {
+	~Nunca declaras si eres pensionada #No es la mejor opción. Las rentas suelen obligarte.
+	=Probablemente debes declarar #¡Correcto! Las rentas suelen obligarte.
+	~Solo declaras si el SAT te llama #No es la mejor opción. Las rentas suelen obligarte.
+}
+
+::M9 U01 P2::¿Dónde pides ayuda gratis si tienes un problema con el SAT? {
+	=PRODECON #¡Correcto! Es gratuita.
+	~Con un gestor que cobra #No es la mejor opción. Es gratuita.
+	~En el banco #No es la mejor opción. Es gratuita.
+}
+
+::M9 U01 P3::Te llega un enlace del «SAT» para una devolución. ¿Qué haces? {
+	~Lo abres rápido para no perderla #No es la mejor opción. El SAT no manda enlaces así.
+	~Lo reenvías a tu contadora #No es la mejor opción. El SAT no manda enlaces así.
+	=Entras tú a sat.gob.mx #¡Correcto! El SAT no manda enlaces así.
+}
+
+::M9 U02 P1::¿Qué es una retención? {
+	~Una comisión que cobra el banco por administrar #No es la mejor opción. Se resta en tu declaración.
+	=Impuesto pagado por adelantado #¡Correcto! Se resta en tu declaración.
+	~Una multa del SAT #No es la mejor opción. Se resta en tu declaración.
+}
+
+::M9 U02 P2::Tienes 200,000 en un pagaré todo 2026. ¿Cuánto te retienen aproximadamente? {
+	=1,800 #¡Correcto! 0.90% de 200,000.
+	~900 #No es la mejor opción. 0.90% de 200,000.
+	~18,000 #No es la mejor opción. 0.90% de 200,000.
+}
+
+::M9 U02 P3::Tu pensión es de 30,000 al mes. ¿Paga ISR? {
+	~Sí, toda la pensión paga impuesto desde el primer peso #No es la mejor opción. Está por debajo de 15 UMA.
+	~Sí, la mitad #No es la mejor opción. Está por debajo de 15 UMA.
+	=No, está dentro del límite exento #¡Correcto! Está por debajo de 15 UMA.
+}
+
+::M9 U03 P1::¿Qué necesitas para deducir? {
+	~El ticket de la farmacia #No es la mejor opción. Requisitos del SAT.
+	~Una nota firmada por el médico #No es la mejor opción. Requisitos del SAT.
+	=Factura a tu nombre y pago no en efectivo #¡Correcto! Requisitos del SAT.
+}
+
+::M9 U03 P2::¿En qué mes se presenta la declaración anual de personas físicas? {
+	=Abril #¡Correcto! En abril.
+	~Diciembre #No es la mejor opción. En abril.
+	~Enero #No es la mejor opción. En abril.
+}
+
+::M9 U03 P3::¿Qué haces con un saldo a favor? {
+	~Lo dejas para el siguiente año #No es la mejor opción. Es tu dinero.
+	=Lo pides en devolución #¡Correcto! Es tu dinero.
+	~Nada, se pierde #No es la mejor opción. Es tu dinero.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M10
+
+::M10 U01 P1::¿Ante quién se hace un testamento? {
+	~Ante un abogado cualquiera #No es la mejor opción. Así es válido.
+	~Ante tu banco #No es la mejor opción. Así es válido.
+	=Ante notario #¡Correcto! Así es válido.
+}
+
+::M10 U01 P2::¿Qué testamento vale si hiciste varios? {
+	=El último #¡Correcto! El último es el que vale.
+	~El primero #No es la mejor opción. El último es el que vale.
+	~El más largo #No es la mejor opción. El último es el que vale.
+}
+
+::M10 U01 P3::¿Cuándo hay descuentos en muchas notarías? {
+	~En diciembre #No es la mejor opción. El Mes del Testamento.
+	=En septiembre #¡Correcto! El Mes del Testamento.
+	~Nunca #No es la mejor opción. El Mes del Testamento.
+}
+
+::M10 U02 P1::¿Dónde revisas tus beneficiarios de la AFORE? {
+	=En tu AFORE o AforeMóvil #¡Correcto! Ahí se actualizan.
+	~En el SAT, con tu RFC y tu contraseña #No es la mejor opción. Ahí se actualizan.
+	~En tu banco #No es la mejor opción. Ahí se actualizan.
+}
+
+::M10 U02 P2::¿Los beneficiarios reemplazan al testamento? {
+	~Sí, siempre #No es la mejor opción. Hay límites.
+	~Solo en el caso de las cuentas #No es la mejor opción. Hay límites.
+	=No del todo\: se complementan #¡Correcto! Hay límites.
+}
+
+::M10 U02 P3::¿Cuándo revisas a tus beneficiarios? {
+	=Cuando cambia tu familia y cada año #¡Correcto! Así están al día.
+	~Solo al abrir la cuenta #No es la mejor opción. Así están al día.
+	~Nunca #No es la mejor opción. Así están al día.
+}
+
+::M10 U03 P1::¿Qué poder te da más control? {
+	=El especial #¡Correcto! Limita lo que pueden hacer.
+	~El general para todo #No es la mejor opción. Limita lo que pueden hacer.
+	~El poder para vender y regalar bienes #No es la mejor opción. Limita lo que pueden hacer.
+}
+
+::M10 U03 P2::Te presionan para firmar un poder amplio rápido. ¿Qué haces? {
+	~Firmas para evitar problemas #No es la mejor opción. La prisa es una alerta.
+	~Firmas solo si es familia #No es la mejor opción. La prisa es una alerta.
+	=Te detienes y consultas #¡Correcto! La prisa es una alerta.
+}
+
+::M10 U03 P3::¿Qué documento dice qué tratamientos quieres? {
+	~El testamento que haces ante notario #No es la mejor opción. Es sobre tu salud.
+	=La voluntad anticipada #¡Correcto! Es sobre tu salud.
+	~El poder general #No es la mejor opción. Es sobre tu salud.
+}
+
+::M10 U04 P1::¿Qué implica ser aval? {
+	=Pagar la deuda si tu hijo no paga #¡Correcto! La deuda pasa a ti.
+	~Solo recomendar a tu hijo ante el banco #No es la mejor opción. La deuda pasa a ti.
+	~Recibir una comisión #No es la mejor opción. La deuda pasa a ti.
+}
+
+::M10 U04 P2::¿Qué haces antes de prestar dinero a un hijo? {
+	~Prestas sin preguntar #No es la mejor opción. Primero tu seguridad.
+	=Calculas tu retiro #¡Correcto! Primero tu seguridad.
+	~Le pides que no se lo diga a nadie #No es la mejor opción. Primero tu seguridad.
+}
+
+::M10 U04 P3::¿Cómo haces un préstamo familiar? {
+	~De palabra, por confianza #No es la mejor opción. Evita conflictos.
+	~Sin fechas, cuando pueda #No es la mejor opción. Evita conflictos.
+	=Por escrito, con monto y fechas #¡Correcto! Evita conflictos.
+}
+
+::M10 U05 P1::¿Qué puede esperar después de una pérdida? {
+	~Tramitar la pensión de viudez #No es la mejor opción. Las decisiones grandes esperan.
+	=Vender la casa #¡Correcto! Las decisiones grandes esperan.
+	~Asegurar el gasto del mes #No es la mejor opción. Las decisiones grandes esperan.
+}
+
+::M10 U05 P2::Te presionan para decidir rápido. ¿Qué significa? {
+	~Que es una buena oportunidad #No es la mejor opción. La presión es una alerta.
+	~Que eres importante para el asesor #No es la mejor opción. La presión es una alerta.
+	=Que conviene esperar #¡Correcto! La presión es una alerta.
+}
+
+::M10 U05 P3::¿Qué haces en una separación si no tienes cuenta propia? {
+	=Abres una a tu nombre #¡Correcto! Es tu respaldo.
+	~Usas la de tu expareja #No es la mejor opción. Es tu respaldo.
+	~Guardas todo en efectivo #No es la mejor opción. Es tu respaldo.
+}
+
+$CATEGORY: $course$/Tu Patrimonio/M11
+
+::M11 U01 P1::Te dicen «la oferta solo es hoy». ¿Qué haces? {
+	=Esperas y comparas #¡Correcto! La prisa es del vendedor.
+	~Firmas para no perderla #No es la mejor opción. La prisa es del vendedor.
+	~Pides un descuento extra #No es la mejor opción. La prisa es del vendedor.
+}
+
+::M11 U01 P2::¿A quién pides segunda opinión? {
+	~Al vendedor #No es la mejor opción. Sin conflicto de interés.
+	=A alguien sin interés en la venta #¡Correcto! Sin conflicto de interés.
+	~A quien te invitó a la presentación #No es la mejor opción. Sin conflicto de interés.
+}
+
+::M11 U01 P3::Firmaste y te arrepientes al día siguiente. ¿Qué haces? {
+	~Nada, ya firmaste #No es la mejor opción. Muchos contratos lo permiten.
+	~Dejas de pagar para que te cancelen el contrato #No es la mejor opción. Muchos contratos lo permiten.
+	=Revisas el plazo de cancelación #¡Correcto! Muchos contratos lo permiten.
+}
+
+::M11 U02 P1::Un familiar se queda con tu tarjeta y decide tus gastos. ¿Qué es? {
+	~Ayuda normal #No es la mejor opción. Deciden por ti.
+	=Control económico #¡Correcto! Deciden por ti.
+	~Una forma de cuidarte #No es la mejor opción. Deciden por ti.
+}
+
+::M11 U02 P2::¿Qué haces primero? {
+	=Recuperas el acceso a tus cuentas #¡Correcto! Tu dinero es tuyo.
+	~Esperas a que cambie #No es la mejor opción. Tu dinero es tuyo.
+	~Le das también tu contraseña #No es la mejor opción. Tu dinero es tuyo.
+}
+
+::M11 U02 P3::Te presionan para prestar dinero. ¿Qué respondes? {
+	~Que sí, para evitar problemas #No es la mejor opción. La presión no decide.
+	~Que no hablarás más del tema #No es la mejor opción. La presión no decide.
+	=Que lo pensarás 72 horas #¡Correcto! La presión no decide.
+}
+
+::M11 U03 P1::¿Qué incluye tu plan de una página? {
+	~Tus contraseñas, para tenerlas juntas #No es la mejor opción. Son sus seis partes.
+	=Un resumen de mapa, seguridad, ahorro, retiro, salud y familia #¡Correcto! Son sus seis partes.
+	~Solo tus inversiones, que son lo más importante del plan #No es la mejor opción. Son sus seis partes.
+}
+
+::M11 U03 P2::¿Qué compartes con tu persona de confianza? {
+	=Una copia sin números ni contraseñas #¡Correcto! Sin datos sensibles.
+	~El plan con tus NIP #No es la mejor opción. Sin datos sensibles.
+	~Nada, nunca #No es la mejor opción. Sin datos sensibles.
+}
+
+::M11 U03 P3::¿Cuándo actualizas tu plan? {
+	~Solo si pierdes dinero #No es la mejor opción. Así sigue al día.
+	~Cada cinco años #No es la mejor opción. Así sigue al día.
+	=Cada año y cuando cambia tu vida #¡Correcto! Así sigue al día.
+}

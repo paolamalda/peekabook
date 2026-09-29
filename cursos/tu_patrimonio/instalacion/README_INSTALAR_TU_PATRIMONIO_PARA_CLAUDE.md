@@ -1,0 +1,128 @@
+# Instrucciones para Claude: instalar "Tu Patrimonio, Tu Tranquilidad, Tu Futuro" (Moodle 3.10)
+
+Vas a crear el curso **Tu Patrimonio, Tu Tranquilidad, Tu Futuro** en academia.desarrollatalento.com. El sitio usa Moodle 3.10, el tema Boost, Level Up 3.15.2 y el complemento **Certificado personalizado** (mod_customcert).
+
+Si en el sitio existen otros cursos, **no los toques.**
+
+Trabaja con el navegador y con la sesión de administrador que la persona abrió.
+
+Reglas:
+
+- Usa solo la interfaz web.
+- No uses SSH.
+- No instales complementos.
+- No cambies la configuración del sitio.
+- No toques otros cursos.
+- Si algo no coincide con estas instrucciones, detente y pregunta.
+
+## 0. Antes de empezar
+
+1. Confirma que no existe un curso con nombre corto `TPTF-MX`. Si existe, detente y pregunta.
+2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**. Anótalo para el reporte.
+3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
+
+## 1. Crear el curso
+
+| Campo | Valor |
+|---|---|
+| Nombre | Tu Patrimonio, Tu Tranquilidad, Tu Futuro |
+| Nombre corto | TPTF-MX |
+| Visibilidad | **Ocultar** |
+| Formato | Temas, 13 secciones |
+| Seguimiento de finalización | Sí |
+
+## 2. Secciones
+
+| Sección | Nombre | Descripción |
+|---|---|---|
+| General | Bienvenida | Enlace al capítulo 1 del libro de apoyo y foro "Dudas y comentarios" |
+| 1 | Módulo 1. Tu dinero hoy: mapa y orden | Contenido de `1_libros/M1_resumen.html` |
+| 2 | Módulo 2. Conoce el sistema financiero | `M2_resumen.html` |
+| 3 | Módulo 3. El celular sin miedo | `M3_resumen.html` |
+| 4 | Módulo 4. Fraudes: que no te pase | `M4_resumen.html` |
+| 5 | Módulo 5. Tus cuentas y tu ahorro protegido | `M5_resumen.html` |
+| 6 | Módulo 6. Tus inversiones | `M6_resumen.html` |
+| 7 | Módulo 7. Pensión y retiro | `M7_resumen.html` |
+| 8 | Módulo 8. Salud y seguros | `M8_resumen.html` |
+| 9 | Módulo 9. Impuestos sin miedo | `M9_resumen.html` |
+| 10 | Módulo 10. Patrimonio y familia | `M10_resumen.html` |
+| 11 | Módulo 11. Decidir con calma y tu plan | `M11_resumen.html` |
+| 12 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
+| 13 | Evaluación y constancia | "Tu constancia de conclusión." |
+
+Descripción del foro "Dudas y comentarios": "No compartas números de cuenta, contraseñas, códigos, fotos de tarjetas ni montos reales. El equipo nunca te pedirá esos datos."
+
+## 3. Libros de lecciones
+
+En cada sección de módulo:
+
+1. Crea un libro: nombre `Lecciones del Módulo N`, formato de capítulo "Nada", finalización "Ver".
+2. Menú del libro > **Importar capítulo** > `1_libros/MN_libro_Moodle.zip`, tipo "Cada archivo HTML representa un capítulo".
+3. Comprueba que cada lección tenga su portada primero y 3 subcapítulos sangrados.
+
+| Módulo | Capítulos | Páginas |
+|---|---|---|
+| M1 | 4 | 16 |
+| M2 | 4 | 16 |
+| M3 | 5 | 20 |
+| M4 | 8 | 32 |
+| M5 | 4 | 16 |
+| M6 | 5 | 20 |
+| M7 | 5 | 20 |
+| M8 | 5 | 20 |
+| M9 | 3 | 12 |
+| M10 | 5 | 20 |
+| M11 | 3 | 12 |
+
+## 4. Libro de apoyo
+
+En la sección 12, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
+
+## 5. Glosario
+
+En la sección 12, crea el glosario `Palabras clave del curso` e importa `3_glosario/Glosario_curso_Moodle.xml`, destino "glosario actual".
+
+## 6. Banco de preguntas y autoevaluaciones
+
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tptf.gift.txt`. Se crean *Tu Patrimonio/M1* a *M11*, con 153 preguntas.
+2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
+3. Agrega **todas** las preguntas de *Tu Patrimonio/MN*, 10 por página:
+
+| M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 12 | 12 | 15 | 24 | 12 | 15 | 15 | 15 | 9 | 15 | 9 |
+
+## 7. Actividades H5P (51)
+
+Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
+
+1. *Agregar actividad > Actividad H5P*.
+2. Nombre: `MN UYY · ¿Qué harías?`.
+3. Sube `MN_UYY_que_harias.h5p`.
+4. Opciones: descarga no, incrustar no, derechos de autor sí.
+5. Calificación: seguimiento sí, "calificación más alta". Finalización: "El estudiante debe recibir una calificación".
+
+**Orden final de cada sección:** libro, H5P en orden, autoevaluación.
+
+**Comprueba:** abre 3 actividades al azar con *Cambiar rol a > Estudiante*. Debes ver 3 casos, 3 opciones por caso y la calificación al terminar.
+
+## 8. Level Up, insignias, finalización y constancia
+
+Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`), 4 (finalización con las 11 autoevaluaciones) y 5 (constancia con `6_certificado/certificado_fondo.png`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
+
+## 9. Comunidad y acompañamiento (pregunta antes)
+
+Este curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe "[por definir]" y repórtalo).
+
+## 10. Revisión final (con rol de estudiante)
+
+- M1 U01: portada primero, dos botones de ruta, términos en color con su significado y recuadros "Dato vigente" o "Antes de actuar, verifica".
+- Una H5P por módulo abre, muestra 3 casos y registra calificación.
+- Una autoevaluación muestra 3 opciones por pregunta.
+- El libro de apoyo muestra "Ver la clave" en los casos integradores y las preguntas frecuentes desplegables.
+
+## 11. Reporte para la persona
+
+Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de una portada, una H5P, una autoevaluación y la vista previa de la constancia.
+
+El curso queda **oculto**. La persona decide cuándo mostrarlo.
