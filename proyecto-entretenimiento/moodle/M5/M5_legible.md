@@ -1,0 +1,1185 @@
+# Módulo 5. Compara y elige: instituciones y productos
+
+## M5 U01. Primero elige la institución
+
+**Lo que lograrás:** Comparar instituciones por autorización, protección, quejas, atención y canales antes de elegir cualquier producto.
+
+**Para empezar:** Gael abrió una cuenta en el primer banco que le ofreció una promoción en un centro comercial. Meses después, cada aclaración le toma semanas y le cobran comisiones que nadie le explicó. En esta lección aprenderás a elegir primero la institución y después el producto.
+
+### Lo esencial (5 minutos)
+
+#### La institución importa tanto como el producto
+
+Un producto con buena tasa en una institución que no resuelve tus quejas, que cobra comisiones escondidas o que no está autorizada te sale caro.
+
+Antes de comparar cuentas, tarjetas o créditos, elige con quién.
+
+
+
+#### Cinco cosas que comparas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Autorización | Que aparezca en la CNBV y en el SIPRES. | Sin esto, no sigas. |
+| Protección | Si es banco, tus depósitos los protege el IPAB. | Importa para ahorrar. |
+| Quejas y sanciones | Buró de Entidades Financieras de CONDUSEF. | Menos quejas por cliente es mejor. |
+| Atención | Canales, horarios, tiempo de respuesta. | Pregunta y prueba. |
+| Canales | App, sucursales, cajeros, depósitos en efectivo. | Según cómo cobras. |
+
+#### Tu forma de trabajar decide
+
+Si te pagan en efectivo en eventos, necesitas dónde depositarlo sin comisión. Si viajas por giras, necesitas buena app y cajeros en otras ciudades. Si te pagan del extranjero, revisa cómo recibe transferencias internacionales.
+
+
+
+#### Un caso en un minuto
+
+Gael comparó tres bancos en el Buró de Entidades Financieras, revisó sus apps y preguntó cuánto cuesta depositar efectivo.
+
+Eligió uno con menos quejas y sin comisión por depósitos en tiendas. Después eligió la cuenta dentro de ese banco.
+
+> **Idea clave:** primero con quién, después qué producto.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué revisas primero de una institución?
+*Respuesta:* Que esté autorizada: CNBV y SIPRES.
+
+2. ¿Dónde ves quejas y sanciones?
+*Respuesta:* En el Buró de Entidades Financieras de CONDUSEF.
+
+
+#### Para recordar
+
+- Primero la institución, luego el producto.
+- Autorización, protección y quejas.
+- Elige según cómo trabajas.
+
+
+
+### Profundiza (5 minutos más)
+
+#### La comparación de Gael
+
+| | Banco A | Banco B | Banco C |
+|---|---|---|---|
+| Autorizado (CNBV) | Sí | Sí | Sí |
+| Quejas en el Buró de Entidades Financieras | Altas | Medias | Bajas |
+| Depósito de efectivo en tiendas | Con comisión | Sin comisión | Con comisión |
+| App con buenas funciones | Sí | Sí | Regular |
+| Decisión | | **Elegido** | |
+
+
+
+#### Cómo probar la atención
+
+Antes de contratar, llama o escribe con una pregunta concreta: "¿cuánto cuesta un retiro en cajero de otro banco?". Mide cuánto tardan y si la respuesta es clara.
+
+
+
+#### No tienes que tener todo en un solo lugar
+
+Puedes tener tu cuenta en un banco, tu fondo de sequía en Cetesdirecto y tu tarjeta de crédito en otro banco. Elige lo mejor de cada uno.
+
+Pero no abras productos de más: cada uno es algo más que revisar.
+
+> **Dato vigente:** Buró de Entidades Financieras, SIPRES y padrón de la CNBV. Consultado el 29 de septiembre de 2026 a través de CONDUSEF y la CNBV.
+
+
+
+#### Casos
+
+
+**Caso 1. La promoción de Gael**
+
+A Gael le ofrecen una cuenta con regalo en un centro comercial.
+- *¿Qué revisa antes de firmar?* La autorización de la institución, sus quejas en el Buró de Entidades Financieras y las comisiones.
+
+
+**Caso 2. El efectivo de Renata**
+
+A Renata le pagan en efectivo en muchos eventos.
+- *¿Qué pregunta al elegir banco?* Dónde puede depositar efectivo y cuánto le cobran.
+
+
+**Caso 3. Las giras de Toño**
+
+Toño viaja por giras y necesita sacar dinero en muchas ciudades.
+- *¿Qué compara?* La red de cajeros sin comisión, la app y las comisiones por retiro en otros bancos.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Elegir por un regalo | Pagas comisiones después | Compara la institución |
+| No revisar quejas | Aclaraciones eternas | Usa el Buró de Entidades Financieras |
+| Ignorar cómo cobras | Comisiones por depositar | Elige según tu forma de trabajo |
+| Abrir productos de más | Pierdes control | Solo lo que necesitas |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Renata y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué eliges primero? a) La institución · b) El regalo de la promoción · c) El color de la tarjeta
+2. Cobras mucho en efectivo. ¿Qué preguntas? a) Cuánto cuesta depositar efectivo y dónde · b) Si la tarjeta es de metal · c) Si tienen puntos para viajes
+3. ¿Qué herramienta muestra quejas por institución? a) Buró de Entidades Financieras · b) Buró de Crédito · c) Las reseñas de la app
+**Respuestas:** 1-a: primero con quién. 2-a: según cómo cobras. 3-a: es la herramienta de CONDUSEF.
+
+
+
+#### Ponlo en práctica
+
+Compara dos instituciones con los cinco puntos de esta lección y elige una.
+**Respuesta:** Por ejemplo: A autorizada, quejas altas, depósito con comisión; B autorizada, quejas bajas, depósito sin comisión. Elijo B.
+
+
+
+#### A tu plan
+
+Anota tus tres necesidades principales (efectivo, viajes, pagos del extranjero) y úsalas para elegir institución.
+
+
+
+### Para saber más
+
+- **Buró de Entidades Financieras** (CONDUSEF · español): https://www.buro.gob.mx — **Qué buscar:** compara instituciones del mismo tipo por quejas y sanciones.
+- **Padrón de entidades supervisadas** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** confirma que la institución está autorizada.
+
+### Palabras clave
+
+- *Comisión:* cobro por un servicio financiero.
+- *Canales:* formas de atenderte: app, sucursal, cajero, teléfono.
+- *Autorización:* permiso oficial para operar.
+
+### Fuentes
+
+CONDUSEF · CNBV, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U02. Elige tu cuenta
+
+**Lo que lograrás:** Comparar cuentas por comisiones, saldo mínimo, retiros, transferencias y depósitos en efectivo, y usar la portabilidad de nómina si cobras por nómina.
+
+**Para empezar:** Valeria paga 250 al mes de comisión por no mantener un saldo mínimo en una cuenta que casi no usa. Además, su pago como asimilada le llega a un banco que no eligió. En esta lección aprenderás a elegir la cuenta que te conviene.
+
+### Lo esencial (5 minutos)
+
+#### Lo que comparas en una cuenta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Comisión de manejo | Lo que te cobran cada mes. | Busca que sea cero o baja. |
+| Saldo mínimo | Lo que debes mantener para no pagar comisión. | Que sea realista para ti. |
+| Transferencias y retiros | Costos por SPEI, cajeros propios y de otros bancos. | Según cómo usas tu dinero. |
+| Depósitos en efectivo | Dónde y cuánto cuesta. | Clave si te pagan en efectivo. |
+
+#### Tipos de cuenta
+
+- **Cuentas básicas o de nivel bajo:** sin comisión, con límites de depósito al mes. Útiles para empezar.
+- **Cuentas tradicionales:** sin límites bajos, pero a veces con saldo mínimo o comisión.
+- **Cuentas con rendimiento:** pagan una tasa por tu saldo. Revisa si tiene tope.
+
+
+
+#### Portabilidad de nómina
+
+Si te pagan por nómina, incluidos los pagos como asimilado a salarios, tienes derecho a recibirla en el banco que elijas, sin costo. Lo pides en el banco nuevo con tus datos.
+
+
+
+#### Un caso en un minuto
+
+Valeria cerró la cuenta con saldo mínimo y abrió una sin comisión de manejo en el banco que ya usaba para su concentradora. Pidió la portabilidad de nómina.
+
+Se ahorra 3,000 al año y tiene todo en un solo lugar.
+
+> **Idea clave:** una comisión de 250 al mes son 3,000 al año por nada.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la portabilidad de nómina?
+*Respuesta:* Tu derecho a recibir tu nómina en el banco que elijas, sin costo.
+
+2. Una cuenta cobra 180 al mes si no mantienes 5,000. ¿Cuánto pagas al año si no llegas?
+*Respuesta:* 2,160.
+
+
+#### Para recordar
+
+- Compara comisiones, saldo mínimo y costos de uso.
+- Elige según cómo cobras y gastas.
+- Pide la portabilidad de nómina si te conviene.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Comparación de cuentas
+
+| | Cuenta A | Cuenta B | Cuenta C |
+|---|---|---|---|
+| Comisión de manejo | 0 | 180 si saldo menor a 5,000 | 0 |
+| Límite de depósitos al mes | Bajo | Sin límite | Sin límite |
+| Depósito de efectivo en tiendas | Con comisión | Con comisión | Sin comisión |
+| Rendimiento | No | No | Sí, con tope |
+
+Para alguien que cobra en efectivo y mueve más dinero que el límite de la A, la C suele convenir.
+
+
+
+#### Protege tu cuenta
+
+Activa notificaciones de cada movimiento, usa contraseñas distintas y no compartas tus códigos (M9 U03). Si hay un cargo que no reconoces, repórtalo de inmediato.
+
+
+
+#### Beneficiarios
+
+Al abrir tu cuenta, designa beneficiarios. Si algo te pasa, tu familia puede recibir el dinero sin un juicio largo (M10 U04).
+
+> **Dato vigente:** portabilidad de nómina sin costo y designación de beneficiarios en cuentas bancarias. Consultado el 29 de septiembre de 2026 a través del Banco de México y CONDUSEF.
+
+
+
+#### Casos
+
+
+**Caso 1. La comisión de Valeria**
+
+Valeria paga 250 al mes por no mantener el saldo mínimo.
+- *¿Qué hace?* Cambia a una cuenta sin comisión de manejo que se ajuste a su uso.
+
+
+**Caso 2. La nómina de Gael**
+
+A Gael le pagan como asimilado en un banco que no le gusta.
+- *¿Qué puede pedir?* La portabilidad de nómina al banco que elija, sin costo.
+
+
+**Caso 3. La cuenta básica de Renata**
+
+Renata tiene una cuenta básica y le rechazan un depósito grande por el límite.
+- *¿Qué hace?* Cambia a una cuenta con un límite acorde a lo que cobra.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar comisión por saldo mínimo | Pierdes dinero cada mes | Cambia de cuenta |
+| No revisar límites de depósito | Te rechazan pagos | Elige según tus montos |
+| Olvidar a los beneficiarios | Trámites largos para tu familia | Desígnalos |
+| No activar notificaciones | Tardas en ver fraudes | Actívalas |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Valeria y Renata. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Una cuenta cobra 200 al mes de manejo. ¿Cuánto pagas al año? a) 2,400 · b) 200 · c) 1,200
+2. ¿Tienes derecho a elegir en qué banco recibir tu nómina? a) No · b) Sí, con la portabilidad de nómina · c) Solo si tu patrón acepta
+3. Cobras en efectivo en eventos. ¿Qué revisas? a) Dónde y cuánto cuesta depositar · b) El diseño de la tarjeta · c) Si la app tiene juegos
+**Respuestas:** 1-a: 200 × 12. 2-b: es un derecho sin costo. 3-a: según cómo cobras.
+
+
+
+#### Ponlo en práctica
+
+Revisa tu estado de cuenta: ¿cuánto pagaste de comisiones en los últimos tres meses?
+**Respuesta:** Por ejemplo: 180 de manejo cada mes y 30 por retiro en otro banco: 630 en tres meses. Voy a cambiar de cuenta y usar cajeros de mi banco.
+
+
+
+#### A tu plan
+
+Designa beneficiarios en tu cuenta y activa las notificaciones de movimientos.
+
+
+
+### Para saber más
+
+- **Portabilidad de nómina** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** "Portabilidad de nómina" y cómo solicitarla.
+- **Comisiones bancarias** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** "Comisiones" para comparar lo que cobra cada banco.
+
+### Palabras clave
+
+- *Comisión de manejo:* cobro mensual por tener la cuenta.
+- *Saldo mínimo:* lo que debes mantener para no pagar comisión.
+- *Portabilidad de nómina:* recibir tu nómina en el banco que elijas.
+
+### Fuentes
+
+Banco de México · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U03. Elige dónde ahorrar e invertir
+
+**Lo que lograrás:** Comparar opciones de ahorro e inversión por rendimiento real, plazo, liquidez y protección.
+
+**Para empezar:** Toño tiene 80,000 guardados en su cuenta de cheques y no le pagan nada. Un conocido le dice que lo meta a "un negocio de reventa de boletos" que da 10% al mes. En esta lección aprenderás a comparar opciones seguras y a reconocer las que no lo son.
+
+### Lo esencial (5 minutos)
+
+#### Cuatro preguntas para comparar
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| ¿Cuánto me paga? | GAT nominal y GAT real. | La real descuenta la inflación. |
+| ¿A qué plazo? | Cuándo puedo sacar mi dinero. | Según tu meta. |
+| ¿Quién lo respalda? | Gobierno, banco con IPAB u otro. | Primero la seguridad. |
+| ¿Qué me cobra? | Comisiones y penalizaciones por retiro anticipado. | Réstalas. |
+
+#### Opciones seguras y sencillas
+
+- **Cetes en Cetesdirecto:** gobierno federal, desde 100 pesos, plazos de 28 días a varios años y BONDDIA para liquidez diaria.
+- **Pagarés o depósitos a plazo en bancos:** tasa fija por un plazo; protegidos por el IPAB.
+- **Cuentas a la vista con rendimiento en bancos:** liquidez inmediata; protegidas por el IPAB.
+
+
+
+#### Si promete demasiado, desconfía
+
+Un "negocio" que paga 10% al mes pagaría más de 200% al año. Nadie puede prometer eso sin riesgo enorme. Casi siempre es fraude (M9 U07).
+
+
+
+#### Un caso en un minuto
+
+Toño separó su dinero por metas: 40,000 para su fondo de sequía en BONDDIA, 30,000 en Cetes a 6 meses para comprar un equipo y 10,000 en su cuenta para el mes.
+
+No entró al negocio de boletos. Meses después, supo que varios perdieron su dinero.
+
+> **Idea clave:** cada meta tiene su plazo. Elige la inversión según cuándo necesitarás el dinero.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la GAT real?
+*Respuesta:* Lo que te paga una inversión después de descontar la inflación.
+
+2. ¿Dónde pones dinero que necesitas en seis meses?
+*Respuesta:* En algo seguro con plazo de seis meses o menos, como Cetes.
+
+
+#### Para recordar
+
+- Compara GAT real, plazo, respaldo y costos.
+- Cada meta con su plazo.
+- Promesas altas, riesgo alto o fraude.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Plazo según la meta
+
+| Meta | Cuándo la necesitas | Opción |
+|---|---|---|
+| Fondo de sequía | En cualquier momento | BONDDIA o cuenta a la vista en banco |
+| Equipo, curso o viaje | En 3 a 12 meses | Cetes o pagaré bancario al plazo de tu meta |
+| Retiro | En muchos años | AFORE, PPR u otras inversiones de largo plazo (M11) |
+
+
+
+#### Cómo leer la GAT
+
+Si la GAT nominal es 9% y la inflación 4%, tu ganancia real es cercana a 5%. Si la GAT real es negativa, tu dinero pierde poder de compra.
+
+Compara siempre la GAT, no solo la "tasa" que anuncian.
+
+
+
+#### Penalizaciones por sacar antes
+
+Algunos plazos no te dejan sacar el dinero antes, o te cobran por hacerlo. Si puedes necesitar el dinero, elige un plazo más corto o una opción con liquidez diaria.
+
+> **Dato vigente:** opciones de Cetesdirecto (Cetes y BONDDIA, desde 100 pesos) y protección del IPAB para depósitos bancarios. Consultado el 29 de septiembre de 2026 a través de Cetesdirecto y el IPAB. Las tasas cambian: revisa la tasa del día en el sitio oficial.
+
+
+
+#### ¿Y la bolsa?
+
+Invertir en acciones o fondos puede tener sentido para metas de largo plazo, con dinero que no necesitarás pronto y a través de intermediarios autorizados por la CNBV (M11 U05). No es para tu fondo de sequía.
+
+
+
+#### Casos
+
+
+**Caso 1. El negocio de boletos de Toño**
+
+Un conocido le ofrece a Toño 10% al mes en un negocio de reventa.
+- *¿Qué hace?* No invierte: es una promesa imposible y sin respaldo. Usa opciones seguras según sus metas.
+
+
+**Caso 2. El curso de Valeria**
+
+Valeria quiere pagar un curso en 8 meses.
+- *¿Dónde guarda ese dinero?* En Cetes o un pagaré bancario a un plazo que termine antes de la fecha del curso.
+
+
+**Caso 3. La GAT de Gael**
+
+Un banco anuncia a Gael una "tasa de 12%", pero su GAT real es 1%.
+- *¿Qué entiende?* Que después de inflación y costos, su dinero crece poco. Compara la GAT real con otras opciones.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Guardar todo en la cuenta de cheques | Pierdes contra la inflación | Separa por metas |
+| Invertir sin saber el plazo | No puedes sacar tu dinero a tiempo | Elige según tu meta |
+| Comparar solo la tasa anunciada | No ves los costos | Compara la GAT |
+| Creer en rendimientos altísimos | Pierdes todo | Verifica en CNBV y CONDUSEF |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Valeria y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Necesitas el dinero en 3 meses. ¿Qué opción es más adecuada? a) Cetes a 3 meses o menos · b) Acciones · c) Un plazo de 2 años
+2. ¿Qué indicador descuenta la inflación? a) GAT nominal · b) GAT real · c) Tasa anunciada
+3. Te ofrecen 10% mensual garantizado. ¿Qué es? a) Una gran oportunidad · b) Señal de fraude · c) Una inversión segura del gobierno
+**Respuestas:** 1-a: el plazo coincide con tu meta. 2-b: muestra la ganancia real. 3-b: nadie garantiza eso sin riesgo.
+
+
+
+#### Ponlo en práctica
+
+Escribe tus metas de ahorro con monto y fecha, y elige una opción para cada una.
+**Respuesta:** Por ejemplo: fondo de sequía 60,000, siempre disponible: BONDDIA. Laptop 25,000 en 6 meses: Cetes a 6 meses. Retiro: AFORE.
+
+
+
+#### A tu plan
+
+Separa tu dinero por metas y abre tu cuenta de Cetesdirecto si aún no la tienes.
+
+
+
+### Para saber más
+
+- **Cetesdirecto** (Gobierno de México · español): https://www.cetesdirecto.com — **Qué buscar:** tasas del día, plazos y BONDDIA.
+- **Calculadora de ahorro e inversión** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** "Simuladores" para comparar opciones.
+
+### Palabras clave
+
+- *GAT real:* ganancia después de descontar la inflación.
+- *Pagaré bancario:* depósito a plazo fijo en un banco.
+- *Liquidez:* qué tan rápido puedes usar tu dinero.
+
+### Fuentes
+
+Cetesdirecto · IPAB · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U04. Elige un seguro
+
+**Lo que lograrás:** Comparar seguros por suma asegurada, deducible, coaseguro, exclusiones y prima, y verificar a la aseguradora y al agente.
+
+**Para empezar:** Renata contrató un seguro de accidentes porque "era el más barato". Se lastimó un tobillo en un ensayo y descubrió que su póliza excluía lesiones "por actividades deportivas o artísticas". Pagó todo de su bolsa. En esta lección aprenderás a comparar seguros de verdad.
+
+### Lo esencial (5 minutos)
+
+#### Cinco palabras que debes entender
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Suma asegurada | Lo máximo que paga el seguro. | Que alcance para lo que te preocupa. |
+| Prima | Lo que tú pagas por el seguro. | Mensual o anual. |
+| Deducible | Lo que pagas tú antes de que pague el seguro. | Más alto, prima más baja. |
+| Coaseguro | El porcentaje que pagas tú después del deducible. | Revisa si tiene tope. |
+| Exclusiones | Lo que el seguro no cubre. | Léelas primero. |
+
+#### Lee las exclusiones primero
+
+Un seguro barato que excluye justo lo que te puede pasar no sirve. En el medio, revisa si excluye lesiones por actividades artísticas, deportivas o acrobáticas, o si cubre giras y viajes.
+
+
+
+#### Verifica aseguradora y agente
+
+La aseguradora debe estar autorizada y supervisada por la CNSF. El agente debe tener cédula vigente. Pídesela y verifícala.
+
+
+
+#### Un caso en un minuto
+
+Renata comparó tres pólizas leyendo primero las exclusiones. Eligió una que cubre lesiones en ensayos y funciones, aunque era un poco más cara.
+
+Verificó la cédula del agente y guardó la póliza completa en su carpeta.
+
+> **Idea clave:** el seguro más barato es el que paga cuando lo necesitas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es el deducible?
+*Respuesta:* Lo que pagas tú antes de que pague el seguro.
+
+2. ¿Qué lees primero de una póliza?
+*Respuesta:* Las exclusiones.
+
+
+#### Para recordar
+
+- Suma asegurada, prima, deducible, coaseguro y exclusiones.
+- Lee las exclusiones primero.
+- Verifica aseguradora y agente.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Cuánto pagas tú en un accidente
+
+Un gasto de 60,000 con deducible de 10,000 y coaseguro de 10%.
+- Deducible: **10,000**
+- Coaseguro: 10% de 50,000: **5,000**
+- Lo que pagas tú: **15,000**
+El seguro paga los otros 45,000.
+
+
+#### Comparación de Renata
+
+| | Póliza A | Póliza B | Póliza C |
+|---|---|---|---|
+| Prima anual | 3,200 | 4,500 | 4,100 |
+| Deducible | 5,000 | 3,000 | 5,000 |
+| Coaseguro | 10% | 10% | 10% |
+| ¿Cubre lesiones en ensayos? | No | Sí | Sí |
+| ¿Cubre giras? | No | Sí | No |
+
+Para Renata, que hace giras, la B es la que realmente la protege.
+
+
+
+#### Usa los simuladores
+
+CONDUSEF tiene simuladores y comparativos de seguros. Úsalos para comparar primas y coberturas antes de hablar con un agente.
+
+
+
+#### Seguros que te agregan sin pedir
+
+A veces un crédito o una tarjeta incluye un seguro que no pediste. Revisa si es obligatorio, cuánto cuesta y si puedes elegir tu propia aseguradora.
+
+> **Dato vigente:** supervisión de aseguradoras por la CNSF y verificación de agentes con cédula. Consultado el 29 de septiembre de 2026 a través de la CNSF y CONDUSEF.
+
+
+
+#### Casos
+
+
+**Caso 1. La póliza de Renata**
+
+La póliza más barata excluye lesiones por actividades artísticas.
+- *¿Le sirve?* No: excluye justo su riesgo. Elige una que cubra ensayos y funciones.
+
+
+**Caso 2. El agente de Gael**
+
+Un agente le ofrece a Gael un seguro de gastos médicos, pero no le muestra su cédula.
+- *¿Qué hace Gael?* Pide la cédula y la verifica antes de firmar o pagar.
+
+
+**Caso 3. El seguro de la tarjeta de Valeria**
+
+La tarjeta de Valeria incluye un seguro de 149 al mes que no pidió.
+- *¿Qué hace?* Revisa si es opcional y, si lo es, pide cancelarlo por escrito.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Elegir solo por precio | No te cubre cuando lo necesitas | Lee las exclusiones |
+| No verificar al agente | Riesgo de fraude | Pide y verifica su cédula |
+| No calcular deducible y coaseguro | Te sorprende lo que pagas | Haz la cuenta |
+| Aceptar seguros agregados | Pagas de más | Revisa si son opcionales |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Valeria y Renata. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Gasto de 40,000, deducible de 5,000 y coaseguro de 10%. ¿Cuánto pagas tú? a) 8,500 · b) 5,000 · c) 4,000
+2. ¿Qué parte de la póliza dice lo que NO cubre? a) Las exclusiones · b) La prima · c) La suma asegurada
+3. ¿Quién supervisa a las aseguradoras? a) CNSF · b) SAT · c) IMSS
+**Respuestas:** 1-a: 5,000 + 10% de 35,000 = 8,500. 2-a: por eso se leen primero. 3-a: la CNSF supervisa seguros.
+
+
+
+#### Ponlo en práctica
+
+Toma un seguro que tengas y anota su suma asegurada, prima, deducible, coaseguro y tres exclusiones.
+**Respuesta:** Por ejemplo: suma 500,000; prima 6,000 al año; deducible 8,000; coaseguro 10%; excluye deportes extremos, padecimientos previos y cirugía estética.
+
+
+
+#### A tu plan
+
+Guarda tus pólizas completas en tu carpeta y marca con color las exclusiones.
+
+
+
+### Para saber más
+
+- **Simuladores de seguros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** "Simuladores" y "Comparativos" de seguros.
+- **CNSF** (Gobierno de México · español): https://www.gob.mx/cnsf — **Qué buscar:** aseguradoras autorizadas y consulta de agentes.
+
+### Palabras clave
+
+- *Prima:* lo que pagas por el seguro.
+- *Deducible:* lo que pagas tú antes de que pague el seguro.
+- *Coaseguro:* porcentaje que pagas después del deducible.
+- *Exclusión:* lo que el seguro no cubre.
+
+### Fuentes
+
+CNSF · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U05. Elige un crédito: los números
+
+**Lo que lograrás:** Comparar créditos por CAT, tasa, comisiones, pago total y plazo, y no solo por el pago mensual.
+
+**Para empezar:** A Toño le ofrecen dos créditos de 100,000 para equipar su estudio. El primero pide 24 pagos de 5,100; el segundo, 36 pagos de 3,900. El segundo "se siente más barato". En realidad le cuesta 18,000 más. En esta lección aprenderás a comparar créditos con números.
+
+### Lo esencial (5 minutos)
+
+#### El pago mensual engaña
+
+Un pago mensual bajo puede esconder un crédito caro: más plazo, más intereses, más comisiones.
+
+Para comparar, mira siempre el **CAT** y el total que pagarás.
+
+
+
+#### Los dos créditos de Toño
+
+Ambos por 100,000.
+- Crédito A: 24 pagos de 5,100: **122,400**
+- Crédito B: 36 pagos de 3,900: **140,400**
+- El B cuesta 18,000 más: **-18,000**
+El pago más bajo sale más caro en total.
+
+
+#### Lo que comparas en un crédito
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| CAT | El costo total en un número. | Compara créditos del mismo tipo y plazo. |
+| Pago total | Todo lo que pagarás al final. | Multiplica pagos por plazo y suma comisiones. |
+| Plazo | Cuánto tiempo pagarás. | Más plazo, más intereses. |
+| Comisiones y seguros | Apertura, pago tardío, seguros incluidos. | Réstalos del dinero que recibes. |
+
+#### Un caso en un minuto
+
+Toño comparó el CAT y el pago total. Eligió el crédito A: pagos más altos, pero 18,000 menos al final. Revisó que el pago de 5,100 cupiera en su mes bajo (M6 U05).
+
+Como no cabía cómodo, pidió 70,000 en lugar de 100,000 y compró el equipo por partes.
+
+> **Idea clave:** compara el CAT y el total, no el pago mensual.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué indicador usas para comparar el costo de dos créditos?
+*Respuesta:* El CAT, además del pago total.
+
+2. ¿Un plazo más largo abarata el crédito?
+*Respuesta:* No. Baja el pago, pero sube el total.
+
+
+#### Para recordar
+
+- El pago mensual engaña.
+- Compara CAT y pago total.
+- Que el pago quepa en tu mes bajo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Qué incluye el CAT
+
+El CAT incluye intereses, comisiones y otros costos del crédito, expresado como porcentaje anual y sin IVA. Sirve para comparar créditos del mismo tipo y plazo.
+
+No es la tasa de interés: el CAT suele ser más alto porque suma todo.
+
+
+
+#### Comparación completa
+
+| | Crédito A | Crédito B |
+|---|---|---|
+| Monto | 100,000 | 100,000 |
+| Pagos | 24 de 5,100 | 36 de 3,900 |
+| Comisión por apertura | 2,000 | 0 |
+| Pago total | 124,400 | 140,400 |
+| Diferencia | | 16,000 más caro |
+
+Con la comisión de apertura, la diferencia baja a 16,000, pero A sigue siendo más barato.
+
+
+
+#### Usa los simuladores
+
+CONDUSEF y el Banco de México tienen simuladores y calculadoras del CAT. Pide al menos tres cotizaciones por escrito y compáralas con esas herramientas.
+
+> **Dato vigente:** el CAT incluye intereses, comisiones y otros costos, sin IVA, y se usa para comparar. Consultado el 29 de septiembre de 2026 a través del Banco de México y CONDUSEF.
+
+
+
+#### Pide la carátula
+
+Antes de firmar, pide la carátula: dice el CAT, la tasa, las comisiones, el plazo y el monto total a pagar. Si no te la dan, no firmes (M5 U07).
+
+
+
+#### Casos
+
+
+**Caso 1. Los dos créditos de Toño**
+
+El crédito B tiene pagos más bajos, pero cuesta 18,000 más.
+- *¿Cuál elige y qué revisa?* El A, más barato en total, siempre que el pago quepa en su mes bajo. Si no cabe, pide menos.
+
+
+**Caso 2. El préstamo de Renata**
+
+A Renata le ofrecen un préstamo "con tasa de 3% mensual".
+- *¿Qué pide para comparar?* El CAT y el pago total, y compara con otras dos opciones.
+
+
+**Caso 3. La comisión de Gael**
+
+Un crédito de 50,000 cobra 5% de apertura.
+- *¿Cuánto dinero recibe realmente Gael?* 47,500, aunque pagará intereses sobre 50,000.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Elegir por el pago mensual | Pagas más al final | Compara el total |
+| Ignorar comisiones de apertura | Recibes menos de lo que crees | Réstalas |
+| Comparar créditos de distinto plazo sin ajustar | Comparación falsa | Compara mismo plazo |
+| No pedir la carátula | No conoces el costo | Pídela siempre |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Renata y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Crédito de 12 pagos de 2,000 y otro de 18 pagos de 1,500, ambos por 20,000. ¿Cuál cuesta menos en total? a) El de 12 pagos (24,000) · b) El de 18 pagos (27,000) · c) Cuestan igual
+2. ¿Qué indicador suma intereses y comisiones? a) CAT · b) GAT · c) UDI
+3. Te cobran 4% de apertura en 30,000. ¿Cuánto recibes? a) 28,800 · b) 30,000 · c) 31,200
+**Respuestas:** 1-a: 24,000 contra 27,000. 2-a: el CAT es el costo total. 3-a: 30,000 menos 1,200.
+
+
+
+#### Ponlo en práctica
+
+Pide o simula dos cotizaciones de crédito y calcula el pago total de cada una.
+**Respuesta:** Por ejemplo: A, 12 pagos de 4,700 = 56,400; B, 24 pagos de 2,700 = 64,800. A cuesta 8,400 menos, si el pago cabe en mi mes bajo.
+
+
+
+#### A tu plan
+
+Antes de pedir cualquier crédito, consigue tres cotizaciones por escrito con CAT y pago total.
+
+
+
+### Para saber más
+
+- **Calculadora del CAT** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** "Calculadora del CAT" para comparar créditos.
+- **Simuladores de crédito** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** "Simulador de crédito personal y de nómina".
+
+### Palabras clave
+
+- *CAT:* costo anual total de un crédito.
+- *Pago total:* todo lo que pagas al final.
+- *Comisión por apertura:* cobro al otorgarte el crédito.
+
+### Fuentes
+
+Banco de México, CAT · CONDUSEF, simuladores, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U06. Elige un crédito: el tipo correcto para cada uso
+
+**Lo que lograrás:** Relacionar cada necesidad con el tipo de crédito adecuado y reconocer cuándo no conviene pedir crédito.
+
+**Para empezar:** Renata usó su tarjeta de crédito para pagar un curso de un año, la renta de dos meses y un celular a meses. Luego pidió un préstamo por app para pagar la tarjeta. Cada deuda era del tipo equivocado para lo que necesitaba. En esta lección aprenderás qué crédito sirve para qué.
+
+### Lo esencial (5 minutos)
+
+#### Dos grandes tipos de crédito
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Revolvente | Una línea que usas, pagas y vuelves a usar. Por ejemplo, la tarjeta. | Para gastos cortos que pagas completo. |
+| Simple | Un monto que pagas en pagos fijos hasta terminar. | Para compras planeadas grandes. |
+
+#### Qué crédito para qué uso
+
+| Necesidad | Crédito que suele convenir | Lo que no conviene |
+|---|---|---|
+| Compras del mes que pagas completo | Tarjeta, pagando el total | Pagar solo el mínimo |
+| Equipo de trabajo | Crédito simple o MSI que ya planeaste | Préstamo por app |
+| Auto | Crédito automotriz | Tarjeta de crédito |
+| Vivienda | Crédito hipotecario | Préstamos personales |
+| Renta o comida | Tu fondo de sequía | Cualquier crédito |
+
+
+
+#### Cuándo no pedir crédito
+
+Si vas a pagar gastos del día a día (renta, comida, servicios) con crédito porque no te alcanza, el crédito no resuelve el problema: lo hace más grande.
+
+En ese caso, usa tu fondo de sequía, recorta gastos o habla con tus acreedores (M8).
+
+
+
+#### Un caso en un minuto
+
+Renata dejó de usar la tarjeta para la renta. Pagó el celular a MSI que ya tenía y, para el curso, esperó a juntar la mitad y pidió un crédito simple pequeño con CAT más bajo que el de su tarjeta.
+
+> **Idea clave:** el tipo de crédito debe corresponder al uso y al tiempo en que lo pagarás.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué crédito conviene para comprar un auto?
+*Respuesta:* Un crédito automotriz, no la tarjeta.
+
+2. ¿Conviene pagar la renta con crédito?
+*Respuesta:* No. Usa tu fondo de sequía o ajusta gastos.
+
+
+#### Para recordar
+
+- Revolvente para lo corto; simple para lo planeado.
+- Nunca pagues el día a día con crédito.
+- Un crédito para pagar otro es señal de alerta.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Un crédito para pagar otro
+
+Pedir un préstamo para pagar tu tarjeta solo mueve la deuda. Solo tiene sentido si el nuevo crédito es mucho más barato, si cierras o dejas de usar la tarjeta y si el pago cabe en tu mes bajo (M8 U03).
+
+
+
+#### Casas de empeño
+
+Empeñar puede darte dinero rápido sin revisar tu historial, pero el costo suele ser alto y puedes perder tu prenda. Compara el costo y verifica que la casa esté registrada ante Profeco.
+
+
+
+#### Préstamos por app
+
+Algunos están autorizados y otros no. Aun los autorizados suelen ser caros. Verifícalos siempre en el SIPRES y en la CNBV, y compara el CAT (M9 U06).
+
+
+
+#### Crédito de tiendas y "compra ahora, paga después"
+
+Son fáciles de obtener y parecen pagos pequeños. Suma todos tus pagos a plazos antes de agregar otro: muchos pagos pequeños forman una deuda grande (M6 U03).
+
+> **Dato vigente:** registro de casas de empeño ante Profeco y verificación de prestadores en el SIPRES. Consultado el 29 de septiembre de 2026 a través de Profeco y CONDUSEF.
+
+
+
+#### Casos
+
+
+**Caso 1. La renta de Renata**
+
+Renata quiere pagar dos meses de renta con la tarjeta.
+- *¿Qué le conviene?* Usar su fondo de sequía o ajustar gastos; el crédito no resuelve un faltante recurrente.
+
+
+**Caso 2. El equipo de Toño**
+
+Toño necesita una consola de audio de 60,000.
+- *¿Qué tipo de crédito revisa?* Un crédito simple con CAT bajo, o MSI si el pago cabe en su mes bajo.
+
+
+**Caso 3. El préstamo para la tarjeta de Gael**
+
+Gael quiere pedir un préstamo por app para pagar su tarjeta.
+- *¿Qué revisa?* Si es más barato, si está registrado y si dejará de usar la tarjeta. Si no, no lo pide.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar el día a día con crédito | La deuda crece cada mes | Usa tu fondo de sequía |
+| Comprar auto con tarjeta | Intereses muy altos | Usa un crédito automotriz |
+| Pedir un crédito para pagar otro | Mueves la deuda | Solo si es más barato y dejas de usar el anterior |
+| Acumular pagos pequeños | Deuda grande sin darte cuenta | Suma tus pagos a plazos |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Renata y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué crédito es revolvente? a) La tarjeta de crédito · b) El hipotecario · c) El automotriz
+2. ¿Qué conviene para comprar equipo de trabajo planeado? a) Préstamo por app · b) Crédito simple con CAT bajo o MSI que quepan en tu presupuesto · c) Pagar solo el mínimo de la tarjeta
+3. No te alcanza para la renta este mes. ¿Qué haces primero? a) Usar tu fondo de sequía · b) Pedir un préstamo por app · c) Empeñar tu equipo de trabajo
+**Respuestas:** 1-a: la línea se usa y se vuelve a usar. 2-b: pagos fijos y costo menor. 3-a: el crédito no resuelve un faltante del día a día.
+
+
+
+#### Ponlo en práctica
+
+Lista tus créditos actuales y escribe para qué los usaste. ¿Alguno es del tipo equivocado?
+**Respuesta:** Por ejemplo: tarjeta usada para renta (equivocado), crédito simple para cámara (correcto), MSI de celular (correcto). Voy a dejar de pagar renta con tarjeta.
+
+
+
+#### A tu plan
+
+Escribe tu regla personal: "Nunca uso crédito para…" y pégala en tu cartera.
+
+
+
+### Para saber más
+
+- **Comparativos de crédito** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** comparativos de crédito personal, automotriz e hipotecario.
+- **Casas de empeño** (Profeco · español): https://www.gob.mx/profeco — **Qué buscar:** "Registro Público de Casas de Empeño".
+
+### Palabras clave
+
+- *Crédito revolvente:* línea que usas y vuelves a usar.
+- *Crédito simple:* monto con pagos fijos hasta terminar.
+- *Empeño:* préstamo con una prenda como garantía.
+
+### Fuentes
+
+CONDUSEF · Profeco, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U07. Lee el contrato antes de firmar
+
+**Lo que lograrás:** Revisar la carátula, el CAT, las comisiones, los seguros incluidos, las penalizaciones y el registro del contrato en el RECA.
+
+**Para empezar:** Gael firmó un crédito en una tableta, en dos minutos, sin leer. Luego descubrió un seguro de vida obligatorio de 450 al mes y una comisión por pago anticipado. Nadie se lo explicó, pero estaba en el contrato. En esta lección aprenderás qué leer antes de firmar.
+
+### Lo esencial (5 minutos)
+
+#### Cinco cosas que lees siempre
+
+1. **La carátula:** monto, plazo, CAT, tasa, pago y total a pagar.
+2. **Las comisiones:** apertura, pago tardío, pago anticipado, cobranza.
+3. **Los seguros incluidos:** si son obligatorios y si puedes elegir tu aseguradora.
+4. **Qué pasa si te atrasas:** intereses moratorios, cobranza, reporte a Buró.
+5. **Cómo cancelar o pagar antes:** si hay penalización.
+
+
+
+#### Tómate tu tiempo
+
+Nadie te puede obligar a firmar en ese momento. Pide la carátula y el contrato, llévatelos, léelos en casa o compáralos en el RECA de CONDUSEF.
+
+Si te presionan con "la oferta es solo hoy", es señal de alerta.
+
+
+
+#### Pregunta y pide por escrito
+
+Si algo no está claro, pregunta. Si te prometen algo que no está escrito ("ese seguro lo quitamos después"), pide que lo pongan por escrito.
+
+
+
+#### Un caso en un minuto
+
+En su siguiente crédito, Gael pidió la carátula antes de firmar. Vio el seguro obligatorio y preguntó si podía usar el suyo. Le dijeron que sí, presentando la póliza. Se ahorró 450 al mes.
+
+> **Idea clave:** lo que firmas es lo que vale. Lo que te prometen de palabra, no.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué documento resume lo más importante de un crédito?
+*Respuesta:* La carátula.
+
+2. Te dicen "firma ya, la oferta es solo hoy". ¿Qué haces?
+*Respuesta:* Pides tiempo para leer; la presión es señal de alerta.
+
+
+#### Para recordar
+
+- Lee carátula, comisiones, seguros, atrasos y cancelación.
+- Pide tiempo y documentos.
+- Lo prometido, por escrito.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Carátula de ejemplo
+
+| Dato | Crédito de Gael |
+|---|---|
+| Monto | 40,000 |
+| Plazo | 18 meses |
+| CAT | Anotado en la carátula, sin IVA |
+| Pago mensual | 2,950 |
+| Total a pagar | 53,100 |
+| Comisión por apertura | 1,200 |
+| Seguro | Vida, 450 al mes, obligatorio, puede ser externo |
+
+
+
+#### El RECA
+
+En el Registro de Contratos de Adhesión de CONDUSEF puedes leer el contrato de muchos productos antes de ir a la institución. Compara lo que te dan con lo registrado.
+
+
+
+#### Contratos en tableta o app
+
+Firmar en pantalla vale igual que en papel. Pide que te envíen copia del contrato y la carátula a tu correo antes de aceptar, y guárdalos.
+
+
+
+#### Pagar antes
+
+Tienes derecho a hacer pagos anticipados. Pregunta si se aplican a reducir el plazo o el monto de los pagos, y si hay alguna comisión.
+
+> **Dato por confirmar:** reglas vigentes sobre comisiones por pago anticipado en créditos al consumo. Consultado el 29 de septiembre de 2026 a través de CONDUSEF y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Antes de decidir, confírmalo en CONDUSEF o en el sitio oficial de la institución.
+
+
+
+#### Casos
+
+
+**Caso 1. El seguro de Gael**
+
+El crédito de Gael incluye un seguro de vida obligatorio de 450 al mes.
+- *¿Qué pregunta?* Si puede usar una póliza propia más barata que cumpla los requisitos.
+
+
+**Caso 2. La presión a Renata**
+
+A Renata le dicen que firme en ese momento porque "la tasa sube mañana".
+- *¿Qué hace?* Pide la carátula y el contrato, y se toma el tiempo para leerlos y comparar.
+
+
+**Caso 3. La promesa a Toño**
+
+Un ejecutivo le promete a Toño que "después le bajan la tasa".
+- *¿Qué hace?* Pide que esa promesa quede por escrito en el contrato; si no, no cuenta.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | Sorpresas caras | Lee la carátula y el contrato |
+| Aceptar promesas de palabra | No valen | Pide todo por escrito |
+| Firmar por presión | Decides mal | Pide tiempo |
+| No guardar copia | No puedes reclamar | Guarda contrato y carátula |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Renata y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué dato de la carátula te dice todo lo que pagarás? a) El total a pagar · b) El logotipo · c) La sucursal
+2. Te prometen de palabra que quitan un seguro. ¿Qué haces? a) Confías · b) Pides que quede por escrito · c) Firmas y reclamas después
+3. ¿Dónde puedes leer contratos registrados de productos financieros? a) En el RECA de CONDUSEF · b) En el SAT · c) En las redes del banco
+**Respuestas:** 1-a: incluye pagos y costos. 2-b: lo escrito es lo que vale. 3-a: es el registro oficial.
+
+
+
+#### Ponlo en práctica
+
+Toma el contrato o la carátula de un crédito que tengas y encuentra: CAT, total a pagar, comisiones y seguros incluidos.
+**Respuesta:** Por ejemplo: CAT anotado en la carátula; total 53,100; apertura 1,200 y pago tardío 350; seguro de vida obligatorio que puedo sustituir.
+
+
+
+#### A tu plan
+
+Guarda en una carpeta la carátula y el contrato de cada crédito que tienes.
+
+
+
+### Para saber más
+
+- **RECA** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** "Registro de Contratos de Adhesión" y el producto que quieres revisar.
+- **Tus derechos al contratar** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** guías sobre crédito y lo que te deben informar.
+
+### Palabras clave
+
+- *Carátula:* resumen de las condiciones del crédito.
+- *Pago anticipado:* pagar antes de lo pactado.
+- *Interés moratorio:* interés extra por pagar tarde.
+
+### Fuentes
+
+CONDUSEF · Ley para la Transparencia y Ordenamiento de los Servicios Financieros, consultados el 29 de septiembre de 2026.
+
+---

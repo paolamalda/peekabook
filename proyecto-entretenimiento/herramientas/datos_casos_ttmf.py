@@ -106,4 +106,119 @@ CASOS = {
  ("En el RECA o pidiendo la carátula.", "En las redes sociales del banco.", "Solo después de que se la entreguen."),
  ("Inscribirse en el REUS.", "Cambiar de número celular.", "Contestar y pedir que no llamen."),
 ],
+"M5 U01": [
+ ("Autorización, quejas y comisiones.", "Solo que el regalo sea útil.", "Que la sucursal quede cerca."),
+ ("Dónde depositar efectivo y cuánto cuesta.", "Si la tarjeta tiene diseño metálico.", "Si el banco patrocina eventos."),
+ ("Cajeros sin comisión, app y costos de retiro.", "Solo el número de sucursales en su ciudad.", "Que el banco tenga programa de puntos."),
+],
+"M5 U02": [
+ ("Cambia a una cuenta sin comisión de manejo.", "Sigue pagando porque ya tiene la cuenta.", "Deja la cuenta sin usar y sin cancelar."),
+ ("La portabilidad de nómina, sin costo.", "Nada: el patrón decide el banco.", "Que le paguen en efectivo cada mes."),
+ ("Cambia a una cuenta con límite adecuado.", "Divide el depósito entre sus amigas.", "Deja de aceptar pagos grandes."),
+],
+"M5 U03": [
+ ("No invierte y usa opciones seguras.", "Invierte la mitad para probar.", "Invierte todo antes de que se llene."),
+ ("En Cetes o pagaré a un plazo menor.", "En acciones para que crezca más.", "En su cuenta de gastos diaria."),
+ ("Que crece poco: compara la GAT real.", "Que ganará 12% libre de inflación.", "Que es la mejor opción del mercado."),
+],
+"M5 U04": [
+ ("No: elige una que cubra ensayos.", "Sí, porque es la más barata.", "Sí, y agrega otra póliza igual."),
+ ("Pide la cédula y la verifica.", "Firma: el agente se ve serio.", "Paga en efectivo para agilizar."),
+ ("Revisa si es opcional y lo cancela.", "Lo paga porque viene con la tarjeta.", "Cancela la tarjeta completa."),
+],
+"M5 U05": [
+ ("El A, si el pago cabe; si no, pide menos.", "El B, porque el pago mensual es menor.", "Los dos, para tener más dinero."),
+ ("El CAT y el pago total, y compara.", "Nada: 3% mensual es muy barato.", "Solo el plazo que le ofrecen."),
+ ("47,500, aunque paga sobre 50,000.", "50,000 completos.", "52,500 con la comisión."),
+],
+"M5 U06": [
+ ("Usar su fondo o ajustar gastos.", "Pagar la renta con la tarjeta.", "Pedir un préstamo por app."),
+ ("Crédito simple con CAT bajo o MSI.", "Préstamo por app, porque es rápido.", "Pagar solo el mínimo de su tarjeta."),
+ ("Si es más barato, registrado y deja la tarjeta.", "Nada: cualquier préstamo sirve para pagar.", "Pide dos préstamos para pagar más rápido."),
+],
+"M5 U07": [
+ ("Si puede usar una póliza propia más barata.", "Nada: los seguros siempre son obligatorios.", "Deja de pagar el seguro sin avisar."),
+ ("Pide carátula y contrato y se toma el tiempo.", "Firma para no perder la tasa de hoy.", "Pide que se lo expliquen por teléfono."),
+ ("Pide que la promesa quede por escrito.", "Firma y confía en el ejecutivo.", "Graba la promesa con su celular."),
+],
+"M6 U01": [
+ ("Que debe 95,000, no que tiene 180,000.", "Que tiene 85,000 libres para gastar.", "Que ya puede pedir otra tarjeta."),
+ ("Que es más deuda posible; puede rechazarlo.", "Que el banco le paga más por ser buen cliente.", "Que ya puede gastar el doble cada mes."),
+ ("Con qué ingreso la paga y cuándo.", "Cuántos puntos le da la tarjeta.", "Si le alcanza el disponible de hoy."),
+],
+"M6 U02": [
+ ("Sube su pago y deja de usar la tarjeta.", "Sigue pagando el mínimo para no atrasarse.", "Pide otra tarjeta para pagar esta."),
+ ("El pago para no generar intereses.", "El mínimo, porque es el más cómodo.", "Solo la mitad del saldo total."),
+ ("Paga de inmediato y programa recordatorios.", "Espera al siguiente mes para pagar doble.", "Deja de pagar porque ya se atrasó."),
+],
+"M6 U03": [
+ ("No la agrega hasta terminar otras.", "La agrega: una más no se nota.", "La paga con otra tarjeta nueva."),
+ ("No: el viaje termina antes que los pagos.", "Sí: sin intereses siempre conviene.", "Sí, si elige 18 meses en vez de 12."),
+ ("Sí, si el pago cabe y cuesta igual.", "No, los MSI nunca convienen.", "Sí, aunque cueste más que de contado."),
+],
+"M6 U04": [
+ ("Junta estados de cuenta y pide sus reportes.", "Sigue calculando a ojo cuánto debe.", "Espera a que le llamen para saber cuánto."),
+ ("Sí, y acuerda un plan por escrito.", "No, porque su tía no cobra intereses.", "Solo si su tía se la pide pronto."),
+ ("Revisa y reclama con su comprobante.", "Lo paga otra vez para no tener problemas.", "Lo ignora porque ya lo había pagado."),
+],
+"M6 U05": [
+ ("Reduce su deuda hasta bajar de 35%.", "Pide otro crédito para pagar el auto.", "Espera a que lleguen meses mejores."),
+ ("No: sumaría 50% de su mes bajo.", "Sí, porque el banco ya lo aprobó.", "Sí, si lo paga con sus meses buenos."),
+ ("Calcular con su mes bajo de 15,000.", "Seguir con su promedio de 35,000.", "Usar su mejor mes para calcular."),
+],
+"M6 U06": [
+ ("Usa su fondo, recorta y busca ingreso puente.", "Usa la tarjeta como la vez anterior.", "Pide un préstamo por app para la renta."),
+ ("Sí: puede usar crédito con plan de pago.", "No, nunca debe usar crédito para nada.", "Sí, y aprovecha para comprar dos cámaras."),
+ ("Habla con su casero, recorta y busca ingreso.", "Pide el préstamo por app sin revisarlo.", "Deja de pagar la renta sin avisar."),
+],
+"M7 U01": [
+ ("Que guarda su historial y puede mejorarlo.", "Que está marcado y no hay nada que hacer.", "Que debe pagar para salir de la lista."),
+ ("No tiene historial: empieza con algo pequeño.", "Está en la lista negra del Buró.", "El Buró le prohibió tener tarjetas."),
+ ("No: su propia consulta no la afecta.", "Sí: cada consulta le quita puntos.", "Sí, por eso nunca debe pedirlo."),
+],
+"M7 U02": [
+ ("Pide su reporte en Círculo y lo resuelve.", "Reclama en Buró, que es el que revisó.", "Pide el crédito en otro banco sin revisar."),
+ ("No necesariamente: su banco reporta a una.", "Sí: todo crédito debe estar en las dos.", "Sí, y debe cancelar su tarjeta."),
+ ("Investiga y reclama si no la autorizó.", "La ignora porque es solo una consulta.", "Pide un crédito en esa financiera."),
+],
+"M7 U03": [
+ ("Reporta, pide reportes oficiales y bloquea.", "Espera a ver si pasa algo más grave.", "Vuelve a consultar en la misma página."),
+ ("Pide sus reportes para corregir a tiempo.", "Espera a que le nieguen para revisar.", "Pide cinco créditos para ver cuál sale."),
+ ("Alterna: Buró en enero y Círculo en julio.", "Paga una app que le muestre todo al mes.", "Pide dos veces al año en la misma."),
+],
+"M7 U04": [
+ ("Busca la clave y reclama si es error.", "Paga la cuenta otra vez por si acaso.", "Ignora la clave porque ya pagó."),
+ ("Reclama con su carta de liquidación.", "Paga los 8,000 para que desaparezca.", "Espera a que se corrija sola."),
+ ("Investiga las que no reconoce y reclama.", "Nada: las consultas no importan.", "Pide más créditos para compensar."),
+],
+"M7 U05": [
+ ("No cada mes: basta su reporte gratis.", "Sí: sin pagar la app no sabe nada.", "Sí, y además paga otra app igual."),
+ ("Pagarlas y cerrar poco a poco las que no usa.", "Cerrar las cinco hoy mismo.", "Pedir otras cinco para subir su línea."),
+ ("No paga: es fraude.", "Paga si le dan factura.", "Paga la mitad por adelantado."),
+],
+"M7 U06": [
+ ("No debería: el plazo para ese monto es de 4 años.", "Sí, porque los atrasos no se borran nunca.", "Sí, hasta que pague a un despacho especial."),
+ ("Hasta 6 años: pasa de 1,000 UDIS.", "Solo 1 año, como cualquier deuda.", "Para siempre, porque es tarjeta."),
+ ("No: la deuda sigue; mejor negociar.", "Sí: si espera, ya no debe nada.", "Sí, y además le borran la deuda."),
+],
+"M7 U07": [
+ ("Reclama con su carta y guarda el folio.", "Paga los 8,000 para no discutir.", "Contrata un despacho para reclamar."),
+ ("Reclama por robo de identidad y denuncia.", "Paga el crédito para no tener problemas.", "Espera a que la financiera lo busque."),
+ ("Acude a CONDUSEF con folio y pruebas.", "Presenta la misma reclamación otra vez.", "Paga a un despacho para acelerar."),
+],
+"M7 U08": [
+ ("Activa bloqueo y alertas y revisa reportes.", "Cambia de celular y espera.", "Cierra todas sus cuentas bancarias."),
+ ("Desbloquea antes y bloquea después.", "Pide el crédito con el bloqueo activo.", "Cancela el bloqueo para siempre."),
+ ("Revisa, contacta a la institución y reclama.", "Ignora la alerta: seguro es un error.", "Desactiva las alertas para no preocuparse."),
+],
+"M7 U09": [
+ ("No paga y abona ese dinero a su deuda.", "Paga porque dicen que es garantizado.", "Paga la mitad y el resto al final."),
+ ("Guarda pruebas, denuncia y reporta.", "Paga más para que terminen el trabajo.", "Lo deja así porque ya perdió el dinero."),
+ ("No da dinero ni datos; reclama él mismo.", "Le da sus datos para ver qué logra.", "Le paga poco para probar si funciona."),
+],
+"M7 U10": [
+ ("Reportes, ponerse al corriente y bajar tarjetas.", "Pedir tres créditos para ver cuál aprueban.", "Pagar un servicio para mejorar su score."),
+ ("Una tarjeta pequeña o garantizada, pagada completa.", "Un crédito grande para que la tomen en serio.", "Un préstamo por app para empezar rápido."),
+ ("No: mejor comparar antes y pedir solo una.", "Sí: así aumenta sus posibilidades.", "Sí, si las pide el mismo día."),
+],
 }
