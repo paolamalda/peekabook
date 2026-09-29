@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 68 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 72 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -43,7 +43,7 @@ Por eso el crédito es el eje del programa (módulos 4 a 8), sin recortar lo fis
 
 | Personaje | Perfil | Reto principal |
 |---|---|---|
-| **Gael** (32) | Actor de TV, teatro y streaming. Cobra a veces por Asimilados y a veces factura en RESICO | Los meses sin llamados y no tener seguro médico |
+| **Gael** (32) | Actor de TV, teatro y streaming. Cobra a veces por Asimilados y a veces factura. No sabe que esa combinación puede sacarlo de RESICO | Los meses sin llamados y no tener seguro médico |
 | **Valeria** (28) | Cantante, modelo y creadora de contenido. Cobra eventos, campañas y publicidad; recibe regalías ocasionales | Mánager sin contrato claro, gastos de imagen y facturación |
 | **Renata** (35) | Bailarina y coreógrafa. Tiene 6 tarjetas, un crédito de tienda departamental y un préstamo por app | Cree que su línea de crédito es parte de su ingreso |
 | **Toño** (41) | Músico de sesión y técnico de audio. Tiene un atraso reportado en Buró y le llaman de cobranza | Quiere un crédito para su estudio y no sabe por qué se lo niegan |
@@ -89,7 +89,11 @@ Gancho: Gael gasta 18,000 al mes y suele pasar 4 meses entre producciones: su me
 Objetivo: elegir un lugar seguro, que no pierda contra la inflación y del que puedas sacar dinero rápido.
 Opciones que enseñamos a comparar:
 - **Cetes en Cetesdirecto:** valores del gobierno federal, desde 100 pesos, sin comisiones. BONDDIA permite retirar al día siguiente.
-- **Inversión o cuenta a la vista en un banco**, incluidos bancos digitales como Nu o Revolut. Verifica que la entidad sea un banco autorizado por la CNBV y que el producto esté protegido por el IPAB (hasta 400,000 UDIS por persona y por banco). [POR CONFIRMAR: el estatus bancario de cada entidad a la fecha de publicación]
+- **Inversión o cuenta a la vista en un banco**, incluidos bancos digitales. A septiembre de 2026:
+  - **Revolut** recibió de la CNBV, con aprobación de Banxico, la autorización para operar como institución de banca múltiple; inició con una fase beta antes de su lanzamiento amplio.
+  - **Nu México** era SOFIPO; recibió en abril de 2025 la autorización para constituirse como banco, y en julio de 2026 la CNBV le autorizó iniciar operaciones como banco. [POR CONFIRMAR en el padrón de la CNBV antes de publicar: que todos los productos de ahorro ya estén en el banco y no en la SOFIPO]
+  - En cualquier banco, el IPAB protege los depósitos hasta 400,000 UDIS por persona y por banco (unos 3.4 millones de pesos).
+  - Regla para la persona: antes de depositar, busca la entidad en el padrón de la CNBV y confirma que el nombre legal del contrato diga "Institución de Banca Múltiple".
 
 Qué comparar: rendimiento anual (GAT nominal y real), si puedes retirar al día, comisiones y protección.
 Se evita: invertir el fondo en acciones o en fondos que pueden bajar (por ejemplo, NAFTRAC); tampoco se recomiendan SOFIPO ni SOCAP.
@@ -110,12 +114,18 @@ Objetivo: conocer cómo funciona cada régimen para preparar la conversación co
 
 | Régimen | Cómo paga ISR | Deducciones | Lo que hay que saber |
 |---|---|---|---|
-| RESICO (personas físicas) | Tasa de 1% a 2.5% sobre lo que cobras, según tu ingreso del mes. Si facturas a una empresa (persona moral), te retiene 1.25% | **No permite deducir gastos** | Límite de 3.5 millones al año. Cobras IVA en tus servicios |
+| RESICO (personas físicas) | Tasa de 1% a 2.5% sobre lo que cobras (sin IVA), según tu ingreso del mes. Pagos mensuales definitivos. Si facturas a una empresa (persona moral), te retiene 1.25%, que acreditas en tu pago del mes | **No permite deducir gastos ni aplicar deducciones personales** | Límite de 3.5 millones al año. Cobras IVA en tus servicios. No pueden entrar, entre otros, socios o accionistas de empresas y quienes cobran honorarios asimilados a salarios |
 | Asimilados a salarios | La empresa retiene ISR con la tarifa de sueldos, hasta 35% | No aplica deducciones del negocio | No es relación laboral: no hay IMSS, aguinaldo ni prestaciones |
 | Actividad empresarial y profesional | Tarifa progresiva, hasta 35%, sobre ingresos menos gastos deducibles | **Sí permite deducir** gastos del negocio con factura (CFDI) | Pagos provisionales mensuales. Si facturas a una empresa, te retiene 10% de ISR y dos terceras partes del IVA |
 
-Tabla mensual de RESICO: hasta 25,000, 1%; hasta 50,000, 1.1%; hasta 83,333.33, 1.5%; hasta 208,333.33, 2%; hasta 3.5 millones al año, 2.5%. [POR CONFIRMAR con la LISR vigente]
-Gancho: Gael no sabe si le conviene RESICO: gasta mucho en vestuario y cursos, y en RESICO nada de eso se deduce.
+Tabla mensual de RESICO (artículo 113-E de la LISR, sin cambios para 2026): hasta 25,000, 1%; hasta 50,000, 1.1%; hasta 83,333.33, 1.5%; hasta 208,333.33, 2%; hasta 3.5 millones al año, 2.5%.
+
+Tres puntos que la lección aclara:
+- **Asimilados y RESICO.** Si una productora te paga honorarios como asimilados a salarios (porque así lo pediste por escrito o porque le prestas servicios de forma preponderante), la ley te excluye de RESICO. Esa combinación, común en el medio, se revisa con el contador.
+- **Sin deducciones.** RESICO no permite restar gastos del negocio ni deducciones personales (gastos médicos, colegiaturas, PPR).
+- **Declaración anual.** La ley (artículo 113-G) la pide, pero la Resolución Miscelánea Fiscal ha liberado de presentarla en ciertos casos a partir del ejercicio 2024. [POR CONFIRMAR cada año con la RMF vigente]
+
+Gancho: Gael no sabe si le conviene RESICO: gasta mucho en vestuario y cursos, que en RESICO no se deducen, y una productora le paga como asimilado.
 
 **M2 U02 · El IVA: el dinero que cobras pero no es tuyo**
 Objetivo: entender que el IVA que cobras en tus facturas se entera al SAT (menos el que te retengan y el IVA acreditable) y apartarlo de inmediato.
@@ -130,7 +140,7 @@ Objetivo: conocer tu calendario: facturación CFDI 4.0, declaraciones mensuales,
 Gancho: Toño dejó de declarar dos años porque "casi no facturaba" y le llegó una carta invitación del SAT.
 
 **M2 U05 · Deducciones personales y tu declaración anual**
-Objetivo: conocer las deducciones personales (gastos médicos, colegiaturas, aportaciones a retiro) y en qué regímenes aplican. [POR CONFIRMAR: si aplican a personas que tributan en RESICO]
+Objetivo: conocer las deducciones personales (gastos médicos, colegiaturas, aportaciones a retiro, PPR) y saber que aplican en la declaración anual de sueldos, asimilados y actividad empresarial, pero no a los ingresos de RESICO.
 
 ## Módulo 3. Contratos, representación y regalías
 
@@ -145,16 +155,22 @@ Objetivo: distinguir entre ceder, licenciar y autorizar el uso de tu imagen y de
 Objetivo: pactar por escrito la comisión (normalmente entre 10% y 20%), sobre qué monto se cobra, qué gastos se descuentan y cómo te rinden cuentas.
 Gancho: el mánager de Valeria cobra su comisión sobre el pago con IVA incluido y además descuenta "gastos de representación" sin comprobante.
 
-**M3 U04 · Regalías: ¿quién cobra qué en México?**
-Objetivo: identificar a qué sociedad de gestión colectiva te corresponde afiliarte:
-- **ANDI:** intérpretes del medio audiovisual (actuación en TV, cine y plataformas).
-- **SACM:** autores y compositores de música.
-- **EJE (Sociedad Mexicana de Ejecutantes de Música):** músicos intérpretes y ejecutantes.
-- **SOMEXFON:** productores de fonogramas.
-- **ANDA:** es el sindicato de actores, no una sociedad de gestión de regalías.
+**M3 U04 · ANDA, ANDI y las organizaciones del medio en México: ¿quién hace qué?**
+Objetivo: saber a qué organización mexicana acudir según lo que necesitas:
+
+| Organización | Qué es | Para qué te sirve |
+|---|---|---|
+| **ANDA** (Asociación Nacional de Actores) | Sindicato de actrices y actores de cine, teatro, radio, televisión, doblaje, stunts y centros nocturnos | Tu actividad laboral: agremiación, contratos, tabuladores, condiciones de trabajo y servicios para sus agremiados, incluidos servicios de salud [POR CONFIRMAR: servicios vigentes] |
+| **ANDI** (Asociación Nacional de Intérpretes) | Sociedad de gestión colectiva autorizada por INDAUTOR | Cobra y reparte tus regalías como intérprete por retransmisiones de programas, telenovelas, películas y fonogramas, en México y el extranjero |
+| **SACM** (Sociedad de Autores y Compositores de México) | Sociedad de gestión colectiva | Regalías de autores y compositores de música |
+| **EJE** (Ejecutantes) | Sociedad de gestión colectiva | Regalías de músicos ejecutantes y cantantes de agrupaciones |
+| **SOMEXFON** | Sociedad de gestión colectiva | Derechos de los productores de fonogramas (disqueras y quienes producen sus propias grabaciones) |
+
+Idea clave: muchas personas creen que la ANDA cobra las regalías; la ANDA regula la actividad laboral y la ANDI administra las regalías. Puedes pertenecer a las dos.
+Gancho: Gael es miembro de la ANDA y cree que ahí le llegan sus regalías de una telenovela que se retransmite en Sudamérica.
 
 **M3 U05 · Cómo cobro mis regalías y reviso mis pagos**
-Objetivo: afiliarte, registrar tus obras o interpretaciones, revisar tus liquidaciones y saber cómo se declaran esos ingresos. [POR CONFIRMAR: tratamiento fiscal de regalías e IVA por derechos de autor]
+Objetivo: afiliarte a la sociedad que te corresponde (ANDI, SACM, EJE o SOMEXFON), registrar tus obras o interpretaciones, revisar tus liquidaciones, desconfiar de gestores que cobran por "recuperar regalías" y saber que esos ingresos se declaran. [POR CONFIRMAR con contador: tratamiento de ISR e IVA de regalías por derechos de autor]
 
 **M3 U06 · Cuando la productora no paga**
 Objetivo: documentar, reclamar por escrito, conocer penalizaciones pactadas y cuándo acudir a un abogado o a PROFEDET (si hay relación laboral).
@@ -222,27 +238,52 @@ Gancho: Gael pagó la renta de cuatro meses sin llamados con la tarjeta y ahora 
 
 ## Módulo 7. Buró y Círculo de Crédito
 
+Marco: Ley para Regular las Sociedades de Información Crediticia (LRSIC) y reglas del Banco de México para esas sociedades (Circular 27/2008 y sus modificaciones). Orientación de CONDUSEF.
+
 **M7 U01 · ¿Qué son el Buró y el Círculo de Crédito?**
-Objetivo: entender que son sociedades de información crediticia que guardan tu historial. No son una "lista negra" ni deciden si te prestan.
+Objetivo: entender que son sociedades de información crediticia: guardan tu historial y lo entregan a quien tú autorizas. No son una "lista negra", no prestan dinero y no deciden si te aprueban: decide la institución.
 
-**M7 U02 · Pide tu reporte gratis y léelo**
-Objetivo: obtener tu reporte de crédito especial gratis una vez cada 12 meses en cada sociedad, y leer cuentas, saldos, atrasos, claves de observación y consultas.
+**M7 U02 · Buró y Círculo: ¿en qué se parecen y en qué no?**
+Objetivo: saber que hay dos sociedades con la misma función, que cada institución reporta a una, a la otra o a ambas, y que por eso tu información puede ser distinta en cada una. Revisa las dos.
+Gancho: Toño revisó su Buró y todo estaba bien, pero le negaron un crédito por un atraso que solo aparece en Círculo.
 
-**M7 U03 · Tu score: qué lo sube y qué lo baja**
-Objetivo: conocer los factores (pagos a tiempo, uso de tu línea, antigüedad, consultas, tipos de crédito) y saber que el score cuesta y es distinto al reporte.
+**M7 U03 · Pide tus reportes gratis: dos al año**
+Objetivo: obtener tu Reporte de Crédito Especial gratis la primera vez y después una vez cada 12 meses en **cada** sociedad: uno en Buró y otro en Círculo. Se pide en sus sitios oficiales con tus datos y preguntas de seguridad; los reportes extra tienen costo (en Buró, unos 47 pesos por internet [POR CONFIRMAR]).
+Regla: pídelo solo en los sitios oficiales. Nadie más "te consulta el Buró gratis" a cambio de tus datos.
 
-**M7 U04 · ¿Cuánto tiempo se queda un atraso?**
-Objetivo: conocer los plazos de permanencia según el monto de la deuda, medido en UDIS (1, 2, 4 o 6 años). [POR CONFIRMAR con la Ley para Regular las Sociedades de Información Crediticia vigente]
+**M7 U04 · Lee tu reporte**
+Objetivo: identificar cuentas, otorgante, saldo, límite, forma de pago y atrasos, claves de observación (por ejemplo, cuenta liquidada con quita) y la lista de quién consultó tu historial en los últimos 24 meses.
+
+**M7 U05 · Tu score: qué lo sube y qué lo baja**
+Objetivo: saber que el score (como Mi Score de Buró) es un producto aparte y con costo, distinto del reporte gratuito, y conocer lo que lo mueve: pagos a tiempo, uso de tu línea, antigüedad, consultas y tipos de crédito.
+
+**M7 U06 · ¿Cuánto tiempo se queda un atraso?**
+Objetivo: conocer los plazos para que se elimine una deuda del historial, según su monto en UDIS:
+
+| Monto de la deuda | Se elimina después de |
+|---|---|
+| Hasta 25 UDIS | 1 año |
+| Más de 25 y hasta 500 UDIS | 2 años |
+| Más de 500 y hasta 1,000 UDIS | 4 años |
+| Más de 1,000 UDIS | 6 años |
+
+No se eliminan por plazo las deudas mayores a 400,000 UDIS, las que están en juicio y las relacionadas con un fraude. Eliminar el registro no borra la deuda: el acreedor puede seguir cobrando. [POR CONFIRMAR con LRSIC y Circular 27/2008: desde qué fecha se cuenta el plazo]
 Gancho: Toño cree que su atraso de hace siete años "lo tiene marcado de por vida".
 
-**M7 U05 · Si hay un error: reclama gratis**
-Objetivo: presentar una reclamación en línea ante el Buró o el Círculo de Crédito y, si no se resuelve, ante CONDUSEF.
+**M7 U07 · Si hay un error: reclama paso a paso**
+Objetivo: presentar una reclamación ante la unidad especializada del Buró o del Círculo, por escrito o en línea, con copia de tu reporte, los registros que impugnas y tus pruebas (por ejemplo, la carta de liquidación). La sociedad pide la información a la institución; si esta no la sustenta, el registro se corrige o se elimina. Hay reclamaciones gratuitas al año (en Círculo, dos gratis y las siguientes con costo) [POR CONFIRMAR: número de reclamaciones gratuitas y plazo de respuesta en LRSIC arts. 42 a 45]. Si no se resuelve, acude a CONDUSEF.
 
-**M7 U06 · Despachos que "limpian tu Buró": fraude**
-Objetivo: reconocer que nadie puede borrar información correcta y que esos cobros son fraude.
+**M7 U08 · Protege tu historial: bloqueo y alertas**
+Objetivo: conocer los servicios de protección:
+- **Bloqueo de Buró:** mientras está activo, nadie puede consultar tu historial, así que nadie puede abrir un crédito a tu nombre. Lo desbloqueas cuando tú vas a pedir un crédito. [POR CONFIRMAR: condiciones y costo vigentes]
+- **Alertas Buró:** te avisa cada vez que alguien consulta tu historial o se abre un crédito a tu nombre (con costo anual, unos 232 pesos [POR CONFIRMAR]).
+- Servicios equivalentes de Círculo de Crédito. [POR CONFIRMAR]
 
-**M7 U07 · Cómo mejorar tu historial paso a paso**
-Objetivo: seguir un plan de 6 a 12 meses: pagar a tiempo, bajar el uso de tus tarjetas, no pedir créditos seguidos y regularizar los atrasos.
+**M7 U09 · Despachos que "limpian tu Buró": fraude**
+Objetivo: reconocer que nadie puede borrar información correcta, que las reclamaciones las haces tú y son gratuitas, y que esos cobros son fraude.
+
+**M7 U10 · Cómo mejorar tu historial paso a paso**
+Objetivo: seguir un plan de 6 a 12 meses: pagar a tiempo, bajar el uso de tus tarjetas, no pedir créditos seguidos, regularizar los atrasos y revisar tus dos reportes cada año.
 
 ## Módulo 8. Sal de deudas
 
@@ -276,7 +317,7 @@ Gancho: Gael recibe por Instagram un "casting para una serie de plataforma" que 
 Objetivo: identificar SMS, WhatsApp, correos y páginas que imitan a tu banco, al SAT, a paqueterías o a plataformas. Nunca compartir NIP, contraseñas, códigos de verificación ni el CVV.
 
 **M9 U04 · Robo de identidad: cuando usan tu nombre**
-Objetivo: reconocer las señales (créditos que no pediste, cobranza de deudas ajenas, consultas desconocidas en tu reporte), cuidar tu INE, CURP, RFC y firma, y saber qué hacer: reclamar a la institución, reclamar ante el Buró o el Círculo de Crédito, acudir a CONDUSEF y presentar denuncia. [POR CONFIRMAR: alertas o bloqueos que ofrecen las sociedades de información crediticia]
+Objetivo: reconocer las señales (créditos que no pediste, cobranza de deudas ajenas, consultas desconocidas en tu reporte), cuidar tu INE, CURP, RFC y firma, y saber qué hacer: activar el bloqueo de Buró y las alertas (M7 U08), reclamar a la institución y ante el Buró o el Círculo, acudir a CONDUSEF y presentar denuncia.
 Gancho: a Toño le llega una cobranza por un préstamo que nunca pidió, abierto con una copia de su INE que dejó en un casting.
 
 **M9 U05 · Tus redes y tu teléfono: robo de cuentas y cambio de SIM**
@@ -299,8 +340,9 @@ Objetivo: seguir los pasos en orden: bloquear tarjetas y accesos, llamar a tu in
 **M10 U01 · Sin seguro de empresa: el Seguro de Gastos Médicos Mayores**
 Objetivo: comparar suma asegurada, deducible, coaseguro, tabulador y exclusiones.
 
-**M10 U02 · IMSS para personas trabajadoras independientes**
-Objetivo: conocer la incorporación voluntaria al IMSS para trabajadores independientes (atención médica, incapacidades, AFORE) y cuánto cuesta. Conocer también los servicios de salud de ANDA para sus agremiados. [POR CONFIRMAR: modalidad, cuotas y coberturas vigentes]
+**M10 U02 · IMSS Modalidad 10: seguridad social para independientes**
+Objetivo: conocer la Modalidad 10 (incorporación voluntaria al régimen obligatorio para personas trabajadoras independientes), que desde la reforma de diciembre de 2023 es un derecho permanente: atención médica, incapacidades, invalidez y vida, retiro en tu AFORE y aportaciones a Infonavit. La cuota depende del ingreso que registres; se calcula con la calculadora del IMSS. Conocer también los servicios de salud de ANDA para sus agremiados. [POR CONFIRMAR: cuotas 2026 y servicios de ANDA]
+Gancho: Gael lleva seis años sin IMSS desde su último contrato de nómina.
 
 **M10 U03 · Si no puedes trabajar: incapacidad, invalidez y accidentes**
 Objetivo: proteger tu ingreso si una lesión o enfermedad te impide grabar, cantar o bailar. Qué cubren los seguros de accidentes e incapacidad y qué preguntar sobre coberturas especiales de voz o cuerpo.
@@ -323,22 +365,29 @@ Gancho: Valeria cobra 400,000 por una campaña; hace un año gastó una cantidad
 **M11 U02 · Tu AFORE: encuéntrala y súmale**
 Objetivo: localizar tu AFORE con tu CURP (e-SAR o AforeMóvil), actualizar beneficiarios y hacer aportaciones voluntarias.
 
-**M11 U03 · Plan Personal de Retiro (PPR) y aportaciones deducibles**
-Objetivo: conocer el PPR y las aportaciones voluntarias deducibles (artículo 151 de la LISR, con límite). Comparar comisiones y rendimiento, y confirmar con tu contador si puedes deducir según tu régimen. [POR CONFIRMAR: deducción para personas en RESICO]
+**M11 U03 · Modalidad 40: si cotizaste antes de julio de 1997**
+Objetivo: conocer la continuación voluntaria del IMSS (Modalidad 40) para personas de la Ley 73, que permite seguir sumando semanas y mejorar el salario con que se calcula la pensión.
+Requisitos: haber cotizado al menos 52 semanas en los últimos cinco años antes de la baja, pedirla dentro de los cinco años siguientes a la baja y no estar dado de alta como trabajador en ese momento.
+Costo 2026: 14.438% del salario que elijas, con tope de 25 UMA diarias. El IMSS endureció los controles en 2026. [POR CONFIRMAR: porcentaje y reglas vigentes]
+Diferencia con la Modalidad 10: la 10 es para quien trabaja por su cuenta hoy y te da servicio médico; la 40 es para quien ya no cotiza y quiere mejorar su pensión, y no incluye servicio médico.
+Gancho: Toño trabajó con nómina en una disquera de 1994 a 2021 y no sabe si le conviene la Modalidad 40 o la 10.
 
-**M11 U04 · Invertir a largo plazo sin especular**
+**M11 U04 · Plan Personal de Retiro (PPR) y aportaciones deducibles**
+Objetivo: conocer el PPR y las aportaciones voluntarias deducibles (artículo 151 de la LISR, con límite). Saber que la deducción aplica a quien presenta declaración anual por sueldos, asimilados o actividad empresarial, no a los ingresos de RESICO. Comparar comisiones y rendimiento.
+
+**M11 U05 · Invertir a largo plazo sin especular**
 Objetivo: entender riesgo, plazo, diversificación y comisiones, y verificar que el intermediario esté autorizado. Qué es un fondo de inversión o un ETF y por qué no se usa para el fondo de sequía.
 
-**M11 U05 · Vivienda: rentar, comprar o esperar**
+**M11 U06 · Vivienda: rentar, comprar o esperar**
 Objetivo: comparar el costo total de comprar (enganche, gastos notariales, avalúo, seguros) contra rentar, y conocer las opciones de crédito para personas independientes. [POR CONFIRMAR: opciones de Infonavit para personas no asalariadas]
 
-**M11 U06 · Ingresos fuera de cámara**
+**M11 U07 · Ingresos fuera de cámara**
 Objetivo: diversificar con clases, talleres, producción, marcas propias o consultoría, y calcular si un negocio paralelo realmente te deja ganancia.
 
-**M11 U07 · Tu carrera larga**
+**M11 U08 · Tu carrera larga**
 Objetivo: planear las etapas de tu carrera (formación, crecimiento, madurez y transición) y lo que necesitas en cada una.
 
-**M11 U08 · Tu plan de una página**
+**M11 U09 · Tu plan de una página**
 Objetivo: reunir tus números, deudas, reserva, protección, metas y tres acciones con fecha.
 
 ---
@@ -351,8 +400,10 @@ Objetivo: reunir tus números, deudas, reserva, protección, metas y tres accion
 | RESICO | "Deducir" vestuario y gastos en RESICO | RESICO no permite deducir; las deducciones aplican en Actividad Empresarial |
 | Tasa RESICO | 2.5% fija | De 1% a 2.5% según el ingreso del mes; retención de 1.25% al facturar a empresas |
 | IVA | Casi no aparecía | Lección propia (M2 U02) |
-| IMSS | "Modalidad 10" | Incorporación voluntaria de trabajadores independientes [POR CONFIRMAR la modalidad] |
-| Regalías | AADI y "SOMEMEX" | ANDI, SACM, EJE y SOMEXFON; ANDA es sindicato |
+| IMSS | Modalidad 10 sin detalle | Modalidad 10 en protección (M10 U02) y Modalidad 40 en futuro (M11 U03) |
+| Regalías | AADI y "SOMEMEX" | Organizaciones mexicanas: ANDA (sindicato), ANDI, SACM, EJE y SOMEXFON |
+| Buró | Una lección | Módulo de 10 lecciones: Buró vs. Círculo, reportes gratis, plazos, reclamaciones, bloqueo y alertas |
+| RESICO | Sin exclusiones | Exclusión por asimilados, sin deducciones personales, declaración anual según RMF |
 | Fuente F02 | Guía ANDI / SAG-AFTRA (no verificable) | Eliminada |
 | Fondo de sequía | "CETES a la vista", NAFTRAC, SOFIPO | Cetes en Cetesdirecto (BONDDIA) y cuentas a la vista de bancos protegidos por el IPAB |
 | e-SAR | esar.com.mx | e-sar.com.mx |
@@ -414,24 +465,28 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | Banco de México | https://www.banxico.org.mx | Calculadora del CAT, comparativos de tarjetas |
 | CNBV | https://www.gob.mx/cnbv | Padrón de entidades supervisadas |
 | IPAB | https://www.gob.mx/ipab | Qué depósitos protege y hasta cuánto |
-| Buró de Crédito | https://www.burodecredito.com.mx | Reporte de crédito especial y reclamaciones |
+| Buró de Crédito | https://www.burodecredito.com.mx | Reporte de Crédito Especial, reclamaciones, Bloqueo y Alertas Buró |
 | Policía cibernética | [POR CONFIRMAR: contacto de la policía cibernética de cada estado] | Reportar fraudes en línea y robo de cuentas |
 | Círculo de Crédito | https://www.circulodecredito.com.mx | Reporte de crédito especial y reclamaciones |
 | Cetesdirecto | https://www.cetesdirecto.com | Cuenta sin comisiones, BONDDIA y Cetes |
 | CONSAR y e-SAR | https://www.e-sar.com.mx | Localiza tu AFORE con tu CURP |
-| IMSS | https://www.imss.gob.mx | Personas trabajadoras independientes |
+| IMSS | https://www.imss.gob.mx/personas-trabajadoras-independientes | Modalidad 10 y su calculadora; trámite de Modalidad 40 (IMSS-02-007) |
 | INDAUTOR | https://www.indautor.gob.mx | Reserva de derechos para nombre artístico |
 | IMPI | https://www.gob.mx/impi | MarcaNET y registro de marca |
 | ANDI | https://www.andi.org.mx | Afiliación y regalías de intérpretes |
 | SACM | https://www.sacm.org.mx | Registro de obras musicales |
-| EJE | [POR CONFIRMAR: sitio oficial] | Regalías de músicos ejecutantes |
-| SOMEXFON | [POR CONFIRMAR: sitio oficial] | Derechos de productores de fonogramas |
+| EJE | https://www.ejecutantes.com | Regalías de músicos ejecutantes |
+| SOMEXFON | https://www.somexfon.com | Derechos de productores de fonogramas |
+| ANDA | https://laanda.org.mx | Agremiación y servicios para actrices y actores |
+| INDAUTOR, sociedades de gestión colectiva | https://www.indautor.gob.mx/sociedades-de-gestion-colectiva.php | Lista de sociedades autorizadas |
 
 ## Leyes de referencia
 
 - Ley del Impuesto sobre la Renta: artículos 113-E a 113-J (RESICO), 94 y 96 (sueldos y asimilados), 100 a 110 (actividad empresarial y profesional) y 151 (deducciones personales).
 - Ley del Impuesto al Valor Agregado.
-- Ley para Regular las Sociedades de Información Crediticia.
+- Ley para Regular las Sociedades de Información Crediticia (artículos 23, 40 y 42 a 45).
+- Banco de México, Circular 27/2008: reglas generales de las sociedades de información crediticia.
+- Ley del Seguro Social: artículo 218 (continuación voluntaria, Modalidad 40) y reforma de diciembre de 2023 (personas trabajadoras independientes).
 - Ley de Protección y Defensa al Usuario de Servicios Financieros.
 - Ley Federal del Derecho de Autor.
 
@@ -441,12 +496,12 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 
 | Clave | Dato por confirmar |
 |---|---|
-| E01 | Tabla de tasas y retención de RESICO vigente |
-| E02 | Si las deducciones personales y el PPR aplican a personas en RESICO |
-| E03 | Modalidad, cuotas y coberturas del IMSS para trabajadores independientes |
-| E04 | Estatus bancario y protección del IPAB de Nu, Revolut y otros bancos digitales |
-| E05 | Plazos de permanencia en Buró (UDIS y años) |
-| E06 | Sitios oficiales de EJE y SOMEXFON, y tratamiento fiscal de regalías |
+| E01 | Declaración anual de RESICO: si la RMF del año libera de presentarla |
+| E02 | Cuotas 2026 de la Modalidad 10 y reglas vigentes de la Modalidad 40 |
+| E03 | Que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y la fecha de lanzamiento amplio de Revolut |
+| E04 | Desde qué fecha se cuenta el plazo de eliminación en Buró y Círculo |
+| E05 | Reclamaciones gratuitas al año y plazos de respuesta (LRSIC y Circular 27/2008) |
+| E06 | Costo y condiciones de Bloqueo, Alertas Buró, reportes extra y servicios equivalentes de Círculo |
 | E07 | Servicios de salud de ANDA para agremiados |
-| E08 | Opciones de crédito de vivienda para independientes |
-| E09 | Alertas o bloqueos por robo de identidad en Buró y Círculo de Crédito, y contactos de policía cibernética |
+| E08 | Tratamiento de ISR e IVA de las regalías por derechos de autor |
+| E09 | Opciones de crédito de vivienda para independientes y contactos de policía cibernética |
