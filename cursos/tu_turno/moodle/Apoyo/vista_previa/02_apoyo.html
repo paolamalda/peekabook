@@ -1,0 +1,154 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Casos integradores</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Casos integradores</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-users"></i> Materiales de apoyo</span><h3>Casos integradores</h3><p class="obj">Cuatro casos que reúnen lo aprendido. Resuélvelos antes de abrir la clave.</p></div><div class="card2"><p>Los casos usan datos inventados. Resuelve cada caso antes de abrir la clave.</p></div><div class="card2"><h4>E1. La quincena de Karla (Módulos 1 y 2)</h4><p><strong>Datos.</strong> A Karla le llegan 4,300 por quincena. Hace 15 turnos al mes y gasta 110 por turno en pasajes y comida. Los gastos de su casa son 5,600 al mes. Su cuenta le cobra 90 al mes de manejo.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>¿Cuánto le llega al mes?</li>
+<li>¿Cuánto gasta en turnos al mes?</li>
+<li>¿Cuánto le queda después de turnos y casa?</li>
+<li>¿Qué hace con la comisión de su cuenta?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>4,300 por 2: 8,600.</li>
+<li>110 por 15: 1,650.</li>
+<li>8,600 menos 1,650 menos 5,600: 1,350.</li>
+<li>Pide la cuenta básica sin comisiones: ahorra 1,080 al año.</li>
+</ul></div></details></div><div class="card2"><h4>E2. Las deudas de Don Chuy (Módulos 3 y 4)</h4><p><strong>Datos.</strong> Don Chuy debe 7,200 a una tienda (360 por quincena), 1,380 de un adelanto (690 por quincena) y 3,000 a un conocido (sin fecha). También cobró primero en una tanda de 10 personas con 400 por quincena.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>¿Cuánto debe en total, sin la tanda?</li>
+<li>¿Cuánto debe de la tanda si ya pagó 2 quincenas?</li>
+<li>¿Qué deuda paga primero con la bola de nieve?</li>
+<li>¿Qué no debe hacer mientras sale?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>7,200 más 1,380 más 3,000: 11,580.</li>
+<li>Cobró 4,000; ya pagó 800; debe 7 pagos más de 400: 2,800.</li>
+<li>El adelanto (1,380).</li>
+<li>Pedir nuevos préstamos, incluidos los «gota a gota».</li>
+</ul></div></details></div><div class="card2"><h4>E3. La app de Beto (Módulos 5 y 6)</h4><p><strong>Datos.</strong> Beto pidió 2,000 en una app que le pidió acceso a sus contactos. Ahora le exigen 4,500 y escriben a sus contactos. Además, cree que está «boletinado» en el Buró.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>¿Qué señales de alerta tenía la app?</li>
+<li>¿Qué hace ahora?</li>
+<li>¿Qué hace para saber si está en el Buró?</li>
+<li>¿Cómo mejora su historial?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Pedía contactos y fotos, cobraba de más y probablemente no está en el SIPRES.</li>
+<li>No paga la extorsión, avisa a sus contactos, guarda capturas, denuncia y reporta, y desinstala la app.</li>
+<li>Pide su reporte gratis en el sitio oficial.</li>
+<li>Pagando a tiempo, usando poco su límite y sin pedir muchos créditos.</li>
+</ul></div></details></div><div class="card2"><h4>E4. El futuro de Ramiro (Módulos 7 y 8)</h4><p><strong>Datos.</strong> Ramiro gasta 9,000 al mes. Quiere un fondo de tres meses, ahorrar 100 por quincena en su AFORE y lavar autos en un día de descanso: cobra 1,000, gasta 300 y trabaja 8 horas.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>¿Cuánto es su fondo de tres meses?</li>
+<li>¿Cuánto aporta al año a su AFORE?</li>
+<li>¿Cuál es su ganancia por hora lavando autos?</li>
+<li>¿Qué parte del ingreso extra aparta?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>27,000.</li>
+<li>100 por 24: 2,400.</li>
+<li>700 entre 8: 87.50 por hora.</li>
+<li>Una parte fija para su fondo hasta completarlo, por ejemplo la mitad.</li>
+</ul></div></details></div></div>
+</div></div></div></body></html>

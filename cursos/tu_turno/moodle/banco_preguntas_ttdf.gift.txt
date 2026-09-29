@@ -1,0 +1,483 @@
+$CATEGORY: $course$/Tu Turno/M1
+
+::M1 U01 P1::¿Con qué cifra haces tu presupuesto? {
+	~Con tu salario antes de descuentos, porque es lo que ganas #No es la mejor opción. Es el dinero real.
+	=Con lo que te llega #¡Correcto! Es el dinero real.
+	~Con lo que ganan tus compañeros #No es la mejor opción. Es el dinero real.
+}
+
+::M1 U01 P2::Tu salario de quincena es 4,800 y te descuentan 600. ¿Cuánto te llega? {
+	~5,400 #No es la mejor opción. 4,800 menos 600.
+	~4,800 #No es la mejor opción. 4,800 menos 600.
+	=4,200 #¡Correcto! 4,800 menos 600.
+}
+
+::M1 U01 P3::¿Dónde revisas tus descuentos? {
+	=En tu recibo de pago #¡Correcto! Ahí aparecen.
+	~Preguntando a un compañero del turno #No es la mejor opción. Ahí aparecen.
+	~En tu celular #No es la mejor opción. Ahí aparecen.
+}
+
+::M1 U02 P1::Gastas 100 por turno y haces 15 turnos. ¿Cuánto al mes? {
+	=1,500 #¡Correcto! 100 por 15.
+	~100 #No es la mejor opción. 100 por 15.
+	~3,000 #No es la mejor opción. 100 por 15.
+}
+
+::M1 U02 P2::Te falta dinero cada mes. ¿Qué haces primero? {
+	~Pides un adelanto cada quincena #No es la mejor opción. Son los más fáciles de ajustar.
+	=Ajustas tus gastos del turno #¡Correcto! Son los más fáciles de ajustar.
+	~Dejas de pagar la luz un mes #No es la mejor opción. Son los más fáciles de ajustar.
+}
+
+::M1 U02 P3::¿Qué apartas primero? {
+	~El dinero para salir el fin de semana #No es la mejor opción. Si lo dejas al final, no ahorras.
+	~Lo que sobre al final #No es la mejor opción. Si lo dejas al final, no ahorras.
+	=El ahorro, aunque sea poco #¡Correcto! Si lo dejas al final, no ahorras.
+}
+
+::M1 U03 P1::Gastas 40 en refresco por turno, 15 turnos. ¿Cuánto al mes? {
+	~400 #No es la mejor opción. 40 por 15.
+	=600 #¡Correcto! 40 por 15.
+	~40 #No es la mejor opción. 40 por 15.
+}
+
+::M1 U03 P2::Perdiste en una app de apuestas. ¿Qué haces? {
+	~Apuestas más para recuperar lo perdido pronto #No es la mejor opción. Perseguir pérdidas empeora.
+	~Pides prestado para seguir #No es la mejor opción. Perseguir pérdidas empeora.
+	=Dejas de apostar para recuperar #¡Correcto! Perseguir pérdidas empeora.
+}
+
+::M1 U03 P3::¿Qué haces con tus gastos hormiga? {
+	=Los calculas y decides cuáles dejar #¡Correcto! Sabes y decides.
+	~Te prohíbes todo desde hoy #No es la mejor opción. Sabes y decides.
+	~Nada, son poquitos #No es la mejor opción. Sabes y decides.
+}
+
+::M1 U04 P1::¿Cuándo apartas tu ahorro? {
+	=El día de pago #¡Correcto! Antes de gastar.
+	~Al final del mes, con lo que sobre #No es la mejor opción. Antes de gastar.
+	~Cuando haya una emergencia #No es la mejor opción. Antes de gastar.
+}
+
+::M1 U04 P2::Ahorras 200 por quincena. ¿Cuánto juntas en un año? {
+	~2,400 #No es la mejor opción. 200 por 24.
+	=4,800 #¡Correcto! 200 por 24.
+	~200 #No es la mejor opción. 200 por 24.
+}
+
+::M1 U04 P3::Te gastas el ahorro porque está en tu cuenta de siempre. ¿Qué haces? {
+	~Dejas de ahorrar #No es la mejor opción. Separarlo ayuda.
+	~Lo guardas debajo del colchón para no verlo #No es la mejor opción. Separarlo ayuda.
+	=Abres una cuenta aparte para ahorro #¡Correcto! Separarlo ayuda.
+}
+
+$CATEGORY: $course$/Tu Turno/M2
+
+::M2 U01 P1::¿Qué es la cuenta básica? {
+	~Una cuenta con comisiones bajas pero con tarjeta de crédito #No es la mejor opción. Es tu derecho.
+	=Una cuenta sin comisiones de manejo #¡Correcto! Es tu derecho.
+	~Una cuenta solo para empresas #No es la mejor opción. Es tu derecho.
+}
+
+::M2 U01 P2::Te cobran 35 por retiro en otro banco, 8 veces al mes. ¿Cuánto pagas? {
+	=280 #¡Correcto! 35 por 8.
+	~35 #No es la mejor opción. 35 por 8.
+	~350 #No es la mejor opción. 35 por 8.
+}
+
+::M2 U01 P3::No te gusta tu banco de nómina. ¿Qué puedes hacer? {
+	~Nada, lo elige la empresa #No es la mejor opción. Puedes cambiarla.
+	=Pedir la portabilidad de nómina #¡Correcto! Puedes cambiarla.
+	~Cobrar en efectivo #No es la mejor opción. Puedes cambiarla.
+}
+
+::M2 U02 P1::¿Cuántos dígitos tiene la CLABE? {
+	~16 #No es la mejor opción. 18 dígitos.
+	=18 #¡Correcto! 18 dígitos.
+	~10 #No es la mejor opción. 18 dígitos.
+}
+
+::M2 U02 P2::Te avisan por mensaje que cambió la cuenta de tu casero. ¿Qué haces? {
+	=Le llamas para confirmar #¡Correcto! Es un fraude común.
+	~Pagas a la cuenta nueva para no atrasarte #No es la mejor opción. Es un fraude común.
+	~Contestas el mensaje #No es la mejor opción. Es un fraude común.
+}
+
+::M2 U02 P3::¿Qué haces después de transferir? {
+	~Nada #No es la mejor opción. Es tu prueba.
+	~Borras el mensaje del banco para tener espacio #No es la mejor opción. Es tu prueba.
+	=Guardas el comprobante #¡Correcto! Es tu prueba.
+}
+
+::M2 U03 P1::¿Qué hace la CONDUSEF? {
+	~Presta dinero en emergencias a quien lo necesita #No es la mejor opción. Es gratuita.
+	=Orienta y defiende gratis #¡Correcto! Es gratuita.
+	~Cobra deudas #No es la mejor opción. Es gratuita.
+}
+
+::M2 U03 P2::¿Dónde verificas que una financiera existe? {
+	~En sus redes sociales #No es la mejor opción. El registro oficial.
+	=En el SIPRES #¡Correcto! El registro oficial.
+	~Preguntando a un conocido que ya le pidió prestado #No es la mejor opción. El registro oficial.
+}
+
+::M2 U03 P3::¿Qué pides al reclamar en el banco? {
+	=Un folio #¡Correcto! Es tu constancia.
+	~Un descuento en tu próximo pago #No es la mejor opción. Es tu constancia.
+	~Nada #No es la mejor opción. Es tu constancia.
+}
+
+$CATEGORY: $course$/Tu Turno/M3
+
+::M3 U01 P1::¿Qué va en tu lista de deudas? {
+	=Todas tus deudas, incluidas las de personas #¡Correcto! Todas cuentan.
+	~Solo las del banco #No es la mejor opción. Todas cuentan.
+	~Solo las grandes, las chicas no importan #No es la mejor opción. Todas cuentan.
+}
+
+::M3 U01 P2::Ya cobraste tu tanda y debes pagos. ¿Qué es? {
+	~Ahorro #No es la mejor opción. Debes pagos.
+	=Una deuda #¡Correcto! Debes pagos.
+	~Un regalo #No es la mejor opción. Debes pagos.
+}
+
+::M3 U01 P3::Pagas 3,000 al mes en deudas y te llegan 8,000. ¿Qué parte se va en deudas? {
+	~Menos de una cuarta parte #No es la mejor opción. 3,000 de 8,000 es 37.5%.
+	~Casi la mitad #No es la mejor opción. 3,000 de 8,000 es 37.5%.
+	=Más de un tercio #¡Correcto! 3,000 de 8,000 es 37.5%.
+}
+
+::M3 U02 P1::40 abonos semanales de 150. ¿Cuánto pagas? {
+	=6,000 #¡Correcto! 150 por 40.
+	~150 #No es la mejor opción. 150 por 40.
+	~4,000 #No es la mejor opción. 150 por 40.
+}
+
+::M3 U02 P2::¿Qué indica un CAT más alto? {
+	~Un crédito más barato y conveniente #No es la mejor opción. Mide el costo.
+	=Un crédito más caro #¡Correcto! Mide el costo.
+	~Más plazo para pagar #No es la mejor opción. Mide el costo.
+}
+
+::M3 U02 P3::Algo cuesta 4,000 de contado y en abonos pagas 6,500. ¿Cuánto pagas de más? {
+	~6,500 #No es la mejor opción. 6,500 menos 4,000.
+	=2,500 #¡Correcto! 6,500 menos 4,000.
+	~4,000 #No es la mejor opción. 6,500 menos 4,000.
+}
+
+::M3 U03 P1::Te prestan 2,000 a pagar 100 diarios por 30 días. ¿Cuánto pagas? {
+	~2,000 #No es la mejor opción. 100 por 30.
+	=3,000 #¡Correcto! 100 por 30.
+	~2,100 #No es la mejor opción. 100 por 30.
+}
+
+::M3 U03 P2::Un prestamista te amenaza. ¿Qué haces? {
+	=Guardas evidencia y denuncias #¡Correcto! Las amenazas son delito.
+	~Pides otro préstamo para pagarle rápido #No es la mejor opción. Las amenazas son delito.
+	~No dices nada a nadie #No es la mejor opción. Las amenazas son delito.
+}
+
+::M3 U03 P3::¿Qué es una señal de préstamo peligroso? {
+	~Contrato por escrito #No es la mejor opción. Es la trampa típica.
+	~Aparece en el SIPRES #No es la mejor opción. Es la trampa típica.
+	=Pagos diarios sin contrato #¡Correcto! Es la trampa típica.
+}
+
+::M3 U04 P1::Con la avalancha, ¿cuál pagas primero? {
+	=La más cara #¡Correcto! Ahorras intereses.
+	~La más chica #No es la mejor opción. Ahorras intereses.
+	~La más reciente #No es la mejor opción. Ahorras intereses.
+}
+
+::M3 U04 P2::No podrás pagar la próxima semana. ¿Qué haces? {
+	~Esperas a que te llamen de cobranza #No es la mejor opción. Evitas cargos.
+	=Negocias antes y pides el acuerdo por escrito #¡Correcto! Evitas cargos.
+	~Pides otro préstamo #No es la mejor opción. Evitas cargos.
+}
+
+::M3 U04 P3::¿Qué haces con lo que pagabas a una deuda terminada? {
+	~Te lo gastas en algo que te guste #No es la mejor opción. Así aceleras.
+	~Lo guardas debajo del colchón #No es la mejor opción. Así aceleras.
+	=Lo sumas a la siguiente deuda #¡Correcto! Así aceleras.
+}
+
+$CATEGORY: $course$/Tu Turno/M4
+
+::M4 U01 P1::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
+	=3,200 #¡Correcto! 400 por 8.
+	~400 #No es la mejor opción. 400 por 8.
+	~4,000 #No es la mejor opción. 400 por 8.
+}
+
+::M4 U01 P2::Cobraste primero. ¿Qué tienes? {
+	~Una ganancia #No es la mejor opción. Debes los pagos.
+	=Una deuda con el grupo #¡Correcto! Debes los pagos.
+	~Un ahorro protegido por el banco #No es la mejor opción. Debes los pagos.
+}
+
+::M4 U01 P3::¿Cuál es el mayor riesgo de una tanda? {
+	~Los intereses que cobra #No es la mejor opción. Pierden los demás.
+	=Que alguien deje de pagar #¡Correcto! Pierden los demás.
+	~Que el banco la cancele #No es la mejor opción. Pierden los demás.
+}
+
+::M4 U02 P1::¿Quién debe tener los primeros turnos? {
+	~Quien los pida primero #No es la mejor opción. Menos riesgo.
+	=Personas de confianza #¡Correcto! Menos riesgo.
+	~Un desconocido que los necesite con urgencia #No es la mejor opción. Menos riesgo.
+}
+
+::M4 U02 P2::¿Cómo registras los pagos? {
+	=Con transferencia o foto #¡Correcto! Queda prueba.
+	~De memoria #No es la mejor opción. Queda prueba.
+	~No hace falta #No es la mejor opción. Queda prueba.
+}
+
+::M4 U02 P3::Puedes apartar 200 cada quincena sin problema. ¿Qué te conviene? {
+	~Solo entrar a más tandas #No es la mejor opción. Protegido y tuyo.
+	~Esperar a que sobre #No es la mejor opción. Protegido y tuyo.
+	=Ahorrar también en una cuenta aparte #¡Correcto! Protegido y tuyo.
+}
+
+$CATEGORY: $course$/Tu Turno/M5
+
+::M5 U01 P1::¿Qué es el Buró de Crédito? {
+	~Una lista negra de personas que no pagan sus deudas #No es la mejor opción. Guarda lo bueno y lo malo.
+	=Un historial de tus créditos y pagos #¡Correcto! Guarda lo bueno y lo malo.
+	~Un banco #No es la mejor opción. Guarda lo bueno y lo malo.
+}
+
+::M5 U01 P2::¿Quién decide si te prestan? {
+	=La institución que presta #¡Correcto! El Buró solo informa.
+	~El Buró #No es la mejor opción. El Buró solo informa.
+	~El gobierno #No es la mejor opción. El Buró solo informa.
+}
+
+::M5 U01 P3::¿Qué mejora tu historial? {
+	~Pedir muchos créditos #No es la mejor opción. Los pagos puntuales cuentan.
+	~Cancelar todas tus tarjetas #No es la mejor opción. Los pagos puntuales cuentan.
+	=Pagar a tiempo #¡Correcto! Los pagos puntuales cuentan.
+}
+
+::M5 U02 P1::¿Cuántos reportes gratis puedes pedir al año? {
+	~Ninguno #No es la mejor opción. Uno en cada una.
+	~Uno en total, en cualquiera de las dos #No es la mejor opción. Uno en cada una.
+	=Uno en Buró y uno en Círculo #¡Correcto! Uno en cada una.
+}
+
+::M5 U02 P2::Hay un crédito que no es tuyo. ¿Qué haces? {
+	=Lo reclamas #¡Correcto! Reclamar es gratis.
+	~Lo pagas para que se borre #No es la mejor opción. Reclamar es gratis.
+	~Lo ignoras #No es la mejor opción. Reclamar es gratis.
+}
+
+::M5 U02 P3::¿Dónde pides tu reporte? {
+	~En la página que te llegó por mensaje #No es la mejor opción. Evitas fraudes.
+	=En los sitios oficiales #¡Correcto! Evitas fraudes.
+	~Con un gestor #No es la mejor opción. Evitas fraudes.
+}
+
+::M5 U03 P1::Te ofrecen «limpiar tu Buró» por dinero. ¿Qué es? {
+	~Un servicio legítimo si tienen oficina #No es la mejor opción. No pueden borrar lo correcto.
+	=Un engaño\: nadie borra lo correcto #¡Correcto! No pueden borrar lo correcto.
+	~Un trámite del gobierno #No es la mejor opción. No pueden borrar lo correcto.
+}
+
+::M5 U03 P2::Tu tarjeta es de 9,000. ¿Cuánto conviene deber como máximo? {
+	=3,000 #¡Correcto! Un tercio.
+	~9,000 #No es la mejor opción. Un tercio.
+	~8,000 #No es la mejor opción. Un tercio.
+}
+
+::M5 U03 P3::¿Qué te ayuda a pagar a tiempo? {
+	~Esperar a que te llamen #No es la mejor opción. No se te pasa la fecha.
+	=Recordatorios en tu celular #¡Correcto! No se te pasa la fecha.
+	~Pedir otro crédito #No es la mejor opción. No se te pasa la fecha.
+}
+
+$CATEGORY: $course$/Tu Turno/M6
+
+::M6 U01 P1::Te piden el código que te llegó «para cancelar un cargo». ¿Qué haces? {
+	~Lo das si la persona sabe tu nombre completo #No es la mejor opción. El banco no pide códigos.
+	=Cuelgas y llamas a tu banco #¡Correcto! El banco no pide códigos.
+	~Das la mitad #No es la mejor opción. El banco no pide códigos.
+}
+
+::M6 U01 P2::¿Qué haces con un mensaje de paquetería que no esperas? {
+	=Lo borras #¡Correcto! Buscan tu tarjeta.
+	~Pagas los 30 pesos #No es la mejor opción. Buscan tu tarjeta.
+	~Abres el enlace #No es la mejor opción. Buscan tu tarjeta.
+}
+
+::M6 U01 P3::Un familiar con número nuevo te pide dinero. ¿Qué haces? {
+	~Envías para ayudar #No es la mejor opción. Confirma por un medio conocido.
+	~Le preguntas por mensaje si es él #No es la mejor opción. Confirma por un medio conocido.
+	=Le llamas a su número de siempre #¡Correcto! Confirma por un medio conocido.
+}
+
+::M6 U02 P1::Una app de préstamos pide acceso a tus contactos. ¿Qué haces? {
+	~La instalas si el préstamo es chico #No es la mejor opción. Los contactos son para extorsionarte.
+	=No la instalas #¡Correcto! Los contactos son para extorsionarte.
+	~Le das acceso solo un día #No es la mejor opción. Los contactos son para extorsionarte.
+}
+
+::M6 U02 P2::Te extorsionan por una app. ¿Qué recomienda la CONDUSEF? {
+	=No pagar y denunciar #¡Correcto! Pagar la alimenta.
+	~Pagar para que se detengan #No es la mejor opción. Pagar la alimenta.
+	~Pedir otro préstamo #No es la mejor opción. Pagar la alimenta.
+}
+
+::M6 U02 P3::¿Dónde verificas a una financiera? {
+	~En las reseñas de la tienda de apps #No es la mejor opción. El registro oficial.
+	=En el SIPRES #¡Correcto! El registro oficial.
+	~Con amigos #No es la mejor opción. El registro oficial.
+}
+
+::M6 U03 P1::Te dicen que tienen a tu familiar y que no cuelgues. ¿Qué haces? {
+	=Cuelgas y lo localizas #¡Correcto! Localizar primero.
+	~Pagas rápido para que no le pase nada #No es la mejor opción. Localizar primero.
+	~Negocias sin colgar #No es la mejor opción. Localizar primero.
+}
+
+::M6 U03 P2::¿Para qué sirve la palabra clave? {
+	~Para tu banco #No es la mejor opción. Quien no la sabe, no es tu familiar.
+	=Para confirmar que de verdad es tu familiar #¡Correcto! Quien no la sabe, no es tu familiar.
+	~Para tu celular #No es la mejor opción. Quien no la sabe, no es tu familiar.
+}
+
+::M6 U03 P3::¿A dónde denuncias una extorsión? {
+	~A la CONDUSEF #No es la mejor opción. Son los números de denuncia y emergencia.
+	~A tu banco #No es la mejor opción. Son los números de denuncia y emergencia.
+	=Al 089 o al 911 #¡Correcto! Son los números de denuncia y emergencia.
+}
+
+::M6 U04 P1::Ves un cargo que no hiciste. ¿Qué haces primero? {
+	=Bloqueas la tarjeta #¡Correcto! Frena el daño.
+	~Esperas al estado de cuenta #No es la mejor opción. Frena el daño.
+	~Llamas al número del mensaje #No es la mejor opción. Frena el daño.
+}
+
+::M6 U04 P2::¿A dónde reportas delitos en línea? {
+	=Al 088 #¡Correcto! Recibe delitos en línea.
+	~Al 070 #No es la mejor opción. Recibe delitos en línea.
+	~A tu jefe #No es la mejor opción. Recibe delitos en línea.
+}
+
+::M6 U04 P3::¿Qué guardas como evidencia? {
+	~Solo tu estado de cuenta del mes #No es la mejor opción. Ayudan a reclamar.
+	=Capturas, fechas, montos y folios #¡Correcto! Ayudan a reclamar.
+	~Nada #No es la mejor opción. Ayudan a reclamar.
+}
+
+$CATEGORY: $course$/Tu Turno/M7
+
+::M7 U01 P1::¿Dónde guardas tu fondo? {
+	~En una tanda con tus compañeros #No es la mejor opción. Seguro y disponible.
+	=En una cuenta aparte #¡Correcto! Seguro y disponible.
+	~Prestado a un amigo #No es la mejor opción. Seguro y disponible.
+}
+
+::M7 U01 P2::Apartas 150 por quincena. ¿En cuántas quincenas juntas 1,500? {
+	=10 #¡Correcto! 1,500 entre 150.
+	~15 #No es la mejor opción. 1,500 entre 150.
+	~5 #No es la mejor opción. 1,500 entre 150.
+}
+
+::M7 U01 P3::Usaste tu fondo. ¿Qué haces? {
+	~Lo dejas así #No es la mejor opción. Es tu primera protección.
+	~Pides prestado para llenarlo #No es la mejor opción. Es tu primera protección.
+	=Lo repones antes de otros gastos #¡Correcto! Es tu primera protección.
+}
+
+::M7 U02 P1::¿Cuándo averiguas a dónde ir en una emergencia? {
+	=Antes de que pase #¡Correcto! No hay tiempo en la emergencia.
+	~Cuando pase #No es la mejor opción. No hay tiempo en la emergencia.
+	~Nunca #No es la mejor opción. No hay tiempo en la emergencia.
+}
+
+::M7 U02 P2::¿Qué es un medicamento genérico? {
+	=Uno con la misma sustancia que suele costar menos #¡Correcto! Misma sustancia.
+	~Uno de menor calidad y más barato #No es la mejor opción. Misma sustancia.
+	~Uno sin receta #No es la mejor opción. Misma sustancia.
+}
+
+::M7 U02 P3::¿Dónde guardas los documentos de tu familia? {
+	~Sueltos en casa #No es la mejor opción. Los encuentras rápido.
+	~En la cartera del turno #No es la mejor opción. Los encuentras rápido.
+	=En una carpeta a la mano #¡Correcto! Los encuentras rápido.
+}
+
+::M7 U03 P1::¿Quién recibe el dinero de tu seguro si faltas? {
+	=Tus beneficiarios #¡Correcto! Por eso deben estar claros.
+	~La aseguradora #No es la mejor opción. Por eso deben estar claros.
+	~Tu jefe #No es la mejor opción. Por eso deben estar claros.
+}
+
+::M7 U03 P2::Te ofrecen un plan funerario sin contrato. ¿Qué haces? {
+	~Lo contratas porque es barato #No es la mejor opción. Evita fraudes.
+	~Pagas solo el primer mes #No es la mejor opción. Evita fraudes.
+	=Buscas uno con póliza de una aseguradora autorizada #¡Correcto! Evita fraudes.
+}
+
+::M7 U03 P3::¿Dónde verificas una aseguradora? {
+	=En la CNSF #¡Correcto! Es la autoridad de seguros.
+	~En sus anuncios de redes #No es la mejor opción. Es la autoridad de seguros.
+	~Con el vendedor #No es la mejor opción. Es la autoridad de seguros.
+}
+
+$CATEGORY: $course$/Tu Turno/M8
+
+::M8 U01 P1::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
+	=50 pesos #¡Correcto! Desde 50.
+	~1,000 pesos #No es la mejor opción. Desde 50.
+	~500 pesos #No es la mejor opción. Desde 50.
+}
+
+::M8 U01 P2::¿Cómo sabes en qué AFORE estás? {
+	~Preguntas en tu trabajo o a un gestor que cobra poco #No es la mejor opción. Es gratis.
+	=Con tu CURP en e-SAR #¡Correcto! Es gratis.
+	~No se puede saber #No es la mejor opción. Es gratis.
+}
+
+::M8 U01 P3::Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? {
+	~Te cambias por el regalo #No es la mejor opción. El regalo no mejora tu retiro.
+	~Aceptas y regresas luego #No es la mejor opción. El regalo no mejora tu retiro.
+	=Comparas rendimientos primero #¡Correcto! El regalo no mejora tu retiro.
+}
+
+::M8 U02 P1::Cobras 1,500 a la semana y gastas 500 en materiales. ¿Cuál es tu ganancia? {
+	=1,000 #¡Correcto! 1,500 menos 500.
+	~1,500 #No es la mejor opción. 1,500 menos 500.
+	~2,000 #No es la mejor opción. 1,500 menos 500.
+}
+
+::M8 U02 P2::¿Cómo conviene empezar un ingreso extra? {
+	~Con un préstamo grande para crecer rápido #No es la mejor opción. Menos riesgo.
+	=Con poco, sin deudas caras #¡Correcto! Menos riesgo.
+	~Con la tarjeta de un amigo #No es la mejor opción. Menos riesgo.
+}
+
+::M8 U02 P3::Ganas 1,200 en 15 horas. ¿Cuánto por hora? {
+	~1,200 #No es la mejor opción. 1,200 entre 15.
+	~120 #No es la mejor opción. 1,200 entre 15.
+	=80 #¡Correcto! 1,200 entre 15.
+}
+
+::M8 U03 P1::¿Cada cuándo revisas tu plan? {
+	~Una vez al año, en diciembre #No es la mejor opción. Cinco minutos cada quincena.
+	=Cada día de pago #¡Correcto! Cinco minutos cada quincena.
+	~Nunca #No es la mejor opción. Cinco minutos cada quincena.
+}
+
+::M8 U03 P2::¿Qué va en tu plan? {
+	~Tu NIP #No es la mejor opción. Son sus partes.
+	~Tus contraseñas #No es la mejor opción. Son sus partes.
+	=Tu presupuesto, deudas, ahorro, protección y AFORE #¡Correcto! Son sus partes.
+}
+
+::M8 U03 P3::Terminaste una deuda. ¿Qué haces? {
+	=Lo anotas y sumas ese pago a la siguiente #¡Correcto! Así avanzas más rápido.
+	~Pides otro crédito para celebrar #No es la mejor opción. Así avanzas más rápido.
+	~Nada #No es la mejor opción. Así avanzas más rápido.
+}
