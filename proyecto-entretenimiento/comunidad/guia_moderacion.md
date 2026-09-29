@@ -28,7 +28,9 @@ Para el equipo que modera los foros y el canal. Versión 1 · Septiembre de 2026
 | Caso fiscal concreto | Responder con lo general y canalizar | "Tu caso depende de tus números. Te sugerimos PRODECON (gratis) o tu contador. La lección M2 U01 explica el tema." |
 | Caso legal o de contrato | Responder con lo general y canalizar | "Revisa M3 U01 y consulta a un abogado del medio; si eres agremiado, a la ANDA." |
 | Deudas graves o cobranza abusiva | Responder con pasos y canalizar | "Revisa M8 U04; puedes quejarte en el REDECO de CONDUSEF. CONDUSEF también orienta gratis." |
-| Fraude en curso | Responder de inmediato | "Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U08)." |
+| Se queja de llamadas o mensajes de publicidad | Responder con pasos | "Inscribe gratis tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Si siguen después del plazo, denuncia con número, fecha y hora (M9 U08)." |
+| Alguien cobra por "inscribirte" en el REPEP o el REUS o por "vincular tu línea" | Retirar y alertar | "Estos trámites son gratuitos y se hacen solo en los sitios oficiales o en la tienda de tu compañía. Es un fraude (M9 U08)." |
+| Fraude en curso | Responder de inmediato | "Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U09)." |
 | Crisis emocional o riesgo | Responder con empatía y canalizar | "Lamentamos lo que vives. Si estás en riesgo, llama al 911. También puedes buscar apoyo en la Línea de la Vida (800 911 2000)." |
 | Conflicto entre participantes | Recordar reglas; si sigue, suspender | "Te pedimos mantener el respeto. Es la regla 2 de la comunidad." |
 

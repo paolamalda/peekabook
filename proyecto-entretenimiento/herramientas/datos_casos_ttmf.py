@@ -282,6 +282,11 @@ CASOS = {
  ("No invierte: la promesa es imposible.", "Invierte porque lo recomienda un famoso.", "Invierte solo lo que le sobre este mes."),
 ],
 "M9 U08": [
+ ("Inscribe sus números en el REPEP.", "Contesta y pide que ya no le llamen.", "Cambia de número de celular."),
+ ("Se inscribe en el REUS de CONDUSEF.", "Cancela su cuenta en ese banco hoy.", "Se inscribe en el REPEP de Profeco."),
+ ("Pide desvincularla y revisa su Buró.", "No hace nada: no le cobran a él.", "Paga la línea para que no se pierda."),
+],
+"M9 U09": [
  ("Bloquea su tarjeta y su acceso.", "Espera al estado de cuenta.", "Publica los cargos en redes."),
  ("Denunciar: le puede pasar a cualquiera.", "Olvidarlo para no pasar vergüenza.", "Esperar a ver si el banco la llama para devolverle el dinero."),
  ("Aviso sencillo sin datos personales.", "Publica sus estados de cuenta completos.", "No avisa a nadie para no alarmar."),

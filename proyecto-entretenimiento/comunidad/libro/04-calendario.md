@@ -17,7 +17,7 @@ Fechas y recordatorios que importan a quien trabaja por su cuenta en el medio. E
 | Mes | Recordatorio | Lección |
 |---|---|---|
 | Enero | Cuesta de enero: revisa tu fondo de sequía y tu plan de deudas | M1 U03 · M8 U05 |
-| Febrero | Entra en vigor el nuevo valor de la UMA (topes de deducciones y cuotas) | M2 U05 |
+| Febrero | Entra en vigor el nuevo valor de la UMA (topes de deducciones y cuotas). Inscribe tus números en el REPEP y el REUS si aún no lo haces | M2 U05 · M9 U08 |
 | Marzo | Junta tus facturas de deducciones personales para la anual | M2 U05 |
 | Abril | Declaración anual de personas físicas, si te corresponde | M2 U05 |
 | Mayo | Revisa tu AFORE y actualiza beneficiarios | M11 U02 |
@@ -28,5 +28,13 @@ Fechas y recordatorios que importan a quien trabaja por su cuenta en el medio. E
 | Octubre | Revisa la vigencia de tu reserva de nombre y tu marca | M10 U05 |
 | Noviembre | Buen Fin: suma tus mensualidades antes de comprar a meses | M6 U03 |
 | Diciembre | Pide tu reporte gratis de la otra sociedad (por ejemplo, Círculo) y planea el reparto de tus pagos de fin de año | M7 U03 · M11 U01 |
+
+## Solo en 2026
+
+| Cuándo | Qué hacer | Lección |
+|---|---|---|
+| Según la terminación de tu número, a más tardar el 31 de diciembre de 2026 | Vincula tu línea de celular con tu CURP y consulta si hay líneas a tu nombre que no reconoces | M9 U08 |
+
+Además, renueva tu inscripción en el REUS cada dos años.
 
 Las fechas oficiales pueden cambiar. Confírmalas en el sitio del SAT, el IMSS, CONDUSEF o la institución que corresponda.

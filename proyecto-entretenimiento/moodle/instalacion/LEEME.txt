@@ -4,20 +4,20 @@ Desarrolla Talento · 29 de septiembre de 2026
 QUÉ ES
 ------
 El curso completo para personas que trabajan en el entretenimiento en México:
-11 módulos, 72 lecciones, 72 actividades H5P "¿Qué harías?", 216 preguntas,
+11 módulos, 73 lecciones, 73 actividades H5P "¿Qué harías?", 219 preguntas,
 libro de apoyo, glosario, 8 insignias, constancia, guía y README para Claude.
 
 ESTE CURSO VIENE EN 3 ZIPS (por tamaño)
 ---------------------------------------
 Parte 1: todo menos las H5P · Parte 2: H5P de M1 a M6 · Parte 3: H5P de M7 a M11.
-Descomprime las tres en el mismo lugar: se juntan en la carpeta TTMF_04_Curso_completo_v1.1.
+Descomprime las tres en el mismo lugar: se juntan en la carpeta TTMF_06_Curso_completo_v1.2.
 
 QUÉ CONTIENE
 ------------
 1_libros/        M1–M11 y Apoyo (zip para "Importar capítulo") y resúmenes de sección
-2_h5p/M1..M11/   72 actividades en orden de lección
+2_h5p/M1..M11/   73 actividades en orden de lección
 3_glosario/      Glosario_curso_Moodle.xml
-4_preguntas/     banco_preguntas_ttmf.gift.txt (216 preguntas, categorías "Tu Talento/M1..M11")
+4_preguntas/     banco_preguntas_ttmf.gift.txt (219 preguntas, categorías "Tu Talento/M1..M11")
 5_insignias/     8 insignias
 6_certificado/   fondo de la constancia y muestra
 7_guias/         guía de gamificación, comunidad y canales, manual del programa y libro legible (.md y .docx)
@@ -28,7 +28,23 @@ CÓMO USARLO
 -----------
 Dale a Claude (con el navegador y tu sesión de administración abierta) las 3 partes y dile:
 "Sigue README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md". Claude crea el curso oculto y te entrega un reporte.
-Tiempo estimado: 3 a 4 horas (las 72 H5P se suben una por una).
+Tiempo estimado: 3 a 4 horas (las 73 H5P se suben una por una).
+
+QUÉ CAMBIÓ EN LA VERSIÓN 1.2
+----------------------------
+Nueva lección M9 U08 "Que dejen de llamarte: REPEP, REUS y tu línea": inscripción gratuita en el
+REPEP de Profeco (publicidad de bienes y servicios) y en el REUS de CONDUSEF (publicidad financiera),
+qué no cubren, cómo denunciar, consulta y desvinculación de líneas registradas con tu CURP y
+"registros" falsos que cobran. El plan de respuesta pasa a ser M9 U09.
+También: referencia en M4 U04 y M9 U05; libro de apoyo (Dónde encontrar ayuda, preguntas
+frecuentes, glosario y referencias); datos E20 a E22 en 7_guias/datos_verificados.md.
+Si Claude ya instaló la versión 1.1, que haga solo esto:
+  1. Reemplazar los libros de M4, M9 y Apoyo (borrar capítulos e importar el zip nuevo).
+  2. Renombrar la H5P "M9 U08 · ¿Qué harías?" a "M9 U09 · ¿Qué harías?" (no cambia su contenido)
+     y agregar antes de ella la nueva "M9 U08 · ¿Qué harías?" con 2_h5p/M9/M9_U08_que_harias.h5p.
+  3. En el banco, borrar las preguntas de "Tu Talento/M9", importar 4_preguntas/solo_M9_v1.2.gift.txt
+     y volver a agregar todas las preguntas de M9 (27) a la Autoevaluación del Módulo 9.
+  4. Level Up y demás actividades no cambian.
 
 QUÉ CAMBIÓ EN LA VERSIÓN 1.1
 ----------------------------

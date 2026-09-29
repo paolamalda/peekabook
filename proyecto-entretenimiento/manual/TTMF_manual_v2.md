@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 72 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 73 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -332,7 +332,11 @@ Gancho: Renata pidió 3,000 en una app y ahora le exigen 7,000 y amenazan a sus 
 Objetivo: reconocer pirámides, esquemas de referidos, criptomonedas con rendimiento "garantizado", y a personas cercanas al medio que ofrecen manejar tu dinero sin estar autorizadas. Verificar en la CNBV antes de invertir.
 Gancho: un productor conocido le ofrece a Gael 10% mensual por "invertir en su siguiente película".
 
-**M9 U08 · Si ya te pasó: tu plan de respuesta**
+**M9 U08 · Que dejen de llamarte: REPEP, REUS y tu línea**
+Objetivo: inscribir tus números en el REPEP de Profeco (publicidad de bienes y servicios; gratis, fijo o celular, 30 días para que dejen de llamar, sin vencimiento) y en el REUS de CONDUSEF (publicidad de instituciones financieras; hasta 45 días, dura dos años). Saber qué no cubren (cobranza, partidos, encuestas, beneficencia y fraudes), denunciar con evidencia, consultar las líneas registradas con tu CURP y desvincular las que no son tuyas. Reconocer "registros" falsos que cobran.
+Gancho: a Gael le llaman ocho veces al día para venderle algo; entre esas llamadas pierde la de un casting y contesta una de fraude.
+
+**M9 U09 · Si ya te pasó: tu plan de respuesta**
 Objetivo: seguir los pasos en orden: bloquear tarjetas y accesos, llamar a tu institución por el número oficial, reclamar por escrito, reportar a CONDUSEF, denunciar ante el Ministerio Público o la policía cibernética de tu estado, y avisar a tu comunidad sin exponer tus datos. Guardar evidencia.
 
 ## Módulo 10. Protección y prevención
@@ -409,8 +413,8 @@ Objetivo: reunir tus números, deudas, reserva, protección, metas y tres accion
 | e-SAR | esar.com.mx | e-sar.com.mx |
 | Fórmula | Texto dañado | Corregida |
 | Comparar | Solo tarjetas | Módulo completo: institución, cuenta, ahorro, seguro y crédito |
-| Fraudes | Sin módulo | Módulo 9 completo: fraudes, falsos castings, phishing, robo de identidad, robo de cuentas, montadeudas, inversiones milagro y plan de respuesta |
-| Futuro y prevención | 2 módulos cortos | Módulo 10 (6 lecciones) y Módulo 11 (8 lecciones) |
+| Fraudes | Sin módulo | Módulo 9 completo: fraudes, falsos castings, phishing, robo de identidad, robo de cuentas, montadeudas, inversiones milagro, registros para que no te llamen con publicidad (REPEP y REUS) y plan de respuesta |
+| Futuro y prevención | 2 módulos cortos | Módulo 10 (6 lecciones) y Módulo 11 (9 lecciones) |
 | Monetización | Puntos de venta dentro de las lecciones | Fuera de las lecciones; solo en canales, identificada como referencia |
 | Quiz | Preguntas de memoria | Preguntas de decisión |
 
@@ -467,6 +471,8 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | IPAB | https://www.gob.mx/ipab | Qué depósitos protege y hasta cuánto |
 | Buró de Crédito | https://www.burodecredito.com.mx | Reporte de Crédito Especial, reclamaciones, Bloqueo y Alertas Buró |
 | Guardia Nacional, CERT-MX | 088 · https://www.gob.mx/gncertmx | Reportar fraudes y delitos en línea |
+| Profeco, REPEP | https://repep.profeco.gob.mx | Registrar tu teléfono para no recibir publicidad y denunciar |
+| Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Consultar y desvincular líneas registradas con tu CURP |
 | Círculo de Crédito | https://www.circulodecredito.com.mx | Reporte de crédito especial y reclamaciones |
 | Cetesdirecto | https://www.cetesdirecto.com | Cuenta sin comisiones, BONDDIA y Cetes |
 | CONSAR y e-SAR | https://www.e-sar.com.mx | Localiza tu AFORE con tu CURP |
@@ -515,5 +521,8 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | E17 | Infonavit y escrituración | Crédito vía Modalidad 10 con aportación de 5%; escrituración de 4% a 7% | IMSS; Infonavit; medios |
 | E18 | Seguro de voz | Sin producto estándar en México; combinar accidentes personales, gastos médicos e IMSS | Búsqueda de mercado |
 | E19 | Policía cibernética | 088 de la Guardia Nacional | Guardia Nacional CERT-MX |
+| E20 | REPEP | Gratis, fijo o celular, en repep.profeco.gob.mx o 55 5568 8722 / 800 468 8722; 30 días para dejar de llamar; sin vencimiento; no cubre cobranza, partidos, beneficencia ni encuestas | Profeco |
+| E21 | REUS | Hasta 45 días naturales para aplicar; vigencia de dos años; 55 5340 0999 / 800 999 8080 | CONDUSEF; Reglas del Registro Público de Usuarios (DOF) |
+| E22 | Líneas móviles y CURP | Registro obligatorio desde el 9-ene-2026, escalonado por terminación, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
 
 **Quedan dos confirmaciones que conviene hacer en el sitio oficial antes de publicar:** que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y los precios de Buró y Círculo del día (los sitios oficiales no fueron accesibles desde el entorno de trabajo; los montos vienen de fuentes que citan esos sitios).

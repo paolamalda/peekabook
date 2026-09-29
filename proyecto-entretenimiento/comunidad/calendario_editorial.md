@@ -5,7 +5,7 @@ Cuatro publicaciones al mes: un recordatorio de fechas, un reto, una alerta o co
 | Mes | Semana 1 · Fechas | Semana 2 · Reto del mes | Semana 3 · Consejo o alerta | Semana 4 · Sesión |
 |---|---|---|---|---|
 | Enero | Cuesta de enero: tu fondo de sequía | Calcula tu ganancia real | Préstamos por app en enero: verifica en el SIPRES | Sesión: sueldo fijo e ingresos variables |
-| Febrero | Nueva UMA desde el 1 de febrero | Págate un sueldo fijo un mes | Falsos castings de inicio de año | Sesión: régimen fiscal |
+| Febrero | Nueva UMA desde el 1 de febrero | Págate un sueldo fijo un mes; inscríbete en el REPEP y el REUS | Falsos castings de inicio de año | Sesión: régimen fiscal |
 | Marzo | Junta tus facturas para la anual | Pide tu reporte gratis | Mensajes falsos del SAT sobre la anual | Sesión: deducciones personales |
 | Abril | Declaración anual: fecha límite | Haz tu inventario de deudas | Saldo a favor: cuida tu CLABE | Sesión: declaración anual |
 | Mayo | Revisa tu AFORE | Verificación en dos pasos | Robo de cuentas de redes | Sesión: AFORE y retiro |
@@ -14,8 +14,18 @@ Cuatro publicaciones al mes: un recordatorio de fechas, un reto, una alerta o co
 | Agosto | Revisa tus seguros | Busca tu AFORE con tu CURP | Seguros que te agregan sin pedir | Sesión: IMSS Modalidad 10 |
 | Septiembre | Mes del Testamento | Agenda tu testamento | Gestores de AFORE | Sesión: testamento y beneficiarios |
 | Octubre | Revisa tu reserva de nombre y tu marca | Busca tu nombre en el IMPI | Contratos "a perpetuidad" | Sesión: contratos y regalías |
-| Noviembre | Buen Fin: suma tus mensualidades | Suma tus meses sin intereses | Páginas falsas de ofertas | Sesión: meses sin intereses |
+| Noviembre | Buen Fin: suma tus mensualidades | Suma tus meses sin intereses | Páginas falsas de ofertas; llamadas de "promociones": REPEP y REUS | Sesión: meses sin intereses |
 | Diciembre | Reparte tus pagos de fin de año | Tu plan de una página | Fraudes de fin de año y regalos | Sesión: plan del próximo año |
+
+## Avisos extra de 2026
+
+| Cuándo | Aviso |
+|---|---|
+| Octubre a diciembre de 2026 | Vincula tu línea de celular con tu CURP antes de la fecha de tu terminación (plazo final: 31 de diciembre de 2026) y revisa que no haya líneas a tu nombre que no reconozcas (M9 U08). |
+| Cada dos años desde tu inscripción | Renueva tu inscripción en el REUS (M9 U08). |
+
+**Ejemplo de alerta de la semana 3 (noviembre), para la parte de llamadas:**
+"📵 ¿Te llaman para venderte de todo? Inscribe gratis tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Nadie te debe cobrar por hacerlo. Paso a paso en M9 U08."
 
 ## Formato para el canal de WhatsApp
 

@@ -124,12 +124,14 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **CVV:** código de seguridad de tu tarjeta.
 - **Códigos de respaldo:** códigos para recuperar tu cuenta.
 - **Denuncia:** aviso formal de un delito.
+- **Desvincular:** quitar de tu CURP una línea que no es tuya.
 - **Enlace:** dirección que te lleva a una página.
 - **Evidencia:** pruebas de lo que pasó.
 - **Fraude:** engaño para quitarte dinero o datos.
 - **Permisos:** accesos que das a una app en tu celular.
 - **Phishing:** Engaño con mensajes o páginas falsas que imitan a una empresa para robar tus datos.
 - **Pirámide:** esquema que paga con el dinero de nuevos participantes.
+- **REPEP:** Registro Público para Evitar Publicidad, de Profeco.
 - **Robo de identidad:** uso de tus datos para hacerse pasar por ti.
 - **Verificación en dos pasos:** segunda comprobación además de la contraseña.
 

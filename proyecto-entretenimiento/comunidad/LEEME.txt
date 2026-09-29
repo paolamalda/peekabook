@@ -33,3 +33,12 @@ A TENER EN CUENTA
 -----------------
 - Los foros no permiten adjuntos para evitar que se suban documentos con datos personales.
 - Las referencias comerciales solo van en su foro y en el canal, con el aviso de comisión.
+
+QUÉ CAMBIÓ EN LA VERSIÓN 1.1
+----------------------------
+Llamadas de publicidad y líneas con CURP: reto de febrero (inscribirte en el REPEP y el REUS),
+calendario del año con el plazo 2026 para vincular tu línea con tu CURP, alerta de noviembre
+con plantilla para el canal y dos respuestas nuevas en la guía de moderación (quejas por
+llamadas de publicidad y cobros falsos por "inscribirte"). El plan de respuesta a fraudes
+ahora es M9 U09. Si Claude ya creó la versión 1: que reemplace los capítulos del libro
+"Guía de la comunidad" con el zip nuevo y actualice la descripción del foro Alertas de fraude.

@@ -89,7 +89,7 @@ Si dudas, cuéntaselo a alguien de confianza antes de hacer cualquier pago. Much
 
 #### Reporta
 
-Reporta números y cuentas sospechosas a tu banco y a CONDUSEF. Si fuiste víctima de un delito en línea, llama al 088 (M9 U08).
+Reporta números y cuentas sospechosas a tu banco y a CONDUSEF. Si fuiste víctima de un delito en línea, llama al 088 (M9 U09).
 
 
 
@@ -421,7 +421,7 @@ Desde entonces, entra a su banco solo desde la app oficial.
 
 #### Si ya caíste
 
-Llama a tu banco al número oficial y pide bloquear tus cuentas y tarjetas. Cambia tus contraseñas desde otro dispositivo. Presenta una reclamación por escrito y guarda tu folio (M9 U08).
+Llama a tu banco al número oficial y pide bloquear tus cuentas y tarjetas. Cambia tus contraseñas desde otro dispositivo. Presenta una reclamación por escrito y guarda tu folio (M9 U09).
 
 > **Dato vigente:** CONDUSEF recomienda no abrir enlaces de mensajes y reclamar de inmediato cargos no reconocidos. Consultado el 29 de septiembre de 2026 a través de CONDUSEF.
 
@@ -713,7 +713,7 @@ Protégelas como protegerías tu cuenta del banco.
 
 Si alguien se queda con tu número (por ejemplo, con un cambio de chip o portabilidad sin tu permiso), puede recibir tus códigos por mensaje. Por eso conviene usar una app de autenticación en lugar de SMS cuando sea posible.
 
-Si de pronto tu celular se queda sin señal sin razón, llama a tu compañía telefónica desde otro teléfono.
+Si de pronto tu celular se queda sin señal sin razón, llama a tu compañía telefónica desde otro teléfono. Revisa también qué líneas están registradas con tu CURP (M9 U08).
 
 
 
@@ -1199,7 +1199,182 @@ CNBV · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---
 
-## M9 U08. Si ya te pasó: tu plan de respuesta
+## M9 U08. Que dejen de llamarte: REPEP, REUS y tu línea
+
+**Lo que lograrás:** Inscribir tus números en el REPEP de Profeco y en el REUS de CONDUSEF para dejar de recibir llamadas y mensajes de publicidad, saber qué no cubren, denunciar a quien no respete tu registro y revisar qué líneas están a tu nombre.
+
+**Para empezar:** A Gael le llaman ocho veces al día: tarjetas que no pidió, paquetes de telefonía, tiempos compartidos. En medio de esas llamadas se pierde la de un casting y un día contesta una que resulta ser un fraude. En esta lección aprenderás a limpiar tu teléfono con registros gratuitos.
+
+### Lo esencial (5 minutos)
+
+#### Menos ruido, menos riesgo
+
+Por tu teléfono te llaman para castings, llamados y pagos. Si recibes muchas llamadas de venta, bajas la guardia, y quien te quiere estafar se esconde entre ellas. Con menos ruido, una llamada rara salta a la vista.
+
+
+
+#### Dos registros gratuitos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| REPEP de Profeco | Publicidad de bienes y servicios: telefonía, viajes, tiendas, tiempos compartidos. | Fijo o celular, sin vencimiento. |
+| REUS de CONDUSEF | Publicidad de bancos y otras instituciones financieras: tarjetas, créditos, seguros. | Dura dos años; renuévalo. |
+| Tus líneas y tu CURP | Revisa qué celulares están registrados con tu CURP. | Desvincula los que no son tuyos. |
+| Bloqueo en tu celular | Activa el filtro de spam y bloquea números insistentes. | Complementa los registros. |
+
+#### Inscríbete en diez minutos
+
+En el REPEP inscribes cada número, fijo o celular, en su sitio o por teléfono. En el REUS te inscribes con tus datos, tu teléfono y tu correo.
+
+Los dos son gratuitos. Nadie te debe cobrar por inscribirte.
+
+
+
+#### Un caso en un minuto
+
+Gael inscribió su celular y el fijo de su casa en el REPEP y se registró en el REUS. Anotó la fecha en su calendario.
+
+Al mes recibía muchas menos llamadas. Una tienda siguió llamando, así que presentó una denuncia en el REPEP con el número, la fecha y la hora de cada llamada.
+
+> **Idea clave:** inscribirte es gratis y te protege; si después siguen llamando, guarda la evidencia y denuncia.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué registro cubre la publicidad de bancos?
+*Respuesta:* El REUS de CONDUSEF.
+
+2. ¿Qué registro cubre la publicidad de tiendas, telefonía o viajes?
+*Respuesta:* El REPEP de Profeco.
+
+
+#### Para recordar
+
+- REPEP para publicidad de bienes y servicios.
+- REUS para publicidad financiera.
+- Gratis; denuncia si siguen llamando.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Paso a paso
+
+1. **REPEP:** en repep.profeco.gob.mx o en el Teléfono del Consumidor, registra cada número (celular, fijo, el de tu negocio) y guarda tu folio.
+2. **REUS:** en el sitio de CONDUSEF (busca "REUS") o por teléfono, registra tu celular, tu fijo y tu correo.
+3. Anota las fechas: cuándo deben dejar de llamarte y cuándo renovar el REUS.
+4. Si siguen llamando, anota número, fecha, hora y empresa, y denuncia en el REPEP o ante CONDUSEF.
+
+> **Dato vigente:** REPEP: gratis, fijo o celular; 55 5568 8722 (Ciudad de México) o 800 468 8722; 30 días para dejar de llamar; no vence. REUS: hasta 45 días naturales; dura dos años; 55 5340 0999 o 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco (repep.profeco.gob.mx) y CONDUSEF (Reglas del Registro Público de Usuarios, DOF).
+
+
+
+#### Qué cubre y qué no
+
+| Tipo de llamada | ¿Cómo se detiene? |
+|---|---|
+| Tiendas, telefonía, viajes | REPEP de Profeco |
+| Tarjetas, créditos y seguros | REUS de CONDUSEF |
+| Cobranza de una deuda | Ningún registro; tiene horario y reglas (M8 U04) |
+| Partidos, encuestas, beneficencia | No las cubre el REPEP |
+| Fraudes y extorsiones | Ningún registro: cuelga, bloquea y reporta al 088 |
+
+
+
+#### Tus líneas y tu CURP
+
+En 2026 cada celular se vincula con la CURP de su titular. Consulta en cada compañía qué líneas están a tu nombre; si una no es tuya, pide que la desvinculen.
+
+> **Dato vigente:** registro de líneas móviles con CURP desde el 9 de enero de 2026, escalonado por terminación, con plazo final el 31 de diciembre de 2026; sin registro, la línea se suspende salvo emergencias. Consulta y desvinculación gratuitas en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+
+
+
+#### "Registros" falsos
+
+Si te piden un pago, códigos o fotos de tu INE para "inscribirte en el REPEP" o "vincular tu línea", es fraude. Estos trámites son gratis y los haces tú en el sitio oficial o en la tienda de tu compañía.
+
+
+
+#### Casos
+
+
+**Caso 1. Las llamadas de Gael**
+
+Gael recibe llamadas de telefonía, viajes y tiendas todo el día.
+- *¿Qué hace?* Inscribe sus números en el REPEP y espera 30 días.
+
+
+**Caso 2. La tarjeta de Valeria**
+
+Un banco llama a Valeria cada semana para ofrecerle una tarjeta que no quiere.
+- *¿Qué hace?* Se inscribe en el REUS de CONDUSEF y renueva cada dos años.
+
+
+**Caso 3. La línea de Toño**
+
+Toño consulta su CURP y aparece una línea de otra compañía que nunca contrató.
+- *¿Qué hace?* Pide que la desvinculen y revisa su Buró por si usaron sus datos.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar por inscribirte | Es fraude: los registros son gratis | Hazlo tú en el sitio oficial |
+| Inscribir solo el celular | Siguen llamando al fijo | Registra cada número |
+| Olvidar renovar el REUS | Vuelve la publicidad financiera | Anota la fecha en tu calendario |
+| Denunciar sin evidencia | No se puede proceder | Anota número, fecha y hora |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Valeria y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te llaman para venderte paquetes de telefonía y viajes. ¿Dónde te inscribes? a) En el REUS de CONDUSEF · b) En el REPEP de Profeco · c) En el Buró de Crédito
+2. Te llaman para cobrar una deuda que sí tienes. ¿La detiene el REPEP? a) No: tiene sus propias reglas · b) Sí, en 30 días · c) Sí, si también estás en el REUS
+3. Te llaman para "inscribirte en el REPEP" por 200 pesos. ¿Qué es? a) Una cuota oficial por el trámite · b) Un servicio útil si tienes prisa · c) Un fraude: el registro es gratis
+**Respuestas:** 1-b: el REPEP cubre publicidad de bienes y servicios. 2-a: la cobranza tiene horario y reglas propias (M8 U04). 3-c: los registros son gratuitos y los haces tú.
+
+
+
+#### Ponlo en práctica
+
+Haz tu lista de números por inscribir y la fecha en que lo harás.
+**Respuesta:** Por ejemplo: celular y fijo en el REPEP hoy; correo y celular en el REUS hoy; renovar el REUS en septiembre de 2028; consultar mis líneas con mi CURP esta semana.
+
+
+
+#### A tu plan
+
+Inscribe hoy tus números en el REPEP y en el REUS, consulta qué líneas tienes a tu nombre y agenda la renovación del REUS dentro de dos años.
+
+
+
+### Para saber más
+
+- **REPEP** (Profeco · español): https://repep.profeco.gob.mx — **Qué buscar:** "Registrar teléfono" y "Denunciar".
+- **REUS** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** "REUS" para inscribirte o renovar.
+- **Consulta de líneas** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx — **Qué buscar:** plataformas de consulta de las compañías telefónicas.
+
+### Palabras clave
+
+- *REPEP:* Registro Público para Evitar Publicidad, de Profeco.
+- *REUS:* Registro Público de Usuarios, de CONDUSEF, para no recibir publicidad financiera.
+- *Desvincular:* quitar de tu CURP una línea que no es tuya.
+
+### Fuentes
+
+Profeco (REPEP) · CONDUSEF (REUS y Reglas del Registro Público de Usuarios, DOF) · Comisión Reguladora de Telecomunicaciones, consultados el 29 de septiembre de 2026.
+
+---
+
+## M9 U09. Si ya te pasó: tu plan de respuesta
 
 **Lo que lograrás:** Seguir en orden los pasos para responder a un fraude: bloquear, llamar al número oficial, reclamar por escrito, reportar a CONDUSEF, denunciar y avisar sin exponer tus datos.
 

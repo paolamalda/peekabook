@@ -59,7 +59,7 @@ Crea estos foros. En **todos**:
 | Dudas: mi dinero, el SAT, contratos y regalías | Foro estándar que aparece en un formato similar a un blog | "Módulos 1 a 3. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: crédito, Buró y deudas | Foro estándar que aparece en un formato similar a un blog | "Módulos 4 a 8. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: fraudes, protección y futuro | Foro estándar que aparece en un formato similar a un blog | "Módulos 9 a 11. Usa la plantilla del capítulo 3 de la guía." |
-| Alertas de fraude | Foro para uso general | "Avisa de falsos castings, mensajes o páginas falsas y apps sospechosas. Si ya te afectó, sigue M9 U08." |
+| Alertas de fraude | Foro para uso general | "Avisa de falsos castings, mensajes o páginas falsas y apps sospechosas. Si ya te afectó, sigue M9 U09." |
 | Logros | Foro para uso general | "Comparte tus avances y los retos del mes que cumpliste." |
 
 Si en tu versión de Moodle el tipo "similar a un blog" no aparece con ese nombre, usa "Foro para uso general" y repórtalo.

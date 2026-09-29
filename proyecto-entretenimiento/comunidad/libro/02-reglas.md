@@ -30,7 +30,7 @@ Estas reglas protegen tu información y la de todas las personas de la comunidad
 
 ## Si algo te parece fraude
 
-Publícalo en **Alertas de fraude** sin datos personales, o escribe en privado al equipo. Si ya te afectó, sigue tu plan de respuesta (M9 U08): bloquea, reclama por escrito, reporta al 088 y a CONDUSEF.
+Publícalo en **Alertas de fraude** sin datos personales, o escribe en privado al equipo. Si ya te afectó, sigue tu plan de respuesta (M9 U09): bloquea, reclama por escrito, reporta al 088 y a CONDUSEF.
 
 ## Referencias comerciales
 

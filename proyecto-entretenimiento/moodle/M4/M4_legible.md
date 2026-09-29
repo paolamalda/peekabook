@@ -608,7 +608,7 @@ Tienes 10 días hábiles después de firmar un contrato de adhesión para cancel
 
 #### REUS: menos llamadas de venta
 
-Si te inscribes en el Registro Público de Usuarios (REUS) de CONDUSEF, las instituciones no deben usar tu información para ofrecerte productos por teléfono o mensaje.
+Si te inscribes en el Registro Público de Usuarios (REUS) de CONDUSEF, las instituciones no deben usar tu información para ofrecerte productos por teléfono o mensaje. El paso a paso, junto con el REPEP de Profeco para la publicidad de tiendas y servicios, está en M9 U08.
 
 > **Dato vigente:** UNE, RECA y REUS de CONDUSEF. Consultado el 29 de septiembre de 2026 a través de su sitio oficial.
 

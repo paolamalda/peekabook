@@ -11,6 +11,9 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 | Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito | Un reporte gratis cada 12 meses en cada uno | Solo sitios oficiales |
 | Proteger tu historial | Bloqueo y Alertas de Buró de Crédito | Según el servicio | Condiciones vigentes |
 | Cobranza abusiva | REDECO de CONDUSEF | Gratis | Datos del despacho |
+| Llamadas y mensajes de publicidad de tiendas, telefonía o viajes | REPEP de Profeco: repep.profeco.gob.mx, 55 5568 8722 o 800 468 8722 | Gratis | Deja de aplicar a los 30 días; denuncia si siguen |
+| Llamadas y mensajes de publicidad de bancos y financieras | REUS de CONDUSEF: 55 5340 0999 o 800 999 8080 | Gratis | Hasta 45 días para aplicar; renueva cada dos años |
+| Líneas de celular registradas con tu CURP | Plataformas de consulta de la Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) y tu compañía | Gratis | Desvincula las que no son tuyas |
 | Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Evidencia |
 | Casas de empeño y crédito de tiendas propias | Profeco | Gratis | Contrato y recibos |
 | Aseguradoras y agentes | CNSF y CONDUSEF | Gratis | Cédula del agente |
@@ -46,6 +49,8 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 **¿Dónde hago preguntas?** En el foro de la comunidad. No publiques datos personales ni capturas de tus cuentas.
 
-**¿Qué hago si soy víctima de un fraude ahora mismo?** Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U08).
+**¿Qué hago si soy víctima de un fraude ahora mismo?** Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U09).
+
+**¿Cómo dejo de recibir llamadas de publicidad?** Inscribe cada número en el REPEP de Profeco (tiendas y servicios) y regístrate en el REUS de CONDUSEF (bancos y financieras). Son gratis; nadie te debe cobrar por inscribirte. No detienen la cobranza ni los fraudes (M9 U08).
 
 **¿Qué pasa con los servicios que se anuncian en el canal de la comunidad?** Son opcionales y están marcados como referencia comercial. Usarlos no afecta tu acceso ni tu constancia.

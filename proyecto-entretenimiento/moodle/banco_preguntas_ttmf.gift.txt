@@ -1024,19 +1024,37 @@ $CATEGORY: $course$/Tu Talento/M9
 	~El grupo de inversión #No es la mejor opción. La CNBV publica advertencias.
 }
 
-::M9 U08 P1::¿Qué haces primero ante cargos que no reconoces? {
+::M9 U08 P1::Te llaman para venderte paquetes de telefonía y viajes. ¿Dónde te inscribes? {
+	~En el REUS de CONDUSEF #No es la mejor opción. El REPEP cubre publicidad de bienes y servicios.
+	=En el REPEP de Profeco #¡Correcto! El REPEP cubre publicidad de bienes y servicios.
+	~En el Buró de Crédito #No es la mejor opción. El REPEP cubre publicidad de bienes y servicios.
+}
+
+::M9 U08 P2::Te llaman para cobrar una deuda que sí tienes. ¿La detiene el REPEP? {
+	=No\: tiene sus propias reglas #¡Correcto! La cobranza tiene horario y reglas propias (M8 U04).
+	~Sí, en 30 días #No es la mejor opción. La cobranza tiene horario y reglas propias (M8 U04).
+	~Sí, si también estás en el REUS #No es la mejor opción. La cobranza tiene horario y reglas propias (M8 U04).
+}
+
+::M9 U08 P3::Te llaman para "inscribirte en el REPEP" por 200 pesos. ¿Qué es? {
+	~Una cuota oficial por el trámite #No es la mejor opción. Los registros son gratuitos y los haces tú.
+	~Un servicio útil si tienes prisa #No es la mejor opción. Los registros son gratuitos y los haces tú.
+	=Un fraude\: el registro es gratis #¡Correcto! Los registros son gratuitos y los haces tú.
+}
+
+::M9 U09 P1::¿Qué haces primero ante cargos que no reconoces? {
 	~Esperar al estado de cuenta #No es la mejor opción. Evita más cargos.
 	~Publicarlo en redes #No es la mejor opción. Evita más cargos.
 	=Bloquear tus tarjetas #¡Correcto! Evita más cargos.
 }
 
-::M9 U08 P2::¿A qué número reportas delitos en línea? {
+::M9 U09 P2::¿A qué número reportas delitos en línea? {
 	=088 #¡Correcto! Es la línea de la Guardia Nacional para delitos en línea.
 	~911 para todo #No es la mejor opción. Es la línea de la Guardia Nacional para delitos en línea.
 	~Al número del mensaje #No es la mejor opción. Es la línea de la Guardia Nacional para delitos en línea.
 }
 
-::M9 U08 P3::¿Qué guardas como evidencia? {
+::M9 U09 P3::¿Qué guardas como evidencia? {
 	~Nada #No es la mejor opción. Sin evidencia es difícil reclamar.
 	~Solo tu contraseña, para que la revisen #No es la mejor opción. Sin evidencia es difícil reclamar.
 	=Capturas, números, estados de cuenta y folios #¡Correcto! Sin evidencia es difícil reclamar.

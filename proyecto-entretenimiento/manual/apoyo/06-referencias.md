@@ -41,7 +41,8 @@ Fuentes consultadas el 28 y 29 de septiembre de 2026. Las reglas, tasas y requis
 - **I14** INDAUTOR: reservas de derechos y sociedades de gestión colectiva.
 - **I15** IMPI: registro de marcas.
 - **I16** Guardia Nacional, CERT-MX: 088.
-- **I17** Profeco: casas de empeño y derechos del consumidor.
+- **I17** Profeco: casas de empeño, derechos del consumidor y REPEP (Registro Público para Evitar Publicidad).
+- **I19** Comisión Reguladora de Telecomunicaciones: registro de líneas móviles con CURP, consulta y desvinculación.
 - **I18** PROFEDET: defensa de las personas trabajadoras.
 
 ## Organizaciones del medio
