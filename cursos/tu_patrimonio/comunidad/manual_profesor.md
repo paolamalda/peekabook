@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso, no un curso aparte con contenido p
 
 | | Curso (TPTF-MX) | Comunidad (TPTF-COM) |
 |---|---|---|
-| Para qué | Aprender: 11 módulos, 52 lecciones | Acompañar: sesiones, dudas, alertas, logros y línea de apoyo |
+| Para qué | Aprender: 11 módulos, 54 lecciones | Acompañar: sesiones, dudas, alertas, logros y línea de apoyo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No |
 | Quién entra | Las inscritas al programa | Las mismas personas, desde un enlace en el curso |
@@ -265,9 +265,9 @@ Si una participante dice que alguien le quitó su tarjeta, decide sus gastos o l
 | Cuentas, IPAB, fondo de emergencia, Cetes | M5 U01 a U04 |
 | Inversiones, estado de cuenta, asesores, inversiones milagro | M6 U01 a U05 |
 | Pensiones, AFORE, Modalidad 40, viudez, Bienestar, ISSSTE, cálculo de retiro | M7 U01 a U06 |
-| Seguro de gastos médicos, vida, casa y auto | M8 U01 a U05 |
+| Seguro de gastos médicos, vida, casa y auto, desastres | M8 U01 a U06 |
 | Declaración, retenciones, deducciones | M9 U01 a U03 |
-| Testamento, beneficiarios, poderes, hijos, viudez o separación | M10 U01 a U05 |
+| Testamento, beneficiarios, poderes, hijos, viudez o separación, casa | M10 U01 a U06 |
 | Decidir con calma, control económico, plan de una página | M11 U01 a U03 |
 
 ---

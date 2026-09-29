@@ -46,4 +46,8 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 **¿La constancia tiene validez oficial?** Es un reconocimiento educativo del programa, verificable en línea. No es una licencia ni una acreditación oficial.
 
+**¿Qué hago después de un sismo o una inundación?** Primero tu seguridad. Toma fotos de los daños, reporta a tu aseguradora por su número oficial y no pagues nada por adelantado. Los apoyos de gobierno son gratuitos (M8 U06).
+
+**¿Terminé de pagar mi casa y ya está todo?** Falta inscribir la liberación de hipoteca con una notaría (M10 U06).
+
 **¿Qué hago si un dato cambió?** Confírmalo en CONDUSEF, la CNBV o el sitio oficial de la institución y usa la información vigente.

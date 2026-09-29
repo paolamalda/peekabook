@@ -37,3 +37,5 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **M04** Notas informativas sobre Modalidad 40 y pensión de viudez del IMSS en 2026.
 - **M06** Decreto del 24 de junio de 2025 (DOF) sobre la edad de jubilación en el décimo transitorio del ISSSTE y notas informativas de 2026.
 - **M05** Notas informativas sobre el registro de líneas móviles con CURP.
+- **M07** Ley sobre el Contrato de Seguro y guías de CONDUSEF sobre seguro de casa y siniestros.
+- **M08** Infonavit y Fovissste: seguro del crédito, cancelación de hipoteca y subcuenta de vivienda.

@@ -206,6 +206,11 @@ CASOS = {
  ("Pide cotizar la cobertura de sismo.", "Supone que el seguro la incluye.", "Espera a que haya un sismo para revisar."),
  ("Llama a su aseguradora y espera al ajustador.", "Acepta arreglarse sin llamar al seguro.", "Admite la culpa para terminar rápido."),
 ],
+"M8 U06": [
+ ("No paga y reporta a su aseguradora.", "Paga la mitad para apartar la obra.", "Paga todo para que empiece hoy."),
+ ("Las guarda en alto y saca copia digital.", "Las deja en la caja; nunca se ha inundado.", "Se las da a un vecino para que las guarde."),
+ ("No paga y se informa por canales oficiales.", "Paga para no quedarse sin el apoyo.", "Paga y pide recibo para comprobar."),
+],
 "M9 U01": [
  ("Revisa sus ingresos con una contadora o el SAT.", "Hace caso a su hijo y no declara.", "Espera a que el SAT la busque."),
  ("La tramita para ver su información.", "La evita para que el SAT no la note.", "Le pide a un gestor que la tramite."),
@@ -245,6 +250,11 @@ CASOS = {
  ("Le dice que lo verá en tres meses.", "Acepta el cambio para no perder rendimiento.", "Vende todo y lo deja en la cuenta."),
  ("Abre una cuenta propia y busca asesoría.", "Firma el convenio para terminar rápido.", "Sigue usando la cuenta de su pareja."),
  ("Pospone la decisión 90 días.", "Presta porque el familiar lo necesita.", "Presta la mitad para quedar bien."),
+],
+"M10 U06": [
+ ("Pide la carta y la inscribe con una notaría.", "Lo deja así; ya pagó todo.", "Pide a un gestor que lo arregle sin notaría."),
+ ("No paga hasta que una notaría lo revise.", "Paga el apartado para no perderlo.", "Firma un recibo con el vendedor y paga."),
+ ("Busca el seguro de vida del crédito y reclama.", "Sigue pagando el crédito sin preguntar.", "Deja de pagar y espera noticias."),
 ],
 "M11 U01": [
  ("Pide el documento y espera 72 horas.", "Firma para no perder el regalo.", "Firma y cancela después si no le gusta."),

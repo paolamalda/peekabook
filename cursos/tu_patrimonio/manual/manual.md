@@ -16,7 +16,7 @@ Educación financiera para mujeres que administran su casa y su patrimonio en M�
 | Público | Mujeres residentes en México, de 45 a 75 años aproximadamente, dedicadas al hogar, con nivel socioeconómico medio o medio alto. Algunas trabajan; muchas tienen o tendrán una pensión; llevan cuentas personales, tienen ahorros y, a veces, inversiones |
 | Tono | Tuteo cálido, español de México, frases cortas, sin tecnicismos, sin culpas y sin paternalismo |
 | Formato | Mixto: curso en Moodle 3.10 (lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluaciones y constancia), sesiones de acompañamiento en grupo, práctica guiada con el celular y libro de apoyo imprimible |
-| Duración | 11 módulos, 52 lecciones |
+| Duración | 11 módulos, 54 lecciones |
 | Eje | Protección contra fraudes y robo de identidad, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -60,9 +60,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M5 Tus cuentas y tu ahorro protegido | 4 | Cuentas revisadas, ahorro dentro del IPAB y fondo de emergencia |
 | M6 Tus inversiones | 5 | Qué tienes, cuánto rinde, cuánto cuesta y quién te asesora |
 | M7 Pensión y retiro | 6 | Mapa de pensiones (IMSS e ISSSTE) y cálculo de retiro |
-| M8 Salud y seguros | 5 | Seguro de gastos médicos entendido y comparado |
+| M8 Salud y seguros | 6 | Seguro de gastos médicos entendido y comparado; patrimonio preparado para un desastre |
 | M9 Impuestos sin miedo | 3 | Saber si declaras, qué te retienen y qué deduces |
-| M10 Patrimonio y familia | 5 | Testamento, beneficiarios y documentos en orden |
+| M10 Patrimonio y familia | 6 | Testamento, beneficiarios, documentos y casa en orden |
 | M11 Decidir con calma y tu plan | 3 | Plan de una página y reglas para decidir sin presión |
 
 **Insignias:** Mi mapa en orden (M1 y M2), Celular con candado (M3), Nadie me engaña (M4), Ahorro protegido (M5 y M6), Retiro claro (M7), Salud asegurada (M8 y M9), Familia en orden (M10) y Plan completo (curso).
@@ -169,6 +169,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U05 · Casa y auto: lo básico** Qué cubre un seguro de casa y de auto, y qué revisar al renovar.
 
+**M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado** Documentos con copia digital, fotos, seguro con tu riesgo, qué hacer después del siniestro y fraudes tras un desastre.
+
 ## Módulo 9. Impuestos sin miedo
 
 **M9 U01 · ¿Tengo que declarar?** Cuándo sí, cuándo no, RFC y e.firma sin miedo.
@@ -188,6 +190,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M10 U04 · Ayudar a los hijos sin descuidar tu futuro** Préstamos, avales, herencia en vida y límites.
 
 **M10 U05 · Viudez o separación: los primeros 90 días** Qué hacer primero, qué no firmar y a quién acudir.
+
+**M10 U06 · Tu casa: escrituras, predial y crédito en orden** Escritura inscrita, liberación de hipoteca, predial, seguro del crédito, subcuenta de vivienda y fraudes con terrenos.
 
 ## Módulo 11. Decidir con calma y tu plan
 
@@ -267,5 +271,6 @@ Cada lección toma de 10 a 15 minutos (5 si solo se lee lo esencial), más la ac
 | P13 | Asesores en inversiones | Deben estar en el Registro de Asesores en Inversiones de la CNBV | CNBV |
 | P14 | Jubilación ISSSTE, décimo transitorio | En 2026 y 2027: mujeres 56 años y 28 de servicio; hombres 58 años y 30 de servicio; baja gradualmente hasta 53 y 55 años en 2034 | Decreto DOF 24-jun-2025; ISSSTE |
 | P15 | Viudez ISSSTE | 100% de la pensión que recibía o le habría correspondido a la persona fallecida; si falleció en activo por causas ajenas al trabajo, al menos 3 años cotizados | Ley del ISSSTE; ISSSTE |
+| P16 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir los documentos e información; reclamación gratuita en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
 
 **Datos que se confirman en cada sesión o renovación:** precios de pólizas, tasas de Cetes, costos notariales y montos de programas sociales.

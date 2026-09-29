@@ -13,4 +13,5 @@ Cada cifra de las lecciones va en un recuadro «Dato vigente» con fecha y fuent
 | Cada seis meses | Cifras de fraude de CONDUSEF | M4 U01 |
 | Cada año | REPEP, REUS y registro de líneas con CURP | M4 U06, M4 U07 |
 | Septiembre | Mes del Testamento: costos y notarías | M10 U01 |
+| Cada año | Trámites de Infonavit y Fovissste (cancelación de hipoteca, subcuenta) y descuentos del predial | M10 U06 |
 | Después de cualquier cambio de contenido | Regenerar libros, H5P y banco y volver a armar la carpeta | Herramientas del proyecto |
