@@ -604,9 +604,11 @@ Sigue en la ANDA para sus condiciones de trabajo.
 
 #### Servicios para agremiados de la ANDA
 
-La ANDA ofrece servicios a sus agremiados, entre ellos servicios de salud.
+La ANDA tiene clínicas con consulta de medicina general para sus agremiados, con una cuota de recuperación, y el servicio médico completo aplica a miembros activos al corriente en sus cuotas y a miembros honorarios. En años recientes suspendió servicios a beneficiarios por problemas económicos.
 
-> **Dato por confirmar:** qué servicios de salud ofrece hoy la ANDA y con qué requisitos. Consultado el 29 de septiembre de 2026 a través de su sitio oficial. Antes de decidir, confírmalo directamente con la ANDA.
+En septiembre de 2026, el IMSS y la ANDA firmaron un convenio para que trabajadores independientes de actuación, doblaje, canto, danza, música, conducción y modelaje se incorporen voluntariamente al Seguro Social, con sus beneficiarios (M10 U02).
+
+> **Dato vigente:** servicios médicos de la ANDA (cuota de consulta de 250 pesos para agremiados, según medios) y convenio IMSS-ANDA publicado el 20 de septiembre de 2026. Consultado el 29 de septiembre de 2026 a través de la ANDA, el IMSS y medios informativos. Confirma requisitos y costos directamente con la ANDA.
 
 
 
@@ -777,9 +779,14 @@ Si tu trabajo se transmite en otros países, las sociedades mexicanas suelen ten
 
 #### Las regalías también se declaran
 
-Las regalías son ingresos y se declaran. Cómo se declaran y si causan IVA depende de tu papel y de tu régimen.
+Las regalías son ingresos y se declaran. Para **autores** (por ejemplo, compositores) hay dos beneficios con reglas:
 
-> **Dato por confirmar:** el tratamiento de ISR e IVA de las regalías por derechos de autor e interpretación. Consultado el 29 de septiembre de 2026 a través de la LISR y la Ley del IVA. Antes de decidir, confírmalo con tu contador o en el sitio del SAT.
+- **ISR:** exención de hasta 20 UMA anuales por ciertos ingresos, como la reproducción en serie de grabaciones de sus obras musicales o la publicación de obras escritas, si se cumplen los requisitos (artículo 93, fracción XXIX, de la LISR).
+- **IVA:** exención cuando el autor transmite temporalmente sus derechos patrimoniales u otorga licencias sobre obras inscritas en el Registro Público del Derecho de Autor (artículo 15, fracción XVI, de la Ley del IVA).
+
+Para **intérpretes** (actores, músicos ejecutantes), estos beneficios no aplican de la misma forma. Lleva tus liquidaciones a tu contador.
+
+> **Dato vigente:** artículo 93, fracción XXIX, de la LISR y artículo 15, fracción XVI, de la Ley del IVA. Consultado el 29 de septiembre de 2026 a través del SAT y publicaciones fiscales especializadas. El tratamiento de las regalías de intérpretes confírmalo con tu contador.
 
 
 

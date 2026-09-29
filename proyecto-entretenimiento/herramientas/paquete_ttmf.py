@@ -2,7 +2,7 @@
 import re, os, glob, shutil, zipfile, subprocess, sys
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(BASE, "herramientas")); from build_ttmf import TITULOS
-name = "TTMF_03_Curso_completo_v1"
+name = "TTMF_04_Curso_completo_v1.1"
 out = os.path.join("/tmp", name); shutil.rmtree(out, ignore_errors=True)
 D = {k: os.path.join(out, k) for k in ["1_libros", "2_h5p", "3_glosario", "4_preguntas", "5_insignias", "6_certificado", "7_guias", "8_vista_previa"]}
 for d in D.values(): os.makedirs(d)
@@ -30,7 +30,8 @@ for p in glob.glob(f"{M}/certificado/*.png"): shutil.copy(p, D["6_certificado"])
 I = f"{M}/instalacion"
 for f in ["guia_gamificacion_ttmf.md", "comunidad_y_canales.md"]: shutil.copy(f"{I}/{f}", D["7_guias"])
 shutil.copy(f"{BASE}/manual/TTMF_manual_v2.md", D["7_guias"]); shutil.copy(f"{BASE}/manual/TTMF_manual_v2.docx", D["7_guias"])
-open(f"{D['7_guias']}/datos_por_confirmar.txt", "w").write("DATOS POR CONFIRMAR (consultados el 29 de septiembre de 2026)\nConfírmalos en CONDUSEF, la CNBV o el sitio oficial de cada institución antes de abrir el curso.\n\n" + "\n".join(f"- {p}" for p in pend) + "\n")
+man = open(f"{BASE}/manual/TTMF_manual_v2.md").read()
+open(f"{D['7_guias']}/datos_verificados.md", "w").write(man[man.index("# 7. Datos verificados"):])
 legs = [f"{M}/{m}/{m}_legible.md" for m in mods]
 open(f"/tmp/ttmf_legible.md", "w").write("\n\n---\n\n".join(open(p).read() for p in legs))
 shutil.copy("/tmp/ttmf_legible.md", f"{D['7_guias']}/TTMF_lecciones_completas.md")
@@ -55,4 +56,4 @@ for pn, keep in parts:
                 if pn != "parte1_curso" and f == "LEEME.txt": continue
                 p = os.path.join(r, f); zf.write(p, os.path.join(name, os.path.relpath(p, out)))
     print(z, round(os.path.getsize(z) / 1048576, 1), "MB")
-print(len(entries), "términos ·", len(glob.glob(f"{out}/2_h5p/*/*.h5p")), "H5P ·", len(pend), "datos por confirmar")
+print(len(entries), "términos ·", len(glob.glob(f"{out}/2_h5p/*/*.h5p")), "H5P ·", len(pend), "datos por confirmar en lecciones")

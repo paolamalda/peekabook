@@ -245,9 +245,12 @@ No te cambies por un regalo o la promesa de un agente: compara con los datos ofi
 
 #### Tipos de aportación voluntaria
 
-Puedes aportar de corto plazo (puedes retirarlo después de un tiempo) o de largo plazo para tu retiro. Algunas aportaciones pueden ser deducibles si presentas declaración anual y no estás en RESICO (M11 U04).
+- **De corto plazo o libre disposición:** puedes retirarlas después del plazo mínimo que te indique tu AFORE. No son deducibles.
+- **Complementarias de retiro y de largo plazo:** se quedan hasta que cumplas 65 años o tengas una incapacidad o invalidez. Son deducibles si presentas declaración anual y no estás en RESICO (M11 U04).
 
-> **Dato por confirmar:** plazos de retiro de las aportaciones voluntarias, montos mínimos y reglas de deducibilidad. Consultado el 29 de septiembre de 2026 a través de CONSAR. Antes de decidir, confírmalo en CONSAR o en el sitio oficial de tu AFORE.
+Para deducir, la factura debe tener el uso D06 (aportaciones voluntarias al SAR) y el pago debe salir de una cuenta a tu nombre.
+
+> **Dato vigente:** tipos de aportación voluntaria y reglas de deducción (artículo 151, fracción V, de la LISR). Consultado el 29 de septiembre de 2026 a través del SAT, CONSAR y AFORE. El plazo mínimo para retirar aportaciones de corto plazo lo fija cada AFORE: consúltalo en la tuya.
 
 
 
@@ -416,9 +419,11 @@ Pidió asesoría gratuita en el IMSS para calcular cuánto mejoraría su pensió
 
 #### Cambios y controles en 2026
 
-El IMSS anunció controles y requisitos más estrictos para la Modalidad 40 en 2026. Infórmate directamente en el IMSS antes de decidir.
+En 2026 la cuota es de 14.438% del salario que elijas, entre 3 y 25 UMA diarias (con la UMA de 117.31 pesos, el tope es 2,932.75 pesos diarios). El porcentaje sube cada año por la reforma de pensiones de 2020, hasta llegar a 18.8% en 2030.
 
-> **Dato por confirmar:** porcentaje de la cuota (14.438% en 2026), tope de 25 UMA y reglas vigentes de la Modalidad 40 (artículo 218 de la Ley del Seguro Social, trámite IMSS-02-007). Consultado el 29 de septiembre de 2026 a través del IMSS y medios informativos. Antes de decidir, confírmalo en el sitio oficial del IMSS.
+El IMSS reforzó en 2026 la vigilancia de registros, salarios y semanas para evitar irregularidades.
+
+> **Dato vigente:** artículo 218 de la Ley del Seguro Social, trámite IMSS-02-007, reforma de pensiones (DOF 16 de diciembre de 2020) y UMA 2026. Consultado el 29 de septiembre de 2026 a través del IMSS y medios informativos. Pide al IMSS una proyección de tu pensión antes de decidir.
 
 
 
@@ -571,7 +576,7 @@ Gael preguntó a su contador. Como está en RESICO, el PPR no le daría deducci�
 
 Si retiras antes de la edad que marcan las reglas (en general, 65 años), pierdes el beneficio y te retienen impuestos. Solo pon en un PPR dinero que no necesitarás antes.
 
-> **Dato por confirmar:** tope de deducción (10% de los ingresos, sin pasar de 5 UMA anuales), edad de retiro y retención por retiro anticipado del PPR (artículo 151, fracción V, de la LISR). Consultado el 29 de septiembre de 2026 a través de la LISR. Antes de decidir, confírmalo con tu contador o en el sitio del SAT.
+> **Dato vigente:** tope de deducción del PPR y aportaciones complementarias: 10% de tus ingresos del año, sin pasar de 5 UMA anuales (213,973.20 pesos en 2026), fuera del tope global de deducciones personales. Si retiras antes de los 65 años (salvo invalidez o incapacidad), te retienen 20% y el retiro se acumula a tus ingresos (artículos 142, fracción XVIII, y 151, fracción V, de la LISR). Consultado el 29 de septiembre de 2026 a través del SAT y la LISR.
 
 
 
@@ -923,9 +928,11 @@ La mensualidad del crédito, más seguros, mantenimiento y predial, debe caber e
 
 #### Infonavit y otras opciones
 
-Si cotizas en el IMSS, incluida la Modalidad 10, generas aportaciones a Infonavit que pueden servirte para un crédito. También hay créditos bancarios y esquemas que combinan ambos.
+Desde la reforma de diciembre de 2023, en la Modalidad 10 puedes elegir aportar a Infonavit: 5% del salario que registres. Esas aportaciones y tu historial te permiten solicitar un crédito Infonavit como trabajador independiente. El monto depende del ingreso que registres. También hay créditos bancarios y esquemas que combinan ambos.
 
-> **Dato por confirmar:** opciones de crédito de Infonavit para personas trabajadoras independientes y requisitos vigentes, y porcentaje típico de gastos notariales en tu estado. Consultado el 29 de septiembre de 2026 a través de Infonavit, el IMSS y CONDUSEF. Antes de decidir, confírmalo en Infonavit, en CONDUSEF o en el sitio oficial de la institución.
+Gastos de escrituración: en general, entre 4% y 7% del valor de la vivienda (en algunos estados más), y la mayor parte es el impuesto sobre adquisición de inmuebles, no los honorarios del notario.
+
+> **Dato vigente:** aportaciones a Infonavit en la Modalidad 10 y rangos de gastos de escrituración en 2026. Consultado el 29 de septiembre de 2026 a través del IMSS, Infonavit y medios informativos. El impuesto de adquisición cambia por estado: pide cotización a un notario.
 
 
 

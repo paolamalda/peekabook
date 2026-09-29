@@ -37,7 +37,7 @@ Por eso el crédito es el eje del programa (módulos 4 a 8), sin recortar lo fis
 3. No damos asesoría fiscal ni legal personalizada: enseñamos a entender y a preparar preguntas para un contador o un abogado.
 4. Para guardar dinero solo mencionamos opciones con respaldo del gobierno o de la protección del IPAB. No recomendamos SOFIPO, SOCAP ni SOFOM; se explican solo para que la persona sepa qué son.
 5. Ningún servicio con fines comerciales aparece dentro de las lecciones (ver sección 5).
-6. Las cifras que cambian (tasas, UMA, UDIS, límites) llevan fecha y se marcan [POR CONFIRMAR] hasta verificarlas con la fuente oficial.
+6. Las cifras que cambian (tasas, UMA, UDIS, límites) llevan fecha y indican la fecha y la fuente de consulta; al estudiante se le pide confirmarlas en CONDUSEF, la CNBV o el sitio oficial de la institución.
 
 ## Personajes
 
@@ -91,7 +91,7 @@ Opciones que enseñamos a comparar:
 - **Cetes en Cetesdirecto:** valores del gobierno federal, desde 100 pesos, sin comisiones. BONDDIA permite retirar al día siguiente.
 - **Inversión o cuenta a la vista en un banco**, incluidos bancos digitales. A septiembre de 2026:
   - **Revolut** recibió de la CNBV, con aprobación de Banxico, la autorización para operar como institución de banca múltiple; inició con una fase beta antes de su lanzamiento amplio.
-  - **Nu México** era SOFIPO; recibió en abril de 2025 la autorización para constituirse como banco, y en julio de 2026 la CNBV le autorizó iniciar operaciones como banco. [POR CONFIRMAR en el padrón de la CNBV antes de publicar: que todos los productos de ahorro ya estén en el banco y no en la SOFIPO]
+  - **Nu México** era SOFIPO; recibió en abril de 2025 la autorización para constituirse como banco, y en julio de 2026 la CNBV le autorizó iniciar operaciones como banco. La lección pide al estudiante confirmarlo en el padrón de la CNBV y revisar que su contrato diga "Institución de Banca Múltiple".
   - En cualquier banco, el IPAB protege los depósitos hasta 400,000 UDIS por persona y por banco (unos 3.4 millones de pesos).
   - Regla para la persona: antes de depositar, busca la entidad en el padrón de la CNBV y confirma que el nombre legal del contrato diga "Institución de Banca Múltiple".
 
@@ -123,7 +123,7 @@ Tabla mensual de RESICO (artículo 113-E de la LISR, sin cambios para 2026): has
 Tres puntos que la lección aclara:
 - **Asimilados y RESICO.** Si una productora te paga honorarios como asimilados a salarios (porque así lo pediste por escrito o porque le prestas servicios de forma preponderante), la ley te excluye de RESICO. Esa combinación, común en el medio, se revisa con el contador.
 - **Sin deducciones.** RESICO no permite restar gastos del negocio ni deducciones personales (gastos médicos, colegiaturas, PPR).
-- **Declaración anual.** La ley (artículo 113-G) la pide, pero la Resolución Miscelánea Fiscal ha liberado de presentarla en ciertos casos a partir del ejercicio 2024. [POR CONFIRMAR cada año con la RMF vigente]
+- **Declaración anual.** La ley (artículo 113-G) la pide, pero la Resolución Miscelánea Fiscal (regla 3.13.7 de la RMF 2026) libera de presentarla a quien estuvo en RESICO todo el año, presentó todos sus pagos mensuales, no rebasó 3.5 millones y no tuvo otros ingresos.
 
 Gancho: Gael no sabe si le conviene RESICO: gasta mucho en vestuario y cursos, que en RESICO no se deducen, y una productora le paga como asimilado.
 
@@ -160,7 +160,7 @@ Objetivo: saber a qué organización mexicana acudir según lo que necesitas:
 
 | Organización | Qué es | Para qué te sirve |
 |---|---|---|
-| **ANDA** (Asociación Nacional de Actores) | Sindicato de actrices y actores de cine, teatro, radio, televisión, doblaje, stunts y centros nocturnos | Tu actividad laboral: agremiación, contratos, tabuladores, condiciones de trabajo y servicios para sus agremiados, incluidos servicios de salud [POR CONFIRMAR: servicios vigentes] |
+| **ANDA** (Asociación Nacional de Actores) | Sindicato de actrices y actores de cine, teatro, radio, televisión, doblaje, stunts y centros nocturnos | Tu actividad laboral: agremiación, contratos, tabuladores, condiciones de trabajo y servicios para sus agremiados, incluidos servicios de salud; clínicas con consulta para agremiados y, desde el 20 de septiembre de 2026, convenio con el IMSS para la incorporación voluntaria de artistas independientes |
 | **ANDI** (Asociación Nacional de Intérpretes) | Sociedad de gestión colectiva autorizada por INDAUTOR | Cobra y reparte tus regalías como intérprete por retransmisiones de programas, telenovelas, películas y fonogramas, en México y el extranjero |
 | **SACM** (Sociedad de Autores y Compositores de México) | Sociedad de gestión colectiva | Regalías de autores y compositores de música |
 | **EJE** (Ejecutantes) | Sociedad de gestión colectiva | Regalías de músicos ejecutantes y cantantes de agrupaciones |
@@ -170,7 +170,7 @@ Idea clave: muchas personas creen que la ANDA cobra las regalías; la ANDA regul
 Gancho: Gael es miembro de la ANDA y cree que ahí le llegan sus regalías de una telenovela que se retransmite en Sudamérica.
 
 **M3 U05 · Cómo cobro mis regalías y reviso mis pagos**
-Objetivo: afiliarte a la sociedad que te corresponde (ANDI, SACM, EJE o SOMEXFON), registrar tus obras o interpretaciones, revisar tus liquidaciones, desconfiar de gestores que cobran por "recuperar regalías" y saber que esos ingresos se declaran. [POR CONFIRMAR con contador: tratamiento de ISR e IVA de regalías por derechos de autor]
+Objetivo: afiliarte a la sociedad que te corresponde (ANDI, SACM, EJE o SOMEXFON), registrar tus obras o interpretaciones, revisar tus liquidaciones, desconfiar de gestores que cobran por "recuperar regalías" y saber que esos ingresos se declaran. Incluye las exenciones para autores (ISR hasta 20 UMA, artículo 93-XXIX LISR; IVA, artículo 15-XVI LIVA) y pide al intérprete revisar su caso con su contador.
 
 **M3 U06 · Cuando la productora no paga**
 Objetivo: documentar, reclamar por escrito, conocer penalizaciones pactadas y cuándo acudir a un abogado o a PROFEDET (si hay relación laboral).
@@ -248,7 +248,7 @@ Objetivo: saber que hay dos sociedades con la misma función, que cada instituci
 Gancho: Toño revisó su Buró y todo estaba bien, pero le negaron un crédito por un atraso que solo aparece en Círculo.
 
 **M7 U03 · Pide tus reportes gratis: dos al año**
-Objetivo: obtener tu Reporte de Crédito Especial gratis la primera vez y después una vez cada 12 meses en **cada** sociedad: uno en Buró y otro en Círculo. Se pide en sus sitios oficiales con tus datos y preguntas de seguridad; los reportes extra tienen costo (en Buró, unos 47 pesos por internet [POR CONFIRMAR]).
+Objetivo: obtener tu Reporte de Crédito Especial gratis la primera vez y después una vez cada 12 meses en **cada** sociedad: uno en Buró y otro en Círculo. Se pide en sus sitios oficiales con tus datos y preguntas de seguridad; los reportes extra tienen costo (47 pesos en Buró y desde 34.50 pesos en Círculo, por internet).
 Regla: pídelo solo en los sitios oficiales. Nadie más "te consulta el Buró gratis" a cambio de tus datos.
 
 **M7 U04 · Lee tu reporte**
@@ -267,17 +267,17 @@ Objetivo: conocer los plazos para que se elimine una deuda del historial, según
 | Más de 500 y hasta 1,000 UDIS | 4 años |
 | Más de 1,000 UDIS | 6 años |
 
-No se eliminan por plazo las deudas mayores a 400,000 UDIS, las que están en juicio y las relacionadas con un fraude. Eliminar el registro no borra la deuda: el acreedor puede seguir cobrando. [POR CONFIRMAR con LRSIC y Circular 27/2008: desde qué fecha se cuenta el plazo]
+No se eliminan por plazo las deudas mayores a 400,000 UDIS, las que están en juicio y las relacionadas con un fraude. Eliminar el registro no borra la deuda: el acreedor puede seguir cobrando. El plazo se cuenta desde que el incumplimiento se incorporó por primera vez al historial (artículo 23 LRSIC).
 Gancho: Toño cree que su atraso de hace siete años "lo tiene marcado de por vida".
 
 **M7 U07 · Si hay un error: reclama paso a paso**
-Objetivo: presentar una reclamación ante la unidad especializada del Buró o del Círculo, por escrito o en línea, con copia de tu reporte, los registros que impugnas y tus pruebas (por ejemplo, la carta de liquidación). La sociedad pide la información a la institución; si esta no la sustenta, el registro se corrige o se elimina. Hay reclamaciones gratuitas al año (en Círculo, dos gratis y las siguientes con costo) [POR CONFIRMAR: número de reclamaciones gratuitas y plazo de respuesta en LRSIC arts. 42 a 45]. Si no se resuelve, acude a CONDUSEF.
+Objetivo: presentar una reclamación ante la unidad especializada del Buró o del Círculo, por escrito o en línea, con copia de tu reporte, los registros que impugnas y tus pruebas (por ejemplo, la carta de liquidación). La sociedad pide la información a la institución; si esta no la sustenta, el registro se corrige o se elimina. Hay reclamaciones gratuitas al año (en Círculo, dos gratis y las siguientes a 80 pesos). La sociedad la envía a la institución en 5 días hábiles; la institución tiene 30 días naturales para responder o el registro se modifica o elimina como pidió la persona (artículos 42 a 44 LRSIC). Si no se resuelve, acude a CONDUSEF.
 
 **M7 U08 · Protege tu historial: bloqueo y alertas**
 Objetivo: conocer los servicios de protección:
-- **Bloqueo de Buró:** mientras está activo, nadie puede consultar tu historial, así que nadie puede abrir un crédito a tu nombre. Lo desbloqueas cuando tú vas a pedir un crédito. [POR CONFIRMAR: condiciones y costo vigentes]
-- **Alertas Buró:** te avisa cada vez que alguien consulta tu historial o se abre un crédito a tu nombre (con costo anual, unos 232 pesos [POR CONFIRMAR]).
-- Servicios equivalentes de Círculo de Crédito. [POR CONFIRMAR]
+- **Bloqueo de Buró:** mientras está activo, nadie puede consultar tu historial, así que nadie puede abrir un crédito a tu nombre. Cuesta 58 pesos por tres meses, con bloqueos y desbloqueos ilimitados en ese periodo; no se renueva solo.
+- **Alertas Buró:** te avisa cada vez que alguien consulta tu historial o se abre un crédito a tu nombre (232 pesos al año, incluye 4 Mi Score).
+- Círculo de Crédito: bloqueo temporal por tres meses y alertas "Avísame" (gratis) o "Avísame Mucho Más" (250 pesos al año).
 
 **M7 U09 · Despachos que "limpian tu Buró": fraude**
 Objetivo: reconocer que nadie puede borrar información correcta, que las reclamaciones las haces tú y son gratuitas, y que esos cobros son fraude.
@@ -341,7 +341,7 @@ Objetivo: seguir los pasos en orden: bloquear tarjetas y accesos, llamar a tu in
 Objetivo: comparar suma asegurada, deducible, coaseguro, tabulador y exclusiones.
 
 **M10 U02 · IMSS Modalidad 10: seguridad social para independientes**
-Objetivo: conocer la Modalidad 10 (incorporación voluntaria al régimen obligatorio para personas trabajadoras independientes), que desde la reforma de diciembre de 2023 es un derecho permanente: atención médica, incapacidades, invalidez y vida, retiro en tu AFORE y aportaciones a Infonavit. La cuota depende del ingreso que registres; se calcula con la calculadora del IMSS. Conocer también los servicios de salud de ANDA para sus agremiados. [POR CONFIRMAR: cuotas 2026 y servicios de ANDA]
+Objetivo: conocer la Modalidad 10 (incorporación voluntaria al régimen obligatorio para personas trabajadoras independientes), que desde la reforma de diciembre de 2023 es un derecho permanente: atención médica, incapacidades, invalidez y vida, retiro en tu AFORE y aportaciones a Infonavit. La cuota depende del ingreso que registres; se calcula con la calculadora del IMSS. Conocer también los servicios de salud de ANDA para sus agremiados. En 2026 se cotiza entre un salario mínimo (9,582.47 pesos al mes; cuota cercana a 2,500) y 25 UMA; aportar a Infonavit (5%) es opcional. Incluye el convenio IMSS-ANDA de septiembre de 2026.
 Gancho: Gael lleva seis años sin IMSS desde su último contrato de nómina.
 
 **M10 U03 · Si no puedes trabajar: incapacidad, invalidez y accidentes**
@@ -368,7 +368,7 @@ Objetivo: localizar tu AFORE con tu CURP (e-SAR o AforeMóvil), actualizar benef
 **M11 U03 · Modalidad 40: si cotizaste antes de julio de 1997**
 Objetivo: conocer la continuación voluntaria del IMSS (Modalidad 40) para personas de la Ley 73, que permite seguir sumando semanas y mejorar el salario con que se calcula la pensión.
 Requisitos: haber cotizado al menos 52 semanas en los últimos cinco años antes de la baja, pedirla dentro de los cinco años siguientes a la baja y no estar dado de alta como trabajador en ese momento.
-Costo 2026: 14.438% del salario que elijas, con tope de 25 UMA diarias. El IMSS endureció los controles en 2026. [POR CONFIRMAR: porcentaje y reglas vigentes]
+Costo 2026: 14.438% del salario que elijas, con tope de 25 UMA diarias. El IMSS endureció los controles en 2026. El porcentaje sube cada año hasta 18.8% en 2030.
 Diferencia con la Modalidad 10: la 10 es para quien trabaja por su cuenta hoy y te da servicio médico; la 40 es para quien ya no cotiza y quiere mejorar su pensión, y no incluye servicio médico.
 Gancho: Toño trabajó con nómina en una disquera de 1994 a 2021 y no sabe si le conviene la Modalidad 40 o la 10.
 
@@ -379,7 +379,7 @@ Objetivo: conocer el PPR y las aportaciones voluntarias deducibles (artículo 15
 Objetivo: entender riesgo, plazo, diversificación y comisiones, y verificar que el intermediario esté autorizado. Qué es un fondo de inversión o un ETF y por qué no se usa para el fondo de sequía.
 
 **M11 U06 · Vivienda: rentar, comprar o esperar**
-Objetivo: comparar el costo total de comprar (enganche, gastos notariales, avalúo, seguros) contra rentar, y conocer las opciones de crédito para personas independientes. [POR CONFIRMAR: opciones de Infonavit para personas no asalariadas]
+Objetivo: comparar el costo total de comprar (enganche, gastos notariales, avalúo, seguros) contra rentar, y conocer las opciones de crédito para personas independientes. En Modalidad 10 se puede aportar 5% a Infonavit y solicitar crédito; gastos de escrituración de 4% a 7% del valor, según el estado.
 
 **M11 U07 · Ingresos fuera de cámara**
 Objetivo: diversificar con clases, talleres, producción, marcas propias o consultoría, y calcular si un negocio paralelo realmente te deja ganancia.
@@ -466,7 +466,7 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | CNBV | https://www.gob.mx/cnbv | Padrón de entidades supervisadas |
 | IPAB | https://www.gob.mx/ipab | Qué depósitos protege y hasta cuánto |
 | Buró de Crédito | https://www.burodecredito.com.mx | Reporte de Crédito Especial, reclamaciones, Bloqueo y Alertas Buró |
-| Policía cibernética | [POR CONFIRMAR: contacto de la policía cibernética de cada estado] | Reportar fraudes en línea y robo de cuentas |
+| Guardia Nacional, CERT-MX | 088 · https://www.gob.mx/gncertmx | Reportar fraudes y delitos en línea |
 | Círculo de Crédito | https://www.circulodecredito.com.mx | Reporte de crédito especial y reclamaciones |
 | Cetesdirecto | https://www.cetesdirecto.com | Cuenta sin comisiones, BONDDIA y Cetes |
 | CONSAR y e-SAR | https://www.e-sar.com.mx | Localiza tu AFORE con tu CURP |
@@ -492,16 +492,28 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 
 ---
 
-# 7. Pendientes antes de escribir las lecciones
+# 7. Datos verificados (29 de septiembre de 2026)
 
-| Clave | Dato por confirmar |
-|---|---|
-| E01 | Declaración anual de RESICO: si la RMF del año libera de presentarla |
-| E02 | Cuotas 2026 de la Modalidad 10 y reglas vigentes de la Modalidad 40 |
-| E03 | Que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y la fecha de lanzamiento amplio de Revolut |
-| E04 | Desde qué fecha se cuenta el plazo de eliminación en Buró y Círculo |
-| E05 | Reclamaciones gratuitas al año y plazos de respuesta (LRSIC y Circular 27/2008) |
-| E06 | Costo y condiciones de Bloqueo, Alertas Buró, reportes extra y servicios equivalentes de Círculo |
-| E07 | Servicios de salud de ANDA para agremiados |
-| E08 | Tratamiento de ISR e IVA de las regalías por derechos de autor |
-| E09 | Opciones de crédito de vivienda para independientes y contactos de policía cibernética |
+| Clave | Dato | Resultado | Fuente |
+|---|---|---|---|
+| E01 | Declaración anual de RESICO | No obligatoria si estuvo todo el año en RESICO, presentó todos los pagos mensuales y no tuvo otros ingresos | RMF 2026, regla 3.13.7; LISR 113-G |
+| E02 | Tope de deducciones personales | Menor entre 5 UMA anuales (213,973.20 pesos en 2026) y 15% de ingresos | LISR 151; UMA 2026 (DOF 9-ene-2026) |
+| E03 | PPR y aportaciones complementarias | 10% de ingresos, máximo 5 UMA anuales, fuera del tope global; retiro antes de 65 con retención de 20% | LISR 142-XVIII y 151-V |
+| E04 | Modalidad 10 | De un salario mínimo (9,582.47 al mes) a 25 UMA; cuota mínima cercana a 2,500 al mes; Infonavit opcional (5%) | IMSS; medios |
+| E05 | Convenio IMSS-ANDA | Incorporación voluntaria de artistas independientes con beneficiarios, publicado el 20-sep-2026 | IMSS; medios |
+| E06 | Modalidad 40 | 14.438% en 2026, de 3 a 25 UMA; sube hasta 18.8% en 2030 | LSS 218; reforma 2020 |
+| E07 | Plazo de eliminación en historial | 1, 2, 4 o 6 años según UDIS; se cuenta desde que se incorporó el primer incumplimiento | LRSIC 23; CONDUSEF |
+| E08 | Reclamaciones | 5 días hábiles para enviar; 30 días naturales para responder; Círculo: 2 gratis al año, luego 80 pesos | LRSIC 42-44; Círculo de Crédito |
+| E09 | Reportes adicionales y score | Buró: reporte 47, Mi Score 58; Círculo: reporte desde 34.50, score 50 y 97 | Sitios oficiales; medios |
+| E10 | Bloqueo y alertas | Buró: bloqueo 58 por 3 meses, Alertas 232 al año; Círculo: bloqueo 3 meses, Avísame gratis, Avísame Mucho Más 250 | Sitios oficiales; medios |
+| E11 | Horario de cobranza | 7:00 a 22:00 horas del huso horario del deudor | Disposiciones CONDUSEF, DOF 7-oct-2014 |
+| E12 | Pago anticipado | Derecho a pagos anticipados; comisión solo si está pactada y registrada; prohibida en hipotecarios salvo opción | LTOSF; Circular 22/2010 y 8/2016 |
+| E13 | Regalías | Exenciones para autores: ISR hasta 20 UMA (93-XXIX) e IVA (15-XVI); intérpretes, revisar con contador | LISR; LIVA |
+| E14 | ANDA, salud | Clínicas para agremiados con cuota de consulta; servicio completo para activos al corriente | ANDA; medios |
+| E15 | Reserva de derechos y marca | INDAUTOR: 5 años, 5,739 (renovación 2,892); IMPI: 10 años, 2,695.18 más IVA por clase, uso a los 3 años | Tarifas 2026 |
+| E16 | Mes del Testamento 2026 | Hasta 50% de descuento; desde unos 2,750 pesos | Segob; medios |
+| E17 | Infonavit y escrituración | Crédito vía Modalidad 10 con aportación de 5%; escrituración de 4% a 7% | IMSS; Infonavit; medios |
+| E18 | Seguro de voz | Sin producto estándar en México; combinar accidentes personales, gastos médicos e IMSS | Búsqueda de mercado |
+| E19 | Policía cibernética | 088 de la Guardia Nacional | Guardia Nacional CERT-MX |
+
+**Quedan dos confirmaciones que conviene hacer en el sitio oficial antes de publicar:** que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y los precios de Buró y Círculo del día (los sitios oficiales no fueron accesibles desde el entorno de trabajo; los montos vienen de fuentes que citan esos sitios).

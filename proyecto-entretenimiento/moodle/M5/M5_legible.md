@@ -1101,9 +1101,11 @@ Firmar en pantalla vale igual que en papel. Pide que te envíen copia del contra
 
 #### Pagar antes
 
-Tienes derecho a hacer pagos anticipados. Pregunta si se aplican a reducir el plazo o el monto de los pagos, y si hay alguna comisión.
+Tienes derecho a hacer pagos anticipados, y la institución debe informarte si los aplica a reducir el plazo o el monto de los pagos; muchas veces puedes elegir.
 
-> **Dato por confirmar:** reglas vigentes sobre comisiones por pago anticipado en créditos al consumo. Consultado el 29 de septiembre de 2026 a través de CONDUSEF y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Antes de decidir, confírmalo en CONDUSEF o en el sitio oficial de la institución.
+Una comisión por pago anticipado solo se puede cobrar si está pactada en tu contrato y registrada ante las autoridades. En créditos hipotecarios para vivienda está prohibida, salvo que al contratar te hayan dado a elegir entre un producto con esa comisión y otro sin ella.
+
+> **Dato vigente:** Ley para la Transparencia y Ordenamiento de los Servicios Financieros, Circular 22/2010 del Banco de México (modificada por la Circular 8/2016) y Registro de Comisiones de CONDUSEF. Consultado el 29 de septiembre de 2026 a través del Banco de México y CONDUSEF. Revisa en tu carátula si tu crédito tiene comisión por pago anticipado.
 
 
 

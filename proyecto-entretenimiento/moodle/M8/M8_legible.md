@@ -573,9 +573,9 @@ Después llamó directamente a la institución para negociar un convenio (M8 U02
 
 #### Horario permitido
 
-Los despachos solo pueden contactarte dentro de un horario determinado del día, según el huso horario de tu domicilio.
+Los despachos solo pueden contactarte o presentarse de **7:00 a 22:00 horas**, según el huso horario de tu domicilio.
 
-> **Dato por confirmar:** horario exacto permitido para la cobranza (CONDUSEF informa de 7:00 a 22:00 horas; algunas fuentes mencionan otro horario). Consultado el 29 de septiembre de 2026 a través de CONDUSEF y medios informativos. Antes de decidir, confírmalo en CONDUSEF.
+> **Dato vigente:** Disposiciones de carácter general de CONDUSEF en materia de despachos de cobranza (DOF 7 de octubre de 2014). Consultado el 29 de septiembre de 2026 a través del DOF y CONDUSEF.
 
 
 

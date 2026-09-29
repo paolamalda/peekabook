@@ -16,6 +16,12 @@ Fuentes consultadas el 28 y 29 de septiembre de 2026. Las reglas, tasas y requis
 - **L10** Ley Federal de Protección a la Propiedad Industrial.
 - **L11** Ley del Seguro Social: artículo 218 (Modalidad 40) y reforma de diciembre de 2023 (personas trabajadoras independientes).
 - **L12** Ley Federal del Trabajo.
+- **L13** Resolución Miscelánea Fiscal 2026 (DOF 28 de diciembre de 2025), regla 3.13.7.
+- **L14** INEGI, valor de la UMA 2026 (DOF 9 de enero de 2026).
+- **L15** Banco de México, Circular 22/2010 y Circular 8/2016 (comisiones y pago anticipado).
+- **L16** CONDUSEF, Disposiciones en materia de despachos de cobranza (DOF 7 de octubre de 2014).
+- **L17** Ley Federal de Derechos, artículo 184 (tarifas de INDAUTOR).
+- **L18** LISR, artículos 93-XXIX y 142-XVIII; Ley del IVA, artículo 15-XVI.
 
 ## Instituciones
 
@@ -53,6 +59,10 @@ Fuentes consultadas el 28 y 29 de septiembre de 2026. Las reglas, tasas y requis
 - **M03** Notas informativas sobre Modalidad 10 y Modalidad 40 del IMSS en 2026.
 - **M04** Notas informativas sobre servicios de Bloqueo y Alertas de Buró de Crédito.
 - **M05** Notas informativas sobre apps "montadeudas" y recomendaciones de CONDUSEF.
+- **M06** IMSS: convenio IMSS-ANDA para la incorporación voluntaria de artistas independientes (20 de septiembre de 2026).
+- **M07** Secretaría de Gobernación: Mes del Testamento 2026.
+- **M08** Tarifas 2026 de INDAUTOR e IMPI.
+- **M09** Precios de reportes, score, bloqueo y alertas de Buró de Crédito y Círculo de Crédito.
 
 ## Libros
 

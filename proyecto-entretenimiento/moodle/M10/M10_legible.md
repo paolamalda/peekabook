@@ -258,9 +258,11 @@ Tus incapacidades y tu futura pensión se calculan con el ingreso registrado. Re
 
 #### Servicios de la ANDA para agremiados
 
-La ANDA ofrece servicios a sus agremiados, entre ellos servicios de salud. Si eres agremiado, pregunta qué cubren y cómo se combinan con el IMSS.
+**Convenio IMSS-ANDA (septiembre de 2026):** trabajadores independientes de actuación, doblaje, canto, danza, música, conducción y modelaje pueden incorporarse voluntariamente al Seguro Social a través de la ANDA, con los cinco seguros del régimen obligatorio y cobertura para cónyuge o concubino e hijos menores de 16 años. Si eres agremiado, pregunta en la ANDA cómo inscribirte.
 
-> **Dato por confirmar:** cuotas 2026 de la Modalidad 10, requisitos de inscripción y servicios de salud de la ANDA para sus agremiados. Consultado el 29 de septiembre de 2026 a través del IMSS, la ANDA y medios informativos. Antes de decidir, confírmalo en el sitio oficial del IMSS (calculadora de personas trabajadoras independientes) y directamente con la ANDA.
+**Cuánto cuesta la Modalidad 10 en 2026:** eliges el salario con que cotizas, entre un salario mínimo (9,582.47 pesos al mes) y 25 UMA (89,155.50 pesos al mes). Con el mínimo, la cuota ronda los 2,500 pesos al mes. Paga antes del día 20 para tener cobertura el mes siguiente. Si quieres aportar a Infonavit, se agrega 5% de tu salario registrado.
+
+> **Dato vigente:** convenio IMSS-ANDA publicado el 20 de septiembre de 2026; rangos de salario de la Modalidad 10 con UMA 2026 y salario mínimo 2026; cuotas estimadas por medios informativos. Consultado el 29 de septiembre de 2026 a través del IMSS y medios informativos. Calcula tu cuota exacta en la calculadora oficial del IMSS.
 
 
 
@@ -419,9 +421,9 @@ Renata tenía Modalidad 10 y recibió incapacidad del IMSS. Con su fondo cubrió
 
 #### Seguros para voz, manos o cuerpo
 
-Existen coberturas especializadas para artistas, pero no son comunes ni baratas. Pregunta a aseguradoras autorizadas y compara con cuidado exclusiones y definiciones.
+En otros países existen seguros de incapacidad para artistas con coberturas reforzadas de voz, oído, vista o manos. En México no encontramos un producto estándar de "seguro de voz" para personas: lo más común es combinar un **seguro de accidentes personales**, un **seguro de gastos médicos** y las **incapacidades del IMSS**. Las pólizas a la medida existen para producciones y giras, y se cotizan con aseguradoras o agentes autorizados.
 
-> **Dato por confirmar:** disponibilidad en México de seguros especializados de voz, manos o cuerpo para artistas, y sus condiciones. Consultado el 29 de septiembre de 2026 a través de la CNSF y CONDUSEF. Antes de decidir, confírmalo en CONDUSEF, la CNSF o el sitio oficial de la aseguradora.
+> **Dato vigente:** búsqueda de productos de seguros para artistas en México y el extranjero. Consultado el 29 de septiembre de 2026 a través de CONDUSEF, la CNSF y aseguradoras. Si te ofrecen una póliza especial, verifica a la aseguradora en la CNSF y lee la definición de incapacidad.
 
 
 
@@ -745,10 +747,11 @@ Valeria buscó asesoría y reunió pruebas de que usaba "Vale Luna" desde antes.
 |---|---|---|
 | Protege | Nombre artístico, nombre de grupo, personajes | Nombre o logotipo en productos y servicios |
 | Para qué | Tu identidad artística | Mercancía, escuela, negocio |
-| Vigencia | Por un periodo renovable | 10 años renovables |
+| Vigencia | 5 años, renovable | 10 años, renovable |
+| Costo 2026 | 5,739 pesos (renovación 2,892) | 2,695.18 pesos más IVA por clase (10% menos en línea) |
 | Búsqueda previa | En INDAUTOR | Buscador de marcas del IMPI |
 
-> **Dato por confirmar:** vigencia, costos y requisitos vigentes de la reserva de derechos para nombres artísticos (INDAUTOR) y del registro de marca (IMPI). Consultado el 29 de septiembre de 2026 a través de INDAUTOR y el IMPI. Antes de decidir, confírmalo en el sitio oficial de cada institución.
+> **Dato vigente:** tarifas 2026 de INDAUTOR (artículo 184 de la Ley Federal de Derechos) y del IMPI. La reserva se renueva desde un mes antes hasta un mes después de su vencimiento. La marca exige declarar su uso a los 3 años o caduca. Consultado el 29 de septiembre de 2026 a través de INDAUTOR, el IMPI y medios especializados.
 
 
 
@@ -935,7 +938,7 @@ Tus redes y tu correo tienen valor para tu familia y tu carrera. Revisa las opci
 
 Revisa tu testamento y tus beneficiarios cuando cambie tu vida: pareja, hijos, un bien importante, nuevos derechos.
 
-> **Dato por confirmar:** costos y condiciones del Mes del Testamento en tu estado. Consultado el 29 de septiembre de 2026 a través de la Secretaría de Gobernación y los colegios de notarios. Antes de decidir, confírmalo con un notario o en el sitio oficial de tu estado.
+> **Dato vigente:** en el Mes del Testamento 2026 (su edición 24) las notarías participantes de las 32 entidades reducen hasta 50% sus honorarios; el precio promedio empieza alrededor de 2,750 pesos, contra 5,000 a 10,000 fuera de la campaña. Necesitas identificación oficial vigente. Consultado el 29 de septiembre de 2026 a través de la Secretaría de Gobernación y medios informativos. Revisa la tarifa de tu estado.
 
 
 

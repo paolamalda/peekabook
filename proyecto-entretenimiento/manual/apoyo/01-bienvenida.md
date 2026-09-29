@@ -31,7 +31,7 @@ Las **palabras en color** muestran su significado al pasar el cursor o al tocarl
 
 ## Los datos cambian
 
-Tasas, cuotas, límites y reglas cambian. Los datos del programa se consultaron el **29 de septiembre de 2026** y cada uno indica su fuente. Cuando veas **"Dato por confirmar"**, revisa la información vigente antes de decidir, de preferencia en **CONDUSEF**, la **CNBV** o el **sitio oficial de la institución**.
+Tasas, cuotas, límites y reglas cambian. Los datos del programa se consultaron el **29 de septiembre de 2026** y cada uno indica su fuente. Antes de decidir, revisa la información vigente, de preferencia en **CONDUSEF**, la **CNBV** o el **sitio oficial de la institución**.
 
 ## Cuándo pedir ayuda profesional
 

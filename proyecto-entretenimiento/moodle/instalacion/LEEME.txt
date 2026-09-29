@@ -10,7 +10,7 @@ libro de apoyo, glosario, 8 insignias, constancia, guía y README para Claude.
 ESTE CURSO VIENE EN 3 ZIPS (por tamaño)
 ---------------------------------------
 Parte 1: todo menos las H5P · Parte 2: H5P de M1 a M6 · Parte 3: H5P de M7 a M11.
-Descomprime las tres en el mismo lugar: se juntan en la carpeta TTMF_03_Curso_completo_v1.
+Descomprime las tres en el mismo lugar: se juntan en la carpeta TTMF_04_Curso_completo_v1.1.
 
 QUÉ CONTIENE
 ------------
@@ -30,12 +30,15 @@ Dale a Claude (con el navegador y tu sesión de administración abierta) las 3 p
 "Sigue README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md". Claude crea el curso oculto y te entrega un reporte.
 Tiempo estimado: 3 a 4 horas (las 72 H5P se suben una por una).
 
-DATOS CON FECHA Y FUENTE
-------------------------
-Cada dato que cambia dice cuándo y dónde se consultó ("Dato vigente: ... Consultado el 29 de
-septiembre de 2026 a través de ..."). Los que falta confirmar dicen "Dato por confirmar" y piden
-revisarlo en CONDUSEF, la CNBV o el sitio oficial de la institución. La lista completa está en
-7_guias/datos_por_confirmar.txt.
+QUÉ CAMBIÓ EN LA VERSIÓN 1.1
+----------------------------
+Se investigaron y resolvieron los 19 datos pendientes. Cada uno quedó en la lección como
+"Dato vigente", con cifra, fecha de consulta (29 de septiembre de 2026) y fuente: RMF 2026,
+UMA 2026, LISR, LRSIC, Circulares de Banxico, disposiciones de CONDUSEF, IMSS, INDAUTOR, IMPI,
+Buró de Crédito, Círculo de Crédito y Segob. Resumen en 7_guias/datos_verificados.md.
+Nuevo: convenio IMSS-ANDA (septiembre de 2026) para la seguridad social de artistas independientes.
+Si Claude ya instaló la versión 1: que reemplace los libros de M2, M3, M5, M7, M8, M10 y M11
+y el libro de apoyo (mismo procedimiento del README, paso 3 y 4). Las H5P y el banco no cambiaron.
 
 A TENER EN CUENTA
 -----------------
