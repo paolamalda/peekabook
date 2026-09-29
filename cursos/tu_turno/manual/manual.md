@@ -1,6 +1,6 @@
 # Tu Turno, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.0 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.1 · Desarrolla Talento · 29 de septiembre de 2026
 
 Finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: quincena, cuenta, deudas, tandas, Buró, fraudes, familia y futuro.
 
@@ -16,7 +16,7 @@ Finanzas personales en microlecciones para guardias de seguridad y personas con 
 | Público | Guardias de seguridad y personas con turnos de 24 por 24 horas o similares, con ingresos cercanos al salario mínimo; muchas tienen deudas, participan en tandas y no conocen el sistema financiero |
 | Tono | Tuteo cálido y directo, español de México, frases muy cortas, sin tecnicismos, sin culpas |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y para tomarse entre turnos; actividades H5P «¿Qué harías?», autoevaluaciones, constancia y un canal de avisos por WhatsApp |
-| Duración | 8 módulos, 26 lecciones |
+| Duración | 8 módulos, 27 lecciones |
 
 ## El problema que resuelve
 
@@ -58,7 +58,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M3 Tus deudas claras | 4 | Lista de deudas, costo real y plan para salir |
 | M4 Tandas y ahorro en grupo | 2 | Tanda más segura o ahorro propio |
 | M5 Buró de Crédito sin miedo | 3 | Reporte revisado y cómo mejorar el historial |
-| M6 Que no te extorsionen | 4 | Protocolo contra fraudes, montadeudas y extorsión |
+| M6 Que no te extorsionen | 5 | Protocolo contra fraudes, montadeudas, extorsión y robo de identidad; registros para que no te llamen |
 | M7 Tu familia y los imprevistos | 3 | Fondo de emergencia y protección familiar |
 | M8 Tu futuro | 3 | Retiro por tu cuenta, ingreso extra y plan de una página |
 
@@ -111,6 +111,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M6 U04 · Si ya te pasó: qué hacer**
 
+**M6 U05 · Tu identidad y que dejen de llamarte** Copias de INE con leyenda, reporte de crédito, bloqueo en Buró, líneas de celular con tu CURP, REPEP y REUS.
+
 
 **M7 U01 · Tu fondo de emergencia, de poco a poco**
 
@@ -156,6 +158,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | CONSAR | https://www.gob.mx/consar | Ahorro voluntario |
 | e-SAR | https://www.e-sar.com.mx | Localizar tu AFORE |
 | Guardia Nacional | 088 | Fraudes en línea |
+| Profeco | https://repep.profeco.gob.mx | REPEP |
+| Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Líneas registradas con tu CURP |
 
 ---
 
@@ -170,3 +174,5 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | G05 | Reporte de crédito | Uno gratis al año en Buró de Crédito y otro en Círculo de Crédito | Sitios oficiales |
 | G06 | Fraude | 72,873 asuntos por posible fraude en CONDUSEF durante 2025 | CONDUSEF |
 | G07 | Seguro de depósitos | 400,000 UDIS por persona y por banco | IPAB |
+| G08 | REPEP y REUS | REPEP gratis, 30 días, no vence; REUS gratis, hasta 45 días, dura dos años | Profeco; CONDUSEF |
+| G09 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |

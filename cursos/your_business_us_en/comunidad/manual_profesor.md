@@ -2,7 +2,7 @@
 
 For the person who accompanies the group: opens the community, runs the monthly session, answers in the forums and keeps things organized. If you work as a team, use it to divide tasks; if you're one person, follow it all.
 
-Version 1.0 · September 2026 · Accompanies the course *Your Business, Your Money, Your Future* (U.S., English) and the *Moderation guide*.
+Version 1.1 · September 2026 · Accompanies the course *Your Business, Your Money, Your Future* (U.S., English) and the *Moderation guide*.
 
 [[TOC]]
 
@@ -16,7 +16,7 @@ The community is a **companion** to the course, not a separate course with its o
 
 | | Course (YBMF-US-EN) | Community (YBMF-US-EN-COM) |
 |---|---|---|
-| Purpose | Learn: 9 modules, 33 lessons | Accompany: monthly session, questions, alerts, "Introduce your business" and wins |
+| Purpose | Learn: 9 modules, 34 lessons | Accompany: monthly session, questions, alerts, "Introduce your business" and wins |
 | Content | Lessons, H5P, self-assessments | Forums and the *Community guide*; no new topics taught |
 | Assessment | Yes: badges and certificate | No |
 | Who joins | People enrolled in the program | The same people, through a link in the course |
@@ -244,7 +244,7 @@ One post a month per person. Reply with a sentence of encouragement and, if it a
 | Processors, payment apps, selling scams | M4 U01 to U03 |
 | LLC, EIN, ITIN, permits, taxes, 1099s, sales tax | M5 U01 to U05 |
 | Credit, checking lenders, APR, cosigning | M6 U01 to U04 |
-| Health insurance, insurance, scams against businesses, trademark | M7 U01 to U04 |
+| Health insurance, insurance, scams against businesses, trademark, identity and calls | M7 U01 to U05 |
 | Hiring, platforms, monthly numbers | M8 U01 to U03 |
 | Social Security, retirement, closing or handover, one-page plan | M9 U01 to U03 |
 

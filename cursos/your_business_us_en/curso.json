@@ -1,10 +1,10 @@
 {
  "sigla": "YBMF",
  "titulo": "Your Business, Your Money, Your Future · U.S.",
- "subtitulo": "Version 1.0 · United States (federal and California) · English · Desarrolla Talento · September 2026",
- "version": "1.0",
+ "subtitulo": "Version 1.1 · United States (federal and California) · English · Desarrolla Talento · September 2026",
+ "version": "1.1",
  "lang": "en",
- "intro": "Money course for Latino entrepreneurs and self-employed people in the United States: 9 modules, 33 lessons, with federal rules and California examples.",
+ "intro": "Money course for Latino entrepreneurs and self-employed people in the United States: 9 modules, 34 lessons, with federal rules and California examples.",
  "categoria": "Your Business US EN",
  "banco": "question_bank_ybmf_us_en.gift.txt",
  "min_leccion": [
@@ -111,8 +111,8 @@
  },
  "comunidad": {
   "titulo": "Your Business Community · U.S.",
-  "subtitulo": "Version 1.0 · United States · English · Desarrolla Talento · September 2026",
-  "version": "1.0",
+  "subtitulo": "Version 1.1 · United States · English · Desarrolla Talento · September 2026",
+  "version": "1.1",
   "intro": "Companion to the course Your Business, Your Money, Your Future (U.S.): a separate Moodle space for questions by topic, scam alerts, a forum to introduce your business, wins and a monthly live session. Complemented by a WhatsApp channel.",
   "leads": {
    "01": "What the community is, what you'll find and how to get started.",
@@ -124,7 +124,7 @@
   },
   "carpeta": {
    "nombre": "Your_Business_Community_US_EN",
-   "zip": "Your_Business_Community_US_EN_v1.0",
+   "zip": "Your_Business_Community_US_EN_v1.1",
    "descripciones": [
     "Teacher manual (launch, routine, live session, answers, log and ready-made texts) and community manual (spaces, channel and moderation).",
     "Book \"Community guide\" (6 chapters) in .docx and .md.",
@@ -218,10 +218,10 @@
  },
  "carpeta": {
   "nombre": "Your_Business_Your_Money_Your_Future_US_EN",
-  "zip": "Your_Business_US_EN_v1.0",
-  "manual": "Program_manual_YBMF_US_EN_v1.0",
-  "contenido": "Full_content_YBMF_US_EN_v1.0",
-  "guia": "Implementation_guide_YBMF_US_EN_v1.0",
+  "zip": "Your_Business_US_EN_v1.1",
+  "manual": "Program_manual_YBMF_US_EN_v1.1",
+  "contenido": "Full_content_YBMF_US_EN_v1.1",
+  "guia": "Implementation_guide_YBMF_US_EN_v1.1",
   "descripciones": [
    "Program manual: audience, rules, modules and lessons, characters and verified facts.",
    "Full content: characters, lessons, support book, H5P and question bank (.docx and .md).",

@@ -86,9 +86,13 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Incapacidad:** pago del IMSS cuando no puedes trabajar por enfermedad o accidente.
 - **Marca:** nombre, logotipo o combinación que distingue tu producto o servicio.
 - **Modalidad 10:** incorporación voluntaria al IMSS para personas trabajadoras independientes, con servicio médico, incapacidades y retiro.
+- **REPEP:** Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
 - **Responsabilidad civil:** obligación de pagar los daños que causas a otras personas.
+- **REUS:** Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
+- **Robo de identidad:** uso de tus datos para hacerse pasar por ti y pedir créditos, facturar o hacer trámites.
 - **Suplantación de autoridad:** fraude en el que alguien se hace pasar por el SAT u otra autoridad.
 - **UMA:** Unidad de Medida y Actualización; referencia para cuotas y multas.
+- **Verificación en dos pasos:** candado extra que pide un PIN o código además de tu contraseña.
 
 ## Crecer con orden
 

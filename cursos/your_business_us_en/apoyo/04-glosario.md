@@ -79,9 +79,13 @@ Plain-language definitions of the course words, grouped by module.
 
 - **Certificate of insurance (COI):** a document that proves you have insurance.
 - **Class:** the group of products or services a trademark registration covers.
+- **Credit freeze:** a free block so nobody can open new credit in your name.
 - **Deductible:** what you pay before the insurance starts paying.
+- **Fraud alert:** a notice on your report so lenders verify your identity before giving credit.
 - **General liability:** insurance that pays for damage you cause to other people or their property.
 - **Government-imitation letter:** mail from a private company that looks official in order to charge you for services.
+- **Identity theft:** using your information to pose as you and open accounts, get credit or file tax returns.
+- **National Do Not Call Registry:** a free federal registry so companies don't call you with sales pitches.
 - **Open enrollment:** the time of year to buy or change your health insurance.
 - **Premium:** what you pay each month for your insurance.
 - **Trademark:** a name, logo or combination that identifies your product or service.

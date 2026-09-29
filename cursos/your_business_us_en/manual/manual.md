@@ -1,6 +1,6 @@
 # Your Business, Your Money, Your Future · U.S.
 
-Program manual · Version 1.0 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
+Program manual · Version 1.1 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
 
 Financial education for Latino entrepreneurs and self-employed people in the United States: separating money, pricing, managing cash flow, getting paid safely, formalizing and paying taxes, using credit carefully, protecting yourself and planning for the future. A Spanish version with the same content exists (*Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.*).
 
@@ -17,7 +17,7 @@ Financial education for Latino entrepreneurs and self-employed people in the Uni
 | Tone | Friendly and direct, plain English, short sentences, no blame |
 | Format | Moodle 3.10 course: 5- or 10-minute lessons, H5P "What would you do?" activities, a self-assessment per module and a certificate. Support book and separate community |
 | Scope | Federal rules with California examples; other states are told what to check locally |
-| Length | 9 modules, 33 lessons |
+| Length | 9 modules, 34 lessons |
 | Languages | English (this course) and Spanish (parallel course) |
 
 ## The problem it solves
@@ -62,7 +62,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 | M4 Get paid and sell without losing | 3 | Payment methods compared and anti-scam plan |
 | M5 Formalize and handle taxes without fear | 5 | Structure, EIN and ITIN, permits, federal taxes, estimated payments and sales tax |
 | M6 Credit for your business | 4 | Decide whether you need credit, compare by APR and don't mix |
-| M7 Protect your business | 4 | Health insurance, business insurance, scams against businesses and trademark |
+| M7 Protect your business | 5 | Health insurance, business insurance, scams against businesses, trademark, identity and unwanted calls |
 | M8 Grow in an orderly way | 3 | Hire correctly, sell on platforms and measure |
 | M9 Your future | 3 | Social Security and retirement, continuity plan and one-page plan |
 
@@ -140,6 +140,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M7 U04 · Your brand and your name** USPTO ($350 per class), state registration and fake notices.
 
+**M7 U05 · Identity theft and unwanted calls** Credit freeze at all three bureaus, fraud alert, free weekly reports, IdentityTheft.gov, ITIN and the National Do Not Call Registry.
+
 ## Module 8. Grow in an orderly way
 
 **M8 U01 · Hiring help** Employee or contractor (ABC test), California minimum wage, payroll, workers' comp, W-9 and 1099-NEC.
@@ -192,6 +194,8 @@ The support book includes case studies, calculation practice, glossary, where to
 | Covered California and DHCS | https://www.coveredca.com · https://www.dhcs.ca.gov | Health insurance and Medi-Cal |
 | USPTO | https://www.uspto.gov | Trademarks |
 | SSA | https://www.ssa.gov | Credits and retirement estimate |
+| IdentityTheft.gov and donotcall.gov | https://www.identitytheft.gov · https://www.donotcall.gov | Identity theft and Do Not Call Registry |
+| AnnualCreditReport.com | https://www.annualcreditreport.com | Free credit reports |
 
 ---
 
@@ -215,5 +219,7 @@ The support book includes case studies, calculation practice, glossary, where to
 | U14 | Social Security credits | $1,890 per credit in 2026, up to 4 a year ($7,560); 40 credits for a retirement benefit | SSA |
 | U15 | Card fees | Commonly 2.6% to 3.5% plus a flat fee per payment | Processors' published rates |
 | U16 | California small claims court | Up to $12,500 for individuals | California Courts |
+| U17 | Freezes, alerts and reports | Free freeze and unfreeze at Equifax, Experian and TransUnion; free initial fraud alert for one year; free weekly reports | FTC |
+| U18 | National Do Not Call Registry | Free; up to 31 days for calls to stop; never expires | FTC |
 
 **Facts confirmed every year or before each group:** retirement limits, mileage rate, Social Security wage base, 1099 thresholds (inflation-adjusted from 2027), minimum wage, USPTO fees and processor and platform fees.

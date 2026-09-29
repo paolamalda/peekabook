@@ -498,6 +498,24 @@ $CATEGORY: $course$/Your Business US EN/M7
 	~A law firm that writes to you first #Not the best option. Official domain.
 }
 
+::M7 U05 P1::How much does a credit freeze cost? {
+	~$10 per bureau #Not the best option. It's free at all three bureaus.
+	=Nothing #Correct! It's free at all three bureaus.
+	~It's only free if your identity was already stolen #Not the best option. It's free at all three bureaus.
+}
+
+::M7 U05 P2::Where do you report identity theft? {
+	=At IdentityTheft.gov #Correct! It gives you a recovery plan.
+	~At the bank where you have your account #Not the best option. It gives you a recovery plan.
+	~On social media #Not the best option. It gives you a recovery plan.
+}
+
+::M7 U05 P3::How long does your Do Not Call registration last? {
+	~One year #Not the best option. It never expires.
+	~Five years #Not the best option. It never expires.
+	=It never expires #Correct! It never expires.
+}
+
 $CATEGORY: $course$/Your Business US EN/M8
 
 ::M8 U01 P1::Someone works at your place, on your schedule and following your instructions. What are they usually? {

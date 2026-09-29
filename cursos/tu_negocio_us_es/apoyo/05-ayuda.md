@@ -16,6 +16,8 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | Seguro médico | Covered California, Medi-Cal, clínicas comunitarias | Según ingreso | Consejeros certificados |
 | Fraudes | ReportFraud.ftc.gov; IC3 del FBI | Gratis | Guarda evidencia |
 | Robo de identidad | IdentityTheft.gov | Gratis | Plan de recuperación |
+| Congelar tu crédito y ver tus reportes | Equifax, Experian y TransUnion; AnnualCreditReport.com | Gratis | En las tres agencias |
+| Llamadas de ventas | Registro No Llame (donotcall.gov) | Gratis | No vence |
 | Marca | USPTO; registro estatal | Con costo | Solo uspto.gov |
 | Retiro | ssa.gov; CalSavers | Gratis | Tu cuenta en my Social Security |
 | Dudas migratorias | Abogados u organizaciones acreditadas por el Departamento de Justicia | Gratis o con costo | Nunca «notarios» |

@@ -606,3 +606,167 @@ Busca el nombre de tu negocio en la USPTO y en el registro de tu estado.
 USPTO · California Secretary of State, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M7 U05. Robo de identidad y llamadas no deseadas
+
+**Lo que lograrás:** Proteger tu identidad con el congelamiento de crédito, las alertas de fraude y tus reportes gratis, saber qué hacer si usan tus datos y registrar tu número para que no te llamen con ventas.
+
+**Para empezar:** A Don Ramón le negaron un crédito porque su reporte tenía una tarjeta que él nunca abrió. Además, recibe diez llamadas al día ofreciéndole «préstamos para su food truck». En esta lección verás cómo frenar las dos cosas.
+
+### Lo esencial (5 minutos)
+
+#### Qué es el robo de identidad
+
+El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus documentos para abrir tarjetas, pedir préstamos o presentar una declaración de impuestos a tu nombre. Como dueño de negocio, tus datos personales están en muchos formularios: cuídalos.
+
+
+
+#### Tus candados
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Congelar tu crédito (credit freeze) | Nadie abre crédito nuevo a tu nombre. | Gratis en las 3 agencias. |
+| Alerta de fraude | Los prestamistas deben verificar que eres tú. | Dura un año. |
+| Tus reportes de crédito | Gratis cada semana en AnnualCreditReport.com. | Revisa lo que no reconoces. |
+| IP PIN del IRS | Nadie declara con tu número (M5 U04). | Gratis. |
+
+> **Dato vigente:** congelar y descongelar tu crédito es gratis en Equifax, Experian y TransUnion (hay que pedirlo en las tres); una alerta de fraude inicial es gratis, dura un año y basta pedirla en una agencia; y puedes ver tus reportes gratis cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
+
+#### Que dejen de llamarte
+
+Registra tu número en el Registro Nacional No Llame en donotcall.gov. Es gratis y no vence. Después de registrarte, las llamadas de ventas que siguen llegando suelen ser ilegales o estafas.
+
+> **Dato vigente:** el Registro Nacional No Llame (National Do Not Call Registry) es gratuito, el número aparece al día siguiente, las empresas tienen hasta 31 días para dejar de llamar y el registro no vence. Consultado el 29 de septiembre de 2026 a través de la FTC (donotcall.gov).
+
+
+
+#### Un caso en un minuto
+
+Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en IdentityTheft.gov y congeló su crédito en las tres agencias. Registró su celular en donotcall.gov. Cuando necesite un préstamo, descongelará su crédito unos días, gratis.
+
+> **Idea clave:** congela tu crédito, revisa tus reportes y registra tu número; si alguien usa tus datos, repórtalo en IdentityTheft.gov.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué hace el congelamiento de crédito?
+*Respuesta:* Impide que alguien abra crédito nuevo a tu nombre; es gratis y lo puedes quitar cuando lo necesites.
+
+2. ¿Dónde reportas un robo de identidad?
+*Respuesta:* En IdentityTheft.gov, que te da un plan de recuperación.
+
+
+#### Para recordar
+
+- Congela en las 3 agencias.
+- Reportes gratis cada semana.
+- donotcall.gov gratis.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si ya usaron tus datos
+
+1. Reporta en IdentityTheft.gov: te da un plan paso a paso y cartas para las empresas.
+2. Llama al área de fraudes de la empresa donde abrieron la cuenta y pide cerrarla.
+3. Pon una alerta de fraude o congela tu crédito.
+4. Revisa tus reportes y disputa lo que no reconoces.
+5. Si usaron tu número para impuestos, sigue las instrucciones del IRS y pide tu IP PIN.
+
+
+
+#### Si tienes ITIN
+
+Si tienes historial de crédito con ITIN, pregunta a cada agencia cómo pedir el congelamiento o la alerta con tu ITIN; algunos trámites piden documentos adicionales. El IP PIN del IRS también está disponible para quien declara con ITIN.
+
+
+
+#### Lo que no cubre el registro
+
+El Registro No Llame no frena llamadas de cobranza, encuestas, organizaciones benéficas, políticas ni de empresas con las que ya tienes relación. Tampoco frena a los estafadores. Tu compañía de teléfono ofrece herramientas gratuitas para bloquear llamadas sospechosas; úsalas.
+
+> **Antes de actuar, verifica:** que estás en donotcall.gov, AnnualCreditReport.com o IdentityTheft.gov; hay sitios que imitan estos nombres y cobran por lo que es gratis.
+
+
+
+#### Casos
+
+
+**Caso 1. La tarjeta de Don Ramón**
+
+El reporte de Don Ramón tiene una tarjeta que él nunca abrió.
+- *¿Qué hace?* La reporta en IdentityTheft.gov y congela su crédito en las tres agencias.
+
+
+**Caso 2. Las llamadas de Lupita**
+
+A Lupita le llaman diario para venderle servicios.
+- *¿Qué hace?* Registra su número en donotcall.gov y activa el bloqueo de llamadas de su compañía.
+
+
+**Caso 3. El sitio de Daniela**
+
+Un sitio le cobra a Daniela $30 por «su reporte de crédito oficial».
+- *¿Qué hace?* No paga y entra a AnnualCreditReport.com, donde es gratis.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Congelar en una sola agencia | Siguen abriendo crédito | En las tres |
+| Pagar por reportes | Gasto innecesario | AnnualCreditReport.com |
+| No reportar el robo | Te cobran deudas ajenas | IdentityTheft.gov |
+| Creer que el registro frena estafas | Caes | Cuelga y verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Ramón, Lupita y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto cuesta congelar tu crédito? a) $10 por agencia · b) Nada · c) Solo es gratis si ya te robaron la identidad
+2. ¿Dónde reportas un robo de identidad? a) En IdentityTheft.gov · b) En el banco donde tienes tu cuenta · c) En redes sociales
+3. ¿Cuánto dura tu registro en el Registro No Llame? a) Un año · b) Cinco años · c) No vence
+**Respuestas:** 1-b: es gratis en las tres agencias. 2-a: da un plan de recuperación. 3-c: no vence.
+
+
+
+#### Ponlo en práctica
+
+Registras tu número el 1 de mayo. ¿A partir de qué fecha, a más tardar, deben dejar de llamarte con ventas?
+**Respuesta:** En 31 días: el 1 de junio.
+
+
+
+#### A tu plan
+
+Esta semana congela tu crédito en las tres agencias, revisa tus reportes y registra tu celular en donotcall.gov.
+
+
+
+### Para saber más
+
+- **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov.
+- **Congelamiento y alertas de fraude** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «congelamiento de crédito».
+- **Reportes de crédito gratis** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
+- **Registro No Llame** (FTC · español): https://www.donotcall.gov/es.
+
+### Palabras clave
+
+- *Robo de identidad:* uso de tus datos para hacerse pasar por ti y abrir cuentas, pedir créditos o presentar declaraciones.
+- *Congelamiento de crédito:* bloqueo gratuito para que nadie abra crédito nuevo a tu nombre.
+- *Alerta de fraude:* aviso en tu reporte para que los prestamistas verifiquen tu identidad antes de dar crédito.
+- *Registro Nacional No Llame:* registro federal gratuito para que las empresas no te llamen con ventas (Do Not Call).
+
+### Fuentes
+
+FTC · IRS, consultados el 29 de septiembre de 2026.
+
+---

@@ -78,15 +78,19 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Protege tu negocio
 
+- **Alerta de fraude:** aviso en tu reporte para que los prestamistas verifiquen tu identidad antes de dar crédito.
 - **Carta que imita al gobierno:** correo de una empresa privada que parece oficial para cobrarte servicios.
 - **Certificado de seguro (COI):** documento que prueba que tienes seguro.
 - **Clase:** grupo de productos o servicios que cubre un registro de marca.
 - **Compensación al trabajador:** seguro que cubre lesiones de empleados en el trabajo.
+- **Congelamiento de crédito:** bloqueo gratuito para que nadie abra crédito nuevo a tu nombre.
 - **Deducible:** lo que pagas tú antes de que el seguro empiece a pagar.
 - **Inscripción abierta:** periodo del año para contratar o cambiar tu seguro médico.
 - **Marca:** nombre, logotipo o combinación que distingue tu producto o servicio.
 - **Prima:** lo que pagas cada mes por tu seguro.
+- **Registro Nacional No Llame:** registro federal gratuito para que las empresas no te llamen con ventas (Do Not Call).
 - **Responsabilidad civil general:** seguro que paga daños que causas a otras personas o a sus bienes.
+- **Robo de identidad:** uso de tus datos para hacerse pasar por ti y abrir cuentas, pedir créditos o presentar declaraciones.
 - **USPTO:** Oficina de Patentes y Marcas de Estados Unidos: registra marcas a nivel federal.
 
 ## Crecer con orden

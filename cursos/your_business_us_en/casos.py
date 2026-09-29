@@ -135,6 +135,11 @@ CASOS = {
  ("Searches the USPTO and his state.", "Paints the name and checks later.", "Asks his customers whether they like it."),
  ("Checks the domain and doesn't pay.", "Pays to protect his brand abroad.", "Pays half and asks for an invoice."),
 ],
+"M7 U05": [
+ ("Reports it and freezes at all three bureaus.", "Pays the card off to clean up his report.", "Freezes at one bureau and waits."),
+ ("Registers at donotcall.gov and blocks calls.", "Changes her number every time they call.", "Answers and asks to be taken off the list."),
+ ("Doesn't pay and uses AnnualCreditReport.com.", "Pays the $30 because it says it's official.", "Gives her SSN to see if it's real."),
+],
 "M8 U01": [
  ("Registers as an employer.", "Pays her in cash as a contractor.", "Asks her to work for free for a few months."),
  ("That he needs a license and workers' comp.", "Nothing: the helper is his cousin.", "Only that the helper has an ITIN."),

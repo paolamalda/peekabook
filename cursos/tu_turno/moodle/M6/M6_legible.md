@@ -575,3 +575,167 @@ Guarda tu hoja de emergencia en una foto en tu celular.
 CONDUSEF · Guardia Nacional, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M6 U05. Tu identidad y que dejen de llamarte
+
+**Lo que lograrás:** Cuidar tu INE, CURP y firma, detectar créditos o líneas de celular a tu nombre, activar el bloqueo en Buró de Crédito y dar de alta tus números en el REPEP y el REUS.
+
+**Para empezar:** A Beto le llegó una llamada de cobranza por un crédito de 8,000 pesos que nunca pidió. Hace meses dejó copia de su INE en tres agencias de seguridad cuando buscaba trabajo. Además, entre turno y turno le llaman diario para ofrecerle préstamos. En esta lección verás cómo protegerte de las dos cosas.
+
+### Lo esencial (5 minutos)
+
+#### Qué es el robo de identidad
+
+El robo de identidad pasa cuando alguien usa tu INE, tu CURP o tu firma para pedir créditos, abrir cuentas o contratar celulares. Casi siempre te enteras tarde: por una llamada de cobranza o al pedir un crédito.
+
+
+
+#### Cómo te proteges
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Copias con leyenda | Escribe sobre la copia de tu INE para qué es y la fecha. | Así no sirve para otra cosa. |
+| Reporte de crédito | Gratis una vez al año en Buró y en Círculo. | Revisa que todo sea tuyo. |
+| Bloqueo en Buró | Nadie consulta tu historial sin ti. | Frena créditos a tu nombre. |
+| Líneas con tu CURP | Consulta qué celulares están a tu nombre. | Gratis. |
+
+> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas es gratuito en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+
+#### Que dejen de llamarte
+
+Hay dos registros gratuitos. En el REPEP de Profeco inscribes tu celular para que las empresas no te ofrezcan productos. En el REUS de CONDUSEF lo inscribes para que bancos y financieras no te llamen con ofertas.
+
+> **Dato vigente:** REPEP: gratis, fijo o celular, en repep.profeco.gob.mx o al 55 5568 8722 u 800 468 8722; en 30 días deben dejar de llamarte; no vence. REUS: gratis, surte efecto en hasta 45 días y dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Beto pidió su reporte gratis y encontró el crédito que no pidió. Reclamó por escrito a la financiera y al Buró, presentó denuncia y activó el bloqueo. Luego inscribió su celular en el REPEP y el REUS. Las llamadas bajaron en un mes.
+
+> **Idea clave:** revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS; si una llamada sigue después, casi seguro es fraude.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cómo te enteras si alguien pidió un crédito a tu nombre?
+*Respuesta:* Revisando tu reporte de crédito gratis en Buró y en Círculo.
+
+2. ¿Qué registro usas para que bancos y financieras no te llamen con ofertas?
+*Respuesta:* El REUS de la CONDUSEF.
+
+
+#### Para recordar
+
+- Copias de INE con leyenda.
+- Reporte gratis cada año.
+- REPEP y REUS gratis.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si ya usaron tus datos
+
+1. Pide tu reporte de crédito y ubica lo que no reconoces.
+2. Reclama por escrito a la empresa que dio el crédito y guarda el folio.
+3. Presenta una reclamación ante el Buró o Círculo.
+4. Presenta denuncia ante la fiscalía y guarda la copia.
+5. Activa el bloqueo y acude a la CONDUSEF si no te resuelven.
+
+
+
+#### Lo que no cubren los registros
+
+El REPEP y el REUS no frenan la cobranza de deudas reales, las llamadas de partidos, encuestas o beneficencia, ni los fraudes: quien estafa no respeta registros. Si alguien te llama «del banco» después de registrarte, cuelga y llama tú al número de tu tarjeta.
+
+
+
+#### Tus datos al buscar trabajo
+
+Entrega copias solo a empresas que puedas verificar, nunca fotos de tu INE por WhatsApp a reclutadores desconocidos, y pregunta para qué usarán tus datos. Si una «agencia» te pide pagar o dar datos bancarios antes de contratarte, es fraude.
+
+> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS y de Buró de Crédito en sus sitios oficiales; hay páginas falsas que cobran por inscribirte.
+
+
+
+#### Casos
+
+
+**Caso 1. El crédito de Beto**
+
+Beto recibe una llamada de cobranza por un crédito que no pidió.
+- *¿Qué hace?* Pide su reporte, reclama por escrito, denuncia y activa el bloqueo.
+
+
+**Caso 2. Las llamadas de Karla**
+
+A Karla le llaman diario de bancos y tiendas para ofrecerle créditos.
+- *¿Qué hace?* Inscribe su celular en el REPEP y el REUS.
+
+
+**Caso 3. El reclutador de Don Chuy**
+
+Un reclutador pide a Don Chuy foto de su INE por WhatsApp y 300 pesos para «apartar la vacante».
+- *¿Qué hace?* No manda nada ni paga; verifica la empresa por su cuenta.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Copias sin leyenda | Las usan para créditos | Escribe para qué es |
+| Nunca revisar tu reporte | Te enteras tarde | Gratis cada año |
+| Pagar por inscribirte | Fraude | REPEP y REUS son gratis |
+| Creer que el registro frena fraudes | Caes | Cuelga y verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Beto, Karla y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto cuesta inscribirte en el REPEP? a) Nada · b) 150 pesos al año · c) Lo que cobre tu compañía de celular
+2. ¿Qué haces con la copia de tu INE que entregas? a) La entregas limpia para que no la rechacen · b) Le escribes para qué es y la fecha · c) Mandas mejor una foto por WhatsApp
+3. Después de registrarte en el REUS, te llama alguien «del banco» pidiendo un código. ¿Qué es? a) Una llamada normal del banco · b) Un error del registro · c) Casi seguro un fraude: cuelga y llama tú
+**Respuestas:** 1-a: es gratuito. 2-b: así no sirve para otra cosa. 3-c: los registros no frenan fraudes.
+
+
+
+#### Ponlo en práctica
+
+Te inscribes en el REPEP el 1 de octubre. ¿A partir de qué fecha, más o menos, deben dejar de llamarte con publicidad?
+**Respuesta:** En 30 días: hacia el 31 de octubre.
+
+
+
+#### A tu plan
+
+Esta semana inscribe tu celular en el REPEP y el REUS y pide tu reporte de crédito gratis.
+
+
+
+### Para saber más
+
+- **REPEP** (Profeco · español): https://repep.profeco.gob.mx — **Qué buscar:** «inscribir número».
+- **REUS** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «REUS».
+- **Reporte de crédito y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte gratis y «Bloqueo Buró».
+- **Líneas con tu CURP** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx.
+
+### Palabras clave
+
+- *Robo de identidad:* uso de tus datos para hacerse pasar por ti y pedir créditos o hacer trámites.
+- *REPEP:* Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
+- *REUS:* Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
+- *Bloqueo en Buró:* servicio para que nadie consulte tu historial de crédito sin tu autorización.
+
+### Fuentes
+
+Profeco · CONDUSEF · Buró de Crédito · Comisión Reguladora de Telecomunicaciones, consultados el 29 de septiembre de 2026.
+
+---

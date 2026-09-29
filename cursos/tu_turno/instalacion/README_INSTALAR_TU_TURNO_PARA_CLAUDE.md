@@ -64,7 +64,7 @@ En cada sección de módulo:
 | M3 | 4 | 16 |
 | M4 | 2 | 8 |
 | M5 | 3 | 12 |
-| M6 | 4 | 16 |
+| M6 | 5 | 20 |
 | M7 | 3 | 12 |
 | M8 | 3 | 12 |
 
@@ -78,15 +78,15 @@ En la sección 9, crea el glosario `Palabras clave del curso` e importa `3_glosa
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttdf.gift.txt`. Se crean *Tu Turno/M1* a *M8*, con 78 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttdf.gift.txt`. Se crean *Tu Turno/M1* a *M8*, con 81 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
 3. Agrega **todas** las preguntas de *Tu Turno/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 |
 |---|---|---|---|---|---|---|---|
-| 12 | 9 | 12 | 6 | 9 | 12 | 9 | 9 |
+| 12 | 9 | 12 | 6 | 9 | 15 | 9 | 9 |
 
-## 7. Actividades H5P (26)
+## 7. Actividades H5P (27)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

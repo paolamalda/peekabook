@@ -370,6 +370,24 @@ $CATEGORY: $course$/Tu Turno/M6
 	~Nada #No es la mejor opción. Ayudan a reclamar.
 }
 
+::M6 U05 P1::¿Cuánto cuesta inscribirte en el REPEP? {
+	=Nada #¡Correcto! Es gratuito.
+	~150 pesos al año #No es la mejor opción. Es gratuito.
+	~Lo que cobre tu compañía de celular #No es la mejor opción. Es gratuito.
+}
+
+::M6 U05 P2::¿Qué haces con la copia de tu INE que entregas? {
+	~La entregas limpia para que no la rechacen #No es la mejor opción. Así no sirve para otra cosa.
+	=Le escribes para qué es y la fecha #¡Correcto! Así no sirve para otra cosa.
+	~Mandas mejor una foto por WhatsApp #No es la mejor opción. Así no sirve para otra cosa.
+}
+
+::M6 U05 P3::Después de registrarte en el REUS, te llama alguien «del banco» pidiendo un código. ¿Qué es? {
+	~Una llamada normal del banco #No es la mejor opción. Los registros no frenan fraudes.
+	~Un error del registro #No es la mejor opción. Los registros no frenan fraudes.
+	=Casi seguro un fraude\: cuelga y llama tú #¡Correcto! Los registros no frenan fraudes.
+}
+
 $CATEGORY: $course$/Tu Turno/M7
 
 ::M7 U01 P1::¿Dónde guardas tu fondo? {

@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.0 · México · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.1 · México · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
 
@@ -16,7 +16,7 @@ Educación financiera para personas que emprenden o trabajan por su cuenta en M�
 | Público | Personas residentes en México, de 18 años en adelante, con un negocio pequeño o un trabajo por su cuenta: comida, comercio, oficios, servicios, venta por catálogo o por internet. Muchas son informales o recién formales; algunas tienen una o dos personas que les ayudan |
 | Tono | Tuteo cercano, español de México, frases cortas, ejemplos de negocio real, sin tecnicismos y sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo imprimible y comunidad aparte |
-| Duración | 9 módulos, 33 lecciones |
+| Duración | 9 módulos, 34 lecciones |
 | Eje | Separar el dinero del negocio y de la casa, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -61,7 +61,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate sin miedo | 5 | RFC, régimen, facturas y declaraciones en orden |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, cuánto cuesta y cómo no mezclarlo |
-| M7 Protege tu negocio | 4 | Seguridad social, seguros, fraudes a negocios y marca |
+| M7 Protege tu negocio | 5 | Seguridad social, seguros, fraudes a negocios, marca e identidad |
 | M8 Crecer con orden | 3 | Reglas para contratar, vender en línea y medir |
 | M9 Tu futuro | 3 | Retiro, plan de continuidad y plan de una página |
 
@@ -139,6 +139,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U04 · Tu marca y tu nombre** Registro en el IMPI, búsqueda en MarcaNET y cuidado con gestores.
 
+**M7 U05 · Tu identidad y la de tu negocio** Robo de identidad, cuentas de WhatsApp y redes, facturas a tu nombre, bloqueo en Buró, líneas con tu CURP, REPEP y REUS.
+
 ## Módulo 8. Crecer con orden
 
 **M8 U01 · Contratar ayuda** Costo real de una persona, obligaciones con el IMSS y el SAT, y acuerdos claros con familiares.
@@ -189,6 +191,9 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | CONSAR y e-SAR | https://www.e-sar.com.mx | Localizar tu AFORE y aportaciones voluntarias |
 | Profeco | https://www.gob.mx/profeco | Derechos de tus clientes y REPEP |
 | Guardia Nacional | 088 | Fraudes, extorsión y delitos en línea |
+| Profeco (REPEP) | https://repep.profeco.gob.mx | Registro para evitar publicidad |
+| Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Líneas registradas con tu CURP |
+| Buró de Crédito | https://www.burodecredito.com.mx | Reporte gratis y bloqueo |
 
 ---
 
@@ -211,5 +216,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | N13 | Límite de transferencias (MTU) | Cada persona fija el límite de sus transferencias; si no lo fija, el banco aplica 1,500 UDIS. Obligatorio desde el 1-ene-2026 | CNBV |
 | N14 | Fraude | 72,873 asuntos por posible fraude en CONDUSEF durante 2025 | CONDUSEF |
 | N15 | Comprobante de transferencia | El CEP (Comprobante Electrónico de Pago) se descarga en el sitio de Banxico y confirma que un SPEI se liquidó | Banco de México |
+| N16 | REPEP y REUS | REPEP gratis, 30 días, no vence; REUS gratis, hasta 45 días, dura dos años | Profeco; CONDUSEF |
+| N17 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
 
 **Datos que se confirman cada año o antes de cada grupo:** tasas y montos fiscales (reforma de cada enero), comisiones de terminales y plataformas, cuotas del IMSS, salario mínimo, UMA y tarifas del IMPI.

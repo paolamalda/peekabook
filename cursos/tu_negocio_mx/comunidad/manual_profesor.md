@@ -2,7 +2,7 @@
 
 Para la persona que acompaña al grupo: abre la comunidad, da la sesión mensual, responde en los foros y lleva el orden. Si trabajan en equipo, sirve para repartir tareas; si eres una sola persona, síguelo completo.
 
-Versión 1.0 · Septiembre de 2026 · Acompaña al curso *Tu Negocio, Tu Dinero, Tu Futuro* (México) y a la *Guía de moderación*.
+Versión 1.1 · Septiembre de 2026 · Acompaña al curso *Tu Negocio, Tu Dinero, Tu Futuro* (México) y a la *Guía de moderación*.
 
 [[TOC]]
 
@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso, no un curso aparte con contenido p
 
 | | Curso (TNDF-MX) | Comunidad (TNDF-COM) |
 |---|---|---|
-| Para qué | Aprender: 9 módulos, 33 lecciones | Acompañar: sesión mensual, dudas, alertas, «Presenta tu negocio» y logros |
+| Para qué | Aprender: 9 módulos, 34 lecciones | Acompañar: sesión mensual, dudas, alertas, «Presenta tu negocio» y logros |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No |
 | Quién entra | Las personas inscritas al programa | Las mismas personas, desde un enlace en el curso |
@@ -243,7 +243,7 @@ Una publicación al mes por persona. Responde con una frase de ánimo y, si apli
 | Terminales, transferencias, CEP, fraudes al vender | M4 U01 a U03 |
 | RFC, RESICO, facturas, IVA, declaraciones | M5 U01 a U05 |
 | Crédito, verificar, CAT, aval | M6 U01 a U04 |
-| IMSS Modalidad 10, seguros, fraudes a negocios, marca | M7 U01 a U04 |
+| IMSS Modalidad 10, seguros, fraudes a negocios, marca, identidad | M7 U01 a U05 |
 | Contratar, plataformas, números del mes | M8 U01 a U03 |
 | Retiro, cierre o traspaso, plan de una página | M9 U01 a U03 |
 

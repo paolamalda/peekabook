@@ -135,6 +135,11 @@ CASOS = {
  ("Busca en la USPTO y en su estado.", "Pinta el nombre y luego revisa.", "Pregunta a sus clientes si les gusta."),
  ("Revisa el dominio y no paga.", "Paga para proteger su marca afuera.", "Paga la mitad y pide factura."),
 ],
+"M7 U05": [
+ ("La reporta y congela en las tres agencias.", "Paga la tarjeta para limpiar su reporte.", "Congela solo en una agencia y espera."),
+ ("Se registra en donotcall.gov y bloquea.", "Cambia de número cada vez que le llaman.", "Contesta y pide que la saquen de la lista."),
+ ("No paga y usa AnnualCreditReport.com.", "Paga los $30 porque dice que es oficial.", "Da su SSN para ver si es real."),
+],
 "M8 U01": [
  ("Se registra como empleadora.", "Le paga en efectivo como contratista.", "Le pide que trabaje gratis unos meses."),
  ("Que necesita licencia y compensación.", "Nada: el ayudante es su primo.", "Solo que el ayudante tenga ITIN."),

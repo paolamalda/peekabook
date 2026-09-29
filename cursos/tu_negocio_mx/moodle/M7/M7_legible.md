@@ -610,3 +610,167 @@ Busca en MarcaNET el nombre de tu negocio.
 IMPI, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M7 U05. Tu identidad y la de tu negocio
+
+**Lo que lograrás:** Proteger tus datos personales y los de tu negocio (INE, CURP, RFC, e.firma, cuentas de WhatsApp y redes), detectar créditos o facturas a tu nombre y usar el bloqueo en Buró, el REPEP y el REUS.
+
+**Para empezar:** A Mariana le robaron su cuenta de WhatsApp del negocio: alguien pidió dinero «prestado» a sus clientas en su nombre. Y a Toño le llegó un aviso por un crédito de 25,000 pesos que nunca pidió. En esta lección verás cómo cuidar tu identidad y la de tu negocio.
+
+### Lo esencial (5 minutos)
+
+#### Tu identidad es la de tu negocio
+
+Si trabajas por tu cuenta, tu INE, tu CURP, tu RFC y tu e.firma **son** los datos de tu negocio. Con ellos alguien puede pedir créditos, contratar líneas, emitir facturas o hacerse pasar por ti ante tus clientes. Eso es robo de identidad.
+
+
+
+#### Tus candados
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Reporte de crédito | Gratis una vez al año en Buró y en Círculo. | Revisa créditos que no pediste. |
+| Bloqueo en Buró | Nadie consulta tu historial sin ti. | Frena créditos a tu nombre. |
+| Verificación en dos pasos | En WhatsApp, redes y correo del negocio. | Evita el robo de cuentas. |
+| Facturas a tu nombre | Revísalas en el portal del SAT. | Detecta facturas falsas. |
+
+> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas es gratuito en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+
+#### Que dejen de llamarte
+
+Inscribe tu celular en el REPEP de Profeco para frenar publicidad, y en el REUS de CONDUSEF para frenar ofertas de bancos y financieras. Así, las llamadas que siguen llegando son más fáciles de identificar como posibles fraudes.
+
+> **Dato vigente:** REPEP: gratis, fijo o celular, en repep.profeco.gob.mx o al 55 5568 8722 u 800 468 8722; en 30 días deben dejar de llamarte; no vence. REUS: gratis, surte efecto en hasta 45 días y dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Mariana recuperó su WhatsApp con el código de su número, activó la verificación en dos pasos y avisó a sus clientas por sus redes. Toño pidió su reporte, encontró el crédito, reclamó por escrito a la financiera y al Buró, denunció y activó el bloqueo.
+
+> **Idea clave:** tus datos personales son los de tu negocio: revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde revisas si hay facturas emitidas a tu nombre que no hiciste?
+*Respuesta:* En el portal del SAT, en tus facturas emitidas.
+
+2. ¿Qué te protege del robo de tu WhatsApp del negocio?
+*Respuesta:* La verificación en dos pasos y nunca compartir el código que te llega.
+
+
+#### Para recordar
+
+- Reporte de crédito cada año.
+- Dos pasos en WhatsApp, redes y correo.
+- REPEP y REUS gratis.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si ya usaron tus datos
+
+1. Pide tu reporte de crédito y ubica lo que no reconoces.
+2. Reclama por escrito a la empresa y al Buró o Círculo; guarda los folios.
+3. Si hay facturas falsas a tu nombre, cambia tu contraseña del SAT, revisa tu e.firma y presenta queja ante el SAT o PRODECON.
+4. Presenta denuncia ante la fiscalía.
+5. Avisa a tus clientes por tus canales oficiales si alguien se hace pasar por ti.
+
+
+
+#### El código de seis dígitos
+
+El robo de cuentas de WhatsApp empieza casi siempre con un mensaje: «te llegó un código por error, ¿me lo pasas?». Ese código es la llave de tu cuenta. Nunca lo compartas, ni con alguien que dice ser tu proveedor o tu cliente.
+
+
+
+#### Lo que no cubren los registros
+
+El REPEP y el REUS no frenan la cobranza de deudas reales, las encuestas o las llamadas de partidos, ni los fraudes: quien estafa no respeta registros. Si alguien te llama «del SAT» o «del banco», cuelga y verifica tú (M7 U03).
+
+> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS, de Buró de Crédito y del SAT en sus sitios oficiales; hay páginas falsas que cobran por inscribirte o por «desbloquear» tu RFC.
+
+
+
+#### Casos
+
+
+**Caso 1. El WhatsApp de Mariana**
+
+Alguien le escribe a Mariana: «te llegó un código por error, ¿me lo pasas?».
+- *¿Qué hace?* No comparte el código y activa la verificación en dos pasos.
+
+
+**Caso 2. El crédito de Toño**
+
+A Toño le cobran un crédito de 25,000 pesos que nunca pidió.
+- *¿Qué hace?* Pide su reporte, reclama por escrito, denuncia y activa el bloqueo.
+
+
+**Caso 3. Las llamadas de Don Pepe**
+
+A Don Pepe le llaman diario de bancos para ofrecerle créditos para la tienda.
+- *¿Qué hace?* Inscribe sus números en el REPEP y el REUS.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Compartir códigos | Te roban la cuenta | Nunca |
+| No revisar tu reporte | Te enteras tarde | Gratis cada año |
+| Ignorar facturas a tu nombre | Problemas con el SAT | Revisa el portal |
+| Pagar por inscribirte | Fraude | REPEP y REUS son gratis |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Toño y Don Pepe. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Alguien te pide el código de seis dígitos que te llegó «por error». ¿Qué haces? a) Se lo mandas, total fue un error · b) No lo compartes y activas la verificación en dos pasos · c) Se lo mandas solo si es cliente
+2. ¿Dónde revisas los créditos a tu nombre? a) En tu reporte de Buró o Círculo · b) En tu estado de cuenta del banco · c) En el SAT
+3. ¿Cuánto cuesta inscribirte en el REUS? a) 200 pesos al año · b) Depende del banco · c) Nada
+**Respuestas:** 1-b: es la llave de tu cuenta. 2-a: reporte gratis cada año. 3-c: es gratuito.
+
+
+
+#### Ponlo en práctica
+
+Te inscribes en el REUS el 1 de marzo. Si tarda el máximo, ¿hasta cuándo pueden seguir llamando, y cuándo vence el registro?
+**Respuesta:** Hasta 45 días: mediados de abril. Dura dos años: hasta marzo de dos años después.
+
+
+
+#### A tu plan
+
+Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, inscribe tus números en el REPEP y el REUS y pide tu reporte de crédito.
+
+
+
+### Para saber más
+
+- **REPEP** (Profeco · español): https://repep.profeco.gob.mx — **Qué buscar:** «inscribir número».
+- **REUS** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «REUS».
+- **Reporte de crédito y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte gratis y «Bloqueo Buró».
+- **Líneas con tu CURP** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx.
+
+### Palabras clave
+
+- *Robo de identidad:* uso de tus datos para hacerse pasar por ti y pedir créditos, facturar o hacer trámites.
+- *REPEP:* Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
+- *REUS:* Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
+- *Verificación en dos pasos:* candado extra que pide un PIN o código además de tu contraseña.
+
+### Fuentes
+
+Profeco · CONDUSEF · Buró de Crédito · SAT · Comisión Reguladora de Telecomunicaciones, consultados el 29 de septiembre de 2026.
+
+---

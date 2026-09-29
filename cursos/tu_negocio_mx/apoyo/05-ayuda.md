@@ -15,6 +15,8 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 | Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Guarda evidencia |
 | Extorsión o cobro de piso | 089 (denuncia anónima) y 911 | Gratis | No negocies |
 | Derechos de tus clientes | Profeco | Gratis | Exhibición de precios |
+| Llamadas de publicidad | REPEP de Profeco y REUS de la CONDUSEF | Gratis | Nadie cobra por inscribirte |
+| Créditos o líneas a tu nombre | Buró y Círculo de Crédito; portal.crt.gob.mx; CONDUSEF; denuncia | Gratis | Folios y copia de la denuncia |
 | Localizar tu AFORE | e-SAR con tu CURP; CONSAR | Gratis | CURP |
 | Permisos del negocio | Tu alcaldía o municipio; Protección Civil; salud estatal | Variable | Pregunta en ventanilla oficial |
 

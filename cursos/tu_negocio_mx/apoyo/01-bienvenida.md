@@ -6,7 +6,7 @@ Aquí aprenderás a separar el dinero del negocio y de tu casa, poner precio, cu
 
 No necesitas saber de finanzas ni de contabilidad. Cada lección parte de una situación real de negocio y termina con una acción que puedes hacer esta semana.
 
-Versión 1.0 · Septiembre de 2026.
+Versión 1.1 · Septiembre de 2026.
 
 ## Cómo está hecho cada módulo
 

@@ -100,6 +100,11 @@ CASOS = {
  ("Reclama de inmediato.", "Espera al estado de cuenta.", "Espera a ver si se repite antes de hacer algo."),
  ("Lo cuenta y sigue su plan.", "Lo calla por vergüenza.", "Se lo cuenta solo a quien lo engañó para que le devuelva el dinero."),
 ],
+"M6 U05": [
+ ("Pide su reporte, reclama, denuncia y bloquea.", "Paga el crédito para que ya no le llamen.", "Ignora las llamadas hasta que se cansen."),
+ ("Inscribe su celular en el REPEP y el REUS.", "Cambia de número cada vez que le llaman.", "Contesta y pide que la saquen de la lista."),
+ ("No manda nada y verifica la empresa.", "Manda la foto porque la vacante es buena.", "Paga los 300 pesos y manda el INE después."),
+],
 "M7 U01": [
  ("Aparta 100 por quincena para su fondo.", "Sigue pidiendo en apps cuando haga falta.", "Espera al aguinaldo para empezar."),
  ("No presta su fondo.", "Lo presta; es su compañero.", "Presta la mitad y confía en que le pague pronto."),

@@ -53,6 +53,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Que no te extorsionen
 
+- **Bloqueo en Buró:** servicio para que nadie consulte tu historial de crédito sin tu autorización.
 - **Código de verificación:** número que te llega para autorizar una operación; es como tu firma.
 - **Denuncia:** aviso formal de un delito ante la autoridad.
 - **Evidencia:** pruebas de lo que pasó.
@@ -60,6 +61,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Montadeudas:** apps de préstamos que cobran de más y extorsionan usando tus contactos y fotos.
 - **Permisos:** accesos que das a una app en tu celular.
 - **Phishing:** engaño con mensajes o páginas falsas para robar tus datos.
+- **REPEP:** Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
+- **REUS:** Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
+- **Robo de identidad:** uso de tus datos para hacerse pasar por ti y pedir créditos o hacer trámites.
 - **Secuestro virtual:** engaño en el que fingen tener a un familiar sin que sea cierto.
 
 ## Tu familia y los imprevistos

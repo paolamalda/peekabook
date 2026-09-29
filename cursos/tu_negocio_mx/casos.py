@@ -136,6 +136,11 @@ CASOS = {
  ("Busca en MarcaNET antes.", "Manda hacer el letrero y luego revisa.", "Pregunta a los vecinos si les gusta."),
  ("No paga y verifica con el IMPI.", "Paga para proteger su marca afuera.", "Paga la mitad y pide factura."),
 ],
+"M7 U05": [
+ ("No lo comparte y activa los dos pasos.", "Lo manda porque dicen que fue un error.", "Lo manda solo si es una clienta frecuente."),
+ ("Pide su reporte, reclama, denuncia y bloquea.", "Paga el crédito para que ya no le llamen.", "Ignora las llamadas hasta que se cansen."),
+ ("Inscribe sus números en el REPEP y el REUS.", "Cambia de número cada vez que le llaman.", "Contesta y pide que lo saquen de la lista."),
+],
 "M8 U01": [
  ("El costo real y su equilibrio.", "Solo si la ayudante acepta 1,800.", "Nada: el sueldo es todo el costo."),
  ("Acuerdan horario y pago por escrito.", "Sigue igual porque es familia.", "Le paga cuando sobre algo al mes."),

@@ -498,6 +498,24 @@ $CATEGORY: $course$/Tu Negocio US ES/M7
 	~De un despacho que te escribe primero #No es la mejor opción. Dominio oficial.
 }
 
+::M7 U05 P1::¿Cuánto cuesta congelar tu crédito? {
+	~$10 por agencia #No es la mejor opción. Es gratis en las tres agencias.
+	=Nada #¡Correcto! Es gratis en las tres agencias.
+	~Solo es gratis si ya te robaron la identidad #No es la mejor opción. Es gratis en las tres agencias.
+}
+
+::M7 U05 P2::¿Dónde reportas un robo de identidad? {
+	=En IdentityTheft.gov #¡Correcto! Da un plan de recuperación.
+	~En el banco donde tienes tu cuenta #No es la mejor opción. Da un plan de recuperación.
+	~En redes sociales #No es la mejor opción. Da un plan de recuperación.
+}
+
+::M7 U05 P3::¿Cuánto dura tu registro en el Registro No Llame? {
+	~Un año #No es la mejor opción. No vence.
+	~Cinco años #No es la mejor opción. No vence.
+	=No vence #¡Correcto! No vence.
+}
+
 $CATEGORY: $course$/Tu Negocio US ES/M8
 
 ::M8 U01 P1::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {

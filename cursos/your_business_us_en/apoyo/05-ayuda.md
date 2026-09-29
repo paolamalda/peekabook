@@ -16,6 +16,8 @@ All options in this table are official or nonprofit. Information checked on Sept
 | Health insurance | Covered California, Medi-Cal, community clinics | Based on income | Certified enrollers |
 | Scams | ReportFraud.ftc.gov; FBI IC3 | Free | Keep evidence |
 | Identity theft | IdentityTheft.gov | Free | Recovery plan |
+| Freeze your credit and see your reports | Equifax, Experian and TransUnion; AnnualCreditReport.com | Free | At all three bureaus |
+| Sales calls | Do Not Call Registry (donotcall.gov) | Free | Never expires |
 | Trademark | USPTO; state registry | Paid | Only uspto.gov |
 | Retirement | ssa.gov; CalSavers | Free | Your my Social Security account |
 | Immigration questions | Attorneys or organizations accredited by the Department of Justice | Free or paid | Never "notarios" |

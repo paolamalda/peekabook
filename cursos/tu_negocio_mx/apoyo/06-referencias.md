@@ -17,7 +17,9 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **I11** CONSAR y e-SAR: AFORE y aportaciones voluntarias.
 - **I12** CONASAMI: salarios mínimos 2026.
 - **I13** INEGI: UMA 2026.
-- **I14** Profeco: derechos del consumidor.
+- **I14** Profeco: derechos del consumidor y REPEP.
+- **I16** Comisión Reguladora de Telecomunicaciones: líneas móviles y CURP.
+- **I17** Buró de Crédito y Círculo de Crédito: reportes y bloqueo.
 - **I15** Guardia Nacional (088) y denuncia anónima (089).
 
 ## Leyes y disposiciones

@@ -606,3 +606,167 @@ Search your business name at the USPTO and in your state's registry.
 USPTO · California Secretary of State, accessed September 29, 2026.
 
 ---
+
+## M7 U05. Identity theft and unwanted calls
+
+**What you will be able to do:** Protect your identity with a credit freeze, fraud alerts and your free reports, know what to do if someone uses your data and register your number so you don't get sales calls.
+
+**To start:** Don Ramón was turned down for credit because his report showed a card he never opened. He also gets ten calls a day offering "loans for his food truck." In this lesson you'll see how to stop both.
+
+### The essentials (5 minutes)
+
+#### What identity theft is
+
+Identity theft happens when someone uses your SSN or ITIN, your name or your documents to open cards, take out loans or file a tax return in your name. As a business owner, your personal information is on many forms: protect it.
+
+
+
+#### Your locks
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Credit freeze | Nobody opens new credit in your name. | Free at all 3 bureaus. |
+| Fraud alert | Lenders must verify it's you. | Lasts one year. |
+| Your credit reports | Free every week at AnnualCreditReport.com. | Check what you don't recognize. |
+| IRS IP PIN | Nobody files with your number (M5 U04). | Free. |
+
+> **Current fact:** freezing and unfreezing your credit is free at Equifax, Experian and TransUnion (you must ask all three); an initial fraud alert is free, lasts one year and you only need to ask one bureau; and you can see your reports free every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
+
+#### Stop the calls
+
+Register your number on the National Do Not Call Registry at donotcall.gov. It's free and never expires. After you register, sales calls that keep coming are usually illegal or scams.
+
+> **Current fact:** the National Do Not Call Registry is free, your number shows up the next day, companies have up to 31 days to stop calling and your registration never expires. Accessed September 29, 2026 through the FTC (donotcall.gov).
+
+
+
+#### A case in one minute
+
+Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft.gov and froze his credit at all three bureaus. He registered his cell phone at donotcall.gov. When he needs a loan, he'll lift the freeze for a few days, for free.
+
+> **Key idea:** freeze your credit, check your reports and register your number; if someone uses your data, report it at IdentityTheft.gov.
+
+
+
+#### Check your understanding
+
+1. What does a credit freeze do?
+*Answer:* It stops anyone from opening new credit in your name; it's free and you can lift it when you need to.
+
+2. Where do you report identity theft?
+*Answer:* At IdentityTheft.gov, which gives you a recovery plan.
+
+
+#### Remember
+
+- Freeze at all 3 bureaus.
+- Free weekly reports.
+- donotcall.gov is free.
+
+
+
+### Go deeper (5 more minutes)
+
+#### If someone already used your data
+
+1. Report it at IdentityTheft.gov: you get a step-by-step plan and letters for companies.
+2. Call the fraud department of the company where the account was opened and ask them to close it.
+3. Place a fraud alert or freeze your credit.
+4. Check your reports and dispute what you don't recognize.
+5. If your number was used for taxes, follow the IRS instructions and get your IP PIN.
+
+
+
+#### If you have an ITIN
+
+If you have a credit history under an ITIN, ask each bureau how to request a freeze or alert with your ITIN; some requests need extra documents. The IRS IP PIN is also available to people who file with an ITIN.
+
+
+
+#### What the registry doesn't cover
+
+The Do Not Call Registry doesn't stop debt collection calls, surveys, charities, political calls or companies you already do business with. It doesn't stop scammers either. Your phone carrier offers free tools to block suspicious calls; use them.
+
+> **Before you act, check:** that you're on donotcall.gov, AnnualCreditReport.com or IdentityTheft.gov; some sites imitate these names and charge for what's free.
+
+
+
+#### Cases
+
+
+**Case 1. Don Ramón's card**
+
+Don Ramón's report shows a card he never opened.
+- *What does he do?* He reports it at IdentityTheft.gov and freezes his credit at all three bureaus.
+
+
+**Case 2. Lupita's calls**
+
+Lupita gets sales calls every day.
+- *What does she do?* She registers her number at donotcall.gov and turns on her carrier's call blocking.
+
+
+**Case 3. Daniela's site**
+
+A website charges Daniela $30 for "her official credit report."
+- *What does she do?* She doesn't pay and goes to AnnualCreditReport.com, where it's free.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Freezing at only one bureau | Credit still gets opened | All three |
+| Paying for reports | Unnecessary cost | AnnualCreditReport.com |
+| Not reporting the theft | You're billed for others' debts | IdentityTheft.gov |
+| Thinking the registry stops scams | You fall for them | Hang up and check |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Lupita and Daniela. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. How much does a credit freeze cost? a) $10 per bureau · b) Nothing · c) It's only free if your identity was already stolen
+2. Where do you report identity theft? a) At IdentityTheft.gov · b) At the bank where you have your account · c) On social media
+3. How long does your Do Not Call registration last? a) One year · b) Five years · c) It never expires
+**Answers:** 1-b: it's free at all three bureaus. 2-a: it gives you a recovery plan. 3-c: it never expires.
+
+
+
+#### Put it into practice
+
+You register your number on May 1. By what date at the latest should sales calls stop?
+**Answer:** Within 31 days: June 1.
+
+
+
+#### Your plan
+
+This week freeze your credit at all three bureaus, check your reports and register your cell phone at donotcall.gov.
+
+
+
+### Learn more
+
+- **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov.
+- **Credit freezes and fraud alerts** (FTC · English): https://consumer.ftc.gov | What to look for: "credit freeze".
+- **Free credit reports** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
+- **Do Not Call Registry** (FTC · English and Spanish): https://www.donotcall.gov.
+
+### Key words
+
+- *Identity theft:* using your information to pose as you and open accounts, get credit or file tax returns.
+- *Credit freeze:* a free block so nobody can open new credit in your name.
+- *Fraud alert:* a notice on your report so lenders verify your identity before giving credit.
+- *National Do Not Call Registry:* a free federal registry so companies don't call you with sales pitches.
+
+### Sources
+
+FTC · IRS, accessed September 29, 2026.
+
+---

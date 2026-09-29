@@ -20,6 +20,7 @@ Sources used in the course, accessed September 29, 2026.
 - **I14** SSA: credits and retirement estimate.
 - **I15** CalSavers.
 - **I16** California Courts: small claims.
+- **I17** FTC: credit freezes, fraud alerts, IdentityTheft.gov and the National Do Not Call Registry; AnnualCreditReport.com.
 
 ## Laws and rules
 

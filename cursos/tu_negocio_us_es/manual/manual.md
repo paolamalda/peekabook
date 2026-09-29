@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.
 
-Manual del programa · Versión 1.0 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.1 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
 
@@ -17,7 +17,7 @@ Educación financiera para personas latinas que emprenden o trabajan por su cuen
 | Tono | Tuteo cercano, español neutro con términos en inglés cuando se usan así en la vida diaria (EIN, sales tax, LLC), frases cortas, sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo y comunidad aparte |
 | Alcance | Reglas federales con ejemplos de California; en otros estados se indica revisar las reglas locales |
-| Duración | 9 módulos, 33 lecciones |
+| Duración | 9 módulos, 34 lecciones |
 | Idiomas | Español (este curso) e inglés (curso paralelo *Your Business, Your Money, Your Future*) |
 
 ## El problema que resuelve
@@ -62,7 +62,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate e impuestos sin miedo | 5 | Estructura, EIN e ITIN, permisos, impuestos federales, pagos estimados y sales tax |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, compararlo por APR y no mezclarlo |
-| M7 Protege tu negocio | 4 | Seguro médico, seguros del negocio, fraudes a negocios y marca |
+| M7 Protege tu negocio | 5 | Seguro médico, seguros del negocio, fraudes a negocios, marca, identidad y llamadas no deseadas |
 | M8 Crecer con orden | 3 | Contratar bien, vender en plataformas y medir |
 | M9 Tu futuro | 3 | Seguro Social y retiro, plan de continuidad y plan de una página |
 
@@ -140,6 +140,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U04 · Tu marca y tu nombre** USPTO ($350 por clase), registro estatal y avisos falsos.
 
+**M7 U05 · Robo de identidad y llamadas no deseadas** Congelamiento de crédito en las tres agencias, alerta de fraude, reportes semanales gratis, IdentityTheft.gov, ITIN y Registro Nacional No Llame.
+
 ## Módulo 8. Crecer con orden
 
 **M8 U01 · Contratar ayuda** Empleado o contratista (prueba ABC), salario mínimo de California, nómina, compensación, W-9 y 1099-NEC.
@@ -192,6 +194,8 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | Covered California y DHCS | https://www.coveredca.com/espanol · https://www.dhcs.ca.gov | Seguro médico y Medi-Cal |
 | USPTO | https://www.uspto.gov | Marcas |
 | SSA | https://www.ssa.gov/espanol | Créditos y estimado de retiro |
+| IdentityTheft.gov y donotcall.gov | https://www.robodeidentidad.gov · https://www.donotcall.gov/es | Robo de identidad y Registro No Llame |
+| AnnualCreditReport.com | https://www.annualcreditreport.com | Reportes de crédito gratis |
 
 ---
 
@@ -215,5 +219,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | U14 | Créditos del Seguro Social | $1,890 por crédito en 2026, hasta 4 al año ($7,560); 40 créditos para la pensión de retiro | SSA |
 | U15 | Comisiones de tarjeta | Comúnmente de 2.6% a 3.5% más una cuota fija por cobro | Tarifas publicadas de procesadores |
 | U16 | Corte de reclamos menores en California | Hasta $12,500 para personas | California Courts |
+| U17 | Congelamiento, alertas y reportes | Congelar y descongelar gratis en Equifax, Experian y TransUnion; alerta de fraude inicial gratis por un año; reportes gratis cada semana | FTC |
+| U18 | Registro Nacional No Llame | Gratis; hasta 31 días para que dejen de llamar; no vence | FTC |
 
 **Datos que se confirman cada año o antes de cada grupo:** límites de retiro, tarifa por milla, base del Seguro Social, umbrales de 1099 (se ajustan por inflación desde 2027), salario mínimo, tarifas de USPTO y comisiones de procesadores y plataformas.

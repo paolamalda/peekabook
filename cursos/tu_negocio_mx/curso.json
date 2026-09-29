@@ -1,10 +1,10 @@
 {
  "sigla": "TNDF",
  "titulo": "Tu Negocio, Tu Dinero, Tu Futuro",
- "subtitulo": "Versión 1.0 · México · Desarrolla Talento · Septiembre de 2026",
- "version": "1.0",
+ "subtitulo": "Versión 1.1 · México · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.1",
  "lang": "es",
- "intro": "Curso de finanzas para personas que emprenden o trabajan por su cuenta en México: 9 módulos, 33 lecciones, desde separar el dinero hasta formalizarte, crecer y proteger tu futuro.",
+ "intro": "Curso de finanzas para personas que emprenden o trabajan por su cuenta en México: 9 módulos, 34 lecciones, desde separar el dinero hasta formalizarte, crecer y proteger tu futuro.",
  "categoria": "Tu Negocio MX",
  "banco": "banco_preguntas_tndf_mx.gift.txt",
  "min_leccion": [10, 15],
@@ -60,8 +60,8 @@
  },
  "comunidad": {
   "titulo": "Comunidad Tu Negocio",
-  "subtitulo": "Versión 1.0 · México · Desarrolla Talento · Septiembre de 2026",
-  "version": "1.0",
+  "subtitulo": "Versión 1.1 · México · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.1",
   "intro": "Complemento del curso Tu Negocio, Tu Dinero, Tu Futuro: espacio aparte en Moodle para dudas por tema, alertas de fraude, un foro para presentar tu negocio, logros y una sesión mensual en vivo. Se complementa con un canal de WhatsApp.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -72,7 +72,7 @@
    "06": "Qué es educación y qué es una oferta comercial, con total transparencia."
   },
   "carpeta": {
-   "nombre": "Comunidad_Tu_Negocio_MX", "zip": "Comunidad_Tu_Negocio_MX_v1.0",
+   "nombre": "Comunidad_Tu_Negocio_MX", "zip": "Comunidad_Tu_Negocio_MX_v1.1",
    "descripciones": ["Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
                      "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
                      "Guía de implementación: creación en Moodle paso a paso y calendario editorial.",
@@ -101,8 +101,8 @@
   "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`TNDF-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
  },
  "carpeta": {
-  "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX", "zip": "Tu_Negocio_MX_v1.0",
-  "manual": "Manual_del_programa_TNDF_MX_v1.0", "contenido": "Contenido_completo_TNDF_MX_v1.0", "guia": "Guia_implementacion_TNDF_MX_v1.0",
+  "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX", "zip": "Tu_Negocio_MX_v1.1",
+  "manual": "Manual_del_programa_TNDF_MX_v1.1", "contenido": "Contenido_completo_TNDF_MX_v1.1", "guia": "Guia_implementacion_TNDF_MX_v1.1",
   "descripciones": ["Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
                     "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
                     "Guía de implementación: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento (.docx y .md).",

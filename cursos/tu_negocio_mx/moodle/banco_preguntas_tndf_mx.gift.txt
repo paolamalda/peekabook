@@ -498,6 +498,24 @@ $CATEGORY: $course$/Tu Negocio MX/M7
 	~Para siempre sin trámites #No es la mejor opción. Y se renueva.
 }
 
+::M7 U05 P1::Alguien te pide el código de seis dígitos que te llegó «por error». ¿Qué haces? {
+	~Se lo mandas, total fue un error #No es la mejor opción. Es la llave de tu cuenta.
+	=No lo compartes y activas la verificación en dos pasos #¡Correcto! Es la llave de tu cuenta.
+	~Se lo mandas solo si es cliente #No es la mejor opción. Es la llave de tu cuenta.
+}
+
+::M7 U05 P2::¿Dónde revisas los créditos a tu nombre? {
+	=En tu reporte de Buró o Círculo #¡Correcto! Reporte gratis cada año.
+	~En tu estado de cuenta del banco #No es la mejor opción. Reporte gratis cada año.
+	~En el SAT #No es la mejor opción. Reporte gratis cada año.
+}
+
+::M7 U05 P3::¿Cuánto cuesta inscribirte en el REUS? {
+	~200 pesos al año #No es la mejor opción. Es gratuito.
+	~Depende del banco #No es la mejor opción. Es gratuito.
+	=Nada #¡Correcto! Es gratuito.
+}
+
 $CATEGORY: $course$/Tu Negocio MX/M8
 
 ::M8 U01 P1::¿Qué es un costo de contratar además del sueldo? {

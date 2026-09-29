@@ -11,6 +11,7 @@ Cada cifra de las lecciones va en un recuadro «Dato vigente» con fecha y fuent
 | Enero | Salario mínimo de California y de ciudades | M8 U01 |
 | Cada año | Mínimo de LLC en California, tasas de sales tax, límite de la CSLB | M5 U01, M5 U02, M5 U05 |
 | Cada año | Tarifas de la USPTO | M7 U04 |
+| Cada año | Reglas de congelamiento, alertas, reportes gratis y Registro No Llame (FTC) | M7 U05 |
 | Cada seis meses | Comisiones de procesadores y plataformas | M4 U01, M8 U02 |
 | Antes de la inscripción abierta | Reglas de Covered California y Medi-Cal | M7 U01 |
 | Después de cualquier cambio de contenido | Regenerar libros, H5P y banco y volver a armar la carpeta | Herramientas del proyecto |
