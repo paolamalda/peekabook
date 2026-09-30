@@ -61,14 +61,14 @@ In each module section:
 
 | Module | Chapters | Pages |
 |---|---|---|
-| M1 | 4 | 16 |
+| M1 | 5 | 20 |
 | M2 | 4 | 16 |
 | M3 | 3 | 12 |
 | M4 | 3 | 12 |
 | M5 | 5 | 20 |
 | M6 | 4 | 16 |
-| M7 | 5 | 20 |
-| M8 | 3 | 12 |
+| M7 | 7 | 28 |
+| M8 | 4 | 16 |
 | M9 | 3 | 12 |
 
 ## 4. Support book
@@ -81,15 +81,15 @@ In section 10, create the glossary `Course key words` and import `3_glossary/Glo
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN/M1* to *M9* are created, with 102 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN/M1* to *M9* are created, with 114 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
 3. Add **all** questions from *Your Business US EN/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|
-| 12 | 12 | 9 | 9 | 15 | 12 | 15 | 9 | 9 |
+| 15 | 12 | 9 | 9 | 15 | 12 | 21 | 12 | 9 |
 
-## 7. H5P activities (34)
+## 7. H5P activities (38)
 
 Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesson order:
 

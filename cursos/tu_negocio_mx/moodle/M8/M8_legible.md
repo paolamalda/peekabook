@@ -12,7 +12,7 @@
 
 Contratar a una persona cuesta más que su sueldo: hay prestaciones que marca la ley (aguinaldo, vacaciones y prima vacacional, días de descanso) y, si está registrada, cuotas del IMSS e impuestos sobre nómina de tu estado.
 
-> **Dato vigente:** el salario mínimo general en 2026 es de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 en la zona libre de la frontera norte. Nadie puede recibir menos por una jornada completa. Consultado el 29 de septiembre de 2026 a través de CONASAMI.
+> **Dato vigente:** el salario mínimo general en 2026 es de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 en la zona libre de la frontera norte. Nadie puede recibir menos por una jornada completa. Si pagas exactamente el mínimo, no retienes ISR (Ley del ISR, artículo 96) y tú pagas también la cuota del trabajador al IMSS (Ley del Seguro Social, artículo 36). Consultado el 29 de septiembre de 2026 a través de CONASAMI, la Ley del ISR y la Ley del Seguro Social.
 
 
 
@@ -460,5 +460,144 @@ Llena tu tablero con los números del mes pasado y elige una decisión para este
 ### Fuentes
 
 CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M8 U04. Estrés, negocio y familia
+
+**Lo que lograrás:** Reconocer el estrés de emprender, separar tiempos de trabajo y descanso y hablar de dinero en casa sin pleitos.
+
+**Para empezar:** Toño trabaja de lunes a domingo, contesta clientes hasta la medianoche y discute con su pareja por dinero. Siente que si descansa, pierde. En esta lección verás cómo cuidar tu energía y tu negocio.
+
+### Lo esencial (5 minutos)
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Duermes mal | Piensas en pagos y clientes toda la noche. | Tu salud lo resiente. |
+| Pleitos en casa | Cada plática de dinero es una discusión. | Nadie decide. |
+| Evitas tus números | No quieres ver tus ventas. | Decides a ciegas. |
+| Horario y descanso | Días y horas fijas. | Mejores decisiones. |
+
+#### Cuatro hábitos
+
+1. Horario de atención publicado; fuera de él, mensaje automático.
+2. Un día de descanso a la semana.
+3. Una plática de dinero en casa de 20 minutos cada semana, con números.
+4. Tu sueldo fijo (M1 U03): tu casa no depende del día a día del negocio.
+
+
+
+#### Un caso en un minuto
+
+Toño puso horario de atención de 8 a 19 horas y un mensaje automático. Los domingos descansa. Con su pareja revisa cada lunes el presupuesto de la casa y su sueldo fijo. Duerme mejor y comete menos errores en sus cotizaciones.
+
+> **Idea clave:** tu negocio necesita que estés bien; un horario, un día de descanso y una plática de dinero semanal bajan el estrés.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué te ayuda a no contestar clientes a medianoche?
+*Respuesta:* Un horario de atención publicado y un mensaje automático.
+
+2. ¿Por qué ayuda el sueldo fijo en casa?
+*Respuesta:* Porque tu familia no depende de las ventas de cada día.
+
+
+#### Para recordar
+
+- Horario publicado.
+- Un día de descanso.
+- Plática de dinero semanal.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si el estrés no baja
+
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende gratis las 24 horas.
+
+
+
+#### Familia en el negocio
+
+Si tu familia trabaja contigo, separen las pláticas del negocio de las de la casa y acuerden pagos claros (M8 U01). Así un mal día de ventas no se vuelve un pleito familiar.
+
+
+
+#### Casos
+
+
+**Caso 1. Los mensajes de Toño**
+
+Toño contesta clientes hasta la medianoche y no descansa.
+- *¿Qué hace?* Publica un horario de atención y activa un mensaje automático.
+
+
+**Caso 2. Las ventas de Mariana**
+
+Mariana no quiere ver sus números porque vendió poco.
+- *¿Qué hace?* Revisa sus números con calma y decide una acción.
+
+
+**Caso 3. La fonda de Rosa**
+
+Rosa y su hija discuten del negocio en la cena.
+- *¿Qué hacen?* Separan un momento para el negocio y otro para la casa.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Trabajar sin descanso | Errores y enfermedad | Día libre |
+| Evitar los números | Decides a ciegas | Revisa |
+| Mezclar negocio y cena | Pleitos | Momentos separados |
+| Callar el estrés | Empeora | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, Mariana y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tus clientes te escriben a medianoche. ¿Qué haces? a) Contestas siempre para no perderlos · b) Publicas un horario y un mensaje automático · c) Apagas el celular una semana
+2. Vendiste poco este mes. ¿Qué haces con tus números? a) Los revisas con calma y decides una acción · b) No los ves para no preocuparte · c) Los borras
+3. ¿Qué protege a tu casa de los altibajos del negocio? a) Sacar del cajón cuando haga falta · b) Pedir prestado · c) Tu sueldo fijo
+**Respuestas:** 1-b: límites claros. 2-a: decidir con datos. 3-c: ingreso estable.
+
+
+
+#### Ponlo en práctica
+
+Trabajas 7 días de 12 horas. Si descansas un día, ¿cuántas horas recuperas a la semana?
+**Respuesta:** 12 horas.
+
+
+
+#### A tu plan
+
+Publica tu horario de atención y elige tu día de descanso.
+
+
+
+### Para saber más
+
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+
+### Palabras clave
+
+- *Estrés financiero:* preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
+
+### Fuentes
+
+Secretaría de Salud, consultado el 29 de septiembre de 2026.
 
 ---

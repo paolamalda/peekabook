@@ -770,3 +770,286 @@ Esta semana congela tu crédito en las tres agencias, revisa tus reportes y regi
 FTC · IRS, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M7 U06. Fraudes con inteligencia artificial: voces, videos y mensajes falsos
+
+**Lo que lograrás:** Reconocer los fraudes que usan voces, videos o mensajes hechos con inteligencia artificial contra tu negocio y tu familia, y protegerte con reglas simples.
+
+**Para empezar:** A Don Ramón lo llamó «su proveedor de carne», con su misma voz, para pedirle que pagara la factura a una cuenta nueva por Zelle. Era una voz clonada. En esta lección verás cómo detectarlo.
+
+### Lo esencial (5 minutos)
+
+#### Qué pueden imitar
+
+Con unos segundos de audio o unas fotos de tus redes, la inteligencia artificial puede imitar la voz de un familiar, un proveedor o un cliente; crear videos falsos de famosos que «recomiendan» inversiones; o escribir correos idénticos a los de tu banco o del IRS.
+
+
+
+#### Tus reglas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cambios de cuenta | Confírmalos llamando al número que ya tenías. | Nunca por el mismo mensaje. |
+| Palabra clave | Con tu familia y proveedores principales. | Si no la dicen, no es. |
+| Urgencia | «Paga hoy por Zelle o pierdes el pedido». | Señal de fraude. |
+| Famoso que invierte | Video falso. | No es real. |
+
+#### Un caso en un minuto
+
+Don Ramón colgó y marcó al número de su proveedor que tenía guardado. No habían cambiado de cuenta. Ahora todo cambio de datos de pago lo confirma por teléfono, y su familia tiene una palabra clave para emergencias.
+
+> **Idea clave:** una voz o una cara conocidas ya no son prueba; confirma cualquier pedido de dinero por un medio que tú elijas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces si un proveedor te pide pagar a una cuenta nueva?
+*Respuesta:* Confirmas llamando al número que ya tenías, nunca por el mismo mensaje.
+
+2. ¿Una voz conocida prueba que es esa persona?
+*Respuesta:* No: puede estar clonada.
+
+
+#### Para recordar
+
+- La voz puede ser falsa.
+- Confirma por otro medio.
+- Palabra clave.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Menos material para copiar
+
+Evita publicar audios largos con tu voz, pon privadas tus cuentas personales y no publiques horarios ni fotos de tu caja. Entre menos datos, menos creíble es el engaño.
+
+
+
+#### Tus clientes también son blanco
+
+Si alguien se hace pasar por tu negocio para pedir pagos, avisa en tus redes y tu página cuál es tu única forma de cobro. Repórtalo en ReportFraud.ftc.gov.
+
+> **Antes de actuar, verifica:** cualquier pedido de dinero, cambio de cuenta o inversión «recomendada» por un medio que tú elijas.
+
+
+
+#### Casos
+
+
+**Caso 1. El proveedor de Don Ramón**
+
+Una voz idéntica a la de su proveedor pide a Don Ramón pagar por Zelle a una cuenta nueva.
+- *¿Qué hace?* Cuelga y confirma llamando al número que ya tenía.
+
+
+**Caso 2. El video de Javier**
+
+Javier ve un video de un empresario famoso que promete duplicar su dinero con cripto.
+- *¿Qué hace?* No invierte: es un video falso y un fraude.
+
+
+**Caso 3. Las clientas de Daniela**
+
+Alguien usa la foto y la voz de Daniela para pedir anticipos a sus clientas.
+- *¿Qué hace?* Avisa en sus redes cuál es su única forma de cobro y lo reporta a la FTC.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Confiar en la voz | Pagas a un estafador | Confirma |
+| Cambiar cuenta por mensaje | Pierdes el pago | Llama tú |
+| Creer videos de famosos | Pierdes todo | Es falso |
+| No avisar a clientes | Más víctimas | Canales oficiales |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Ramón, Javier y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? a) Pagas: es su voz · b) Confirmas llamando al número que ya tenías · c) Pides la cuenta por mensaje
+2. Un famoso recomienda en video una inversión que duplica tu dinero. ¿Qué es? a) Casi seguro un video falso y un fraude · b) Una inversión segura · c) Una promoción del banco
+3. ¿Dónde reportas un fraude con IA en EE. UU.? a) En los comentarios del video · b) En ningún lado · c) En ReportFraud.ftc.gov
+**Respuestas:** 1-b: confirma por otro medio. 2-a: nadie duplica dinero. 3-c: reporte oficial.
+
+
+
+#### Ponlo en práctica
+
+Una factura de $2,500 y un minuto para confirmar por teléfono. ¿Qué te cuesta más si te equivocas?
+**Respuesta:** Los $2,500; confirmar cuesta un minuto.
+
+
+
+#### A tu plan
+
+Esta semana acuerda una palabra clave con tu familia y escribe en tus redes cuál es tu única forma de cobro.
+
+
+
+### Para saber más
+
+- **Estafas con voz clonada** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «clonación de voz».
+- **Reporta un fraude** (FTC · español): https://reportefraude.ftc.gov.
+
+### Palabras clave
+
+- *Inteligencia artificial:* programas que imitan voces, caras o textos de forma muy realista.
+- *Voz clonada:* imitación de la voz de una persona hecha por computadora.
+
+### Fuentes
+
+FTC, consultado el 29 de septiembre de 2026.
+
+---
+
+## M7 U07. Si llega un desastre: tu negocio preparado
+
+**Lo que lograrás:** Preparar tu negocio para un incendio, terremoto o inundación con respaldo de registros, seguro, reserva y un plan para volver a trabajar, y conocer las ayudas federales.
+
+**Para empezar:** Un incendio forestal obligó a evacuar la zona donde Don Ramón estaciona su food truck. Perdió una semana de ventas e inventario, y no sabía si su seguro cubría eso. En esta lección verás cómo prepararte.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan de desastre
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Respaldo digital | Registros, recibos y contactos en la nube. | Para impuestos y seguros. |
+| Fotos del equipo e inventario | Con fecha. | Para reclamar. |
+| Seguro con coberturas | Inundación y terremoto suelen ir aparte. | Pregunta. |
+| Reserva en cuenta | No todo en efectivo. | Disponible. |
+
+#### Ayudas federales
+
+En zonas declaradas como desastre, FEMA ofrece asistencia a personas y la SBA ofrece préstamos a bajo interés a hogares y negocios. El IRS suele dar más tiempo para declarar y pagar impuestos.
+
+> **Dato vigente:** los préstamos por desastre de la SBA llegan hasta $500,000 para reparar la vivienda principal, $100,000 para bienes personales y $2 millones para negocios (daños físicos o capital de trabajo); la tasa no pasa de 4% si no consigues crédito en otro lado. Consultado el 29 de septiembre de 2026 a través de la SBA.
+
+
+
+#### Un caso en un minuto
+
+Don Ramón respalda cada semana sus recibos y fotos del equipo en la nube. Revisó su póliza y agregó cobertura por interrupción del negocio. Su reserva está en una cuenta. Sabe que, si declaran desastre, puede pedir ayuda en DisasterAssistance.gov y la SBA.
+
+> **Idea clave:** respaldo, fotos, las coberturas correctas y reserva en cuenta; si declaran desastre, las ayudas federales se piden gratis en sitios oficiales.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué suele no cubrir un seguro básico de casa o negocio?
+*Respuesta:* Inundación y terremoto, que suelen ser pólizas o coberturas aparte.
+
+2. ¿Qué ofrece la SBA después de un desastre?
+*Respuesta:* Préstamos a bajo interés para hogares y negocios.
+
+
+#### Para recordar
+
+- Respaldo y fotos.
+- Coberturas correctas.
+- FEMA, SBA e IRS: sitios oficiales.
+
+
+
+### Profundiza (5 minutos más)
+
+#### El IRS en un desastre
+
+Cuando el gobierno declara una zona de desastre, el IRS suele posponer las fechas para declarar y pagar, incluidos los pagos estimados. Revisa la página de alivio por desastres del IRS antes de pagar multas.
+
+
+
+#### Fraudes después del desastre
+
+Aparecen falsos inspectores de FEMA, contratistas que cobran por adelantado y colectas falsas. FEMA no cobra por ayudarte ni te pide pagos para inscribirte. En California, verifica la licencia del contratista en la CSLB.
+
+> **Antes de actuar, verifica:** qué cubre tu póliza (inundación, terremoto, interrupción del negocio) y pide las ayudas solo en DisasterAssistance.gov, sba.gov e irs.gov.
+
+
+
+#### Casos
+
+
+**Caso 1. La póliza de Don Ramón**
+
+Don Ramón no sabe si su seguro cubre las ventas perdidas por una evacuación.
+- *¿Qué hace?* Pregunta a su agente por la cobertura de interrupción del negocio.
+
+
+**Caso 2. El inspector de Lupita**
+
+Alguien que dice ser de FEMA le pide a Lupita $100 para «agilizar» su ayuda.
+- *¿Qué hace?* No paga: FEMA no cobra; lo reporta.
+
+
+**Caso 3. El taller de Javier**
+
+Tras un terremoto, Javier no puede hacer su pago estimado a tiempo.
+- *¿Qué revisa?* Si el IRS pospuso las fechas para su zona.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Todo en papel | Lo pierdes | Respaldo |
+| Suponer que el seguro cubre todo | Sin pago | Revisa coberturas |
+| Pagar por ayudas | Fraude | Son gratis |
+| Pagar multas sin revisar | Pagas de más | Alivio del IRS |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Ramón, Lupita y Javier. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué suele quedar fuera de un seguro básico? a) El robo con violencia · b) Inundación y terremoto · c) El incendio
+2. Alguien de «FEMA» te pide $100 para agilizar tu ayuda. ¿Qué es? a) Un fraude: FEMA no cobra · b) Un trámite normal · c) Una cuota de la SBA
+3. ¿Hasta cuánto presta la SBA a un negocio tras un desastre? a) $50,000 · b) $500,000 · c) $2 millones
+**Respuestas:** 1-b: suelen ir aparte. 2-a: las ayudas son gratis. 3-c: daños físicos o capital de trabajo.
+
+
+
+#### Ponlo en práctica
+
+Tu equipo vale $18,000 y el deducible es 10%. ¿Cuánto pagarías tú?
+**Respuesta:** $1,800.
+
+
+
+#### A tu plan
+
+Esta semana toma fotos de tu equipo e inventario, respáldalas y pregunta qué cubre tu seguro.
+
+
+
+### Para saber más
+
+- **Asistencia por desastre** (FEMA · español): https://www.disasterassistance.gov/es.
+- **Préstamos por desastre** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «asistencia por desastre».
+- **Alivio tributario por desastre** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «alivio por desastre».
+
+### Palabras clave
+
+- *Interrupción del negocio:* cobertura que paga ingresos perdidos cuando no puedes trabajar por un daño cubierto.
+- *Zona de desastre:* área declarada por el gobierno donde se activan ayudas federales.
+
+### Fuentes
+
+FEMA · SBA · IRS · CSLB, consultados el 29 de septiembre de 2026.
+
+---

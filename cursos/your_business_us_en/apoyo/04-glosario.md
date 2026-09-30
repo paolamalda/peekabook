@@ -5,6 +5,7 @@ Plain-language definitions of the course words, grouped by module.
 ## Your business and your home: separate money
 
 - **Business account:** an account you use only to collect and pay for business things.
+- **Compulsive gambling:** when you can't stop betting even though it causes problems.
 - **FDIC:** federal agency that insures bank deposits.
 - **Owner's salary:** a fixed amount you transfer from the business to yourself every week or two weeks.
 - **Profit:** what is left from sales after paying all the business costs.
@@ -12,6 +13,7 @@ Plain-language definitions of the course words, grouped by module.
 - **Sales:** everything you charge your customers, before subtracting what it cost you.
 - **Sole proprietor:** a person who owns a business in their own name, without creating a separate company.
 - **Standard mileage rate:** the amount the IRS lets you deduct for each business mile driven.
+- **Sweepstakes casino:** a site that simulates betting with virtual coins redeemable for money; banned in California since 2026.
 - **Weekly check:** adding up sales and expenses for a period to know how much you earned.
 
 ## Costs and price
@@ -77,10 +79,14 @@ Plain-language definitions of the course words, grouped by module.
 
 ## Protect your business
 
+- **Artificial intelligence:** programs that imitate voices, faces or text very realistically.
+- **Business interruption:** coverage that pays lost income when you can't work because of covered damage.
 - **Certificate of insurance (COI):** a document that proves you have insurance.
 - **Class:** the group of products or services a trademark registration covers.
+- **Cloned voice:** a computer-made imitation of a person's voice.
 - **Credit freeze:** a free block so nobody can open new credit in your name.
 - **Deductible:** what you pay before the insurance starts paying.
+- **Disaster area:** an area declared by the government where federal help is activated.
 - **Fraud alert:** a notice on your report so lenders verify your identity before giving credit.
 - **General liability:** insurance that pays for damage you cause to other people or their property.
 - **Government-imitation letter:** mail from a private company that looks official in order to charge you for services.
@@ -97,6 +103,7 @@ Plain-language definitions of the course words, grouped by module.
 - **ABC test:** California's test to determine whether someone is an employee or a contractor.
 - **Average ticket:** what each customer spends on average per purchase: sales divided by number of sales.
 - **Dashboard:** a table with the business's key numbers each month.
+- **Financial stress:** constant worry about money that affects your sleep, health or relationships.
 - **Gross payments:** the total collected before subtracting fees, refunds and costs.
 - **Independent contractor:** a person who has their own business, decides how to do the work and works for several clients.
 - **Payroll taxes:** taxes the employer withholds and pays for its employees.

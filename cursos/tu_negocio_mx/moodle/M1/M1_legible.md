@@ -615,3 +615,153 @@ Elige tu herramienta y anota tus ventas y gastos todos los días de esta semana.
 CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M1 U05. Apuestas en línea: el dinero del negocio no se juega
+
+**Lo que lograrás:** Reconocer cómo las apuestas y casinos en línea ponen en riesgo tu negocio, poner límites y saber dónde pedir ayuda.
+
+**Para empezar:** Don Pepe tiene tiempos muertos en la tienda y empezó a apostar en el celular. Un mes tomó 4,000 pesos del cajón «para recuperarse». No le alcanzó para surtir. En esta lección verás cómo proteger el dinero del negocio.
+
+### Lo esencial (5 minutos)
+
+#### Por qué es un riesgo para tu negocio
+
+Las apuestas en línea están a un toque, todo el día, con bonos y avisos. Si el dinero del negocio y el tuyo están mezclados, es fácil tomar del cajón o de la cuenta del negocio sin darte cuenta. A la larga, la casa siempre gana y tu negocio se queda sin efectivo para surtir.
+
+
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Recuperar lo perdido | Apuestas más para «desquitarte». | La trampa principal. |
+| Tomas del negocio | Del cajón o de la cuenta del negocio. | Pones en riesgo el surtido. |
+| Crédito para apostar | Tarjeta o préstamo. | Deuda segura. |
+| Tope y cuenta separada | Solo de tu sueldo, con límite. | Control. |
+
+#### Si decides apostar
+
+1. Solo de tu sueldo (M1 U03), nunca del negocio.
+2. Un tope al mes que no afecte tus gastos básicos.
+3. Nunca con crédito.
+4. Solo en sitios con permiso de la Secretaría de Gobernación, con límites de depósito activados.
+
+
+
+#### Un caso en un minuto
+
+Don Pepe devolvió los 4,000 al negocio poco a poco, borró las apps y pidió la autoexclusión. Le contó a su hija lo que pasaba. Ahora el cajón se corta cada noche y el dinero va a la cuenta del negocio.
+
+> **Idea clave:** el dinero del negocio no se juega; si apuestas para recuperar o con crédito, ya es un problema.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿De dónde nunca debe salir el dinero para apostar?
+*Respuesta:* Del negocio, de préstamos ni de tarjetas.
+
+2. ¿Cuál es la señal principal de alerta?
+*Respuesta:* Apostar más para recuperar lo perdido.
+
+
+#### Para recordar
+
+- Nunca del negocio.
+- Nunca con crédito.
+- Tope, pausa y ayuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Sitios sin permiso
+
+Algunas apps de apuestas no tienen permiso para operar en México. Si ganas, pueden no pagarte, y tus datos y tu tarjeta quedan expuestos. La Secretaría de Gobernación publica la lista de permisionarios.
+
+
+
+#### Pedir ayuda
+
+El juego compulsivo es un problema de salud. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan gratis. Separar el dinero y cortar caja cada día (M1 U02 y U04) también protege al negocio.
+
+> **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
+
+
+
+#### Casos
+
+
+**Caso 1. El cajón de Don Pepe**
+
+Don Pepe perdió en las apuestas y quiere tomar 2,000 del cajón para recuperarse.
+- *¿Qué hace?* No toma del negocio, deja de apostar y busca ayuda.
+
+
+**Caso 2. El bono de Mariana**
+
+Una app le ofrece a Mariana un bono si deposita 1,000 con la tarjeta del negocio.
+- *¿Qué hace?* No usa dinero del negocio y revisa si el sitio tiene permiso.
+
+
+**Caso 3. El ayudante de Toño**
+
+El ayudante de Toño le pide un adelanto para apostar en el partido.
+- *¿Qué hace?* No se lo da para apostar y, si hay confianza, le comparte dónde pedir ayuda.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Tomar del negocio | No alcanza para surtir | Solo de tu sueldo |
+| Recuperar lo perdido | Pierdes más | Para |
+| Apostar con crédito | Deuda | Nunca |
+| Sitios sin permiso | No te pagan | Verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Mariana y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿De dónde puede salir el dinero para apostar, si decides hacerlo? a) Del cajón del negocio · b) De tu sueldo, con un tope · c) De la tarjeta de crédito
+2. Perdiste y quieres recuperarlo. ¿Qué es eso? a) La señal principal de un problema con el juego · b) Una buena estrategia · c) Algo normal que no afecta
+3. ¿Qué revisas de una app de apuestas? a) Que regale bonos grandes · b) Que tenga muchos anuncios · c) Que tenga permiso de la Secretaría de Gobernación
+**Respuestas:** 1-b: nunca del negocio ni con crédito. 2-a: recuperar es la trampa. 3-c: sin permiso no hay a quién reclamar.
+
+
+
+#### Ponlo en práctica
+
+Apuestas 100 pesos al día, 26 días al mes. ¿Cuánto es al mes y al año?
+**Respuesta:** 2,600 al mes; 31,200 al año.
+
+
+
+#### A tu plan
+
+Corta caja cada noche y, si apuestas, fija un tope que salga solo de tu sueldo.
+
+
+
+### Para saber más
+
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Centros de Integración Juvenil** (español): https://www.gob.mx/salud/cij — **Qué buscar:** «juego patológico».
+- **Permisionarios de juegos y sorteos** (Secretaría de Gobernación · español): https://www.gob.mx/segob — **Qué buscar:** «juegos y sorteos permisionarios».
+
+### Palabras clave
+
+- *Autoexclusión:* opción para bloquear tu propia cuenta de apuestas por un tiempo.
+- *Juego compulsivo:* cuando no puedes dejar de apostar aunque te cause problemas.
+
+### Fuentes
+
+Secretaría de Gobernación · Secretaría de Salud · Centros de Integración Juvenil, consultados el 29 de septiembre de 2026.
+
+---

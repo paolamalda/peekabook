@@ -752,6 +752,24 @@ $CATEGORY: $course$/Tu Patrimonio/M8
 	~El color de la póliza #No es la mejor opción. Así te cubres bien.
 }
 
+::M8 U06 P1::¿Qué haces antes de limpiar después de una inundación? {
+	~Tiras todo lo mojado para evitar hongos #No es la mejor opción. Las fotos sostienen tu reclamo.
+	~Llamas al primer constructor que pase #No es la mejor opción. Las fotos sostienen tu reclamo.
+	=Tomas fotos y video de los daños #¡Correcto! Las fotos sostienen tu reclamo.
+}
+
+::M8 U06 P2::Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? {
+	=Un fraude\: los apoyos son gratuitos #¡Correcto! Nadie cobra por registrarte.
+	~Un trámite normal #No es la mejor opción. Nadie cobra por registrarte.
+	~Una cuota de la aseguradora #No es la mejor opción. Nadie cobra por registrarte.
+}
+
+::M8 U06 P3::La aseguradora no te responde después de entregar tus documentos. ¿Qué haces? {
+	~Esperas sin plazo #No es la mejor opción. La CONDUSEF atiende gratis.
+	=Reclamas gratis en la CONDUSEF #¡Correcto! La CONDUSEF atiende gratis.
+	~Contratas a un gestor que cobra por adelantado #No es la mejor opción. La CONDUSEF atiende gratis.
+}
+
 $CATEGORY: $course$/Tu Patrimonio/M9
 
 ::M9 U01 P1::Recibes rentas de un departamento. ¿Qué pasa? {
@@ -898,6 +916,24 @@ $CATEGORY: $course$/Tu Patrimonio/M10
 	=Abres una a tu nombre #¡Correcto! Es tu respaldo.
 	~Usas la de tu expareja #No es la mejor opción. Es tu respaldo.
 	~Guardas todo en efectivo #No es la mejor opción. Es tu respaldo.
+}
+
+::M10 U06 P1::Terminaste de pagar tu casa. ¿Qué te falta? {
+	~Nada, ya es tuya #No es la mejor opción. Sin ella sigue gravada.
+	=Inscribir la liberación de hipoteca #¡Correcto! Sin ella sigue gravada.
+	~Pagar otro crédito #No es la mejor opción. Sin ella sigue gravada.
+}
+
+::M10 U06 P2::Te ofrecen un terreno ejidal muy barato. ¿Qué haces antes de pagar? {
+	=Pides que una notaría lo revise #¡Correcto! Evitas fraudes.
+	~Pagas para apartarlo #No es la mejor opción. Evitas fraudes.
+	~Firmas un recibo con el vendedor #No es la mejor opción. Evitas fraudes.
+}
+
+::M10 U06 P3::Nunca usaste tu crédito de vivienda. ¿Qué pasa con tu subcuenta? {
+	~Se pierde al retirarte #No es la mejor opción. No se pierde.
+	~Se queda en el gobierno #No es la mejor opción. No se pierde.
+	=Se te entrega o se suma a tu pensión, según tu régimen #¡Correcto! No se pierde.
 }
 
 $CATEGORY: $course$/Tu Patrimonio/M11

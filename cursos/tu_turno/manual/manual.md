@@ -1,6 +1,6 @@
 # Tu Turno, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.1 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.2 · Desarrolla Talento · 29 de septiembre de 2026
 
 Finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: quincena, cuenta, deudas, tandas, Buró, fraudes, familia y futuro.
 

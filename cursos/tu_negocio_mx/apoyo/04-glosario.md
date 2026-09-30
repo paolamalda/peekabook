@@ -4,10 +4,12 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Tu negocio y tu casa: dinero separado
 
+- **Autoexclusión:** opción para bloquear tu propia cuenta de apuestas por un tiempo.
 - **Corte:** suma de ventas y gastos de un periodo para saber cuánto ganaste.
 - **Cuenta del negocio:** cuenta o caja que usas solo para cobrar y pagar cosas del negocio.
 - **Excedente:** lo que sobra después de pagar costos y tu sueldo.
 - **Ganancia:** lo que queda de las ventas después de pagar todos los costos del negocio.
+- **Juego compulsivo:** cuando no puedes dejar de apostar aunque te cause problemas.
 - **Registro:** lista de lo que entra y sale del negocio, con fecha y concepto.
 - **Sueldo del dueño:** cantidad fija que el negocio te paga cada semana o quincena por tu trabajo.
 - **Ventas:** todo lo que cobras a tus clientes, antes de restar lo que te costó.
@@ -79,24 +81,32 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Protege tu negocio
 
 - **Clase:** grupo de productos o servicios que cubre un registro de marca.
+- **Cobertura:** riesgo específico que paga un seguro, como incendio, inundación o terremoto.
 - **Deducible:** parte del daño que pagas tú antes de que pague el seguro.
 - **Exclusión:** lo que el seguro no cubre.
 - **Extorsión:** amenaza para obtener dinero.
 - **IMPI:** Instituto Mexicano de la Propiedad Industrial: registra marcas en México.
 - **Incapacidad:** pago del IMSS cuando no puedes trabajar por enfermedad o accidente.
+- **Inteligencia artificial:** programas que imitan voces, caras o textos de forma muy realista.
 - **Marca:** nombre, logotipo o combinación que distingue tu producto o servicio.
 - **Modalidad 10:** incorporación voluntaria al IMSS para personas trabajadoras independientes, con servicio médico, incapacidades y retiro.
+- **Previsión funeraria:** contrato que paga por adelantado los servicios funerarios.
 - **REPEP:** Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
+- **Respaldo:** copia de tus registros guardada en otro lugar, como la nube.
 - **Responsabilidad civil:** obligación de pagar los daños que causas a otras personas.
 - **REUS:** Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
 - **Robo de identidad:** uso de tus datos para hacerse pasar por ti y pedir créditos, facturar o hacer trámites.
+- **Seguro de vida:** seguro que paga una suma a tus beneficiarios si falleces.
+- **Seguro temporal:** seguro de vida que cubre un plazo fijo.
 - **Suplantación de autoridad:** fraude en el que alguien se hace pasar por el SAT u otra autoridad.
 - **UMA:** Unidad de Medida y Actualización; referencia para cuotas y multas.
 - **Verificación en dos pasos:** candado extra que pide un PIN o código además de tu contraseña.
+- **Voz clonada:** imitación de la voz de una persona hecha por computadora.
 
 ## Crecer con orden
 
 - **CFDI de retenciones:** comprobante de lo que te retuvieron.
+- **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
 - **Plataforma digital:** sitio o app que conecta a vendedores y compradores y cobra una comisión.
 - **Prestaciones:** derechos de la persona trabajadora además del sueldo, como aguinaldo y vacaciones.
 - **Relación laboral:** trabajo subordinado, con horario y pago, que genera obligaciones para el patrón.

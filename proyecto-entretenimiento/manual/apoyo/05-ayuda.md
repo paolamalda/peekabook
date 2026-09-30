@@ -53,4 +53,8 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 **¿Cómo dejo de recibir llamadas de publicidad?** Inscribe cada número en el REPEP de Profeco (tiendas y servicios) y regístrate en el REUS de CONDUSEF (bancos y financieras). Son gratis; nadie te debe cobrar por inscribirte. No detienen la cobranza ni los fraudes (M9 U08).
 
+**¿Y si el estrés por dinero no me deja dormir?** Pide ayuda: la Línea de la Vida (800 911 2000) es gratuita las 24 horas (M1 U07). También orienta si ya no puedes dejar de apostar (M8 U06).
+
+**¿Qué hago si circula un video falso mío?** Guarda evidencia, repórtalo en la plataforma, publica tu único canal oficial y denuncia al 088 (M9 U10).
+
 **¿Qué pasa con los servicios que se anuncian en el canal de la comunidad?** Son opcionales y están marcados como referencia comercial. Usarlos no afecta tu acceso ni tu constancia.

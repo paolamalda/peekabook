@@ -72,6 +72,24 @@ $CATEGORY: $course$/Your Business US EN/M1
 	~Give only your Social Security number #Not the best option. It asks for too much.
 }
 
+::M1 U05 P1::Where can betting money come from, if you choose to bet? {
+	~The business account #Not the best option. Never from the business.
+	=Your salary, with a cap #Correct! Never from the business.
+	~What you set aside for taxes #Not the best option. Never from the business.
+}
+
+::M1 U05 P2::What about gambling winnings? {
+	=They are income you report #Correct! All income is reported.
+	~They are never taxed #Not the best option. All income is reported.
+	~They're only reported above $10,000 #Not the best option. All income is reported.
+}
+
+::M1 U05 P3::Where do you get help with gambling in the U.S.? {
+	~In the betting app itself #Not the best option. Free, 24 hours a day.
+	=At 1-800-GAMBLER #Correct! Free, 24 hours a day.
+	~From whoever lends you money to bet #Not the best option. Free, 24 hours a day.
+}
+
 $CATEGORY: $course$/Your Business US EN/M2
 
 ::M2 U01 P1::Which of these is a variable cost? {
@@ -516,6 +534,42 @@ $CATEGORY: $course$/Your Business US EN/M7
 	=It never expires #Correct! It never expires.
 }
 
+::M7 U06 P1::Your supplier, in their own voice, asks you to pay a new account. What do you do? {
+	~Pay\: it's their voice #Not the best option. Confirm another way.
+	=Confirm by calling the number you already had #Correct! Confirm another way.
+	~Ask for the account by message #Not the best option. Confirm another way.
+}
+
+::M7 U06 P2::A celebrity recommends an investment that doubles your money in a video. What is it? {
+	=Almost certainly a fake video and a scam #Correct! Nobody doubles money.
+	~A safe investment #Not the best option. Nobody doubles money.
+	~A bank promotion #Not the best option. Nobody doubles money.
+}
+
+::M7 U06 P3::Where do you report an AI scam in the U.S.? {
+	~In the video's comments #Not the best option. Official report.
+	~Nowhere #Not the best option. Official report.
+	=At ReportFraud.ftc.gov #Correct! Official report.
+}
+
+::M7 U07 P1::What is usually left out of basic insurance? {
+	~Robbery #Not the best option. Usually separate.
+	=Flood and earthquake #Correct! Usually separate.
+	~Fire #Not the best option. Usually separate.
+}
+
+::M7 U07 P2::Someone from "FEMA" asks for $100 to speed up your aid. What is it? {
+	=A scam\: FEMA doesn't charge #Correct! Aid is free.
+	~A normal procedure #Not the best option. Aid is free.
+	~An SBA fee #Not the best option. Aid is free.
+}
+
+::M7 U07 P3::Up to how much does the SBA lend a business after a disaster? {
+	~$50,000 #Not the best option. Physical damage or working capital.
+	~$500,000 #Not the best option. Physical damage or working capital.
+	=$2 million #Correct! Physical damage or working capital.
+}
+
 $CATEGORY: $course$/Your Business US EN/M8
 
 ::M8 U01 P1::Someone works at your place, on your schedule and following your instructions. What are they usually? {
@@ -570,6 +624,24 @@ $CATEGORY: $course$/Your Business US EN/M8
 	~June #Not the best option. Same season.
 	=July last year #Correct! Same season.
 	~January #Not the best option. Same season.
+}
+
+::M8 U04 P1::Customers message you at midnight. What do you do? {
+	~Always answer so you don't lose them #Not the best option. Clear limits.
+	=Post your hours and an automatic reply #Correct! Clear limits.
+	~Turn off your phone for a week #Not the best option. Clear limits.
+}
+
+::M8 U04 P2::Sales were low this month. What do you do with your numbers? {
+	=Review them calmly and decide on one action #Correct! Decide with data.
+	~Don't look so you don't worry #Not the best option. Decide with data.
+	~Delete them #Not the best option. Decide with data.
+}
+
+::M8 U04 P3::You haven't slept for weeks and feel there's no way out. Who do you call? {
+	~Nobody, you tough it out #Not the best option. Free help 24 hours.
+	~Someone who'll lend you money #Not the best option. Free help 24 hours.
+	=988 #Correct! Free help 24 hours.
 }
 
 $CATEGORY: $course$/Your Business US EN/M9

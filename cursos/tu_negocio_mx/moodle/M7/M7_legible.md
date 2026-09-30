@@ -774,3 +774,437 @@ Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, ins
 Profeco · CONDUSEF · Buró de Crédito · SAT · Comisión Reguladora de Telecomunicaciones, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M7 U06. Fraudes con inteligencia artificial: voces, videos y mensajes falsos
+
+**Lo que lograrás:** Reconocer los fraudes que usan voces, videos o mensajes hechos con inteligencia artificial contra tu negocio y tu familia, y protegerte con reglas simples.
+
+**Para empezar:** A Rosa le llamó «su proveedor de carne», con su misma voz, para pedirle que pagara el pedido a una cuenta nueva «porque cambiaron de banco». Era una voz clonada. En esta lección verás cómo detectarlo.
+
+### Lo esencial (5 minutos)
+
+#### Qué pueden imitar
+
+Con unos segundos de audio o unas fotos de tus redes, la inteligencia artificial puede imitar la voz de un familiar, de un proveedor o de un cliente, crear videos falsos de famosos que «recomiendan» inversiones o escribir mensajes idénticos a los de tu banco.
+
+
+
+#### Tus reglas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cambios de cuenta | Confírmalos llamando al número que ya tenías. | Nunca por el mismo mensaje. |
+| Palabra clave | Con tu familia y tus proveedores principales. | Si no la dicen, no es. |
+| Urgencia | «Paga hoy o pierdes el pedido». | Señal de fraude. |
+| Famoso que invierte | Video falso. | No es real. |
+
+#### Un caso en un minuto
+
+Rosa colgó y marcó al número de su proveedor que tenía guardado. No habían cambiado de cuenta. Ahora, cualquier cambio de datos de pago lo confirma por teléfono con la persona que conoce, y acordó una palabra clave con su familia.
+
+> **Idea clave:** una voz o una cara conocidas ya no son prueba; confirma cualquier pedido de dinero por un medio que tú elijas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces si un proveedor te pide pagar a una cuenta nueva?
+*Respuesta:* Confirmas llamando al número que ya tenías, nunca por el mismo mensaje.
+
+2. ¿Una voz conocida prueba que es esa persona?
+*Respuesta:* No: puede estar clonada.
+
+
+#### Para recordar
+
+- La voz puede ser falsa.
+- Confirma por otro medio.
+- Palabra clave.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Menos material para copiar
+
+Evita publicar audios largos con tu voz en redes del negocio, pon privadas tus cuentas personales y no publiques horarios de depósito ni fotos de tu caja. Entre menos datos, menos creíble es el engaño.
+
+
+
+#### Tus clientes también son blanco
+
+Si alguien se hace pasar por tu negocio para pedir pagos, avisa en tus redes oficiales cuál es tu única cuenta de cobro y que nunca pides pagos a cuentas de personas.
+
+> **Antes de actuar, verifica:** cualquier pedido de dinero, cambio de cuenta o inversión «recomendada» por un medio que tú elijas.
+
+
+
+#### Casos
+
+
+**Caso 1. El proveedor de Rosa**
+
+Una voz idéntica a la de su proveedor pide a Rosa pagar a una cuenta nueva.
+- *¿Qué hace?* Cuelga y confirma llamando al número que ya tenía.
+
+
+**Caso 2. El video de Toño**
+
+Toño ve un video de un empresario famoso que promete duplicar su dinero en una plataforma.
+- *¿Qué hace?* No invierte: es un video falso y un fraude.
+
+
+**Caso 3. Las clientas de Mariana**
+
+Alguien usa fotos y la voz de Mariana para pedir anticipos a sus clientas.
+- *¿Qué hace?* Avisa en sus redes oficiales cuál es su única cuenta y denuncia.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Confiar en la voz | Pagas a un estafador | Confirma |
+| Cambiar cuenta por mensaje | Pierdes el pago | Llama tú |
+| Creer videos de famosos | Pierdes todo | Es falso |
+| No avisar a clientes | Más víctimas | Canales oficiales |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Toño y Mariana. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? a) Pagas: es su voz · b) Confirmas llamando al número que ya tenías · c) Pides la cuenta por mensaje
+2. Un famoso recomienda en video una plataforma que duplica tu dinero. ¿Qué es? a) Casi seguro un video falso y un fraude · b) Una inversión segura · c) Una promoción del banco
+3. ¿Qué te ayuda a confirmar que es tu familiar? a) Que suene igual · b) Que tenga su foto de perfil · c) Una palabra clave acordada
+**Respuestas:** 1-b: confirma por otro medio. 2-a: nadie duplica dinero. 3-c: si no la dice, no es.
+
+
+
+#### Ponlo en práctica
+
+Un pedido de 15,000 pesos y un minuto para confirmar por teléfono. ¿Qué te cuesta más si te equivocas?
+**Respuesta:** Los 15,000; confirmar cuesta un minuto.
+
+
+
+#### A tu plan
+
+Esta semana acuerda una palabra clave con tu familia y escribe en tus redes cuál es tu única cuenta de cobro.
+
+
+
+### Para saber más
+
+- **Fraudes** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «fraudes con inteligencia artificial».
+- **Denuncia** (Guardia Nacional · español): 088.
+
+### Palabras clave
+
+- *Inteligencia artificial:* programas que imitan voces, caras o textos de forma muy realista.
+- *Voz clonada:* imitación de la voz de una persona hecha por computadora.
+
+### Fuentes
+
+CONDUSEF · Guardia Nacional, consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U07. Si llega un desastre: tu negocio preparado
+
+**Lo que lograrás:** Preparar tu negocio para un sismo, inundación o incendio con respaldo de registros, seguro, reserva y un plan para volver a abrir.
+
+**Para empezar:** Una inundación entró a la tienda de Don Pepe. Perdió mercancía, el refrigerador y la libreta de fiado. No tenía fotos de nada ni seguro. En esta lección verás cómo preparar tu negocio.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan de desastre
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Respaldo digital | Registros, facturas y contactos en la nube. | Aunque pierdas el papel. |
+| Fotos del inventario | Equipo y mercancía, con fecha. | Para reclamar. |
+| Seguro con coberturas | Terremoto e inundación suelen ser coberturas aparte. | Pregunta. |
+| Reserva en cuenta | No todo en efectivo en el local. | Disponible. |
+
+#### Para volver a abrir
+
+1. Pon a salvo a las personas; lo demás se recupera.
+2. Toma fotos de los daños antes de limpiar.
+3. Avisa a tu aseguradora y guarda el número de reporte.
+4. Pide a tu banco, por escrito, un programa de aplazamiento si lo necesitas.
+5. Usa tu reserva para lo básico y abre con lo que se pueda vender.
+
+
+
+#### Un caso en un minuto
+
+Don Pepe ahora respalda en su celular las fotos del inventario y la lista de fiado cada semana, y contrató un paquete para pequeño comercio que incluye inundación. Su reserva está en una cuenta. Sabe a quién llamar primero.
+
+> **Idea clave:** respaldo, fotos, seguro con las coberturas correctas y reserva en cuenta: con eso tu negocio vuelve a abrir más rápido.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Por qué tomar fotos del inventario?
+*Respuesta:* Para demostrar lo que tenías al reclamar al seguro.
+
+2. ¿Qué preguntas al contratar un seguro?
+*Respuesta:* Si cubre terremoto e inundación, que suelen ser coberturas aparte.
+
+
+#### Para recordar
+
+- Respaldo en la nube.
+- Fotos del inventario.
+- Coberturas correctas.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Apoyos y aplazamientos
+
+En emergencias grandes, los bancos suelen ofrecer programas para aplazar pagos y el SAT puede dar facilidades a las zonas afectadas. Pide todo por escrito y guarda el folio. Los apoyos del gobierno se solicitan en módulos oficiales y son gratuitos.
+
+
+
+#### Fraudes después del desastre
+
+Aparecen falsos gestores de apoyos, falsos contratistas que cobran por adelantado y préstamos «rápidos» muy caros. No firmes ni pagues con prisa.
+
+> **Antes de actuar, verifica:** qué cubre tu póliza (terremoto, inundación, robo, interrupción del negocio) con tu aseguradora; muchas pólizas básicas no incluyen todo.
+
+
+
+#### Casos
+
+
+**Caso 1. La libreta de Don Pepe**
+
+Don Pepe lleva el fiado solo en una libreta de papel.
+- *¿Qué hace?* Le toma foto cada semana y la guarda en la nube.
+
+
+**Caso 2. El seguro de Rosa**
+
+Rosa tiene seguro, pero no sabe si cubre sismo.
+- *¿Qué hace?* Pregunta a su aseguradora qué coberturas tiene y ajusta.
+
+
+**Caso 3. El contratista de Toño**
+
+Tras un sismo, alguien le ofrece a Toño reparar su taller si paga todo por adelantado.
+- *¿Qué hace?* No paga todo; pide presupuesto por escrito y paga por avance.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Todo en papel | Lo pierdes | Respaldo |
+| Sin fotos | No puedes reclamar | Fotos con fecha |
+| Seguro sin revisar | No cubre | Pregunta coberturas |
+| Pagar por adelantado | Fraude | Por avance |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Rosa y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué haces antes de limpiar después de una inundación? a) Tiras todo lo mojado · b) Tomas fotos de los daños · c) Llamas a un gestor
+2. ¿Qué preguntas al contratar un seguro del negocio? a) Si cubre terremoto e inundación · b) Solo el precio · c) Si regala algo
+3. Alguien cobra todo por adelantado para reparar tu local. ¿Qué haces? a) Pagas para que empiece ya · b) Pagas en efectivo sin recibo · c) Pides presupuesto por escrito y pagas por avance
+**Respuestas:** 1-b: prueba para reclamar. 2-a: suelen ser coberturas aparte. 3-c: evita fraudes.
+
+
+
+#### Ponlo en práctica
+
+Tu mercancía vale 60,000 y el deducible por inundación es 10%. ¿Cuánto pagarías tú?
+**Respuesta:** 6,000.
+
+
+
+#### A tu plan
+
+Esta semana toma fotos de tu inventario y equipo, respáldalas y revisa qué cubre tu seguro.
+
+
+
+### Para saber más
+
+- **Plan de protección civil** (CENAPRED · español): https://www.gob.mx/cenapred — **Qué buscar:** «plan familiar» y «negocios».
+- **Seguros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro para pyme».
+
+### Palabras clave
+
+- *Cobertura:* riesgo específico que paga un seguro, como incendio, inundación o terremoto.
+- *Respaldo:* copia de tus registros guardada en otro lugar, como la nube.
+
+### Fuentes
+
+CENAPRED · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M7 U08. Si faltas: seguro de vida y gastos funerarios
+
+**Lo que lograrás:** Saber si tu familia necesita un seguro de vida, cuánto cubrir, cómo elegir beneficiarios y cómo contratar previsión funeraria sin fraudes.
+
+**Para empezar:** Rosa es quien sostiene su casa con la fonda. Si ella faltara, su hija no podría pagar la renta ni las deudas del negocio. En esta lección verás cómo proteger a tu familia.
+
+### Lo esencial (5 minutos)
+
+#### ¿Quién depende de ti?
+
+Si otras personas viven de tu negocio o de tu ingreso, un seguro de vida les da tiempo para reorganizarse. La pregunta clave: ¿cuánto necesitarían tus beneficiarios para cubrir unos años de gastos y las deudas del negocio?
+
+
+
+#### La suma de Rosa (aproximada)
+
+- Gastos de su casa al mes: **15,000**
+- Meses de colchón: **24**
+- Deudas del negocio: **40,000**
+- Suma asegurada a cotizar: **400,000**
+
+
+#### Opciones
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Seguro temporal | Cubre un plazo (5, 10, 20 años). | Más barato. |
+| Seguro ordinario | Cubre toda la vida y ahorra. | Más caro. |
+| IMSS Modalidad 10 | Incluye pensión para viudez y orfandad. | M7 U01. |
+| Previsión funeraria | Paga el funeral. | Contrato registrado en Profeco. |
+
+#### Un caso en un minuto
+
+Rosa cotizó un seguro temporal a 10 años por 400,000 pesos, con su hija como beneficiaria. Le cuesta menos que un día de ventas al mes. También revisó su contrato de previsión funeraria en Profeco.
+
+> **Idea clave:** si alguien depende de ti, un seguro temporal con la suma correcta y beneficiarios al día protege a tu familia y a tu negocio.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cómo calculas la suma asegurada?
+*Respuesta:* Gastos de la familia por unos años más las deudas.
+
+2. ¿Qué revisas de un contrato de previsión funeraria?
+*Respuesta:* Que esté registrado en Profeco.
+
+
+#### Para recordar
+
+- ¿Quién depende de ti?
+- Seguro temporal suele bastar.
+- Beneficiarios al día.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Beneficiarios
+
+Designa beneficiarios por nombre y porcentaje, y actualízalos cuando cambie tu familia. Si designas a menores, revisa con la aseguradora cómo se entregará el dinero. Coordínalo con tu testamento (M9 U02).
+
+
+
+#### Verifica antes de contratar
+
+Revisa que la aseguradora esté autorizada por la CNSF y que el contrato de previsión funeraria esté registrado en Profeco. Pide las exclusiones por escrito y no pagues años por adelantado a vendedores de puerta en puerta.
+
+> **Antes de actuar, verifica:** la aseguradora en la CNSF, el contrato funerario en el Registro Público de Contratos de Adhesión de Profeco y la póliza completa antes de pagar.
+
+
+
+#### Casos
+
+
+**Caso 1. La fonda de Rosa**
+
+Rosa sostiene su casa y la fonda tiene deudas.
+- *¿Qué hace?* Calcula la suma y cotiza un seguro temporal con su hija como beneficiaria.
+
+
+**Caso 2. El vendedor de Don Pepe**
+
+Un vendedor ofrece a Don Pepe un plan funerario con descuento si paga cinco años de golpe.
+- *¿Qué hace?* Revisa que el contrato esté registrado en Profeco y no paga años por adelantado.
+
+
+**Caso 3. Los beneficiarios de Toño**
+
+Toño se casó, pero su seguro tiene como beneficiaria a su mamá.
+- *¿Qué hace?* Actualiza sus beneficiarios con nombre y porcentaje.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Sin seguro con dependientes | Familia desprotegida | Cotiza |
+| Suma al azar | No alcanza | Calcula |
+| Beneficiarios viejos | Conflictos | Actualízalos |
+| Contratos no registrados | Fraude | Profeco y CNSF |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Don Pepe y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tu familia gasta 12,000 al mes y quieres cubrir 2 años sin deudas. ¿Qué suma cotizas? a) 12,000 · b) 144,000 · c) 288,000
+2. ¿Qué seguro suele ser más barato para proteger a tu familia un plazo? a) El seguro temporal · b) El seguro ordinario · c) El seguro de auto
+3. ¿Dónde verificas un contrato de previsión funeraria? a) Con el vendedor · b) En redes sociales · c) En el registro de contratos de Profeco
+**Respuestas:** 1-c: 12,000 por 24. 2-a: cubre solo el plazo. 3-c: registro oficial.
+
+
+
+#### Ponlo en práctica
+
+Gastos de 10,000 al mes por 3 años más 30,000 de deudas. ¿Qué suma asegurada cotizas?
+**Respuesta:** 360,000 más 30,000: 390,000.
+
+
+
+#### A tu plan
+
+Anota quién depende de ti, calcula tu suma asegurada y revisa tus beneficiarios.
+
+
+
+### Para saber más
+
+- **Seguros de vida** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de vida».
+- **Previsión funeraria** (Profeco · español): https://www.gob.mx/profeco — **Qué buscar:** «servicios funerarios» y «contratos de adhesión».
+- **Aseguradoras autorizadas** (CNSF · español): https://www.gob.mx/cnsf.
+
+### Palabras clave
+
+- *Seguro de vida:* seguro que paga una suma a tus beneficiarios si falleces.
+- *Seguro temporal:* seguro de vida que cubre un plazo fijo.
+- *Previsión funeraria:* contrato que paga por adelantado los servicios funerarios.
+
+### Fuentes
+
+CONDUSEF · Profeco · CNSF · IMSS, consultados el 29 de septiembre de 2026.
+
+---

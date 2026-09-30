@@ -739,3 +739,144 @@ Esta semana inscribe tu celular en el REPEP y el REUS y pide tu reporte de créd
 Profeco · CONDUSEF · Buró de Crédito · Comisión Reguladora de Telecomunicaciones, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M6 U06. Voces y videos falsos con inteligencia artificial
+
+**Lo que lograrás:** Reconocer los fraudes que usan voces o videos falsos hechos con inteligencia artificial y protegerte con una palabra clave familiar.
+
+**Para empezar:** A Don Chuy le llegó un audio con la voz de su hijo: «Papá, choqué, deposítame 8,000 ya». Sonaba igualito. Pero su hijo estaba en clase. En esta lección verás cómo funcionan estos fraudes.
+
+### Lo esencial (5 minutos)
+
+#### Qué es una voz clonada
+
+Con unos segundos de tu voz tomados de redes sociales o de una llamada, la inteligencia artificial puede imitar a un familiar pidiendo dinero con urgencia. También hay videos falsos de artistas o políticos que «recomiendan» inversiones.
+
+
+
+#### Cómo te protegen
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Palabra clave familiar | Solo la familia la conoce. | Si no la dice, no es. |
+| Cuelga y llama tú | Al número que tienes guardado. | Confirma por otro medio. |
+| Urgencia | «Deposita ya, no le digas a nadie». | Señal de fraude. |
+| Famoso que ofrece inversión | Video falso. | No es real. |
+
+#### Un caso en un minuto
+
+Don Chuy colgó y marcó al celular de su hijo, que contestó desde la escuela. Esa noche la familia acordó una palabra clave para emergencias. Don Chuy también puso privadas sus redes.
+
+> **Idea clave:** si una voz conocida te pide dinero con urgencia, cuelga y llama tú; si no dice la palabra clave, no es tu familiar.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces si una voz conocida te pide dinero urgente?
+*Respuesta:* Cuelgas y llamas tú al número que tienes guardado.
+
+2. ¿Para qué sirve la palabra clave familiar?
+*Respuesta:* Para confirmar que de verdad es tu familiar.
+
+
+#### Para recordar
+
+- La voz puede ser falsa.
+- Palabra clave familiar.
+- Cuelga y llama tú.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Menos voz y datos en redes
+
+Pon privadas tus redes, evita publicar audios y videos con tu voz y la de tus hijos, y no digas en redes dónde trabajas ni tus horarios de turno. Entre menos datos, menos creíble es el engaño.
+
+
+
+#### En el trabajo
+
+También imitan a jefes o supervisores pidiendo transferencias o datos de acceso. Si te piden algo fuera de lo normal, confirma en persona o por el canal oficial de tu empresa.
+
+> **Antes de actuar, verifica:** cualquier pedido de dinero por otro medio, aunque la voz o la cara sean conocidas.
+
+
+
+#### Casos
+
+
+**Caso 1. El audio de Don Chuy**
+
+Llega un audio con la voz del hijo de Don Chuy pidiendo 8,000 urgentes.
+- *¿Qué hace?* Cuelga y llama al celular de su hijo antes de depositar.
+
+
+**Caso 2. El video de Beto**
+
+Beto ve un video de un futbolista famoso recomendando una inversión que «duplica» el dinero.
+- *¿Qué hace?* No invierte: es un video falso y un fraude.
+
+
+**Caso 3. El supervisor de Ramiro**
+
+Una llamada con la voz del jefe de Ramiro le pide los códigos del sistema de acceso.
+- *¿Qué hace?* No los da y confirma en persona por el canal oficial.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Confiar en la voz | Depositas | Llama tú |
+| Sin palabra clave | No puedes confirmar | Acuérdala |
+| Creer videos de famosos | Pierdes todo | Es falso |
+| Redes abiertas | Más material para copiar | Privadas |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Beto y Ramiro. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te llega un audio con la voz de tu hija pidiendo dinero urgente. ¿Qué haces? a) Depositas: es su voz · b) Cuelgas y la llamas tú al número guardado · c) Respondes el audio pidiendo el número de cuenta
+2. ¿Para qué sirve una palabra clave familiar? a) Para confirmar que es tu familiar de verdad · b) Para entrar al banco · c) Para desbloquear el celular
+3. Un famoso recomienda en video una inversión que duplica tu dinero. ¿Qué es? a) Una oportunidad real · b) Una inversión segura del gobierno · c) Casi seguro un video falso y un fraude
+**Respuestas:** 1-b: confirma por otro medio. 2-a: si no la dice, no es. 3-c: nadie duplica dinero.
+
+
+
+#### Ponlo en práctica
+
+Si el audio te pide 8,000 y cada colgada y llamada te toma un minuto, ¿qué es más caro: un minuto o 8,000 pesos?
+**Respuesta:** Un minuto para confirmar siempre sale más barato.
+
+
+
+#### A tu plan
+
+Hoy acuerda una palabra clave con tu familia y pon privadas tus redes.
+
+
+
+### Para saber más
+
+- **Fraudes** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «fraudes con inteligencia artificial».
+- **Denuncia** (Guardia Nacional · español): 088.
+
+### Palabras clave
+
+- *Inteligencia artificial:* programas que imitan voces, caras o textos de forma muy realista.
+- *Voz clonada:* imitación de la voz de una persona hecha por computadora.
+- *Palabra clave familiar:* palabra secreta que solo tu familia conoce para confirmar emergencias.
+
+### Fuentes
+
+CONDUSEF · Guardia Nacional, consultados el 29 de septiembre de 2026.
+
+---

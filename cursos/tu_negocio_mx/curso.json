@@ -1,8 +1,8 @@
 {
  "sigla": "TNDF",
  "titulo": "Tu Negocio, Tu Dinero, Tu Futuro",
- "subtitulo": "Versión 1.1 · México · Desarrolla Talento · Septiembre de 2026",
- "version": "1.1",
+ "subtitulo": "Versión 1.2 · México · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.2",
  "lang": "es",
  "intro": "Curso de finanzas para personas que emprenden o trabajan por su cuenta en México: 9 módulos, 39 lecciones, desde separar el dinero hasta formalizarte, crecer y proteger tu futuro.",
  "categoria": "Tu Negocio MX",
@@ -101,8 +101,8 @@
   "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`TNDF-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
  },
  "carpeta": {
-  "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX", "zip": "Tu_Negocio_MX_v1.1",
-  "manual": "Manual_del_programa_TNDF_MX_v1.1", "contenido": "Contenido_completo_TNDF_MX_v1.1", "guia": "Guia_implementacion_TNDF_MX_v1.1",
+  "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX", "zip": "Tu_Negocio_MX_v1.2",
+  "manual": "Manual_del_programa_TNDF_MX_v1.2", "contenido": "Contenido_completo_TNDF_MX_v1.2", "guia": "Guia_implementacion_TNDF_MX_v1.2",
   "descripciones": ["Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
                     "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
                     "Guía de implementación: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento (.docx y .md).",

@@ -1,8 +1,8 @@
 {
  "sigla": "TTDF",
  "titulo": "Tu Turno, Tu Dinero, Tu Futuro",
- "subtitulo": "Versión 1.1 · Desarrolla Talento · Septiembre de 2026",
- "version": "1.1",
+ "subtitulo": "Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.2",
  "lang": "es",
  "intro": "Curso de finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: 8 módulos, 32 lecciones cortas para el celular.",
  "categoria": "Tu Turno",
@@ -74,8 +74,8 @@
   "extra_readme": "\n## 9. Canal de avisos (pregunta antes)\n\nEste curso no tiene comunidad en Moodle; se acompaña con un **canal de WhatsApp** de avisos (ver `7_guias/comunidad_y_canales.md`). En la sección General agrega una **URL** `Canal de avisos` con el enlace que te dé la persona (si no lo tiene, escribe \"[por definir]\" y repórtalo). Confirma que las lecciones se ven bien en el celular: el público las toma entre turnos.\n"
  },
  "carpeta": {
-  "nombre": "Tu_Turno_Tu_Dinero_Tu_Futuro", "zip": "Tu_Turno_v1.1",
-  "manual": "Manual_del_programa_TTDF_v1.1", "contenido": "Contenido_completo_TTDF_v1.1", "guia": "Guia_implementacion_TTDF_v1.1",
+  "nombre": "Tu_Turno_Tu_Dinero_Tu_Futuro", "zip": "Tu_Turno_v1.2",
+  "manual": "Manual_del_programa_TTDF_v1.2", "contenido": "Contenido_completo_TTDF_v1.2", "guia": "Guia_implementacion_TTDF_v1.2",
   "descripciones": ["Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
                     "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
                     "Guía de implementación: instalación en Moodle, gamificación, canal de avisos y mantenimiento (.docx y .md).",

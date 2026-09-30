@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.
 
-Manual del programa · Versión 1.1 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.2 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
 

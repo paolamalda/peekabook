@@ -1,6 +1,6 @@
 # Tu Talento, Tu Marca, Tu Futuro
 
-Manual del programa · Versión 2.3 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 2.4 · Desarrolla Talento · 30 de septiembre de 2026
 
 Finanzas, crédito, carrera, protección y futuro para personas que trabajan en el entretenimiento en México.
 
@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 73 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 77 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -106,6 +106,10 @@ Gancho: Valeria gasta 18,000 en ropa para una publicidad que le paga 30,000.
 **M1 U06 · La productora paga a 60 o 90 días: ¿cómo organizo mi flujo?**
 Objetivo: hacer un calendario de cobros y pagos con los tiempos reales de pago de las productoras, agencias y plataformas.
 Gancho: Gael terminó de grabar en marzo y le pagan en junio; su tarjeta vence en abril.
+
+**M1 U07 · Meses sin llamados: estrés, rechazo y dinero**
+Objetivo: reconocer cómo el estrés y los rechazos empujan a gastar o a endeudarse, y usar tres hábitos: pausa de 48 horas, revisión semanal y plática mensual de dinero en casa. Línea de la Vida (800 911 2000) si el estrés no baja.
+Gancho: Renata lleva cuatro castings sin quedarse y cada rechazo termina en una compra con la tarjeta.
 
 ## Módulo 2. Tu carrera como negocio: régimen fiscal e impuestos
 
@@ -303,6 +307,10 @@ Objetivo: conocer lo que un despacho puede y no puede hacer, verificarlo en el R
 **M8 U05 · Tu plan de salida con ingreso variable**
 Objetivo: definir un pago base con tu mes bajo, abonar extra en meses buenos y fijar fechas de revisión.
 
+**M8 U06 · Apuestas en línea: el pago gordo no es para apostar**
+Objetivo: reconocer las señales (apostar para recuperar, usar el fondo de sequía o crédito), verificar que el sitio tenga permiso de Gobernación y saber dónde pedir ayuda.
+Gancho: Toño metió 8,000 de su fondo de sequía a las apuestas «para recuperar» y se atrasó con su tarjeta.
+
 ## Módulo 9. No caigas: fraudes y robo de identidad
 
 **M9 U01 · Cómo piensa quien te quiere estafar**
@@ -339,6 +347,10 @@ Gancho: a Gael le llaman ocho veces al día para venderle algo; entre esas llama
 **M9 U09 · Si ya te pasó: tu plan de respuesta**
 Objetivo: seguir los pasos en orden: bloquear tarjetas y accesos, llamar a tu institución por el número oficial, reclamar por escrito, reportar a CONDUSEF, denunciar ante el Ministerio Público o la policía cibernética de tu estado, y avisar a tu comunidad sin exponer tus datos. Guardar evidencia.
 
+**M9 U10 · Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes**
+Objetivo: reconocer voces y videos falsos, confirmar todo pedido de dinero por un canal propio, acordar una palabra clave, proteger la voz y la imagen con cláusulas de IA en los contratos y responder si usan tu cara para estafar.
+Gancho: circula un video falso de Valeria recomendando una plataforma de inversión.
+
 ## Módulo 10. Protección y prevención
 
 **M10 U01 · Sin seguro de empresa: el Seguro de Gastos Médicos Mayores**
@@ -359,6 +371,10 @@ Objetivo: tramitar la reserva de derechos al uso exclusivo de tu nombre artísti
 
 **M10 U06 · Testamento y documentos para tu familia**
 Objetivo: hacer tu testamento (en septiembre, el Mes del Testamento suele bajar costos), ordenar tus documentos y dejar instrucciones sobre tus regalías y derechos.
+
+**M10 U07 · Si llega un sismo o una inundación: tu equipo y tu trabajo**
+Objetivo: respaldar proyectos en la nube, guardar fotos y facturas del equipo, revisar que el seguro cubra equipo de trabajo y tu zona, reclamar sin pagar por adelantado y evitar colectas falsas.
+Gancho: una inundación llega al estudio de Toño; pierde equipo y proyectos sin seguro ni respaldo.
 
 ## Módulo 11. Tu futuro
 
@@ -500,5 +516,8 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | E20 | REPEP | Gratis, fijo o celular, en repep.profeco.gob.mx o 55 5568 8722 / 800 468 8722; 30 días para dejar de llamar; sin vencimiento; no cubre cobranza, partidos, beneficencia ni encuestas | Profeco |
 | E21 | REUS | Hasta 45 días naturales para aplicar; vigencia de dos años; 55 5340 0999 / 800 999 8080 | CONDUSEF; Reglas del Registro Público de Usuarios (DOF) |
 | E22 | Líneas móviles y CURP | Registro obligatorio desde el 9-ene-2026, escalonado por terminación, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
+| E23 | Línea de la Vida | 800 911 2000, gratuita, 24 horas, todos los días; salud mental y adicciones, incluido el juego | CONASAMA |
+| E24 | Juegos con apuestas | Casinos y apuestas, también en línea, requieren permiso de la Secretaría de Gobernación | Ley Federal de Juegos y Sorteos; Segob |
+| E25 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir documentos e información; reclamación gratuita en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
 
 **Quedan dos confirmaciones que conviene hacer en el sitio oficial antes de publicar:** que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y los precios de Buró y Círculo del día (los sitios oficiales no fueron accesibles desde el entorno de trabajo; los montos vienen de fuentes que citan esos sitios).

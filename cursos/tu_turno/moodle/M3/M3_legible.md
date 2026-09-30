@@ -602,3 +602,153 @@ Ordena tus deudas con un método y decide cuánto extra pagarás cada quincena.
 CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M3 U05. Apuestas en línea: cuando el juego se vuelve deuda
+
+**Lo que lograrás:** Reconocer los riesgos de las apuestas y casinos en línea, poner límites y saber dónde pedir ayuda si el juego ya se volvió un problema.
+
+**Para empezar:** Beto empezó apostando 50 pesos a los partidos en sus horas muertas del turno. Tres meses después debe 9,000 en una app de préstamos que usó para «recuperar» lo que perdió. En esta lección verás cómo pasa y cómo frenarlo.
+
+### Lo esencial (5 minutos)
+
+#### Por qué enganchan
+
+Las apps de apuestas y casinos en línea están a un toque, 24 horas, con bonos de bienvenida y avisos de «apuesta ahora». En turnos largos con tiempo muerto, es fácil apostar sin darte cuenta de cuánto va. A la larga, la casa siempre gana.
+
+
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Quieres recuperar lo perdido | Apuestas más para «desquitarte». | Es la trampa principal. |
+| Apuestas con crédito | Préstamos o tarjeta para jugar. | Deuda segura. |
+| Lo escondes | No le dices a tu familia cuánto apuestas. | Señal de problema. |
+| Límite y pausa | Tope al mes y días sin apostar. | Control. |
+
+#### Si decides apostar, pon candados
+
+1. Solo en sitios con permiso de la Secretaría de Gobernación.
+2. Un tope al mes que salga de tus gustos, nunca de la renta ni del ahorro.
+3. Nunca con préstamos ni con tarjeta de crédito.
+4. Usa los límites de depósito y la autoexclusión de la app.
+
+
+
+#### Un caso en un minuto
+
+Beto borró las apps de apuestas, pidió la autoexclusión en su cuenta y le contó a su hermano cuánto debía. Hizo un plan para pagar la deuda (M3 U04) y cambió sus horas muertas por un curso en el celular.
+
+> **Idea clave:** apostar para recuperar lo perdido y apostar con crédito son las dos señales de que el juego ya es un problema.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuál es la trampa principal de las apuestas?
+*Respuesta:* Apostar más para recuperar lo perdido.
+
+2. ¿De dónde nunca debe salir el dinero para apostar?
+*Respuesta:* De préstamos, tarjeta, renta o ahorro.
+
+
+#### Para recordar
+
+- La casa siempre gana.
+- Nunca con crédito.
+- Límite, pausa y ayuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Sitios sin permiso
+
+Hay apps y páginas de apuestas que no tienen permiso para operar en México. Si ganas, pueden no pagarte; si hay un problema, no tienes a quién reclamar, y tus datos quedan expuestos. La Secretaría de Gobernación publica la lista de permisionarios.
+
+
+
+#### Pedir ayuda
+
+El juego compulsivo es un problema de salud, no de falta de voluntad. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan gratis. Contarle a alguien de confianza es el primer paso.
+
+> **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
+
+
+
+#### Casos
+
+
+**Caso 1. La deuda de Beto**
+
+Beto perdió 3,000 pesos y quiere pedir un préstamo para «recuperarlos».
+- *¿Qué hace?* No pide el préstamo, deja de apostar y busca ayuda.
+
+
+**Caso 2. El bono de Ramiro**
+
+A Ramiro le ofrecen un bono de bienvenida si deposita 500 en una app.
+- *¿Qué revisa?* Si el sitio tiene permiso y si ese dinero sale de sus gustos, no del ahorro.
+
+
+**Caso 3. El compañero de Karla**
+
+Un compañero de Karla le pide prestado para apostar en el partido.
+- *¿Qué hace?* No le presta y, si la confianza lo permite, le comparte dónde pedir ayuda.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Recuperar lo perdido | Pierdes más | Para |
+| Apostar con crédito | Deuda | Nunca |
+| Esconderlo | Crece el problema | Cuéntalo |
+| Sitios sin permiso | No te pagan | Verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Beto, Ramiro y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Perdiste en las apuestas este mes. ¿Qué haces? a) Apuestas más para recuperarlo · b) Paras y revisas tu presupuesto · c) Pides un préstamo rápido
+2. ¿Cuál es una señal de que el juego ya es un problema? a) Apostar una vez al año en la quiniela de la oficina · b) Revisar los resultados del partido · c) Apostar con préstamos o tarjeta
+3. ¿Qué revisas antes de registrarte en una app de apuestas? a) Que tenga permiso de la Secretaría de Gobernación · b) Que tenga muchos anuncios · c) Que el bono sea grande
+**Respuestas:** 1-b: recuperar es la trampa. 2-c: deuda segura. 3-a: sin permiso no hay a quién reclamar.
+
+
+
+#### Ponlo en práctica
+
+Apuestas 50 pesos al día en tus 15 turnos del mes. ¿Cuánto apuestas al mes y al año?
+**Respuesta:** 750 al mes; 9,000 al año.
+
+
+
+#### A tu plan
+
+Si apuestas, fija un tope al mes que salga de tus gustos y activa los límites de la app; si ya es un problema, habla hoy con alguien de confianza.
+
+
+
+### Para saber más
+
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Centros de Integración Juvenil** (español): https://www.gob.mx/salud/cij — **Qué buscar:** «juego patológico».
+- **Permisionarios de juegos y sorteos** (Secretaría de Gobernación · español): https://www.gob.mx/segob — **Qué buscar:** «juegos y sorteos permisionarios».
+
+### Palabras clave
+
+- *Autoexclusión:* opción para bloquear tu propia cuenta de apuestas por un tiempo.
+- *Juego compulsivo:* cuando no puedes dejar de apostar aunque te cause problemas.
+
+### Fuentes
+
+Secretaría de Gobernación · Secretaría de Salud · Centros de Integración Juvenil, consultados el 29 de septiembre de 2026.
+
+---

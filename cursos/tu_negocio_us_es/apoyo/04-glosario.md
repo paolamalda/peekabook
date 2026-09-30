@@ -4,10 +4,12 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Tu negocio y tu casa: dinero separado
 
+- **Casino de sorteo (sweepstakes casino):** sitio que simula apuestas con monedas virtuales canjeables por dinero; prohibido en California desde 2026.
 - **Corte:** suma de ventas y gastos de un periodo para saber cuánto ganaste.
 - **Cuenta del negocio:** cuenta que usas solo para cobrar y pagar cosas del negocio.
 - **FDIC:** agencia federal que asegura los depósitos en bancos.
 - **Ganancia:** lo que queda de las ventas después de pagar todos los costos del negocio.
+- **Juego compulsivo:** cuando no puedes dejar de apostar aunque te cause problemas.
 - **Registro:** lista de lo que entra y sale del negocio, con fecha y concepto.
 - **Sole proprietor (dueño único):** persona que tiene un negocio a su nombre, sin crear una empresa aparte.
 - **Sueldo del dueño:** cantidad fija que te pasas del negocio cada semana o quincena.
@@ -86,17 +88,22 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Congelamiento de crédito:** bloqueo gratuito para que nadie abra crédito nuevo a tu nombre.
 - **Deducible:** lo que pagas tú antes de que el seguro empiece a pagar.
 - **Inscripción abierta:** periodo del año para contratar o cambiar tu seguro médico.
+- **Inteligencia artificial:** programas que imitan voces, caras o textos de forma muy realista.
+- **Interrupción del negocio:** cobertura que paga ingresos perdidos cuando no puedes trabajar por un daño cubierto.
 - **Marca:** nombre, logotipo o combinación que distingue tu producto o servicio.
 - **Prima:** lo que pagas cada mes por tu seguro.
 - **Registro Nacional No Llame:** registro federal gratuito para que las empresas no te llamen con ventas (Do Not Call).
 - **Responsabilidad civil general:** seguro que paga daños que causas a otras personas o a sus bienes.
 - **Robo de identidad:** uso de tus datos para hacerse pasar por ti y abrir cuentas, pedir créditos o presentar declaraciones.
 - **USPTO:** Oficina de Patentes y Marcas de Estados Unidos: registra marcas a nivel federal.
+- **Voz clonada:** imitación de la voz de una persona hecha por computadora.
+- **Zona de desastre:** área declarada por el gobierno donde se activan ayudas federales.
 
 ## Crecer con orden
 
 - **Cobros brutos:** total cobrado antes de restar comisiones, devoluciones y costos.
 - **Contratista independiente:** persona que tiene su propio negocio, decide cómo hace el trabajo y trabaja para varios clientes.
+- **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
 - **Impuestos de nómina:** impuestos que el empleador retiene y paga por sus empleados.
 - **Plataforma:** sitio o app que conecta a vendedores y compradores y cobra una comisión.
 - **Prueba ABC:** prueba de California para saber si alguien es empleado o contratista.

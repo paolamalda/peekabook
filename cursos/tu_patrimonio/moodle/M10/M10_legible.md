@@ -790,3 +790,151 @@ Guarda en tu carpeta la lista de «lo urgente» de esta lección por si algún d
 CONDUSEF · IMSS · Gobierno de México, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M10 U06. Tu casa: escrituras, predial y crédito en orden
+
+**Lo que lograrás:** Revisar que tu casa esté bien escriturada, al día en predial y con su seguro del crédito, y saber qué pasa con tu subcuenta de vivienda al retirarte.
+
+**Para empezar:** Maru y Raúl compraron su casa hace veinte años con crédito. Ya la terminaron de pagar, pero nunca recogieron la liberación de hipoteca y la escritura sigue con el gravamen. En esta lección pondrás tu casa en orden.
+
+### Lo esencial (5 minutos)
+
+#### Revisa estos cuatro papeles
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Escritura inscrita | En el Registro Público de la Propiedad. | Demuestra que es tuya. |
+| Liberación de hipoteca | Al terminar de pagar. | Sin ella, la casa sigue gravada. |
+| Predial al corriente | Recibos guardados. | Evitas recargos. |
+| Seguro del crédito | Daños y vida. | Mientras debes. |
+
+#### El seguro de tu crédito
+
+Los créditos de Infonavit, Fovissste y bancos suelen incluir un seguro de daños a la vivienda y uno de vida: si quien tiene el crédito fallece, la deuda se cubre. Guarda tu póliza o constancia; tu familia la necesitará para reclamar.
+
+
+
+#### Tu subcuenta de vivienda
+
+Si nunca usaste tu crédito, el saldo de tu subcuenta de vivienda no se pierde: al pensionarte se te entrega o se suma a tu pensión, según tu régimen. Consulta tu saldo en Mi Cuenta Infonavit o en el Fovissste.
+
+
+
+#### Un caso en un minuto
+
+Maru pidió a Infonavit la carta de cancelación de hipoteca y la llevó a la notaría para inscribir la liberación. Revisó que el predial estuviera al corriente y guardó todo en su carpeta de patrimonio. Raúl consultó su saldo en el Fovissste.
+
+> **Idea clave:** escritura inscrita, liberación de hipoteca al terminar, predial al día y el seguro del crédito localizable; tu subcuenta de vivienda no se pierde.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pides al terminar de pagar tu crédito?
+*Respuesta:* La carta de liberación o cancelación de hipoteca, para inscribirla.
+
+2. ¿Qué pasa si fallece quien tiene un crédito de vivienda con seguro de vida?
+*Respuesta:* El seguro cubre la deuda.
+
+
+#### Para recordar
+
+- Escritura inscrita.
+- Liberación al terminar de pagar.
+- Predial al día.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Fraudes con casas y terrenos
+
+Casas «recuperadas» o embargadas que se venden baratas y sin papeles, terrenos ejidales que se venden como si fueran propiedad privada y «gestores» que prometen escriturar rápido si pagas por adelantado. Antes de pagar, pide un certificado de libertad de gravamen y consulta con una notaría.
+
+
+
+#### El predial
+
+Muchos municipios dan descuento si pagas el año completo en enero o febrero, y algunos tienen descuentos para personas adultas mayores o jubiladas. Pregunta en tu municipio y guarda cada recibo.
+
+> **Antes de actuar, verifica:** cualquier compra, venta o trámite de tu casa con una notaría y en el Registro Público de la Propiedad; nunca pagues por adelantado a un gestor.
+
+
+
+#### Casos
+
+
+**Caso 1. La liberación de Maru**
+
+Maru terminó de pagar su crédito, pero la escritura sigue con el gravamen.
+- *¿Qué hace?* Pide la carta de cancelación y la inscribe con una notaría.
+
+
+**Caso 2. El terreno de Elena**
+
+A Elena le ofrecen un terreno muy barato «con papeles del ejido» para su hijo.
+- *¿Qué hace?* No paga hasta que una notaría revise el régimen y los gravámenes.
+
+
+**Caso 3. El crédito de Lucía**
+
+El esposo de Lucía tenía un crédito de vivienda cuando falleció.
+- *¿Qué hace?* Busca el seguro de vida del crédito y reclama que cubra la deuda.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No inscribir la liberación | La casa sigue gravada | Notaría |
+| Predial atrasado | Recargos | Paga a tiempo |
+| Comprar sin revisar | Pierdes el dinero | Libertad de gravamen |
+| Olvidar el seguro del crédito | Tu familia paga | Guárdalo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Maru, Elena y Lucía. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Terminaste de pagar tu casa. ¿Qué te falta? a) Nada, ya es tuya · b) Inscribir la liberación de hipoteca · c) Pagar otro crédito
+2. Te ofrecen un terreno ejidal muy barato. ¿Qué haces antes de pagar? a) Pides que una notaría lo revise · b) Pagas para apartarlo · c) Firmas un recibo con el vendedor
+3. Nunca usaste tu crédito de vivienda. ¿Qué pasa con tu subcuenta? a) Se pierde al retirarte · b) Se queda en el gobierno · c) Se te entrega o se suma a tu pensión, según tu régimen
+**Respuestas:** 1-b: sin ella sigue gravada. 2-a: evitas fraudes. 3-c: no se pierde.
+
+
+
+#### Ponlo en práctica
+
+Tu predial es de 3,600 pesos y te dan 10% de descuento por pagar en enero. ¿Cuánto ahorras?
+**Respuesta:** 360 pesos.
+
+
+
+#### A tu plan
+
+Busca tu escritura, tu último recibo de predial y el seguro de tu crédito, y guárdalos en tu carpeta de patrimonio.
+
+
+
+### Para saber más
+
+- **Saldo y trámites de vivienda** (Infonavit · español): https://micuenta.infonavit.org.mx.
+- **Vivienda para trabajadores del Estado** (Fovissste · español): https://www.gob.mx/fovissste.
+- **Notarías y escrituras** (Colegio Nacional del Notariado Mexicano · español): https://www.notariadomexicano.org.mx.
+
+### Palabras clave
+
+- *Subcuenta de vivienda:* dinero que tu patrón aporta para tu vivienda dentro de tu cuenta de ahorro para el retiro.
+- *Gravamen:* carga sobre un inmueble, como una hipoteca, que aparece en el Registro Público.
+- *Libertad de gravamen:* certificado que muestra si un inmueble tiene deudas o cargas.
+
+### Fuentes
+
+Infonavit · Fovissste · Colegio Nacional del Notariado Mexicano, consultados el 29 de septiembre de 2026.
+
+---

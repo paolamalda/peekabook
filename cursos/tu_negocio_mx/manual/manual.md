@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.1 · México · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.2 · México · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
 

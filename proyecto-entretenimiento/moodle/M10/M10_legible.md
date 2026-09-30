@@ -1019,3 +1019,149 @@ Agenda una cita con un notario y arma tu carpeta familiar este mes.
 Secretaría de Gobernación, Mes del Testamento · CONDUSEF · Ley Federal del Derecho de Autor, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M10 U07. Si llega un sismo o una inundación: tu equipo y tu trabajo
+
+**Lo que lograrás:** Preparar tu equipo, tus documentos y tu fondo para un sismo, una inundación o un incendio, y saber qué hacer después para reclamar sin caer en fraudes.
+
+**Para empezar:** Una inundación llegó al estudio de Toño. Perdió consolas, micrófonos y los discos con proyectos de clientes. No tenía seguro ni respaldo. En esta lección verás cómo prepararte.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan en cuatro partes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Respaldo en la nube | Proyectos, contratos, facturas y contactos. | Tu trabajo sigue aunque pierdas el equipo. |
+| Fotos y facturas del equipo | Con número de serie. | Para reclamar. |
+| Seguro de equipo o de contenidos | Pregunta si cubre inundación y sismo. | Según tu zona. |
+| Fondo de sequía en una cuenta | No en efectivo en casa. | Disponible. |
+
+#### Después del siniestro
+
+1. Primero tu seguridad: sigue a Protección Civil.
+2. Toma fotos y video de los daños antes de mover algo.
+3. Reporta a tu aseguradora por su número oficial y guarda el número de reporte.
+4. Avisa a tus clientes y productoras con fechas realistas.
+5. Guarda notas de lo que gastes en lo urgente.
+
+> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió; si no te responde, puedes reclamar gratis en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Toño recuperó sus proyectos porque, después de otro susto, empezó a respaldar en la nube cada semana. Contrató un seguro de equipo, guardó facturas y fotos con números de serie y separó su fondo de sequía en una cuenta. Avisó a sus clientes y reprogramó entregas.
+
+> **Idea clave:** respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué te permite seguir trabajando si pierdes el equipo?
+*Respuesta:* Tener tus proyectos y documentos respaldados en la nube.
+
+2. ¿Qué necesitas para reclamar tu equipo al seguro?
+*Respuesta:* Fotos, facturas y números de serie.
+
+
+#### Para recordar
+
+- Respaldo semanal.
+- Fotos y facturas.
+- Reporta tú; no pagues por adelantado.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Fraudes después de un desastre
+
+Aparecen falsos peritos, falsos funcionarios que cobran por «inscribirte» en apoyos y colectas falsas que usan nombres de artistas. Los apoyos de gobierno son gratuitos. Si organizas o compartes una colecta, verifica a quién llega el dinero.
+
+
+
+#### Tus contratos
+
+Revisa qué dicen tus contratos si no puedes entregar por causas ajenas a ti. Avisa por escrito y pronto; pide nuevas fechas en lugar de desaparecer.
+
+> **Antes de actuar, verifica:** si tu seguro cubre tu equipo profesional, inundación y sismo; muchos seguros de casa no cubren equipo de trabajo.
+
+
+
+#### Casos
+
+
+**Caso 1. El estudio de Toño**
+
+Toño perdió su equipo en una inundación y un «perito» le ofrece tramitar su reclamo si le paga por adelantado.
+- *¿Qué hace?* No paga y reporta él mismo a su aseguradora por el número oficial.
+
+
+**Caso 2. El vestuario de Renata**
+
+El vestuario y el equipo de sonido de Renata están asegurados con el seguro de su casa.
+- *¿Qué revisa?* Si ese seguro cubre equipo de trabajo; si no, cotiza una cobertura.
+
+
+**Caso 3. La colecta de Valeria**
+
+Le piden a Valeria compartir una colecta para damnificados que nadie conoce.
+- *¿Qué hace?* Verifica a quién llega el dinero antes de compartirla.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Sin respaldo | Pierdes tu trabajo | Nube semanal |
+| Sin facturas ni fotos | No puedes reclamar | Guárdalas |
+| Pagar por adelantado | Fraude | Espera al ajustador |
+| Compartir colectas sin verificar | Ayudas a estafadores | Verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, Renata y Valeria. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué haces antes de mover el equipo dañado? a) Lo tiras para limpiar rápido · b) Tomas fotos y video de los daños · c) Lo vendes como refacción
+2. Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? a) Un trámite normal · b) Una cuota de la aseguradora · c) Un fraude: los apoyos son gratuitos
+3. ¿El seguro de tu casa cubre siempre tu equipo de trabajo? a) No siempre: pregúntalo · b) Sí, siempre · c) Solo si es nuevo
+**Respuestas:** 1-b: las fotos sostienen tu reclamo. 2-c: nadie cobra por registrarte. 3-a: muchas pólizas lo excluyen.
+
+
+
+#### Ponlo en práctica
+
+Tu equipo vale 180,000 pesos y el deducible es de 10%. ¿Cuánto pagarías tú?
+**Respuesta:** 18,000 pesos.
+
+
+
+#### A tu plan
+
+Esta semana respalda tus proyectos en la nube, toma fotos de tu equipo con sus números de serie y pregunta si tu seguro lo cubre.
+
+
+
+### Para saber más
+
+- **Seguros y siniestros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «siniestro» y «seguro de daños».
+- **Protección Civil** (Coordinación Nacional de Protección Civil · español): https://www.gob.mx/cnpc — **Qué buscar:** «plan familiar de protección civil».
+
+### Palabras clave
+
+- *Siniestro:* el daño que cubre el seguro, como un sismo o un incendio.
+- *Deducible:* la parte del daño que pagas tú antes de que pague el seguro.
+
+### Fuentes
+
+CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protección Civil, consultados el 29 de septiembre de 2026.
+
+---

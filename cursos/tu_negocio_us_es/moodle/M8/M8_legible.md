@@ -462,3 +462,142 @@ Llena tu tablero con los números del mes pasado y elige una decisión para este
 SBA, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M8 U04. Estrés, negocio y familia
+
+**Lo que lograrás:** Reconocer el estrés de emprender, separar tiempos de trabajo y descanso y hablar de dinero en casa sin pleitos.
+
+**Para empezar:** Lupita cocina de lunes a domingo, contesta pedidos hasta la medianoche y discute con su esposo por dinero. Siente que si descansa, pierde clientes. En esta lección verás cómo cuidar tu energía y tu negocio.
+
+### Lo esencial (5 minutos)
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Duermes mal | Piensas en pagos y pedidos toda la noche. | Tu salud lo resiente. |
+| Pleitos en casa | Cada plática de dinero es una discusión. | Nadie decide. |
+| Evitas tus números | No quieres ver tus ventas ni tus impuestos. | Decides a ciegas. |
+| Horario y descanso | Días y horas fijas. | Mejores decisiones. |
+
+#### Cuatro hábitos
+
+1. Horario de pedidos publicado; fuera de él, respuesta automática.
+2. Un día de descanso a la semana.
+3. Una plática de dinero en casa de 20 minutos cada semana, con números.
+4. Tu sueldo fijo (M1 U03): tu casa no depende del día a día del negocio.
+
+
+
+#### Un caso en un minuto
+
+Lupita puso horario de pedidos de 8 a 18 horas y una respuesta automática. Los lunes descansa. Con su esposo revisa cada domingo el presupuesto de la casa y su sueldo fijo. Duerme mejor y se equivoca menos en los pedidos.
+
+> **Idea clave:** tu negocio necesita que estés bien; un horario, un día de descanso y una plática de dinero semanal bajan el estrés.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué te ayuda a no contestar pedidos a medianoche?
+*Respuesta:* Un horario publicado y una respuesta automática.
+
+2. ¿Por qué ayuda el sueldo fijo en casa?
+*Respuesta:* Porque tu familia no depende de las ventas de cada día.
+
+
+#### Para recordar
+
+- Horario publicado.
+- Un día de descanso.
+- Plática de dinero semanal.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si el estrés no baja
+
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, llama o escribe al 988: la Línea de Crisis y Suicidio atiende gratis las 24 horas, también en español.
+
+
+
+#### Familia en el negocio
+
+Si tu familia trabaja contigo, separen las pláticas del negocio de las de la casa y acuerden pagos claros (M8 U01). Así un mal día de ventas no se vuelve un pleito familiar.
+
+
+
+#### Casos
+
+
+**Caso 1. Los pedidos de Lupita**
+
+Lupita contesta pedidos hasta la medianoche y no descansa.
+- *¿Qué hace?* Publica un horario de pedidos y activa una respuesta automática.
+
+
+**Caso 2. Las ventas de Daniela**
+
+Daniela no quiere ver sus números porque vendió poco.
+- *¿Qué hace?* Revisa sus números con calma y decide una acción.
+
+
+**Caso 3. La familia de Don Ramón**
+
+Don Ramón y su hija discuten del food truck en la cena.
+- *¿Qué hacen?* Separan un momento para el negocio y otro para la casa.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Trabajar sin descanso | Errores y enfermedad | Día libre |
+| Evitar los números | Decides a ciegas | Revisa |
+| Mezclar negocio y cena | Pleitos | Momentos separados |
+| Callar el estrés | Empeora | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lupita, Daniela y Don Ramón. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tus clientes te escriben a medianoche. ¿Qué haces? a) Contestas siempre para no perderlos · b) Publicas un horario y una respuesta automática · c) Apagas el teléfono una semana
+2. Vendiste poco este mes. ¿Qué haces con tus números? a) Los revisas con calma y decides una acción · b) No los ves para no preocuparte · c) Los borras
+3. Llevas semanas sin dormir y sientes que no hay salida. ¿A dónde llamas? a) A nadie, aguantas · b) A quien te preste dinero · c) Al 988
+**Respuestas:** 1-b: límites claros. 2-a: decidir con datos. 3-c: ayuda gratis las 24 horas.
+
+
+
+#### Ponlo en práctica
+
+Trabajas 7 días de 11 horas. Si descansas un día, ¿cuántas horas recuperas a la semana?
+**Respuesta:** 11 horas.
+
+
+
+#### A tu plan
+
+Publica tu horario de pedidos y elige tu día de descanso.
+
+
+
+### Para saber más
+
+- **Línea 988 de Crisis y Suicidio** (español e inglés): llama o escribe al 988.
+
+### Palabras clave
+
+- *Estrés financiero:* preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
+
+### Fuentes
+
+988 Suicide & Crisis Lifeline, consultado el 29 de septiembre de 2026.
+
+---

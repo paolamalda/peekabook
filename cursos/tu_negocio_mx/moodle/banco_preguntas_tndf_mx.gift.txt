@@ -72,6 +72,24 @@ $CATEGORY: $course$/Tu Negocio MX/M1
 	~Mandas solo la tarjeta #No es la mejor opción. Pide de más.
 }
 
+::M1 U05 P1::¿De dónde puede salir el dinero para apostar, si decides hacerlo? {
+	~Del cajón del negocio #No es la mejor opción. Nunca del negocio ni con crédito.
+	=De tu sueldo, con un tope #¡Correcto! Nunca del negocio ni con crédito.
+	~De la tarjeta de crédito #No es la mejor opción. Nunca del negocio ni con crédito.
+}
+
+::M1 U05 P2::Perdiste y quieres recuperarlo. ¿Qué es eso? {
+	=La señal principal de un problema con el juego #¡Correcto! Recuperar es la trampa.
+	~Una buena estrategia #No es la mejor opción. Recuperar es la trampa.
+	~Algo normal que no afecta #No es la mejor opción. Recuperar es la trampa.
+}
+
+::M1 U05 P3::¿Qué revisas de una app de apuestas? {
+	~Que regale bonos grandes #No es la mejor opción. Sin permiso no hay a quién reclamar.
+	~Que tenga muchos anuncios #No es la mejor opción. Sin permiso no hay a quién reclamar.
+	=Que tenga permiso de la Secretaría de Gobernación #¡Correcto! Sin permiso no hay a quién reclamar.
+}
+
 $CATEGORY: $course$/Tu Negocio MX/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
@@ -516,6 +534,60 @@ $CATEGORY: $course$/Tu Negocio MX/M7
 	=Nada #¡Correcto! Es gratuito.
 }
 
+::M7 U06 P1::Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? {
+	~Pagas\: es su voz #No es la mejor opción. Confirma por otro medio.
+	=Confirmas llamando al número que ya tenías #¡Correcto! Confirma por otro medio.
+	~Pides la cuenta por mensaje #No es la mejor opción. Confirma por otro medio.
+}
+
+::M7 U06 P2::Un famoso recomienda en video una plataforma que duplica tu dinero. ¿Qué es? {
+	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
+	~Una inversión segura #No es la mejor opción. Nadie duplica dinero.
+	~Una promoción del banco #No es la mejor opción. Nadie duplica dinero.
+}
+
+::M7 U06 P3::¿Qué te ayuda a confirmar que es tu familiar? {
+	~Que suene igual #No es la mejor opción. Si no la dice, no es.
+	~Que tenga su foto de perfil #No es la mejor opción. Si no la dice, no es.
+	=Una palabra clave acordada #¡Correcto! Si no la dice, no es.
+}
+
+::M7 U07 P1::¿Qué haces antes de limpiar después de una inundación? {
+	~Tiras todo lo mojado #No es la mejor opción. Prueba para reclamar.
+	=Tomas fotos de los daños #¡Correcto! Prueba para reclamar.
+	~Llamas a un gestor #No es la mejor opción. Prueba para reclamar.
+}
+
+::M7 U07 P2::¿Qué preguntas al contratar un seguro del negocio? {
+	=Si cubre terremoto e inundación #¡Correcto! Suelen ser coberturas aparte.
+	~Solo el precio #No es la mejor opción. Suelen ser coberturas aparte.
+	~Si regala algo #No es la mejor opción. Suelen ser coberturas aparte.
+}
+
+::M7 U07 P3::Alguien cobra todo por adelantado para reparar tu local. ¿Qué haces? {
+	~Pagas para que empiece ya #No es la mejor opción. Evita fraudes.
+	~Pagas en efectivo sin recibo #No es la mejor opción. Evita fraudes.
+	=Pides presupuesto por escrito y pagas por avance #¡Correcto! Evita fraudes.
+}
+
+::M7 U08 P1::Tu familia gasta 12,000 al mes y quieres cubrir 2 años sin deudas. ¿Qué suma cotizas? {
+	~12,000 #No es la mejor opción. 12,000 por 24.
+	~144,000 #No es la mejor opción. 12,000 por 24.
+	=288,000 #¡Correcto! 12,000 por 24.
+}
+
+::M7 U08 P2::¿Qué seguro suele ser más barato para proteger a tu familia un plazo? {
+	=El seguro temporal #¡Correcto! Cubre solo el plazo.
+	~El seguro ordinario #No es la mejor opción. Cubre solo el plazo.
+	~El seguro de auto #No es la mejor opción. Cubre solo el plazo.
+}
+
+::M7 U08 P3::¿Dónde verificas un contrato de previsión funeraria? {
+	~Con el vendedor #No es la mejor opción. Registro oficial.
+	~En redes sociales #No es la mejor opción. Registro oficial.
+	=En el registro de contratos de Profeco #¡Correcto! Registro oficial.
+}
+
 $CATEGORY: $course$/Tu Negocio MX/M8
 
 ::M8 U01 P1::¿Qué es un costo de contratar además del sueldo? {
@@ -570,6 +642,24 @@ $CATEGORY: $course$/Tu Negocio MX/M8
 	~Con noviembre #No es la mejor opción. Misma temporada.
 	=Con diciembre del año pasado #¡Correcto! Misma temporada.
 	~Con enero #No es la mejor opción. Misma temporada.
+}
+
+::M8 U04 P1::Tus clientes te escriben a medianoche. ¿Qué haces? {
+	~Contestas siempre para no perderlos #No es la mejor opción. Límites claros.
+	=Publicas un horario y un mensaje automático #¡Correcto! Límites claros.
+	~Apagas el celular una semana #No es la mejor opción. Límites claros.
+}
+
+::M8 U04 P2::Vendiste poco este mes. ¿Qué haces con tus números? {
+	=Los revisas con calma y decides una acción #¡Correcto! Decidir con datos.
+	~No los ves para no preocuparte #No es la mejor opción. Decidir con datos.
+	~Los borras #No es la mejor opción. Decidir con datos.
+}
+
+::M8 U04 P3::¿Qué protege a tu casa de los altibajos del negocio? {
+	~Sacar del cajón cuando haga falta #No es la mejor opción. Ingreso estable.
+	~Pedir prestado #No es la mejor opción. Ingreso estable.
+	=Tu sueldo fijo #¡Correcto! Ingreso estable.
 }
 
 $CATEGORY: $course$/Tu Negocio MX/M9

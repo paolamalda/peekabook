@@ -1,8 +1,8 @@
 {
  "sigla": "TPTF",
  "titulo": "Tu Patrimonio, Tu Tranquilidad, Tu Futuro",
- "subtitulo": "Versión 1.1 · Desarrolla Talento · Septiembre de 2026",
- "version": "1.1",
+ "subtitulo": "Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.2",
  "lang": "es",
  "intro": "Curso de educación financiera para mujeres que administran su casa y su patrimonio en México: 11 módulos, con la protección contra fraudes como eje.",
  "categoria": "Tu Patrimonio",
@@ -151,10 +151,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Patrimonio_Tu_Tranquilidad_Tu_Futuro",
-  "zip": "Tu_Patrimonio_v1.1",
-  "manual": "Manual_del_programa_TPTF_v1.1",
-  "contenido": "Contenido_completo_TPTF_v1.1",
-  "guia": "Guia_implementacion_TPTF_v1.1",
+  "zip": "Tu_Patrimonio_v1.2",
+  "manual": "Manual_del_programa_TPTF_v1.2",
+  "contenido": "Contenido_completo_TPTF_v1.2",
+  "guia": "Guia_implementacion_TPTF_v1.2",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de acompañamiento y datos verificados.",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

@@ -72,6 +72,24 @@ $CATEGORY: $course$/Tu Negocio US ES/M1
 	~Le das solo tu número de Seguro Social #No es la mejor opción. Pide de más.
 }
 
+::M1 U05 P1::¿De dónde puede salir el dinero para apostar, si decides hacerlo? {
+	~De la cuenta del negocio #No es la mejor opción. Nunca del negocio.
+	=De tu sueldo, con un tope #¡Correcto! Nunca del negocio.
+	~De lo que apartaste para impuestos #No es la mejor opción. Nunca del negocio.
+}
+
+::M1 U05 P2::¿Qué pasa con las ganancias de apuestas? {
+	=Son ingreso que se declara #¡Correcto! Todo ingreso se declara.
+	~Nunca pagan impuestos #No es la mejor opción. Todo ingreso se declara.
+	~Solo se declaran si pasan de $10,000 #No es la mejor opción. Todo ingreso se declara.
+}
+
+::M1 U05 P3::¿Dónde pides ayuda por el juego en EE. UU.? {
+	~En la misma app de apuestas #No es la mejor opción. Gratis, las 24 horas.
+	=En 1-800-GAMBLER #¡Correcto! Gratis, las 24 horas.
+	~Con quien te presta para apostar #No es la mejor opción. Gratis, las 24 horas.
+}
+
 $CATEGORY: $course$/Tu Negocio US ES/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
@@ -516,6 +534,42 @@ $CATEGORY: $course$/Tu Negocio US ES/M7
 	=No vence #¡Correcto! No vence.
 }
 
+::M7 U06 P1::Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? {
+	~Pagas\: es su voz #No es la mejor opción. Confirma por otro medio.
+	=Confirmas llamando al número que ya tenías #¡Correcto! Confirma por otro medio.
+	~Pides la cuenta por mensaje #No es la mejor opción. Confirma por otro medio.
+}
+
+::M7 U06 P2::Un famoso recomienda en video una inversión que duplica tu dinero. ¿Qué es? {
+	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
+	~Una inversión segura #No es la mejor opción. Nadie duplica dinero.
+	~Una promoción del banco #No es la mejor opción. Nadie duplica dinero.
+}
+
+::M7 U06 P3::¿Dónde reportas un fraude con IA en EE. UU.? {
+	~En los comentarios del video #No es la mejor opción. Reporte oficial.
+	~En ningún lado #No es la mejor opción. Reporte oficial.
+	=En ReportFraud.ftc.gov #¡Correcto! Reporte oficial.
+}
+
+::M7 U07 P1::¿Qué suele quedar fuera de un seguro básico? {
+	~El robo con violencia #No es la mejor opción. Suelen ir aparte.
+	=Inundación y terremoto #¡Correcto! Suelen ir aparte.
+	~El incendio #No es la mejor opción. Suelen ir aparte.
+}
+
+::M7 U07 P2::Alguien de «FEMA» te pide $100 para agilizar tu ayuda. ¿Qué es? {
+	=Un fraude\: FEMA no cobra #¡Correcto! Las ayudas son gratis.
+	~Un trámite normal #No es la mejor opción. Las ayudas son gratis.
+	~Una cuota de la SBA #No es la mejor opción. Las ayudas son gratis.
+}
+
+::M7 U07 P3::¿Hasta cuánto presta la SBA a un negocio tras un desastre? {
+	~$50,000 #No es la mejor opción. Daños físicos o capital de trabajo.
+	~$500,000 #No es la mejor opción. Daños físicos o capital de trabajo.
+	=$2 millones #¡Correcto! Daños físicos o capital de trabajo.
+}
+
 $CATEGORY: $course$/Tu Negocio US ES/M8
 
 ::M8 U01 P1::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {
@@ -570,6 +624,24 @@ $CATEGORY: $course$/Tu Negocio US ES/M8
 	~Con junio #No es la mejor opción. Misma temporada.
 	=Con julio del año pasado #¡Correcto! Misma temporada.
 	~Con enero #No es la mejor opción. Misma temporada.
+}
+
+::M8 U04 P1::Tus clientes te escriben a medianoche. ¿Qué haces? {
+	~Contestas siempre para no perderlos #No es la mejor opción. Límites claros.
+	=Publicas un horario y una respuesta automática #¡Correcto! Límites claros.
+	~Apagas el teléfono una semana #No es la mejor opción. Límites claros.
+}
+
+::M8 U04 P2::Vendiste poco este mes. ¿Qué haces con tus números? {
+	=Los revisas con calma y decides una acción #¡Correcto! Decidir con datos.
+	~No los ves para no preocuparte #No es la mejor opción. Decidir con datos.
+	~Los borras #No es la mejor opción. Decidir con datos.
+}
+
+::M8 U04 P3::Llevas semanas sin dormir y sientes que no hay salida. ¿A dónde llamas? {
+	~A nadie, aguantas #No es la mejor opción. Ayuda gratis las 24 horas.
+	~A quien te preste dinero #No es la mejor opción. Ayuda gratis las 24 horas.
+	=Al 988 #¡Correcto! Ayuda gratis las 24 horas.
 }
 
 $CATEGORY: $course$/Tu Negocio US ES/M9

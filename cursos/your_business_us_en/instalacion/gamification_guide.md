@@ -9,12 +9,12 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 | Activity | How many | Completion |
 |---|---|---|
 | Book "Module N lessons" | 1 per module (9) | View |
-| H5P activity "MN UYY · What would you do?" | 1 per lesson (34) | Receive a grade |
+| H5P activity "MN UYY · What would you do?" | 1 per lesson (38) | Receive a grade |
 | Quiz "Module N self-assessment" | 1 per module (9) | Passing grade of 70% |
 
 **Each H5P activity:** no download button, copyright button on, embed off; attempt tracking with "Highest grade"; completion "Student must receive a grade".
 
-**Self-assessments:** use the bank of 102 three-option questions with feedback, in categories *Your Business US EN/M1* to *M9*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
+**Self-assessments:** use the bank of 114 three-option questions with feedback, in categories *Your Business US EN/M1* to *M9*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
 
 ## 2. Level Up: levels and points
 
@@ -25,14 +25,14 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 3. **For posting in the forum:** 5 points, event "Post created" (`\mod_forum\event\post_created`).
 4. Keep cheat guard on.
 
-Completing the whole course gives about 1,300 points:
+Completing the whole course gives about 1,400 points:
 
 | Activities | How many | Points |
 |---|---|---|
-| H5P activities | 34 | 850 |
+| H5P activities | 38 | 950 |
 | Books | 9 | 225 |
 | Self-assessments | 9 | 225 |
-| **Total** | 52 | **1,300** |
+| **Total** | 56 | **1,400** |
 
 **Levels** (6 levels, no automatic algorithm):
 

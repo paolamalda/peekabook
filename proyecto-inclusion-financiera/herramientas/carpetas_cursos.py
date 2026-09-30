@@ -144,7 +144,7 @@ def moodle_ttmf(d):
     for f in ["guia_gamificacion_ttmf.md", "comunidad_y_canales.md"]:
         copiar(f"{M}/instalacion/{f}", f"{d}/7_guias")
     docx(f"{M}/instalacion/guia_gamificacion_ttmf.md", f"{d}/7_guias/guia_gamificacion_ttmf.docx",
-         "Tu Talento, Tu Marca, Tu Futuro", "Actividades, puntos, insignias y constancia · Versión 1.2")
+         "Tu Talento, Tu Marca, Tu Futuro", "Actividades, puntos, insignias y constancia · Versión 1.3")
     copiar(f"{M}/instalacion/README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md", d)
 
 
@@ -218,7 +218,7 @@ def ttmf_contenido():
     pers = re.search(r"(?s)\n## Personajes\n(.*?)\n## ", leer(f"{TT}/manual/TTMF_manual_v2.md")).group(1)
     mods = [f"M{i}" for i in range(1, 12)]
     P = ["# Tu Talento, Tu Marca, Tu Futuro: contenido completo",
-         "Versión 1.2 · Desarrolla Talento. Todo lo que ve la persona participante: las 73 lecciones, el libro de apoyo, las 73 actividades H5P y el banco de 219 preguntas.",
+         "Versión 1.3 · Desarrolla Talento. Todo lo que ve la persona participante: las 77 lecciones, el libro de apoyo, las 77 actividades H5P y el banco de 231 preguntas.",
          "| Parte | Contenido |\n|---|---|\n| 1 | Personajes |\n| 2 a 12 | Módulos 1 a 11 |\n| 13 | Materiales de apoyo |\n| 14 | Actividades H5P «¿Qué harías?» |\n| 15 | Banco de preguntas |",
          "# Parte 1. Personajes\n\n" + shift(pers.strip())]
     P += lecciones_legibles([f"{TT}/moodle/{m}/{m}_legible.md" for m in mods], 2, "Parte")
@@ -290,8 +290,8 @@ def manual_tdtf(lang):
 
 
 def manual_ttmf(d):
-    shutil.copy(f"{TT}/manual/TTMF_manual_v2.docx", f"{d}/Manual_del_programa_TTMF_v2.3.docx")
-    shutil.copy(f"{TT}/manual/TTMF_manual_v2.md", f"{d}/Manual_del_programa_TTMF_v2.3.md")
+    shutil.copy(f"{TT}/manual/TTMF_manual_v2.docx", f"{d}/Manual_del_programa_TTMF_v2.4.docx")
+    shutil.copy(f"{TT}/manual/TTMF_manual_v2.md", f"{d}/Manual_del_programa_TTMF_v2.4.md")
 
 
 def manual_com(d):
@@ -338,12 +338,12 @@ CURSOS = [
       n_cont="Full_content_TDTF_EN_v3.2", s_cont="Full content · Version 3.2 · September 2026",
       n_guia="Implementation_guide_TDTF_EN_v3.2", s_guia="Implementation guide · Version 3.2 · September 2026",
       h5p_partes=[["M1", "M2"], ["M3", "M4", "M5"]]),
- dict(ES_TXT, carpeta="Tu_Talento_Tu_Marca_Tu_Futuro", zip="Tu_Talento_v1.2", leeme="00_LEEME.txt",
-      titulo="Tu Talento, Tu Marca, Tu Futuro", sub="Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
-      intro="Curso de educación financiera para personas que trabajan en el entretenimiento en México: 11 módulos, 73 lecciones, con el crédito como eje.",
-      desc=["Manual del programa v2.3: público, reglas, módulos y lecciones, personajes, comunidad, fuentes y datos verificados.",
-            "Contenido completo v1.2: personajes, 73 lecciones, libro de apoyo, 73 H5P y banco de 219 preguntas (.docx y .md).",
-            "Guía de implementación v1.2: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento de datos (.docx y .md).",
+ dict(ES_TXT, carpeta="Tu_Talento_Tu_Marca_Tu_Futuro", zip="Tu_Talento_v1.3", leeme="00_LEEME.txt",
+      titulo="Tu Talento, Tu Marca, Tu Futuro", sub="Versión 1.3 · Desarrolla Talento · Septiembre de 2026",
+      intro="Curso de educación financiera para personas que trabajan en el entretenimiento en México: 11 módulos, 77 lecciones, con el crédito como eje.",
+      desc=["Manual del programa v2.4: público, reglas, módulos y lecciones, personajes, comunidad, fuentes y datos verificados.",
+            "Contenido completo v1.3: personajes, 77 lecciones, libro de apoyo, 77 H5P y banco de 231 preguntas (.docx y .md).",
+            "Guía de implementación v1.3: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento de datos (.docx y .md).",
             "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."],
       lista=["Coordinación leyó el manual del programa", "Contenido revisado por un contador y un abogado del medio",
              "Datos vigentes confirmados en el sitio oficial (manual, sección 6)",
@@ -353,8 +353,8 @@ CURSOS = [
              "No se recomiendan SOFIPO, SOCAP ni SOFOM.",
              "Antes de publicar, confirma en la CNBV los productos de ahorro de Nu y los precios del día de Buró y Círculo."],
       manual=manual_ttmf, contenido=ttmf_contenido, guia=ttmf_guia, moodle=moodle_ttmf,
-      n_cont="Contenido_completo_TTMF_v1.2", s_cont="Contenido completo · Versión 1.2 · Septiembre de 2026",
-      n_guia="Guia_implementacion_TTMF_v1.2", s_guia="Guía de implementación · Versión 1.2 · Septiembre de 2026",
+      n_cont="Contenido_completo_TTMF_v1.3", s_cont="Contenido completo · Versión 1.3 · Septiembre de 2026",
+      n_guia="Guia_implementacion_TTMF_v1.3", s_guia="Guía de implementación · Versión 1.3 · Septiembre de 2026",
       h5p_partes=[[f"M{i}" for i in range(1, 7)], [f"M{i}" for i in range(7, 12)]]),
  dict(ES_TXT, carpeta="Comunidad_Tu_Talento", zip="Comunidad_Tu_Talento_v1.1", leeme="00_LEEME.txt",
       titulo="Comunidad Tu Talento", sub="Versión 1.1 · Desarrolla Talento · Septiembre de 2026",

@@ -770,3 +770,286 @@ This week freeze your credit at all three bureaus, check your reports and regist
 FTC · IRS, accessed September 29, 2026.
 
 ---
+
+## M7 U06. AI scams: fake voices, videos and messages
+
+**What you will be able to do:** Recognize scams that use voices, videos or messages made with artificial intelligence against your business and family, and protect yourself with simple rules.
+
+**To start:** Don Ramón got a call from "his meat supplier," in the supplier's own voice, asking him to pay the invoice to a new account by Zelle. It was a cloned voice. In this lesson you'll see how to spot it.
+
+### The essentials (5 minutes)
+
+#### What they can imitate
+
+With a few seconds of audio or some photos from your social media, artificial intelligence can imitate the voice of a relative, supplier or customer; create fake videos of celebrities "recommending" investments; or write emails identical to your bank's or the IRS's.
+
+
+
+#### Your rules
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Account changes | Confirm by calling the number you already had. | Never through the same message. |
+| Code word | With your family and main suppliers. | If they don't say it, it's not them. |
+| Urgency | "Pay today by Zelle or lose the order." | Sign of a scam. |
+| Celebrity investing | Fake video. | Not real. |
+
+#### A case in one minute
+
+Don Ramón hung up and called the supplier's number he had saved. They hadn't changed accounts. Now he confirms any change in payment details by phone, and his family has a code word for emergencies.
+
+> **Key idea:** a familiar voice or face is no longer proof; confirm any request for money through a channel you choose.
+
+
+
+#### Check your understanding
+
+1. What do you do if a supplier asks you to pay a new account?
+*Answer:* Confirm by calling the number you already had, never through the same message.
+
+2. Does a familiar voice prove it's that person?
+*Answer:* No: it may be cloned.
+
+
+#### Remember
+
+- The voice may be fake.
+- Confirm another way.
+- Code word.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Less material to copy
+
+Avoid posting long audio clips of your voice, make your personal accounts private and don't post your hours or photos of your cash register. The less data, the less believable the scam.
+
+
+
+#### Your customers are targets too
+
+If someone poses as your business to ask for payments, post on your social media and website your only payment method. Report it at ReportFraud.ftc.gov.
+
+> **Before you act, check:** any request for money, account change or "recommended" investment through a channel you choose.
+
+
+
+#### Cases
+
+
+**Case 1. Don Ramón's supplier**
+
+A voice identical to his supplier's asks Don Ramón to pay a new account by Zelle.
+- *What does he do?* He hangs up and confirms by calling the number he already had.
+
+
+**Case 2. Javier's video**
+
+Javier sees a video of a famous businessman promising to double his money with crypto.
+- *What does he do?* He doesn't invest: it's a fake video and a scam.
+
+
+**Case 3. Daniela's customers**
+
+Someone uses Daniela's photo and voice to ask her customers for deposits.
+- *What does she do?* She posts her only payment method on her social media and reports it to the FTC.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Trusting the voice | You pay a scammer | Confirm |
+| Changing accounts by message | You lose the payment | You call |
+| Believing celebrity videos | You lose everything | It's fake |
+| Not warning customers | More victims | Official channels |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Javier and Daniela. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. Your supplier, in their own voice, asks you to pay a new account. What do you do? a) Pay: it's their voice · b) Confirm by calling the number you already had · c) Ask for the account by message
+2. A celebrity recommends an investment that doubles your money in a video. What is it? a) Almost certainly a fake video and a scam · b) A safe investment · c) A bank promotion
+3. Where do you report an AI scam in the U.S.? a) In the video's comments · b) Nowhere · c) At ReportFraud.ftc.gov
+**Answers:** 1-b: confirm another way. 2-a: nobody doubles money. 3-c: official report.
+
+
+
+#### Put it into practice
+
+A $2,500 invoice and one minute to confirm by phone. What costs you more if you get it wrong?
+**Answer:** The $2,500; confirming costs one minute.
+
+
+
+#### Your plan
+
+This week agree on a code word with your family and post your only payment method on your social media.
+
+
+
+### Learn more
+
+- **Voice cloning scams** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "voice cloning".
+- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov.
+
+### Key words
+
+- *Artificial intelligence:* programs that imitate voices, faces or text very realistically.
+- *Cloned voice:* a computer-made imitation of a person's voice.
+
+### Sources
+
+FTC, accessed September 29, 2026.
+
+---
+
+## M7 U07. If disaster strikes: your business ready
+
+**What you will be able to do:** Prepare your business for a fire, earthquake or flood with backed-up records, insurance, a reserve and a plan to get back to work, and know the federal help available.
+
+**To start:** A wildfire forced an evacuation where Don Ramón parks his food truck. He lost a week of sales and inventory, and didn't know if his insurance covered it. In this lesson you'll see how to prepare.
+
+### The essentials (5 minutes)
+
+#### Your disaster plan
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Digital backup | Records, receipts and contacts in the cloud. | For taxes and insurance. |
+| Photos of equipment and inventory | With dates. | To file claims. |
+| Insurance with the right coverage | Flood and earthquake are usually separate. | Ask. |
+| Reserve in an account | Not all in cash. | Available. |
+
+#### Federal help
+
+In declared disaster areas, FEMA offers assistance to individuals and the SBA offers low-interest loans to households and businesses. The IRS usually gives extra time to file and pay taxes.
+
+> **Current fact:** SBA disaster loans go up to $500,000 to repair a primary residence, $100,000 for personal property and $2 million for businesses (physical damage or working capital); the rate is no more than 4% if you can't get credit elsewhere. Accessed September 29, 2026 through the SBA.
+
+
+
+#### A case in one minute
+
+Don Ramón backs up his receipts and equipment photos in the cloud every week. He reviewed his policy and added business interruption coverage. His reserve is in an account. He knows that if a disaster is declared, he can apply for help at DisasterAssistance.gov and the SBA.
+
+> **Key idea:** backups, photos, the right coverage and a reserve in an account; if a disaster is declared, federal help is free on official sites.
+
+
+
+#### Check your understanding
+
+1. What does basic home or business insurance usually not cover?
+*Answer:* Flood and earthquake, which are usually separate policies or coverages.
+
+2. What does the SBA offer after a disaster?
+*Answer:* Low-interest loans for households and businesses.
+
+
+#### Remember
+
+- Backups and photos.
+- The right coverage.
+- FEMA, SBA and IRS: official sites.
+
+
+
+### Go deeper (5 more minutes)
+
+#### The IRS in a disaster
+
+When the government declares a disaster area, the IRS usually postpones filing and payment deadlines, including estimated payments. Check the IRS disaster relief page before paying penalties.
+
+
+
+#### Scams after a disaster
+
+Fake FEMA inspectors, contractors who want payment up front and fake charities show up. FEMA doesn't charge to help you or ask for payment to register. In California, check a contractor's license with the CSLB.
+
+> **Before you act, check:** what your policy covers (flood, earthquake, business interruption) and apply for help only at DisasterAssistance.gov, sba.gov and irs.gov.
+
+
+
+#### Cases
+
+
+**Case 1. Don Ramón's policy**
+
+Don Ramón doesn't know if his insurance covers sales lost to an evacuation.
+- *What does he do?* He asks his agent about business interruption coverage.
+
+
+**Case 2. Lupita's inspector**
+
+Someone claiming to be from FEMA asks Lupita for $100 to "speed up" her aid.
+- *What does she do?* She doesn't pay: FEMA doesn't charge; she reports it.
+
+
+**Case 3. Javier's shop**
+
+After an earthquake, Javier can't make his estimated payment on time.
+- *What does he check?* Whether the IRS postponed the deadlines for his area.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Everything on paper | You lose it | Backup |
+| Assuming insurance covers everything | No payout | Check coverage |
+| Paying for aid | Scam | It's free |
+| Paying penalties without checking | You overpay | IRS relief |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Lupita and Javier. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. What is usually left out of basic insurance? a) Robbery · b) Flood and earthquake · c) Fire
+2. Someone from "FEMA" asks for $100 to speed up your aid. What is it? a) A scam: FEMA doesn't charge · b) A normal procedure · c) An SBA fee
+3. Up to how much does the SBA lend a business after a disaster? a) $50,000 · b) $500,000 · c) $2 million
+**Answers:** 1-b: usually separate. 2-a: aid is free. 3-c: physical damage or working capital.
+
+
+
+#### Put it into practice
+
+Your equipment is worth $18,000 and the deductible is 10%. How much would you pay?
+**Answer:** $1,800.
+
+
+
+#### Your plan
+
+This week take photos of your equipment and inventory, back them up and ask what your insurance covers.
+
+
+
+### Learn more
+
+- **Disaster assistance** (FEMA · English and Spanish): https://www.disasterassistance.gov.
+- **Disaster loans** (SBA · English): https://www.sba.gov | What to look for: "disaster assistance".
+- **Disaster tax relief** (IRS · English): https://www.irs.gov | What to look for: "disaster relief".
+
+### Key words
+
+- *Business interruption:* coverage that pays lost income when you can't work because of covered damage.
+- *Disaster area:* an area declared by the government where federal help is activated.
+
+### Sources
+
+FEMA · SBA · IRS · CSLB, accessed September 29, 2026.
+
+---

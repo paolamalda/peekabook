@@ -848,3 +848,145 @@ Escribe tu plan de salida con pago base, porcentaje extra y tus fechas de revisi
 CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M8 U06. Apuestas en línea: el pago gordo no es para apostar
+
+**Lo que lograrás:** Reconocer cómo las apuestas en línea ponen en riesgo tu fondo de sequía y tu plan de deudas, verificar si un sitio tiene permiso y saber dónde pedir ayuda.
+
+**Para empezar:** Toño empezó con 100 pesos en los partidos entre sesiones de grabación. Un mes metió 8,000 de su fondo de sequía «para recuperar» lo perdido y se atrasó con su tarjeta. En esta lección verás cómo proteger tu dinero.
+
+### Lo esencial (5 minutos)
+
+#### Por qué es un riesgo con ingreso variable
+
+Las apps de apuestas y casinos en línea están a un toque, con bonos y avisos todo el día. Con ingreso variable, un pago gordo se siente como dinero libre y los meses sin llamados empujan a «buscar suerte». A la larga, la casa siempre gana.
+
+
+
+#### Señales de alerta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Apostar para recuperar | Subes la apuesta para «ganar lo perdido». | La trampa principal. |
+| Usar el fondo de sequía | O lo apartado para impuestos. | Te quedas sin colchón. |
+| Apostar con crédito | Tarjeta, préstamo por app o adelanto. | Deuda segura. |
+| Tope y solo de tu gasto libre | Con límite fijo. | Control. |
+
+> **Dato vigente:** en México, los juegos con apuestas y los casinos, también en línea, necesitan permiso de la Secretaría de Gobernación (Ley Federal de Juegos y Sorteos). Un sitio sin permiso no te protege si no te paga. Consultado el 29 de septiembre de 2026 a través de la Secretaría de Gobernación.
+
+#### Un caso en un minuto
+
+Toño repuso los 8,000 con su siguiente pago, borró las apps y se lo contó a su hermano. Ahora su fondo de sequía está en otra cuenta, sin tarjeta de débito, y su plan de deudas volvió a avanzar.
+
+> **Idea clave:** el fondo de sequía, los impuestos y el crédito nunca son para apostar; si apuestas para recuperar o con crédito, ya es un problema.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿De dónde nunca debe salir dinero para apostar?
+*Respuesta:* Del fondo de sequía, de lo apartado para impuestos ni de créditos.
+
+2. ¿Quién da permiso a los casinos en línea en México?
+*Respuesta:* La Secretaría de Gobernación.
+
+
+#### Para recordar
+
+- Nunca del fondo ni de impuestos.
+- Nunca con crédito.
+- Tope, pausa y ayuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Los premios también pagan impuestos
+
+Los premios de juegos con apuestas pagan ISR; el operador con permiso retiene una parte. Con un sitio sin permiso no hay constancia ni forma de reclamar.
+
+
+
+#### Pedir ayuda
+
+El juego compulsivo es un problema de salud, no de fuerza de voluntad. La Línea de la Vida (800 911 2000) orienta gratis las 24 horas y te canaliza a atención especializada.
+
+> **Antes de actuar, verifica:** que el sitio tenga permiso de Gobernación y que el dinero no salga de tu fondo, tus impuestos ni un crédito.
+
+
+
+#### Casos
+
+
+**Caso 1. El fondo de Toño**
+
+Toño perdió en apuestas y quiere tomar 5,000 de su fondo de sequía para recuperarlo.
+- *¿Qué hace?* No toca el fondo, deja de apostar y pide ayuda.
+
+
+**Caso 2. El bono de Valeria**
+
+Una app le ofrece a Valeria un «bono de bienvenida» si deposita 2,000.
+- *¿Qué revisa?* Si la app tiene permiso de Gobernación y que no salga de su plan de deudas.
+
+
+**Caso 3. El préstamo de Renata**
+
+Una amiga le pide a Renata que le preste para apostar en un casino en línea.
+- *¿Qué hace?* No le presta para eso y le comparte la Línea de la Vida.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Apostar para recuperar | Pierdes más | Detente |
+| Usar el fondo de sequía | Sin colchón | Cuenta aparte |
+| Apostar con crédito | Deuda | Nunca |
+| Sitios sin permiso | No te pagan | Verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, Valeria y Renata. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Si decides apostar, ¿de dónde puede salir el dinero? a) Del fondo de sequía · b) De lo apartado para impuestos · c) De tu gasto libre, con un tope fijo
+2. ¿Quién autoriza los casinos en línea en México? a) La Secretaría de Gobernación · b) La CONDUSEF · c) Nadie, no necesitan permiso
+3. ¿A dónde llamas si ya no puedes dejar de apostar? a) A la misma app · b) A la Línea de la Vida, 800 911 2000 · c) A quien te preste para seguir
+**Respuestas:** 1-c: nunca del fondo ni de impuestos. 2-a: verifica el permiso. 3-b: gratis, las 24 horas.
+
+
+
+#### Ponlo en práctica
+
+Apuestas 150 pesos al día, 25 días al mes. ¿Cuánto es al mes y al año?
+**Respuesta:** 3,750 al mes; 45,000 al año.
+
+
+
+#### A tu plan
+
+Pon tu fondo de sequía en una cuenta aparte sin tarjeta y, si apuestas, fija un tope solo de tu gasto libre.
+
+
+
+### Para saber más
+
+- **Juegos y sorteos** (Secretaría de Gobernación · español): https://www.gob.mx/segob — **Qué buscar:** «juegos y sorteos» y permisionarios.
+- **Línea de la Vida** (CONASAMA · español): 800 911 2000.
+
+### Palabras clave
+
+- *Juego compulsivo:* cuando no puedes dejar de apostar aunque te cause problemas.
+- *Permisionario:* empresa con permiso de Gobernación para operar juegos con apuestas.
+
+### Fuentes
+
+Secretaría de Gobernación · Ley Federal de Juegos y Sorteos · CONASAMA, consultados el 29 de septiembre de 2026.
+
+---

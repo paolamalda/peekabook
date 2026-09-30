@@ -1,6 +1,6 @@
 # Your Business, Your Money, Your Future · U.S.
 
-Program manual · Version 1.1 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
+Program manual · Version 1.2 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
 
 Financial education for Latino entrepreneurs and self-employed people in the United States: separating money, pricing, managing cash flow, getting paid safely, formalizing and paying taxes, using credit carefully, protecting yourself and planning for the future. A Spanish version with the same content exists (*Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.*).
 

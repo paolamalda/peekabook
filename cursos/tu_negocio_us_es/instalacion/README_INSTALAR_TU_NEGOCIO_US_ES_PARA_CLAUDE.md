@@ -60,14 +60,14 @@ En cada sección de módulo:
 
 | Módulo | Capítulos | Páginas |
 |---|---|---|
-| M1 | 4 | 16 |
+| M1 | 5 | 20 |
 | M2 | 4 | 16 |
 | M3 | 3 | 12 |
 | M4 | 3 | 12 |
 | M5 | 5 | 20 |
 | M6 | 4 | 16 |
-| M7 | 5 | 20 |
-| M8 | 3 | 12 |
+| M7 | 7 | 28 |
+| M8 | 4 | 16 |
 | M9 | 3 | 12 |
 
 ## 4. Libro de apoyo
@@ -80,15 +80,15 @@ En la sección 10, crea el glosario `Palabras clave del curso` e importa `3_glos
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tndf_us_es.gift.txt`. Se crean *Tu Negocio US ES/M1* a *M9*, con 102 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tndf_us_es.gift.txt`. Se crean *Tu Negocio US ES/M1* a *M9*, con 114 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
 3. Agrega **todas** las preguntas de *Tu Negocio US ES/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|
-| 12 | 12 | 9 | 9 | 15 | 12 | 15 | 9 | 9 |
+| 15 | 12 | 9 | 9 | 15 | 12 | 21 | 12 | 9 |
 
-## 7. Actividades H5P (34)
+## 7. Actividades H5P (38)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

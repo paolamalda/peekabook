@@ -1,8 +1,8 @@
 {
  "sigla": "YBMF",
  "titulo": "Your Business, Your Money, Your Future · U.S.",
- "subtitulo": "Version 1.1 · United States (federal and California) · English · Desarrolla Talento · September 2026",
- "version": "1.1",
+ "subtitulo": "Version 1.2 · United States (federal and California) · English · Desarrolla Talento · September 2026",
+ "version": "1.2",
  "lang": "en",
  "intro": "Money course for Latino entrepreneurs and self-employed people in the United States: 9 modules, 38 lessons, with federal rules and California examples.",
  "categoria": "Your Business US EN",
@@ -218,10 +218,10 @@
  },
  "carpeta": {
   "nombre": "Your_Business_Your_Money_Your_Future_US_EN",
-  "zip": "Your_Business_US_EN_v1.1",
-  "manual": "Program_manual_YBMF_US_EN_v1.1",
-  "contenido": "Full_content_YBMF_US_EN_v1.1",
-  "guia": "Implementation_guide_YBMF_US_EN_v1.1",
+  "zip": "Your_Business_US_EN_v1.2",
+  "manual": "Program_manual_YBMF_US_EN_v1.2",
+  "contenido": "Full_content_YBMF_US_EN_v1.2",
+  "guia": "Implementation_guide_YBMF_US_EN_v1.2",
   "descripciones": [
    "Program manual: audience, rules, modules and lessons, characters and verified facts.",
    "Full content: characters, lessons, support book, H5P and question bank (.docx and .md).",

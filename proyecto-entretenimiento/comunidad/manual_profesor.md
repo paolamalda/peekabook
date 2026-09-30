@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso *Tu Talento, Tu Marca, Tu Futuro*, 
 
 | | Curso Tu Talento (TTMF-MX) | Comunidad Tu Talento (TTMF-COM) |
 |---|---|---|
-| Para qué | Aprender: 11 módulos, 73 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
+| Para qué | Aprender: 11 módulos, 77 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No: no hay calificaciones ni constancia |
 | Quién entra | Las personas inscritas al programa | Las mismas personas (misma cohorte), desde un enlace en el curso |
@@ -342,7 +342,7 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 
 | Tema de la duda | Lecciones |
 |---|---|
-| Ganancia real, sueldo fijo, fondo de sequía, pagos a 60 o 90 días | M1 U01 a U06 |
+| Ganancia real, sueldo fijo, fondo de sequía, pagos a 60 o 90 días, estrés y rechazo | M1 U01 a U07 |
 | RESICO, Asimilados o Actividad Empresarial; IVA | M2 U01, U02 |
 | Deducciones, facturar y declarar; declaración anual | M2 U03 a U05 |
 | Contratos, exclusividad, derechos de imagen y voz | M3 U01, U02 |
@@ -352,13 +352,14 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 | Línea de crédito no es ingreso; pago mínimo; meses sin intereses; inventario de deudas | M6 U01 a U06 |
 | Buró y Círculo: reportes gratis, leer el reporte, score, plazos, reclamar, bloqueo | M7 U01 a U08, U10 |
 | Despachos que "limpian el Buró" | M7 U09 |
-| Salir de deudas, negociar, consolidar, cobranza | M8 U01 a U05 |
+| Salir de deudas, negociar, consolidar, cobranza, apuestas | M8 U01 a U06 |
 | Fraudes: falsos castings, phishing, robo de identidad, cuentas y línea | M9 U01 a U05 |
 | Apps "montadeudas" e inversiones milagro | M9 U06, U07 |
 | Llamadas de publicidad: REPEP, REUS y líneas con CURP | M9 U08 |
 | Si ya te estafaron | M9 U09 |
+| Voces y videos falsos con IA | M9 U10 |
 | Seguros médicos, IMSS Modalidad 10, incapacidad, vida | M10 U01 a U04 |
-| Nombre y marca (INDAUTOR e IMPI); testamento | M10 U05, U06 |
+| Nombre y marca (INDAUTOR e IMPI); testamento; desastres | M10 U05 a U07 |
 | Pago grande, AFORE, Modalidad 40, PPR, invertir, vivienda | M11 U01 a U06 |
 | Ingresos fuera de cámara, carrera larga, plan de una página | M11 U07 a U09 |
 

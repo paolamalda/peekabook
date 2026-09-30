@@ -72,6 +72,24 @@ $CATEGORY: $course$/Tu Turno/M1
 	=Abres una cuenta aparte para ahorro #¡Correcto! Separarlo ayuda.
 }
 
+::M1 U05 P1::¿Cuándo conviene hablar de dinero en pareja? {
+	~Al llegar del turno de 24 horas #No es la mejor opción. Sin cansancio ni pleito.
+	=En un día fijo y con calma #¡Correcto! Sin cansancio ni pleito.
+	~Solo cuando llega un cobro #No es la mejor opción. Sin cansancio ni pleito.
+}
+
+::M1 U05 P2::¿Con qué termina una buena plática de dinero? {
+	=Con una acción acordada para la semana #¡Correcto! Avanzar poco a poco.
+	~Con quién tiene la culpa #No es la mejor opción. Avanzar poco a poco.
+	~Con la promesa de no volver a hablar del tema #No es la mejor opción. Avanzar poco a poco.
+}
+
+::M1 U05 P3::Llevas semanas sin dormir por las deudas y sientes que no hay salida. ¿Qué haces? {
+	~Aguantas solo #No es la mejor opción. Pedir ayuda es cuidarte.
+	~Pides otro préstamo para calmarte #No es la mejor opción. Pedir ayuda es cuidarte.
+	=Buscas ayuda, por ejemplo en la Línea de la Vida #¡Correcto! Pedir ayuda es cuidarte.
+}
+
 $CATEGORY: $course$/Tu Turno/M2
 
 ::M2 U01 P1::¿Qué es la cuenta básica? {
@@ -200,6 +218,24 @@ $CATEGORY: $course$/Tu Turno/M3
 	~Te lo gastas en algo que te guste #No es la mejor opción. Así aceleras.
 	~Lo guardas debajo del colchón #No es la mejor opción. Así aceleras.
 	=Lo sumas a la siguiente deuda #¡Correcto! Así aceleras.
+}
+
+::M3 U05 P1::Perdiste en las apuestas este mes. ¿Qué haces? {
+	~Apuestas más para recuperarlo #No es la mejor opción. Recuperar es la trampa.
+	=Paras y revisas tu presupuesto #¡Correcto! Recuperar es la trampa.
+	~Pides un préstamo rápido #No es la mejor opción. Recuperar es la trampa.
+}
+
+::M3 U05 P2::¿Cuál es una señal de que el juego ya es un problema? {
+	~Apostar una vez al año en la quiniela de la oficina #No es la mejor opción. Deuda segura.
+	~Revisar los resultados del partido #No es la mejor opción. Deuda segura.
+	=Apostar con préstamos o tarjeta #¡Correcto! Deuda segura.
+}
+
+::M3 U05 P3::¿Qué revisas antes de registrarte en una app de apuestas? {
+	=Que tenga permiso de la Secretaría de Gobernación #¡Correcto! Sin permiso no hay a quién reclamar.
+	~Que tenga muchos anuncios #No es la mejor opción. Sin permiso no hay a quién reclamar.
+	~Que el bono sea grande #No es la mejor opción. Sin permiso no hay a quién reclamar.
 }
 
 $CATEGORY: $course$/Tu Turno/M4
@@ -388,6 +424,24 @@ $CATEGORY: $course$/Tu Turno/M6
 	=Casi seguro un fraude\: cuelga y llama tú #¡Correcto! Los registros no frenan fraudes.
 }
 
+::M6 U06 P1::Te llega un audio con la voz de tu hija pidiendo dinero urgente. ¿Qué haces? {
+	~Depositas\: es su voz #No es la mejor opción. Confirma por otro medio.
+	=Cuelgas y la llamas tú al número guardado #¡Correcto! Confirma por otro medio.
+	~Respondes el audio pidiendo el número de cuenta #No es la mejor opción. Confirma por otro medio.
+}
+
+::M6 U06 P2::¿Para qué sirve una palabra clave familiar? {
+	=Para confirmar que es tu familiar de verdad #¡Correcto! Si no la dice, no es.
+	~Para entrar al banco #No es la mejor opción. Si no la dice, no es.
+	~Para desbloquear el celular #No es la mejor opción. Si no la dice, no es.
+}
+
+::M6 U06 P3::Un famoso recomienda en video una inversión que duplica tu dinero. ¿Qué es? {
+	~Una oportunidad real #No es la mejor opción. Nadie duplica dinero.
+	~Una inversión segura del gobierno #No es la mejor opción. Nadie duplica dinero.
+	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
+}
+
 $CATEGORY: $course$/Tu Turno/M7
 
 ::M7 U01 P1::¿Dónde guardas tu fondo? {
@@ -444,6 +498,24 @@ $CATEGORY: $course$/Tu Turno/M7
 	~Con el vendedor #No es la mejor opción. Es la autoridad de seguros.
 }
 
+::M7 U04 P1::¿Dónde guardas tu fondo de emergencia? {
+	~Todo en efectivo en la casa #No es la mejor opción. Disponible aunque pierdas la casa.
+	=En una cuenta que puedas usar desde la app o el cajero #¡Correcto! Disponible aunque pierdas la casa.
+	~Con un vecino de confianza #No es la mejor opción. Disponible aunque pierdas la casa.
+}
+
+::M7 U04 P2::Alguien te cobra por anotarte en un apoyo del gobierno. ¿Qué es? {
+	=Un fraude\: los apoyos son gratis #¡Correcto! Nadie cobra.
+	~Un trámite normal #No es la mejor opción. Nadie cobra.
+	~Una comisión del banco #No es la mejor opción. Nadie cobra.
+}
+
+::M7 U04 P3::¿Qué te sirve para reclamar al seguro? {
+	~Recordar lo que tenías #No es la mejor opción. Prueba de lo perdido.
+	~El testimonio de un vecino #No es la mejor opción. Prueba de lo perdido.
+	=Fotos de tus cosas y la póliza #¡Correcto! Prueba de lo perdido.
+}
+
 $CATEGORY: $course$/Tu Turno/M8
 
 ::M8 U01 P1::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
@@ -482,19 +554,37 @@ $CATEGORY: $course$/Tu Turno/M8
 	=80 #¡Correcto! 1,200 entre 15.
 }
 
-::M8 U03 P1::¿Cada cuándo revisas tu plan? {
+::M8 U03 P1::¿Dónde revisas tus puntos y tu ahorro de vivienda? {
+	~Con un gestor #No es la mejor opción. Sitio oficial.
+	~En tu banco #No es la mejor opción. Sitio oficial.
+	=En Mi Cuenta Infonavit con tu NSS #¡Correcto! Sitio oficial.
+}
+
+::M8 U03 P2::Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? {
+	=No pagas\: el trámite es gratis #¡Correcto! Sin intermediarios.
+	~Pagas la mitad #No es la mejor opción. Sin intermediarios.
+	~Le das tu contraseña para agilizar #No es la mejor opción. Sin intermediarios.
+}
+
+::M8 U03 P3::¿Qué revisas antes de firmar un crédito de vivienda? {
+	~Solo el color de la casa #No es la mejor opción. Tu presupuesto manda.
+	=Cuánto te descontarán de la quincena y si te alcanza #¡Correcto! Tu presupuesto manda.
+	~Lo que opine el vendedor #No es la mejor opción. Tu presupuesto manda.
+}
+
+::M8 U04 P1::¿Cada cuándo revisas tu plan? {
 	~Una vez al año, en diciembre #No es la mejor opción. Cinco minutos cada quincena.
 	=Cada día de pago #¡Correcto! Cinco minutos cada quincena.
 	~Nunca #No es la mejor opción. Cinco minutos cada quincena.
 }
 
-::M8 U03 P2::¿Qué va en tu plan? {
+::M8 U04 P2::¿Qué va en tu plan? {
 	~Tu NIP #No es la mejor opción. Son sus partes.
 	~Tus contraseñas #No es la mejor opción. Son sus partes.
 	=Tu presupuesto, deudas, ahorro, protección y AFORE #¡Correcto! Son sus partes.
 }
 
-::M8 U03 P3::Terminaste una deuda. ¿Qué haces? {
+::M8 U04 P3::Terminaste una deuda. ¿Qué haces? {
 	=Lo anotas y sumas ese pago a la siguiente #¡Correcto! Así avanzas más rápido.
 	~Pides otro crédito para celebrar #No es la mejor opción. Así avanzas más rápido.
 	~Nada #No es la mejor opción. Así avanzas más rápido.

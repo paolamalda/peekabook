@@ -2,7 +2,7 @@
 import re, os, glob, shutil, zipfile, subprocess, sys
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(BASE, "herramientas")); from build_ttmf import TITULOS
-name = "TTMF_06_Curso_completo_v1.2"
+name = "TTMF_06_Curso_completo_v1.3"
 out = os.path.join("/tmp", name); shutil.rmtree(out, ignore_errors=True)
 D = {k: os.path.join(out, k) for k in ["1_libros", "2_h5p", "3_glosario", "4_preguntas", "5_insignias", "6_certificado", "7_guias", "8_vista_previa"]}
 for d in D.values(): os.makedirs(d)
@@ -38,7 +38,7 @@ shutil.copy("/tmp/ttmf_legible.md", f"{D['7_guias']}/TTMF_lecciones_completas.md
 S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
 md2 = os.path.join(os.path.dirname(BASE), "proyecto-inclusion-financiera", "herramientas", "md2docx.js")
 env = dict(os.environ, NODE_PATH=f"{S}/nodeenv/node_modules")
-subprocess.run(["node", md2, f"{D['7_guias']}/TTMF_lecciones_completas.docx", "Tu Talento, Tu Marca, Tu Futuro", "Las 73 lecciones · Versión 1.2 · Septiembre de 2026", "/tmp/ttmf_legible.md"], env=env, check=True, capture_output=True)
+subprocess.run(["node", md2, f"{D['7_guias']}/TTMF_lecciones_completas.docx", "Tu Talento, Tu Marca, Tu Futuro", "Las 77 lecciones · Versión 1.3 · Septiembre de 2026", "/tmp/ttmf_legible.md"], env=env, check=True, capture_output=True)
 subprocess.run(["node", md2, f"{D['7_guias']}/guia_gamificacion_ttmf.docx", "Tu Talento, Tu Marca, Tu Futuro", "Actividades, puntos, insignias y constancia · Septiembre de 2026", f"{I}/guia_gamificacion_ttmf.md"], env=env, check=True, capture_output=True)
 for f in ["README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md", "LEEME.txt"]: shutil.copy(f"{I}/{f}", out)
 parts = [("parte1_curso", lambda r: "2_h5p" not in r),

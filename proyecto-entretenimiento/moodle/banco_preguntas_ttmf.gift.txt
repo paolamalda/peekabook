@@ -108,6 +108,24 @@ $CATEGORY: $course$/Tu Talento/M1
 	=Enviar un recordatorio por escrito #¡Correcto! El seguimiento por escrito ayuda y deja registro.
 }
 
+::M1 U07 P1::No te quedaste en un casting y quieres comprar algo que no planeaste. ¿Qué haces? {
+	~Lo compras a meses para que no se note #No es la mejor opción. Decides con calma.
+	=Esperas 48 horas y revisas tu plan #¡Correcto! Decides con calma.
+	~Pides prestado para comprarlo hoy #No es la mejor opción. Decides con calma.
+}
+
+::M1 U07 P2::¿Qué hace una plática de dinero en casa más útil? {
+	~Hacerla cuando ya están enojados #No es la mejor opción. Números y una decisión.
+	~Culpar a quien gastó más #No es la mejor opción. Números y una decisión.
+	=Llevar los números y acordar una decisión #¡Correcto! Números y una decisión.
+}
+
+::M1 U07 P3::¿A dónde llamas si sientes que no hay salida? {
+	=A la Línea de la Vida, 800 911 2000 #¡Correcto! Ayuda gratuita las 24 horas.
+	~A nadie, lo aguantas solo #No es la mejor opción. Ayuda gratuita las 24 horas.
+	~A una app de préstamos #No es la mejor opción. Ayuda gratuita las 24 horas.
+}
+
 $CATEGORY: $course$/Tu Talento/M2
 
 ::M2 U01 P1::En RESICO cobras 40,000 en el mes. ¿Qué tasa de ISR aplica? {
@@ -896,6 +914,24 @@ $CATEGORY: $course$/Tu Talento/M8
 	~Todo a gastos, porque te lo mereces #No es la mejor opción. Así evitas volver a endeudarte.
 }
 
+::M8 U06 P1::Si decides apostar, ¿de dónde puede salir el dinero? {
+	~Del fondo de sequía #No es la mejor opción. Nunca del fondo ni de impuestos.
+	~De lo apartado para impuestos #No es la mejor opción. Nunca del fondo ni de impuestos.
+	=De tu gasto libre, con un tope fijo #¡Correcto! Nunca del fondo ni de impuestos.
+}
+
+::M8 U06 P2::¿Quién autoriza los casinos en línea en México? {
+	=La Secretaría de Gobernación #¡Correcto! Verifica el permiso.
+	~La CONDUSEF #No es la mejor opción. Verifica el permiso.
+	~Nadie, no necesitan permiso #No es la mejor opción. Verifica el permiso.
+}
+
+::M8 U06 P3::¿A dónde llamas si ya no puedes dejar de apostar? {
+	~A la misma app #No es la mejor opción. Gratis, las 24 horas.
+	=A la Línea de la Vida, 800 911 2000 #¡Correcto! Gratis, las 24 horas.
+	~A quien te preste para seguir #No es la mejor opción. Gratis, las 24 horas.
+}
+
 $CATEGORY: $course$/Tu Talento/M9
 
 ::M9 U01 P1::Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? {
@@ -1060,6 +1096,24 @@ $CATEGORY: $course$/Tu Talento/M9
 	=Capturas, números, estados de cuenta y folios #¡Correcto! Sin evidencia es difícil reclamar.
 }
 
+::M9 U10 P1::Tu mánager, con su voz, te pide un depósito urgente por audio. ¿Qué haces? {
+	~Depositas\: es su voz #No es la mejor opción. Confirma por otro lado.
+	=Confirmas llamando al número que ya tenías #¡Correcto! Confirma por otro lado.
+	~Pides la cuenta por mensaje #No es la mejor opción. Confirma por otro lado.
+}
+
+::M9 U10 P2::Tu contrato cede tu voz «para cualquier tecnología futura». ¿Qué pides? {
+	~Nada, así son todos #No es la mejor opción. Tu voz es tu trabajo.
+	~Más dinero, pero sin cambiar el texto #No es la mejor opción. Tu voz es tu trabajo.
+	=Limitar el uso con IA, con permiso escrito y pago aparte #¡Correcto! Tu voz es tu trabajo.
+}
+
+::M9 U10 P3::Circula un video falso tuyo recomendando una inversión. ¿Qué haces primero? {
+	=Guardas evidencia y lo reportas #¡Correcto! Evidencia, reporte y aviso.
+	~Lo ignoras #No es la mejor opción. Evidencia, reporte y aviso.
+	~Publicas tus datos para demostrar que eres tú #No es la mejor opción. Evidencia, reporte y aviso.
+}
+
 $CATEGORY: $course$/Tu Talento/M10
 
 ::M10 U01 P1::Gasto de 100,000, deducible de 10,000 y coaseguro de 10%. ¿Cuánto pagas tú? {
@@ -1168,6 +1222,24 @@ $CATEGORY: $course$/Tu Talento/M10
 	~Pólizas #No es la mejor opción. Evita riesgos de robo.
 	=Contraseñas completas #¡Correcto! Evita riesgos de robo.
 	~Contactos de tu contador y tu notario #No es la mejor opción. Evita riesgos de robo.
+}
+
+::M10 U07 P1::¿Qué haces antes de mover el equipo dañado? {
+	~Lo tiras para limpiar rápido #No es la mejor opción. Las fotos sostienen tu reclamo.
+	=Tomas fotos y video de los daños #¡Correcto! Las fotos sostienen tu reclamo.
+	~Lo vendes como refacción #No es la mejor opción. Las fotos sostienen tu reclamo.
+}
+
+::M10 U07 P2::Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Nadie cobra por registrarte.
+	~Una cuota de la aseguradora #No es la mejor opción. Nadie cobra por registrarte.
+	=Un fraude\: los apoyos son gratuitos #¡Correcto! Nadie cobra por registrarte.
+}
+
+::M10 U07 P3::¿El seguro de tu casa cubre siempre tu equipo de trabajo? {
+	=No siempre\: pregúntalo #¡Correcto! Muchas pólizas lo excluyen.
+	~Sí, siempre #No es la mejor opción. Muchas pólizas lo excluyen.
+	~Solo si es nuevo #No es la mejor opción. Muchas pólizas lo excluyen.
 }
 
 $CATEGORY: $course$/Tu Talento/M11

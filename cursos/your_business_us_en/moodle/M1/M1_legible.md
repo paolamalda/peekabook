@@ -621,3 +621,145 @@ Choose your tool, create a receipts folder and write down your sales, expenses a
 IRS, accessed September 29, 2026.
 
 ---
+
+## M1 U05. Online betting: business money isn't for gambling
+
+**What you will be able to do:** Recognize how online betting and casinos put your business at risk, know the rules in California and where to get help.
+
+**To start:** Javier started betting $20 on games between jobs. One month he used $600 from the business account "to win it back" and couldn't cover the paint for a job. In this lesson you'll see how to protect your business money.
+
+### The essentials (5 minutes)
+
+#### Why it's a risk for your business
+
+Betting apps, online casinos and "sweepstakes casinos" are one tap away, all day, with bonuses and alerts. If business money and your own money are mixed, it's easy to take from the business account without noticing. In the long run, the house always wins.
+
+
+
+#### Warning signs
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Chasing losses | You bet more to "win it back." | The main trap. |
+| Using business money | Or what you set aside for taxes. | You put your work at risk. |
+| Betting on credit | Card or advances. | Guaranteed debt. |
+| Limit and personal account | Only from your salary, with a cap. | Control. |
+
+> **Current fact:** online sports betting is not legal in California, and since January 1, 2026, online sweepstakes casinos are also banned under AB 831. Rules vary by state. Accessed September 29, 2026 through legal sources and specialized media.
+
+#### A case in one minute
+
+Javier put the $600 back into the business account, deleted the apps and told his brother. Now his tax money and business money are in separate accounts and his salary is fixed.
+
+> **Key idea:** business money and tax money are never for betting; chasing losses or betting on credit means it's already a problem.
+
+
+
+#### Check your understanding
+
+1. Where should betting money never come from?
+*Answer:* The business, your tax account, loans or cards.
+
+2. Is online sports betting legal in California?
+*Answer:* No, and online sweepstakes casinos have been banned since 2026.
+
+
+#### Remember
+
+- Never from the business or taxes.
+- Never on credit.
+- Cap, pause and help.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Winnings are taxable too
+
+Gambling winnings are income for the IRS even if you don't get a form. One more reason to keep records and not mix them with the business.
+
+
+
+#### Getting help
+
+Compulsive gambling is a health problem. The national helpline 1-800-GAMBLER is free and available 24 hours a day. California also offers free treatment for residents.
+
+> **Before you act, check:** your state's rules; what's legal in one state may not be in another, and unlicensed sites don't protect you if they don't pay.
+
+
+
+#### Cases
+
+
+**Case 1. Javier's account**
+
+Javier lost money betting and wants to use $300 of his tax money.
+- *What does he do?* He doesn't touch that money, stops betting and gets help.
+
+
+**Case 2. Daniela's sweepstakes casino**
+
+A "sweepstakes casino" app offers Daniela free coins if she buys a package.
+- *What does she check?* That they've been banned in California since 2026 and that the money doesn't come from the business.
+
+
+**Case 3. Don Ramón's helper**
+
+Don Ramón's helper asks for an advance to bet on the game.
+- *What does he do?* He doesn't give it for betting and shares where to get help.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Taking from the business | Short for work | Only from your salary |
+| Using tax money | IRS debt | Separate account |
+| Betting on credit | Debt | Never |
+| Unlicensed sites | They don't pay | Check your state |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Javier, Daniela and Don Ramón. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. Where can betting money come from, if you choose to bet? a) The business account · b) Your salary, with a cap · c) What you set aside for taxes
+2. What about gambling winnings? a) They are income you report · b) They are never taxed · c) They're only reported above $10,000
+3. Where do you get help with gambling in the U.S.? a) In the betting app itself · b) At 1-800-GAMBLER · c) From whoever lends you money to bet
+**Answers:** 1-b: never from the business. 2-a: all income is reported. 3-b: free, 24 hours a day.
+
+
+
+#### Put it into practice
+
+You bet $20 a day, 25 days a month. How much is that a month and a year?
+**Answer:** $500 a month; $6,000 a year.
+
+
+
+#### Your plan
+
+Separate your tax account and, if you bet, set a cap that comes only from your salary.
+
+
+
+### Learn more
+
+- **Gambling help** (National Council on Problem Gambling · English and Spanish): 1-800-GAMBLER.
+- **Gambling income** (IRS · English): https://www.irs.gov | What to look for: "gambling income and losses".
+
+### Key words
+
+- *Sweepstakes casino:* a site that simulates betting with virtual coins redeemable for money; banned in California since 2026.
+- *Compulsive gambling:* when you can't stop betting even though it causes problems.
+
+### Sources
+
+IRS · National Council on Problem Gambling · California AB 831 (2025), accessed September 29, 2026.
+
+---

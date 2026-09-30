@@ -31,6 +31,11 @@ CASOS = {
  ("Envía un recordatorio por escrito y revisa el contrato.", "Espera sin decir nada para no molestar al cliente.", "Publica en redes que la productora no le ha pagado todavía."),
  ("No: ese dinero todavía no es suyo.", "Sí: el pago ya está asegurado.", "Sí, si la compra es en meses sin intereses."),
 ],
+"M1 U07": [
+ ("Aplica su pausa de 48 horas y revisa su plan.", "Se compra los tenis a meses para no sentirlo.", "Se los compra hoy; ya mañana se organiza."),
+ ("Lo revisa con calma y decide un solo paso.", "Lo deja cerrado hasta que tenga más trabajo.", "Le pide a alguien que lo tire sin abrirlo."),
+ ("Agendan una plática mensual con números.", "Discuten cada vez que se acaba un proyecto.", "Dejan de hablar de dinero por completo."),
+],
 "M2 U01": [
  ("No: en RESICO no hay deducciones.", "Sí, si guarda todos sus tickets.", "Sí, pero solo la mitad del gasto."),
  ("Consulta a su contador antes de firmar.", "Firma, porque como asimilado le retienen menos cada mes.", "Acepta y deja de facturar en RESICO."),
@@ -246,6 +251,11 @@ CASOS = {
  ("Impuestos, un mes de fondo y extra a deuda.", "Todo a su deuda más cara de una vez.", "Todo a gastos, porque se lo merece después de tanto trabajo."),
  ("Usa su fondo, avisa y ajusta el plan.", "Deja de pagar sin avisar este mes.", "Pide un préstamo por app para cubrirlo."),
 ],
+"M8 U06": [
+ ("No toca el fondo, deja de apostar y pide ayuda.", "Toma los 5,000 y los repone con el siguiente pago.", "Apuesta el doble para recuperarlo más rápido."),
+ ("Revisa el permiso y que no salga de su plan.", "Deposita: el bono es dinero gratis.", "Deposita con la tarjeta para ganar puntos."),
+ ("No le presta y le comparte la Línea de la Vida.", "Le presta poco para que se le pase.", "Le presta si le promete pagarle al ganar."),
+],
 "M9 U01": [
  ("Cuelga y llama al número de su tarjeta.", "Da el código para cancelar el cargo rápido.", "Pide que le manden el código por correo."),
  ("No paga: verifica y lo reporta.", "Paga el trámite para recibir el auto.", "Paga la mitad y el resto al recibirlo."),
@@ -291,6 +301,11 @@ CASOS = {
  ("Denunciar: le puede pasar a cualquiera.", "Olvidarlo para no pasar vergüenza.", "Esperar a ver si el banco la llama para devolverle el dinero."),
  ("Aviso sencillo sin datos personales.", "Publica sus estados de cuenta completos.", "No avisa a nadie para no alarmar."),
 ],
+"M9 U10": [
+ ("Guarda evidencia, reporta, avisa y denuncia.", "Lo ignora; sus seguidores sabrán que es falso.", "Publica su INE para demostrar que es ella."),
+ ("Cuelga y confirma con el número que ya tenía.", "Deposita: es la voz de su mánager.", "Pide la cuenta por el mismo mensaje."),
+ ("Pide limitar la IA con permiso escrito y pago.", "Firma: así vienen todos los contratos.", "Firma y pide más dinero sin cambiar el texto."),
+],
 "M10 U01": [
  ("Contrata un SGMM que cubra su actividad.", "Sigue sin seguro porque casi no se lesiona.", "Guarda la tarjeta solo para emergencias."),
  ("Pagar mucho coaseguro en un gasto grande.", "Ninguno: el coaseguro nunca es alto.", "Que le suban la prima cada mes."),
@@ -320,6 +335,11 @@ CASOS = {
  ("Hace su testamento y su carpeta familiar.", "Espera a ser mayor para hacerlo.", "Le deja todo dicho de palabra a su hermana."),
  ("Las incluye en su testamento por escrito.", "Nada: las regalías terminan con ella.", "Pide que se las paguen por adelantado."),
  ("No: deja instrucciones, no contraseñas.", "Sí: así su familia entra a todo.", "Sí, pero en un papel pegado atrás de su celular."),
+],
+"M10 U07": [
+ ("No paga y reporta él mismo a su aseguradora.", "Paga la mitad para que empiece el trámite.", "Paga todo para que el reclamo sea rápido."),
+ ("Revisa si cubre equipo de trabajo y cotiza.", "Supone que el seguro de casa lo cubre todo.", "Cancela el seguro de casa para ahorrar."),
+ ("Verifica a quién llega el dinero antes.", "La comparte: es para una buena causa.", "Deposita y después pregunta quién la organiza."),
 ],
 "M11 U01": [
  ("Aparta IVA e ISR y reparte el mismo día.", "Paga primero el viaje que tenía pendiente.", "Deja todo en su cuenta y decide después."),

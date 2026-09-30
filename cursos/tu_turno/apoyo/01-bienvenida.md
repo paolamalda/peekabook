@@ -6,7 +6,7 @@ Aquí aprenderás a que tu quincena rinda, a usar una cuenta sin comisiones, a s
 
 Cada lección dura unos 5 minutos y está hecha para el celular: puedes tomarla en un descanso.
 
-Versión 1.1 · Septiembre de 2026.
+Versión 1.2 · Septiembre de 2026.
 
 ## Cómo está hecho cada módulo
 

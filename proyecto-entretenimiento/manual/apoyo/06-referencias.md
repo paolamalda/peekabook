@@ -64,6 +64,8 @@ Fuentes consultadas el 28 y 29 de septiembre de 2026. Las reglas, tasas y requis
 - **M07** Secretaría de Gobernación: Mes del Testamento 2026.
 - **M08** Tarifas 2026 de INDAUTOR e IMPI.
 - **M09** Precios de reportes, score, bloqueo y alertas de Buró de Crédito y Círculo de Crédito.
+- **M10** Línea de la Vida de la CONASAMA y permisos de juegos con apuestas de la Secretaría de Gobernación.
+- **M11** Ley sobre el Contrato de Seguro y guías de CONDUSEF sobre siniestros.
 
 ## Libros
 

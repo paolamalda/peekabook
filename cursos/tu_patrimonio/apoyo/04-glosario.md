@@ -131,6 +131,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Responsabilidad civil:** cobertura que paga los daños que causas a otras personas o a sus bienes.
 - **Seguro de Gastos Médicos Mayores:** seguro que paga gastos médicos grandes: hospitalización, cirugías y tratamientos.
 - **Seguro de vida:** seguro que paga una suma a tus beneficiarios si falleces.
+- **Siniestro:** el daño que cubre el seguro, como un sismo o un incendio.
+- **Suma asegurada:** el monto máximo que paga el seguro.
 - **Tabulador:** lista de montos máximos que paga la aseguradora por los honorarios de cada procedimiento.
 - **Valor comercial:** lo que vale hoy tu auto en el mercado.
 - **Valor de rescate:** lo que te devuelven si cancelas un seguro con ahorro.
@@ -151,10 +153,13 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Aval:** persona que se compromete a pagar una deuda si quien la pidió no paga.
 - **Convenio de separación:** acuerdo sobre bienes y obligaciones al separarse.
 - **Duelo:** proceso emocional después de una pérdida.
+- **Gravamen:** carga sobre un inmueble, como una hipoteca, que aparece en el Registro Público.
 - **Heredero:** persona que recibe los bienes de otra al fallecer.
 - **Herencia en vida:** transferir bienes a tus herederos mientras vives.
+- **Libertad de gravamen:** certificado que muestra si un inmueble tiene deudas o cargas.
 - **Poder notarial:** documento ante notario en el que autorizas a otra persona a actuar por ti.
 - **Revocar:** cancelar un poder o un documento.
+- **Subcuenta de vivienda:** dinero que tu patrón aporta para tu vivienda dentro de tu cuenta de ahorro para el retiro.
 - **Testamento:** documento en el que decides a quién pasan tus bienes cuando faltes.
 - **Tutor:** persona que cuida los intereses de un menor de edad.
 - **Voluntad anticipada:** documento en el que dices qué tratamientos médicos quieres o no si no puedes decidir.

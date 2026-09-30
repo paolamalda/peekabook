@@ -417,3 +417,146 @@ Pregunta en tu trabajo si tienes seguro de vida y revisa a tus beneficiarios.
 CNSF · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M7 U04. Si llega un desastre: sismo, inundación o incendio
+
+**Lo que lograrás:** Preparar tus documentos, tu dinero y tu familia para un desastre, y saber qué hacer después para recuperarte sin caer en fraudes.
+
+**Para empezar:** En la colonia de Ramiro se inundaron varias casas. Sus vecinos perdieron actas, la tarjeta del banco y el efectivo guardado. Ramiro se preguntó qué pasaría con su familia. En esta lección verás cómo prepararte.
+
+### Lo esencial (5 minutos)
+
+#### Tu mochila de emergencia
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Copias de documentos | Actas, INE, CURP, escrituras o contrato de renta. | En bolsa contra agua. |
+| Copia digital protegida | Fotos en tu correo o nube con contraseña. | Por si se pierde el papel. |
+| Algo de efectivo | Para los primeros días. | Poco y en billetes chicos. |
+| Contactos | Banco, aseguradora, familiares. | En papel también. |
+
+#### Tu dinero en una emergencia
+
+1. Ten tu fondo de emergencia en una cuenta, no todo en efectivo en casa (M7 U01).
+2. Si tienes seguro de casa o de vida, guarda el número de póliza y el teléfono.
+3. Toma fotos de tus cosas de valor: te sirven para reclamar.
+4. Acuerda con tu familia un punto de reunión.
+
+
+
+#### Un caso en un minuto
+
+Ramiro armó una bolsa con copias de actas, INE y CURP, y guardó fotos de los documentos en su correo con contraseña. Su fondo está en una cuenta, con la tarjeta y la app. Si algo pasa, puede disponer de su dinero desde cualquier cajero.
+
+> **Idea clave:** documentos a salvo, dinero en una cuenta y un plan familiar: así te recuperas más rápido.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Por qué guardar el fondo en una cuenta y no en efectivo en casa?
+*Respuesta:* Porque en un desastre el efectivo se puede perder; la cuenta la usas desde la app o un cajero.
+
+2. ¿Para qué sirven las fotos de tus cosas?
+*Respuesta:* Para reclamar al seguro o pedir apoyos.
+
+
+#### Para recordar
+
+- Documentos en bolsa contra agua.
+- Copia digital protegida.
+- Dinero en cuenta.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Después del desastre
+
+En emergencias grandes, los bancos suelen ofrecer programas para aplazar pagos: pregunta a tu banco por escrito y guarda el folio. Los apoyos del gobierno se piden solo en módulos oficiales y son gratuitos.
+
+
+
+#### Fraudes después del desastre
+
+Aparecen falsos gestores de apoyos, falsos albañiles que cobran por adelantado y colectas falsas. Nadie debe cobrarte por anotarte en un apoyo del gobierno.
+
+> **Antes de actuar, verifica:** los apoyos en los sitios oficiales del gobierno y de Protección Civil; desconfía de quien cobra por «registrarte».
+
+
+
+#### Casos
+
+
+**Caso 1. La bolsa de Ramiro**
+
+Ramiro guarda todos sus documentos originales en un cajón.
+- *¿Qué hace?* Hace copias en bolsa contra agua y fotos protegidas en su correo.
+
+
+**Caso 2. El gestor de Karla**
+
+Después de una inundación, alguien le cobra a Karla 500 pesos por anotarla en un apoyo.
+- *¿Qué hace?* No paga y acude al módulo oficial, donde es gratis.
+
+
+**Caso 3. El préstamo de Don Chuy**
+
+Tras el sismo, Don Chuy no puede pagar su crédito este mes.
+- *¿Qué hace?* Pide por escrito a su banco un programa de aplazamiento y guarda el folio.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Todo en papel en casa | Lo pierdes | Copias y digital |
+| Todo en efectivo | Se pierde o se lo roban | Cuenta |
+| Pagar gestores | Fraude | Apoyos gratis |
+| No avisar al banco | Recargos | Pide aplazamiento |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Ramiro, Karla y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde guardas tu fondo de emergencia? a) Todo en efectivo en la casa · b) En una cuenta que puedas usar desde la app o el cajero · c) Con un vecino de confianza
+2. Alguien te cobra por anotarte en un apoyo del gobierno. ¿Qué es? a) Un fraude: los apoyos son gratis · b) Un trámite normal · c) Una comisión del banco
+3. ¿Qué te sirve para reclamar al seguro? a) Recordar lo que tenías · b) El testimonio de un vecino · c) Fotos de tus cosas y la póliza
+**Respuestas:** 1-b: disponible aunque pierdas la casa. 2-a: nadie cobra. 3-c: prueba de lo perdido.
+
+
+
+#### Ponlo en práctica
+
+Quieres tener 300 pesos en efectivo en tu mochila y apartas 50 por quincena. ¿En cuántas quincenas lo juntas?
+**Respuesta:** 6 quincenas: 3 meses.
+
+
+
+#### A tu plan
+
+Esta semana arma tu bolsa de documentos y guarda fotos protegidas de ellos.
+
+
+
+### Para saber más
+
+- **Plan familiar de protección civil** (Protección Civil · español): https://www.gob.mx/cenapred — **Qué buscar:** «plan familiar».
+- **Seguros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de casa».
+
+### Palabras clave
+
+- *Mochila de emergencia:* bolsa con documentos, dinero y artículos básicos para salir rápido.
+- *Aplazamiento de pagos:* permiso del banco para pagar después sin recargos en una emergencia.
+
+### Fuentes
+
+CENAPRED · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---

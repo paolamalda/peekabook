@@ -5,6 +5,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Tu quincena rinde
 
 - **Ahorro:** dinero que apartas para usarlo después.
+- **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
 - **Gasto fijo:** gasto que se repite igual, como la renta.
 - **Gasto hormiga:** gasto pequeño que se repite y al mes suma mucho.
 - **Presupuesto:** plan de cuánto entra y en qué se usa.
@@ -25,11 +26,13 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Tus deudas claras
 
 - **Abono:** pago parcial de una deuda.
+- **Autoexclusión:** opción para bloquear tu propia cuenta de apuestas por un tiempo.
 - **Avalancha:** método para pagar primero la deuda más cara.
 - **Bola de nieve:** método para pagar primero la deuda más chica.
 - **CAT:** Costo Anual Total: lo que cuesta un crédito al año, con intereses y comisiones.
 - **Deuda:** dinero que debes pagar.
 - **Empeño:** préstamo en el que dejas algo de valor como garantía.
+- **Juego compulsivo:** cuando no puedes dejar de apostar aunque te cause problemas.
 - **Precio de contado:** lo que cuesta si pagas todo de una vez.
 - **Préstamo gota a gota:** préstamo informal de pagos diarios con intereses muy altos, cobrado con amenazas.
 - **Reestructura:** cambio de condiciones de una deuda para poder pagarla.
@@ -58,19 +61,24 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Denuncia:** aviso formal de un delito ante la autoridad.
 - **Evidencia:** pruebas de lo que pasó.
 - **Extorsión telefónica:** amenaza por teléfono para que pagues, muchas veces fingiendo tener a un familiar.
+- **Inteligencia artificial:** programas que imitan voces, caras o textos de forma muy realista.
 - **Montadeudas:** apps de préstamos que cobran de más y extorsionan usando tus contactos y fotos.
+- **Palabra clave familiar:** palabra secreta que solo tu familia conoce para confirmar emergencias.
 - **Permisos:** accesos que das a una app en tu celular.
 - **Phishing:** engaño con mensajes o páginas falsas para robar tus datos.
 - **REPEP:** Registro Público para Evitar Publicidad de Profeco: para que las empresas no te llamen ni te manden mensajes con publicidad.
 - **REUS:** Registro Público de Usuarios de CONDUSEF: para que bancos y financieras no te llamen con publicidad.
 - **Robo de identidad:** uso de tus datos para hacerse pasar por ti y pedir créditos o hacer trámites.
 - **Secuestro virtual:** engaño en el que fingen tener a un familiar sin que sea cierto.
+- **Voz clonada:** imitación de la voz de una persona hecha por computadora.
 
 ## Tu familia y los imprevistos
 
+- **Aplazamiento de pagos:** permiso del banco para pagar después sin recargos en una emergencia.
 - **Beneficiario:** persona que recibe el dinero de un seguro o una cuenta si tú faltas.
 - **Fondo de emergencia:** dinero apartado solo para imprevistos.
 - **Medicamento genérico:** medicina con la misma sustancia que la de marca, que suele costar menos.
+- **Mochila de emergencia:** bolsa con documentos, dinero y artículos básicos para salir rápido.
 - **Póliza:** contrato de un seguro.
 
 ## Tu futuro
@@ -78,5 +86,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **AFORE:** administradora que guarda e invierte tu ahorro para el retiro.
 - **Aportación voluntaria:** ahorro extra que haces tú en tu AFORE.
 - **Costo:** lo que gastas para poder vender.
+- **Coyote:** intermediario que cobra por trámites que son gratuitos.
 - **Ganancia:** lo que te queda después de pagar los costos.
 - **Plan de una página:** resumen de tus decisiones de dinero en una sola hoja.
+- **Precalificación:** puntos que indican si ya puedes pedir un crédito de vivienda.
+- **Subcuenta de vivienda:** ahorro en Infonavit que tu empresa deposita con el 5% de tu salario.

@@ -6,7 +6,7 @@ Aquí aprenderás a separar el dinero del negocio y de tu casa, poner precio, cu
 
 No necesitas saber de finanzas ni de impuestos. Cada lección parte de una situación real y termina con una acción que puedes hacer esta semana. Usamos reglas federales y ejemplos de California; si vives en otro estado, te decimos qué revisar.
 
-Versión 1.1 · Septiembre de 2026. También existe en inglés.
+Versión 1.2 · Septiembre de 2026. También existe en inglés.
 
 ## Cómo está hecho cada módulo
 

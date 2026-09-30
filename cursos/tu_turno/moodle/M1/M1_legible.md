@@ -27,7 +27,9 @@ Para su presupuesto usa 4,100, no 4,790.
 
 El salario mínimo general es de 315.04 pesos diarios, unos 9,582 al mes. En la frontera norte es de 440.87 diarios.
 
-> **Dato vigente:** salario mínimo general 2026 de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 diarios en la Zona Libre de la Frontera Norte. Consultado el 29 de septiembre de 2026 a través de la CONASAMI.
+Si en el mes solo ganas el salario mínimo, no te deben descontar ISR y tu parte del IMSS la paga la empresa: te llega completo, salvo adelantos, préstamos o faltas. Si ganas más, sí puede haber descuento de ISR e IMSS.
+
+> **Dato vigente:** salario mínimo general 2026 de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 diarios en la Zona Libre de la Frontera Norte. Con el salario mínimo no se retiene ISR (Ley del ISR, artículo 96) y la cuota del trabajador al IMSS la paga el patrón (Ley del Seguro Social, artículo 36). Consultado el 29 de septiembre de 2026 a través de la CONASAMI, la Ley del ISR y la Ley del Seguro Social.
 
 
 
@@ -66,6 +68,7 @@ Don Chuy pidió su recibo y vio el adelanto que se descuenta cada quincena. Ahor
 | Préstamo de la empresa | Se descuenta en partes |
 | Uniforme o equipo | Si tu contrato lo indica |
 | Faltas | Días no trabajados |
+| ISR e IMSS | Solo si ganas más del salario mínimo |
 
 
 
@@ -597,5 +600,145 @@ Decide cuánto apartarás cada quincena y prográmalo para tu próximo día de p
 ### Fuentes
 
 CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M1 U05. Dinero y estrés: cómo hablarlo en casa
+
+**Lo que lograrás:** Reconocer cuándo el dinero te está causando estrés, hablarlo en casa sin pleitos y saber dónde pedir apoyo.
+
+**Para empezar:** Don Chuy llega cansado del turno de 24 horas y su esposa le pregunta por el pago de la tienda. Terminan discutiendo. Él no duerme pensando en las deudas. En esta lección verás cómo hablar de dinero sin pelear.
+
+### Lo esencial (5 minutos)
+
+#### Señales de estrés por dinero
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| No duermes | Piensas en deudas en el descanso. | Tu cuerpo lo resiente. |
+| Discusiones | Cada plática de dinero termina en pleito. | Nadie decide. |
+| Evitas ver | No abres mensajes del banco. | La deuda crece. |
+| Hablarlo con calma | Un momento fijo, con números. | Baja la tensión. |
+
+#### La plática de dinero de 20 minutos
+
+1. Elijan un día fijo, lejos del turno y del cansancio.
+2. Pongan los números sobre la mesa: lo que entra, lo que sale y lo que se debe.
+3. Cada quien dice una preocupación, sin culpar.
+4. Acuerden una sola acción para la semana.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy y su esposa acordaron hablar de dinero cada domingo de descanso, 20 minutos, con su presupuesto en la mano. La primera semana decidieron pagar primero la tienda en abonos. Las discusiones bajaron.
+
+> **Idea clave:** el dinero se habla con números y en un momento fijo, no a la salida del turno ni en medio de un pleito.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuándo conviene hablar de dinero en casa?
+*Respuesta:* En un momento fijo y con calma, no al llegar cansado del turno.
+
+2. ¿Con qué se termina la plática?
+*Respuesta:* Con una sola acción acordada para la semana.
+
+
+#### Para recordar
+
+- Día fijo, 20 minutos.
+- Números sobre la mesa.
+- Una acción por semana.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si el estrés no baja
+
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende gratis las 24 horas. Pedir ayuda es parte de cuidar a tu familia.
+
+
+
+#### Hablar con los hijos
+
+Los hijos notan el estrés. Explícales, según su edad, que la familia tiene un plan y que todos ayudan: apagar luces, cuidar útiles, no pedir antojos cada día.
+
+
+
+#### Casos
+
+
+**Caso 1. La discusión de Don Chuy**
+
+Don Chuy y su esposa discuten de dinero al salir él del turno.
+- *¿Qué hacen?* Eligen un día fijo de descanso para hablarlo con números.
+
+
+**Caso 2. Los mensajes de Beto**
+
+Beto no abre los mensajes de su app de préstamos porque le da miedo.
+- *¿Qué hace?* Los revisa, anota cuánto debe y busca ayuda (M3 y M6).
+
+
+**Caso 3. La niña de Karla**
+
+La hija de Karla le pide algo en cada salida y Karla se siente culpable al decir que no.
+- *¿Qué hace?* Le explica que tienen un plan y acuerdan un gusto a la semana.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Hablar cansado | Pleito seguro | Día fijo |
+| Evitar los números | La deuda crece | Números sobre la mesa |
+| Culpar | Nadie decide | Una preocupación cada quien |
+| Callar el estrés | Te enfermas | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Beto y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuándo conviene hablar de dinero en pareja? a) Al llegar del turno de 24 horas · b) En un día fijo y con calma · c) Solo cuando llega un cobro
+2. ¿Con qué termina una buena plática de dinero? a) Con una acción acordada para la semana · b) Con quién tiene la culpa · c) Con la promesa de no volver a hablar del tema
+3. Llevas semanas sin dormir por las deudas y sientes que no hay salida. ¿Qué haces? a) Aguantas solo · b) Pides otro préstamo para calmarte · c) Buscas ayuda, por ejemplo en la Línea de la Vida
+**Respuestas:** 1-b: sin cansancio ni pleito. 2-a: avanzar poco a poco. 3-c: pedir ayuda es cuidarte.
+
+
+
+#### Ponlo en práctica
+
+Si hablan de dinero 20 minutos cada domingo, ¿cuántas horas le dedican al mes?
+**Respuesta:** Unas 4 pláticas: 80 minutos, poco más de una hora.
+
+
+
+#### A tu plan
+
+Acuerda con tu familia un día fijo para su plática de dinero y anoten la primera acción.
+
+
+
+### Para saber más
+
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Finanzas personales** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «presupuesto familiar».
+
+### Palabras clave
+
+- *Estrés financiero:* preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
+
+### Fuentes
+
+Secretaría de Salud · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---

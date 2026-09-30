@@ -799,3 +799,149 @@ Revisa las fechas de renovación de tus seguros de auto y casa y anótalas en tu
 CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M8 U06. Si llega un sismo o una inundación: tu patrimonio preparado
+
+**Lo que lograrás:** Preparar tus documentos, tu seguro y un fondo para un sismo, una inundación o un incendio, y saber qué hacer después para reclamar sin caer en fraudes.
+
+**Para empezar:** Después de un sismo, la casa de Carmen tuvo grietas. No encontraba la póliza, no sabía si cubría sismo y un «perito» tocó a la puerta ofreciendo arreglar todo si le pagaba por adelantado. En esta lección verás cómo prepararte.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan en cuatro partes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Documentos protegidos | Escrituras, pólizas e identificaciones en bolsa y en copia digital. | Para reclamar y demostrar. |
+| Fotos de la casa y tus cosas | Con fecha, cada año. | Pruebas del antes. |
+| Seguro con tu riesgo | Sismo o inundación según tu zona. | Revísalo al renovar (M8 U05). |
+| Fondo de emergencia en una cuenta | No todo en efectivo en casa. | Disponible aunque la casa se dañe. |
+
+#### Después del siniestro
+
+1. Primero tu seguridad: sigue a Protección Civil y no entres a una casa dañada.
+2. Toma fotos y video de los daños antes de mover o tirar algo.
+3. Reporta a tu aseguradora por su número oficial y anota el número de reporte.
+4. Guarda notas y recibos de lo que gastes en lo urgente.
+5. Contrata reparaciones solo después de la revisión del ajustador.
+
+> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió. Si no te responde o no estás de acuerdo, puedes reclamar gratis en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Carmen tenía copia digital de su póliza en el correo y encontró que sí cubría sismo. Tomó fotos, reportó por el número oficial y no pagó nada al «perito». El ajustador de la aseguradora revisó la casa y su reclamo siguió su curso.
+
+> **Idea clave:** documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces antes de mover o tirar cosas dañadas?
+*Respuesta:* Tomar fotos y video de los daños.
+
+2. ¿Quién revisa los daños para tu seguro?
+*Respuesta:* El ajustador de tu aseguradora, a quien llamas tú por su número oficial.
+
+
+#### Para recordar
+
+- Copia digital de todo.
+- Fotos del antes y del después.
+- Reporta tú; no pagues por adelantado.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Fraudes después de un desastre
+
+Aparecen falsos peritos, falsos funcionarios que cobran por «inscribirte» en apoyos, colectas falsas y constructores que piden todo por adelantado. Los apoyos de gobierno son gratuitos: nadie debe cobrarte por registrarte. Dona solo a organizaciones que puedas verificar.
+
+
+
+#### Tu persona de confianza
+
+Dile a tu persona de confianza dónde están tus documentos y tu póliza, y acuerden un punto de encuentro y un mensaje para avisarse que están bien. Si vives sola o solo, que alguien tenga copia de tus documentos.
+
+> **Antes de actuar, verifica:** si tu seguro de casa cubre sismo e inundación, el número de siniestros de tu aseguradora y que tus documentos tengan copia digital.
+
+
+
+#### Casos
+
+
+**Caso 1. El perito de Carmen**
+
+Un «perito» ofrece arreglar las grietas de Carmen si le paga por adelantado.
+- *¿Qué hace?* No paga y reporta a su aseguradora por el número oficial.
+
+
+**Caso 2. Los documentos de Lucía**
+
+Las escrituras y pólizas de Lucía están en una caja en el piso de abajo, en zona que se inunda.
+- *¿Qué hace?* Las guarda en bolsa en un lugar alto y saca copia digital.
+
+
+**Caso 3. El apoyo de Maru**
+
+Alguien en la colonia de Maru cobra 500 pesos por «inscribir» a las familias en los apoyos.
+- *¿Qué hace?* No paga: los apoyos son gratuitos; se informa por los canales oficiales.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Papeles sin copia | No puedes demostrar | Copia digital |
+| Tirar lo dañado sin fotos | Reclamo débil | Fotos primero |
+| Pagar por adelantado | Fraude | Espera al ajustador |
+| Pagar por apoyos | Fraude | Son gratuitos |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Lucía y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué haces antes de limpiar después de una inundación? a) Tiras todo lo mojado para evitar hongos · b) Llamas al primer constructor que pase · c) Tomas fotos y video de los daños
+2. Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? a) Un fraude: los apoyos son gratuitos · b) Un trámite normal · c) Una cuota de la aseguradora
+3. La aseguradora no te responde después de entregar tus documentos. ¿Qué haces? a) Esperas sin plazo · b) Reclamas gratis en la CONDUSEF · c) Contratas a un gestor que cobra por adelantado
+**Respuestas:** 1-c: las fotos sostienen tu reclamo. 2-a: nadie cobra por registrarte. 3-b: la CONDUSEF atiende gratis.
+
+
+
+#### Ponlo en práctica
+
+Tu seguro de casa tiene un deducible de 2% sobre una suma asegurada de 1,500,000 pesos. ¿Cuánto pagarías tú?
+**Respuesta:** 30,000 pesos.
+
+
+
+#### A tu plan
+
+Esta semana toma fotos de tu casa y tus cosas, guarda copia digital de tus escrituras y pólizas y revisa si tu seguro cubre sismo o inundación.
+
+
+
+### Para saber más
+
+- **Seguro de casa y siniestros** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de casa» y «siniestro».
+- **Protección Civil** (Coordinación Nacional de Protección Civil · español): https://www.gob.mx/cnpc — **Qué buscar:** «plan familiar de protección civil».
+
+### Palabras clave
+
+- *Siniestro:* el daño que cubre el seguro, como un sismo o un incendio.
+- *Suma asegurada:* el monto máximo que paga el seguro.
+
+### Fuentes
+
+CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protección Civil, consultados el 29 de septiembre de 2026.
+
+---

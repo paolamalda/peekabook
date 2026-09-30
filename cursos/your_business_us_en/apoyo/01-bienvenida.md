@@ -6,7 +6,7 @@ Here you'll learn to separate business and household money, set prices, manage y
 
 You don't need to know about finance or taxes. Each lesson starts from a real situation and ends with an action you can take this week. We use federal rules and California examples; if you live in another state, we tell you what to check.
 
-Version 1.1 · September 2026. Also available in Spanish.
+Version 1.2 · September 2026. Also available in Spanish.
 
 ## How each module works
 

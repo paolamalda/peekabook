@@ -1,6 +1,6 @@
 # Tu Patrimonio, Tu Tranquilidad, Tu Futuro
 
-Manual del programa · Versión 1.1 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.2 · Desarrolla Talento · 29 de septiembre de 2026
 
 Educación financiera para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
 

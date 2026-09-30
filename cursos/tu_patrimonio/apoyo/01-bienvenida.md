@@ -6,7 +6,7 @@ Aquí aprenderás a saber qué tienes y dónde está, entender el sistema financ
 
 No necesitas saber de finanzas ni de tecnología. Cada lección parte de una situación real y termina con una acción que puedes hacer esta semana.
 
-Versión 1.1 · Septiembre de 2026.
+Versión 1.2 · Septiembre de 2026.
 
 ## Cómo está hecho cada módulo
 
