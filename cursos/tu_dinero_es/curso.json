@@ -198,5 +198,23 @@
   ],
   "para_quien": "Personas migrantes latinas y sus familias en California.",
   "idiomas": "Español (también en inglés)"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos",
+   "inversion"
+  ],
+  "extra": {
+   "D7": [
+    "M5 U11",
+    "M2 U07"
+   ],
+   "I4": [
+    "M5 U02"
+   ],
+   "I3": [
+    "M5 U03"
+   ]
+  }
  }
 }

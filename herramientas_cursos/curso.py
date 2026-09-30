@@ -412,17 +412,47 @@ def paso_catalogo():
     print("tarjeta de catálogo:", nm, "módulos ·", nl, "lecciones")
 
 
+
+def paso_ocde():
+    """Mapa de competencias OCDE: cada tema del marco con sus competencias y las lecciones que lo trabajan."""
+    O = CFG.get("ocde")
+    if not O: return
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "ocde"))
+    import mapa as MP
+    les, res = MP.mapa(LEC, O["marcos"])
+    extra = O.get("extra", {})
+    tit = {l["codigo"]: l["titulo"] for l in les}
+    DIM = {"C": "Conocimiento", "H": "Conducta", "A": "Actitud"}
+    L = [f"# Mapa de competencias OCDE · {CFG['titulo']}", "",
+         "Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecciones del curso. Paráfrasis en español de los marcos: "
+         + ", ".join(sorted({r['marco'] for r in res})) + ".", "",
+         "| Marco | Tema | Competencias | Lecciones |", "|---|---|---|---|"]
+    cub = 0
+    for r in res:
+        lecs = list(dict.fromkeys(extra.get(r["id"], []) + r["lecciones"]))[:6]
+        r["lecs"] = lecs; cub += bool(lecs)
+        L.append(f"| {r['marco']} | {r['id']} {r['tema']} | {len(r['competencias'])} | {', '.join(lecs) or 'Pendiente'} |")
+    L += ["", f"Temas cubiertos: {cub} de {len(res)}.", ""]
+    for r in res:
+        L += [f"## {r['id']} · {r['tema']}", "", "**Lecciones:** " + ("; ".join(f"{c} {tit.get(c, '')}" for c in r["lecs"]) or "pendiente"), ""]
+        for d in "CHA":
+            cs = [t for dd, t in r["competencias"] if dd == d]
+            if cs: L += [f"*{DIM[d]}*", ""] + [f"- {t}" for t in cs] + [""]
+    open(os.path.join(D, "manual", "mapa_ocde.md"), "w").write("\n".join(L) + "\n")
+    print("mapa OCDE:", cub, "de", len(res), "temas cubiertos")
+
+
 def paso_instalacion():
     import instalacion_en, instalacion_es
     (instalacion_en if EN else instalacion_es).generar(D, CFG, lecciones)
 
 
 PASOS = {"instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
-         "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo}
+         "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo, "ocde": paso_ocde}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo"]
+    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde"]
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

@@ -259,5 +259,25 @@
   ],
   "para_quien": "Mujeres que administran su casa y su patrimonio en México.",
   "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos",
+   "inversion"
+  ],
+  "extra": {
+   "B1": [
+    "M1 U02"
+   ],
+   "I1": [
+    "M6 U01"
+   ],
+   "D7": [
+    "M6 U06"
+   ],
+   "I6": [
+    "M6 U06"
+   ]
+  }
  }
 }

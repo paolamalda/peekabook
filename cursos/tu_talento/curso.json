@@ -248,5 +248,26 @@
   ],
   "para_quien": "Personas que trabajan en el entretenimiento en México: actuación, música, modelaje, baile, contenido, producción y técnica.",
   "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos",
+   "inversion"
+  ],
+  "extra": {
+   "B1": [
+    "M1 U02",
+    "M1 U03"
+   ],
+   "I4": [
+    "M11 U05"
+   ],
+   "D7": [
+    "M4 U05"
+   ],
+   "I6": [
+    "M4 U05"
+   ]
+  }
  }
 }

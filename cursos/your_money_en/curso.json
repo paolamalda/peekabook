@@ -198,5 +198,27 @@
   ],
   "para_quien": "Latino immigrants and their families in California.",
   "idiomas": "English (also in Spanish)"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos",
+   "inversion"
+  ],
+  "extra": {
+   "D7": [
+    "M5 U11",
+    "M2 U07"
+   ],
+   "I4": [
+    "M5 U02"
+   ],
+   "I3": [
+    "M5 U03"
+   ],
+   "I6": [
+    "M5 U02",
+    "M4 U01"
+   ]
+  }
  }
 }

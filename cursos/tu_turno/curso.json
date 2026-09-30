@@ -216,5 +216,35 @@
   ],
   "para_quien": "Guardias de seguridad y personas con turnos largos en México.",
   "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos",
+   "inversion"
+  ],
+  "extra": {
+   "D7": [
+    "M2 U04"
+   ],
+   "B2": [
+    "M1 U02",
+    "M1 U03"
+   ],
+   "I4": [
+    "M2 U06"
+   ],
+   "I6": [
+    "M2 U06"
+   ],
+   "I3": [
+    "M2 U06"
+   ],
+   "D3": [
+    "M2 U04"
+   ],
+   "C3": [
+    "M2 U06"
+   ]
+  }
  }
 }

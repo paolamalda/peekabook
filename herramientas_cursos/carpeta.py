@@ -70,6 +70,9 @@ def construir(D, CFG):
     # 01 Manual
     man = C.leer(os.path.join(D, "manual", "manual.md"))
     K.escribir(d[0], F["manual"], [man], tit, txt(en, f"Manual del programa · Versión {ver}", f"Program manual · Version {ver}"))
+    mo_ = os.path.join(D, "manual", "mapa_ocde.md")
+    if os.path.exists(mo_):
+        K.escribir(d[0], txt(en, "Mapa_competencias_OCDE", "OECD_competency_map"), [C.leer(mo_)], tit, txt(en, f"Mapa de competencias OCDE · Versión {ver}", f"OECD competency map (in Spanish) · Version {ver}"))
     # 02 Contenido
     pers = re.search(r"(?s)\n## (?:Personajes|Characters)\n(.*?)\n## ", man)
     P = [f"# {tit}: " + txt(en, "contenido completo", "full content"),

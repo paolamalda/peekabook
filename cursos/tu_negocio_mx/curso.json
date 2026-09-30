@@ -253,5 +253,35 @@
   ],
   "para_quien": "Personas con un negocio propio o que trabajan por su cuenta en México.",
   "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "negocios",
+   "adultos"
+  ],
+  "extra": {
+   "D7": [
+    "M8 U06"
+   ],
+   "N-D1": [
+    "M8 U06"
+   ],
+   "N-D3": [
+    "M8 U05",
+    "M8 U06"
+   ],
+   "N-A2": [
+    "M8 U05",
+    "M6 U01"
+   ],
+   "B1": [
+    "M1 U02",
+    "M1 U03"
+   ],
+   "C3": [
+    "M9 U01",
+    "M6 U01"
+   ]
+  }
  }
 }
