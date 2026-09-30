@@ -232,6 +232,7 @@ def libro(src, out_dir, zipname, sufijo, cab, leads, icons, faq_title, casos_num
 
 def paso_glosario():
     """Genera apoyo/04-glosario.md con las palabras clave de las lecciones, por módulo, sin repetir."""
+    if not CFG.get("glosario_apoyo", True): return
     vistos, out = set(), ["# Glossary" if EN else "# Glosario", "",
                           ("Plain-language definitions of the course words, grouped by module." if EN else
                            "Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.")]

@@ -1,0 +1,202 @@
+{
+ "sigla": "TDTF",
+ "titulo": "Your Money, Your Family, Your Future",
+ "subtitulo": "Version 3.3 · California pilot · Desarrolla Talento · September 2026",
+ "version": "3.3",
+ "lang": "en",
+ "intro": "Financial well-being program for Latino immigrants in California: 5 modules on money, remittances, credit, protection and future.",
+ "categoria": "Your Money",
+ "banco": "banco_preguntas_v3_en.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "modulos": {
+  "M1": "Module 1. Understand your money and organize your finances",
+  "M2": "Module 2. Understand the financial system and plan your remittances",
+  "M3": "Module 3. Build your credit and manage your debts",
+  "M4": "Module 4. Protect your money, your identity and your family",
+  "M5": "Module 5. Build wealth and prepare your future"
+ },
+ "resultados": {
+  "M1": "An 8-week money calendar, a budget that also works in a tough month, a tax folder and a 90-day plan.",
+  "M2": "A map of institutions, accounts compared by how you use money, three comparable remittance quotes, a sending calendar and a family agreement.",
+  "M3": "Your credit path, a reviewed report, two financing options compared, a debt inventory with a strategy and a payment calendar.",
+  "M4": "Your pause rule, a fraud response protocol, a review of your coverage, a staged reserve and your family preparedness plan.",
+  "M5": "Your goals with amount, date and priority; savings, investment, housing and retirement decisions with full costs; your binational map; and an integrated financial plan."
+ },
+ "apoyo_leads": {
+  "01": "Start here: how the course works, your 5- or 10-minute paths, badges and certificate.",
+  "02": "Five cases that bring together what you learned in each module. Solve them before opening the key.",
+  "03": "Short exercises to practice the course calculations. The answers are at the end.",
+  "04": "The course words explained in plain language, with their name in Spanish.",
+  "05": "Where to get no-cost or low-cost help, and answers to the most common questions.",
+  "06": "The sources we used in the course, so you can check them."
+ },
+ "glosario_apoyo": false,
+ "insignias": [
+  [
+   "01_M1_my_money_in_order",
+   "M1",
+   "My money in order",
+   "fa-calendar"
+  ],
+  [
+   "02_M2_smart_sending",
+   "M2",
+   "Smart sending",
+   "fa-paper-plane"
+  ],
+  [
+   "03_M3_credit_on_track",
+   "M3",
+   "Credit on track",
+   "fa-line-chart"
+  ],
+  [
+   "04_M4_protected_family",
+   "M4",
+   "Protected family",
+   "fa-shield"
+  ],
+  [
+   "05_M5_future_in_motion",
+   "M5",
+   "Future in motion",
+   "fa-flag-checkered"
+  ],
+  [
+   "06_scam_detective",
+   "M2 · M4",
+   "Scam detective",
+   "fa-search"
+  ],
+  [
+   "07_expert_comparer",
+   "M2 · M5",
+   "Expert comparer",
+   "fa-balance-scale"
+  ],
+  [
+   "08_complete_plan",
+   "COURSE",
+   "Complete plan",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "mods": [
+   "My money",
+   "Financial system",
+   "Credit and debt",
+   "Protection",
+   "Future and wealth"
+  ]
+ },
+ "carpeta": {
+  "nombre": "Your_Money_Your_Family_Your_Future_EN",
+  "zip": "Your_Money_EN_v3.3",
+  "manual": "Program_manual_TDTF_EN_v3.3",
+  "contenido": "Full_content_TDTF_EN_v3.3",
+  "guia": "Implementation_guide_TDTF_EN_v3.3",
+  "descripciones": [
+   "Program manual: characters, operator manual (editorial guide, evaluation, product matrix, metrics, privacy) and traceability.",
+   "Full content: lessons, support book, H5P activities and question bank (.docx and .md).",
+   "Implementation guide: Moodle installation, gamification and maintenance (.docx and .md).",
+   "Package to install: books, H5P, glossary, bank, badges, certificate data, surveys, guides, preview and the README for Claude."
+  ],
+  "lista": [
+   "Coordination read the program manual",
+   "Content reviewed by professionals for taxes, immigration-adjacent topics and insurance",
+   "Current facts confirmed on official sites",
+   "Course installed with 04_Moodle/README_INSTALL_YOUR_MONEY_EN_FOR_CLAUDE.md",
+   "Level Up, badges, certificate and surveys configured",
+   "Review with the student role"
+  ],
+  "notas": [
+   "The course never gives immigration advice; it refers to attorneys and DOJ-accredited representatives.",
+   "No personal data is requested: no SSN, ITIN, accounts or immigration status."
+  ]
+ },
+ "instalacion": {
+  "nombre_corto": "TDTF-CA-EN",
+  "readme": "README_INSTALL_YOUR_MONEY_EN_FOR_CLAUDE.md",
+  "aviso_foro": "Don't share account numbers, SSN, ITIN, passwords or your immigration status.",
+  "niveles": [
+   [
+    "Getting started",
+    0,
+    "On entry"
+   ],
+   [
+    "Getting organized",
+    150,
+    "Halfway through Module 1"
+   ],
+   [
+    "Using my account",
+    450,
+    "During Module 2"
+   ],
+   [
+    "Caring for my credit",
+    800,
+    "During Module 3"
+   ],
+   [
+    "Protecting my family",
+    1150,
+    "During Module 4"
+   ],
+   [
+    "Building my future",
+    1500,
+    "During Module 5"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Module 1 Self-assessment completed (passed)",
+    "You organized your cash flow, your budget and your taxes. 14 lessons, about 3 hours."
+   ],
+   [
+    "Module 2 Self-assessment",
+    "You know how to choose an account, compare remittances and protect your family from fraud. 13 lessons."
+   ],
+   [
+    "Module 3 Self-assessment",
+    "You understand your report, compare loans and have a debt plan. 10 lessons."
+   ],
+   [
+    "Module 4 Self-assessment",
+    "You have a plan for protection, insurance and family preparedness. 11 lessons."
+   ],
+   [
+    "Module 5 Self-assessment",
+    "Your goals, your retirement and your one-page plan are in writing. 11 lessons."
+   ],
+   [
+    "H5P for M2 U11, M4 U01 and M4 U02 completed",
+    "You recognize the signs of fraud and verify before you act."
+   ],
+   [
+    "H5P for M2 U08, M3 U05 and M5 U05 completed",
+    "You compare by total cost, not just the advertised price."
+   ],
+   [
+    "Course completion",
+    "You completed the program's five modules."
+   ]
+  ]
+ },
+ "encuesta": "us_en",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Organize your money, send remittances wisely, build credit, protect your family and plan your future.",
+   "Microlessons of 5 to 10 minutes with cases from Latino families in California."
+  ],
+  "para_quien": "Latino immigrants and their families in California.",
+  "idiomas": "English (also in Spanish)"
+ }
+}

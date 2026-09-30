@@ -1,0 +1,202 @@
+{
+ "sigla": "TDTF",
+ "titulo": "Tu Dinero, Tu Familia, Tu Futuro",
+ "subtitulo": "Versión 3.3 · Piloto California · Desarrolla Talento · Septiembre de 2026",
+ "version": "3.3",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para personas migrantes latinas en California: 5 módulos sobre dinero, remesas, crédito, protección y futuro.",
+ "categoria": "Tu Dinero",
+ "banco": "banco_preguntas_v3_es.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "modulos": {
+  "M1": "Módulo 1. Entiende tu dinero y organiza tu economía",
+  "M2": "Módulo 2. Entiende el sistema financiero y planea tus remesas",
+  "M3": "Módulo 3. Construye tu crédito y maneja tus deudas",
+  "M4": "Módulo 4. Protege tu dinero, tu identidad y tu familia",
+  "M5": "Módulo 5. Construye patrimonio y prepara tu futuro"
+ },
+ "resultados": {
+  "M1": "Un calendario de dinero de 8 semanas, un presupuesto que funciona también en un mes difícil, una carpeta fiscal y un plan de 90 días.",
+  "M2": "Un mapa de instituciones, la comparación de cuentas según tu forma de usar el dinero, tres cotizaciones de remesa comparables, un calendario de envíos y un acuerdo familiar.",
+  "M3": "Tu ruta de crédito, un reporte revisado, la comparación de dos opciones de financiamiento, un inventario de deudas con estrategia y un calendario de pagos.",
+  "M4": "Tu regla de pausa, un protocolo de respuesta a fraudes, la revisión de tus coberturas, una reserva por etapas y tu plan de preparación familiar.",
+  "M5": "Tus metas con monto, fecha y prioridad; decisiones de ahorro, inversión, vivienda y retiro con costos completos; tu mapa binacional; y un plan financiero integrado."
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, tus rutas de 5 o 10 minutos, insignias y constancia.",
+  "02": "Cinco casos que reúnen lo aprendido en cada módulo. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, con su nombre en inglés.",
+  "05": "Dónde pedir ayuda sin costo o de bajo costo, y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "glosario_apoyo": false,
+ "insignias": [
+  [
+   "01_M1_mi_dinero_en_orden",
+   "M1",
+   "Mi dinero en orden",
+   "fa-calendar"
+  ],
+  [
+   "02_M2_envio_inteligente",
+   "M2",
+   "Envío inteligente",
+   "fa-paper-plane"
+  ],
+  [
+   "03_M3_credito_con_rumbo",
+   "M3",
+   "Crédito con rumbo",
+   "fa-line-chart"
+  ],
+  [
+   "04_M4_familia_protegida",
+   "M4",
+   "Familia protegida",
+   "fa-shield"
+  ],
+  [
+   "05_M5_futuro_en_marcha",
+   "M5",
+   "Futuro en marcha",
+   "fa-flag-checkered"
+  ],
+  [
+   "06_detective_de_estafas",
+   "M2 · M4",
+   "Detective de estafas",
+   "fa-search"
+  ],
+  [
+   "07_comparador_experto",
+   "M2 · M5",
+   "Comparador experto",
+   "fa-balance-scale"
+  ],
+  [
+   "08_plan_completo",
+   "CURSO",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "mods": [
+   "Mi dinero",
+   "Sistema y remesas",
+   "Crédito y deudas",
+   "Protección",
+   "Futuro y patrimonio"
+  ]
+ },
+ "carpeta": {
+  "nombre": "Tu_Dinero_Tu_Familia_Tu_Futuro_ES",
+  "zip": "Tu_Dinero_ES_v3.3",
+  "manual": "Manual_del_programa_TDTF_ES_v3.3",
+  "contenido": "Contenido_completo_TDTF_ES_v3.3",
+  "guia": "Guia_implementacion_TDTF_ES_v3.3",
+  "descripciones": [
+   "Manual del programa: personajes, manual del operador (guía editorial, evaluación, matriz de productos, métricas, privacidad) y trazabilidad.",
+   "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, datos de la constancia, encuestas, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por especialistas en impuestos, temas cercanos a migración y seguros",
+   "Datos vigentes confirmados en los sitios oficiales",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_DINERO_PARA_CLAUDE.md",
+   "Level Up, insignias, constancia y encuestas configurados",
+   "Revisión con rol de estudiante"
+  ],
+  "notas": [
+   "El curso nunca da asesoría migratoria; refiere a abogados y representantes acreditados por el Departamento de Justicia.",
+   "No se piden datos personales: ni SSN, ni ITIN, ni cuentas, ni situación migratoria."
+  ]
+ },
+ "instalacion": {
+  "nombre_corto": "TDTF-CA-ES",
+  "readme": "README_INSTALAR_TU_DINERO_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas números de cuenta, SSN, ITIN, contraseñas ni tu situación migratoria.",
+  "niveles": [
+   [
+    "Empiezo",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Me organizo",
+    150,
+    "A mitad del Módulo 1"
+   ],
+   [
+    "Uso mi cuenta",
+    450,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Cuido mi crédito",
+    800,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Protejo a mi familia",
+    1150,
+    "Durante el Módulo 4"
+   ],
+   [
+    "Construyo mi futuro",
+    1500,
+    "Durante el Módulo 5"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluación del Módulo 1 completada (aprobada)",
+    "Organizaste tu flujo de dinero, tu presupuesto y tus impuestos. 14 lecciones, unas 3 horas."
+   ],
+   [
+    "Autoevaluación del Módulo 2",
+    "Sabes elegir cuenta, comparar remesas y proteger a tu familia de fraudes. 13 lecciones."
+   ],
+   [
+    "Autoevaluación del Módulo 3",
+    "Entiendes tu reporte, comparas préstamos y tienes un plan de deudas. 10 lecciones."
+   ],
+   [
+    "Autoevaluación del Módulo 4",
+    "Tienes un plan de protección, seguros y preparación familiar. 11 lecciones."
+   ],
+   [
+    "Autoevaluación del Módulo 5",
+    "Tus metas, tu retiro y tu plan de una página están escritos. 11 lecciones."
+   ],
+   [
+    "H5P de M2 U11, M4 U01 y M4 U02 completados",
+    "Reconoces las señales de fraude y verificas antes de actuar."
+   ],
+   [
+    "H5P de M2 U08, M3 U05 y M5 U05 completados",
+    "Comparas con el costo total, no solo con el precio anunciado."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los cinco módulos del programa."
+   ]
+  ]
+ },
+ "encuesta": "us_es",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Organiza tu dinero, envía remesas con cabeza, construye crédito, protege a tu familia y planea tu futuro.",
+   "Microlecciones de 5 a 10 minutos con casos de familias latinas en California."
+  ],
+  "para_quien": "Personas migrantes latinas y sus familias en California.",
+  "idiomas": "Español (también en inglés)"
+ }
+}

@@ -304,41 +304,7 @@ ES_TXT = dict(t_estructura="QUÉ HAY EN ESTA CARPETA", t_lista="LISTA PARA DAR E
 EN_TXT = dict(t_estructura="WHAT IS IN THIS FOLDER", t_lista="CHECKLIST FOR A COMPLETE COURSE",
               t_notas="KEEP IN MIND", t_armar="HOW IT FITS TOGETHER", dirs=["01_Manual", "02_Content", "03_Guide", "04_Moodle"])
 
-CURSOS = [
- dict(ES_TXT, carpeta="Tu_Dinero_Tu_Familia_Tu_Futuro_ES", zip="Tu_Dinero_ES_v3.2", leeme="00_LEEME.txt",
-      titulo="Tu Dinero, Tu Familia, Tu Futuro", sub="Curso en español · Versión 3.2 · Desarrolla Talento · Septiembre de 2026",
-      intro="Curso sin costo de finanzas personales para personas migrantes en EE. UU. (piloto California): 5 módulos, 59 lecciones.",
-      desc=["Manual del operador v3.0: programa, reglas, editorial, evaluación y claves, métricas, matriz, expansión por estados, privacidad y trazabilidad.",
-            "Contenido completo v3.2: personajes, 59 lecciones, libro de apoyo, 59 H5P y banco de 177 preguntas (.docx y .md).",
-            "Guía de implementación v3.2: instalación en Moodle, puntos, insignias y constancia, y mantenimiento (.docx y .md).",
-            "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guía de gamificación, vista previa y el README para Claude."],
-      lista=["Coordinación leyó el manual del operador", "Contenido revisado por especialistas en impuestos y en migración",
-             "Curso instalado con 04_Moodle/README_INSTALAR_TU_DINERO_PARA_CLAUDE.md", "Level Up, insignias y constancia configurados",
-             "Revisión con rol de estudiante", "Calendario de mantenimiento asignado (03_Guia, parte 3)"],
-      notas=["Nunca pedir SSN, ITIN, estatus migratorio ni contraseñas; no dar asesoría migratoria.",
-             "Algunos datos de las lecciones están marcados [POR CONFIRMAR]: confírmalos en la fuente oficial antes de abrir el curso."],
-      manual=manual_tdtf("es"), contenido=lambda: tdtf_contenido("es"), guia=lambda: tdtf_guia("es"), moodle=lambda d: moodle_tdtf(d, "es"),
-      n_cont="Contenido_completo_TDTF_ES_v3.2", s_cont="Contenido completo · Versión 3.2 · Septiembre de 2026",
-      n_guia="Guia_implementacion_TDTF_ES_v3.2", s_guia="Guía de implementación · Versión 3.2 · Septiembre de 2026",
-      h5p_partes=[["M1", "M2"], ["M3", "M4", "M5"]]),
- dict(EN_TXT, carpeta="Your_Money_Your_Family_Your_Future_EN", zip="Your_Money_EN_v3.2", leeme="00_README.txt",
-      titulo="Your Money, Your Family, Your Future", sub="English course · Version 3.2 · Desarrolla Talento · September 2026",
-      intro="Free personal finance course for immigrants in the U.S. (California pilot): 5 modules, 59 lessons. Same content as the Spanish course.",
-      desc=["Operator manual v3.0: program, rules, editorial guide, assessment and keys, metrics, matrix, state expansion, privacy and traceability.",
-            "Full content v3.2: 59 lessons, support book, 59 H5P activities and 177-question bank (.docx and .md).",
-            "Implementation guide v3.2: Moodle installation, points, badges and certificate, and maintenance (.docx and .md).",
-            "Installation package: books, H5P, glossary, bank, badges, certificate, gamification guide, preview and the README for Claude."],
-      lista=["Coordinator read the operator manual", "Content reviewed by a native English speaker and subject experts",
-             "Course installed with 04_Moodle/README_INSTALAR_CURSO_INGLES_PARA_CLAUDE.md", "Level Up, badges and certificate set up",
-             "Review with the student role", "Maintenance calendar assigned (03_Guide, part 3)"],
-      notas=["Never ask for SSN, ITIN, immigration status or passwords; never give immigration advice.",
-             "Some lesson facts are marked [POR CONFIRMAR]: confirm them at the official source before opening the course.",
-             "Mexican names (AFORE, CURP, IMSS, matrícula consular) stay in Spanish on purpose."],
-      manual=manual_tdtf("en"), contenido=lambda: tdtf_contenido("en"), guia=lambda: tdtf_guia("en"), moodle=lambda d: moodle_tdtf(d, "en"),
-      n_cont="Full_content_TDTF_EN_v3.2", s_cont="Full content · Version 3.2 · September 2026",
-      n_guia="Implementation_guide_TDTF_EN_v3.2", s_guia="Implementation guide · Version 3.2 · September 2026",
-      h5p_partes=[["M1", "M2"], ["M3", "M4", "M5"]]),
-]
+CURSOS = []  # los cursos ahora se arman con herramientas_cursos/curso.py <carpeta> carpeta
 
 
 def leeme(c, n_partes):

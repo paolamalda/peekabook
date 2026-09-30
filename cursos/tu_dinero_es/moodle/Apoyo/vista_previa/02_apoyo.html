@@ -1,0 +1,269 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Casos integradores</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Casos integradores</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-users"></i> Materiales de apoyo</span><h3>Casos integradores</h3><p class="obj">Cinco casos que reúnen lo aprendido en cada módulo. Resuélvelos antes de abrir la clave.</p></div><div class="card2"><p>Los casos integradores usan datos inventados para que practiques sin compartir información personal. Los montos sin moneda están en dólares. Resuelve cada caso antes de leer la clave.</p></div><div class="card2"><h4>E1. El calendario de Alex y Mar (Módulo 1)</h4><p><strong>Datos.</strong> Entre los sueldos de Alex y Mar, el hogar recibe 600 al inicio de cada semana durante ocho semanas. Además, Mar recibe 200 por comida por encargo al inicio de las semanas 2, 4, 6 y 8. El saldo inicial del hogar es 200.</p>
+<ul>
+<li>Cada semana: 220 de comida y transporte.</li>
+<li>Semanas 1 y 5: renta de 1,000.</li>
+<li>Semanas 2 y 6: servicios de 100.</li>
+<li>Semanas 3 y 7: pago de tarjeta de 80.</li>
+<li>Semanas 4 y 8: seguro de 120 y remesa de 150.</li>
+</ul>
+<p>Los ingresos llegan antes de los pagos de la misma semana. Son ingresos netos, sin impuestos pendientes.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>Calcula cada semana y explica el faltante.</li>
+<li>Diseña una alternativa sin inventar ingresos.</li>
+<li>Supón que los sueldos bajan a 480 por semana en las semanas 5 a 8 y recalcula.</li>
+<li>Clasifica los gastos en esenciales, previsibles y apoyo familiar.</li>
+<li>Escribe tres acciones de 90 días.</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Semana</th>
+<th>Saldo inicial</th>
+<th>Ingreso</th>
+<th>Salidas</th>
+<th>Saldo final</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>200</td>
+<td>600</td>
+<td>1,220</td>
+<td>−420</td>
+</tr>
+<tr>
+<td>2</td>
+<td>−420</td>
+<td>800</td>
+<td>320</td>
+<td>60</td>
+</tr>
+<tr>
+<td>3</td>
+<td>60</td>
+<td>600</td>
+<td>300</td>
+<td>360</td>
+</tr>
+<tr>
+<td>4</td>
+<td>360</td>
+<td>800</td>
+<td>490</td>
+<td>670</td>
+</tr>
+<tr>
+<td>5</td>
+<td>670</td>
+<td>600</td>
+<td>1,220</td>
+<td>50</td>
+</tr>
+<tr>
+<td>6</td>
+<td>50</td>
+<td>800</td>
+<td>320</td>
+<td>530</td>
+</tr>
+<tr>
+<td>7</td>
+<td>530</td>
+<td>600</td>
+<td>300</td>
+<td>830</td>
+</tr>
+<tr>
+<td>8</td>
+<td>830</td>
+<td>800</td>
+<td>490</td>
+<td>1,140</td>
+</tr>
+</tbody>
+</table></div>
+<p>Totales: ingreso 5,600; salidas 4,660; cambio neto 940; más saldo inicial 200 = 1,140.</p>
+<p>La semana 1 muestra 420 de renta sin fondos. El saldo final positivo no borra ese problema.</p>
+<p><strong>Alternativa posible:</strong> pedir al dueño dividir la primera renta en 580 (semana 1) y 420 (semana 2) sin cargo, y confirmar el acuerdo por escrito. Así los saldos de las semanas 1 y 2 serían 0 y 60, y los demás no cambian. Dejar de pagar sin acuerdo no es una solución.</p>
+<p><strong>Con menos ingreso semanal</strong> (sin la alternativa), las semanas 5 a 8 terminan en −70, 290, 470 y 660. Aparece un nuevo faltante en la semana 5.</p>
+<p><strong>Práctica fiscal complementaria.</strong> Una trabajadora independiente recibe 2,000 por una plataforma y 300 en efectivo. Sus costos del ejercicio son 400. La plataforma deposita 2,000 en su banco y ella pasa 1,000 a otra cuenta propia. Resultado antes de impuestos: 2,300 − 400 = 1,900. No se cuentan otra vez los depósitos ni la transferencia propia.</p></div></details></div><div class="card2"><h4>E2. Luis: una emergencia y tres remesas (Módulo 2)</h4><p><strong>Datos.</strong> La mamá de Luis, en Oaxaca, pide 5,000 pesos para una emergencia. Luis puede usar como máximo 310 dólares en total.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Proveedor</th>
+<th>Tipo de cambio</th>
+<th>Comisión</th>
+<th>Entrega</th>
+<th>Otros costos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>17.00</td>
+<td>5</td>
+<td>Día siguiente</td>
+<td>—</td>
+</tr>
+<tr>
+<td>B</td>
+<td>16.70</td>
+<td>0</td>
+<td>Mismo día</td>
+<td>—</td>
+</tr>
+<tr>
+<td>C</td>
+<td>17.10</td>
+<td>8</td>
+<td>Mismo día</td>
+<td>El receptor gasta 80 pesos en transporte</td>
+</tr>
+</tbody>
+</table></div>
+<p>Pagas desde tu cuenta de débito (sin impuesto de remesa en efectivo). Cotizaciones inventadas del mismo momento.</p>
+<p><strong>Tareas.</strong> Calcula cuánto pagas para que lleguen 5,000 pesos netos. Decide si la fecha y el acceso cambian tu elección. Después, verifica una solicitud que llegó de un número nuevo y redacta un acuerdo de apoyo.</p><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>A: 5,000 ÷ 17 + 5 = 299.12.</li>
+<li>B: 5,000 ÷ 16.70 = 299.40.</li>
+<li>C: (5,000 + 80) ÷ 17.10 + 8 = 305.08.</li>
+</ul>
+<p>Todos caben en 310. A es el más barato, pero llega al día siguiente. Si la necesidad es del mismo día, B la cubre con menor costo que C. Antes de enviar, verifica la urgencia y al proveedor.</p>
+<p><strong>Variante con deuda.</strong> Solo tienes 180 libres. Un préstamo cubriría la diferencia de B (119.40) con un costo fijo de 18, a pagar en 14 días: 137.40. Si ese día solo tendrás 100 libres, faltan 37.40. No aceptes automáticamente: revisa un envío parcial u otras opciones reales.</p>
+<p><strong>Variante con efectivo.</strong> Si pagaras B en efectivo en una tienda y el envío estuviera sujeto al impuesto de 1%, sumarías unos 3 dólares.</p></div></details></div><div class="card2"><h4>E3. Andrés: reporte y plan de deudas (Módulo 3)</h4><p><strong>Datos.</strong> El reporte de Andrés muestra:</p>
+<ul>
+<li>Cuenta A: límite 1,000, saldo 600, reconocida.</li>
+<li>Cuenta B: saldo 900, no es de Andrés.</li>
+<li>Cuenta C: saldo 250, aunque existe un comprobante de liquidación.</li>
+<li>Cuenta D: atraso real de dos meses.</li>
+</ul><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong> Utilización de A: 60%. Investiga B como posible fraude y disputa C con el comprobante. No declares D como robo de identidad: es real. Redacta dos solicitudes (B y C) con la cuenta identificada parcialmente, los hechos, la prueba y lo que pides. Para D, arma un plan según tu capacidad.</p>
+<p><strong>Comparación de préstamos.</strong> X entrega 1,000 con 12 pagos de 100 más 30 al inicio: total 1,230. Y entrega 1,000 con 18 pagos de 75: total 1,350. Y baja el pago, pero cuesta 120 más. Si tu margen mensual es 85, X no cabe y Y deja solo 10. Buscar otra alternativa también es una conclusión válida.</p></div></details></div><div class="card2"><h4>E4. Rosa: protección y respuesta (Módulo 4)</h4><p><strong>Datos.</strong> Rosa compara dos pólizas. Póliza A: 80 al mes, deducible 1,000 y coaseguro 20%. Póliza B: 110 al mes, deducible 500 y coaseguro 10%. Servicio permitido: 3,000. Reserva: 400. Un mensaje pide un código de acceso "para procesar el pago", y la factura incluye un servicio desconocido de 200.</p><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Evento con A: 1,000 + 20% de 2,000 = 1,400. Con B: 500 + 10% de 2,500 = 750.</li>
+<li>Primas anuales: A 960; B 1,320.</li>
+<li>Evento más primas: A 2,360; B 2,070.</li>
+<li>Sin evento, B cuesta 360 más al año.</li>
+<li>La reserva de 400 no cubre el evento con ninguna póliza.</li>
+<li>No compartas el código. Verifica el contacto y pide el desglose del cargo desconocido.</li>
+<li>B no es mejor para todas las personas: depende del riesgo y la capacidad de pago.</li>
+</ul></div></details><p><strong>Tarea adicional.</strong> Arma el índice de un plan de preparación familiar para Alex y Mar con lo que aprendiste en M4 U10 y M5 U08, usando datos inventados.</p></div><div class="card2"><h4>E5. Daniela: futuro y coherencia (Módulo 5)</h4><p><strong>Datos.</strong> Daniela tiene activos líquidos de 2,000; auto estimado en 6,000; deuda del auto 4,000; tarjeta 500. Gastos básicos 1,800 al mes. Margen para metas: 120 al mes, pero se olvidó una prima de seguro de 40. Metas: reserva, curso de 600 en 12 meses y retiro de largo plazo.</p><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Patrimonio: 8,000 − 4,500 = 3,500. Liquidez: 2,000.</li>
+<li>Cobertura si toda la liquidez estuviera libre: 2,000 ÷ 1,800 = 1.11 meses.</li>
+<li>Margen corregido: 120 − 40 = 80.</li>
+<li>El curso requiere 50 al mes; quedan 30 para otras metas.</li>
+<li>No cuentes los mismos 2,000 para todas las metas.</li>
+</ul>
+<p><strong>Escenario adverso.</strong> El ingreso baja 200 al mes: el margen de 80 pasa a −120. Las aportaciones ya no se sostienen. Revisa necesidades, apoyos y fechas, y documenta la brecha.</p>
+<p><strong>Resultado final.</strong> Explica dos decisiones con: necesidad, opciones, información, elección, riesgo y fecha de revisión.</p></div></details></div><div class="pagehead mt-4"><h3>Formularios para tu plan</h3></div><div class="card2"><p>Llénalos con datos de los casos o con tus datos, en papel o en tu computadora. No los subas a la plataforma.</p>
+<p><strong>F1 Calendario:</strong> periodo; fecha; saldo inicial; ingreso confirmado; ingreso estimado; gasto esencial; deuda; impuesto; remesa; reserva; saldo final; alerta; acción.</p>
+<p><strong>F2 Decisión comparada:</strong> necesidad; opción A; opción B; monto; costo total; fecha; acceso; requisitos; riesgo; fuente y fecha; lo que falta confirmar; decisión; revisión.</p>
+<p><strong>F3 Acuerdo familiar:</strong> propósito; rango; fecha; emergencia; verificación; revisión; quiénes participan; pendientes.</p>
+<p><strong>F4 Deudas:</strong> acreedor; tipo; saldo; tasa; comisiones; pago mínimo; fecha; garantía; atraso; consecuencia; contacto; estrategia; próxima revisión.</p>
+<p><strong>F5 Protección:</strong> riesgo; impacto; cobertura o control; exclusión; reserva; brecha; acción; responsable; fecha; contacto.</p>
+<p><strong>F6 Meta:</strong> propósito; monto o rango; moneda; plazo; recursos; aportación posible; supuesto; escenario adverso; documento; consulta; revisión.</p>
+<p><strong>F7 Consulta profesional:</strong> hechos mínimos; decisión; documentos disponibles; pregunta concreta; plazo; especialidad; costo confirmado; canal seguro; respuesta; siguiente paso.</p>
+<p><strong>F8 Plan de preparación familiar:</strong> cuidador y alternativa; ubicación de documentos; cuentas y pagos (sin números completos); autorizaciones; contactos; fecha de revisión.</p></div></div>
+</div></div></div></body></html>
