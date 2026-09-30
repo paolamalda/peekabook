@@ -208,7 +208,7 @@ def hojas(D, CFG, EN):
         if i >= 8: c.font = Font(bold=True, color=RO)
     ws["A12"] = T("La tasa es un supuesto para planear; la tasa real puede subir o bajar. Compárala con la inflación.",
                   "The rate is an assumption for planning; the real rate can go up or down. Compare it with inflation.")
-    if CFG.get("negocio"):
+    if (CFG.get("negocio") or CFG.get("hojas_negocio")):
         ws = hoja(T("Precio", "Price"), T("Costo y precio de mi producto", "Cost and price of my product"), nota)
         cab(ws, 4, [T("Insumo o costo por unidad", "Supply or cost per unit"), T("Costo", "Cost")])
         for i in range(5, 12): ws.cell(i, 1).fill = IN; entrada(ws.cell(i, 2))

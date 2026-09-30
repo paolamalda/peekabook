@@ -8,7 +8,7 @@ def generar(D, CFG, lecciones):
     tot = sum(n.values()); nm = len(MODS)
     pts = (tot + 2 * nm) * 25
     sec_apoyo, sec_eval = nm + 1, nm + 2
-    herr = "; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas" if CFG.get("negocio") else ""
+    herr = "; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas" if (CFG.get("negocio") or CFG.get("hojas_negocio")) else ""
     tit, corto = CFG["titulo"], I["nombre_corto"]
     cat, banco = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     filas_sec = "\n".join(f"| {i} | {t} | " + (f"Contenido de `1_libros/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"

@@ -1,0 +1,264 @@
+{
+ "sigla": "TIDF",
+ "titulo": "Tu Idea, Tu Dinero, Tu Futuro",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.0",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para jóvenes de preparatoria en México (15 a 18 años): 9 módulos en microlecciones para el celular, con una idea central: el dinero no es solo para guardarlo, es para crear, probar ideas y hacerlo crecer con cabeza.",
+ "categoria": "Tu Idea",
+ "banco": "banco_preguntas_tidf.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "modulos": {
+  "M1": "Módulo 1. Tu mente y tu dinero",
+  "M2": "Módulo 2. Tu cuenta y el dinero digital",
+  "M3": "Módulo 3. Crea: de la idea a tu primera venta",
+  "M4": "Módulo 4. Haz crecer lo que empezaste",
+  "M5": "Módulo 5. Pon tu dinero a trabajar",
+  "M6": "Módulo 6. Crédito sin trampas",
+  "M7": "Módulo 7. Riesgos, protección y fraudes",
+  "M8": "Módulo 8. El sistema, la economía y tu familia",
+  "M9": "Módulo 9. Tu futuro y tu plan"
+ },
+ "resultados": {
+  "M1": "Tu forma de pensar el dinero: crear y no solo guardar, tus fuentes de ingreso y tu presupuesto.",
+  "M2": "Una cuenta a tu medida, pagos digitales seguros, compras en línea y en otra moneda, y lo que firmas cuando aceptas términos.",
+  "M3": "Una idea probada con poco dinero, su costo, su precio, su ganancia y tus primeras ventas.",
+  "M4": "Tu plan para reinvertir, trabajar con socios, cuidar tu marca y formalizarte cuando toque.",
+  "M5": "Tu ahorro con propósito, el interés compuesto de tu lado y cómo distinguir invertir de apostar.",
+  "M6": "Saber cuánto cuesta un crédito, usar una tarjeta sin endeudarte y cuidar tu historial.",
+  "M7": "Tus riesgos identificados, tu seguro de estudiante activo y tu protección contra fraudes y cuentas mula.",
+  "M8": "Quién te protege, para qué sirven los impuestos, cómo te afecta la economía y cómo apoyar a tu familia con sus papeles.",
+  "M9": "Tu camino de estudio, trabajo o negocio con números, tus derechos en tu primer trabajo y tu plan de una página."
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, las microlecciones, los personajes, insignias y constancia.",
+  "02": "Cuatro casos que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo, y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "insignias": [
+  [
+   "01_mente_que_crea",
+   "M1 · M2",
+   "Mente que crea",
+   "fa-lightbulb-o"
+  ],
+  [
+   "02_primera_venta",
+   "M3",
+   "Primera venta",
+   "fa-shopping-bag"
+  ],
+  [
+   "03_negocio_en_marcha",
+   "M4",
+   "Negocio en marcha",
+   "fa-rocket"
+  ],
+  [
+   "04_dinero_que_trabaja",
+   "M5",
+   "Dinero que trabaja",
+   "fa-line-chart"
+  ],
+  [
+   "05_credito_con_cabeza",
+   "M6",
+   "Crédito con cabeza",
+   "fa-credit-card"
+  ],
+  [
+   "06_nadie_me_engana",
+   "M7",
+   "Nadie me engaña",
+   "fa-shield"
+  ],
+  [
+   "07_entiendo_el_sistema",
+   "M8",
+   "Entiendo el sistema",
+   "fa-university"
+  ],
+  [
+   "08_plan_completo",
+   "CURSO",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "top": "TU IDEA · TU DINERO · TU FUTURO",
+  "titulo": "Constancia de conclusión",
+  "otorga": "Se otorga a",
+  "nombre": "Nombre de la persona",
+  "texto": "por concluir el programa de bienestar financiero <b>Tu Idea, Tu Dinero, Tu Futuro</b>, con sus nueve módulos y autoevaluaciones aprobadas.",
+  "mods": [
+   "Mente y dinero digital",
+   "Crear y crecer",
+   "Invertir y crédito",
+   "Riesgos y sistema",
+   "Futuro y plan"
+  ],
+  "fecha": "Fecha",
+  "fecha_muestra": "30 de septiembre de 2026",
+  "codigo": "Código de verificación",
+  "nota": "Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial."
+ },
+ "comunidad": {
+  "titulo": "Comunidad Tu Idea",
+  "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.0",
+  "intro": "Complemento del curso Tu Idea, Tu Dinero, Tu Futuro: espacio moderado en Moodle para dudas, retos, vitrina de ideas y sesiones con la escuela. Sin mensajes privados entre participantes y con reglas especiales de cuidado para menores de edad.",
+  "leads": {
+   "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
+   "02": "Las reglas que te cuidan: datos, respeto y seguridad en línea.",
+   "03": "Cómo preguntar y cómo pedir ayuda si algo no está bien.",
+   "04": "Las fechas del ciclo escolar que importan para tu dinero y tus ideas.",
+   "05": "Sesiones con tu escuela, retos del mes y la vitrina de ideas.",
+   "06": "Qué es contenido del programa y qué es una oferta comercial, con total transparencia."
+  },
+  "carpeta": {
+   "nombre": "Comunidad_Tu_Idea",
+   "zip": "Comunidad_Tu_Idea_v1.0",
+   "descripciones": [
+    "Manual del profesor (arranque, rutina, sesiones de acompañamiento, práctica guiada, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
+    "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
+    "Guía de implementación: creación en Moodle paso a paso y calendario editorial.",
+    "Paquete para instalar: libro, vista previa y el README para Claude."
+   ],
+   "lista": [
+    "Acuerdo con la escuela y aviso a madres, padres o tutores",
+    "Profesora o profesor nombrado y con el manual del profesor leído",
+    "Mensajería privada entre participantes desactivada",
+    "Fechas de las primeras sesiones con la escuela",
+    "Comunidad creada con 04_Moodle/README_CREAR_COMUNIDAD_PARA_CLAUDE.md",
+    "Primeras publicaciones programadas con el calendario editorial"
+   ],
+   "notas": [
+    "Participantes menores de edad: nunca se piden datos personales, fotos, ubicación ni redes sociales; no hay mensajes privados entre participantes ni encuentros fuera de las sesiones de la escuela.",
+    "Nunca se publican ofertas de préstamos, cripto, trading ni apuestas; la vitrina de ideas no permite vender ni cobrar dentro de la comunidad."
+   ]
+  }
+ },
+ "carpeta": {
+  "nombre": "Tu_Idea_Tu_Dinero_Tu_Futuro",
+  "zip": "Tu_Idea_v1.0",
+  "manual": "Manual_del_programa_TIDF_v1.0",
+  "contenido": "Contenido_completo_TIDF_v1.0",
+  "guia": "Guia_implementacion_TIDF_v1.0",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
+   "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación, comunidad y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación y la escuela leyeron el manual del programa",
+   "Aviso a madres, padres o tutores",
+   "Datos vigentes confirmados en el sitio oficial (manual, sección de datos verificados)",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_IDEA_PARA_CLAUDE.md",
+   "Level Up, insignias y constancia configurados",
+   "Comunidad creada (carpeta Comunidad Tu Idea)",
+   "Revisión en el celular con rol de estudiante",
+   "Calendario de mantenimiento asignado"
+  ],
+  "notas": [
+   "Público de 15 a 18 años: el curso no pide datos personales ni abre cuentas; enseña a verificar y comparar.",
+   "No se recomiendan bancos, apps, criptomonedas, plataformas de trading ni apuestas. No se recomiendan SOFIPO, SOCAP ni SOFOM.",
+   "El emprendimiento se enseña con poco dinero y sin deudas; cuando algo requiere mayoría de edad (contratos, RFC, inversiones a tu nombre) se dice y se pide acompañamiento de un adulto."
+  ]
+ },
+ "instalacion": {
+  "nombre_corto": "TIDF-MX",
+  "readme": "README_INSTALAR_TU_IDEA_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas datos personales, fotos, ubicación, redes sociales, números de cuenta, contraseñas ni códigos.",
+  "niveles": [
+   [
+    "Primer paso",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Con idea",
+    150,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Primera venta",
+    350,
+    "Durante el Módulo 4"
+   ],
+   [
+    "En crecimiento",
+    600,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Con cabeza",
+    800,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Con futuro",
+    1000,
+    "Durante el Módulo 9"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluaciones de los Módulos 1 y 2",
+    "Piensas en crear, tienes presupuesto y usas el dinero digital con seguridad."
+   ],
+   [
+    "Autoevaluación del Módulo 3",
+    "Probaste una idea con costo, precio y ganancia."
+   ],
+   [
+    "Autoevaluación del Módulo 4",
+    "Sabes reinvertir, trabajar con socios y cuidar tu marca."
+   ],
+   [
+    "Autoevaluación del Módulo 5",
+    "Tu dinero trabaja y distingues invertir de apostar."
+   ],
+   [
+    "Autoevaluación del Módulo 6",
+    "Sabes cuánto cuesta un crédito y cómo cuidar tu historial."
+   ],
+   [
+    "Autoevaluación del Módulo 7",
+    "Tienes tu seguro de estudiante y reconoces fraudes y cuentas mula."
+   ],
+   [
+    "Autoevaluación del Módulo 8",
+    "Entiendes el sistema, los impuestos, la economía y los papeles de tu familia."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los nueve módulos del programa."
+   ]
+  ]
+ },
+ "encuesta": "joven_mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "El dinero no es solo para guardarlo: crea, prueba tu idea, hazla crecer y protégete.",
+   "Microlecciones de 5 a 10 minutos para el celular, pensadas para preparatoria."
+  ],
+  "para_quien": "Jóvenes de 15 a 18 años que estudian la preparatoria en México.",
+  "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "jovenes"
+  ],
+  "extra": {}
+ },
+ "hojas_negocio": true
+}
