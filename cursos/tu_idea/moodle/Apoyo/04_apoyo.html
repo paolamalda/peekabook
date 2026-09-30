@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Glosario</title></head><body>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-book"></i> Materiales de apoyo</span><h3>Glosario</h3><p class="obj">Las palabras del curso explicadas en lenguaje sencillo, por módulo.</p></div><div class="card2"><p>Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.</p></div><div class="card2"><h4>Tu mente y tu dinero</h4><ul>
+<li><strong>Ganancia:</strong> lo que te queda después de restar lo que gastaste para vender.</li>
+<li><strong>Habilidad:</strong> algo que sabes hacer bien y que otras personas pueden necesitar.</li>
+<li><strong>Ingreso:</strong> dinero que recibes por trabajar, vender, invertir o por un apoyo.</li>
+<li><strong>Mesada:</strong> dinero que te dan en tu casa cada semana o mes.</li>
+<li><strong>Presión de grupo:</strong> cuando haces algo para encajar con tus amistades.</li>
+<li><strong>Presupuesto:</strong> plan de cuánto dinero te entra y en qué lo vas a usar.</li>
+<li><strong>Publicidad:</strong> mensaje pagado para que compres algo.</li>
+<li><strong>Reinvertir:</strong> volver a usar la ganancia para que tu idea crezca.</li>
+</ul></div><div class="card2"><h4>Tu cuenta y el dinero digital</h4><ul>
+<li><strong>CEP:</strong> comprobante de Banco de México que confirma una transferencia.</li>
+<li><strong>CLABE:</strong> número de 18 dígitos para recibir transferencias.</li>
+<li><strong>Comisión por conversión:</strong> cargo que cobra tu banco por pagar en otra moneda.</li>
+<li><strong>Cotitular:</strong> otra persona que comparte la cuenta contigo.</li>
+<li><strong>IPAB:</strong> seguro que protege tus depósitos en bancos.</li>
+<li><strong>Suscripción:</strong> servicio que se cobra cada mes o cada año hasta que lo cancelas.</li>
+<li><strong>Tarjeta de débito:</strong> tarjeta para pagar con tu propio dinero.</li>
+<li><strong>Tipo de cambio:</strong> cuántos pesos cuesta un dólar u otra moneda en un día.</li>
+<li><strong>Términos y condiciones:</strong> reglas de un servicio que aceptas al usarlo.</li>
+</ul></div><div class="card2"><h4>Crea: de la idea a tu primera venta</h4><ul>
+<li><strong>Anticipo:</strong> parte del pago que da el cliente antes de que hagas el producto.</li>
+<li><strong>Cliente frecuente:</strong> persona que te compra más de una vez.</li>
+<li><strong>Costo por pieza:</strong> lo que te cuesta hacer cada producto.</li>
+<li><strong>Diferencia:</strong> lo que hace que te elijan a ti y no a otra persona.</li>
+<li><strong>Fiar:</strong> entregar ahora y cobrar después.</li>
+<li><strong>Idea de negocio:</strong> forma de ganar dinero resolviendo un problema o un deseo.</li>
+<li><strong>Inventario:</strong> productos que tienes guardados para vender.</li>
+<li><strong>Margen:</strong> porcentaje de tu precio que es ganancia.</li>
+<li><strong>Prueba:</strong> forma barata de saber si una idea funciona antes de invertir mucho.</li>
+<li><strong>Punto de equilibrio:</strong> cantidad que necesitas vender para recuperar lo que invertiste; desde ahí empiezas a ganar.</li>
+<li><strong>Sueldo fijo:</strong> cantidad que te pagas del negocio cada semana o mes.</li>
+</ul></div><div class="card2"><h4>Haz crecer lo que empezaste</h4><ul>
+<li><strong>Aportación:</strong> lo que cada socio pone: dinero, trabajo o herramientas.</li>
+<li><strong>Derechos de autor:</strong> derechos de quien crea una obra sobre su uso.</li>
+<li><strong>Flujo:</strong> cuánto dinero entra y sale de tu negocio cada semana.</li>
+<li><strong>Huella digital:</strong> todo lo que queda de ti en internet: publicaciones, comentarios y fotos.</li>
+<li><strong>IVA:</strong> impuesto que va incluido en el precio de muchas cosas.</li>
+<li><strong>Marca:</strong> nombre, logo y estilo que identifican tu negocio.</li>
+<li><strong>Reserva:</strong> dinero del negocio guardado para meses flojos.</li>
+<li><strong>RESICO:</strong> régimen de impuestos con ISR bajo para personas con ingresos de hasta 3.5 millones al año.</li>
+<li><strong>RFC:</strong> Registro Federal de Contribuyentes: tu clave para pagar impuestos y facturar.</li>
+<li><strong>Socio:</strong> persona que comparte un negocio contigo.</li>
+</ul></div><div class="card2"><h4>Pon tu dinero a trabajar</h4><ul>
+<li><strong>Criptomonedas:</strong> monedas digitales sin respaldo de un gobierno cuyo precio sube y baja muchísimo.</li>
+<li><strong>Diversificar:</strong> repartir tu dinero en varias inversiones para no perderlo todo si una sale mal.</li>
+<li><strong>Especular:</strong> comprar algo esperando venderlo caro en poco tiempo.</li>
+<li><strong>Fondo para imprevistos:</strong> dinero guardado para gastos que no esperabas.</li>
+<li><strong>Inflación:</strong> aumento de los precios con el tiempo.</li>
+<li><strong>Interés compuesto:</strong> cuando los rendimientos que gana tu dinero también empiezan a ganar rendimientos.</li>
+<li><strong>Invertir:</strong> poner tu dinero en algo que puede crecer con el tiempo, aceptando algún riesgo.</li>
+<li><strong>Meta de ahorro:</strong> lo que quieres juntar, cuánto y para cuándo.</li>
+<li><strong>Pirámide:</strong> esquema en el que ganas por meter a otras personas; tarde o temprano se cae.</li>
+<li><strong>Rendimiento real:</strong> lo que gana tu dinero después de restar la inflación.</li>
+<li><strong>Riesgo:</strong> posibilidad de ganar menos o perder.</li>
+</ul></div><div class="card2"><h4>Crédito sin trampas</h4><ul>
+<li><strong>Aval:</strong> persona que firma y paga si quien pidió el crédito no paga.</li>
+<li><strong>Beca:</strong> apoyo para estudiar que no se paga.</li>
+<li><strong>CAT:</strong> Costo Anual Total: porcentaje que incluye intereses y comisiones de un crédito en un año.</li>
+<li><strong>Convocatoria:</strong> anuncio con los requisitos y fechas de un programa o concurso.</li>
+<li><strong>Crédito:</strong> dinero que te prestan y que devuelves después, casi siempre con intereses.</li>
+<li><strong>Fecha de corte:</strong> día en que se cierra el periodo de compras de tu tarjeta.</li>
+<li><strong>Historial de crédito:</strong> registro de tus créditos y de cómo los pagaste.</li>
+<li><strong>Intereses:</strong> lo que cuesta usar dinero prestado.</li>
+<li><strong>Pago mínimo:</strong> lo menos que puedes pagar sin atrasarte; la deuda casi no baja.</li>
+<li><strong>Pago para no generar intereses:</strong> pagar todo lo que gastaste en el periodo.</li>
+<li><strong>Referencia personal:</strong> persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no firma ni se obliga a pagar.</li>
+</ul></div><div class="card2"><h4>Riesgos, protección y fraudes</h4><ul>
+<li><strong>Cuenta mula:</strong> cuenta que alguien presta para recibir y mover dinero de fraudes; quien la presta puede ser acusado de un delito.</li>
+<li><strong>Extorsión:</strong> cuando alguien te amenaza para que le des dinero o algo más.</li>
+<li><strong>Identidad digital:</strong> tus cuentas, datos y lo que publicas en internet.</li>
+<li><strong>Legado digital:</strong> lo que pasa con tus cuentas y archivos si ya no puedes usarlos.</li>
+<li><strong>NSS:</strong> número de seguridad social que te identifica en el IMSS.</li>
+<li><strong>Respaldo:</strong> copia de tus archivos en otro lugar.</li>
+<li><strong>Seguro de salud para estudiantes:</strong> seguro del IMSS para estudiantes de escuelas públicas de nivel medio superior y superior; no tiene costo.</li>
+<li><strong>Verificación en dos pasos:</strong> un código extra además de tu contraseña para entrar a tu cuenta.</li>
+</ul></div><div class="card2"><h4>El sistema, la economía y tu familia</h4><ul>
+<li><strong>Beneficiario:</strong> persona que recibe el dinero de una cuenta, Afore o seguro si el titular fallece.</li>
+<li><strong>CNBV:</strong> autoridad que vigila a los bancos y otras instituciones financieras.</li>
+<li><strong>CONDUSEF:</strong> autoridad que defiende a las personas usuarias de servicios financieros.</li>
+<li><strong>Folio:</strong> número que te dan al reclamar y que sirve de prueba.</li>
+<li><strong>Herencia:</strong> bienes que recibe una persona cuando otra fallece.</li>
+<li><strong>Impuestos:</strong> dinero que pagamos al gobierno para cubrir servicios públicos.</li>
+<li><strong>ISR:</strong> impuesto sobre lo que ganas.</li>
+<li><strong>Rumor:</strong> información sin fuente que circula sin verificar.</li>
+<li><strong>Tasa de interés:</strong> porcentaje que pagan los ahorros o cobran los créditos.</li>
+<li><strong>Testamento:</strong> documento ante notario que dice quién recibe los bienes de una persona.</li>
+</ul></div><div class="card2"><h4>Tu futuro y tu plan</h4><ul>
+<li><strong>Afore:</strong> administradora que guarda tu ahorro para el retiro.</li>
+<li><strong>Inversión en ti:</strong> gastar tiempo o dinero en aprender algo que te hará ganar más en el futuro.</li>
+<li><strong>Plan de una página:</strong> resumen de tus decisiones de dinero en una sola hoja.</li>
+<li><strong>Prestaciones:</strong> derechos además del sueldo, como aguinaldo y vacaciones.</li>
+<li><strong>Testigo:</strong> persona de confianza a quien le cuentas tu meta para que te pregunte cómo vas.</li>
+<li><strong>Trabajo formal:</strong> trabajo con contrato, IMSS y prestaciones.</li>
+</ul></div></div>
+</body></html>

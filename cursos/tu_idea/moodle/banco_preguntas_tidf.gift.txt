@@ -1,0 +1,665 @@
+$CATEGORY: $course$/Tu Idea v1.0/M1
+
+::M1 U01 P1::¿Qué es poner el dinero a trabajar? {
+	~Esconderlo en tu cuarto para no gastarlo #No es la mejor opción. Es la idea de crecer.
+	~Gastarlo en lo que se te antoje #No es la mejor opción. Es la idea de crecer.
+	=Usarlo para generar más #¡Correcto! Es la idea de crecer.
+}
+
+::M1 U01 P2::Antes de probar una idea, ¿qué haces? {
+	~Pides prestado para empezar en grande #No es la mejor opción. Crear con cabeza.
+	=Apartas una base para imprevistos #¡Correcto! Crear con cabeza.
+	~Usas todo lo que tienes #No es la mejor opción. Crear con cabeza.
+}
+
+::M1 U01 P3::Inviertes 600 en material y vendes 1,500. ¿Cuánto ganas? {
+	~1,500 #No es la mejor opción. Ventas menos material.
+	~2,100 #No es la mejor opción. Ventas menos material.
+	=900 #¡Correcto! Ventas menos material.
+}
+
+::M1 U02 P1::Ganas 900 en 12 horas. ¿Cuánto vale tu hora? {
+	~108 #No es la mejor opción. 900 entre 12.
+	~900 #No es la mejor opción. 900 entre 12.
+	=75 #¡Correcto! 900 entre 12.
+}
+
+::M1 U02 P2::¿Cuántas horas al día puede trabajar alguien de 16 años? {
+	~Las que le pidan en el trabajo #No es la mejor opción. La ley pone ese límite.
+	=Máximo 6 #¡Correcto! La ley pone ese límite.
+	~Máximo 10 #No es la mejor opción. La ley pone ese límite.
+}
+
+::M1 U02 P3::¿Qué sube el valor de tu hora? {
+	~Trabajar más horas sin descansar los fines de semana #No es la mejor opción. Te pagan más por saber.
+	~Cobrar menos que los demás #No es la mejor opción. Te pagan más por saber.
+	=Aprender una habilidad que se necesita #¡Correcto! Te pagan más por saber.
+}
+
+::M1 U03 P1::Gastas 79 en un juego 6 veces al mes. ¿Cuánto al año? {
+	~474 #No es la mejor opción. 474 al mes por 12.
+	=5,688 #¡Correcto! 474 al mes por 12.
+	~948 #No es la mejor opción. 474 al mes por 12.
+}
+
+::M1 U03 P2::¿Por qué un código de descuento de influencer no es opinión neutral? {
+	~Porque es muy famoso y tiene millones de seguidores #No es la mejor opción. Gana con tu compra.
+	~Porque siempre miente #No es la mejor opción. Gana con tu compra.
+	=Porque le pagan si compras #¡Correcto! Gana con tu compra.
+}
+
+::M1 U03 P3::¿Qué haces con una oferta «solo hoy»? {
+	~Compras antes de que se acabe #No es la mejor opción. La prisa es el truco.
+	~Pides prestado #No es la mejor opción. La prisa es el truco.
+	=Esperas y comparas #¡Correcto! La prisa es el truco.
+}
+
+::M1 U04 P1::Recibes 1,900 de beca cada dos meses. ¿Cuánto es al mes? {
+	~1,900 #No es la mejor opción. 1,900 entre 2.
+	~3,800 #No es la mejor opción. 1,900 entre 2.
+	=950 #¡Correcto! 1,900 entre 2.
+}
+
+::M1 U04 P2::¿Qué apartas primero cuando cobras? {
+	~Lo de las salidas del fin de semana #No es la mejor opción. Primero tú y tu idea.
+	~Lo de gustos y antojos #No es la mejor opción. Primero tú y tu idea.
+	=Lo de guardar y crear #¡Correcto! Primero tú y tu idea.
+}
+
+::M1 U04 P3::Te entran 3,000 al mes. ¿Cuánto es 20% para crear? {
+	=600 #¡Correcto! 20% de 3,000.
+	~300 #No es la mejor opción. 20% de 3,000.
+	~2,000 #No es la mejor opción. 20% de 3,000.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M2
+
+::M2 U01 P1::Tienes 16 años. ¿Cómo abres una cuenta? {
+	~No puedes hasta los 21 #No es la mejor opción. Te acompañan.
+	~Solo por internet sin nadie #No es la mejor opción. Te acompañan.
+	=Con tu mamá, papá o tutor #¡Correcto! Te acompañan.
+}
+
+::M2 U01 P2::¿Qué pasa si pagas con débito y no tienes saldo? {
+	~Te prestan #No es la mejor opción. Usas tu dinero.
+	=No pasa el pago #¡Correcto! Usas tu dinero.
+	~Te cobran intereses #No es la mejor opción. Usas tu dinero.
+}
+
+::M2 U01 P3::¿Qué protege tus depósitos en un banco? {
+	~La tienda donde compras #No es la mejor opción. Seguro de depósitos.
+	~Tu escuela #No es la mejor opción. Seguro de depósitos.
+	=El IPAB #¡Correcto! Seguro de depósitos.
+}
+
+::M2 U02 P1::¿Qué haces antes de entregar lo que vendiste? {
+	~Aceptas la captura que te enseña el cliente en su celular #No es la mejor opción. Una captura se falsifica.
+	=Revisas en tu app que llegó el dinero #¡Correcto! Una captura se falsifica.
+	~Confías en su palabra #No es la mejor opción. Una captura se falsifica.
+}
+
+::M2 U02 P2::¿Qué dato NO das para cobrar? {
+	~Tu CLABE #No es la mejor opción. Es secreto.
+	~Tu QR #No es la mejor opción. Es secreto.
+	=Tu NIP #¡Correcto! Es secreto.
+}
+
+::M2 U02 P3::Te depositan «por error» y te piden devolver a otra cuenta. ¿Qué haces? {
+	~Lo devuelves rápido #No es la mejor opción. Puede ser fraude.
+	~Te lo quedas #No es la mejor opción. Puede ser fraude.
+	=Avisas a tu banco #¡Correcto! Puede ser fraude.
+}
+
+::M2 U03 P1::Algo cuesta 40 dólares y el dólar está a 18. ¿Cuánto es en pesos? {
+	=720 #¡Correcto! 40 por 18.
+	~58 #No es la mejor opción. 40 por 18.
+	~400 #No es la mejor opción. 40 por 18.
+}
+
+::M2 U03 P2::¿Qué forma de pago es más riesgosa en línea? {
+	~Tarjeta de débito o crédito #No es la mejor opción. No puedes reclamar.
+	=Depósito a la cuenta de una persona #¡Correcto! No puedes reclamar.
+	~Pago en una plataforma con protección #No es la mejor opción. No puedes reclamar.
+}
+
+::M2 U03 P3::¿Dónde te quejas si una tienda en México no cumple? {
+	~En tu escuela #No es la mejor opción. Protege al consumidor.
+	~En el banco #No es la mejor opción. Protege al consumidor.
+	=En la PROFECO #¡Correcto! Protege al consumidor.
+}
+
+::M2 U04 P1::¿Qué significa dar clic en «Acepto»? {
+	~Nada importante, es solo un trámite #No es la mejor opción. Es un contrato.
+	=Aceptas un contrato #¡Correcto! Es un contrato.
+	~Que ya pagaste #No es la mejor opción. Es un contrato.
+}
+
+::M2 U04 P2::Pagas 99 al mes por una app que no usas. ¿Cuánto al año? {
+	~99 #No es la mejor opción. 99 por 12.
+	~990 #No es la mejor opción. 99 por 12.
+	=1,188 #¡Correcto! 99 por 12.
+}
+
+::M2 U04 P3::¿Qué haces antes de que termine una prueba sin costo? {
+	=Decides si la quieres y cancelas si no #¡Correcto! Evitas cobros.
+	~Esperas a que te cobren #No es la mejor opción. Evitas cobros.
+	~Das la tarjeta de otra persona para que le cobren a ella #No es la mejor opción. Evitas cobros.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M3
+
+::M3 U01 P1::¿Por dónde empieza una buena idea de negocio? {
+	~Por lo que está de moda en redes #No es la mejor opción. Los negocios resuelven problemas.
+	=Por un problema real #¡Correcto! Los negocios resuelven problemas.
+	~Por un préstamo grande #No es la mejor opción. Los negocios resuelven problemas.
+}
+
+::M3 U01 P2::¿Qué une una buena idea? {
+	=Lo que sabes y lo que alguien pagaría #¡Correcto! Tu ventaja y la necesidad.
+	~Lo que venden tus amigos del salón en el recreo #No es la mejor opción. Tu ventaja y la necesidad.
+	~Lo más caro que puedas vender #No es la mejor opción. Tu ventaja y la necesidad.
+}
+
+::M3 U01 P3::Hay otra persona vendiendo lo mismo en tu escuela. ¿Qué haces? {
+	~Te rindes y mejor no vendes nada #No es la mejor opción. Más rápido, cerca o personalizado.
+	~Copias igual #No es la mejor opción. Más rápido, cerca o personalizado.
+	=Buscas tu diferencia #¡Correcto! Más rápido, cerca o personalizado.
+}
+
+::M3 U02 P1::¿Cuál es la forma más barata de probar una idea? {
+	~Comprar mucho inventario #No es la mejor opción. Cuesta cero.
+	~Rentar un local #No es la mejor opción. Cuesta cero.
+	=Preguntar a 10 personas #¡Correcto! Cuesta cero.
+}
+
+::M3 U02 P2::Tu prueba vendió 2 de 10. ¿Qué haces? {
+	=Cambias algo y pruebas otra vez #¡Correcto! El error enseña.
+	~Pides un préstamo para anunciarte #No es la mejor opción. El error enseña.
+	~Te rindes para siempre #No es la mejor opción. El error enseña.
+}
+
+::M3 U02 P3::¿Qué es un anticipo? {
+	~Un regalo del cliente #No es la mejor opción. Te asegura el pedido.
+	=Una parte del pago antes de hacer el producto #¡Correcto! Te asegura el pedido.
+	~Una deuda con el banco que pagas cada mes con intereses #No es la mejor opción. Te asegura el pedido.
+}
+
+::M3 U03 P1::Vendes 40 pulseras a 50 y cada una te cuesta 22. ¿Cuánto ganas? {
+	~2,000 #No es la mejor opción. 40 por 28.
+	=1,120 #¡Correcto! 40 por 28.
+	~880 #No es la mejor opción. 40 por 28.
+}
+
+::M3 U03 P2::¿Qué es la ganancia? {
+	=Lo que te queda después de costos #¡Correcto! Ventas menos costos.
+	~Todo lo que cobraste en el mes por tus ventas #No es la mejor opción. Ventas menos costos.
+	~Lo que te prestan para empezar #No es la mejor opción. Ventas menos costos.
+}
+
+::M3 U03 P3::Tu costo es 20 y vendes a 32. ¿Cuánto ganas por pieza? {
+	~52 #No es la mejor opción. 32 menos 20.
+	=12 #¡Correcto! 32 menos 20.
+	~20 #No es la mejor opción. 32 menos 20.
+}
+
+::M3 U04 P1::Siendo menor, ¿dónde conviene entregar un pedido? {
+	~En tu casa #No es la mejor opción. Por tu seguridad.
+	~Donde diga el cliente #No es la mejor opción. Por tu seguridad.
+	=En un lugar público con un adulto #¡Correcto! Por tu seguridad.
+}
+
+::M3 U04 P2::¿Qué pones en tu publicación? {
+	=Foto, precio claro y cómo pedir #¡Correcto! Sin datos personales.
+	~Tu dirección y tus horarios para que te encuentren #No es la mejor opción. Sin datos personales.
+	~El nombre de tu escuela #No es la mejor opción. Sin datos personales.
+}
+
+::M3 U04 P3::Un cliente se queja con razón. ¿Qué haces? {
+	~Lo bloqueas de todas tus redes #No es la mejor opción. Así vuelve.
+	=Escuchas y lo arreglas #¡Correcto! Así vuelve.
+	~Lo ignoras #No es la mejor opción. Así vuelve.
+}
+
+::M3 U05 P1::Inviertes 1,200 y ganas 40 por pieza. ¿Cuántas piezas para recuperar? {
+	~40 #No es la mejor opción. 1,200 entre 40.
+	=30 #¡Correcto! 1,200 entre 40.
+	~1,200 #No es la mejor opción. 1,200 entre 40.
+}
+
+::M3 U05 P2::¿Qué haces con el dinero del negocio? {
+	~Lo mezclas con el tuyo #No es la mejor opción. Así sabes si ganas.
+	~Lo gastas cada fin de semana con tus amigos del salón #No es la mejor opción. Así sabes si ganas.
+	=Lo separas y te pagas un sueldo fijo #¡Correcto! Así sabes si ganas.
+}
+
+::M3 U05 P3::Ya recuperaste tu inversión. ¿Qué haces con la ganancia? {
+	=Te pagas tu sueldo y reinviertes una parte #¡Correcto! Así crece.
+	~Lo gastas todo #No es la mejor opción. Así crece.
+	~Cierras el negocio porque ya ganaste lo que querías #No es la mejor opción. Así crece.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M4
+
+::M4 U01 P1::Ganas 1,000; te pagas 400 y guardas 150 de reserva. ¿Cuánto reinviertes? {
+	=450 #¡Correcto! 1,000 menos 550.
+	~1,000 #No es la mejor opción. 1,000 menos 550.
+	~550 #No es la mejor opción. 1,000 menos 550.
+}
+
+::M4 U01 P2::¿Qué hace crecer tu negocio sin deudas? {
+	~Gastar la ganancia en ti #No es la mejor opción. Tu ganancia trabaja.
+	=Reinvertir una parte #¡Correcto! Tu ganancia trabaja.
+	~Pedir prestado #No es la mejor opción. Tu ganancia trabaja.
+}
+
+::M4 U01 P3::¿Para qué es la reserva del negocio? {
+	=Para meses flojos #¡Correcto! Te protege.
+	~Para salir con amigos #No es la mejor opción. Te protege.
+	~Para prestar a clientes #No es la mejor opción. Te protege.
+}
+
+::M4 U02 P1::¿Cuándo conviene escribir el acuerdo con tu socio? {
+	~Cuando haya problemas #No es la mejor opción. Evita pleitos.
+	=Antes de empezar #¡Correcto! Evita pleitos.
+	~Nunca, son amigos #No es la mejor opción. Evita pleitos.
+}
+
+::M4 U02 P2::¿Qué cuenta como aportación al negocio? {
+	~Solo el dinero que cada quien puso al inicio #No es la mejor opción. Todo suma.
+	~Solo las horas de trabajo #No es la mejor opción. Todo suma.
+	=Dinero, trabajo y herramientas #¡Correcto! Todo suma.
+}
+
+::M4 U02 P3::Ganan 900 y acordaron 60% y 40%. ¿Cuánto le toca a cada uno? {
+	=540 y 360 #¡Correcto! 60% de 900 y el resto.
+	~450 y 450 #No es la mejor opción. 60% de 900 y el resto.
+	~600 y 300 #No es la mejor opción. 60% de 900 y el resto.
+}
+
+::M4 U03 P1::¿Qué publicas en la cuenta de tu negocio? {
+	=Fotos de tus productos #¡Correcto! Sin datos personales.
+	~Tu dirección para que te encuentren fácil #No es la mejor opción. Sin datos personales.
+	~Fotos de tu escuela #No es la mejor opción. Sin datos personales.
+}
+
+::M4 U03 P2::Te dejan una crítica. ¿Qué haces? {
+	~Respondes enojado #No es la mejor opción. Da confianza.
+	~Bloqueas a todos los que opinen algo negativo #No es la mejor opción. Da confianza.
+	=Respondes con respeto y una solución #¡Correcto! Da confianza.
+}
+
+::M4 U03 P3::¿Puedes usar personajes de caricaturas famosas sin permiso? {
+	~Sí, si los dibujas tú #No es la mejor opción. Tienen dueño.
+	=No, son de otra persona #¡Correcto! Tienen dueño.
+	~Sí, siempre que vendas poquito y no te vean #No es la mejor opción. Tienen dueño.
+}
+
+::M4 U04 P1::¿Qué es el RFC? {
+	=Tu clave para pagar impuestos y facturar #¡Correcto! Te identifica ante el SAT.
+	~Una tarjeta del banco #No es la mejor opción. Te identifica ante el SAT.
+	~Un permiso de la escuela para vender en el recreo y en los eventos #No es la mejor opción. Te identifica ante el SAT.
+}
+
+::M4 U04 P2::¿Cuánto cuesta tramitar el RFC en el SAT? {
+	~800 con gestor #No es la mejor opción. Lo haces tú.
+	~Depende del estado #No es la mejor opción. Lo haces tú.
+	=No tiene costo #¡Correcto! Lo haces tú.
+}
+
+::M4 U04 P3::¿Qué impuesto va dentro del precio de muchas cosas que compras? {
+	~El RESICO #No es la mejor opción. Está en el precio.
+	=El IVA #¡Correcto! Está en el precio.
+	~El RFC #No es la mejor opción. Está en el precio.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M5
+
+::M5 U01 P1::Quieres 4,800 en 12 meses. ¿Cuánto apartas al mes? {
+	~480 #No es la mejor opción. 4,800 entre 12.
+	=400 #¡Correcto! 4,800 entre 12.
+	~1,200 #No es la mejor opción. 4,800 entre 12.
+}
+
+::M5 U01 P2::¿Qué tiene una meta clara? {
+	~Solo las ganas de lograrla #No es la mejor opción. Así sabes qué hacer.
+	~Un número que suene bonito #No es la mejor opción. Así sabes qué hacer.
+	=Qué, cuánto y cuándo #¡Correcto! Así sabes qué hacer.
+}
+
+::M5 U01 P3::¿Cuál ahorro conviene tener primero? {
+	=Un fondo para imprevistos #¡Correcto! Te protege.
+	~Para la fiesta de fin de año #No es la mejor opción. Te protege.
+	~Ninguno #No es la mejor opción. Te protege.
+}
+
+::M5 U02 P1::Tu dinero gana 9% y la inflación es 4%. ¿Rendimiento real aproximado? {
+	~13% #No es la mejor opción. 9 menos 4.
+	=5% #¡Correcto! 9 menos 4.
+	~9% #No es la mejor opción. 9 menos 4.
+}
+
+::M5 U02 P2::¿Qué es lo que más hace crecer el interés compuesto? {
+	=El tiempo #¡Correcto! Mientras más tiempo, más crece.
+	~Revisar tu saldo diario #No es la mejor opción. Mientras más tiempo, más crece.
+	~Cambiar de banco cada mes #No es la mejor opción. Mientras más tiempo, más crece.
+}
+
+::M5 U02 P3::1,000 al 10% anual con interés compuesto. ¿Cuánto hay en 2 años? {
+	~1,200 #No es la mejor opción. 1,100 y luego 1,210.
+	~1,100 #No es la mejor opción. 1,100 y luego 1,210.
+	=1,210 #¡Correcto! 1,100 y luego 1,210.
+}
+
+::M5 U03 P1::¿Qué inversión suele tener menos riesgo? {
+	~Acciones de una empresa nueva #No es la mejor opción. Son del gobierno.
+	=Bonos del gobierno #¡Correcto! Son del gobierno.
+	~Una app que paga 20% al mes #No es la mejor opción. Son del gobierno.
+}
+
+::M5 U03 P2::¿Qué es diversificar? {
+	=Repartir en varias inversiones #¡Correcto! Te protege.
+	~Poner todo en la que más rendimiento promete #No es la mejor opción. Te protege.
+	~Cambiar de banco cada año #No es la mejor opción. Te protege.
+}
+
+::M5 U03 P3::Te prometen ganancias altísimas y seguras. ¿Qué es? {
+	~Una gran oportunidad #No es la mejor opción. No existen.
+	~Una inversión normal #No es la mejor opción. No existen.
+	=Señal de fraude #¡Correcto! No existen.
+}
+
+::M5 U04 P1::¿Cuál es apostar? {
+	=Jugar en una casa de apuestas #¡Correcto! Es azar.
+	~Comprar bonos del gobierno en Cetesdirecto cada mes #No es la mejor opción. Es azar.
+	~Reinvertir en tu negocio #No es la mejor opción. Es azar.
+}
+
+::M5 U04 P2::Te invitan a ganar por meter amigos. ¿Qué es? {
+	~Un negocio normal #No es la mejor opción. Ganas por meter gente.
+	~Una inversión segura #No es la mejor opción. Ganas por meter gente.
+	=Una pirámide #¡Correcto! Ganas por meter gente.
+}
+
+::M5 U04 P3::¿Pueden los menores apostar en casas de apuestas en México? {
+	~Sí, con permiso #No es la mejor opción. Está prohibido.
+	=No #¡Correcto! Está prohibido.
+	~Solo en línea #No es la mejor opción. Está prohibido.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M6
+
+::M6 U01 P1::Pagas 250 por semana durante 40 semanas por algo de 7,000. ¿Cuánto pagas de más? {
+	=3,000 #¡Correcto! 10,000 menos 7,000.
+	~10,000 #No es la mejor opción. 10,000 menos 7,000.
+	~250 #No es la mejor opción. 10,000 menos 7,000.
+}
+
+::M6 U01 P2::Entre dos créditos, ¿cuál es más barato? {
+	~El de CAT más alto #No es la mejor opción. Cuesta menos.
+	=El de CAT más bajo #¡Correcto! Cuesta menos.
+	~El de cuota más chica #No es la mejor opción. Cuesta menos.
+}
+
+::M6 U01 P3::¿Para qué conviene más un crédito? {
+	=Para algo que te ayuda a ganar y puedes pagar #¡Correcto! Te ayuda a crecer.
+	~Para ropa de moda que viste en tus redes sociales esta semana #No es la mejor opción. Te ayuda a crecer.
+	~Para una fiesta #No es la mejor opción. Te ayuda a crecer.
+}
+
+::M6 U02 P1::¿Qué pago de la tarjeta evita intereses? {
+	~El mínimo que aparece en tu estado de cuenta #No es la mejor opción. Pagas todo lo del mes.
+	=El total del mes #¡Correcto! Pagas todo lo del mes.
+	~Ninguno #No es la mejor opción. Pagas todo lo del mes.
+}
+
+::M6 U02 P2::Compras tres cosas a 6 meses sin intereses\: 1,200, 1,800 y 3,000. ¿Cuánto pagas al mes? {
+	=1,000 #¡Correcto! 6,000 entre 6.
+	~6,000 #No es la mejor opción. 6,000 entre 6.
+	~600 #No es la mejor opción. 6,000 entre 6.
+}
+
+::M6 U02 P3::¿Qué pasa si te atrasas en una app de «paga después»? {
+	~Nada #No es la mejor opción. Y pueden reportarte.
+	~Te regalan el pago #No es la mejor opción. Y pueden reportarte.
+	=Te cobran recargo #¡Correcto! Y pueden reportarte.
+}
+
+::M6 U03 P1::¿A quién NO puede cobrar un despacho? {
+	~Al aval #No es la mejor opción. Solo dio sus datos.
+	~Al obligado solidario que firmó el contrato completo #No es la mejor opción. Solo dio sus datos.
+	=A la referencia personal #¡Correcto! Solo dio sus datos.
+}
+
+::M6 U03 P2::¿Cómo se construye un buen historial? {
+	=Pagando a tiempo #¡Correcto! Es lo más importante.
+	~Pidiendo muchos créditos #No es la mejor opción. Es lo más importante.
+	~Usando todo tu límite #No es la mejor opción. Es lo más importante.
+}
+
+::M6 U03 P3::Tu límite es 4,000. ¿Cuánto es 30%? {
+	~400 #No es la mejor opción. 30% de 4,000.
+	=1,200 #¡Correcto! 30% de 4,000.
+	~3,000 #No es la mejor opción. 30% de 4,000.
+}
+
+::M6 U04 P1::¿Qué buscas primero para pagar tus estudios? {
+	~Un préstamo en app #No es la mejor opción. No se pagan.
+	=Becas y apoyos #¡Correcto! No se pagan.
+	~Una tarjeta de crédito #No es la mejor opción. No se pagan.
+}
+
+::M6 U04 P2::¿Para quién es Jóvenes Construyendo el Futuro? {
+	=De 18 a 29 años que no estudian ni trabajan #¡Correcto! Requisitos del programa.
+	~Menores de 15 #No es la mejor opción. Requisitos del programa.
+	~Solo universitarios con promedio de nueve o más en su carrera #No es la mejor opción. Requisitos del programa.
+}
+
+::M6 U04 P3::Tu tío te presta 3,000. ¿Qué hacen? {
+	~Todo de palabra #No es la mejor opción. Evita pleitos.
+	~Nada, porque es familia y confían en ti #No es la mejor opción. Evita pleitos.
+	=Un acuerdo por escrito #¡Correcto! Evita pleitos.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M7
+
+::M7 U01 P1::¿Qué es transferir un riesgo? {
+	=Contratar un seguro #¡Correcto! Pagas poco para no perder mucho.
+	~Olvidarte del riesgo #No es la mejor opción. Pagas poco para no perder mucho.
+	~Pasárselo a un amigo #No es la mejor opción. Pagas poco para no perder mucho.
+}
+
+::M7 U01 P2::¿Cómo reduces el riesgo de perder tus fotos? {
+	~Con más fotos en el celular #No es la mejor opción. Si pierdes el celular, lo conservas.
+	=Con un respaldo en la nube #¡Correcto! Si pierdes el celular, lo conservas.
+	~Borrando todo #No es la mejor opción. Si pierdes el celular, lo conservas.
+}
+
+::M7 U01 P3::¿Qué forma de manejar un riesgo es guardar dinero? {
+	~Evitar #No es la mejor opción. Para imprevistos.
+	~Transferirlo a una aseguradora #No es la mejor opción. Para imprevistos.
+	=Tener un fondo #¡Correcto! Para imprevistos.
+}
+
+::M7 U02 P1::¿Cuánto cuesta el seguro de salud del IMSS para estudiantes de escuelas públicas? {
+	~Una cuota mensual #No es la mejor opción. Es sin costo.
+	=No tiene costo #¡Correcto! Es sin costo.
+	~Depende de tu promedio #No es la mejor opción. Es sin costo.
+}
+
+::M7 U02 P2::¿Qué necesitas para activarlo? {
+	=Tu NSS entregado a tu escuela #¡Correcto! La escuela te da de alta.
+	~Una tarjeta de crédito a tu nombre y la de tus papás #No es la mejor opción. La escuela te da de alta.
+	~Un gestor #No es la mejor opción. La escuela te da de alta.
+}
+
+::M7 U02 P3::¿Qué revisas antes de contratar un seguro? {
+	~Solo el color de la póliza #No es la mejor opción. Evitas pagar doble.
+	~Lo que te dice el vendedor de la tienda sobre el precio #No es la mejor opción. Evitas pagar doble.
+	=Si ya tienes algo que te cubra #¡Correcto! Evitas pagar doble.
+}
+
+::M7 U03 P1::Te ofrecen pagar por recibir depósitos y pasarlos. ¿Qué es? {
+	=Una cuenta mula #¡Correcto! Mueve dinero de fraudes.
+	~Un trabajo normal #No es la mejor opción. Mueve dinero de fraudes.
+	~Una inversión #No es la mejor opción. Mueve dinero de fraudes.
+}
+
+::M7 U03 P2::¿Qué haces si te amenazan con publicar algo tuyo? {
+	~Pagas para que no lo publiquen #No es la mejor opción. No es tu culpa.
+	=No pagas y pides ayuda #¡Correcto! No es tu culpa.
+	~Mandas lo que pidan #No es la mejor opción. No es tu culpa.
+}
+
+::M7 U03 P3::Un empleo te pide 500 para «capacitación». ¿Qué es? {
+	~Un trámite normal de cualquier empresa #No es la mejor opción. Nadie serio cobra por contratarte.
+	~Una oportunidad #No es la mejor opción. Nadie serio cobra por contratarte.
+	=Una señal de engaño #¡Correcto! Nadie serio cobra por contratarte.
+}
+
+::M7 U04 P1::¿Cuál contraseña es más fuerte? {
+	~123456 #No es la mejor opción. Es larga y difícil.
+	~Tu fecha de nacimiento con el nombre de tu mascota #No es la mejor opción. Es larga y difícil.
+	=Una frase larga con números #¡Correcto! Es larga y difícil.
+}
+
+::M7 U04 P2::¿Qué haces si alguien te pide el código que te llegó? {
+	=No lo das #¡Correcto! Es la llave de tu cuenta.
+	~Lo das si es tu amigo #No es la mejor opción. Es la llave de tu cuenta.
+	~Lo publicas #No es la mejor opción. Es la llave de tu cuenta.
+}
+
+::M7 U04 P3::¿Qué protege tu cuenta aunque roben tu contraseña? {
+	~Un fondo de pantalla #No es la mejor opción. Pide un código extra.
+	=La verificación en dos pasos #¡Correcto! Pide un código extra.
+	~Tener más seguidores y amigos en tus redes sociales #No es la mejor opción. Pide un código extra.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M8
+
+::M8 U01 P1::¿Quién cuida el valor del peso y la inflación? {
+	~La PROFECO #No es la mejor opción. Es su trabajo.
+	=El Banco de México #¡Correcto! Es su trabajo.
+	~Tu escuela y la dirección de la prepa #No es la mejor opción. Es su trabajo.
+}
+
+::M8 U01 P2::¿Dónde verificas si una financiera existe? {
+	=En el SIPRES de la CONDUSEF #¡Correcto! Registro oficial.
+	~En sus anuncios de redes #No es la mejor opción. Registro oficial.
+	~Preguntando a tus amigos del salón si la conocen #No es la mejor opción. Registro oficial.
+}
+
+::M8 U01 P3::Una tienda no respeta tu garantía. ¿A dónde acudes? {
+	~Al banco donde tienes tu cuenta #No es la mejor opción. Defiende al consumidor.
+	~A la CNBV #No es la mejor opción. Defiende al consumidor.
+	=A la PROFECO #¡Correcto! Defiende al consumidor.
+}
+
+::M8 U02 P1::Algo cuesta 500 antes de IVA. ¿Cuánto pagas con IVA de 16%? {
+	~516 #No es la mejor opción. 500 más 80.
+	=580 #¡Correcto! 500 más 80.
+	~800 #No es la mejor opción. 500 más 80.
+}
+
+::M8 U02 P2::¿Qué pagas al comprar casi cualquier cosa? {
+	~El predial #No es la mejor opción. Va en el precio.
+	=El IVA #¡Correcto! Va en el precio.
+	~El ISR #No es la mejor opción. Va en el precio.
+}
+
+::M8 U02 P3::¿Para qué sirven los impuestos? {
+	=Para pagar servicios públicos #¡Correcto! Escuelas, becas, hospitales.
+	~Para los bancos #No es la mejor opción. Escuelas, becas, hospitales.
+	~Para las tiendas y las empresas que venden productos #No es la mejor opción. Escuelas, becas, hospitales.
+}
+
+::M8 U03 P1::¿Quién publica el tipo de cambio oficial? {
+	~Un influencer de finanzas #No es la mejor opción. Fuente oficial.
+	=El Banco de México #¡Correcto! Fuente oficial.
+	~Tu banco nada más #No es la mejor opción. Fuente oficial.
+}
+
+::M8 U03 P2::Suben los precios. ¿Qué pasa con tu dinero? {
+	=Compra menos #¡Correcto! Es la inflación.
+	~Compra más #No es la mejor opción. Es la inflación.
+	~No cambia #No es la mejor opción. Es la inflación.
+}
+
+::M8 U03 P3::¿Qué señal tiene un rumor? {
+	=Pide que actúes ya y no tiene fuente #¡Correcto! Prisa y sin fuente.
+	~Tiene fecha y fuente oficial #No es la mejor opción. Prisa y sin fuente.
+	~Está publicado en el sitio del INEGI con fecha y datos #No es la mejor opción. Prisa y sin fuente.
+}
+
+::M8 U04 P1::¿Qué evita que el dinero de una cuenta quede atorado si alguien fallece? {
+	=Nombrar beneficiarios #¡Correcto! Se entrega sin juicio.
+	~Cambiar la contraseña #No es la mejor opción. Se entrega sin juicio.
+	~Sacar todo el dinero #No es la mejor opción. Se entrega sin juicio.
+}
+
+::M8 U04 P2::¿Qué mes tiene descuentos para hacer testamento en México? {
+	~Enero #No es la mejor opción. Mes del Testamento.
+	~Diciembre #No es la mejor opción. Mes del Testamento.
+	=Septiembre #¡Correcto! Mes del Testamento.
+}
+
+::M8 U04 P3::Tu familia hereda una casa. ¿Qué sí cuesta? {
+	~El ISR de la herencia, que es de 30% del valor #No es la mejor opción. Impuesto estatal y notario.
+	=Pasarla a su nombre ante notario #¡Correcto! Impuesto estatal y notario.
+	~Nada #No es la mejor opción. Impuesto estatal y notario.
+}
+
+$CATEGORY: $course$/Tu Idea v1.0/M9
+
+::M9 U01 P1::¿Por qué estudiar se considera una inversión? {
+	~Porque no cuesta nada de tiempo ni de dinero #No es la mejor opción. Invertir en ti.
+	=Porque suele subir lo que ganas por años #¡Correcto! Invertir en ti.
+	~Porque te dan dinero al inscribirte en cualquier escuela #No es la mejor opción. Invertir en ti.
+}
+
+::M9 U01 P2::¿Se puede emprender mientras estudias? {
+	=Sí, muchas personas lo combinan #¡Correcto! Es lo más común.
+	~No, está prohibido por la ley mientras estudias #No es la mejor opción. Es lo más común.
+	~Solo después de los 30 #No es la mejor opción. Es lo más común.
+}
+
+::M9 U01 P3::Un técnico te subiría 3,000 al mes y cuesta 20,000 en total. ¿En cuántos meses lo recuperas? {
+	~3 #No es la mejor opción. 20,000 entre 3,000.
+	=Unos 7 #¡Correcto! 20,000 entre 3,000.
+	~20 #No es la mejor opción. 20,000 entre 3,000.
+}
+
+::M9 U02 P1::¿Qué pierdes en un trabajo «sin papeles»? {
+	~Nada, porque te pagan más en efectivo cada semana #No es la mejor opción. Pierdes protección.
+	=IMSS, Afore y prestaciones #¡Correcto! Pierdes protección.
+	~Solo el uniforme #No es la mejor opción. Pierdes protección.
+}
+
+::M9 U02 P2::¿Con qué buscas tu Afore? {
+	=Con tu CURP #¡Correcto! Te identifica.
+	~Con tu credencial de la escuela #No es la mejor opción. Te identifica.
+	~Con tu número de celular #No es la mejor opción. Te identifica.
+}
+
+::M9 U02 P3::¿Quién te orienta sin costo si no te pagan? {
+	~La tienda de la esquina #No es la mejor opción. Defensa del trabajo.
+	~Un gestor #No es la mejor opción. Defensa del trabajo.
+	=La PROFEDET #¡Correcto! Defensa del trabajo.
+}
+
+::M9 U03 P1::¿Qué ayuda a cumplir una meta? {
+	~Guardarla en secreto para que nadie opine de ella #No es la mejor opción. Así lo logras.
+	=Nombre, testigo y recordatorio #¡Correcto! Así lo logras.
+	~Esperar a tener suerte #No es la mejor opción. Así lo logras.
+}
+
+::M9 U03 P2::¿Qué no va en tu plan? {
+	~Tu meta de ahorro #No es la mejor opción. Son datos sensibles.
+	~Tu idea de negocio #No es la mejor opción. Son datos sensibles.
+	=Tus contraseñas #¡Correcto! Son datos sensibles.
+}
+
+::M9 U03 P3::Tu meta es 3,600 en 6 meses. ¿Cuánto apartas al mes? {
+	=600 #¡Correcto! 3,600 entre 6.
+	~360 #No es la mejor opción. 3,600 entre 6.
+	~6,000 #No es la mejor opción. 3,600 entre 6.
+}

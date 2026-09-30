@@ -1,0 +1,78 @@
+{
+ "variante": "joven_mx",
+ "puntaje": {
+  "P1": {
+   "Mucho menos": 100,
+   "Un poco menos": 75,
+   "Más o menos igual": 50,
+   "Un poco más": 25,
+   "Mucho más": 0
+  },
+  "P2": {
+   "Todos a tiempo": 100,
+   "Casi todos a tiempo": 60,
+   "La mayoría a tiempo": 40,
+   "Algunos a tiempo": 20,
+   "Muy pocos a tiempo": 0
+  },
+  "P3": {
+   "6 meses o más": 100,
+   "De 3 a 5 meses": 75,
+   "De 1 a 2 meses": 50,
+   "De 1 a 3 semanas": 25,
+   "Menos de 1 semana": 0
+  },
+  "P4": {
+   "Muy segura o seguro": 100,
+   "Bastante": 75,
+   "Algo": 50,
+   "Poco": 25,
+   "Nada": 0
+  },
+  "P5": {
+   "No tenemos deudas": 100,
+   "Manejables": 85,
+   "Un poco más de lo que podemos manejar": 40,
+   "Mucho más de lo que podemos manejar": 0
+  },
+  "P6": {
+   "Sí, con mi ahorro": 100,
+   "Sí, con ayuda de familia o un crédito formal que puedo pagar": 70,
+   "Con dificultad: con un préstamo caro o empeñando algo": 30,
+   "No podría": 0
+  },
+  "P7": {
+   "Muy segura o seguro": 100,
+   "Bastante": 75,
+   "Algo": 50,
+   "Poco": 25,
+   "Nada": 10,
+   "No tenemos ningún seguro ni seguridad social": 0
+  },
+  "P8": {
+   "Totalmente de acuerdo": 100,
+   "De acuerdo": 65,
+   "Ni de acuerdo ni en desacuerdo": 35,
+   "En desacuerdo": 15,
+   "Totalmente en desacuerdo": 0
+  }
+ },
+ "subindices": {
+  "gastar": [
+   "P1",
+   "P2"
+  ],
+  "ahorrar": [
+   "P3",
+   "P4"
+  ],
+  "deber": [
+   "P5",
+   "P6"
+  ],
+  "planear": [
+   "P7",
+   "P8"
+  ]
+ }
+}
