@@ -164,10 +164,10 @@ SBA, accessed September 29, 2026.
 |---|---|---|
 | Banks and credit unions | Loans and lines of credit. | They ask for history. |
 | CDFIs and nonprofit microlenders | Small loans; some accept an ITIN. | With coaching. |
-| SBA microloans | Through intermediaries. | Up to $50,000. |
+| SBA microloans | Through intermediaries; all owners must be citizens. | Up to $50,000. |
 | Merchant cash advances (MCA) | Daily payments; very expensive. | Avoid them. |
 
-> **Current fact:** the SBA microloan program offers loans of up to $50,000 through nonprofit intermediary organizations, which often also provide coaching. Accessed September 29, 2026 through the SBA.
+> **Current fact:** the SBA microloan program offers loans of up to $50,000 through nonprofit intermediary organizations, which often also provide coaching. Since April 1, 2026, all business owners must be U.S. citizens or nationals; people with an ITIN, green card or visa can look for CDFIs that lend their own funds. Accessed September 30, 2026 through the SBA (policy notice 5000-877232).
 
 #### Check before you apply
 

@@ -12,7 +12,7 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | LLC y nombre del negocio | Secretary of State; tu condado (DBA) | Con costo | Sin intermediarios |
 | Licencia de contratista | CSLB | Con costo | Límite de $1,000 |
 | Empleadores y salario mínimo | EDD y DIR | Gratis | Prueba ABC |
-| Préstamos | Bancos, cooperativas, CDFI, micropréstamos de la SBA | Según crédito | Licencia en el DFPI |
+| Préstamos | Bancos, cooperativas, CDFI; micropréstamos de la SBA (solo dueños ciudadanos) | Según crédito | Licencia en el DFPI |
 | Seguro médico | Covered California, Medi-Cal, clínicas comunitarias | Según ingreso | Consejeros certificados |
 | Fraudes | ReportFraud.ftc.gov; IC3 del FBI | Gratis | Guarda evidencia |
 | Robo de identidad | IdentityTheft.gov | Gratis | Plan de recuperación |

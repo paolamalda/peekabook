@@ -798,6 +798,12 @@ Poner la misma cantidad cada quincena, sin importar si suben o bajan las tasas, 
 
 
 
+#### Revisa tu inversión
+
+Cada mes, revisa tu estado de cuenta en Cetesdirecto: cuánto pusiste, cuánto ganaste y cuándo vence cada plazo. Lo que ganas en un Cete se vuelve tuyo al vencer; si retiras antes, puedes ganar menos. Si tu meta o tu plazo cambian, ajusta.
+
+
+
 #### Tus emociones también invierten
 
 El miedo te hace vender cuando algo baja; la emoción, comprar cuando «todos» compran. Decide con tu meta y tu plazo, no con lo que dicen en el grupo.

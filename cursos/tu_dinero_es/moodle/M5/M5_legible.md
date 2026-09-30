@@ -2207,7 +2207,13 @@ Rosa escribió su plan: esta semana, registrarse en AforeMóvil; este mes, actua
 
 Lo pegó en su refrigerador y lo revisa cada tres meses con su hija.
 
-> **Idea clave:** no se trata de hacerlo todo. Se trata de dar el siguiente paso.
+
+
+#### Tu compromiso
+
+Ponle nombre a una meta («fondo de tres meses para la familia»), decide cuánto apartas de cada pago y cuéntaselo a alguien de confianza. Programa el apartado automático el día que cobras y un recordatorio mensual con el nombre de tu meta.
+
+> **Idea clave:** no se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio.
 
 
 
@@ -2300,6 +2306,18 @@ Acuerden una fecha fija, por ejemplo el primer domingo de cada trimestre, para r
 Pueden usar una regla sencilla: cada quien dice un logro, una preocupación y un siguiente paso. Así la conversación es corta y útil.
 
 Si hay hijos mayores, inclúyelos en metas sencillas, como ahorrar para algo de la casa. Aprenden viendo.
+
+
+
+#### Por qué funciona
+
+Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
+
+
+
+#### Cuando cambian las reglas o la economía
+
+Leyes de migración, impuestos a remesas, programas públicos, tasas de interés y precios cambian. Confirma cada cambio en la fuente oficial (IRS, USCIS, tu condado, la CFPB), no en redes, y ajusta una parte de tu plan a la vez. Si un cambio toca tu situación migratoria, consulta a un abogado o a un representante acreditado.
 
 
 

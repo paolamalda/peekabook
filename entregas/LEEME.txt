@@ -1,19 +1,48 @@
-CARPETAS FINALES DE LOS CURSOS · Desarrolla Talento · Septiembre de 2026
+PROGRAMAS DE BIENESTAR FINANCIERO · Desarrolla Talento · 30 de septiembre de 2026
 
-Cada curso es una carpeta completa con la misma estructura:
-  00_LEEME        qué hay, cómo se arma y lista para dar el curso por completo
-  01_Manual       el programa (para coordinación)
-  02_Contenido    todo lo que ve la persona participante
-  03_Guia         instalación, gamificación y mantenimiento
-  04_Moodle       paquete listo para instalar, con el README para Claude
+A. ¿EL CURSO YA ESTÁ INSTALADO EN MOODLE? Usa la carpeta actualizaciones/
+   Cada zip trae solo lo que cambió, un README para Claude y LISTA_DE_CAMBIOS.txt. No reinstala nada:
+   se conservan actividades, intentos, calificaciones, insignias y puntos.
 
-Si un curso viene en varias partes, descomprímelas todas en el mismo lugar.
+   Tu_Turno_actualizacion_v1.1_a_v1.2                  Tu Turno, Tu Dinero, Tu Futuro
+   Tu_Patrimonio_actualizacion_v1.1_a_v1.2             Tu Patrimonio, Tu Tranquilidad, Tu Futuro
+   Tu_Negocio_MX_actualizacion_v1.1_a_v1.2             Tu Negocio · México
+   Tu_Negocio_US_ES_actualizacion_v1.1_a_v1.2          Tu Negocio · EE. UU. (español)
+   Your_Business_US_EN_update_v1.1_to_v1.2             Your Business · U.S. (inglés)
+   Tu_Talento_actualizacion_v1.2_a_v1.3                Tu Talento, Tu Marca, Tu Futuro
+   Tu_Dinero_ES_actualizacion_v3.2_a_v3.3              Tu Dinero, Tu Familia, Tu Futuro (español)
+   Your_Money_EN_update_v3.2_to_v3.3                   Your Money, Your Family, Your Future (inglés)
+   Comunidad_*_actualizacion_v1.1_a_v1.2 y
+   Your_Business_Community_US_EN_update_v1.1_to_v1.2   comunidades (5)
 
-Tu_Dinero_ES_v3.2_parte1de3..3de3        Tu Dinero, Tu Familia, Tu Futuro (español)
-Your_Money_EN_v3.2_parte1de3..3de3       Your Money, Your Family, Your Future (inglés)
-Tu_Talento_v1.2_parte1de3..3de3          Tu Talento, Tu Marca, Tu Futuro
-Comunidad_Tu_Talento_v1.1                Comunidad Tu Talento
+   Cada actualización de curso incluye una sección «Ajustes de plataforma (una sola vez)»: categoría de
+   preguntas con versión, insignias con el nombre del curso, constancia con la plantilla estándar, curso
+   visible con clave, mosaicos con porcentaje de avance, encuestas y tarjeta de catálogo. También agrega las
+   herramientas en Excel. La carpeta «9_para_el_equipo» (kit para facilitadores, guiones de WhatsApp y audio,
+   mapa OCDE) no se sube a Moodle.
 
-archivo_versiones_anteriores/  entregas previas, solo como historial; no se usan.
+B. ¿CURSO NUEVO EN OTRA PLATAFORMA O DESDE CERO? Usa las carpetas completas de esta carpeta.
+   Estructura: 00_LEEME · 01_Manual · 02_Contenido · 03_Guia · 04_Moodle (con el README para Claude).
+   Si un curso viene en varias partes, descomprímelas todas en el mismo lugar.
 
-Para regenerar las carpetas: python3 proyecto-inclusion-financiera/herramientas/carpetas_cursos.py
+   Tu_Turno_v1.2 (3 partes)              Tu_Patrimonio_v1.2 (3 partes)       Comunidad_Tu_Patrimonio_v1.2
+   Tu_Negocio_MX_v1.2 (3 partes)         Comunidad_Tu_Negocio_MX_v1.2
+   Tu_Negocio_US_ES_v1.2 (3 partes)      Comunidad_Tu_Negocio_US_ES_v1.2
+   Your_Business_US_EN_v1.2 (3 partes)   Your_Business_Community_US_EN_v1.2
+   Tu_Talento_v1.3 (4 partes)            Comunidad_Tu_Talento_v1.2
+   Tu_Dinero_ES_v3.3 (3 partes)          Your_Money_EN_v3.3 (3 partes)
+
+   En 03_Guia van también el kit para facilitadores (una sesión de 60 minutos por módulo) y los guiones de
+   WhatsApp y audio con recordatorios mensuales. En 04_Moodle/10_herramientas va el Excel descargable
+   (presupuesto, deudas, fondo de emergencia y meta; en cursos de negocio, además costo y precio, punto de
+   equilibrio y flujo de 8 semanas). En 01_Manual va el mapa de competencias OCDE.
+
+C. OTRAS PIEZAS
+   tablero/                     tablero de resultados de las encuestas (se abre en el navegador; ver LEEME_tablero.txt)
+   ../proyecto-inclusion-financiera/entregables/matriz/Matriz_comparativa_v1.xlsx
+                                matriz de productos: EE. UU. (personas y negocios) y México (personas y negocios,
+                                sin SOFIPO, SOCAP ni SOFOM)
+   archivo_versiones_anteriores/  entregas previas, solo como historial; no se usan.
+
+Para regenerar un curso completo:    python3 herramientas_cursos/curso.py cursos/<curso> todo carpeta
+Para regenerar el tablero:           python3 herramientas_cursos/tablero.py

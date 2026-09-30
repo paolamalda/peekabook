@@ -10,7 +10,7 @@
 #   instalacion/          README de instalación y guía de gamificación
 #   comunidad/            (opcional) libro, manual del profesor, moderación, calendario y README
 #
-# Uso: python3 herramientas_cursos/curso.py cursos/<carpeta> [libros h5p banco apoyo comunidad insignias verificar carpeta | todo]
+# Uso: python3 herramientas_cursos/curso.py cursos/<carpeta> [libros h5p banco apoyo comunidad insignias constancia encuesta catalogo ocde whatsapp kit herramientas verificar carpeta | todo]
 import re, os, sys, json, glob, html, zipfile, shutil, subprocess, importlib.util
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -447,12 +447,24 @@ def paso_instalacion():
     (instalacion_en if EN else instalacion_es).generar(D, CFG, lecciones)
 
 
-PASOS = {"instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
+def paso_whatsapp():
+    import extras; extras.guiones(D, CFG, lecciones, EN); print("guiones de WhatsApp y audio")
+
+
+def paso_kit():
+    import extras; extras.kit(D, CFG, lecciones, EN); print("kit para facilitadores")
+
+
+def paso_herramientas():
+    import extras; n, h = extras.hojas(D, CFG, EN); print("herramientas:", n, h)
+
+
+PASOS = {"whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
          "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo, "ocde": paso_ocde}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde"]
+    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

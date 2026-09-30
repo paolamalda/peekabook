@@ -2,7 +2,7 @@
 
 Para la persona que acompaña al grupo: abre la comunidad, da la sesión mensual, responde en los foros y lleva el orden. Si trabajan en equipo, sirve para repartir tareas; si eres una sola persona, síguelo completo.
 
-Versión 1.1 · Septiembre de 2026 · Acompaña al curso *Tu Negocio, Tu Dinero, Tu Futuro* (México) y a la *Guía de moderación*.
+Versión 1.2 · Septiembre de 2026 · Acompaña al curso *Tu Negocio, Tu Dinero, Tu Futuro* (México) y a la *Guía de moderación*.
 
 [[TOC]]
 

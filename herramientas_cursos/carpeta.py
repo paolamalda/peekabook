@@ -105,6 +105,11 @@ def construir(D, CFG):
         G.append(f"# {txt(en, 'Parte', 'Part')} {extra}. " + txt(en, "Comunidad y canales", "Community and channels") + "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, "comunidad_y_canales.md"))))); extra += 1
     if os.path.exists(os.path.join(I, "mantenimiento.md")):
         G.append(f"# {txt(en, 'Parte', 'Part')} {extra}. " + txt(en, "Mantenimiento", "Maintenance") + "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, "mantenimiento.md")))))
+    for md_, es_n, en_n, es_s, en_s in [("kit_facilitadores.md", "Kit_facilitadores", "Facilitator_kit", "Kit para facilitadores", "Facilitator kit"),
+                                        ("guiones_whatsapp_audio.md", "Guiones_WhatsApp_audio", "WhatsApp_audio_scripts", "Guiones de WhatsApp y audio", "WhatsApp and audio scripts")]:
+        p_ = os.path.join(D, "manual", md_ if not en else {"kit_facilitadores.md": "facilitator_kit.md", "guiones_whatsapp_audio.md": "whatsapp_audio_scripts.md"}[md_])
+        if os.path.exists(p_):
+            K.escribir(d[2], txt(en, es_n, en_n), [C.leer(p_)], tit, txt(en, f"{es_s} · Versión {ver}", f"{en_s} · Version {ver}"))
     g = K.escribir(d[2], F["guia"], G, tit, txt(en, f"Guía de implementación · Versión {ver}", f"Implementation guide · Version {ver}"))
     # 04 Moodle
     L, Gl, Pr, Bd, Ce, Gu, Vp, En = txt(en, ["1_libros", "3_glosario", "4_preguntas", "5_insignias", "6_constancia", "7_guias", "9_vista_previa", "8_encuestas"],
@@ -123,6 +128,7 @@ def construir(D, CFG):
     K.copiar(os.path.join(M, "insignias", "*.png"), os.path.join(mo, Bd))
     K.copiar(os.path.join(M, "constancia", "*.md"), os.path.join(mo, Ce))
     K.copiar(os.path.join(M, "encuesta", "*.xml"), os.path.join(mo, En)); K.copiar(os.path.join(M, "encuesta", "*.md"), os.path.join(mo, En))
+    K.copiar(os.path.join(M, "herramientas", "*.xlsx"), os.path.join(mo, txt(en, "10_herramientas", "10_tools")))
     K.copiar(os.path.join(M, txt(en, "tarjeta_catalogo.md", "catalog_card.md")), mo)
     gn = txt(en, "guia_gamificacion", "gamification_guide")
     K.copiar(os.path.join(I, gn + ".md"), os.path.join(mo, Gu))

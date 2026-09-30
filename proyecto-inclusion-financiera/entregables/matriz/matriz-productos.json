@@ -1,13 +1,16 @@
 {
- "fecha_verificacion": "2026-09-28",
+ "fecha_verificacion": "2026-09-30",
  "notas": [
   "Desde el 1 de enero de 2026 hay un impuesto federal de 1% a remesas fondeadas con efectivo, giro o cheque de caja; si se fondean desde cuenta bancaria o tarjeta no aplica.",
   "Todos los costos cambian. Antes de usar un producto, confirma en la página oficial o en sucursal.",
   "Bank On certifica cuentas de bajo costo sin sobregiros; en CA hay 79 cuentas certificadas (joinbankon.org).",
-  "El programa no recomienda productos ni recibe pagos de ellos. La matriz sirve para comparar y hacer preguntas."
+  "El programa no recomienda productos ni recibe pagos de ellos. La matriz sirve para comparar y hacer preguntas.",
+  "México: la matriz no incluye SOFIPO, SOCAP ni SOFOM. Verifica cualquier institución en el SIPRES de la CONDUSEF.",
+  "EE. UU., negocios: desde el 1 de abril de 2026, los préstamos respaldados por la SBA exigen que todos los dueños sean ciudadanos o nacionales de EE. UU.; quien tiene ITIN, visa o green card puede buscar CDFI con fondos propios."
  ],
  "productos": [
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "Bank of America Advantage SafeBalance",
    "costo_mensual": "$4.95",
@@ -24,6 +27,7 @@
    "id": "P001"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "Chase Secure Banking",
    "costo_mensual": "$4.95",
@@ -40,6 +44,7 @@
    "id": "P002"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "Wells Fargo Clear Access Banking",
    "costo_mensual": "$5",
@@ -56,6 +61,7 @@
    "id": "P003"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "Citi Access Checking",
    "costo_mensual": "$5",
@@ -72,6 +78,7 @@
    "id": "P004"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "U.S. Bank Safe Debit",
    "costo_mensual": "$4.95",
@@ -88,6 +95,7 @@
    "id": "P005"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "Capital One 360 Checking",
    "costo_mensual": "$0",
@@ -96,7 +104,7 @@
    "ssn_itin": "SSN o ITIN",
    "efectivo": "Gratis en CVS y Walgreens (hasta $1,500 al día y $5,000 al mes)",
    "cobertura": "Nacional",
-   "ventaja": "Sin cuotas; depósito en efectivo gratis",
+   "ventaja": "Sin cuotas; depósito en efectivo sin costo",
    "cuidado": "Pocas sucursales",
    "fuente": "https://www.capitalone.com/bank/checking-accounts/online-checking-account/",
    "fecha": "2026-09-28",
@@ -104,6 +112,7 @@
    "id": "P006"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Banco",
    "nombre": "BMO Smart Advantage",
    "costo_mensual": "$0 con estados de cuenta digitales ($3 en papel)",
@@ -120,6 +129,7 @@
    "id": "P007"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Self-Help Federal Credit Union",
    "costo_mensual": "Varía por cuenta",
@@ -136,6 +146,7 @@
    "id": "P008"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Golden 1 Credit Union",
    "costo_mensual": "$0 en varias cuentas",
@@ -152,6 +163,7 @@
    "id": "P009"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Kinecta Federal Credit Union",
    "costo_mensual": "$0 con $250 en depósito directo o depósito móvil",
@@ -168,6 +180,7 @@
    "id": "P010"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "SchoolsFirst Federal Credit Union",
    "costo_mensual": "$0",
@@ -184,6 +197,7 @@
    "id": "P011"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Patelco Credit Union",
    "costo_mensual": "$0",
@@ -200,6 +214,7 @@
    "id": "P012"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "San Diego County Credit Union (SDCCU)",
    "costo_mensual": "$0 con estados digitales",
@@ -216,6 +231,7 @@
    "id": "P013"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Valley Strong Credit Union",
    "costo_mensual": "$0",
@@ -232,6 +248,7 @@
    "id": "P014"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "CU SoCal",
    "costo_mensual": "$0 con estados digitales",
@@ -248,6 +265,7 @@
    "id": "P015"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Atchison Village Credit Union",
    "costo_mensual": "Varía",
@@ -264,6 +282,7 @@
    "id": "P016"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Community First Credit Union",
    "costo_mensual": "Varía",
@@ -280,6 +299,7 @@
    "id": "P017"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Comunidad Latina Federal Credit Union",
    "costo_mensual": "Varía",
@@ -296,6 +316,7 @@
    "id": "P018"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Downey Federal Credit Union",
    "costo_mensual": "Varía",
@@ -312,6 +333,7 @@
    "id": "P019"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Excite Credit Union",
    "costo_mensual": "Varía",
@@ -328,6 +350,7 @@
    "id": "P020"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Merco Credit Union",
    "costo_mensual": "Varía",
@@ -344,6 +367,7 @@
    "id": "P021"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "USC Credit Union",
    "costo_mensual": "Varía",
@@ -360,6 +384,7 @@
    "id": "P022"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Altura Credit Union",
    "costo_mensual": "Varía",
@@ -376,6 +401,7 @@
    "id": "P023"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "LA Federal Credit Union CONNECT",
    "costo_mensual": "$0 o bajo",
@@ -392,6 +418,7 @@
    "id": "P024"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Cooperativa (credit union)",
    "nombre": "Ventura County Credit Union Simply Essential Checking",
    "costo_mensual": "$0 o bajo",
@@ -408,6 +435,7 @@
    "id": "P025"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Comun",
    "costo_mensual": "$0",
@@ -424,6 +452,7 @@
    "id": "P026"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Majority",
    "costo_mensual": "$6.99",
@@ -440,6 +469,7 @@
    "id": "P027"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Zolve",
    "costo_mensual": "$0",
@@ -456,13 +486,14 @@
    "id": "P028"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Chime",
    "costo_mensual": "$0",
-   "costos_clave": "Depósitos gratis en Walgreens; $3 a $5 en otras tiendas",
+   "costos_clave": "Depósitos sin costo en Walgreens; $3 a $5 en otras tiendas",
    "identificacion": "Confirmar",
    "ssn_itin": "Fuentes contradictorias: SSN solo o SSN/ITIN",
-   "efectivo": "Walgreens gratis; otros con costo",
+   "efectivo": "Walgreens sin costo; otros con costo",
    "cobertura": "Nacional",
    "ventaja": "Sin cuotas; SpotMe",
    "cuidado": "Confirmar si acepta ITIN",
@@ -472,6 +503,7 @@
    "id": "P029"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Varo",
    "costo_mensual": "$0",
@@ -488,6 +520,7 @@
    "id": "P030"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Current",
    "costo_mensual": "$0",
@@ -504,6 +537,7 @@
    "id": "P031"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "SoFi Checking and Savings",
    "costo_mensual": "$0",
@@ -520,6 +554,7 @@
    "id": "P032"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Revolut US",
    "costo_mensual": "$0 plan básico",
@@ -536,6 +571,7 @@
    "id": "P033"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "OnePay (Walmart)",
    "costo_mensual": "$0",
@@ -552,6 +588,7 @@
    "id": "P034"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "Cash App",
    "costo_mensual": "$0",
@@ -568,6 +605,7 @@
    "id": "P035"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Neobanco o app",
    "nombre": "PayPal / Venmo",
    "costo_mensual": "$0",
@@ -584,6 +622,7 @@
    "id": "P036"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Remitly",
    "costo_mensual": "N/A",
@@ -600,6 +639,7 @@
    "id": "P037"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Western Union",
    "costo_mensual": "N/A",
@@ -616,6 +656,7 @@
    "id": "P038"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "MoneyGram",
    "costo_mensual": "N/A",
@@ -632,6 +673,7 @@
    "id": "P039"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Xoom (PayPal)",
    "costo_mensual": "N/A",
@@ -648,6 +690,7 @@
    "id": "P040"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Wise",
    "costo_mensual": "N/A",
@@ -664,6 +707,7 @@
    "id": "P041"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Ria / Walmart2Walmart",
    "costo_mensual": "N/A",
@@ -680,6 +724,7 @@
    "id": "P042"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Intermex",
    "costo_mensual": "N/A",
@@ -696,6 +741,7 @@
    "id": "P043"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Félix Pago",
    "costo_mensual": "N/A",
@@ -712,6 +758,7 @@
    "id": "P044"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "BOSS Revolution",
    "costo_mensual": "N/A",
@@ -728,15 +775,16 @@
    "id": "P045"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Pangea",
    "costo_mensual": "N/A",
-   "costos_clave": "Primer envío gratis",
+   "costos_clave": "Primer envío sin costo",
    "identificacion": "Confirmar",
    "ssn_itin": "Confirmar",
    "efectivo": "40,000 puntos de pago",
    "cobertura": "EE. UU. a México",
-   "ventaja": "Primera transferencia gratis",
+   "ventaja": "Primera transferencia sin costo",
    "cuidado": "Revisa tipo de cambio",
    "fuente": "https://pangeamoneytransfer.com/",
    "fecha": "2026-09-28",
@@ -744,6 +792,7 @@
    "id": "P046"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Sendwave",
    "costo_mensual": "N/A",
@@ -760,6 +809,7 @@
    "id": "P047"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "WorldRemit",
    "costo_mensual": "N/A",
@@ -776,6 +826,7 @@
    "id": "P048"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Remesadora (EE. UU. a México)",
    "nombre": "Viamericas",
    "costo_mensual": "N/A",
@@ -792,6 +843,7 @@
    "id": "P049"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Self Credit Builder",
    "costo_mensual": "$9 de administración",
@@ -808,6 +860,7 @@
    "id": "P050"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Capital One Platinum Secured",
    "costo_mensual": "$0 anualidad",
@@ -824,6 +877,7 @@
    "id": "P051"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "OpenSky Secured Visa",
    "costo_mensual": "$35 anual",
@@ -840,6 +894,7 @@
    "id": "P052"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "OpenSky Plus Secured Visa",
    "costo_mensual": "$0 anualidad",
@@ -856,6 +911,7 @@
    "id": "P053"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Chime Card (antes Credit Builder)",
    "costo_mensual": "$0",
@@ -872,6 +928,7 @@
    "id": "P054"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Kikoff",
    "costo_mensual": "$5, $20 o $35",
@@ -888,6 +945,7 @@
    "id": "P055"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Mission Asset Fund: círculos de préstamo",
    "costo_mensual": "$0",
@@ -904,6 +962,7 @@
    "id": "P056"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Discover it Secured",
    "costo_mensual": "$0",
@@ -920,6 +979,7 @@
    "id": "P057"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Nova Credit",
    "costo_mensual": "N/A",
@@ -936,6 +996,7 @@
    "id": "P058"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Construcción de crédito",
    "nombre": "Zolve Classic (tarjeta)",
    "costo_mensual": "$0",
@@ -952,10 +1013,11 @@
    "id": "P059"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Tarjeta prepagada",
    "nombre": "Walmart MoneyCard",
    "costo_mensual": "$5.94",
-   "costos_clave": "Exento con $500 en depósito directo; recarga $3 (gratis por app en Walmart)",
+   "costos_clave": "Exento con $500 en depósito directo; recarga $3 (sin costo por app en Walmart)",
    "identificacion": "ID extranjera aceptada",
    "ssn_itin": "SSN, TIN o ID extranjera",
    "efectivo": "Sí, en Walmart",
@@ -968,6 +1030,7 @@
    "id": "P060"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Tarjeta prepagada",
    "nombre": "Netspend",
    "costo_mensual": "$9.95 o $1.95 por compra",
@@ -984,6 +1047,7 @@
    "id": "P061"
   },
   {
+   "pais": "EE. UU. · personas",
    "categoria": "Tarjeta prepagada",
    "nombre": "Green Dot",
    "costo_mensual": "$7.95",
@@ -998,6 +1062,295 @@
    "fecha": "2026-09-28",
    "estado": "por confirmar",
    "id": "P062"
+  },
+  {
+   "pais": "México · personas",
+   "categoria": "Cuenta (México)",
+   "nombre": "Cuenta básica para el público en general (cualquier banco)",
+   "costo_mensual": "$0",
+   "costos_clave": "La ley obliga a los bancos a ofrecerla; nivel 2: abonos de hasta 3,000 UDIS al mes (unos 26,000 pesos)",
+   "identificacion": "INE o pasaporte",
+   "ssn_itin": "CURP",
+   "efectivo": "Sí, en sucursal y cajeros del banco",
+   "cobertura": "Nacional",
+   "ventaja": "Sin comisión por manejo de cuenta",
+   "cuidado": "Límite de abonos al mes; pregunta por ella por su nombre",
+   "fuente": "https://www.condusef.gob.mx/?p=contenido&idc=978&idcat=1",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P063"
+  },
+  {
+   "pais": "México · personas",
+   "categoria": "Cuenta (México)",
+   "nombre": "Banco del Bienestar · cuenta de ahorro",
+   "costo_mensual": "$0",
+   "costos_clave": "Apertura con 50 pesos; sin saldo mínimo; 58 pesos al mes si pasa 12 meses sin movimientos",
+   "identificacion": "INE, pasaporte, licencia, cartilla, cédula o INAPAM + comprobante de domicilio",
+   "ssn_itin": "CURP",
+   "efectivo": "Sí, sin costo en ventanilla y cajeros propios",
+   "cobertura": "Nacional (sucursales en municipios pequeños)",
+   "ventaja": "Retiros y depósitos sin costo en el propio banco",
+   "cuidado": "Cobro por inactividad",
+   "fuente": "https://www.gob.mx/bancodelbienestar",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P064"
+  },
+  {
+   "pais": "México · personas",
+   "categoria": "Cuenta (México)",
+   "nombre": "Nu México · Cuenta Nu",
+   "costo_mensual": "$0",
+   "costos_clave": "Banco desde el 6 ago 2026; depósitos protegidos por el IPAB hasta 400,000 UDIS",
+   "identificacion": "INE",
+   "ssn_itin": "CURP",
+   "efectivo": "Depósito en tiendas aliadas (confirmar costo)",
+   "cobertura": "Nacional (solo app)",
+   "ventaja": "Sin comisiones; protegida por IPAB",
+   "cuidado": "Sin sucursales",
+   "fuente": "https://nu.com.mx/",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P065"
+  },
+  {
+   "pais": "México · personas",
+   "categoria": "Cuenta (México)",
+   "nombre": "Spin by OXXO",
+   "costo_mensual": "$0 los primeros 12 meses; luego $20 al mes",
+   "costos_clave": "Tarjeta física $50; depósito en OXXO $5 a $12; retiro $12 a $17",
+   "identificacion": "INE",
+   "ssn_itin": "CURP",
+   "efectivo": "Sí, en OXXO con costo",
+   "cobertura": "Nacional",
+   "ventaja": "Deposita y retira en cualquier OXXO",
+   "cuidado": "Es fondo de pago electrónico (IFPE), no banco: sin protección del IPAB",
+   "fuente": "https://spinbyoxxo.com.mx/costos-y-comisiones",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P066"
+  },
+  {
+   "pais": "México · personas",
+   "categoria": "Cuenta (México)",
+   "nombre": "DiMo (Banxico): transferir con número de celular",
+   "costo_mensual": "$0",
+   "costos_clave": "Vinculas tu celular a tu cuenta desde la app del banco",
+   "identificacion": "La de tu banco",
+   "ssn_itin": "N/A",
+   "efectivo": "N/A",
+   "cobertura": "Bancos participantes (BBVA, Santander, Banregio, Hey Banco, Banco Azteca y otros)",
+   "ventaja": "Sin CLABE; sin costo",
+   "cuidado": "Confirma el nombre de quien recibe antes de enviar",
+   "fuente": "https://www.banxico.org.mx/",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P067"
+  },
+  {
+   "pais": "México · negocios",
+   "categoria": "Cobros del negocio (México)",
+   "nombre": "Mercado Pago Point (terminal)",
+   "costo_mensual": "Pago único del lector; sin renta",
+   "costos_clave": "Comisión típica 3.5% + IVA por venta con tarjeta",
+   "identificacion": "INE",
+   "ssn_itin": "RFC (confirmar)",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Lector barato; sin renta mensual",
+   "cuidado": "La cuenta de Mercado Pago no es banco: retira tu dinero a tu cuenta",
+   "fuente": "https://www.mercadopago.com.mx/herramientas-para-vender/lectores-point",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P068"
+  },
+  {
+   "pais": "México · negocios",
+   "categoria": "Cobros del negocio (México)",
+   "nombre": "Clip (terminal)",
+   "costo_mensual": "Pago único del lector; sin renta",
+   "costos_clave": "3.6% + IVA por venta aprobada; más si das meses sin intereses",
+   "identificacion": "INE",
+   "ssn_itin": "RFC (confirmar)",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Sin renta mensual",
+   "cuidado": "Sobretasa con meses sin intereses",
+   "fuente": "https://www.clip.mx/",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P069"
+  },
+  {
+   "pais": "México · negocios",
+   "categoria": "Cobros del negocio (México)",
+   "nombre": "Transferencia SPEI o DiMo al negocio",
+   "costo_mensual": "$0 en la mayoría de bancos",
+   "costos_clave": "El cliente te transfiere a tu CLABE o celular",
+   "identificacion": "La de tu banco",
+   "ssn_itin": "RFC si facturas",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Sin comisión por venta",
+   "cuidado": "Confirma que el dinero llegó antes de entregar",
+   "fuente": "https://www.banxico.org.mx/",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P070"
+  },
+  {
+   "pais": "México · negocios",
+   "categoria": "Cobros del negocio (México)",
+   "nombre": "RESICO (régimen fiscal del SAT)",
+   "costo_mensual": "N/A",
+   "costos_clave": "Personas físicas con ingresos de hasta 3.5 millones de pesos al año; ISR bajo sobre lo que cobras",
+   "identificacion": "e.firma",
+   "ssn_itin": "RFC",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Impuesto bajo y trámite simple",
+   "cuidado": "Declaración mensual aunque no vendas",
+   "fuente": "https://www.sat.gob.mx/",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P071"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Cuenta y cobros del negocio (EE. UU.)",
+   "nombre": "Novo Business Checking",
+   "costo_mensual": "$0",
+   "costos_clave": "Sin saldo mínimo; ACH y depósitos móviles sin costo",
+   "identificacion": "Licencia o pasaporte",
+   "ssn_itin": "SSN para el dueño; EIN del negocio (confirmar ITIN)",
+   "efectivo": "Limitado (giros o tiendas)",
+   "cobertura": "Nacional (solo app)",
+   "ventaja": "Sin cuota mensual",
+   "cuidado": "Poco manejo de efectivo",
+   "fuente": "https://www.novo.co/business-banking",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P072"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Cuenta y cobros del negocio (EE. UU.)",
+   "nombre": "Bluevine Standard",
+   "costo_mensual": "$0",
+   "costos_clave": "Plus $30 y Premier $95 al mes, exentables",
+   "identificacion": "Licencia o pasaporte",
+   "ssn_itin": "SSN (confirmar ITIN)",
+   "efectivo": "Con costo en tiendas",
+   "cobertura": "Nacional (solo app)",
+   "ventaja": "Plan básico sin cuota",
+   "cuidado": "Planes pagados caros",
+   "fuente": "https://www.bluevine.com/business-checking/plans-and-pricing",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P073"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Cuenta y cobros del negocio (EE. UU.)",
+   "nombre": "Chase Business Complete Banking",
+   "costo_mensual": "$15",
+   "costos_clave": "Exenta con saldo mínimo o ventas con tarjeta (ver condiciones)",
+   "identificacion": "ID oficial; en sucursal puede aceptar otra ID",
+   "ssn_itin": "SSN, ITIN o EIN",
+   "efectivo": "Sí, en sucursal",
+   "cobertura": "Nacional",
+   "ventaja": "Acepta ITIN; sucursales",
+   "cuidado": "Cuota si no cumples exención",
+   "fuente": "https://www.chase.com/business/banking/checking/business-complete-banking",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P074"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Cuenta y cobros del negocio (EE. UU.)",
+   "nombre": "Square (cobros con tarjeta)",
+   "costo_mensual": "$0 plan Free",
+   "costos_clave": "2.6% + 15¢ en persona; 3.3% + 30¢ en línea o factura",
+   "identificacion": "ID oficial",
+   "ssn_itin": "SSN o EIN (confirmar ITIN)",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Sin renta; lector barato",
+   "cuidado": "El costo sube en ventas en línea",
+   "fuente": "https://squareup.com/us/en/payments/our-fees",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P075"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Crédito para negocio (EE. UU.)",
+   "nombre": "Accion Opportunity Fund",
+   "costo_mensual": "N/A",
+   "costos_clave": "Préstamos de $5,000 a $250,000; comisión de apertura de 3% a 5%; sin penalización por pago anticipado",
+   "identificacion": "ID oficial",
+   "ssn_itin": "SSN o ITIN",
+   "efectivo": "N/A",
+   "cobertura": "Nacional salvo VT, MT, ND, SD, TN y DC",
+   "ventaja": "Acepta ITIN; organización sin fines de lucro (CDFI)",
+   "cuidado": "Comisión de apertura",
+   "fuente": "https://aofund.org/",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P076"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Crédito para negocio (EE. UU.)",
+   "nombre": "Micropréstamos de la SBA",
+   "costo_mensual": "N/A",
+   "costos_clave": "Hasta $50,000 por intermediarios sin fines de lucro",
+   "identificacion": "ID oficial",
+   "ssn_itin": "Desde 1 abr 2026: todos los dueños deben ser ciudadanos o nacionales de EE. UU.",
+   "efectivo": "N/A",
+   "cobertura": "Nacional",
+   "ventaja": "Con asesoría",
+   "cuidado": "No aplica a dueños con ITIN, visa o green card",
+   "fuente": "https://www.sba.gov/funding-programs/loans/microloans",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P077"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Crédito para negocio (EE. UU.)",
+   "nombre": "CDFI de tu zona (préstamos con fondos propios)",
+   "costo_mensual": "N/A",
+   "costos_clave": "Montos y tasas varían; muchas dan asesoría",
+   "identificacion": "Varía",
+   "ssn_itin": "Muchas aceptan ITIN",
+   "efectivo": "N/A",
+   "cobertura": "Local",
+   "ventaja": "Opción para dueños sin ciudadanía",
+   "cuidado": "Verifica que esté certificada en el CDFI Fund",
+   "fuente": "https://www.cdfifund.gov/",
+   "fecha": "2026-09-30",
+   "estado": "por confirmar",
+   "id": "P078"
+  },
+  {
+   "pais": "EE. UU. · negocios",
+   "categoria": "Crédito para negocio (EE. UU.)",
+   "nombre": "Mission Asset Fund: círculos de préstamo para negocio",
+   "costo_mensual": "$0",
+   "costos_clave": "Préstamos al 0% que reportan a burós",
+   "identificacion": "Varía",
+   "ssn_itin": "Acepta ITIN",
+   "efectivo": "N/A",
+   "cobertura": "Nacional (sede en CA)",
+   "ventaja": "0% interés; construye historial",
+   "cuidado": "Requiere compromiso grupal",
+   "fuente": "https://www.missionassetfund.org/",
+   "fecha": "2026-09-30",
+   "estado": "verificado",
+   "id": "P079"
   }
  ]
 }

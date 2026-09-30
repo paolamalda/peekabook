@@ -111,8 +111,8 @@
  },
  "comunidad": {
   "titulo": "Your Business Community · U.S.",
-  "subtitulo": "Version 1.1 · United States · English · Desarrolla Talento · September 2026",
-  "version": "1.1",
+  "subtitulo": "Version 1.2 · United States · English · Desarrolla Talento · September 2026",
+  "version": "1.2",
   "intro": "Companion to the course Your Business, Your Money, Your Future (U.S.): a separate Moodle space for questions by topic, scam alerts, a forum to introduce your business, wins and a monthly live session. Complemented by a WhatsApp channel.",
   "leads": {
    "01": "What the community is, what you'll find and how to get started.",
@@ -120,11 +120,11 @@
    "03": "How to ask questions and how to introduce your business.",
    "04": "The dates of the year that matter to entrepreneurs in the United States.",
    "05": "The monthly session, monthly challenges and the survey.",
-   "06": "What is education and what is a commercial offer, with full transparency."
+   "06": "What is program content and what is a commercial offer, with full transparency."
   },
   "carpeta": {
    "nombre": "Your_Business_Community_US_EN",
-   "zip": "Your_Business_Community_US_EN_v1.1",
+   "zip": "Your_Business_Community_US_EN_v1.2",
    "descripciones": [
     "Teacher manual (launch, routine, live session, answers, log and ready-made texts) and community manual (spaces, channel and moderation).",
     "Book \"Community guide\" (6 chapters) in .docx and .md.",

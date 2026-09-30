@@ -12,7 +12,7 @@ All options in this table are official or nonprofit. Information checked on Sept
 | LLC and business name | Secretary of State; your county (DBA) | Paid | No middlemen |
 | Contractor license | CSLB | Paid | $1,000 limit |
 | Employers and minimum wage | EDD and DIR | No cost | ABC test |
-| Loans | Banks, credit unions, CDFIs, SBA microloans | Depends on credit | License with the DFPI |
+| Loans | Banks, credit unions, CDFIs; SBA microloans (citizen owners only) | Depends on credit | License with the DFPI |
 | Health insurance | Covered California, Medi-Cal, community clinics | Based on income | Certified enrollers |
 | Scams | ReportFraud.ftc.gov; FBI IC3 | No cost | Keep evidence |
 | Identity theft | IdentityTheft.gov | No cost | Recovery plan |

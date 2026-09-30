@@ -4,12 +4,12 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 d = json.load(open(os.path.join(BASE, "entregables/matriz/matriz-productos.json")))
-cols = [("id","ID",7),("nombre","Producto",32),("costo_mensual","Costo mensual",16),("costos_clave","Costos clave",40),
- ("identificacion","Identificación aceptada",30),("ssn_itin","SSN / ITIN",28),("efectivo","Depósito o pago en efectivo",28),
+cols = [("id","ID",7),("pais","País y tipo",18),("nombre","Producto",32),("costo_mensual","Costo mensual",16),("costos_clave","Costos clave",40),
+ ("identificacion","Identificación aceptada",30),("ssn_itin","Número fiscal o de identidad (SSN, ITIN, CURP, RFC)",30),("efectivo","Depósito o pago en efectivo",28),
  ("cobertura","Cobertura",22),("ventaja","Ventaja",30),("cuidado","Cuidado",30),("estado","Estado",14),("fecha","Verificado",12),("fuente","Fuente",45)]
 hdr = PatternFill("solid", fgColor="1F5C4A"); amber = PatternFill("solid", fgColor="FFF4D6")
 wb = Workbook(); ws = wb.active; ws.title = "Notas"
-ws.append(["Matriz comparativa de productos financieros para personas migrantes (California primero)"]); ws["A1"].font = Font(bold=True, size=14)
+ws.append(["Matriz comparativa de productos financieros para personas y negocios en EE. UU. y México"]); ws["A1"].font = Font(bold=True, size=14)
 ws.append([f"Fecha de verificación: {d['fecha_verificacion']}. Filas en amarillo: por confirmar."]); ws.append([])
 for n in d["notas"]: ws.append(["• " + n])
 ws.column_dimensions["A"].width = 120
@@ -26,7 +26,9 @@ def sheet(title, rows):
         for cell in row: cell.alignment = Alignment(wrap_text=True, vertical="top")
     s.freeze_panes = "C2"; s.auto_filter.ref = s.dimensions
 sheet("Todos", d["productos"])
-for cat in dict.fromkeys(r["categoria"] for r in d["productos"]):
+for p in dict.fromkeys(r["pais"] for r in d["productos"]):
+    sheet(p.replace("·", "-"), [r for r in d["productos"] if r["pais"] == p])
+for cat in dict.fromkeys(r["categoria"] for r in d["productos"] if r["pais"] == "EE. UU. · personas"):
     sheet(cat.split(" (")[0], [r for r in d["productos"] if r["categoria"] == cat])
 wb.save(os.path.join(BASE, "entregables/matriz/Matriz_comparativa_v1.xlsx"))
 

@@ -111,8 +111,8 @@
  },
  "comunidad": {
   "titulo": "Comunidad Tu Negocio EE. UU.",
-  "subtitulo": "Versión 1.1 · Estados Unidos · Español · Desarrolla Talento · Septiembre de 2026",
-  "version": "1.1",
+  "subtitulo": "Versión 1.2 · Estados Unidos · Español · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.2",
   "intro": "Complemento del curso Tu Negocio, Tu Dinero, Tu Futuro (EE. UU.): espacio aparte en Moodle para dudas por tema, alertas de fraude, un foro para presentar tu negocio, logros y una sesión mensual en vivo. Se complementa con un canal de WhatsApp.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -120,11 +120,11 @@
    "03": "Cómo preguntar y cómo presentar tu negocio.",
    "04": "Las fechas del año que importan a quien emprende en Estados Unidos.",
    "05": "La sesión mensual, los retos del mes y la encuesta.",
-   "06": "Qué es educación y qué es una oferta comercial, con total transparencia."
+   "06": "Qué es contenido del programa y qué es una oferta comercial, con total transparencia."
   },
   "carpeta": {
    "nombre": "Comunidad_Tu_Negocio_US_ES",
-   "zip": "Comunidad_Tu_Negocio_US_ES_v1.1",
+   "zip": "Comunidad_Tu_Negocio_US_ES_v1.2",
    "descripciones": [
     "Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",

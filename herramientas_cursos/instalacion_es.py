@@ -8,6 +8,7 @@ def generar(D, CFG, lecciones):
     tot = sum(n.values()); nm = len(MODS)
     pts = (tot + 2 * nm) * 25
     sec_apoyo, sec_eval = nm + 1, nm + 2
+    herr = "; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas" if CFG.get("negocio") else ""
     tit, corto = CFG["titulo"], I["nombre_corto"]
     cat, banco = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     filas_sec = "\n".join(f"| {i} | {t} | " + (f"Contenido de `1_libros/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"
@@ -79,6 +80,8 @@ En cada sección de módulo:
 ## 4. Libro de apoyo
 
 En la sección {sec_apoyo}, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
+
+En la misma sección {sec_apoyo}, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto{herr}. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
 
 ## 5. Glosario
 

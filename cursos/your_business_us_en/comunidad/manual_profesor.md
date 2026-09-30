@@ -2,7 +2,7 @@
 
 For the person who accompanies the group: opens the community, runs the monthly session, answers in the forums and keeps things organized. If you work as a team, use it to divide tasks; if you're one person, follow it all.
 
-Version 1.1 · September 2026 · Accompanies the course *Your Business, Your Money, Your Future* (U.S., English) and the *Moderation guide*.
+Version 1.2 · September 2026 · Accompanies the course *Your Business, Your Money, Your Future* (U.S., English) and the *Moderation guide*.
 
 [[TOC]]
 

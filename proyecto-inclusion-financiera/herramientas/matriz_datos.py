@@ -1,11 +1,12 @@
 # Datos de la matriz comparativa. Fecha de verificación: 2026-09-28 (búsqueda web).
-# Campos: id, categoria, nombre, costo_mensual, costos_clave, identificacion, ssn_itin, efectivo, cobertura, ventaja, cuidado, fuente, estado
+# Campos: id, pais, categoria, nombre, costo_mensual, costos_clave, identificacion, ssn_itin, efectivo, cobertura, ventaja, cuidado, fuente, estado
 import json, os
 F = "2026-09-28"
 V, P = "verificado", "por confirmar"
 rows = []
+PAIS = "EE. UU. · personas"
 def add(cat, nombre, costo, clave, ident, ssn, efectivo, cob, ventaja, cuidado, fuente, estado=V):
-    rows.append(dict(categoria=cat, nombre=nombre, costo_mensual=costo, costos_clave=clave, identificacion=ident,
+    rows.append(dict(pais=PAIS, categoria=cat, nombre=nombre, costo_mensual=costo, costos_clave=clave, identificacion=ident,
         ssn_itin=ssn, efectivo=efectivo, cobertura=cob, ventaja=ventaja, cuidado=cuidado, fuente=fuente, fecha=F, estado=estado))
 
 B = "Banco"
@@ -82,12 +83,42 @@ add(T,"Walmart MoneyCard","$5.94","Exento con $500 en depósito directo; recarga
 add(T,"Netspend","$9.95 o $1.95 por compra","$5 al mes con $500 en depósito directo","Confirmar","Confirmar","Sí, con costo","Nacional","Planes a elegir","Cuotas altas","https://www.netspend.com/",P)
 add(T,"Green Dot","$7.95","Exento con $500 en depósito directo; plan por uso $1.50","Confirmar","Confirmar","Sí, con costo","Nacional","Muy disponible","Cuota mensual","https://www.greendot.com/",P)
 
+# --- México · personas (sin SOFIPO, SOCAP ni SOFOM) · verificado 2026-09-30
+F = "2026-09-30"
+PAIS = "México · personas"
+MB = "Cuenta (México)"
+add(MB,"Cuenta básica para el público en general (cualquier banco)","$0","La ley obliga a los bancos a ofrecerla; nivel 2: abonos de hasta 3,000 UDIS al mes (unos 26,000 pesos)","INE o pasaporte","CURP","Sí, en sucursal y cajeros del banco","Nacional","Sin comisión por manejo de cuenta","Límite de abonos al mes; pregunta por ella por su nombre","https://www.condusef.gob.mx/?p=contenido&idc=978&idcat=1")
+add(MB,"Banco del Bienestar · cuenta de ahorro","$0","Apertura con 50 pesos; sin saldo mínimo; 58 pesos al mes si pasa 12 meses sin movimientos","INE, pasaporte, licencia, cartilla, cédula o INAPAM + comprobante de domicilio","CURP","Sí, sin costo en ventanilla y cajeros propios","Nacional (sucursales en municipios pequeños)","Retiros y depósitos sin costo en el propio banco","Cobro por inactividad","https://www.gob.mx/bancodelbienestar")
+add(MB,"Nu México · Cuenta Nu","$0","Banco desde el 6 ago 2026; depósitos protegidos por el IPAB hasta 400,000 UDIS","INE","CURP","Depósito en tiendas aliadas (confirmar costo)","Nacional (solo app)","Sin comisiones; protegida por IPAB","Sin sucursales","https://nu.com.mx/")
+add(MB,"Spin by OXXO","$0 los primeros 12 meses; luego $20 al mes","Tarjeta física $50; depósito en OXXO $5 a $12; retiro $12 a $17","INE","CURP","Sí, en OXXO con costo","Nacional","Deposita y retira en cualquier OXXO","Es fondo de pago electrónico (IFPE), no banco: sin protección del IPAB","https://spinbyoxxo.com.mx/costos-y-comisiones")
+add(MB,"DiMo (Banxico): transferir con número de celular","$0","Vinculas tu celular a tu cuenta desde la app del banco","La de tu banco","N/A","N/A","Bancos participantes (BBVA, Santander, Banregio, Hey Banco, Banco Azteca y otros)","Sin CLABE; sin costo","Confirma el nombre de quien recibe antes de enviar","https://www.banxico.org.mx/")
+PAIS = "México · negocios"
+MN = "Cobros del negocio (México)"
+add(MN,"Mercado Pago Point (terminal)","Pago único del lector; sin renta","Comisión típica 3.5% + IVA por venta con tarjeta","INE","RFC (confirmar)","N/A","Nacional","Lector barato; sin renta mensual","La cuenta de Mercado Pago no es banco: retira tu dinero a tu cuenta","https://www.mercadopago.com.mx/herramientas-para-vender/lectores-point",P)
+add(MN,"Clip (terminal)","Pago único del lector; sin renta","3.6% + IVA por venta aprobada; más si das meses sin intereses","INE","RFC (confirmar)","N/A","Nacional","Sin renta mensual","Sobretasa con meses sin intereses","https://www.clip.mx/",P)
+add(MN,"Transferencia SPEI o DiMo al negocio","$0 en la mayoría de bancos","El cliente te transfiere a tu CLABE o celular","La de tu banco","RFC si facturas","N/A","Nacional","Sin comisión por venta","Confirma que el dinero llegó antes de entregar","https://www.banxico.org.mx/")
+add(MN,"RESICO (régimen fiscal del SAT)","N/A","Personas físicas con ingresos de hasta 3.5 millones de pesos al año; ISR bajo sobre lo que cobras","e.firma","RFC","N/A","Nacional","Impuesto bajo y trámite simple","Declaración mensual aunque no vendas","https://www.sat.gob.mx/",P)
+# --- EE. UU. · negocios · verificado 2026-09-30
+PAIS = "EE. UU. · negocios"
+UB = "Cuenta y cobros del negocio (EE. UU.)"
+add(UB,"Novo Business Checking","$0","Sin saldo mínimo; ACH y depósitos móviles sin costo","Licencia o pasaporte","SSN para el dueño; EIN del negocio (confirmar ITIN)","Limitado (giros o tiendas)","Nacional (solo app)","Sin cuota mensual","Poco manejo de efectivo","https://www.novo.co/business-banking",P)
+add(UB,"Bluevine Standard","$0","Plus $30 y Premier $95 al mes, exentables","Licencia o pasaporte","SSN (confirmar ITIN)","Con costo en tiendas","Nacional (solo app)","Plan básico sin cuota","Planes pagados caros","https://www.bluevine.com/business-checking/plans-and-pricing",P)
+add(UB,"Chase Business Complete Banking","$15","Exenta con saldo mínimo o ventas con tarjeta (ver condiciones)","ID oficial; en sucursal puede aceptar otra ID","SSN, ITIN o EIN","Sí, en sucursal","Nacional","Acepta ITIN; sucursales","Cuota si no cumples exención","https://www.chase.com/business/banking/checking/business-complete-banking")
+add(UB,"Square (cobros con tarjeta)","$0 plan Free","2.6% + 15¢ en persona; 3.3% + 30¢ en línea o factura","ID oficial","SSN o EIN (confirmar ITIN)","N/A","Nacional","Sin renta; lector barato","El costo sube en ventas en línea","https://squareup.com/us/en/payments/our-fees",P)
+UC = "Crédito para negocio (EE. UU.)"
+add(UC,"Accion Opportunity Fund","N/A","Préstamos de $5,000 a $250,000; comisión de apertura de 3% a 5%; sin penalización por pago anticipado","ID oficial","SSN o ITIN","N/A","Nacional salvo VT, MT, ND, SD, TN y DC","Acepta ITIN; organización sin fines de lucro (CDFI)","Comisión de apertura","https://aofund.org/")
+add(UC,"Micropréstamos de la SBA","N/A","Hasta $50,000 por intermediarios sin fines de lucro","ID oficial","Desde 1 abr 2026: todos los dueños deben ser ciudadanos o nacionales de EE. UU.","N/A","Nacional","Con asesoría","No aplica a dueños con ITIN, visa o green card","https://www.sba.gov/funding-programs/loans/microloans")
+add(UC,"CDFI de tu zona (préstamos con fondos propios)","N/A","Montos y tasas varían; muchas dan asesoría","Varía","Muchas aceptan ITIN","N/A","Local","Opción para dueños sin ciudadanía","Verifica que esté certificada en el CDFI Fund","https://www.cdfifund.gov/",P)
+add(UC,"Mission Asset Fund: círculos de préstamo para negocio","$0","Préstamos al 0% que reportan a burós","Varía","Acepta ITIN","N/A","Nacional (sede en CA)","0% interés; construye historial","Requiere compromiso grupal","https://www.missionassetfund.org/")
+
 for i, r in enumerate(rows, 1): r["id"] = f"P{i:03d}"
 notas = ["Desde el 1 de enero de 2026 hay un impuesto federal de 1% a remesas fondeadas con efectivo, giro o cheque de caja; si se fondean desde cuenta bancaria o tarjeta no aplica.",
  "Todos los costos cambian. Antes de usar un producto, confirma en la página oficial o en sucursal.",
  "Bank On certifica cuentas de bajo costo sin sobregiros; en CA hay 79 cuentas certificadas (joinbankon.org).",
- "El programa no recomienda productos ni recibe pagos de ellos. La matriz sirve para comparar y hacer preguntas."]
+ "El programa no recomienda productos ni recibe pagos de ellos. La matriz sirve para comparar y hacer preguntas.",
+ "México: la matriz no incluye SOFIPO, SOCAP ni SOFOM. Verifica cualquier institución en el SIPRES de la CONDUSEF.",
+ "EE. UU., negocios: desde el 1 de abril de 2026, los préstamos respaldados por la SBA exigen que todos los dueños sean ciudadanos o nacionales de EE. UU.; quien tiene ITIN, visa o green card puede buscar CDFI con fondos propios."]
 out = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "entregables", "matriz", "matriz-productos.json")
 json.dump({"fecha_verificacion": F, "notas": notas, "productos": rows}, open(out, "w"), ensure_ascii=False, indent=1)
 from collections import Counter
-print(len(rows), Counter(r["categoria"] for r in rows), Counter(r["estado"] for r in rows))
+print(len(rows), Counter(r["pais"] for r in rows), Counter(r["categoria"] for r in rows), Counter(r["estado"] for r in rows))

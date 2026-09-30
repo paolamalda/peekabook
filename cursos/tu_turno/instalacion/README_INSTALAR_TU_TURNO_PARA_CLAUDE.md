@@ -76,6 +76,8 @@ En cada sección de módulo:
 
 En la sección 9, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
 
+En la misma sección 9, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
+
 ## 5. Glosario
 
 En la sección 9, crea el glosario `Palabras clave del curso` e importa `3_glosario/Glosario_curso_Moodle.xml`, destino "glosario actual".

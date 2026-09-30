@@ -106,7 +106,7 @@ for mod in mods:
     pasos, lec_cambio = [], []
     borrar, importar = [], []
     for cod, p in nue.items():
-        viejo = por_nombre.get(p["nombre"])
+        viejo = por_nombre.get(p["nombre"]) or (cod if cod in vie and vie[cod]["nombre"] not in {q["nombre"] for q in nue.values()} else None)
         if viejo is None:
             estado = "nueva"
         elif cuerpo(vie[viejo]) != cuerpo(p):
@@ -121,7 +121,7 @@ for mod in mods:
     # libro
     if lec_cambio:
         orden = list(nue.values())
-        ediciones = []
+        ediciones, pendientes = [], []
         for cod, p, estado, viejo in lec_cambio:
             if estado == "cambia" and viejo == cod:
                 em = edicion_menor(vie[viejo], p)
@@ -131,11 +131,22 @@ for mod in mods:
             with zipfile.ZipFile(z, "w", zipfile.ZIP_DEFLATED) as lz:
                 for f in sorted(p["paginas"]): lz.writestr(f, p["paginas"][f])
             nom = f"{mod}_{cod.split()[1]}_{T('leccion', 'lesson')}.zip"
-            put(f"{F['lib']}/{mod}/{nom}", z.getvalue())
+            pendientes.append((f"{F['lib']}/{mod}/{nom}", z.getvalue()))
             if estado == "cambia": borrar.append(vie[viejo]["titulo"])
             importar.append((nom, p["titulo"], estado))
         paso = [T(f"**Libro `{libro_n.format(n=n)}`**", f"**Book `{libro_n.format(n=n)}`**")]
-        if borrar:
+        if len(importar) >= 0.6 * len(nue):  # casi todo cambia: reimporta el libro completo en un paso
+            nom = f"{mod}_libro_Moodle.zip"
+            put(f"{F['lib']}/{mod}/{nom}", open(os.path.join(NUEVO, mod, nom), "rb").read())
+            paso += [T(f"1. Abre el libro, *Editar* y borra **todos** sus capítulos (el libro, su finalización y sus visitas se conservan).",
+                       f"1. Open the book, *Edit* and delete **all** its chapters (the book, its completion and its views are kept)."),
+                     T(f"2. *Importar capítulo* > `{F['lib']}/{mod}/{nom}`, tipo \"Cada archivo HTML representa un capítulo\". Crea {len(nue)} capítulos con sus subcapítulos, ya en orden.",
+                       f"2. *Import chapter* > `{F['lib']}/{mod}/{nom}`, type \"Each HTML file represents one chapter\". It creates {len(nue)} chapters with their subchapters, already in order.")]
+            borrar, importar, ediciones = [], [], []
+        else:
+            for ruta_, dat_ in pendientes: put(ruta_, dat_)
+        if not borrar and not importar and not ediciones: pass
+        elif borrar:
             paso.append(T("1. Borra estos capítulos (cada uno con sus 3 subcapítulos; la finalización del libro no se pierde): ",
                           "1. Delete these chapters (each with its 3 subchapters; book completion is not lost): ")
                         + "; ".join(f"«{b}»" for b in borrar) + ".")
@@ -162,7 +173,7 @@ for mod in mods:
     hp = []
     for cod, p in nue.items():
         hn = h5p_de(os.path.join(NUEVO, "h5p"), cod)
-        viejo = por_nombre.get(p["nombre"])
+        viejo = por_nombre.get(p["nombre"]) or (cod if cod in vie and vie[cod]["nombre"] not in {q["nombre"] for q in nue.values()} else None)
         hv = h5p_de(os.path.join(VIEJO, "h5p"), viejo) if viejo else None
         if not hn: continue
         nombre_act = h5p_n.format(c=cod)
@@ -234,6 +245,13 @@ if AJ:
     for f in glob.glob(os.path.join(NUEVO, "constancia", "*.md")): put(f"{T('7_constancia', '7_certificate')}/{os.path.basename(f)}", open(f, "rb").read())
     for f in glob.glob(os.path.join(NUEVO, T("tarjeta_catalogo.md", "catalog_card.md"))): put(os.path.basename(f), open(f, "rb").read())
 
+# herramientas en Excel (recurso Archivo) y documentos para el equipo (no se instalan)
+HERR = [f for f in glob.glob(os.path.join(NUEVO, "herramientas", "*.xlsx")) if not glob.glob(os.path.join(VIEJO, "herramientas", os.path.basename(f)))]
+for f in HERR: put(f"{T('8_herramientas', '8_tools')}/{os.path.basename(f)}", open(f, "rb").read())
+EQUIPO = [f for n_ in ("kit_facilitadores.md", "guiones_whatsapp_audio.md", "facilitator_kit.md", "whatsapp_audio_scripts.md", "mapa_ocde.md")
+          for f in glob.glob(os.path.join(NUEVO, "..", "manual", n_))]
+for f in EQUIPO: put(f"{T('9_para_el_equipo', '9_for_the_team')}/{os.path.basename(f)}", open(f, "rb").read())
+
 # lista de cambios
 cambios = []
 for mod, lst in resumen_cambios:
@@ -244,6 +262,7 @@ if ap_cambia: cambios.append(T("Apoyo: capítulos ", "Support book: chapters ") 
 if nuevas: cambios.append(T(f"Preguntas: {len(nuevas)} nuevas", f"Questions: {len(nuevas)} new"))
 if corregidas: cambios.append(T(f"Preguntas: {len(corregidas)} con texto corregido", f"Questions: {len(corregidas)} with corrected text"))
 if g_nuevos: cambios.append(T(f"Glosario: {len(g_nuevos)} términos nuevos", f"Glossary: {len(g_nuevos)} new terms"))
+if HERR: cambios.append(T("Apoyo: herramientas en Excel (recurso nuevo)", "Support: Excel tools (new resource)"))
 if AJ: cambios.append(T("Plataforma: categoría con versión, insignias con nombre del curso, constancia estándar, encuestas, curso visible con clave y mosaicos",
                         "Platform: versioned category, badges with course name, standard certificate, surveys, visible course with key and tiles"))
 
@@ -281,6 +300,12 @@ if AJ:
               "6. **Encuestas:** con el módulo **Retroalimentación** (anónima), crea `Encuesta de inicio` (sección General), `Encuesta final`, `Seguimiento a 30 días` y `Seguimiento a 90 días` (última sección) e importa los XML de `6_encuestas/` (`encuestas.md` los explica). Restringe los seguimientos por fecha («[por definir]»).",
               "7. **Catálogo:** actualiza la ficha del curso con `tarjeta_catalogo.md`.", ""]
     s_ += 1
+if HERR:
+    hn = os.path.basename(HERR[0])
+    L += [T(f"## {s_}. Herramientas en Excel", f"## {s_}. Excel tools"), "",
+          T(f"En la sección «{apoyo_n}», agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con `8_herramientas/{hn}`. Mostrar: \"Forzar descarga\". Descripción: \"Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte.\" Finalización: \"Ver\". No cuenta para la finalización del curso.",
+            f"In the \"{apoyo_n}\" section, add a **File** resource named `Tools for your numbers (Excel)` with `8_tools/{hn}`. Display: \"Force download\". Description: \"Type only in the pink cells; the file is yours and isn't shared.\" Completion: \"View\". It doesn't count toward course completion."), ""]
+    s_ += 1
 L += [T(f"## {s_}. Por módulo", f"## {s_}. By module"), ""]
 for mod, n, pasos in R:
     L += [T(f"### Módulo {n}", f"### Module {n}"), ""] + [p + "\n" for p in pasos]
@@ -316,6 +341,9 @@ if nuevas or corregidas:
 L += [T(f"## {s_}. Comprueba y reporta", f"## {s_}. Check and report"), "",
       T("Con *Cambiar rol a > Estudiante*, abre una lección nueva y su H5P. Reporta: capítulos por libro cambiado, H5P nuevas o reemplazadas, preguntas corregidas e importadas, cuestionarios que no se pudieron cambiar por tener intentos, términos importados, ajustes de plataforma hechos y lo que no pudiste hacer.",
         "With *Switch role to > Student*, open one new lesson and its H5P. Report: chapters per changed book, new or replaced H5P, corrected and imported questions, quizzes that couldn't change because they have attempts, imported terms, platform adjustments done and anything you couldn't do.")]
+if EQUIPO:
+    L += ["", T("La carpeta `9_para_el_equipo/` (kit para facilitadores, guiones de WhatsApp y audio, mapa OCDE) es para el equipo del programa: **no se sube a Moodle**.",
+                "The `9_for_the_team/` folder (facilitator kit, WhatsApp and audio scripts, OECD map) is for the program team: **don't upload it to Moodle**.")]
 readme = "\n".join(L) + "\n"
 put(("README_ACTUALIZAR_PARA_CLAUDE.md" if not EN else "README_UPDATE_FOR_CLAUDE.md"), readme)
 put(T("LISTA_DE_CAMBIOS.txt", "CHANGE_LIST.txt"), "; ".join(cambios) + ".\n")

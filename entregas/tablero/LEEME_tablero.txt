@@ -1,0 +1,23 @@
+Tablero de resultados · programa de bienestar financiero
+
+Qué es: una página (Tablero_resultados.html) que calcula el índice de bienestar financiero (0 a 100) y sus
+subíndices (gastar, ahorrar, deber, planear), las señales de estrés, los hábitos y la evaluación del programa a
+partir de las encuestas de Moodle: inicio, final y seguimientos a 30 y 90 días.
+
+Cómo usarlo:
+1. En Moodle, abre cada encuesta (Retroalimentación) > Mostrar respuestas > respuestas anónimas >
+   Descargar datos de la tabla como CSV o Excel.
+2. Abre Tablero_resultados.html con Chrome, Edge o Firefox (necesita internet para cargar el lector de Excel).
+3. Elige el curso y carga cada archivo en su casilla.
+4. Si quieres guardar los números, usa «Descargar resumen (CSV)»: solo trae promedios y porcentajes.
+
+Protección de datos:
+- Los archivos se leen en tu navegador; no se envían a ningún servidor.
+- Las encuestas son anónimas y no piden datos personales. Edad e ingreso son rangos amplios y opcionales,
+  con la opción «Prefiero no decir».
+- El tablero solo muestra grupos de 5 respuestas o más. Los grupos más chicos se combinan; si aun así no llegan
+  a 5, no se muestran.
+- Como las respuestas son anónimas, se comparan grupos (inicio contra final), no personas.
+
+Para actualizar el tablero cuando cambien las encuestas o se agregue un curso:
+python3 herramientas_cursos/tablero.py

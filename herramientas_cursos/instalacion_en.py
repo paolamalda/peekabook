@@ -8,6 +8,7 @@ def generar(D, CFG, lecciones):
     tot = sum(n.values()); nm = len(MODS)
     pts = (tot + 2 * nm) * 25
     sec_sup, sec_eval = nm + 1, nm + 2
+    herr = "; and for your business: cost and price, break-even and 8-week cash flow" if CFG.get("negocio") else ""
     tit, short = CFG["titulo"], I["nombre_corto"]
     cat, bank = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     rows_sec = "\n".join(f"| {i} | {t} | " + (f"Content of `1_books/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"
@@ -80,6 +81,8 @@ In each module section:
 ## 4. Support book
 
 In section {sec_sup}, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters). In the General section, add a **URL** or label to chapter 1 ("Welcome").
+
+In the same section {sec_sup}, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal{herr}. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
 ## 5. Glossary
 

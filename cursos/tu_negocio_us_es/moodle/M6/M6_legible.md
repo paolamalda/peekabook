@@ -164,10 +164,10 @@ SBA, consultado el 29 de septiembre de 2026.
 |---|---|---|
 | Bancos y cooperativas de crédito | Préstamos y líneas de crédito. | Piden historial. |
 | CDFI y microprestamistas sin fines de lucro | Préstamos pequeños; algunos aceptan ITIN. | Con asesoría. |
-| Micropréstamos de la SBA | A través de intermediarios. | Hasta $50,000. |
+| Micropréstamos de la SBA | A través de intermediarios; todos los dueños deben ser ciudadanos. | Hasta $50,000. |
 | Adelantos de efectivo sobre ventas (MCA) | Cobran diario; muy caros. | Evítalos. |
 
-> **Dato vigente:** el programa de micropréstamos de la SBA ofrece préstamos de hasta $50,000 a través de organizaciones intermediarias sin fines de lucro, que suelen dar también asesoría. Consultado el 29 de septiembre de 2026 a través de la SBA.
+> **Dato vigente:** el programa de micropréstamos de la SBA ofrece préstamos de hasta $50,000 a través de organizaciones intermediarias sin fines de lucro, que suelen dar también asesoría. Desde el 1 de abril de 2026, todos los dueños del negocio deben ser ciudadanos o nacionales de EE. UU.; quien tiene ITIN, green card o visa puede buscar CDFI que prestan con sus propios fondos. Consultado el 30 de septiembre de 2026 a través de la SBA (aviso de política 5000-877232).
 
 #### Verifica antes de pedir
 

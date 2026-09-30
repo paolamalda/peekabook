@@ -71,6 +71,8 @@ In each module section:
 
 In section 6, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters). In the General section, add a **URL** or label to chapter 1 ("Welcome").
 
+In the same section 6, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
+
 ## 5. Glossary
 
 In section 6, create the glossary `Course key words` and import `3_glossary/Glosario_curso_Moodle.xml`, destination "current glossary".

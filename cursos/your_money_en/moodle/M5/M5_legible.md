@@ -2207,7 +2207,13 @@ Rosa wrote her plan: this week, sign up for AforeMóvil; this month, update her 
 
 She stuck it on her fridge and reviews it every three months with her daughter.
 
-> **Key idea:** it's not about doing everything. It's about taking the next step.
+
+
+#### Your commitment
+
+Give a goal a name ("three-month family fund"), decide how much you set aside from each paycheck and tell someone you trust. Set up the automatic transfer on payday and a monthly reminder with your goal's name.
+
+> **Key idea:** it's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder.
 
 
 
@@ -2300,6 +2306,18 @@ Agree on a fixed date, for example the first Sunday of each quarter, to check ho
 You can use a simple rule: each person shares one achievement, one worry and one next step. That keeps the conversation short and useful.
 
 If you have older children, include them in simple goals, like saving for something for the house. They learn by watching.
+
+
+
+#### Why it works
+
+Studies in several countries found that naming a goal, committing to someone and getting a monthly reminder with that goal helps people save more. Setting money aside automatically, before you see it, also helps.
+
+
+
+#### When rules or the economy change
+
+Immigration laws, remittance taxes, public programs, interest rates and prices change. Confirm each change with the official source (IRS, USCIS, your county, the CFPB), not social media, and adjust one part of your plan at a time. If a change touches your immigration status, talk to an attorney or an accredited representative.
 
 
 
