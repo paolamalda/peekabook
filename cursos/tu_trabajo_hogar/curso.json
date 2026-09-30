@@ -1,0 +1,262 @@
+{
+ "sigla": "TTFF",
+ "titulo": "Tu Trabajo, Tu Familia, Tu Futuro",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.0",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para trabajadoras del hogar en México, de entrada por salida o de planta: 9 módulos en microlecciones para el celular, para cobrar lo justo, ordenar el dinero de la semana, ayudar a la familia sin hundirse, protegerse y crecer.",
+ "categoria": "Tu Trabajo",
+ "banco": "banco_preguntas_ttff.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "modulos": {
+  "M1": "Módulo 1. Lo que ganas por día o por quincena",
+  "M2": "Módulo 2. Tu trabajo vale",
+  "M3": "Módulo 3. Tandas y ahorro",
+  "M4": "Módulo 4. Ayudar sin hundirte",
+  "M5": "Módulo 5. Deudas: salir y no volver",
+  "M6": "Módulo 6. Tu salud y tu protección",
+  "M7": "Módulo 7. Fraudes y tu celular",
+  "M8": "Módulo 8. Tu vejez y tus nietas",
+  "M9": "Módulo 9. Crecer y tu plan"
+ },
+ "resultados": {
+  "M1": "Tu ingreso real del mes, cobres por día o por quincena, y tu dinero de la semana repartido con el ahorro apartado primero.",
+  "M2": "Tus derechos claros, tu tarifa calculada, tus acuerdos por escrito y una cuenta para cobrar sin comisiones.",
+  "M3": "Tus reglas para una tanda más segura, tu fondo para emergencias y tu ahorro para metas.",
+  "M4": "Cuánto das a tu familia, tus reglas para prestar y cómo decir que no sin culpa.",
+  "M5": "Tu lista de deudas, lo que cuesta cada una y tu plan para salir.",
+  "M6": "Tu protección de salud revisada: IMSS, IMSS-Bienestar, prevención y seguros.",
+  "M7": "Tu protocolo contra fraudes, apps montadeudas y llamadas falsas.",
+  "M8": "Tu pensión, tu Afore y los apoyos de tus hijas y nietas, sin coyotes.",
+  "M9": "Una idea para ganar más con lo que ya sabes hacer y tu plan de una página."
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, las microlecciones, los personajes, insignias y constancia.",
+  "02": "Cuatro casos que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo, y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "insignias": [
+  [
+   "01_semana_en_orden",
+   "M1 · M2",
+   "Semana en orden",
+   "fa-calendar-check-o"
+  ],
+  [
+   "02_ahorro_seguro",
+   "M3",
+   "Ahorro seguro",
+   "fa-users"
+  ],
+  [
+   "03_familia_sin_deudas",
+   "M4 · M5",
+   "Familia sin deudas",
+   "fa-heart"
+  ],
+  [
+   "04_protegida",
+   "M6",
+   "Protegida",
+   "fa-medkit"
+  ],
+  [
+   "05_nadie_me_engana",
+   "M7",
+   "Nadie me engaña",
+   "fa-shield"
+  ],
+  [
+   "06_futuro_claro",
+   "M8",
+   "Futuro claro",
+   "fa-sun-o"
+  ],
+  [
+   "07_mujer_que_crece",
+   "M9",
+   "Mujer que crece",
+   "fa-line-chart"
+  ],
+  [
+   "08_plan_completo",
+   "CURSO",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "top": "TU TRABAJO · TU FAMILIA · TU FUTURO",
+  "titulo": "Constancia de conclusión",
+  "otorga": "Se otorga a",
+  "nombre": "Nombre de la persona",
+  "texto": "por concluir el programa de bienestar financiero <b>Tu Trabajo, Tu Familia, Tu Futuro</b>, con sus nueve módulos y autoevaluaciones aprobadas.",
+  "mods": [
+   "Ingreso y derechos",
+   "Tandas y ahorro",
+   "Familia y deudas",
+   "Salud y fraudes",
+   "Vejez y crecer"
+  ],
+  "fecha": "Fecha",
+  "fecha_muestra": "30 de septiembre de 2026",
+  "codigo": "Código de verificación",
+  "nota": "Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial."
+ },
+ "comunidad": {
+  "titulo": "Comunidad Tu Trabajo",
+  "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.0",
+  "intro": "Complemento del curso Tu Trabajo, Tu Familia, Tu Futuro: espacio aparte en Moodle para dudas, alertas de fraude, avisos y sesiones de acompañamiento por la tarde o en domingo. Se complementa con un canal de WhatsApp.",
+  "leads": {
+   "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
+   "02": "Las reglas que protegen tus datos y los de todas.",
+   "03": "Cómo preguntar y cómo pedir apoyo sin riesgos.",
+   "04": "Las fechas del año que importan para tu dinero, tu familia y tu trabajo.",
+   "05": "Las sesiones de acompañamiento, la práctica guiada y los retos del mes.",
+   "06": "Qué es contenido del programa y qué es una oferta comercial, con total transparencia."
+  },
+  "carpeta": {
+   "nombre": "Comunidad_Tu_Trabajo",
+   "zip": "Comunidad_Tu_Trabajo_v1.0",
+   "descripciones": [
+    "Manual del profesor (arranque, rutina, sesiones de acompañamiento, práctica guiada, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
+    "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
+    "Guía de implementación: creación en Moodle paso a paso y calendario editorial.",
+    "Paquete para instalar: libro, vista previa y el README para Claude."
+   ],
+   "lista": [
+    "Profesora o profesor nombrado y con el manual del profesor leído",
+    "Canal de WhatsApp creado (solo publica el equipo)",
+    "Fechas de las primeras sesiones de acompañamiento (tarde entre semana o domingo)",
+    "Comunidad creada con 04_Moodle/README_CREAR_COMUNIDAD_PARA_CLAUDE.md",
+    "Primeras publicaciones programadas con el calendario editorial"
+   ],
+   "notas": [
+    "Nunca se piden datos personales, contraseñas, códigos, fotos de tarjetas ni datos de las casas donde trabajan las participantes.",
+    "No se publican nombres de patronas ni de familias empleadoras; las dudas laborales se canalizan a la PROFEDET o a la procuraduría local."
+   ]
+  }
+ },
+ "carpeta": {
+  "nombre": "Tu_Trabajo_Tu_Familia_Tu_Futuro",
+  "zip": "Tu_Trabajo_v1.0",
+  "manual": "Manual_del_programa_TTFF_v1.0",
+  "contenido": "Contenido_completo_TTFF_v1.0",
+  "guia": "Guia_implementacion_TTFF_v1.0",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
+   "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación, comunidad y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por especialistas en derecho laboral y seguridad social",
+   "Datos vigentes confirmados en el sitio oficial (manual, sección de datos verificados)",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_TRABAJO_PARA_CLAUDE.md",
+   "Level Up, insignias y constancia configurados",
+   "Comunidad creada (carpeta Comunidad Tu Trabajo)",
+   "Revisión en el celular con rol de estudiante",
+   "Calendario de mantenimiento asignado"
+  ],
+  "notas": [
+   "El curso informa derechos y opciones de protección sin confrontar: da herramientas para platicarlo con quien la contrata y dónde pedir orientación.",
+   "Las lecciones no recomiendan bancos, aseguradoras ni prestamistas; enseñan a verificar y comparar. No se recomiendan SOFIPO, SOCAP ni SOFOM.",
+   "Pensado para el celular, con datos limitados y poco tiempo: lecciones de 5 minutos y audios por WhatsApp."
+  ]
+ },
+ "instalacion": {
+  "nombre_corto": "TTFF-MX",
+  "readme": "README_INSTALAR_TU_TRABAJO_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas números de cuenta, contraseñas, códigos, montos reales de tus deudas ni datos de las casas donde trabajas.",
+  "niveles": [
+   [
+    "Primer paso",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Semana en orden",
+    150,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Mi trabajo vale",
+    350,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Sin deudas ocultas",
+    600,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Protegida",
+    800,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Con futuro",
+    1000,
+    "Durante el Módulo 9"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluaciones de los Módulos 1 y 2",
+    "Sabes cuánto te entra, cuánto vale tu trabajo y tu ahorro va primero."
+   ],
+   [
+    "Autoevaluación del Módulo 3",
+    "Tu tanda tiene reglas y tienes un fondo para emergencias."
+   ],
+   [
+    "Autoevaluaciones de los Módulos 4 y 5",
+    "Ayudas a tu familia con reglas y tienes plan para tus deudas."
+   ],
+   [
+    "Autoevaluación del Módulo 6",
+    "Revisaste tu protección de salud y tu prevención."
+   ],
+   [
+    "Autoevaluación del Módulo 7",
+    "Reconoces fraudes y montadeudas y sabes qué hacer."
+   ],
+   [
+    "Autoevaluación del Módulo 8",
+    "Conoces tu pensión, tu Afore y los apoyos de tu familia."
+   ],
+   [
+    "Autoevaluación del Módulo 9",
+    "Tienes una idea para ganar más y tu plan de una página."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los nueve módulos del programa."
+   ]
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Cobra lo justo, ordena el dinero de la semana, ayuda a tu familia sin hundirte y protege tu futuro.",
+   "Microlecciones de 5 a 10 minutos para el celular, de entrada por salida o de planta."
+  ],
+  "para_quien": "Trabajadoras del hogar en México: limpieza, cocina y cuidado, por día o de planta.",
+  "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos"
+  ],
+  "extra": {}
+ }
+}
