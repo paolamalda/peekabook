@@ -26,6 +26,11 @@ CASOS = {
  ("No usa dinero del negocio y verifica.", "Deposita: el bono lo vale.", "Usa la tarjeta de crédito en vez de la del negocio."),
  ("No se lo da y le comparte dónde pedir ayuda.", "Se lo da como adelanto de sueldo.", "Le presta con intereses."),
 ],
+"M1 U06": [
+ ("Abre una cuenta del negocio a su nombre.", "Deja que su pareja siga guardando todo.", "Guarda el dinero en otro cajón escondido."),
+ ("Hace la lista de sus habilidades.", "Se queda solo con la ropa que ya vende.", "Copia lo que vende su competencia."),
+ ("No presta su RFC: la deuda sería suya.", "Lo presta: es familia.", "Lo presta si le firma un recibo."),
+],
 "M2 U01": [
  ("Empaque, envío, comisión y fijos.", "Nada: ya sabe que gana 120 por blusa.", "Solo el costo del envío de cada pedido."),
  ("Su costo por hora con fijos y sueldo.", "Lo que cobra su compadre por hora.", "El precio de la herramienta más cara que tiene."),
@@ -60,6 +65,11 @@ CASOS = {
  ("Aparta un % de cada venta.", "Gasta lo de diciembre y ve qué pasa en enero.", "Compra más mercancía para enero."),
  ("La pasa a un banco o a Cetes.", "La deja en la caja; está a la mano.", "La presta a un vecino para que crezca."),
  ("Aparta la doceava parte cada mes.", "Pide prestado en diciembre.", "Paga el aguinaldo con la reserva de enero."),
+],
+"M3 U04": [
+ ("Revisa costos y ajusta poco, avisando.", "Lo deja igual para no perder clientes.", "Sube el precio al doble de golpe."),
+ ("La pasa a una opción protegida y disponible.", "La deja en efectivo; así la tiene a la mano.", "La invierte en lo que más subió el año pasado."),
+ ("Calcula el pago con una tasa más alta.", "Lo firma: las tasas siempre bajan.", "Pide otro crédito por si sube."),
 ],
 "M4 U01": [
  ("Calcula el costo total con sus ventas.", "La contrata porque la comisión es baja.", "Rechaza cualquier terminal por costosa."),
@@ -180,6 +190,16 @@ CASOS = {
  ("Publica horario y mensaje automático.", "Contesta siempre para no perder clientes.", "Apaga el celular una semana."),
  ("Revisa sus números y decide una acción.", "No los ve para no preocuparse.", "Baja precios sin revisar nada."),
  ("Separan un momento para cada tema.", "Hablan del negocio en cada comida.", "Dejan de hablar del negocio."),
+],
+"M8 U05": [
+ ("Llena su plan con sus registros y ensaya.", "Improvisa el día de la presentación.", "Pide a alguien que invente los números."),
+ ("No paga y busca la convocatoria oficial.", "Paga para asegurar su lugar.", "Paga la mitad y el resto al recibir."),
+ ("Pregunta por qué, mejora y lo intenta después.", "Pide en una app sin registro.", "Deja de intentarlo para siempre."),
+],
+"M8 U06": [
+ ("Ve qué lo hace distinto y ajusta su servicio.", "Baja todos sus precios aunque pierda.", "Cierra antes de perder más."),
+ ("Lo confirma con el SAT y su contador.", "Deja de aceptar transferencias.", "Lo reenvía a todos sus clientes."),
+ ("Planea con su reserva y avisa a sus clientes.", "Cierra un mes sin avisar.", "Pide un préstamo para aguantar."),
 ],
 "M9 U01": [
  ("La localiza en e-SAR con su CURP.", "Supone que no tiene y no busca.", "Pregunta en su banco si la tiene."),

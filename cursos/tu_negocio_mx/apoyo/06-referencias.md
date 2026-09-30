@@ -39,3 +39,5 @@ Estas son las fuentes que usamos en el curso, para que puedas verificarlas. Cons
 - **M03** Comparativos de comisiones de terminales punto de venta y links de pago en México (2026).
 - **M04** Notas informativas sobre la Modalidad 10 del IMSS en 2026.
 - **M05** CONDUSEF: cifras de asuntos por posible fraude en 2025.
+- **M06** Banco de México e INEGI: meta de inflación e INPC; Nacional Financiera; CNBV: instituciones de financiamiento colectivo.
+- **M07** Instituto Nacional de las Mujeres y Locatel CDMX (Línea Mujeres); Innovations for Poverty Action y J-PAL, *Nudges para una óptima salud financiera*.

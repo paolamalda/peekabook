@@ -16,7 +16,7 @@ Educación financiera para personas que emprenden o trabajan por su cuenta en M�
 | Público | Personas residentes en México, de 18 años en adelante, con un negocio pequeño o un trabajo por su cuenta: comida, comercio, oficios, servicios, venta por catálogo o por internet. Muchas son informales o recién formales; algunas tienen una o dos personas que les ayudan |
 | Tono | Tuteo cercano, español de México, frases cortas, ejemplos de negocio real, sin tecnicismos y sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo imprimible y comunidad aparte |
-| Duración | 9 módulos, 39 lecciones |
+| Duración | 9 módulos, 43 lecciones |
 | Eje | Separar el dinero del negocio y de la casa, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -55,14 +55,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu negocio y tu casa: dinero separado | 5 | Dinero separado, sueldo fijo, registros al día y apuestas en línea |
+| M1 Tu negocio y tu casa: dinero separado | 6 | Dinero separado, sueldo fijo, registros al día, apuestas en línea y tu dinero a tu nombre |
 | M2 Costos y precio | 4 | Costos calculados, precio con margen y punto de equilibrio |
-| M3 Flujo de efectivo | 3 | Calendario de entradas y salidas, política de fiado y reserva |
+| M3 Flujo de efectivo | 4 | Calendario de entradas y salidas, política de fiado, reserva e inflación |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate sin miedo | 5 | RFC, régimen, facturas y declaraciones en orden |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, cuánto cuesta y cómo no mezclarlo |
 | M7 Protege tu negocio | 8 | Seguridad social, seguros, fraudes (también con IA), marca, identidad, desastres y seguro de vida |
-| M8 Crecer con orden | 4 | Reglas para contratar, vender en línea, medir y cuidar tu energía |
+| M8 Crecer con orden | 6 | Reglas para contratar, vender en línea, medir, cuidar tu energía, plan de negocio y entorno |
 | M9 Tu futuro | 3 | Retiro, plan de continuidad y plan de una página |
 
 **Insignias:** Dinero separado (M1), Precio justo (M2), Flujo bajo control (M3 y M4), Negocio formal (M5), Crédito inteligente (M6), Negocio protegido (M7), Crecer con orden (M8 y M9) y Plan completo (curso).
@@ -83,6 +83,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M1 U05 · Apuestas en línea: el dinero del negocio no se juega** Señales de alerta, nunca del negocio ni con crédito, sitios con permiso y ayuda.
 
+**M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre** Habilidades como capital, cuenta y registros a tu nombre, violencia económica y dónde pedir ayuda.
+
 ## Módulo 2. Costos y precio
 
 **M2 U01 · Costos fijos y variables** Renta, luz, gas, insumos y tu tiempo; el costo por unidad.
@@ -100,6 +102,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M3 U02 · Fiado, crédito a clientes y cobranza** Reglas para dar fiado, límites, registro y cómo cobrar con respeto.
 
 **M3 U03 · Tu reserva y las temporadas bajas** Fondo del negocio, meses flojos y gastos anuales.
+
+**M3 U04 · Inflación, tasas e interés compuesto en tu negocio** Margen que se achica, revisión trimestral de costos y precios, reserva protegida y tasa variable.
 
 ## Módulo 4. Cobrar y vender sin perder
 
@@ -159,13 +163,17 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U04 · Estrés, negocio y familia** Horario de atención, día de descanso, plática de dinero semanal y dónde pedir apoyo.
 
+**M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo** Siete preguntas, presentación de dos minutos, apoyos, incubadoras, fondeo colectivo autorizado y apoyos falsos.
+
+**M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación.
+
 ## Módulo 9. Tu futuro
 
 **M9 U01 · Tu retiro si trabajas por tu cuenta** AFORE, aportaciones voluntarias, PPR y ahorro propio.
 
 **M9 U02 · Si el negocio cambia o si faltas** Cierre ordenado, suspensión de actividades, quién sabe qué y a quién pasa el negocio.
 
-**M9 U03 · Tu plan de una página** Dinero, precio, flujo, formalidad, protección y futuro en una hoja.
+**M9 U03 · Tu plan de una página** Dinero, precio, flujo, formalidad, protección y futuro en una hoja. Incluye tu compromiso: meta con nombre, testigo y recordatorio mensual.
 
 ---
 
