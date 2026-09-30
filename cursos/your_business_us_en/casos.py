@@ -25,6 +25,11 @@ CASOS = {
  ("Checks that it's banned and keeps business money out.", "Buys the package: the coins are free.", "Buys it with the business card."),
  ("Doesn't give it and shares where to get help.", "Gives it as a salary advance.", "Lends it with interest."),
 ],
+"M1 U06": [
+ ("Opens an account in her name and links her payments.", "Lets her partner keep collecting everything.", "Hides the cash in the kitchen."),
+ ("Lists her skills.", "Sticks to the jewelry she already sells.", "Copies what her competitors sell."),
+ ("Doesn't lend his numbers: the debt would be his.", "Lends them: he's family.", "Lends them if his brother signs a receipt."),
+],
 "M2 U01": [
  ("Packaging, shipping, fees and fixed costs.", "Nothing: she knows she makes $19 a pair.", "Only the shipping cost of each order."),
  ("His cost per hour with fixed costs and salary.", "What other painters charge per hour.", "The price of his most expensive tool."),
@@ -59,6 +64,11 @@ CASOS = {
  ("Sets aside a % of each sale.", "Spends the summer money and sees what happens.", "Buys more inventory for winter."),
  ("Moves it to an insured savings account.", "Leaves it in the kitchen; it's handy.", "Lends it to a neighbor so it grows."),
  ("Divides it by 12 and sets it aside monthly.", "Borrows when the fee comes due.", "Pays it from her tax savings."),
+],
+"M3 U04": [
+ ("Reviews costs and raises prices a little, with notice.", "Leaves it the same so he won't lose customers.", "Doubles the price all at once."),
+ ("Moves it to an insured, available account.", "Keeps it in cash so it's at hand.", "Invests it in whatever rose most last year."),
+ ("Calculates the payment with a higher rate.", "Signs: rates always go down.", "Opens another line in case it rises."),
 ],
 "M4 U01": [
  ("Figures the total cost and reads the contract.", "Accepts because the reader is free.", "Rejects any reader as too expensive."),
@@ -174,6 +184,16 @@ CASOS = {
  ("Posts hours and an automatic reply.", "Always answers so she doesn't lose customers.", "Turns off her phone for a week."),
  ("Reviews her numbers and decides one action.", "Doesn't look so she won't worry.", "Cuts prices without checking anything."),
  ("They set one time for each topic.", "They talk business at every meal.", "They stop talking about the business."),
+],
+"M8 U05": [
+ ("Gets help at an SBDC and uses her records.", "Improvises on the day of the bank meeting.", "Asks someone to make up the numbers."),
+ ("Doesn't pay and searches sba.gov.", "Pays to secure the grant.", "Pays half now and half on approval."),
+ ("Asks why, improves and looks for a CDFI.", "Takes an expensive cash advance.", "Stops trying for good."),
+],
+"M8 U06": [
+ ("Sees what makes him different and adjusts his service.", "Cuts all his prices even at a loss.", "Closes before he loses more."),
+ ("Checks with the IRS and his preparer.", "Stops accepting app payments.", "Forwards it to all his customers."),
+ ("Plans with her reserve and tells her customers.", "Closes for a month without notice.", "Takes a loan to hold on."),
 ],
 "M9 U01": [
  ("Checks his estimate at ssa.gov.", "Assumes he won't get anything.", "Asks his bank how much he'll get."),

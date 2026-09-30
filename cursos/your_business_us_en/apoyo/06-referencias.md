@@ -36,3 +36,5 @@ Sources used in the course, accessed September 29, 2026.
 - **M01** IRS Notice 2026-10 and Internal Revenue Bulletin 2026-29 (mileage rate).
 - **M02** IRS release on 2026 401(k) and IRA limits.
 - **M03** Processors' published rates (2026).
+- **M04** Federal Reserve and BLS: inflation goal and CPI; SBA, SCORE, CDFI Fund and SEC (crowdfunding).
+- **M05** National Domestic Violence Hotline and CFPB (economic abuse); Innovations for Poverty Action and J-PAL, *Nudges for Financial Health*.

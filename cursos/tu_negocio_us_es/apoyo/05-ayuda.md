@@ -24,6 +24,8 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | Marca | USPTO; registro estatal | Con costo | Solo uspto.gov |
 | Retiro | ssa.gov; CalSavers | Gratis | Tu cuenta en my Social Security |
 | Dudas migratorias | Abogados u organizaciones acreditadas por el Departamento de Justicia | Gratis o con costo | Nunca «notarios» |
+| Plan de negocio y financiamiento | SBDC, SCORE y centros de negocios para mujeres (sba.gov); CDFI certificadas | Gratis | Nadie cobra por «aprobar» un préstamo o subsidio |
+| Abuso económico | Línea Nacional sobre la Violencia Doméstica: 1-800-799-7233 o texto START al 88788 | Gratis | 24 horas, en español |
 
 ---
 

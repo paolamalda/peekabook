@@ -36,3 +36,5 @@ Fuentes usadas en el curso, consultadas el 29 de septiembre de 2026.
 - **M01** IRS Notice 2026-10 e Internal Revenue Bulletin 2026-29 (tarifa por milla).
 - **M02** Comunicado del IRS sobre límites de 401(k) e IRA para 2026.
 - **M03** Tarifas publicadas de procesadores de pago (2026).
+- **M04** Reserva Federal y BLS: meta de inflación y CPI; SBA, SCORE, CDFI Fund y SEC (fondeo colectivo).
+- **M05** National Domestic Violence Hotline y CFPB (abuso económico); Innovations for Poverty Action y J-PAL, *Nudges para una óptima salud financiera*.

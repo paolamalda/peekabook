@@ -17,7 +17,7 @@ Educación financiera para personas latinas que emprenden o trabajan por su cuen
 | Tono | Tuteo cercano, español neutro con términos en inglés cuando se usan así en la vida diaria (EIN, sales tax, LLC), frases cortas, sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo y comunidad aparte |
 | Alcance | Reglas federales con ejemplos de California; en otros estados se indica revisar las reglas locales |
-| Duración | 9 módulos, 38 lecciones |
+| Duración | 9 módulos, 42 lecciones |
 | Idiomas | Español (este curso) e inglés (curso paralelo *Your Business, Your Money, Your Future*) |
 
 ## El problema que resuelve
@@ -56,14 +56,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu negocio y tu casa: dinero separado | 5 | Dinero separado, cuenta para impuestos, sueldo fijo, registros y apuestas en línea |
+| M1 Tu negocio y tu casa: dinero separado | 6 | Dinero separado, cuenta para impuestos, sueldo fijo, registros, apuestas en línea y tu dinero a tu nombre |
 | M2 Costos y precio | 4 | Costos calculados, precio con margen y punto de equilibrio |
-| M3 Flujo de efectivo | 3 | Calendario de flujo, crédito a clientes y reserva |
+| M3 Flujo de efectivo | 4 | Calendario de flujo, crédito a clientes, reserva e inflación |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate e impuestos sin miedo | 5 | Estructura, EIN e ITIN, permisos, impuestos federales, pagos estimados y sales tax |
 | M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, compararlo por APR y no mezclarlo |
 | M7 Protege tu negocio | 7 | Seguro médico, seguros del negocio, fraudes (también con IA), marca, identidad, llamadas no deseadas y desastres |
-| M8 Crecer con orden | 4 | Contratar bien, vender en plataformas, medir y cuidar tu energía |
+| M8 Crecer con orden | 6 | Contratar bien, vender en plataformas, medir, cuidar tu energía, plan de negocio y entorno |
 | M9 Tu futuro | 3 | Seguro Social y retiro, plan de continuidad y plan de una página |
 
 **Insignias:** Dinero separado (M1), Precio justo (M2), Flujo bajo control (M3 y M4), Negocio formal (M5), Crédito inteligente (M6), Negocio protegido (M7), Crecer con orden (M8 y M9) y Plan completo (curso).
@@ -84,6 +84,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M1 U05 · Apuestas en línea: el dinero del negocio no se juega** Señales de alerta, reglas en California (AB 831), ganancias que se declaran y 1-800-GAMBLER.
 
+**M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre** Habilidades como capital, cuenta y cobros a tu nombre (también con ITIN), abuso económico y la Línea Nacional sobre la Violencia Doméstica.
+
 ## Módulo 2. Costos y precio
 
 **M2 U01 · Costos fijos y variables** Suscripciones, seguro y permisos divididos entre 12; costo por unidad y por hora.
@@ -101,6 +103,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M3 U02 · Crédito a clientes, facturas y cobranza** Depósitos, facturas el mismo día, cobro respetuoso y corte de reclamos menores.
 
 **M3 U03 · Tu reserva y las temporadas bajas** Reserva distinta de la cuenta de impuestos; gastos anuales.
+
+**M3 U04 · Inflación, tasas e interés compuesto en tu negocio** Margen que se achica, revisión trimestral de costos y precios, reserva asegurada y tasa variable.
 
 ## Módulo 4. Cobrar y vender sin perder
 
@@ -158,13 +162,17 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U04 · Estrés, negocio y familia** Horario de pedidos, día de descanso, plática de dinero semanal y la línea 988.
 
+**M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo** Siete preguntas, presentación de dos minutos, SBDC, SCORE, centros de negocios para mujeres, CDFI, fondeo colectivo y subsidios falsos.
+
+**M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación gratuita.
+
 ## Módulo 9. Tu futuro
 
 **M9 U01 · Tu retiro si trabajas por tu cuenta** Créditos del Seguro Social, IRA, SEP IRA, Solo 401(k) y CalSavers.
 
 **M9 U02 · Si el negocio cambia o si faltas** Carpeta del negocio, cierre formal (incluida la disolución de la LLC), traspaso, testamento y fideicomiso.
 
-**M9 U03 · Tu plan de una página** Todas las decisiones en una hoja y revisión trimestral.
+**M9 U03 · Tu plan de una página** Todas las decisiones en una hoja y revisión trimestral. Incluye tu compromiso: meta con nombre, testigo y recordatorio mensual.
 
 ---
 

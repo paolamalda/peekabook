@@ -17,7 +17,7 @@ Financial education for Latino entrepreneurs and self-employed people in the Uni
 | Tone | Friendly and direct, plain English, short sentences, no blame |
 | Format | Moodle 3.10 course: 5- or 10-minute lessons, H5P "What would you do?" activities, a self-assessment per module and a certificate. Support book and separate community |
 | Scope | Federal rules with California examples; other states are told what to check locally |
-| Length | 9 modules, 38 lessons |
+| Length | 9 modules, 42 lessons |
 | Languages | English (this course) and Spanish (parallel course) |
 
 ## The problem it solves
@@ -56,14 +56,14 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 | Module | Lessons | Outcome |
 |---|---|---|
-| M1 Your business and your home: separate money | 5 | Separate money, tax account, fixed salary, records and online betting |
+| M1 Your business and your home: separate money | 6 | Separate money, tax account, fixed salary, records, online betting and your money in your name |
 | M2 Costs and price | 4 | Costs calculated, price with margin and break-even point |
-| M3 Cash flow | 3 | Cash-flow calendar, customer credit and reserve |
+| M3 Cash flow | 4 | Cash-flow calendar, customer credit, reserve and inflation |
 | M4 Get paid and sell without losing | 3 | Payment methods compared and anti-scam plan |
 | M5 Formalize and handle taxes without fear | 5 | Structure, EIN and ITIN, permits, federal taxes, estimated payments and sales tax |
 | M6 Credit for your business | 4 | Decide whether you need credit, compare by APR and don't mix |
 | M7 Protect your business | 7 | Health insurance, business insurance, scams (including AI), trademark, identity, unwanted calls and disasters |
-| M8 Grow in an orderly way | 4 | Hire correctly, sell on platforms, measure and look after your energy |
+| M8 Grow in an orderly way | 6 | Hire correctly, sell on platforms, measure, look after your energy, business plan and surroundings |
 | M9 Your future | 3 | Social Security and retirement, continuity plan and one-page plan |
 
 **Badges:** Separate money (M1), Fair price (M2), Cash flow under control (M3 and M4), Formal business (M5), Smart credit (M6), Protected business (M7), Orderly growth (M8 and M9) and Full plan (course).
@@ -84,6 +84,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M1 U05 · Online betting: business money isn't for gambling** Warning signs, California rules (AB 831), taxable winnings and 1-800-GAMBLER.
 
+**M1 U06 · Your business, your decisions: your money in your name** Skills as capital, account and payments in your name (also with an ITIN), economic abuse and the National Domestic Violence Hotline.
+
 ## Module 2. Costs and price
 
 **M2 U01 · Fixed and variable costs** Subscriptions, insurance and permits divided by 12; cost per unit and per hour.
@@ -101,6 +103,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 **M3 U02 · Customer credit, invoices and collections** Deposits, same-day invoices, respectful collection and small claims court.
 
 **M3 U03 · Your reserve and slow seasons** A reserve separate from the tax account; yearly expenses.
+
+**M3 U04 · Inflation, interest rates and compound interest in your business** Shrinking margin, quarterly cost and price review, insured reserve and variable rates.
 
 ## Module 4. Get paid and sell without losing
 
@@ -158,13 +162,17 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M8 U04 · Stress, business and family** Order hours, a day off, a weekly money talk and the 988 line.
 
+**M8 U05 · Your one-page business plan and how to pitch it** Seven questions, a two-minute pitch, SBDCs, SCORE, Women's Business Centers, CDFIs, crowdfunding and fake grants.
+
+**M8 U06 · Your business and its surroundings: competition, economy, community and rule changes** What to watch, official sources, reputation and free training.
+
 ## Module 9. Your future
 
 **M9 U01 · Your retirement when you work for yourself** Social Security credits, IRA, SEP IRA, Solo 401(k) and CalSavers.
 
 **M9 U02 · If the business changes or you're not there** Business folder, formal closing (including LLC dissolution), handover, will and trust.
 
-**M9 U03 · Your one-page plan** All decisions on one page and a quarterly review.
+**M9 U03 · Your one-page plan** All decisions on one page, a quarterly review and your commitment: a named goal, a witness and a monthly reminder.
 
 ---
 

@@ -24,6 +24,8 @@ All options in this table are official or nonprofit. Information checked on Sept
 | Trademark | USPTO; state registry | Paid | Only uspto.gov |
 | Retirement | ssa.gov; CalSavers | Free | Your my Social Security account |
 | Immigration questions | Attorneys or organizations accredited by the Department of Justice | Free or paid | Never "notarios" |
+| Business plan and financing | SBDCs, SCORE and Women's Business Centers (sba.gov); certified CDFIs | Free | No one charges to "approve" a loan or grant |
+| Economic abuse | National Domestic Violence Hotline: 1-800-799-7233 or text START to 88788 | Free | 24 hours, English and Spanish |
 
 ---
 

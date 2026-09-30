@@ -15,4 +15,5 @@ Cada cifra de las lecciones va en un recuadro «Dato vigente» con fecha y fuent
 | Cada año | Límites de préstamos por desastre de la SBA y leyes de apuestas del estado | M1 U05, M7 U07 |
 | Cada seis meses | Comisiones de procesadores y plataformas | M4 U01, M8 U02 |
 | Antes de la inscripción abierta | Reglas de Covered California y Medi-Cal | M7 U01 |
+| Cada año | Programas de SBA y CDFI, y teléfonos de ayuda | M1 U06, M8 U05 |
 | Después de cualquier cambio de contenido | Regenerar libros, H5P y banco y volver a armar la carpeta | Herramientas del proyecto |

@@ -15,4 +15,5 @@ Every figure in the lessons goes in a "Current fact" box with a date and source.
 | Every year | SBA disaster loan limits and state betting laws | M1 U05, M7 U07 |
 | Every six months | Processor and platform fees | M4 U01, M8 U02 |
 | Before open enrollment | Covered California and Medi-Cal rules | M7 U01 |
+| Every year | SBA and CDFI programs and help lines | M1 U06, M8 U05 |
 | After any content change | Regenerate books, H5P and question bank and rebuild the folder | Project tools |
