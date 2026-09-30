@@ -13,10 +13,10 @@ Fechas y recordatorios que importan para tu dinero y tu familia. En **Avisos** y
 | Junio | Pide tu reporte de crédito gratis | M4 U06 |
 | Julio | Revisa tus candados en la app: alertas y límite de transferencias | M3 U03 |
 | Agosto | Revisa tus seguros antes de renovar | M8 |
-| Septiembre | Mes del Testamento: revisa tu carpeta y tu plan | M10 U01 · M11 U04 |
+| Septiembre | Mes del Testamento: revisa tu carpeta y tu plan | M10 U01 · M11 U03 |
 | Octubre | Revisa tus inversiones y a tu asesor | M6 |
 | Noviembre | Cuidado con fraudes de ofertas de fin de año | M4 U03 |
-| Diciembre | Revisa tu plan de una página para el próximo año | M11 U04 |
+| Diciembre | Revisa tu plan de una página para el próximo año | M11 U03 |
 
 ## Solo en 2026
 

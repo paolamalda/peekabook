@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso *Tu Talento, Tu Marca, Tu Futuro*, 
 
 | | Curso Tu Talento (TTMF-MX) | Comunidad Tu Talento (TTMF-COM) |
 |---|---|---|
-| Para qué | Aprender: 11 módulos, 77 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
+| Para qué | Aprender: 11 módulos, 78 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No: no hay calificaciones ni constancia |
 | Quién entra | Las personas inscritas al programa | Las mismas personas (misma cohorte), desde un enlace en el curso |
@@ -348,7 +348,7 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 | Contratos, exclusividad, derechos de imagen y voz | M3 U01, U02 |
 | Mánagers y agencias; ANDA, ANDI y organizaciones; regalías; productora que no paga | M3 U03 a U06 |
 | Quién es quién en el sistema financiero; verificar una institución; derechos | M4 U01 a U04 |
-| Elegir institución, cuenta, ahorro, seguro o crédito; leer el contrato | M5 U01 a U07 |
+| Elegir institución, cuenta, ahorro, seguro o crédito; leer el contrato; aval y referencia | M5 U01 a U08 |
 | Línea de crédito no es ingreso; pago mínimo; meses sin intereses; inventario de deudas | M6 U01 a U06 |
 | Buró y Círculo: reportes gratis, leer el reporte, score, plazos, reclamar, bloqueo | M7 U01 a U08, U10 |
 | Despachos que "limpian el Buró" | M7 U09 |

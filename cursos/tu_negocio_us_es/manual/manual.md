@@ -17,7 +17,7 @@ Educación financiera para personas latinas que emprenden o trabajan por su cuen
 | Tono | Tuteo cercano, español neutro con términos en inglés cuando se usan así en la vida diaria (EIN, sales tax, LLC), frases cortas, sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo y comunidad aparte |
 | Alcance | Reglas federales con ejemplos de California; en otros estados se indica revisar las reglas locales |
-| Duración | 9 módulos, 42 lecciones |
+| Duración | 9 módulos, 43 lecciones |
 | Idiomas | Español (este curso) e inglés (curso paralelo *Your Business, Your Money, Your Future*) |
 
 ## El problema que resuelve
@@ -61,7 +61,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M3 Flujo de efectivo | 4 | Calendario de flujo, crédito a clientes, reserva e inflación |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate e impuestos sin miedo | 5 | Estructura, EIN e ITIN, permisos, impuestos federales, pagos estimados y sales tax |
-| M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, compararlo por APR y no mezclarlo |
+| M6 Crédito para tu negocio | 5 | Decidir si necesitas crédito, compararlo por APR, no mezclarlo y qué firmas por otras personas o por tu LLC |
 | M7 Protege tu negocio | 7 | Seguro médico, seguros del negocio, fraudes (también con IA), marca, identidad, llamadas no deseadas y desastres |
 | M8 Crecer con orden | 6 | Contratar bien, vender en plataformas, medir, cuidar tu energía, plan de negocio y entorno |
 | M9 Tu futuro | 3 | Seguro Social y retiro, plan de continuidad y plan de una página |
@@ -135,6 +135,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M6 U03 · El costo total: APR, cuotas y garantías** APR contra tasa de factor, garantía personal y divulgación de California.
 
 **M6 U04 · No mezcles deudas y cuida con ser cofirmante** Tarjeta personal, préstamos a la familia y cofirmar.
+
+**M6 U05 · Cofirmante, garante, usuario autorizado y referencia: ¿qué firmas?** Diferencias y responsabilidades, garantía personal de una LLC, reglas de cobranza (FDCPA) y cómo decir que no.
 
 ## Módulo 7. Protege tu negocio
 

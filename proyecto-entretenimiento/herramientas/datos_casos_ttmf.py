@@ -146,6 +146,11 @@ CASOS = {
  ("Pide carátula y contrato y se toma el tiempo.", "Firma de inmediato para no perder la tasa de hoy.", "Pide que se lo expliquen por teléfono."),
  ("Pide que la promesa quede por escrito.", "Firma y confía en el ejecutivo.", "Graba la promesa con su celular y firma confiado."),
 ],
+"M5 U08": [
+ ("Firma solo si podría pagar; si no, dice que no.", "Firma: es su compañero de la obra.", "Firma solo por la mitad de la renta."),
+ ("No firma: la obligaría a pagar todo.", "Firma sin leer: es un trámite.", "Firma y pide copia después."),
+ ("No paga y se queja en el REDECO.", "Paga para que dejen de llamar.", "Da los datos de la familia de su amiga."),
+],
 "M6 U01": [
  ("Que debe 95,000, no que tiene 180,000.", "Que tiene 85,000 libres que puede gastar este mes.", "Que ya puede pedir otra tarjeta."),
  ("Que es más deuda posible; puede rechazarlo.", "Que el banco le paga más por ser buen cliente.", "Que ya puede gastar el doble cada mes."),

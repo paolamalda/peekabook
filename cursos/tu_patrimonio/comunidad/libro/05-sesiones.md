@@ -26,7 +26,7 @@ Cada mes proponemos un reto corto en **Avisos**. Cuando lo cumplas, compártelo 
 | 9 | Agenda tu testamento (M10 U01) |
 | 10 | Llena los datos de tu póliza de gastos médicos (M8 U01) |
 | 11 | Escribe tu tarjeta de reglas para decidir (M11 U01) |
-| 12 | Llena tu plan de una página (M11 U04) |
+| 12 | Llena tu plan de una página (M11 U03) |
 
 ## Encuesta de la comunidad
 

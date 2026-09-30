@@ -16,7 +16,7 @@ Finanzas personales en microlecciones para guardias de seguridad y personas con 
 | Público | Guardias de seguridad y personas con turnos de 24 por 24 horas o similares, con ingresos cercanos al salario mínimo; muchas tienen deudas, participan en tandas y no conocen el sistema financiero |
 | Tono | Tuteo cálido y directo, español de México, frases muy cortas, sin tecnicismos, sin culpas |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y para tomarse entre turnos; actividades H5P «¿Qué harías?», autoevaluaciones, constancia y un canal de avisos por WhatsApp |
-| Duración | 8 módulos, 36 lecciones |
+| Duración | 8 módulos, 37 lecciones |
 
 ## El problema que resuelve
 
@@ -54,13 +54,13 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | Módulo | Lecciones | Resultado |
 |---|---|---|
 | M1 Tu quincena rinde | 6 | Presupuesto de quincena con turnos, ahorro apartado primero y compras inteligentes |
-| M2 Tu cuenta y tu dinero | 4 | Cuenta sin comisiones; cobrar, pagar y reclamar; información confiable |
+| M2 Tu cuenta y tu dinero | 6 | Cuenta sin comisiones; cobrar, pagar y reclamar; información confiable; inflación y primeros pasos para invertir |
 | M3 Tus deudas claras | 5 | Lista de deudas, costo real, plan para salir y apuestas en línea |
-| M4 Tandas y ahorro en grupo | 2 | Tanda más segura o ahorro propio |
-| M5 Buró de Crédito sin miedo | 3 | Reporte revisado y cómo mejorar el historial |
+| M4 Tandas y ahorro en grupo | 3 | Tanda más segura o ahorro propio, y ahorro para tu casa con Infonavit |
+| M5 Buró de Crédito sin miedo | 4 | Reporte revisado, cómo mejorar el historial y qué firmas por otras personas |
 | M6 Que no te extorsionen | 6 | Protocolo contra fraudes, montadeudas, extorsión y robo de identidad; registros para que no te llamen |
 | M7 Tu familia y los imprevistos | 4 | Fondo de emergencia, protección familiar y desastres |
-| M8 Tu futuro | 6 | Retiro por tu cuenta, ingreso extra, vivienda, inflación, primeros pasos para invertir y plan de una página con tu compromiso |
+| M8 Tu futuro | 3 | Retiro por tu cuenta, ingreso extra y plan de una página con tu compromiso |
 
 ---
 
@@ -78,7 +78,6 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M1 U06 · Compra inteligente: precio por unidad, publicidad y pagos chiquitos** Precio por unidad, suscripciones, abonos semanales, costo de oportunidad y esperar un día.
 
-
 **M2 U01 · Una cuenta sin comisiones** Cuenta básica y cuenta de nómina.
 
 **M2 U02 · Cobrar y pagar sin perder dinero** Transferencias, cajeros de tu banco y comprobantes.
@@ -87,6 +86,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M2 U04 · ¿A quién le crees? Información confiable y cambios que te afectan** Fuentes oficiales, publicidad y rumores; orientación gratuita; ajustar el plan cuando suben precios o cambian reglas.
 
+**M2 U05 · El dinero pierde valor: inflación e interés compuesto** Inflación, meta del Banco de México, tasa real e interés compuesto en el ahorro y en las deudas.
+
+**M2 U06 · Tu dinero a trabajar: primeros pasos para invertir** Antes de invertir, riesgo y rendimiento, diversificar, Cetesdirecto, invertir cada quincena y emociones.
 
 **M3 U01 · ¿Cuánto debes en total?** Tu lista de deudas.
 
@@ -98,11 +100,11 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M3 U05 · Apuestas en línea: cuando el juego se vuelve deuda** Señales de alerta, sitios con permiso, límites, autoexclusión y ayuda.
 
-
 **M4 U01 · Tandas: cómo funcionan y qué puede salir mal**
 
 **M4 U02 · Tu tanda con reglas o tu propio ahorro**
 
+**M4 U03 · Tu casa: Infonavit y el crédito de 100 puntos** Subcuenta de vivienda, Mi Cuenta Infonavit, modelo de 100 puntos para salarios bajos, descuento en nómina y coyotes.
 
 **M5 U01 · Qué es el Buró de Crédito** Mitos y realidades.
 
@@ -110,6 +112,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M5 U03 · Cómo mejorar tu historial** Y despachos que «limpian»: fraude.
 
+**M5 U04 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?** Diferencia entre aval, obligado solidario, fiador, garantía y referencia personal; qué te pueden cobrar; cobranza y REDECO; cómo decir que no.
 
 **M6 U01 · Llamadas y mensajes falsos**
 
@@ -123,7 +126,6 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M6 U06 · Voces y videos falsos con inteligencia artificial** Voces clonadas, videos falsos de famosos, palabra clave familiar y redes privadas.
 
-
 **M7 U01 · Tu fondo de emergencia, de poco a poco**
 
 **M7 U02 · Tu salud y la de tu familia: estar preparado**
@@ -132,19 +134,11 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U04 · Si llega un desastre: sismo, inundación o incendio** Mochila de documentos, dinero en cuenta, aplazamiento de pagos y fraudes después del desastre.
 
-
 **M8 U01 · Ahorro para el retiro por tu cuenta** Aportaciones voluntarias desde 50 pesos.
 
 **M8 U02 · Un ingreso extra en tus días de descanso**
 
-**M8 U03 · Tu casa: Infonavit y el crédito de 100 puntos** Subcuenta de vivienda, Mi Cuenta Infonavit, modelo de 100 puntos para salarios bajos, descuento en nómina y coyotes.
-
-**M8 U04 · El dinero pierde valor: inflación e interés compuesto** Inflación, meta del Banco de México, tasa real e interés compuesto en el ahorro y en las deudas.
-
-**M8 U05 · Tu dinero a trabajar: primeros pasos para invertir** Antes de invertir, riesgo y rendimiento, diversificar, Cetesdirecto, invertir cada quincena y emociones.
-
-**M8 U06 · Tu plan de una página** Las cinco partes en una hoja y tu compromiso: meta con nombre, monto, testigo y recordatorio mensual.
-
+**M8 U03 · Tu plan de una página** Las cinco partes en una hoja y tu compromiso: meta con nombre, monto, testigo y recordatorio mensual.
 
 ---
 

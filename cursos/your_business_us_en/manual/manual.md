@@ -17,7 +17,7 @@ Financial education for Latino entrepreneurs and self-employed people in the Uni
 | Tone | Friendly and direct, plain English, short sentences, no blame |
 | Format | Moodle 3.10 course: 5- or 10-minute lessons, H5P "What would you do?" activities, a self-assessment per module and a certificate. Support book and separate community |
 | Scope | Federal rules with California examples; other states are told what to check locally |
-| Length | 9 modules, 42 lessons |
+| Length | 9 modules, 43 lessons |
 | Languages | English (this course) and Spanish (parallel course) |
 
 ## The problem it solves
@@ -61,7 +61,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 | M3 Cash flow | 4 | Cash-flow calendar, customer credit, reserve and inflation |
 | M4 Get paid and sell without losing | 3 | Payment methods compared and anti-scam plan |
 | M5 Formalize and handle taxes without fear | 5 | Structure, EIN and ITIN, permits, federal taxes, estimated payments and sales tax |
-| M6 Credit for your business | 4 | Decide whether you need credit, compare by APR and don't mix |
+| M6 Credit for your business | 5 | Decide whether you need credit, compare by APR, don't mix and know what you sign for others or your LLC |
 | M7 Protect your business | 7 | Health insurance, business insurance, scams (including AI), trademark, identity, unwanted calls and disasters |
 | M8 Grow in an orderly way | 6 | Hire correctly, sell on platforms, measure, look after your energy, business plan and surroundings |
 | M9 Your future | 3 | Social Security and retirement, continuity plan and one-page plan |
@@ -135,6 +135,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 **M6 U03 · The total cost: APR, fees and guarantees** APR versus factor rate, personal guarantee and California disclosure.
 
 **M6 U04 · Don't mix debts, and be careful about cosigning** Personal card, loans to family and cosigning.
+
+**M6 U05 · Cosigner, guarantor, authorized user and reference: what are you signing?** Differences and responsibilities, an LLC personal guarantee, collection rules (FDCPA) and how to say no.
 
 ## Module 7. Protect your business
 

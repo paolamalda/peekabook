@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso, no un curso aparte con contenido p
 
 | | Curso (TNDF-MX) | Comunidad (TNDF-COM) |
 |---|---|---|
-| Para qué | Aprender: 9 módulos, 43 lecciones | Acompañar: sesión mensual, dudas, alertas, «Presenta tu negocio» y logros |
+| Para qué | Aprender: 9 módulos, 44 lecciones | Acompañar: sesión mensual, dudas, alertas, «Presenta tu negocio» y logros |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No |
 | Quién entra | Las personas inscritas al programa | Las mismas personas, desde un enlace en el curso |
@@ -242,7 +242,7 @@ Una publicación al mes por persona. Responde con una frase de ánimo y, si apli
 | Flujo, fiado, reserva, inflación | M3 U01 a U04 |
 | Terminales, transferencias, CEP, fraudes al vender | M4 U01 a U03 |
 | RFC, RESICO, facturas, IVA, declaraciones | M5 U01 a U05 |
-| Crédito, verificar, CAT, aval | M6 U01 a U04 |
+| Crédito, verificar, CAT, aval, obligado solidario y referencia | M6 U01 a U05 |
 | IMSS Modalidad 10, seguros, fraudes (también con IA), marca, identidad, desastres, seguro de vida | M7 U01 a U08 |
 | Contratar, plataformas, números del mes, estrés, plan de negocio, entorno | M8 U01 a U06 |
 | Retiro, cierre o traspaso, plan de una página | M9 U01 a U03 |

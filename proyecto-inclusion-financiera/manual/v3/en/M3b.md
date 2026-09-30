@@ -360,6 +360,10 @@ Federal law requires many lenders to give you a cosigner notice before you sign.
 | Lending your credit card | You | Everything spent is in your name | Pay directly for one specific purchase yourself |
 | Adding someone as an {{authorized user|A person who can use your credit card. You pay for what they spend.}} | You | Their spending adds to your debt | Set a spending limit or don't add them |
 | Lending cash | The other person owes you | That they don't pay you back and you come up short on your expenses | Lend only what you could give away |
+| Giving your details as a reference | The other person | None: a reference doesn't sign or promise to pay | Confirm they only want your details, not a signature |
+
+--- tema | fa-address-card | A reference isn't a cosigner
+When someone applies for a card, a loan or a rental, they're asked for references: names and phone numbers of people who know them. Being a reference doesn't obligate you to pay. Under the federal Fair Debt Collection Practices Act (FDCPA), a collector may only ask you how to locate that person, can't tell you they owe a debt and can't charge you. If they pressure you, write down the details and submit a complaint to the CFPB.
 
 --- tema | fa-handshake-o | If you decide to lend money to a relative
 Agree on these points in writing, even if it's just a message:

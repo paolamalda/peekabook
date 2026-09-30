@@ -141,6 +141,11 @@ CASOS = {
  ("Reclama gratis y revisa si hay robo de identidad.", "Paga la tarjeta para que desaparezca.", "Contrata un despacho para quitarla."),
  ("No paga: es fraude y reclamar es gratis.", "Paga la mitad para probar.", "Paga para limpiar su historial rápido."),
 ],
+"M5 U07": [
+ ("Lee el contrato y firma solo si podría pagar.", "Firma: es familia y no le va a fallar.", "Firma y le pide un pagaré a su sobrino."),
+ ("Pregunta si basta con ser referencia.", "Firma como aval sin leer.", "Le da su tarjeta en lugar de firmar."),
+ ("No paga y se queja en el REDECO.", "Paga para que dejen de llamar.", "Da los datos de la familia del deudor."),
+],
 "M6 U01": [
  ("Revisa su plazo y riesgo antes de vender.", "Vende todo hoy para no perder más.", "Compra más porque bajó de precio."),
  ("Busca una opción acorde a su plazo que le gane a la inflación.", "La deja así; al menos no pierde.", "Pasa todo a un fondo de acciones de inmediato para recuperar lo que perdió con la inflación."),
@@ -281,12 +286,12 @@ CASOS = {
  ("Lo pensará 72 horas y no cede a la presión.", "Le presta para que se calme.", "Le presta menos de lo que pide para quedar bien con la familia."),
  ("Busca orientación en una instancia de apoyo.", "Guarda silencio para evitar problemas.", "Le cede el manejo de todo su dinero."),
 ],
-"M11 U03": [
+"M6 U06": [
  ("Lo confirma en el sitio oficial del IMSS.", "Retira todo lo que puede por si acaso.", "Lo reenvía a toda la familia."),
  ("Revisa su meta y su plazo y deja su dinero.", "Vende todo como su cuñado.", "Pasa todo a efectivo en casa."),
  ("Ajusta su presupuesto antes de tocar su fondo.", "Usa su fondo de emergencia cada mes.", "Paga la luz con la tarjeta y difiere."),
 ],
-"M11 U04": [
+"M11 U03": [
  ("Llena su plan y lo pone al frente de la carpeta.", "Junta las hojas con un clip.", "Lo deja para el próximo año."),
  ("Le da una copia sin números ni contraseñas.", "Le da una copia con sus NIP.", "Le manda una foto del plan completo."),
  ("Actualiza su plan con calma.", "Invierte la herencia de inmediato.", "Deja el plan como estaba."),

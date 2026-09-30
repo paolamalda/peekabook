@@ -131,6 +131,11 @@ CASOS = {
  ("No acepta y le ayuda a buscar otra opción.", "Acepta porque es familia.", "Acepta y le pide que no se atrase."),
  ("Presta de su sueldo, por escrito.", "Presta de la caja de la fonda.", "Presta con la tarjeta del negocio."),
 ],
+"M6 U05": [
+ ("Firma solo si podría pagar todo; si no, dice que no.", "Firma: es su sobrino y confía en él.", "Firma y le pide la factura del auto."),
+ ("Explica el riesgo y busca otra opción si no se puede.", "Pide a su mamá que firme sin explicarle.", "Firma ella misma como su propia obligada."),
+ ("No paga y se queja en el REDECO.", "Paga la deuda de la clienta para quedar bien.", "Da el domicilio de la clienta al despacho."),
+],
 "M7 U01": [
  ("Revisa la Modalidad 10 y su cuota.", "Espera a ver si se vuelve a lastimar.", "Paga consultas privadas cuando pase algo."),
  ("Que su protección será más baja.", "Nada: la protección es la misma.", "Que así paga menos y gana más pensión."),

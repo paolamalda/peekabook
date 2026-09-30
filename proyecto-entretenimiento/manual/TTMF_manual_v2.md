@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 77 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 78 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -217,6 +217,9 @@ Objetivo: relacionar el uso con el producto: equipo de trabajo, emergencia, auto
 
 **M5 U07 · Lee el contrato antes de firmar**
 Objetivo: revisar la carátula, el CAT, las comisiones, los seguros incluidos y el registro del contrato en el RECA de CONDUSEF.
+
+**M5 U08 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?**
+Objetivo: distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar (los despachos solo pueden cobrar al deudor, avales y obligados solidarios) y decidir antes de firmar por otra persona.
 
 ## Módulo 6. El crédito es deuda
 

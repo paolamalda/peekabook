@@ -16,7 +16,7 @@ The community is a **companion** to the course, not a separate course with its o
 
 | | Course (YBMF-US-EN) | Community (YBMF-US-EN-COM) |
 |---|---|---|
-| Purpose | Learn: 9 modules, 42 lessons | Accompany: monthly session, questions, alerts, "Introduce your business" and wins |
+| Purpose | Learn: 9 modules, 43 lessons | Accompany: monthly session, questions, alerts, "Introduce your business" and wins |
 | Content | Lessons, H5P, self-assessments | Forums and the *Community guide*; no new topics taught |
 | Assessment | Yes: badges and certificate | No |
 | Who joins | People enrolled in the program | The same people, through a link in the course |
@@ -243,7 +243,7 @@ One post a month per person. Reply with a sentence of encouragement and, if it a
 | Cash flow, invoices, reserve, inflation | M3 U01 to U04 |
 | Processors, payment apps, selling scams | M4 U01 to U03 |
 | LLC, EIN, ITIN, permits, taxes, 1099s, sales tax | M5 U01 to U05 |
-| Credit, checking lenders, APR, cosigning | M6 U01 to U04 |
+| Credit, checking lenders, APR, cosigning, guarantees and references | M6 U01 to U05 |
 | Health insurance, insurance, scams (including AI), trademark, identity, calls, disasters | M7 U01 to U07 |
 | Hiring, platforms, monthly numbers, stress, business plan, surroundings | M8 U01 to U06 |
 | Social Security, retirement, closing or handover, one-page plan | M9 U01 to U03 |

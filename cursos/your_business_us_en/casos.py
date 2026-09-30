@@ -130,6 +130,11 @@ CASOS = {
  ("Says no and helps him find another option.", "Says yes because he's family.", "Says yes and asks him not to fall behind."),
  ("Lends from her salary, in writing.", "Lends from the business account.", "Lends with the business card."),
 ],
+"M6 U05": [
+ ("Signs only if he could pay; if not, helps with the down payment.", "Signs: it's his son and he trusts him.", "Signs and asks to keep the car title."),
+ ("Reads it, understands the risk and negotiates a limit.", "Signs: the LLC protects her from everything.", "Asks her mother to sign it for her."),
+ ("Doesn't pay, writes down the details and complains to the CFPB.", "Pays so they stop calling.", "Gives the collector his coworker's address."),
+],
 "M7 U01": [
  ("Checks the marketplace and Medi-Cal.", "Waits to see if he gets hurt again.", "Pays for private visits when something happens."),
  ("Checks whether that change lets her enroll.", "Waits until November with no coverage.", "Buys a plan she found on social media."),

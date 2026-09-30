@@ -360,6 +360,10 @@ La ley federal obliga a muchos prestamistas a darte un aviso para cofirmantes an
 | Prestar tu tarjeta de crédito | Tú | Todo lo que se gaste queda a tu nombre | Pagar tú directamente una compra concreta |
 | Agregar a alguien como {{usuario autorizado|Persona que puede usar tu tarjeta de crédito. Lo que gaste lo pagas tú.}} | Tú | Sus gastos se suman a tu deuda | Poner un límite de gasto o no agregarlo |
 | Prestar dinero en efectivo | La otra persona te debe | Que no te pague y te falte para tus gastos | Prestar solo lo que podrías regalar |
+| Dar tus datos como referencia | La otra persona | Ninguno: una referencia no firma ni se obliga a pagar | Confirma que solo te piden datos, no una firma |
+
+--- tema | fa-address-card | Referencia no es cofirmante
+Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia no te obliga a pagar. Por la ley federal de cobranza (FDCPA), un cobrador solo puede preguntarte cómo localizar a esa persona y no puede decirte que tiene una deuda ni cobrarte. Si te presiona, anota los datos y preséntalo ante la CFPB.
 
 --- tema | fa-handshake-o | Si decides prestar dinero a un familiar
 Acuerden estos puntos por escrito, aunque sea en un mensaje:

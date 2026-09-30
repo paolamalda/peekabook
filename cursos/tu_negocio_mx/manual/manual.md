@@ -16,7 +16,7 @@ Educación financiera para personas que emprenden o trabajan por su cuenta en M�
 | Público | Personas residentes en México, de 18 años en adelante, con un negocio pequeño o un trabajo por su cuenta: comida, comercio, oficios, servicios, venta por catálogo o por internet. Muchas son informales o recién formales; algunas tienen una o dos personas que les ayudan |
 | Tono | Tuteo cercano, español de México, frases cortas, ejemplos de negocio real, sin tecnicismos y sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo imprimible y comunidad aparte |
-| Duración | 9 módulos, 43 lecciones |
+| Duración | 9 módulos, 44 lecciones |
 | Eje | Separar el dinero del negocio y de la casa, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -60,7 +60,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | M3 Flujo de efectivo | 4 | Calendario de entradas y salidas, política de fiado, reserva e inflación |
 | M4 Cobrar y vender sin perder | 3 | Formas de cobro comparadas y protocolo contra fraudes al vender |
 | M5 Formalízate sin miedo | 5 | RFC, régimen, facturas y declaraciones en orden |
-| M6 Crédito para tu negocio | 4 | Decidir si necesitas crédito, cuánto cuesta y cómo no mezclarlo |
+| M6 Crédito para tu negocio | 5 | Decidir si necesitas crédito, cuánto cuesta, cómo no mezclarlo y qué firmas por otras personas |
 | M7 Protege tu negocio | 8 | Seguridad social, seguros, fraudes (también con IA), marca, identidad, desastres y seguro de vida |
 | M8 Crecer con orden | 6 | Reglas para contratar, vender en línea, medir, cuidar tu energía, plan de negocio y entorno |
 | M9 Tu futuro | 3 | Retiro, plan de continuidad y plan de una página |
@@ -134,6 +134,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M6 U03 · El costo total: CAT, comisiones y garantías** Comparar el costo, leer la tabla de pagos y la garantía.
 
 **M6 U04 · No mezcles deudas y cuida con el aval** Tarjeta personal para el negocio, préstamos a familia y ser aval.
+
+**M6 U05 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?** Diferencia entre aval, obligado solidario, fiador, garantía y referencia personal; qué te pueden cobrar; cobranza y REDECO; cómo decir que no.
 
 ## Módulo 7. Protege tu negocio
 

@@ -52,6 +52,6 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 **¿Cómo sé qué hay en mi historial de crédito?** Pide tu reporte especial gratis una vez al año en Buró de Crédito y en Círculo de Crédito, en sus sitios oficiales. Reclamar un error también es gratis (M5 U06).
 
-**¿Qué hago con un rumor sobre mi pensión o mis inversiones?** Confírmalo en el sitio oficial antes de actuar y no decidas con miedo (M11 U03).
+**¿Qué hago con un rumor sobre mi pensión o mis inversiones?** Confírmalo en el sitio oficial antes de actuar y no decidas con miedo (M6 U06).
 
 **¿Qué hago si un dato cambió?** Confírmalo en CONDUSEF, la CNBV o el sitio oficial de la institución y usa la información vigente.

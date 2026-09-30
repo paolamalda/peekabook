@@ -130,6 +130,11 @@ CASOS = {
  ("No acepta y le ayuda a buscar otra opción.", "Acepta porque es familia.", "Acepta y le pide que no se atrase."),
  ("Presta de su sueldo, por escrito.", "Presta de la cuenta del negocio.", "Presta con la tarjeta del negocio."),
 ],
+"M6 U05": [
+ ("Firma solo si podría pagar; si no, ayuda con el enganche.", "Firma: es su hijo y confía en él.", "Firma y le pide los papeles del auto."),
+ ("La lee, entiende el riesgo y negocia un límite.", "La firma: la LLC la protege de todo.", "Pide a su mamá que la firme por ella."),
+ ("No paga, anota los datos y se queja ante la CFPB.", "Paga para que dejen de llamar.", "Da el domicilio de su compañero al cobrador."),
+],
 "M7 U01": [
  ("Revisa el mercado y Medi-Cal.", "Espera a ver si se vuelve a lastimar.", "Paga consultas privadas cuando pase algo."),
  ("Revisa si puede inscribirse por ese cambio.", "Espera a noviembre sin seguro.", "Compra un seguro que encontró en redes."),
