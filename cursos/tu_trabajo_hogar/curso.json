@@ -30,7 +30,7 @@
   "M5": "Tu lista de deudas, lo que cuesta cada una y tu plan para salir.",
   "M6": "Tu protección de salud revisada: IMSS, IMSS-Bienestar, prevención y seguros.",
   "M7": "Tu protocolo contra fraudes, apps montadeudas y llamadas falsas.",
-  "M8": "Tu pensión, tu Afore y los apoyos de tus hijas y nietas, sin coyotes.",
+  "M8": "Tu pensión, tu Afore, las becas de tus nietas, tus beneficiarias, tu testamento y los papeles de tu casa.",
   "M9": "Una idea para ganar más con lo que ya sabes hacer y tu plan de una página."
  },
  "apoyo_leads": {
@@ -257,6 +257,33 @@
   "marcos": [
    "adultos"
   ],
-  "extra": {}
+  "extra": {
+   "B2": [
+    "M1 U02",
+    "M1 U03"
+   ],
+   "B4": [
+    "M3 U04",
+    "M8 U02"
+   ],
+   "C3": [
+    "M3 U02",
+    "M3 U04"
+   ],
+   "D3": [
+    "M2 U03",
+    "M7 U02",
+    "M4 U02"
+   ],
+   "D5": [
+    "M7 U01",
+    "M7 U02",
+    "M5 U03"
+   ],
+   "D7": [
+    "M1 U05",
+    "M4 U04"
+   ]
+  }
  }
 }

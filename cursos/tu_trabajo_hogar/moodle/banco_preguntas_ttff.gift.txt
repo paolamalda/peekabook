@@ -1,0 +1,773 @@
+$CATEGORY: $course$/Tu Trabajo v1.0/M1
+
+::M1 U01 P1::Cobras 600 por día y trabajas 15 días. ¿Cuánto te entra en el mes? {
+	=9,000 #¡Correcto! 600 por 15.
+	~6,000 #No es la mejor opción. 600 por 15.
+	~15,600 #No es la mejor opción. 600 por 15.
+}
+
+::M1 U01 P2::Trabajas de planta y cobras 2,500 por semana. ¿Cuánto te entra al mes, más o menos? {
+	~5,000 #No es la mejor opción. 2,500 por 4.3 semanas.
+	=10,750 #¡Correcto! 2,500 por 4.3 semanas.
+	~2,500 #No es la mejor opción. 2,500 por 4.3 semanas.
+}
+
+::M1 U01 P3::¿Con qué mes conviene hacer el presupuesto? {
+	~Con diciembre, que llega el aguinaldo #No es la mejor opción. Así te alcanza siempre.
+	~Con el mejor mes del año #No es la mejor opción. Así te alcanza siempre.
+	=Con un mes flojo #¡Correcto! Así te alcanza siempre.
+}
+
+::M1 U02 P1::Pagas 2,580 de renta al mes. ¿Cuánto apartas cada semana, más o menos? {
+	~2,580 #No es la mejor opción. 2,580 entre 4.3 semanas.
+	=600 #¡Correcto! 2,580 entre 4.3 semanas.
+	~1,290 #No es la mejor opción. 2,580 entre 4.3 semanas.
+}
+
+::M1 U02 P2::¿Qué sobre llenas primero cuando cobras? {
+	~El de pasajes y comida #No es la mejor opción. El ahorro va primero.
+	~El de gustos #No es la mejor opción. El ahorro va primero.
+	=El de ahorro #¡Correcto! El ahorro va primero.
+}
+
+::M1 U02 P3::¿Dónde es mejor guardar los sobres? {
+	=En tu casa #¡Correcto! Si los cargas, se gastan.
+	~En la bolsa del trabajo #No es la mejor opción. Si los cargas, se gastan.
+	~Con una vecina #No es la mejor opción. Si los cargas, se gastan.
+}
+
+::M1 U03 P1::Gastas 25 en refresco cada día y trabajas 20 días. ¿Cuánto al mes? {
+	~25 #No es la mejor opción. 25 por 20.
+	~250 #No es la mejor opción. 25 por 20.
+	=500 #¡Correcto! 25 por 20.
+}
+
+::M1 U03 P2::¿Qué gasto del trabajo puedes acordar con la familia? {
+	=Los pasajes #¡Correcto! Muchas familias los pagan.
+	~Tus recargas de la semana #No es la mejor opción. Muchas familias los pagan.
+	~Tus antojos #No es la mejor opción. Muchas familias los pagan.
+}
+
+::M1 U03 P3::¿Por qué suman tanto los gastos chiquitos? {
+	~Porque son muy caros #No es la mejor opción. Se repiten.
+	=Porque se repiten cada día #¡Correcto! Se repiten.
+	~Porque tienen intereses #No es la mejor opción. Se repiten.
+}
+
+::M1 U04 P1::Apartas 30 cada día y trabajas 20 días al mes. ¿Cuánto ahorras en un año? {
+	=7,200 #¡Correcto! 30 por 20 por 12.
+	~600 #No es la mejor opción. 30 por 20 por 12.
+	~3,600 #No es la mejor opción. 30 por 20 por 12.
+}
+
+::M1 U04 P2::¿Qué es apartar primero? {
+	~Ahorrar lo que te sobra al terminar el fin de semana #No es la mejor opción. Primero tú.
+	~Ahorrar solo en diciembre #No es la mejor opción. Primero tú.
+	=Ahorrar el día que cobras, antes de gastar #¡Correcto! Primero tú.
+}
+
+::M1 U04 P3::¿Dónde es más fácil que el ahorro no se gaste? {
+	~En la bolsa del trabajo #No es la mejor opción. No lo ves diario.
+	=En una cuenta aparte #¡Correcto! No lo ves diario.
+	~Prestado a un familiar #No es la mejor opción. No lo ves diario.
+}
+
+::M1 U05 P1::Un celular cuesta 99 a la semana por 78 semanas. ¿Cuánto pagas en total? {
+	~99 #No es la mejor opción. 99 por 78.
+	=7,722 #¡Correcto! 99 por 78.
+	~3,900 #No es la mejor opción. 99 por 78.
+}
+
+::M1 U05 P2::¿Qué haces ante una oferta «solo hoy»? {
+	=Esperar un día y comparar #¡Correcto! La presión es para que no compares.
+	~Comprar antes de que se acabe #No es la mejor opción. La presión es para que no compares.
+	~Pedir prestado para aprovecharla #No es la mejor opción. La presión es para que no compares.
+}
+
+::M1 U05 P3::Aceite de 1 litro a 42 o de 3 litros a 135. ¿Cuál es más barato por litro? {
+	~Los dos cuestan igual #No es la mejor opción. 42 contra 45 por litro.
+	~El de 3 litros #No es la mejor opción. 42 contra 45 por litro.
+	=El de 1 litro #¡Correcto! 42 contra 45 por litro.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M2
+
+::M2 U01 P1::¿Cuántos días de aguinaldo te tocan como mínimo si trabajas todo el año? {
+	~30 #No es la mejor opción. Artículo 87 de la ley.
+	~5 #No es la mejor opción. Artículo 87 de la ley.
+	=15 #¡Correcto! Artículo 87 de la ley.
+}
+
+::M2 U01 P2::¿Tus derechos aplican si trabajas de entrada por salida? {
+	=Sí, en proporción a los días #¡Correcto! Cada casa paga su parte.
+	~No, solo de planta #No es la mejor opción. Cada casa paga su parte.
+	~Solo si tienes contrato firmado #No es la mejor opción. Cada casa paga su parte.
+}
+
+::M2 U01 P3::¿Cuántos días de vacaciones pagadas te tocan al cumplir un año? {
+	~6 #No es la mejor opción. Desde 2023 son 12.
+	=12 #¡Correcto! Desde 2023 son 12.
+	~Ninguno #No es la mejor opción. Desde 2023 son 12.
+}
+
+::M2 U02 P1::Cobras 480 y gastas 90 en pasajes. ¿Cuánto te queda? {
+	~570 #No es la mejor opción. 480 menos 90.
+	=390 #¡Correcto! 480 menos 90.
+	~480 #No es la mejor opción. 480 menos 90.
+}
+
+::M2 U02 P2::¿Qué haces si te piden una tarea extra? {
+	~La haces sin decir nada a nadie #No es la mejor opción. Es más trabajo.
+	~La dejas sin avisar #No es la mejor opción. Es más trabajo.
+	=Propones cobrarla aparte #¡Correcto! Es más trabajo.
+}
+
+::M2 U02 P3::¿Cuándo conviene pedir ajuste de tu tarifa? {
+	=En enero, con números #¡Correcto! Cuando sube el salario mínimo.
+	~El día que estás molesta #No es la mejor opción. Cuando sube el salario mínimo.
+	~Nunca, para no perder la casa #No es la mejor opción. Cuando sube el salario mínimo.
+}
+
+::M2 U03 P1::¿Qué te sirve de prueba de lo que acordaste? {
+	=Un mensaje con el acuerdo #¡Correcto! Queda escrito.
+	~Tu palabra #No es la mejor opción. Queda escrito.
+	~Lo que recuerdan tus vecinas #No es la mejor opción. Queda escrito.
+}
+
+::M2 U03 P2::¿Qué incluye tu finiquito? {
+	~Solo el último día que trabajaste en la casa #No es la mejor opción. Todo lo pendiente.
+	~Nada, si fue de palabra #No es la mejor opción. Todo lo pendiente.
+	=Días pendientes, aguinaldo y vacaciones #¡Correcto! Todo lo pendiente.
+}
+
+::M2 U03 P3::Te piden firmar que no te deben nada. ¿Qué haces? {
+	~Firmas para salir rápido #No es la mejor opción. No firmes sin revisar.
+	=Pides orientación antes de firmar #¡Correcto! No firmes sin revisar.
+	~Rompes el papel y te vas sin decir nada #No es la mejor opción. No firmes sin revisar.
+}
+
+::M2 U04 P1::¿Qué necesitas dar para que te transfieran? {
+	~Tu NIP #No es la mejor opción. Solo eso para recibir.
+	=Tu CLABE #¡Correcto! Solo eso para recibir.
+	~El código que te llega #No es la mejor opción. Solo eso para recibir.
+}
+
+::M2 U04 P2::¿Cuánto cobra de manejo la cuenta básica? {
+	~120 al mes #No es la mejor opción. Es sin comisión por manejo.
+	~Depende de tu saldo #No es la mejor opción. Es sin comisión por manejo.
+	=Nada #¡Correcto! Es sin comisión por manejo.
+}
+
+::M2 U04 P3::¿A dónde acudes si tu banco no resuelve tu reclamo? {
+	=A la CONDUSEF #¡Correcto! Protege a usuarios.
+	~A la tienda de la esquina #No es la mejor opción. Protege a usuarios.
+	~A la policía de tránsito #No es la mejor opción. Protege a usuarios.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M3
+
+::M3 U01 P1::Tanda de 8 personas con 250 cada semana. ¿Cuánto cobra cada una? {
+	~250 #No es la mejor opción. 250 por 8.
+	~2,500 #No es la mejor opción. 250 por 8.
+	=2,000 #¡Correcto! 250 por 8.
+}
+
+::M3 U01 P2::Cobraste primero. ¿Qué tienes? {
+	=Una deuda con el grupo #¡Correcto! Debes los pagos.
+	~Una ganancia #No es la mejor opción. Debes los pagos.
+	~Un ahorro protegido por el banco #No es la mejor opción. Debes los pagos.
+}
+
+::M3 U01 P3::¿Cuál es el mayor riesgo de una tanda? {
+	~Los intereses que te cobra #No es la mejor opción. Pierden las demás.
+	~Que el banco la cancele #No es la mejor opción. Pierden las demás.
+	=Que alguien deje de pagar #¡Correcto! Pierden las demás.
+}
+
+::M3 U02 P1::Te ofrecen «pon 500 y recibe 4,000» en redes. ¿Qué es? {
+	~Un ahorro con buenos intereses #No es la mejor opción. Nadie multiplica así.
+	=Un fraude piramidal #¡Correcto! Nadie multiplica así.
+	~Una tanda de verdad #No es la mejor opción. Nadie multiplica así.
+}
+
+::M3 U02 P2::¿Qué regla baja el riesgo de una tanda? {
+	~Un grupo grande con gente de otras colonias #No es la mejor opción. Queda claro y comprobable.
+	~Todo de palabra #No es la mejor opción. Queda claro y comprobable.
+	=Reglas escritas y registro #¡Correcto! Queda claro y comprobable.
+}
+
+::M3 U02 P3::¿Qué protege tu ahorro en una cuenta de banco? {
+	=El seguro de depósitos (IPAB) #¡Correcto! Protege tus depósitos.
+	~La señora que organiza la tanda del barrio #No es la mejor opción. Protege tus depósitos.
+	~Nadie #No es la mejor opción. Protege tus depósitos.
+}
+
+::M3 U03 P1::Tus gastos básicos son 2,000 a la semana. ¿Cuál es tu primera meta de fondo? {
+	~2,000 #No es la mejor opción. Dos semanas.
+	~20,000 #No es la mejor opción. Dos semanas.
+	=4,000 #¡Correcto! Dos semanas.
+}
+
+::M3 U03 P2::¿Para qué es el fondo de emergencia? {
+	=Para días sin trabajo o enfermedad #¡Correcto! Imprevistos.
+	~Para ofertas #No es la mejor opción. Imprevistos.
+	~Para la cena y los regalos de fin de año #No es la mejor opción. Imprevistos.
+}
+
+::M3 U03 P3::¿Qué haces con el aguinaldo si no tienes fondo? {
+	~Lo gastas todo en regalos para la familia #No es la mejor opción. Una parte al fondo.
+	=Guardas una parte para el fondo #¡Correcto! Una parte al fondo.
+	~Lo prestas completo #No es la mejor opción. Una parte al fondo.
+}
+
+::M3 U04 P1::Necesitas 3,000 en 30 semanas. ¿Cuánto apartas por semana? {
+	~300 #No es la mejor opción. 3,000 entre 30.
+	=100 #¡Correcto! 3,000 entre 30.
+	~30 #No es la mejor opción. 3,000 entre 30.
+}
+
+::M3 U04 P2::¿Los útiles de agosto son una emergencia? {
+	~Sí, porque siempre llegan de sorpresa cada año #No es la mejor opción. Sabes la fecha.
+	~Depende del año #No es la mejor opción. Sabes la fecha.
+	=No, es un gasto que sabes que viene #¡Correcto! Sabes la fecha.
+}
+
+::M3 U04 P3::Con inflación, ¿qué pasa con el dinero guardado en casa por años? {
+	=Pierde valor #¡Correcto! Los precios suben.
+	~Gana valor #No es la mejor opción. Los precios suben.
+	~Se queda igual #No es la mejor opción. Los precios suben.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M4
+
+::M4 U01 P1::Das 600 a tu hija y 400 a tu mamá cada quincena. ¿Cuánto das al mes? {
+	~1,000 #No es la mejor opción. 1,000 por dos quincenas.
+	=2,000 #¡Correcto! 1,000 por dos quincenas.
+	~600 #No es la mejor opción. 1,000 por dos quincenas.
+}
+
+::M4 U01 P2::¿Qué haces con lo que prestas y nunca te pagan? {
+	~Lo cobras con intereses #No es la mejor opción. Así no te engañas.
+	=Lo cuentas como regalo #¡Correcto! Así no te engañas.
+	~Lo olvidas y sigues prestando #No es la mejor opción. Así no te engañas.
+}
+
+::M4 U01 P3::¿De dónde sale un apoyo urgente de salud? {
+	~De tus pasajes de la semana #No es la mejor opción. Para eso es.
+	~De un préstamo en app #No es la mejor opción. Para eso es.
+	=De tu fondo de emergencia #¡Correcto! Para eso es.
+}
+
+::M4 U02 P1::Pides 3,000 al 15% mensual para prestarle a tu hijo. ¿Cuánto pagas de interés al mes? {
+	~150 #No es la mejor opción. 15% de 3,000.
+	=450 #¡Correcto! 15% de 3,000.
+	~3,450 #No es la mejor opción. 15% de 3,000.
+}
+
+::M4 U02 P2::¿Cuál es la regla más importante al prestar? {
+	=Nunca pedir prestado para prestar #¡Correcto! La deuda sería tuya.
+	~Prestar a quien te lo pida primero en la familia #No es la mejor opción. La deuda sería tuya.
+	~Prestar siempre sin fecha #No es la mejor opción. La deuda sería tuya.
+}
+
+::M4 U02 P3::¿Qué te sirve de acuerdo por escrito? {
+	~Tu memoria #No es la mejor opción. Queda registro.
+	~La palabra de tu hijo frente a la familia #No es la mejor opción. Queda registro.
+	=Un mensaje con monto y fechas #¡Correcto! Queda registro.
+}
+
+::M4 U03 P1::¿Quién NO puede ser cobrado por un despacho? {
+	~El aval #No es la mejor opción. Solo dio sus datos.
+	=La referencia personal #¡Correcto! Solo dio sus datos.
+	~El obligado solidario #No es la mejor opción. Solo dio sus datos.
+}
+
+::M4 U03 P2::Firmaste como aval de 20,000 y no pagan. ¿Cuánto te pueden cobrar? {
+	=Todo lo que se debe #¡Correcto! El aval responde por todo.
+	~Nada #No es la mejor opción. El aval responde por todo.
+	~Solo los intereses del último mes #No es la mejor opción. El aval responde por todo.
+}
+
+::M4 U03 P3::¿Dónde reportas a un despacho que te cobra como referencia? {
+	~En la tienda donde se hizo la compra #No es la mejor opción. Registro de despachos.
+	=En el REDECO de la CONDUSEF #¡Correcto! Registro de despachos.
+	~En la escuela de tus nietas #No es la mejor opción. Registro de despachos.
+}
+
+::M4 U04 P1::¿Cuál es una señal de estrés por dinero? {
+	=Dormir mal por las deudas #¡Correcto! Es una señal.
+	~Anotar tus gastos cada día #No es la mejor opción. Es una señal.
+	~Ahorrar el día que cobras #No es la mejor opción. Es una señal.
+}
+
+::M4 U04 P2::¿Qué parte falta en este «no»\: «Entiendo que lo necesitas, pero no puedo»? {
+	~El enojo #No es la mejor opción. Cierra con otra ayuda.
+	~Una explicación larga #No es la mejor opción. Cierra con otra ayuda.
+	=Ofrecer otra ayuda #¡Correcto! Cierra con otra ayuda.
+}
+
+::M4 U04 P3::¿A qué número llamas si el estrés no te deja vivir? {
+	=Al 800 911 2000 #¡Correcto! Línea de la Vida.
+	~A la prestamista #No es la mejor opción. Línea de la Vida.
+	~Al banco #No es la mejor opción. Línea de la Vida.
+}
+
+::M4 U05 P1::¿Cuál es violencia económica? {
+	~Hacer juntos el presupuesto #No es la mejor opción. Es control.
+	=Que te quiten lo que ganas #¡Correcto! Es control.
+	~Ahorrar para una meta #No es la mejor opción. Es control.
+}
+
+::M4 U05 P2::¿Qué haces si te piden tu INE para un trámite? {
+	~La prestas porque le tienes confianza #No es la mejor opción. Pueden usarla para créditos.
+	~Le mandas una foto #No es la mejor opción. Pueden usarla para créditos.
+	=No la prestas y acompañas #¡Correcto! Pueden usarla para créditos.
+}
+
+::M4 U05 P3::¿Qué tienes a tu nombre para tu autonomía? {
+	=Cuenta, documentos y un fondo #¡Correcto! Es tu derecho.
+	~Nada, porque todo lo guarda tu pareja #No es la mejor opción. Es tu derecho.
+	~Solo el celular #No es la mejor opción. Es tu derecho.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M5
+
+::M5 U01 P1::Debes 4,000, 2,500 y 1,500. ¿Cuánto debes en total? {
+	~6,500 #No es la mejor opción. Suma de las tres.
+	=8,000 #¡Correcto! Suma de las tres.
+	~4,000 #No es la mejor opción. Suma de las tres.
+}
+
+::M5 U01 P2::Te entran 2,500 a la semana y pagas 1,000 de deudas. ¿Qué porcentaje es? {
+	=40% #¡Correcto! 1,000 entre 2,500.
+	~25% #No es la mejor opción. 1,000 entre 2,500.
+	~10% #No es la mejor opción. 1,000 entre 2,500.
+}
+
+::M5 U01 P3::¿Cuál es deuda? {
+	~Tu ahorro guardado en la cuenta del banco #No es la mejor opción. Debes esos pagos.
+	=Lo que te falta pagar en la tanda #¡Correcto! Debes esos pagos.
+	~Tu fondo de emergencia #No es la mejor opción. Debes esos pagos.
+}
+
+::M5 U02 P1::Te prestan 2,000 y pagas 120 por semana durante 25 semanas. ¿Cuánto pagas de más? {
+	~3,000 #No es la mejor opción. 3,000 menos 2,000.
+	~120 #No es la mejor opción. 3,000 menos 2,000.
+	=1,000 #¡Correcto! 3,000 menos 2,000.
+}
+
+::M5 U02 P2::¿Qué te dice el CAT? {
+	~El pago semanal #No es la mejor opción. Sirve para comparar.
+	=El costo anual con intereses y comisiones #¡Correcto! Sirve para comparar.
+	~Cuánto te prestan y en cuántas semanas pagas #No es la mejor opción. Sirve para comparar.
+}
+
+::M5 U02 P3::¿Qué pasa si no pagas un empeño a tiempo? {
+	=Pierdes la prenda #¡Correcto! Se queda con la prenda.
+	~Te regalan el préstamo #No es la mejor opción. Se queda con la prenda.
+	~Nada, te esperan siempre #No es la mejor opción. Se queda con la prenda.
+}
+
+::M5 U03 P1::Te prestan 1,000 y pagas 60 diarios por 20 días. ¿Cuánto pagas de más? {
+	~60 #No es la mejor opción. 1,200 menos 1,000.
+	~1,200 #No es la mejor opción. 1,200 menos 1,000.
+	=200 #¡Correcto! 1,200 menos 1,000.
+}
+
+::M5 U03 P2::¿Qué haces si una app te amenaza? {
+	~Pides otro préstamo para pagar #No es la mejor opción. Sirven de prueba.
+	=Guardas capturas y denuncias #¡Correcto! Sirven de prueba.
+	~Borras todo sin guardar nada #No es la mejor opción. Sirven de prueba.
+}
+
+::M5 U03 P3::¿Dónde denuncias las amenazas? {
+	=En el 088 #¡Correcto! Guardia Nacional.
+	~En la tienda de la esquina #No es la mejor opción. Guardia Nacional.
+	~En la misma app #No es la mejor opción. Guardia Nacional.
+}
+
+::M5 U04 P1::En la bola de nieve, ¿cuál pagas primero? {
+	~La más grande #No es la mejor opción. Ves avances rápido.
+	=La más chica #¡Correcto! Ves avances rápido.
+	~La más reciente #No es la mejor opción. Ves avances rápido.
+}
+
+::M5 U04 P2::¿Qué haces si sabes que te vas a atrasar? {
+	=Hablas antes y negocias #¡Correcto! Evitas recargos.
+	~Cambias de número para que no te encuentren #No es la mejor opción. Evitas recargos.
+	~Pides otro préstamo #No es la mejor opción. Evitas recargos.
+}
+
+::M5 U04 P3::Terminas una deuda donde pagabas 300. ¿Qué haces con esos 300? {
+	~Los gastas en gustos #No es la mejor opción. Así aceleras.
+	~Los guardas para gastarlos solo en diciembre #No es la mejor opción. Así aceleras.
+	=Los pasas a la siguiente deuda #¡Correcto! Así aceleras.
+}
+
+::M5 U05 P1::¿Qué es el Buró de Crédito? {
+	=Tu historial de pagos #¡Correcto! Lo bueno y lo malo.
+	~Una lista negra de morosos #No es la mejor opción. Lo bueno y lo malo.
+	~Un banco que presta #No es la mejor opción. Lo bueno y lo malo.
+}
+
+::M5 U05 P2::¿Cuántas veces al año puedes pedir tu reporte sin costo? {
+	~Ninguna, siempre cuesta #No es la mejor opción. Una vez al año.
+	~Doce #No es la mejor opción. Una vez al año.
+	=Una #¡Correcto! Una vez al año.
+}
+
+::M5 U05 P3::Te ofrecen «limpiar tu Buró» por 1,500. ¿Qué es? {
+	~Un servicio oficial #No es la mejor opción. Nadie lo borra pagando.
+	=Un fraude #¡Correcto! Nadie lo borra pagando.
+	~Un trámite del banco #No es la mejor opción. Nadie lo borra pagando.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M6
+
+::M6 U01 P1::¿Qué te da el IMSS si la casa te inscribe? {
+	~Solo medicinas #No es la mejor opción. Son los seguros del régimen.
+	=Médico, incapacidades, guardería y pensión #¡Correcto! Son los seguros del régimen.
+	~Un préstamo con descuento para tu familia y tu casa #No es la mejor opción. Son los seguros del régimen.
+}
+
+::M6 U01 P2::Trabajas en tres casas. ¿Quién puede inscribirte? {
+	~Nadie #No es la mejor opción. Cada una paga su parte.
+	~Solo la casa donde más días trabajas #No es la mejor opción. Cada una paga su parte.
+	=Cada casa, por tus días con ella #¡Correcto! Cada una paga su parte.
+}
+
+::M6 U01 P3::¿Con qué consultas tu número de seguridad social? {
+	=Con tu CURP #¡Correcto! En el sitio o la app del IMSS.
+	~Con tu recibo de luz #No es la mejor opción. En el sitio o la app del IMSS.
+	~Con tu acta de matrimonio #No es la mejor opción. En el sitio o la app del IMSS.
+}
+
+::M6 U02 P1::¿Cuánto cuesta al año el Seguro de Salud para la Familia para una persona de 45 años en 2026? {
+	~9,300 #No es la mejor opción. De 40 a 49 años.
+	=13,800 #¡Correcto! De 40 a 49 años.
+	~21,300 #No es la mejor opción. De 40 a 49 años.
+}
+
+::M6 U02 P2::¿Qué NO da el Seguro de Salud para la Familia? {
+	~Hospital #No es la mejor opción. Solo es salud.
+	~Consultas #No es la mejor opción. Solo es salud.
+	=Pensión #¡Correcto! Solo es salud.
+}
+
+::M6 U02 P3::La cuota anual es de 11,550. ¿Cuánto apartas por semana, más o menos? {
+	=222 #¡Correcto! 11,550 entre 52.
+	~1,155 #No es la mejor opción. 11,550 entre 52.
+	~50 #No es la mejor opción. 11,550 entre 52.
+}
+
+::M6 U03 P1::¿Cuánto cuesta atenderte en el centro de salud si no tienes seguridad social? {
+	~Lo mismo que un médico privado #No es la mejor opción. Para personas sin seguridad social.
+	~Una cuota al año #No es la mejor opción. Para personas sin seguridad social.
+	=No tiene costo #¡Correcto! Para personas sin seguridad social.
+}
+
+::M6 U03 P2::¿Qué llevas para registrarte? {
+	=Tu CURP e identificación #¡Correcto! Te registran con ellas.
+	~Tu recibo de nómina de la casa #No es la mejor opción. Te registran con ellas.
+	~Tu tarjeta del banco #No es la mejor opción. Te registran con ellas.
+}
+
+::M6 U03 P3::¿Por qué prevenir cuida tu dinero? {
+	~Porque te regalan medicinas #No es la mejor opción. Cobras por día.
+	=Porque evitas perder días de trabajo #¡Correcto! Cobras por día.
+	~Porque en el centro de salud te pagan por ir a consulta #No es la mejor opción. Cobras por día.
+}
+
+::M6 U04 P1::¿Qué pasa si mezclas cloro con amoniaco? {
+	~Limpia mejor #No es la mejor opción. Es peligroso.
+	=Suelta gases tóxicos #¡Correcto! Es peligroso.
+	~Nada #No es la mejor opción. Es peligroso.
+}
+
+::M6 U04 P2::Solo hay una silla para limpiar una ventana alta. ¿Qué haces? {
+	=Pides una escalera firme #¡Correcto! Evita caídas.
+	~Te subes con cuidado #No es la mejor opción. Evita caídas.
+	~Pones la silla sobre la mesa #No es la mejor opción. Evita caídas.
+}
+
+::M6 U04 P3::Te accidentas en una casa. ¿Qué guardas? {
+	~Nada, ya pasó #No es la mejor opción. Son tus pruebas.
+	~Solo la foto del lugar donde te caíste y del piso mojado #No es la mejor opción. Son tus pruebas.
+	=Recetas, notas médicas y el mensaje de aviso #¡Correcto! Son tus pruebas.
+}
+
+::M6 U05 P1::¿Qué institución vigila los planes de previsión funeraria? {
+	~El Banco de México #No es la mejor opción. Registro de planes funerarios.
+	=La PROFECO #¡Correcto! Registro de planes funerarios.
+	~El IMSS #No es la mejor opción. Registro de planes funerarios.
+}
+
+::M6 U05 P2::¿Qué pones al nombrar beneficiarias? {
+	~Solo el apodo con el que la conoce toda la familia #No es la mejor opción. Así no hay dudas.
+	~Solo el parentesco #No es la mejor opción. Así no hay dudas.
+	=Nombre completo y parte de cada una #¡Correcto! Así no hay dudas.
+}
+
+::M6 U05 P3::Pagas 150 al mes por un plan. ¿Cuánto pagas al año? {
+	=1,800 #¡Correcto! 150 por 12.
+	~150 #No es la mejor opción. 150 por 12.
+	~15,000 #No es la mejor opción. 150 por 12.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M7
+
+::M7 U01 P1::¿Qué es lo primero que haces ante una llamada que pide dinero urgente? {
+	~Depositas rápido para ayudar a tu familiar #No es la mejor opción. La regla de oro.
+	~Pides más datos #No es la mejor opción. La regla de oro.
+	=Cuelgas y verificas #¡Correcto! La regla de oro.
+}
+
+::M7 U01 P2::¿Tu banco te pide códigos por teléfono? {
+	=No, nunca #¡Correcto! Nunca los pide.
+	~Solo si es urgente #No es la mejor opción. Nunca los pide.
+	~Sí, para cancelar cargos #No es la mejor opción. Nunca los pide.
+}
+
+::M7 U01 P3::¿Para qué sirve una palabra clave familiar? {
+	~Para abrir la cuenta #No es la mejor opción. Los engañadores no la saben.
+	=Para saber si de verdad es tu familiar #¡Correcto! Los engañadores no la saben.
+	~Para cobrar premios y promociones que te lleguen por teléfono #No es la mejor opción. Los engañadores no la saben.
+}
+
+::M7 U02 P1::¿Cuánto cuesta registrarte a una pensión del Bienestar? {
+	~500 #No es la mejor opción. Los registros no se cobran.
+	=No tiene costo #¡Correcto! Los registros no se cobran.
+	~Lo que pida el gestor #No es la mejor opción. Los registros no se cobran.
+}
+
+::M7 U02 P2::Te ofrecen trabajo en otro país si depositas 4,000. ¿Qué es? {
+	=Una señal de engaño #¡Correcto! Nadie serio pide depósito.
+	~Un trámite normal #No es la mejor opción. Nadie serio pide depósito.
+	~Una buena oportunidad #No es la mejor opción. Nadie serio pide depósito.
+}
+
+::M7 U02 P3::¿En qué terminan los sitios oficiales del gobierno? {
+	~.com #No es la mejor opción. Así los reconoces.
+	~.net #No es la mejor opción. Así los reconoces.
+	=gob.mx #¡Correcto! Así los reconoces.
+}
+
+::M7 U03 P1::¿Qué candado evita que te roben tu WhatsApp? {
+	=Verificación en dos pasos #¡Correcto! Pide un NIP extra.
+	~Fondo de pantalla #No es la mejor opción. Pide un NIP extra.
+	~Más memoria y una funda más resistente #No es la mejor opción. Pide un NIP extra.
+}
+
+::M7 U03 P2::Te roban el celular. ¿Qué haces primero? {
+	~Compras otro #No es la mejor opción. Evitas cargos.
+	~Esperas a que alguien lo encuentre y te lo regrese #No es la mejor opción. Evitas cargos.
+	=Llamas al banco y bloqueas #¡Correcto! Evitas cargos.
+}
+
+::M7 U03 P3::¿Para qué sirven las alertas del banco? {
+	~Para ganar puntos y premios en cada compra del mes #No es la mejor opción. Te enteras al momento.
+	=Para enterarte de cada movimiento #¡Correcto! Te enteras al momento.
+	~Para pagar menos comisiones #No es la mejor opción. Te enteras al momento.
+}
+
+::M7 U04 P1::¿Qué registro evita llamadas de bancos con publicidad? {
+	=El REUS #¡Correcto! De la CONDUSEF.
+	~El RFC #No es la mejor opción. De la CONDUSEF.
+	~El SIPRES #No es la mejor opción. De la CONDUSEF.
+}
+
+::M7 U04 P2::¿Qué escribes en la copia de tu INE? {
+	~Tu firma y tu número de celular completo #No es la mejor opción. Así no la reúsan.
+	~Tu número de cuenta #No es la mejor opción. Así no la reúsan.
+	=Para qué trámite es y la fecha #¡Correcto! Así no la reúsan.
+}
+
+::M7 U04 P3::¿Cuánto cuesta registrarte en el REPEP? {
+	~200 al año #No es la mejor opción. Es sin costo.
+	=No tiene costo #¡Correcto! Es sin costo.
+	~Lo que cobre el gestor #No es la mejor opción. Es sin costo.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M8
+
+::M8 U01 P1::¿Cuánto da al año la Pensión Mujeres Bienestar en 2026? {
+	=18,600 #¡Correcto! 3,100 por 6 bimestres.
+	~3,100 #No es la mejor opción. 3,100 por 6 bimestres.
+	~38,400 #No es la mejor opción. 3,100 por 6 bimestres.
+}
+
+::M8 U01 P2::¿A partir de qué edad es la Pensión de Adultos Mayores? {
+	~60 #No es la mejor opción. De 65 en adelante.
+	~55 #No es la mejor opción. De 65 en adelante.
+	=65 #¡Correcto! De 65 en adelante.
+}
+
+::M8 U01 P3::¿Cuánto cuesta registrarte? {
+	=No tiene costo #¡Correcto! El registro es sin costo.
+	~800 con gestor #No es la mejor opción. El registro es sin costo.
+	~Un mes de pensión #No es la mejor opción. El registro es sin costo.
+}
+
+::M8 U02 P1::¿Desde cuánto puedes ahorrar en tu Afore en una tienda? {
+	~1,000 #No es la mejor opción. Desde 50 pesos.
+	=50 #¡Correcto! Desde 50 pesos.
+	~500 #No es la mejor opción. Desde 50 pesos.
+}
+
+::M8 U02 P2::¿Qué necesitas para depositar en la tienda? {
+	=Tu CURP #¡Correcto! Con ella te identifican.
+	~Tu contrato de trabajo #No es la mejor opción. Con ella te identifican.
+	~Tu recibo de luz #No es la mejor opción. Con ella te identifican.
+}
+
+::M8 U02 P3::Ahorras 100 cada semana. ¿Cuánto juntas en un año, sin rendimientos? {
+	~1,200 #No es la mejor opción. 100 por 52.
+	~100 #No es la mejor opción. 100 por 52.
+	=5,200 #¡Correcto! 100 por 52.
+}
+
+::M8 U03 P1::¿Para quién es la Beca Benito Juárez? {
+	=Estudiantes de preparatoria pública #¡Correcto! Es universal en prepa pública.
+	~Solo quien tenga promedio de 10 en la secundaria #No es la mejor opción. Es universal en prepa pública.
+	~Estudiantes de escuela privada #No es la mejor opción. Es universal en prepa pública.
+}
+
+::M8 U03 P2::¿Cuántos depósitos al año da la Beca Benito Juárez? {
+	~12 #No es la mejor opción. No se paga en verano.
+	=5 #¡Correcto! No se paga en verano.
+	~1 #No es la mejor opción. No se paga en verano.
+}
+
+::M8 U03 P3::¿Qué haces si alguien te cobra por registrar una beca? {
+	~Pagas para asegurarla antes de que se acaben los lugares #No es la mejor opción. Es sin costo.
+	~Pagas la mitad #No es la mejor opción. Es sin costo.
+	=No pagas y registras en el sitio oficial #¡Correcto! Es sin costo.
+}
+
+::M8 U04 P1::¿Qué pasa si nombras beneficiarias en tu cuenta? {
+	~Pagan más impuestos cuando reciben el dinero #No es la mejor opción. Es lo más rápido.
+	=Reciben el dinero sin juicio #¡Correcto! Es lo más rápido.
+	~No cambia nada #No es la mejor opción. Es lo más rápido.
+}
+
+::M8 U04 P2::¿Qué datos pones de cada beneficiaria? {
+	~Solo el apodo con el que la conoce la familia #No es la mejor opción. Así no hay dudas.
+	~Solo el parentesco #No es la mejor opción. Así no hay dudas.
+	=Nombre completo y porcentaje #¡Correcto! Así no hay dudas.
+}
+
+::M8 U04 P3::¿Dónde más puedes nombrar beneficiarias? {
+	=En tu Afore y tus seguros #¡Correcto! Y en tu contrato.
+	~En tu recibo de luz #No es la mejor opción. Y en tu contrato.
+	~En tu tarjeta de la tienda #No es la mejor opción. Y en tu contrato.
+}
+
+::M8 U05 P1::¿Con qué se heredan los derechos de una parcela ejidal? {
+	=Con la lista de sucesión #¡Correcto! Se registra en el RAN.
+	~Con un recibo de luz #No es la mejor opción. Se registra en el RAN.
+	~Con una carta escrita a mano por el ejidatario #No es la mejor opción. Se registra en el RAN.
+}
+
+::M8 U05 P2::¿Qué mes tiene descuentos para hacer testamento? {
+	~Enero #No es la mejor opción. Mes del Testamento.
+	~Diciembre #No es la mejor opción. Mes del Testamento.
+	=Septiembre #¡Correcto! Mes del Testamento.
+}
+
+::M8 U05 P3::¿Qué haces si tu casa no tiene escrituras? {
+	~Nada, se hereda sola #No es la mejor opción. Primero los papeles.
+	=Pides orientación para regularizarla #¡Correcto! Primero los papeles.
+	~La vendes rápido a un vecino para no tener problemas #No es la mejor opción. Primero los papeles.
+}
+
+::M8 U06 P1::¿Cuánto ISR pagas por recibir una herencia? {
+	~30% #No es la mejor opción. Artículo 93 de la Ley del ISR.
+	=Nada, está exenta #¡Correcto! Artículo 93 de la Ley del ISR.
+	~10% #No es la mejor opción. Artículo 93 de la Ley del ISR.
+}
+
+::M8 U06 P2::La herencia de tu papá no alcanza para sus deudas y tú no firmaste nada. ¿Pagas con tu dinero? {
+	=No #¡Correcto! Solo paga quien firmó como aval.
+	~Sí, todo #No es la mejor opción. Solo paga quien firmó como aval.
+	~Solo la mitad #No es la mejor opción. Solo paga quien firmó como aval.
+}
+
+::M8 U06 P3::¿Qué sí cuesta al heredar una casa? {
+	~El ISR de la herencia, que es de 30% del valor de la casa #No es la mejor opción. Son los gastos de pasarla a tu nombre.
+	~Nada, no cuesta ni un peso #No es la mejor opción. Son los gastos de pasarla a tu nombre.
+	=Escriturar\: impuesto estatal, notario y registro #¡Correcto! Son los gastos de pasarla a tu nombre.
+}
+
+$CATEGORY: $course$/Tu Trabajo v1.0/M9
+
+::M9 U01 P1::¿Qué es pensar en crecer? {
+	~Aguantar hasta que las cosas mejoren solas #No es la mejor opción. Es la idea.
+	=Buscar cómo ganar más con lo que sabes #¡Correcto! Es la idea.
+	~Pedir un préstamo #No es la mejor opción. Es la idea.
+}
+
+::M9 U01 P2::Cobras 350 extra por guisados en dos casas cada semana. ¿Cuánto ganas de más al mes? {
+	~700 #No es la mejor opción. 350 por 2 por 4 semanas.
+	~350 #No es la mejor opción. 350 por 2 por 4 semanas.
+	=2,800 #¡Correcto! 350 por 2 por 4 semanas.
+}
+
+::M9 U01 P3::¿Qué te ayuda a cobrar más por hora? {
+	=Un curso de cuidado de personas mayores #¡Correcto! Te especializa.
+	~Trabajar sin descanso los siete días de la semana #No es la mejor opción. Te especializa.
+	~Bajar tu tarifa #No es la mejor opción. Te especializa.
+}
+
+::M9 U02 P1::Cobras 900, gastas 120 en productos y 80 en pasajes. ¿Cuánto te queda? {
+	~900 #No es la mejor opción. 900 menos 200.
+	=700 #¡Correcto! 900 menos 200.
+	~1,100 #No es la mejor opción. 900 menos 200.
+}
+
+::M9 U02 P2::¿Cuál es la mejor forma de conseguir clientas al inicio? {
+	=Recomendaciones de tus casas #¡Correcto! Generan confianza.
+	~Bajar tu precio a la mitad #No es la mejor opción. Generan confianza.
+	~Trabajar sin cobrar la primera vez #No es la mejor opción. Generan confianza.
+}
+
+::M9 U02 P3::¿Qué haces antes de ir a una casa nueva? {
+	~Das tu INE por WhatsApp #No es la mejor opción. Por tu seguridad.
+	=Avisas a alguien de confianza dónde estarás #¡Correcto! Por tu seguridad.
+	~Llevas todo tu dinero y tu INE por si te los piden #No es la mejor opción. Por tu seguridad.
+}
+
+::M9 U03 P1::La clienta paga 800 y la app se queda con 20%. ¿Cuánto te llega antes de pasajes? {
+	~160 #No es la mejor opción. 800 menos 160.
+	~800 #No es la mejor opción. 800 menos 160.
+	=640 #¡Correcto! 800 menos 160.
+}
+
+::M9 U03 P2::¿Qué es señal de engaño en una agencia? {
+	=Que te pida pagar por inscribirte #¡Correcto! Nadie serio cobra por darte trabajo.
+	~Que tenga contrato #No es la mejor opción. Nadie serio cobra por darte trabajo.
+	~Que te explique la comisión y cuándo te paga #No es la mejor opción. Nadie serio cobra por darte trabajo.
+}
+
+::M9 U03 P3::¿Con qué comparas la app contra trabajar directo? {
+	~Con lo que paga la clienta #No es la mejor opción. Es tu ganancia real.
+	=Con lo que te queda por hora #¡Correcto! Es tu ganancia real.
+	~Con cuántas estrellas tienes #No es la mejor opción. Es tu ganancia real.
+}
+
+::M9 U04 P1::¿Qué ayuda a cumplir una meta de ahorro? {
+	~Guardarla en secreto para que nadie opine #No es la mejor opción. Así ahorras más.
+	~Ahorrar lo que sobre #No es la mejor opción. Así ahorras más.
+	=Nombre, testigo y recordatorio #¡Correcto! Así ahorras más.
+}
+
+::M9 U04 P2::¿Qué no va en tu plan? {
+	=Tu NIP #¡Correcto! Es un dato sensible.
+	~Tu meta de ahorro #No es la mejor opción. Es un dato sensible.
+	~Tu lista de deudas #No es la mejor opción. Es un dato sensible.
+}
+
+::M9 U04 P3::¿Cada cuándo conviene revisar tu plan si cobras por día? {
+	~Una vez al año #No es la mejor opción. El día que cobras.
+	=Cada semana #¡Correcto! El día que cobras.
+	~Solo en diciembre #No es la mejor opción. El día que cobras.
+}
