@@ -4,24 +4,24 @@ Cada opción tiene una función distinta: un regulador no sustituye a un prepara
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
-| Preparar impuestos | IRS VITA y TCE | Gratis para quienes califican | Sede, idioma, si ayudan con ITIN |
-| Ayuda fiscal en California | FTB, ayuda sin costo y CalFile | Gratis según programa | Requisitos del año |
-| Verificar a un preparador | CTEC (California) y directorio del IRS | Gratis | Registro vigente |
+| Preparar impuestos | IRS VITA y TCE | Sin costo para quienes califican | Sede, idioma, si ayudan con ITIN |
+| Ayuda fiscal en California | FTB, ayuda sin costo y CalFile | Sin costo según programa | Requisitos del año |
+| Verificar a un preparador | CTEC (California) y directorio del IRS | Sin costo | Registro vigente |
 | Asesoría migratoria | Abogados con licencia y representantes acreditados del DOJ | Variable; hay opciones sin costo | Licencia en el State Bar o acreditación en la lista del DOJ (EOIR) |
 | Ayuda legal general | Servicios de referencia certificados del State Bar de California | La consulta puede tener costo | Certificación del servicio y licencia |
-| Reportar fraude de notarios | State Bar, Procuraduría General de California, FTC | Gratis | Guarda contratos y recibos |
-| Robo de identidad | FTC IdentityTheft.gov | Gratis | Entra directamente; evita imitadores |
-| Quejas financieras | CFPB y DFPI | Gratis | Folio de tu queja |
-| Licencia de remesadoras | DFPI y NMLS Consumer Access | Gratis | Nombre legal exacto |
-| Bancos y cooperativas | FDIC BankFind y buscador de la NCUA | Gratis | Nombre legal y seguro |
-| Crear crédito con tandas | Mission Asset Fund y otros círculos de préstamo | Gratis | A qué agencias reportan |
-| Vivienda | Consejeros de vivienda certificados por HUD (buscador del CFPB) | Gratis o bajo costo | Agencia y área de servicio |
-| Seguros | Departamento de Seguros de California (CDI) | Gratis | Licencia de la aseguradora y del agente |
-| Planes de salud | DMHC, Centro de Ayuda | Gratis | Si tu plan está bajo su supervisión |
-| Salario y derechos laborales | Departamento de Relaciones Industriales (DIR) | Gratis | Guarda horas y recibos |
-| Negocio propio | Centros de desarrollo de pequeños negocios (SBDC) | Gratis o bajo costo | Asesoría en español |
-| Retiro | CalSavers | Gratis | Requisitos de participación |
-| Orientación financiera consular | Ventanillas de Asesoría Financiera en consulados de México | Gratis | Horario y cita |
+| Reportar fraude de notarios | State Bar, Procuraduría General de California, FTC | Sin costo | Guarda contratos y recibos |
+| Robo de identidad | FTC IdentityTheft.gov | Sin costo | Entra directamente; evita imitadores |
+| Quejas financieras | CFPB y DFPI | Sin costo | Folio de tu queja |
+| Licencia de remesadoras | DFPI y NMLS Consumer Access | Sin costo | Nombre legal exacto |
+| Bancos y cooperativas | FDIC BankFind y buscador de la NCUA | Sin costo | Nombre legal y seguro |
+| Crear crédito con tandas | Mission Asset Fund y otros círculos de préstamo | Sin costo | A qué agencias reportan |
+| Vivienda | Consejeros de vivienda certificados por HUD (buscador del CFPB) | Sin costo o bajo costo | Agencia y área de servicio |
+| Seguros | Departamento de Seguros de California (CDI) | Sin costo | Licencia de la aseguradora y del agente |
+| Planes de salud | DMHC, Centro de Ayuda | Sin costo | Si tu plan está bajo su supervisión |
+| Salario y derechos laborales | Departamento de Relaciones Industriales (DIR) | Sin costo | Guarda horas y recibos |
+| Negocio propio | Centros de desarrollo de pequeños negocios (SBDC) | Sin costo o bajo costo | Asesoría en español |
+| Retiro | CalSavers | Sin costo | Requisitos de participación |
+| Orientación financiera consular | Ventanillas de Asesoría Financiera en consulados de México | Sin costo | Horario y cita |
 
 **Preparadores privados.** Puedes compararlos con el mismo esquema. Un ejemplo en San Diego es ATAX Chula Vista Downtown, que anuncia servicios fiscales, incluida ayuda con ITIN; confirma honorarios completos, credencial de quien te atiende y alcance. Aparecer en esta lista no es una recomendación ni un convenio.
 

@@ -1,6 +1,6 @@
 # Tu Patrimonio, Tu Tranquilidad, Tu Futuro
 
-Manual del programa · Versión 1.2 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Desarrolla Talento · 29 de septiembre de 2026
 
 Programa de bienestar financiero para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
 
@@ -181,6 +181,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado** Documentos con copia digital, fotos, seguro con tu riesgo, qué hacer después del siniestro y fraudes tras un desastre.
 
+**M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10** Conocer las dos formas de tener IMSS pagando tú (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cuándo conviene cada una frente a un seguro de gastos médicos privado.
+
 ## Módulo 9. Impuestos sin miedo
 
 **M9 U01 · ¿Tengo que declarar?** Cuándo sí, cuándo no, RFC y e.firma sin miedo.
@@ -202,6 +204,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M10 U05 · Viudez o separación: los primeros 90 días** Qué hacer primero, qué no firmar y a quién acudir.
 
 **M10 U06 · Tu casa: escrituras, predial y crédito en orden** Escritura inscrita, liberación de hipoteca, predial, seguro del crédito, subcuenta de vivienda y fraudes con terrenos.
+
+**M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio** Saber qué pasa si alguien fallece sin testamento, cómo se hereda en unión libre y la tierra ejidal, y qué hacer para evitar pleitos.
+
+**M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos** Entender qué impuestos hay (y cuáles no) al heredar, cuánto cuesta pasar una casa a tu nombre, y los riesgos y costos de dar en vida con donación, venta o usufructo.
 
 ## Módulo 11. Decidir con calma y tu plan
 

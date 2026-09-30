@@ -162,7 +162,7 @@ SBA · California Franchise Tax Board · California Secretary of State, accessed
 | Type | Description | What it means for you |
 |---|---|---|
 | SSN or ITIN | Your personal tax number. | The ITIN lets you file if you don't have an SSN. |
-| EIN | Your business's number with the IRS. | Free at irs.gov. |
+| EIN | Your business's number with the IRS. | At no cost on irs.gov. |
 | Seller's permit (California) | To sell taxable products. | From the CDTFA, at no cost. |
 | Sites that charge for an EIN | The process costs nothing. | Don't pay. |
 
@@ -202,7 +202,7 @@ Lupita got her EIN no-cost at irs.gov with her ITIN, requested her seller's perm
 
 #### Remember
 
-- Free EIN at irs.gov.
+- No-cost EIN at irs.gov.
 - Seller's permit at no cost.
 - Licenses by city and trade.
 
@@ -268,7 +268,7 @@ A "notario" offers to fix Don Ramón's immigration papers and permits for $2,000
 
 #### Quiz
 
-1. Where do you get your EIN? a) From a private site that charges a fee · b) Free at irs.gov · c) At your bank
+1. Where do you get your EIN? a) From a private site that charges a fee · b) At no cost on irs.gov · c) At your bank
 2. What is the ITIN for? a) Filing taxes if you can't get an SSN · b) Working as an employee · c) Voting
 3. In California, when do you need a CSLB license? a) Never for small painting or repair jobs · b) Only if you have full-time employees · c) For jobs over $1,000 or that require a permit
 **Answers:** 1-b: it costs nothing. 2-a: IRS tax number. 3-c: rule in effect since 2025.
@@ -380,7 +380,7 @@ As a sole proprietor, you report sales and expenses on Schedule C of your return
 
 
 
-#### Free or low-cost help
+#### No-cost or low-cost help
 
 VITA programs help people with moderate incomes at no cost, although not all of them handle businesses with complex expenses. As your business grows, an accountant or a preparer with a PTIN saves you mistakes. Your state (in California, the Franchise Tax Board) also charges income tax.
 
@@ -451,7 +451,7 @@ Open an account for taxes and decide what percentage of each profit you'll set a
 ### Learn more
 
 - **Self-employment tax** (IRS · English and Spanish): https://www.irs.gov | What to look for: "self-employment tax".
-- **Free VITA help** (IRS · English and Spanish): https://www.irs.gov | What to look for: "VITA".
+- **No-cost VITA help** (IRS · English and Spanish): https://www.irs.gov | What to look for: "VITA".
 
 ### Key words
 

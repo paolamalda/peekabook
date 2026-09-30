@@ -1,8 +1,8 @@
 {
  "sigla": "TTDF",
  "titulo": "Tu Turno, Tu Dinero, Tu Futuro",
- "subtitulo": "Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
- "version": "1.2",
+ "subtitulo": "Versión 1.3 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.3",
  "lang": "es",
  "intro": "Curso de finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: 8 módulos, 37 lecciones cortas para el celular.",
  "categoria": "Tu Turno",
@@ -182,10 +182,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Turno_Tu_Dinero_Tu_Futuro",
-  "zip": "Tu_Turno_v1.2",
-  "manual": "Manual_del_programa_TTDF_v1.2",
-  "contenido": "Contenido_completo_TTDF_v1.2",
-  "guia": "Guia_implementacion_TTDF_v1.2",
+  "zip": "Tu_Turno_v1.3",
+  "manual": "Manual_del_programa_TTDF_v1.3",
+  "contenido": "Contenido_completo_TTDF_v1.3",
+  "guia": "Guia_implementacion_TTDF_v1.3",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

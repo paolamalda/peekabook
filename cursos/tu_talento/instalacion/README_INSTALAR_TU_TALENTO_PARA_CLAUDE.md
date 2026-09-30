@@ -75,7 +75,7 @@ En cada sección de módulo:
 | M7 | 10 | 40 |
 | M8 | 6 | 24 |
 | M9 | 10 | 40 |
-| M10 | 7 | 28 |
+| M10 | 8 | 32 |
 | M11 | 9 | 36 |
 
 ## 4. Libro de apoyo
@@ -90,15 +90,15 @@ En la sección 12, crea el glosario `Palabras clave del curso` e importa `3_glos
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttmf.gift.txt`. Se crean *Tu Talento v1.3/M1* a *M11*, con 237 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttmf.gift.txt`. Se crean *Tu Talento v1.4/M1* a *M11*, con 240 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Talento v1.3/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Talento v1.4/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 21 | 15 | 18 | 15 | 24 | 18 | 30 | 18 | 30 | 21 | 27 |
+| 21 | 15 | 18 | 15 | 24 | 18 | 30 | 18 | 30 | 24 | 27 |
 
-## 7. Actividades H5P (79)
+## 7. Actividades H5P (80)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

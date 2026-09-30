@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.
 
-Manual del programa · Versión 1.2 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
 
 Programa de bienestar financiero para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
 
@@ -176,6 +176,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M9 U03 · Tu plan de una página** Todas las decisiones en una hoja y revisión trimestral. Incluye tu compromiso: meta con nombre, testigo y recordatorio mensual.
 
+**M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos** Completar tu plan de sucesión en Estados Unidos: cuentas con beneficiario, escritura de traspaso al fallecer, herencias pequeñas, accesos digitales del negocio, impuestos al heredar y lo que tienes en México.
+
 ---
 
 # 4. Formato y tiempo
@@ -240,7 +242,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | U15 | Comisiones de tarjeta | Comúnmente de 2.6% a 3.5% más una cuota fija por cobro | Tarifas publicadas de procesadores |
 | U16 | Corte de reclamos menores en California | Hasta $12,500 para personas | California Courts |
 | U17 | Congelamiento, alertas y reportes | Congelar y descongelar sin costo en Equifax, Experian y TransUnion; alerta de fraude inicial sin costo por un año; reportes sin costo cada semana | FTC |
-| U18 | Registro Nacional No Llame | Gratis; hasta 31 días para que dejen de llamar; no vence | FTC |
+| U18 | Registro Nacional No Llame | Sin costo; hasta 31 días para que dejen de llamar; no vence | FTC |
 | U19 | Préstamos por desastre de la SBA | Hasta $500,000 vivienda, $100,000 bienes personales y $2 millones negocios; tasa de hasta 4% sin crédito en otro lado | SBA |
 | U20 | Apuestas en California | Apuestas deportivas en línea no legales; casinos de sorteo en línea prohibidos desde el 1-ene-2026 (AB 831) | Ley AB 831; medios |
 

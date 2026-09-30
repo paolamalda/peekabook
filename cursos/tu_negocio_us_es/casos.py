@@ -215,4 +215,9 @@ CASOS = {
  ("Separar dinero, impuestos y precio.", "Registrar su marca primero.", "Pedir un préstamo para ordenarse."),
  ("Pone fecha fija y actualiza.", "Hace un plan nuevo desde cero.", "Lo deja; ya sabe lo que tiene que hacer."),
 ],
+"M9 U04": [
+ ("Que no paga impuesto federal por heredar, salvo herencias enormes.", "Que conviene vender todo antes para que el IRS no se quede con nada.", "Que conviene no avisarle nada al IRS de la herencia."),
+ ("Presenta el Formulario 3520 ante el IRS aunque no pague impuesto.", "No avisa nada porque el terreno está en México y no en Estados Unidos.", "Vende el terreno rápido para no tener que reportar nada."),
+ ("Nombra un beneficiario POD en su banco.", "Le da su contraseña a su mamá por si algo pasa algún día.", "Cierra la cuenta y guarda el dinero del negocio en efectivo."),
+],
 }

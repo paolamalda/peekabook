@@ -128,8 +128,11 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **AFORE:** administradora de tu cuenta de ahorro para el retiro.
 - **Aportación voluntaria:** dinero que tú agregas a tu cuenta de retiro.
+- **Aviso de defunción:** trámite ante el SAT para cerrar las obligaciones fiscales de quien falleció.
 - **Cotitular:** otra persona con derechos sobre una cuenta.
+- **Lista de sucesión:** lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
 - **Plan de una página:** resumen de las decisiones de tu negocio en una hoja.
 - **PPR:** plan personal de retiro, con posibles beneficios fiscales.
 - **Revisión trimestral:** revisión de tu plan cada tres meses.
+- **Sucesión:** cómo pasan tus bienes, derechos y deudas cuando faltas.
 - **Suspensión de actividades:** aviso al SAT de que dejas de tener actividad por un tiempo.

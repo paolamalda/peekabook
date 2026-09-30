@@ -11,7 +11,7 @@ Todas las opciones de esta tabla son oficiales y sin costo. Información consult
 | Extorsión | 089 (denuncia anónima) y 911 | Localiza primero a tu familiar |
 | Amenazas de prestamistas | Fiscalía de tu estado, 089 y 911 | Capturas y fechas |
 | Casas de empeño | Profeco | Contrato y boleta |
-| Precios y compras | Profeco, «Quién es quién en los precios» | Gratis |
+| Precios y compras | Profeco, «Quién es quién en los precios» | Sin costo |
 | Invertir poco a poco | Cetesdirecto (sitio oficial) | Sin comisiones; nadie te cobra por abrir tu cuenta |
 | Llamadas de publicidad | REPEP de Profeco (55 5568 8722 u 800 468 8722) y REUS de la CONDUSEF | Nadie cobra por inscribirte |
 | Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Desvincula las que no son tuyas |

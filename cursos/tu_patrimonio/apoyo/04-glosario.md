@@ -137,11 +137,13 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Carátula:** primera hoja de la póliza con los datos principales: suma asegurada, deducible, coaseguro y vigencia.
 - **Condiciones generales:** documento con todas las reglas de la póliza.
 - **Exclusión:** lo que el seguro no cubre.
+- **Modalidad 10:** incorporación voluntaria al IMSS de personas trabajadoras independientes, con servicio médico, incapacidades y pensión.
 - **Periodo de espera:** tiempo que debe pasar para que el seguro cubra ciertos padecimientos.
 - **Preexistencias:** enfermedades que ya tenías antes de contratar un seguro.
 - **Prima:** lo que pagas por tu seguro.
 - **Responsabilidad civil:** cobertura que paga los daños que causas a otras personas o a sus bienes.
 - **Seguro de Gastos Médicos Mayores:** seguro que paga gastos médicos grandes: hospitalización, cirugías y tratamientos.
+- **Seguro de Salud para la Familia:** seguro voluntario del IMSS que da servicio médico a quien no tiene seguridad social; se paga una cuota al año por persona según su edad.
 - **Seguro de vida:** seguro que paga una suma a tus beneficiarios si falleces.
 - **Siniestro:** el daño que cubre el seguro, como un sismo o un incendio.
 - **Suma asegurada:** el monto máximo que paga el seguro.
@@ -163,16 +165,22 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **Albacea:** persona que se encarga del trámite de la herencia.
 - **Convenio de separación:** acuerdo sobre bienes y obligaciones al separarse.
+- **Donación:** dar un bien en vida sin cobrar.
 - **Duelo:** proceso emocional después de una pérdida.
+- **Escriturar:** pasar legalmente una propiedad a nombre de otra persona ante notario.
 - **Gravamen:** carga sobre un inmueble, como una hipoteca, que aparece en el Registro Público.
 - **Heredero:** persona que recibe los bienes de otra al fallecer.
 - **Herencia en vida:** transferir bienes a tus herederos mientras vives.
 - **Libertad de gravamen:** certificado que muestra si un inmueble tiene deudas o cargas.
+- **Lista de sucesión:** lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
 - **Poder notarial:** documento ante notario en el que autorizas a otra persona a actuar por ti.
 - **Revocar:** cancelar un poder o un documento.
 - **Subcuenta de vivienda:** dinero que tu patrón aporta para tu vivienda dentro de tu cuenta de ahorro para el retiro.
 - **Testamento:** documento en el que decides a quién pasan tus bienes cuando faltes.
+- **Trámite sucesorio:** proceso para repartir los bienes de quien falleció.
 - **Tutor:** persona que cuida los intereses de un menor de edad.
+- **Unión libre:** pareja que vive junta sin estar casada.
+- **Usufructo:** derecho a usar una propiedad y vivir en ella aunque otra persona sea la dueña.
 - **Voluntad anticipada:** documento en el que dices qué tratamientos médicos quieres o no si no puedes decidir.
 
 ## Decidir con calma y tu plan

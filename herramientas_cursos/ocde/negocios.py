@@ -156,7 +156,7 @@ TEMAS = [
  ("A", "B: Aprende de muchas fuentes"),
  ("C", "I: Conoce opciones para capacitarse, mentorías, asociaciones, incubadoras y aceleradoras, y su costo"),
  ("H", "I: Llena sus huecos de conocimiento y busca asesoría profesional cuando hace falta"),
- ("H", "I: Apoya la educación financiera de su personal"),
+ ("H", "I: Apoya el bienestar financiero de su personal"),
  ("A", "I: Quiere seguir aprendiendo"),
 ]),
 ]

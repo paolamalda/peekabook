@@ -285,6 +285,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U04 · Seguro de vida y gastos funerarios: un seguro de vida es para proteger a quien depende de ti; revisa si todavía lo necesitas y mantén tus beneficiarios al día.
 - M8 U05 · Casa y auto: lo básico: revisa al renovar: valor real, responsabilidad civil y riesgos de tu zona.
 - M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado: documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
+- M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10: si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
 
 **Casos**
 
@@ -352,6 +353,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M10 U04 · Ayudar a los hijos sin descuidar tu futuro: ayuda con lo que te sobra después de asegurar tu retiro; ser aval es asumir la deuda.
 - M10 U05 · Viudez o separación: los primeros 90 días: en los primeros 90 días, atiende lo urgente y pon en pausa las decisiones grandes.
 - M10 U06 · Tu casa: escrituras, predial y crédito en orden: escritura inscrita, liberación de hipoteca al terminar, predial al día y el seguro del crédito localizable; tu subcuenta de vivienda no se pierde.
+- M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio: sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
+- M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos: heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir.
 
 **Casos**
 

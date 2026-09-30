@@ -122,9 +122,12 @@ Plain-language definitions of the course words, grouped by module.
 ## Your future
 
 - **Dissolution:** the formal process to close a company.
+- **Form 3520:** IRS report of foreign inheritances or gifts over 100,000 dollars.
 - **IRA:** an individual retirement account with tax benefits.
 - **Living trust:** a legal document to pass on your assets without long court proceedings.
 - **One-page plan:** a summary of your business decisions on one page.
+- **POD and TOD:** beneficiary designation on an account that passes directly when you die.
+- **Probate:** court process to distribute the property of someone who died.
 - **Quarterly review:** reviewing your plan every three months.
 - **SEP IRA:** a retirement account for business owners and their employees.
 - **Social Security credit:** a unit you earn from your earnings; you need 40 for a retirement benefit.

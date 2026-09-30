@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Dinero v3.3/M1
+$CATEGORY: $course$/Tu Dinero v3.4/M1
 
 ::M1 U01 P1::Te prestan 300 dólares. ¿Cómo cambia tu patrimonio neto? {
 	~Sube 300 #No es la mejor opción. Tienes 300 más, pero debes 300.
@@ -252,7 +252,7 @@ $CATEGORY: $course$/Tu Dinero v3.3/M1
 	=No necesariamente; ajusta el plan #¡Correcto! El plan se adapta a tu realidad.
 }
 
-$CATEGORY: $course$/Tu Dinero v3.3/M2
+$CATEGORY: $course$/Tu Dinero v3.4/M2
 
 ::M2 U01 P1::¿Puedes abrir una cuenta en el banco central? {
 	~Sí #No es la mejor opción. No atiende a personas.
@@ -488,7 +488,7 @@ $CATEGORY: $course$/Tu Dinero v3.3/M2
 	~Sí, si dura más de un mes #No es la mejor opción. Compara el precio de después.
 }
 
-$CATEGORY: $course$/Tu Dinero v3.3/M3
+$CATEGORY: $course$/Tu Dinero v3.4/M3
 
 ::M3 U01 P1::¿Un buen puntaje garantiza que puedes pagar? {
 	=No #¡Correcto! El puntaje no paga la mensualidad.
@@ -670,7 +670,7 @@ $CATEGORY: $course$/Tu Dinero v3.3/M3
 	~920 #No es la mejor opción. 800 + 16 + 90 − 120 \= 786.
 }
 
-$CATEGORY: $course$/Tu Dinero v3.3/M4
+$CATEGORY: $course$/Tu Dinero v3.4/M4
 
 ::M4 U01 P1::¿A qué número llamas para verificar? {
 	~Al del mensaje #No es la mejor opción. El del mensaje puede ser falso.
@@ -870,7 +870,7 @@ $CATEGORY: $course$/Tu Dinero v3.3/M4
 	=Al menos una vez al año #¡Correcto! Practicar mantiene el plan útil.
 }
 
-$CATEGORY: $course$/Tu Dinero v3.3/M5
+$CATEGORY: $course$/Tu Dinero v3.4/M5
 
 ::M5 U01 P1::Activos 12,000 y deudas 8,500. ¿Patrimonio? {
 	~20,500 #No es la mejor opción. 12,000 − 8,500.
@@ -1068,4 +1068,22 @@ $CATEGORY: $course$/Tu Dinero v3.3/M5
 	=Cada tres o seis meses, o cuando algo cambie #¡Correcto! Así sigue siendo útil.
 	~Nunca #No es la mejor opción. Así sigue siendo útil.
 	~Una vez, al terminar el curso, y guardarlo #No es la mejor opción. Así sigue siendo útil.
+}
+
+::M5 U12 P1::Heredas una casa en México de 130,000 dólares. ¿Qué haces ante el IRS? {
+	=Presentas el Formulario 3520 #¡Correcto! Es un aviso informativo.
+	~Pagas 40% #No es la mejor opción. Es un aviso informativo.
+	~Nada, porque la casa está en otro país #No es la mejor opción. Es un aviso informativo.
+}
+
+::M5 U12 P2::¿Qué evita que tu cuenta de banco pase por la corte? {
+	~Tu testamento en México #No es la mejor opción. Pasa directo.
+	=Un beneficiario POD #¡Correcto! Pasa directo.
+	~Sacar todo en efectivo #No es la mejor opción. Pasa directo.
+}
+
+::M5 U12 P3::¿Cuánto ISR paga en México quien recibe una herencia? {
+	~30% #No es la mejor opción. Está exenta.
+	~16% #No es la mejor opción. Está exenta.
+	=Nada #¡Correcto! Está exenta.
 }

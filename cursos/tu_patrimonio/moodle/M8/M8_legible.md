@@ -945,3 +945,163 @@ Esta semana toma fotos de tu casa y tus cosas, guarda copia digital de tus escri
 CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protección Civil, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M8 U07. IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10
+
+**Lo que lograrás:** Conocer las dos formas de tener IMSS pagando tú (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cuándo conviene cada una frente a un seguro de gastos médicos privado.
+
+**Para empezar:** A Elena le subió 30% su seguro de gastos médicos. Maru vende por catálogo y no tiene servicio médico. Las dos escucharon que «se puede pagar el IMSS por tu cuenta». En esta lección verás cómo.
+
+### Lo esencial (5 minutos)
+
+#### Dos formas de pagar tú el IMSS
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Seguro de Salud para la Familia | Solo servicio médico. | Cuota al año por persona y edad. |
+| Personas trabajadoras independientes (Modalidad 10) | Médico, incapacidades, semanas y Afore. | Cuota mensual según tu ingreso. |
+| Periodos de espera | Algunas atenciones se cubren después de meses. | Pregunta. |
+| Enfermedades previas | Algunas no se cubren al inicio. | Pregunta antes. |
+
+#### Seguro de Salud para la Familia: cuota anual por persona en 2026
+
+| Edad | Cuota al año |
+|---|---|
+| 0 a 19 | 9,300 |
+| 20 a 29 | 11,550 |
+| 30 a 39 | 11,850 |
+| 40 a 49 | 13,800 |
+| 50 a 59 | 14,250 |
+| 60 a 69 | 19,800 |
+| 70 a 79 | 20,650 |
+| 80 o más | 21,300 |
+
+> **Dato vigente:** cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) vigentes desde el 1 de marzo de 2026; en la Modalidad 10 se cotiza de un salario mínimo a 25 UMA y con el mínimo la cuota ronda 2,500 pesos al mes. Consultado el 30 de septiembre de 2026 a través del IMSS y medios nacionales; confirma en el IMSS antes de pagar.
+
+
+
+#### ¿IMSS o seguro privado?
+
+El IMSS pagado por tu cuenta cuesta menos que muchos seguros de gastos médicos privados, pero te atiendes en sus clínicas y hospitales. Un seguro privado te da hospitales privados, con deducible y coaseguro. Hay quienes combinan: IMSS como base y un seguro privado con deducible alto para lo grave.
+
+
+
+#### Un caso en un minuto
+
+Maru se inscribió como persona trabajadora independiente: tiene médico, incapacidades y suma semanas a su pensión. Elena inscribió a sus hijos adolescentes en el Seguro de Salud para la Familia y subió el deducible de su seguro privado para bajar la prima.
+
+> **Idea clave:** si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué da el Seguro de Salud para la Familia?
+*Respuesta:* Solo servicio médico.
+
+2. ¿Qué da además la Modalidad 10?
+*Respuesta:* Incapacidades, semanas para la pensión y Afore.
+
+
+#### Para recordar
+
+- Seguro familiar: salud, por edad.
+- Modalidad 10: salud, incapacidades y pensión.
+- Compara con tu seguro privado.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Compara
+
+| Punto | Seguro familiar IMSS | Modalidad 10 | Seguro privado |
+|---|---|---|---|
+| Costo | Cuota anual por edad | Mensual según ingreso | Prima que sube con la edad |
+| Dónde te atiendes | IMSS | IMSS | Hospitales privados |
+| Incapacidades | No | Sí | Según póliza |
+| Pensión | No | Suma semanas | No |
+
+
+
+#### Para tus papás
+
+Si tus papás no tienen seguridad social, el Seguro de Salud para la Familia puede ser una opción; para personas mayores también existen el IMSS-Bienestar y los centros de salud sin costo.
+
+
+
+#### Casos
+
+
+**Caso 1. El seguro de Elena**
+
+El seguro privado de Elena subió 30%.
+- *¿Qué hace?* Compara con el IMSS por su cuenta y con subir su deducible.
+
+
+**Caso 2. El catálogo de Maru**
+
+Maru vende por catálogo y no tiene servicio médico ni suma semanas.
+- *¿Qué hace?* Revisa la Modalidad 10 como persona trabajadora independiente.
+
+
+**Caso 3. La mamá de Carmen**
+
+La mamá de Carmen tiene 72 años y una enfermedad del corazón.
+- *¿Qué hace?* Pregunta antes de pagar si su enfermedad se cubre y desde cuándo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Cancelar todo sin alternativa | Te quedas sin protección | Compara antes |
+| Creer que el seguro familiar da pensión | No sumas semanas | Es solo salud |
+| No preguntar por enfermedades previas | Sorpresas | Pregunta |
+| Pagar gestores | Te cobran de más | Trámite directo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Elena, Maru y Carmen. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto cuesta en 2026 el seguro familiar del IMSS para una persona de 55 años? a) 9,300 · b) 14,250 · c) 21,300
+2. ¿Qué modalidad suma semanas para tu pensión? a) La Modalidad 10 · b) El seguro familiar · c) Ninguna de las dos
+3. ¿Qué preguntas antes de pagar? a) El color de la credencial · b) Qué cubre y desde cuándo · c) Nada, todo está cubierto
+**Respuestas:** 1-b: de 50 a 59 años. 2-a: es régimen obligatorio. 3-b: hay periodos de espera.
+
+
+
+#### Ponlo en práctica
+
+Quieres inscribir a tus dos hijos de 15 y 17 años en el seguro familiar. ¿Cuánto pagas al año y al mes?
+**Respuesta:** 9,300 por 2: 18,600 al año; unos 1,550 al mes.
+
+
+
+#### A tu plan
+
+Anota quién en tu familia no tiene seguridad social y calcula su cuota en la tabla.
+
+
+
+### Para saber más
+
+- **Seguro de Salud para la Familia** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «Seguro de Salud para la Familia».
+- **Personas trabajadoras independientes** (IMSS · español): https://www.imss.gob.mx/personas-trabajadoras-independientes — **Qué buscar:** calculadora.
+
+### Palabras clave
+
+- *Seguro de Salud para la Familia:* seguro voluntario del IMSS que da servicio médico a quien no tiene seguridad social; se paga una cuota al año por persona según su edad.
+- *Modalidad 10:* incorporación voluntaria al IMSS de personas trabajadoras independientes, con servicio médico, incapacidades y pensión.
+
+### Fuentes
+
+IMSS · medios nacionales que citan las cuotas 2026, consultados el 30 de septiembre de 2026.
+
+---

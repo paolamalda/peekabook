@@ -1165,3 +1165,155 @@ Esta semana respalda tus proyectos en la nube, toma fotos de tu equipo con sus n
 CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protección Civil, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M10 U08. Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos
+
+**Lo que lograrás:** Saber qué pasa con tus derechos de autor y de intérprete y con tus regalías cuando faltes, cómo nombrar a quién las cobra y qué impuestos hay al heredar.
+
+**Para empezar:** Toño tiene canciones registradas y cobra regalías por su trabajo de sesión. Valeria recibe regalías por campañas y por su voz en una canción. Ninguno sabe quién cobraría esas regalías si faltaran ni si su familia pagaría impuestos. En esta lección lo verás.
+
+### Lo esencial (5 minutos)
+
+#### Tus derechos también se heredan
+
+Los derechos patrimoniales de autor sobre tus canciones, textos o coreografías duran toda tu vida y 100 años después, y se heredan. Tus derechos como intérprete también generan regalías por años. Tu familia puede seguir cobrándolas si todo está en orden.
+
+
+
+#### Lo que debes dejar en orden
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Registro de tus obras | En INDAUTOR. | Prueba que son tuyas. |
+| Beneficiarios en tu sociedad de gestión | ANDA, SACM, EJE u otra. | Pregunta cómo designarlos. |
+| Testamento | Menciona tus derechos y regalías. | Ante notario. |
+| Carpeta de contratos | Disqueras, plataformas, campañas. | Quién te paga y cómo. |
+
+> **Dato vigente:** en México, los derechos patrimoniales de autor duran la vida del autor y 100 años después de su muerte (Ley Federal del Derecho de Autor, artículo 29); recibir una herencia está exento de ISR (Ley del ISR, artículo 93, fracción XXII). Consultado el 30 de septiembre de 2026 a través de INDAUTOR y el SAT.
+
+#### Impuestos: heredar contra cobrar
+
+Heredar los derechos **no paga ISR**. Pero las regalías que tu familia cobre después son ingresos para ellos y pagan impuestos cada vez que las cobran, como te pasaba a ti. Si el monto heredado pasa de 500,000 pesos, se informa en la declaración anual.
+
+
+
+#### Un caso en un minuto
+
+Toño registró sus canciones en INDAUTOR, preguntó en su sociedad de gestión cómo designar beneficiarios y mencionó sus derechos en su testamento. Armó una carpeta con sus contratos y la lista de quién le paga. Valeria hizo lo mismo con sus contratos de campañas.
+
+> **Idea clave:** tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuánto duran los derechos patrimoniales de autor en México?
+*Respuesta:* Toda tu vida y 100 años después.
+
+2. ¿Pagan impuestos las regalías que cobra tu familia después?
+*Respuesta:* Sí, cada vez que las cobran.
+
+
+#### Para recordar
+
+- Tus derechos se heredan.
+- Beneficiarios en tu sociedad de gestión.
+- Heredar sin ISR; cobrar regalías sí paga.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu mapa de regalías
+
+| Qué genera regalías | Quién te paga | Qué debe saber tu familia |
+|---|---|---|
+| Canciones o textos | | |
+| Interpretaciones | | |
+| Campañas o imagen | | |
+| Plataformas digitales | | |
+
+
+
+#### Tus cuentas digitales
+
+Tus redes, canales y plataformas de venta también son parte de tu patrimonio. Deja instrucciones de quién puede administrarlos o cerrarlos, sin escribir contraseñas completas, y revisa si la plataforma permite nombrar un contacto de legado.
+
+
+
+#### Casos
+
+
+**Caso 1. Las canciones de Toño**
+
+Toño no sabe quién cobraría sus regalías si falta.
+- *¿Qué hace?* Registra sus obras, nombra beneficiarios en su sociedad de gestión y las incluye en su testamento.
+
+
+**Caso 2. La familia de Valeria**
+
+La mamá de Valeria cree que si hereda las regalías ya no pagará impuestos por ellas.
+- *¿Qué aprende?* Que heredar no paga ISR, pero cada regalía que cobre después sí.
+
+
+**Caso 3. Las redes de Gael**
+
+Gael tiene un canal con ingresos por publicidad y nadie más sabe cómo entrar.
+- *¿Qué hace?* Deja instrucciones de quién lo administra, sin escribir contraseñas completas.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Obras sin registro | Difícil probar que son tuyas | INDAUTOR |
+| Sin beneficiarios en tu sociedad | Trámite largo | Pregunta cómo designarlos |
+| Creer que las regalías heredadas no pagan | Problemas con el SAT | Pagan al cobrarlas |
+| Contraseñas escritas completas | Riesgo | Instrucciones seguras |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, la mamá de Valeria y Gael. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto duran tus derechos patrimoniales de autor después de tu muerte? a) 10 años · b) 100 años · c) Se acaban contigo
+2. ¿Paga ISR tu familia por heredar tus derechos? a) No, heredar está exento · b) Sí, 30% del valor de las regalías de un año · c) Sí, 16%
+3. ¿Qué pasa con las regalías que tu familia cobre después? a) Nunca pagan impuestos · b) Las cobra el gobierno porque ya no hay autor que las reclame · c) Pagan impuestos al cobrarlas
+**Respuestas:** 1-b: artículo 29 de la ley. 2-a: artículo 93 de la Ley del ISR. 3-c: son ingresos de quien las cobra.
+
+
+
+#### Ponlo en práctica
+
+Tus regalías son unos 4,000 al mes. Si tu familia las cobra por 20 años, ¿cuánto recibiría antes de impuestos?
+**Respuesta:** 4,000 por 12 por 20: 960,000.
+
+
+
+#### A tu plan
+
+Haz tu mapa de regalías y pregunta en tu sociedad de gestión cómo designar beneficiarios.
+
+
+
+### Para saber más
+
+- **Registro de obras** (INDAUTOR · español): https://www.gob.mx/indautor — **Qué buscar:** «registro de obra» y «sociedades de gestión colectiva».
+- **Herencias e impuestos** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «herencias» y «regalías».
+
+### Palabras clave
+
+- *Derechos patrimoniales de autor:* el derecho a cobrar por el uso de tus obras; se hereda y dura toda tu vida y 100 años después.
+- *Sociedad de gestión colectiva:* organización que cobra y reparte regalías a sus socios.
+- *Regalías:* pagos por el uso de tus obras, tu voz o tu imagen.
+
+### Fuentes
+
+Ley Federal del Derecho de Autor (artículo 29) · INDAUTOR · Ley del ISR (artículo 93) · SAT, consultados el 30 de septiembre de 2026.
+
+---

@@ -1,6 +1,6 @@
 # How commercial referrals work
 
-We want you to know exactly what is education and what is a commercial offer.
+We want you to know exactly what is program content and what is a commercial offer.
 
 ## Where they appear
 

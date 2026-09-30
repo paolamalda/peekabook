@@ -382,6 +382,9 @@ Objetivo: hacer tu testamento (en septiembre, el Mes del Testamento suele bajar 
 Objetivo: respaldar proyectos en la nube, guardar fotos y facturas del equipo, revisar que el seguro cubra equipo de trabajo y tu zona, reclamar sin pagar por adelantado y evitar colectas falsas.
 Gancho: una inundación llega al estudio de Toño; pierde equipo y proyectos sin seguro ni respaldo.
 
+**M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos**
+Objetivo: Saber qué pasa con tus derechos de autor y de intérprete y con tus regalías cuando faltes, cómo nombrar a quién las cobra y qué impuestos hay al heredar.
+
 ## Módulo 11. Tu futuro
 
 **M11 U01 · Llegó un pago gordo: repártelo antes de gastarlo**
@@ -519,7 +522,7 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | E17 | Infonavit y escrituración | Crédito vía Modalidad 10 con aportación de 5%; escrituración de 4% a 7% | IMSS; Infonavit; medios |
 | E18 | Seguro de voz | Sin producto estándar en México; combinar accidentes personales, gastos médicos e IMSS | Búsqueda de mercado |
 | E19 | Policía cibernética | 088 de la Guardia Nacional | Guardia Nacional CERT-MX |
-| E20 | REPEP | Gratis, fijo o celular, en repep.profeco.gob.mx o 55 5568 8722 / 800 468 8722; 30 días para dejar de llamar; sin vencimiento; no cubre cobranza, partidos, beneficencia ni encuestas | Profeco |
+| E20 | REPEP | Sin costo, fijo o celular, en repep.profeco.gob.mx o 55 5568 8722 / 800 468 8722; 30 días para dejar de llamar; sin vencimiento; no cubre cobranza, partidos, beneficencia ni encuestas | Profeco |
 | E21 | REUS | Hasta 45 días naturales para aplicar; vigencia de dos años; 55 5340 0999 / 800 999 8080 | CONDUSEF; Reglas del Registro Público de Usuarios (DOF) |
 | E22 | Líneas móviles y CURP | Registro obligatorio desde el 9-ene-2026, escalonado por terminación, plazo final 31-dic-2026; consulta y desvinculación sin costo | Comisión Reguladora de Telecomunicaciones |
 | E23 | Línea de la Vida | 800 911 2000, sin costo, 24 horas, todos los días; salud mental y adicciones, incluido el juego | CONASAMA |

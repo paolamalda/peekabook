@@ -9,12 +9,12 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 | Actividad | Cuántas | Finalización |
 |---|---|---|
 | Libro "Lecciones del Módulo N" | 1 por módulo (9) | Ver |
-| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (43) | Recibir calificación |
+| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (44) | Recibir calificación |
 | Cuestionario "Autoevaluación del Módulo N" | 1 por módulo (9) | Calificación aprobatoria de 70% |
 
 **Configuración de cada actividad H5P:** sin botón de descarga, con botón de derechos de autor e incrustar desactivado; seguimiento de intentos con "Calificación más alta"; finalización "El estudiante debe recibir una calificación".
 
-**Las autoevaluaciones:** usan el banco de 129 preguntas con tres opciones y retroalimentación, en las categorías *Tu Negocio US ES v1.2/M1* a *M9*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
+**Las autoevaluaciones:** usan el banco de 132 preguntas con tres opciones y retroalimentación, en las categorías *Tu Negocio US ES v1.3/M1* a *M9*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
 
 ## 2. Level Up: niveles y puntos
 
@@ -25,14 +25,14 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 3. **Por participar en el foro:** 5 puntos, con el evento "Mensaje creado" (`\mod_forum\event\post_created`).
 4. Deja activada la protección contra trampas.
 
-Completar todo el curso da unos 1,525 puntos:
+Completar todo el curso da unos 1,550 puntos:
 
 | Actividades | Cuántas | Puntos |
 |---|---|---|
-| Actividades H5P | 43 | 1,075 |
+| Actividades H5P | 44 | 1,100 |
 | Libros | 9 | 225 |
 | Autoevaluaciones | 9 | 225 |
-| **Total** | 61 | **1,525** |
+| **Total** | 62 | **1,550** |
 
 **Niveles** (6 niveles, sin algoritmo automático):
 

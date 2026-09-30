@@ -366,6 +366,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M10 U05 · Protege tu nombre y tu marca: registra tu nombre antes de que otra persona lo haga.
 - M10 U06 · Testamento y documentos para tu familia: hacer tu testamento es un acto de cuidado, no de pesimismo.
 - M10 U07 · Si llega un sismo o una inundación: tu equipo y tu trabajo: respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado.
+- M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos: tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
 
 **Casos**
 

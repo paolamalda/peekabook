@@ -1,6 +1,6 @@
 # Tu Dinero, Tu Familia, Tu Futuro
 
-Manual del programa · Versión 3.3 · Desarrolla Talento · 30 de septiembre de 2026
+Manual del programa · Versión 3.4 · Desarrolla Talento · 30 de septiembre de 2026
 
 Programa de bienestar financiero para personas migrantes latinas en California: dinero, remesas, crédito, protección y futuro.
 
@@ -36,7 +36,7 @@ Tiene 44 años y es de León, Guanajuato. Vive en Sacramento con su esposa, Carm
 
 Este manual es para el equipo que opera el programa: coordinación, facilitación, evaluación, soporte y datos. El participante no necesita leerlo. Contiene la ficha del programa, la guía editorial, la evaluación con claves, las métricas, la matriz comparativa, la expansión por estados y el expediente documental.
 
-Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.2 en Moodle y a su contenido completo (ediciones en español e inglés).
+Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.4 en Moodle y a su contenido completo (ediciones en español e inglés).
 
 [[TOC]]
 
@@ -50,7 +50,7 @@ Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.2 en Moodle y a su
 | Nombre de comunicación | Tu Dinero, Tu Familia, Tu Futuro / Your Money, Your Family, Your Future |
 | Modalidad | 100% en línea, autónomo, con apoyo para dudas y sesiones en vivo opcionales |
 | Plataforma | Moodle 3.10 con libros de lecciones, actividades H5P, autoevaluaciones, Level Up, insignias y Certificado personalizado |
-| Costo para el participante | Gratuito: contenidos, evaluaciones, reintentos, apoyo, herramienta complementaria y constancia |
+| Costo para el participante | Sin costo: contenidos, evaluaciones, reintentos, apoyo, herramienta complementaria y constancia |
 | Público | Adultos migrantes en EE. UU., con SSN, ITIN o sin ninguno; asalariados, independientes, trabajadores de plataformas o con ingresos mixtos; con dependientes y vínculos con México u otros países |
 | Cobertura geográfica | Núcleo federal y módulo estatal. Piloto en California; después Texas, Illinois, Nueva York y Florida |
 | Duración estimada | Unas 13 horas en la plataforma (lecciones de 5 a 10 minutos, actividades y autoevaluaciones), más el tiempo de los casos integradores y el plan; se ajustará con datos del piloto |
@@ -535,4 +535,5 @@ Cada lección tiene explicación, práctica con retroalimentación y una acción
 | M5 U09 | ¿Qué hago si cambia mi trabajo o mi familia? | Recalcular tu plan cuando cambian tus ingresos o tus responsabilidades. | H5P, quiz y práctica de M5 U09; acción en el plan; caso integrador E5 |
 | M5 U10 | ¿Cómo empiezo un negocio si tengo ITIN? | Conocer los primeros pasos para formalizar un negocio pequeño y separar tus finanzas personales de las del negocio. | H5P, quiz y práctica de M5 U10; acción en el plan; caso integrador E5 |
 | M5 U11 | ¿Cómo sé que todas las partes de mi plan caben juntas? | Integrar los cinco módulos en un solo plan con fechas de revisión y alternativas. | H5P, quiz y práctica de M5 U11; acción en el plan; caso integrador E5 |
+| M5 U12 | ¿Qué pasa si heredo o dejo algo entre dos países? | Pasar tus cuentas y tu casa sin corte en Estados Unidos, conocer los impuestos al heredar aquí y en México, y reportar herencias del extranjero en el Formulario 3520. | H5P, quiz y práctica de M5 U12; acción en el plan; caso integrador E5 |
 

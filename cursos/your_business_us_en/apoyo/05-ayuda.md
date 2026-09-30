@@ -5,8 +5,8 @@ All options in this table are official or nonprofit. Information checked on Sept
 | Need | Where | Cost | What to check |
 |---|---|---|---|
 | EIN, ITIN, estimated payments, 1099s | IRS: irs.gov | No cost | Go to the official site yourself |
-| Preparing your return | VITA (moderate income); preparers with a PTIN; CPA | Free or paid | That they sign and give you a copy |
-| Business advice | SBDC and SCORE (SBA) | Free or low cost | Advisers from the official network |
+| Preparing your return | VITA (moderate income); preparers with a PTIN; CPA | Paid or no-cost | That they sign and give you a copy |
+| Business advice | SBDC and SCORE (SBA) | No-cost or low cost | Advisers from the official network |
 | Permits in California | CalGold; your city and county | Varies | Official offices |
 | Seller's permit and sales tax | CDTFA | Permit at no cost | Your city's rate |
 | LLC and business name | Secretary of State; your county (DBA) | Paid | No middlemen |
@@ -23,7 +23,7 @@ All options in this table are official or nonprofit. Information checked on Sept
 | Emotional crisis | 988 Lifeline (call or text) | No cost | 24 hours, English and Spanish |
 | Trademark | USPTO; state registry | Paid | Only uspto.gov |
 | Retirement | ssa.gov; CalSavers | No cost | Your my Social Security account |
-| Immigration questions | Attorneys or organizations accredited by the Department of Justice | Free or paid | Never "notarios" |
+| Immigration questions | Attorneys or organizations accredited by the Department of Justice | Paid or no-cost | Never "notarios" |
 | Business plan and financing | SBDCs, SCORE and Women's Business Centers (sba.gov); certified CDFIs | No cost | No one charges to "approve" a loan or grant |
 | Economic abuse | National Domestic Violence Hotline: 1-800-799-7233 or text START to 88788 | No cost | 24 hours, English and Spanish |
 

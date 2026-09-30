@@ -625,10 +625,10 @@ El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus do
 
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
-| Congelar tu crédito (credit freeze) | Nadie abre crédito nuevo a tu nombre. | Gratis en las 3 agencias. |
+| Congelar tu crédito (credit freeze) | Nadie abre crédito nuevo a tu nombre. | Sin costo en las 3 agencias. |
 | Alerta de fraude | Los prestamistas deben verificar que eres tú. | Dura un año. |
-| Tus reportes de crédito | Gratis cada semana en AnnualCreditReport.com. | Revisa lo que no reconoces. |
-| IP PIN del IRS | Nadie declara con tu número (M5 U04). | Gratis. |
+| Tus reportes de crédito | Sin costo cada semana en AnnualCreditReport.com. | Revisa lo que no reconoces. |
+| IP PIN del IRS | Nadie declara con tu número (M5 U04). | Sin costo. |
 
 > **Dato vigente:** congelar y descongelar tu crédito no tiene costo en Equifax, Experian y TransUnion (hay que pedirlo en las tres); una alerta de fraude inicial no tiene costo, dura un año y basta pedirla en una agencia; y puedes ver tus reportes sin costo cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
 

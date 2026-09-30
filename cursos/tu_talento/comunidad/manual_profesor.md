@@ -2,7 +2,7 @@
 
 Para la persona que acompaña a la comunidad: abre el espacio, responde en los foros, da la sesión mensual en vivo y lleva el orden. Si trabajan en equipo, este manual sirve para repartir tareas; si eres una sola persona, síguelo completo.
 
-Versión 1 · Septiembre de 2026 · Acompaña al curso *Tu Talento, Tu Marca, Tu Futuro* y a la *Guía de moderación*.
+Versión 1.3 · Septiembre de 2026 · Acompaña al curso *Tu Talento, Tu Marca, Tu Futuro* y a la *Guía de moderación*.
 
 [[TOC]]
 
@@ -371,18 +371,18 @@ Confirma teléfonos y horarios en el sitio oficial antes de compartirlos; el lib
 
 | Necesidad | Dónde | Costo |
 |---|---|---|
-| Problemas con el SAT | PRODECON (prodecon.gob.mx) | Gratis |
-| Reclamar a un banco, financiera o aseguradora | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Gratis |
-| Cobranza abusiva | REDECO de CONDUSEF | Gratis |
+| Problemas con el SAT | PRODECON (prodecon.gob.mx) | Sin costo |
+| Reclamar a un banco, financiera o aseguradora | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Sin costo |
+| Cobranza abusiva | REDECO de CONDUSEF | Sin costo |
 | Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito (solo sitios oficiales) | Un reporte sin costo al año en cada uno |
-| Llamadas de publicidad | REPEP de Profeco: 55 5568 8722 u 800 468 8722; REUS de CONDUSEF | Gratis |
-| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis |
-| Pago tardío o relación laboral | PROFEDET | Gratis |
+| Llamadas de publicidad | REPEP de Profeco: 55 5568 8722 u 800 468 8722; REUS de CONDUSEF | Sin costo |
+| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Sin costo |
+| Pago tardío o relación laboral | PROFEDET | Sin costo |
 | Seguridad social | IMSS (Modalidad 10 y 40) | Según el trámite |
 | Condiciones de trabajo de actores | ANDA | Para agremiados |
 | Nombre artístico y marca | INDAUTOR e IMPI | Con costo del trámite |
-| Emergencia | 911 | Gratis |
-| Apoyo emocional | Línea de la Vida: 800 911 2000 | Gratis |
+| Emergencia | 911 | Sin costo |
+| Apoyo emocional | Línea de la Vida: 800 911 2000 | Sin costo |
 
 ---
 

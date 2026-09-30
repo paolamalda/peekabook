@@ -396,4 +396,9 @@ CASOS = {
  ("Régimen, sueldo, pago base y deducciones.", "Nada: su plan sigue igual siempre.", "Solo su nueva dirección y su número de teléfono."),
  ("No: el fondo cumplió; ahora lo rellena.", "Sí: debe empezar un plan desde cero.", "Sí: ya no tiene sentido ahorrar."),
 ],
+"M10 U08": [
+ ("Registra sus obras, nombra beneficiarios y las incluye en su testamento.", "Lo deja así porque sus hijos sabrán qué hacer con sus canciones.", "Vende todos sus derechos ya para no dejarle problemas a su familia."),
+ ("Que heredar no paga ISR, pero cada regalía que cobre después sí.", "Que las regalías heredadas nunca pagan impuestos.", "Que conviene no declarar las regalías porque son herencia."),
+ ("Deja instrucciones de quién lo administra, sin contraseñas completas.", "Escribe todas sus contraseñas en una hoja que deja en su escritorio.", "No deja nada porque su canal se cerrará solo si algo pasa."),
+],
 }

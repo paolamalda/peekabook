@@ -430,7 +430,7 @@ Daniela had a good month and wants to pay ahead on her loan.
 
 1. Two offers with the same amount and term: 12% APR and 30% APR. Which is cheaper? a) The 12% one · b) The 30% one · c) They cost the same
 2. A $5,000 advance with a 1.4 factor. How much do you repay in total? a) $5,400 · b) $1,400 · c) $7,000
-3. What is a personal guarantee? a) The loan isn't collected if the business closes · b) You pay if the business doesn't · c) Free insurance
+3. What is a personal guarantee? a) The loan isn't collected if the business closes · b) You pay if the business doesn't · c) No-cost insurance
 **Answers:** 1-a: lower APR. 2-c: $5,000 times 1.4. 3-b: you answer with your assets.
 
 
@@ -567,7 +567,7 @@ Lupita's close friend asks her for $400 of business money.
 | Paying the minimum | Debt grows | Pay in full |
 | Signing without doing the math | You pay | Only if you could |
 | Lending from the business | No cash | From your salary, in writing |
-| Not checking your credit | Uncorrected errors | Free report |
+| Not checking your credit | Uncorrected errors | No-cost report |
 
 ### Practice
 
@@ -602,7 +602,7 @@ List the debts you used for the business and make a plan to pay them off.
 ### Learn more
 
 - **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "cosigning a loan".
-- **Free credit report** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
+- **No-cost credit report** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
 
 ### Key words
 

@@ -12,19 +12,19 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M10 U05, M5 U03, M1 U03 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M5 U03, M7 U06, M5 U04, M11 U03, M5 U02, M8 U04 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M6 U02, M5 U04, M2 U02, M6 U01, M1 U01, M6 U03 |
-| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M10 U01, M11 U03, M10 U02, M1 U01, M8 U06, M1 U04 |
+| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M10 U01, M10 U07, M11 U03, M10 U02, M1 U01, M8 U06 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M7 U05, M7 U04, M7 U02, M7 U03, M7 U06, M10 U02 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U05, M5 U07, M4 U06, M10 U04, M10 U06 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M1 U01, M10 U04, M4 U06, M6 U02, M5 U04, M5 U05 |
-| OCDE adultos (2016) | C1 Identificar riesgos | 15 | M8 U06, M6 U01, M10 U03, M8 U05, M5 U03, M6 U02 |
-| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M8 U01, M5 U03, M8 U04, M10 U02, M7 U03, M8 U02 |
+| OCDE adultos (2016) | C1 Identificar riesgos | 15 | M8 U06, M6 U01, M10 U08, M10 U03, M8 U05, M5 U03 |
+| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M8 U07, M8 U01, M5 U03, M8 U04, M10 U02, M7 U03 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M6 U01, M6 U03, M6 U05, M6 U02, M2 U03 |
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U04, M4 U08, M2 U03, M5 U02, M4 U07, M6 U04 |
 | OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U07, M5 U06, M10 U04, M2 U04, M7 U05 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M6 U04, M6 U06, M2 U03, M7 U01 |
 | OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M5 U01, M5 U02, M2 U02, M1 U01, M6 U03, M4 U02 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M4 U01, M4 U04, M4 U06, M8 U06, M11 U03, M4 U07 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M9 U02, M9 U01, M9 U03, M4 U03, M3 U03, M4 U06 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M9 U02, M9 U01, M10 U08, M8 U07, M9 U03, M4 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M6 U06 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M6 U01, M6 U02 |
 | IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M5 U04, M6 U02, M2 U02, M5 U03, M6 U03, M6 U04 |
@@ -284,7 +284,7 @@ Temas cubiertos: 29 de 29.
 
 ## B5 · Planear a largo plazo y construir patrimonio
 
-**Lecciones:** M10 U01 Testamento: tu decisión por escrito; M11 U03 Tu plan de una página; M10 U02 Beneficiarios: cuentas, seguros y AFORE; M1 U01 ¿Qué tengo y dónde está?; M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado; M1 U04 Tu carpeta de documentos
+**Lecciones:** M10 U01 Testamento: tu decisión por escrito; M10 U07 Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio; M11 U03 Tu plan de una página; M10 U02 Beneficiarios: cuentas, seguros y AFORE; M1 U01 ¿Qué tengo y dónde está?; M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado
 
 *Conocimiento*
 
@@ -409,7 +409,7 @@ Temas cubiertos: 29 de 29.
 
 ## C1 · Identificar riesgos
 
-**Lecciones:** M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado; M6 U01 Rendimiento, riesgo, plazo y liquidez; M10 U03 Poder notarial y quién decide si tú no puedes; M8 U05 Casa y auto: lo básico; M5 U03 Tu fondo de emergencia; M6 U02 Qué hay en el menú
+**Lecciones:** M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado; M6 U01 Rendimiento, riesgo, plazo y liquidez; M10 U08 Heredar o dar en vida: impuestos, costos y riesgos; M10 U03 Poder notarial y quién decide si tú no puedes; M8 U05 Casa y auto: lo básico; M5 U03 Tu fondo de emergencia
 
 *Conocimiento*
 
@@ -437,7 +437,7 @@ Temas cubiertos: 29 de 29.
 
 ## C2 · Redes de protección y seguros
 
-**Lecciones:** M8 U01 Cómo funciona tu seguro de gastos médicos; M5 U03 Tu fondo de emergencia; M8 U04 Seguro de vida y gastos funerarios; M10 U02 Beneficiarios: cuentas, seguros y AFORE; M7 U03 Modalidad 40: ¿puedes y te conviene?; M8 U02 ¿Por qué sube tanto y cómo bajarlo sin quedarte sin protección?
+**Lecciones:** M8 U07 IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10; M8 U01 Cómo funciona tu seguro de gastos médicos; M5 U03 Tu fondo de emergencia; M8 U04 Seguro de vida y gastos funerarios; M10 U02 Beneficiarios: cuentas, seguros y AFORE; M7 U03 Modalidad 40: ¿puedes y te conviene?
 
 *Conocimiento*
 
@@ -606,7 +606,7 @@ Temas cubiertos: 29 de 29.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M9 U02 Lo que te retienen; M9 U01 ¿Tengo que declarar?; M9 U03 Deducciones personales y tu declaración anual; M4 U03 Mensajes y correos falsos; M3 U03 Pon candados: alertas, límites y tarjeta apagada; M4 U06 Robo de identidad
+**Lecciones:** M9 U02 Lo que te retienen; M9 U01 ¿Tengo que declarar?; M10 U08 Heredar o dar en vida: impuestos, costos y riesgos; M8 U07 IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10; M9 U03 Deducciones personales y tu declaración anual; M4 U03 Mensajes y correos falsos
 
 *Conocimiento*
 

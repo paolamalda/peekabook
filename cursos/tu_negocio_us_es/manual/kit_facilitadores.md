@@ -311,6 +311,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M9 U01 · Tu retiro si trabajas por tu cuenta: separa tu retiro de tu negocio; revisa tu Seguro Social y aporta algo fijo cada mes a una cuenta de retiro.
 - M9 U02 · Si el negocio cambia o si faltas: deja en una carpeta lo que alguien necesitaría para seguir o cerrar tu negocio sin ti.
 - M9 U03 · Tu plan de una página: tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+- M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos: con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520.
 
 **Casos**
 

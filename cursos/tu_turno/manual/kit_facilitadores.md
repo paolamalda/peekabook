@@ -243,6 +243,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M7 U02 · Tu salud y la de tu familia: estar preparado: prepara hoy a dónde ir, tus documentos y un dinero para salud.
 - M7 U03 · Seguro de vida, gastos funerarios y beneficiarios: con poco puedes proteger a tu familia; revisa tus seguros y deja claros tus beneficiarios.
 - M7 U04 · Si llega un desastre: sismo, inundación o incendio: documentos a salvo, dinero en una cuenta y un plan familiar: así te recuperas más rápido.
+- M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú: si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo.
+- M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento: nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio.
+- M7 U07 · Tu casa, tu tierra y lo que se hereda: revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval.
 
 **Casos**
 

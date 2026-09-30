@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.2 · México · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · México · Desarrolla Talento · 29 de septiembre de 2026
 
 Programa de bienestar financiero para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
 
@@ -176,6 +176,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M9 U02 · Si el negocio cambia o si faltas** Cierre ordenado, suspensión de actividades, quién sabe qué y a quién pasa el negocio.
 
 **M9 U03 · Tu plan de una página** Dinero, precio, flujo, formalidad, protección y futuro en una hoja. Incluye tu compromiso: meta con nombre, testigo y recordatorio mensual.
+
+**M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia** Completar tu plan de sucesión: beneficiarios, testamento, casa y tierra, socios, cuentas y accesos digitales del negocio, deudas y lo que se paga (y no) al heredar.
 
 ---
 

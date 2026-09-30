@@ -162,7 +162,7 @@ SBA · Franchise Tax Board · California Secretary of State, consultados el 29 d
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | SSN o ITIN | Tu número personal para impuestos. | El ITIN sirve para declarar si no tienes SSN. |
-| EIN | Número del negocio ante el IRS. | Gratis en irs.gov. |
+| EIN | Número del negocio ante el IRS. | Sin costo en irs.gov. |
 | Seller's permit (California) | Para vender productos con sales tax. | Del CDTFA, sin costo. |
 | Sitios que cobran por el EIN | El trámite no tiene costo. | No pagues. |
 
@@ -268,7 +268,7 @@ Un «notario» ofrece a Don Ramón arreglar sus papeles migratorios y sus permis
 
 #### Quiz
 
-1. ¿Dónde sacas tu EIN? a) En un sitio privado que cobra una tarifa · b) Gratis en irs.gov · c) En tu banco
+1. ¿Dónde sacas tu EIN? a) En un sitio privado que cobra una tarifa · b) Sin costo en irs.gov · c) En tu banco
 2. ¿Para qué sirve el ITIN? a) Para declarar impuestos si no puedes tener SSN · b) Para trabajar como empleado · c) Para votar
 3. En California, ¿cuándo necesitas licencia de la CSLB? a) Nunca para trabajos pequeños de pintura o reparación · b) Solo si tienes empleados de tiempo completo · c) En trabajos de más de $1,000 o que requieren permiso
 **Respuestas:** 1-b: no tiene costo. 2-a: número fiscal del IRS. 3-c: regla vigente desde 2025.

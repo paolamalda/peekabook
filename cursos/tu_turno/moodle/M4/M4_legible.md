@@ -393,7 +393,7 @@ A Don Chuy le prestan para una casa, pero el descuento sería de 30% de su quinc
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | No revisar tus puntos | Pierdes la opción | Mi Cuenta Infonavit |
-| Pagar coyotes | Fraude | Gratis |
+| Pagar coyotes | Fraude | Sin costo |
 | Firmar sin ver el descuento | No te alcanza | Revisa tu presupuesto |
 | No visitar la casa | Mala ubicación | Visítala |
 

@@ -461,7 +461,7 @@ Hola. Hoy hablamos de esto: Qué es el Buró de Crédito. Beto cree que está «
 *M5 U02 · Tu reporte sin costo y cómo reclamar*
 Pide tu reporte sin costo cada año y reclama tú misma cualquier error.
 
-• Gratis una vez al año.
+• Sin costo una vez al año.
 • Revisa créditos, pagos y consultas.
 • Reclama con comprobantes.
 
@@ -470,9 +470,9 @@ Tu paso de esta semana: Pide tu reporte sin costo este mes en el sitio oficial d
 Lección: [por definir]
 ```
 
-**Audio** (105 palabras, unos 44 segundos)
+**Audio** (106 palabras, unos 44 segundos)
 
-Hola. Hoy hablamos de esto: Tu reporte sin costo y cómo reclamar. En el reporte de Karla aparece una deuda de una tienda que ya pagó. Si no la reclama, le puede afectar al pedir un crédito. En esta lección sabrás cómo pedir tu reporte y reclamar. Pide tu reporte sin costo cada año y reclama tú misma cualquier error. Recuerda: Gratis una vez al año. Revisa créditos, pagos y consultas. Reclama con comprobantes. Tu paso de esta semana: Pide tu reporte sin costo este mes en el sitio oficial de Buró de Crédito o de Círculo de Crédito. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu reporte sin costo y cómo reclamar. En el reporte de Karla aparece una deuda de una tienda que ya pagó. Si no la reclama, le puede afectar al pedir un crédito. En esta lección sabrás cómo pedir tu reporte y reclamar. Pide tu reporte sin costo cada año y reclama tú misma cualquier error. Recuerda: Sin costo una vez al año. Revisa créditos, pagos y consultas. Reclama con comprobantes. Tu paso de esta semana: Pide tu reporte sin costo este mes en el sitio oficial de Buró de Crédito o de Círculo de Crédito. Nos escuchamos en la próxima lección.
 
 ### M5 U03 · Cómo mejorar tu historial
 
@@ -729,6 +729,69 @@ Lección: [por definir]
 **Audio** (100 palabras, unos 42 segundos)
 
 Hola. Hoy hablamos de esto: Si llega un desastre: sismo, inundación o incendio. En la colonia de Ramiro se inundaron varias casas. Sus vecinos perdieron actas, la tarjeta del banco y el efectivo guardado. Ramiro se preguntó qué pasaría con su familia. En esta lección verás cómo prepararte. Documentos a salvo, dinero en una cuenta y un plan familiar: así te recuperas más rápido. Recuerda: Documentos en bolsa contra agua. Copia digital protegida. Dinero en cuenta. Tu paso de esta semana: Esta semana arma tu bolsa de documentos y guarda fotos protegidas de ellos. Nos escuchamos en la próxima lección.
+
+### M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú
+
+**WhatsApp**
+
+```
+*M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú*
+Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo.
+
+• Cuota al año por persona y edad.
+• Solo salud.
+• Centro de salud sin costo.
+
+Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota.
+
+Lección: [por definir]
+```
+
+**Audio** (125 palabras, unos 52 segundos)
+
+Hola. Hoy hablamos de esto: Salud para tu familia: el seguro del IMSS que pagas tú. La mamá de Don Chuy tiene 67 años, diabetes y no tiene seguridad social. Cada mes él paga consultas y medicinas en farmacias privadas: unos 1,800 pesos. En esta lección verás otras opciones. Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo. Recuerda: Cuota al año por persona y edad. Solo salud. Centro de salud sin costo. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota. Nos escuchamos en la próxima lección.
+
+### M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento
+
+**WhatsApp**
+
+```
+*M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento*
+Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio.
+
+• Beneficiarios en todo.
+• Testamento en septiembre.
+• Tutor para tus hijos.
+
+Tu paso de esta semana: Llena tu lista y corrige esta semana los beneficiarios que falten.
+
+Lección: [por definir]
+```
+
+**Audio** (112 palabras, unos 47 segundos)
+
+Hola. Hoy hablamos de esto: Que tu familia no quede atorada: beneficiarios y testamento. Un compañero de Ramiro falleció. Su cuenta, su Afore y los pagos pendientes de la empresa quedaron «atorados» un año. Su pareja vivía con él en unión libre y tuvo que ir a juicio. En esta lección verás cómo evitarlo. Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio. Recuerda: Beneficiarios en todo. Testamento en septiembre. Tutor para tus hijos. Tu paso de esta semana: Llena tu lista y corrige esta semana los beneficiarios que falten. Nos escuchamos en la próxima lección.
+
+### M7 U07 · Tu casa, tu tierra y lo que se hereda
+
+**WhatsApp**
+
+```
+*M7 U07 · Tu casa, tu tierra y lo que se hereda*
+Revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval.
+
+• Revisa los papeles de la casa.
+• Heredar no paga ISR; escriturar sí cuesta.
+• Deudas: solo con lo que dejó, salvo el aval.
+
+Tu paso de esta semana: Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles faltan.
+
+Lección: [por definir]
+```
+
+**Audio** (141 palabras, unos 59 segundos)
+
+Hola. Hoy hablamos de esto: Tu casa, tu tierra y lo que se hereda. Don Chuy vive en la casa que era de sus papás, pero sigue a nombre de su papá, que ya falleció. Su hermano dice que para pasarla a su nombre «hay que pagar 30% de impuestos». En esta lección verás qué es cierto. Revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval. Recuerda: Revisa los papeles de la casa. Heredar no paga ISR; escriturar sí cuesta. Deudas: solo con lo que dejó, salvo el aval. Tu paso de esta semana: Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles faltan. Nos escuchamos en la próxima lección.
 
 ## Módulo 8. Tu futuro
 

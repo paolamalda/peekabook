@@ -211,6 +211,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M5 U09 · ¿Cómo hago un plan cuando el ingreso cambia cada mes?: en los meses buenos, prepara los meses malos.
 - M5 U10 · ¿Cómo formalizo mi negocio?: empieza sencillo y crece cuando tu negocio lo pague.
 - M5 U11 · ¿Cuál es mi plan financiero?: no se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio.
+- M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?: en Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
 
 **Casos**
 

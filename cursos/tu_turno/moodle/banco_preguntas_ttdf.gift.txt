@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Turno v1.2/M1
+$CATEGORY: $course$/Tu Turno v1.3/M1
 
 ::M1 U01 P1::¿Con qué cifra haces tu presupuesto? {
 	~Con tu salario antes de descuentos, porque es lo que ganas #No es la mejor opción. Es el dinero real.
@@ -108,7 +108,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M1
 	~Pides prestado para aprovechar #No es la mejor opción. La prisa es una técnica de venta.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M2
+$CATEGORY: $course$/Tu Turno v1.3/M2
 
 ::M2 U01 P1::¿Qué es la cuenta básica? {
 	~Una cuenta con comisiones bajas pero con tarjeta de crédito #No es la mejor opción. Es tu derecho.
@@ -218,7 +218,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M2
 	=Repartir tu dinero en distintas inversiones #¡Correcto! Así no dependes de una sola.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M3
+$CATEGORY: $course$/Tu Turno v1.3/M3
 
 ::M3 U01 P1::¿Qué va en tu lista de deudas? {
 	=Todas tus deudas, incluidas las de personas #¡Correcto! Todas cuentan.
@@ -310,7 +310,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M3
 	~Que el bono sea grande #No es la mejor opción. Sin permiso no hay a quién reclamar.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M4
+$CATEGORY: $course$/Tu Turno v1.3/M4
 
 ::M4 U01 P1::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
 	=3,200 #¡Correcto! 400 por 8.
@@ -366,7 +366,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M4
 	~Lo que opine el vendedor #No es la mejor opción. Tu presupuesto manda.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M5
+$CATEGORY: $course$/Tu Turno v1.3/M5
 
 ::M5 U01 P1::¿Qué es el Buró de Crédito? {
 	~Una lista negra de personas que no pagan sus deudas #No es la mejor opción. Guarda lo bueno y lo malo.
@@ -440,7 +440,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M5
 	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M6
+$CATEGORY: $course$/Tu Turno v1.3/M6
 
 ::M6 U01 P1::Te piden el código que te llegó «para cancelar un cargo». ¿Qué haces? {
 	~Lo das si la persona sabe tu nombre completo #No es la mejor opción. El banco no pide códigos.
@@ -550,7 +550,7 @@ $CATEGORY: $course$/Tu Turno v1.2/M6
 	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M7
+$CATEGORY: $course$/Tu Turno v1.3/M7
 
 ::M7 U01 P1::¿Dónde guardas tu fondo? {
 	~En una tanda con tus compañeros #No es la mejor opción. Seguro y disponible.
@@ -624,7 +624,61 @@ $CATEGORY: $course$/Tu Turno v1.2/M7
 	=Fotos de tus cosas y la póliza #¡Correcto! Prueba de lo perdido.
 }
 
-$CATEGORY: $course$/Tu Turno v1.2/M8
+::M7 U05 P1::¿Cuánto cuesta en 2026 el seguro familiar del IMSS para una persona de 65 años? {
+	~9,300 #No es la mejor opción. De 60 a 69 años.
+	~13,800 #No es la mejor opción. De 60 a 69 años.
+	=19,800 #¡Correcto! De 60 a 69 años.
+}
+
+::M7 U05 P2::¿Qué NO da el Seguro de Salud para la Familia? {
+	=Pensión #¡Correcto! Solo es salud.
+	~Consultas #No es la mejor opción. Solo es salud.
+	~Medicinas #No es la mejor opción. Solo es salud.
+}
+
+::M7 U05 P3::¿Dónde se atiende sin costo quien no tiene seguridad social? {
+	~En farmacias privadas #No es la mejor opción. O IMSS-Bienestar.
+	=En el centro de salud #¡Correcto! O IMSS-Bienestar.
+	~En cualquier hospital privado #No es la mejor opción. O IMSS-Bienestar.
+}
+
+::M7 U06 P1::¿Qué pasa si nombras beneficiarios en tu cuenta? {
+	=Reciben el dinero sin juicio #¡Correcto! Es lo más rápido.
+	~Pagan más impuestos cuando lo reciben #No es la mejor opción. Es lo más rápido.
+	~No cambia nada #No es la mejor opción. Es lo más rápido.
+}
+
+::M7 U06 P2::¿Qué mes tiene descuentos para hacer testamento? {
+	~Enero #No es la mejor opción. Mes del Testamento.
+	=Septiembre #¡Correcto! Mes del Testamento.
+	~Diciembre #No es la mejor opción. Mes del Testamento.
+}
+
+::M7 U06 P3::¿Qué puedes nombrar en tu testamento? {
+	~Solo tu cuenta de banco y ninguna otra cosa más #No es la mejor opción. Un tutor.
+	~Tu número de NIP #No es la mejor opción. Un tutor.
+	=Quién cuidaría a tus hijos menores #¡Correcto! Un tutor.
+}
+
+::M7 U07 P1::¿Cuánto ISR pagas por recibir una herencia? {
+	~30% #No es la mejor opción. Artículo 93 de la Ley del ISR.
+	~10% #No es la mejor opción. Artículo 93 de la Ley del ISR.
+	=Nada, está exenta #¡Correcto! Artículo 93 de la Ley del ISR.
+}
+
+::M7 U07 P2::¿Quién paga las deudas de alguien que falleció si no alcanza lo que dejó? {
+	=Nadie de la familia, salvo el aval #¡Correcto! Se paga con lo que dejó.
+	~Sus hijos, con su propio dinero y sus ahorros #No es la mejor opción. Se paga con lo que dejó.
+	~Sus vecinos #No es la mejor opción. Se paga con lo que dejó.
+}
+
+::M7 U07 P3::¿Con qué se heredan los derechos de una parcela ejidal? {
+	~Con un recibo de luz #No es la mejor opción. Se registra en el RAN.
+	=Con la lista de sucesión #¡Correcto! Se registra en el RAN.
+	~Con una carta escrita a mano por el ejidatario #No es la mejor opción. Se registra en el RAN.
+}
+
+$CATEGORY: $course$/Tu Turno v1.3/M8
 
 ::M8 U01 P1::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
 	=50 pesos #¡Correcto! Desde 50.

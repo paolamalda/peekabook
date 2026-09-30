@@ -534,7 +534,7 @@ CONDUSEF, SIPRES y Buró de Entidades Financieras · CNBV, advertencias, consult
 | Información clara | Te deben explicar costos, CAT, comisiones y condiciones antes de firmar. | Pide la carátula. |
 | Contrato | Te deben entregar copia de tu contrato. | Debe estar registrado ante CONDUSEF. |
 | Cancelar | Puedes cancelar productos, con los pasos que marca la ley y el contrato. | Pide acuse. |
-| Reclamar | Puedes reclamar cargos que no reconoces o cobros indebidos. | Gratis. |
+| Reclamar | Puedes reclamar cargos que no reconoces o cobros indebidos. | Sin costo. |
 
 #### Cómo reclamar
 

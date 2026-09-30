@@ -401,7 +401,7 @@ Temas cubiertos: 21 de 21.
 
 *Conocimiento*
 
-- Sabe que mejorar su educación financiera le ayuda a decidir mejor
+- Sabe que seguir aprendiendo sobre su dinero le ayuda a decidir mejor
 - Sabe dónde encontrar consejo sencillo y confiable, incluidas fuentes de gobierno
 - Distingue información imparcial de publicidad
 - Sabe que hay calculadoras y comparadores y que hay que ver si son imparciales
@@ -424,7 +424,7 @@ Temas cubiertos: 21 de 21.
 
 - Sabe que varias instituciones ofrecen productos parecidos y conviene comparar
 - Sabe que las instituciones formales están reguladas
-- Entiende que un producto «gratis» también le deja ganancia a la institución
+- Entiende que un producto «sin costo» también le deja ganancia a la institución
 - Sabe comparar con herramientas
 - Sabe que algunas instituciones deben ofrecer cuentas básicas
 - Sabe que algunas empresas no financieras que ofrecen servicios no están reguladas igual

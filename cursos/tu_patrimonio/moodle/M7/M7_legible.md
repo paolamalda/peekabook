@@ -497,7 +497,7 @@ Si tu pareja tenía pensión del IMSS o cumplía requisitos, puedes tener derech
 | Mujeres Bienestar | De 60 a 64 años. | 3,100 pesos bimestrales. |
 | Adultos Mayores | 65 años o más. | 6,400 pesos bimestrales. |
 | Pago | En la Tarjeta del Bienestar. | Cada dos meses. |
-| Gratis | Nadie cobra por registrarte. | Solo módulos oficiales. |
+| Sin costo | Nadie cobra por registrarte. | Solo módulos oficiales. |
 
 > **Dato vigente:** en 2026, la Pensión Mujeres Bienestar entrega 3,100 pesos bimestrales a mujeres de 60 a 64 años y la Pensión para Adultos Mayores, 6,400 pesos bimestrales a personas de 65 o más. Consultado el 29 de septiembre de 2026 a través de Programas para el Bienestar.
 
@@ -587,7 +587,7 @@ Le llaman a Maru para «aumentar su pensión del Bienestar» a cambio de un pago
 |---|---|---|
 | No tener documentos | Trámite lento | Carpeta lista |
 | No registrarte a tiempo | Pierdes pagos | Revisa fechas |
-| Pagar por registros | Fraude | Gratis |
+| Pagar por registros | Fraude | Sin costo |
 | Suponer que no se juntan | Dejas dinero | Confirma |
 
 ### Practica

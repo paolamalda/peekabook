@@ -296,7 +296,7 @@ La CONDUSEF orienta y defiende sin costo a quienes usan servicios financieros. N
 |---|---|---|
 | Verificar | Si una financiera existe, en el SIPRES. | Antes de pedir un préstamo. |
 | Reclamar | Primero en el banco, por escrito. | Pide folio. |
-| Pedir ayuda | CONDUSEF: 55 5340 0999 u 800 999 8080. | Gratis. |
+| Pedir ayuda | CONDUSEF: 55 5340 0999 u 800 999 8080. | Sin costo. |
 
 #### Cómo reclamar
 
@@ -431,7 +431,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
-| Fuentes oficiales | CONDUSEF, Banxico, SAT, IMSS, Profeco. | Gratis y sin venderte nada. |
+| Fuentes oficiales | CONDUSEF, Banxico, SAT, IMSS, Profeco. | Sin costo y sin venderte nada. |
 | Publicidad | Te informa, pero quiere venderte. | Compara antes. |
 | Rumores y cadenas | Sin fuente ni fecha. | No reenvíes. |
 | «Asesores» que prometen | Ganancias seguras y rápidas. | Casi siempre fraude. |

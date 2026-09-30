@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Your Money v3.3/M1
+$CATEGORY: $course$/Your Money v3.4/M1
 
 ::M1 U01 P1::Someone lends you 300 dollars. How does your net worth change? {
 	~It goes up 300 #Not the best option. You have 300 more, but you owe 300.
@@ -252,7 +252,7 @@ $CATEGORY: $course$/Your Money v3.3/M1
 	=Not necessarily; adjust the plan #Correct! The plan adapts to your reality.
 }
 
-$CATEGORY: $course$/Your Money v3.3/M2
+$CATEGORY: $course$/Your Money v3.4/M2
 
 ::M2 U01 P1::Can you open an account at the central bank? {
 	~Yes #Not the best option. It doesn't serve individuals.
@@ -488,7 +488,7 @@ $CATEGORY: $course$/Your Money v3.3/M2
 	~Yes, if it lasts more than a month #Not the best option. Compare the later price.
 }
 
-$CATEGORY: $course$/Your Money v3.3/M3
+$CATEGORY: $course$/Your Money v3.4/M3
 
 ::M3 U01 P1::Does a good score guarantee you can pay? {
 	=No #Correct! The score doesn't make the payment.
@@ -670,7 +670,7 @@ $CATEGORY: $course$/Your Money v3.3/M3
 	~920 #Not the best option. 800 + 16 + 90 − 120 \= 786.
 }
 
-$CATEGORY: $course$/Your Money v3.3/M4
+$CATEGORY: $course$/Your Money v3.4/M4
 
 ::M4 U01 P1::Which number do you call to verify? {
 	~The one in the message #Not the best option. The one in the message may be fake.
@@ -870,7 +870,7 @@ $CATEGORY: $course$/Your Money v3.3/M4
 	=At least once a year #Correct! Practicing keeps the plan useful.
 }
 
-$CATEGORY: $course$/Your Money v3.3/M5
+$CATEGORY: $course$/Your Money v3.4/M5
 
 ::M5 U01 P1::Assets 12,000 and debts 8,500. Net worth? {
 	~20,500 #Not the best option. 12,000 − 8,500.
@@ -1068,4 +1068,22 @@ $CATEGORY: $course$/Your Money v3.3/M5
 	=Every three or six months, or when something changes #Correct! That keeps it useful.
 	~Never #Not the best option. That keeps it useful.
 	~Once, when you finish the course, and put it away #Not the best option. That keeps it useful.
+}
+
+::M5 U12 P1::You inherit a house in Mexico worth 130,000 dollars. What do you do with the IRS? {
+	=File Form 3520 #Correct! It's an information report.
+	~Pay 40% #Not the best option. It's an information report.
+	~Nothing, because the house is in another country #Not the best option. It's an information report.
+}
+
+::M5 U12 P2::What keeps your bank account out of court? {
+	~Your will in Mexico #Not the best option. It passes directly.
+	=A POD beneficiary #Correct! It passes directly.
+	~Withdrawing everything in cash #Not the best option. It passes directly.
+}
+
+::M5 U12 P3::How much ISR does an heir pay in Mexico? {
+	~30% #Not the best option. It's exempt.
+	~16% #Not the best option. It's exempt.
+	=None #Correct! It's exempt.
 }

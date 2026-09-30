@@ -296,4 +296,19 @@ CASOS = {
  ("Le da una copia sin números ni contraseñas.", "Le da una copia con sus NIP.", "Le manda una foto del plan completo."),
  ("Actualiza su plan con calma.", "Invierte la herencia de inmediato.", "Deja el plan como estaba."),
 ],
+"M8 U07": [
+ ("Compara con el IMSS por su cuenta y con subir su deducible.", "Cancela su seguro de golpe sin tener ninguna otra protección.", "Sigue pagando igual cada año aunque le suba cada vez más."),
+ ("Revisa la Modalidad 10 como persona trabajadora independiente.", "Espera a que la contraten en una empresa para tener IMSS algún día.", "Paga a un gestor para que la inscriba sin saber en qué."),
+ ("Pregunta antes de pagar si su enfermedad se cubre y desde cuándo.", "Paga la cuota sin preguntar porque da por hecho que la cubren.", "No la inscribe porque cree que a su edad no la aceptan."),
+],
+"M10 U07": [
+ ("Piden asesoría y, si hay acuerdo, hacen el trámite ante notario.", "Se van a juicio de inmediato para que un juez decida por ellos.", "Se reparten las cosas de palabra sin hacer ningún trámite."),
+ ("Pregunta en el RAN y, si no hay lista, les propone registrarla.", "Da por hecho que la parcela será para el hijo mayor.", "Le pide a sus papás que vendan la parcela antes de que haya problemas."),
+ ("Hace su testamento y nombra beneficiarios para dejarlo claro.", "Lo deja así porque su pareja heredará todo sin problema.", "Pone todo a nombre de su pareja desde ahora sin testamento."),
+],
+"M10 U08": [
+ ("Pregunta en una notaría y compara testamento, donación con usufructo y venta.", "Le vende la casa a su hija por un peso para ahorrar impuestos.", "Le regala la casa a su hija hoy mismo sin ningún papel."),
+ ("Que heredar no paga ISR; solo los gastos de escriturar.", "Que de verdad hay que pagar 30% y mejor no escriturar.", "Que conviene no avisarle nada al SAT para no pagar."),
+ ("Considera el usufructo vitalicio para seguir viviendo ahí.", "Le dona el departamento sin condiciones para no complicarse.", "Le vende el departamento por un peso para que sea más rápido."),
+],
 }

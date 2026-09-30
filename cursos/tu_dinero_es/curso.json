@@ -1,8 +1,8 @@
 {
  "sigla": "TDTF",
  "titulo": "Tu Dinero, Tu Familia, Tu Futuro",
- "subtitulo": "Versión 3.3 · Piloto California · Desarrolla Talento · Septiembre de 2026",
- "version": "3.3",
+ "subtitulo": "Versión 3.4 · Piloto California · Desarrolla Talento · Septiembre de 2026",
+ "version": "3.4",
  "lang": "es",
  "intro": "Programa de bienestar financiero para personas migrantes latinas en California: 5 módulos sobre dinero, remesas, crédito, protección y futuro.",
  "categoria": "Tu Dinero",
@@ -95,10 +95,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Dinero_Tu_Familia_Tu_Futuro_ES",
-  "zip": "Tu_Dinero_ES_v3.3",
-  "manual": "Manual_del_programa_TDTF_ES_v3.3",
-  "contenido": "Contenido_completo_TDTF_ES_v3.3",
-  "guia": "Guia_implementacion_TDTF_ES_v3.3",
+  "zip": "Tu_Dinero_ES_v3.4",
+  "manual": "Manual_del_programa_TDTF_ES_v3.4",
+  "contenido": "Contenido_completo_TDTF_ES_v3.4",
+  "guia": "Guia_implementacion_TDTF_ES_v3.4",
   "descripciones": [
    "Manual del programa: personajes, manual del operador (guía editorial, evaluación, matriz de productos, métricas, privacidad) y trazabilidad.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

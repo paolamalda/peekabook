@@ -1,6 +1,6 @@
 # Cómo funcionan las referencias comerciales
 
-Queremos que sepas exactamente qué es educación y qué es una oferta comercial.
+Queremos que sepas exactamente qué es contenido del programa y qué es una oferta comercial.
 
 ## Dónde aparecen
 

@@ -457,7 +457,7 @@ Fill in your one-page plan and set the date of your first review.
 
 ### Learn more
 
-- **Free advice** (SBA · English): https://www.sba.gov | What to look for: "SBDC" and "SCORE".
+- **No-cost advice** (SBA · English): https://www.sba.gov | What to look for: "SBDC" and "SCORE".
 
 ### Key words
 
@@ -467,5 +467,161 @@ Fill in your one-page plan and set the date of your first review.
 ### Sources
 
 SBA, accessed September 29, 2026 · Innovations for Poverty Action and J-PAL, "Nudges for Financial Health."
+
+---
+
+## M9 U04. If you're not there: beneficiary accounts, your home, digital access and taxes
+
+**What you will be able to do:** Complete your succession plan in the U.S.: beneficiary accounts, transfer on death deed, small estates, the business's digital access, taxes when inheriting, and what you own in Mexico.
+
+**To start:** Don Ramón has his food truck, a business account, a house in Sacramento and land in Michoacán. His daughter believes that if he dies "the IRS takes half" and the house will spend years in court. In this lesson you'll see what's true and what to prepare.
+
+### The essentials (5 minutes)
+
+#### Passing things on without court
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Payable-on-death (POD) accounts | Bank and credit union accounts. | They pass directly. |
+| Transfer-on-death (TOD) investments | Brokerage accounts and IRAs. | They pass directly. |
+| Transfer on death deed | In California, for your home. | Avoids probate. |
+| Living trust or will | For everything else. | With a lawyer. |
+| Digital | Accounts, platforms, social media. | Who has access. |
+
+#### Taxes when inheriting
+
+Heirs **don't pay federal tax** for receiving an inheritance. The federal estate tax only applies to estates over 15 million dollars per person in 2026, and California has no inheritance tax. If your heirs sell what they inherit, the gain is measured from its value when you died, which usually lowers the tax.
+
+> **Current fact:** the federal estate tax only applies to estates over 15 million dollars per person in 2026; California has no inheritance tax. Accessed September 30, 2026 through the IRS and specialized media.
+
+
+
+#### If you own something in Mexico
+
+Receiving an inheritance in Mexico pays no income tax (ISR), but putting land or a house in your name does cost money (state tax and notary). If your heirs live in the U.S. and receive a foreign inheritance of more than 100,000 dollars, they must report it to the IRS on Form 3520, even though they owe no tax; the penalty for not filing can reach 25% of the value. Mexican consulates offer notary services, including wills.
+
+
+
+#### A case in one minute
+
+Don Ramón named his daughter as POD beneficiary on his accounts, reviewed a transfer on death deed for his home with a lawyer, made a will at the consulate for the land in Michoacán and wrote down who can access the business accounts.
+
+> **Key idea:** with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
+
+
+
+#### Check your understanding
+
+1. Do heirs pay federal tax?
+*Answer:* No; the estate tax only applies to estates over 15 million.
+
+2. What is Form 3520?
+*Answer:* A report to the IRS of foreign inheritances or gifts over 100,000 dollars.
+
+
+#### Remember
+
+- POD and TOD on your accounts.
+- Transfer on death deed for your home.
+- Form 3520 if you inherit from abroad.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Your succession map
+
+| Asset | How it passes without court |
+|---|---|
+| Bank or credit union account | POD beneficiary |
+| Investment account or IRA | TOD or named beneficiary |
+| House in California | Transfer on death deed or living trust |
+| Equipment and business | Will or living trust, partner agreement |
+| House or land in Mexico | Will (notary or consulate); succession list if ejido land |
+| Digital accounts | Access instructions stored safely |
+
+
+
+#### Small estates
+
+If what you leave is small, California has a small estate affidavit that avoids probate. The limit changes every few years: ask the court or a lawyer.
+
+
+
+#### Cases
+
+
+**Case 1. Half for the IRS**
+
+Don Ramón's daughter thinks the IRS will take half of the inheritance.
+- *What does she learn?* That heirs pay no federal tax, except on huge estates.
+
+
+**Case 2. The land in Michoacán**
+
+Lupita's nephew, who lives in Los Angeles, will inherit land in Mexico worth 120,000 dollars.
+- *What does he do?* He files Form 3520 with the IRS even though he owes no tax.
+
+
+**Case 3. Daniela's account**
+
+Daniela has no beneficiary on her business account.
+- *What does she do?* She names a POD beneficiary at her bank.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Believing the IRS takes half | Needless fear | Only huge estates |
+| Not naming beneficiaries | Long probate | POD and TOD |
+| Not reporting foreign inheritances | High penalties | Form 3520 |
+| Leaving land in Mexico without a will | Family fights | Notary or consulate |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Lupita's nephew and Daniela. Choose the best decision in each; if you miss, you can try again. Earn experience points.
+
+
+
+#### Quiz
+
+1. Does someone who inherits 200,000 dollars pay federal tax? a) Yes, 40% · b) No · c) Yes, 10%
+2. What keeps a bank account out of court? a) Changing the password · b) Withdrawing it all in cash · c) Naming a POD beneficiary
+3. You inherit land in Mexico worth 150,000 dollars. What do you do with the IRS? a) File Form 3520 · b) Nothing · c) Pay 30% tax
+**Answers:** 1-b: the estate tax is for huge estates. 2-c: it passes directly. 3-a: it's an information report.
+
+
+
+#### Put it into practice
+
+If you don't file Form 3520 for a 120,000-dollar inheritance, what would the maximum 25% penalty be?
+**Answer:** 25% of 120,000: 30,000 dollars.
+
+
+
+#### Your plan
+
+Check whether your accounts have a POD or TOD beneficiary and list what you own in Mexico.
+
+
+
+### Learn more
+
+- **Gifts and inheritances from abroad** (IRS · English): https://www.irs.gov | What to look for: "Form 3520" and "gifts from foreign person".
+- **Small estates and transfer on death deeds** (California Courts · English and Spanish): https://selfhelp.courts.ca.gov | What to look for: "small estate" and "transfer on death deed".
+- **Consular notary services** (Mexican Ministry of Foreign Affairs · Spanish): https://www.gob.mx/sre | What to look for: "testamento en consulado".
+
+### Key words
+
+- *POD and TOD:* beneficiary designation on an account that passes directly when you die.
+- *Probate:* court process to distribute the property of someone who died.
+- *Form 3520:* IRS report of foreign inheritances or gifts over 100,000 dollars.
+
+### Sources
+
+IRS · California Courts · Mexican Ministry of Foreign Affairs · SAT, accessed September 30, 2026.
 
 ---

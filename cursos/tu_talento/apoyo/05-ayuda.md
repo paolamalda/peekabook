@@ -4,25 +4,25 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
-| Dudas o problemas con el SAT | PRODECON | Gratis | Cita y documentos |
+| Dudas o problemas con el SAT | PRODECON | Sin costo | Cita y documentos |
 | Declaraciones y facturación | SAT y tu contador | SAT sin costo; contador con costo | Cédula del contador |
-| Reclamar a un banco, SOFOM o aseguradora | UNE de la institución y CONDUSEF | Gratis | Folio de tu reclamación |
-| Verificar una institución | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón y advertencias (CNBV) | Gratis | Nombre legal exacto |
+| Reclamar a un banco, SOFOM o aseguradora | UNE de la institución y CONDUSEF | Sin costo | Folio de tu reclamación |
+| Verificar una institución | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón y advertencias (CNBV) | Sin costo | Nombre legal exacto |
 | Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito | Un reporte sin costo cada 12 meses en cada uno | Solo sitios oficiales |
 | Proteger tu historial | Bloqueo y Alertas de Buró de Crédito | Según el servicio | Condiciones vigentes |
-| Cobranza abusiva | REDECO de CONDUSEF | Gratis | Datos del despacho |
-| Llamadas y mensajes de publicidad de tiendas, telefonía o viajes | REPEP de Profeco: repep.profeco.gob.mx, 55 5568 8722 o 800 468 8722 | Gratis | Deja de aplicar a los 30 días; denuncia si siguen |
-| Llamadas y mensajes de publicidad de bancos y financieras | REUS de CONDUSEF: 55 5340 0999 o 800 999 8080 | Gratis | Hasta 45 días para aplicar; renueva cada dos años |
-| Líneas de celular registradas con tu CURP | Plataformas de consulta de la Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) y tu compañía | Gratis | Desvincula las que no son tuyas |
-| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Evidencia |
-| Casas de empeño y crédito de tiendas propias | Profeco | Gratis | Contrato y recibos |
-| Aseguradoras y agentes | CNSF y CONDUSEF | Gratis | Cédula del agente |
-| Pago tardío o relación laboral | PROFEDET | Gratis | Pruebas del trabajo |
+| Cobranza abusiva | REDECO de CONDUSEF | Sin costo | Datos del despacho |
+| Llamadas y mensajes de publicidad de tiendas, telefonía o viajes | REPEP de Profeco: repep.profeco.gob.mx, 55 5568 8722 o 800 468 8722 | Sin costo | Deja de aplicar a los 30 días; denuncia si siguen |
+| Llamadas y mensajes de publicidad de bancos y financieras | REUS de CONDUSEF: 55 5340 0999 o 800 999 8080 | Sin costo | Hasta 45 días para aplicar; renueva cada dos años |
+| Líneas de celular registradas con tu CURP | Plataformas de consulta de la Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) y tu compañía | Sin costo | Desvincula las que no son tuyas |
+| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Sin costo | Evidencia |
+| Casas de empeño y crédito de tiendas propias | Profeco | Sin costo | Contrato y recibos |
+| Aseguradoras y agentes | CNSF y CONDUSEF | Sin costo | Cédula del agente |
+| Pago tardío o relación laboral | PROFEDET | Sin costo | Pruebas del trabajo |
 | Condiciones de trabajo de actores | ANDA | Para agremiados | Tu agremiación |
 | Regalías | ANDI, SACM, EJE, SOMEXFON | Según la sociedad | Autorización de INDAUTOR |
 | Nombre artístico y marca | INDAUTOR e IMPI | Con costo del trámite | Búsqueda previa |
 | Seguridad social | IMSS (Modalidad 10 y 40) | Según el trámite | Requisitos vigentes |
-| AFORE | CONSAR, AforeMóvil y e-SAR | Gratis | CURP |
+| AFORE | CONSAR, AforeMóvil y e-SAR | Sin costo | CURP |
 | Fondo de sequía | Cetesdirecto | Sin comisiones | Tasa del día |
 
 ## Guion para pedir información

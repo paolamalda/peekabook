@@ -4,8 +4,8 @@ Each option has a different role: a regulator doesn't replace a tax preparer or 
 
 | Need | Where | Cost | What to check |
 |---|---|---|---|
-| Preparing taxes | IRS VITA and TCE | Free for those who qualify | Location, language, whether they help with ITINs |
-| Tax help in California | FTB no-cost help and CalFile | Free depending on the program | Requirements for the year |
+| Preparing taxes | IRS VITA and TCE | At no cost for those who qualify | Location, language, whether they help with ITINs |
+| Tax help in California | FTB no-cost help and CalFile | At no cost depending on the program | Requirements for the year |
 | Verifying a preparer | CTEC (California) and the IRS directory | No cost | Current registration |
 | Immigration advice | Licensed attorneys and DOJ-accredited representatives | Varies; there are no-cost options | License with the State Bar or accreditation on the DOJ (EOIR) list |
 | General legal help | State Bar of California certified lawyer referral services | The consultation may have a cost | Service certification and license |
@@ -15,11 +15,11 @@ Each option has a different role: a regulator doesn't replace a tax preparer or 
 | Money transmitter licenses | DFPI and NMLS Consumer Access | No cost | Exact legal name |
 | Banks and credit unions | FDIC BankFind and the NCUA locator | No cost | Legal name and insurance |
 | Building credit with tandas | Mission Asset Fund and other lending circles | No cost | Which bureaus they report to |
-| Housing | HUD-certified housing counselors (CFPB locator) | Free or low cost | Agency and service area |
+| Housing | HUD-certified housing counselors (CFPB locator) | No-cost or low cost | Agency and service area |
 | Insurance | California Department of Insurance (CDI) | No cost | License of the insurer and the agent |
 | Health plans | DMHC Help Center | No cost | Whether your plan is under its oversight |
 | Wages and labor rights | Department of Industrial Relations (DIR) | No cost | Keep hours and pay stubs |
-| Your own business | Small Business Development Centers (SBDC) | Free or low cost | Advice in Spanish |
+| Your own business | Small Business Development Centers (SBDC) | No-cost or low cost | Advice in Spanish |
 | Retirement | CalSavers | No cost | Participation requirements |
 | Consular financial guidance | Ventanillas de Asesoría Financiera at Mexican consulates | No cost | Hours and appointments |
 

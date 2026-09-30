@@ -999,7 +999,7 @@ Carmen inscribió su celular y el fijo en el REPEP y se registró en el REUS. Al
 
 - REPEP: tiendas y servicios.
 - REUS: bancos y aseguradoras.
-- Gratis; los fraudes no se detienen con registros.
+- Sin costo; los fraudes no se detienen con registros.
 
 
 
@@ -1054,7 +1054,7 @@ Le llaman a Elena para «inscribirla en el REPEP» por 300 pesos.
 
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
-| Pagar por inscribirte | Es fraude | Gratis y oficial |
+| Pagar por inscribirte | Es fraude | Sin costo y oficial |
 | Inscribir solo un número | Siguen al otro | Cada número |
 | Olvidar renovar el REUS | Vuelve la publicidad | Cada dos años |
 | Esperar que detengan fraudes | No lo hacen | Cuelga y bloquea |

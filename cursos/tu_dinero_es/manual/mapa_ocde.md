@@ -12,7 +12,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M5 U01, M4 U06, M2 U06, M5 U10, M2 U04, M1 U08 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M2 U12, M5 U07, M5 U02, M4 U06, M1 U02, M1 U14 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M5 U02, M5 U03, M2 U02 |
-| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M5 U01, M2 U12, M5 U11, M4 U06, M1 U08, M1 U14 |
+| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M5 U01, M2 U12, M5 U11, M5 U12, M4 U06, M1 U08 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M5 U07, M5 U06, M5 U03, M1 U05, M5 U08, M5 U11 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M3 U01, M1 U11, M3 U09, M3 U02, M3 U04, M3 U03 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M3 U06, M3 U08, M2 U10, M3 U02, M3 U07, M3 U03 |
@@ -24,7 +24,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M5 U06, M4 U02, M5 U03 |
 | OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U02, M2 U04, M5 U03, M2 U01, M2 U13, M4 U03 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M4 U04, M4 U01, M4 U02 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M1 U09, M1 U12, M2 U02, M2 U03, M1 U14, M2 U01 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M1 U09, M5 U12, M1 U12, M2 U02, M2 U03, M1 U14 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M5 U11, M2 U07 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M5 U02, M1 U02 |
 | IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M1 U14, M2 U08, M5 U11, M3 U04, M3 U10, M5 U03 |
@@ -284,7 +284,7 @@ Temas cubiertos: 29 de 29.
 
 ## B5 · Planear a largo plazo y construir patrimonio
 
-**Lecciones:** M5 U01 ¿Cómo convierto un deseo en una meta?; M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?; M5 U11 ¿Cuál es mi plan financiero?; M4 U06 ¿Para qué sirve separar un poco de dinero?; M1 U08 ¿Cómo decido para qué usar mi dinero?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
+**Lecciones:** M5 U01 ¿Cómo convierto un deseo en una meta?; M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?; M5 U11 ¿Cuál es mi plan financiero?; M5 U12 ¿Qué pasa si heredo o dejo algo entre dos países?; M4 U06 ¿Para qué sirve separar un poco de dinero?; M1 U08 ¿Cómo decido para qué usar mi dinero?
 
 *Conocimiento*
 
@@ -606,7 +606,7 @@ Temas cubiertos: 29 de 29.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M1 U09 ¿Presentar impuestos significa que me devolverán dinero?; M1 U12 ¿Cómo elijo a alguien que me ayude con impuestos?; M2 U02 ¿Una app de dinero es siempre un banco?; M2 U03 ¿Qué identificación me sirve para trámites financieros?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?; M2 U01 ¿Quién cuida mi dinero y quién me presta el servicio?
+**Lecciones:** M1 U09 ¿Presentar impuestos significa que me devolverán dinero?; M5 U12 ¿Qué pasa si heredo o dejo algo entre dos países?; M1 U12 ¿Cómo elijo a alguien que me ayude con impuestos?; M2 U02 ¿Una app de dinero es siempre un banco?; M2 U03 ¿Qué identificación me sirve para trámites financieros?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
 
 *Conocimiento*
 

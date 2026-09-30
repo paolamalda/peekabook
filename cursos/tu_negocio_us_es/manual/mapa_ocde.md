@@ -6,7 +6,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 |---|---|---|---|
 | OCDE negocios (2018) | N-A1 Pagos y depósitos del negocio | 10 | M4 U01, M1 U05 |
 | OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U03, M6 U02, M7 U07, M6 U05 |
-| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M5 U02, M7 U04, M5 U03, M5 U05, M5 U01, M7 U05 |
+| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M5 U02, M7 U04, M5 U03, M5 U05, M5 U01, M9 U04 |
 | OCDE negocios (2018) | N-B2 Registros y contabilidad | 13 | M1 U01, M1 U04, M1 U06, M7 U07, M5 U03, M1 U03 |
 | OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M1 U02, M3 U01, M6 U05, M2 U04, M2 U03, M3 U02 |
 | OCDE negocios (2018) | N-B4 Planear más allá del corto plazo | 15 | M3 U04, M2 U02, M8 U01, M8 U05, M6 U01, M8 U06 |
@@ -23,7 +23,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M1 U02, M2 U01, M8 U04, M5 U01, M3 U03 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M9 U01, M3 U03 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M1 U02 |
-| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M9 U03 |
+| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M9 U03, M9 U04 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M9 U01, M2 U04 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M6 U03, M6 U02, M7 U05, M6 U01, M3 U02, M8 U06 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M6 U04, M3 U04, M3 U02, M6 U05, M5 U01 |
@@ -33,9 +33,9 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M6 U05, M1 U02 |
 | OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M8 U01 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M8 U06, M8 U05 |
-| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M1 U02, M9 U01, M1 U06, M4 U02, M7 U01, M8 U05 |
+| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M1 U02, M9 U04, M9 U01, M1 U06, M4 U02, M7 U01 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M7 U05, M4 U03, M7 U03, M7 U06, M5 U04, M8 U05 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M5 U05, M5 U03, M5 U04, M1 U03, M3 U03, M8 U02 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M5 U05, M9 U04, M5 U03, M5 U04, M1 U03, M3 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M8 U06 |
 
 Temas cubiertos: 33 de 33.
@@ -102,7 +102,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-B1 · Registro, impuestos y obligaciones legales
 
-**Lecciones:** M5 U02 Números y permisos: EIN, ITIN y licencias; M7 U04 Tu marca y tu nombre; M5 U03 Tus impuestos federales como dueño; M5 U05 El impuesto sobre ventas (sales tax); M5 U01 ¿Dueño único, LLC u otra forma?; M7 U05 Robo de identidad y llamadas no deseadas
+**Lecciones:** M5 U02 Números y permisos: EIN, ITIN y licencias; M7 U04 Tu marca y tu nombre; M5 U03 Tus impuestos federales como dueño; M5 U05 El impuesto sobre ventas (sales tax); M5 U01 ¿Dueño único, LLC u otra forma?; M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
 
 *Conocimiento*
 
@@ -311,7 +311,7 @@ Temas cubiertos: 33 de 33.
 
 - B: Distingue fuentes confiables
 - I: Llena sus huecos de conocimiento y busca asesoría profesional cuando hace falta
-- I: Apoya la educación financiera de su personal
+- I: Apoya el bienestar financiero de su personal
 
 *Actitud*
 
@@ -566,7 +566,7 @@ Temas cubiertos: 33 de 33.
 
 ## B5 · Planear a largo plazo y construir patrimonio
 
-**Lecciones:** M9 U03 Tu plan de una página
+**Lecciones:** M9 U03 Tu plan de una página; M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
 
 *Conocimiento*
 
@@ -835,7 +835,7 @@ Temas cubiertos: 33 de 33.
 
 ## D4 · Productos y servicios financieros
 
-**Lecciones:** M1 U02 Separa el dinero del negocio y de tu casa; M9 U01 Tu retiro si trabajas por tu cuenta; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M4 U02 Cobros por apps y transferencias seguras; M7 U01 Tu salud si trabajas por tu cuenta; M8 U05 Tu plan de negocio en una hoja y cómo presentarlo
+**Lecciones:** M1 U02 Separa el dinero del negocio y de tu casa; M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos; M9 U01 Tu retiro si trabajas por tu cuenta; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M4 U02 Cobros por apps y transferencias seguras; M7 U01 Tu salud si trabajas por tu cuenta
 
 *Conocimiento*
 
@@ -888,7 +888,7 @@ Temas cubiertos: 33 de 33.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M5 U05 El impuesto sobre ventas (sales tax); M5 U03 Tus impuestos federales como dueño; M5 U04 Pagos trimestrales y formularios 1099; M1 U03 Págate un sueldo; M3 U03 Tu reserva y las temporadas bajas; M8 U02 Vender en línea y en plataformas
+**Lecciones:** M5 U05 El impuesto sobre ventas (sales tax); M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos; M5 U03 Tus impuestos federales como dueño; M5 U04 Pagos trimestrales y formularios 1099; M1 U03 Págate un sueldo; M3 U03 Tu reserva y las temporadas bajas
 
 *Conocimiento*
 

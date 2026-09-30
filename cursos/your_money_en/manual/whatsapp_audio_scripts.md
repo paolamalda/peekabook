@@ -1251,6 +1251,27 @@ Lesson: [to be defined]
 
 Hi. Today's topic: What's my financial plan? You've reached the end of the program. Luis, Daniela, Andrés and Rosa have something in common: they all started with doubts and now they have a plan. In this lesson you'll make yours, on a single page. It's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder. Remember: Your plan fits on one page. Write three actions with dates. Review it when something changes. Your step this week: Write your one-page plan and give it a review date. Congratulations on finishing the program!. Talk to you in the next lesson.
 
+### M5 U12 · What happens if I inherit or leave something across two countries?
+
+**WhatsApp**
+
+```
+*M5 U12 · What happens if I inherit or leave something across two countries?*
+In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
+
+• POD, TOD and transfer on death deed.
+• Form 3520 if you inherit from abroad.
+• In Mexico: no ISR, but the title transfer costs money.
+
+Your step this week: Make your two-country map and check the beneficiaries on your accounts here.
+
+Lesson: [to be defined]
+```
+
+**Audio** (164 words, about 68 seconds)
+
+Hi. Today's topic: What happens if I inherit or leave something across two countries? Alex's mom has a house in Michoacán and no will. Alex lives in Los Angeles, and a coworker told him that if he inherits it "the IRS charges 40%." Rosa has an account in Fresno and wants it to go to her grandchildren. In this lesson you'll see what's true and what to prepare. In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money. Remember: POD, TOD and transfer on death deed. Form 3520 if you inherit from abroad. In Mexico: no ISR, but the title transfer costs money. Your step this week: Make your two-country map and check the beneficiaries on your accounts here. Talk to you in the next lesson.
+
 ## Monthly commitment reminders
 
 Send them once a month, on the same day, with the goal name each person chose in their one-page plan. Evidence shows monthly reminders that mention the goal help people save more; an extra reminder after missing a deposit didn't help. On a broadcast channel, use the general version ("your goal"). Always include: "Reply STOP to stop receiving messages."

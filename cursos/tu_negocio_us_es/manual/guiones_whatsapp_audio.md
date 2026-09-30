@@ -923,6 +923,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Tu plan de una página. Daniela aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su mesa de trabajo. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
 
+### M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
+
+**WhatsApp**
+
+```
+*M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos*
+Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520.
+
+• POD y TOD en tus cuentas.
+• Escritura de traspaso para la casa.
+• Formulario 3520 si heredas del extranjero.
+
+Tu paso de esta semana: Revisa si tus cuentas tienen beneficiario POD o TOD y haz tu lista de lo que tienes en México.
+
+Lección: [por definir]
+```
+
+**Audio** (162 palabras, unos 68 segundos)
+
+Hola. Hoy hablamos de esto: Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos. Don Ramón tiene su food truck, una cuenta del negocio, una casa en Sacramento y un terreno en Michoacán. Su hija cree que si él falta «el IRS se queda con la mitad» y que la casa tendrá que pasar por años de corte. En esta lección verás qué es cierto y qué preparar. Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520. Recuerda: POD y TOD en tus cuentas. Escritura de traspaso para la casa. Formulario 3520 si heredas del extranjero. Tu paso de esta semana: Revisa si tus cuentas tienen beneficiario POD o TOD y haz tu lista de lo que tienes en México. Nos escuchamos en la próxima lección.
+
 ## Recordatorios mensuales del compromiso
 
 Se envían una vez al mes, el mismo día, con el nombre de la meta que cada persona eligió en su plan de una página. La evidencia muestra que los recordatorios mensuales con la meta ayudan a ahorrar más; un recordatorio extra después de un atraso no ayudó. Si el canal es de difusión, usa la versión general («tu meta»). Incluye siempre: «Responde BAJA para dejar de recibir mensajes».

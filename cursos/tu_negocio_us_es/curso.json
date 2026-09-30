@@ -1,8 +1,8 @@
 {
  "sigla": "TNDF",
  "titulo": "Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.",
- "subtitulo": "Versión 1.2 · Estados Unidos (federal y California) · Español · Desarrolla Talento · Septiembre de 2026",
- "version": "1.2",
+ "subtitulo": "Versión 1.3 · Estados Unidos (federal y California) · Español · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.3",
  "lang": "es",
  "intro": "Curso de finanzas para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: 9 módulos, 43 lecciones, con reglas federales y ejemplos de California.",
  "categoria": "Tu Negocio US ES",
@@ -111,8 +111,8 @@
  },
  "comunidad": {
   "titulo": "Comunidad Tu Negocio EE. UU.",
-  "subtitulo": "Versión 1.2 · Estados Unidos · Español · Desarrolla Talento · Septiembre de 2026",
-  "version": "1.2",
+  "subtitulo": "Versión 1.3 · Estados Unidos · Español · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.3",
   "intro": "Complemento del curso Tu Negocio, Tu Dinero, Tu Futuro (EE. UU.): espacio aparte en Moodle para dudas por tema, alertas de fraude, un foro para presentar tu negocio, logros y una sesión mensual en vivo. Se complementa con un canal de WhatsApp.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -124,7 +124,7 @@
   },
   "carpeta": {
    "nombre": "Comunidad_Tu_Negocio_US_ES",
-   "zip": "Comunidad_Tu_Negocio_US_ES_v1.2",
+   "zip": "Comunidad_Tu_Negocio_US_ES_v1.3",
    "descripciones": [
     "Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
@@ -218,10 +218,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_US_ES",
-  "zip": "Tu_Negocio_US_ES_v1.2",
-  "manual": "Manual_del_programa_TNDF_US_ES_v1.2",
-  "contenido": "Contenido_completo_TNDF_US_ES_v1.2",
-  "guia": "Guia_implementacion_TNDF_US_ES_v1.2",
+  "zip": "Tu_Negocio_US_ES_v1.3",
+  "manual": "Manual_del_programa_TNDF_US_ES_v1.3",
+  "contenido": "Contenido_completo_TNDF_US_ES_v1.3",
+  "guia": "Guia_implementacion_TNDF_US_ES_v1.3",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados (EE. UU.).",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

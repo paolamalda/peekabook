@@ -23,7 +23,7 @@ Todas las personas con algún crédito tienen historial. Estar en Buró no es ma
 | Sí son | Bases de datos con tu historial de crédito. | Lo bueno y lo malo. |
 | No son | Una lista negra de personas castigadas. | No existe tal lista. |
 | No hacen | No prestan dinero ni aprueban o rechazan créditos. | Decide cada institución. |
-| Sí dan | Tu reporte y la posibilidad de reclamar errores. | Gratis una vez al año. |
+| Sí dan | Tu reporte y la posibilidad de reclamar errores. | Sin costo una vez al año. |
 
 #### Solo con tu autorización
 

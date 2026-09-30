@@ -94,10 +94,17 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **Aplazamiento de pagos:** permiso del banco para pagar después sin recargos en una emergencia.
 - **Beneficiario:** persona que recibe el dinero de un seguro o una cuenta si tú faltas.
+- **Escriturar:** pasar legalmente una casa o terreno a tu nombre ante notario.
 - **Fondo de emergencia:** dinero apartado solo para imprevistos.
+- **Herencia:** bienes y derechos que recibe una persona cuando otra fallece.
+- **IMSS-Bienestar:** servicio de salud para personas sin seguridad social.
+- **Lista de sucesión:** lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
 - **Medicamento genérico:** medicina con la misma sustancia que la de marca, que suele costar menos.
 - **Mochila de emergencia:** bolsa con documentos, dinero y artículos básicos para salir rápido.
 - **Póliza:** contrato de un seguro.
+- **Seguro de Salud para la Familia:** seguro voluntario del IMSS que da servicio médico a quien no tiene seguridad social; se paga una cuota al año por persona según su edad.
+- **Testamento:** documento ante notario en el que dices quién recibe tus bienes y quién cuida a tus hijos menores.
+- **Tutor:** persona que cuida a un menor de edad y sus intereses.
 
 ## Tu futuro
 

@@ -450,7 +450,7 @@ Fill in your dashboard with last month's numbers and choose one decision for thi
 
 ### Learn more
 
-- **Free business advice** (SBA · English): https://www.sba.gov | What to look for: "Small Business Development Centers" (SBDC) and SCORE.
+- **No-cost business advice** (SBA · English): https://www.sba.gov | What to look for: "Small Business Development Centers" (SBDC) and SCORE.
 
 ### Key words
 
@@ -634,7 +634,7 @@ Post your order hours and choose your day off.
 
 
 
-#### Free support
+#### No-cost support
 
 The SBA has Small Business Development Centers (SBDCs), Women's Business Centers and SCORE volunteer mentors, with no-cost advice, often in Spanish too. They help you build your plan and find financing, including microloans from community development financial institutions (CDFIs).
 
@@ -661,7 +661,7 @@ Daniela booked a no-cost appointment with an SBDC. With her advisor she filled i
 
 - One page, seven questions.
 - Two minutes, five parts.
-- Free advice; no one charges to "guarantee" a loan.
+- No-cost advice; no one charges to "guarantee" a loan.
 
 
 

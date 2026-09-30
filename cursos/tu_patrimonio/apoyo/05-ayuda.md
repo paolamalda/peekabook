@@ -4,23 +4,23 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
-| Reclamar a un banco, aseguradora o AFORE | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Gratis | Folio de tu reclamación |
-| Verificar una institución | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón y advertencias (CNBV) | Gratis | Nombre legal exacto |
-| Verificar un asesor en inversiones | Registro de Asesores en Inversiones (CNBV) | Gratis | Registro vigente |
-| Verificar una aseguradora o agente | CNSF | Gratis | Cédula del agente |
-| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Evidencia |
-| Extorsión | 089 (denuncia anónima) y 911 | Gratis | Localizar a tu familiar primero |
-| Llamadas de publicidad | REPEP de Profeco (55 5568 8722 u 800 468 8722) y REUS de CONDUSEF | Gratis | Nadie cobra por inscribirte |
+| Reclamar a un banco, aseguradora o AFORE | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Sin costo | Folio de tu reclamación |
+| Verificar una institución | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón y advertencias (CNBV) | Sin costo | Nombre legal exacto |
+| Verificar un asesor en inversiones | Registro de Asesores en Inversiones (CNBV) | Sin costo | Registro vigente |
+| Verificar una aseguradora o agente | CNSF | Sin costo | Cédula del agente |
+| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Sin costo | Evidencia |
+| Extorsión | 089 (denuncia anónima) y 911 | Sin costo | Localizar a tu familiar primero |
+| Llamadas de publicidad | REPEP de Profeco (55 5568 8722 u 800 468 8722) y REUS de CONDUSEF | Sin costo | Nadie cobra por inscribirte |
 | Reporte de crédito y bloqueo | Buró de Crédito y Círculo de Crédito | Un reporte sin costo al año en cada uno | Solo sitios oficiales |
-| Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Gratis | Desvincula las que no son tuyas |
-| Semanas cotizadas, Modalidad 40 y viudez | IMSS | Gratis | Trámites sin gestores |
-| Régimen, jubilación y viudez del gobierno federal | ISSSTE y PENSIONISSSTE; hoja única de servicios en la dependencia | Gratis | Trámites sin gestores |
-| AFORE | CONSAR, e-SAR y AforeMóvil | Gratis | CURP |
-| Pensiones del Bienestar | Programas para el Bienestar | Gratis | Solo módulos oficiales |
-| Dudas con el SAT | SAT y PRODECON | Gratis | Tu contraseña del SAT |
+| Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Sin costo | Desvincula las que no son tuyas |
+| Semanas cotizadas, Modalidad 40 y viudez | IMSS | Sin costo | Trámites sin gestores |
+| Régimen, jubilación y viudez del gobierno federal | ISSSTE y PENSIONISSSTE; hoja única de servicios en la dependencia | Sin costo | Trámites sin gestores |
+| AFORE | CONSAR, e-SAR y AforeMóvil | Sin costo | CURP |
+| Pensiones del Bienestar | Programas para el Bienestar | Sin costo | Solo módulos oficiales |
+| Dudas con el SAT | SAT y PRODECON | Sin costo | Tu contraseña del SAT |
 | Testamento y poderes | Notarías; Mes del Testamento en septiembre | Con costo | Hazlo ante notario |
-| Apoyo emocional | Línea de la Vida: 800 911 2000 | Gratis | Atención 24 horas |
-| Control económico o violencia | Instancia de las mujeres de tu estado, DIF; 911 si hay riesgo | Gratis | Busca apoyo |
+| Apoyo emocional | Línea de la Vida: 800 911 2000 | Sin costo | Atención 24 horas |
+| Control económico o violencia | Instancia de las mujeres de tu estado, DIF; 911 si hay riesgo | Sin costo | Busca apoyo |
 
 ## Guion para pedir información
 

@@ -221,4 +221,9 @@ CASOS = {
  ("Separar dinero, precio y reserva.", "Registrar su marca primero.", "Pedir un crédito para ordenarse."),
  ("Pone fecha fija y actualiza.", "Hace un plan nuevo desde cero.", "Lo deja; ya sabe lo que tiene que hacer."),
 ],
+"M9 U04": [
+ ("Que heredar no paga ISR; solo cuestan los trámites.", "Que conviene vender la tienda antes para que el SAT no se quede con nada.", "Que debe poner todo a nombre de su sobrino desde hoy."),
+ ("Lo acuerdan por escrito y nombran quién accede a las cuentas.", "Lo dejan de palabra porque se tienen mucha confianza.", "Se pasan sus contraseñas por WhatsApp por si algo pasa."),
+ ("Tramita su propio RFC para seguir el negocio.", "Sigue facturando con el RFC de su papá como si nada.", "Deja de facturar y vende todo solo en efectivo."),
+],
 }

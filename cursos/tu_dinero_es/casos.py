@@ -297,4 +297,9 @@ CASOS = {
  ("Ingreso, presupuesto base, retiro y beneficiarios.", "Nada: su plan sigue igual aunque cambie de trabajo.", "Solo su dirección y su número de teléfono nuevo."),
  ("No: la reserva sirvió; ahora la vuelve a juntar.", "Sí: debe empezar un plan nuevo desde cero.", "Sí: si tuvo que usarla, ya no tiene sentido seguir ahorrando."),
 ],
+"M5 U12": [
+ ("Que no paga impuesto federal; solo lo reporta en el Formulario 3520.", "Que conviene no avisarle nada al IRS porque la casa está en México.", "Que conviene vender la casa rápido antes de heredarla."),
+ ("Los nombra como beneficiarios POD y designa a su hija como tutora.", "Deja la cuenta así porque sus nietos la recibirán sin problema.", "Saca todo en efectivo y lo guarda en su casa para sus nietos."),
+ ("Pide información en su consulado y busca un notario registrado.", "Le paga al gestor porque así no tiene que viajar ni hacer nada.", "Le manda al gestor sus documentos por WhatsApp para empezar."),
+],
 }

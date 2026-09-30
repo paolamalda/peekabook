@@ -64,7 +64,7 @@ En cada sección de módulo:
 | M2 | 13 | 52 |
 | M3 | 10 | 40 |
 | M4 | 11 | 44 |
-| M5 | 11 | 44 |
+| M5 | 12 | 48 |
 
 ## 4. Libro de apoyo
 
@@ -78,15 +78,15 @@ En la sección 6, crea el glosario `Palabras clave del curso` e importa `3_glosa
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_v3_es.gift.txt`. Se crean *Tu Dinero v3.3/M1* a *M5*, con 177 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_v3_es.gift.txt`. Se crean *Tu Dinero v3.4/M1* a *M5*, con 180 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Dinero v3.3/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Dinero v3.4/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 |
 |---|---|---|---|---|
-| 42 | 39 | 30 | 33 | 33 |
+| 42 | 39 | 30 | 33 | 36 |
 
-## 7. Actividades H5P (59)
+## 7. Actividades H5P (60)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

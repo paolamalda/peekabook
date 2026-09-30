@@ -1,6 +1,6 @@
 # Tu Turno, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.2 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Desarrolla Talento · 29 de septiembre de 2026
 
 Finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: quincena, cuenta, deudas, tandas, Buró, fraudes, familia y futuro.
 
@@ -133,6 +133,12 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M7 U03 · Seguro de vida, gastos funerarios y beneficiarios**
 
 **M7 U04 · Si llega un desastre: sismo, inundación o incendio** Mochila de documentos, dinero en cuenta, aplazamiento de pagos y fraudes después del desastre.
+
+**M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú** Conocer el Seguro de Salud para la Familia del IMSS, que puedes pagar por tu cuenta para tus papás, tu pareja o tus hijos si no tienen seguridad social, y el IMSS-Bienestar como opción sin costo.
+
+**M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento** Nombrar beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y hacer tu testamento para que tu familia reciba lo tuyo sin juicios largos.
+
+**M7 U07 · Tu casa, tu tierra y lo que se hereda** Poner en orden los papeles de tu casa o terreno (escrituras, tierra ejidal), saber qué pasa si no hay testamento y qué pasa con las deudas y los impuestos al heredar.
 
 **M8 U01 · Ahorro para el retiro por tu cuenta** Aportaciones voluntarias desde 50 pesos.
 

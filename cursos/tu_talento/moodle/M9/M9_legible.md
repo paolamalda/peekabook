@@ -1253,7 +1253,7 @@ Al mes recibía muchas menos llamadas. Una tienda siguió llamando, así que pre
 
 - REPEP para publicidad de bienes y servicios.
 - REUS para publicidad financiera.
-- Gratis; denuncia si siguen llamando.
+- Sin costo; denuncia si siguen llamando.
 
 
 

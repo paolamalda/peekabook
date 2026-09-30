@@ -52,7 +52,7 @@ S references come from the program syllabus; R references were added to develop 
 - **R16** Self-Help. Checking.
 - **R17** Chime. Checking account.
 - **R18** Chime Help. How to open an account.
-- **R19** IRS. Free tax preparation for qualifying taxpayers (VITA and TCE).
+- **R19** IRS. No-cost tax preparation for qualifying taxpayers (VITA and TCE).
 - **R20** ATAX Chula Vista Downtown. Advertised services.
 - **R21** FTC. March 2022 action against a credit repair company.
 - **R22** CFPB. Find a housing counselor.

@@ -944,6 +944,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Tu plan de una página. Mariana aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su computadora. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
 
+### M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia
+
+**WhatsApp**
+
+```
+*M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia*
+Tu sucesión va más allá del testamento: beneficiarios, lista de sucesión si hay tierra ejidal, acuerdos con socios y accesos digitales. Heredar no paga ISR, pero escriturar sí cuesta, y el RFC no se hereda.
+
+• Beneficiarios, testamento y lista de sucesión.
+• Socios y lo digital por escrito.
+• Heredar no paga ISR; el RFC no se hereda.
+
+Tu paso de esta semana: Llena tu carpeta de sucesión del negocio y agenda tu testamento.
+
+Lección: [por definir]
+```
+
+**Audio** (145 palabras, unos 60 segundos)
+
+Hola. Hoy hablamos de esto: Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia. Don Pepe tiene su tienda, su casa y una parcela ejidal en su pueblo. Su sobrino le dice que si él falta «el SAT se queda con 30%» y que la tienda pasa sola a sus hijos. En esta lección verás qué es cierto y qué preparar. Tu sucesión va más allá del testamento: beneficiarios, lista de sucesión si hay tierra ejidal, acuerdos con socios y accesos digitales. Heredar no paga ISR, pero escriturar sí cuesta, y el RFC no se hereda. Recuerda: Beneficiarios, testamento y lista de sucesión. Socios y lo digital por escrito. Heredar no paga ISR; el RFC no se hereda. Tu paso de esta semana: Llena tu carpeta de sucesión del negocio y agenda tu testamento. Nos escuchamos en la próxima lección.
+
 ## Recordatorios mensuales del compromiso
 
 Se envían una vez al mes, el mismo día, con el nombre de la meta que cada persona eligió en su plan de una página. La evidencia muestra que los recordatorios mensuales con la meta ayudan a ahorrar más; un recordatorio extra después de un atraso no ayudó. Si el canal es de difusión, usa la versión general («tu meta»). Incluye siempre: «Responde BAJA para dejar de recibir mensajes».

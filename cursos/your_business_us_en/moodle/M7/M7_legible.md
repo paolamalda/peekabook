@@ -625,10 +625,10 @@ Identity theft happens when someone uses your SSN or ITIN, your name or your doc
 
 | Type | Description | What it means for you |
 |---|---|---|
-| Credit freeze | Nobody opens new credit in your name. | Free at all 3 bureaus. |
+| Credit freeze | Nobody opens new credit in your name. | At no cost at all 3 bureaus. |
 | Fraud alert | Lenders must verify it's you. | Lasts one year. |
-| Your credit reports | Free every week at AnnualCreditReport.com. | Check what you don't recognize. |
-| IRS IP PIN | Nobody files with your number (M5 U04). | Free. |
+| Your credit reports | At no cost every week at AnnualCreditReport.com. | Check what you don't recognize. |
+| IRS IP PIN | Nobody files with your number (M5 U04). | At no cost. |
 
 > **Current fact:** freezing and unfreezing your credit costs nothing at Equifax, Experian and TransUnion (you must ask all three); an initial fraud alert costs nothing, lasts one year and you only need to ask one bureau; and you can see your reports no-cost every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
 
@@ -660,7 +660,7 @@ Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft
 #### Remember
 
 - Freeze at all 3 bureaus.
-- Free weekly reports.
+- No-cost weekly reports.
 - donotcall.gov costs nothing.
 
 
@@ -755,7 +755,7 @@ This week freeze your credit at all three bureaus, check your reports and regist
 
 - **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov.
 - **Credit freezes and fraud alerts** (FTC · English): https://consumer.ftc.gov | What to look for: "credit freeze".
-- **Free credit reports** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
+- **No-cost credit reports** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
 - **Do Not Call Registry** (FTC · English and Spanish): https://www.donotcall.gov.
 
 ### Key words

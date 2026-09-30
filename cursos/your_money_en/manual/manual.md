@@ -1,6 +1,6 @@
 # Your Money, Your Family, Your Future
 
-Program manual · Version 3.3 · Desarrolla Talento · September 30, 2026
+Program manual · Version 3.4 · Desarrolla Talento · September 30, 2026
 
 Financial well-being program for Latino immigrants in California: money, remittances, credit, protection and future.
 
@@ -33,7 +33,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 This manual is for the team that runs the program: coordination, facilitation, assessment, support and data. Participants do not need to read it. It contains the program profile, the editorial guide, assessment with answer keys, metrics, the comparison matrix, state expansion, and program records.
 
-Version 3.0 · September 2026 · Matches course v3.2 in Moodle and its full content (Spanish and English editions).
+Version 3.0 · September 2026 · Matches course v3.4 in Moodle and its full content (Spanish and English editions).
 
 [[TOC]]
 
@@ -47,7 +47,7 @@ Version 3.0 · September 2026 · Matches course v3.2 in Moodle and its full cont
 | Public name | Your Money, Your Family, Your Future / Tu Dinero, Tu Familia, Tu Futuro |
 | Format | 100% online, self-paced, with question support and optional live sessions |
 | Platform | Moodle 3.10 with lesson books, H5P activities, self-assessments, Level Up, badges and Custom certificate |
-| Cost to participants | Free: content, assessments, retries, support, companion tool and certificate |
+| Cost to participants | At no cost: content, assessments, retries, support, companion tool and certificate |
 | Audience | Immigrant adults in the U.S., with an SSN, an ITIN or neither; wage earners, self-employed, platform workers or mixed income; with dependents and ties to Mexico or other countries |
 | Geographic coverage | Federal core and state module. Pilot in California; then Texas, Illinois, New York and Florida |
 | Estimated duration | About 13 hours on the platform (5 to 10 minute lessons, activities and self-assessments), plus time for the integrative cases and the plan; to be adjusted with pilot data |
@@ -532,4 +532,5 @@ Every lesson has an explanation, practice with feedback and an action for the pl
 | M5 U09 | What do I do if my job or my family changes? | Recalculate your plan when your income or responsibilities change. | M5 U09 H5P, quiz and practice; plan action; integrative case E5 |
 | M5 U10 | How do I start a business if I have an ITIN? | Learn the first steps to formalize a small business and separate your personal finances from the business's. | M5 U10 H5P, quiz and practice; plan action; integrative case E5 |
 | M5 U11 | How do I know all the parts of my plan fit together? | Bring the five modules together into one plan with review dates and alternatives. | M5 U11 H5P, quiz and practice; plan action; integrative case E5 |
+| M5 U12 | What happens if I inherit or leave something across two countries? | Pass your accounts and home without court in the U.S., know the taxes when inheriting here and in Mexico, and report foreign inheritances on Form 3520. | M5 U12 H5P, quiz and practice; plan action; integrative case E5 |
 

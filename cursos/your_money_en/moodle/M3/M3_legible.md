@@ -431,7 +431,7 @@ Write down the date of your review, what you found, your proof and the next revi
 
 ### Learn more
 
-- **Free credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com — **What to look for:** "Request your no-cost credit reports" to get all three; if you use an ITIN, the mail option.
+- **No-cost credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com — **What to look for:** "Request your no-cost credit reports" to get all three; if you use an ITIN, the mail option.
 - **How to dispute errors** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ — **What to look for:** the sample letters to dispute an error with the agency and with the creditor.
 
 ### Key words
@@ -2194,7 +2194,7 @@ Turn in your Module 3 file: chosen path, a sample report with notes, a compariso
 
 ### Learn more
 
-- **Free credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com — **What to look for:** request your three reports and write down the date for your next review.
+- **No-cost credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com — **What to look for:** request your three reports and write down the date for your next review.
 - **Credit reports and scores** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ — **What to look for:** the list of steps to build and protect your credit.
 
 ### Key words

@@ -1329,7 +1329,7 @@ A big package may be cheaper per piece, but a worse choice if it goes bad or lea
 
 Before you accept a promotion, ask yourself two things: would I buy it without the discount? Are there charges or automatic renewals afterward?
 
-"Free trials" usually ask for your card and charge you automatically when they end. Write down the date so you can cancel before.
+"No-cost trials" usually ask for your card and charge you automatically when they end. Write down the date so you can cancel before.
 
 > **Good to know:** in California, companies that automatically renew subscriptions must let you cancel online if you signed up online. If they don't, you can file a complaint with the [California Attorney General](https://oag.ca.gov/consumers).
 
@@ -2154,7 +2154,7 @@ Write down the tax year, your documents, the dates you checked and your unanswer
 
 - **IRS: Filing** (IRS · English and Spanish): https://www.irs.gov/filing — **What to look for:** who has to file and this year's deadline.
 - **How to apply for an ITIN** (IRS · English and Spanish): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin — **What to look for:** the list of accepted documents and the section on when an ITIN expires and how to renew it.
-- **Free tax help in California** (FTB · English): https://www.ftb.ca.gov/help/free-tax-help/index.html — **What to look for:** the no-cost filing options and the finder for nearby locations.
+- **No-cost tax help in California** (FTB · English): https://www.ftb.ca.gov/help/free-tax-help/index.html — **What to look for:** the no-cost filing options and the finder for nearby locations.
 
 ### Key words
 
@@ -2433,7 +2433,7 @@ It also creates a record that you meet your tax obligations every year.
 
 
 
-#### Free help to file
+#### No-cost help to file
 
 **VITA** is an IRS program with certified volunteers. It helps people with incomes under a limit that is published every year, at no cost.
 
@@ -2617,7 +2617,7 @@ Find the nearest VITA site and write down its hours, its languages and the docum
 - **CalEITC** (FTB · English and Spanish): https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html — **What to look for:** this year's income limits table and the calculator to see if you qualify.
 - **Young Child Tax Credit** (FTB · English): https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit.html — **What to look for:** the child's age requirements and how much the credit can be.
 - **Acceptance Agent finder** (IRS · English): https://www.irs.gov/tin/itin/itin-acceptance-agents — **What to look for:** filter by California and your city to find a nearby agent.
-- **Free tax return preparation (VITA)** (IRS · English and Spanish): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers — **What to look for:** the site locator by ZIP code and what documents to bring.
+- **No-cost tax return preparation (VITA)** (IRS · English and Spanish): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers — **What to look for:** the site locator by ZIP code and what documents to bring.
 
 ### Key words
 
@@ -2853,7 +2853,7 @@ Compare two services and one no-cost option. Write down what you confirmed and w
 
 - **Verify a registered preparer** (CTEC · English): https://www.ctec.org — **What to look for:** "Verify a Preparer"; type the preparer's name to confirm their registration is current.
 - **IRS directory of preparers** (IRS · English): https://irs.treasury.gov/rpo/rpo.jsf — **What to look for:** search by ZIP code to find CPAs and enrolled agents (EAs) with verified credentials.
-- **Free tax return preparation (VITA)** (IRS · English and Spanish): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers — **What to look for:** the site locator by ZIP code.
+- **No-cost tax return preparation (VITA)** (IRS · English and Spanish): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers — **What to look for:** the site locator by ZIP code.
 
 ### Key words
 

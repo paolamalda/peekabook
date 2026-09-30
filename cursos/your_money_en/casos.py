@@ -296,4 +296,9 @@ CASOS = {
  ("Income, base budget, retirement and beneficiaries.", "Nothing: his plan stays the same even if he changes jobs.", "Only his new address and phone number."),
  ("No: the reserve did its job; now she rebuilds it.", "Yes: she must start a new plan from scratch.", "Yes: if she had to use it, saving no longer makes sense."),
 ],
+"M5 U12": [
+ ("That he pays no federal tax; he only reports it on Form 3520.", "That it's better not to tell the IRS anything since the house is in Mexico.", "That it's better to sell the house quickly before he inherits it."),
+ ("She names them as POD beneficiaries and her daughter as guardian.", "She leaves the account as is because her grandchildren will get it anyway.", "She withdraws everything in cash and keeps it at home for them."),
+ ("She asks her consulate and looks for a registered notary.", "She pays the gestor so she doesn't have to travel or do anything.", "She sends the gestor her documents over WhatsApp to get started."),
+],
 }

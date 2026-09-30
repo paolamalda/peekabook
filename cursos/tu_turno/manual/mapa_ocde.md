@@ -12,19 +12,19 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M1 U02, M1 U03, M7 U01 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M4 U02, M2 U05, M2 U06, M8 U01, M1 U04, M4 U03 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M2 U06, M7 U04 |
-| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M7 U01, M8 U03, M2 U06 |
-| OCDE adultos (2016) | B6 Retiro | 13 | M8 U01, M8 U03, M2 U01 |
+| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M7 U06, M7 U01, M8 U03, M7 U07, M2 U06 |
+| OCDE adultos (2016) | B6 Retiro | 13 | M8 U01, M7 U06, M8 U03, M2 U01 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M5 U04, M3 U02, M6 U05, M5 U01, M5 U02, M3 U03 |
-| OCDE adultos (2016) | B8 Deudas | 15 | M3 U04, M3 U01, M2 U05, M4 U01, M8 U03, M3 U05 |
+| OCDE adultos (2016) | B8 Deudas | 15 | M3 U04, M3 U01, M2 U05, M4 U01, M7 U07, M8 U03 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M7 U04, M2 U06, M4 U01, M3 U05, M7 U01 |
-| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M7 U03, M7 U01, M2 U06, M7 U04 |
+| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M7 U05, M7 U03, M7 U01, M2 U06, M7 U06, M7 U04 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M2 U06 |
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U03, M5 U02, M6 U04, M6 U05, M2 U04, M3 U03 |
-| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M3 U04 |
+| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M3 U04, M7 U07 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M2 U04, M4 U03 |
-| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U01, M4 U02, M2 U03, M6 U01, M8 U01, M7 U04 |
+| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U01, M4 U02, M7 U06, M2 U03, M6 U01, M8 U01 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M6 U02, M6 U03, M6 U06, M6 U04, M7 U04, M6 U05 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M6 U05, M1 U01, M1 U03 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M7 U07, M6 U05, M1 U01, M1 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M2 U04 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M2 U05, M2 U06 |
 | IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M2 U06, M3 U02, M2 U01, M1 U06, M7 U01, M1 U05 |
@@ -284,7 +284,7 @@ Temas cubiertos: 29 de 29.
 
 ## B5 · Planear a largo plazo y construir patrimonio
 
-**Lecciones:** M7 U01 Tu fondo de emergencia, de poco a poco; M8 U03 Tu plan de una página; M2 U06 Tu dinero a trabajar: primeros pasos para invertir
+**Lecciones:** M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M7 U01 Tu fondo de emergencia, de poco a poco; M8 U03 Tu plan de una página; M7 U07 Tu casa, tu tierra y lo que se hereda; M2 U06 Tu dinero a trabajar: primeros pasos para invertir
 
 *Conocimiento*
 
@@ -309,7 +309,7 @@ Temas cubiertos: 29 de 29.
 
 ## B6 · Retiro
 
-**Lecciones:** M8 U01 Ahorro para el retiro por tu cuenta; M8 U03 Tu plan de una página; M2 U01 Una cuenta sin comisiones
+**Lecciones:** M8 U01 Ahorro para el retiro por tu cuenta; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M8 U03 Tu plan de una página; M2 U01 Una cuenta sin comisiones
 
 *Conocimiento*
 
@@ -381,7 +381,7 @@ Temas cubiertos: 29 de 29.
 
 ## B8 · Deudas
 
-**Lecciones:** M3 U04 Tu plan para salir de deudas; M3 U01 ¿Cuánto debes en total?; M2 U05 El dinero pierde valor: inflación e interés compuesto; M4 U01 Tandas: cómo funcionan y qué puede salir mal; M8 U03 Tu plan de una página; M3 U05 Apuestas en línea: cuando el juego se vuelve deuda
+**Lecciones:** M3 U04 Tu plan para salir de deudas; M3 U01 ¿Cuánto debes en total?; M2 U05 El dinero pierde valor: inflación e interés compuesto; M4 U01 Tandas: cómo funcionan y qué puede salir mal; M7 U07 Tu casa, tu tierra y lo que se hereda; M8 U03 Tu plan de una página
 
 *Conocimiento*
 
@@ -437,7 +437,7 @@ Temas cubiertos: 29 de 29.
 
 ## C2 · Redes de protección y seguros
 
-**Lecciones:** M7 U03 Seguro de vida, gastos funerarios y beneficiarios; M7 U01 Tu fondo de emergencia, de poco a poco; M2 U06 Tu dinero a trabajar: primeros pasos para invertir; M7 U04 Si llega un desastre: sismo, inundación o incendio
+**Lecciones:** M7 U05 Salud para tu familia: el seguro del IMSS que pagas tú; M7 U03 Seguro de vida, gastos funerarios y beneficiarios; M7 U01 Tu fondo de emergencia, de poco a poco; M2 U06 Tu dinero a trabajar: primeros pasos para invertir; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M7 U04 Si llega un desastre: sismo, inundación o incendio
 
 *Conocimiento*
 
@@ -506,7 +506,7 @@ Temas cubiertos: 29 de 29.
 
 ## D2 · Derechos y obligaciones
 
-**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U04 Tu plan para salir de deudas
+**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U04 Tu plan para salir de deudas; M7 U07 Tu casa, tu tierra y lo que se hereda
 
 *Conocimiento*
 
@@ -553,7 +553,7 @@ Temas cubiertos: 29 de 29.
 
 ## D4 · Productos y servicios financieros
 
-**Lecciones:** M2 U01 Una cuenta sin comisiones; M4 U02 Tu tanda con reglas o tu propio ahorro; M2 U03 Quién te protege y dónde reclamar; M6 U01 Llamadas y mensajes falsos; M8 U01 Ahorro para el retiro por tu cuenta; M7 U04 Si llega un desastre: sismo, inundación o incendio
+**Lecciones:** M2 U01 Una cuenta sin comisiones; M4 U02 Tu tanda con reglas o tu propio ahorro; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M2 U03 Quién te protege y dónde reclamar; M6 U01 Llamadas y mensajes falsos; M8 U01 Ahorro para el retiro por tu cuenta
 
 *Conocimiento*
 
@@ -606,7 +606,7 @@ Temas cubiertos: 29 de 29.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M6 U05 Tu identidad y que dejen de llamarte; M1 U01 ¿Cuánto entra de verdad?; M1 U03 Los gastos del turno que no ves
+**Lecciones:** M7 U07 Tu casa, tu tierra y lo que se hereda; M6 U05 Tu identidad y que dejen de llamarte; M1 U01 ¿Cuánto entra de verdad?; M1 U03 Los gastos del turno que no ves
 
 *Conocimiento*
 

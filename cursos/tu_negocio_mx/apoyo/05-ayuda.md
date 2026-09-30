@@ -4,23 +4,23 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
-| RFC, e.firma, RESICO, facturas y declaraciones | SAT: sat.gob.mx, citas y MarcaSAT 55 627 22 728 | Gratis | Entra tú al sitio oficial |
-| Problemas o dudas con el SAT | PRODECON: orientación, quejas y defensa | Gratis | Lleva tus acuses |
+| RFC, e.firma, RESICO, facturas y declaraciones | SAT: sat.gob.mx, citas y MarcaSAT 55 627 22 728 | Sin costo | Entra tú al sitio oficial |
+| Problemas o dudas con el SAT | PRODECON: orientación, quejas y defensa | Sin costo | Lleva tus acuses |
 | Seguridad social como independiente | IMSS: personas trabajadoras independientes (Modalidad 10) | Cuota según ingreso | Calculadora oficial |
-| Registrar trabajadores | IMSS: registro patronal | Gratis el trámite | Guías para patrones |
-| Verificar a quien presta o asegura | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón (CNBV); CNSF | Gratis | Nombre legal exacto |
-| Reclamar a un banco o terminal | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Gratis | Folio de tu reclamación |
-| Comprobar una transferencia | CEP en banxico.org.mx/cep | Gratis | Clave de rastreo |
+| Registrar trabajadores | IMSS: registro patronal | Sin costo el trámite | Guías para patrones |
+| Verificar a quien presta o asegura | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón (CNBV); CNSF | Sin costo | Nombre legal exacto |
+| Reclamar a un banco o terminal | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Sin costo | Folio de tu reclamación |
+| Comprobar una transferencia | CEP en banxico.org.mx/cep | Sin costo | Clave de rastreo |
 | Registrar tu marca | IMPI y MarcaNET | Con costo por clase | Solo canales oficiales |
-| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Guarda evidencia |
-| Extorsión o cobro de piso | 089 (denuncia anónima) y 911 | Gratis | No negocies |
-| Derechos de tus clientes | Profeco | Gratis | Exhibición de precios |
-| Llamadas de publicidad | REPEP de Profeco y REUS de la CONDUSEF | Gratis | Nadie cobra por inscribirte |
-| Seguro de vida y previsión funeraria | CNSF (aseguradoras) y Profeco (contratos funerarios) | Gratis consultar | Contrato registrado |
-| Apuestas o estrés que se salen de control | Línea de la Vida (800 911 2000) y Centros de Integración Juvenil | Gratis | Atención 24 horas |
-| Desastres | Protección Civil y módulos oficiales de apoyo | Gratis | Nadie cobra por anotarte |
-| Créditos o líneas a tu nombre | Buró y Círculo de Crédito; portal.crt.gob.mx; CONDUSEF; denuncia | Gratis | Folios y copia de la denuncia |
-| Localizar tu AFORE | e-SAR con tu CURP; CONSAR | Gratis | CURP |
+| Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Sin costo | Guarda evidencia |
+| Extorsión o cobro de piso | 089 (denuncia anónima) y 911 | Sin costo | No negocies |
+| Derechos de tus clientes | Profeco | Sin costo | Exhibición de precios |
+| Llamadas de publicidad | REPEP de Profeco y REUS de la CONDUSEF | Sin costo | Nadie cobra por inscribirte |
+| Seguro de vida y previsión funeraria | CNSF (aseguradoras) y Profeco (contratos funerarios) | Sin costo consultar | Contrato registrado |
+| Apuestas o estrés que se salen de control | Línea de la Vida (800 911 2000) y Centros de Integración Juvenil | Sin costo | Atención 24 horas |
+| Desastres | Protección Civil y módulos oficiales de apoyo | Sin costo | Nadie cobra por anotarte |
+| Créditos o líneas a tu nombre | Buró y Círculo de Crédito; portal.crt.gob.mx; CONDUSEF; denuncia | Sin costo | Folios y copia de la denuncia |
+| Localizar tu AFORE | e-SAR con tu CURP; CONSAR | Sin costo | CURP |
 | Permisos del negocio | Tu alcaldía o municipio; Protección Civil; salud estatal | Variable | Pregunta en ventanilla oficial |
 
 ## Guion para pedir información

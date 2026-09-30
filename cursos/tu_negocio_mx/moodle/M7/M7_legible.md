@@ -70,6 +70,12 @@ La 10 es para quien trabaja por su cuenta hoy y da servicio médico. La 40 es pa
 
 
 
+#### Para tu familia: Seguro de Salud para la Familia
+
+Si tu pareja, tus hijos o tus papás no tienen seguridad social, el IMSS tiene el Seguro de Salud para la Familia: solo servicio médico, con una cuota al año por persona según su edad (en 2026, de 9,300 para menores de 20 a 21,300 para mayores de 80; por ejemplo, 13,800 de 40 a 49 años). Tiene periodos de espera y algunas enfermedades previas no se cubren al inicio: pregunta antes de pagar.
+
+
+
 #### Gestores
 
 La inscripción se hace en el sitio del IMSS. Desconfía de quien cobra por «darte de alta» o te ofrece cotizar a través de empresas que no conoces.
@@ -629,7 +635,7 @@ Si trabajas por tu cuenta, tu INE, tu CURP, tu RFC y tu e.firma **son** los dato
 
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
-| Reporte de crédito | Gratis una vez al año en Buró y en Círculo. | Revisa créditos que no pediste. |
+| Reporte de crédito | Sin costo una vez al año en Buró y en Círculo. | Revisa créditos que no pediste. |
 | Bloqueo en Buró | Nadie consulta tu historial sin ti. | Frena créditos a tu nombre. |
 | Verificación en dos pasos | En WhatsApp, redes y correo del negocio. | Evita el robo de cuentas. |
 | Facturas a tu nombre | Revísalas en el portal del SAT. | Detecta facturas falsas. |
@@ -721,7 +727,7 @@ A Don Pepe le llaman diario de bancos para ofrecerle créditos para la tienda.
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Compartir códigos | Te roban la cuenta | Nunca |
-| No revisar tu reporte | Te enteras tarde | Gratis cada año |
+| No revisar tu reporte | Te enteras tarde | Sin costo cada año |
 | Ignorar facturas a tu nombre | Problemas con el SAT | Revisa el portal |
 | Pagar por inscribirte | Fraude | REPEP y REUS no tienen costo |
 

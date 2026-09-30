@@ -214,7 +214,7 @@ TEMAS = [
  ("H", "Se informa sobre productos nuevos que se ofrecen cerca"),
 ]),
 ("D", "Panorama financiero", "J-D2", "Educación, información y asesoría", [
- ("C", "Sabe que mejorar su educación financiera le ayuda a decidir mejor"),
+ ("C", "Sabe que seguir aprendiendo sobre su dinero le ayuda a decidir mejor"),
  ("C", "Sabe dónde encontrar consejo sencillo y confiable, incluidas fuentes de gobierno"),
  ("C", "Distingue información imparcial de publicidad"),
  ("C", "Sabe que hay calculadoras y comparadores y que hay que ver si son imparciales"),
@@ -227,7 +227,7 @@ TEMAS = [
 ("D", "Panorama financiero", "J-D4", "Instituciones financieras", [
  ("C", "Sabe que varias instituciones ofrecen productos parecidos y conviene comparar"),
  ("C", "Sabe que las instituciones formales están reguladas"),
- ("C", "Entiende que un producto «gratis» también le deja ganancia a la institución"),
+ ("C", "Entiende que un producto «sin costo» también le deja ganancia a la institución"),
  ("C", "Sabe comparar con herramientas"),
  ("C", "Sabe que algunas instituciones deben ofrecer cuentas básicas"),
  ("C", "Sabe que algunas empresas no financieras que ofrecen servicios no están reguladas igual"),

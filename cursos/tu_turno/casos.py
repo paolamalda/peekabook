@@ -185,4 +185,19 @@ CASOS = {
  ("Lo revisa cada día de pago.", "Lo guarda y lo revisa en diciembre.", "Lo tira porque ya lo hizo."),
  ("No lo anota: no lleva datos sensibles.", "Lo anota para no olvidarlo.", "Anota solo la mitad del NIP."),
 ],
+"M7 U05": [
+ ("Compara el seguro familiar con lo que gasta y pregunta qué cubre.", "Sigue pagando consultas privadas porque así ha sido siempre.", "Pide un préstamo cada vez que su mamá necesita ir al médico."),
+ ("La lleva al centro de salud con su CURP o revisa la cuota del seguro.", "Espera a que se ponga grave para llevarla a un hospital privado.", "Le da medicinas que le recomiendan en la farmacia de la esquina."),
+ ("No paga: el trámite se hace directo en el IMSS.", "Paga los 3,000 para que su papá tenga IMSS más rápido.", "Paga la mitad ahora y la otra mitad cuando ya esté inscrito."),
+],
+"M7 U06": [
+ ("Los nombra en su banco con nombres completos.", "Lo deja así porque cree que su familia recibirá todo sola.", "Le dice de palabra a su hijo mayor que la cuenta es para él."),
+ ("Hace su testamento y nombra a su pareja como beneficiaria.", "Lo deja así porque viven juntos desde hace muchos años.", "Pone todo a nombre de su pareja desde ahora sin testamento."),
+ ("Nombra en su testamento a quien la cuidaría.", "Lo deja al azar porque no le gusta pensar en eso.", "Le dice de palabra a una vecina que cuide a su hija."),
+],
+"M7 U07": [
+ ("Pregunta en una notaría el trámite y cuánto cuesta escriturar.", "La deja a nombre de su papá porque ahí viven desde siempre.", "La vende sin papeles a un vecino para no hacer trámites."),
+ ("Que heredar no paga ISR; solo cuestan los gastos de escriturar.", "Que de verdad hay que pagar 30% y mejor no escriturar.", "Que conviene no decirle nada al SAT para no pagar."),
+ ("Revisa si firmó como aval; si no, no paga con su dinero.", "Paga la tarjeta de su papá para que ya no le llamen.", "Paga la mitad para que el despacho la deje en paz."),
+],
 }

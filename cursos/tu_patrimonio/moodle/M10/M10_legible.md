@@ -180,7 +180,7 @@ Un beneficiario recibe el dinero de una cuenta, un seguro o tu AFORE cuando falt
 |---|---|---|
 | Cuentas bancarias | En el contrato o la app. | Con porcentajes. |
 | Seguros de vida | En la póliza. | Actualízalos. |
-| AFORE | En tu AFORE o AforeMóvil. | Gratis. |
+| AFORE | En tu AFORE o AforeMóvil. | Sin costo. |
 | Inversiones | En el contrato. | Pregunta en tu institución. |
 
 #### Tiene límites
@@ -936,5 +936,307 @@ Busca tu escritura, tu último recibo de predial y el seguro de tu crédito, y g
 ### Fuentes
 
 Infonavit · Fovissste · Colegio Nacional del Notariado Mexicano, consultados el 29 de septiembre de 2026.
+
+---
+
+## M10 U07. Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio
+
+**Lo que lograrás:** Saber qué pasa si alguien fallece sin testamento, cómo se hereda en unión libre y la tierra ejidal, y qué hacer para evitar pleitos.
+
+**Para empezar:** El hermano de Lucía murió sin testamento. Vivía en unión libre desde hacía 15 años, tenía una parcela ejidal en su pueblo y una casa en Guadalajara. Su pareja, sus hijos y sus hermanos no se ponen de acuerdo. En esta lección verás cómo funciona.
+
+### Lo esencial (5 minutos)
+
+#### Cuando no hay testamento
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Trámite sucesorio | Juicio o ante notario si hay acuerdo. | Tarda y cuesta. |
+| La ley decide | Hijos, pareja, padres, hermanos, en ese orden. | Puede no ser lo que querías. |
+| Unión libre | Hereda si cumple lo que pide la ley del estado. | Tiempo o hijos en común. |
+| Tierra ejidal | Con la lista de sucesión del ejidatario. | En el RAN. |
+
+#### Ante notario, si hay acuerdo
+
+Si toda la familia está de acuerdo y no hay menores de edad en conflicto, muchas veces el trámite se hace ante notario, más rápido que un juicio. Si no hay acuerdo, se va a juicio.
+
+
+
+#### La parcela ejidal
+
+Los derechos ejidales se heredan con la lista de sucesión depositada en el Registro Agrario Nacional o ante notario. Si no hay lista, la Ley Agraria pone el orden: pareja, luego hijos, luego otros.
+
+
+
+#### Un caso en un minuto
+
+La familia del hermano de Lucía pidió asesoría: la pareja pudo demostrar los años de vida en común, la parcela tenía lista de sucesión a nombre de su hijo mayor y la casa se tramitó ante notario porque todos se pusieron de acuerdo. Lucía hizo su testamento ese mismo septiembre.
+
+> **Idea clave:** sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pasa si alguien fallece sin testamento?
+*Respuesta:* Hay un trámite sucesorio y la ley decide quién hereda.
+
+2. ¿Cómo se hereda la tierra ejidal?
+*Respuesta:* Con la lista de sucesión del ejidatario.
+
+
+#### Para recordar
+
+- Sin testamento, decide la ley.
+- Unión libre: requisitos del estado.
+- Tierra ejidal: lista de sucesión.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Qué revisar hoy
+
+| Bien | Qué evita pleitos |
+|---|---|
+| Casa con escrituras | Testamento |
+| Casa sin escrituras | Regularizar primero (M10 U06) |
+| Parcela ejidal | Lista de sucesión en el RAN |
+| Cuentas, Afore y seguros | Beneficiarios (M10 U02) |
+
+
+
+#### Si vives en unión libre
+
+Según el estado, la pareja en unión libre puede heredar si vivieron juntos cierto tiempo o tienen hijos en común. Un testamento y los beneficiarios lo dejan claro sin tener que probarlo.
+
+
+
+#### Casos
+
+
+**Caso 1. La familia del hermano de Lucía**
+
+La pareja, los hijos y los hermanos no se ponen de acuerdo.
+- *¿Qué hacen?* Piden asesoría y, si llegan a un acuerdo, hacen el trámite ante notario.
+
+
+**Caso 2. La parcela de los papás de Maru**
+
+Los papás de Maru tienen una parcela ejidal y nadie sabe si hay lista de sucesión.
+- *¿Qué hace?* Pregunta en el Registro Agrario Nacional y, si no hay, les propone registrarla.
+
+
+**Caso 3. La pareja de Elena**
+
+Elena vive en unión libre desde hace 4 años.
+- *¿Qué hace?* Hace su testamento y nombra beneficiarios para dejarlo claro.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que «todo es de la pareja» sin papeles | Pleitos | Testamento |
+| Parcela sin lista | La ley decide | Regístrala |
+| Esperar a que pase algo | Juicio largo | Hazlo hoy |
+| No buscar acuerdo | Juicio caro | Notario si hay acuerdo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Maru y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué pasa si una persona fallece sin testamento? a) La ley decide quién hereda · b) El gobierno se queda con todo · c) Nadie hereda
+2. ¿Con qué se heredan los derechos ejidales? a) Con un recibo de predial · b) Con una carta a mano · c) Con la lista de sucesión
+3. Toda la familia está de acuerdo. ¿Dónde puede hacerse el trámite? a) En el banco · b) Ante notario · c) En el SAT
+**Respuestas:** 1-a: hay un orden legal. 2-c: se registra en el RAN. 3-b: más rápido que un juicio.
+
+
+
+#### Ponlo en práctica
+
+Un trámite sucesorio ante notario cuesta 18,000 y un juicio 45,000. ¿Cuánto ahorra la familia si se pone de acuerdo?
+**Respuesta:** 45,000 menos 18,000: 27,000.
+
+
+
+#### A tu plan
+
+Revisa si tus papás o tú tienen tierra ejidal y si hay lista de sucesión.
+
+
+
+### Para saber más
+
+- **Lista de sucesión** (Registro Agrario Nacional · español): https://www.gob.mx/ran — **Qué buscar:** «lista de sucesión».
+- **Mes del Testamento** (Secretaría de Gobernación · español): https://www.gob.mx — **Qué buscar:** «Mes del Testamento».
+
+### Palabras clave
+
+- *Trámite sucesorio:* proceso para repartir los bienes de quien falleció.
+- *Lista de sucesión:* lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
+- *Unión libre:* pareja que vive junta sin estar casada.
+
+### Fuentes
+
+Ley Agraria (artículos 17 y 18) · Registro Agrario Nacional · Secretaría de Gobernación, consultados el 30 de septiembre de 2026.
+
+---
+
+## M10 U08. Heredar o dar en vida: impuestos, costos y riesgos
+
+**Lo que lograrás:** Entender qué impuestos hay (y cuáles no) al heredar, cuánto cuesta pasar una casa a tu nombre, y los riesgos y costos de dar en vida con donación, venta o usufructo.
+
+**Para empezar:** Carmen quiere dejarle la casa a su hija. Una amiga le dice: «Mejor véndesela en vida por un peso, así no paga impuestos». Otra le dice que la done. Y su hija cree que heredar paga 30%. En esta lección verás qué conviene.
+
+### Lo esencial (5 minutos)
+
+#### Lo que es cierto
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Heredar no paga ISR | Está exento. | Si pasa de 500,000, se informa en la declaración. |
+| Escriturar sí cuesta | Impuesto estatal, notario y registro. | Varía por estado. |
+| Donar entre padres e hijos | Exento de ISR. | Pero cuesta escriturar. |
+| «Vender por un peso» | Puede generar impuestos y riesgos. | Pregunta antes. |
+
+> **Dato vigente:** las herencias y los donativos entre cónyuges y entre padres e hijos están exentos de ISR (Ley del ISR, artículo 93, fracciones XXII y XXIII); quien presenta declaración anual debe informarlos si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
+
+#### Dar en vida: pros y riesgos
+
+Donar o vender en vida adelanta el trámite, pero **ya no es tuya**: si hay un conflicto, puedes quedarte sin casa. El usufructo vitalicio permite donar la propiedad y quedarte a vivir en ella de por vida. Una venta simulada puede generar ISR y problemas.
+
+
+
+#### Si después se vende lo heredado
+
+Si tu hija vende la casa heredada, puede pagar ISR sobre la ganancia; se calcula con lo que pagaste tú y la fecha en que la compraste. Si ella vive ahí, puede aplicar la exención por casa habitación, con límites.
+
+
+
+#### Un caso en un minuto
+
+Carmen preguntó en una notaría. Decidió hacer su testamento dejándole la casa a su hija y nombrarla beneficiaria de sus cuentas. No la vendió «por un peso» ni la donó: así sigue siendo suya mientras viva.
+
+> **Idea clave:** heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Se paga ISR por heredar una casa?
+*Respuesta:* No, está exento.
+
+2. ¿Qué riesgo tiene donar en vida?
+*Respuesta:* La casa ya no es tuya.
+
+
+#### Para recordar
+
+- Heredar y donar a hijos: sin ISR.
+- Escriturar cuesta.
+- Dar en vida: ya no es tuya.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Heredar, donar o vender
+
+| Opción | ISR para quien recibe | Riesgo para ti |
+|---|---|---|
+| Testamento | No | Ninguno mientras vivas |
+| Donación a hijos | No | Ya no es tuya |
+| Donación con usufructo | No | Menor: vives ahí de por vida |
+| Venta «por un peso» | Puede haber | Alto: problemas fiscales y legales |
+
+
+
+#### Si tus hijos viven en Estados Unidos
+
+Si heredan o reciben una donación del extranjero por más de 100,000 dólares, allá deben avisar al IRS con un formulario informativo, aunque no paguen impuesto. Que lo pregunten a una persona experta allá.
+
+
+
+#### Casos
+
+
+**Caso 1. La casa de Carmen**
+
+Le aconsejan a Carmen venderle la casa a su hija por un peso.
+- *¿Qué hace?* Pregunta en una notaría y compara testamento, donación con usufructo y venta.
+
+
+**Caso 2. El 30% de la hija de Carmen**
+
+La hija de Carmen cree que heredar la casa paga 30% de ISR.
+- *¿Qué aprende?* Que heredar no paga ISR; solo los gastos de escriturar.
+
+
+**Caso 3. La donación de Lucía**
+
+Lucía quiere donarle ya su departamento a su hijo.
+- *¿Qué hace?* Considera el usufructo vitalicio para seguir viviendo ahí.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Vender «por un peso» | Problemas fiscales | Pregunta |
+| Donar sin usufructo | Te quedas sin casa | Usufructo |
+| Creer que heredar paga 30% | No escrituran | Notaría |
+| No informar herencias grandes | Multas | Declaración anual |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, su hija y Lucía. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto ISR paga tu hija por heredar tu casa? a) Nada · b) 30% · c) 16%
+2. ¿Qué es el usufructo vitalicio? a) Un seguro de vida · b) Tu derecho a vivir en la casa aunque sea de otra persona · c) Un crédito hipotecario que te da el banco para comprar una casa nueva
+3. ¿Qué riesgo tiene donar tu casa en vida? a) Ninguno · b) Pagar ISR sobre el valor total de la casa · c) Que ya no sea tuya
+**Respuestas:** 1-a: está exento. 2-b: vives ahí de por vida. 3-c: pasa a ser de otra persona.
+
+
+
+#### Ponlo en práctica
+
+Escriturar una casa de 1,200,000 cuesta 3% de impuesto estatal y 20,000 de notario. ¿Cuánto es en total?
+**Respuesta:** 3% de 1,200,000: 36,000. Más 20,000: 56,000.
+
+
+
+#### A tu plan
+
+Escribe qué quieres que pase con tu casa y agenda una consulta en una notaría.
+
+
+
+### Para saber más
+
+- **Herencias y donaciones** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «herencias» y «donativos exentos».
+- **Mes del Testamento** (Secretaría de Gobernación · español): https://www.gob.mx — **Qué buscar:** «Mes del Testamento».
+
+### Palabras clave
+
+- *Usufructo:* derecho a usar una propiedad y vivir en ella aunque otra persona sea la dueña.
+- *Donación:* dar un bien en vida sin cobrar.
+- *Escriturar:* pasar legalmente una propiedad a nombre de otra persona ante notario.
+
+### Fuentes
+
+Ley del ISR (artículo 93) · SAT · Secretaría de Gobernación, consultados el 30 de septiembre de 2026.
 
 ---

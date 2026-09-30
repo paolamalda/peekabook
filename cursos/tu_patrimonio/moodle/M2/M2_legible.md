@@ -497,7 +497,7 @@ Tienes derecho a información clara, a que no te cobren productos que no pediste
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | UNE de la institución | Cada institución tiene una Unidad Especializada. | Primer paso, por escrito. |
-| CONDUSEF | Si no te resuelven o no estás de acuerdo. | Gratuita. |
+| CONDUSEF | Si no te resuelven o no estás de acuerdo. | Sin costo. |
 | Folio | Número de tu reclamación. | Guárdalo siempre. |
 | REUS | Registro para no recibir publicidad financiera. | Módulo 4. |
 

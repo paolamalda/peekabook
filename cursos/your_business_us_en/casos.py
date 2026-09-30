@@ -215,4 +215,9 @@ CASOS = {
  ("Separating money, taxes and price.", "Registering his trademark first.", "Taking out a loan to get organized."),
  ("Sets a fixed date and updates.", "Makes a new plan from scratch.", "Drops it; he knows what to do."),
 ],
+"M9 U04": [
+ ("That heirs pay no federal tax, except on huge estates.", "That it's better to sell everything first so the IRS gets nothing.", "That it's better not to tell the IRS anything about the inheritance."),
+ ("He files Form 3520 with the IRS even though he owes no tax.", "He reports nothing because the land is in Mexico, not in the U.S.", "He sells the land quickly so he doesn't have to report anything."),
+ ("She names a POD beneficiary at her bank.", "She gives her password to her mom in case something happens someday.", "She closes the account and keeps the business money in cash."),
+],
 }

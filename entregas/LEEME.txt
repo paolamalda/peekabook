@@ -4,16 +4,23 @@ A. ¿EL CURSO YA ESTÁ INSTALADO EN MOODLE? Usa la carpeta actualizaciones/
    Cada zip trae solo lo que cambió, un README para Claude y LISTA_DE_CAMBIOS.txt. No reinstala nada:
    se conservan actividades, intentos, calificaciones, insignias y puntos.
 
-   Tu_Turno_actualizacion_v1.1_a_v1.2                  Tu Turno, Tu Dinero, Tu Futuro
-   Tu_Patrimonio_actualizacion_v1.1_a_v1.2             Tu Patrimonio, Tu Tranquilidad, Tu Futuro
-   Tu_Negocio_MX_actualizacion_v1.1_a_v1.2             Tu Negocio · México
-   Tu_Negocio_US_ES_actualizacion_v1.1_a_v1.2          Tu Negocio · EE. UU. (español)
-   Your_Business_US_EN_update_v1.1_to_v1.2             Your Business · U.S. (inglés)
-   Tu_Talento_actualizacion_v1.2_a_v1.3                Tu Talento, Tu Marca, Tu Futuro
-   Tu_Dinero_ES_actualizacion_v3.2_a_v3.3              Tu Dinero, Tu Familia, Tu Futuro (español)
-   Your_Money_EN_update_v3.2_to_v3.3                   Your Money, Your Family, Your Future (inglés)
-   Comunidad_*_actualizacion_v1.1_a_v1.2 y
-   Your_Business_Community_US_EN_update_v1.1_to_v1.2   comunidades (5)
+   Tu_Turno_actualizacion_v1.2_a_v1.3                  Tu Turno, Tu Dinero, Tu Futuro
+   Tu_Patrimonio_actualizacion_v1.2_a_v1.3             Tu Patrimonio, Tu Tranquilidad, Tu Futuro
+   Tu_Negocio_MX_actualizacion_v1.2_a_v1.3             Tu Negocio · México
+   Tu_Negocio_US_ES_actualizacion_v1.2_a_v1.3          Tu Negocio · EE. UU. (español)
+   Your_Business_US_EN_update_v1.2_to_v1.3             Your Business · U.S. (inglés)
+   Tu_Talento_actualizacion_v1.3_a_v1.4                Tu Talento, Tu Marca, Tu Futuro
+   Tu_Dinero_ES_actualizacion_v3.3_a_v3.4              Tu Dinero, Tu Familia, Tu Futuro (español)
+   Your_Money_EN_update_v3.3_to_v3.4                   Your Money, Your Family, Your Future (inglés)
+   Comunidad_*_actualizacion_v1.2_a_v1.3 y
+   Your_Business_Community_US_EN_update_v1.2_to_v1.3   comunidades (5)
+
+   Esta ronda agrega: sucesión completa (beneficiarios, testamento, sin testamento, unión libre, tierra
+   ejidal, dar en vida, usufructo), impuestos a la herencia (México y EE. UU.) e IMSS voluntario
+   (Seguro de Salud para la Familia y Modalidad 10) donde aplica.
+
+   ¿El curso sigue en una versión anterior (por ejemplo 1.1)? Aplica primero el paquete de
+   archivo_versiones_anteriores/actualizaciones y después el de esta carpeta, en orden.
 
    Cada actualización de curso incluye una sección «Ajustes de plataforma (una sola vez)»: categoría de
    preguntas con versión, insignias con el nombre del curso, constancia con la plantilla estándar, curso
@@ -25,12 +32,20 @@ B. ¿CURSO NUEVO EN OTRA PLATAFORMA O DESDE CERO? Usa las carpetas completas de 
    Estructura: 00_LEEME · 01_Manual · 02_Contenido · 03_Guia · 04_Moodle (con el README para Claude).
    Si un curso viene en varias partes, descomprímelas todas en el mismo lugar.
 
-   Tu_Turno_v1.2 (3 partes)              Tu_Patrimonio_v1.2 (3 partes)       Comunidad_Tu_Patrimonio_v1.2
-   Tu_Negocio_MX_v1.2 (3 partes)         Comunidad_Tu_Negocio_MX_v1.2
-   Tu_Negocio_US_ES_v1.2 (3 partes)      Comunidad_Tu_Negocio_US_ES_v1.2
-   Your_Business_US_EN_v1.2 (3 partes)   Your_Business_Community_US_EN_v1.2
-   Tu_Talento_v1.3 (4 partes)            Comunidad_Tu_Talento_v1.2
-   Tu_Dinero_ES_v3.3 (3 partes)          Your_Money_EN_v3.3 (3 partes)
+   Tu_Turno_v1.3 (3 partes)              Tu_Patrimonio_v1.3 (3 partes)       Comunidad_Tu_Patrimonio_v1.3
+   Tu_Negocio_MX_v1.3 (3 partes)         Comunidad_Tu_Negocio_MX_v1.3
+   Tu_Negocio_US_ES_v1.3 (3 partes)      Comunidad_Tu_Negocio_US_ES_v1.3
+   Your_Business_US_EN_v1.3 (3 partes)   Your_Business_Community_US_EN_v1.3
+   Tu_Talento_v1.4 (4 partes)            Comunidad_Tu_Talento_v1.3
+   Tu_Dinero_ES_v3.4 (3 partes)          Your_Money_EN_v3.4 (3 partes)
+
+   CURSOS NUEVOS (versión 1.0; se instalan completos):
+   Tu_Trabajo_v1.0 (3 partes)            Comunidad_Tu_Trabajo_v1.0
+       Tu Trabajo, Tu Familia, Tu Futuro: trabajadoras del hogar en México (pago por día o por semana/quincena,
+       tandas, deudas por ayudar a la familia, IMSS para trabajadoras del hogar, sucesión).
+   Tu_Idea_v1.0 (3 partes)               Comunidad_Tu_Idea_v1.0
+       Tu Idea, Tu Dinero, Tu Futuro: jóvenes de preparatoria, enfoque en crecer y emprender (primer negocio, precio, ganancia,
+       ingresos por internet, cuidado con cuentas mula).
 
    En 03_Guia van también el kit para facilitadores (una sesión de 60 minutos por módulo) y los guiones de
    WhatsApp y audio con recordatorios mensuales. En 04_Moodle/10_herramientas va el Excel descargable

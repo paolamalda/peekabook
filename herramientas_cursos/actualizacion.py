@@ -258,10 +258,10 @@ for mod, lst in resumen_cambios:
     nue_ = [c.split()[1] for c, t, e in lst if e == "nueva"]
     if nue_: cambios.append(f"{mod}: " + T("lección nueva " if len(nue_) == 1 else "lecciones nuevas ", "new lesson " if len(nue_) == 1 else "new lessons ") + ", ".join(nue_))
     cambios += [f"{c}: " + T("texto corregido", "text corrected") for c, t, e in lst if e != "nueva"]
-if ap_cambia: cambios.append(T("Apoyo: capítulos ", "Support book: chapters ") + ", ".join(str(int(f[:2])) for f in ap_cambia) + T(" corregidos", " corrected"))
-if nuevas: cambios.append(T(f"Preguntas: {len(nuevas)} nuevas", f"Questions: {len(nuevas)} new"))
-if corregidas: cambios.append(T(f"Preguntas: {len(corregidas)} con texto corregido", f"Questions: {len(corregidas)} with corrected text"))
-if g_nuevos: cambios.append(T(f"Glosario: {len(g_nuevos)} términos nuevos", f"Glossary: {len(g_nuevos)} new terms"))
+if ap_cambia: cambios.append(T("Apoyo: capítulo " if len(ap_cambia) == 1 else "Apoyo: capítulos ", "Support book: chapter " if len(ap_cambia) == 1 else "Support book: chapters ") + ", ".join(str(int(f[:2])) for f in ap_cambia) + T(" corregido" if len(ap_cambia) == 1 else " corregidos", " corrected"))
+if nuevas: cambios.append(T("Preguntas: 1 nueva", "Questions: 1 new") if len(nuevas) == 1 else T(f"Preguntas: {len(nuevas)} nuevas", f"Questions: {len(nuevas)} new"))
+if corregidas: cambios.append((T("Preguntas: 1 con texto corregido", "Questions: 1 with corrected text") if len(corregidas) == 1 else T(f"Preguntas: {len(corregidas)} con texto corregido", f"Questions: {len(corregidas)} with corrected text")))
+if g_nuevos: cambios.append((T("Glosario: 1 término nuevo", "Glossary: 1 new term") if len(g_nuevos) == 1 else T(f"Glosario: {len(g_nuevos)} términos nuevos", f"Glossary: {len(g_nuevos)} new terms")))
 if HERR: cambios.append(T("Apoyo: herramientas en Excel (recurso nuevo)", "Support: Excel tools (new resource)"))
 if AJ: cambios.append(T("Plataforma: categoría con versión, insignias con nombre del curso, constancia estándar, encuestas, curso visible con clave y mosaicos",
                         "Platform: versioned category, badges with course name, standard certificate, surveys, visible course with key and tiles"))
@@ -277,6 +277,8 @@ else:
     L += [f"# Actualización {CONF['de']} → {CONF['a']} · {nombre_curso} · para Claude", "",
           f"Este paquete actualiza un curso **ya instalado** en Moodle 3.10 de la versión {CONF['de']} a la {CONF['a']}. Solo trae lo que cambió. Los nombres de las actividades se mantienen. **No reinstales el curso ni borres actividades, intentos, calificaciones, insignias o puntos de Level Up.**", "",
           "Antes de empezar: haz una copia de seguridad del curso (*Administración del curso > Copia de seguridad*, sin datos de usuarios basta) y activa la edición. Si un paso no se puede, sáltalo y repórtalo al final.", ""]
+if not AJ and cat_vieja and cat_vieja != cat_nueva:
+    cambios.append(T(f"categoría de preguntas: {cat_nueva}", f"question category: {cat_nueva}"))
 L += [T("## Lista de cambios", "## Change list"), "", "; ".join(cambios) + ".", ""]
 s_ = 1
 if AJ:
@@ -299,6 +301,11 @@ if AJ:
               "5. **Formato:** si **Mosaicos** (Tiles) está instalado, cambia el formato del curso a Mosaicos con el progreso en los mosaicos **como porcentaje**; si no, deja Temas.",
               "6. **Encuestas:** con el módulo **Retroalimentación** (anónima), crea `Encuesta de inicio` (sección General), `Encuesta final`, `Seguimiento a 30 días` y `Seguimiento a 90 días` (última sección) e importa los XML de `6_encuestas/` (`encuestas.md` los explica). Restringe los seguimientos por fecha («[por definir]»).",
               "7. **Catálogo:** actualiza la ficha del curso con `tarjeta_catalogo.md`.", ""]
+    s_ += 1
+if not AJ and cat_vieja and cat_vieja != cat_nueva:
+    L += [T(f"## {s_}. Categoría de preguntas", f"## {s_}. Question category"), "",
+          T(f"En *Banco de preguntas > Categorías*, renombra `{cat_vieja}` a `{cat_nueva}` (sus subcategorías M1… se quedan). Hazlo antes de importar preguntas.",
+            f"In *Question bank > Categories*, rename `{cat_vieja}` to `{cat_nueva}` (its M1… subcategories stay). Do it before importing questions."), ""]
     s_ += 1
 if HERR:
     hn = os.path.basename(HERR[0])

@@ -218,6 +218,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Beneficiario:** persona que recibe el dinero si mueres.
 - **Carpeta familiar:** lugar con tus documentos e instrucciones.
 - **Clase:** categoría de productos o servicios de una marca.
+- **Derechos patrimoniales de autor:** el derecho a cobrar por el uso de tus obras; se hereda y dura toda tu vida y 100 años después.
 - **Derechos patrimoniales:** derechos económicos sobre tus obras o interpretaciones.
 - **Incapacidad:** pago cuando no puedes trabajar por salud.
 - **Ingreso registrado:** el ingreso con que cotizas.

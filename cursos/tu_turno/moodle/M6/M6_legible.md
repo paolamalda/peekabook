@@ -595,9 +595,9 @@ El robo de identidad pasa cuando alguien usa tu INE, tu CURP o tu firma para ped
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | Copias con leyenda | Escribe sobre la copia de tu INE para qué es y la fecha. | Así no sirve para otra cosa. |
-| Reporte de crédito | Gratis una vez al año en Buró y en Círculo. | Revisa que todo sea tuyo. |
+| Reporte de crédito | Sin costo una vez al año en Buró y en Círculo. | Revisa que todo sea tuyo. |
 | Bloqueo en Buró | Nadie consulta tu historial sin ti. | Frena créditos a tu nombre. |
-| Líneas con tu CURP | Consulta qué celulares están a tu nombre. | Gratis. |
+| Líneas con tu CURP | Consulta qué celulares están a tu nombre. | Sin costo. |
 
 > **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas no tiene costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
@@ -686,7 +686,7 @@ Un reclutador pide a Don Chuy foto de su INE por WhatsApp y 300 pesos para «apa
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Copias sin leyenda | Las usan para créditos | Escribe para qué es |
-| Nunca revisar tu reporte | Te enteras tarde | Gratis cada año |
+| Nunca revisar tu reporte | Te enteras tarde | Sin costo cada año |
 | Pagar por inscribirte | Fraude | REPEP y REUS no tienen costo |
 | Creer que el registro frena fraudes | Caes | Cuelga y verifica |
 

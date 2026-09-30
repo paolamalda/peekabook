@@ -560,3 +560,468 @@ Esta semana arma tu bolsa de documentos y guarda fotos protegidas de ellos.
 CENAPRED · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M7 U05. Salud para tu familia: el seguro del IMSS que pagas tú
+
+**Lo que lograrás:** Conocer el Seguro de Salud para la Familia del IMSS, que puedes pagar por tu cuenta para tus papás, tu pareja o tus hijos si no tienen seguridad social, y el IMSS-Bienestar como opción sin costo.
+
+**Para empezar:** La mamá de Don Chuy tiene 67 años, diabetes y no tiene seguridad social. Cada mes él paga consultas y medicinas en farmacias privadas: unos 1,800 pesos. En esta lección verás otras opciones.
+
+### Lo esencial (5 minutos)
+
+#### Un seguro que pagas tú
+
+El Seguro de Salud para la Familia del IMSS da consultas, hospital y medicinas a personas sin seguridad social. Se paga una cuota al año por cada persona que inscribes, según su edad.
+
+
+
+#### Cuota anual por persona en 2026
+
+| Edad | Cuota al año |
+|---|---|
+| 0 a 19 | 9,300 |
+| 20 a 29 | 11,550 |
+| 30 a 39 | 11,850 |
+| 40 a 49 | 13,800 |
+| 50 a 59 | 14,250 |
+| 60 a 69 | 19,800 |
+| 70 a 79 | 20,650 |
+| 80 o más | 21,300 |
+
+> **Dato vigente:** cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) por persona según la edad, vigentes desde el 1 de marzo de 2026. Consultado el 30 de septiembre de 2026 a través de medios nacionales que citan las tablas del IMSS; confirma en el IMSS antes de pagar.
+
+
+
+#### Lo que da y lo que no
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Sí da | Consultas, hospital y medicinas. | Para cada persona inscrita. |
+| Periodos de espera | Algunas atenciones se cubren después de meses. | Pregunta cuáles. |
+| Enfermedades previas | Algunas no se cubren al inicio. | Pregunta antes. |
+| No da | Incapacidades ni pensión. | Solo salud. |
+
+#### Si no alcanza: IMSS-Bienestar
+
+Las personas sin seguridad social pueden atenderse sin costo en centros de salud y hospitales públicos: en muchos estados, con IMSS-Bienestar. Solo necesitan su CURP.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy preguntó en el IMSS: por su mamá pagaría 19,800 al año, unos 1,650 al mes, menos de lo que gasta ahora. Antes de pagar confirmó si su diabetes se cubre desde el inicio. Mientras, la llevó a su centro de salud para su control.
+
+> **Idea clave:** si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué da el Seguro de Salud para la Familia?
+*Respuesta:* Consultas, hospital y medicinas.
+
+2. ¿Qué preguntas antes de pagar?
+*Respuesta:* Qué cubre, desde cuándo y si cubre enfermedades previas.
+
+
+#### Para recordar
+
+- Cuota al año por persona y edad.
+- Solo salud.
+- Centro de salud sin costo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Compara
+
+| Opción | Costo | Qué da |
+|---|---|---|
+| Consultorio privado | Cada consulta | Rápido, pero caro si es seguido |
+| Seguro de Salud para la Familia | Cuota al año | Médico, hospital y medicinas del IMSS |
+| Centro de salud o IMSS-Bienestar | Sin costo | Atención para quien no tiene seguridad social |
+
+
+
+#### Junta la cuota
+
+Divide la cuota entre 24 quincenas y apártala como gasto fijo: 19,800 al año son 825 por quincena.
+
+
+
+#### Casos
+
+
+**Caso 1. La mamá de Don Chuy**
+
+La mamá de Don Chuy no tiene seguridad social y él paga consultas privadas.
+- *¿Qué hace?* Compara el seguro familiar del IMSS con lo que gasta y pregunta qué cubre.
+
+
+**Caso 2. La hija de Karla**
+
+La hija de Karla no tiene seguro y se enferma seguido.
+- *¿Qué hace?* La lleva al centro de salud con su CURP o revisa la cuota del seguro familiar.
+
+
+**Caso 3. El gestor de Beto**
+
+Un gestor le ofrece a Beto «meter a su papá al IMSS» por 3,000.
+- *¿Qué hace?* No paga: el trámite se hace directo en el IMSS.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar consultas privadas sin comparar | Gastas de más | Compara |
+| No preguntar por enfermedades previas | Sorpresas | Pregunta |
+| Pagar a gestores | Te cobran de más | Directo en el IMSS |
+| Creer que sin IMSS no hay atención | No te atiendes | Centro de salud |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Karla y Beto. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto cuesta en 2026 el seguro familiar del IMSS para una persona de 65 años? a) 9,300 · b) 13,800 · c) 19,800
+2. ¿Qué NO da el Seguro de Salud para la Familia? a) Pensión · b) Consultas · c) Medicinas
+3. ¿Dónde se atiende sin costo quien no tiene seguridad social? a) En farmacias privadas · b) En el centro de salud · c) En cualquier hospital privado
+**Respuestas:** 1-c: de 60 a 69 años. 2-a: solo es salud. 3-b: o IMSS-Bienestar.
+
+
+
+#### Ponlo en práctica
+
+Quieres inscribir a tu hijo de 10 años y a tu pareja de 35. ¿Cuánto pagas al año y por quincena?
+**Respuesta:** 9,300 más 11,850: 21,150 al año; entre 24: unos 881 por quincena.
+
+
+
+#### A tu plan
+
+Anota quién en tu familia no tiene seguridad social y calcula su cuota.
+
+
+
+### Para saber más
+
+- **Seguro de Salud para la Familia** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «Seguro de Salud para la Familia».
+- **IMSS-Bienestar** (Gobierno de México · español): https://www.gob.mx/imss-bienestar — **Qué buscar:** «unidades médicas».
+
+### Palabras clave
+
+- *Seguro de Salud para la Familia:* seguro voluntario del IMSS que da servicio médico a quien no tiene seguridad social; se paga una cuota al año por persona según su edad.
+- *IMSS-Bienestar:* servicio de salud para personas sin seguridad social.
+
+### Fuentes
+
+IMSS · IMSS-Bienestar · medios nacionales que citan las cuotas 2026, consultados el 30 de septiembre de 2026.
+
+---
+
+## M7 U06. Que tu familia no quede atorada: beneficiarios y testamento
+
+**Lo que lograrás:** Nombrar beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y hacer tu testamento para que tu familia reciba lo tuyo sin juicios largos.
+
+**Para empezar:** Un compañero de Ramiro falleció. Su cuenta, su Afore y los pagos pendientes de la empresa quedaron «atorados» un año. Su pareja vivía con él en unión libre y tuvo que ir a juicio. En esta lección verás cómo evitarlo.
+
+### Lo esencial (5 minutos)
+
+#### Dónde nombrar beneficiarios
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cuenta de banco | Tu nómina y tus ahorros. | Pídelo en tu banco. |
+| Afore | En AforeMóvil o en tu Afore. | Actualízalos. |
+| Seguros | Vida y funerarios. | En la póliza. |
+| Con tu empresa | Quién recibe tus pagos pendientes. | La ley lo permite. |
+
+#### Beneficiarios: rápido y sin juicio
+
+Un beneficiario recibe tu dinero directo, sin juicio. En la Afore, la ley da primero el dinero a tus beneficiarios legales (pareja, hijos y, a falta de ellos, tus papás); las personas que tú nombras reciben si no hay beneficiarios legales.
+
+
+
+#### Tu testamento
+
+Un testamento evita juicios y peleas. En septiembre, Mes del Testamento, muchas notarías dan descuentos. Ahí nombras también a quien cuidaría a tus hijos menores.
+
+> **Dato vigente:** en el Mes del Testamento 2026 hubo descuentos de hasta 50%, con testamentos desde unos 2,750 pesos según el estado. Consultado el 30 de septiembre de 2026 a través de la Secretaría de Gobernación y medios nacionales.
+
+
+
+#### Un caso en un minuto
+
+Ramiro nombró a su pareja y a sus hijos en su cuenta, su Afore y su seguro, y pidió a recursos humanos registrar a sus beneficiarios. En septiembre hizo su testamento y nombró a su hermana como tutora de sus hijos.
+
+> **Idea clave:** nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué ventaja tiene nombrar beneficiarios?
+*Respuesta:* Tu familia recibe el dinero sin juicio.
+
+2. ¿Qué nombras en tu testamento además de tus bienes?
+*Respuesta:* Quién cuidaría a tus hijos menores.
+
+
+#### Para recordar
+
+- Beneficiarios en todo.
+- Testamento en septiembre.
+- Tutor para tus hijos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu lista
+
+| Dónde | ¿Tiene beneficiarios? | Quiénes y qué parte |
+|---|---|---|
+| Cuenta de nómina | | |
+| Afore | | |
+| Seguro de vida | | |
+| Empresa | | |
+| Testamento | | |
+
+
+
+#### Si vives en unión libre
+
+Tu pareja en unión libre puede heredar si cumple lo que pide la ley de tu estado, como tiempo viviendo juntos o hijos en común. Nombrarla como beneficiaria y en tu testamento lo deja claro.
+
+
+
+#### Casos
+
+
+**Caso 1. La cuenta de Don Chuy**
+
+Don Chuy nunca nombró beneficiarios en su cuenta de nómina.
+- *¿Qué hace?* Los nombra en su banco con nombres completos.
+
+
+**Caso 2. La pareja de Ramiro**
+
+Ramiro vive en unión libre y no tiene testamento.
+- *¿Qué hace?* Hace su testamento y nombra a su pareja como beneficiaria.
+
+
+**Caso 3. La hija de Karla**
+
+Karla es mamá sola y le preocupa quién cuidaría a su hija.
+- *¿Qué hace?* Nombra en su testamento a quien la cuidaría.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No nombrar a nadie | Juicio largo | Beneficiarios |
+| Beneficiarios viejos | El dinero va a otra persona | Actualízalos |
+| Sin testamento | Peleas | Hazlo en septiembre |
+| Hijos sin tutor nombrado | Incertidumbre | Nómbralo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Ramiro y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué pasa si nombras beneficiarios en tu cuenta? a) Reciben el dinero sin juicio · b) Pagan más impuestos cuando lo reciben · c) No cambia nada
+2. ¿Qué mes tiene descuentos para hacer testamento? a) Enero · b) Septiembre · c) Diciembre
+3. ¿Qué puedes nombrar en tu testamento? a) Solo tu cuenta de banco y ninguna otra cosa más · b) Tu número de NIP · c) Quién cuidaría a tus hijos menores
+**Respuestas:** 1-a: es lo más rápido. 2-b: Mes del Testamento. 3-c: un tutor.
+
+
+
+#### Ponlo en práctica
+
+Tienes 40,000 en tu Afore y nombras a tus dos hijos: 50% y 50%. ¿Cuánto recibiría cada uno?
+**Respuesta:** 20,000 cada uno.
+
+
+
+#### A tu plan
+
+Llena tu lista y corrige esta semana los beneficiarios que falten.
+
+
+
+### Para saber más
+
+- **Beneficiarios en la Afore** (CONSAR · español): https://www.gob.mx/consar — **Qué buscar:** «designar beneficiarios».
+- **Mes del Testamento** (Secretaría de Gobernación · español): https://www.gob.mx — **Qué buscar:** «Mes del Testamento».
+
+### Palabras clave
+
+- *Beneficiario:* persona que nombras para recibir el dinero de una cuenta, Afore o seguro si faltas.
+- *Testamento:* documento ante notario en el que dices quién recibe tus bienes y quién cuida a tus hijos menores.
+- *Tutor:* persona que cuida a un menor de edad y sus intereses.
+
+### Fuentes
+
+CONSAR · CONDUSEF · Secretaría de Gobernación · Ley Federal del Trabajo (artículo 25), consultados el 30 de septiembre de 2026.
+
+---
+
+## M7 U07. Tu casa, tu tierra y lo que se hereda
+
+**Lo que lograrás:** Poner en orden los papeles de tu casa o terreno (escrituras, tierra ejidal), saber qué pasa si no hay testamento y qué pasa con las deudas y los impuestos al heredar.
+
+**Para empezar:** Don Chuy vive en la casa que era de sus papás, pero sigue a nombre de su papá, que ya falleció. Su hermano dice que para pasarla a su nombre «hay que pagar 30% de impuestos». En esta lección verás qué es cierto.
+
+### Lo esencial (5 minutos)
+
+#### Cada bien, su camino
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Casa con escrituras | Se hereda con testamento o juicio. | Revisa a nombre de quién. |
+| Casa sin escrituras | En papel no hay qué heredar. | Primero regulariza. |
+| Tierra ejidal | Se hereda con la lista de sucesión. | Registro Agrario Nacional. |
+| Sin testamento | Juicio o trámite ante notario. | Más largo y caro. |
+
+#### Impuestos y deudas al heredar
+
+Recibir una herencia **no paga ISR** en México; si pasa de 500,000 pesos y presentas declaración anual, hay que informarla. Lo que sí cuesta es pasar la casa a tu nombre: impuesto estatal por adquirir el inmueble, notario y registro. Las deudas de quien fallece se pagan con lo que deja; la familia no las paga con su dinero, salvo quien firmó como aval u obligado solidario.
+
+> **Dato vigente:** los ingresos por herencia están exentos de ISR (Ley del ISR, artículo 93, fracción XXII); quien presenta declaración anual debe informarlos si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy y su hermano preguntaron en una notaría: no pagan ISR por heredar; el trámite sucesorio, el impuesto estatal y el notario suman unos 25,000. Lo dividieron entre los dos y ahorran 500 por quincena cada uno para hacerlo este año.
+
+> **Idea clave:** revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Se paga ISR por recibir una herencia en México?
+*Respuesta:* No, está exenta.
+
+2. ¿Cómo se heredan los derechos ejidales?
+*Respuesta:* Con la lista de sucesión en el Registro Agrario Nacional.
+
+
+#### Para recordar
+
+- Revisa los papeles de la casa.
+- Heredar no paga ISR; escriturar sí cuesta.
+- Deudas: solo con lo que dejó, salvo el aval.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Costos al pasar una casa a tu nombre
+
+| Concepto | Quién lo cobra |
+|---|---|
+| Impuesto por adquirir el inmueble | Estado o municipio |
+| Honorarios del notario | Notaría |
+| Registro | Registro Público de la Propiedad |
+| Avalúo | Perito |
+
+
+
+#### La parcela del pueblo
+
+Si alguien de tu familia tiene tierra ejidal, pregunta en el Registro Agrario Nacional si tiene lista de sucesión. Si no la hay, la ley decide el orden y puede haber pleitos.
+
+
+
+#### Casos
+
+
+**Caso 1. La casa de los papás de Don Chuy**
+
+La casa sigue a nombre del papá de Don Chuy, que ya falleció.
+- *¿Qué hace?* Pregunta en una notaría el trámite sucesorio y cuánto cuesta escriturar.
+
+
+**Caso 2. El 30% del hermano**
+
+El hermano de Don Chuy cree que hay que pagar 30% de ISR por heredar.
+- *¿Qué aprende?* Que heredar no paga ISR; solo cuestan los gastos de escriturar.
+
+
+**Caso 3. La deuda del papá de Karla**
+
+Un despacho le cobra a Karla la tarjeta de su papá, que falleció.
+- *¿Qué hace?* Revisa si firmó como aval; si no, no paga con su dinero.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Dejar la casa a nombre de quien falleció | Problema para tus hijos | Escritura |
+| Creer que heredar paga 30% | No escrituras | Pregunta en una notaría |
+| Pagar deudas ajenas sin haber firmado | Pierdes tu dinero | Revisa |
+| Parcela sin lista de sucesión | Pleitos | RAN |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto ISR pagas por recibir una herencia? a) 30% · b) 10% · c) Nada, está exenta
+2. ¿Quién paga las deudas de alguien que falleció si no alcanza lo que dejó? a) Nadie de la familia, salvo el aval · b) Sus hijos, con su propio dinero y sus ahorros · c) Sus vecinos
+3. ¿Con qué se heredan los derechos de una parcela ejidal? a) Con un recibo de luz · b) Con la lista de sucesión · c) Con una carta escrita a mano por el ejidatario
+**Respuestas:** 1-c: artículo 93 de la Ley del ISR. 2-a: se paga con lo que dejó. 3-b: se registra en el RAN.
+
+
+
+#### Ponlo en práctica
+
+Escriturar la casa cuesta 25,000 y lo dividen entre dos hermanos. Si cada uno aparta 500 por quincena, ¿en cuántas quincenas lo juntan?
+**Respuesta:** 12,500 cada uno; entre 500: 25 quincenas, casi un año.
+
+
+
+#### A tu plan
+
+Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles faltan.
+
+
+
+### Para saber más
+
+- **Herencias e impuestos** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «herencias» e «ingresos exentos».
+- **Lista de sucesión** (Registro Agrario Nacional · español): https://www.gob.mx/ran — **Qué buscar:** «lista de sucesión».
+- **Regularización de vivienda** (INSUS · español): https://www.gob.mx/insus — **Qué buscar:** «regularización».
+
+### Palabras clave
+
+- *Herencia:* bienes y derechos que recibe una persona cuando otra fallece.
+- *Escriturar:* pasar legalmente una casa o terreno a tu nombre ante notario.
+- *Lista de sucesión:* lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
+
+### Fuentes
+
+Ley del ISR (artículo 93) · SAT · Registro Agrario Nacional · INSUS · CONDUSEF, consultados el 30 de septiembre de 2026.
+
+---

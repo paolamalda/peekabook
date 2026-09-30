@@ -151,7 +151,7 @@ Buró de Crédito · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ### Lo esencial (5 minutos)
 
-#### Gratis una vez al año
+#### Sin costo una vez al año
 
 Puedes pedir un reporte de crédito sin costo una vez al año en Buró de Crédito y otro en Círculo de Crédito, en sus sitios oficiales.
 
@@ -193,7 +193,7 @@ Karla reclamó en línea con su comprobante de pago. En unas semanas corrigieron
 
 #### Para recordar
 
-- Gratis una vez al año.
+- Sin costo una vez al año.
 - Revisa créditos, pagos y consultas.
 - Reclama con comprobantes.
 

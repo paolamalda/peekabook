@@ -1,6 +1,6 @@
 # Your Business, Your Money, Your Future · U.S.
 
-Program manual · Version 1.2 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
+Program manual · Version 1.3 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
 
 Financial well-being program for Latino entrepreneurs and self-employed people in the United States: separating money, pricing, managing cash flow, getting paid safely, formalizing and paying taxes, using credit carefully, protecting yourself and planning for the future. A Spanish version with the same content exists (*Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.*).
 
@@ -118,7 +118,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M5 U01 · Sole proprietor, LLC or something else?** What an LLC protects, California's $800 minimum, DBA and middlemen.
 
-**M5 U02 · Numbers and permits: EIN, ITIN and licenses** Free EIN, ITIN, business license, seller's permit, health permits, CSLB and CalGold; beware of "notarios."
+**M5 U02 · Numbers and permits: EIN, ITIN and licenses** No-cost EIN, ITIN, business license, seller's permit, health permits, CSLB and CalGold; beware of "notarios."
 
 **M5 U03 · Your federal taxes as an owner** Self-employment tax (15.3%), income tax, deductions, QBI, Schedule C, VITA.
 
@@ -176,6 +176,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M9 U03 · Your one-page plan** All decisions on one page, a quarterly review and your commitment: a named goal, a witness and a monthly reminder.
 
+**M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes** Complete your succession plan in the U.S.: beneficiary accounts, transfer on death deed, small estates, the business's digital access, taxes when inheriting, and what you own in Mexico.
+
 ---
 
 # 4. Format and time
@@ -213,7 +215,7 @@ The support book includes case studies, calculation practice, glossary, where to
 | USPTO | https://www.uspto.gov | Trademarks |
 | SSA | https://www.ssa.gov | Credits and retirement estimate |
 | IdentityTheft.gov and donotcall.gov | https://www.identitytheft.gov · https://www.donotcall.gov | Identity theft and Do Not Call Registry |
-| AnnualCreditReport.com | https://www.annualcreditreport.com | Free credit reports |
+| AnnualCreditReport.com | https://www.annualcreditreport.com | No-cost credit reports |
 | FEMA | https://www.disasterassistance.gov | Disaster assistance |
 | 988 and 1-800-GAMBLER | 988 · 1-800-GAMBLER | Emotional crisis and compulsive gambling |
 
@@ -239,8 +241,8 @@ The support book includes case studies, calculation practice, glossary, where to
 | U14 | Social Security credits | $1,890 per credit in 2026, up to 4 a year ($7,560); 40 credits for a retirement benefit | SSA |
 | U15 | Card fees | Commonly 2.6% to 3.5% plus a flat fee per payment | Processors' published rates |
 | U16 | California small claims court | Up to $12,500 for individuals | California Courts |
-| U17 | Freezes, alerts and reports | Free freeze and unfreeze at Equifax, Experian and TransUnion; no-cost initial fraud alert for one year; no-cost weekly reports | FTC |
-| U18 | National Do Not Call Registry | Free; up to 31 days for calls to stop; never expires | FTC |
+| U17 | Freezes, alerts and reports | No-cost freeze and unfreeze at Equifax, Experian and TransUnion; no-cost initial fraud alert for one year; no-cost weekly reports | FTC |
+| U18 | National Do Not Call Registry | At no cost; up to 31 days for calls to stop; never expires | FTC |
 | U19 | SBA disaster loans | Up to $500,000 for homes, $100,000 for personal property and $2 million for businesses; rate up to 4% without credit elsewhere | SBA |
 | U20 | Betting in California | Online sports betting not legal; online sweepstakes casinos banned since Jan 1, 2026 (AB 831) | AB 831; media |
 

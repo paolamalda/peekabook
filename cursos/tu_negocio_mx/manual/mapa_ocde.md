@@ -6,7 +6,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 |---|---|---|---|
 | OCDE negocios (2018) | N-A1 Pagos y depósitos del negocio | 10 | M4 U01, M4 U02, M1 U05 |
 | OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U03, M6 U05, M1 U06, M6 U02 |
-| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M7 U04, M5 U01, M5 U02, M1 U04, M1 U06, M7 U05 |
+| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M7 U04, M5 U01, M5 U02, M9 U04, M1 U04, M1 U06 |
 | OCDE negocios (2018) | N-B2 Registros y contabilidad | 13 | M1 U04, M1 U01, M1 U06, M7 U07, M1 U03, M3 U02 |
 | OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M6 U05, M1 U02, M3 U01, M2 U04, M2 U03, M4 U02 |
 | OCDE negocios (2018) | N-B4 Planear más allá del corto plazo | 15 | M3 U04, M2 U02, M8 U01, M8 U05, M6 U01, M8 U06 |
@@ -23,10 +23,10 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M1 U02, M2 U01, M8 U04, M3 U03 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M9 U01, M3 U03 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M1 U02, M8 U02 |
-| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M9 U03, M3 U03 |
+| OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M9 U03, M9 U04, M3 U03 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M9 U01, M7 U01, M2 U04 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M6 U03, M6 U05, M6 U04, M6 U01, M6 U02, M7 U05 |
-| OCDE adultos (2016) | B8 Deudas | 15 | M6 U04, M3 U04, M3 U02, M6 U05, M7 U08 |
+| OCDE adultos (2016) | B8 Deudas | 15 | M6 U04, M3 U04, M9 U04, M3 U02, M6 U05, M7 U08 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M7 U07, M1 U05, M6 U04, M7 U02, M3 U03 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M7 U01, M7 U08, M7 U02, M7 U07, M8 U01, M3 U03 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M9 U01, M6 U01 |
@@ -35,7 +35,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M8 U06, M7 U01, M8 U05 |
 | OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M4 U02, M1 U06, M6 U03, M7 U05, M1 U02, M7 U01 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M7 U03, M4 U03, M7 U06, M7 U08, M8 U05, M6 U02 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M5 U04, M8 U02, M5 U01, M5 U05, M7 U05, M5 U02 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M5 U04, M8 U02, M9 U04, M5 U01, M5 U05, M7 U05 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M8 U06 |
 
 Temas cubiertos: 33 de 33.
@@ -102,7 +102,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-B1 · Registro, impuestos y obligaciones legales
 
-**Lecciones:** M7 U04 Tu marca y tu nombre; M5 U01 ¿Por qué formalizarte y por dónde empezar?; M5 U02 RESICO: el régimen para empezar; M1 U04 Registros en 10 minutos al día; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M7 U05 Tu identidad y la de tu negocio
+**Lecciones:** M7 U04 Tu marca y tu nombre; M5 U01 ¿Por qué formalizarte y por dónde empezar?; M5 U02 RESICO: el régimen para empezar; M9 U04 Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia; M1 U04 Registros en 10 minutos al día; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre
 
 *Conocimiento*
 
@@ -311,7 +311,7 @@ Temas cubiertos: 33 de 33.
 
 - B: Distingue fuentes confiables
 - I: Llena sus huecos de conocimiento y busca asesoría profesional cuando hace falta
-- I: Apoya la educación financiera de su personal
+- I: Apoya el bienestar financiero de su personal
 
 *Actitud*
 
@@ -566,7 +566,7 @@ Temas cubiertos: 33 de 33.
 
 ## B5 · Planear a largo plazo y construir patrimonio
 
-**Lecciones:** M9 U03 Tu plan de una página; M3 U03 Tu reserva y las temporadas bajas
+**Lecciones:** M9 U03 Tu plan de una página; M9 U04 Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia; M3 U03 Tu reserva y las temporadas bajas
 
 *Conocimiento*
 
@@ -663,7 +663,7 @@ Temas cubiertos: 33 de 33.
 
 ## B8 · Deudas
 
-**Lecciones:** M6 U04 No mezcles deudas y cuida con el aval; M3 U04 Inflación, tasas e interés compuesto en tu negocio; M3 U02 Fiado, crédito a clientes y cobranza; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M7 U08 Si faltas: seguro de vida y gastos funerarios
+**Lecciones:** M6 U04 No mezcles deudas y cuida con el aval; M3 U04 Inflación, tasas e interés compuesto en tu negocio; M9 U04 Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia; M3 U02 Fiado, crédito a clientes y cobranza; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M7 U08 Si faltas: seguro de vida y gastos funerarios
 
 *Conocimiento*
 
@@ -888,7 +888,7 @@ Temas cubiertos: 33 de 33.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M5 U04 El IVA de tu negocio; M8 U02 Vender en línea y en plataformas; M5 U01 ¿Por qué formalizarte y por dónde empezar?; M5 U05 Tus declaraciones; M7 U05 Tu identidad y la de tu negocio; M5 U02 RESICO: el régimen para empezar
+**Lecciones:** M5 U04 El IVA de tu negocio; M8 U02 Vender en línea y en plataformas; M9 U04 Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia; M5 U01 ¿Por qué formalizarte y por dónde empezar?; M5 U05 Tus declaraciones; M7 U05 Tu identidad y la de tu negocio
 
 *Conocimiento*
 

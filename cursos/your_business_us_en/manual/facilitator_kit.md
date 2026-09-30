@@ -311,6 +311,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M9 U01 · Your retirement when you work for yourself: keep your retirement separate from your business; check your Social Security and put something into a retirement account every month.
 - M9 U02 · If the business changes or you're not there: put in one folder what someone would need to keep your business running, or to close it, without you.
 - M9 U03 · Your one-page plan: your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
+- M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes: with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
 
 **Cases**
 

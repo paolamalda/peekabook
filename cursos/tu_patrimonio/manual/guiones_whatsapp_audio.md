@@ -440,16 +440,16 @@ Los dos registros no tienen costo; nadie te debe cobrar por inscribirte.
 
 • REPEP: tiendas y servicios.
 • REUS: bancos y aseguradoras.
-• Gratis; los fraudes no se detienen con registros.
+• Sin costo; los fraudes no se detienen con registros.
 
 Tu paso de esta semana: Inscribe hoy tus números en el REPEP y el REUS y anota en tu calendario la renovación del REUS.
 
 Lección: [por definir]
 ```
 
-**Audio** (109 palabras, unos 45 segundos)
+**Audio** (110 palabras, unos 46 segundos)
 
-Hola. Hoy hablamos de esto: Que dejen de llamarte: REPEP y REUS. A Carmen le llaman diez veces al día: tarjetas, seguros, tiempos compartidos. Entre tantas llamadas, ya no distingue cuál es de verdad y cuál es un fraude. En esta lección limpiarás tu teléfono con dos registros sin costo. Los dos registros no tienen costo; nadie te debe cobrar por inscribirte. Recuerda: REPEP: tiendas y servicios. REUS: bancos y aseguradoras. Gratis; los fraudes no se detienen con registros. Tu paso de esta semana: Inscribe hoy tus números en el REPEP y el REUS y anota en tu calendario la renovación del REUS. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Que dejen de llamarte: REPEP y REUS. A Carmen le llaman diez veces al día: tarjetas, seguros, tiempos compartidos. Entre tantas llamadas, ya no distingue cuál es de verdad y cuál es un fraude. En esta lección limpiarás tu teléfono con dos registros sin costo. Los dos registros no tienen costo; nadie te debe cobrar por inscribirte. Recuerda: REPEP: tiendas y servicios. REUS: bancos y aseguradoras. Sin costo; los fraudes no se detienen con registros. Tu paso de esta semana: Inscribe hoy tus números en el REPEP y el REUS y anota en tu calendario la renovación del REUS. Nos escuchamos en la próxima lección.
 
 ### M4 U08 · Si ya te pasó: tu plan de respuesta
 
@@ -1005,6 +1005,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu patrimonio preparado. Después de un sismo, la casa de Carmen tuvo grietas. No encontraba la póliza, no sabía si cubría sismo y un «perito» tocó a la puerta ofreciendo arreglar todo si le pagaba por adelantado. En esta lección verás cómo prepararte. Documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado. Recuerda: Copia digital de todo. Fotos del antes y del después. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana toma fotos de tu casa y tus cosas, guarda copia digital de tus escrituras y pólizas y revisa si tu seguro cubre sismo o inundación. Nos escuchamos en la próxima lección.
 
+### M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10
+
+**WhatsApp**
+
+```
+*M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10*
+Si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
+
+• Seguro familiar: salud, por edad.
+• Modalidad 10: salud, incapacidades y pensión.
+• Compara con tu seguro privado.
+
+Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota en la tabla.
+
+Lección: [por definir]
+```
+
+**Audio** (140 palabras, unos 58 segundos)
+
+Hola. Hoy hablamos de esto: IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10. A Elena le subió 30% su seguro de gastos médicos. Maru vende por catálogo y no tiene servicio médico. Las dos escucharon que «se puede pagar el IMSS por tu cuenta». En esta lección verás cómo. Si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre. Recuerda: Seguro familiar: salud, por edad. Modalidad 10: salud, incapacidades y pensión. Compara con tu seguro privado. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota en la tabla. Nos escuchamos en la próxima lección.
+
 ## Módulo 9. Impuestos sin miedo
 
 ### M9 U01 · ¿Tengo que declarar?
@@ -1197,6 +1218,48 @@ Lección: [por definir]
 **Audio** (117 palabras, unos 49 segundos)
 
 Hola. Hoy hablamos de esto: Tu casa: escrituras, predial y crédito en orden. Maru y Raúl compraron su casa hace veinte años con crédito. Ya la terminaron de pagar, pero nunca recogieron la liberación de hipoteca y la escritura sigue con el gravamen. En esta lección pondrás tu casa en orden. Escritura inscrita, liberación de hipoteca al terminar, predial al día y el seguro del crédito localizable; tu subcuenta de vivienda no se pierde. Recuerda: Escritura inscrita. Liberación al terminar de pagar. Predial al día. Tu paso de esta semana: Busca tu escritura, tu último recibo de predial y el seguro de tu crédito, y guárdalos en tu carpeta de patrimonio. Nos escuchamos en la próxima lección.
+
+### M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio
+
+**WhatsApp**
+
+```
+*M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio*
+Sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
+
+• Sin testamento, decide la ley.
+• Unión libre: requisitos del estado.
+• Tierra ejidal: lista de sucesión.
+
+Tu paso de esta semana: Revisa si tus papás o tú tienen tierra ejidal y si hay lista de sucesión.
+
+Lección: [por definir]
+```
+
+**Audio** (136 palabras, unos 57 segundos)
+
+Hola. Hoy hablamos de esto: Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio. El hermano de Lucía murió sin testamento. Vivía en unión libre desde hacía 15 años, tenía una parcela ejidal en su pueblo y una casa en Guadalajara. Su pareja, sus hijos y sus hermanos no se ponen de acuerdo. En esta lección verás cómo funciona. Sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos. Recuerda: Sin testamento, decide la ley. Unión libre: requisitos del estado. Tierra ejidal: lista de sucesión. Tu paso de esta semana: Revisa si tus papás o tú tienen tierra ejidal y si hay lista de sucesión. Nos escuchamos en la próxima lección.
+
+### M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos
+
+**WhatsApp**
+
+```
+*M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos*
+Heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir.
+
+• Heredar y donar a hijos: sin ISR.
+• Escriturar cuesta.
+• Dar en vida: ya no es tuya.
+
+Tu paso de esta semana: Escribe qué quieres que pase con tu casa y agenda una consulta en una notaría.
+
+Lección: [por definir]
+```
+
+**Audio** (130 palabras, unos 54 segundos)
+
+Hola. Hoy hablamos de esto: Heredar o dar en vida: impuestos, costos y riesgos. Carmen quiere dejarle la casa a su hija. Una amiga le dice: «Mejor véndesela en vida por un peso, así no paga impuestos». Otra le dice que la done. Y su hija cree que heredar paga 30%. En esta lección verás qué conviene. Heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir. Recuerda: Heredar y donar a hijos: sin ISR. Escriturar cuesta. Dar en vida: ya no es tuya. Tu paso de esta semana: Escribe qué quieres que pase con tu casa y agenda una consulta en una notaría. Nos escuchamos en la próxima lección.
 
 ## Módulo 11. Decidir con calma y tu plan
 

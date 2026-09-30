@@ -398,7 +398,7 @@ Hi. Today's topic: Sole proprietor, LLC or something else? Javier was told he "h
 *M5 U02 · Numbers and permits: EIN, ITIN and licenses*
 The EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs.
 
-• Free EIN at irs.gov.
+• No-cost EIN at irs.gov.
 • Seller's permit at no cost.
 • Licenses by city and trade.
 
@@ -409,7 +409,7 @@ Lesson: [to be defined]
 
 **Audio** (121 words, about 50 seconds)
 
-Hi. Today's topic: Numbers and permits: EIN, ITIN and licenses. Lupita wants to sell tamales at a market and they ask for her "license, health permit and seller's permit." She doesn't know where to start or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits. The EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs. Remember: Free EIN at irs.gov. Seller's permit at no cost. Licenses by city and trade. Your step this week: Look up in CalGold (or your state's office) which licenses your type of business needs in your city. Talk to you in the next lesson.
+Hi. Today's topic: Numbers and permits: EIN, ITIN and licenses. Lupita wants to sell tamales at a market and they ask for her "license, health permit and seller's permit." She doesn't know where to start or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits. The EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs. Remember: No-cost EIN at irs.gov. Seller's permit at no cost. Licenses by city and trade. Your step this week: Look up in CalGold (or your state's office) which licenses your type of business needs in your city. Talk to you in the next lesson.
 
 ### M5 U03 · Your federal taxes as an owner
 
@@ -676,7 +676,7 @@ Hi. Today's topic: Your brand and your name. Daniela has sold jewelry as "Luna M
 Freeze your credit, check your reports and register your number; if someone uses your data, report it at IdentityTheft.gov.
 
 • Freeze at all 3 bureaus.
-• Free weekly reports.
+• No-cost weekly reports.
 • donotcall.gov costs nothing.
 
 Your step this week: This week freeze your credit at all three bureaus, check your reports and register your cell phone at donotcall.gov.
@@ -686,7 +686,7 @@ Lesson: [to be defined]
 
 **Audio** (107 words, about 45 seconds)
 
-Hi. Today's topic: Identity theft and unwanted calls. Don Ramón was turned down for credit because his report showed a card he never opened. He also gets ten calls a day offering "loans for his food truck." In this lesson you'll see how to stop both. Freeze your credit, check your reports and register your number; if someone uses your data, report it at IdentityTheft.gov. Remember: Freeze at all 3 bureaus. Free weekly reports. donotcall.gov costs nothing. Your step this week: This week freeze your credit at all three bureaus, check your reports and register your cell phone at donotcall.gov. Talk to you in the next lesson.
+Hi. Today's topic: Identity theft and unwanted calls. Don Ramón was turned down for credit because his report showed a card he never opened. He also gets ten calls a day offering "loans for his food truck." In this lesson you'll see how to stop both. Freeze your credit, check your reports and register your number; if someone uses your data, report it at IdentityTheft.gov. Remember: Freeze at all 3 bureaus. No-cost weekly reports. donotcall.gov costs nothing. Your step this week: This week freeze your credit at all three bureaus, check your reports and register your cell phone at donotcall.gov. Talk to you in the next lesson.
 
 ### M7 U06 · AI scams: fake voices, videos and messages
 
@@ -826,7 +826,7 @@ Your plan fits on one page and your pitch in two minutes; with numbers from your
 
 • One page, seven questions.
 • Two minutes, five parts.
-• Free advice; no one charges to "guarantee" a loan.
+• No-cost advice; no one charges to "guarantee" a loan.
 
 Your step this week: Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE.
 
@@ -835,7 +835,7 @@ Lesson: [to be defined]
 
 **Audio** (121 words, about 50 seconds)
 
-Hi. Today's topic: Your one-page business plan and how to pitch it. Daniela wants a microloan to buy seasonal inventory, and they ask for "a business plan and a short pitch." She has never made one. In this lesson you'll build yours. Your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve. Remember: One page, seven questions. Two minutes, five parts. Free advice; no one charges to "guarantee" a loan. Your step this week: Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE. Talk to you in the next lesson.
+Hi. Today's topic: Your one-page business plan and how to pitch it. Daniela wants a microloan to buy seasonal inventory, and they ask for "a business plan and a short pitch." She has never made one. In this lesson you'll build yours. Your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve. Remember: One page, seven questions. Two minutes, five parts. No-cost advice; no one charges to "guarantee" a loan. Your step this week: Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE. Talk to you in the next lesson.
 
 ### M8 U06 · Your business and its surroundings: competition, economy, community and rule changes
 
@@ -922,6 +922,27 @@ Lesson: [to be defined]
 **Audio** (98 words, about 41 seconds)
 
 Hi. Today's topic: Your one-page plan. Daniela learned a lot, but it's in scattered notes. She wants one page she can pin next to her worktable. In this lesson you'll put together your one-page plan. Your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder. Remember: One page. Where you can see it. Quarterly review. Your step this week: Fill in your one-page plan and set the date of your first review. Talk to you in the next lesson.
+
+### M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes
+
+**WhatsApp**
+
+```
+*M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes*
+With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
+
+• POD and TOD on your accounts.
+• Transfer on death deed for your home.
+• Form 3520 if you inherit from abroad.
+
+Your step this week: Check whether your accounts have a POD or TOD beneficiary and list what you own in Mexico.
+
+Lesson: [to be defined]
+```
+
+**Audio** (153 words, about 64 seconds)
+
+Hi. Today's topic: If you're not there: beneficiary accounts, your home, digital access and taxes. Don Ramón has his food truck, a business account, a house in Sacramento and land in Michoacán. His daughter believes that if he dies "the IRS takes half" and the house will spend years in court. In this lesson you'll see what's true and what to prepare. With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520. Remember: POD and TOD on your accounts. Transfer on death deed for your home. Form 3520 if you inherit from abroad. Your step this week: Check whether your accounts have a POD or TOD beneficiary and list what you own in Mexico. Talk to you in the next lesson.
 
 ## Monthly commitment reminders
 

@@ -125,7 +125,10 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Crédito del Seguro Social:** unidad que ganas por tus ingresos; necesitas 40 para la pensión de retiro.
 - **Disolución:** trámite formal para cerrar una empresa.
 - **Fideicomiso en vida (living trust):** documento legal para pasar tus bienes sin un juicio largo.
+- **Formulario 3520:** aviso al IRS de herencias o regalos del extranjero de más de 100,000 dólares.
 - **IRA:** cuenta individual de retiro con beneficios fiscales.
+- **Juicio sucesorio (probate):** proceso en la corte para repartir los bienes de quien falleció.
 - **Plan de una página:** resumen de las decisiones de tu negocio en una hoja.
+- **POD y TOD:** designación de beneficiario en una cuenta que pasa directo cuando faltas.
 - **Revisión trimestral:** revisión de tu plan cada tres meses.
 - **SEP IRA:** cuenta de retiro para dueños de negocio y sus empleados.

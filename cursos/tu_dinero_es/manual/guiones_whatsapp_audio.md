@@ -1251,6 +1251,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: ¿Cuál es mi plan financiero? Llegaste al final del programa. Luis, Daniela, Andrés y Rosa tienen algo en común: todos empezaron con dudas y ahora tienen un plan. En esta lección harás el tuyo, en una sola página. No se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio. Recuerda: Tu plan cabe en una página. Escribe tres acciones con fecha. Revísalo cuando algo cambie. Tu paso de esta semana: Escribe tu plan de una página y ponle una fecha de revisión. ¡Felicidades por terminar el programa!. Nos escuchamos en la próxima lección.
 
+### M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?
+
+**WhatsApp**
+
+```
+*M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?*
+En Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
+
+• POD, TOD y escritura de traspaso.
+• Formulario 3520 si heredas del extranjero.
+• En México: sin ISR, pero escriturar cuesta.
+
+Tu paso de esta semana: Haz tu mapa entre dos países y revisa los beneficiarios de tus cuentas aquí.
+
+Lección: [por definir]
+```
+
+**Audio** (162 palabras, unos 68 segundos)
+
+Hola. Hoy hablamos de esto: ¿Qué pasa si heredo o dejo algo entre dos países? La mamá de Alex tiene una casa en Michoacán sin testamento. Alex vive en Los Ángeles y un compañero le dijo que si la hereda «el IRS le cobra 40%». Rosa tiene una cuenta en Fresno y quiere que sea para sus nietos. En esta lección verás qué es cierto y qué preparar. En Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta. Recuerda: POD, TOD y escritura de traspaso. Formulario 3520 si heredas del extranjero. En México: sin ISR, pero escriturar cuesta. Tu paso de esta semana: Haz tu mapa entre dos países y revisa los beneficiarios de tus cuentas aquí. Nos escuchamos en la próxima lección.
+
 ## Recordatorios mensuales del compromiso
 
 Se envían una vez al mes, el mismo día, con el nombre de la meta que cada persona eligió en su plan de una página. La evidencia muestra que los recordatorios mensuales con la meta ayudan a ahorrar más; un recordatorio extra después de un atraso no ayudó. Si el canal es de difusión, usa la versión general («tu meta»). Incluye siempre: «Responde BAJA para dejar de recibir mensajes».

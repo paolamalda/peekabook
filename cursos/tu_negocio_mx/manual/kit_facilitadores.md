@@ -311,6 +311,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M9 U01 · Tu retiro si trabajas por tu cuenta: separa tu retiro de tu negocio; localiza tu AFORE y aporta algo fijo cada mes.
 - M9 U02 · Si el negocio cambia o si faltas: deja en una carpeta lo que alguien necesitaría para seguir o cerrar tu negocio sin ti.
 - M9 U03 · Tu plan de una página: tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+- M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia: tu sucesión va más allá del testamento: beneficiarios, lista de sucesión si hay tierra ejidal, acuerdos con socios y accesos digitales. Heredar no paga ISR, pero escriturar sí cuesta, y el RFC no se hereda.
 
 **Casos**
 

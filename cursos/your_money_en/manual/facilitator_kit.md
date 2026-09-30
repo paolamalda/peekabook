@@ -211,6 +211,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M5 U09 · How do I plan when my income changes every month?: in the good months, prepare for the bad months.
 - M5 U10 · How do I formalize my business?: start simple and grow when your business can pay for it.
 - M5 U11 · What's my financial plan?: it's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder.
+- M5 U12 · What happens if I inherit or leave something across two countries?: in the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
 
 **Cases**
 

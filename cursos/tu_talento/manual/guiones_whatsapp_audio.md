@@ -1290,16 +1290,16 @@ Inscribirte no tiene costo y te protege; si después siguen llamando, guarda la 
 
 • REPEP para publicidad de bienes y servicios.
 • REUS para publicidad financiera.
-• Gratis; denuncia si siguen llamando.
+• Sin costo; denuncia si siguen llamando.
 
 Tu paso de esta semana: Inscribe hoy tus números en el REPEP y en el REUS, consulta qué líneas tienes a tu nombre y agenda la renovación del REUS dentro de dos años.
 
 Lección: [por definir]
 ```
 
-**Audio** (136 palabras, unos 57 segundos)
+**Audio** (137 palabras, unos 57 segundos)
 
-Hola. Hoy hablamos de esto: Que dejen de llamarte: REPEP, REUS y tu línea. A Gael le llaman ocho veces al día: tarjetas que no pidió, paquetes de telefonía, tiempos compartidos. En medio de esas llamadas se pierde la de un casting y un día contesta una que resulta ser un fraude. En esta lección aprenderás a limpiar tu teléfono con registros sin costo. Inscribirte no tiene costo y te protege; si después siguen llamando, guarda la evidencia y denuncia. Recuerda: REPEP para publicidad de bienes y servicios. REUS para publicidad financiera. Gratis; denuncia si siguen llamando. Tu paso de esta semana: Inscribe hoy tus números en el REPEP y en el REUS, consulta qué líneas tienes a tu nombre y agenda la renovación del REUS dentro de dos años. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Que dejen de llamarte: REPEP, REUS y tu línea. A Gael le llaman ocho veces al día: tarjetas que no pidió, paquetes de telefonía, tiempos compartidos. En medio de esas llamadas se pierde la de un casting y un día contesta una que resulta ser un fraude. En esta lección aprenderás a limpiar tu teléfono con registros sin costo. Inscribirte no tiene costo y te protege; si después siguen llamando, guarda la evidencia y denuncia. Recuerda: REPEP para publicidad de bienes y servicios. REUS para publicidad financiera. Sin costo; denuncia si siguen llamando. Tu paso de esta semana: Inscribe hoy tus números en el REPEP y en el REUS, consulta qué líneas tienes a tu nombre y agenda la renovación del REUS dentro de dos años. Nos escuchamos en la próxima lección.
 
 ### M9 U09 · Si ya te pasó: tu plan de respuesta
 
@@ -1491,6 +1491,27 @@ Lección: [por definir]
 **Audio** (124 palabras, unos 52 segundos)
 
 Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu equipo y tu trabajo. Una inundación llegó al estudio de Toño. Perdió consolas, micrófonos y los discos con proyectos de clientes. No tenía seguro ni respaldo. En esta lección verás cómo prepararte. Respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado. Recuerda: Respaldo semanal. Fotos y facturas. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana respalda tus proyectos en la nube, toma fotos de tu equipo con sus números de serie y pregunta si tu seguro lo cubre. Nos escuchamos en la próxima lección.
+
+### M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos
+
+**WhatsApp**
+
+```
+*M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos*
+Tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
+
+• Tus derechos se heredan.
+• Beneficiarios en tu sociedad de gestión.
+• Heredar sin ISR; cobrar regalías sí paga.
+
+Tu paso de esta semana: Haz tu mapa de regalías y pregunta en tu sociedad de gestión cómo designar beneficiarios.
+
+Lección: [por definir]
+```
+
+**Audio** (139 palabras, unos 58 segundos)
+
+Hola. Hoy hablamos de esto: Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos. Toño tiene canciones registradas y cobra regalías por su trabajo de sesión. Valeria recibe regalías por campañas y por su voz en una canción. Ninguno sabe quién cobraría esas regalías si faltaran ni si su familia pagaría impuestos. En esta lección lo verás. Tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí. Recuerda: Tus derechos se heredan. Beneficiarios en tu sociedad de gestión. Heredar sin ISR; cobrar regalías sí paga. Tu paso de esta semana: Haz tu mapa de regalías y pregunta en tu sociedad de gestión cómo designar beneficiarios. Nos escuchamos en la próxima lección.
 
 ## Módulo 11. Tu futuro
 
