@@ -16,6 +16,8 @@ Fuentes que usamos en el curso, consultadas el 29 de septiembre de 2026.
 - **I10** Secretaría de Gobernación: permisionarios de juegos y sorteos; Secretaría de Salud: Línea de la Vida; CENAPRED: plan familiar de protección civil.
 - **I11** Guardia Nacional: 088.
 - **I12** IPAB: seguro de depósitos.
+- **I13** Banco de México e INEGI: inflación e INPC; Cetesdirecto; CNBV: padrón de entidades supervisadas.
+- **I14** Innovations for Poverty Action y J-PAL: *Nudges para una óptima salud financiera* (compromiso, opciones por defecto y recordatorios).
 
 ## Leyes
 

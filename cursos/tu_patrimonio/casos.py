@@ -21,6 +21,11 @@ CASOS = {
  ("Guarda las copias con contraseña.", "Manda los escaneos al grupo de sus hijos.", "Sube las copias a una red social privada."),
  ("Anota en la copia para qué es y la fecha.", "Entrega la copia sin anotar nada.", "Manda la foto de su INE por WhatsApp."),
 ],
+"M1 U05": [
+ ("Suma sus pagos a plazos, espera un día y decide.", "La compra hoy para no perder la oferta.", "La compra y deja de pagar otra cosa."),
+ ("Calcula el precio por unidad y compra si lo usará.", "Lleva el 2 por 1 porque siempre conviene.", "Compra el doble para aprovechar."),
+ ("No renueva: lo ya pagado no se recupera.", "Renueva para no perder lo que pagó.", "Renueva y se promete ir más."),
+],
 "M2 U01": [
  ("Cuelga y llama al número oficial.", "Hace el depósito para no perder el dinero.", "Pide a quien llamó su número de empleado."),
  ("La busca en el padrón de la CNBV.", "Confía porque tiene oficinas en Reforma.", "Pregunta a su asesor si está autorizada."),
@@ -125,6 +130,16 @@ CASOS = {
  ("Abre Cetesdirecto y reparte según la fecha.", "Lo deja donde no le paga nada.", "Lo pone todo a 364 días porque paga más."),
  ("Cuelga y entra solo al sitio oficial.", "Deposita hoy para no perder la tasa.", "Pide que le manden el enlace por mensaje."),
  ("Elige Cetes a 91 días.", "Elige Cetes a 364 días por la tasa.", "Lo deja en la cuenta sin rendimiento."),
+],
+"M5 U05": [
+ ("Deja de usarla y paga más del mínimo cada mes.", "Sigue pagando el mínimo; así no se atrasa.", "Pide otra tarjeta para pagar esta."),
+ ("Suma los tres pagos y compra solo si caben.", "Lo compra: es sin intereses.", "Lo compra y reduce el súper esos meses."),
+ ("Si se la da, le pone un límite bajo.", "Se la da sin límite; él pagará.", "Se la da y le pide que pague el mínimo."),
+],
+"M5 U06": [
+ ("Habla con él para ponerse al corriente.", "Lo ignora: el crédito no es suyo.", "Firma como aval otra vez para ayudarlo."),
+ ("Reclama gratis y revisa si hay robo de identidad.", "Paga la tarjeta para que desaparezca.", "Contrata un despacho para quitarla."),
+ ("No paga: es fraude y reclamar es gratis.", "Paga la mitad para probar.", "Paga para limpiar su historial rápido."),
 ],
 "M6 U01": [
  ("Revisa su plazo y riesgo antes de vender.", "Vende todo hoy para no perder más.", "Compra más porque bajó de precio."),
@@ -267,6 +282,11 @@ CASOS = {
  ("Busca orientación en una instancia de apoyo.", "Guarda silencio para evitar problemas.", "Le cede el manejo de todo su dinero."),
 ],
 "M11 U03": [
+ ("Lo confirma en el sitio oficial del IMSS.", "Retira todo lo que puede por si acaso.", "Lo reenvía a toda la familia."),
+ ("Revisa su meta y su plazo y deja su dinero.", "Vende todo como su cuñado.", "Pasa todo a efectivo en casa."),
+ ("Ajusta su presupuesto antes de tocar su fondo.", "Usa su fondo de emergencia cada mes.", "Paga la luz con la tarjeta y difiere."),
+],
+"M11 U04": [
  ("Llena su plan y lo pone al frente de la carpeta.", "Junta las hojas con un clip.", "Lo deja para el próximo año."),
  ("Le da una copia sin números ni contraseñas.", "Le da una copia con sus NIP.", "Le manda una foto del plan completo."),
  ("Actualiza su plan con calma.", "Invierte la herencia de inmediato.", "Deja el plan como estaba."),

@@ -16,7 +16,7 @@ Finanzas personales en microlecciones para guardias de seguridad y personas con 
 | Público | Guardias de seguridad y personas con turnos de 24 por 24 horas o similares, con ingresos cercanos al salario mínimo; muchas tienen deudas, participan en tandas y no conocen el sistema financiero |
 | Tono | Tuteo cálido y directo, español de México, frases muy cortas, sin tecnicismos, sin culpas |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y para tomarse entre turnos; actividades H5P «¿Qué harías?», autoevaluaciones, constancia y un canal de avisos por WhatsApp |
-| Duración | 8 módulos, 32 lecciones |
+| Duración | 8 módulos, 36 lecciones |
 
 ## El problema que resuelve
 
@@ -53,14 +53,14 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu quincena rinde | 5 | Presupuesto de quincena con turnos y ahorro apartado primero |
-| M2 Tu cuenta y tu dinero | 3 | Cuenta sin comisiones; cobrar, pagar y reclamar |
+| M1 Tu quincena rinde | 6 | Presupuesto de quincena con turnos, ahorro apartado primero y compras inteligentes |
+| M2 Tu cuenta y tu dinero | 4 | Cuenta sin comisiones; cobrar, pagar y reclamar; información confiable |
 | M3 Tus deudas claras | 5 | Lista de deudas, costo real, plan para salir y apuestas en línea |
 | M4 Tandas y ahorro en grupo | 2 | Tanda más segura o ahorro propio |
 | M5 Buró de Crédito sin miedo | 3 | Reporte revisado y cómo mejorar el historial |
 | M6 Que no te extorsionen | 6 | Protocolo contra fraudes, montadeudas, extorsión y robo de identidad; registros para que no te llamen |
 | M7 Tu familia y los imprevistos | 4 | Fondo de emergencia, protección familiar y desastres |
-| M8 Tu futuro | 4 | Retiro por tu cuenta, ingreso extra, vivienda y plan de una página |
+| M8 Tu futuro | 6 | Retiro por tu cuenta, ingreso extra, vivienda, inflación, primeros pasos para invertir y plan de una página con tu compromiso |
 
 ---
 
@@ -76,12 +76,16 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M1 U05 · Dinero y estrés: cómo hablarlo en casa** Señales de estrés financiero, la plática de dinero de 20 minutos y dónde pedir apoyo.
 
+**M1 U06 · Compra inteligente: precio por unidad, publicidad y pagos chiquitos** Precio por unidad, suscripciones, abonos semanales, costo de oportunidad y esperar un día.
+
 
 **M2 U01 · Una cuenta sin comisiones** Cuenta básica y cuenta de nómina.
 
 **M2 U02 · Cobrar y pagar sin perder dinero** Transferencias, cajeros de tu banco y comprobantes.
 
 **M2 U03 · Quién te protege y dónde reclamar** CONDUSEF, UNE y verificación de instituciones.
+
+**M2 U04 · ¿A quién le crees? Información confiable y cambios que te afectan** Fuentes oficiales, publicidad y rumores; orientación gratuita; ajustar el plan cuando suben precios o cambian reglas.
 
 
 **M3 U01 · ¿Cuánto debes en total?** Tu lista de deudas.
@@ -135,7 +139,11 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U03 · Tu casa: Infonavit y el crédito de 100 puntos** Subcuenta de vivienda, Mi Cuenta Infonavit, modelo de 100 puntos para salarios bajos, descuento en nómina y coyotes.
 
-**M8 U04 · Tu plan de una página**
+**M8 U04 · El dinero pierde valor: inflación e interés compuesto** Inflación, meta del Banco de México, tasa real e interés compuesto en el ahorro y en las deudas.
+
+**M8 U05 · Tu dinero a trabajar: primeros pasos para invertir** Antes de invertir, riesgo y rendimiento, diversificar, Cetesdirecto, invertir cada quincena y emociones.
+
+**M8 U06 · Tu plan de una página** Las cinco partes en una hoja y tu compromiso: meta con nombre, monto, testigo y recordatorio mensual.
 
 
 ---

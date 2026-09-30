@@ -16,7 +16,7 @@ Educación financiera para mujeres que administran su casa y su patrimonio en M�
 | Público | Mujeres residentes en México, de 45 a 75 años aproximadamente, dedicadas al hogar, con nivel socioeconómico medio o medio alto. Algunas trabajan; muchas tienen o tendrán una pensión; llevan cuentas personales, tienen ahorros y, a veces, inversiones |
 | Tono | Tuteo cálido, español de México, frases cortas, sin tecnicismos, sin culpas y sin paternalismo |
 | Formato | Mixto: curso en Moodle 3.10 (lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluaciones y constancia), sesiones de acompañamiento en grupo, práctica guiada con el celular y libro de apoyo imprimible |
-| Duración | 11 módulos, 54 lecciones |
+| Duración | 11 módulos, 58 lecciones |
 | Eje | Protección contra fraudes y robo de identidad, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -53,17 +53,17 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 | Módulo | Lecciones | Resultado |
 |---|---|---|
-| M1 Tu dinero hoy: mapa y orden | 4 | Inventario de cuentas, inversiones, seguros y documentos; gasto real al mes y al año |
+| M1 Tu dinero hoy: mapa y orden | 5 | Inventario de cuentas, inversiones, seguros y documentos; gasto real al mes y al año; compras inteligentes |
 | M2 Conoce el sistema financiero | 4 | Mapa de instituciones y cómo verificarlas |
 | M3 El celular sin miedo | 5 | Banca en el celular con candados y una persona de confianza |
 | M4 Fraudes: que no te pase | 8 | Protocolo contra fraudes y plan de respuesta |
-| M5 Tus cuentas y tu ahorro protegido | 4 | Cuentas revisadas, ahorro dentro del IPAB y fondo de emergencia |
+| M5 Tus cuentas y tu ahorro protegido | 6 | Cuentas revisadas, ahorro dentro del IPAB, fondo de emergencia, tarjeta de crédito bien usada e historial revisado |
 | M6 Tus inversiones | 5 | Qué tienes, cuánto rinde, cuánto cuesta y quién te asesora |
 | M7 Pensión y retiro | 6 | Mapa de pensiones (IMSS e ISSSTE) y cálculo de retiro |
 | M8 Salud y seguros | 6 | Seguro de gastos médicos entendido y comparado; patrimonio preparado para un desastre |
 | M9 Impuestos sin miedo | 3 | Saber si declaras, qué te retienen y qué deduces |
 | M10 Patrimonio y familia | 6 | Testamento, beneficiarios, documentos y casa en orden |
-| M11 Decidir con calma y tu plan | 3 | Plan de una página y reglas para decidir sin presión |
+| M11 Decidir con calma y tu plan | 4 | Reglas para decidir sin presión, noticias y cambios sin pánico, y plan de una página con tu compromiso |
 
 **Insignias:** Mi mapa en orden (M1 y M2), Celular con candado (M3), Nadie me engaña (M4), Ahorro protegido (M5 y M6), Retiro claro (M7), Salud asegurada (M8 y M9), Familia en orden (M10) y Plan completo (curso).
 
@@ -80,6 +80,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M1 U03 · Mi dinero, nuestro dinero** Hablar de dinero en pareja y en familia; régimen del matrimonio (sociedad conyugal o separación de bienes); tu cuenta propia.
 
 **M1 U04 · Tu carpeta de documentos** Qué guardar, dónde y quién sabe dónde está; copia física y digital protegida.
+
+**M1 U05 · Compra inteligente: el súper, las ofertas y los pagos a plazos** Precio por unidad, técnicas de venta, suscripciones, costo hundido y suma de pagos a plazos.
 
 ## Módulo 2. Conoce el sistema financiero
 
@@ -130,6 +132,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M5 U03 · Tu fondo de emergencia** Cuánto, dónde y para qué (incluye deducibles médicos).
 
 **M5 U04 · Ahorro con Cetes y BONDDIA** Cetesdirecto, plazos, liquidez y cómo empezar.
+
+**M5 U05 · Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses** Estado de cuenta, CAT, meses sin intereses y tarjetas adicionales.
+
+**M5 U06 · Tu historial de crédito: Buró, Círculo y ser aval** Reporte gratis una vez al año, reclamaciones gratuitas, despachos fraudulentos y responsabilidad del aval.
 
 ## Módulo 6. Tus inversiones
 
@@ -199,7 +205,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M11 U02 · Presión familiar y control del dinero** Reconocer la presión y el control económico, y dónde pedir apoyo.
 
-**M11 U03 · Tu plan de una página** Mapa, protección, ahorro, retiro, salud y familia en una hoja.
+**M11 U03 · Noticias, rumores y cambios: ajusta tu plan sin pánico** Fuentes oficiales, miedo y efecto manada, quién influye en la economía y cómo ajustar el plan.
+
+**M11 U04 · Tu plan de una página** Mapa, protección, ahorro, retiro, salud y familia en una hoja, y tu compromiso: meta con nombre, testigo y recordatorio mensual.
 
 ---
 

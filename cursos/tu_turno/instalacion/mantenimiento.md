@@ -8,4 +8,5 @@
 | Cada seis meses | Alertas de la CONDUSEF sobre préstamos fraudulentos | M3 U03, M6 U02 |
 | Cada año | REPEP, REUS y registro de líneas con CURP | M6 U05 |
 | Cada año | Reglas y tasas de crédito de Infonavit | M8 U03 |
+| Cada año | Meta de inflación del Banco de México y funcionamiento de Cetesdirecto | M8 U04, M8 U05 |
 | Después de cualquier cambio de contenido | Regenerar libros, H5P y banco y volver a armar la carpeta | Herramientas del proyecto |

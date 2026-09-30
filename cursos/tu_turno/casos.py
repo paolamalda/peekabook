@@ -25,6 +25,11 @@ CASOS = {
  ("Los revisa y anota cuánto debe.", "Los sigue sin abrir para no estresarse.", "Cambia de número para que no le escriban."),
  ("Le explica el plan y acuerdan un gusto.", "Le compra todo para no sentirse mal.", "Le dice que no hay dinero y ya."),
 ],
+"M1 U06": [
+ ("Suma el total, compara con el contado y espera.", "Los compra: 99 a la semana casi no se siente.", "Pide un adelanto para comprarlos hoy."),
+ ("Calcula el precio por gramo de cada uno.", "Compra el grande: siempre sale más barato.", "Compra el que tiene más publicidad."),
+ ("Cancela las que no usa y aparta ese dinero.", "Las deja: son poquito cada mes.", "Contrata una más con descuento."),
+],
 "M2 U01": [
  ("Pide la cuenta básica sin comisiones.", "Sigue pagando; así es en todos los bancos.", "Cierra la cuenta y guarda todo en efectivo en su casa."),
  ("Retira en cajeros de su banco o paga con tarjeta.", "Sigue en el cajero más cercano, aunque cobre.", "Retira todo de una vez y lo carga en el turno."),
@@ -39,6 +44,11 @@ CASOS = {
  ("Reclama con folio y luego va a la CONDUSEF.", "Acepta que no se puede quitar y sigue pagando.", "Deja de pagar la tarjeta en protesta."),
  ("Busca la financiera en el SIPRES.", "Pide el préstamo porque tiene muchos seguidores.", "Pide el préstamo pequeño para probar."),
  ("Reclama él mismo gratis.", "Paga los 500 para que se lo arreglen.", "Paga la mitad y el resto al terminar el trámite con el banco."),
+],
+"M2 U04": [
+ ("Lo confirma en CONDUSEF y no lo reenvía.", "Saca todo su dinero del banco hoy mismo.", "Lo reenvía a todos para que se cuiden."),
+ ("No invierte y reporta el número.", "Invierte la mitad para probar.", "Le da su aguinaldo si le firma un recibo."),
+ ("Revisa su presupuesto y ajusta un gasto.", "Pide un préstamo para cubrir la diferencia.", "Deja de pagar el gas un mes."),
 ],
 "M3 U01": [
  ("Hace su lista y suma el total.", "Sigue pagando poquito a cada uno.", "Pide otro préstamo para juntar todo en uno."),
@@ -156,6 +166,16 @@ CASOS = {
  ("Si su presupuesto aguanta el descuento.", "Solo si la casa le gusta.", "Firma rápido para no perder la casa."),
 ],
 "M8 U04": [
+ ("Los pasa a una opción protegida con rendimiento.", "Los deja en el cajón; ahí nadie los toca.", "Los presta a un conocido con interés."),
+ ("Que pierde poder de compra y compara opciones.", "Que su dinero crece porque ve más pesos.", "Que la inflación no afecta a las cuentas."),
+ ("Que su deuda crece y debe pagar más del mínimo.", "Que el mínimo es lo que le conviene pagar.", "Que la deuda se detiene si no la usa."),
+],
+"M8 U05": [
+ ("Empieza con Cetes, que sí puede explicar.", "Mete todo a la criptomoneda antes de que suba.", "Pide prestado para invertir más."),
+ ("Primero junta su fondo y después invierte.", "Invierte todo y usa la tarjeta si hay emergencia.", "Invierte lo de la renta del mes."),
+ ("Revisa su meta y su plazo; no decide con miedo.", "Saca todo antes del plazo por si acaso.", "Pasa todo a lo que dicen en la tele."),
+],
+"M8 U06": [
  ("Llena su plan de una página.", "Deja las notas sueltas como están.", "Borra todas sus notas para empezar de cero algún día."),
  ("Lo revisa cada día de pago.", "Lo guarda y lo revisa en diciembre.", "Lo tira porque ya lo hizo."),
  ("No lo anota: no lleva datos sensibles.", "Lo anota para no olvidarlo.", "Anota solo la mitad del NIP."),
