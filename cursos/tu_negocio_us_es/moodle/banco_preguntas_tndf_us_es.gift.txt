@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Negocio US ES/M1
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M1
 
 ::M1 U01 P1::Vendes $3,000 y tus costos son $2,200. ¿Cuánto ganas? {
 	=$800 #¡Correcto! $3,000 menos $2,200.
@@ -85,12 +85,30 @@ $CATEGORY: $course$/Tu Negocio US ES/M1
 }
 
 ::M1 U05 P3::¿Dónde pides ayuda por el juego en EE. UU.? {
-	~En la misma app de apuestas #No es la mejor opción. Gratis, las 24 horas.
-	=En 1-800-GAMBLER #¡Correcto! Gratis, las 24 horas.
-	~Con quien te presta para apostar #No es la mejor opción. Gratis, las 24 horas.
+	~En la misma app de apuestas #No es la mejor opción. Sin costo, las 24 horas.
+	=En 1-800-GAMBLER #¡Correcto! Sin costo, las 24 horas.
+	~Con quien te presta para apostar #No es la mejor opción. Sin costo, las 24 horas.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M2
+::M1 U06 P1::¿A nombre de quién ligas tus cobros del negocio? {
+	~De tu pareja, que sabe más #No es la mejor opción. Tú decides.
+	=A tu nombre #¡Correcto! Tú decides.
+	~De un cliente de confianza #No es la mejor opción. Tú decides.
+}
+
+::M1 U06 P2::Alguien te quita lo que ganas y te impide trabajar. ¿Qué es? {
+	=Abuso económico #¡Correcto! Hay ayuda sin costo.
+	~Un problema de administración #No es la mejor opción. Hay ayuda sin costo.
+	~Algo normal en pareja #No es la mejor opción. Hay ayuda sin costo.
+}
+
+::M1 U06 P3::Un familiar te pide tu EIN para un crédito. ¿Qué pasa si lo prestas? {
+	~Nada #No es la mejor opción. Tu nombre responde.
+	~La deuda es de tu familiar #No es la mejor opción. Tu nombre responde.
+	=La deuda y el historial son tuyos #¡Correcto! Tu nombre responde.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
 	~La suscripción de tu tienda en línea #No es la mejor opción. Sube con cada venta.
@@ -164,7 +182,7 @@ $CATEGORY: $course$/Tu Negocio US ES/M2
 	=Si vendes todo antes de que caduque #¡Correcto! Si no, sale cara.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M3
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M3
 
 ::M3 U01 P1::Tienes $600, cobrarás $900 y pagarás $1,700 esta semana. ¿Cómo terminas? {
 	~Con $200 de sobra #No es la mejor opción. $600 más $900 menos $1,700.
@@ -220,7 +238,25 @@ $CATEGORY: $course$/Tu Negocio US ES/M3
 	~$1,200 #No es la mejor opción. $1,200 entre 12.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M4
+::M3 U04 P1::Tus costos suben y tu precio no. ¿Qué pasa? {
+	=Tu margen se hace más chico #¡Correcto! Por eso revisas precios.
+	~Ganas más #No es la mejor opción. Por eso revisas precios.
+	~Nada, vendes lo mismo #No es la mejor opción. Por eso revisas precios.
+}
+
+::M3 U04 P2::¿Qué pasa con una reserva guardada en efectivo varios años? {
+	~Crece sola #No es la mejor opción. La inflación la desgasta.
+	~Queda igual de útil #No es la mejor opción. La inflación la desgasta.
+	=Pierde poder de compra #¡Correcto! La inflación la desgasta.
+}
+
+::M3 U04 P3::Tu crédito tiene tasa variable. ¿Qué haces? {
+	~Nada, siempre baja #No es la mejor opción. Prepárate por si sube.
+	=Calculas el pago con una tasa más alta #¡Correcto! Prepárate por si sube.
+	~Pides otro crédito para cubrirlo #No es la mejor opción. Prepárate por si sube.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M4
 
 ::M4 U01 P1::Cobras $5,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
 	=$150 #¡Correcto! 3% de $5,000.
@@ -276,7 +312,7 @@ $CATEGORY: $course$/Tu Negocio US ES/M4
 	~Un pago disponible por el monto exacto #No es la mejor opción. La prisa es un gancho.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M5
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M5
 
 ::M5 U01 P1::¿Qué forma de negocio empieza sin trámite de empresa? {
 	=Dueño único #¡Correcto! Empiezas al vender.
@@ -297,9 +333,9 @@ $CATEGORY: $course$/Tu Negocio US ES/M5
 }
 
 ::M5 U02 P1::¿Dónde sacas tu EIN? {
-	~En un sitio privado que cobra una tarifa #No es la mejor opción. Es sin costo.
-	=Gratis en irs.gov #¡Correcto! Es sin costo.
-	~En tu banco #No es la mejor opción. Es sin costo.
+	~En un sitio privado que cobra una tarifa #No es la mejor opción. No tiene costo.
+	=Gratis en irs.gov #¡Correcto! No tiene costo.
+	~En tu banco #No es la mejor opción. No tiene costo.
 }
 
 ::M5 U02 P2::¿Para qué sirve el ITIN? {
@@ -368,7 +404,7 @@ $CATEGORY: $course$/Tu Negocio US ES/M5
 	~Lo guardas como reserva del negocio #No es la mejor opción. Es del estado.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M6
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M6
 
 ::M6 U01 P1::La ganancia extra es $300 al mes y el pago es $400. ¿Qué pasa? {
 	~El crédito se paga solo #No es la mejor opción. Pago mayor que ganancia.
@@ -442,7 +478,25 @@ $CATEGORY: $course$/Tu Negocio US ES/M6
 	~Con la tarjeta del negocio #No es la mejor opción. Sin afectar el negocio.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M7
+::M6 U05 P1::Diste tu nombre y teléfono como referencia para el préstamo de un amigo. ¿Te pueden cobrar? {
+	~Sí, la mitad #No es la mejor opción. La referencia no se obliga.
+	~Sí, si él no paga #No es la mejor opción. La referencia no se obliga.
+	=No, solo diste tus datos #¡Correcto! La referencia no se obliga.
+}
+
+::M6 U05 P2::¿Quién tiene que pagar todo si quien pidió el préstamo no paga? {
+	=El cofirmante #¡Correcto! Firmó el préstamo.
+	~La referencia #No es la mejor opción. Firmó el préstamo.
+	~El vendedor #No es la mejor opción. Firmó el préstamo.
+}
+
+::M6 U05 P3::Un cobrador te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. No pueden cobrarte.
+	=No pagas y te quejas ante la CFPB #¡Correcto! No pueden cobrarte.
+	~Das los datos de la familia de tu amigo #No es la mejor opción. No pueden cobrarte.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M7
 
 ::M7 U01 P1::¿Dónde revisas seguro médico en California si trabajas por tu cuenta? {
 	=En Covered California y Medi-Cal #¡Correcto! Opciones oficiales.
@@ -517,9 +571,9 @@ $CATEGORY: $course$/Tu Negocio US ES/M7
 }
 
 ::M7 U05 P1::¿Cuánto cuesta congelar tu crédito? {
-	~$10 por agencia #No es la mejor opción. Es sin costo en las tres agencias.
-	=Nada #¡Correcto! Es sin costo en las tres agencias.
-	~Es sin costo solo si ya te robaron la identidad #No es la mejor opción. Es sin costo en las tres agencias.
+	~$10 por agencia #No es la mejor opción. No tiene costo en las tres agencias.
+	=Nada #¡Correcto! No tiene costo en las tres agencias.
+	~Es sin costo solo si ya te robaron la identidad #No es la mejor opción. No tiene costo en las tres agencias.
 }
 
 ::M7 U05 P2::¿Dónde reportas un robo de identidad? {
@@ -570,7 +624,7 @@ $CATEGORY: $course$/Tu Negocio US ES/M7
 	=$2 millones #¡Correcto! Daños físicos o capital de trabajo.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M8
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M8
 
 ::M8 U01 P1::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {
 	=Un empleado #¡Correcto! Tú controlas el trabajo.
@@ -644,7 +698,43 @@ $CATEGORY: $course$/Tu Negocio US ES/M8
 	=Al 988 #¡Correcto! Ayuda sin costo las 24 horas.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES/M9
+::M8 U05 P1::¿Qué va primero en tu presentación? {
+	=El problema que resuelves y para quién #¡Correcto! Así entienden tu negocio.
+	~Lo que necesitas #No es la mejor opción. Así entienden tu negocio.
+	~Tu historia completa #No es la mejor opción. Así entienden tu negocio.
+}
+
+::M8 U05 P2::Te piden $300 para «aprobar» un subsidio federal. ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Nadie cobra por un subsidio.
+	~Una garantía #No es la mejor opción. Nadie cobra por un subsidio.
+	=Un fraude #¡Correcto! Nadie cobra por un subsidio.
+}
+
+::M8 U05 P3::Te niegan un préstamo. ¿Qué haces? {
+	~Pides un adelanto de efectivo caro #No es la mejor opción. El «no» también enseña.
+	=Preguntas por qué y buscas apoyo para intentarlo de nuevo #¡Correcto! El «no» también enseña.
+	~Dejas de intentarlo #No es la mejor opción. El «no» también enseña.
+}
+
+::M8 U06 P1::Llega competencia nueva a tu calle. ¿Qué haces? {
+	~Bajas precios aunque pierdas #No es la mejor opción. Compite con lo que te distingue.
+	=Ves qué te hace distinto y ajustas tu oferta #¡Correcto! Compite con lo que te distingue.
+	~Cierras #No es la mejor opción. Compite con lo que te distingue.
+}
+
+::M8 U06 P2::Dicen en redes que cambió una regla del IRS. ¿Qué haces? {
+	=Lo confirmas en el sitio del IRS y con tu preparador #¡Correcto! Confirma antes.
+	~Dejas de aceptar pagos por apps #No es la mejor opción. Confirma antes.
+	~Lo compartes con todos tus clientes #No es la mejor opción. Confirma antes.
+}
+
+::M8 U06 P3::¿Dónde consultas la inflación? {
+	~En la publicidad de un banco #No es la mejor opción. Fuente oficial.
+	~En un grupo de redes #No es la mejor opción. Fuente oficial.
+	=En la BLS #¡Correcto! Fuente oficial.
+}
+
+$CATEGORY: $course$/Tu Negocio US ES v1.2/M9
 
 ::M9 U01 P1::¿Dónde revisas tu historial del Seguro Social? {
 	~En tu banco #No es la mejor opción. Sitio oficial.

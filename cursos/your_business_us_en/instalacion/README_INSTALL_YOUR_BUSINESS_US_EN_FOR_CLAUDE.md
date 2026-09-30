@@ -27,10 +27,14 @@ Rules:
 |---|---|
 | Full name | Your Business, Your Money, Your Future · U.S. |
 | Short name | YBMF-US-EN |
-| Visibility | **Hide** |
-| Format | Topics, 11 sections |
+| Visibility | **Show** |
+| Format | **Tiles** if installed; otherwise Topics. 11 sections |
 | Completion tracking | Yes |
 | Force language | English |
+
+**Tiles format (if available):** in course settings, *Show progress on tiles*: **as a percentage**; one icon per module that fits its topic; the General section above the tiles. If Tiles doesn't exist, use Topics with "Show one section per page."
+
+**Enrolment:** *Enrolment methods* > enable **Self enrolment** with the **enrolment key** the person gives you (if you don't have it, leave "[TBD]" and report it). Turn off guest access.
 
 ## 2. Sections
 
@@ -61,14 +65,14 @@ In each module section:
 
 | Module | Chapters | Pages |
 |---|---|---|
-| M1 | 5 | 20 |
+| M1 | 6 | 24 |
 | M2 | 4 | 16 |
-| M3 | 3 | 12 |
+| M3 | 4 | 16 |
 | M4 | 3 | 12 |
 | M5 | 5 | 20 |
-| M6 | 4 | 16 |
+| M6 | 5 | 20 |
 | M7 | 7 | 28 |
-| M8 | 4 | 16 |
+| M8 | 6 | 24 |
 | M9 | 3 | 12 |
 
 ## 4. Support book
@@ -81,15 +85,15 @@ In section 10, create the glossary `Course key words` and import `3_glossary/Glo
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN/M1* to *M9* are created, with 114 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN v1.2/M1* to *M9* are created, with 129 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
-3. Add **all** questions from *Your Business US EN/MN*, 10 per page:
+3. Add **all** questions from *Your Business US EN v1.2/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|
-| 15 | 12 | 9 | 9 | 15 | 12 | 21 | 12 | 9 |
+| 18 | 12 | 12 | 9 | 15 | 15 | 21 | 18 | 9 |
 
-## 7. H5P activities (38)
+## 7. H5P activities (43)
 
 Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesson order:
 
@@ -103,23 +107,36 @@ Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesso
 
 **Check:** open 3 random activities with *Switch role to > Student*. You should see 3 cases, 3 options per case and the grade at the end.
 
-## 8. Level Up, badges, completion and certificate
+## 8. Program surveys
 
-Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with `5_badges/`), 4 (completion with the 9 self-assessments) and 5 (certificate with `6_certificate/certificate_background.png`). If Level Up or Custom certificate does not exist, do not install it: skip that step and report it.
+`8_surveys/` has the surveys and their document `surveys.md`. Use the **Feedback** module in **anonymous** mode and, in each one, *Templates > Import questions* with its XML (if the import fails, build them by hand from `surveys.md`):
+
+| Activity | Section | File | Completion |
+|---|---|---|---|
+| `Start survey` | General | `survey_start.xml` | Submit |
+| `Final survey` | 11 | `survey_final.xml` | Submit; required for the certificate |
+| `30-day follow-up` | 11 | `survey_follow_up.xml` | Submit |
+| `90-day follow-up` | 11 | `survey_follow_up.xml` | Submit |
+
+Restrict the follow-ups by date: 30 and 90 days after the cohort's end date ("[TBD]"). The final survey is the program's evidence of results: don't skip it.
+
+## 9. Level Up, badges, completion and certificate
+
+Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with `5_badges/`; each name includes the course so it's unique on the platform), 4 (completion with the 9 self-assessments) and 5 (certificate with the standard template and the data in `6_certificate/certificate.md`). If Level Up or Custom certificate does not exist, do not install it: skip that step and report it.
 
 ## 9. Community (optional, ask first)
 
 Ask the person whether they want you to create the course **Your Business Community · U.S.** (`YBMF-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.
 
-## 10. Final review (as a student)
+## 11. Final review (as a student)
 
 - M1 U01: cover page first, two path buttons, colored terms with their meaning and "Current fact" or "Before you act, check" boxes.
 - One H5P per module opens, shows 3 cases and records a grade.
 - One self-assessment shows 3 options per question.
 - The support book shows "See the key" in the case studies and collapsible frequently asked questions.
 
-## 11. Report for the person
+## 12. Report for the person
 
-Course link; pages per book; H5P per module; questions per self-assessment; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of a cover page, an H5P, a self-assessment and the certificate preview.
+Course link; pages per book; H5P per module; questions per self-assessment; surveys created; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of the tiles home page, an H5P, a self-assessment and the certificate preview.
 
-The course stays **hidden**. The person decides when to show it.
+The course stays **visible**, with enrolment by key. For the catalog listing, use `catalog_card.md`.

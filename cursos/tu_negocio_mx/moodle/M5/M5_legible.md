@@ -33,20 +33,20 @@
 | Licencia o aviso del municipio | Según tu giro y ubicación. | Pregunta en tu alcaldía o municipio. |
 | Protección Civil | Para locales con público. | Revisa requisitos. |
 | Aviso sanitario | Para comida y alimentos. | COFEPRIS o salud estatal. |
-| Gestores que cobran de más | El trámite del RFC es gratis. | No pagues por él. |
+| Gestores que cobran de más | El trámite del RFC no tiene costo. | No pagues por él. |
 
 #### Un caso en un minuto
 
 Toño sacó cita en el SAT, se inscribió en RESICO y tramitó su e.firma sin pagar a nadie. Una semana después emitió su primera factura a la constructora.
 
-> **Idea clave:** formalizarte abre clientes, crédito y seguridad social; los trámites del SAT son gratuitos y puedes empezar por el RFC.
+> **Idea clave:** formalizarte abre clientes, crédito y seguridad social; los trámites del SAT no tienen costo y puedes empezar por el RFC.
 
 
 
 #### Comprueba lo que entendiste
 
 1. ¿Cuánto cuesta inscribirte en el RFC?
-*Respuesta:* Nada: es gratuito.
+*Respuesta:* Nada: no tiene costo.
 
 2. ¿Para qué sirve la e.firma?
 *Respuesta:* Para trámites del SAT y para facturar.
@@ -54,7 +54,7 @@ Toño sacó cita en el SAT, se inscribió en RESICO y tramitó su e.firma sin pa
 
 #### Para recordar
 
-- RFC, e.firma y buzón: gratis.
+- RFC, e.firma y buzón: sin costo.
 - Permisos locales según giro.
 - Sin gestores para el RFC.
 
@@ -79,9 +79,9 @@ Tu contraseña del SAT y tu e.firma son como tu firma autógrafa. No las compart
 
 
 
-#### Ayuda gratuita
+#### Ayuda sin costo
 
-El SAT atiende con cita y por teléfono. PRODECON orienta gratis y te defiende ante el SAT si tienes un problema. En la comunidad del curso también hay sesiones de dudas.
+El SAT atiende con cita y por teléfono. PRODECON orienta sin costo y te defiende ante el SAT si tienes un problema. En la comunidad del curso también hay sesiones de dudas.
 
 > **Antes de actuar, verifica:** los requisitos y citas en el sitio oficial del SAT (sat.gob.mx); desconfía de páginas o personas que cobran por sacarte el RFC.
 
@@ -99,7 +99,7 @@ Una constructora pide factura a Toño para contratarlo.
 **Caso 2. El gestor de Rosa**
 
 Un gestor ofrece a Rosa sacarle el RFC por 1,500.
-- *¿Qué hace?* Lo tramita ella gratis en el SAT, con cita.
+- *¿Qué hace?* Lo tramita ella sin costo en el SAT, con cita.
 
 
 **Caso 3. La contraseña de Mariana**
@@ -112,7 +112,7 @@ Su contadora le pide a Mariana su e.firma por WhatsApp.
 
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
-| Pagar por el RFC | Gasto innecesario | Es gratis |
+| Pagar por el RFC | Gasto innecesario | Es sin costo |
 | Compartir e.firma | Te suplantan | Solo tú |
 | No activar el buzón | No ves avisos | Actívalo |
 | Olvidar lo local | Clausura | Pregunta en tu municipio |
@@ -130,7 +130,7 @@ Su contadora le pide a Mariana su e.firma por WhatsApp.
 1. ¿Cuánto cobra el SAT por inscribirte en el RFC? a) Depende del gestor · b) Nada · c) 1,500
 2. ¿Dónde recibes avisos oficiales del SAT? a) Por WhatsApp de un número desconocido · b) En redes sociales · c) En tu buzón tributario
 3. ¿Qué haces con tu e.firma? a) La guardas solo tú · b) La compartes con quien te ayude · c) La subes a una nube pública
-**Respuestas:** 1-b: es gratuito. 2-c: canal oficial. 3-a: es tu firma.
+**Respuestas:** 1-b: no tiene costo. 2-c: canal oficial. 3-a: es tu firma.
 
 
 
@@ -150,7 +150,7 @@ Revisa qué necesitas para tu RFC en el sitio del SAT y pregunta en tu municipio
 ### Para saber más
 
 - **Inscripción al RFC** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «inscripción en el RFC con CURP».
-- **Orientación gratuita** (PRODECON · español): https://www.gob.mx/prodecon — **Qué buscar:** «asesoría».
+- **Orientación sin costo** (PRODECON · español): https://www.gob.mx/prodecon — **Qué buscar:** «asesoría».
 
 ### Palabras clave
 
@@ -335,7 +335,7 @@ SAT · Ley del ISR · Resolución Miscelánea Fiscal 2026, consultados el 29 de 
 
 #### Qué es una factura
 
-Una factura (CFDI) prueba una venta ante el SAT. Puedes emitirla gratis en el portal del SAT o con un proveedor de facturación.
+Una factura (CFDI) prueba una venta ante el SAT. Puedes emitirla sin costo en el portal del SAT o con un proveedor de facturación.
 
 
 
@@ -379,7 +379,7 @@ Toño pidió a la constructora su constancia de situación fiscal y copió los d
 
 - Datos exactos de la constancia.
 - Factura global para público en general.
-- Portal del SAT gratis.
+- Portal del SAT sin costo.
 
 
 
@@ -695,7 +695,7 @@ Pregunta qué incluye (declaraciones, facturas, nómina), cuánto cobra al mes y
 
 #### Si te atrasaste
 
-Presenta cuanto antes: los recargos crecen cada mes. Si no puedes pagar todo, el SAT tiene opciones de pago en parcialidades. PRODECON orienta gratis si tienes una diferencia con el SAT.
+Presenta cuanto antes: los recargos crecen cada mes. Si no puedes pagar todo, el SAT tiene opciones de pago en parcialidades. PRODECON orienta sin costo si tienes una diferencia con el SAT.
 
 
 

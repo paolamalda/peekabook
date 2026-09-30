@@ -469,3 +469,162 @@ Fija tu meta de reserva y el porcentaje de cada venta que apartarás desde esta 
 Cetesdirecto · IPAB, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M3 U04. Inflación, tasas e interés compuesto en tu negocio
+
+**Lo que lograrás:** Entender cómo la inflación sube tus costos y le quita valor a tu efectivo, cuándo y cómo ajustar precios, y cómo el interés compuesto hace crecer tu reserva o tu deuda.
+
+**Para empezar:** Don Pepe vende el refresco al mismo precio desde hace un año, pero su proveedor ya le subió tres veces. Vende lo mismo y le queda menos. En esta lección verás cómo proteger tu margen.
+
+### Lo esencial (5 minutos)
+
+#### La inflación sube tus costos
+
+Con la inflación, tus insumos, la renta y el gas suben. Si tus precios se quedan igual, tu margen se achica aunque vendas lo mismo.
+
+> **Dato vigente:** la meta de inflación del Banco de México es de 3% anual, con un margen de un punto hacia arriba o hacia abajo; la inflación de cada mes la publica el INEGI. Consultado el 30 de septiembre de 2026 a través del Banco de México y el INEGI.
+
+
+
+#### El margen de Don Pepe
+
+Así cambió el margen de un refresco.
+- Precio de venta: **20**
+- Costo después de tres aumentos (antes 13): **15**
+- Margen por pieza (antes 7): **5**
+Vende lo mismo, pero gana casi 30% menos por pieza.
+
+
+#### Revisa costos y precios cada trimestre
+
+Cada tres meses compara tus costos con los del trimestre pasado. Si subieron, recalcula tu precio (M2 U02) y tu punto de equilibrio (M2 U03). Sube poco y avisa a tus clientes, en lugar de un salto grande.
+
+
+
+#### Un caso en un minuto
+
+Don Pepe revisó sus diez productos más vendidos: en siete su costo había subido. Ajustó precios un peso, avisó con un letrero y recuperó su margen sin perder clientes.
+
+> **Idea clave:** con la inflación tus costos suben; revisa costos y precios cada trimestre y protege tu margen.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pasa con tu margen si tus costos suben y tus precios no?
+*Respuesta:* Se hace más chico.
+
+2. ¿Cada cuándo revisas costos y precios?
+*Respuesta:* Cada tres meses.
+
+
+#### Para recordar
+
+- La inflación sube tus costos.
+- Revisa cada trimestre.
+- Ajustes pequeños y avisados.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu reserva también pierde valor
+
+La reserva del negocio en efectivo pierde poder de compra con la inflación. Guárdala en una opción protegida que pague algo, sin perder disponibilidad (M3 U03).
+
+
+
+#### Las tasas y tus créditos
+
+Cuando el Banco de México sube su tasa de referencia, suelen subir las tasas de los créditos. Si tu crédito tiene tasa variable, tu pago puede cambiar. Prefiere tasa fija o calcula el pago con una tasa más alta.
+
+
+
+#### 10,000 al 10% anual, con interés compuesto
+
+| Año | En tu reserva | En una deuda |
+|---|---|---|
+| 1 | 11,000 | debes 11,000 |
+| 3 | 13,310 | debes 13,310 |
+| 5 | 16,105 | debes 16,105 |
+
+> **Antes de actuar, verifica:** la inflación del último año en el INEGI y si la tasa de tu crédito es fija o variable.
+
+
+
+#### Casos
+
+
+**Caso 1. El refresco de Don Pepe**
+
+El costo del refresco subió de 13 a 15 y Don Pepe lo sigue vendiendo en 20.
+- *¿Qué hace?* Revisa sus costos y ajusta poco su precio, avisando a sus clientes.
+
+
+**Caso 2. La reserva de Rosa**
+
+Rosa guarda la reserva de la fonda en efectivo desde hace dos años.
+- *¿Qué hace?* La pasa a una opción protegida que pague algo y siga disponible.
+
+
+**Caso 3. El crédito de Toño**
+
+A Toño le ofrecen un crédito con tasa variable para herramienta.
+- *¿Qué hace?* Calcula el pago con una tasa más alta o busca tasa fija.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Precios congelados | Margen que se va | Revisa cada trimestre |
+| Reserva en efectivo | Pierde valor | Opción protegida |
+| Tasa variable sin cálculo | Pago que sube | Calcula con más |
+| Subir de golpe | Pierdes clientes | Poco y avisado |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Rosa y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tus costos suben y tu precio no. ¿Qué pasa? a) Tu margen se hace más chico · b) Ganas más · c) Nada, vendes lo mismo
+2. ¿Qué pasa con una reserva guardada en efectivo varios años? a) Crece sola · b) Queda igual de útil · c) Pierde poder de compra
+3. Tu crédito tiene tasa variable. ¿Qué haces? a) Nada, siempre baja · b) Calculas el pago con una tasa más alta · c) Pides otro crédito para cubrirlo
+**Respuestas:** 1-a: por eso revisas precios. 2-c: la inflación la desgasta. 3-b: prepárate por si sube.
+
+
+
+#### Ponlo en práctica
+
+Un insumo subió de 40 a 46. ¿En qué porcentaje subió?
+**Respuesta:** 15% (6 entre 40).
+
+
+
+#### A tu plan
+
+Anota el costo de tus cinco productos más vendidos y vuelve a revisarlo en tres meses.
+
+
+
+### Para saber más
+
+- **Inflación** (INEGI · español): https://www.inegi.org.mx — **Qué buscar:** «INPC».
+- **Tasa de referencia** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** «tasa objetivo».
+
+### Palabras clave
+
+- *Inflación:* aumento general de los precios con el tiempo.
+- *Margen:* lo que te queda por pieza después de su costo.
+- *Tasa variable:* tasa de interés que puede cambiar durante el crédito.
+
+### Fuentes
+
+Banco de México · INEGI, consultados el 30 de septiembre de 2026.
+
+---

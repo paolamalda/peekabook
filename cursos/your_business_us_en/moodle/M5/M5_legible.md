@@ -68,7 +68,7 @@ Use a bank account only for the LLC, sign contracts in the LLC's name and don't 
 
 Many websites charge to form an LLC or get an EIN, things you can do yourself on official sites. Letters that imitate the government also arrive charging for "certificates" or "annual reports." Always check the sender.
 
-> **Before you act, check:** your state's rules and costs on the Secretary of State's site; if you have questions, talk to an accountant or a free SBA center (SBDC).
+> **Before you act, check:** your state's rules and costs on the Secretary of State's site; if you have questions, talk to an accountant or a no-cost SBA center (SBDC).
 
 
 
@@ -151,7 +151,7 @@ SBA · California Franchise Tax Board · California Secretary of State, accessed
 
 ## M5 U02. Numbers and permits: EIN, ITIN and licenses
 
-**What you will be able to do:** Know which tax number to use, how to get a free EIN and which licenses and permits your business may need.
+**What you will be able to do:** Know which tax number to use, how to get a no-cost EIN and which licenses and permits your business may need.
 
 **To start:** Lupita wants to sell tamales at a market and they ask for her "license, health permit and seller's permit." She doesn't know where to start or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits.
 
@@ -164,11 +164,11 @@ SBA · California Franchise Tax Board · California Secretary of State, accessed
 | SSN or ITIN | Your personal tax number. | The ITIN lets you file if you don't have an SSN. |
 | EIN | Your business's number with the IRS. | Free at irs.gov. |
 | Seller's permit (California) | To sell taxable products. | From the CDTFA, at no cost. |
-| Sites that charge for an EIN | The process is free. | Don't pay. |
+| Sites that charge for an EIN | The process costs nothing. | Don't pay. |
 
 #### The EIN
 
-An EIN identifies your business. You need it if you have employees or certain kinds of LLC, and it's useful for opening accounts and giving to customers instead of your SSN. You get it free on the IRS website; the person applying needs an SSN or ITIN.
+An EIN identifies your business. You need it if you have employees or certain kinds of LLC, and it's useful for opening accounts and giving to customers instead of your SSN. You get it no-cost on the IRS website; the person applying needs an SSN or ITIN.
 
 
 
@@ -185,16 +185,16 @@ An EIN identifies your business. You need it if you have employees or certain ki
 
 #### A case in one minute
 
-Lupita got her EIN free at irs.gov with her ITIN, requested her seller's permit from the CDTFA at no cost and registered as a Cottage Food Operation with her county health department. Now she can sell at the market.
+Lupita got her EIN no-cost at irs.gov with her ITIN, requested her seller's permit from the CDTFA at no cost and registered as a Cottage Food Operation with her county health department. Now she can sell at the market.
 
-> **Key idea:** the EIN and the seller's permit are free on official sites; check with your city and county which licenses your trade needs.
+> **Key idea:** the EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs.
 
 
 
 #### Check your understanding
 
 1. How much does an EIN cost?
-*Answer:* Nothing: it's free at irs.gov.
+*Answer:* Nothing: it costs nothing at irs.gov.
 
 2. What permit do you need in California to sell taxable products?
 *Answer:* A seller's permit from the CDTFA.
@@ -234,7 +234,7 @@ CalGold (calgold.ca.gov) shows the permits usually required in California by cit
 **Case 1. Lupita's EIN**
 
 A website charges Lupita $150 to get her EIN.
-- *What does she do?* She gets it free at irs.gov with her ITIN.
+- *What does she do?* She gets it no-cost at irs.gov with her ITIN.
 
 
 **Case 2. Javier's big job**
@@ -271,7 +271,7 @@ A "notario" offers to fix Don Ramón's immigration papers and permits for $2,000
 1. Where do you get your EIN? a) From a private site that charges a fee · b) Free at irs.gov · c) At your bank
 2. What is the ITIN for? a) Filing taxes if you can't get an SSN · b) Working as an employee · c) Voting
 3. In California, when do you need a CSLB license? a) Never for small painting or repair jobs · b) Only if you have full-time employees · c) For jobs over $1,000 or that require a permit
-**Answers:** 1-b: it's free. 2-a: IRS tax number. 3-c: rule in effect since 2025.
+**Answers:** 1-b: it costs nothing. 2-a: IRS tax number. 3-c: rule in effect since 2025.
 
 
 
@@ -296,7 +296,7 @@ Look up in CalGold (or your state's office) which licenses your type of business
 
 ### Key words
 
-- *EIN:* employer identification number: your business's free number with the IRS.
+- *EIN:* employer identification number: your business costs nothing number with the IRS.
 - *ITIN:* individual taxpayer identification number, for people who can't get an SSN.
 - *Seller's permit:* a California permit to sell products and collect sales tax.
 
@@ -382,7 +382,7 @@ As a sole proprietor, you report sales and expenses on Schedule C of your return
 
 #### Free or low-cost help
 
-VITA programs help people with moderate incomes for free, although not all of them handle businesses with complex expenses. As your business grows, an accountant or a preparer with a PTIN saves you mistakes. Your state (in California, the Franchise Tax Board) also charges income tax.
+VITA programs help people with moderate incomes at no cost, although not all of them handle businesses with complex expenses. As your business grows, an accountant or a preparer with a PTIN saves you mistakes. Your state (in California, the Franchise Tax Board) also charges income tax.
 
 > **Before you act, check:** your situation with a tax preparer; the rules change every year and depend on your family and other income.
 
@@ -627,7 +627,7 @@ IRS · One Big Beautiful Bill Act (2025), accessed September 29, 2026.
 
 Sales tax is collected from your customer and sent to the state. It's not part of your profit: set it aside as soon as you collect it. Each state has its own rules; some have no sales tax.
 
-> **Current fact:** in California, the base statewide sales tax rate is 7.25%, and many cities and counties add local rates. Selling taxable products requires a seller's permit from the CDTFA, which is free. Accessed September 29, 2026 through the CDTFA.
+> **Current fact:** in California, the base statewide sales tax rate is 7.25%, and many cities and counties add local rates. Selling taxable products requires a seller's permit from the CDTFA, which costs nothing. Accessed September 29, 2026 through the CDTFA.
 
 
 

@@ -224,7 +224,7 @@ Si un familiar seguirá con el negocio, acuerden por escrito cuándo, en qué co
 
 #### Testamento y beneficiarios
 
-El equipo, el inventario y el dinero del negocio son parte de tu patrimonio. Un testamento o un fideicomiso en vida (living trust) y beneficiarios actualizados en cuentas, IRA y seguros evitan trámites largos a tu familia. Hay clínicas legales gratuitas o de bajo costo.
+El equipo, el inventario y el dinero del negocio son parte de tu patrimonio. Un testamento o un fideicomiso en vida (living trust) y beneficiarios actualizados en cuentas, IRA y seguros evitan trámites largos a tu familia. Hay clínicas legales sin costo o de bajo costo.
 
 > **Antes de actuar, verifica:** los pasos para cerrar con el IRS, tu estado y tu ciudad, y consulta a un abogado para testamento o traspaso.
 
@@ -334,6 +334,7 @@ Una hoja te obliga a elegir lo importante. La pegas donde la veas y la revisas c
 | Protección | Seguro médico: ___ · Seguro del negocio: ___ · Marca: ___ |
 | Números del mes | Revisión el día ___ |
 | Futuro | Seguro Social revisado: sí / no · Cuenta de retiro: ___ · Carpeta: sí / no |
+| Mi compromiso | Meta: ___ · Monto: ___ cada ___ · Testigo: ___ · Recordatorio: día ___ |
 
 
 
@@ -347,7 +348,13 @@ Pon una fecha fija, por ejemplo junto a tus pagos estimados. Actualiza números,
 
 Daniela llenó su hoja en una tarde. Le faltaban dos cosas: su cuenta de retiro y revisar su marca. Las puso como metas del próximo trimestre.
 
-> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses y mejora una cosa a la vez.
+
+
+#### Tu compromiso
+
+Escoge una meta del trimestre con nombre («reserva de dos meses para el invierno»), cuánto apartarás y cada cuándo. Cuéntasela a alguien de confianza o a tu grupo de la comunidad. Programa una transferencia automática el día que cobras y un recordatorio mensual con el nombre de tu meta.
+
+> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 
 
@@ -378,7 +385,13 @@ Si te faltan muchas cosas, empieza por: 1) separar el dinero y apartar impuestos
 
 #### Compártelo
 
-Comparte tu plan con alguien de confianza o en la comunidad (sin datos personales ni montos reales). Un asesor gratuito de un SBDC o de SCORE también puede revisarlo contigo.
+Comparte tu plan con alguien de confianza o en la comunidad (sin datos personales ni montos reales). Un asesor sin costo de un SBDC o de SCORE también puede revisarlo contigo.
+
+
+
+#### Por qué funciona
+
+Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
@@ -444,7 +457,7 @@ Llena tu plan de una página y pon la fecha de tu primera revisión.
 
 ### Para saber más
 
-- **Asesoría gratuita** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «SBDC» y «SCORE».
+- **Asesoría sin costo** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «SBDC» y «SCORE».
 
 ### Palabras clave
 
@@ -453,6 +466,6 @@ Llena tu plan de una página y pon la fecha de tu primera revisión.
 
 ### Fuentes
 
-SBA, consultado el 29 de septiembre de 2026.
+SBA, consultado el 29 de septiembre de 2026 · Innovations for Poverty Action y J-PAL, «Nudges para una óptima salud financiera».
 
 ---

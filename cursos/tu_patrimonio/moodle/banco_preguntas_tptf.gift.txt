@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Patrimonio/M1
+$CATEGORY: $course$/Tu Patrimonio v1.2/M1
 
 ::M1 U01 P1::¿Qué va en tu inventario? {
 	~Tus contraseñas, para tenerlas juntas #No es la mejor opción. Es el mapa básico.
@@ -72,12 +72,30 @@ $CATEGORY: $course$/Tu Patrimonio/M1
 	=Con una nota de para qué es y la fecha #¡Correcto! Dificulta que la usen para otra cosa.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M2
+::M1 U05 P1::Un aceite de 1 litro cuesta 48 y uno de 3 litros cuesta 150. ¿Cuál sale más barato por litro? {
+	~El de 3 litros #No es la mejor opción. 48 contra 50 por litro.
+	=El de 1 litro #¡Correcto! 48 contra 50 por litro.
+	~Cuestan igual #No es la mejor opción. 48 contra 50 por litro.
+}
+
+::M1 U05 P2::¿Qué haces antes de una compra nueva a plazos? {
+	=Sumas los pagos que ya tienes #¡Correcto! Tu presupuesto tiene límite.
+	~Compras si es sin intereses #No es la mejor opción. Tu presupuesto tiene límite.
+	~Pides otra tarjeta #No es la mejor opción. Tu presupuesto tiene límite.
+}
+
+::M1 U05 P3::Ya pagaste algo que no usas. ¿Qué haces? {
+	~Sigues pagando para no perder lo pagado #No es la mejor opción. Lo pagado no se recupera.
+	~Pagas otro año más #No es la mejor opción. Lo pagado no se recupera.
+	=Decides por lo que te conviene de hoy en adelante #¡Correcto! Lo pagado no se recupera.
+}
+
+$CATEGORY: $course$/Tu Patrimonio v1.2/M2
 
 ::M2 U01 P1::¿Qué hace la CONDUSEF? {
-	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. Es sin costo y defiende a los usuarios.
-	=Orienta y defiende a los usuarios #¡Correcto! Es sin costo y defiende a los usuarios.
-	~Presta dinero en emergencias #No es la mejor opción. Es sin costo y defiende a los usuarios.
+	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. No tiene costo y defiende a los usuarios.
+	=Orienta y defiende a los usuarios #¡Correcto! No tiene costo y defiende a los usuarios.
+	~Presta dinero en emergencias #No es la mejor opción. No tiene costo y defiende a los usuarios.
 }
 
 ::M2 U01 P2::¿Dónde verificas si un banco está autorizado? {
@@ -146,7 +164,7 @@ $CATEGORY: $course$/Tu Patrimonio/M2
 	~3,500 #No es la mejor opción. 350 por 12 meses son 4,200.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M3
+$CATEGORY: $course$/Tu Patrimonio v1.2/M3
 
 ::M3 U01 P1::¿Qué nunca te pide tu banco? {
 	~Que revises tus movimientos #No es la mejor opción. Los códigos son solo tuyos.
@@ -238,7 +256,7 @@ $CATEGORY: $course$/Tu Patrimonio/M3
 	~Le das la mitad de la contraseña #No es la mejor opción. Nadie más debe saberla.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M4
+$CATEGORY: $course$/Tu Patrimonio v1.2/M4
 
 ::M4 U01 P1::¿Qué gancho usa «tiene cinco minutos o pierde su dinero»? {
 	~Premio #No es la mejor opción. La prisa es el gancho.
@@ -337,9 +355,9 @@ $CATEGORY: $course$/Tu Patrimonio/M4
 }
 
 ::M4 U06 P2::¿Cuánto cuesta consultar las líneas con tu CURP? {
-	=Nada #¡Correcto! Es sin costo.
-	~Lo que cobre cada compañía #No es la mejor opción. Es sin costo.
-	~Una cuota anual al gobierno #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! No tiene costo.
+	~Lo que cobre cada compañía #No es la mejor opción. No tiene costo.
+	~Una cuota anual al gobierno #No es la mejor opción. No tiene costo.
 }
 
 ::M4 U06 P3::¿Qué haces con estados de cuenta viejos? {
@@ -361,9 +379,9 @@ $CATEGORY: $course$/Tu Patrimonio/M4
 }
 
 ::M4 U07 P3::Te cobran por inscribirte en el REPEP. ¿Qué es? {
-	~Una cuota oficial #No es la mejor opción. Es sin costo.
-	~Un servicio exprés #No es la mejor opción. Es sin costo.
-	=Un fraude #¡Correcto! Es sin costo.
+	~Una cuota oficial #No es la mejor opción. No tiene costo.
+	~Un servicio exprés #No es la mejor opción. No tiene costo.
+	=Un fraude #¡Correcto! No tiene costo.
 }
 
 ::M4 U08 P1::¿Qué haces primero si ves cargos que no reconoces? {
@@ -384,7 +402,7 @@ $CATEGORY: $course$/Tu Patrimonio/M4
 	=Capturas, fechas, montos y folios #¡Correcto! Ayudan a tu reclamación.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M5
+$CATEGORY: $course$/Tu Patrimonio v1.2/M5
 
 ::M5 U01 P1::¿Qué indica la GAT real? {
 	~Lo que te cobra el banco cada mes por manejo #No es la mejor opción. Descuenta la inflación.
@@ -458,7 +476,61 @@ $CATEGORY: $course$/Tu Patrimonio/M5
 	=Cuelgas y entras solo al sitio oficial #¡Correcto! No llaman para ofrecer tasas.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M6
+::M5 U05 P1::¿Qué pago te libra de intereses? {
+	~El pago mínimo #No es la mejor opción. Pagas lo del periodo sin intereses.
+	=El pago para no generar intereses #¡Correcto! Pagas lo del periodo sin intereses.
+	~Cualquier pago antes de fin de mes #No es la mejor opción. Pagas lo del periodo sin intereses.
+}
+
+::M5 U05 P2::Tu hijo gasta con una tarjeta adicional. ¿De quién es la deuda? {
+	=Tuya #¡Correcto! La titular responde.
+	~De tu hijo #No es la mejor opción. La titular responde.
+	~Del banco #No es la mejor opción. La titular responde.
+}
+
+::M5 U05 P3::¿Cuándo conviene comprar a meses sin intereses? {
+	~Siempre que haya oferta #No es la mejor opción. Si no, se vuelve carga.
+	~Cuando el precio es mayor que el de contado #No es la mejor opción. Si no, se vuelve carga.
+	=Cuando el precio es igual al de contado y el pago cabe en tu presupuesto #¡Correcto! Si no, se vuelve carga.
+}
+
+::M5 U06 P1::¿Cuánto cuesta tu reporte especial una vez al año? {
+	=Nada #¡Correcto! La ley lo hace sin costo.
+	~Lo que cobre el despacho #No es la mejor opción. La ley lo hace sin costo.
+	~Un mes de intereses #No es la mejor opción. La ley lo hace sin costo.
+}
+
+::M5 U06 P2::Firmaste como aval y la otra persona no paga. ¿Qué pasa? {
+	~Nada, no es tu crédito #No es la mejor opción. El aval responde.
+	=Te pueden cobrar y afectar tu historial #¡Correcto! El aval responde.
+	~El banco lo perdona #No es la mejor opción. El aval responde.
+}
+
+::M5 U06 P3::Te ofrecen borrar tu Buró por una cuota. ¿Qué es? {
+	~Un servicio útil #No es la mejor opción. Nadie borra información correcta.
+	~Un trámite de CONDUSEF #No es la mejor opción. Nadie borra información correcta.
+	=Un fraude #¡Correcto! Nadie borra información correcta.
+}
+
+::M5 U07 P1::Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? {
+	~Sí, la mitad #No es la mejor opción. La referencia no se obliga.
+	~Sí, si él no paga #No es la mejor opción. La referencia no se obliga.
+	=No, solo diste tus datos #¡Correcto! La referencia no se obliga.
+}
+
+::M5 U07 P2::¿Quién responde por todo el contrato como si hubiera pedido el crédito? {
+	=El obligado solidario #¡Correcto! Por eso le pueden cobrar directo.
+	~La referencia personal #No es la mejor opción. Por eso le pueden cobrar directo.
+	~El vendedor #No es la mejor opción. Por eso le pueden cobrar directo.
+}
+
+::M5 U07 P3::Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. No pueden cobrar a referencias.
+	=No pagas y te quejas en el REDECO #¡Correcto! No pueden cobrar a referencias.
+	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
+}
+
+$CATEGORY: $course$/Tu Patrimonio v1.2/M6
 
 ::M6 U01 P1::Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? {
 	~13% #No es la mejor opción. 8 menos 5.
@@ -550,7 +622,25 @@ $CATEGORY: $course$/Tu Patrimonio/M6
 	=No\: tu dinero va a una cuenta a tu nombre #¡Correcto! Sin protección en su cuenta.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M7
+::M6 U06 P1::Circula que van a quitar las pensiones. ¿Qué haces? {
+	~Retiras todo lo que puedas #No es la mejor opción. Confirma antes.
+	=Lo confirmas en el sitio oficial antes de actuar #¡Correcto! Confirma antes.
+	~Lo reenvías a todos #No es la mejor opción. Confirma antes.
+}
+
+::M6 U06 P2::Tus Cetes son para una meta de dos años y todos están vendiendo. ¿Qué haces? {
+	~Vendes antes que los demás #No es la mejor opción. El plan manda, no la manada.
+	~Pasas todo a efectivo en casa #No es la mejor opción. El plan manda, no la manada.
+	=Revisas tu meta y tu plazo; si no cambiaron, sigues #¡Correcto! El plan manda, no la manada.
+}
+
+::M6 U06 P3::¿Quién fija la tasa de interés de referencia en México? {
+	=El Banco de México #¡Correcto! Para cuidar la inflación.
+	~Tu banco #No es la mejor opción. Para cuidar la inflación.
+	~La CONDUSEF #No es la mejor opción. Para cuidar la inflación.
+}
+
+$CATEGORY: $course$/Tu Patrimonio v1.2/M7
 
 ::M7 U01 P1::Empezaste a cotizar en 1990. ¿Qué ley te puede aplicar? {
 	=La Ley 73 #¡Correcto! Cotizaste antes de julio de 1997.
@@ -601,9 +691,9 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 }
 
 ::M7 U03 P3::¿Quién puede cobrarte por inscribirte? {
-	=Nadie\: el trámite no tiene costo #¡Correcto! Es sin costo.
-	~Un gestor autorizado por el IMSS para agilizar la inscripción #No es la mejor opción. Es sin costo.
-	~Tu AFORE, con una comisión #No es la mejor opción. Es sin costo.
+	=Nadie\: el trámite no tiene costo #¡Correcto! No tiene costo.
+	~Un gestor autorizado por el IMSS para agilizar la inscripción #No es la mejor opción. No tiene costo.
+	~Tu AFORE, con una comisión #No es la mejor opción. No tiene costo.
 }
 
 ::M7 U04 P1::¿Cuánto da la Pensión de Adultos Mayores en 2026? {
@@ -613,9 +703,9 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 }
 
 ::M7 U04 P2::Te piden dinero para aumentar tu pensión del Bienestar. ¿Qué es? {
-	=Un fraude #¡Correcto! Es sin costo.
-	~Un trámite especial para adultos mayores #No es la mejor opción. Es sin costo.
-	~Una cuota voluntaria #No es la mejor opción. Es sin costo.
+	=Un fraude #¡Correcto! No tiene costo.
+	~Un trámite especial para adultos mayores #No es la mejor opción. No tiene costo.
+	~Una cuota voluntaria #No es la mejor opción. No tiene costo.
 }
 
 ::M7 U04 P3::La pensión de tu esposo es de 20,000 al mes. ¿Cuánto sería, en general, tu pensión de viudez? {
@@ -660,7 +750,7 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 	~Les pides un pagaré y listo #No es la mejor opción. Primero tu seguridad.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M8
+$CATEGORY: $course$/Tu Patrimonio v1.2/M8
 
 ::M8 U01 P1::¿Qué es el coaseguro? {
 	=El porcentaje que pagas después del deducible #¡Correcto! Tu parte después del deducible.
@@ -729,9 +819,9 @@ $CATEGORY: $course$/Tu Patrimonio/M8
 }
 
 ::M8 U04 P3::¿Cuánto cuesta actualizar beneficiarios? {
-	~Una comisión fija #No es la mejor opción. Es sin costo.
-	=Nada #¡Correcto! Es sin costo.
-	~Depende de la suma asegurada #No es la mejor opción. Es sin costo.
+	~Una comisión fija #No es la mejor opción. No tiene costo.
+	=Nada #¡Correcto! No tiene costo.
+	~Depende de la suma asegurada #No es la mejor opción. No tiene costo.
 }
 
 ::M8 U05 P1::¿Qué cobertura del auto es la más importante? {
@@ -770,7 +860,7 @@ $CATEGORY: $course$/Tu Patrimonio/M8
 	~Contratas a un gestor que cobra por adelantado #No es la mejor opción. La CONDUSEF atiende sin costo.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M9
+$CATEGORY: $course$/Tu Patrimonio v1.2/M9
 
 ::M9 U01 P1::Recibes rentas de un departamento. ¿Qué pasa? {
 	~Nunca declaras si eres pensionada #No es la mejor opción. Las rentas suelen obligarte.
@@ -779,9 +869,9 @@ $CATEGORY: $course$/Tu Patrimonio/M9
 }
 
 ::M9 U01 P2::¿Dónde pides ayuda sin costo si tienes un problema con el SAT? {
-	=PRODECON #¡Correcto! Es sin costo.
-	~Con un gestor que cobra #No es la mejor opción. Es sin costo.
-	~En el banco #No es la mejor opción. Es sin costo.
+	=PRODECON #¡Correcto! No tiene costo.
+	~Con un gestor que cobra #No es la mejor opción. No tiene costo.
+	~En el banco #No es la mejor opción. No tiene costo.
 }
 
 ::M9 U01 P3::Te llega un enlace del «SAT» para una devolución. ¿Qué haces? {
@@ -826,7 +916,7 @@ $CATEGORY: $course$/Tu Patrimonio/M9
 	~Nada, se pierde #No es la mejor opción. Es tu dinero.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M10
+$CATEGORY: $course$/Tu Patrimonio v1.2/M10
 
 ::M10 U01 P1::¿Ante quién se hace un testamento? {
 	~Ante un abogado cualquiera #No es la mejor opción. Así es válido.
@@ -936,7 +1026,7 @@ $CATEGORY: $course$/Tu Patrimonio/M10
 	=Se te entrega o se suma a tu pensión, según tu régimen #¡Correcto! No se pierde.
 }
 
-$CATEGORY: $course$/Tu Patrimonio/M11
+$CATEGORY: $course$/Tu Patrimonio v1.2/M11
 
 ::M11 U01 P1::Te dicen «la oferta solo es hoy». ¿Qué haces? {
 	=Esperas y comparas #¡Correcto! La prisa es del vendedor.

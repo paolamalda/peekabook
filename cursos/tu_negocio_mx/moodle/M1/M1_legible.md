@@ -28,7 +28,7 @@ Rosa creía que ganaba 30,000. En realidad le quedan 6,500, y de ahí también s
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | Ganas | Ventas mayores que todos los costos. | Puedes pagarte y ahorrar. |
-| Sales tablas | Ventas iguales a los costos. | Trabajas gratis. |
+| Sales tablas | Ventas iguales a los costos. | Trabajas sin cobrar. |
 | Pierdes | Costos mayores que las ventas. | Pones de tu bolsa. |
 
 #### Un caso en un minuto
@@ -45,7 +45,7 @@ Rosa anotó durante un mes todo lo que compraba para la fonda. Descubrió que el
 *Respuesta:* Las ventas son lo que cobras; la ganancia es lo que queda después de pagar todos los costos.
 
 2. Si vendes 20,000 y gastas 20,000, ¿cuánto ganas?
-*Respuesta:* Nada: sales tablas y trabajas gratis.
+*Respuesta:* Nada: sales tablas y trabajas sin cobrar.
 
 
 #### Para recordar
@@ -118,7 +118,7 @@ Toño cobra bien cada trabajo, pero pasa muchas horas en traslados que no cobra.
 
 1. Vendes 25,000 y tus costos son 19,000. ¿Cuánto ganas? a) 6,000 · b) 25,000 · c) 44,000
 2. ¿Qué es la ganancia? a) Todo lo que cobras a tus clientes en el mes, en efectivo y transferencia · b) Lo que queda después de pagar todos los costos · c) Lo que hay en el cajón al cerrar
-3. Tus ventas y tus costos son iguales. ¿Qué pasa? a) Ganas poco, pero el negocio sí te deja algo · b) Pierdes dinero cada mes · c) Sales tablas: trabajas gratis
+3. Tus ventas y tus costos son iguales. ¿Qué pasa? a) Ganas poco, pero el negocio sí te deja algo · b) Pierdes dinero cada mes · c) Sales tablas: trabajas sin cobrar
 **Respuestas:** 1-a: 25,000 menos 19,000. 2-b: ventas menos costos. 3-c: no queda nada para ti.
 
 
@@ -381,7 +381,7 @@ Si tu ganancia no alcanza para un sueldo digno, no es un problema de ahorro: es 
 
 #### Si trabajan varias personas de la familia
 
-Si tu hija o tu pareja trabajan en el negocio, acuerden un pago para cada una. Trabajar gratis «porque es familia» genera conflictos y esconde el costo real (M8 U01).
+Si tu hija o tu pareja trabajan en el negocio, acuerden un pago para cada una. Trabajar sin cobrar «porque es familia» genera conflictos y esconde el costo real (M8 U01).
 
 
 
@@ -558,7 +558,7 @@ El corte semanal de Rosa dice 3,000 de ganancia, pero en la caja hay 1,800.
 
 **Caso 3. La app de Don Pepe**
 
-Una app gratuita pide a Don Pepe foto de su INE y de su tarjeta para registrar sus ventas.
+Una app sin costo pide a Don Pepe foto de su INE y de su tarjeta para registrar sus ventas.
 - *¿Qué hace?* No la usa y elige una libreta o una hoja de cálculo.
 
 
@@ -583,7 +583,7 @@ Una app gratuita pide a Don Pepe foto de su INE y de su tarjeta para registrar s
 
 1. ¿Qué es lo mínimo que anotas cada día? a) Solo las ventas grandes · b) Lo que recuerdes el domingo · c) Fecha, ventas y gastos
 2. Tu corte y tu caja no cuadran. ¿Qué haces? a) Buscas gastos o retiros sin anotar · b) Ajustas el corte para que cuadre con lo que hay en la caja · c) Lo ignoras si es poco
-3. Una app te pide tu INE y foto de tu tarjeta. ¿Qué haces? a) La usas si es gratis y tiene buenas reseñas en la tienda · b) No la usas y eliges otra herramienta · c) Mandas solo la tarjeta
+3. Una app te pide tu INE y foto de tu tarjeta. ¿Qué haces? a) La usas si no tiene costo y tiene buenas reseñas en la tienda · b) No la usas y eliges otra herramienta · c) Mandas solo la tarjeta
 **Respuestas:** 1-c: con eso basta. 2-a: así encuentras el hoyo. 3-b: pide de más.
 
 
@@ -683,7 +683,7 @@ Algunas apps de apuestas no tienen permiso para operar en México. Si ganas, pue
 
 #### Pedir ayuda
 
-El juego compulsivo es un problema de salud. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan gratis. Separar el dinero y cortar caja cada día (M1 U02 y U04) también protege al negocio.
+El juego compulsivo es un problema de salud. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan sin costo. Separar el dinero y cortar caja cada día (M1 U02 y U04) también protege al negocio.
 
 > **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
 
@@ -751,7 +751,7 @@ Corta caja cada noche y, si apuestas, fija un tope que salga solo de tu sueldo.
 
 ### Para saber más
 
-- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención sin costo las 24 horas.
 - **Centros de Integración Juvenil** (español): https://www.gob.mx/salud/cij — **Qué buscar:** «juego patológico».
 - **Permisionarios de juegos y sorteos** (Secretaría de Gobernación · español): https://www.gob.mx/segob — **Qué buscar:** «juegos y sorteos permisionarios».
 
@@ -763,5 +763,154 @@ Corta caja cada noche y, si apuestas, fija un tope que salga solo de tu sueldo.
 ### Fuentes
 
 Secretaría de Gobernación · Secretaría de Salud · Centros de Integración Juvenil, consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U06. Tu negocio, tus decisiones: tu dinero a tu nombre
+
+**Lo que lograrás:** Reconocer tus habilidades como base de tu negocio, tener cuentas y registros a tu nombre, decidir sobre tu ingreso y reconocer cuándo alguien controla tu dinero.
+
+**Para empezar:** Rosa trabaja doce horas en su fonda, pero su pareja guarda el dinero del cajón y decide en qué se gasta. Cuando ella quiso comprar una estufa nueva para el negocio, él le dijo que no había. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre.
+
+### Lo esencial (5 minutos)
+
+#### Lo que sabes hacer también es capital
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Productivas | Cocinar, vender, reparar, coser. | Lo que ofreces. |
+| Sociales | Escuchar, convencer, enseñar. | Cómo atiendes. |
+| Financieras | Organizar tandas, buscar ofertas, pagar a tiempo. | Cómo administras. |
+| De organización | Planear fiestas, conseguir apoyo. | Cómo operas. |
+
+#### Tu dinero a tu nombre
+
+1. Una cuenta del negocio a tu nombre, que tú manejes (M1 U02).
+2. Tus registros y tu sueldo fijo, decididos por ti (M1 U03 y M1 U04).
+3. Acuerdos por escrito si alguien de la familia trabaja contigo (M8 U01).
+4. Tus documentos y los de tu negocio en tu carpeta.
+
+
+
+#### Cuando alguien controla tu dinero
+
+Si alguien te quita tu ingreso, te impide trabajar, te exige cuentas de cada peso o usa tu nombre para endeudarse, es violencia económica. No es un problema de administración: es violencia, y hay ayuda.
+
+
+
+#### Un caso en un minuto
+
+Rosa abrió una cuenta del negocio a su nombre y empezó a depositar ahí las ventas. Con sus registros le mostró a su pareja que la estufa se pagaba sola en cuatro meses. Ahora ella decide las compras del negocio, y lo que es de la casa lo acuerdan juntos.
+
+> **Idea clave:** tus habilidades son el capital de tu negocio; ten tu cuenta, tus registros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿A nombre de quién debe estar la cuenta de tu negocio?
+*Respuesta:* A tu nombre, y la manejas tú.
+
+2. ¿Qué es la violencia económica?
+*Respuesta:* Cuando alguien controla, retiene o usa tu dinero para dominarte.
+
+
+#### Para recordar
+
+- Tus habilidades cuentan.
+- Cuenta y registros a tu nombre.
+- Control del dinero = pide ayuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Hablar de dinero sin pelear
+
+Acuerden qué es del negocio y qué es de la casa, con números en la mano. Tu sueldo fijo (M1 U03) es lo que llevas a la casa; lo demás es del negocio.
+
+
+
+#### Dónde pedir ayuda
+
+Si vives violencia, llama al 911 o acude al Centro de Justicia para las Mujeres de tu estado. En la Ciudad de México, llama a Locatel al *0311 o al 55 5658 1111 y pide Línea Mujeres, las 24 horas. La atención no tiene costo.
+
+> **Antes de actuar, verifica:** que tu cuenta, tu RFC y tus contratos estén a tu nombre y que nadie más tenga tus contraseñas.
+
+
+
+#### Casos
+
+
+**Caso 1. El cajón de Rosa**
+
+La pareja de Rosa guarda el dinero de la fonda y decide todo.
+- *¿Qué hace?* Abre una cuenta del negocio a su nombre y lleva sus registros.
+
+
+**Caso 2. La lista de Mariana**
+
+Mariana cree que no tiene nada que ofrecer además de vender ropa.
+- *¿Qué hace?* Hace la lista de sus habilidades y encuentra nuevos servicios.
+
+
+**Caso 3. El crédito a nombre de Toño**
+
+El hermano de Toño le pide su RFC para sacar un crédito «a nombre del negocio».
+- *¿Qué hace?* No presta su RFC: la deuda sería suya.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Cuenta a nombre de otro | No decides | A tu nombre |
+| No valorar lo que sabes | No ves opciones | Lista de habilidades |
+| Prestar tu nombre | Deuda tuya | No |
+| Callar la violencia | Empeora | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Mariana y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿A nombre de quién pones la cuenta del negocio? a) A nombre de tu pareja, que sabe más · b) A tu nombre · c) A nombre de un cliente
+2. Alguien te quita lo que ganas y te impide trabajar. ¿Qué es? a) Violencia económica · b) Un problema de administración · c) Algo normal en pareja
+3. Un familiar te pide tu RFC para un crédito. ¿Qué pasa si lo prestas? a) Nada · b) La deuda es de tu familiar · c) La deuda y el historial son tuyos
+**Respuestas:** 1-b: tú decides. 2-a: hay ayuda sin costo. 3-c: tu nombre responde.
+
+
+
+#### Ponlo en práctica
+
+Una estufa cuesta 8,000 y te ahorra 2,000 al mes en gas. ¿En cuántos meses se paga?
+**Respuesta:** En 4 meses.
+
+
+
+#### A tu plan
+
+Haz la lista de tus habilidades y revisa que tu cuenta y tus registros del negocio estén a tu nombre.
+
+
+
+### Para saber más
+
+- **Violencia económica** (Instituto Nacional de las Mujeres · español): https://www.gob.mx/inmujeres — **Qué buscar:** «violencia económica».
+- **Cuentas a tu nombre** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «cuenta básica».
+
+### Palabras clave
+
+- *Violencia económica:* cuando otra persona controla, retiene o usa tu dinero o tus bienes para dominarte.
+- *Autonomía económica:* poder ganar, tener y decidir sobre tu propio dinero.
+
+### Fuentes
+
+Instituto Nacional de las Mujeres · Ley General de Acceso de las Mujeres a una Vida Libre de Violencia · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ---

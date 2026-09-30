@@ -28,7 +28,7 @@ Lupita creía que ganaba $4,000. En realidad le quedan $1,400, y de ahí tambié
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | Ganas | Ventas mayores que todos los costos. | Puedes pagarte y ahorrar. |
-| Sales tablas | Ventas iguales a los costos. | Trabajas gratis. |
+| Sales tablas | Ventas iguales a los costos. | Trabajas sin cobrar. |
 | Pierdes | Costos mayores que las ventas. | Pones de tu bolsa. |
 
 #### Un caso en un minuto
@@ -45,7 +45,7 @@ Lupita guardó durante un mes todos sus recibos. Descubrió que la gasolina para
 *Respuesta:* Las ventas son lo que cobras; la ganancia es lo que queda después de pagar todos los costos.
 
 2. Si vendes $2,000 y gastas $2,000, ¿cuánto ganas?
-*Respuesta:* Nada: sales tablas y trabajas gratis.
+*Respuesta:* Nada: sales tablas y trabajas sin cobrar.
 
 
 #### Para recordar
@@ -118,7 +118,7 @@ Javier cobra bien cada trabajo de pintura, pero pasa muchas horas manejando y co
 
 1. Vendes $3,000 y tus costos son $2,200. ¿Cuánto ganas? a) $800 · b) $3,000 · c) $5,200
 2. ¿Qué es la ganancia? a) Todo lo que cobras a tus clientes en el mes, en efectivo y por apps · b) Lo que queda después de pagar todos los costos · c) Lo que hay en tu cuenta al cerrar
-3. Tus ventas y tus costos son iguales. ¿Qué pasa? a) Ganas poco, pero el negocio sí te deja algo · b) Pierdes dinero cada mes · c) Sales tablas: trabajas gratis
+3. Tus ventas y tus costos son iguales. ¿Qué pasa? a) Ganas poco, pero el negocio sí te deja algo · b) Pierdes dinero cada mes · c) Sales tablas: trabajas sin cobrar
 **Respuestas:** 1-a: $3,000 menos $2,200. 2-b: ventas menos costos. 3-c: no queda nada para ti.
 
 
@@ -563,7 +563,7 @@ Javier maneja a cotizar trabajos todos los días y no anota nada.
 
 **Caso 3. La app de Don Ramón**
 
-Una app gratuita pide a Don Ramón su número de Seguro Social y la contraseña de su banco para «hacer sus cuentas».
+Una app sin costo pide a Don Ramón su número de Seguro Social y la contraseña de su banco para «hacer sus cuentas».
 - *¿Qué hace?* No da su contraseña y elige una herramienta confiable o una hoja.
 
 
@@ -588,7 +588,7 @@ Una app gratuita pide a Don Ramón su número de Seguro Social y la contraseña 
 
 1. ¿Qué es lo mínimo que anotas cada día? a) Solo las ventas grandes · b) Lo que recuerdes el domingo · c) Fecha, ventas y gastos
 2. ¿Qué necesitas para deducir millas? a) Un registro de cada viaje · b) Solo el recibo de gasolina del mes · c) Nada, se calcula solo
-3. Una app te pide la contraseña de tu banco. ¿Qué haces? a) Se la das si es gratis y tiene buenas reseñas · b) No se la das y eliges otra herramienta · c) Le das solo tu número de Seguro Social
+3. Una app te pide la contraseña de tu banco. ¿Qué haces? a) Se la das si no tiene costo y tiene buenas reseñas · b) No se la das y eliges otra herramienta · c) Le das solo tu número de Seguro Social
 **Respuestas:** 1-c: con eso basta. 2-a: sin registro no hay deducción. 3-b: pide de más.
 
 
@@ -682,7 +682,7 @@ Las ganancias de apuestas son ingreso para el IRS aunque no recibas un formulari
 
 #### Pedir ayuda
 
-El juego compulsivo es un problema de salud. La línea nacional 1-800-GAMBLER atiende gratis las 24 horas. En California también hay tratamiento gratuito para residentes.
+El juego compulsivo es un problema de salud. La línea nacional 1-800-GAMBLER atiende sin costo las 24 horas. En California también hay tratamiento sin costo para residentes.
 
 > **Antes de actuar, verifica:** las reglas de tu estado; lo que es legal en un estado puede no serlo en otro, y los sitios sin licencia no te protegen si no te pagan.
 
@@ -699,7 +699,7 @@ Javier perdió en las apuestas y quiere usar $300 del dinero para impuestos.
 
 **Caso 2. El casino de sorteo de Daniela**
 
-Una app de «casino de sorteo» le ofrece a Daniela monedas gratis si compra un paquete.
+Una app de «casino de sorteo» le ofrece a Daniela monedas sin costo si compra un paquete.
 - *¿Qué revisa?* Que en California están prohibidos desde 2026 y que ese dinero no sale del negocio.
 
 
@@ -731,7 +731,7 @@ El ayudante de Don Ramón le pide un adelanto para apostar en el partido.
 1. ¿De dónde puede salir el dinero para apostar, si decides hacerlo? a) De la cuenta del negocio · b) De tu sueldo, con un tope · c) De lo que apartaste para impuestos
 2. ¿Qué pasa con las ganancias de apuestas? a) Son ingreso que se declara · b) Nunca pagan impuestos · c) Solo se declaran si pasan de $10,000
 3. ¿Dónde pides ayuda por el juego en EE. UU.? a) En la misma app de apuestas · b) En 1-800-GAMBLER · c) Con quien te presta para apostar
-**Respuestas:** 1-b: nunca del negocio. 2-a: todo ingreso se declara. 3-b: gratis, las 24 horas.
+**Respuestas:** 1-b: nunca del negocio. 2-a: todo ingreso se declara. 3-b: sin costo, las 24 horas.
 
 
 
@@ -761,5 +761,154 @@ Separa tu cuenta para impuestos y, si apuestas, fija un tope que salga solo de t
 ### Fuentes
 
 IRS · National Council on Problem Gambling · California AB 831 (2025), consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U06. Tu negocio, tus decisiones: tu dinero a tu nombre
+
+**Lo que lograrás:** Reconocer tus habilidades como base de tu negocio, tener cuentas y registros a tu nombre, decidir sobre tu ingreso y reconocer cuándo alguien controla tu dinero.
+
+**Para empezar:** Lupita cocina todos los días, pero su pareja cobra los pedidos en su propia app y decide en qué se gasta. Cuando ella quiso comprar una olla industrial, él dijo que no había dinero. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre.
+
+### Lo esencial (5 minutos)
+
+#### Lo que sabes hacer también es capital
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Productivas | Cocinar, vender, reparar, coser. | Lo que ofreces. |
+| Sociales | Escuchar, convencer, enseñar. | Cómo atiendes. |
+| Financieras | Organizar tandas, buscar ofertas, pagar a tiempo. | Cómo administras. |
+| De organización | Planear fiestas, conseguir apoyo. | Cómo operas. |
+
+#### Tu dinero a tu nombre
+
+1. Una cuenta del negocio a tu nombre, que tú manejes; muchos bancos y cooperativas de crédito aceptan ITIN (M1 U02).
+2. Tus cobros por apps ligados a tu cuenta, no a la de otra persona.
+3. Tus registros y tu sueldo fijo, decididos por ti (M1 U03 y M1 U04).
+4. Acuerdos por escrito si alguien de la familia trabaja contigo (M8 U01).
+
+
+
+#### Cuando alguien controla tu dinero
+
+Si alguien te quita tu ingreso, te impide trabajar, te exige cuentas de cada dólar o usa tu nombre para endeudarse, es abuso económico. No es un problema de administración: es abuso, y hay ayuda en español, sin importar tu situación migratoria.
+
+
+
+#### Un caso en un minuto
+
+Lupita abrió una cuenta del negocio a su nombre en una cooperativa de crédito con su ITIN y ligó ahí su app de cobros. Con sus registros mostró que la olla se pagaba sola en tres meses. Ahora ella decide las compras del negocio, y lo de la casa lo acuerdan juntos.
+
+> **Idea clave:** tus habilidades son el capital de tu negocio; ten tu cuenta, tus cobros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿A nombre de quién debe estar la cuenta de tu negocio?
+*Respuesta:* A tu nombre, y la manejas tú.
+
+2. ¿Qué es el abuso económico?
+*Respuesta:* Cuando alguien controla, retiene o usa tu dinero para dominarte.
+
+
+#### Para recordar
+
+- Tus habilidades cuentan.
+- Cuenta y cobros a tu nombre.
+- Control del dinero = pide ayuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Hablar de dinero sin pelear
+
+Acuerden qué es del negocio y qué es de la casa, con números en la mano. Tu sueldo fijo (M1 U03) es lo que llevas a la casa; lo demás es del negocio.
+
+
+
+#### Dónde pedir ayuda
+
+La Línea Nacional sobre la Violencia Doméstica atiende sin costo, las 24 horas y en español: llama al 1-800-799-7233 o envía un texto con la palabra START al 88788. En una emergencia, llama al 911.
+
+> **Antes de actuar, verifica:** que tu cuenta, tu EIN o ITIN y tus contratos estén a tu nombre y que nadie más tenga tus contraseñas.
+
+
+
+#### Casos
+
+
+**Caso 1. La app de Lupita**
+
+La pareja de Lupita cobra los pedidos en su propia app y decide todo.
+- *¿Qué hace?* Abre una cuenta del negocio a su nombre y liga ahí sus cobros.
+
+
+**Caso 2. La lista de Daniela**
+
+Daniela cree que no tiene nada que ofrecer además de vender joyería.
+- *¿Qué hace?* Hace la lista de sus habilidades y encuentra nuevos servicios.
+
+
+**Caso 3. El crédito a nombre de Javier**
+
+El hermano de Javier le pide su número de seguro social o su EIN para sacar un crédito «para el negocio».
+- *¿Qué hace?* No presta sus números: la deuda sería suya.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Cobros a nombre de otro | No decides | A tu nombre |
+| No valorar lo que sabes | No ves opciones | Lista de habilidades |
+| Prestar tus números | Deuda tuya | No |
+| Callar el abuso | Empeora | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lupita, Daniela y Javier. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿A nombre de quién ligas tus cobros del negocio? a) De tu pareja, que sabe más · b) A tu nombre · c) De un cliente de confianza
+2. Alguien te quita lo que ganas y te impide trabajar. ¿Qué es? a) Abuso económico · b) Un problema de administración · c) Algo normal en pareja
+3. Un familiar te pide tu EIN para un crédito. ¿Qué pasa si lo prestas? a) Nada · b) La deuda es de tu familiar · c) La deuda y el historial son tuyos
+**Respuestas:** 1-b: tú decides. 2-a: hay ayuda sin costo. 3-c: tu nombre responde.
+
+
+
+#### Ponlo en práctica
+
+Una olla industrial cuesta $450 y te ahorra $150 al mes. ¿En cuántos meses se paga?
+**Respuesta:** En 3 meses.
+
+
+
+#### A tu plan
+
+Haz la lista de tus habilidades y revisa que tu cuenta y tus cobros del negocio estén a tu nombre.
+
+
+
+### Para saber más
+
+- **Línea Nacional sobre la Violencia Doméstica** (inglés y español): 1-800-799-7233 · https://espanol.thehotline.org.
+- **Abuso económico** (CFPB · español e inglés): https://www.consumerfinance.gov — **Qué buscar:** «abuso económico».
+
+### Palabras clave
+
+- *Abuso económico:* cuando otra persona controla, retiene o usa tu dinero o tus bienes para dominarte.
+- *Autonomía económica:* poder ganar, tener y decidir sobre tu propio dinero.
+
+### Fuentes
+
+National Domestic Violence Hotline · CFPB, consultados el 30 de septiembre de 2026.
 
 ---

@@ -105,7 +105,7 @@ Don Ramón paga el seguro del food truck una vez al año y nunca lo cuenta en su
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Contar solo el material | Precio bajo | Suma los fijos |
-| Olvidar tu sueldo | Trabajas gratis | Es un costo fijo |
+| Olvidar tu sueldo | Trabajas sin cobrar | Es un costo fijo |
 | Ignorar pagos anuales | Sorpresas | Divide entre 12 |
 | No contar el tiempo | Servicio barato | Costo por hora |
 
@@ -122,7 +122,7 @@ Don Ramón paga el seguro del food truck una vez al año y nunca lo cuenta en su
 1. ¿Cuál de estos es un costo variable? a) La suscripción de tu tienda en línea · b) El empaque de cada pedido · c) Tu plan de teléfono
 2. Tus fijos son $600 y vendes 200 piezas al mes. ¿Cuánto fijo le toca a cada pieza? a) $3 · b) $30 · c) $600
 3. ¿Tu sueldo es un costo del negocio? a) No, es ganancia · b) Solo si te sobra algo al final del mes · c) Sí, es un costo fijo
-**Respuestas:** 1-b: sube con cada venta. 2-a: $600 entre 200. 3-c: sin él trabajas gratis.
+**Respuestas:** 1-b: sube con cada venta. 2-a: $600 entre 200. 3-c: sin él trabajas sin cobrar.
 
 
 
@@ -544,7 +544,7 @@ El costo de la mercancía que vendes se descuenta en tu declaración como costo 
 
 **Caso 1. La oferta a Don Ramón**
 
-El proveedor ofrece a Don Ramón una caja gratis si compra 10 de un producto que vende poco.
+El proveedor ofrece a Don Ramón una caja sin costo si compra 10 de un producto que vende poco.
 - *¿Qué hace?* Compra solo lo que vende antes de que caduque, aunque pierda el regalo.
 
 

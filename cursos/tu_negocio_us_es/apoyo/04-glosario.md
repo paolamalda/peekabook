@@ -4,6 +4,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Tu negocio y tu casa: dinero separado
 
+- **Abuso económico:** cuando otra persona controla, retiene o usa tu dinero o tus bienes para dominarte.
+- **Autonomía económica:** poder ganar, tener y decidir sobre tu propio dinero.
 - **Casino de sorteo (sweepstakes casino):** sitio que simula apuestas con monedas virtuales canjeables por dinero; prohibido en California desde 2026.
 - **Corte:** suma de ventas y gastos de un periodo para saber cuánto ganaste.
 - **Cuenta del negocio:** cuenta que usas solo para cobrar y pagar cosas del negocio.
@@ -35,7 +37,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Depósito o anticipo:** parte del pago que el cliente da antes de que hagas el trabajo.
 - **Factura (invoice):** documento con lo que vendiste, el monto y la fecha límite de pago.
 - **Flujo de efectivo:** el dinero que realmente entra y sale del negocio, y cuándo.
+- **Inflación:** aumento general de los precios con el tiempo.
 - **Reserva del negocio:** dinero apartado para cubrir los costos fijos del negocio en meses flojos o imprevistos.
+- **Tasa variable:** tasa de interés que puede cambiar durante el crédito.
 - **Temporada baja:** meses en que tu negocio vende menos.
 
 ## Cobrar y vender sin perder
@@ -76,7 +80,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Escenario prudente:** cálculo con ventas menores a las esperadas.
 - **Garantía personal:** compromiso de pagar tú si el negocio no paga.
 - **Pago mínimo:** lo menos que puedes pagar de tu tarjeta; la deuda casi no baja.
+- **Referencia:** persona que solo da sus datos; no se obliga a pagar.
 - **Tasa de factor:** número por el que se multiplica el monto de un adelanto para saber el total a pagar.
+- **Usuario autorizado:** persona que usa la tarjeta de otra; en general no responde por la deuda.
 
 ## Protege tu negocio
 
@@ -103,10 +109,14 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **Cobros brutos:** total cobrado antes de restar comisiones, devoluciones y costos.
 - **Contratista independiente:** persona que tiene su propio negocio, decide cómo hace el trabajo y trabaja para varios clientes.
+- **Entorno:** lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.
 - **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
 - **Impuestos de nómina:** impuestos que el empleador retiene y paga por sus empleados.
+- **Mentor:** persona con experiencia que te asesora sin cobrarte.
+- **Plan de negocio:** resumen de qué vendes, a quién, cuánto ganas y qué necesitas.
 - **Plataforma:** sitio o app que conecta a vendedores y compradores y cobra una comisión.
 - **Prueba ABC:** prueba de California para saber si alguien es empleado o contratista.
+- **Reputación:** lo que tus clientes y vecinos piensan de tu negocio.
 - **Tablero:** tabla con los números clave del negocio cada mes.
 - **Ticket promedio:** lo que gasta en promedio cada cliente por compra: ventas entre número de ventas.
 

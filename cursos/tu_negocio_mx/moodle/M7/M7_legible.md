@@ -634,13 +634,13 @@ Si trabajas por tu cuenta, tu INE, tu CURP, tu RFC y tu e.firma **son** los dato
 | Verificación en dos pasos | En WhatsApp, redes y correo del negocio. | Evita el robo de cuentas. |
 | Facturas a tu nombre | Revísalas en el portal del SAT. | Detecta facturas falsas. |
 
-> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas es gratuito en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas no tiene costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 #### Que dejen de llamarte
 
 Inscribe tu celular en el REPEP de Profeco para frenar publicidad, y en el REUS de CONDUSEF para frenar ofertas de bancos y financieras. Así, las llamadas que siguen llegando son más fáciles de identificar como posibles fraudes.
 
-> **Dato vigente:** REPEP: gratis, fijo o celular, en repep.profeco.gob.mx o al 55 5568 8722 u 800 468 8722; en 30 días deben dejar de llamarte; no vence. REUS: gratis, surte efecto en hasta 45 días y dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
+> **Dato vigente:** REPEP: sin costo, fijo o celular, en repep.profeco.gob.mx o al 55 5568 8722 u 800 468 8722; en 30 días deben dejar de llamarte; no vence. REUS: sin costo, surte efecto en hasta 45 días y dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
 
 
 
@@ -665,7 +665,7 @@ Mariana recuperó su WhatsApp con el código de su número, activó la verificac
 
 - Reporte de crédito cada año.
 - Dos pasos en WhatsApp, redes y correo.
-- REPEP y REUS gratis.
+- REPEP y REUS sin costo.
 
 
 
@@ -723,7 +723,7 @@ A Don Pepe le llaman diario de bancos para ofrecerle créditos para la tienda.
 | Compartir códigos | Te roban la cuenta | Nunca |
 | No revisar tu reporte | Te enteras tarde | Gratis cada año |
 | Ignorar facturas a tu nombre | Problemas con el SAT | Revisa el portal |
-| Pagar por inscribirte | Fraude | REPEP y REUS son gratis |
+| Pagar por inscribirte | Fraude | REPEP y REUS no tienen costo |
 
 ### Practica
 
@@ -738,7 +738,7 @@ A Don Pepe le llaman diario de bancos para ofrecerle créditos para la tienda.
 1. Alguien te pide el código de seis dígitos que te llegó «por error». ¿Qué haces? a) Se lo mandas, total fue un error · b) No lo compartes y activas la verificación en dos pasos · c) Se lo mandas solo si es cliente
 2. ¿Dónde revisas los créditos a tu nombre? a) En tu reporte de Buró o Círculo · b) En tu estado de cuenta del banco · c) En el SAT
 3. ¿Cuánto cuesta inscribirte en el REUS? a) 200 pesos al año · b) Depende del banco · c) Nada
-**Respuestas:** 1-b: es la llave de tu cuenta. 2-a: reporte gratis cada año. 3-c: es gratuito.
+**Respuestas:** 1-b: es la llave de tu cuenta. 2-a: reporte sin costo cada año. 3-c: no tiene costo.
 
 
 
@@ -759,7 +759,7 @@ Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, ins
 
 - **REPEP** (Profeco · español): https://repep.profeco.gob.mx — **Qué buscar:** «inscribir número».
 - **REUS** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «REUS».
-- **Reporte de crédito y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte gratis y «Bloqueo Buró».
+- **Reporte de crédito y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte sin costo y «Bloqueo Buró».
 - **Líneas con tu CURP** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx.
 
 ### Palabras clave
@@ -971,7 +971,7 @@ Don Pepe ahora respalda en su celular las fotos del inventario y la lista de fia
 
 #### Apoyos y aplazamientos
 
-En emergencias grandes, los bancos suelen ofrecer programas para aplazar pagos y el SAT puede dar facilidades a las zonas afectadas. Pide todo por escrito y guarda el folio. Los apoyos del gobierno se solicitan en módulos oficiales y son gratuitos.
+En emergencias grandes, los bancos suelen ofrecer programas para aplazar pagos y el SAT puede dar facilidades a las zonas afectadas. Pide todo por escrito y guarda el folio. Los apoyos del gobierno se solicitan en módulos oficiales y no tienen costo.
 
 
 

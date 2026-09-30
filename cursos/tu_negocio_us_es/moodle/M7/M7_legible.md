@@ -526,7 +526,7 @@ Tu cuenta de redes y tu dominio no son marca registrada. Te ayudan a vender, per
 
 #### Si te reclaman
 
-Si alguien dice que tu nombre es su marca, verifica en la USPTO antes de responder. Si su registro es real y cubre tus productos, cambiar de nombre suele ser lo más prudente. Hay clínicas legales gratuitas de propiedad intelectual en algunas universidades.
+Si alguien dice que tu nombre es su marca, verifica en la USPTO antes de responder. Si su registro es real y cubre tus productos, cambiar de nombre suele ser lo más prudente. Hay clínicas legales sin costo de propiedad intelectual en algunas universidades.
 
 
 
@@ -609,7 +609,7 @@ USPTO · California Secretary of State, consultados el 29 de septiembre de 2026.
 
 ## M7 U05. Robo de identidad y llamadas no deseadas
 
-**Lo que lograrás:** Proteger tu identidad con el congelamiento de crédito, las alertas de fraude y tus reportes gratis, saber qué hacer si usan tus datos y registrar tu número para que no te llamen con ventas.
+**Lo que lograrás:** Proteger tu identidad con el congelamiento de crédito, las alertas de fraude y tus reportes sin costo, saber qué hacer si usan tus datos y registrar tu número para que no te llamen con ventas.
 
 **Para empezar:** A Don Ramón le negaron un crédito porque su reporte tenía una tarjeta que él nunca abrió. Además, recibe diez llamadas al día ofreciéndole «préstamos para su food truck». En esta lección verás cómo frenar las dos cosas.
 
@@ -630,19 +630,19 @@ El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus do
 | Tus reportes de crédito | Gratis cada semana en AnnualCreditReport.com. | Revisa lo que no reconoces. |
 | IP PIN del IRS | Nadie declara con tu número (M5 U04). | Gratis. |
 
-> **Dato vigente:** congelar y descongelar tu crédito es gratis en Equifax, Experian y TransUnion (hay que pedirlo en las tres); una alerta de fraude inicial es gratis, dura un año y basta pedirla en una agencia; y puedes ver tus reportes gratis cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
+> **Dato vigente:** congelar y descongelar tu crédito no tiene costo en Equifax, Experian y TransUnion (hay que pedirlo en las tres); una alerta de fraude inicial no tiene costo, dura un año y basta pedirla en una agencia; y puedes ver tus reportes sin costo cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
 
 #### Que dejen de llamarte
 
-Registra tu número en el Registro Nacional No Llame en donotcall.gov. Es gratis y no vence. Después de registrarte, las llamadas de ventas que siguen llegando suelen ser ilegales o estafas.
+Registra tu número en el Registro Nacional No Llame en donotcall.gov. Es sin costo y no vence. Después de registrarte, las llamadas de ventas que siguen llegando suelen ser ilegales o estafas.
 
-> **Dato vigente:** el Registro Nacional No Llame (National Do Not Call Registry) es gratuito, el número aparece al día siguiente, las empresas tienen hasta 31 días para dejar de llamar y el registro no vence. Consultado el 29 de septiembre de 2026 a través de la FTC (donotcall.gov).
+> **Dato vigente:** el Registro Nacional No Llame (National Do Not Call Registry) no tiene costo, el número aparece al día siguiente, las empresas tienen hasta 31 días para dejar de llamar y el registro no vence. Consultado el 29 de septiembre de 2026 a través de la FTC (donotcall.gov).
 
 
 
 #### Un caso en un minuto
 
-Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en IdentityTheft.gov y congeló su crédito en las tres agencias. Registró su celular en donotcall.gov. Cuando necesite un préstamo, descongelará su crédito unos días, gratis.
+Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en IdentityTheft.gov y congeló su crédito en las tres agencias. Registró su celular en donotcall.gov. Cuando necesite un préstamo, descongelará su crédito unos días, sin costo.
 
 > **Idea clave:** congela tu crédito, revisa tus reportes y registra tu número; si alguien usa tus datos, repórtalo en IdentityTheft.gov.
 
@@ -651,7 +651,7 @@ Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en Ident
 #### Comprueba lo que entendiste
 
 1. ¿Qué hace el congelamiento de crédito?
-*Respuesta:* Impide que alguien abra crédito nuevo a tu nombre; es gratis y lo puedes quitar cuando lo necesites.
+*Respuesta:* Impide que alguien abra crédito nuevo a tu nombre; no tiene costo y lo puedes quitar cuando lo necesites.
 
 2. ¿Dónde reportas un robo de identidad?
 *Respuesta:* En IdentityTheft.gov, que te da un plan de recuperación.
@@ -660,8 +660,8 @@ Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en Ident
 #### Para recordar
 
 - Congela en las 3 agencias.
-- Reportes gratis cada semana.
-- donotcall.gov gratis.
+- Reportes sin costo cada semana.
+- donotcall.gov sin costo.
 
 
 
@@ -685,9 +685,9 @@ Si tienes historial de crédito con ITIN, pregunta a cada agencia cómo pedir el
 
 #### Lo que no cubre el registro
 
-El Registro No Llame no frena llamadas de cobranza, encuestas, organizaciones benéficas, políticas ni de empresas con las que ya tienes relación. Tampoco frena a los estafadores. Tu compañía de teléfono ofrece herramientas gratuitas para bloquear llamadas sospechosas; úsalas.
+El Registro No Llame no frena llamadas de cobranza, encuestas, organizaciones benéficas, políticas ni de empresas con las que ya tienes relación. Tampoco frena a los estafadores. Tu compañía de teléfono ofrece herramientas sin costo para bloquear llamadas sospechosas; úsalas.
 
-> **Antes de actuar, verifica:** que estás en donotcall.gov, AnnualCreditReport.com o IdentityTheft.gov; hay sitios que imitan estos nombres y cobran por lo que es gratis.
+> **Antes de actuar, verifica:** que estás en donotcall.gov, AnnualCreditReport.com o IdentityTheft.gov; hay sitios que imitan estos nombres y cobran por lo que no tiene costo.
 
 
 
@@ -709,7 +709,7 @@ A Lupita le llaman diario para venderle servicios.
 **Caso 3. El sitio de Daniela**
 
 Un sitio le cobra a Daniela $30 por «su reporte de crédito oficial».
-- *¿Qué hace?* No paga y entra a AnnualCreditReport.com, donde es gratis.
+- *¿Qué hace?* No paga y entra a AnnualCreditReport.com, donde no tiene costo.
 
 
 #### Errores frecuentes
@@ -731,10 +731,10 @@ Un sitio le cobra a Daniela $30 por «su reporte de crédito oficial».
 
 #### Quiz
 
-1. ¿Cuánto cuesta congelar tu crédito? a) $10 por agencia · b) Nada · c) Solo es gratis si ya te robaron la identidad
+1. ¿Cuánto cuesta congelar tu crédito? a) $10 por agencia · b) Nada · c) Es sin costo solo si ya te robaron la identidad
 2. ¿Dónde reportas un robo de identidad? a) En IdentityTheft.gov · b) En el banco donde tienes tu cuenta · c) En redes sociales
 3. ¿Cuánto dura tu registro en el Registro No Llame? a) Un año · b) Cinco años · c) No vence
-**Respuestas:** 1-b: es gratis en las tres agencias. 2-a: da un plan de recuperación. 3-c: no vence.
+**Respuestas:** 1-b: no tiene costo en las tres agencias. 2-a: da un plan de recuperación. 3-c: no vence.
 
 
 
@@ -755,15 +755,15 @@ Esta semana congela tu crédito en las tres agencias, revisa tus reportes y regi
 
 - **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov.
 - **Congelamiento y alertas de fraude** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «congelamiento de crédito».
-- **Reportes de crédito gratis** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
+- **Reportes de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
 - **Registro No Llame** (FTC · español): https://www.donotcall.gov/es.
 
 ### Palabras clave
 
 - *Robo de identidad:* uso de tus datos para hacerse pasar por ti y abrir cuentas, pedir créditos o presentar declaraciones.
-- *Congelamiento de crédito:* bloqueo gratuito para que nadie abra crédito nuevo a tu nombre.
+- *Congelamiento de crédito:* bloqueo sin costo para que nadie abra crédito nuevo a tu nombre.
 - *Alerta de fraude:* aviso en tu reporte para que los prestamistas verifiquen tu identidad antes de dar crédito.
-- *Registro Nacional No Llame:* registro federal gratuito para que las empresas no te llamen con ventas (Do Not Call).
+- *Registro Nacional No Llame:* registro federal sin costo para que las empresas no te llamen con ventas (Do Not Call).
 
 ### Fuentes
 
@@ -940,7 +940,7 @@ En zonas declaradas como desastre, FEMA ofrece asistencia a personas y la SBA of
 
 Don Ramón respalda cada semana sus recibos y fotos del equipo en la nube. Revisó su póliza y agregó cobertura por interrupción del negocio. Su reserva está en una cuenta. Sabe que, si declaran desastre, puede pedir ayuda en DisasterAssistance.gov y la SBA.
 
-> **Idea clave:** respaldo, fotos, las coberturas correctas y reserva en cuenta; si declaran desastre, las ayudas federales se piden gratis en sitios oficiales.
+> **Idea clave:** respaldo, fotos, las coberturas correctas y reserva en cuenta; si declaran desastre, las ayudas federales se piden sin costo en sitios oficiales.
 
 
 
@@ -1004,7 +1004,7 @@ Tras un terremoto, Javier no puede hacer su pago estimado a tiempo.
 |---|---|---|
 | Todo en papel | Lo pierdes | Respaldo |
 | Suponer que el seguro cubre todo | Sin pago | Revisa coberturas |
-| Pagar por ayudas | Fraude | Son gratis |
+| Pagar por ayudas | Fraude | Son sin costo |
 | Pagar multas sin revisar | Pagas de más | Alivio del IRS |
 
 ### Practica
@@ -1020,7 +1020,7 @@ Tras un terremoto, Javier no puede hacer su pago estimado a tiempo.
 1. ¿Qué suele quedar fuera de un seguro básico? a) El robo con violencia · b) Inundación y terremoto · c) El incendio
 2. Alguien de «FEMA» te pide $100 para agilizar tu ayuda. ¿Qué es? a) Un fraude: FEMA no cobra · b) Un trámite normal · c) Una cuota de la SBA
 3. ¿Hasta cuánto presta la SBA a un negocio tras un desastre? a) $50,000 · b) $500,000 · c) $2 millones
-**Respuestas:** 1-b: suelen ir aparte. 2-a: las ayudas son gratis. 3-c: daños físicos o capital de trabajo.
+**Respuestas:** 1-b: suelen ir aparte. 2-a: las ayudas no tienen costo. 3-c: daños físicos o capital de trabajo.
 
 
 

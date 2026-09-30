@@ -334,6 +334,7 @@ Una hoja te obliga a elegir lo importante. La pegas donde la veas y la revisas c
 | Protección | IMSS: ___ · Seguro: ___ · Marca: ___ |
 | Números del mes | Revisión el día ___ |
 | Futuro | AFORE: ___ · Aportación: ___ · Carpeta del negocio: sí / no |
+| Mi compromiso | Meta: ___ · Monto: ___ cada ___ · Testigo: ___ · Recordatorio: día ___ |
 
 
 
@@ -347,7 +348,13 @@ Pon una fecha fija. Actualiza números, revisa si cumpliste y cambia una decisi�
 
 Mariana llenó su hoja en una tarde. Descubrió que le faltaban dos cosas: registrar su marca y su aportación a la AFORE. Las puso como metas del próximo trimestre.
 
-> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses y mejora una cosa a la vez.
+
+
+#### Tu compromiso
+
+Escoge una meta del trimestre con nombre («reserva de dos meses para la temporada baja»), cuánto apartarás y cada cuándo. Cuéntasela a alguien de confianza o a tu grupo de la comunidad. Programa el apartado automático el día que cobras y un recordatorio mensual con el nombre de tu meta.
+
+> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 
 
@@ -379,6 +386,12 @@ Si te faltan muchas cosas, empieza por: 1) separar el dinero y pagarte un sueldo
 #### Compártelo
 
 Comparte tu plan con alguien de confianza o en la comunidad (sin datos personales ni montos reales). Decirlo en voz alta ayuda a cumplirlo.
+
+
+
+#### Por qué funciona
+
+Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
@@ -453,6 +466,6 @@ Llena tu plan de una página y pon la fecha de tu primera revisión.
 
 ### Fuentes
 
-CONDUSEF, consultado el 29 de septiembre de 2026.
+CONDUSEF, consultado el 29 de septiembre de 2026 · Innovations for Poverty Action y J-PAL, «Nudges para una óptima salud financiera».
 
 ---

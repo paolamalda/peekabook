@@ -787,3 +787,149 @@ Si alguien te ofrece una inversión, usa la tabla «antes de decir que sí» ant
 CNBV · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M6 U06. Noticias, rumores y cambios: ajusta tu plan sin pánico
+
+**Lo que lograrás:** Distinguir información confiable de rumores, reconocer cuándo el miedo o «lo que hacen todos» decide por ti, y ajustar tu plan cuando cambian la economía, las tasas o las leyes.
+
+**Para empezar:** Una noche, en el grupo de la familia de Lucía, circula que «van a quitar las pensiones» y que «las inversiones se van a desplomar». Su cuñado ya sacó todo de Cetes. Lucía no sabe si hacer lo mismo. En esta lección verás cómo responder con calma.
+
+### Lo esencial (5 minutos)
+
+#### Antes de actuar por una noticia
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| ¿Quién lo dice? | Fuente oficial y fecha. | Sin fuente, no es dato. |
+| ¿Estoy decidiendo con miedo? | El miedo empuja a vender en lo peor. | Espera. |
+| ¿Lo hago porque todos lo hacen? | Seguir a la manada. | Tu plan es tuyo. |
+| ¿Cambia mi meta o mi plazo? | Si no cambian, tu plan tampoco. | Revisa. |
+
+#### Cuando sí cambia algo
+
+Hay cambios reales que te afectan: suben los precios, cambian las tasas, se reforman las pensiones o las reglas de un apoyo. Confírmalos en la fuente oficial y ajusta una parte de tu plan a la vez: tu presupuesto, tu ahorro o tus fechas.
+
+
+
+#### Un caso en un minuto
+
+Lucía buscó el aviso en el sitio del IMSS y de la CONDUSEF: no había ningún cambio en su pensión de viudez. Dejó sus Cetes, que eran para una meta de dos años. Cuando subieron los precios del gas, ajustó su presupuesto del mes.
+
+> **Idea clave:** confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué haces con un rumor sobre tu pensión?
+*Respuesta:* Lo confirmas en el sitio oficial antes de actuar.
+
+2. ¿Cuándo cambias tu plan de inversión?
+*Respuesta:* Cuando cambia tu meta, tu plazo o una regla que te aplica, no por miedo.
+
+
+#### Para recordar
+
+- Fuente oficial y fecha.
+- Ni miedo ni manada.
+- Ajusta una parte a la vez.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tus sesgos
+
+Todas las personas tenemos atajos mentales: sentimos más una pérdida que una ganancia igual, creemos más lo que vemos seguido y copiamos a los demás. Saberlo te ayuda a pausar antes de decidir.
+
+
+
+#### Quién influye en la economía
+
+El Banco de México fija la tasa de interés de referencia para cuidar la inflación; la Secretaría de Hacienda y el Congreso deciden impuestos y apoyos; el IMSS y el ISSSTE aplican las leyes de pensiones. Sus sitios publican los cambios oficiales.
+
+
+
+#### Sigue aprendiendo
+
+Revisa una vez al año lo que aprendiste en este curso y comparte con tus hijos y nietos lo que ya sabes. Una conversación en familia también cuida el bienestar financiero de todos.
+
+> **Antes de actuar, verifica:** cualquier cambio en tu pensión, tus impuestos o tus apoyos en el sitio oficial del IMSS, el ISSSTE, el SAT o la Secretaría de Bienestar.
+
+
+
+#### Casos
+
+
+**Caso 1. El grupo de Lucía**
+
+En el grupo de la familia dicen que «van a quitar las pensiones».
+- *¿Qué hace Lucía?* Lo confirma en el sitio oficial del IMSS y no actúa por el rumor.
+
+
+**Caso 2. Los Cetes del cuñado**
+
+El cuñado de Lucía sacó todo de Cetes por miedo y le dice que haga lo mismo.
+- *¿Qué hace?* Revisa su meta y su plazo y deja su dinero si no cambiaron.
+
+
+**Caso 3. El gas de Maru**
+
+Subió el precio del gas y de la luz en casa de Maru.
+- *¿Qué hace?* Ajusta su presupuesto del mes antes de tocar su fondo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer sin fuente | Decides mal | Sitio oficial |
+| Vender por miedo | Pierdes | Tu meta y plazo |
+| Seguir a todos | No es tu plan | Decide tú |
+| Ignorar un cambio real | El plan no sirve | Ajusta |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, su cuñado y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Circula que van a quitar las pensiones. ¿Qué haces? a) Retiras todo lo que puedas · b) Lo confirmas en el sitio oficial antes de actuar · c) Lo reenvías a todos
+2. Tus Cetes son para una meta de dos años y todos están vendiendo. ¿Qué haces? a) Vendes antes que los demás · b) Pasas todo a efectivo en casa · c) Revisas tu meta y tu plazo; si no cambiaron, sigues
+3. ¿Quién fija la tasa de interés de referencia en México? a) El Banco de México · b) Tu banco · c) La CONDUSEF
+**Respuestas:** 1-b: confirma antes. 2-c: el plan manda, no la manada. 3-a: para cuidar la inflación.
+
+
+
+#### Ponlo en práctica
+
+Tu recibo de luz subió de 400 a 520 al bimestre. ¿Cuánto más es al año?
+**Respuesta:** 720 pesos más al año (120 por 6 bimestres).
+
+
+
+#### A tu plan
+
+Guarda en tu carpeta los sitios oficiales que consultarás antes de creer una noticia sobre tu dinero.
+
+
+
+### Para saber más
+
+- **Política monetaria e inflación** (Banco de México · español): https://www.banxico.org.mx.
+- **Alertas y orientación** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «alertas».
+
+### Palabras clave
+
+- *Sesgo:* atajo mental que puede llevarte a decidir mal.
+- *Tasa de referencia:* tasa que fija el Banco de México y que influye en las demás tasas.
+
+### Fuentes
+
+Banco de México · CONDUSEF · IMSS, consultados el 30 de septiembre de 2026.
+
+---

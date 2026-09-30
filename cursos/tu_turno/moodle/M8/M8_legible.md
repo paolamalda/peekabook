@@ -62,7 +62,7 @@ Ramiro localizó su AFORE con su CURP y descargó AforeMóvil. Programó 100 pes
 
 #### Si no sabes tu AFORE
 
-Entra a e-SAR o a AforeMóvil con tu CURP para saber en qué AFORE estás. Es gratis. Si nunca has tenido AFORE, pregunta en e-SAR cómo registrarte.
+Entra a e-SAR o a AforeMóvil con tu CURP para saber en qué AFORE estás. Es sin costo. Si nunca has tenido AFORE, pregunta en e-SAR cómo registrarte.
 
 
 
@@ -84,7 +84,7 @@ Ramiro cree que el retiro está lejos y no ahorra.
 **Caso 2. La AFORE de Karla**
 
 Karla no sabe en qué AFORE está.
-- *¿Qué hace?* La localiza gratis con su CURP en e-SAR.
+- *¿Qué hace?* La localiza sin costo con su CURP en e-SAR.
 
 
 **Caso 3. El regalo de Don Chuy**
@@ -98,7 +98,7 @@ Un agente le ofrece a Don Chuy una despensa si se cambia de AFORE.
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Creer que falta mucho | Pierdes años | Empieza hoy |
-| Pagar a gestores | Es gratis | Hazlo tú |
+| Pagar a gestores | Es sin costo | Hazlo tú |
 | Cambiarte por regalos | Menos rendimiento | Compara |
 | Tocar el ahorro | No llega al retiro | Es para después |
 
@@ -115,7 +115,7 @@ Un agente le ofrece a Don Chuy una despensa si se cambia de AFORE.
 1. ¿Desde cuánto puedes aportar a tu AFORE en tiendas? a) 50 pesos · b) 1,000 pesos · c) 500 pesos
 2. ¿Cómo sabes en qué AFORE estás? a) Preguntas en tu trabajo o a un gestor que cobra poco · b) Con tu CURP en e-SAR · c) No se puede saber
 3. Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? a) Te cambias por el regalo · b) Aceptas y regresas luego · c) Comparas rendimientos primero
-**Respuestas:** 1-a: desde 50. 2-b: es gratis. 3-c: el regalo no mejora tu retiro.
+**Respuestas:** 1-a: desde 50. 2-b: no tiene costo. 3-c: el regalo no mejora tu retiro.
 
 
 
@@ -288,7 +288,7 @@ Si tienes o quieres un ingreso extra, llena la tabla con tus números.
 
 ### Para saber más
 
-- **Emprender** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «negocio» y educación financiera.
+- **Emprender** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «negocio» y guías para emprender.
 
 ### Palabras clave
 
@@ -297,154 +297,11 @@ Si tienes o quieres un ingreso extra, llena la tabla con tus números.
 
 ### Fuentes
 
-CONDUSEF, consultado el 29 de septiembre de 2026.
+CONDUSEF, consultado el 29 de septiembre de 2026 · Innovations for Poverty Action y J-PAL, «Nudges para una óptima salud financiera».
 
 ---
 
-## M8 U03. Tu casa: Infonavit y el crédito de 100 puntos
-
-**Lo que lograrás:** Conocer cómo revisar tus puntos y tu ahorro de vivienda en Infonavit, las nuevas reglas para salarios bajos y cómo evitar coyotes.
-
-**Para empezar:** Karla cotiza en el IMSS desde hace dos años. Siempre creyó que «nunca juntaría los puntos» para una casa. Una compañera le dijo que las reglas cambiaron. En esta lección verás qué revisar.
-
-### Lo esencial (5 minutos)
-
-#### Tu ahorro de vivienda
-
-Si tu empresa te da de alta en el IMSS, también aporta el 5% de tu salario a tu subcuenta de vivienda en Infonavit. Ese dinero sirve para un crédito de vivienda y, si nunca lo usas, se entrega al retirarte.
-
-
-
-#### Qué revisar en Mi Cuenta Infonavit
-
-| Tipo | Descripción | Qué significa para ti |
-|---|---|---|
-| Tus puntos | Precalificación para un crédito. | Con tu NSS. |
-| Tu ahorro | Saldo de la subcuenta de vivienda. | Crece cada bimestre. |
-| Cuánto te prestan | Según tu salario y edad. | Simulador oficial. |
-| Coyotes | Cobran por «ayudarte». | El trámite es gratis. |
-
-> **Dato vigente:** con el modelo de 100 puntos de Infonavit, quienes ganan entre uno y dos salarios mínimos, tienen al menos seis meses seguidos cotizando y no tienen vivienda propia pueden precalificar con 100 puntos en lugar de 1,080; la tasa es fija y va de 3.69% a 10.45% anual según el salario. Consultado el 29 de septiembre de 2026 a través de Infonavit y medios especializados.
-
-#### Un caso en un minuto
-
-Karla entró a Mi Cuenta Infonavit con su NSS. Tiene más de seis meses cotizando, gana menos de dos salarios mínimos y no tiene casa: ya precalifica. Usará el simulador para ver cuánto le prestan y cuánto le descontarían de su quincena antes de decidir.
-
-> **Idea clave:** revisa tus puntos y tu ahorro en Mi Cuenta Infonavit; el trámite es gratis y las reglas cambiaron para salarios bajos.
-
-
-
-#### Comprueba lo que entendiste
-
-1. ¿Cuánto aporta tu empresa a tu subcuenta de vivienda?
-*Respuesta:* El 5% de tu salario.
-
-2. ¿Qué pasa con tu ahorro de vivienda si nunca pides crédito?
-*Respuesta:* Se entrega al retirarte.
-
-
-#### Para recordar
-
-- 5% de tu salario para vivienda.
-- Mi Cuenta Infonavit con tu NSS.
-- El trámite es gratis.
-
-
-
-### Profundiza (5 minutos más)
-
-#### Antes de firmar
-
-Revisa cuánto te descontarán de la quincena: con un descuento alto puede no alcanzarte para lo demás (M1). Pregunta el costo total, la tasa, el plazo y qué seguros incluye el crédito. Visita la zona y la vivienda antes de decidir: transporte al trabajo, servicios y seguridad.
-
-
-
-#### Coyotes y fraudes
-
-Hay personas que cobran por «sacarte los puntos» o prometen casas que no existen. Los trámites se hacen en Mi Cuenta Infonavit o en sus oficinas, gratis. Nunca entregues dinero ni tu contraseña a un intermediario.
-
-> **Antes de actuar, verifica:** tus requisitos y montos en Mi Cuenta Infonavit; las reglas pueden cambiar.
-
-
-
-#### Casos
-
-
-**Caso 1. Los puntos de Karla**
-
-Karla cree que nunca podrá tener un crédito de vivienda.
-- *¿Qué hace?* Revisa sus puntos y requisitos en Mi Cuenta Infonavit.
-
-
-**Caso 2. El coyote de Beto**
-
-Alguien le ofrece a Beto «adelantarle» su crédito por 3,000 pesos.
-- *¿Qué hace?* No paga: el trámite es gratis y se hace directo en Infonavit.
-
-
-**Caso 3. El descuento de Don Chuy**
-
-A Don Chuy le prestan para una casa, pero el descuento sería de 30% de su quincena.
-- *¿Qué revisa?* Si su presupuesto aguanta ese descuento antes de firmar.
-
-
-#### Errores frecuentes
-
-| Error | Qué pasa | Qué hacer |
-|---|---|---|
-| No revisar tus puntos | Pierdes la opción | Mi Cuenta Infonavit |
-| Pagar coyotes | Fraude | Gratis |
-| Firmar sin ver el descuento | No te alcanza | Revisa tu presupuesto |
-| No visitar la casa | Mala ubicación | Visítala |
-
-### Practica
-
-#### Actividad interactiva
-
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Karla, Beto y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
-
-
-
-#### Quiz
-
-1. ¿Dónde revisas tus puntos y tu ahorro de vivienda? a) Con un gestor · b) En tu banco · c) En Mi Cuenta Infonavit con tu NSS
-2. Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? a) No pagas: el trámite es gratis · b) Pagas la mitad · c) Le das tu contraseña para agilizar
-3. ¿Qué revisas antes de firmar un crédito de vivienda? a) Solo el color de la casa · b) Cuánto te descontarán de la quincena y si te alcanza · c) Lo que opine el vendedor
-**Respuestas:** 1-c: sitio oficial. 2-a: sin intermediarios. 3-b: tu presupuesto manda.
-
-
-
-#### Ponlo en práctica
-
-Ganas 9,600 al mes. ¿Cuánto aporta tu empresa a tu subcuenta de vivienda al mes y al año?
-**Respuesta:** 5% de 9,600: 480 al mes; 5,760 al año.
-
-
-
-#### A tu plan
-
-Entra a Mi Cuenta Infonavit con tu NSS y anota tus puntos y el saldo de tu subcuenta de vivienda.
-
-
-
-### Para saber más
-
-- **Mi Cuenta Infonavit** (Infonavit · español): https://micuenta.infonavit.org.mx — **Qué buscar:** «precalificación» y «saldo de vivienda».
-- **Infonavit** (español): https://portalmx.infonavit.org.mx — **Qué buscar:** «crédito Infonavit» y «evita fraudes».
-
-### Palabras clave
-
-- *Subcuenta de vivienda:* ahorro en Infonavit que tu empresa deposita con el 5% de tu salario.
-- *Precalificación:* puntos que indican si ya puedes pedir un crédito de vivienda.
-- *Coyote:* intermediario que cobra por trámites que son gratuitos.
-
-### Fuentes
-
-Infonavit, consultado el 29 de septiembre de 2026.
-
----
-
-## M8 U04. Tu plan de una página
+## M8 U03. Tu plan de una página
 
 **Lo que lograrás:** Reunir en una hoja tu presupuesto, tus deudas, tu ahorro, tu protección y tu retiro, con fechas para revisarlo.
 
@@ -471,7 +328,13 @@ Tu plan de una página se revisa rápido cada día de pago: ¿aparté mi ahorro?
 
 Karla llenó su plan y le tomó una foto. Cada día de pago lo revisa en cinco minutos. En seis meses terminó una deuda y juntó su primer fondo.
 
-> **Idea clave:** tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue.
+
+
+#### Tu compromiso
+
+Escribe una meta con nombre («fondo para la escuela de mi hija»), cuánto apartarás y cada cuándo. Díselo a alguien de confianza que te pregunte cómo vas. Aparta el ahorro el mismo día de pago, antes de gastar, y pon un recordatorio mensual en tu celular con el nombre de tu meta.
+
+> **Idea clave:** tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 
 
@@ -487,7 +350,7 @@ Karla llenó su plan y le tomó una foto. Cada día de pago lo revisa en cinco m
 #### Para recordar
 
 - Cinco partes en una hoja.
-- Revisión cada quincena.
+- Meta con nombre, testigo y recordatorio.
 - Sin datos sensibles.
 
 
@@ -504,6 +367,13 @@ Karla llenó su plan y le tomó una foto. Cada día de pago lo revisa en cinco m
 | Fondo de emergencia | | |
 | Seguros y beneficiarios | | |
 | AFORE | | |
+| Mi compromiso: meta, monto, fecha y testigo | | |
+
+
+
+#### Por qué funciona
+
+Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar el dinero de forma automática, antes de verlo, también ayuda: no tienes que decidir cada vez.
 
 
 
@@ -575,7 +445,7 @@ Llena tu plan de una página y tómale una foto para revisarlo cada día de pago
 
 ### Para saber más
 
-- **Educación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** herramientas de planeación.
+- **Guías y herramientas** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** herramientas de planeación.
 
 ### Palabras clave
 

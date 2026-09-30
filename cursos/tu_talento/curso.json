@@ -1,0 +1,252 @@
+{
+ "sigla": "TTMF",
+ "titulo": "Tu Talento, Tu Marca, Tu Futuro",
+ "subtitulo": "Versión 1.3 · Desarrolla Talento · Septiembre de 2026",
+ "version": "1.3",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para personas que trabajan en el entretenimiento en México: 11 módulos, con el crédito como eje.",
+ "categoria": "Tu Talento",
+ "banco": "banco_preguntas_ttmf.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "modulos": {
+  "M1": "Módulo 1. Tu dinero real: ingresos variables",
+  "M2": "Módulo 2. Tu carrera como negocio: régimen fiscal e impuestos",
+  "M3": "Módulo 3. Contratos, representación y regalías",
+  "M4": "Módulo 4. Conoce el sistema financiero mexicano",
+  "M5": "Módulo 5. Compara y elige: instituciones y productos",
+  "M6": "Módulo 6. El crédito es deuda",
+  "M7": "Módulo 7. Buró y Círculo de Crédito",
+  "M8": "Módulo 8. Sal de deudas",
+  "M9": "Módulo 9. No caigas: fraudes y robo de identidad",
+  "M10": "Módulo 10. Protección y prevención",
+  "M11": "Módulo 11. Tu futuro"
+ },
+ "resultados": {
+  "M1": "Tu ganancia real por proyecto, tu sueldo fijo personal y tu fondo de sequía.",
+  "M2": "Tu expediente fiscal y tu calendario de obligaciones.",
+  "M3": "Tu lista de revisión de contratos y tu mapa de regalías.",
+  "M4": "Tu mapa de instituciones y cómo verificarlas.",
+  "M5": "Tu comparativo de institución, cuenta, ahorro, seguro y crédito.",
+  "M6": "Tu inventario de deudas y tu límite de endeudamiento.",
+  "M7": "Tu reporte revisado y tu plan para mejorarlo.",
+  "M8": "Tu plan de pago con ingreso variable.",
+  "M9": "Tu protocolo de prevención y tu plan de respuesta si te pasa.",
+  "M10": "Tu plan de salud, seguros, marca y documentos para tu familia.",
+  "M11": "Tu plan de retiro, tu reparto del \"pago gordo\" y tu plan de una página."
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, tus rutas de 5 o 10 minutos, los personajes, insignias y constancia.",
+  "02": "Cinco casos del medio que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo o de bajo costo, y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "insignias": [
+  [
+   "01_dinero_real",
+   "M1",
+   "Dinero real",
+   "fa-money"
+  ],
+  [
+   "02_carrera_en_regla",
+   "M2 · M3",
+   "Carrera en regla",
+   "fa-briefcase"
+  ],
+  [
+   "03_se_elegir",
+   "M4 · M5",
+   "Sé elegir",
+   "fa-balance-scale"
+  ],
+  [
+   "04_credito_bajo_control",
+   "M6 · M8",
+   "Crédito bajo control",
+   "fa-credit-card"
+  ],
+  [
+   "05_nadie_me_engana",
+   "M9",
+   "Nadie me engaña",
+   "fa-search"
+  ],
+  [
+   "06_proteccion_activa",
+   "M10",
+   "Protección activa",
+   "fa-umbrella"
+  ],
+  [
+   "07_futuro_en_escena",
+   "M11",
+   "Futuro en escena",
+   "fa-star"
+  ],
+  [
+   "08_plan_completo",
+   "CURSO",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "mods": [
+   "Dinero e impuestos",
+   "Contratos y regalías",
+   "Crédito y Buró",
+   "Fraudes y protección",
+   "Retiro y futuro"
+  ]
+ },
+ "comunidad": {
+  "titulo": "Comunidad Tu Talento",
+  "subtitulo": "Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
+  "version": "1.2",
+  "intro": "Complemento del curso Tu Talento, Tu Marca, Tu Futuro: espacio en Moodle aparte, para avisos, dudas por tema, alertas de fraude, logros, sesión mensual y un foro separado de referencias comerciales. Se complementa con un canal de WhatsApp.",
+  "leads": {
+   "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
+   "02": "Las reglas que protegen tus datos y los de todas las personas.",
+   "03": "Una plantilla para preguntar y recibir una buena respuesta.",
+   "04": "Las fechas del año que importan a quien trabaja por su cuenta en el medio.",
+   "05": "La sesión mensual de dudas, la encuesta de temas y los retos del mes.",
+   "06": "Qué es contenido del programa y qué es una oferta comercial, con total transparencia."
+  },
+  "carpeta": {
+   "nombre": "Comunidad_Tu_Talento",
+   "zip": "Comunidad_Tu_Talento_v1.2",
+   "descripciones": [
+    "Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (propósito, espacios, canal y moderación).",
+    "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
+    "Guía de implementación: creación en Moodle paso a paso y calendario editorial.",
+    "Paquete para instalar: libro, vista previa y el README para Claude."
+   ],
+   "lista": [
+    "Profesor nombrado y con el manual del profesor leído",
+    "Equipo de moderación nombrado y con el manual leído",
+    "Canal de WhatsApp creado (solo publica el equipo); enlace: [por definir]",
+    "Fecha y enlace de la primera sesión mensual: [por definir]",
+    "Comunidad creada con 04_Moodle/README_CREAR_COMUNIDAD_PARA_CLAUDE.md",
+    "Primeras publicaciones programadas con el calendario editorial"
+   ],
+   "notas": [
+    "Nunca se piden datos personales; los foros no aceptan archivos adjuntos.",
+    "Las referencias comerciales solo van en su foro y en el canal, siempre marcadas; usarlas no afecta el acceso ni la constancia."
+   ]
+  }
+ },
+ "carpeta": {
+  "nombre": "Tu_Talento_Tu_Marca_Tu_Futuro",
+  "zip": "Tu_Talento_v1.3",
+  "manual": "Manual_del_programa_TTMF_v1.3",
+  "contenido": "Contenido_completo_TTMF_v1.3",
+  "guia": "Guia_implementacion_TTMF_v1.3",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes, comunidad, fuentes y datos verificados.",
+   "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento de datos (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, encuestas, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por un contador y un abogado del medio",
+   "Datos vigentes confirmados en el sitio oficial (manual, sección 6)",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md",
+   "Level Up, insignias, constancia y encuestas configurados",
+   "Comunidad creada (carpeta Comunidad Tu Talento)",
+   "Revisión con rol de estudiante",
+   "Calendario de mantenimiento asignado"
+  ],
+  "notas": [
+   "Las lecciones no tienen recomendaciones comerciales; las referencias van solo en los canales y están marcadas.",
+   "No se recomiendan SOFIPO, SOCAP ni SOFOM.",
+   "Antes de publicar, confirma en la CNBV los productos de ahorro de Nu y los precios del día de Buró y Círculo."
+  ]
+ },
+ "instalacion": {
+  "nombre_corto": "TTMF-MX",
+  "readme": "README_INSTALAR_TU_TALENTO_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas RFC, CURP, números de cuenta, contraseñas ni montos reales.",
+  "niveles": [
+   [
+    "Casting",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Ensayo",
+    250,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Llamado",
+    700,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Estreno",
+    1200,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Temporada",
+    1700,
+    "Durante el Módulo 9"
+   ],
+   [
+    "Trayectoria",
+    2150,
+    "Durante el Módulo 11"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluación del Módulo 1",
+    "Calculas tu ganancia real, te pagas un sueldo fijo y tienes meta de fondo de sequía."
+   ],
+   [
+    "Autoevaluaciones de los Módulos 2 y 3",
+    "Conoces tu régimen fiscal, tus contratos y a quién acudir por tus regalías."
+   ],
+   [
+    "Autoevaluaciones de los Módulos 4 y 5",
+    "Distingues instituciones, las verificas y comparas productos antes de contratar."
+   ],
+   [
+    "Autoevaluaciones de los Módulos 6, 7 y 8",
+    "Sabes que el crédito es deuda, revisas tu Buró y Círculo y tienes plan de salida."
+   ],
+   [
+    "Autoevaluación del Módulo 9",
+    "Reconoces fraudes, proteges tu identidad y sabes cómo responder."
+   ],
+   [
+    "Autoevaluación del Módulo 10",
+    "Tienes plan de salud, IMSS, seguros, marca y documentos para tu familia."
+   ],
+   [
+    "Autoevaluación del Módulo 11",
+    "Tu retiro, tu carrera larga y tu plan de una página están escritos."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los once módulos del programa."
+   ]
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": true,
+ "catalogo": {
+  "descripcion": [
+   "Ordena tus ingresos variables, tus impuestos, tus contratos y tu crédito, y protege tu nombre y tu futuro.",
+   "Microlecciones de 5 a 10 minutos con casos de actuación, música, modelaje, baile y creación de contenido."
+  ],
+  "para_quien": "Personas que trabajan en el entretenimiento en México: actuación, música, modelaje, baile, contenido, producción y técnica.",
+  "idiomas": "Español"
+ }
+}

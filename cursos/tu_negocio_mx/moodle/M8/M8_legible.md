@@ -186,7 +186,7 @@ La retención de IVA (34.50 con RFC) se resta del IVA que ella debe; si no dio s
 
 #### Un caso en un minuto
 
-Mariana registró su RFC en la plataforma y recalculó su precio con la comisión y el envío. Subió la bolsa a 560 y ofreció envío gratis a partir de dos piezas.
+Mariana registró su RFC en la plataforma y recalculó su precio con la comisión y el envío. Subió la bolsa a 560 y ofreció envío sin costo a partir de dos piezas.
 
 > **Idea clave:** registra tu RFC en la plataforma y calcula tu precio con comisión, envío y retenciones.
 
@@ -518,7 +518,7 @@ Toño puso horario de atención de 8 a 19 horas y un mensaje automático. Los do
 
 #### Si el estrés no baja
 
-Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende gratis las 24 horas.
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende sin costo las 24 horas.
 
 
 
@@ -590,7 +590,7 @@ Publica tu horario de atención y elige tu día de descanso.
 
 ### Para saber más
 
-- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención sin costo las 24 horas.
 
 ### Palabras clave
 
@@ -599,5 +599,302 @@ Publica tu horario de atención y elige tu día de descanso.
 ### Fuentes
 
 Secretaría de Salud, consultado el 29 de septiembre de 2026.
+
+---
+
+## M8 U05. Tu plan de negocio en una hoja y cómo presentarlo
+
+**Lo que lograrás:** Resumir tu negocio en un plan de una hoja, presentarlo en dos minutos a un banco, un programa de apoyo o una incubadora, y conocer opciones de apoyo y financiamiento sin caer en fraudes.
+
+**Para empezar:** Mariana quiere entrar a un programa de apoyo para emprendedoras y le piden «un plan de negocio y una presentación de dos minutos». Nunca ha hecho uno. En esta lección armarás el tuyo.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan de negocio en una hoja
+
+| Pregunta | Tu respuesta |
+|---|---|
+| ¿Qué problema resuelves y para quién? | |
+| ¿Qué vendes y a qué precio? | |
+| ¿Cuánto te cuesta y cuánto te queda? | |
+| ¿Cuánto vendes al mes y tu punto de equilibrio? | |
+| ¿Quién es tu competencia y por qué te eligen? | |
+| ¿Qué necesitas (dinero, equipo, capacitación) y para qué? | |
+| ¿Cómo lo pagarías o qué resultado darías? | |
+
+
+
+#### Tu presentación de dos minutos
+
+1. El problema y a quién le resuelves.
+2. Lo que vendes y por qué te eligen.
+3. Tus números: ventas, margen y punto de equilibrio.
+4. Lo que necesitas y en qué lo usarías.
+5. Cómo lo pagarías o qué lograrías.
+
+
+
+#### Quién puede apoyarte
+
+Hay programas de gobierno federal, estatal y municipal, incubadoras de universidades, cámaras y asociaciones de negocios, y Nacional Financiera, que ofrecen capacitación, asesoría o financiamiento. Muchos piden un plan como este.
+
+
+
+#### Un caso en un minuto
+
+Mariana llenó su hoja con los números de sus registros y practicó su presentación con su hermana. En el programa le dieron capacitación y asesoría. Aunque no le dieron dinero la primera vez, le dijeron qué mejorar para la siguiente convocatoria.
+
+> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros, pide apoyo en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué números lleva tu presentación?
+*Respuesta:* Ventas, margen y punto de equilibrio.
+
+2. ¿Qué haces si te dicen que no?
+*Respuesta:* Preguntas qué mejorar y lo intentas de nuevo.
+
+
+#### Para recordar
+
+- Una hoja, siete preguntas.
+- Dos minutos, cinco partes.
+- Apoyo verificado; nadie cobra por inscribirte.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Fondeo colectivo
+
+Las plataformas de fondeo colectivo (crowdfunding) reúnen dinero de muchas personas para un proyecto. En México deben estar autorizadas por la CNBV como instituciones de financiamiento colectivo. Revisa sus comisiones y lo que te comprometes a dar.
+
+
+
+#### Apoyos falsos
+
+Nadie debe cobrarte por inscribirte a un programa de gobierno ni pedirte un depósito para «liberar» un crédito o un apoyo. Consulta las convocatorias en los sitios oficiales.
+
+> **Antes de actuar, verifica:** que el programa esté en un sitio oficial (gob.mx o del gobierno de tu estado) y que la plataforma de fondeo esté en el padrón de la CNBV.
+
+
+
+#### Casos
+
+
+**Caso 1. El programa de Mariana**
+
+Le piden a Mariana un plan de negocio y una presentación de dos minutos.
+- *¿Qué hace?* Llena su plan de una hoja con sus registros y practica su presentación.
+
+
+**Caso 2. La cuota de Toño**
+
+Un «gestor» le ofrece a Toño un apoyo del gobierno si le paga 2,000 por el trámite.
+- *¿Qué hace?* No paga: los apoyos no cobran inscripción; busca la convocatoria oficial.
+
+
+**Caso 3. El «no» de Rosa**
+
+El banco le negó a Rosa un crédito para ampliar la fonda.
+- *¿Qué hace?* Pregunta por qué, mejora sus registros y su reserva, y lo intenta después.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Plan sin números | No convence | Tus registros |
+| Presentación larga | Pierdes atención | Dos minutos |
+| Pagar por un apoyo | Fraude | Convocatoria oficial |
+| Rendirte al primer no | Pierdes la oportunidad | Pregunta qué mejorar |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Toño y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué va primero en tu presentación? a) El problema que resuelves y para quién · b) Lo que necesitas · c) Tu historia completa
+2. Te piden 2,000 por inscribirte a un apoyo de gobierno. ¿Qué es? a) Un trámite normal · b) Una garantía · c) Un fraude
+3. Te niegan un crédito. ¿Qué haces? a) Pides en una app sin registro · b) Preguntas por qué y mejoras para intentarlo de nuevo · c) Dejas de intentarlo
+**Respuestas:** 1-a: así entienden tu negocio. 2-c: los apoyos no cobran inscripción. 3-b: el «no» también enseña.
+
+
+
+#### Ponlo en práctica
+
+Vendes 45,000 al mes con un margen de 30%. ¿Cuánto te queda para cubrir tus costos fijos?
+**Respuesta:** 13,500 pesos.
+
+
+
+#### A tu plan
+
+Llena tu plan de negocio en una hoja y ensaya tu presentación de dos minutos con alguien de confianza.
+
+
+
+### Para saber más
+
+- **Emprendedores** (Nacional Financiera · español): https://www.nafin.com — **Qué buscar:** «capacitación» y «financiamiento».
+- **Padrón de entidades** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** «instituciones de financiamiento colectivo».
+
+### Palabras clave
+
+- *Plan de negocio:* resumen de qué vendes, a quién, cuánto ganas y qué necesitas.
+- *Fondeo colectivo:* dinero que reúnen muchas personas para un proyecto, a través de una plataforma autorizada.
+- *Incubadora:* organización que apoya a negocios nuevos con asesoría, capacitación o espacio.
+
+### Fuentes
+
+Nacional Financiera · CNBV · Ley para Regular las Instituciones de Tecnología Financiera, consultados el 30 de septiembre de 2026.
+
+---
+
+## M8 U06. Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley
+
+**Lo que lograrás:** Seguir lo que pasa alrededor de tu negocio (competencia, precios, tasas, leyes y tu comunidad), informarte en fuentes confiables y ajustar tu plan a tiempo.
+
+**Para empezar:** Abrieron una tienda de conveniencia a dos cuadras de la de Don Pepe, subió la luz y cambió una regla del SAT. Don Pepe se enteró de todo tarde. En esta lección verás cómo estar al tanto sin agobiarte.
+
+### Lo esencial (5 minutos)
+
+#### Lo que vigilas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Competencia | Quién llega, qué vende y a qué precio. | Qué te hace distinto. |
+| Economía | Inflación, tasas, tipo de cambio si importas. | Tus costos y créditos. |
+| Leyes y reglas | SAT, IMSS, permisos de tu municipio. | Plazos y obligaciones. |
+| Tu comunidad | Obras, eventos, temporadas. | Oportunidades y riesgos. |
+
+#### Fuentes confiables
+
+Para leyes y obligaciones: sitios oficiales del SAT, el IMSS y tu municipio. Para economía: Banco de México e INEGI. Para aprender: CONDUSEF, cámaras de comercio y asociaciones de negocios. Los rumores de redes no son fuente.
+
+
+
+#### Un caso en un minuto
+
+Don Pepe apartó 15 minutos cada lunes para revisar precios de la competencia y los avisos del SAT. Frente a la tienda nueva, sumó el servicio a domicilio a sus clientes de siempre y ajustó el horario. Sus ventas se recuperaron en tres meses.
+
+> **Idea clave:** vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde confirmas un cambio de reglas del SAT?
+*Respuesta:* En el sitio oficial del SAT.
+
+2. ¿Qué haces si llega competencia nueva?
+*Respuesta:* Ves qué te hace distinto y ajustas tu oferta.
+
+
+#### Para recordar
+
+- Cuatro cosas que vigilar.
+- Fuentes oficiales.
+- 15 minutos a la semana.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu negocio también afecta
+
+Tu negocio da empleo, compra a proveedores locales y comparte la calle con tus vecinos. Cuidar la basura, el ruido y el trato justo también cuida tu reputación y a tu clientela.
+
+
+
+#### Aprender sin parar
+
+Detecta qué te falta saber (impuestos, ventas en línea, costos) y busca capacitación sin costo o de bajo costo: programas de gobierno, universidades, cámaras y asociaciones. Si tienes personal, compárteles lo que aprendes.
+
+> **Antes de actuar, verifica:** cualquier cambio de ley o de trámite en el sitio oficial y, si te afecta, pregúntale a tu contador.
+
+
+
+#### Casos
+
+
+**Caso 1. La tienda nueva**
+
+Abrieron una tienda de conveniencia cerca de la de Don Pepe.
+- *¿Qué hace?* Ve qué lo hace distinto y ajusta su servicio y horario.
+
+
+**Caso 2. El aviso de Toño**
+
+En un grupo dicen que el SAT «ya cobra por cada transferencia».
+- *¿Qué hace?* Lo confirma en el sitio del SAT y con su contador antes de actuar.
+
+
+**Caso 3. La obra de Rosa**
+
+El municipio va a arreglar la calle de la fonda durante un mes.
+- *¿Qué hace?* Planea con su reserva y avisa a sus clientes cómo llegar.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Enterarse tarde | Pierdes ventas | 15 minutos a la semana |
+| Creer rumores | Decides mal | Fuente oficial |
+| Competir solo con precio | Margen que se va | Lo que te hace distinto |
+| Olvidar a la comunidad | Pierdes reputación | Buen vecino |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Toño y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Llega competencia nueva a tu calle. ¿Qué haces? a) Bajas precios aunque pierdas · b) Ves qué te hace distinto y ajustas tu oferta · c) Cierras
+2. Dicen en redes que cambió una regla del SAT. ¿Qué haces? a) Lo confirmas en el sitio del SAT y con tu contador · b) Dejas de facturar · c) Lo compartes con todos tus clientes
+3. ¿Dónde consultas la inflación? a) En la publicidad de un banco · b) En un grupo de WhatsApp · c) En el INEGI
+**Respuestas:** 1-b: compite con lo que te distingue. 2-a: confirma antes. 3-c: fuente oficial.
+
+
+
+#### Ponlo en práctica
+
+Revisas tu entorno 15 minutos cada semana. ¿Cuántas horas son al año?
+**Respuesta:** 13 horas (15 × 52 = 780 minutos).
+
+
+
+#### A tu plan
+
+Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus costos.
+
+
+
+### Para saber más
+
+- **Obligaciones fiscales** (SAT · español): https://www.sat.gob.mx.
+- **Estadísticas y precios** (INEGI · español): https://www.inegi.org.mx.
+- **Capacitación para negocios** (Nacional Financiera · español): https://www.nafin.com.
+
+### Palabras clave
+
+- *Entorno:* lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.
+- *Reputación:* lo que tus clientes y vecinos piensan de tu negocio.
+
+### Fuentes
+
+SAT · INEGI · Banco de México · Nacional Financiera, consultados el 30 de septiembre de 2026.
 
 ---

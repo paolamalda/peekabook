@@ -169,7 +169,7 @@ IMSS · Programas para el Bienestar, consultados el 29 de septiembre de 2026.
 
 #### Localiza tu AFORE
 
-Si alguna vez tuviste un trabajo formal, tienes una AFORE. La localizas gratis con tu CURP en el sitio e-SAR o en la app AforeMóvil.
+Si alguna vez tuviste un trabajo formal, tienes una AFORE. La localizas sin costo con tu CURP en el sitio e-SAR o en la app AforeMóvil.
 
 
 
@@ -184,7 +184,7 @@ Si alguna vez tuviste un trabajo formal, tienes una AFORE. La localizas gratis c
 
 #### Beneficiarios al día
 
-Si tus beneficiarios son de hace años, pueden ser personas que ya no quieres o que ya no viven. Actualizarlos es gratis y se hace en tu AFORE o en la app.
+Si tus beneficiarios son de hace años, pueden ser personas que ya no quieres o que ya no viven. Actualizarlos no tiene costo y se hace en tu AFORE o en la app.
 
 
 
@@ -192,7 +192,7 @@ Si tus beneficiarios son de hace años, pueden ser personas que ya no quieres o 
 
 Elena localizó su AFORE con su CURP. Tenía un saldo que no esperaba. Cambió a sus hijos como beneficiarios y empezó a hacer una aportación voluntaria pequeña cada mes.
 
-> **Idea clave:** localiza tu AFORE, revisa tu saldo y actualiza tus beneficiarios; es gratis.
+> **Idea clave:** localiza tu AFORE, revisa tu saldo y actualiza tus beneficiarios; no tiene costo.
 
 
 
@@ -234,7 +234,7 @@ Puedes ahorrar extra en tu AFORE aunque ya no trabajes formalmente: por la app, 
 
 #### Cuidado con gestores
 
-Si alguien te llama para «recuperar» tu AFORE o cambiarte a otra a cambio de un regalo o un cobro, desconfía. Los trámites de AFORE son gratuitos y los haces tú.
+Si alguien te llama para «recuperar» tu AFORE o cambiarte a otra a cambio de un regalo o un cobro, desconfía. Los trámites de AFORE no tienen costo y los haces tú.
 
 > **Antes de actuar, verifica:** los rendimientos y comisiones de cada AFORE en el sitio de la CONSAR antes de cambiarte.
 
@@ -246,7 +246,7 @@ Si alguien te llama para «recuperar» tu AFORE o cambiarte a otra a cambio de u
 **Caso 1. La AFORE de Elena**
 
 Elena no sabe en qué AFORE está después de varios trabajos.
-- *¿Qué hace?* La localiza gratis con su CURP en e-SAR o en AforeMóvil.
+- *¿Qué hace?* La localiza sin costo con su CURP en e-SAR o en AforeMóvil.
 
 
 **Caso 2. El beneficiario de Maru**
@@ -268,7 +268,7 @@ Un agente le ofrece a Carmen una licuadora si se cambia de AFORE.
 | No saber tu AFORE | Ahorro olvidado | Localízala |
 | Beneficiarios viejos | Tu dinero a quien no quieres | Actualízalos |
 | Cambiarte por regalos | Menos rendimiento | Compara |
-| Pagar a gestores | Es gratis | Hazlo tú |
+| Pagar a gestores | Es sin costo | Hazlo tú |
 
 ### Practica
 
@@ -281,7 +281,7 @@ Un agente le ofrece a Carmen una licuadora si se cambia de AFORE.
 #### Quiz
 
 1. ¿Qué necesitas para localizar tu AFORE? a) Tu CURP · b) Una cita con un gestor · c) El número de tu última empresa
-2. Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? a) Aceptas: el regalo es gratis · b) Comparas rendimientos en la CONSAR antes · c) Te cambias y, si no te gusta, regresas a tu AFORE anterior
+2. Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? a) Aceptas: el regalo no tiene costo · b) Comparas rendimientos en la CONSAR antes · c) Te cambias y, si no te gusta, regresas a tu AFORE anterior
 3. ¿Puedes ahorrar en tu AFORE si ya no trabajas formalmente? a) No, solo con patrón · b) Solo si tienes más de 60 años · c) Sí, con aportaciones voluntarias
 **Respuestas:** 1-a: con tu CURP. 2-b: el regalo no mejora tu retiro. 3-c: cualquiera puede aportar.
 
@@ -393,7 +393,7 @@ Si registras un salario de 30,000 al mes en 2026, la cuota es el 14.438%: unos 4
 
 #### Gestores
 
-El trámite es gratuito y se hace en el IMSS. Hay gestores que cobran por inscribirte o que ofrecen «financiar» tus cuotas con préstamos caros. Desconfía de quien te pide dinero por adelantado.
+El trámite no tiene costo y se hace en el IMSS. Hay gestores que cobran por inscribirte o que ofrecen «financiar» tus cuotas con préstamos caros. Desconfía de quien te pide dinero por adelantado.
 
 > **Antes de actuar, verifica:** tus requisitos y tu estimación directamente en el IMSS; las reglas y los porcentajes cambian cada año.
 
@@ -405,7 +405,7 @@ El trámite es gratuito y se hace en el IMSS. Hay gestores que cobran por inscri
 **Caso 1. El gestor de Maru**
 
 Un gestor le ofrece a Maru inscribirla por 15,000.
-- *¿Qué hace?* Confirma en el IMSS si puede inscribirse y hace el trámite gratis.
+- *¿Qué hace?* Confirma en el IMSS si puede inscribirse y hace el trámite sin costo.
 
 
 **Caso 2. El cálculo de Elena**
@@ -425,7 +425,7 @@ Le ofrecen a Carmen un préstamo para pagar de golpe sus cuotas de Modalidad 40.
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Creer que es para todas | Pagas sin derecho | Revisa requisitos |
-| Usar gestores | Pagas de más | Trámite gratuito |
+| Usar gestores | Pagas de más | Trámite sin costo |
 | Decidir sin números | No recuperas | Estimación con y sin |
 | Endeudarte para pagar | Riesgo alto | Evalúa antes |
 
@@ -441,8 +441,8 @@ Le ofrecen a Carmen un préstamo para pagar de golpe sus cuotas de Modalidad 40.
 
 1. ¿Qué haces antes de pagar la Modalidad 40? a) Pagas un gestor para que lo revise · b) Confirmas requisitos y pides una estimación en el IMSS · c) Pagas un año para probar
 2. Registras 20,000 de salario en 2026. ¿Cuánto es la cuota aproximada? a) 2,000 · b) 20,000 · c) 2,888
-3. ¿Quién puede cobrarte por inscribirte? a) Nadie: el trámite es gratuito · b) Un gestor autorizado por el IMSS para agilizar la inscripción · c) Tu AFORE, con una comisión
-**Respuestas:** 1-b: decide con números. 2-c: 14.438% de 20,000. 3-a: es gratuito.
+3. ¿Quién puede cobrarte por inscribirte? a) Nadie: el trámite no tiene costo · b) Un gestor autorizado por el IMSS para agilizar la inscripción · c) Tu AFORE, con una comisión
+**Respuestas:** 1-b: decide con números. 2-c: 14.438% de 20,000. 3-a: no tiene costo.
 
 
 
@@ -511,7 +511,7 @@ Para la viudez suelen pedir actas de matrimonio (o prueba de concubinato), de de
 
 Lucía reunió sus documentos en su carpeta. Al cumplir 65, se registró en el módulo oficial para la pensión de Adultos Mayores, que puede recibir además de su pensión de viudez.
 
-> **Idea clave:** ten listos los documentos de viudez y registra a tiempo las pensiones del Bienestar; ambos trámites son gratuitos.
+> **Idea clave:** ten listos los documentos de viudez y registra a tiempo las pensiones del Bienestar; ambos trámites no tienen costo.
 
 
 
@@ -528,7 +528,7 @@ Lucía reunió sus documentos en su carpeta. Al cumplir 65, se registró en el m
 
 - Viudez: en general 90%.
 - Bienestar: 60 a 64 y 65 o más.
-- Trámites gratuitos, documentos en tu carpeta.
+- Trámites sin costo, documentos en tu carpeta.
 
 
 
@@ -578,7 +578,7 @@ Carmen no sabe dónde está su acta de matrimonio.
 **Caso 3. La llamada a Maru**
 
 Le llaman a Maru para «aumentar su pensión del Bienestar» a cambio de un pago.
-- *¿Qué hace?* Cuelga: el registro y la pensión son gratuitos.
+- *¿Qué hace?* Cuelga: el registro y la pensión no tienen costo.
 
 
 #### Errores frecuentes
@@ -603,7 +603,7 @@ Le llaman a Maru para «aumentar su pensión del Bienestar» a cambio de un pago
 1. ¿Cuánto da la Pensión de Adultos Mayores en 2026? a) 3,100 cada mes, igual que Mujeres Bienestar · b) 6,400 cada dos meses · c) 6,400 cada mes
 2. Te piden dinero para aumentar tu pensión del Bienestar. ¿Qué es? a) Un fraude · b) Un trámite especial para adultos mayores · c) Una cuota voluntaria
 3. La pensión de tu esposo es de 20,000 al mes. ¿Cuánto sería, en general, tu pensión de viudez? a) 20,000 · b) 10,000 · c) 18,000
-**Respuestas:** 1-b: bimestral. 2-a: es gratuito. 3-c: 90% de 20,000.
+**Respuestas:** 1-b: bimestral. 2-a: no tiene costo. 3-c: 90% de 20,000.
 
 
 
@@ -657,7 +657,7 @@ Quien trabajaba para el gobierno cuando cambió la ley del ISSSTE en 2007 eligi�
 | Décimo transitorio | Eligió quedarse en el régimen anterior. | Pensión por años de servicio y edad. |
 | Cuentas individuales | Eligió el bono o entró después de 2007. | Pensión según su ahorro en la AFORE. |
 | Hoja única de servicios | Documento que resume sus años y sueldos. | Se pide en su dependencia. |
-| Gestor que «acelera» | Los trámites del ISSSTE son gratuitos. | No pagues por adelantado. |
+| Gestor que «acelera» | Los trámites del ISSSTE no tienen costo. | No pagues por adelantado. |
 
 > **Dato vigente:** en el régimen del décimo transitorio, en 2026 y 2027 las mujeres pueden jubilarse a los 56 años con 28 años de servicio y los hombres a los 58 con 30 años; la edad baja de forma gradual hasta 53 y 55 años en 2034. Consultado el 29 de septiembre de 2026 a través del decreto publicado en el DOF el 24 de junio de 2025 y medios especializados.
 
@@ -746,7 +746,7 @@ La mamá de Elena es viuda de un maestro que era pensionado del ISSSTE y nunca t
 **Caso 3. El gestor**
 
 Un gestor ofrece a Carmen «acelerar» la pensión ISSSTE de su hermano por 20,000 pesos.
-- *¿Qué le aconseja Carmen?* Que no pague: los trámites del ISSSTE son gratuitos y se hacen directamente.
+- *¿Qué le aconseja Carmen?* Que no pague: los trámites del ISSSTE no tienen costo y se hacen directamente.
 
 
 #### Errores frecuentes
@@ -755,7 +755,7 @@ Un gestor ofrece a Carmen «acelerar» la pensión ISSSTE de su hermano por 20,0
 |---|---|---|
 | No saber el régimen | Expectativas falsas | Hoja única de servicios |
 | Beneficiarios sin revisar | Trámites largos | Revisa el registro |
-| Pagar gestores | Fraude | Trámite gratuito |
+| Pagar gestores | Fraude | Trámite sin costo |
 | Olvidar años en el IMSS | Pierdes periodos | Revisa ambos historiales |
 
 ### Practica

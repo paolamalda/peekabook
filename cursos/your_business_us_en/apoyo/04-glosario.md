@@ -6,6 +6,8 @@ Plain-language definitions of the course words, grouped by module.
 
 - **Business account:** an account you use only to collect and pay for business things.
 - **Compulsive gambling:** when you can't stop betting even though it causes problems.
+- **Economic abuse:** when another person controls, withholds or uses your money or property to dominate you.
+- **Economic autonomy:** being able to earn, keep and decide about your own money.
 - **FDIC:** federal agency that insures bank deposits.
 - **Owner's salary:** a fixed amount you transfer from the business to yourself every week or two weeks.
 - **Profit:** what is left from sales after paying all the business costs.
@@ -34,9 +36,11 @@ Plain-language definitions of the course words, grouped by module.
 - **Business reserve:** money set aside to cover the business's fixed costs in slow months or emergencies.
 - **Cash flow:** the money that actually comes into and goes out of the business, and when.
 - **Deposit:** part of the payment the customer makes before you do the work.
+- **Inflation:** a general rise in prices over time.
 - **Invoice:** a document with what you sold, the amount and the payment due date.
 - **Slow season:** months when your business sells less.
 - **Small claims court:** a court for collecting small amounts without a lawyer.
+- **Variable rate:** an interest rate that can change during the loan.
 
 ## Get paid and sell without losing
 
@@ -67,6 +71,7 @@ Plain-language definitions of the course words, grouped by module.
 ## Credit for your business
 
 - **APR:** annual percentage rate: the yearly cost of credit, with interest and certain fees.
+- **Authorized user:** a person who uses someone else's card; generally not responsible for the debt.
 - **Cautious scenario:** a calculation with lower sales than expected.
 - **CDFI:** a community development financial institution that lends to people and businesses with less access.
 - **Cosigner:** a person who signs a loan and agrees to pay it if the borrower doesn't.
@@ -75,6 +80,7 @@ Plain-language definitions of the course words, grouped by module.
 - **Merchant cash advance (MCA):** money in exchange for a percentage of your future sales; very expensive.
 - **Minimum payment:** the least you can pay on your card; the debt barely goes down.
 - **Personal guarantee:** a promise that you'll pay if the business doesn't.
+- **Reference:** a person who only gives their details; not obligated to pay.
 - **Working capital:** money to run day to day: merchandise, supplies and payments.
 
 ## Protect your business
@@ -102,12 +108,16 @@ Plain-language definitions of the course words, grouped by module.
 
 - **ABC test:** California's test to determine whether someone is an employee or a contractor.
 - **Average ticket:** what each customer spends on average per purchase: sales divided by number of sales.
+- **Business plan:** a summary of what you sell, to whom, what you earn and what you need.
 - **Dashboard:** a table with the business's key numbers each month.
 - **Financial stress:** constant worry about money that affects your sleep, health or relationships.
 - **Gross payments:** the total collected before subtracting fees, refunds and costs.
 - **Independent contractor:** a person who has their own business, decides how to do the work and works for several clients.
+- **Mentor:** an experienced person who advises you at no cost.
 - **Payroll taxes:** taxes the employer withholds and pays for its employees.
 - **Platform:** a site or app that connects sellers and buyers and charges a fee.
+- **Reputation:** what your customers and neighbors think of your business.
+- **Surroundings:** what happens around your business and affects it: competition, economy, laws and community.
 
 ## Your future
 

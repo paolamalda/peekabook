@@ -70,7 +70,7 @@ Lucía revisó con una contadora sus ingresos: la renta del local la obliga a de
 
 #### Dónde pedir ayuda
 
-El SAT orienta gratis en sus oficinas y por teléfono. PRODECON ayuda gratis si tienes un problema con el SAT. Un contador puede ayudarte con tu declaración; pide su cédula profesional.
+El SAT orienta sin costo en sus oficinas y por teléfono. PRODECON ayuda sin costo si tienes un problema con el SAT. Un contador puede ayudarte con tu declaración; pide su cédula profesional.
 
 
 
@@ -123,9 +123,9 @@ A Maru le llega un mensaje del «SAT» con un enlace para cobrar una devolución
 #### Quiz
 
 1. Recibes rentas de un departamento. ¿Qué pasa? a) Nunca declaras si eres pensionada · b) Probablemente debes declarar · c) Solo declaras si el SAT te llama
-2. ¿Dónde pides ayuda gratis si tienes un problema con el SAT? a) PRODECON · b) Con un gestor que cobra · c) En el banco
+2. ¿Dónde pides ayuda sin costo si tienes un problema con el SAT? a) PRODECON · b) Con un gestor que cobra · c) En el banco
 3. Te llega un enlace del «SAT» para una devolución. ¿Qué haces? a) Lo abres rápido para no perderla · b) Lo reenvías a tu contadora · c) Entras tú a sat.gob.mx
-**Respuestas:** 1-b: las rentas suelen obligarte. 2-a: es gratuita. 3-c: el SAT no manda enlaces así.
+**Respuestas:** 1-b: las rentas suelen obligarte. 2-a: no tiene costo. 3-c: el SAT no manda enlaces así.
 
 
 
@@ -145,7 +145,7 @@ Tramita tu contraseña del SAT y descarga tu constancia de situación fiscal.
 ### Para saber más
 
 - **SAT** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** «contraseña» y «declaración anual personas físicas».
-- **PRODECON** (PRODECON · español): https://www.prodecon.gob.mx — **Qué buscar:** asesoría gratuita.
+- **PRODECON** (PRODECON · español): https://www.prodecon.gob.mx — **Qué buscar:** asesoría sin costo.
 
 ### Palabras clave
 

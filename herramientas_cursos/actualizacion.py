@@ -187,21 +187,24 @@ for mod in mods:
         R.append((mod, n, pasos))
         resumen_cambios.append((mod, [(c, p["titulo"], e) for c, p, e, _ in lec_cambio]))
 
-# preguntas
+# preguntas: por nombre (M1 U01 P1). Nombre nuevo → importar; mismo nombre con otro texto → corregir en su lugar.
 gv, gn = gift(os.path.join(VIEJO, CONF["banco"])), gift(os.path.join(NUEVO, CONF["banco"]))
-cuerpos_v = {b for _, _, b in gv}
-cuerpos_n = {b for _, _, b in gn}
-nuevas = [q for q in gn if q[2] not in cuerpos_v]
-quitar = [q for q in gv if q[2] not in cuerpos_n]
-if nuevas:
+pv = {nm: b for _, nm, b in gv}
+nuevas = [q for q in gn if q[1] not in pv]
+corregidas = [q for q in gn if q[1] in pv and pv[q[1]] != q[2]]
+salen = [nm for nm in pv if nm not in {q[1] for q in gn}]
+def gift_txt(lista):
     txt, cat = [], None
-    for c, nm, b in nuevas:
+    for c, nm, b in lista:
         if c != cat: txt.append(c + "\n"); cat = c
         txt.append(f"::{nm}::{b}\n")
-    put(f"{F['pre']}/{T('preguntas_nuevas', 'new_questions')}.gift.txt", "\n".join(txt))
-por_mod_n, por_mod_q = {}, {}
+    return "\n".join(txt)
+if nuevas: put(f"{F['pre']}/{T('preguntas_nuevas', 'new_questions')}.gift.txt", gift_txt(nuevas))
+if corregidas: put(f"{F['pre']}/{T('preguntas_corregidas_referencia', 'corrected_questions_reference')}.gift.txt", gift_txt(corregidas))
+por_mod_n = {}
 for c, nm, b in nuevas: por_mod_n.setdefault(nm.split()[0], []).append(nm)
-for c, nm, b in quitar: por_mod_q.setdefault(nm.split()[0], []).append(nm)
+cat_vieja = (re.search(r"\$course\$/(.+)/M\d+", gv[0][0]).group(1) if gv else "")
+cat_nueva = (re.search(r"\$course\$/(.+)/M\d+", gn[0][0]).group(1) if gn else "")
 
 # glosario
 ev, _ = glos(VIEJO)
@@ -212,7 +215,6 @@ if g_nuevos:
     put(f"{F['glo']}/{T('Glosario_terminos_nuevos', 'Glossary_new_terms')}.xml", head + "<ENTRIES>\n" + "\n".join(g_nuevos) + "\n</ENTRIES></INFO></GLOSSARY>\n")
 
 # libro de apoyo
-av, an = pag_apoyo = {}, {}
 def apoyo(base):
     r = os.path.join(base, "Apoyo", "Apoyo_libro_Moodle.zip")
     if not os.path.exists(r): return {}
@@ -224,64 +226,101 @@ for f in ap_cambia:
     with zipfile.ZipFile(z, "w") as lz: lz.writestr(f, an[f])
     put(f"{F['lib']}/Apoyo/{f.replace('.html', '.zip')}", z.getvalue())
 
+# ajustes de plataforma (una sola vez): encuestas, constancia, catálogo
+CJ = json.load(open(CONF["curso_json"], encoding="utf-8")) if CONF.get("curso_json") else None
+AJ = CONF.get("ajustes_plataforma") and CJ
+if AJ:
+    for f in glob.glob(os.path.join(NUEVO, "encuesta", "*")): put(f"{T('6_encuestas', '6_surveys')}/{os.path.basename(f)}", open(f, "rb").read())
+    for f in glob.glob(os.path.join(NUEVO, "constancia", "*.md")): put(f"{T('7_constancia', '7_certificate')}/{os.path.basename(f)}", open(f, "rb").read())
+    for f in glob.glob(os.path.join(NUEVO, T("tarjeta_catalogo.md", "catalog_card.md"))): put(os.path.basename(f), open(f, "rb").read())
+
+# lista de cambios
+cambios = []
+for mod, lst in resumen_cambios:
+    nue_ = [c.split()[1] for c, t, e in lst if e == "nueva"]
+    if nue_: cambios.append(f"{mod}: " + T("lección nueva " if len(nue_) == 1 else "lecciones nuevas ", "new lesson " if len(nue_) == 1 else "new lessons ") + ", ".join(nue_))
+    cambios += [f"{c}: " + T("texto corregido", "text corrected") for c, t, e in lst if e != "nueva"]
+if ap_cambia: cambios.append(T("Apoyo: capítulos ", "Support book: chapters ") + ", ".join(str(int(f[:2])) for f in ap_cambia) + T(" corregidos", " corrected"))
+if nuevas: cambios.append(T(f"Preguntas: {len(nuevas)} nuevas", f"Questions: {len(nuevas)} new"))
+if corregidas: cambios.append(T(f"Preguntas: {len(corregidas)} con texto corregido", f"Questions: {len(corregidas)} with corrected text"))
+if g_nuevos: cambios.append(T(f"Glosario: {len(g_nuevos)} términos nuevos", f"Glossary: {len(g_nuevos)} new terms"))
+if AJ: cambios.append(T("Plataforma: categoría con versión, insignias con nombre del curso, constancia estándar, encuestas, curso visible con clave y mosaicos",
+                        "Platform: versioned category, badges with course name, standard certificate, surveys, visible course with key and tiles"))
+
 # README
 nombre_curso, apoyo_n = CONF["curso"], CONF.get("apoyo", T("Materiales de apoyo", "Support materials"))
 L = []
 if EN:
     L += [f"# Update {CONF['de']} → {CONF['a']} · {nombre_curso} · for Claude", "",
-          f"This package updates a course **already installed** in Moodle 3.10 from version {CONF['de']} to {CONF['a']}. It only contains what changed. **Do not reinstall the course and do not delete activities, attempts, grades, badges or Level Up points.**", "",
+          f"This package updates a course **already installed** in Moodle 3.10 from version {CONF['de']} to {CONF['a']}. It only contains what changed. Activity names stay the same. **Do not reinstall the course and do not delete activities, attempts, grades, badges or Level Up points.**", "",
           "Before starting: make a course backup (*Course administration > Backup*, no user data is fine) and turn editing on. If a step can't be done, skip it and report it at the end.", ""]
 else:
     L += [f"# Actualización {CONF['de']} → {CONF['a']} · {nombre_curso} · para Claude", "",
-          f"Este paquete actualiza un curso **ya instalado** en Moodle 3.10 de la versión {CONF['de']} a la {CONF['a']}. Solo trae lo que cambió. **No reinstales el curso ni borres actividades, intentos, calificaciones, insignias o puntos de Level Up.**", "",
+          f"Este paquete actualiza un curso **ya instalado** en Moodle 3.10 de la versión {CONF['de']} a la {CONF['a']}. Solo trae lo que cambió. Los nombres de las actividades se mantienen. **No reinstales el curso ni borres actividades, intentos, calificaciones, insignias o puntos de Level Up.**", "",
           "Antes de empezar: haz una copia de seguridad del curso (*Administración del curso > Copia de seguridad*, sin datos de usuarios basta) y activa la edición. Si un paso no se puede, sáltalo y repórtalo al final.", ""]
-L += [T("## Qué cambia", "## What changes"), ""]
-for mod, lst in resumen_cambios:
-    for c, t, e in lst:
-        L.append(f"- {t} · " + (T("nueva", "new") if e == "nueva" else T("actualizada", "updated")))
-if ap_cambia: L.append(T(f"- Libro «{apoyo_n}»: capítulos ", f"- \"{apoyo_n}\" book: chapters ") + ", ".join(str(int(f[:2])) for f in ap_cambia))
-L.append(T(f"- {len(nuevas)} preguntas nuevas" + (f" y {len(quitar)} que salen" if quitar else "") + f"; {len(g_nuevos)} términos nuevos de glosario.",
-           f"- {len(nuevas)} new questions" + (f" and {len(quitar)} retired" if quitar else "") + f"; {len(g_nuevos)} new glossary terms."))
-L += ["", T("## 1. Por módulo", "## 1. By module"), ""]
+L += [T("## Lista de cambios", "## Change list"), "", "; ".join(cambios) + ".", ""]
+s_ = 1
+if AJ:
+    ins = [f"«{nom}» → «{nom} · {CJ['categoria']}»" for _, _, nom, _ in CJ["insignias"]]
+    tem = " · ".join(CJ["constancia"]["mods"])
+    L += [T(f"## {s_}. Ajustes de plataforma (una sola vez)", f"## {s_}. Platform adjustments (one time)"), ""]
+    if EN:
+        L += [f"1. **Question category:** in *Question bank > Categories*, rename `{cat_vieja}` to `{cat_nueva}` (its M1… subcategories stay).",
+              "2. **Badges:** rename each badge so it's unique on the platform: " + "; ".join(ins) + ". Badges already issued are kept.",
+              f"3. **Certificate:** edit the Custom certificate, remove the background image and use the platform's standard template with: course title «{CJ['titulo']}», line «for completing the financial well-being program {CJ['titulo']}» and topics {tem} (also in `7_certificate/`). Add the **Final survey** as an access condition.",
+              "4. **Visibility and enrolment:** course **visible**; *Enrolment methods* > **Self enrolment** with the enrolment key the person gives you (\"[TBD]\" if you don't have it). Guest access off.",
+              "5. **Format:** if **Tiles** is installed, switch the course format to Tiles with progress on tiles **as a percentage**; otherwise leave Topics.",
+              "6. **Surveys:** with the **Feedback** module (anonymous), create `Start survey` (General section), `Final survey`, `30-day follow-up` and `90-day follow-up` (last section) and import the XML files in `6_surveys/` (`surveys.md` explains them). Restrict the follow-ups by date (\"[TBD]\").",
+              "7. **Catalog:** update the course listing with `catalog_card.md`.", ""]
+    else:
+        L += [f"1. **Categoría de preguntas:** en *Banco de preguntas > Categorías*, renombra `{cat_vieja}` a `{cat_nueva}` (sus subcategorías M1… se quedan).",
+              "2. **Insignias:** renombra cada insignia para que sea única en la plataforma: " + "; ".join(ins) + ". Las insignias ya otorgadas se conservan.",
+              f"3. **Constancia:** edita el Certificado personalizado, quita la imagen de fondo y usa la plantilla estándar de la plataforma con: título «{CJ['titulo']}», línea «por concluir el programa de bienestar financiero {CJ['titulo']}» y temas {tem} (también en `7_constancia/`). Agrega la **Encuesta final** como condición de acceso.",
+              "4. **Visibilidad e inscripción:** curso **visible**; *Métodos de inscripción* > **Autoinscripción** con la clave que te dé la persona («[por definir]» si no la tienes). Sin acceso de invitados.",
+              "5. **Formato:** si **Mosaicos** (Tiles) está instalado, cambia el formato del curso a Mosaicos con el progreso en los mosaicos **como porcentaje**; si no, deja Temas.",
+              "6. **Encuestas:** con el módulo **Retroalimentación** (anónima), crea `Encuesta de inicio` (sección General), `Encuesta final`, `Seguimiento a 30 días` y `Seguimiento a 90 días` (última sección) e importa los XML de `6_encuestas/` (`encuestas.md` los explica). Restringe los seguimientos por fecha («[por definir]»).",
+              "7. **Catálogo:** actualiza la ficha del curso con `tarjeta_catalogo.md`.", ""]
+    s_ += 1
+L += [T(f"## {s_}. Por módulo", f"## {s_}. By module"), ""]
 for mod, n, pasos in R:
     L += [T(f"### Módulo {n}", f"### Module {n}"), ""] + [p + "\n" for p in pasos]
-s = 2
+s_ += 1
 if ap_cambia:
-    L += [T(f"## {s}. Libro «{apoyo_n}»", f"## {s}. \"{apoyo_n}\" book"), ""]
+    L += [T(f"## {s_}. Libro «{apoyo_n}»", f"## {s_}. \"{apoyo_n}\" book"), ""]
     for f in ap_cambia:
         k = int(f[:2]); t = html.unescape(re.search(r"<title>(.*?)</title>", an[f]).group(1))
         L.append(T(f"- Capítulo {k} «{t}»: bórralo, *Importar capítulo* > `{F['lib']}/Apoyo/{f.replace('.html', '.zip')}` y súbelo con las flechas a la posición {k}.",
                    f"- Chapter {k} \"{t}\": delete it, *Import chapter* > `{F['lib']}/Apoyo/{f.replace('.html', '.zip')}` and move it up with the arrows to position {k}."))
-    L.append(""); s += 1
+    L.append(""); s_ += 1
 if g_nuevos:
-    L += [T(f"## {s}. Glosario", f"## {s}. Glossary"), "",
-          T(f"En el glosario `Palabras clave del curso`: *Importar entradas* > `{F['glo']}/Glosario_terminos_nuevos.xml`, destino \"glosario actual\". Solo trae los {len(g_nuevos)} términos nuevos, así que no se duplican los que ya tienes.",
-            f"In the `Course key words` glossary: *Import entries* > `{F['glo']}/Glossary_new_terms.xml`, destination \"current glossary\". It only has the {len(g_nuevos)} new terms, so existing ones are not duplicated."), ""]
-    s += 1
-if nuevas or quitar:
-    L += [T(f"## {s}. Preguntas y autoevaluaciones", f"## {s}. Questions and self-assessments"), ""]
+    L += [T(f"## {s_}. Glosario", f"## {s_}. Glossary"), "",
+          T(f"En el glosario `Palabras clave del curso`: *Importar entradas* > `{F['glo']}/Glosario_terminos_nuevos.xml`, destino \"glosario actual\". Solo trae los {len(g_nuevos)} términos nuevos.",
+            f"In the `Course key words` glossary: *Import entries* > `{F['glo']}/Glossary_new_terms.xml`, destination \"current glossary\". It only has the {len(g_nuevos)} new terms."), ""]
+    s_ += 1
+if nuevas or corregidas:
+    L += [T(f"## {s_}. Preguntas y autoevaluaciones", f"## {s_}. Questions and self-assessments"), ""]
+    k = 1
+    if corregidas:
+        L.append(T(f"{k}. **Texto corregido ({len(corregidas)}):** en el banco, abre cada pregunta y *Editar*; reemplaza el enunciado, las opciones y la retroalimentación con los de `{F['pre']}/preguntas_corregidas_referencia.gift.txt` (mismo nombre, no la importes). Editar no borra intentos. Preguntas: " + ", ".join(q[1] for q in corregidas) + ".",
+                   f"{k}. **Corrected text ({len(corregidas)}):** in the bank, open each question and *Edit*; replace the stem, options and feedback with those in `{F['pre']}/corrected_questions_reference.gift.txt` (same name, don't import it). Editing doesn't delete attempts. Questions: " + ", ".join(q[1] for q in corregidas) + "."))
+        k += 1
     if nuevas:
-        L.append(T(f"1. *Banco de preguntas > Importar*, formato GIFT, `{F['pre']}/preguntas_nuevas.gift.txt`. Entran en las categorías que ya existen ({len(nuevas)} preguntas).",
-                   f"1. *Question bank > Import*, GIFT format, `{F['pre']}/new_questions.gift.txt`. They go into the existing categories ({len(nuevas)} questions)."))
-    L.append(T("2. En cada autoevaluación de abajo, abre *Editar cuestionario*. **Si el cuestionario ya tiene intentos, Moodle no deja cambiar las preguntas:** no borres intentos; déjalo como está y anótalo en tu reporte (las lecciones nuevas igual tienen su libro y su H5P). Si no tiene intentos, haz los cambios, 10 por página:",
-               "2. In each self-assessment below, open *Edit quiz*. **If the quiz already has attempts, Moodle won't let you change its questions:** do not delete attempts; leave it as is and note it in your report (the new lessons still have their book and H5P). If it has no attempts, make the changes, 10 per page:"))
-    for m in sorted(set(por_mod_n) | set(por_mod_q), key=lambda x: int(x[1:])):
-        linea = f"   - `{autoev.format(n=m[1:])}`: "
-        if m in por_mod_n: linea += T("agrega ", "add ") + ", ".join(por_mod_n[m])
-        if m in por_mod_q: linea += ("; " if m in por_mod_n else "") + T("quita ", "remove ") + ", ".join(por_mod_q[m]) + T(" (versión anterior)", " (previous version)")
-        L.append(linea + ".")
-    L.append(""); s += 1
-L += [T(f"## {s}. Lo que no cambia", f"## {s}. What doesn't change"), "",
-      T("Level Up (reglas y niveles), insignias, finalización del curso y constancia siguen igual: las H5P nuevas suman puntos solas con la regla de finalización. No hace falta volver a subir ningún otro archivo.",
-        "Level Up (rules and levels), badges, course completion and certificate stay the same: new H5P activities earn points automatically through the completion rule. No other file needs to be uploaded again."), ""]
-s += 1
-L += [T(f"## {s}. Comprueba y reporta", f"## {s}. Check and report"), "",
-      T("Con *Cambiar rol a > Estudiante*, abre una lección nueva y su H5P. Reporta: capítulos por libro cambiado, H5P nuevas o reemplazadas, preguntas importadas, cuestionarios que no se pudieron cambiar por tener intentos, términos importados y lo que no pudiste hacer.",
-        "With *Switch role to > Student*, open one new lesson and its H5P. Report: chapters per changed book, new or replaced H5P, imported questions, quizzes that couldn't change because they have attempts, imported terms and anything you couldn't do.")]
+        L.append(T(f"{k}. **Nuevas ({len(nuevas)}):** *Banco de preguntas > Importar*, formato GIFT, `{F['pre']}/preguntas_nuevas.gift.txt`. Entran en `{cat_nueva}/MN`.",
+                   f"{k}. **New ({len(nuevas)}):** *Question bank > Import*, GIFT format, `{F['pre']}/new_questions.gift.txt`. They go into `{cat_nueva}/MN`."))
+        k += 1
+        L.append(T(f"{k}. Agrega las nuevas a su autoevaluación, 10 por página. **Si el cuestionario ya tiene intentos, Moodle no deja agregar preguntas:** no borres intentos; déjalo y anótalo en tu reporte.",
+                   f"{k}. Add the new ones to their self-assessment, 10 per page. **If the quiz already has attempts, Moodle won't let you add questions:** don't delete attempts; leave it and note it in your report."))
+        for m in sorted(por_mod_n, key=lambda x: int(x[1:])):
+            L.append(f"   - `{autoev.format(n=m[1:])}`: " + ", ".join(por_mod_n[m]) + ".")
+    L.append(""); s_ += 1
+L += [T(f"## {s_}. Comprueba y reporta", f"## {s_}. Check and report"), "",
+      T("Con *Cambiar rol a > Estudiante*, abre una lección nueva y su H5P. Reporta: capítulos por libro cambiado, H5P nuevas o reemplazadas, preguntas corregidas e importadas, cuestionarios que no se pudieron cambiar por tener intentos, términos importados, ajustes de plataforma hechos y lo que no pudiste hacer.",
+        "With *Switch role to > Student*, open one new lesson and its H5P. Report: chapters per changed book, new or replaced H5P, corrected and imported questions, quizzes that couldn't change because they have attempts, imported terms, platform adjustments done and anything you couldn't do.")]
 readme = "\n".join(L) + "\n"
 put(("README_ACTUALIZAR_PARA_CLAUDE.md" if not EN else "README_UPDATE_FOR_CLAUDE.md"), readme)
+put(T("LISTA_DE_CAMBIOS.txt", "CHANGE_LIST.txt"), "; ".join(cambios) + ".\n")
 zf.close()
 open(os.path.join(CONF.get("readme_dir", "/tmp"), os.path.basename(salida) + ".md"), "w").write(readme)
 print(salida + ".zip", round(os.path.getsize(salida + ".zip") / 1048576, 1), "MB ·",
       sum(len(l) for _, l in resumen_cambios), "lecciones ·", nuevos_h5p, "H5P nuevas ·", cambiados_h5p, "H5P cambiadas ·",
-      len(nuevas), "preguntas nuevas ·", len(quitar), "salen ·", len(g_nuevos), "términos ·", len(ap_cambia), "cap. apoyo")
+      len(nuevas), "preguntas nuevas ·", len(corregidas), "corregidas ·", len(salen), "salen ·", len(g_nuevos), "términos ·", len(ap_cambia), "cap. apoyo")

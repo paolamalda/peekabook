@@ -11,7 +11,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Inventario:** lista de todo lo que tienes y lo que debes, con dónde está cada cosa.
 - **Mes promedio:** lo que gasta tu casa cada mes más la parte mensual de los gastos anuales.
 - **Patrimonio:** lo que tienes menos lo que debes.
+- **Precio por unidad:** precio dividido entre la cantidad.
 - **Régimen patrimonial:** la regla que define de quién son los bienes en el matrimonio: sociedad conyugal o separación de bienes.
+- **Suscripción:** pago que se cobra solo cada mes hasta que lo cancelas.
 - **Titular:** la persona a cuyo nombre está una cuenta o un bien.
 
 ## Conoce el sistema financiero
@@ -69,16 +71,24 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Tus cuentas y tu ahorro protegido
 
+- **Aval:** persona que se compromete a pagar si quien pidió el crédito no paga.
 - **BONDDIA:** opción de Cetesdirecto que permite retirar cualquier día hábil.
+- **CAT:** costo anual total de un crédito, para comparar.
 - **Cetes:** Certificados de la Tesorería: deuda del gobierno federal que te paga un rendimiento a un plazo.
 - **Coaseguro:** el porcentaje del gasto que pagas tú después del deducible.
 - **Comisión:** cobro del banco por un servicio.
 - **Cuenta mancomunada:** cuenta con dos o más titulares.
 - **Deducible:** la cantidad que pagas tú antes de que el seguro empiece a pagar.
 - **Domiciliación:** pago automático de un servicio con cargo a tu cuenta.
+- **Fiador:** persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
 - **Fondo de emergencia:** dinero apartado solo para imprevistos, disponible de inmediato.
 - **GAT:** Ganancia Anual Total: lo que te paga una cuenta o inversión al año, antes de impuestos.
+- **Historial de crédito:** registro de cómo pagas tus créditos.
 - **IPAB:** Instituto para la Protección al Ahorro Bancario, que protege tus depósitos si un banco quiebra.
+- **Obligado solidario:** persona que responde por todo el contrato como si hubiera pedido el crédito.
+- **Pago mínimo:** lo menos que puedes pagar para no atrasarte; genera intereses.
+- **Pago para no generar intereses:** lo que gastaste en el periodo; si lo pagas, no hay intereses.
+- **Referencia personal:** persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
 - **Reinversión:** volver a invertir automáticamente al terminar el plazo.
 - **UDIS:** unidad cuyo valor en pesos cambia con la inflación.
 
@@ -97,6 +107,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Rendimiento real:** lo que gana tu dinero descontando la inflación.
 - **Retención:** impuesto que la institución descuenta y entrega al SAT por ti.
 - **Riesgo:** la posibilidad de que tu inversión baje de valor.
+- **Sesgo:** atajo mental que puede llevarte a decidir mal.
+- **Tasa de referencia:** tasa que fija el Banco de México y que influye en las demás tasas.
 
 ## Pensión y retiro
 
@@ -150,7 +162,6 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Patrimonio y familia
 
 - **Albacea:** persona que se encarga del trámite de la herencia.
-- **Aval:** persona que se compromete a pagar una deuda si quien la pidió no paga.
 - **Convenio de separación:** acuerdo sobre bienes y obligaciones al separarse.
 - **Duelo:** proceso emocional después de una pérdida.
 - **Gravamen:** carga sobre un inmueble, como una hipoteca, que aparece en el Registro Público.

@@ -286,7 +286,7 @@ Banco de México, consultado el 29 de septiembre de 2026.
 
 #### La CONDUSEF
 
-La CONDUSEF orienta y defiende gratis a quienes usan servicios financieros. No vende nada ni presta dinero.
+La CONDUSEF orienta y defiende sin costo a quienes usan servicios financieros. No vende nada ni presta dinero.
 
 
 
@@ -308,14 +308,14 @@ La CONDUSEF orienta y defiende gratis a quienes usan servicios financieros. No v
 
 Karla reclamó por escrito y guardó el folio. Como no le resolvieron, acudió a la CONDUSEF. Le devolvieron los cobros del seguro que no pidió.
 
-> **Idea clave:** reclama por escrito con folio; si no te resuelven, la CONDUSEF te ayuda gratis.
+> **Idea clave:** reclama por escrito con folio; si no te resuelven, la CONDUSEF te ayuda sin costo.
 
 
 
 #### Comprueba lo que entendiste
 
 1. ¿La CONDUSEF presta dinero?
-*Respuesta:* No. Orienta y defiende gratis.
+*Respuesta:* No. Orienta y defiende sin costo.
 
 2. ¿Qué pides al reclamar?
 *Respuesta:* Un folio.
@@ -323,7 +323,7 @@ Karla reclamó por escrito y guardó el folio. Como no le resolvieron, acudió a
 
 #### Para recordar
 
-- CONDUSEF: gratis.
+- CONDUSEF: sin costo.
 - Reclama por escrito con folio.
 - Verifica en el SIPRES.
 
@@ -339,7 +339,7 @@ Antes de pedir un préstamo, busca el nombre de la financiera en el SIPRES de la
 
 #### Nadie cobra por reclamar
 
-Reclamar es gratis. Si un «gestor» te cobra por reclamar o por «arreglar» algo con el banco, desconfía.
+Reclamar no tiene costo. Si un «gestor» te cobra por reclamar o por «arreglar» algo con el banco, desconfía.
 
 
 
@@ -361,7 +361,7 @@ Beto quiere pedir un préstamo a una financiera que vio en redes.
 **Caso 3. El gestor de Don Chuy**
 
 Un gestor le ofrece a Don Chuy «arreglar» un cobro por 500 pesos.
-- *¿Qué hace?* Reclama él mismo gratis, primero en el banco y luego en la CONDUSEF.
+- *¿Qué hace?* Reclama él mismo sin costo, primero en el banco y luego en la CONDUSEF.
 
 
 #### Errores frecuentes
@@ -371,7 +371,7 @@ Un gestor le ofrece a Don Chuy «arreglar» un cobro por 500 pesos.
 | Aceptar «no se puede» | Pagas lo que no pediste | Reclama |
 | Reclamar sin folio | Sin prueba | Pide folio |
 | No verificar financieras | Fraude | SIPRES |
-| Pagar a gestores | Es gratis | Hazlo tú |
+| Pagar a gestores | Es sin costo | Hazlo tú |
 
 ### Practica
 
@@ -383,10 +383,10 @@ Un gestor le ofrece a Don Chuy «arreglar» un cobro por 500 pesos.
 
 #### Quiz
 
-1. ¿Qué hace la CONDUSEF? a) Presta dinero en emergencias a quien lo necesita · b) Orienta y defiende gratis · c) Cobra deudas
+1. ¿Qué hace la CONDUSEF? a) Presta dinero en emergencias a quien lo necesita · b) Orienta y defiende sin costo · c) Cobra deudas
 2. ¿Dónde verificas que una financiera existe? a) En sus redes sociales · b) En el SIPRES · c) Preguntando a un conocido que ya le pidió prestado
 3. ¿Qué pides al reclamar en el banco? a) Un folio · b) Un descuento en tu próximo pago · c) Nada
-**Respuestas:** 1-b: es gratuita. 2-b: el registro oficial. 3-a: es tu constancia.
+**Respuestas:** 1-b: no tiene costo. 2-b: el registro oficial. 3-a: es tu constancia.
 
 
 
@@ -409,12 +409,477 @@ Guarda en tu celular el teléfono de la CONDUSEF: 55 5340 0999 u 800 999 8080.
 
 ### Palabras clave
 
-- *CONDUSEF:* institución del gobierno que orienta y defiende gratis a los usuarios de bancos y otras financieras.
+- *CONDUSEF:* institución del gobierno que orienta y defiende sin costo a los usuarios de bancos y otras financieras.
 - *SIPRES:* registro de la CONDUSEF donde aparecen las financieras que existen.
 - *Folio:* número de tu reclamación.
 
 ### Fuentes
 
 CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M2 U04. ¿A quién le crees? Información confiable y cambios que te afectan
+
+**Lo que lograrás:** Distinguir información confiable de publicidad y rumores, saber dónde preguntar sin costo y ajustar tu plan cuando cambian los precios, las tasas o las reglas.
+
+**Para empezar:** En el grupo de WhatsApp del turno circula que «el banco va a congelar las cuentas» y que un tal asesor «multiplica tu aguinaldo». Ramiro no sabe qué creer. En esta lección verás cómo informarte bien.
+
+### Lo esencial (5 minutos)
+
+#### ¿Quién te está hablando?
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Fuentes oficiales | CONDUSEF, Banxico, SAT, IMSS, Profeco. | Gratis y sin venderte nada. |
+| Publicidad | Te informa, pero quiere venderte. | Compara antes. |
+| Rumores y cadenas | Sin fuente ni fecha. | No reenvíes. |
+| «Asesores» que prometen | Ganancias seguras y rápidas. | Casi siempre fraude. |
+
+#### Antes de creer o reenviar
+
+1. ¿Quién lo dice? Busca la fuente y la fecha.
+2. ¿Qué gana esa persona si le crees?
+3. Confírmalo en el sitio oficial o llamando a CONDUSEF.
+4. Si no puedes confirmarlo, no lo reenvíes.
+
+
+
+#### Cuando cambia la economía
+
+Si suben los precios, las tasas de interés o cambian las reglas de un apoyo o del IMSS, tu plan también cambia. Revisa tu presupuesto, tus deudas con tasa variable y tus metas, y ajusta una cosa a la vez.
+
+
+
+#### Un caso en un minuto
+
+Ramiro buscó el aviso en el sitio de CONDUSEF: no existía ningún congelamiento. Salió del grupo del «asesor» y reportó el número. Cuando subieron los precios del transporte, ajustó su presupuesto en lugar de endeudarse.
+
+> **Idea clave:** confirma en la fuente oficial antes de creer o reenviar, y cuando cambie la economía, ajusta tu plan con calma.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde confirmas un aviso sobre bancos?
+*Respuesta:* En el sitio oficial de CONDUSEF o de tu banco.
+
+2. ¿Qué haces si suben los precios?
+*Respuesta:* Revisas tu presupuesto y ajustas.
+
+
+#### Para recordar
+
+- Fuente y fecha.
+- Confirma en lo oficial.
+- Ajusta tu plan con calma.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Orientación sin costo
+
+CONDUSEF orienta sin costo sobre bancos, créditos y seguros; Profeco, sobre compras; el SAT, sobre impuestos. Nadie de ellos te cobra por orientarte ni te pide contraseñas.
+
+
+
+#### Sigue aprendiendo
+
+Cada vez que tomes una decisión grande, pregúntate qué aprendiste la última vez. Enséñale a tus hijos lo que ya sabes: hablar de dinero en casa también es educación.
+
+> **Antes de actuar, verifica:** que la información tenga fuente oficial y fecha; ninguna autoridad te pide datos por WhatsApp.
+
+
+
+#### Casos
+
+
+**Caso 1. El rumor del grupo**
+
+En el grupo del turno dicen que el banco va a congelar las cuentas.
+- *¿Qué hace Ramiro?* Lo confirma en el sitio de CONDUSEF y no lo reenvía.
+
+
+**Caso 2. El «asesor» del aguinaldo**
+
+Un contacto le ofrece a Beto duplicar su aguinaldo en un mes.
+- *¿Qué hace?* No invierte y lo reporta: nadie garantiza ganancias así.
+
+
+**Caso 3. Los precios de Karla**
+
+Subió el precio del transporte y del gas en la casa de Karla.
+- *¿Qué hace?* Revisa su presupuesto y ajusta un gasto antes de endeudarse.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Reenviar sin confirmar | Asustas a otros | Fuente oficial |
+| Creer en ganancias seguras | Fraude | Desconfía |
+| Ignorar cambios | El plan ya no sirve | Ajusta |
+| Pagar por orientación | Fraude | Es sin costo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Ramiro, Beto y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Te llega una cadena que dice que el banco congelará cuentas. ¿Qué haces? a) Lo confirmas en la fuente oficial y no lo reenvías · b) Sacas todo tu dinero hoy · c) Lo reenvías para avisar a todos
+2. ¿Quién orienta sin costo sobre créditos y seguros? a) Un gestor que cobra por adelantado · b) CONDUSEF · c) El vendedor del crédito
+3. Suben los precios del transporte. ¿Qué haces? a) Pides prestado para cubrir la diferencia · b) Sigues igual · c) Ajustas tu presupuesto
+**Respuestas:** 1-a: confirma antes. 2-b: sin costo y sin venderte nada. 3-c: el plan se ajusta.
+
+
+
+#### Ponlo en práctica
+
+Tu transporte subió de 40 a 50 al día y trabajas 15 días al mes. ¿Cuánto más gastas al mes?
+**Respuesta:** 150 pesos más al mes.
+
+
+
+#### A tu plan
+
+Guarda en tu celular los teléfonos de CONDUSEF y Profeco y revisa tu presupuesto la próxima vez que suba un precio.
+
+
+
+### Para saber más
+
+- **Orientación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «asesoría» y «alertas».
+- **Inflación** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** «inflación».
+
+### Palabras clave
+
+- *Fuente oficial:* autoridad o institución que publica la información con su nombre y fecha.
+- *Rumor:* información sin fuente que no se puede confirmar.
+
+### Fuentes
+
+CONDUSEF · Profeco · Banco de México, consultados el 30 de septiembre de 2026.
+
+---
+
+## M2 U05. El dinero pierde valor: inflación e interés compuesto
+
+**Lo que lograrás:** Entender cómo la inflación le quita valor al dinero guardado, qué es la tasa real y cómo el interés compuesto hace crecer tu ahorro o tu deuda.
+
+**Para empezar:** Don Chuy guarda 10,000 pesos en un cajón desde hace tres años «para una emergencia». Hoy con ese dinero compra menos que cuando lo guardó. En esta lección verás por qué y qué hacer.
+
+### Lo esencial (5 minutos)
+
+#### La inflación
+
+La inflación hace que con el mismo dinero compres menos. Si los precios suben 4% en un año, lo que costaba 100 ahora cuesta 104. El dinero en efectivo no crece: pierde valor cada año.
+
+> **Dato vigente:** la meta de inflación del Banco de México es de 3% anual, con un margen de un punto hacia arriba o hacia abajo. Consultado el 30 de septiembre de 2026 a través del Banco de México.
+
+
+
+#### La tasa real
+
+Si tu ahorro gana intereses, réstale la inflación para saber si de verdad crece. Ejemplo:
+- Lo que te paga tu ahorro al año: **7%**
+- Inflación del año: **4%**
+- Lo que de verdad crece: **3%**
+Si tu ahorro paga menos que la inflación, pierdes poder de compra aunque veas más pesos.
+
+
+#### El interés compuesto
+
+Con el interés compuesto, tu ahorro gana intereses sobre los intereses. Con el tiempo crece cada vez más rápido. En una deuda pasa lo mismo, pero en tu contra.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy pasó su fondo de emergencia del cajón a una opción protegida y con rendimiento (M7 U01). Ahora su dinero gana algo cada mes en lugar de perder valor, y sigue disponible si lo necesita.
+
+> **Idea clave:** el dinero en efectivo pierde valor con la inflación; busca que tu ahorro gane al menos lo que suben los precios y paga pronto las deudas, que crecen con interés compuesto.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué hace la inflación con tu dinero guardado?
+*Respuesta:* Le quita poder de compra.
+
+2. ¿Qué es la tasa real?
+*Respuesta:* Lo que te paga tu ahorro menos la inflación.
+
+
+#### Para recordar
+
+- Los precios suben: tu efectivo pierde valor.
+- Tasa real = interés menos inflación.
+- El interés compuesto ayuda al ahorro y castiga a la deuda.
+
+
+
+### Profundiza (5 minutos más)
+
+#### 1,000 pesos al 10% anual, con interés compuesto
+
+| Año | Saldo |
+|---|---|
+| 0 | 1,000 |
+| 1 | 1,100 |
+| 2 | 1,210 |
+| 3 | 1,331 |
+| 5 | 1,611 |
+| 10 | 2,594 |
+
+
+
+#### En tu contra
+
+Una deuda con interés alto crece igual de rápido. Si solo pagas el mínimo, los intereses se suman a lo que debes y pagas intereses sobre intereses. Por eso conviene pagar primero la deuda más cara (M3 U04).
+
+
+
+#### Empieza pronto
+
+Con el interés compuesto, el tiempo pesa más que el monto. Ahorrar poco desde hoy puede rendir más que ahorrar mucho dentro de diez años.
+
+> **Antes de actuar, verifica:** la tasa que te paga tu ahorro y la inflación publicada por el Banco de México o el INEGI.
+
+
+
+#### Casos
+
+
+**Caso 1. El cajón de Don Chuy**
+
+Don Chuy tiene 10,000 pesos en un cajón desde hace tres años.
+- *¿Qué hace?* Los pasa a una opción protegida que pague al menos la inflación.
+
+
+**Caso 2. El ahorro de Karla**
+
+La cuenta de Karla paga 1% al año y la inflación es de 4%.
+- *¿Qué entiende?* Que pierde poder de compra y compara otras opciones protegidas.
+
+
+**Caso 3. La tarjeta de Beto**
+
+Beto paga solo el mínimo de su tarjeta cada mes.
+- *¿Qué entiende?* Que su deuda crece con interés compuesto y debe pagar más del mínimo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Guardar todo en efectivo | Pierde valor | Opción protegida |
+| Ver solo los pesos | No ves la pérdida | Tasa real |
+| Pagar solo el mínimo | La deuda crece | Paga más |
+| Esperar para ahorrar | Pierdes tiempo | Empieza hoy |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Karla y Beto. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Tu ahorro paga 2% al año y la inflación es de 4%. ¿Qué pasa? a) Tu dinero crece 6% · b) Pierdes poder de compra · c) No pasa nada
+2. ¿Qué es el interés compuesto? a) Una comisión del banco por abrir tu cuenta · b) Un impuesto · c) Interés sobre el dinero y sobre los intereses ya ganados
+3. ¿Qué pasa con una deuda si solo pagas el mínimo? a) Crece con interés sobre interés · b) Se paga sola · c) Baja más rápido
+**Respuestas:** 1-b: 2 menos 4 es menos 2. 2-c: por eso crece cada vez más. 3-a: el interés compuesto trabaja en tu contra.
+
+
+
+#### Ponlo en práctica
+
+Guardas 5,000 y la inflación es de 4% al año. ¿Cuánto necesitarías el año siguiente para comprar lo mismo?
+**Respuesta:** 5,200 pesos.
+
+
+
+#### A tu plan
+
+Revisa cuánto paga el lugar donde guardas tu ahorro y compáralo con la inflación del último año.
+
+
+
+### Para saber más
+
+- **Inflación** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** «inflación» y «calculadora de inflación».
+- **Índice de precios** (INEGI · español): https://www.inegi.org.mx — **Qué buscar:** «INPC».
+
+### Palabras clave
+
+- *Inflación:* aumento general de los precios con el tiempo.
+- *Tasa real:* lo que gana tu ahorro después de restar la inflación.
+- *Interés compuesto:* interés que se calcula sobre el dinero y sobre los intereses que ya ganó.
+
+### Fuentes
+
+Banco de México · INEGI, consultados el 30 de septiembre de 2026.
+
+---
+
+## M2 U06. Tu dinero a trabajar: primeros pasos para invertir
+
+**Lo que lograrás:** Distinguir ahorrar de invertir, conocer riesgo, rendimiento, plazo y diversificación, y dar un primer paso seguro con Cetes cuando ya tienes tu fondo de emergencia.
+
+**Para empezar:** A Ramiro le sobran 500 pesos cada quincena desde que terminó su deuda. Un compañero le dice que meta todo a una criptomoneda «que va a subir». Ramiro no sabe por dónde empezar. En esta lección verás los primeros pasos.
+
+### Lo esencial (5 minutos)
+
+#### Antes de invertir
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Fondo de emergencia | Primero, tu colchón disponible. | M7 U01. |
+| Deudas caras pagadas | Ninguna inversión gana lo que cobra una tarjeta. | M3 U04. |
+| Meta y plazo | ¿Para qué y cuándo lo necesitas? | Define el tipo de inversión. |
+| Dinero que puedes necesitar mañana | No lo arriesgues. | Déjalo disponible. |
+
+#### Riesgo y rendimiento van juntos
+
+Invertir no es ahorrar: el valor puede subir o bajar. Si te prometen ganar mucho, también puedes perder mucho. No existen inversiones de bajo riesgo y alto rendimiento.
+
+
+
+#### Un primer paso con respaldo del gobierno
+
+Los Cetes son préstamos que le haces al gobierno federal a un plazo, y él te paga intereses. En Cetesdirecto abres tu cuenta en el sitio oficial, sin comisiones y con montos pequeños.
+
+
+
+#### Un caso en un minuto
+
+Ramiro ya tenía su fondo. Abrió Cetesdirecto y programó 500 cada quincena a Cetes con reinversión. No metió su dinero en la criptomoneda porque no podía explicar cómo ganaba ni quién la respaldaba.
+
+> **Idea clave:** invierte solo después de tu fondo y tus deudas caras, en lo que puedas explicar, con una meta y un plazo, y poco a poco.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué va primero: el fondo de emergencia o invertir?
+*Respuesta:* El fondo de emergencia.
+
+2. ¿Existe una inversión segura que gane mucho y rápido?
+*Respuesta:* No: más rendimiento significa más riesgo.
+
+
+#### Para recordar
+
+- Primero fondo y deudas caras.
+- Riesgo y rendimiento van juntos.
+- Poco a poco y con regularidad.
+
+
+
+### Profundiza (5 minutos más)
+
+#### No todo en un solo lugar
+
+Diversificar reduce el golpe si una inversión baja. Con poco dinero, empezar en Cetes y tu AFORE ya es repartir.
+
+
+
+#### Invertir cada quincena
+
+Poner la misma cantidad cada quincena, sin importar si suben o bajan las tasas, te ayuda a ser constante y a no decidir con prisa o con miedo.
+
+
+
+#### Tus emociones también invierten
+
+El miedo te hace vender cuando algo baja; la emoción, comprar cuando «todos» compran. Decide con tu meta y tu plazo, no con lo que dicen en el grupo.
+
+> **Antes de actuar, verifica:** que la institución esté autorizada en el padrón de la CNBV y que el sitio sea el oficial; en Cetesdirecto nadie te pide pagar para abrir tu cuenta.
+
+
+
+#### Casos
+
+
+**Caso 1. La criptomoneda de Ramiro**
+
+Un compañero le dice a Ramiro que meta todo a una criptomoneda «que va a subir».
+- *¿Qué hace?* No invierte en lo que no puede explicar y empieza con Cetes.
+
+
+**Caso 2. El fondo de Karla**
+
+Karla quiere invertir, pero todavía no tiene fondo de emergencia.
+- *¿Qué hace?* Primero junta su fondo y después invierte.
+
+
+**Caso 3. El miedo de Don Chuy**
+
+Don Chuy oye en la tele que «todo va a bajar» y quiere sacar su dinero de Cetes antes del plazo.
+- *¿Qué hace?* Revisa su meta y su plazo y no decide con miedo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Invertir sin fondo | Vendes en mal momento | Fondo primero |
+| Todo en un solo lugar | Pierdes mucho | Diversifica |
+| Creer en ganancias seguras | Fraude | Riesgo y rendimiento |
+| Decidir con miedo | Pierdes | Tu meta y tu plazo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Ramiro, Karla y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué haces antes de invertir? a) Pides un préstamo para empezar · b) Juntas tu fondo de emergencia y pagas tus deudas caras · c) Inviertes lo de la renta
+2. Te ofrecen 10% al mes «sin riesgo». ¿Qué es? a) Casi seguro un fraude · b) Una buena oportunidad · c) Una inversión del gobierno
+3. ¿Qué es diversificar? a) Poner todo en lo que más sube · b) Cambiar de inversión cada semana · c) Repartir tu dinero en distintas inversiones
+**Respuestas:** 1-b: primero tu colchón. 2-a: nadie garantiza tanto. 3-c: así no dependes de una sola.
+
+
+
+#### Ponlo en práctica
+
+Inviertes 500 cada quincena durante un año. ¿Cuánto pusiste, sin contar intereses?
+**Respuesta:** 12,000 pesos (24 quincenas).
+
+
+
+#### A tu plan
+
+Si ya tienes tu fondo de emergencia, entra a Cetesdirecto desde el sitio oficial y conoce cómo funciona antes de invertir.
+
+
+
+### Para saber más
+
+- **Cetesdirecto** (Gobierno de México · español): https://www.cetesdirecto.com.
+- **Padrón de entidades** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** «padrón de entidades supervisadas».
+- **Inversiones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «invertir» y «fraudes de inversión».
+
+### Palabras clave
+
+- *Invertir:* poner dinero a trabajar para que crezca, aceptando algo de riesgo.
+- *Cetes:* préstamos que le haces al gobierno federal a un plazo a cambio de intereses.
+- *Diversificar:* repartir tu dinero en distintas inversiones para no depender de una sola.
+
+### Fuentes
+
+Cetesdirecto · CNBV · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ---

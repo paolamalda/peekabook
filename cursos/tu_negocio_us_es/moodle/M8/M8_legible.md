@@ -186,7 +186,7 @@ DIR · EDD · IRS · Departamento de Trabajo de EE. UU., consultados el 29 de se
 
 #### Un caso en un minuto
 
-Daniela calculó lo que le queda por plataforma. En una le quedaban $20; en su propia página, $26, pero vende menos. Subió su precio en la plataforma a $44 y ofrece envío gratis en su página a partir de dos piezas.
+Daniela calculó lo que le queda por plataforma. En una le quedaban $20; en su propia página, $26, pero vende menos. Subió su precio en la plataforma a $44 y ofrece envío sin costo en su página a partir de dos piezas.
 
 > **Idea clave:** calcula tu precio por canal, con todas las comisiones y el envío, y declara todo lo que vendes.
 
@@ -450,7 +450,7 @@ Llena tu tablero con los números del mes pasado y elige una decisión para este
 
 ### Para saber más
 
-- **Asesoría gratuita** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «centros de desarrollo de pequeñas empresas» (SBDC) y SCORE.
+- **Asesoría sin costo** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «centros de desarrollo de pequeñas empresas» (SBDC) y SCORE.
 
 ### Palabras clave
 
@@ -518,7 +518,7 @@ Lupita puso horario de pedidos de 8 a 18 horas y una respuesta automática. Los 
 
 #### Si el estrés no baja
 
-Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, llama o escribe al 988: la Línea de Crisis y Suicidio atiende gratis las 24 horas, también en español.
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, llama o escribe al 988: la Línea de Crisis y Suicidio atiende sin costo las 24 horas, también en español.
 
 
 
@@ -571,7 +571,7 @@ Don Ramón y su hija discuten del food truck en la cena.
 1. Tus clientes te escriben a medianoche. ¿Qué haces? a) Contestas siempre para no perderlos · b) Publicas un horario y una respuesta automática · c) Apagas el teléfono una semana
 2. Vendiste poco este mes. ¿Qué haces con tus números? a) Los revisas con calma y decides una acción · b) No los ves para no preocuparte · c) Los borras
 3. Llevas semanas sin dormir y sientes que no hay salida. ¿A dónde llamas? a) A nadie, aguantas · b) A quien te preste dinero · c) Al 988
-**Respuestas:** 1-b: límites claros. 2-a: decidir con datos. 3-c: ayuda gratis las 24 horas.
+**Respuestas:** 1-b: límites claros. 2-a: decidir con datos. 3-c: ayuda sin costo las 24 horas.
 
 
 
@@ -599,5 +599,302 @@ Publica tu horario de pedidos y elige tu día de descanso.
 ### Fuentes
 
 988 Suicide & Crisis Lifeline, consultado el 29 de septiembre de 2026.
+
+---
+
+## M8 U05. Tu plan de negocio en una hoja y cómo presentarlo
+
+**Lo que lograrás:** Resumir tu negocio en un plan de una hoja, presentarlo en dos minutos a un banco, un programa o un mentor, y conocer apoyos sin costo y opciones de financiamiento sin caer en fraudes.
+
+**Para empezar:** Daniela quiere un microcrédito para comprar inventario de temporada y le piden «un plan de negocio y una presentación corta». Nunca ha hecho uno. En esta lección armarás el tuyo.
+
+### Lo esencial (5 minutos)
+
+#### Tu plan de negocio en una hoja
+
+| Pregunta | Tu respuesta |
+|---|---|
+| ¿Qué problema resuelves y para quién? | |
+| ¿Qué vendes y a qué precio? | |
+| ¿Cuánto te cuesta y cuánto te queda? | |
+| ¿Cuánto vendes al mes y tu punto de equilibrio? | |
+| ¿Quién es tu competencia y por qué te eligen? | |
+| ¿Qué necesitas (dinero, equipo, capacitación) y para qué? | |
+| ¿Cómo lo pagarías o qué resultado darías? | |
+
+
+
+#### Tu presentación de dos minutos
+
+1. El problema y a quién le resuelves.
+2. Lo que vendes y por qué te eligen.
+3. Tus números: ventas, margen y punto de equilibrio.
+4. Lo que necesitas y en qué lo usarías.
+5. Cómo lo pagarías o qué lograrías.
+
+
+
+#### Apoyo sin costo
+
+La SBA tiene centros de desarrollo de pequeños negocios (SBDC), centros de negocios para mujeres y el programa SCORE de mentores voluntarios, con asesoría sin costo y muchas veces en español. Te ayudan a armar tu plan y a buscar financiamiento, incluidos microcréditos de organizaciones comunitarias (CDFI).
+
+
+
+#### Un caso en un minuto
+
+Daniela pidió una cita sin costo con un SBDC. Con su asesora llenó su hoja con los números de sus registros y ensayó su presentación. Consiguió un microcrédito con una CDFI y un calendario de pagos que cabía en su flujo.
+
+> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros y asesoría sin costo, pide financiamiento en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué números lleva tu presentación?
+*Respuesta:* Ventas, margen y punto de equilibrio.
+
+2. ¿Dónde consigues asesoría sin costo para tu plan?
+*Respuesta:* En un SBDC, un centro de negocios para mujeres o SCORE.
+
+
+#### Para recordar
+
+- Una hoja, siete preguntas.
+- Dos minutos, cinco partes.
+- Asesoría sin costo; nadie cobra por «garantizar» un préstamo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Fondeo colectivo
+
+En el fondeo colectivo de donaciones o recompensas, la gente aporta a cambio de un producto o por apoyar. Si ofreces una parte de tu negocio a inversionistas, debe hacerse por un portal registrado ante la SEC. Revisa comisiones y lo que prometes.
+
+
+
+#### Préstamos y subsidios falsos
+
+Nadie debe cobrarte por adelantado para «aprobar» un préstamo o darte un subsidio del gobierno. La SBA no llama para pedirte pagos. Consulta programas en sba.gov.
+
+> **Antes de actuar, verifica:** que el programa esté en un sitio oficial (.gov) y que el prestamista sea una institución registrada o una CDFI certificada.
+
+
+
+#### Casos
+
+
+**Caso 1. El microcrédito de Daniela**
+
+Le piden a Daniela un plan de negocio y una presentación corta.
+- *¿Qué hace?* Pide asesoría sin costo en un SBDC y llena su plan con sus registros.
+
+
+**Caso 2. El «subsidio» de Javier**
+
+Una llamada le ofrece a Javier un subsidio federal si paga $300 de trámite.
+- *¿Qué hace?* No paga: los subsidios no cobran trámite; busca en sba.gov.
+
+
+**Caso 3. El «no» de Lupita**
+
+El banco le negó a Lupita un préstamo para una cocina más grande.
+- *¿Qué hace?* Pregunta por qué, mejora sus registros y busca una CDFI.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Plan sin números | No convence | Tus registros |
+| Presentación larga | Pierdes atención | Dos minutos |
+| Pagar por adelantado | Fraude | Sitio oficial |
+| Rendirte al primer no | Pierdes la oportunidad | Pregunta qué mejorar |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Javier y Lupita. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué va primero en tu presentación? a) El problema que resuelves y para quién · b) Lo que necesitas · c) Tu historia completa
+2. Te piden $300 para «aprobar» un subsidio federal. ¿Qué es? a) Un trámite normal · b) Una garantía · c) Un fraude
+3. Te niegan un préstamo. ¿Qué haces? a) Pides un adelanto de efectivo caro · b) Preguntas por qué y buscas apoyo para intentarlo de nuevo · c) Dejas de intentarlo
+**Respuestas:** 1-a: así entienden tu negocio. 2-c: nadie cobra por un subsidio. 3-b: el «no» también enseña.
+
+
+
+#### Ponlo en práctica
+
+Vendes $6,000 al mes con un margen de 30%. ¿Cuánto te queda para cubrir tus costos fijos?
+**Respuesta:** $1,800.
+
+
+
+#### A tu plan
+
+Llena tu plan de negocio en una hoja y agenda una cita sin costo con un SBDC o SCORE.
+
+
+
+### Para saber más
+
+- **Asesoría para negocios** (SBA · inglés y español): https://www.sba.gov — **Qué buscar:** «SBDC», «Women's Business Center» y «SCORE».
+- **CDFI certificadas** (CDFI Fund · inglés): https://www.cdfifund.gov.
+
+### Palabras clave
+
+- *Plan de negocio:* resumen de qué vendes, a quién, cuánto ganas y qué necesitas.
+- *CDFI:* institución financiera de desarrollo comunitario que presta a negocios que la banca tradicional no atiende.
+- *Mentor:* persona con experiencia que te asesora sin cobrarte.
+
+### Fuentes
+
+SBA · SCORE · CDFI Fund · SEC, consultados el 30 de septiembre de 2026.
+
+---
+
+## M8 U06. Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley
+
+**Lo que lograrás:** Seguir lo que pasa alrededor de tu negocio (competencia, precios, tasas, leyes y tu comunidad), informarte en fuentes confiables y ajustar tu plan a tiempo.
+
+**Para empezar:** Llegaron dos food trucks nuevos a la calle de Don Ramón, subió el permiso de salud del condado y cambió una regla del IRS. Don Ramón se enteró de todo tarde. En esta lección verás cómo estar al tanto sin agobiarte.
+
+### Lo esencial (5 minutos)
+
+#### Lo que vigilas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Competencia | Quién llega, qué vende y a qué precio. | Qué te hace distinto. |
+| Economía | Inflación y tasas. | Tus costos y créditos. |
+| Leyes y reglas | IRS, estado, condado y ciudad. | Plazos y obligaciones. |
+| Tu comunidad | Obras, eventos, temporadas. | Oportunidades y riesgos. |
+
+#### Fuentes confiables
+
+Para impuestos y reglas: sitios oficiales del IRS, tu estado, tu condado y tu ciudad. Para economía: la Reserva Federal y la BLS. Para aprender: SBA, SBDC y cámaras de comercio hispanas. Los rumores de redes no son fuente.
+
+
+
+#### Un caso en un minuto
+
+Don Ramón apartó 15 minutos cada lunes para revisar precios de la competencia y los avisos del condado. Frente a los trucks nuevos, sumó pedidos por teléfono para oficinas cercanas y cambió su horario. Sus ventas se recuperaron en tres meses.
+
+> **Idea clave:** vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Dónde confirmas un cambio de reglas de impuestos?
+*Respuesta:* En el sitio oficial del IRS o de tu estado.
+
+2. ¿Qué haces si llega competencia nueva?
+*Respuesta:* Ves qué te hace distinto y ajustas tu oferta.
+
+
+#### Para recordar
+
+- Cuatro cosas que vigilar.
+- Fuentes oficiales.
+- 15 minutos a la semana.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu negocio también afecta
+
+Tu negocio da empleo, compra a proveedores locales y comparte la calle con tus vecinos. Cuidar la basura, el ruido y el trato justo también cuida tu reputación y a tu clientela.
+
+
+
+#### Aprender sin parar
+
+Detecta qué te falta saber (impuestos, ventas en línea, costos) y busca capacitación sin costo: SBDC, SCORE, bibliotecas públicas y colegios comunitarios. Si tienes personal, compárteles lo que aprendes.
+
+> **Antes de actuar, verifica:** cualquier cambio de ley o de trámite en el sitio oficial y, si te afecta, pregúntale a tu preparador de impuestos.
+
+
+
+#### Casos
+
+
+**Caso 1. Los trucks nuevos**
+
+Llegaron dos food trucks a la calle de Don Ramón.
+- *¿Qué hace?* Ve qué lo hace distinto y ajusta su servicio y horario.
+
+
+**Caso 2. El aviso de Javier**
+
+En un grupo dicen que «el IRS ya cobra impuestos por cada pago de Zelle».
+- *¿Qué hace?* Lo confirma en el sitio del IRS y con su preparador antes de actuar.
+
+
+**Caso 3. La obra de Lupita**
+
+La ciudad va a arreglar la calle de Lupita durante un mes.
+- *¿Qué hace?* Planea con su reserva y avisa a sus clientes cómo recoger.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Enterarse tarde | Pierdes ventas | 15 minutos a la semana |
+| Creer rumores | Decides mal | Fuente oficial |
+| Competir solo con precio | Margen que se va | Lo que te hace distinto |
+| Olvidar a la comunidad | Pierdes reputación | Buen vecino |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Ramón, Javier y Lupita. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Llega competencia nueva a tu calle. ¿Qué haces? a) Bajas precios aunque pierdas · b) Ves qué te hace distinto y ajustas tu oferta · c) Cierras
+2. Dicen en redes que cambió una regla del IRS. ¿Qué haces? a) Lo confirmas en el sitio del IRS y con tu preparador · b) Dejas de aceptar pagos por apps · c) Lo compartes con todos tus clientes
+3. ¿Dónde consultas la inflación? a) En la publicidad de un banco · b) En un grupo de redes · c) En la BLS
+**Respuestas:** 1-b: compite con lo que te distingue. 2-a: confirma antes. 3-c: fuente oficial.
+
+
+
+#### Ponlo en práctica
+
+Revisas tu entorno 15 minutos cada semana. ¿Cuántas horas son al año?
+**Respuesta:** 13 horas (15 × 52 = 780 minutos).
+
+
+
+#### A tu plan
+
+Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus costos.
+
+
+
+### Para saber más
+
+- **Impuestos de pequeños negocios** (IRS · inglés y español): https://www.irs.gov/es.
+- **Índice de precios** (BLS · inglés): https://www.bls.gov/cpi.
+- **Capacitación** (SBA · inglés y español): https://www.sba.gov.
+
+### Palabras clave
+
+- *Entorno:* lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.
+- *Reputación:* lo que tus clientes y vecinos piensan de tu negocio.
+
+### Fuentes
+
+IRS · BLS · Reserva Federal · SBA, consultados el 30 de septiembre de 2026.
 
 ---

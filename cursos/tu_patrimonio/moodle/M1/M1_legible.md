@@ -152,7 +152,7 @@ Llena la tabla de inventario con lo que sepas hoy y marca lo que te falta averig
 ### Para saber más
 
 - **Buró de Entidades Financieras** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** la institución de cada cuenta, para saber cómo atiende a sus clientes.
-- **Reporte de Crédito Especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** el reporte gratis una vez al año, para ver créditos y tarjetas a tu nombre.
+- **Reporte de Crédito Especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** el reporte sin costo una vez al año, para ver créditos y tarjetas a tu nombre.
 
 ### Palabras clave
 
@@ -470,7 +470,7 @@ Busca tu acta de matrimonio, anota tu régimen y propón a tu familia una cita m
 ### Para saber más
 
 - **Mes del Testamento y trámites notariales** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** «notarías» de tu estado, para consultar dudas sobre tu régimen.
-- **Educación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «finanzas en pareja», con ideas para la conversación.
+- **Guías y herramientas** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «finanzas en pareja», con ideas para la conversación.
 
 ### Palabras clave
 
@@ -640,5 +640,161 @@ Arma tu carpeta con los separadores de la lista y dile a una persona de confianz
 ### Fuentes
 
 CONDUSEF · Gobierno de México, consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U05. Compra inteligente: el súper, las ofertas y los pagos a plazos
+
+**Lo que lograrás:** Comparar por precio por unidad, reconocer las técnicas de venta y calcular el costo total de compras a plazos y suscripciones antes de decidir.
+
+**Para empezar:** Elena compró una lavadora «a 18 meses sin intereses» porque la oferta terminaba ese día. Ahora suma ese pago a otros tres de la tienda departamental y a las plataformas de sus hijos. En esta lección aprenderás a ver el precio completo.
+
+### Lo esencial (5 minutos)
+
+#### Compara por unidad
+
+En el súper, divide el precio entre los gramos, litros o piezas. El paquete grande o «2 por 1» no siempre sale más barato.
+
+
+
+#### Técnicas que te hacen gastar
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| «Solo hoy» | Te quitan tiempo para pensar. | Espera un día. |
+| Pagos chiquitos | Parecen poco; suman mucho. | Suma el total. |
+| Suscripciones | Se cobran solas cada mes. | Revísalas. |
+| Lista y presupuesto | Compras lo que planeaste. | Control. |
+
+#### Pagos a plazos
+
+Antes de comprar a plazos, suma todos tus pagos que ya corren. Un pago nuevo es dinero comprometido por muchos meses, aunque sea «sin intereses».
+
+
+
+#### Un caso en un minuto
+
+Elena hizo una lista de todos sus pagos a plazos: 4,300 al mes. Decidió no comprar nada nuevo a plazos hasta terminar dos. Canceló una plataforma que nadie veía y compra el súper con lista.
+
+> **Idea clave:** compra con lista, compara por unidad, suma todos tus pagos a plazos antes de uno nuevo y espera un día ante el «solo hoy».
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cómo comparas dos presentaciones?
+*Respuesta:* Por el precio por unidad.
+
+2. ¿Qué revisas antes de comprar a plazos?
+*Respuesta:* Todos los pagos que ya tienes cada mes.
+
+
+#### Para recordar
+
+- Lista y precio por unidad.
+- Suma tus pagos a plazos.
+- Espera un día.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Lo que ya pagaste no decide por ti
+
+Si ya pagaste la inscripción de un gimnasio que no usas, seguir pagando no recupera ese dinero. Decide por lo que te conviene de hoy en adelante.
+
+
+
+#### Lo que cuesta después
+
+Un auto, una mascota o un aparato traen gastos después: mantenimiento, seguro, refacciones. Súmalos antes de comprar.
+
+
+
+#### Tus pagos que se repiten
+
+| Pago | Al mes | Meses que faltan | Total que falta |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+
+> **Antes de actuar, verifica:** el precio de contado, el número de pagos y el total; en «Quién es quién en los precios» de Profeco puedes comparar.
+
+
+
+#### Casos
+
+
+**Caso 1. La lavadora de Elena**
+
+Elena ve una lavadora a 18 meses sin intereses «solo hoy».
+- *¿Qué hace?* Suma sus pagos a plazos, espera un día y decide con su presupuesto.
+
+
+**Caso 2. El súper de Lucía**
+
+Lucía cree que el «2 por 1» siempre conviene.
+- *¿Qué hace?* Calcula el precio por unidad y compra solo si lo usará.
+
+
+**Caso 3. El gimnasio de Carmen**
+
+Carmen pagó un año de gimnasio y no va, pero quiere renovar «para no perder lo pagado».
+- *¿Qué hace?* No renueva: lo ya pagado no se recupera.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Comprar sin lista | Gastas de más | Lista |
+| Ver solo el pago mensual | Te comprometes meses | Suma el total |
+| Seguir por lo ya pagado | Más gasto | Decide desde hoy |
+| Suscripciones olvidadas | Fugas | Revisa cada mes |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Elena, Lucía y Carmen. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Un aceite de 1 litro cuesta 48 y uno de 3 litros cuesta 150. ¿Cuál sale más barato por litro? a) El de 3 litros · b) El de 1 litro · c) Cuestan igual
+2. ¿Qué haces antes de una compra nueva a plazos? a) Sumas los pagos que ya tienes · b) Compras si es sin intereses · c) Pides otra tarjeta
+3. Ya pagaste algo que no usas. ¿Qué haces? a) Sigues pagando para no perder lo pagado · b) Pagas otro año más · c) Decides por lo que te conviene de hoy en adelante
+**Respuestas:** 1-b: 48 contra 50 por litro. 2-a: tu presupuesto tiene límite. 3-c: lo pagado no se recupera.
+
+
+
+#### Ponlo en práctica
+
+Tienes tres pagos de 900, 1,200 y 650 al mes. ¿Cuánto tienes comprometido?
+**Respuesta:** 2,750 pesos al mes.
+
+
+
+#### A tu plan
+
+Haz tu tabla de pagos que se repiten y no agregues uno nuevo hasta terminar uno.
+
+
+
+### Para saber más
+
+- **Quién es quién en los precios** (Profeco · español): https://www.gob.mx/profeco.
+- **Meses sin intereses** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «meses sin intereses».
+
+### Palabras clave
+
+- *Precio por unidad:* precio dividido entre la cantidad.
+- *Suscripción:* pago que se cobra solo cada mes hasta que lo cancelas.
+
+### Fuentes
+
+Profeco · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ---

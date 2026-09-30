@@ -25,7 +25,8 @@ Rules:
 |---|---|
 | Full name | Your Business Community · U.S. |
 | Short name | YBMF-US-EN-COM |
-| Visibility | **Hide** |
+| Visibility | **Show** |
+| Enrolment | Self enrolment with the enrolment key the person gives you ("[to be defined]" if you don't have it) |
 | Format | Topics, 4 sections |
 | Completion tracking | No |
 | Show gradebook | No |
@@ -90,7 +91,7 @@ In the course **YBMF-US-EN**, General section, add a **URL** `Your Business Comm
 ## 4. Enrollment
 
 - If the person created the cohort "Your Business US EN": in both courses, *Participants > Enrollment methods > Add method > Cohort sync*, cohort "Your Business US EN", role Student.
-- If not: leave manual enrollment on and report it.
+- If not: enable **Self enrolment** with the enrolment key the person gives you ("[to be defined]" if you don't have it) and report it.
 - Add the moderation team with the role **Non-editing teacher** (or Teacher, if the person asks).
 
 ## 5. Review (as a student)
@@ -105,4 +106,4 @@ In the course **YBMF-US-EN**, General section, add a **URL** `Your Business Comm
 
 Course link; list of forums with their settings; status of the choice and the survey; enrollment method; what was left "[to be defined]"; screenshots of the course's main page and of a forum showing the warning.
 
-The course stays **hidden** until the person decides to show it.
+The course stays **visible**, with enrolment by key.

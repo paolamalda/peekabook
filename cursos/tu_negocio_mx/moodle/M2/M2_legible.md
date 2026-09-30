@@ -104,7 +104,7 @@ El recibo de luz de Rosa llega cada dos meses y nunca lo cuenta.
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | Contar solo el insumo | Precio bajo | Suma los fijos |
-| Olvidar tu sueldo | Trabajas gratis | Es un costo fijo |
+| Olvidar tu sueldo | Trabajas sin cobrar | Es un costo fijo |
 | Ignorar pagos bimestrales | Sorpresas | Divide entre dos |
 | No contar el tiempo | Servicio barato | Costo por hora |
 
@@ -121,7 +121,7 @@ El recibo de luz de Rosa llega cada dos meses y nunca lo cuenta.
 1. ¿Cuál de estos es un costo variable? a) La renta del local · b) El empaque de cada pedido · c) El internet
 2. Tus fijos son 4,000 y vendes 200 piezas al mes. ¿Cuánto fijo le toca a cada pieza? a) 20 · b) 200 · c) 4,000
 3. ¿Tu sueldo es un costo del negocio? a) No, es ganancia · b) Solo si te sobra · c) Sí, es un costo fijo
-**Respuestas:** 1-b: sube con cada venta. 2-a: 4,000 entre 200. 3-c: sin él trabajas gratis.
+**Respuestas:** 1-b: sube con cada venta. 2-a: 4,000 entre 200. 3-c: sin él trabajas sin cobrar.
 
 
 
@@ -544,7 +544,7 @@ Si siempre pierdes algo, inclúyelo en tu costo. Si de 100 panes tiras 5, cada p
 
 **Caso 1. La oferta a Don Pepe**
 
-El proveedor ofrece a Don Pepe una caja gratis si compra 10 de un producto que vende poco.
+El proveedor ofrece a Don Pepe una caja sin costo si compra 10 de un producto que vende poco.
 - *¿Qué hace?* Compra solo lo que vende en el tiempo de caducidad, aunque pierda el regalo.
 
 

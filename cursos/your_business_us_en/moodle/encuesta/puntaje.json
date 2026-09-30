@@ -1,0 +1,78 @@
+{
+ "variante": "us_en",
+ "puntaje": {
+  "P1": {
+   "Much less": 100,
+   "A little less": 75,
+   "About the same": 50,
+   "A little more": 25,
+   "Much more": 0
+  },
+  "P2": {
+   "All on time": 100,
+   "Nearly all on time": 60,
+   "Most on time": 40,
+   "Some on time": 20,
+   "Very few on time": 0
+  },
+  "P3": {
+   "6 months or more": 100,
+   "3 to 5 months": 75,
+   "1 to 2 months": 50,
+   "1 to 3 weeks": 25,
+   "Less than 1 week": 0
+  },
+  "P4": {
+   "Very confident": 100,
+   "Quite confident": 75,
+   "Somewhat confident": 50,
+   "Slightly confident": 25,
+   "Not at all confident": 0
+  },
+  "P5": {
+   "We have no debt": 100,
+   "Manageable": 85,
+   "A bit more than we can manage": 40,
+   "Far more than we can manage": 0
+  },
+  "P6": {
+   "Yes, with my savings": 100,
+   "Yes, with family help or formal credit I can repay": 70,
+   "With difficulty: an expensive loan or pawning something": 30,
+   "I couldn't": 0
+  },
+  "P7": {
+   "Very confident": 100,
+   "Quite confident": 75,
+   "Somewhat confident": 50,
+   "Slightly confident": 25,
+   "Not at all confident": 10,
+   "We have no insurance or coverage": 0
+  },
+  "P8": {
+   "Strongly agree": 100,
+   "Agree": 65,
+   "Neither agree nor disagree": 35,
+   "Disagree": 15,
+   "Strongly disagree": 0
+  }
+ },
+ "subindices": {
+  "gastar": [
+   "P1",
+   "P2"
+  ],
+  "ahorrar": [
+   "P3",
+   "P4"
+  ],
+  "deber": [
+   "P5",
+   "P6"
+  ],
+  "planear": [
+   "P7",
+   "P8"
+  ]
+ }
+}

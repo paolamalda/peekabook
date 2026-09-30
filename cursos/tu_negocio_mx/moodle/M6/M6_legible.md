@@ -609,3 +609,165 @@ Haz una lista de las deudas que usaste para el negocio y un plan para pagarlas.
 CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M6 U05. Aval, obligado solidario, fiador y referencia: ¿qué firmas?
+
+**Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
+
+**Para empezar:** El sobrino de Don Pepe le insiste en que sea su aval, un proveedor le pide a Mariana un obligado solidario para darle crédito, y a Rosa la llamó un despacho por la deuda de una clienta. En esta lección verás qué implica cada papel.
+
+### Lo esencial (5 minutos)
+
+#### Cada papel, una responsabilidad
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Aval | Firma el pagaré: si no pagan, te cobran a ti todo. | Aparece en tu historial. |
+| Obligado solidario | Respondes por todo el contrato como si fueras quien pidió. | Te pueden cobrar directo. |
+| Fiador | Común en rentas: pagas si la otra persona no paga. | Revisa el contrato. |
+| Referencia personal | Solo das tus datos de contacto. | No te pueden cobrar. |
+
+#### «Garante» y «garantía»
+
+«Garante» es una palabra general para quien respalda un crédito: en el contrato aparece como aval, obligado solidario o fiador. Una garantía es distinta: es un bien que puedes perder si no pagas.
+
+
+
+#### Ser referencia no es ser aval
+
+Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
+
+> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Don Pepe leyó que como aval le podrían cobrar todo el crédito de su sobrino con su tienda de por medio. Le dijo que no y lo acompañó a comparar opciones. Rosa supo que, como referencia de su clienta, no le pueden cobrar nada.
+
+> **Idea clave:** aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Te pueden cobrar si solo fuiste referencia personal?
+*Respuesta:* No. Solo diste tus datos; no firmaste ninguna obligación.
+
+2. ¿Qué pasa si firmas como aval y la otra persona no paga?
+*Respuesta:* Te pueden cobrar a ti y puede aparecer en tu historial.
+
+
+#### Para recordar
+
+- Aval, obligado solidario y fiador: pagan si el otro no paga.
+- Referencia: solo datos; no te cobran.
+- Firma solo si podrías pagar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### ¿Qué firmas?
+
+| Papel | ¿Firmas? | ¿Te pueden cobrar? | ¿Afecta tu historial? |
+|---|---|---|---|
+| Aval | Sí, el pagaré | Sí, todo | Puede aparecer |
+| Obligado solidario | Sí, el contrato | Sí, directo | Puede aparecer |
+| Fiador | Sí, el contrato | Sí, si el otro no paga | Puede aparecer |
+| Referencia personal | No | No | No |
+| Titular con tarjeta adicional | Sí, como titular | Sí, todo lo que gaste la adicional | Sí |
+
+
+
+#### Cómo decir que no
+
+Pedirte que seas aval es pedirte que te hagas cargo de una deuda. Puedes decir: «Te quiero ayudar, pero no puedo firmar una deuda que no podría pagar». Ofrece otra ayuda: acompañarle a comparar créditos o armar un presupuesto.
+
+
+
+#### Si te llaman como referencia
+
+Si un despacho te presiona para pagar una deuda de la que solo eres referencia, no pagues ni des datos de más. Pide el nombre del despacho, anota fecha y hora y preséntalo en el REDECO de la CONDUSEF.
+
+> **Antes de actuar, verifica:** qué dice el documento que te piden firmar (pagaré, contrato, solicitud) y en qué papel apareces.
+
+
+
+#### Casos
+
+
+**Caso 1. El sobrino de Don Pepe**
+
+El sobrino de Don Pepe le pide que firme como aval de un préstamo para un auto.
+- *¿Qué hace Don Pepe?* Firma solo si podría pagar todo; si no, dice que no y ofrece otra ayuda.
+
+
+**Caso 2. El proveedor de Mariana**
+
+Un proveedor le da crédito a Mariana si alguien firma como obligado solidario.
+- *¿Qué hace?* Explica a quien firme que respondería por todo y busca otra forma de crédito si no puede.
+
+
+**Caso 3. La llamada a Rosa**
+
+Un despacho llama a Rosa para cobrarle la deuda de un compañero del que solo fue referencia.
+- *¿Qué hace?* No paga, pide el nombre del despacho y se queja en el REDECO.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | Deuda ajena | Lee tu papel |
+| Creer que la referencia paga | Pagas sin deber | No te obliga |
+| Aval por compromiso | Pagas tú | Solo si podrías pagar |
+| Adicional sin límite | Tu deuda crece | Límite bajo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Pepe, Mariana y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? a) Sí, la mitad · b) Sí, si él no paga · c) No, solo diste tus datos
+2. ¿Quién responde por todo el contrato como si hubiera pedido el crédito? a) El obligado solidario · b) La referencia personal · c) El vendedor
+3. Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? a) Pagas para que dejen de llamar · b) No pagas y te quejas en el REDECO · c) Das los datos de tu amigo y los de su familia
+**Respuestas:** 1-c: la referencia no se obliga. 2-a: por eso le pueden cobrar directo. 3-b: no pueden cobrar a referencias.
+
+
+
+#### Ponlo en práctica
+
+Te piden ser aval de un préstamo de 30,000 a 24 meses. Si la otra persona deja de pagar a la mitad, ¿cuánto podrían cobrarte, sin contar intereses?
+**Respuesta:** Unos 15,000 pesos: lo que falte por pagar, más intereses y cargos.
+
+
+
+#### A tu plan
+
+Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda.
+
+
+
+### Para saber más
+
+- **Aval y obligado solidario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «aval» y «obligado solidario».
+- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx.
+
+### Palabras clave
+
+- *Aval:* persona que firma un pagaré y se obliga a pagar si quien pidió el crédito no paga.
+- *Obligado solidario:* persona que responde por todo el contrato como si hubiera pedido el crédito.
+- *Fiador:* persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
+- *Referencia personal:* persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
+
+### Fuentes
+
+CONDUSEF (disposiciones para despachos de cobranza y REDECO), consultados el 30 de septiembre de 2026.
+
+---

@@ -1,0 +1,152 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Casos integradores</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Casos integradores</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-users"></i> Materiales de apoyo</span><h3>Casos integradores</h3><p class="obj">Cinco casos del medio que reúnen lo aprendido. Resuélvelos antes de abrir la clave.</p></div><div class="card2"><p>Los casos usan datos inventados para que practiques sin compartir información personal. Los montos están en pesos. Resuelve cada caso antes de abrir la clave.</p></div><div class="card2"><h4>C1. El año de Gael (Módulos 1 y 2)</h4><p><strong>Datos.</strong> Gael cobró en el año 600,000 sin IVA: 400,000 facturados en RESICO a productoras (personas morales) y 200,000 como asimilado. Gastó 150,000 en vestuario, clases y traslados. Sus gastos básicos son 18,000 al mes y suele pasar 4 meses al año sin trabajo.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>Calcula su meta de fondo de sequía.</li>
+<li>¿Puede deducir sus 150,000 de gastos en RESICO?</li>
+<li>¿Qué problema tiene la combinación RESICO y asimilados?</li>
+<li>¿Cuánto ISR le retuvieron las productoras en RESICO?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Fondo de sequía: 18,000 × 4 = 72,000.</li>
+<li>No. RESICO no permite deducir gastos.</li>
+<li>Cobrar honorarios como asimilado (por ejemplo, si lo pidió por escrito o si trabaja principalmente para un solo cliente) puede excluirlo de RESICO. Debe revisarlo con su contador.</li>
+<li>Retención de 1.25% sobre 400,000: 5,000, que acredita en sus pagos mensuales.</li>
+</ul></div></details><p><strong>Tarea adicional.</strong> Con su contador, Gael compara RESICO contra Actividad Empresarial: en Actividad Empresarial pagaría sobre 450,000 de utilidad en lo que factura, con tarifa progresiva, y podría usar deducciones personales en su anual.</p></div><div class="card2"><h4>C2. Las tarjetas de Renata (Módulos 4 a 8)</h4><p><strong>Datos.</strong> Renata tiene seis productos de crédito: Banco 1 (línea 50,000, deuda 32,000), Banco 2 (40,000; 28,000), tienda (25,000; 15,000), SOFOM (30,000; 12,000) y otros dos (35,000; 8,000). Su mes bajo es de 15,000 y sus gastos básicos, 12,000. Paga mínimos que suman 4,800.</p>
+<p><strong>Tareas.</strong></p>
+<ol>
+<li>¿Cuánto debe y cuál es su uso de línea?</li>
+<li>¿Qué porcentaje de su mes bajo se va en deuda?</li>
+<li>¿Qué método y qué primer paso le recomiendas?</li>
+</ol><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Debe 95,000. Uso de línea: 95,000 ÷ 180,000 = 53%.</li>
+<li>4,800 ÷ 15,000 = 32%: zona amarilla, casi roja.</li>
+<li>Primero ponerse al corriente si hay atrasos, pedir sus reportes y dejar de usar las tarjetas. Luego avalancha (la de mayor CAT) o bola de nieve si necesita motivación. Pago base: 15,000 − 12,000 = 3,000 más los mínimos que ya paga, ajustando gastos.</li>
+</ul></div></details></div><div class="card2"><h4>C3. El historial de Toño (Módulo 7)</h4><p><strong>Datos.</strong> El reporte de Toño muestra:</p>
+<ul>
+<li>Tarjeta A: al corriente, uso de 80%.</li>
+<li>Crédito de tienda: dos meses de atraso, 12,000.</li>
+<li>Crédito de una financiera que nunca pidió.</li>
+<li>Un crédito de hace siete años de unas 800 UDIS, que ya no aparece.</li>
+</ul><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong> Baja el uso de la tarjeta A a 30% o menos. Negocia y regulariza el crédito de tienda. Reclama el crédito desconocido como posible robo de identidad en la sociedad y en la institución, denuncia y activa el bloqueo. El crédito viejo ya no aparece porque su plazo de eliminación para ese monto era de 4 años.</p></div></details></div><div class="card2"><h4>C4. La campaña de Valeria (Módulos 3, 10 y 11)</h4><p><strong>Datos.</strong> Una marca le ofrece a Valeria 400,000 más IVA por una campaña: "todos los medios, a perpetuidad, territorio mundial", exclusividad de dos años sin pago extra y pago a 90 días. Su nombre artístico no está registrado. Tiene 45,000 de deuda en tarjetas y 20,000 de fondo de sequía (meta 72,000).</p><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Contrato: limitar medios, tiempo y territorio; cobrar la exclusividad; pedir pago a 30 días con penalización por atraso; cláusula que limite el uso de su imagen con inteligencia artificial.</li>
+<li>Marca: buscar su nombre en el IMPI y en INDAUTOR y protegerlo antes de la campaña.</li>
+<li>Reparto del pago: IVA (64,000) e ISR según su régimen; tarjetas (45,000); completar fondo (52,000); retiro; carrera; una parte para disfrutar; el resto a su concentradora.</li>
+</ul></div></details></div><div class="card2"><h4>C5. El futuro de Toño (Módulos 10 y 11)</h4><p><strong>Datos.</strong> Toño, de 41 años, cotizó con nómina de 1994 a 2021 y trabaja por su cuenta desde entonces. No tiene seguro médico ni testamento. Su hija tiene 10 años.</p><details><summary>Ver la clave</summary><div class="a"><p><strong>Clave.</strong></p>
+<ul>
+<li>Es de Ley 73 y está dentro del plazo de cinco años desde su baja: puede revisar la Modalidad 40 con el IMSS.</li>
+<li>Para servicio médico e incapacidades trabajando por su cuenta, le sirve la Modalidad 10.</li>
+<li>Seguro de vida temporal y beneficiarios en cuenta, AFORE y seguro.</li>
+<li>Testamento ante notario, de preferencia en el Mes del Testamento, con tutor para su hija y sus regalías incluidas.</li>
+</ul></div></details></div><div class="pagehead mt-4"><h3>Formularios para tu plan</h3></div><div class="card2"><p>Llénalos con datos de los casos o con tus datos, en papel o en tu computadora. No los subas a la plataforma.</p>
+<p><strong>F1 Ganancia real por proyecto:</strong> contrato sin IVA; IVA; comisión; retenciones; gastos del proyecto; ganancia real; fecha de pago.</p>
+<p><strong>F2 Sueldo fijo:</strong> ganancia real del año; reserva y retiro; sueldo mensual; fechas de transferencia.</p>
+<p><strong>F3 Calendario fiscal:</strong> régimen; declaraciones mensuales; anual; retenciones; contador; PRODECON.</p>
+<p><strong>F4 Revisión de contrato:</strong> vigencia; territorio; medios; exclusividad; pago; penalizaciones; imagen, voz e inteligencia artificial.</p>
+<p><strong>F5 Verificación de institución:</strong> nombre legal; tipo de entidad; SIPRES; CNBV; Buró de Entidades Financieras; decisión.</p>
+<p><strong>F6 Inventario de deudas:</strong> institución; tipo; saldo; CAT; pago; fecha límite; atraso; método; orden.</p>
+<p><strong>F7 Revisión de reportes:</strong> fecha Buró; fecha Círculo; datos; cuentas; saldos; claves; consultas; reclamaciones.</p>
+<p><strong>F8 Protección:</strong> seguro médico; IMSS; seguro de vida; beneficiarios; testamento; bloqueo; contactos de emergencia.</p>
+<p><strong>F9 Plan de una página:</strong> mis números; mis deudas; mi fondo; mi protección; mi carrera; mi futuro; tres acciones con fecha.</p></div></div>
+</div></div></div></body></html>

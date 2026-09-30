@@ -40,7 +40,7 @@ Lucía colgó y buscó el teléfono de la CONDUSEF en su sitio oficial. Le confi
 #### Comprueba lo que entendiste
 
 1. ¿La CONDUSEF te pide depósitos para recuperar dinero?
-*Respuesta:* No. Es gratuita y nunca pide depósitos; si alguien lo hace en su nombre, es fraude.
+*Respuesta:* No. Es sin costo y nunca pide depósitos; si alguien lo hace en su nombre, es fraude.
 
 2. ¿Quién tiene el padrón de bancos y casas de bolsa autorizados?
 *Respuesta:* La CNBV.
@@ -127,7 +127,7 @@ El banco le cobró a Elena una comisión que no reconoce y no le resuelven.
 1. ¿Qué hace la CONDUSEF? a) Vende seguros y créditos a mejor precio que los bancos · b) Orienta y defiende a los usuarios · c) Presta dinero en emergencias
 2. ¿Dónde verificas si un banco está autorizado? a) En el padrón de la CNBV · b) En su página de redes sociales · c) Preguntando al asesor que te llamó
 3. Alguien «del SAT» te pide un depósito para evitar una multa. ¿Qué es? a) Un trámite normal si es urgente · b) Una promoción del gobierno · c) Un fraude: las autoridades no piden depósitos así
-**Respuestas:** 1-b: es gratuita y defiende a los usuarios. 2-a: la CNBV tiene el padrón. 3-c: cuelga y verifica en el canal oficial.
+**Respuestas:** 1-b: no tiene costo y defiende a los usuarios. 2-a: la CNBV tiene el padrón. 3-c: cuelga y verifica en el canal oficial.
 
 
 
@@ -327,7 +327,7 @@ CNBV · IPAB · CONSAR · CNSF, consultados el 29 de septiembre de 2026.
 
 ### Lo esencial (5 minutos)
 
-#### Tres consultas gratuitas
+#### Tres consultas sin costo
 
 Antes de confiar tu dinero, verifica tres cosas: que la institución **existe**, que está **autorizada** para lo que te ofrece y **cómo trata** a sus clientes.
 
@@ -488,7 +488,7 @@ CONDUSEF · CNBV, consultados el 29 de septiembre de 2026.
 
 #### Tienes derechos
 
-Tienes derecho a información clara, a que no te cobren productos que no pediste, a recibir tus estados de cuenta y a presentar una reclamación. Reclamar es gratis.
+Tienes derecho a información clara, a que no te cobren productos que no pediste, a recibir tus estados de cuenta y a presentar una reclamación. Reclamar no tiene costo.
 
 
 
@@ -518,7 +518,7 @@ Elena presentó su reclamación en la UNE del banco con su estado de cuenta. Le 
 #### Comprueba lo que entendiste
 
 1. ¿Cuánto cuesta presentar una reclamación?
-*Respuesta:* Nada. Reclamar es gratis.
+*Respuesta:* Nada. Reclamar no tiene costo.
 
 2. ¿Qué pides siempre al reclamar?
 *Respuesta:* Un folio.
@@ -554,7 +554,7 @@ Seguros, membresías o asistencias agregados a tu tarjeta o cuenta sin tu autori
 
 #### Lo que hace la CONDUSEF
 
-Te orienta, recibe tu queja, puede citar a la institución a una conciliación y, en algunos casos, te apoya con asesoría jurídica. Todo es gratuito.
+Te orienta, recibe tu queja, puede citar a la institución a una conciliación y, en algunos casos, te apoya con asesoría jurídica. Nada tiene costo.
 
 > **Antes de actuar, verifica:** el plazo para reclamar un cargo no reconocido puede ser corto; reclama en cuanto lo detectes.
 
@@ -588,7 +588,7 @@ Carmen reclama por teléfono y no le dan número de folio.
 | Reclamar sin folio | No hay constancia | Pide el folio |
 | Aceptar «así viene» | Pagas lo que no pediste | Reclama |
 | Esperar meses | Pierdes plazos | Reclama pronto |
-| Pagar a un gestor | Es gratis | Hazlo tú |
+| Pagar a un gestor | Es sin costo | Hazlo tú |
 
 ### Practica
 
@@ -603,7 +603,7 @@ Carmen reclama por teléfono y no le dan número de folio.
 1. ¿Dónde reclamas primero? a) En redes sociales del banco · b) En la UNE de la institución · c) Con un gestor que cobra
 2. ¿Qué haces si no te resuelven? a) Te olvidas del cargo · b) Pagas para que un despacho reclame · c) Acudes a la CONDUSEF con tu folio
 3. Un seguro de 350 al mes que no pediste, durante un año. ¿Cuánto reclamas? a) 4,200 · b) 350 · c) 3,500
-**Respuestas:** 1-b: la UNE es el primer paso. 2-c: la CONDUSEF es gratuita. 3-a: 350 por 12 meses son 4,200.
+**Respuestas:** 1-b: la UNE es el primer paso. 2-c: la CONDUSEF no tiene costo. 3-a: 350 por 12 meses son 4,200.
 
 
 

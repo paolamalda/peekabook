@@ -1,0 +1,1443 @@
+$CATEGORY: $course$/Tu Talento v1.3/M1
+
+::M1 U01 P1::Te ofrecen 40,000 por un personaje. ¿Con qué número decides si te alcanza para un compromiso nuevo? {
+	=Lo que queda después de comisión, impuestos y gastos #¡Correcto! Tu ganancia real es la que paga tu vida.
+	~40,000 #No es la mejor opción. Tu ganancia real es la que paga tu vida.
+	~40,000 más el IVA que te pagan, porque ya es tuyo #No es la mejor opción. Tu ganancia real es la que paga tu vida.
+}
+
+::M1 U01 P2::Estás en RESICO y gastas 10,000 en vestuario. ¿Qué pasa con tus impuestos? {
+	=No cambian #¡Correcto! RESICO no permite deducir gastos.
+	~Bajan 10,000 #No es la mejor opción. RESICO no permite deducir gastos.
+	~Bajan a la mitad #No es la mejor opción. RESICO no permite deducir gastos.
+}
+
+::M1 U01 P3::Cobras 20,000 más IVA. ¿Qué haces con el IVA? {
+	~Lo usas como ganancia #No es la mejor opción. El IVA no es tuyo.
+	~Lo usas para pagar tu tarjeta #No es la mejor opción. El IVA no es tuyo.
+	=Lo apartas para el SAT #¡Correcto! El IVA no es tuyo.
+}
+
+::M1 U02 P1::Tu ganancia real del año es 240,000 y apartas 36,000 para reserva y retiro. ¿Cuál es tu sueldo mensual? {
+	=17,000 #¡Correcto! 240,000 − 36,000 \= 204,000; entre 12 son 17,000.
+	~20,000 #No es la mejor opción. 240,000 − 36,000 \= 204,000; entre 12 son 17,000.
+	~23,000 #No es la mejor opción. 240,000 − 36,000 \= 204,000; entre 12 son 17,000.
+}
+
+::M1 U02 P2::Este mes cobraste el triple de lo normal. ¿Qué haces con tu sueldo? {
+	=Lo mantienes igual #¡Correcto! Lo extra se queda para los meses bajos.
+	~Lo triplicas #No es la mejor opción. Lo extra se queda para los meses bajos.
+	~Lo subes a la mitad #No es la mejor opción. Lo extra se queda para los meses bajos.
+}
+
+::M1 U02 P3::¿Desde qué cuenta pagas tu renta? {
+	~Desde la concentradora #No es la mejor opción. Tu vida se paga con tu sueldo.
+	~Desde la tarjeta de crédito #No es la mejor opción. Tu vida se paga con tu sueldo.
+	=Desde tu cuenta de gastos #¡Correcto! Tu vida se paga con tu sueldo.
+}
+
+::M1 U03 P1::Gastos básicos de 16,000 y 5 meses sin proyecto. ¿Meta del fondo? {
+	=80,000 #¡Correcto! 16,000 × 5.
+	~21,000 #No es la mejor opción. 16,000 × 5.
+	~16,000 #No es la mejor opción. 16,000 × 5.
+}
+
+::M1 U03 P2::¿Qué gasto NO entra en el cálculo? {
+	~Luz, agua, gas e internet de tu casa #No es la mejor opción. Se pueden pausar en la sequía.
+	~Medicinas #No es la mejor opción. Se pueden pausar en la sequía.
+	=Salidas con amigos #¡Correcto! Se pueden pausar en la sequía.
+}
+
+::M1 U03 P3::Usaste tu fondo en un mes sin trabajo. ¿Qué sigue? {
+	~Dejarlo en cero #No es la mejor opción. Se rellena poco a poco.
+	~Pedir un préstamo para rellenarlo de inmediato y no quedarte sin nada #No es la mejor opción. Se rellena poco a poco.
+	=Volver a llenarlo con tus siguientes pagos #¡Correcto! Se rellena poco a poco.
+}
+
+::M1 U04 P1::¿Qué es lo más importante para tu fondo de sequía? {
+	=La seguridad y poder sacarlo rápido #¡Correcto! Primero seguridad y liquidez.
+	~El rendimiento más alto que encuentres en cualquier app #No es la mejor opción. Primero seguridad y liquidez.
+	~Que esté en una app nueva #No es la mejor opción. Primero seguridad y liquidez.
+}
+
+::M1 U04 P2::¿Qué opción de Cetesdirecto te permite retirar al día siguiente? {
+	=BONDDIA #¡Correcto! BONDDIA tiene liquidez diaria.
+	~Cetes a un año #No es la mejor opción. BONDDIA tiene liquidez diaria.
+	~Bonos a 10 años #No es la mejor opción. BONDDIA tiene liquidez diaria.
+}
+
+::M1 U04 P3::¿Dónde confirmas que una entidad es un banco? {
+	~En sus redes sociales #No es la mejor opción. La CNBV supervisa a los bancos.
+	=En el padrón de la CNBV #¡Correcto! La CNBV supervisa a los bancos.
+	~En las reseñas de la app #No es la mejor opción. La CNBV supervisa a los bancos.
+}
+
+::M1 U05 P1::Te pagan 20,000 y debes comprar ropa por 12,000 sin reembolso. Tu mánager cobra 15%. ¿Cuánto te queda? {
+	~8,000 #No es la mejor opción. 20,000 − 3,000 − 12,000 \= 5,000.
+	=5,000 #¡Correcto! 20,000 − 3,000 − 12,000 \= 5,000.
+	~17,000 #No es la mejor opción. 20,000 − 3,000 − 12,000 \= 5,000.
+}
+
+::M1 U05 P2::¿Qué gasto es mantenimiento de imagen? {
+	~El vestuario de un personaje #No es la mejor opción. Es parte de tu presupuesto mensual.
+	=Tu corte de cabello #¡Correcto! Es parte de tu presupuesto mensual.
+	~La ropa de una campaña #No es la mejor opción. Es parte de tu presupuesto mensual.
+}
+
+::M1 U05 P3::Te piden un book obligatorio con un fotógrafo específico. ¿Qué haces? {
+	~Lo pagas para no perder la oportunidad #No es la mejor opción. Es una señal de alerta.
+	=Cotizas y verificas a la agencia #¡Correcto! Es una señal de alerta.
+	~Pides prestado para pagarlo #No es la mejor opción. Es una señal de alerta.
+}
+
+::M1 U06 P1::¿Con qué fecha planeas tus gastos? {
+	~La fecha en que trabajas #No es la mejor opción. Solo el dinero en tu cuenta es tuyo.
+	=La fecha en que te pagan #¡Correcto! Solo el dinero en tu cuenta es tuyo.
+	~La fecha en que firmas #No es la mejor opción. Solo el dinero en tu cuenta es tuyo.
+}
+
+::M1 U06 P2::Tienes 4,000 y gastos de 15,000 este mes; tu pago llega en dos meses. ¿Cuánto te falta este mes? {
+	~15,000 #No es la mejor opción. 15,000 − 4,000.
+	~19,000 #No es la mejor opción. 15,000 − 4,000.
+	=11,000 #¡Correcto! 15,000 − 4,000.
+}
+
+::M1 U06 P3::Tu factura lleva 20 días de retraso. ¿Qué haces? {
+	~Esperar sin decir nada #No es la mejor opción. El seguimiento por escrito ayuda y deja registro.
+	~Publicarlo en redes para presionar a la productora #No es la mejor opción. El seguimiento por escrito ayuda y deja registro.
+	=Enviar un recordatorio por escrito #¡Correcto! El seguimiento por escrito ayuda y deja registro.
+}
+
+::M1 U07 P1::No te quedaste en un casting y quieres comprar algo que no planeaste. ¿Qué haces? {
+	~Lo compras a meses para que no se note #No es la mejor opción. Decides con calma.
+	=Esperas 48 horas y revisas tu plan #¡Correcto! Decides con calma.
+	~Pides prestado para comprarlo hoy #No es la mejor opción. Decides con calma.
+}
+
+::M1 U07 P2::¿Qué hace una plática de dinero en casa más útil? {
+	~Hacerla cuando ya están enojados #No es la mejor opción. Números y una decisión.
+	~Culpar a quien gastó más #No es la mejor opción. Números y una decisión.
+	=Llevar los números y acordar una decisión #¡Correcto! Números y una decisión.
+}
+
+::M1 U07 P3::¿A dónde llamas si sientes que no hay salida? {
+	=A la Línea de la Vida, 800 911 2000 #¡Correcto! Ayuda sin costo las 24 horas.
+	~A nadie, lo aguantas solo #No es la mejor opción. Ayuda sin costo las 24 horas.
+	~A una app de préstamos #No es la mejor opción. Ayuda sin costo las 24 horas.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M2
+
+::M2 U01 P1::En RESICO cobras 40,000 en el mes. ¿Qué tasa de ISR aplica? {
+	=1.1% #¡Correcto! Hasta 50,000 al mes es 1.1%.
+	~2.5% #No es la mejor opción. Hasta 50,000 al mes es 1.1%.
+	~10% #No es la mejor opción. Hasta 50,000 al mes es 1.1%.
+}
+
+::M2 U01 P2::Gastas 40% de lo que cobras en tu trabajo. ¿Qué te conviene revisar con tu contador? {
+	~Pasarte a asimilados para que te retengan todo a ti #No es la mejor opción. Ahí puedes deducir gastos.
+	~Dejar de facturar #No es la mejor opción. Ahí puedes deducir gastos.
+	=Si te conviene Actividad Empresarial #¡Correcto! Ahí puedes deducir gastos.
+}
+
+::M2 U01 P3::¿Dónde confirmas tu régimen actual? {
+	~En tu estado de cuenta #No es la mejor opción. La constancia del SAT dice tu régimen.
+	~En tu contrato con la productora que te paga más #No es la mejor opción. La constancia del SAT dice tu régimen.
+	=En tu constancia de situación fiscal #¡Correcto! La constancia del SAT dice tu régimen.
+}
+
+::M2 U02 P1::Facturas 30,000 más IVA a una persona. ¿Cuánto es el IVA? {
+	=4,800 #¡Correcto! 16% de 30,000.
+	~3,000 #No es la mejor opción. 16% de 30,000.
+	~1,200 #No es la mejor opción. 16% de 30,000.
+}
+
+::M2 U02 P2::¿Qué IVA puedes restar del que cobraste? {
+	~El de tu súper #No es la mejor opción. Solo el de tu actividad, con factura.
+	=El de tus gastos de trabajo con factura a tu nombre #¡Correcto! Solo el de tu actividad, con factura.
+	~Cualquier IVA que pagues en el mes, sea de trabajo o personal #No es la mejor opción. Solo el de tu actividad, con factura.
+}
+
+::M2 U02 P3::¿Hasta qué día declaras el IVA del mes? {
+	=El día 17 del mes siguiente #¡Correcto! Es una declaración mensual.
+	~El último día del mes #No es la mejor opción. Es una declaración mensual.
+	~En abril, una vez al año #No es la mejor opción. Es una declaración mensual.
+}
+
+::M2 U03 P1::¿En qué régimen puedes deducir tus gastos de trabajo? {
+	~RESICO #No es la mejor opción. RESICO no permite deducciones.
+	=Actividad Empresarial y Profesional #¡Correcto! RESICO no permite deducciones.
+	~En ninguno\: los gastos de trabajo nunca se pueden deducir #No es la mejor opción. RESICO no permite deducciones.
+}
+
+::M2 U03 P2::¿Qué gasto NO es deducible? {
+	~Clases de canto con factura #No es la mejor opción. Es un gasto personal.
+	~Comisión del mánager con factura #No es la mejor opción. Es un gasto personal.
+	=Ropa de uso diario #¡Correcto! Es un gasto personal.
+}
+
+::M2 U03 P3::Compraste equipo de 3,000 en efectivo. ¿Qué pasa? {
+	~Se deduce igual #No es la mejor opción. Arriba de 2,000 debe pagarse con medios electrónicos.
+	~Se deduce el doble porque fue un pago en efectivo #No es la mejor opción. Arriba de 2,000 debe pagarse con medios electrónicos.
+	=Puede no deducirse por pagarlo en efectivo #¡Correcto! Arriba de 2,000 debe pagarse con medios electrónicos.
+}
+
+::M2 U04 P1::¿Por dónde te avisa el SAT? {
+	~Por redes sociales #No es la mejor opción. Es el canal oficial.
+	~Por una llamada de un número desconocido #No es la mejor opción. Es el canal oficial.
+	=Por el buzón tributario #¡Correcto! Es el canal oficial.
+}
+
+::M2 U04 P2::¿Qué institución te orienta sin costo frente al SAT? {
+	~CONDUSEF #No es la mejor opción. Defiende al contribuyente.
+	~Profeco #No es la mejor opción. Defiende al contribuyente.
+	=PRODECON #¡Correcto! Defiende al contribuyente.
+}
+
+::M2 U04 P3::Un mes no facturaste. ¿Qué haces? {
+	~Nada #No es la mejor opción. No presentarla genera multas.
+	~Facturar algo aunque sea pequeño para no quedar en ceros ese mes #No es la mejor opción. No presentarla genera multas.
+	=Presentar la declaración en ceros, si te corresponde #¡Correcto! No presentarla genera multas.
+}
+
+::M2 U05 P1::¿Qué gasto puede ser deducción personal? {
+	~Tu súper del mes, si pagas con tarjeta y guardas el ticket de compra #No es la mejor opción. Con factura y pago electrónico.
+	~Tus vacaciones #No es la mejor opción. Con factura y pago electrónico.
+	=Tu consulta de psicología con factura, pagada con tarjeta #¡Correcto! Con factura y pago electrónico.
+}
+
+::M2 U05 P2::¿Quién NO usa deducciones personales para esos ingresos? {
+	~Quien cobra por asimilados #No es la mejor opción. RESICO no usa deducciones personales.
+	~Quien está en Actividad Empresarial #No es la mejor opción. RESICO no usa deducciones personales.
+	=Quien está en RESICO #¡Correcto! RESICO no usa deducciones personales.
+}
+
+::M2 U05 P3::¿Qué pasa si la CLABE de tu devolución no está a tu nombre? {
+	~Llega igual #No es la mejor opción. La cuenta debe ser tuya.
+	=La devolución se rechaza #¡Correcto! La cuenta debe ser tuya.
+	~Te la mandan en efectivo #No es la mejor opción. La cuenta debe ser tuya.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M3
+
+::M3 U01 P1::¿Qué frase te da menos control sobre tu trabajo? {
+	~Redes sociales en México por un año #No es la mejor opción. Pueden usarlo siempre y en cualquier medio.
+	~Televisión abierta por seis meses #No es la mejor opción. Pueden usarlo siempre y en cualquier medio.
+	=Todos los medios a perpetuidad #¡Correcto! Pueden usarlo siempre y en cualquier medio.
+}
+
+::M3 U01 P2::Te piden exclusividad. ¿Qué es razonable pedir? {
+	~Nada, es normal #No es la mejor opción. La exclusividad te cuesta otros trabajos.
+	=Un pago adicional y un plazo claro #¡Correcto! La exclusividad te cuesta otros trabajos.
+	~Que no haya contrato escrito para poder negociar después #No es la mejor opción. La exclusividad te cuesta otros trabajos.
+}
+
+::M3 U01 P3::¿Cuándo conviene que un abogado revise tu contrato? {
+	~Nunca #No es la mejor opción. Antes de firmar es cuando más ayuda.
+	~Solo si ya firmaste y hay un problema con la productora #No es la mejor opción. Antes de firmar es cuando más ayuda.
+	=Cuando es por mucho dinero o cedes derechos #¡Correcto! Antes de firmar es cuando más ayuda.
+}
+
+::M3 U02 P1::¿Qué forma de permiso te deja más control? {
+	~Cesión total #No es la mejor opción. Pones límites.
+	=Licencia limitada #¡Correcto! Pones límites.
+	~Uso en cualquier forma #No es la mejor opción. Pones límites.
+}
+
+::M3 U02 P2::¿Qué frase conviene cambiar? {
+	~"Redes sociales en México por 12 meses" #No es la mejor opción. Permite casi cualquier uso.
+	="Por cualquier medio y para cualquier fin" #¡Correcto! Permite casi cualquier uso.
+	~"Con pago por renovación" #No es la mejor opción. Permite casi cualquier uso.
+}
+
+::M3 U02 P3::Una marca usa tus fotos después de que venció la licencia. ¿Qué haces primero? {
+	~Publicas un reclamo en redes y etiquetas a la marca para que lo vean #No es la mejor opción. Las pruebas y el escrito son la base.
+	=Guardas pruebas y pides por escrito que las retiren #¡Correcto! Las pruebas y el escrito son la base.
+	~No haces nada #No es la mejor opción. Las pruebas y el escrito son la base.
+}
+
+::M3 U03 P1::Honorario de 30,000 más IVA y comisión de 15%. ¿Cuánto es la comisión? {
+	~5,220 #No es la mejor opción. 15% de 30,000, sin IVA.
+	~3,000 #No es la mejor opción. 15% de 30,000, sin IVA.
+	=4,500 #¡Correcto! 15% de 30,000, sin IVA.
+}
+
+::M3 U03 P2::¿Qué es una señal de alerta en una agencia? {
+	~Que te facture su comisión #No es la mejor opción. Cobrar por inscribirte es alerta.
+	~Que te dé un estado de cuenta de cada pago que recibe por ti #No es la mejor opción. Cobrar por inscribirte es alerta.
+	=Que te cobre por estar en su catálogo #¡Correcto! Cobrar por inscribirte es alerta.
+}
+
+::M3 U03 P3::¿Qué gastos te puede descontar tu mánager? {
+	=Los autorizados por ti y con comprobante #¡Correcto! Solo los autorizados.
+	~Los que él decida, porque es parte de su trabajo de representación #No es la mejor opción. Solo los autorizados.
+	~Ninguno, nunca #No es la mejor opción. Solo los autorizados.
+}
+
+::M3 U04 P1::¿Quién cobra tus regalías como actor por retransmisiones? {
+	~ANDA #No es la mejor opción. La ANDI gestiona las regalías de intérpretes.
+	=ANDI #¡Correcto! La ANDI gestiona las regalías de intérpretes.
+	~SAT #No es la mejor opción. La ANDI gestiona las regalías de intérpretes.
+}
+
+::M3 U04 P2::¿Qué es la ANDA? {
+	~Una sociedad de autores de música #No es la mejor opción. Regula la actividad laboral.
+	~Un banco del gremio #No es la mejor opción. Regula la actividad laboral.
+	=Un sindicato de actores #¡Correcto! Regula la actividad laboral.
+}
+
+::M3 U04 P3::Tocaste la batería en la grabación de una banda. ¿A qué sociedad acudes? {
+	=EJE #¡Correcto! La EJE representa a músicos ejecutantes.
+	~SACM #No es la mejor opción. La EJE representa a músicos ejecutantes.
+	~ANDA #No es la mejor opción. La EJE representa a músicos ejecutantes.
+}
+
+::M3 U05 P1::¿Qué es lo primero para cobrar regalías? {
+	~Pagar a un gestor #No es la mejor opción. La sociedad cobra por ti.
+	=Afiliarte a la sociedad que te corresponde #¡Correcto! La sociedad cobra por ti.
+	~Subir tu trabajo a redes para que las regalías lleguen solas #No es la mejor opción. La sociedad cobra por ti.
+}
+
+::M3 U05 P2::¿Qué debe decir una liquidación? {
+	~Solo el monto #No es la mejor opción. Así detectas errores.
+	~Nada\: basta con el depósito en tu cuenta #No es la mejor opción. Así detectas errores.
+	=Obra, uso, periodo y descuentos #¡Correcto! Así detectas errores.
+}
+
+::M3 U05 P3::¿Las regalías se declaran? {
+	~No #No es la mejor opción. Son ingresos.
+	~Solo las del extranjero #No es la mejor opción. Son ingresos.
+	=Sí #¡Correcto! Son ingresos.
+}
+
+::M3 U06 P1::¿Qué sirve como prueba si no hay contrato? {
+	~Nada #No es la mejor opción. Muestran el acuerdo.
+	=Mensajes y correos con fecha #¡Correcto! Muestran el acuerdo.
+	~Solo la palabra de un testigo que estuvo en el set #No es la mejor opción. Muestran el acuerdo.
+}
+
+::M3 U06 P2::¿Qué institución orienta sin costo si hay relación laboral? {
+	=PROFEDET #¡Correcto! Defiende a las personas trabajadoras.
+	~CONDUSEF #No es la mejor opción. Defiende a las personas trabajadoras.
+	~Profeco #No es la mejor opción. Defiende a las personas trabajadoras.
+}
+
+::M3 U06 P3::¿Qué pides a una productora nueva en un proyecto largo? {
+	~Nada, para no parecer desconfiado #No es la mejor opción. Reduce el riesgo de no cobrar.
+	=Acuerdo por escrito y anticipo #¡Correcto! Reduce el riesgo de no cobrar.
+	~Que te pague en efectivo sin factura #No es la mejor opción. Reduce el riesgo de no cobrar.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M4
+
+::M4 U01 P1::¿Qué autoridad protege tus depósitos en bancos? {
+	~Profeco #No es la mejor opción. El IPAB protege depósitos bancarios.
+	=IPAB #¡Correcto! El IPAB protege depósitos bancarios.
+	~CONSAR #No es la mejor opción. El IPAB protege depósitos bancarios.
+}
+
+::M4 U01 P2::¿A quién presentas una reclamación contra tu banco si no te resuelven? {
+	=CONDUSEF #¡Correcto! CONDUSEF atiende reclamaciones.
+	~SAT #No es la mejor opción. CONDUSEF atiende reclamaciones.
+	~El IMSS, porque es una institución pública #No es la mejor opción. CONDUSEF atiende reclamaciones.
+}
+
+::M4 U01 P3::Te llaman "del Banco de México" para ofrecerte un crédito. ¿Qué es? {
+	=Un fraude #¡Correcto! Banxico no presta a personas.
+	~Una oferta oficial #No es la mejor opción. Banxico no presta a personas.
+	~Un programa nuevo #No es la mejor opción. Banxico no presta a personas.
+}
+
+::M4 U02 P1::¿Qué entidad solo presta y no puede captar ahorro? {
+	~Banco #No es la mejor opción. La SOFOM solo otorga crédito.
+	=SOFOM #¡Correcto! La SOFOM solo otorga crédito.
+	~Banco digital #No es la mejor opción. La SOFOM solo otorga crédito.
+}
+
+::M4 U02 P2::¿Qué protege el IPAB? {
+	~Cualquier app #No es la mejor opción. Solo depósitos bancarios.
+	~Créditos de tienda #No es la mejor opción. Solo depósitos bancarios.
+	=Depósitos en bancos #¡Correcto! Solo depósitos bancarios.
+}
+
+::M4 U02 P3::¿Dónde encuentras el nombre legal de tu tarjeta? {
+	~En la publicidad #No es la mejor opción. Ahí aparece la entidad responsable.
+	=En el contrato o estado de cuenta #¡Correcto! Ahí aparece la entidad responsable.
+	~En las redes sociales de la marca de la tarjeta #No es la mejor opción. Ahí aparece la entidad responsable.
+}
+
+::M4 U03 P1::¿Dónde confirmas que una empresa es prestador de servicios financieros registrado? {
+	~Google Maps #No es la mejor opción. El SIPRES es el registro de CONDUSEF.
+	~Sus redes sociales #No es la mejor opción. El SIPRES es el registro de CONDUSEF.
+	=SIPRES #¡Correcto! El SIPRES es el registro de CONDUSEF.
+}
+
+::M4 U03 P2::¿Qué herramienta muestra quejas y sanciones de una institución? {
+	~Buró de Crédito #No es la mejor opción. El Buró de Entidades Financieras evalúa instituciones.
+	=Buró de Entidades Financieras #¡Correcto! El Buró de Entidades Financieras evalúa instituciones.
+	~El SAT, que revisa a todas las empresas del país #No es la mejor opción. El Buró de Entidades Financieras evalúa instituciones.
+}
+
+::M4 U03 P3::Una app no aparece en el SIPRES. ¿Qué haces? {
+	~La uso con poco dinero #No es la mejor opción. No está registrada.
+	=No contrato #¡Correcto! No está registrada.
+	~Le pregunto al asesor de la app #No es la mejor opción. No está registrada.
+}
+
+::M4 U04 P1::¿Dónde reclamas primero un cargo que no reconoces? {
+	=En la UNE de la institución #¡Correcto! La UNE atiende reclamaciones.
+	~En redes sociales, etiquetando a la institución #No es la mejor opción. La UNE atiende reclamaciones.
+	~En el SAT #No es la mejor opción. La UNE atiende reclamaciones.
+}
+
+::M4 U04 P2::¿Qué es el RECA? {
+	=Un registro de contratos de productos financieros #¡Correcto! Ahí consultas contratos.
+	~Un tipo de crédito rápido para personas sin historial #No es la mejor opción. Ahí consultas contratos.
+	~Una tarjeta #No es la mejor opción. Ahí consultas contratos.
+}
+
+::M4 U04 P3::¿Para qué sirve el REUS? {
+	=Para no recibir publicidad financiera #¡Correcto! Limita las ofertas por teléfono y mensaje.
+	~Para pedir créditos #No es la mejor opción. Limita las ofertas por teléfono y mensaje.
+	~Para ver tu Buró de Crédito sin costo cuando quieras #No es la mejor opción. Limita las ofertas por teléfono y mensaje.
+}
+
+::M4 U05 P1::Circula que el SAT congelará cuentas. ¿Qué haces? {
+	~Sacas todo tu dinero #No es la mejor opción. Confirma antes.
+	=Lo confirmas en el sitio del SAT y con tu contador #¡Correcto! Confirma antes.
+	~Lo reenvías a todo el elenco #No es la mejor opción. Confirma antes.
+}
+
+::M4 U05 P2::Un famoso recomienda una inversión que «va a subir». ¿Qué es? {
+	~Información confiable #No es la mejor opción. Revisa antes de creer.
+	~Una oportunidad segura #No es la mejor opción. Revisa antes de creer.
+	=Posible publicidad, video falso o fraude #¡Correcto! Revisa antes de creer.
+}
+
+::M4 U05 P3::¿Quién fija la tasa de interés de referencia en México? {
+	=El Banco de México #¡Correcto! Para cuidar la inflación.
+	~Tu banco #No es la mejor opción. Para cuidar la inflación.
+	~El SAT #No es la mejor opción. Para cuidar la inflación.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M5
+
+::M5 U01 P1::¿Qué eliges primero? {
+	=La institución #¡Correcto! Primero con quién.
+	~El regalo de la promoción #No es la mejor opción. Primero con quién.
+	~El color de la tarjeta #No es la mejor opción. Primero con quién.
+}
+
+::M5 U01 P2::Cobras mucho en efectivo. ¿Qué preguntas? {
+	=Cuánto cuesta depositar efectivo y dónde #¡Correcto! Según cómo cobras.
+	~Si la tarjeta es de metal #No es la mejor opción. Según cómo cobras.
+	~Si tienen puntos para viajes y descuentos en conciertos #No es la mejor opción. Según cómo cobras.
+}
+
+::M5 U01 P3::¿Qué herramienta muestra quejas por institución? {
+	=Buró de Entidades Financieras #¡Correcto! Es la herramienta de CONDUSEF.
+	~Buró de Crédito #No es la mejor opción. Es la herramienta de CONDUSEF.
+	~Las reseñas de la app en la tienda del celular #No es la mejor opción. Es la herramienta de CONDUSEF.
+}
+
+::M5 U02 P1::Una cuenta cobra 200 al mes de manejo. ¿Cuánto pagas al año? {
+	=2,400 #¡Correcto! 200 × 12.
+	~200 #No es la mejor opción. 200 × 12.
+	~1,200 #No es la mejor opción. 200 × 12.
+}
+
+::M5 U02 P2::¿Tienes derecho a elegir en qué banco recibir tu nómina? {
+	~No #No es la mejor opción. Es un derecho sin costo.
+	=Sí, con la portabilidad de nómina #¡Correcto! Es un derecho sin costo.
+	~Solo si tu patrón acepta cambiar de banco #No es la mejor opción. Es un derecho sin costo.
+}
+
+::M5 U02 P3::Cobras en efectivo en eventos. ¿Qué revisas? {
+	~El diseño de la tarjeta y si tiene tu nombre grabado #No es la mejor opción. Según cómo cobras.
+	=Dónde y cuánto cuesta depositar #¡Correcto! Según cómo cobras.
+	~Si la app tiene juegos #No es la mejor opción. Según cómo cobras.
+}
+
+::M5 U03 P1::Necesitas el dinero en 3 meses. ¿Qué opción es más adecuada? {
+	=Cetes a 3 meses o menos #¡Correcto! El plazo coincide con tu meta.
+	~Acciones #No es la mejor opción. El plazo coincide con tu meta.
+	~Un plazo fijo de 2 años con mejor tasa #No es la mejor opción. El plazo coincide con tu meta.
+}
+
+::M5 U03 P2::¿Qué indicador descuenta la inflación? {
+	=GAT real #¡Correcto! Muestra la ganancia real.
+	~GAT nominal #No es la mejor opción. Muestra la ganancia real.
+	~Tasa anunciada #No es la mejor opción. Muestra la ganancia real.
+}
+
+::M5 U03 P3::Te ofrecen 10% mensual garantizado. ¿Qué es? {
+	~Una gran oportunidad #No es la mejor opción. Nadie garantiza eso sin riesgo.
+	=Señal de fraude #¡Correcto! Nadie garantiza eso sin riesgo.
+	~Una inversión segura del gobierno #No es la mejor opción. Nadie garantiza eso sin riesgo.
+}
+
+::M5 U04 P1::Gasto de 40,000, deducible de 5,000 y coaseguro de 10%. ¿Cuánto pagas tú? {
+	~5,000 #No es la mejor opción. 5,000 + 10% de 35,000 \= 8,500.
+	=8,500 #¡Correcto! 5,000 + 10% de 35,000 \= 8,500.
+	~4,000 #No es la mejor opción. 5,000 + 10% de 35,000 \= 8,500.
+}
+
+::M5 U04 P2::¿Qué parte de la póliza dice lo que NO cubre? {
+	~La prima #No es la mejor opción. Por eso se leen primero.
+	=Las exclusiones #¡Correcto! Por eso se leen primero.
+	~La suma asegurada #No es la mejor opción. Por eso se leen primero.
+}
+
+::M5 U04 P3::¿Quién supervisa a las aseguradoras? {
+	~SAT #No es la mejor opción. La CNSF supervisa seguros.
+	~IMSS #No es la mejor opción. La CNSF supervisa seguros.
+	=CNSF #¡Correcto! La CNSF supervisa seguros.
+}
+
+::M5 U05 P1::Crédito de 12 pagos de 2,000 y otro de 18 pagos de 1,500, ambos por 20,000. ¿Cuál cuesta menos en total? {
+	=El de 12 pagos (24,000) #¡Correcto! 24,000 contra 27,000.
+	~El de 18 pagos (27,000) #No es la mejor opción. 24,000 contra 27,000.
+	~Cuestan igual #No es la mejor opción. 24,000 contra 27,000.
+}
+
+::M5 U05 P2::¿Qué indicador suma intereses y comisiones? {
+	~GAT #No es la mejor opción. El CAT es el costo total.
+	=CAT #¡Correcto! El CAT es el costo total.
+	~UDI #No es la mejor opción. El CAT es el costo total.
+}
+
+::M5 U05 P3::Te cobran 4% de apertura en 30,000. ¿Cuánto recibes? {
+	~30,000 #No es la mejor opción. 30,000 menos 1,200.
+	~31,200 #No es la mejor opción. 30,000 menos 1,200.
+	=28,800 #¡Correcto! 30,000 menos 1,200.
+}
+
+::M5 U06 P1::¿Qué crédito es revolvente? {
+	~El hipotecario #No es la mejor opción. La línea se usa y se vuelve a usar.
+	=La tarjeta de crédito #¡Correcto! La línea se usa y se vuelve a usar.
+	~El automotriz para comprar un auto #No es la mejor opción. La línea se usa y se vuelve a usar.
+}
+
+::M5 U06 P2::¿Qué conviene para comprar equipo de trabajo planeado? {
+	~Préstamo por app #No es la mejor opción. Pagos fijos y costo menor.
+	~Pagar solo el mínimo de la tarjeta de crédito hasta que alcance para todo #No es la mejor opción. Pagos fijos y costo menor.
+	=Crédito simple con CAT bajo o MSI que quepan en tu presupuesto #¡Correcto! Pagos fijos y costo menor.
+}
+
+::M5 U06 P3::No te alcanza para la renta este mes. ¿Qué haces primero? {
+	=Usar tu fondo de sequía #¡Correcto! El crédito no resuelve un faltante del día a día.
+	~Pedir un préstamo por app #No es la mejor opción. El crédito no resuelve un faltante del día a día.
+	~Empeñar tu equipo de trabajo #No es la mejor opción. El crédito no resuelve un faltante del día a día.
+}
+
+::M5 U07 P1::¿Qué dato de la carátula te dice todo lo que pagarás? {
+	~El logotipo #No es la mejor opción. Incluye pagos y costos.
+	=El total a pagar #¡Correcto! Incluye pagos y costos.
+	~La sucursal donde firmas #No es la mejor opción. Incluye pagos y costos.
+}
+
+::M5 U07 P2::Te prometen de palabra que quitan un seguro. ¿Qué haces? {
+	~Confías #No es la mejor opción. Lo escrito es lo que vale.
+	=Pides que quede por escrito #¡Correcto! Lo escrito es lo que vale.
+	~Firmas y reclamas después #No es la mejor opción. Lo escrito es lo que vale.
+}
+
+::M5 U07 P3::¿Dónde puedes leer contratos registrados de productos financieros? {
+	~En el SAT #No es la mejor opción. Es el registro oficial.
+	~En las redes del banco #No es la mejor opción. Es el registro oficial.
+	=En el RECA de CONDUSEF #¡Correcto! Es el registro oficial.
+}
+
+::M5 U08 P1::Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? {
+	~Sí, la mitad #No es la mejor opción. La referencia no se obliga.
+	~Sí, si él no paga #No es la mejor opción. La referencia no se obliga.
+	=No, solo diste tus datos #¡Correcto! La referencia no se obliga.
+}
+
+::M5 U08 P2::¿Quién responde por todo el contrato como si hubiera pedido el crédito? {
+	=El obligado solidario #¡Correcto! Por eso le pueden cobrar directo.
+	~La referencia personal #No es la mejor opción. Por eso le pueden cobrar directo.
+	~El vendedor #No es la mejor opción. Por eso le pueden cobrar directo.
+}
+
+::M5 U08 P3::Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. No pueden cobrar a referencias.
+	=No pagas y te quejas en el REDECO #¡Correcto! No pueden cobrar a referencias.
+	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M6
+
+::M6 U01 P1::Tu línea es 40,000 y debes 15,000. ¿Cuánto dinero tuyo hay ahí? {
+	~25,000 #No es la mejor opción. El disponible es crédito, no dinero tuyo.
+	~40,000 #No es la mejor opción. El disponible es crédito, no dinero tuyo.
+	=Nada #¡Correcto! El disponible es crédito, no dinero tuyo.
+}
+
+::M6 U01 P2::Te suben la línea. ¿Qué significa? {
+	=Te pueden prestar más #¡Correcto! Es más deuda posible.
+	~Te pagan más #No es la mejor opción. Es más deuda posible.
+	~Ya no tienes deuda #No es la mejor opción. Es más deuda posible.
+}
+
+::M6 U01 P3::¿Qué pregunta haces antes de usar crédito? {
+	~¿Cuántos puntos gano? #No es la mejor opción. Sin plan de pago no conviene.
+	~¿Cuánto disponible me queda después de esta compra? #No es la mejor opción. Sin plan de pago no conviene.
+	=¿Con qué ingreso lo pagaré y cuándo? #¡Correcto! Sin plan de pago no conviene.
+}
+
+::M6 U02 P1::¿Qué pago te evita pagar intereses ese mes? {
+	~Pago mínimo #No es la mejor opción. Cubre las compras del periodo.
+	~Cualquier pago, aunque sea menor al mínimo #No es la mejor opción. Cubre las compras del periodo.
+	=Pago para no generar intereses #¡Correcto! Cubre las compras del periodo.
+}
+
+::M6 U02 P2::¿Qué fecha marca el último día para pagar sin atraso? {
+	~Fecha de corte #No es la mejor opción. Después hay atraso.
+	=Fecha límite de pago #¡Correcto! Después hay atraso.
+	~Fecha de emisión #No es la mejor opción. Después hay atraso.
+}
+
+::M6 U02 P3::Deuda de 20,000 al 4% mensual más IVA. Pagando 1,000 al mes, ¿cuánto pagas en total? {
+	=Unos 58,000 #¡Correcto! Casi el triple por pagar poco.
+	~Unos 20,000 #No es la mejor opción. Casi el triple por pagar poco.
+	~Unos 24,000 #No es la mejor opción. Casi el triple por pagar poco.
+}
+
+::M6 U03 P1::¿Qué compra conviene más a MSI? {
+	~Una cena #No es la mejor opción. Dura más que los pagos y te genera ingreso.
+	=Equipo de trabajo planeado #¡Correcto! Dura más que los pagos y te genera ingreso.
+	~Un viaje de fin de semana #No es la mejor opción. Dura más que los pagos y te genera ingreso.
+}
+
+::M6 U03 P2::Tienes mensualidades de 1,500, 2,000 y 800. ¿Cuánto pagas al mes? {
+	~2,000 #No es la mejor opción. 1,500 + 2,000 + 800.
+	=4,300 #¡Correcto! 1,500 + 2,000 + 800.
+	~3,500 #No es la mejor opción. 1,500 + 2,000 + 800.
+}
+
+::M6 U03 P3::¿Qué preguntas antes de comprar a MSI? {
+	~El color de la caja #No es la mejor opción. A veces el precio a MSI es más alto.
+	=El precio de contado #¡Correcto! A veces el precio a MSI es más alto.
+	~Cuántos puntos te dan #No es la mejor opción. A veces el precio a MSI es más alto.
+}
+
+::M6 U04 P1::¿Qué dato NO necesitas en tu inventario? {
+	=Color de la tarjeta #¡Correcto! No ayuda al plan.
+	~Saldo #No es la mejor opción. No ayuda al plan.
+	~Fecha límite de pago de cada tarjeta #No es la mejor opción. No ayuda al plan.
+}
+
+::M6 U04 P2::¿Incluyes la deuda con tu hermano? {
+	=Sí #¡Correcto! También es un compromiso.
+	~No, porque no cobra intereses #No es la mejor opción. También es un compromiso.
+	~Solo si te la cobra #No es la mejor opción. También es un compromiso.
+}
+
+::M6 U04 P3::¿Dónde confirmas tus deudas reportadas? {
+	~En redes sociales #No es la mejor opción. Ahí aparecen los créditos a tu nombre.
+	=En tus reportes de Buró y Círculo #¡Correcto! Ahí aparecen los créditos a tu nombre.
+	~En tu declaración anual, en la parte de deudas #No es la mejor opción. Ahí aparecen los créditos a tu nombre.
+}
+
+::M6 U05 P1::Mes bajo de 30,000 y pagos de deuda de 6,000. ¿En qué zona estás? {
+	~Amarilla #No es la mejor opción. 6,000 es 20% de 30,000.
+	~Roja #No es la mejor opción. 6,000 es 20% de 30,000.
+	=Verde (20%) #¡Correcto! 6,000 es 20% de 30,000.
+}
+
+::M6 U05 P2::¿Con qué mes decides cuánta deuda puedes tener? {
+	=Tu mes bajo #¡Correcto! Así aguantas los meses sin trabajo.
+	~El mejor #No es la mejor opción. Así aguantas los meses sin trabajo.
+	~El promedio #No es la mejor opción. Así aguantas los meses sin trabajo.
+}
+
+::M6 U05 P3::Te aprueban un crédito que te llevaría a 45% de tu mes bajo. ¿Qué haces? {
+	~Lo aceptas #No es la mejor opción. Estarías en zona roja.
+	~Pides otro crédito más para tener margen #No es la mejor opción. Estarías en zona roja.
+	=No lo tomas o pides menos #¡Correcto! Estarías en zona roja.
+}
+
+::M6 U06 P1::¿Qué es un faltante recurrente? {
+	~Un accidente #No es la mejor opción. Se repite y se prepara.
+	=No tener para tu vida diaria en los meses sin trabajo #¡Correcto! Se repite y se prepara.
+	~Una reparación urgente del auto que usas para ir a tus llamados #No es la mejor opción. Se repite y se prepara.
+}
+
+::M6 U06 P2::¿Qué usas primero en la sequía? {
+	~La tarjeta #No es la mejor opción. Para eso existe.
+	=Tu fondo de sequía #¡Correcto! Para eso existe.
+	~Un préstamo por app #No es la mejor opción. Para eso existe.
+}
+
+::M6 U06 P3::Se acaba tu fondo y no hay trabajo. ¿Qué haces antes de atrasarte? {
+	~Dejas de pagar sin avisar #No es la mejor opción. Negociar antes evita atrasos.
+	~Pides a un prestamista informal #No es la mejor opción. Negociar antes evita atrasos.
+	=Hablas con tus acreedores #¡Correcto! Negociar antes evita atrasos.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M7
+
+::M7 U01 P1::¿Qué hace el Buró de Crédito? {
+	~Presta dinero #No es la mejor opción. Es una base de datos.
+	~Castiga a quien no paga sus créditos #No es la mejor opción. Es una base de datos.
+	=Guarda tu historial de crédito #¡Correcto! Es una base de datos.
+}
+
+::M7 U01 P2::¿Quién decide si te dan un crédito? {
+	~El Buró #No es la mejor opción. Cada institución decide.
+	=La institución a la que se lo pides #¡Correcto! Cada institución decide.
+	~CONDUSEF, después de revisar tu historial completo #No es la mejor opción. Cada institución decide.
+}
+
+::M7 U01 P3::¿Consultar tu propio reporte baja tu score? {
+	~Sí #No es la mejor opción. Tu propia consulta no te afecta.
+	=No #¡Correcto! Tu propia consulta no te afecta.
+	~Solo la primera vez #No es la mejor opción. Tu propia consulta no te afecta.
+}
+
+::M7 U02 P1::¿Cuántas sociedades de información crediticia para personas debes revisar? {
+	=Dos\: Buró y Círculo #¡Correcto! Cada institución reporta a una u otra.
+	~Una #No es la mejor opción. Cada institución reporta a una u otra.
+	~Ninguna, si nunca has pedido un crédito #No es la mejor opción. Cada institución reporta a una u otra.
+}
+
+::M7 U02 P2::Un crédito aparece solo en Buró. ¿Qué significa? {
+	~Que es un error seguro #No es la mejor opción. No todas reportan a las dos.
+	~Que es un fraude de la institución que reportó #No es la mejor opción. No todas reportan a las dos.
+	=Que esa institución reporta a Buró #¡Correcto! No todas reportan a las dos.
+}
+
+::M7 U02 P3::¿Cada cuánto tienes un reporte sin costo en cada una? {
+	~Cada 5 años #No es la mejor opción. Es tu derecho por ley.
+	~Nunca #No es la mejor opción. Es tu derecho por ley.
+	=Cada 12 meses #¡Correcto! Es tu derecho por ley.
+}
+
+::M7 U03 P1::¿Dónde pides tu reporte sin costo? {
+	~En un anuncio de redes #No es la mejor opción. Evita robo de identidad.
+	~Con un gestor que te lo consigue más rápido #No es la mejor opción. Evita robo de identidad.
+	=En el sitio oficial de cada sociedad #¡Correcto! Evita robo de identidad.
+}
+
+::M7 U03 P2::¿Cada cuánto no tiene costo en cada sociedad? {
+	~Cada mes #No es la mejor opción. Es tu derecho por ley.
+	~Cada 5 años #No es la mejor opción. Es tu derecho por ley.
+	=Cada 12 meses #¡Correcto! Es tu derecho por ley.
+}
+
+::M7 U03 P3::¿Cómo revisas tu historial cada seis meses sin pagar? {
+	~Pidiendo dos veces en Buró #No es la mejor opción. Cada sociedad te da uno sin costo al año.
+	=Alternando Buró y Círculo #¡Correcto! Cada sociedad te da uno sin costo al año.
+	~No se puede #No es la mejor opción. Cada sociedad te da uno sin costo al año.
+}
+
+::M7 U04 P1::¿Qué parte del reporte muestra si pagaste a tiempo? {
+	~Los domicilios #No es la mejor opción. Muestra puntualidad o atraso.
+	~El RFC #No es la mejor opción. Muestra puntualidad o atraso.
+	=La forma de pago #¡Correcto! Muestra puntualidad o atraso.
+}
+
+::M7 U04 P2::¿Qué explica una clave de observación? {
+	~Tu edad #No es la mejor opción. Por ejemplo, una quita.
+	~Tu régimen fiscal ante el SAT #No es la mejor opción. Por ejemplo, una quita.
+	=Una situación especial de una cuenta #¡Correcto! Por ejemplo, una quita.
+}
+
+::M7 U04 P3::Una cuenta que liquidaste aparece con saldo. ¿Qué haces? {
+	=Reclamas con tu carta de liquidación #¡Correcto! Con tu comprobante se corrige.
+	~La pagas otra vez para que ya no aparezca #No es la mejor opción. Con tu comprobante se corrige.
+	~Nada #No es la mejor opción. Con tu comprobante se corrige.
+}
+
+::M7 U05 P1::Saldo de 9,000 en una línea de 30,000. ¿Qué uso de línea tienes? {
+	~9% #No es la mejor opción. 9,000 ÷ 30,000.
+	~70% #No es la mejor opción. 9,000 ÷ 30,000.
+	=30% #¡Correcto! 9,000 ÷ 30,000.
+}
+
+::M7 U05 P2::¿Qué acción ayuda más a tu score? {
+	~Pedir muchas tarjetas #No es la mejor opción. La puntualidad es lo más importante.
+	=Pagar a tiempo #¡Correcto! La puntualidad es lo más importante.
+	~Pagar por subirlo #No es la mejor opción. La puntualidad es lo más importante.
+}
+
+::M7 U05 P3::¿El score viene en tu reporte sin costo? {
+	=No, es un producto aparte #¡Correcto! En general tiene costo.
+	~Sí, siempre #No es la mejor opción. En general tiene costo.
+	~Solo en Círculo de Crédito, no en Buró #No es la mejor opción. En general tiene costo.
+}
+
+::M7 U06 P1::Deuda de 20 UDIS. ¿Después de cuánto se elimina? {
+	~6 años #No es la mejor opción. Hasta 25 UDIS es 1 año.
+	~Nunca #No es la mejor opción. Hasta 25 UDIS es 1 año.
+	=1 año #¡Correcto! Hasta 25 UDIS es 1 año.
+}
+
+::M7 U06 P2::Deuda de 2,000 UDIS sin juicio ni fraude. ¿Plazo? {
+	=6 años #¡Correcto! Más de 1,000 UDIS es 6 años.
+	~2 años #No es la mejor opción. Más de 1,000 UDIS es 6 años.
+	~10 años #No es la mejor opción. Más de 1,000 UDIS es 6 años.
+}
+
+::M7 U06 P3::¿Qué deudas no se eliminan por plazo? {
+	~Todas las de tarjeta de crédito, sin importar el monto #No es la mejor opción. Son las excepciones de la ley.
+	=Las de más de 400,000 UDIS, en juicio o con fraude #¡Correcto! Son las excepciones de la ley.
+	~Las de tienda #No es la mejor opción. Son las excepciones de la ley.
+}
+
+::M7 U07 P1::¿Dónde reclamas un error de tu reporte? {
+	=En la sociedad donde aparece #¡Correcto! Ahí se corrige.
+	~En el SAT #No es la mejor opción. Ahí se corrige.
+	~En redes sociales, para que la institución responda #No es la mejor opción. Ahí se corrige.
+}
+
+::M7 U07 P2::¿Qué prueba sirve si ya pagaste? {
+	~Un mensaje a un amigo #No es la mejor opción. Prueba que liquidaste.
+	~Nada #No es la mejor opción. Prueba que liquidaste.
+	=Tu carta de liquidación #¡Correcto! Prueba que liquidaste.
+}
+
+::M7 U07 P3::Tu reclamación no se resolvió. ¿A quién acudes? {
+	~Profeco #No es la mejor opción. CONDUSEF atiende a usuarios.
+	~Un despacho que limpia el Buró #No es la mejor opción. CONDUSEF atiende a usuarios.
+	=CONDUSEF #¡Correcto! CONDUSEF atiende a usuarios.
+}
+
+::M7 U08 P1::¿Qué servicio impide que consulten tu historial? {
+	=Bloqueo #¡Correcto! El bloqueo previene.
+	~Score #No es la mejor opción. El bloqueo previene.
+	~Reporte especial #No es la mejor opción. El bloqueo previene.
+}
+
+::M7 U08 P2::¿Qué servicio te avisa de consultas y créditos nuevos? {
+	=Alertas #¡Correcto! Las alertas avisan.
+	~Bloqueo #No es la mejor opción. Las alertas avisan.
+	~RECA #No es la mejor opción. Las alertas avisan.
+}
+
+::M7 U08 P3::Vas a pedir un crédito y tu historial está bloqueado. ¿Qué haces? {
+	~Pides el crédito así #No es la mejor opción. Así no te rechazan un crédito legítimo.
+	=Desbloqueas antes y vuelves a bloquear después #¡Correcto! Así no te rechazan un crédito legítimo.
+	~Cancelas el bloqueo para siempre y ya no lo usas #No es la mejor opción. Así no te rechazan un crédito legítimo.
+}
+
+::M7 U09 P1::Te prometen sacarte del Buró en 30 días por un pago. ¿Qué es? {
+	=Fraude #¡Correcto! Nadie puede borrar información correcta.
+	~Un servicio oficial #No es la mejor opción. Nadie puede borrar información correcta.
+	~Una reclamación legal #No es la mejor opción. Nadie puede borrar información correcta.
+}
+
+::M7 U09 P2::¿Quién puede eliminar información correcta antes del plazo? {
+	~Un despacho con contactos #No es la mejor opción. Solo el plazo legal.
+	=Nadie #¡Correcto! Solo el plazo legal.
+	~Un abogado caro #No es la mejor opción. Solo el plazo legal.
+}
+
+::M7 U09 P3::Ya pagaste a un despacho falso. ¿Qué haces? {
+	~Pagas un poco más para que terminen el trámite #No es la mejor opción. Así proteges tu dinero y a otras personas.
+	~Nada #No es la mejor opción. Así proteges tu dinero y a otras personas.
+	=Guardas pruebas, denuncias y reportas #¡Correcto! Así proteges tu dinero y a otras personas.
+}
+
+::M7 U10 P1::¿Qué ayuda a tu historial? {
+	~Pedir muchas tarjetas #No es la mejor opción. Constancia y saldos bajos.
+	~Pagar a un despacho que mejore tu historial #No es la mejor opción. Constancia y saldos bajos.
+	=Pagar a tiempo y mantener saldos bajos #¡Correcto! Constancia y saldos bajos.
+}
+
+::M7 U10 P2::No tienes historial. ¿Cómo empiezas? {
+	~Con un crédito grande #No es la mejor opción. Construyes historial sin riesgo grande.
+	~Con un préstamo por app que no revisa tu historial #No es la mejor opción. Construyes historial sin riesgo grande.
+	=Con un producto pequeño que pagas completo #¡Correcto! Construyes historial sin riesgo grande.
+}
+
+::M7 U10 P3::¿Cada cuánto revisas tus reportes mientras mejoras? {
+	~Cada cinco años #No es la mejor opción. Alternando Buró y Círculo, sin costo.
+	~Nunca #No es la mejor opción. Alternando Buró y Círculo, sin costo.
+	=Cada seis meses #¡Correcto! Alternando Buró y Círculo, sin costo.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M8
+
+::M8 U01 P1::Con la avalancha, ¿qué deuda pagas primero? {
+	=La de mayor costo #¡Correcto! Pagas menos intereses.
+	~La más pequeña #No es la mejor opción. Pagas menos intereses.
+	~La más antigua #No es la mejor opción. Pagas menos intereses.
+}
+
+::M8 U01 P2::¿Qué haces con las demás deudas mientras atacas una? {
+	~Dejas de pagarlas #No es la mejor opción. Así no te atrasas.
+	=Pagas al menos el mínimo #¡Correcto! Así no te atrasas.
+	~Pagas la mitad del mínimo #No es la mejor opción. Así no te atrasas.
+}
+
+::M8 U01 P3::Terminas una deuda. ¿Qué haces con lo que le pagabas? {
+	~Lo gastas #No es la mejor opción. El efecto se acelera.
+	~Pides otro crédito para seguir avanzando #No es la mejor opción. El efecto se acelera.
+	=Lo sumas a la siguiente deuda #¡Correcto! El efecto se acelera.
+}
+
+::M8 U02 P1::¿Qué opción deja una clave de observación por pagar menos? {
+	~Reestructura #No es la mejor opción. Pagas menos de lo que debías.
+	=Quita #¡Correcto! Pagas menos de lo que debías.
+	~Pago puntual #No es la mejor opción. Pagas menos de lo que debías.
+}
+
+::M8 U02 P2::¿Qué pides al terminar de pagar un acuerdo? {
+	=Carta de liquidación #¡Correcto! Prueba que terminaste.
+	~Un regalo #No es la mejor opción. Prueba que terminaste.
+	~Otra tarjeta con mejor línea de crédito #No es la mejor opción. Prueba que terminaste.
+}
+
+::M8 U02 P3::¿Cuándo tienes más opciones para negociar? {
+	~Después de un año de atraso #No es la mejor opción. Estando al corriente hay más opciones.
+	=Antes de atrasarte #¡Correcto! Estando al corriente hay más opciones.
+	~Cuando te demandan #No es la mejor opción. Estando al corriente hay más opciones.
+}
+
+::M8 U03 P1::¿Qué debe cumplir una consolidación para convenir? {
+	~Solo que el pago mensual sea menor al que tienes hoy #No es la mejor opción. Así realmente pagas menos.
+	=CAT y total menores, y no volver a usar las tarjetas #¡Correcto! Así realmente pagas menos.
+	~Plazo más largo #No es la mejor opción. Así realmente pagas menos.
+}
+
+::M8 U03 P2::36 pagos de 3,500. ¿Cuál es el total? {
+	=126,000 #¡Correcto! 36 × 3,500.
+	~3,500 #No es la mejor opción. 36 × 3,500.
+	~105,000 #No es la mejor opción. 36 × 3,500.
+}
+
+::M8 U03 P3::Te piden un pago por adelantado para consolidar. ¿Qué es? {
+	~Normal #No es la mejor opción. Nadie legítimo cobra antes.
+	=Señal de fraude #¡Correcto! Nadie legítimo cobra antes.
+	~Un seguro que protege tu consolidación #No es la mejor opción. Nadie legítimo cobra antes.
+}
+
+::M8 U04 P1::¿Qué registro de CONDUSEF sirve para verificar despachos de cobranza? {
+	~RECA #No es la mejor opción. Es el registro de despachos.
+	~SIPRES #No es la mejor opción. Es el registro de despachos.
+	=REDECO #¡Correcto! Es el registro de despachos.
+}
+
+::M8 U04 P2::¿Pueden amenazar a tu familia por tu deuda? {
+	=No #¡Correcto! Está prohibido.
+	~Sí #No es la mejor opción. Está prohibido.
+	~Solo si viven contigo #No es la mejor opción. Está prohibido.
+}
+
+::M8 U04 P3::Te piden pagar a una cuenta personal. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. Evita fraudes.
+	=Pagas solo a la institución #¡Correcto! Evita fraudes.
+	~Pagas la mitad #No es la mejor opción. Evita fraudes.
+}
+
+::M8 U05 P1::Mes bajo de 18,000 y gastos básicos de 15,000. ¿Pago base a deudas? {
+	~18,000 #No es la mejor opción. 18,000 − 15,000.
+	~15,000 #No es la mejor opción. 18,000 − 15,000.
+	=3,000 #¡Correcto! 18,000 − 15,000.
+}
+
+::M8 U05 P2::¿Cada cuánto revisas tu plan? {
+	~Cada cinco años #No es la mejor opción. Así ajustas a tiempo.
+	=Cada tres meses #¡Correcto! Así ajustas a tiempo.
+	~Nunca #No es la mejor opción. Así ajustas a tiempo.
+}
+
+::M8 U05 P3::Cobraste mucho y tu fondo está vacío. ¿Qué haces primero? {
+	~Todo a deudas #No es la mejor opción. Así evitas volver a endeudarte.
+	=Impuestos y un mes de fondo #¡Correcto! Así evitas volver a endeudarte.
+	~Todo a gastos, porque te lo mereces #No es la mejor opción. Así evitas volver a endeudarte.
+}
+
+::M8 U06 P1::Si decides apostar, ¿de dónde puede salir el dinero? {
+	~Del fondo de sequía #No es la mejor opción. Nunca del fondo ni de impuestos.
+	~De lo apartado para impuestos #No es la mejor opción. Nunca del fondo ni de impuestos.
+	=De tu gasto libre, con un tope fijo #¡Correcto! Nunca del fondo ni de impuestos.
+}
+
+::M8 U06 P2::¿Quién autoriza los casinos en línea en México? {
+	=La Secretaría de Gobernación #¡Correcto! Verifica el permiso.
+	~La CONDUSEF #No es la mejor opción. Verifica el permiso.
+	~Nadie, no necesitan permiso #No es la mejor opción. Verifica el permiso.
+}
+
+::M8 U06 P3::¿A dónde llamas si ya no puedes dejar de apostar? {
+	~A la misma app #No es la mejor opción. Sin costo, las 24 horas.
+	=A la Línea de la Vida, 800 911 2000 #¡Correcto! Sin costo, las 24 horas.
+	~A quien te preste para seguir #No es la mejor opción. Sin costo, las 24 horas.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M9
+
+::M9 U01 P1::Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? {
+	~Lo das para cancelar rápido #No es la mejor opción. La regla de oro.
+	~Lo mandas por WhatsApp al número que te llamó #No es la mejor opción. La regla de oro.
+	=Cuelgas y llamas al número oficial #¡Correcto! La regla de oro.
+}
+
+::M9 U01 P2::¿Qué gancho usa "si no pagas hoy, te bloqueamos"? {
+	~Premio, porque te ofrecen algo #No es la mejor opción. Te presiona para no pensar.
+	~Ninguno #No es la mejor opción. Te presiona para no pensar.
+	=Urgencia y miedo #¡Correcto! Te presiona para no pensar.
+}
+
+::M9 U01 P3::¿Quién te puede pedir tu NIP por teléfono? {
+	~Tu banco #No es la mejor opción. Ninguna institución lo pide.
+	~CONDUSEF #No es la mejor opción. Ninguna institución lo pide.
+	=Nadie #¡Correcto! Ninguna institución lo pide.
+}
+
+::M9 U02 P1::Te piden pagar por audicionar. ¿Qué es? {
+	~Algo normal #No es la mejor opción. Las producciones reales no cobran.
+	~Un seguro para tu audición #No es la mejor opción. Las producciones reales no cobran.
+	=Señal de falso casting #¡Correcto! Las producciones reales no cobran.
+}
+
+::M9 U02 P2::¿Cuándo entregas tu INE a una productora? {
+	=Cuando ya firmaste con una empresa verificada #¡Correcto! Tus datos valen.
+	~Desde el primer mensaje #No es la mejor opción. Tus datos valen.
+	~Por Instagram, cuando te lo pidan por mensaje directo #No es la mejor opción. Tus datos valen.
+}
+
+::M9 U02 P3::¿Cómo verificas una convocatoria? {
+	~Por el logotipo #No es la mejor opción. Los logotipos se copian.
+	~Por los "me gusta" y seguidores de la cuenta que publica #No es la mejor opción. Los logotipos se copian.
+	=En el sitio y contacto oficial de la productora #¡Correcto! Los logotipos se copian.
+}
+
+::M9 U03 P1::¿Cómo entras a tu banco de forma segura? {
+	=Desde la app oficial o escribiendo la dirección #¡Correcto! Evitas páginas falsas.
+	~Desde el enlace del mensaje #No es la mejor opción. Evitas páginas falsas.
+	~Desde un anuncio patrocinado en tus redes sociales #No es la mejor opción. Evitas páginas falsas.
+}
+
+::M9 U03 P2::¿Qué ayuda a proteger tus cuentas? {
+	~Usar la misma contraseña #No es la mejor opción. Agrega una capa de seguridad.
+	~Compartir tu código #No es la mejor opción. Agrega una capa de seguridad.
+	=Verificación en dos pasos #¡Correcto! Agrega una capa de seguridad.
+}
+
+::M9 U03 P3::Ya escribiste tus claves en una página falsa. ¿Qué haces primero? {
+	=Llamas a tu banco para bloquear #¡Correcto! Cada minuto cuenta.
+	~Esperas #No es la mejor opción. Cada minuto cuenta.
+	~Borras el mensaje y sigues con tu día #No es la mejor opción. Cada minuto cuenta.
+}
+
+::M9 U04 P1::¿Qué es una señal de robo de identidad? {
+	~Tu estado de cuenta mensual #No es la mejor opción. Alguien usó tus datos.
+	~Una promoción nueva de tu banco por correo #No es la mejor opción. Alguien usó tus datos.
+	=Un crédito en tu reporte que no pediste #¡Correcto! Alguien usó tus datos.
+}
+
+::M9 U04 P2::¿Qué escribes en una copia de tu INE? {
+	~Tu contraseña #No es la mejor opción. Limita su uso.
+	~Nada, así sirve para cualquier trámite #No es la mejor opción. Limita su uso.
+	=Para qué es y la fecha #¡Correcto! Limita su uso.
+}
+
+::M9 U04 P3::¿Qué te ayuda a probar que no pediste un crédito? {
+	~Un mensaje en redes #No es la mejor opción. Son tus pruebas.
+	~Pagarlo para demostrar tu buena fe #No es la mejor opción. Son tus pruebas.
+	=Denuncia, reclamaciones y folios #¡Correcto! Son tus pruebas.
+}
+
+::M9 U05 P1::¿Qué cuenta proteges primero? {
+	~Tu juego favorito #No es la mejor opción. Es la llave de todo.
+	~Ninguna #No es la mejor opción. Es la llave de todo.
+	=Tu correo #¡Correcto! Es la llave de todo.
+}
+
+::M9 U05 P2::Te roban tu cuenta y piden rescate. ¿Qué haces? {
+	~Pagas para recuperarla rápido #No es la mejor opción. Pagar alimenta la extorsión.
+	=Recuperas por la vía oficial y no pagas #¡Correcto! Pagar alimenta la extorsión.
+	~Abres otra cuenta y olvidas la anterior #No es la mejor opción. Pagar alimenta la extorsión.
+}
+
+::M9 U05 P3::¿Cómo das acceso a tu equipo a tus redes? {
+	=Con roles de la plataforma #¡Correcto! Así controlas y retiras accesos.
+	~Con tu contraseña #No es la mejor opción. Así controlas y retiras accesos.
+	~Con tu celular, prestándolo cuando haga falta #No es la mejor opción. Así controlas y retiras accesos.
+}
+
+::M9 U06 P1::¿Dónde verificas si una financiera está registrada? {
+	=SIPRES de CONDUSEF #¡Correcto! Es el registro oficial.
+	~Tienda de apps #No es la mejor opción. Es el registro oficial.
+	~Sus redes #No es la mejor opción. Es el registro oficial.
+}
+
+::M9 U06 P2::Una app te amenaza con publicar tus fotos si no pagas. ¿Qué haces? {
+	~Pagas para que pare #No es la mejor opción. Pagar no detiene la extorsión.
+	=No pagas y denuncias al 088 #¡Correcto! Pagar no detiene la extorsión.
+	~Pides otro préstamo para pagar #No es la mejor opción. Pagar no detiene la extorsión.
+}
+
+::M9 U06 P3::Te piden un pago antes de prestarte. ¿Qué es? {
+	~Normal #No es la mejor opción. Nadie legítimo cobra antes.
+	~Una comisión legal #No es la mejor opción. Nadie legítimo cobra antes.
+	=Señal de fraude #¡Correcto! Nadie legítimo cobra antes.
+}
+
+::M9 U07 P1::Te prometen 10% mensual garantizado. ¿Qué es? {
+	~Una buena inversión #No es la mejor opción. Nadie garantiza eso.
+	~Un Cete #No es la mejor opción. Nadie garantiza eso.
+	=Señal de fraude #¡Correcto! Nadie garantiza eso.
+}
+
+::M9 U07 P2::Te pagan bonos por invitar gente. ¿Qué es? {
+	~Inversión regulada #No es la mejor opción. Depende de que entren más personas.
+	~Ahorro #No es la mejor opción. Depende de que entren más personas.
+	=Esquema piramidal #¡Correcto! Depende de que entren más personas.
+}
+
+::M9 U07 P3::¿Dónde revisas advertencias sobre entidades no autorizadas? {
+	~Redes sociales #No es la mejor opción. La CNBV publica advertencias.
+	=CNBV #¡Correcto! La CNBV publica advertencias.
+	~El grupo de inversión #No es la mejor opción. La CNBV publica advertencias.
+}
+
+::M9 U08 P1::Te llaman para venderte paquetes de telefonía y viajes. ¿Dónde te inscribes? {
+	~En el REUS de CONDUSEF #No es la mejor opción. El REPEP cubre publicidad de bienes y servicios.
+	=En el REPEP de Profeco #¡Correcto! El REPEP cubre publicidad de bienes y servicios.
+	~En el Buró de Crédito #No es la mejor opción. El REPEP cubre publicidad de bienes y servicios.
+}
+
+::M9 U08 P2::Te llaman para cobrar una deuda que sí tienes. ¿La detiene el REPEP? {
+	=No\: tiene sus propias reglas #¡Correcto! La cobranza tiene horario y reglas propias (M8 U04).
+	~Sí, en 30 días #No es la mejor opción. La cobranza tiene horario y reglas propias (M8 U04).
+	~Sí, si también estás en el REUS #No es la mejor opción. La cobranza tiene horario y reglas propias (M8 U04).
+}
+
+::M9 U08 P3::Te llaman para "inscribirte en el REPEP" por 200 pesos. ¿Qué es? {
+	~Una cuota oficial por el trámite #No es la mejor opción. Los registros no tienen costo y los haces tú.
+	~Un servicio útil si tienes prisa #No es la mejor opción. Los registros no tienen costo y los haces tú.
+	=Un fraude\: el registro no tiene costo #¡Correcto! Los registros no tienen costo y los haces tú.
+}
+
+::M9 U09 P1::¿Qué haces primero ante cargos que no reconoces? {
+	~Esperar al estado de cuenta #No es la mejor opción. Evita más cargos.
+	~Publicarlo en redes #No es la mejor opción. Evita más cargos.
+	=Bloquear tus tarjetas #¡Correcto! Evita más cargos.
+}
+
+::M9 U09 P2::¿A qué número reportas delitos en línea? {
+	=088 #¡Correcto! Es la línea de la Guardia Nacional para delitos en línea.
+	~911 para todo #No es la mejor opción. Es la línea de la Guardia Nacional para delitos en línea.
+	~Al número del mensaje #No es la mejor opción. Es la línea de la Guardia Nacional para delitos en línea.
+}
+
+::M9 U09 P3::¿Qué guardas como evidencia? {
+	~Nada #No es la mejor opción. Sin evidencia es difícil reclamar.
+	~Solo tu contraseña, para que la revisen #No es la mejor opción. Sin evidencia es difícil reclamar.
+	=Capturas, números, estados de cuenta y folios #¡Correcto! Sin evidencia es difícil reclamar.
+}
+
+::M9 U10 P1::Tu mánager, con su voz, te pide un depósito urgente por audio. ¿Qué haces? {
+	~Depositas\: es su voz #No es la mejor opción. Confirma por otro lado.
+	=Confirmas llamando al número que ya tenías #¡Correcto! Confirma por otro lado.
+	~Pides la cuenta por mensaje #No es la mejor opción. Confirma por otro lado.
+}
+
+::M9 U10 P2::Tu contrato cede tu voz «para cualquier tecnología futura». ¿Qué pides? {
+	~Nada, así son todos #No es la mejor opción. Tu voz es tu trabajo.
+	~Más dinero, pero sin cambiar el texto #No es la mejor opción. Tu voz es tu trabajo.
+	=Limitar el uso con IA, con permiso escrito y pago aparte #¡Correcto! Tu voz es tu trabajo.
+}
+
+::M9 U10 P3::Circula un video falso tuyo recomendando una inversión. ¿Qué haces primero? {
+	=Guardas evidencia y lo reportas #¡Correcto! Evidencia, reporte y aviso.
+	~Lo ignoras #No es la mejor opción. Evidencia, reporte y aviso.
+	~Publicas tus datos para demostrar que eres tú #No es la mejor opción. Evidencia, reporte y aviso.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M10
+
+::M10 U01 P1::Gasto de 100,000, deducible de 10,000 y coaseguro de 10%. ¿Cuánto pagas tú? {
+	=19,000 #¡Correcto! 10,000 + 10% de 90,000.
+	~10,000 #No es la mejor opción. 10,000 + 10% de 90,000.
+	~1,000 #No es la mejor opción. 10,000 + 10% de 90,000.
+}
+
+::M10 U01 P2::¿Qué protege el tope de coaseguro? {
+	~Sube la prima #No es la mejor opción. Pone un máximo.
+	=Limita lo que pagas en coaseguro #¡Correcto! Pone un máximo.
+	~Elimina el deducible de tu póliza #No es la mejor opción. Pone un máximo.
+}
+
+::M10 U01 P3::¿Cuándo conviene contratar un SGMM? {
+	~Cuando ya estás enfermo #No es la mejor opción. Prima menor y menos exclusiones.
+	=Joven y sano #¡Correcto! Prima menor y menos exclusiones.
+	~Después de los 60 #No es la mejor opción. Prima menor y menos exclusiones.
+}
+
+::M10 U02 P1::¿Qué modalidad del IMSS es para personas trabajadoras independientes? {
+	~Modalidad 40 #No es la mejor opción. Es la incorporación voluntaria de independientes.
+	=Modalidad 10 #¡Correcto! Es la incorporación voluntaria de independientes.
+	~Ninguna #No es la mejor opción. Es la incorporación voluntaria de independientes.
+}
+
+::M10 U02 P2::¿Qué te da la Modalidad 10 que un SGMM no? {
+	=Incapacidades, retiro y vivienda #¡Correcto! El SGMM solo cubre gastos médicos.
+	~Hospitales privados de la red de tu aseguradora #No es la mejor opción. El SGMM solo cubre gastos médicos.
+	~Nada #No es la mejor opción. El SGMM solo cubre gastos médicos.
+}
+
+::M10 U02 P3::Registras un ingreso muy bajo. ¿Qué pasa? {
+	~Nada cambia #No es la mejor opción. Se calculan con el ingreso registrado.
+	~Te dan más beneficios porque pagas menos cuota #No es la mejor opción. Se calculan con el ingreso registrado.
+	=Pagas menos, pero tus incapacidades y pensión son menores #¡Correcto! Se calculan con el ingreso registrado.
+}
+
+::M10 U03 P1::¿Qué cubre la pérdida de ingreso por no poder trabajar? {
+	=Incapacidad del IMSS y seguros de accidentes #¡Correcto! Protegen tu ingreso.
+	~Solo el SGMM #No es la mejor opción. Protegen tu ingreso.
+	~Nada\: si no trabajas, nadie te paga #No es la mejor opción. Protegen tu ingreso.
+}
+
+::M10 U03 P2::¿Qué definición de incapacidad te conviene? {
+	=No poder hacer tu trabajo #¡Correcto! Se ajusta a tu ocupación.
+	~No poder hacer ningún trabajo #No es la mejor opción. Se ajusta a tu ocupación.
+	~Ninguna #No es la mejor opción. Se ajusta a tu ocupación.
+}
+
+::M10 U03 P3::¿Dónde verificas a una aseguradora? {
+	~SAT #No es la mejor opción. La CNSF supervisa seguros.
+	~INDAUTOR #No es la mejor opción. La CNSF supervisa seguros.
+	=CNSF #¡Correcto! La CNSF supervisa seguros.
+}
+
+::M10 U04 P1::¿Qué tipo de seguro de vida suele ser más barato? {
+	=Temporal #¡Correcto! Solo protege, sin ahorro.
+	~Con ahorro #No es la mejor opción. Solo protege, sin ahorro.
+	~Son iguales #No es la mejor opción. Solo protege, sin ahorro.
+}
+
+::M10 U04 P2::¿Dónde nombras beneficiarios? {
+	~Solo en el testamento #No es la mejor opción. Cada producto tiene su designación.
+	=En cada cuenta, seguro y AFORE #¡Correcto! Cada producto tiene su designación.
+	~Solo en tu testamento, una sola vez #No es la mejor opción. Cada producto tiene su designación.
+}
+
+::M10 U04 P3::Gasto de 10,000 al mes por 10 años. ¿Monto aproximado de seguro? {
+	=1,200,000 #¡Correcto! 10,000 × 120 meses.
+	~120,000 #No es la mejor opción. 10,000 × 120 meses.
+	~10,000 #No es la mejor opción. 10,000 × 120 meses.
+}
+
+::M10 U05 P1::¿Qué institución protege tu nombre artístico con una reserva de derechos? {
+	~SAT #No es la mejor opción. INDAUTOR otorga reservas de derechos.
+	=INDAUTOR #¡Correcto! INDAUTOR otorga reservas de derechos.
+	~CONDUSEF #No es la mejor opción. INDAUTOR otorga reservas de derechos.
+}
+
+::M10 U05 P2::¿Dónde registras una marca para tu línea de ropa? {
+	~IMSS #No es la mejor opción. El IMPI registra marcas.
+	~ANDA #No es la mejor opción. El IMPI registra marcas.
+	=IMPI #¡Correcto! El IMPI registra marcas.
+}
+
+::M10 U05 P3::¿Qué haces antes de registrar? {
+	~Imprimir playeras #No es la mejor opción. Buscar evita conflictos.
+	~Imprimir playeras y ver si el nombre funciona #No es la mejor opción. Buscar evita conflictos.
+	=Buscar si el nombre ya existe #¡Correcto! Buscar evita conflictos.
+}
+
+::M10 U06 P1::¿Ante quién haces un testamento público abierto? {
+	~El SAT #No es la mejor opción. El notario lo formaliza.
+	~Tu banco #No es la mejor opción. El notario lo formaliza.
+	=Un notario #¡Correcto! El notario lo formaliza.
+}
+
+::M10 U06 P2::¿Tus regalías se pueden heredar? {
+	~No #No es la mejor opción. Son derechos patrimoniales.
+	=Sí #¡Correcto! Son derechos patrimoniales.
+	~Solo las del extranjero #No es la mejor opción. Son derechos patrimoniales.
+}
+
+::M10 U06 P3::¿Qué NO pones en tu carpeta familiar? {
+	~Pólizas #No es la mejor opción. Evita riesgos de robo.
+	=Contraseñas completas #¡Correcto! Evita riesgos de robo.
+	~Contactos de tu contador y tu notario #No es la mejor opción. Evita riesgos de robo.
+}
+
+::M10 U07 P1::¿Qué haces antes de mover el equipo dañado? {
+	~Lo tiras para limpiar rápido #No es la mejor opción. Las fotos sostienen tu reclamo.
+	=Tomas fotos y video de los daños #¡Correcto! Las fotos sostienen tu reclamo.
+	~Lo vendes como refacción #No es la mejor opción. Las fotos sostienen tu reclamo.
+}
+
+::M10 U07 P2::Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Nadie cobra por registrarte.
+	~Una cuota de la aseguradora #No es la mejor opción. Nadie cobra por registrarte.
+	=Un fraude\: los apoyos no tienen costo #¡Correcto! Nadie cobra por registrarte.
+}
+
+::M10 U07 P3::¿El seguro de tu casa cubre siempre tu equipo de trabajo? {
+	=No siempre\: pregúntalo #¡Correcto! Muchas pólizas lo excluyen.
+	~Sí, siempre #No es la mejor opción. Muchas pólizas lo excluyen.
+	~Solo si es nuevo #No es la mejor opción. Muchas pólizas lo excluyen.
+}
+
+$CATEGORY: $course$/Tu Talento v1.3/M11
+
+::M11 U01 P1::¿Qué apartas primero de un pago gordo? {
+	=Impuestos #¡Correcto! El IVA y el ISR no son tuyos.
+	~Un viaje #No es la mejor opción. El IVA y el ISR no son tuyos.
+	~Un auto #No es la mejor opción. El IVA y el ISR no son tuyos.
+}
+
+::M11 U01 P2::Cobras 100,000 más IVA. ¿Cuánto IVA apartas? {
+	~10,000 #No es la mejor opción. 16% de 100,000.
+	=16,000 #¡Correcto! 16% de 100,000.
+	~0 #No es la mejor opción. 16% de 100,000.
+}
+
+::M11 U01 P3::¿Cuándo repartes el pago? {
+	=El mismo día que llega #¡Correcto! Antes de decidir compras.
+	~En tres meses #No es la mejor opción. Antes de decidir compras.
+	~Cuando se acabe lo que tenías en tu cuenta #No es la mejor opción. Antes de decidir compras.
+}
+
+::M11 U02 P1::¿Qué necesitas para localizar tu AFORE? {
+	~Tu RFC con contraseña del SAT #No es la mejor opción. La CURP identifica tu cuenta.
+	~Tu número de tarjeta #No es la mejor opción. La CURP identifica tu cuenta.
+	=Tu CURP #¡Correcto! La CURP identifica tu cuenta.
+}
+
+::M11 U02 P2::¿Tu AFORE se pierde al dejar un trabajo? {
+	~Sí #No es la mejor opción. Sigue siendo tuya.
+	~Solo después de 5 años #No es la mejor opción. Sigue siendo tuya.
+	=No #¡Correcto! Sigue siendo tuya.
+}
+
+::M11 U02 P3::¿Cuánto cuesta cambiarte de AFORE? {
+	=Es sin costo #¡Correcto! El cambio no tiene costo.
+	~10% del saldo #No es la mejor opción. El cambio no tiene costo.
+	~Depende del gestor #No es la mejor opción. El cambio no tiene costo.
+}
+
+::M11 U03 P1::¿Qué requisito de semanas pide la Modalidad 40? {
+	~1,000 semanas en un año #No es la mejor opción. Es el requisito de la ley.
+	~1,000 semanas cotizadas en un solo año #No es la mejor opción. Es el requisito de la ley.
+	=52 semanas en los últimos cinco años #¡Correcto! Es el requisito de la ley.
+}
+
+::M11 U03 P2::¿La Modalidad 40 da servicio médico? {
+	~Sí #No es la mejor opción. Solo suma semanas para la pensión.
+	=No #¡Correcto! Solo suma semanas para la pensión.
+	~Solo a los hijos #No es la mejor opción. Solo suma semanas para la pensión.
+}
+
+::M11 U03 P3::¿Cuál es la modalidad para quien trabaja por su cuenta hoy y quiere servicio médico? {
+	~Modalidad 40 #No es la mejor opción. Da seguridad social completa.
+	~Ninguna #No es la mejor opción. Da seguridad social completa.
+	=Modalidad 10 #¡Correcto! Da seguridad social completa.
+}
+
+::M11 U04 P1::¿En qué régimen NO aplica la deducción del PPR? {
+	~Asimilados #No es la mejor opción. RESICO no usa deducciones personales.
+	=RESICO #¡Correcto! RESICO no usa deducciones personales.
+	~Actividad Empresarial #No es la mejor opción. RESICO no usa deducciones personales.
+}
+
+::M11 U04 P2::¿Qué pasa si retiras tu PPR antes de tiempo? {
+	=Pierdes el beneficio y te retienen impuestos #¡Correcto! Es para el retiro.
+	~Nada #No es la mejor opción. Es para el retiro.
+	~Ganas más porque ya no pagas comisiones #No es la mejor opción. Es para el retiro.
+}
+
+::M11 U04 P3::¿Con qué comparas un PPR? {
+	~Con una tarjeta de crédito #No es la mejor opción. Ambos son para el retiro.
+	=Con aportaciones voluntarias a tu AFORE #¡Correcto! Ambos son para el retiro.
+	~Con un préstamo personal a plazo largo #No es la mejor opción. Ambos son para el retiro.
+}
+
+::M11 U05 P1::¿Qué es diversificar? {
+	~Poner todo en una acción #No es la mejor opción. Reduce el riesgo.
+	~Guardar efectivo #No es la mejor opción. Reduce el riesgo.
+	=Repartir en muchas inversiones #¡Correcto! Reduce el riesgo.
+}
+
+::M11 U05 P2::¿Dónde verificas una casa de bolsa? {
+	~Redes sociales #No es la mejor opción. Supervisa a los intermediarios.
+	=CNBV #¡Correcto! Supervisa a los intermediarios.
+	~Un grupo de chat #No es la mejor opción. Supervisa a los intermediarios.
+}
+
+::M11 U05 P3::Tu inversión de largo plazo baja 10%. ¿Qué haces? {
+	~Vendes todo #No es la mejor opción. Las bajas son normales en el largo plazo.
+	=Recuerdas tu plazo y no vendes por miedo #¡Correcto! Las bajas son normales en el largo plazo.
+	~Pides prestado para comprar más barato #No es la mejor opción. Las bajas son normales en el largo plazo.
+}
+
+::M11 U06 P1::Departamento de 1,500,000 con enganche de 20%. ¿Cuánto es el enganche? {
+	~150,000 #No es la mejor opción. 20% de 1,500,000.
+	~20,000 #No es la mejor opción. 20% de 1,500,000.
+	=300,000 #¡Correcto! 20% de 1,500,000.
+}
+
+::M11 U06 P2::¿Con qué mes decides si la mensualidad cabe? {
+	~Tu mejor mes #No es la mejor opción. Así aguantas la sequía.
+	=Tu mes bajo #¡Correcto! Así aguantas la sequía.
+	~El promedio de tus mejores meses #No es la mejor opción. Así aguantas la sequía.
+}
+
+::M11 U06 P3::¿Qué te ayuda a obtener un crédito hipotecario como independiente? {
+	~Muchas tarjetas #No es la mejor opción. Demuestran tus ingresos y tu forma de pagar.
+	~Pagar todo en efectivo para que no te revisen #No es la mejor opción. Demuestran tus ingresos y tu forma de pagar.
+	=Impuestos en orden y buen historial #¡Correcto! Demuestran tus ingresos y tu forma de pagar.
+}
+
+::M11 U07 P1::20 alumnos a 800 y costos de 14,000. ¿Ganancia antes de impuestos? {
+	~16,000 #No es la mejor opción. 16,000 − 14,000.
+	~30,000 #No es la mejor opción. 16,000 − 14,000.
+	=2,000 #¡Correcto! 16,000 − 14,000.
+}
+
+::M11 U07 P2::¿Qué es el punto de equilibrio? {
+	~Tu ganancia máxima #No es la mejor opción. Por debajo pierdes.
+	=Lo que necesitas vender para cubrir tus costos #¡Correcto! Por debajo pierdes.
+	~Tu precio más alto posible #No es la mejor opción. Por debajo pierdes.
+}
+
+::M11 U07 P3::¿Con qué capital inicias un negocio? {
+	~Tu fondo de sequía #No es la mejor opción. Protege tu colchón.
+	=Capital aparte, no tu fondo de sequía #¡Correcto! Protege tu colchón.
+	~Un préstamo por app que llega en minutos #No es la mejor opción. Protege tu colchón.
+}
+
+::M11 U08 P1::¿Cuál es la etapa en que enseñas, diriges o produces? {
+	~Formación #No es la mejor opción. Es la etapa de cambio.
+	~Ninguna #No es la mejor opción. Es la etapa de cambio.
+	=Transición #¡Correcto! Es la etapa de cambio.
+}
+
+::M11 U08 P2::¿Cuándo preparas tu transición? {
+	~Cuando ya no haya trabajo #No es la mejor opción. Así es una elección.
+	~Nunca #No es la mejor opción. Así es una elección.
+	=Desde ahora #¡Correcto! Así es una elección.
+}
+
+::M11 U08 P3::¿Qué haces en tu mejor momento? {
+	~Gastar todo #No es la mejor opción. Las etapas cambian.
+	~Dejar de aprender y aprovechar el momento #No es la mejor opción. Las etapas cambian.
+	=Ahorrar, proteger y diversificar #¡Correcto! Las etapas cambian.
+}
+
+::M11 U09 P1::¿Tu plan tiene que ser perfecto para empezar? {
+	~Sí #No es la mejor opción. Claro y posible basta.
+	~Solo si tienes contador #No es la mejor opción. Claro y posible basta.
+	=No #¡Correcto! Claro y posible basta.
+}
+
+::M11 U09 P2::Usar tu fondo en una sequía, ¿es un fracaso? {
+	~Sí #No es la mejor opción. El fondo cumplió su función.
+	~Solo si fue mucho #No es la mejor opción. El fondo cumplió su función.
+	=No, para eso es #¡Correcto! El fondo cumplió su función.
+}
+
+::M11 U09 P3::¿Cada cuánto revisas tu plan? {
+	~Una vez en la vida, cuando termines el curso #No es la mejor opción. Así sigue siendo útil.
+	~Nunca #No es la mejor opción. Así sigue siendo útil.
+	=Cada tres meses o cuando algo cambie #¡Correcto! Así sigue siendo útil.
+}

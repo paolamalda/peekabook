@@ -166,7 +166,7 @@ CONDUSEF · Banco de México, consultados el 29 de septiembre de 2026.
 
 #### Qué es el IPAB
 
-El IPAB protege tus depósitos si un banco quiebra. Lo hace de forma automática y gratuita, sin trámites.
+El IPAB protege tus depósitos si un banco quiebra. Lo hace de forma automática y sin costo, sin trámites.
 
 
 
@@ -627,5 +627,465 @@ Entra al sitio oficial de Cetesdirecto con tu persona de confianza y revisa los 
 ### Fuentes
 
 Cetesdirecto · Ley de Ingresos de la Federación 2026, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U05. Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses
+
+**Lo que lograrás:** Leer tu estado de cuenta, distinguir el pago mínimo del pago para no generar intereses, usar bien los meses sin intereses y saber cuándo una tarjeta te conviene.
+
+**Para empezar:** Carmen usa la tarjeta que le dio su banco y siempre paga «lo que dice el estado de cuenta»: el mínimo. Su saldo no baja desde hace un año. En esta lección verás por qué.
+
+### Lo esencial (5 minutos)
+
+#### Los tres números de tu estado de cuenta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Pago mínimo | Evita el atraso, pero cobra intereses. | La deuda casi no baja. |
+| Pago para no generar intereses | Lo que gastaste en el periodo. | No pagas intereses. |
+| Fecha límite de pago | El día para pagar. | Después hay intereses y cargos. |
+| CAT | El costo anual total. | Para comparar tarjetas. |
+
+#### Una tarjeta es un préstamo
+
+La tarjeta de crédito no es dinero extra. Si pagas el total para no generar intereses cada mes, te sirve sin costo. Si pagas el mínimo, pagas intereses altos sobre intereses.
+
+
+
+#### Meses sin intereses
+
+Los meses sin intereses convienen si el precio es el mismo que de contado y si todos tus pagos caben en tu presupuesto. Si te atrasas en uno, puedes perder el beneficio y pagar intereses.
+
+
+
+#### Un caso en un minuto
+
+Carmen dejó de usar la tarjeta, pagó más del mínimo cada mes y en ocho meses la dejó en cero. Ahora la usa solo para lo que puede pagar completo en la fecha límite.
+
+> **Idea clave:** paga el total para no generar intereses antes de la fecha límite; el mínimo solo evita el atraso.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pago evita los intereses?
+*Respuesta:* El pago para no generar intereses.
+
+2. ¿Cuándo convienen los meses sin intereses?
+*Respuesta:* Cuando el precio es igual al de contado y los pagos caben en tu presupuesto.
+
+
+#### Para recordar
+
+- La tarjeta es un préstamo.
+- Paga el total antes de la fecha límite.
+- Meses sin intereses solo si caben.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Pon candados
+
+Activa alertas por cada compra, pon un límite en la app y domicilia el pago para no generar intereses si tienes el dinero en tu cuenta (M3 U03).
+
+
+
+#### Tarjetas adicionales
+
+Si das una tarjeta adicional a un hijo o hija, todo lo que gaste se suma a tu deuda y a tu historial. Pon un límite bajo o no la des.
+
+> **Dato vigente:** el Banco de México fija reglas para el pago mínimo de las tarjetas de crédito, y tu estado de cuenta debe mostrar el pago mínimo, el pago para no generar intereses y cuánto tardarías en liquidar si pagas solo el mínimo. Consultado el 30 de septiembre de 2026 a través del Banco de México y CONDUSEF.
+
+> **Antes de actuar, verifica:** en tu estado de cuenta el pago para no generar intereses y la fecha límite de pago.
+
+
+
+#### Casos
+
+
+**Caso 1. El mínimo de Carmen**
+
+Carmen paga siempre el mínimo y su saldo no baja.
+- *¿Qué hace?* Deja de usarla y paga más del mínimo cada mes.
+
+
+**Caso 2. El refrigerador de Maru**
+
+Maru quiere un refrigerador a 12 meses sin intereses, pero ya tiene dos compras así.
+- *¿Qué hace?* Suma los tres pagos y compra solo si caben en su presupuesto.
+
+
+**Caso 3. La adicional de Elena**
+
+El hijo de Elena le pide una tarjeta adicional para sus gastos.
+- *¿Qué hace?* Si se la da, le pone un límite bajo sabiendo que la deuda es suya.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar solo el mínimo | La deuda no baja | Paga el total |
+| Pagar tarde | Intereses y cargos | Fecha límite |
+| Meses sin intereses encimados | No te alcanza | Suma pagos |
+| Adicional sin límite | Tu deuda crece | Límite bajo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen, Maru y Elena. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué pago te libra de intereses? a) El pago mínimo · b) El pago para no generar intereses · c) Cualquier pago antes de fin de mes
+2. Tu hijo gasta con una tarjeta adicional. ¿De quién es la deuda? a) Tuya · b) De tu hijo · c) Del banco
+3. ¿Cuándo conviene comprar a meses sin intereses? a) Siempre que haya oferta · b) Cuando el precio es mayor que el de contado · c) Cuando el precio es igual al de contado y el pago cabe en tu presupuesto
+**Respuestas:** 1-b: pagas lo del periodo sin intereses. 2-a: la titular responde. 3-c: si no, se vuelve carga.
+
+
+
+#### Ponlo en práctica
+
+Debes 6,000 en la tarjeta y pagas 1,000 más de lo que gastas cada mes. ¿En cuántos meses la dejas en cero, sin contar intereses?
+**Respuesta:** En 6 meses.
+
+
+
+#### A tu plan
+
+Revisa tu último estado de cuenta: anota el pago para no generar intereses, la fecha límite y el CAT.
+
+
+
+### Para saber más
+
+- **Tarjetas de crédito** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «tarjetas de crédito» y el comparador.
+- **Pago mínimo** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** «tarjetas de crédito pago mínimo».
+
+### Palabras clave
+
+- *Pago mínimo:* lo menos que puedes pagar para no atrasarte; genera intereses.
+- *Pago para no generar intereses:* lo que gastaste en el periodo; si lo pagas, no hay intereses.
+- *CAT:* costo anual total de un crédito, para comparar.
+
+### Fuentes
+
+Banco de México · CONDUSEF, consultados el 30 de septiembre de 2026.
+
+---
+
+## M5 U06. Tu historial de crédito: Buró, Círculo y ser aval
+
+**Lo que lograrás:** Saber qué es tu historial de crédito, pedir tu reporte sin costo una vez al año, reclamar errores y decidir con información antes de ser aval.
+
+**Para empezar:** A Lucía le negaron una tarjeta en la tienda «por el Buró». Nunca pidió un crédito a su nombre, pero hace años firmó como aval de su sobrino. En esta lección verás qué hay en tu historial y cómo cuidarlo.
+
+### Lo esencial (5 minutos)
+
+#### Qué es tu historial
+
+Las sociedades de información crediticia reciben de bancos y tiendas cómo pagas. Los otorgantes lo consultan para decidir si te prestan y a qué costo. Estar en el Buró no es malo: lo que importa es cómo pagas.
+
+> **Dato vigente:** puedes pedir tu reporte especial sin costo una vez cada 12 meses en Buró de Crédito y en Círculo de Crédito (Ley para Regular las Sociedades de Información Crediticia, artículo 40). Consultado el 30 de septiembre de 2026 a través de sus sitios oficiales y CONDUSEF.
+
+
+
+#### Cuida tu historial
+
+1. Pide tu reporte sin costo una vez al año en cada sociedad, en su sitio oficial.
+2. Revisa que todos los créditos sean tuyos y los saldos correctos.
+3. Si hay un error, reclama sin costo ante la sociedad.
+4. Paga a tiempo: eso es lo que más mejora tu historial.
+
+
+
+#### Ser aval
+
+Si firmas como aval, la deuda también es tuya si la otra persona no paga, y puede aparecer en tu historial. Firma solo si podrías pagarla tú.
+
+
+
+#### Un caso en un minuto
+
+Lucía pidió su reporte sin costo y encontró el crédito de su sobrino con atraso. Habló con él para ponerse al corriente y anotó en su carpeta no volver a firmar como aval sin revisar si podría pagar.
+
+> **Idea clave:** revisa tu reporte sin costo cada año, reclama errores sin costo y firma como aval solo si podrías pagar esa deuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cada cuándo puedes pedir tu reporte sin costo?
+*Respuesta:* Una vez cada 12 meses en cada sociedad.
+
+2. ¿Qué pasa si eres aval y la otra persona no paga?
+*Respuesta:* Te pueden cobrar a ti y afectar tu historial.
+
+
+#### Para recordar
+
+- Reporte sin costo cada año.
+- Reclamar no tiene costo.
+- Aval solo si podrías pagar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Nadie «limpia» tu historial
+
+Los despachos que cobran por «borrar tu Buró» son fraude: la información correcta se queda el tiempo que marca la ley, y las reclamaciones las haces tú, sin costo.
+
+
+
+#### Cuánto tiempo se queda
+
+Los atrasos se eliminan después de un plazo que depende del monto de la deuda. Consulta la guía de CONDUSEF sobre plazos.
+
+> **Antes de actuar, verifica:** que estás en el sitio oficial de Buró de Crédito o Círculo de Crédito; nadie te llama para cobrarte por tu reporte.
+
+
+
+#### Casos
+
+
+**Caso 1. El aval de Lucía**
+
+Lucía encuentra en su reporte el crédito de su sobrino con atraso.
+- *¿Qué hace?* Habla con él para ponerse al corriente y no vuelve a firmar sin revisar.
+
+
+**Caso 2. El error de Elena**
+
+En el reporte de Elena aparece una tarjeta que nunca tuvo.
+- *¿Qué hace?* Reclama sin costo ante la sociedad y revisa si hay robo de identidad (M4 U06).
+
+
+**Caso 3. El despacho de Carmen**
+
+A Carmen le ofrecen «limpiar su Buró» por 3,000 pesos.
+- *¿Qué hace?* No paga: es fraude y reclamar no tiene costo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Nunca revisar | No ves errores | Reporte anual |
+| Firmar como aval sin pensar | Deuda ajena | Solo si podrías pagar |
+| Pagar a despachos | Fraude | Reclamo sin costo |
+| Creer que estar en Buró es malo | Miedo | Importa cómo pagas |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Elena y Carmen. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuánto cuesta tu reporte especial una vez al año? a) Nada · b) Lo que cobre el despacho · c) Un mes de intereses
+2. Firmaste como aval y la otra persona no paga. ¿Qué pasa? a) Nada, no es tu crédito · b) Te pueden cobrar y afectar tu historial · c) El banco lo perdona
+3. Te ofrecen borrar tu Buró por una cuota. ¿Qué es? a) Un servicio útil · b) Un trámite de CONDUSEF · c) Un fraude
+**Respuestas:** 1-a: la ley lo hace sin costo. 2-b: el aval responde. 3-c: nadie borra información correcta.
+
+
+
+#### Ponlo en práctica
+
+Escribe los dos reportes que pedirás este año y en qué mes.
+**Respuesta:** Por ejemplo: Buró de Crédito en febrero y Círculo de Crédito en agosto.
+
+
+
+#### A tu plan
+
+Pide tu reporte sin costo en una de las dos sociedades y anota la fecha en tu carpeta.
+
+
+
+### Para saber más
+
+- **Reporte de crédito especial** (Buró de Crédito · español): https://www.burodecredito.com.mx.
+- **Reporte de crédito especial** (Círculo de Crédito · español): https://www.circulodecredito.com.mx.
+- **Historial crediticio** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «historial crediticio» y «plazos de eliminación».
+
+### Palabras clave
+
+- *Historial de crédito:* registro de cómo pagas tus créditos.
+- *Aval:* persona que se compromete a pagar si quien pidió el crédito no paga.
+
+### Fuentes
+
+Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 30 de septiembre de 2026.
+
+---
+
+## M5 U07. Aval, obligado solidario, fiador y referencia: ¿qué firmas?
+
+**Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
+
+**Para empezar:** El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento, y la hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
+
+### Lo esencial (5 minutos)
+
+#### Cada papel, una responsabilidad
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Aval | Firma el pagaré: si no pagan, te cobran a ti todo. | Aparece en tu historial. |
+| Obligado solidario | Respondes por todo el contrato como si fueras quien pidió. | Te pueden cobrar directo. |
+| Fiador | Común en rentas: pagas si la otra persona no paga. | Revisa el contrato. |
+| Referencia personal | Solo das tus datos de contacto. | No te pueden cobrar. |
+
+#### «Garante» y «garantía»
+
+«Garante» es una palabra general para quien respalda un crédito: en el contrato aparece como aval, obligado solidario o fiador. Una garantía es distinta: es un bien que puedes perder si no pagas.
+
+
+
+#### Ser referencia no es ser aval
+
+Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
+
+> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Lucía leyó el contrato: como obligada solidaria respondería por toda la renta. Le ofreció a su sobrino ayudarle a buscar un seguro de renta en lugar de firmar. Elena supo que, como referencia, no le pueden cobrar nada.
+
+> **Idea clave:** aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Te pueden cobrar si solo fuiste referencia personal?
+*Respuesta:* No. Solo diste tus datos; no firmaste ninguna obligación.
+
+2. ¿Qué pasa si firmas como aval y la otra persona no paga?
+*Respuesta:* Te pueden cobrar a ti y puede aparecer en tu historial.
+
+
+#### Para recordar
+
+- Aval, obligado solidario y fiador: pagan si el otro no paga.
+- Referencia: solo datos; no te cobran.
+- Firma solo si podrías pagar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### ¿Qué firmas?
+
+| Papel | ¿Firmas? | ¿Te pueden cobrar? | ¿Afecta tu historial? |
+|---|---|---|---|
+| Aval | Sí, el pagaré | Sí, todo | Puede aparecer |
+| Obligado solidario | Sí, el contrato | Sí, directo | Puede aparecer |
+| Fiador | Sí, el contrato | Sí, si el otro no paga | Puede aparecer |
+| Referencia personal | No | No | No |
+| Titular con tarjeta adicional | Sí, como titular | Sí, todo lo que gaste la adicional | Sí |
+
+
+
+#### Cómo decir que no
+
+Pedirte que seas aval es pedirte que te hagas cargo de una deuda. Puedes decir: «Te quiero ayudar, pero no puedo firmar una deuda que no podría pagar». Ofrece otra ayuda: acompañarle a comparar créditos o armar un presupuesto.
+
+
+
+#### Si te llaman como referencia
+
+Si un despacho te presiona para pagar una deuda de la que solo eres referencia, no pagues ni des datos de más. Pide el nombre del despacho, anota fecha y hora y preséntalo en el REDECO de la CONDUSEF.
+
+> **Antes de actuar, verifica:** qué dice el documento que te piden firmar (pagaré, contrato, solicitud) y en qué papel apareces.
+
+
+
+#### Casos
+
+
+**Caso 1. La renta del sobrino**
+
+El sobrino de Lucía le pide que firme como obligada solidaria de su renta.
+- *¿Qué hace Lucía?* Lee el contrato y firma solo si podría pagar la renta; si no, ofrece otra ayuda.
+
+
+**Caso 2. La tarjeta de la hija de Elena**
+
+A Elena le piden firmar como aval de la primera tarjeta de su hija «por si acaso».
+- *¿Qué hace?* Pregunta si basta con ser referencia; firma como aval solo si podría pagar todo.
+
+
+**Caso 3. La llamada a Maru**
+
+Un despacho llama a Maru para cobrarle la deuda de un compañero del que solo fue referencia.
+- *¿Qué hace?* No paga, pide el nombre del despacho y se queja en el REDECO.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | Deuda ajena | Lee tu papel |
+| Creer que la referencia paga | Pagas sin deber | No te obliga |
+| Aval por compromiso | Pagas tú | Solo si podrías pagar |
+| Adicional sin límite | Tu deuda crece | Límite bajo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Lucía, Elena y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? a) Sí, la mitad · b) Sí, si él no paga · c) No, solo diste tus datos
+2. ¿Quién responde por todo el contrato como si hubiera pedido el crédito? a) El obligado solidario · b) La referencia personal · c) El vendedor
+3. Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? a) Pagas para que dejen de llamar · b) No pagas y te quejas en el REDECO · c) Das los datos de tu amigo y los de su familia
+**Respuestas:** 1-c: la referencia no se obliga. 2-a: por eso le pueden cobrar directo. 3-b: no pueden cobrar a referencias.
+
+
+
+#### Ponlo en práctica
+
+Te piden ser aval de un préstamo de 30,000 a 24 meses. Si la otra persona deja de pagar a la mitad, ¿cuánto podrían cobrarte, sin contar intereses?
+**Respuesta:** Unos 15,000 pesos: lo que falte por pagar, más intereses y cargos.
+
+
+
+#### A tu plan
+
+Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda.
+
+
+
+### Para saber más
+
+- **Aval y obligado solidario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «aval» y «obligado solidario».
+- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx.
+
+### Palabras clave
+
+- *Aval:* persona que firma un pagaré y se obliga a pagar si quien pidió el crédito no paga.
+- *Obligado solidario:* persona que responde por todo el contrato como si hubiera pedido el crédito.
+- *Fiador:* persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
+- *Referencia personal:* persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
+
+### Fuentes
+
+CONDUSEF (disposiciones para despachos de cobranza y REDECO), consultados el 30 de septiembre de 2026.
 
 ---

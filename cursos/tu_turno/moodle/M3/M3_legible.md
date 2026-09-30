@@ -670,7 +670,7 @@ Hay apps y páginas de apuestas que no tienen permiso para operar en México. Si
 
 #### Pedir ayuda
 
-El juego compulsivo es un problema de salud, no de falta de voluntad. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan gratis. Contarle a alguien de confianza es el primer paso.
+El juego compulsivo es un problema de salud, no de falta de voluntad. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan sin costo. Contarle a alguien de confianza es el primer paso.
 
 > **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
 
@@ -738,7 +738,7 @@ Si apuestas, fija un tope al mes que salga de tus gustos y activa los límites d
 
 ### Para saber más
 
-- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención sin costo las 24 horas.
 - **Centros de Integración Juvenil** (español): https://www.gob.mx/salud/cij — **Qué buscar:** «juego patológico».
 - **Permisionarios de juegos y sorteos** (Secretaría de Gobernación · español): https://www.gob.mx/segob — **Qué buscar:** «juegos y sorteos permisionarios».
 

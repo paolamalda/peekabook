@@ -180,7 +180,7 @@ SBA, consultado el 29 de septiembre de 2026.
 
 #### Un caso en un minuto
 
-Lupita borró el mensaje: pedir una cuota por adelantado es señal de fraude. Buscó un CDFI de su zona que trabaja con ITIN; le ofreció un microcrédito de $3,000 con clases gratuitas de negocio.
+Lupita borró el mensaje: pedir una cuota por adelantado es señal de fraude. Buscó un CDFI de su zona que trabaja con ITIN; le ofreció un microcrédito de $3,000 con clases sin costo de negocio.
 
 > **Idea clave:** compara bancos, cooperativas y CDFI; quien te pide dinero por adelantado para darte un préstamo es un fraude.
 
@@ -430,7 +430,7 @@ Daniela tuvo un buen mes y quiere adelantar pagos de su préstamo.
 
 1. Dos créditos de igual monto y plazo: APR 12% y APR 30%. ¿Cuál es más barato? a) El de 12% · b) El de 30% · c) Cuestan igual
 2. Un adelanto de $5,000 con factor de 1.4. ¿Cuánto pagas en total? a) $5,400 · b) $1,400 · c) $7,000
-3. ¿Qué es una garantía personal? a) Que el préstamo no se cobra si el negocio cierra · b) Que pagas tú si el negocio no paga · c) Un seguro gratuito
+3. ¿Qué es una garantía personal? a) Que el préstamo no se cobra si el negocio cierra · b) Que pagas tú si el negocio no paga · c) Un seguro sin costo
 **Respuestas:** 1-a: menor APR. 2-c: $5,000 por 1.4. 3-b: respondes con tus bienes.
 
 
@@ -529,7 +529,7 @@ Haz una lista de las deudas que usaste para el negocio. Págalas primero con el 
 
 #### Crédito del negocio
 
-Una tarjeta a nombre del negocio, usada con cuidado y pagada completa, ayuda a separar gastos. Revisa tu reporte de crédito personal gratis cada año en AnnualCreditReport.com.
+Una tarjeta a nombre del negocio, usada con cuidado y pagada completa, ayuda a separar gastos. Revisa tu reporte de crédito personal sin costo cada año en AnnualCreditReport.com.
 
 
 
@@ -567,7 +567,7 @@ La comadre de Lupita le pide $400 del dinero del negocio.
 | Pagar el mínimo | Deuda crece | Paga el total |
 | Firmar sin calcular | Pagas tú | Solo si podrías |
 | Prestar del negocio | Sin efectivo | De tu sueldo, por escrito |
-| No revisar tu crédito | Errores sin corregir | Reporte gratis |
+| No revisar tu crédito | Errores sin corregir | Reporte sin costo |
 
 ### Practica
 
@@ -602,7 +602,7 @@ Haz una lista de las deudas que usaste para el negocio y un plan para pagarlas.
 ### Para saber más
 
 - **Cofirmar un préstamo** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «cofirmar un préstamo».
-- **Reporte de crédito gratis** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
+- **Reporte de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
 
 ### Palabras clave
 
@@ -612,5 +612,167 @@ Haz una lista de las deudas que usaste para el negocio y un plan para pagarlas.
 ### Fuentes
 
 FTC · CFPB, consultados el 29 de septiembre de 2026.
+
+---
+
+## M6 U05. Cofirmante, garante, usuario autorizado y referencia: ¿qué firmas?
+
+**Lo que lograrás:** Distinguir cofirmante, garante, usuario autorizado y referencia, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona o por tu negocio.
+
+**Para empezar:** El hijo de Don Ramón le pide que sea cofirmante de un auto, el banco le pide a Daniela una garantía personal para el préstamo de su LLC y a Javier lo llamó un cobrador por la deuda de un compañero. En esta lección verás qué implica cada papel.
+
+### Lo esencial (5 minutos)
+
+#### Cada papel, una responsabilidad
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cofirmante | Firmas el préstamo: si no pagan, te cobran a ti todo. | Aparece en tu reporte de crédito. |
+| Garante (garantía personal) | Pagas con tu dinero si el negocio o la persona no paga. | Común en préstamos a LLC. |
+| Usuario autorizado | Usas la tarjeta de otra persona. | En general no te cobran la deuda. |
+| Referencia | Solo das tus datos de contacto. | No te pueden cobrar. |
+
+#### La garantía personal de tu negocio
+
+Aunque tengas una LLC, muchos prestamistas piden una garantía personal. Si la firmas, la LLC ya no separa esa deuda de tu patrimonio. Léela antes de firmar y negocia un límite si puedes.
+
+
+
+#### Ser referencia no es ser cofirmante
+
+Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias. Ser referencia no te obliga a pagar nada. Si no firmaste el préstamo, esa deuda no es tuya.
+
+> **Dato vigente:** la ley federal de cobranza (FDCPA) solo permite que un cobrador contacte a otras personas para averiguar dónde localizarte, y le prohíbe decirles que tienes una deuda. Un cofirmante sí puede tener que pagar el total, más cargos por atraso o de cobranza. Consultado el 30 de septiembre de 2026 a través de la CFPB y la FTC.
+
+
+
+#### Un caso en un minuto
+
+Don Ramón leyó que como cofirmante le cobrarían todo el auto si su hijo dejaba de pagar, y que aparecería en su reporte. Prefirió ayudarle a juntar un enganche más grande. Javier supo que, como referencia, no le pueden cobrar nada.
+
+> **Idea clave:** cofirmante y garante pagan si la otra persona o el negocio no paga; una referencia solo da sus datos. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Te pueden cobrar si solo fuiste referencia?
+*Respuesta:* No. Solo diste tus datos; no firmaste el préstamo.
+
+2. ¿Qué pasa si firmas una garantía personal para tu LLC?
+*Respuesta:* Respondes con tu dinero si el negocio no paga.
+
+
+#### Para recordar
+
+- Cofirmante y garante: pagan si el otro no paga.
+- Referencia: solo datos; no te cobran.
+- Firma solo si podrías pagar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### ¿Qué firmas?
+
+| Papel | ¿Firmas? | ¿Te pueden cobrar? | ¿Afecta tu reporte? |
+|---|---|---|---|
+| Cofirmante | Sí, el préstamo | Sí, todo | Sí |
+| Co-prestatario | Sí, y también eres dueño | Sí, todo | Sí |
+| Garante (garantía personal) | Sí, la garantía | Sí, si el otro no paga | Puede aparecer |
+| Usuario autorizado | No | En general no | Puede aparecer |
+| Referencia | No | No | No |
+
+
+
+#### Cómo decir que no
+
+Pedirte que seas cofirmante es pedirte que te hagas cargo de una deuda. Puedes decir: «Te quiero ayudar, pero no puedo firmar una deuda que no podría pagar». Ofrece otra ayuda: juntar un enganche, comparar préstamos o construir historial con una tarjeta asegurada.
+
+
+
+#### Si te llama un cobrador como referencia
+
+Si un cobrador te presiona para pagar una deuda de la que solo eres referencia, no pagues ni des datos de más. Anota nombre, fecha y hora y preséntalo ante la CFPB.
+
+> **Antes de actuar, verifica:** qué dice el documento que te piden firmar y en qué papel apareces.
+
+
+
+#### Casos
+
+
+**Caso 1. El auto del hijo de Don Ramón**
+
+El hijo de Don Ramón le pide que sea cofirmante del préstamo de un auto.
+- *¿Qué hace Don Ramón?* Firma solo si podría pagar todo; si no, ofrece ayudar con el enganche.
+
+
+**Caso 2. La LLC de Daniela**
+
+El banco le pide a Daniela una garantía personal para el préstamo de su LLC.
+- *¿Qué hace?* La lee, entiende que responde con su dinero y negocia un límite antes de firmar.
+
+
+**Caso 3. La llamada a Javier**
+
+Un cobrador llama a Javier para cobrarle la deuda de un compañero del que solo fue referencia.
+- *¿Qué hace?* No paga, anota los datos y se queja ante la CFPB.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | Deuda ajena | Lee tu papel |
+| Creer que la LLC te protege siempre | Respondes con tu dinero | Revisa la garantía |
+| Creer que la referencia paga | Pagas sin deber | No te obliga |
+| Cofirmar por compromiso | Pagas tú | Solo si podrías pagar |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Ramón, Daniela y Javier. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Diste tu nombre y teléfono como referencia para el préstamo de un amigo. ¿Te pueden cobrar? a) Sí, la mitad · b) Sí, si él no paga · c) No, solo diste tus datos
+2. ¿Quién tiene que pagar todo si quien pidió el préstamo no paga? a) El cofirmante · b) La referencia · c) El vendedor
+3. Un cobrador te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? a) Pagas para que dejen de llamar · b) No pagas y te quejas ante la CFPB · c) Das los datos de la familia de tu amigo
+**Respuestas:** 1-c: la referencia no se obliga. 2-a: firmó el préstamo. 3-b: no pueden cobrarte.
+
+
+
+#### Ponlo en práctica
+
+Te piden ser cofirmante de un préstamo de $12,000. Si la otra persona deja de pagar a la mitad, ¿cuánto podrían cobrarte, sin contar intereses?
+**Respuesta:** Unos $6,000: lo que falte por pagar, más cargos por atraso o de cobranza.
+
+
+
+#### A tu plan
+
+Antes de firmar por alguien o por tu negocio, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda.
+
+
+
+### Para saber más
+
+- **Ser cofirmante** (FTC · español e inglés): https://consumidor.ftc.gov — **Qué buscar:** «cosignatario» o «cofirmar un préstamo».
+- **Cobro de deudas y quejas** (CFPB · español e inglés): https://www.consumerfinance.gov/es — **Qué buscar:** «cobro de deudas» y «presentar una queja».
+
+### Palabras clave
+
+- *Cofirmante:* persona que firma el préstamo y se obliga a pagarlo si quien lo pidió no paga.
+- *Garantía personal:* compromiso de pagar con tu dinero y tus bienes si el negocio no paga.
+- *Usuario autorizado:* persona que usa la tarjeta de otra; en general no responde por la deuda.
+- *Referencia:* persona que solo da sus datos; no se obliga a pagar.
+
+### Fuentes
+
+CFPB · FTC, consultados el 30 de septiembre de 2026.
 
 ---

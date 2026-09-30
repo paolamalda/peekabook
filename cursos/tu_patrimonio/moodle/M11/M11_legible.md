@@ -347,7 +347,13 @@ Anota cuándo revisas cada cosa: tu carpeta en septiembre, tu reporte de crédit
 
 Carmen llenó su plan en una tarde. Lo guardó al frente de su carpeta y le dio una copia a su persona de confianza, sin números de cuenta. Cada septiembre lo actualiza.
 
-> **Idea clave:** tu plan de una página resume tu carpeta y te dice qué revisar cada año.
+
+
+#### Tu compromiso
+
+Escribe una meta con nombre («mi fondo de un año de gastos»), cuánto apartarás y cada cuándo. Cuéntaselo a tu persona de confianza para que te pregunte cómo vas. Programa el ahorro automático el día que recibes tu dinero y un recordatorio mensual con el nombre de tu meta.
+
+> **Idea clave:** tu plan de una página resume tu carpeta y te dice qué revisar cada año; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 
 
@@ -381,6 +387,7 @@ Carmen llenó su plan en una tarde. Lo guardó al frente de su carpeta y le dio 
 | Retiro | | | |
 | Salud y seguros | | | |
 | Familia y testamento | | | |
+| Mi compromiso: meta, monto, fecha y testigo | | | |
 
 
 
@@ -393,6 +400,12 @@ Carmen llenó su plan en una tarde. Lo guardó al frente de su carpeta y le dio 
 | Septiembre | Carpeta, testamento y plan |
 | Antes de renovar | Seguros |
 | Una vez al año | Reporte de crédito y beneficiarios |
+
+
+
+#### Por qué funciona
+
+Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual ayuda a ahorrar más. El ahorro automático también ayuda: no tienes que decidir cada mes.
 
 
 
@@ -466,7 +479,7 @@ Llena tu plan de una página, ponlo al frente de tu carpeta y agenda su revisió
 
 ### Para saber más
 
-- **Educación financiera** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** herramientas de planeación.
+- **Guías y herramientas** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** herramientas de planeación.
 
 ### Palabras clave
 
@@ -474,6 +487,6 @@ Llena tu plan de una página, ponlo al frente de tu carpeta y agenda su revisió
 
 ### Fuentes
 
-CONDUSEF, consultado el 29 de septiembre de 2026.
+CONDUSEF, consultado el 29 de septiembre de 2026 · Innovations for Poverty Action y J-PAL, «Nudges para una óptima salud financiera».
 
 ---

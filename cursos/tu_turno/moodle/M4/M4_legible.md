@@ -300,3 +300,146 @@ Si participas en una tanda, propón escribir las reglas; y abre una cuenta apart
 CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ---
+
+## M4 U03. Tu casa: Infonavit y el crédito de 100 puntos
+
+**Lo que lograrás:** Conocer cómo revisar tus puntos y tu ahorro de vivienda en Infonavit, las nuevas reglas para salarios bajos y cómo evitar coyotes.
+
+**Para empezar:** Karla cotiza en el IMSS desde hace dos años. Siempre creyó que «nunca juntaría los puntos» para una casa. Una compañera le dijo que las reglas cambiaron. En esta lección verás qué revisar.
+
+### Lo esencial (5 minutos)
+
+#### Tu ahorro de vivienda
+
+Si tu empresa te da de alta en el IMSS, también aporta el 5% de tu salario a tu subcuenta de vivienda en Infonavit. Ese dinero sirve para un crédito de vivienda y, si nunca lo usas, se entrega al retirarte.
+
+
+
+#### Qué revisar en Mi Cuenta Infonavit
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Tus puntos | Precalificación para un crédito. | Con tu NSS. |
+| Tu ahorro | Saldo de la subcuenta de vivienda. | Crece cada bimestre. |
+| Cuánto te prestan | Según tu salario y edad. | Simulador oficial. |
+| Coyotes | Cobran por «ayudarte». | El trámite no tiene costo. |
+
+> **Dato vigente:** con el modelo de 100 puntos de Infonavit, quienes ganan entre uno y dos salarios mínimos, tienen al menos seis meses seguidos cotizando y no tienen vivienda propia pueden precalificar con 100 puntos en lugar de 1,080; la tasa es fija y va de 3.69% a 10.45% anual según el salario. Consultado el 29 de septiembre de 2026 a través de Infonavit y medios especializados.
+
+#### Un caso en un minuto
+
+Karla entró a Mi Cuenta Infonavit con su NSS. Tiene más de seis meses cotizando, gana menos de dos salarios mínimos y no tiene casa: ya precalifica. Usará el simulador para ver cuánto le prestan y cuánto le descontarían de su quincena antes de decidir.
+
+> **Idea clave:** revisa tus puntos y tu ahorro en Mi Cuenta Infonavit; el trámite no tiene costo y las reglas cambiaron para salarios bajos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuánto aporta tu empresa a tu subcuenta de vivienda?
+*Respuesta:* El 5% de tu salario.
+
+2. ¿Qué pasa con tu ahorro de vivienda si nunca pides crédito?
+*Respuesta:* Se entrega al retirarte.
+
+
+#### Para recordar
+
+- 5% de tu salario para vivienda.
+- Mi Cuenta Infonavit con tu NSS.
+- El trámite no tiene costo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Antes de firmar
+
+Revisa cuánto te descontarán de la quincena: con un descuento alto puede no alcanzarte para lo demás (M1). Pregunta el costo total, la tasa, el plazo y qué seguros incluye el crédito. Visita la zona y la vivienda antes de decidir: transporte al trabajo, servicios y seguridad.
+
+
+
+#### Coyotes y fraudes
+
+Hay personas que cobran por «sacarte los puntos» o prometen casas que no existen. Los trámites se hacen en Mi Cuenta Infonavit o en sus oficinas, sin costo. Nunca entregues dinero ni tu contraseña a un intermediario.
+
+> **Antes de actuar, verifica:** tus requisitos y montos en Mi Cuenta Infonavit; las reglas pueden cambiar.
+
+
+
+#### Casos
+
+
+**Caso 1. Los puntos de Karla**
+
+Karla cree que nunca podrá tener un crédito de vivienda.
+- *¿Qué hace?* Revisa sus puntos y requisitos en Mi Cuenta Infonavit.
+
+
+**Caso 2. El coyote de Beto**
+
+Alguien le ofrece a Beto «adelantarle» su crédito por 3,000 pesos.
+- *¿Qué hace?* No paga: el trámite no tiene costo y se hace directo en Infonavit.
+
+
+**Caso 3. El descuento de Don Chuy**
+
+A Don Chuy le prestan para una casa, pero el descuento sería de 30% de su quincena.
+- *¿Qué revisa?* Si su presupuesto aguanta ese descuento antes de firmar.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No revisar tus puntos | Pierdes la opción | Mi Cuenta Infonavit |
+| Pagar coyotes | Fraude | Gratis |
+| Firmar sin ver el descuento | No te alcanza | Revisa tu presupuesto |
+| No visitar la casa | Mala ubicación | Visítala |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Karla, Beto y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde revisas tus puntos y tu ahorro de vivienda? a) Con un gestor · b) En tu banco · c) En Mi Cuenta Infonavit con tu NSS
+2. Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? a) No pagas: el trámite no tiene costo · b) Pagas la mitad · c) Le das tu contraseña para agilizar
+3. ¿Qué revisas antes de firmar un crédito de vivienda? a) Solo el color de la casa · b) Cuánto te descontarán de la quincena y si te alcanza · c) Lo que opine el vendedor
+**Respuestas:** 1-c: sitio oficial. 2-a: sin intermediarios. 3-b: tu presupuesto manda.
+
+
+
+#### Ponlo en práctica
+
+Ganas 9,600 al mes. ¿Cuánto aporta tu empresa a tu subcuenta de vivienda al mes y al año?
+**Respuesta:** 5% de 9,600: 480 al mes; 5,760 al año.
+
+
+
+#### A tu plan
+
+Entra a Mi Cuenta Infonavit con tu NSS y anota tus puntos y el saldo de tu subcuenta de vivienda.
+
+
+
+### Para saber más
+
+- **Mi Cuenta Infonavit** (Infonavit · español): https://micuenta.infonavit.org.mx — **Qué buscar:** «precalificación» y «saldo de vivienda».
+- **Infonavit** (español): https://portalmx.infonavit.org.mx — **Qué buscar:** «crédito Infonavit» y «evita fraudes».
+
+### Palabras clave
+
+- *Subcuenta de vivienda:* ahorro en Infonavit que tu empresa deposita con el 5% de tu salario.
+- *Precalificación:* puntos que indican si ya puedes pedir un crédito de vivienda.
+- *Coyote:* intermediario que cobra por trámites que no tienen costo.
+
+### Fuentes
+
+Infonavit, consultado el 29 de septiembre de 2026.
+
+---

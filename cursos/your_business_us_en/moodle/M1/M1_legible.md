@@ -28,7 +28,7 @@ Lupita thought she made $4,000. She actually keeps $1,400, and her taxes also co
 | Type | Description | What it means for you |
 |---|---|---|
 | You make money | Sales are higher than all costs. | You can pay yourself and save. |
-| You break even | Sales equal costs. | You work for free. |
+| You break even | Sales equal costs. | You work without pay. |
 | You lose money | Costs are higher than sales. | You pay out of pocket. |
 
 #### A case in one minute
@@ -45,7 +45,7 @@ Lupita kept every receipt for a month. She found that delivery gas and corn husk
 *Answer:* Sales are what you charge; profit is what's left after paying all costs.
 
 2. If you sell $2,000 and spend $2,000, how much do you earn?
-*Answer:* Nothing: you break even and work for free.
+*Answer:* Nothing: you break even and work without pay.
 
 
 #### Remember
@@ -118,7 +118,7 @@ Javier charges well for each painting job, but spends many unpaid hours driving 
 
 1. You sell $3,000 and your costs are $2,200. How much do you earn? a) $800 · b) $3,000 · c) $5,200
 2. What is profit? a) Everything you charge customers in the month, in cash and through apps · b) What's left after paying all costs · c) What's in your account at closing
-3. Your sales and costs are the same. What happens? a) You earn a little, but the business does leave you something · b) You lose money every month · c) You break even: you work for free
+3. Your sales and costs are the same. What happens? a) You earn a little, but the business does leave you something · b) You lose money every month · c) You break even: you work without pay
 **Answers:** 1-a: $3,000 minus $2,200. 2-b: sales minus costs. 3-c: nothing is left for you.
 
 
@@ -563,7 +563,7 @@ Javier drives to give estimates every day and doesn't write anything down.
 
 **Case 3. Don Ramón's app**
 
-A free app asks Don Ramón for his Social Security number and his bank password to "do his books."
+A no-cost app asks Don Ramón for his Social Security number and his bank password to "do his books."
 - *What does he do?* He doesn't give his password and chooses a trusted tool or a spreadsheet.
 
 
@@ -588,7 +588,7 @@ A free app asks Don Ramón for his Social Security number and his bank password 
 
 1. What's the minimum you write down every day? a) Only the big sales · b) Whatever you remember on Sunday · c) Date, sales and expenses
 2. What do you need to deduct miles? a) A log of each trip · b) Only the month's gas receipt · c) Nothing, it's calculated automatically
-3. An app asks for your bank password. What do you do? a) Give it if the app is free and has good reviews · b) Don't give it and choose another tool · c) Give only your Social Security number
+3. An app asks for your bank password. What do you do? a) Give it if the app costs nothing and has good reviews · b) Don't give it and choose another tool · c) Give only your Social Security number
 **Answers:** 1-c: that's enough. 2-a: no log, no deduction. 3-b: it asks for too much.
 
 
@@ -682,7 +682,7 @@ Gambling winnings are income for the IRS even if you don't get a form. One more 
 
 #### Getting help
 
-Compulsive gambling is a health problem. The national helpline 1-800-GAMBLER is free and available 24 hours a day. California also offers free treatment for residents.
+Compulsive gambling is a health problem. The national helpline 1-800-GAMBLER costs nothing and available 24 hours a day. California also offers no-cost treatment for residents.
 
 > **Before you act, check:** your state's rules; what's legal in one state may not be in another, and unlicensed sites don't protect you if they don't pay.
 
@@ -699,7 +699,7 @@ Javier lost money betting and wants to use $300 of his tax money.
 
 **Case 2. Daniela's sweepstakes casino**
 
-A "sweepstakes casino" app offers Daniela free coins if she buys a package.
+A "sweepstakes casino" app offers Daniela bonus coins if she buys a package.
 - *What does she check?* That they've been banned in California since 2026 and that the money doesn't come from the business.
 
 
@@ -731,7 +731,7 @@ Don Ramón's helper asks for an advance to bet on the game.
 1. Where can betting money come from, if you choose to bet? a) The business account · b) Your salary, with a cap · c) What you set aside for taxes
 2. What about gambling winnings? a) They are income you report · b) They are never taxed · c) They're only reported above $10,000
 3. Where do you get help with gambling in the U.S.? a) In the betting app itself · b) At 1-800-GAMBLER · c) From whoever lends you money to bet
-**Answers:** 1-b: never from the business. 2-a: all income is reported. 3-b: free, 24 hours a day.
+**Answers:** 1-b: never from the business. 2-a: all income is reported. 3-b: at no cost, 24 hours a day.
 
 
 
@@ -761,5 +761,154 @@ Separate your tax account and, if you bet, set a cap that comes only from your s
 ### Sources
 
 IRS · National Council on Problem Gambling · California AB 831 (2025), accessed September 29, 2026.
+
+---
+
+## M1 U06. Your business, your decisions: your money in your name
+
+**What you will be able to do:** Recognize your skills as the base of your business, keep accounts and records in your name, decide about your income and recognize when someone controls your money.
+
+**To start:** Lupita cooks every day, but her partner collects the orders in his own app and decides how the money is spent. When she wanted to buy an industrial pot, he said there was no money. In this lesson you'll see how to keep your decisions and your money in your name.
+
+### The essentials (5 minutes)
+
+#### What you know how to do is capital too
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Productive | Cooking, selling, repairing, sewing. | What you offer. |
+| Social | Listening, persuading, teaching. | How you serve. |
+| Financial | Running tandas, finding deals, paying on time. | How you manage. |
+| Organizing | Planning parties, finding support. | How you operate. |
+
+#### Your money in your name
+
+1. A business account in your name that you manage; many banks and credit unions accept an ITIN (M1 U02).
+2. Your payment apps linked to your account, not someone else's.
+3. Your records and your fixed salary, decided by you (M1 U03 and M1 U04).
+4. Written agreements if family members work with you (M8 U01).
+
+
+
+#### When someone controls your money
+
+If someone takes your income, keeps you from working, demands an account of every dollar or uses your name to borrow, it is economic abuse. It isn't a money-management problem: it's abuse, and help is available in English and Spanish, regardless of immigration status.
+
+
+
+#### A case in one minute
+
+Lupita opened a business account in her name at a credit union with her ITIN and linked her payment app to it. Her records showed the pot would pay for itself in three months. Now she decides the business purchases, and household spending is agreed together.
+
+> **Key idea:** your skills are your business's capital; keep your account, your payments and your decisions in your name, and if someone controls your money, get help.
+
+
+
+#### Check your understanding
+
+1. Whose name should your business account be in?
+*Answer:* Yours, and you manage it.
+
+2. What is economic abuse?
+*Answer:* When someone controls, withholds or uses your money to dominate you.
+
+
+#### Remember
+
+- Your skills count.
+- Account and payments in your name.
+- Controlled money = get help.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Talking about money without fighting
+
+Agree on what belongs to the business and what belongs to the household, with numbers in hand. Your fixed salary (M1 U03) is what you bring home; the rest belongs to the business.
+
+
+
+#### Where to get help
+
+The National Domestic Violence Hotline costs nothing, 24 hours a day, in English and Spanish: call 1-800-799-7233 or text START to 88788. In an emergency, call 911.
+
+> **Before you act, check:** that your account, your EIN or ITIN and your contracts are in your name and that no one else has your passwords.
+
+
+
+#### Cases
+
+
+**Case 1. Lupita's app**
+
+Lupita's partner collects the orders in his own app and decides everything.
+- *What does she do?* She opens a business account in her name and links her payments to it.
+
+
+**Case 2. Daniela's list**
+
+Daniela thinks she has nothing to offer besides selling jewelry.
+- *What does she do?* She lists her skills and finds new services.
+
+
+**Case 3. The loan in Javier's name**
+
+Javier's brother asks for his Social Security number or EIN to get a loan "for the business."
+- *What does he do?* He doesn't lend his numbers: the debt would be his.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Payments in someone else's name | You don't decide | In your name |
+| Not valuing what you know | You miss options | Skills list |
+| Lending your numbers | Your debt | No |
+| Staying quiet about abuse | It gets worse | Get help |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Lupita, Daniela and Javier. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. Whose name do you link your business payments to? a) Your partner's, who knows more · b) Yours · c) A trusted customer's
+2. Someone takes what you earn and keeps you from working. What is it? a) Economic abuse · b) A money-management problem · c) Normal between partners
+3. A relative asks for your EIN to get a loan. What happens if you lend it? a) Nothing · b) The debt is your relative's · c) The debt and the history are yours
+**Answers:** 1-b: you decide. 2-a: no-cost help is available. 3-c: your name is on the line.
+
+
+
+#### Put it into practice
+
+An industrial pot costs $450 and saves you $150 a month. In how many months does it pay for itself?
+**Answer:** In 3 months.
+
+
+
+#### Your plan
+
+List your skills and check that your business account and payments are in your name.
+
+
+
+### Learn more
+
+- **National Domestic Violence Hotline** (English and Spanish): 1-800-799-7233 · https://www.thehotline.org.
+- **Economic abuse** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to look for: "economic abuse".
+
+### Key words
+
+- *Economic abuse:* when another person controls, withholds or uses your money or property to dominate you.
+- *Economic autonomy:* being able to earn, keep and decide about your own money.
+
+### Sources
+
+National Domestic Violence Hotline · CFPB, accessed September 30, 2026.
 
 ---

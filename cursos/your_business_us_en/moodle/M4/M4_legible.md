@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Compare ways to get paid by cost, speed, protection and security, and choose the ones that suit your business.
 
-**To start:** Don Ramón's customers want to pay by card and with apps. He's offered a "free" card reader, but he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare.
+**To start:** Don Ramón's customers want to pay by card and with apps. He's offered a "at no cost" card reader, but he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare.
 
 ### The essentials (5 minutes)
 
@@ -92,7 +92,7 @@ Many payment apps prohibit using personal accounts for business payments and may
 
 **Case 1. Don Ramón's reader**
 
-Don Ramón is offered a "free" reader with a two-year contract.
+Don Ramón is offered a "at no cost" reader with a two-year contract.
 - *What does he do?* He calculates the total cost with his sales and reads the contract before signing.
 
 

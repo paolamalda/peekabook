@@ -9,12 +9,12 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 | Actividad | Cuántas | Finalización |
 |---|---|---|
 | Libro "Lecciones del Módulo N" | 1 por módulo (11) | Ver |
-| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (54) | Recibir calificación |
+| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (59) | Recibir calificación |
 | Cuestionario "Autoevaluación del Módulo N" | 1 por módulo (11) | Calificación aprobatoria de 70% |
 
 **Configuración de cada actividad H5P:** sin botón de descarga, con botón de derechos de autor e incrustar desactivado; seguimiento de intentos con "Calificación más alta"; finalización "El estudiante debe recibir una calificación".
 
-**Las autoevaluaciones:** usan el banco de 162 preguntas con tres opciones y retroalimentación, en las categorías *Tu Patrimonio/M1* a *M11*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
+**Las autoevaluaciones:** usan el banco de 177 preguntas con tres opciones y retroalimentación, en las categorías *Tu Patrimonio v1.2/M1* a *M11*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
 
 ## 2. Level Up: niveles y puntos
 
@@ -25,14 +25,14 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 3. **Por participar en el foro:** 5 puntos, con el evento "Mensaje creado" (`\mod_forum\event\post_created`).
 4. Deja activada la protección contra trampas.
 
-Completar todo el curso da unos 1,900 puntos:
+Completar todo el curso da unos 2,025 puntos:
 
 | Actividades | Cuántas | Puntos |
 |---|---|---|
-| Actividades H5P | 54 | 1,350 |
+| Actividades H5P | 59 | 1,475 |
 | Libros | 11 | 275 |
 | Autoevaluaciones | 11 | 275 |
-| **Total** | 76 | **1,900** |
+| **Total** | 81 | **2,025** |
 
 **Niveles** (6 niveles, sin algoritmo automático):
 
@@ -49,18 +49,18 @@ Completar todo el curso da unos 1,900 puntos:
 
 ## 3. Insignias
 
-*Administración del curso > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca.
+*Administración del curso > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca. Los nombres llevan el curso para que no se repitan en la plataforma: úsalos tal cual.
 
 | Imagen | Insignia | Criterio (finalización de actividad, con aprobación) | Descripción |
 |---|---|---|---|
-| 01_mi_mapa_en_orden.png | Mi mapa en orden | Autoevaluaciones de los Módulos 1 y 2 | Sabes qué tienes, dónde está y cómo verificar cualquier institución. |
-| 02_celular_con_candado.png | Celular con candado | Autoevaluación del Módulo 3 | Tu banca en el celular tiene alertas, límite de transferencias y una persona de confianza. |
-| 03_nadie_me_engana.png | Nadie me engaña | Autoevaluación del Módulo 4 | Reconoces los fraudes y tienes tu plan de respuesta. |
-| 04_ahorro_protegido.png | Ahorro protegido | Autoevaluaciones de los Módulos 5 y 6 | Tu ahorro está protegido y entiendes tus inversiones y a tu asesor. |
-| 05_retiro_claro.png | Retiro claro | Autoevaluación del Módulo 7 | Conoces tus pensiones y calculaste tu retiro. |
-| 06_salud_asegurada.png | Salud asegurada | Autoevaluaciones de los Módulos 8 y 9 | Entiendes tu seguro médico, tus retenciones y tus deducciones. |
-| 07_familia_en_orden.png | Familia en orden | Autoevaluación del Módulo 10 | Tu testamento, tus beneficiarios y tus documentos están en orden. |
-| 08_plan_completo.png | Plan completo | Finalización del curso | Concluiste los once módulos del programa. |
+| 01_mi_mapa_en_orden.png | Mi mapa en orden · Tu Patrimonio | Autoevaluaciones de los Módulos 1 y 2 | Sabes qué tienes, dónde está y cómo verificar cualquier institución. |
+| 02_celular_con_candado.png | Celular con candado · Tu Patrimonio | Autoevaluación del Módulo 3 | Tu banca en el celular tiene alertas, límite de transferencias y una persona de confianza. |
+| 03_nadie_me_engana.png | Nadie me engaña · Tu Patrimonio | Autoevaluación del Módulo 4 | Reconoces los fraudes y tienes tu plan de respuesta. |
+| 04_ahorro_protegido.png | Ahorro protegido · Tu Patrimonio | Autoevaluaciones de los Módulos 5 y 6 | Tu ahorro está protegido y entiendes tus inversiones y a tu asesor. |
+| 05_retiro_claro.png | Retiro claro · Tu Patrimonio | Autoevaluación del Módulo 7 | Conoces tus pensiones y calculaste tu retiro. |
+| 06_salud_asegurada.png | Salud asegurada · Tu Patrimonio | Autoevaluaciones de los Módulos 8 y 9 | Entiendes tu seguro médico, tus retenciones y tus deducciones. |
+| 07_familia_en_orden.png | Familia en orden · Tu Patrimonio | Autoevaluación del Módulo 10 | Tu testamento, tus beneficiarios y tus documentos están en orden. |
+| 08_plan_completo.png | Plan completo · Tu Patrimonio | Finalización del curso | Concluiste los once módulos del programa. |
 
 Al terminar, **activa** cada insignia.
 
@@ -70,20 +70,23 @@ Al terminar, **activa** cada insignia.
 
 ## 5. Constancia de conclusión (Certificado personalizado)
 
-1. En la sección "Evaluación y constancia", agrega **Certificado personalizado**: nombre "Constancia de conclusión", tamaño A4 horizontal (297 × 210 mm).
-2. **Restringir acceso:** una condición de "Finalización de actividad" por cada una de las 11 autoevaluaciones, "debe estar completa con calificación aprobatoria".
-3. **Editar certificado:**
+1. En la sección "Evaluación y constancia", agrega **Certificado personalizado** con la **plantilla estándar de la plataforma** (sin imagen de fondo): nombre "Constancia de conclusión".
+2. **Restringir acceso:** una condición de "Finalización de actividad" por cada una de las 11 autoevaluaciones, "debe estar completa con calificación aprobatoria", y la **Encuesta final** enviada.
+3. En la plantilla cambia solo estos datos (también están en `6_constancia/constancia.md`):
 
-   | Elemento | Posición aproximada (mm) | Formato |
-   |---|---|---|
-   | Imagen de fondo | Cubre la página | `6_certificado/certificado_fondo.png` |
-   | Nombre del estudiante | X 0, Y 74, ancho 297, centrado | Negrita, 32 pt, color #0B1220 |
-   | Fecha (finalización del curso) | X 17, Y 170, ancho 70, centrado | 12 pt, color #E4007C |
-   | Código | X 210, Y 170, ancho 70, centrado | 12 pt, color #E4007C |
+   | Campo | Texto |
+   |---|---|
+   | Título del curso | Tu Patrimonio, Tu Tranquilidad, Tu Futuro |
+   | Línea | por concluir el programa de bienestar financiero Tu Patrimonio, Tu Tranquilidad, Tu Futuro |
+   | Tema 1 | Tu dinero y el sistema |
+   | Tema 2 | Seguridad y fraudes |
+   | Tema 3 | Ahorro e inversión |
+   | Tema 4 | Retiro y salud |
+   | Tema 5 | Familia y plan |
 
-4. Revisa la **Vista previa en PDF** y compárala con `certificado_muestra.png`. Activa "Verificar certificado".
+4. Revisa la **Vista previa en PDF** y activa "Verificar certificado".
 
-Si Certificado personalizado no está instalado, la insignia **Plan completo** funciona como constancia digital.
+Si Certificado personalizado no está instalado, la insignia **Plan completo · Tu Patrimonio** funciona como constancia digital.
 
 ## 6. Qué no hacer
 

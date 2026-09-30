@@ -526,7 +526,7 @@ Your social media account and your domain are not registered trademarks. They he
 
 #### If someone claims your name
 
-If someone says your name is their trademark, check the USPTO before replying. If their registration is real and covers your products, changing your name is usually the wisest move. Some universities have free intellectual property law clinics.
+If someone says your name is their trademark, check the USPTO before replying. If their registration is real and covers your products, changing your name is usually the wisest move. Some universities have no-cost intellectual property law clinics.
 
 
 
@@ -609,7 +609,7 @@ USPTO · California Secretary of State, accessed September 29, 2026.
 
 ## M7 U05. Identity theft and unwanted calls
 
-**What you will be able to do:** Protect your identity with a credit freeze, fraud alerts and your free reports, know what to do if someone uses your data and register your number so you don't get sales calls.
+**What you will be able to do:** Protect your identity with a credit freeze, fraud alerts and your no-cost reports, know what to do if someone uses your data and register your number so you don't get sales calls.
 
 **To start:** Don Ramón was turned down for credit because his report showed a card he never opened. He also gets ten calls a day offering "loans for his food truck." In this lesson you'll see how to stop both.
 
@@ -630,19 +630,19 @@ Identity theft happens when someone uses your SSN or ITIN, your name or your doc
 | Your credit reports | Free every week at AnnualCreditReport.com. | Check what you don't recognize. |
 | IRS IP PIN | Nobody files with your number (M5 U04). | Free. |
 
-> **Current fact:** freezing and unfreezing your credit is free at Equifax, Experian and TransUnion (you must ask all three); an initial fraud alert is free, lasts one year and you only need to ask one bureau; and you can see your reports free every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
+> **Current fact:** freezing and unfreezing your credit costs nothing at Equifax, Experian and TransUnion (you must ask all three); an initial fraud alert costs nothing, lasts one year and you only need to ask one bureau; and you can see your reports no-cost every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
 
 #### Stop the calls
 
-Register your number on the National Do Not Call Registry at donotcall.gov. It's free and never expires. After you register, sales calls that keep coming are usually illegal or scams.
+Register your number on the National Do Not Call Registry at donotcall.gov. It costs nothing and never expires. After you register, sales calls that keep coming are usually illegal or scams.
 
-> **Current fact:** the National Do Not Call Registry is free, your number shows up the next day, companies have up to 31 days to stop calling and your registration never expires. Accessed September 29, 2026 through the FTC (donotcall.gov).
+> **Current fact:** the National Do Not Call Registry costs nothing, your number shows up the next day, companies have up to 31 days to stop calling and your registration never expires. Accessed September 29, 2026 through the FTC (donotcall.gov).
 
 
 
 #### A case in one minute
 
-Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft.gov and froze his credit at all three bureaus. He registered his cell phone at donotcall.gov. When he needs a loan, he'll lift the freeze for a few days, for free.
+Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft.gov and froze his credit at all three bureaus. He registered his cell phone at donotcall.gov. When he needs a loan, he'll lift the freeze for a few days, at no cost.
 
 > **Key idea:** freeze your credit, check your reports and register your number; if someone uses your data, report it at IdentityTheft.gov.
 
@@ -651,7 +651,7 @@ Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft
 #### Check your understanding
 
 1. What does a credit freeze do?
-*Answer:* It stops anyone from opening new credit in your name; it's free and you can lift it when you need to.
+*Answer:* It stops anyone from opening new credit in your name; it costs nothing and you can lift it when you need to.
 
 2. Where do you report identity theft?
 *Answer:* At IdentityTheft.gov, which gives you a recovery plan.
@@ -661,7 +661,7 @@ Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft
 
 - Freeze at all 3 bureaus.
 - Free weekly reports.
-- donotcall.gov is free.
+- donotcall.gov costs nothing.
 
 
 
@@ -685,9 +685,9 @@ If you have a credit history under an ITIN, ask each bureau how to request a fre
 
 #### What the registry doesn't cover
 
-The Do Not Call Registry doesn't stop debt collection calls, surveys, charities, political calls or companies you already do business with. It doesn't stop scammers either. Your phone carrier offers free tools to block suspicious calls; use them.
+The Do Not Call Registry doesn't stop debt collection calls, surveys, charities, political calls or companies you already do business with. It doesn't stop scammers either. Your phone carrier offers no-cost tools to block suspicious calls; use them.
 
-> **Before you act, check:** that you're on donotcall.gov, AnnualCreditReport.com or IdentityTheft.gov; some sites imitate these names and charge for what's free.
+> **Before you act, check:** that you're on donotcall.gov, AnnualCreditReport.com or IdentityTheft.gov; some sites imitate these names and charge for what's at no cost.
 
 
 
@@ -709,7 +709,7 @@ Lupita gets sales calls every day.
 **Case 3. Daniela's site**
 
 A website charges Daniela $30 for "her official credit report."
-- *What does she do?* She doesn't pay and goes to AnnualCreditReport.com, where it's free.
+- *What does she do?* She doesn't pay and goes to AnnualCreditReport.com, where it costs nothing.
 
 
 #### Common mistakes
@@ -731,10 +731,10 @@ A website charges Daniela $30 for "her official credit report."
 
 #### Quiz
 
-1. How much does a credit freeze cost? a) $10 per bureau · b) Nothing · c) It's only free if your identity was already stolen
+1. How much does a credit freeze cost? a) $10 per bureau · b) Nothing · c) It's at no cost only if your identity was already stolen
 2. Where do you report identity theft? a) At IdentityTheft.gov · b) At the bank where you have your account · c) On social media
 3. How long does your Do Not Call registration last? a) One year · b) Five years · c) It never expires
-**Answers:** 1-b: it's free at all three bureaus. 2-a: it gives you a recovery plan. 3-c: it never expires.
+**Answers:** 1-b: it costs nothing at all three bureaus. 2-a: it gives you a recovery plan. 3-c: it never expires.
 
 
 
@@ -761,9 +761,9 @@ This week freeze your credit at all three bureaus, check your reports and regist
 ### Key words
 
 - *Identity theft:* using your information to pose as you and open accounts, get credit or file tax returns.
-- *Credit freeze:* a free block so nobody can open new credit in your name.
+- *Credit freeze:* a no-cost block so nobody can open new credit in your name.
 - *Fraud alert:* a notice on your report so lenders verify your identity before giving credit.
-- *National Do Not Call Registry:* a free federal registry so companies don't call you with sales pitches.
+- *National Do Not Call Registry:* a no-cost federal registry so companies don't call you with sales pitches.
 
 ### Sources
 
@@ -940,7 +940,7 @@ In declared disaster areas, FEMA offers assistance to individuals and the SBA of
 
 Don Ramón backs up his receipts and equipment photos in the cloud every week. He reviewed his policy and added business interruption coverage. His reserve is in an account. He knows that if a disaster is declared, he can apply for help at DisasterAssistance.gov and the SBA.
 
-> **Key idea:** backups, photos, the right coverage and a reserve in an account; if a disaster is declared, federal help is free on official sites.
+> **Key idea:** backups, photos, the right coverage and a reserve in an account; if a disaster is declared, federal help costs nothing on official sites.
 
 
 
@@ -1004,7 +1004,7 @@ After an earthquake, Javier can't make his estimated payment on time.
 |---|---|---|
 | Everything on paper | You lose it | Backup |
 | Assuming insurance covers everything | No payout | Check coverage |
-| Paying for aid | Scam | It's free |
+| Paying for aid | Scam | It's at no cost |
 | Paying penalties without checking | You overpay | IRS relief |
 
 ### Practice
@@ -1020,7 +1020,7 @@ After an earthquake, Javier can't make his estimated payment on time.
 1. What is usually left out of basic insurance? a) Robbery · b) Flood and earthquake · c) Fire
 2. Someone from "FEMA" asks for $100 to speed up your aid. What is it? a) A scam: FEMA doesn't charge · b) A normal procedure · c) An SBA fee
 3. Up to how much does the SBA lend a business after a disaster? a) $50,000 · b) $500,000 · c) $2 million
-**Answers:** 1-b: usually separate. 2-a: aid is free. 3-c: physical damage or working capital.
+**Answers:** 1-b: usually separate. 2-a: aid costs nothing. 3-c: physical damage or working capital.
 
 
 

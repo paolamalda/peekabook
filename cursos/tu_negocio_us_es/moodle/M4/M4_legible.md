@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Comparar las formas de cobro por su costo, rapidez, protección y seguridad, y elegir las que convienen a tu negocio.
 
-**Para empezar:** Los clientes de Don Ramón le piden pagar con tarjeta y con apps. Le ofrecen un lector de tarjetas «gratis», pero no sabe cuánto le cobrarán ni cuándo le depositan. En esta lección verás cómo comparar.
+**Para empezar:** Los clientes de Don Ramón le piden pagar con tarjeta y con apps. Le ofrecen un lector de tarjetas «sin costo», pero no sabe cuánto le cobrarán ni cuándo le depositan. En esta lección verás cómo comparar.
 
 ### Lo esencial (5 minutos)
 
@@ -92,7 +92,7 @@ Muchas apps de pago prohíben usar cuentas personales para cobros del negocio y 
 
 **Caso 1. El lector de Don Ramón**
 
-A Don Ramón le ofrecen un lector «gratis» con contrato de dos años.
+A Don Ramón le ofrecen un lector «sin costo» con contrato de dos años.
 - *¿Qué hace?* Calcula el costo total con sus ventas y revisa el contrato antes de firmar.
 
 

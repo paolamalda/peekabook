@@ -31,7 +31,7 @@ Hay dos empresas que guardan historiales: Buró de Crédito y Círculo de Crédi
 
 #### Un caso en un minuto
 
-Beto pidió su reporte gratis. No estaba «boletinado»: tenía un atraso en una tienda. Al pagarlo y mantener sus pagos a tiempo, su historial empezó a mejorar.
+Beto pidió su reporte sin costo. No estaba «boletinado»: tenía un atraso en una tienda. Al pagarlo y mantener sus pagos a tiempo, su historial empezó a mejorar.
 
 > **Idea clave:** el Buró no es lista negra; es tu historial, y tu historial mejora con pagos a tiempo.
 
@@ -74,7 +74,7 @@ Tener créditos pequeños bien pagados te ayuda a conseguir mejores condiciones 
 **Caso 1. El «boletinado» de Beto**
 
 Beto cree que está en una lista negra y que nunca le prestarán.
-- *¿Qué hace?* Pide su reporte gratis para ver qué hay de verdad.
+- *¿Qué hace?* Pide su reporte sin costo para ver qué hay de verdad.
 
 
 **Caso 2. El crédito de Karla**
@@ -143,9 +143,9 @@ Buró de Crédito · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ---
 
-## M5 U02. Tu reporte gratis y cómo reclamar
+## M5 U02. Tu reporte sin costo y cómo reclamar
 
-**Lo que lograrás:** Pedir tu reporte de crédito gratis una vez al año en Buró y en Círculo, leerlo y reclamar si hay errores.
+**Lo que lograrás:** Pedir tu reporte de crédito sin costo una vez al año en Buró y en Círculo, leerlo y reclamar si hay errores.
 
 **Para empezar:** En el reporte de Karla aparece una deuda de una tienda que ya pagó. Si no la reclama, le puede afectar al pedir un crédito. En esta lección sabrás cómo pedir tu reporte y reclamar.
 
@@ -153,9 +153,9 @@ Buró de Crédito · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 #### Gratis una vez al año
 
-Puedes pedir un reporte de crédito gratis una vez al año en Buró de Crédito y otro en Círculo de Crédito, en sus sitios oficiales.
+Puedes pedir un reporte de crédito sin costo una vez al año en Buró de Crédito y otro en Círculo de Crédito, en sus sitios oficiales.
 
-> **Dato vigente:** Buró de Crédito y Círculo de Crédito entregan un reporte gratuito una vez al año, en sus sitios oficiales. Consultado el 29 de septiembre de 2026 a través de sus sitios y la CONDUSEF.
+> **Dato vigente:** Buró de Crédito y Círculo de Crédito entregan un reporte sin costo una vez al año, en sus sitios oficiales. Consultado el 29 de septiembre de 2026 a través de sus sitios y la CONDUSEF.
 
 
 
@@ -168,7 +168,7 @@ Puedes pedir un reporte de crédito gratis una vez al año en Buró de Crédito 
 | Consultas | Quién revisó tu historial. | ¿Las autorizaste? |
 | Saldos | ¿Coinciden? | Con tus comprobantes. |
 
-#### Reclamar es gratis
+#### Reclamar no tiene costo
 
 Si hay un error, presenta una reclamación en la sociedad que lo reporta y en la institución, con tus comprobantes. No necesitas gestores.
 
@@ -178,13 +178,13 @@ Si hay un error, presenta una reclamación en la sociedad que lo reporta y en la
 
 Karla reclamó en línea con su comprobante de pago. En unas semanas corrigieron su reporte.
 
-> **Idea clave:** pide tu reporte gratis cada año y reclama tú misma cualquier error.
+> **Idea clave:** pide tu reporte sin costo cada año y reclama tú misma cualquier error.
 
 
 
 #### Comprueba lo que entendiste
 
-1. ¿Cada cuánto puedes pedir tu reporte gratis?
+1. ¿Cada cuánto puedes pedir tu reporte sin costo?
 *Respuesta:* Una vez al año en cada sociedad.
 
 2. ¿Cuánto cuesta reclamar un error?
@@ -230,7 +230,7 @@ Aparece en el reporte de Karla una deuda que ya pagó.
 **Caso 2. La página de Beto**
 
 Beto encuentra una página que le cobra 200 por su reporte.
-- *¿Qué hace?* Lo pide gratis en el sitio oficial.
+- *¿Qué hace?* Lo pide sin costo en el sitio oficial.
 
 
 **Caso 3. La consulta de Ramiro**
@@ -244,9 +244,9 @@ En el reporte de Ramiro hay una consulta de una financiera que no conoce.
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
 | No pedir tu reporte | No ves errores | Una vez al año |
-| Pagar por el reporte | Es gratis | Sitio oficial |
+| Pagar por el reporte | Es sin costo | Sitio oficial |
 | Aceptar errores | Te afectan | Reclama |
-| Pagar a gestores | Es gratis | Hazlo tú |
+| Pagar a gestores | Es sin costo | Hazlo tú |
 
 ### Practica
 
@@ -258,10 +258,10 @@ En el reporte de Ramiro hay una consulta de una financiera que no conoce.
 
 #### Quiz
 
-1. ¿Cuántos reportes gratis puedes pedir al año? a) Ninguno · b) Uno en total, en cualquiera de las dos · c) Uno en Buró y uno en Círculo
+1. ¿Cuántos reportes sin costo puedes pedir al año? a) Ninguno · b) Uno en total, en cualquiera de las dos · c) Uno en Buró y uno en Círculo
 2. Hay un crédito que no es tuyo. ¿Qué haces? a) Lo reclamas · b) Lo pagas para que se borre · c) Lo ignoras
 3. ¿Dónde pides tu reporte? a) En la página que te llegó por mensaje · b) En los sitios oficiales · c) Con un gestor
-**Respuestas:** 1-c: uno en cada una. 2-a: reclamar es gratis. 3-b: evitas fraudes.
+**Respuestas:** 1-c: uno en cada una. 2-a: reclamar no tiene costo. 3-b: evitas fraudes.
 
 
 
@@ -274,14 +274,14 @@ Llena la tabla de revisión con tu último reporte o con uno de ejemplo.
 
 #### A tu plan
 
-Pide tu reporte gratis este mes en el sitio oficial de Buró de Crédito o de Círculo de Crédito.
+Pide tu reporte sin costo este mes en el sitio oficial de Buró de Crédito o de Círculo de Crédito.
 
 
 
 ### Para saber más
 
-- **Reporte de Crédito Especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte gratis y reclamaciones.
-- **Reporte** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** reporte gratis.
+- **Reporte de Crédito Especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte sin costo y reclamaciones.
+- **Reporte** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** reporte sin costo.
 
 ### Palabras clave
 
@@ -313,7 +313,7 @@ Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 29 de sept
 
 #### Nadie borra lo correcto
 
-Los despachos que prometen «limpiar tu Buró» a cambio de dinero no pueden borrar información correcta. Si hay un error, lo reclamas tú, gratis (M5 U02).
+Los despachos que prometen «limpiar tu Buró» a cambio de dinero no pueden borrar información correcta. Si hay un error, lo reclamas tú, sin costo (M5 U02).
 
 
 
@@ -428,5 +428,167 @@ Pon alarmas en tu celular dos días antes de cada pago.
 ### Fuentes
 
 CONDUSEF · Buró de Crédito, consultados el 29 de septiembre de 2026.
+
+---
+
+## M5 U04. Aval, obligado solidario, fiador y referencia: ¿qué firmas?
+
+**Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
+
+**Para empezar:** Un compañero le pide a Beto que sea su aval para un préstamo de nómina, y a Karla la pusieron de referencia en una tarjeta sin preguntarle. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
+
+### Lo esencial (5 minutos)
+
+#### Cada papel, una responsabilidad
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Aval | Firma el pagaré: si no pagan, te cobran a ti todo. | Aparece en tu historial. |
+| Obligado solidario | Respondes por todo el contrato como si fueras quien pidió. | Te pueden cobrar directo. |
+| Fiador | Común en rentas: pagas si la otra persona no paga. | Revisa el contrato. |
+| Referencia personal | Solo das tus datos de contacto. | No te pueden cobrar. |
+
+#### «Garante» y «garantía»
+
+«Garante» es una palabra general para quien respalda un crédito: en el contrato aparece como aval, obligado solidario o fiador. Una garantía es distinta: es un bien que puedes perder si no pagas.
+
+
+
+#### Ser referencia no es ser aval
+
+Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
+
+> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+
+
+
+#### Un caso en un minuto
+
+Beto le dijo a su compañero que no podía firmar una deuda que no podría pagar, y lo acompañó a comparar créditos. Karla supo que, como referencia, no le pueden cobrar nada.
+
+> **Idea clave:** aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Te pueden cobrar si solo fuiste referencia personal?
+*Respuesta:* No. Solo diste tus datos; no firmaste ninguna obligación.
+
+2. ¿Qué pasa si firmas como aval y la otra persona no paga?
+*Respuesta:* Te pueden cobrar a ti y puede aparecer en tu historial.
+
+
+#### Para recordar
+
+- Aval, obligado solidario y fiador: pagan si el otro no paga.
+- Referencia: solo datos; no te cobran.
+- Firma solo si podrías pagar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### ¿Qué firmas?
+
+| Papel | ¿Firmas? | ¿Te pueden cobrar? | ¿Afecta tu historial? |
+|---|---|---|---|
+| Aval | Sí, el pagaré | Sí, todo | Puede aparecer |
+| Obligado solidario | Sí, el contrato | Sí, directo | Puede aparecer |
+| Fiador | Sí, el contrato | Sí, si el otro no paga | Puede aparecer |
+| Referencia personal | No | No | No |
+| Titular con tarjeta adicional | Sí, como titular | Sí, todo lo que gaste la adicional | Sí |
+
+
+
+#### Cómo decir que no
+
+Pedirte que seas aval es pedirte que te hagas cargo de una deuda. Puedes decir: «Te quiero ayudar, pero no puedo firmar una deuda que no podría pagar». Ofrece otra ayuda: acompañarle a comparar créditos o armar un presupuesto.
+
+
+
+#### Si te llaman como referencia
+
+Si un despacho te presiona para pagar una deuda de la que solo eres referencia, no pagues ni des datos de más. Pide el nombre del despacho, anota fecha y hora y preséntalo en el REDECO de la CONDUSEF.
+
+> **Antes de actuar, verifica:** qué dice el documento que te piden firmar (pagaré, contrato, solicitud) y en qué papel apareces.
+
+
+
+#### Casos
+
+
+**Caso 1. El préstamo de Beto**
+
+Un compañero le pide a Beto que firme como aval de un préstamo de 15,000.
+- *¿Qué hace Beto?* Dice que no puede firmar una deuda que no podría pagar y ofrece otra ayuda.
+
+
+**Caso 2. La solicitud de Karla**
+
+A Karla le piden firmar «como referencia» una hoja que dice «obligado solidario».
+- *¿Qué hace?* No firma: ese papel la obliga a pagar todo el contrato.
+
+
+**Caso 3. La llamada a Don Chuy**
+
+Un despacho llama a Don Chuy para cobrarle la deuda de un compañero del que solo fue referencia.
+- *¿Qué hace?* No paga, pide el nombre del despacho y se queja en el REDECO.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | Deuda ajena | Lee tu papel |
+| Creer que la referencia paga | Pagas sin deber | No te obliga |
+| Aval por compromiso | Pagas tú | Solo si podrías pagar |
+| Adicional sin límite | Tu deuda crece | Límite bajo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Beto, Karla y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? a) Sí, la mitad · b) Sí, si él no paga · c) No, solo diste tus datos
+2. ¿Quién responde por todo el contrato como si hubiera pedido el crédito? a) El obligado solidario · b) La referencia personal · c) El vendedor
+3. Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? a) Pagas para que dejen de llamar · b) No pagas y te quejas en el REDECO · c) Das los datos de tu amigo y los de su familia
+**Respuestas:** 1-c: la referencia no se obliga. 2-a: por eso le pueden cobrar directo. 3-b: no pueden cobrar a referencias.
+
+
+
+#### Ponlo en práctica
+
+Te piden ser aval de un préstamo de 30,000 a 24 meses. Si la otra persona deja de pagar a la mitad, ¿cuánto podrían cobrarte, sin contar intereses?
+**Respuesta:** Unos 15,000 pesos: lo que falte por pagar, más intereses y cargos.
+
+
+
+#### A tu plan
+
+Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda.
+
+
+
+### Para saber más
+
+- **Aval y obligado solidario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «aval» y «obligado solidario».
+- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx.
+
+### Palabras clave
+
+- *Aval:* persona que firma un pagaré y se obliga a pagar si quien pidió el crédito no paga.
+- *Obligado solidario:* persona que responde por todo el contrato como si hubiera pedido el crédito.
+- *Fiador:* persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
+- *Referencia personal:* persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
+
+### Fuentes
+
+CONDUSEF (disposiciones para despachos de cobranza y REDECO), consultados el 30 de septiembre de 2026.
 
 ---

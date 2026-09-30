@@ -118,7 +118,7 @@ Javier has a signed contract and needs materials to complete it.
 1. Extra profit is $300 a month and the payment is $400. What happens? a) The loan pays for itself · b) You're $100 short each month · c) You earn $100
 2. What is business credit healthiest for? a) Paying household bills this month · b) Covering the losses of the last few months · c) Something that brings in sales
 3. What do you do before borrowing for an order? a) Check whether the customer can pay a deposit · b) Ask for the maximum amount · c) Quickly sign the first offer so you don't lose the day's deal
-**Answers:** 1-b: payment higher than profit. 2-c: it can pay for itself. 3-a: an interest-free alternative.
+**Answers:** 1-b: payment higher than profit. 2-c: it can pay for itself. 3-a: an no-interest alternative.
 
 
 
@@ -180,7 +180,7 @@ SBA, accessed September 29, 2026.
 
 #### A case in one minute
 
-Lupita deleted the message: asking for an up-front fee is a sign of a scam. She found a CDFI in her area that works with ITINs; it offered her a $3,000 microloan with free business classes.
+Lupita deleted the message: asking for an up-front fee is a sign of a scam. She found a CDFI in her area that works with ITINs; it offered her a $3,000 microloan with no-cost business classes.
 
 > **Key idea:** compare banks, credit unions and CDFIs; anyone who asks for money up front to give you a loan is a scammer.
 
@@ -529,7 +529,7 @@ List the debts you used for the business. Pay them first with business money, st
 
 #### Business credit
 
-A card in the business's name, used carefully and paid in full, helps separate expenses. Check your personal credit report for free every year at AnnualCreditReport.com.
+A card in the business's name, used carefully and paid in full, helps separate expenses. Check your personal credit report at no cost every year at AnnualCreditReport.com.
 
 
 
@@ -612,5 +612,167 @@ List the debts you used for the business and make a plan to pay them off.
 ### Sources
 
 FTC · CFPB, accessed September 29, 2026.
+
+---
+
+## M6 U05. Cosigner, guarantor, authorized user and reference: what are you signing?
+
+**What you will be able to do:** Tell apart cosigner, guarantor, authorized user and reference, know what you can be charged in each case and decide before signing for another person or for your business.
+
+**To start:** Don Ramón's son asks him to cosign a car loan, the bank asks Daniela for a personal guarantee on her LLC's loan, and a collector called Javier about a coworker's debt. In this lesson you'll see what each role means.
+
+### The essentials (5 minutes)
+
+#### Each role, a responsibility
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Cosigner | You sign the loan: if they don't pay, you owe all of it. | It shows on your credit report. |
+| Guarantor (personal guarantee) | You pay with your money if the business or person doesn't. | Common on LLC loans. |
+| Authorized user | You use someone else's card. | Generally not responsible for the debt. |
+| Reference | You only give your contact details. | You can't be charged. |
+
+#### Your business's personal guarantee
+
+Even with an LLC, many lenders ask for a personal guarantee. If you sign it, the LLC no longer separates that debt from your personal assets. Read it before signing and negotiate a limit if you can.
+
+
+
+#### Being a reference isn't being a cosigner
+
+When someone applies for a card, a loan or a rental, they're asked for references. Being a reference doesn't obligate you to pay anything. If you didn't sign the loan, the debt isn't yours.
+
+> **Current fact:** the federal Fair Debt Collection Practices Act (FDCPA) only lets a collector contact other people to find out how to locate you, and forbids telling them you owe a debt. A cosigner may have to pay the full amount, plus late fees or collection costs. Accessed September 30, 2026 through the CFPB and the FTC.
+
+
+
+#### A case in one minute
+
+Don Ramón read that as a cosigner he'd owe the whole car if his son stopped paying, and that it would show on his report. He chose to help his son save a bigger down payment instead. Javier learned that, as a reference, he can't be charged anything.
+
+> **Key idea:** cosigners and guarantors pay if the other person or the business doesn't; a reference only gives their details. Read what you're signing and sign only if you could pay that debt.
+
+
+
+#### Check your understanding
+
+1. Can you be charged if you were only a reference?
+*Answer:* No. You only gave your details; you didn't sign the loan.
+
+2. What happens if you sign a personal guarantee for your LLC?
+*Answer:* You pay with your own money if the business doesn't.
+
+
+#### Remember
+
+- Cosigner and guarantor: pay if the other doesn't.
+- Reference: details only; you're not charged.
+- Sign only if you could pay.
+
+
+
+### Go deeper (5 more minutes)
+
+#### What are you signing?
+
+| Role | Do you sign? | Can you be charged? | Does it affect your report? |
+|---|---|---|---|
+| Cosigner | Yes, the loan | Yes, all of it | Yes |
+| Co-borrower | Yes, and you're an owner | Yes, all of it | Yes |
+| Guarantor (personal guarantee) | Yes, the guarantee | Yes, if the other doesn't pay | It may appear |
+| Authorized user | No | Generally no | It may appear |
+| Reference | No | No | No |
+
+
+
+#### How to say no
+
+Asking you to cosign is asking you to take on a debt. You can say: "I want to help, but I can't sign a debt I couldn't pay." Offer other help: saving a down payment, comparing loans or building credit with a secured card.
+
+
+
+#### If a collector calls you as a reference
+
+If a collector pressures you to pay a debt for which you were only a reference, don't pay or share extra details. Write down the name, date and time and submit it to the CFPB.
+
+> **Before you act, check:** what the document you're asked to sign says and what role you have in it.
+
+
+
+#### Cases
+
+
+**Case 1. Don Ramón's son's car**
+
+Don Ramón's son asks him to cosign a car loan.
+- *What does Don Ramón do?* He signs only if he could pay all of it; if not, he offers to help with the down payment.
+
+
+**Case 2. Daniela's LLC**
+
+The bank asks Daniela for a personal guarantee on her LLC's loan.
+- *What does she do?* She reads it, understands she's responsible with her own money and negotiates a limit before signing.
+
+
+**Case 3. The call to Javier**
+
+A collector calls Javier to collect a coworker's debt for which he was only a reference.
+- *What does he do?* He doesn't pay, writes down the details and complains to the CFPB.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Signing without reading | Someone else's debt | Read your role |
+| Thinking the LLC always protects you | You pay with your money | Check the guarantee |
+| Thinking a reference pays | You pay what you don't owe | It doesn't obligate you |
+| Cosigning out of pressure | You end up paying | Only if you could pay |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Daniela and Javier. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. You gave your name and phone as a reference for a friend's loan. Can you be charged? a) Yes, half · b) Yes, if he doesn't pay · c) No, you only gave your details
+2. Who must pay everything if the borrower doesn't? a) The cosigner · b) The reference · c) The seller
+3. A collector pressures you to pay a debt for which you're only a reference. What do you do? a) Pay so they stop calling · b) Don't pay and complain to the CFPB · c) Give them your friend's family's details
+**Answers:** 1-c: a reference isn't obligated. 2-a: they signed the loan. 3-b: they can't charge you.
+
+
+
+#### Put it into practice
+
+You're asked to cosign a $12,000 loan. If the other person stops paying halfway, how much could you be charged, not counting interest?
+**Answer:** About $6,000: what's left to pay, plus late fees or collection costs.
+
+
+
+#### Your plan
+
+Before signing for someone or for your business, ask what role you have and decide only if you could pay that debt.
+
+
+
+### Learn more
+
+- **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "cosigning a loan".
+- **Debt collection and complaints** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to look for: "debt collection" and "submit a complaint".
+
+### Key words
+
+- *Cosigner:* a person who signs the loan and must pay it if the borrower doesn't.
+- *Personal guarantee:* a promise to pay with your own money and property if the business doesn't.
+- *Authorized user:* a person who uses someone else's card; generally not responsible for the debt.
+- *Reference:* a person who only gives their details; not obligated to pay.
+
+### Sources
+
+CFPB · FTC, accessed September 30, 2026.
 
 ---

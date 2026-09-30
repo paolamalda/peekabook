@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Negocio MX/M1
+$CATEGORY: $course$/Tu Negocio MX v1.2/M1
 
 ::M1 U01 P1::Vendes 25,000 y tus costos son 19,000. ¿Cuánto ganas? {
 	=6,000 #¡Correcto! 25,000 menos 19,000.
@@ -90,7 +90,25 @@ $CATEGORY: $course$/Tu Negocio MX/M1
 	=Que tenga permiso de la Secretaría de Gobernación #¡Correcto! Sin permiso no hay a quién reclamar.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M2
+::M1 U06 P1::¿A nombre de quién pones la cuenta del negocio? {
+	~A nombre de tu pareja, que sabe más #No es la mejor opción. Tú decides.
+	=A tu nombre #¡Correcto! Tú decides.
+	~A nombre de un cliente #No es la mejor opción. Tú decides.
+}
+
+::M1 U06 P2::Alguien te quita lo que ganas y te impide trabajar. ¿Qué es? {
+	=Violencia económica #¡Correcto! Hay ayuda sin costo.
+	~Un problema de administración #No es la mejor opción. Hay ayuda sin costo.
+	~Algo normal en pareja #No es la mejor opción. Hay ayuda sin costo.
+}
+
+::M1 U06 P3::Un familiar te pide tu RFC para un crédito. ¿Qué pasa si lo prestas? {
+	~Nada #No es la mejor opción. Tu nombre responde.
+	~La deuda es de tu familiar #No es la mejor opción. Tu nombre responde.
+	=La deuda y el historial son tuyos #¡Correcto! Tu nombre responde.
+}
+
+$CATEGORY: $course$/Tu Negocio MX v1.2/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
 	~La renta del local #No es la mejor opción. Sube con cada venta.
@@ -164,7 +182,7 @@ $CATEGORY: $course$/Tu Negocio MX/M2
 	=Si vendes todo antes de que caduque #¡Correcto! Si no, sale cara.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M3
+$CATEGORY: $course$/Tu Negocio MX v1.2/M3
 
 ::M3 U01 P1::Tienes 3,000, cobrarás 5,000 y pagarás 9,000 esta semana. ¿Cómo terminas? {
 	~Con 1,000 de sobra #No es la mejor opción. 3,000 más 5,000 menos 9,000.
@@ -220,7 +238,25 @@ $CATEGORY: $course$/Tu Negocio MX/M3
 	~3,600 #No es la mejor opción. 3,600 entre 12.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M4
+::M3 U04 P1::Tus costos suben y tu precio no. ¿Qué pasa? {
+	=Tu margen se hace más chico #¡Correcto! Por eso revisas precios.
+	~Ganas más #No es la mejor opción. Por eso revisas precios.
+	~Nada, vendes lo mismo #No es la mejor opción. Por eso revisas precios.
+}
+
+::M3 U04 P2::¿Qué pasa con una reserva guardada en efectivo varios años? {
+	~Crece sola #No es la mejor opción. La inflación la desgasta.
+	~Queda igual de útil #No es la mejor opción. La inflación la desgasta.
+	=Pierde poder de compra #¡Correcto! La inflación la desgasta.
+}
+
+::M3 U04 P3::Tu crédito tiene tasa variable. ¿Qué haces? {
+	~Nada, siempre baja #No es la mejor opción. Prepárate por si sube.
+	=Calculas el pago con una tasa más alta #¡Correcto! Prepárate por si sube.
+	~Pides otro crédito para cubrirlo #No es la mejor opción. Prepárate por si sube.
+}
+
+$CATEGORY: $course$/Tu Negocio MX v1.2/M4
 
 ::M4 U01 P1::Cobras 6,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
 	=180 #¡Correcto! 3% de 6,000.
@@ -276,12 +312,12 @@ $CATEGORY: $course$/Tu Negocio MX/M4
 	~Un pago que ya está en tu cuenta #No es la mejor opción. La prisa es un gancho.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M5
+$CATEGORY: $course$/Tu Negocio MX v1.2/M5
 
 ::M5 U01 P1::¿Cuánto cobra el SAT por inscribirte en el RFC? {
-	~Depende del gestor #No es la mejor opción. Es sin costo.
-	=Nada #¡Correcto! Es sin costo.
-	~1,500 #No es la mejor opción. Es sin costo.
+	~Depende del gestor #No es la mejor opción. No tiene costo.
+	=Nada #¡Correcto! No tiene costo.
+	~1,500 #No es la mejor opción. No tiene costo.
 }
 
 ::M5 U01 P2::¿Dónde recibes avisos oficiales del SAT? {
@@ -368,7 +404,7 @@ $CATEGORY: $course$/Tu Negocio MX/M5
 	~Que no te diga cuánto pagaste #No es la mejor opción. Así sabes qué presentó.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M6
+$CATEGORY: $course$/Tu Negocio MX v1.2/M6
 
 ::M6 U01 P1::La ganancia extra es 2,000 al mes y el pago es 2,500. ¿Qué pasa? {
 	~El crédito se paga solo #No es la mejor opción. Pago mayor que ganancia.
@@ -442,7 +478,25 @@ $CATEGORY: $course$/Tu Negocio MX/M6
 	~Con la tarjeta del negocio #No es la mejor opción. Sin afectar el negocio.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M7
+::M6 U05 P1::Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? {
+	~Sí, la mitad #No es la mejor opción. La referencia no se obliga.
+	~Sí, si él no paga #No es la mejor opción. La referencia no se obliga.
+	=No, solo diste tus datos #¡Correcto! La referencia no se obliga.
+}
+
+::M6 U05 P2::¿Quién responde por todo el contrato como si hubiera pedido el crédito? {
+	=El obligado solidario #¡Correcto! Por eso le pueden cobrar directo.
+	~La referencia personal #No es la mejor opción. Por eso le pueden cobrar directo.
+	~El vendedor #No es la mejor opción. Por eso le pueden cobrar directo.
+}
+
+::M6 U05 P3::Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. No pueden cobrar a referencias.
+	=No pagas y te quejas en el REDECO #¡Correcto! No pueden cobrar a referencias.
+	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
+}
+
+$CATEGORY: $course$/Tu Negocio MX v1.2/M7
 
 ::M7 U01 P1::¿Qué incluye la Modalidad 10 que no incluye la 40? {
 	~Retiro #No es la mejor opción. La 10 da servicio médico.
@@ -529,9 +583,9 @@ $CATEGORY: $course$/Tu Negocio MX/M7
 }
 
 ::M7 U05 P3::¿Cuánto cuesta inscribirte en el REUS? {
-	~200 pesos al año #No es la mejor opción. Es sin costo.
-	~Depende del banco #No es la mejor opción. Es sin costo.
-	=Nada #¡Correcto! Es sin costo.
+	~200 pesos al año #No es la mejor opción. No tiene costo.
+	~Depende del banco #No es la mejor opción. No tiene costo.
+	=Nada #¡Correcto! No tiene costo.
 }
 
 ::M7 U06 P1::Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? {
@@ -588,7 +642,7 @@ $CATEGORY: $course$/Tu Negocio MX/M7
 	=En el registro de contratos de Profeco #¡Correcto! Registro oficial.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M8
+$CATEGORY: $course$/Tu Negocio MX v1.2/M8
 
 ::M8 U01 P1::¿Qué es un costo de contratar además del sueldo? {
 	=El aguinaldo #¡Correcto! Es prestación de ley.
@@ -662,7 +716,43 @@ $CATEGORY: $course$/Tu Negocio MX/M8
 	=Tu sueldo fijo #¡Correcto! Ingreso estable.
 }
 
-$CATEGORY: $course$/Tu Negocio MX/M9
+::M8 U05 P1::¿Qué va primero en tu presentación? {
+	=El problema que resuelves y para quién #¡Correcto! Así entienden tu negocio.
+	~Lo que necesitas #No es la mejor opción. Así entienden tu negocio.
+	~Tu historia completa #No es la mejor opción. Así entienden tu negocio.
+}
+
+::M8 U05 P2::Te piden 2,000 por inscribirte a un apoyo de gobierno. ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Los apoyos no cobran inscripción.
+	~Una garantía #No es la mejor opción. Los apoyos no cobran inscripción.
+	=Un fraude #¡Correcto! Los apoyos no cobran inscripción.
+}
+
+::M8 U05 P3::Te niegan un crédito. ¿Qué haces? {
+	~Pides en una app sin registro #No es la mejor opción. El «no» también enseña.
+	=Preguntas por qué y mejoras para intentarlo de nuevo #¡Correcto! El «no» también enseña.
+	~Dejas de intentarlo #No es la mejor opción. El «no» también enseña.
+}
+
+::M8 U06 P1::Llega competencia nueva a tu calle. ¿Qué haces? {
+	~Bajas precios aunque pierdas #No es la mejor opción. Compite con lo que te distingue.
+	=Ves qué te hace distinto y ajustas tu oferta #¡Correcto! Compite con lo que te distingue.
+	~Cierras #No es la mejor opción. Compite con lo que te distingue.
+}
+
+::M8 U06 P2::Dicen en redes que cambió una regla del SAT. ¿Qué haces? {
+	=Lo confirmas en el sitio del SAT y con tu contador #¡Correcto! Confirma antes.
+	~Dejas de facturar #No es la mejor opción. Confirma antes.
+	~Lo compartes con todos tus clientes #No es la mejor opción. Confirma antes.
+}
+
+::M8 U06 P3::¿Dónde consultas la inflación? {
+	~En la publicidad de un banco #No es la mejor opción. Fuente oficial.
+	~En un grupo de WhatsApp #No es la mejor opción. Fuente oficial.
+	=En el INEGI #¡Correcto! Fuente oficial.
+}
+
+$CATEGORY: $course$/Tu Negocio MX v1.2/M9
 
 ::M9 U01 P1::¿Dónde localizas tu AFORE? {
 	~En tu banco #No es la mejor opción. Sistema oficial.

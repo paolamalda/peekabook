@@ -27,9 +27,9 @@ Para su presupuesto usa 4,100, no 4,790.
 
 El salario mínimo general es de 315.04 pesos diarios, unos 9,582 al mes. En la frontera norte es de 440.87 diarios.
 
-Si en el mes solo ganas el salario mínimo, no te deben descontar ISR y tu parte del IMSS la paga la empresa: te llega completo, salvo adelantos, préstamos o faltas. Si ganas más, sí puede haber descuento de ISR e IMSS.
+Si en el mes solo ganas el salario mínimo, no te deben descontar ISR. Si ganas más, puede haber descuento de ISR.
 
-> **Dato vigente:** salario mínimo general 2026 de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 diarios en la Zona Libre de la Frontera Norte. Con el salario mínimo no se retiene ISR (Ley del ISR, artículo 96) y la cuota del trabajador al IMSS la paga el patrón (Ley del Seguro Social, artículo 36). Consultado el 29 de septiembre de 2026 a través de la CONASAMI, la Ley del ISR y la Ley del Seguro Social.
+> **Dato vigente:** salario mínimo general 2026 de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 diarios en la Zona Libre de la Frontera Norte. Con el salario mínimo no se retiene ISR (Ley del ISR, artículo 96). Consultado el 29 de septiembre de 2026 a través de la CONASAMI y la Ley del ISR.
 
 
 
@@ -68,7 +68,7 @@ Don Chuy pidió su recibo y vio el adelanto que se descuenta cada quincena. Ahor
 | Préstamo de la empresa | Se descuenta en partes |
 | Uniforme o equipo | Si tu contrato lo indica |
 | Faltas | Días no trabajados |
-| ISR e IMSS | Solo si ganas más del salario mínimo |
+| ISR | Solo si ganas más del salario mínimo |
 
 
 
@@ -658,7 +658,7 @@ Don Chuy y su esposa acordaron hablar de dinero cada domingo de descanso, 20 min
 
 #### Si el estrés no baja
 
-Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende gratis las 24 horas. Pedir ayuda es parte de cuidar a tu familia.
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, busca ayuda de inmediato. La Línea de la Vida (800 911 2000) atiende sin costo las 24 horas. Pedir ayuda es parte de cuidar a tu familia.
 
 
 
@@ -730,7 +730,7 @@ Acuerda con tu familia un día fijo para su plática de dinero y anoten la prime
 
 ### Para saber más
 
-- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención gratuita las 24 horas.
+- **Línea de la Vida** (Secretaría de Salud · español): 800 911 2000 | Atención sin costo las 24 horas.
 - **Finanzas personales** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «presupuesto familiar».
 
 ### Palabras clave
@@ -740,5 +740,166 @@ Acuerda con tu familia un día fijo para su plática de dinero y anoten la prime
 ### Fuentes
 
 Secretaría de Salud · CONDUSEF, consultados el 29 de septiembre de 2026.
+
+---
+
+## M1 U06. Compra inteligente: precio por unidad, publicidad y pagos chiquitos
+
+**Lo que lograrás:** Comparar el precio por unidad, reconocer la presión de la publicidad y calcular cuánto cuestan de verdad las suscripciones y los pagos en abonos antes de comprar.
+
+**Para empezar:** Beto vio en redes unos audífonos «a solo 99 a la semana». Los pidió en abonos y además paga tres plataformas de video que casi no usa. Al final del mes no sabe por qué no le alcanza. En esta lección aprenderás a ver el precio completo.
+
+### Lo esencial (5 minutos)
+
+#### Precio por unidad
+
+El paquete grande no siempre sale más barato. Divide el precio entre la cantidad (kilos, litros, piezas) y compara. Así sabes cuál conviene de verdad.
+
+
+
+#### El café de Don Chuy
+
+Don Chuy compara dos frascos de café.
+- Frasco de 200 gramos: **90**
+- gramos: **200**
+- pesos por gramo: **0.45**
+El frasco de 500 gramos cuesta 250: 0.50 por gramo. El chico le sale más barato.
+
+
+#### Lo que te hace gastar de más
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Publicidad y redes | «Últimas piezas», «solo hoy». | Crean prisa. |
+| Suscripciones | Poquito cada mes. | Suman mucho al año. |
+| Abonos semanales | «Solo 99 a la semana». | Pagas más en total. |
+| Espera un día | Antes de una compra no planeada. | Decides con calma. |
+
+#### Un caso en un minuto
+
+Beto sumó los abonos: 99 a la semana por 52 semanas son 5,148 pesos por unos audífonos que de contado costaban 2,300. Canceló dos plataformas que no usaba y ahorró 300 al mes.
+
+> **Idea clave:** compara el precio por unidad, suma el costo total de los abonos y las suscripciones, y espera un día antes de comprar lo que no planeaste.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cómo sabes qué paquete conviene?
+*Respuesta:* Divides el precio entre la cantidad y comparas.
+
+2. ¿Cómo sabes cuánto pagarás en abonos?
+*Respuesta:* Multiplicas el abono por el número de pagos.
+
+
+#### Para recordar
+
+- Precio por unidad.
+- Costo total de los abonos.
+- Espera un día.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Lo que gastas en algo ya no está para otra cosa
+
+Si gastas 300 al mes en plataformas, son 3,600 al año que no van a tu fondo de emergencia o a tus deudas. Pregúntate: ¿qué dejo de hacer con este dinero?
+
+
+
+#### Lo que sigue costando después
+
+Algunas compras traen gastos después: una moto necesita gasolina, servicio y seguro; un celular, plan de datos y funda. Súmalos antes de decidir.
+
+
+
+#### Revisa tus pagos que se repiten
+
+| Pago | Cuánto al mes | Cuánto al año | ¿Lo uso? |
+|---|---|---|---|
+| Plataforma de video | | | |
+| Plan del celular | | | |
+| Abonos | | | |
+| Otros | | | |
+
+> **Antes de actuar, verifica:** el precio de contado, el número de pagos y lo que cuesta cancelar una suscripción.
+
+
+
+#### Casos
+
+
+**Caso 1. Los audífonos de Beto**
+
+Beto quiere unos audífonos «a solo 99 a la semana» durante un año.
+- *¿Qué hace?* Suma el costo total, lo compara con el de contado y espera un día.
+
+
+**Caso 2. El café de Don Chuy**
+
+Don Chuy cree que el frasco grande siempre sale más barato.
+- *¿Qué hace?* Calcula el precio por gramo de cada frasco y compara.
+
+
+**Caso 3. Las plataformas de Karla**
+
+Karla paga tres plataformas de video y solo usa una.
+- *¿Qué hace?* Cancela las que no usa y aparta ese dinero para su fondo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Ver solo el abono | Pagas el doble | Suma el total |
+| Creer que lo grande es más barato | Pagas de más | Precio por unidad |
+| Suscripciones olvidadas | Fugas cada mes | Revisa y cancela |
+| Comprar con prisa | Te arrepientes | Espera un día |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Beto, Don Chuy y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Un producto cuesta 99 a la semana durante 52 semanas. ¿Cuánto pagas en total? a) 99 · b) 1,188, lo mismo que 12 pagos · c) 5,148
+2. ¿Cómo comparas dos tamaños de un producto? a) Por el precio por unidad · b) Siempre el más grande · c) Por el que tenga más publicidad
+3. Un anuncio dice «solo hoy». ¿Qué haces? a) Compras antes de que se acabe · b) Esperas un día y revisas si lo necesitas · c) Pides prestado para aprovechar
+**Respuestas:** 1-c: 99 por 52. 2-a: así ves cuál rinde más. 3-b: la prisa es una técnica de venta.
+
+
+
+#### Ponlo en práctica
+
+Pagas dos plataformas de 150 al mes. ¿Cuánto es al año?
+**Respuesta:** 3,600 pesos.
+
+
+
+#### A tu plan
+
+Haz la lista de tus pagos que se repiten y cancela al menos uno que no uses.
+
+
+
+### Para saber más
+
+- **Quién es quién en los precios** (Profeco · español): https://www.gob.mx/profeco — **Qué buscar:** «Quién es quién en los precios».
+- **Compras en abonos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «compras a plazos» y «CAT».
+
+### Palabras clave
+
+- *Precio por unidad:* precio dividido entre la cantidad; sirve para comparar tamaños.
+- *Suscripción:* pago que se repite cada mes hasta que lo cancelas.
+- *Costo de oportunidad:* lo que dejas de hacer con el dinero que gastas.
+
+### Fuentes
+
+Profeco · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ---

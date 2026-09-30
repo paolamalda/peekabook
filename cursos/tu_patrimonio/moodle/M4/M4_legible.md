@@ -810,13 +810,13 @@ El robo de identidad ocurre cuando alguien usa tus datos para pedir créditos, a
 
 #### Protecciones
 
-Pide tu reporte de crédito gratis una vez al año, consulta las líneas de celular registradas con tu CURP y, si te preocupa, activa el bloqueo de tu historial en Buró de Crédito para que nadie pueda consultarlo sin ti.
+Pide tu reporte de crédito sin costo una vez al año, consulta las líneas de celular registradas con tu CURP y, si te preocupa, activa el bloqueo de tu historial en Buró de Crédito para que nadie pueda consultarlo sin ti.
 
 
 
 #### Un caso en un minuto
 
-Carmen pidió su reporte gratis y encontró la tarjeta que no tramitó. Reclamó en la tienda y en el Buró, presentó denuncia y activó el bloqueo. Ahora, cuando entrega una copia de su INE, escribe sobre ella para qué es.
+Carmen pidió su reporte sin costo y encontró la tarjeta que no tramitó. Reclamó en la tienda y en el Buró, presentó denuncia y activó el bloqueo. Ahora, cuando entrega una copia de su INE, escribe sobre ella para qué es.
 
 > **Idea clave:** revisa tu reporte cada año, cuida tus copias y actúa rápido si algo no es tuyo.
 
@@ -827,7 +827,7 @@ Carmen pidió su reporte gratis y encontró la tarjeta que no tramitó. Reclamó
 1. ¿Cómo te das cuenta de un robo de identidad?
 *Respuesta:* Por cobranzas o créditos que no reconoces, o al revisar mi reporte de crédito.
 
-2. ¿Cada cuánto pides tu reporte gratis?
+2. ¿Cada cuánto pides tu reporte sin costo?
 *Respuesta:* Una vez al año.
 
 
@@ -855,9 +855,9 @@ Carmen pidió su reporte gratis y encontró la tarjeta que no tramitó. Reclamó
 
 #### Líneas de celular con tu CURP
 
-En 2026 cada línea de celular se vincula con la CURP de su titular. Puedes consultar en cada compañía qué líneas están a tu nombre y pedir que desvinculen las que no son tuyas. Es gratuito.
+En 2026 cada línea de celular se vincula con la CURP de su titular. Puedes consultar en cada compañía qué líneas están a tu nombre y pedir que desvinculen las que no son tuyas. Es sin costo.
 
-> **Dato vigente:** registro obligatorio de líneas móviles con CURP en 2026, con plazo final el 31 de diciembre de 2026; la consulta y la desvinculación son gratuitas en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** registro obligatorio de líneas móviles con CURP en 2026, con plazo final el 31 de diciembre de 2026; la consulta y la desvinculación no tienen costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 
 
@@ -865,7 +865,7 @@ En 2026 cada línea de celular se vincula con la CURP de su titular. Puedes cons
 
 Rompe antes de tirar estados de cuenta, cartas del banco y copias de identificaciones. No compartas fotos de tu INE ni de tus tarjetas por mensaje.
 
-> **Antes de actuar, verifica:** el reporte gratuito solo se pide en los sitios oficiales de Buró de Crédito y Círculo de Crédito, nunca con gestores.
+> **Antes de actuar, verifica:** el reporte sin costo solo se pide en los sitios oficiales de Buró de Crédito y Círculo de Crédito, nunca con gestores.
 
 
 
@@ -881,7 +881,7 @@ A Carmen le cobran una tarjeta departamental que nunca tramitó.
 **Caso 2. Las líneas de Lucía**
 
 Lucía no sabe si alguien usó su CURP para contratar celulares.
-- *¿Qué hace?* Consulta gratis las líneas registradas con su CURP y desvincula las que no son suyas.
+- *¿Qué hace?* Consulta sin costo las líneas registradas con su CURP y desvincula las que no son suyas.
 
 
 **Caso 3. Los papeles de Maru**
@@ -897,7 +897,7 @@ Maru tira a la basura estados de cuenta completos.
 | No revisar tu reporte | Te enteras tarde | Una vez al año |
 | Copias de INE sin nota | Las usan para otra cosa | Anota para qué es |
 | Tirar papeles enteros | Roban tus datos | Rómpelos |
-| Pagar a gestores | Es gratis | Hazlo tú |
+| Pagar a gestores | Es sin costo | Hazlo tú |
 
 ### Practica
 
@@ -912,7 +912,7 @@ Maru tira a la basura estados de cuenta completos.
 1. Te cobran un crédito que nunca pediste. ¿Qué haces primero? a) Lo pagas para que no te afecte · b) Esperas a que dejen de llamar, porque la deuda no es tuya · c) Pides tu reporte de crédito y reclamas
 2. ¿Cuánto cuesta consultar las líneas con tu CURP? a) Nada · b) Lo que cobre cada compañía · c) Una cuota anual al gobierno
 3. ¿Qué haces con estados de cuenta viejos? a) Los guardas sueltos en un cajón · b) Los rompes antes de tirarlos · c) Los tiras enteros a la basura
-**Respuestas:** 1-c: primero sabes qué hay. 2-a: es gratuito. 3-b: así no roban tus datos.
+**Respuestas:** 1-c: primero sabes qué hay. 2-a: no tiene costo. 3-b: así no roban tus datos.
 
 
 
@@ -925,14 +925,14 @@ Escribe los cinco pasos si alguien usa tus datos.
 
 #### A tu plan
 
-Pide tu reporte de crédito gratis este mes y consulta las líneas registradas con tu CURP.
+Pide tu reporte de crédito sin costo este mes y consulta las líneas registradas con tu CURP.
 
 
 
 ### Para saber más
 
-- **Reporte de Crédito Especial y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte gratis y «Bloqueo Buró».
-- **Reporte de Círculo de Crédito** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** reporte gratis.
+- **Reporte de Crédito Especial y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte sin costo y «Bloqueo Buró».
+- **Reporte de Círculo de Crédito** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** reporte sin costo.
 - **Consulta de líneas** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx — **Qué buscar:** plataformas de consulta de las compañías.
 
 ### Palabras clave
@@ -951,7 +951,7 @@ Buró de Crédito · Círculo de Crédito · Comisión Reguladora de Telecomunic
 
 **Lo que lograrás:** Inscribir tus números en el REPEP de Profeco y en el REUS de CONDUSEF para recibir menos llamadas de publicidad, y saber qué no cubren.
 
-**Para empezar:** A Carmen le llaman diez veces al día: tarjetas, seguros, tiempos compartidos. Entre tantas llamadas, ya no distingue cuál es de verdad y cuál es un fraude. En esta lección limpiarás tu teléfono con dos registros gratuitos.
+**Para empezar:** A Carmen le llaman diez veces al día: tarjetas, seguros, tiempos compartidos. Entre tantas llamadas, ya no distingue cuál es de verdad y cuál es un fraude. En esta lección limpiarás tu teléfono con dos registros sin costo.
 
 ### Lo esencial (5 minutos)
 
@@ -961,20 +961,20 @@ Si casi nadie te llama para venderte, una llamada extraña salta a la vista. Por
 
 
 
-#### Dos registros gratuitos
+#### Dos registros sin costo
 
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
 | REPEP de Profeco | Publicidad de tiendas, telefonía, viajes. | Fijo o celular, sin vencimiento. |
 | REUS de CONDUSEF | Publicidad de bancos y aseguradoras. | Dura dos años. |
 | Lo que no cubren | Cobranza, fraudes, encuestas, partidos. | Para fraudes: cuelga. |
-| Nadie cobra | Los registros son gratis. | Quien cobre, estafa. |
+| Nadie cobra | Los registros no tienen costo. | Quien cobre, estafa. |
 
 #### Cómo inscribirte
 
 En el REPEP inscribes cada número en repep.profeco.gob.mx o por teléfono. En el REUS te registras en el sitio de CONDUSEF o por su teléfono.
 
-> **Dato vigente:** REPEP: gratis, fijo o celular; 55 5568 8722 (Ciudad de México) u 800 468 8722; 30 días para que dejen de llamar; no vence. REUS: hasta 45 días naturales; dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
+> **Dato vigente:** REPEP: sin costo, fijo o celular; 55 5568 8722 (Ciudad de México) u 800 468 8722; 30 días para que dejen de llamar; no vence. REUS: hasta 45 días naturales; dura dos años; 55 5340 0999 u 800 999 8080. Consultado el 29 de septiembre de 2026 a través de Profeco y la CONDUSEF.
 
 
 
@@ -982,7 +982,7 @@ En el REPEP inscribes cada número en repep.profeco.gob.mx o por teléfono. En e
 
 Carmen inscribió su celular y el fijo en el REPEP y se registró en el REUS. Al mes y medio recibía muchas menos llamadas.
 
-> **Idea clave:** los dos registros son gratis; nadie te debe cobrar por inscribirte.
+> **Idea clave:** los dos registros no tienen costo; nadie te debe cobrar por inscribirte.
 
 
 
@@ -1047,7 +1047,7 @@ Un banco llama a Lucía cada semana para ofrecerle una tarjeta.
 **Caso 3. El cobro de Elena**
 
 Le llaman a Elena para «inscribirla en el REPEP» por 300 pesos.
-- *¿Qué hace?* No paga: el registro es gratis y lo hace ella en el sitio oficial.
+- *¿Qué hace?* No paga: el registro no tiene costo y lo hace ella en el sitio oficial.
 
 
 #### Errores frecuentes
@@ -1072,7 +1072,7 @@ Le llaman a Elena para «inscribirla en el REPEP» por 300 pesos.
 1. ¿Dónde inscribes tu número contra la publicidad de tiendas? a) En el REUS · b) En el REPEP · c) En el Buró de Crédito
 2. ¿Cada cuánto renuevas el REUS? a) Cada dos años · b) Nunca, es permanente · c) Cada mes
 3. Te cobran por inscribirte en el REPEP. ¿Qué es? a) Una cuota oficial · b) Un servicio exprés · c) Un fraude
-**Respuestas:** 1-b: cubre bienes y servicios. 2-a: dura dos años. 3-c: es gratis.
+**Respuestas:** 1-b: cubre bienes y servicios. 2-a: dura dos años. 3-c: no tiene costo.
 
 
 

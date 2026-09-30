@@ -186,7 +186,7 @@ DIR · EDD · IRS · U.S. Department of Labor, accessed September 29, 2026.
 
 #### A case in one minute
 
-Daniela figured out what she keeps per channel. On one platform she kept $20; on her own site, $26, but she sells less. She raised her platform price to $44 and offers free shipping on her site for two or more pieces.
+Daniela figured out what she keeps per channel. On one platform she kept $20; on her own site, $26, but she sells less. She raised her platform price to $44 and offers no-cost shipping on her site for two or more pieces.
 
 > **Key idea:** set your price by channel, with all fees and shipping, and report everything you sell.
 
@@ -518,7 +518,7 @@ Lupita set order hours from 8 to 6 and an automatic reply. She takes Mondays off
 
 #### If the stress doesn't go down
 
-If you haven't slept for weeks, feel there's no way out or think about hurting yourself, call or text 988: the Suicide & Crisis Lifeline is free, 24 hours a day, in English and Spanish.
+If you haven't slept for weeks, feel there's no way out or think about hurting yourself, call or text 988: the Suicide & Crisis Lifeline costs nothing, 24 hours a day, in English and Spanish.
 
 
 
@@ -571,7 +571,7 @@ Don Ramón and his daughter argue about the food truck at dinner.
 1. Customers message you at midnight. What do you do? a) Always answer so you don't lose them · b) Post your hours and an automatic reply · c) Turn off your phone for a week
 2. Sales were low this month. What do you do with your numbers? a) Review them calmly and decide on one action · b) Don't look so you don't worry · c) Delete them
 3. You haven't slept for weeks and feel there's no way out. Who do you call? a) Nobody, you tough it out · b) Someone who'll lend you money · c) 988
-**Answers:** 1-b: clear limits. 2-a: decide with data. 3-c: free help 24 hours.
+**Answers:** 1-b: clear limits. 2-a: decide with data. 3-c: no-cost help 24 hours.
 
 
 
@@ -599,5 +599,302 @@ Post your order hours and choose your day off.
 ### Sources
 
 988 Suicide & Crisis Lifeline, accessed September 29, 2026.
+
+---
+
+## M8 U05. Your one-page business plan and how to pitch it
+
+**What you will be able to do:** Summarize your business in a one-page plan, pitch it in two minutes to a bank, a program or a mentor, and know no-cost support and financing options without falling for scams.
+
+**To start:** Daniela wants a microloan to buy seasonal inventory, and they ask for "a business plan and a short pitch." She has never made one. In this lesson you'll build yours.
+
+### The essentials (5 minutes)
+
+#### Your one-page business plan
+
+| Question | Your answer |
+|---|---|
+| What problem do you solve and for whom? | |
+| What do you sell and at what price? | |
+| What does it cost you and what do you keep? | |
+| How much do you sell a month and what's your break-even point? | |
+| Who is your competition and why do customers choose you? | |
+| What do you need (money, equipment, training) and for what? | |
+| How would you repay it or what result would you deliver? | |
+
+
+
+#### Your two-minute pitch
+
+1. The problem and who you solve it for.
+2. What you sell and why customers choose you.
+3. Your numbers: sales, margin and break-even point.
+4. What you need and how you'd use it.
+5. How you'd repay it or what you'd achieve.
+
+
+
+#### Free support
+
+The SBA has Small Business Development Centers (SBDCs), Women's Business Centers and SCORE volunteer mentors, with no-cost advice, often in Spanish too. They help you build your plan and find financing, including microloans from community development financial institutions (CDFIs).
+
+
+
+#### A case in one minute
+
+Daniela booked a no-cost appointment with an SBDC. With her advisor she filled in her page using her records and practiced her pitch. She got a microloan from a CDFI with a payment schedule that fit her cash flow.
+
+> **Key idea:** your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve.
+
+
+
+#### Check your understanding
+
+1. What numbers go in your pitch?
+*Answer:* Sales, margin and break-even point.
+
+2. Where do you get no-cost help with your plan?
+*Answer:* At an SBDC, a Women's Business Center or SCORE.
+
+
+#### Remember
+
+- One page, seven questions.
+- Two minutes, five parts.
+- Free advice; no one charges to "guarantee" a loan.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Crowdfunding
+
+In donation or reward crowdfunding, people contribute in exchange for a product or to support you. If you offer investors a share of your business, it must go through a funding portal registered with the SEC. Check fees and what you promise.
+
+
+
+#### Fake loans and grants
+
+No one should charge you up front to "approve" a loan or give you a government grant. The SBA doesn't call to ask for payments. Look up programs at sba.gov.
+
+> **Before you act, check:** that the program is on an official site (.gov) and that the lender is a registered institution or a certified CDFI.
+
+
+
+#### Cases
+
+
+**Case 1. Daniela's microloan**
+
+Daniela is asked for a business plan and a short pitch.
+- *What does she do?* She gets no-cost help at an SBDC and fills in her plan with her records.
+
+
+**Case 2. Javier's "grant"**
+
+A caller offers Javier a federal grant if he pays a $300 processing fee.
+- *What does he do?* He doesn't pay: grants don't charge fees; he searches sba.gov.
+
+
+**Case 3. Lupita's "no"**
+
+The bank turned down Lupita's loan for a bigger kitchen.
+- *What does she do?* She asks why, improves her records and looks for a CDFI.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Plan without numbers | Not convincing | Your records |
+| Long pitch | You lose attention | Two minutes |
+| Paying up front | Scam | Official site |
+| Giving up after one no | You miss the chance | Ask what to improve |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Daniela, Javier and Lupita. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. What comes first in your pitch? a) The problem you solve and for whom · b) What you need · c) Your whole life story
+2. You're asked for $300 to "approve" a federal grant. What is it? a) A normal fee · b) A deposit · c) A scam
+3. Your loan is denied. What do you do? a) Take an expensive cash advance · b) Ask why and get help to try again · c) Stop trying
+**Answers:** 1-a: that's how they understand your business. 2-c: no one charges for a grant. 3-b: a no teaches you too.
+
+
+
+#### Put it into practice
+
+You sell $6,000 a month with a 30% margin. How much do you keep to cover your fixed costs?
+**Answer:** $1,800.
+
+
+
+#### Your plan
+
+Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE.
+
+
+
+### Learn more
+
+- **Business counseling** (SBA · English and Spanish): https://www.sba.gov | What to look for: "SBDC", "Women's Business Center" and "SCORE".
+- **Certified CDFIs** (CDFI Fund · English): https://www.cdfifund.gov.
+
+### Key words
+
+- *Business plan:* a summary of what you sell, to whom, what you earn and what you need.
+- *CDFI:* a community development financial institution that lends to businesses traditional banks don't serve.
+- *Mentor:* an experienced person who advises you at no cost.
+
+### Sources
+
+SBA · SCORE · CDFI Fund · SEC, accessed September 30, 2026.
+
+---
+
+## M8 U06. Your business and its surroundings: competition, economy, community and rule changes
+
+**What you will be able to do:** Keep track of what happens around your business (competition, prices, rates, laws and your community), get information from reliable sources and adjust your plan in time.
+
+**To start:** Two new food trucks arrived on Don Ramón's street, the county health permit went up and an IRS rule changed. Don Ramón found out late about all of it. In this lesson you'll see how to stay informed without getting overwhelmed.
+
+### The essentials (5 minutes)
+
+#### What you watch
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Competition | Who arrives, what they sell and at what price. | What makes you different. |
+| Economy | Inflation and interest rates. | Your costs and loans. |
+| Laws and rules | IRS, state, county and city. | Deadlines and obligations. |
+| Your community | Road work, events, seasons. | Opportunities and risks. |
+
+#### Reliable sources
+
+For taxes and rules: official IRS, state, county and city websites. For the economy: the Federal Reserve and the BLS. To learn: the SBA, SBDCs and Hispanic chambers of commerce. Social media rumors are not a source.
+
+
+
+#### A case in one minute
+
+Don Ramón set aside 15 minutes every Monday to check competitors' prices and county notices. Facing the new trucks, he added phone orders for nearby offices and changed his hours. His sales recovered in three months.
+
+> **Key idea:** watch competition, the economy, laws and your community through reliable sources, and adjust your plan in time.
+
+
+
+#### Check your understanding
+
+1. Where do you confirm a tax rule change?
+*Answer:* On the official IRS or state website.
+
+2. What do you do if new competition arrives?
+*Answer:* See what makes you different and adjust your offer.
+
+
+#### Remember
+
+- Four things to watch.
+- Official sources.
+- 15 minutes a week.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Your business has an impact too
+
+Your business creates jobs, buys from local suppliers and shares the street with your neighbors. Taking care of trash, noise and fair treatment also protects your reputation and your customers.
+
+
+
+#### Keep learning
+
+Figure out what you still need to know (taxes, online sales, costs) and look for no-cost training: SBDCs, SCORE, public libraries and community colleges. If you have staff, share what you learn.
+
+> **Before you act, check:** any law or procedure change on the official site and, if it affects you, ask your tax preparer.
+
+
+
+#### Cases
+
+
+**Case 1. The new trucks**
+
+Two food trucks arrived on Don Ramón's street.
+- *What does he do?* He sees what makes him different and adjusts his service and hours.
+
+
+**Case 2. Javier's warning**
+
+A group chat says "the IRS now taxes every Zelle payment."
+- *What does he do?* He checks the IRS website and his tax preparer before acting.
+
+
+**Case 3. Lupita's road work**
+
+The city will repair Lupita's street for a month.
+- *What does she do?* She plans with her reserve and tells customers how to pick up.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Finding out late | You lose sales | 15 minutes a week |
+| Believing rumors | Bad decisions | Official source |
+| Competing only on price | Margin slips away | What makes you different |
+| Ignoring the community | You lose reputation | Good neighbor |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Javier and Lupita. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. New competition arrives on your street. What do you do? a) Cut prices even at a loss · b) See what makes you different and adjust your offer · c) Close
+2. Social media says an IRS rule changed. What do you do? a) Check the IRS website and your tax preparer · b) Stop accepting app payments · c) Share it with all your customers
+3. Where do you check inflation? a) In a bank ad · b) In a social media group · c) At the BLS
+**Answers:** 1-b: compete with what sets you apart. 2-a: confirm first. 3-c: official source.
+
+
+
+#### Put it into practice
+
+You review your surroundings 15 minutes every week. How many hours is that a year?
+**Answer:** 13 hours (15 × 52 = 780 minutes).
+
+
+
+#### Your plan
+
+Set aside 15 minutes a week to check competition, official notices and your costs.
+
+
+
+### Learn more
+
+- **Small business taxes** (IRS · English and Spanish): https://www.irs.gov.
+- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi.
+- **Training** (SBA · English and Spanish): https://www.sba.gov.
+
+### Key words
+
+- *Surroundings:* what happens around your business and affects it: competition, economy, laws and community.
+- *Reputation:* what your customers and neighbors think of your business.
+
+### Sources
+
+IRS · BLS · Federal Reserve · SBA, accessed September 30, 2026.
 
 ---

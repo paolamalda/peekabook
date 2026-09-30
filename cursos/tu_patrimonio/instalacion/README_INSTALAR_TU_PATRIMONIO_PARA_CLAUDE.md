@@ -27,9 +27,13 @@ Reglas:
 |---|---|
 | Nombre | Tu Patrimonio, Tu Tranquilidad, Tu Futuro |
 | Nombre corto | TPTF-MX |
-| Visibilidad | **Ocultar** |
-| Formato | Temas, 13 secciones |
+| Visibilidad | **Mostrar** |
+| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. 13 secciones |
 | Seguimiento de finalización | Sí |
+
+**Formato Mosaicos (si existe):** en la configuración del curso, *Mostrar progreso en los mosaicos*: **como porcentaje**; un ícono por módulo acorde a su tema; la sección General arriba de los mosaicos. Si Mosaicos no existe, usa Temas con "Mostrar una sección por página".
+
+**Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.
 
 ## 2. Secciones
 
@@ -62,12 +66,12 @@ En cada sección de módulo:
 
 | Módulo | Capítulos | Páginas |
 |---|---|---|
-| M1 | 4 | 16 |
+| M1 | 5 | 20 |
 | M2 | 4 | 16 |
 | M3 | 5 | 20 |
 | M4 | 8 | 32 |
-| M5 | 4 | 16 |
-| M6 | 5 | 20 |
+| M5 | 7 | 28 |
+| M6 | 6 | 24 |
 | M7 | 6 | 24 |
 | M8 | 6 | 24 |
 | M9 | 3 | 12 |
@@ -84,15 +88,15 @@ En la sección 12, crea el glosario `Palabras clave del curso` e importa `3_glos
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tptf.gift.txt`. Se crean *Tu Patrimonio/M1* a *M11*, con 162 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tptf.gift.txt`. Se crean *Tu Patrimonio v1.2/M1* a *M11*, con 177 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Patrimonio/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Patrimonio v1.2/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 12 | 12 | 15 | 24 | 12 | 15 | 18 | 18 | 9 | 18 | 9 |
+| 15 | 12 | 15 | 24 | 21 | 18 | 18 | 18 | 9 | 18 | 9 |
 
-## 7. Actividades H5P (54)
+## 7. Actividades H5P (59)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 
@@ -106,23 +110,36 @@ Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en
 
 **Comprueba:** abre 3 actividades al azar con *Cambiar rol a > Estudiante*. Debes ver 3 casos, 3 opciones por caso y la calificación al terminar.
 
-## 8. Level Up, insignias, finalización y constancia
+## 8. Encuestas del programa
 
-Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`), 4 (finalización con las 11 autoevaluaciones) y 5 (constancia con `6_certificado/certificado_fondo.png`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
+En `8_encuestas/` están las encuestas y su documento `encuestas.md`. Usa el módulo **Retroalimentación** (Feedback), modo **anónimo**, y en cada una *Plantillas > Importar preguntas* con su XML (si la importación falla, créalas a mano con `encuestas.md`):
+
+| Actividad | Sección | Archivo | Finalización |
+|---|---|---|---|
+| `Encuesta de inicio` | General | `encuesta_inicio.xml` | Enviar |
+| `Encuesta final` | 13 | `encuesta_final.xml` | Enviar; es requisito de la constancia |
+| `Seguimiento a 30 días` | 13 | `encuesta_seguimiento.xml` | Enviar |
+| `Seguimiento a 90 días` | 13 | `encuesta_seguimiento.xml` | Enviar |
+
+Restringe los seguimientos por fecha: 30 y 90 días después de la fecha de fin de la cohorte ("[por definir]"). La encuesta final es la evidencia de resultados del programa: no la omitas.
+
+## 9. Level Up, insignias, finalización y constancia
+
+Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`; cada nombre lleva el curso para que sea único en la plataforma), 4 (finalización con las 11 autoevaluaciones) y 5 (constancia con la plantilla estándar y los datos de `6_constancia/constancia.md`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
 
 ## 9. Comunidad y acompañamiento (pregunta antes)
 
 Este curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe "[por definir]" y repórtalo).
 
-## 10. Revisión final (con rol de estudiante)
+## 11. Revisión final (con rol de estudiante)
 
 - M1 U01: portada primero, dos botones de ruta, términos en color con su significado y recuadros "Dato vigente" o "Antes de actuar, verifica".
 - Una H5P por módulo abre, muestra 3 casos y registra calificación.
 - Una autoevaluación muestra 3 opciones por pregunta.
 - El libro de apoyo muestra "Ver la clave" en los casos integradores y las preguntas frecuentes desplegables.
 
-## 11. Reporte para la persona
+## 12. Reporte para la persona
 
-Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de una portada, una H5P, una autoevaluación y la vista previa de la constancia.
+Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; encuestas creadas; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de la portada en mosaicos, una H5P, una autoevaluación y la vista previa de la constancia.
 
-El curso queda **oculto**. La persona decide cuándo mostrarlo.
+El curso queda **visible**, con inscripción por clave. Para la ficha del catálogo usa `tarjeta_catalogo.md`.

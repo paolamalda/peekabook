@@ -5,6 +5,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Tu negocio y tu casa: dinero separado
 
 - **Autoexclusión:** opción para bloquear tu propia cuenta de apuestas por un tiempo.
+- **Autonomía económica:** poder ganar, tener y decidir sobre tu propio dinero.
 - **Corte:** suma de ventas y gastos de un periodo para saber cuánto ganaste.
 - **Cuenta del negocio:** cuenta o caja que usas solo para cobrar y pagar cosas del negocio.
 - **Excedente:** lo que sobra después de pagar costos y tu sueldo.
@@ -13,6 +14,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Registro:** lista de lo que entra y sale del negocio, con fecha y concepto.
 - **Sueldo del dueño:** cantidad fija que el negocio te paga cada semana o quincena por tu trabajo.
 - **Ventas:** todo lo que cobras a tus clientes, antes de restar lo que te costó.
+- **Violencia económica:** cuando otra persona controla, retiene o usa tu dinero o tus bienes para dominarte.
 
 ## Costos y precio
 
@@ -33,7 +35,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Anticipo:** parte del pago que el cliente da antes de que hagas el trabajo.
 - **Fiado:** venta que el cliente paga después, sin intereses, basada en la confianza.
 - **Flujo de efectivo:** el dinero que realmente entra y sale del negocio, y cuándo.
+- **Inflación:** aumento general de los precios con el tiempo.
 - **Reserva del negocio:** dinero apartado para cubrir los costos fijos del negocio en meses flojos o imprevistos.
+- **Tasa variable:** tasa de interés que puede cambiar durante el crédito.
 - **Temporada baja:** meses en que tu negocio vende menos.
 
 ## Cobrar y vender sin perder
@@ -72,10 +76,12 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **CAT:** Costo Anual Total: indicador que suma intereses y comisiones para comparar créditos.
 - **Crédito de proveedores:** plazo que te da un proveedor para pagar la mercancía.
 - **Escenario prudente:** cálculo con ventas menores a las esperadas.
+- **Fiador:** persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
 - **Garantía:** bien o persona que respalda el pago de un crédito.
 - **Montadeudas:** prestamistas o apps que cobran con amenazas y costos abusivos.
 - **Obligado solidario:** persona que responde por la deuda igual que tú.
 - **Pago mínimo:** lo menos que puedes pagar de tu tarjeta; la deuda casi no baja.
+- **Referencia personal:** persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
 - **SIPRES:** Sistema de Registro de Prestadores de Servicios Financieros de CONDUSEF.
 
 ## Protege tu negocio
@@ -106,10 +112,15 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 ## Crecer con orden
 
 - **CFDI de retenciones:** comprobante de lo que te retuvieron.
+- **Entorno:** lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.
 - **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.
+- **Fondeo colectivo:** dinero que reúnen muchas personas para un proyecto, a través de una plataforma autorizada.
+- **Incubadora:** organización que apoya a negocios nuevos con asesoría, capacitación o espacio.
+- **Plan de negocio:** resumen de qué vendes, a quién, cuánto ganas y qué necesitas.
 - **Plataforma digital:** sitio o app que conecta a vendedores y compradores y cobra una comisión.
 - **Prestaciones:** derechos de la persona trabajadora además del sueldo, como aguinaldo y vacaciones.
 - **Relación laboral:** trabajo subordinado, con horario y pago, que genera obligaciones para el patrón.
+- **Reputación:** lo que tus clientes y vecinos piensan de tu negocio.
 - **Tablero:** tabla con los números clave del negocio cada mes.
 - **Ticket promedio:** lo que gasta en promedio cada cliente por compra: ventas entre número de ventas.
 

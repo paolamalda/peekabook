@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Turno/M1
+$CATEGORY: $course$/Tu Turno v1.2/M1
 
 ::M1 U01 P1::¿Con qué cifra haces tu presupuesto? {
 	~Con tu salario antes de descuentos, porque es lo que ganas #No es la mejor opción. Es el dinero real.
@@ -90,7 +90,25 @@ $CATEGORY: $course$/Tu Turno/M1
 	=Buscas ayuda, por ejemplo en la Línea de la Vida #¡Correcto! Pedir ayuda es cuidarte.
 }
 
-$CATEGORY: $course$/Tu Turno/M2
+::M1 U06 P1::Un producto cuesta 99 a la semana durante 52 semanas. ¿Cuánto pagas en total? {
+	~99 #No es la mejor opción. 99 por 52.
+	~1,188, lo mismo que 12 pagos #No es la mejor opción. 99 por 52.
+	=5,148 #¡Correcto! 99 por 52.
+}
+
+::M1 U06 P2::¿Cómo comparas dos tamaños de un producto? {
+	=Por el precio por unidad #¡Correcto! Así ves cuál rinde más.
+	~Siempre el más grande #No es la mejor opción. Así ves cuál rinde más.
+	~Por el que tenga más publicidad #No es la mejor opción. Así ves cuál rinde más.
+}
+
+::M1 U06 P3::Un anuncio dice «solo hoy». ¿Qué haces? {
+	~Compras antes de que se acabe #No es la mejor opción. La prisa es una técnica de venta.
+	=Esperas un día y revisas si lo necesitas #¡Correcto! La prisa es una técnica de venta.
+	~Pides prestado para aprovechar #No es la mejor opción. La prisa es una técnica de venta.
+}
+
+$CATEGORY: $course$/Tu Turno v1.2/M2
 
 ::M2 U01 P1::¿Qué es la cuenta básica? {
 	~Una cuenta con comisiones bajas pero con tarjeta de crédito #No es la mejor opción. Es tu derecho.
@@ -129,9 +147,9 @@ $CATEGORY: $course$/Tu Turno/M2
 }
 
 ::M2 U03 P1::¿Qué hace la CONDUSEF? {
-	~Presta dinero en emergencias a quien lo necesita #No es la mejor opción. Es sin costo.
-	=Orienta y defiende sin costo #¡Correcto! Es sin costo.
-	~Cobra deudas #No es la mejor opción. Es sin costo.
+	~Presta dinero en emergencias a quien lo necesita #No es la mejor opción. No tiene costo.
+	=Orienta y defiende sin costo #¡Correcto! No tiene costo.
+	~Cobra deudas #No es la mejor opción. No tiene costo.
 }
 
 ::M2 U03 P2::¿Dónde verificas que una financiera existe? {
@@ -146,7 +164,61 @@ $CATEGORY: $course$/Tu Turno/M2
 	~Nada #No es la mejor opción. Es tu constancia.
 }
 
-$CATEGORY: $course$/Tu Turno/M3
+::M2 U04 P1::Te llega una cadena que dice que el banco congelará cuentas. ¿Qué haces? {
+	=Lo confirmas en la fuente oficial y no lo reenvías #¡Correcto! Confirma antes.
+	~Sacas todo tu dinero hoy #No es la mejor opción. Confirma antes.
+	~Lo reenvías para avisar a todos #No es la mejor opción. Confirma antes.
+}
+
+::M2 U04 P2::¿Quién orienta sin costo sobre créditos y seguros? {
+	~Un gestor que cobra por adelantado #No es la mejor opción. Sin costo y sin venderte nada.
+	=CONDUSEF #¡Correcto! Sin costo y sin venderte nada.
+	~El vendedor del crédito #No es la mejor opción. Sin costo y sin venderte nada.
+}
+
+::M2 U04 P3::Suben los precios del transporte. ¿Qué haces? {
+	~Pides prestado para cubrir la diferencia #No es la mejor opción. El plan se ajusta.
+	~Sigues igual #No es la mejor opción. El plan se ajusta.
+	=Ajustas tu presupuesto #¡Correcto! El plan se ajusta.
+}
+
+::M2 U05 P1::Tu ahorro paga 2% al año y la inflación es de 4%. ¿Qué pasa? {
+	~Tu dinero crece 6% #No es la mejor opción. 2 menos 4 es menos 2.
+	=Pierdes poder de compra #¡Correcto! 2 menos 4 es menos 2.
+	~No pasa nada #No es la mejor opción. 2 menos 4 es menos 2.
+}
+
+::M2 U05 P2::¿Qué es el interés compuesto? {
+	~Una comisión del banco por abrir tu cuenta #No es la mejor opción. Por eso crece cada vez más.
+	~Un impuesto #No es la mejor opción. Por eso crece cada vez más.
+	=Interés sobre el dinero y sobre los intereses ya ganados #¡Correcto! Por eso crece cada vez más.
+}
+
+::M2 U05 P3::¿Qué pasa con una deuda si solo pagas el mínimo? {
+	=Crece con interés sobre interés #¡Correcto! El interés compuesto trabaja en tu contra.
+	~Se paga sola #No es la mejor opción. El interés compuesto trabaja en tu contra.
+	~Baja más rápido #No es la mejor opción. El interés compuesto trabaja en tu contra.
+}
+
+::M2 U06 P1::¿Qué haces antes de invertir? {
+	~Pides un préstamo para empezar #No es la mejor opción. Primero tu colchón.
+	=Juntas tu fondo de emergencia y pagas tus deudas caras #¡Correcto! Primero tu colchón.
+	~Inviertes lo de la renta #No es la mejor opción. Primero tu colchón.
+}
+
+::M2 U06 P2::Te ofrecen 10% al mes «sin riesgo». ¿Qué es? {
+	=Casi seguro un fraude #¡Correcto! Nadie garantiza tanto.
+	~Una buena oportunidad #No es la mejor opción. Nadie garantiza tanto.
+	~Una inversión del gobierno #No es la mejor opción. Nadie garantiza tanto.
+}
+
+::M2 U06 P3::¿Qué es diversificar? {
+	~Poner todo en lo que más sube #No es la mejor opción. Así no dependes de una sola.
+	~Cambiar de inversión cada semana #No es la mejor opción. Así no dependes de una sola.
+	=Repartir tu dinero en distintas inversiones #¡Correcto! Así no dependes de una sola.
+}
+
+$CATEGORY: $course$/Tu Turno v1.2/M3
 
 ::M3 U01 P1::¿Qué va en tu lista de deudas? {
 	=Todas tus deudas, incluidas las de personas #¡Correcto! Todas cuentan.
@@ -238,7 +310,7 @@ $CATEGORY: $course$/Tu Turno/M3
 	~Que el bono sea grande #No es la mejor opción. Sin permiso no hay a quién reclamar.
 }
 
-$CATEGORY: $course$/Tu Turno/M4
+$CATEGORY: $course$/Tu Turno v1.2/M4
 
 ::M4 U01 P1::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
 	=3,200 #¡Correcto! 400 por 8.
@@ -276,7 +348,25 @@ $CATEGORY: $course$/Tu Turno/M4
 	=Ahorrar también en una cuenta aparte #¡Correcto! Protegido y tuyo.
 }
 
-$CATEGORY: $course$/Tu Turno/M5
+::M4 U03 P1::¿Dónde revisas tus puntos y tu ahorro de vivienda? {
+	~Con un gestor #No es la mejor opción. Sitio oficial.
+	~En tu banco #No es la mejor opción. Sitio oficial.
+	=En Mi Cuenta Infonavit con tu NSS #¡Correcto! Sitio oficial.
+}
+
+::M4 U03 P2::Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? {
+	=No pagas\: el trámite no tiene costo #¡Correcto! Sin intermediarios.
+	~Pagas la mitad #No es la mejor opción. Sin intermediarios.
+	~Le das tu contraseña para agilizar #No es la mejor opción. Sin intermediarios.
+}
+
+::M4 U03 P3::¿Qué revisas antes de firmar un crédito de vivienda? {
+	~Solo el color de la casa #No es la mejor opción. Tu presupuesto manda.
+	=Cuánto te descontarán de la quincena y si te alcanza #¡Correcto! Tu presupuesto manda.
+	~Lo que opine el vendedor #No es la mejor opción. Tu presupuesto manda.
+}
+
+$CATEGORY: $course$/Tu Turno v1.2/M5
 
 ::M5 U01 P1::¿Qué es el Buró de Crédito? {
 	~Una lista negra de personas que no pagan sus deudas #No es la mejor opción. Guarda lo bueno y lo malo.
@@ -332,7 +422,25 @@ $CATEGORY: $course$/Tu Turno/M5
 	~Pedir otro crédito #No es la mejor opción. No se te pasa la fecha.
 }
 
-$CATEGORY: $course$/Tu Turno/M6
+::M5 U04 P1::Diste tu nombre y teléfono como referencia para la tarjeta de un amigo. ¿Te pueden cobrar? {
+	~Sí, la mitad #No es la mejor opción. La referencia no se obliga.
+	~Sí, si él no paga #No es la mejor opción. La referencia no se obliga.
+	=No, solo diste tus datos #¡Correcto! La referencia no se obliga.
+}
+
+::M5 U04 P2::¿Quién responde por todo el contrato como si hubiera pedido el crédito? {
+	=El obligado solidario #¡Correcto! Por eso le pueden cobrar directo.
+	~La referencia personal #No es la mejor opción. Por eso le pueden cobrar directo.
+	~El vendedor #No es la mejor opción. Por eso le pueden cobrar directo.
+}
+
+::M5 U04 P3::Un despacho te presiona para pagar una deuda de la que solo eres referencia. ¿Qué haces? {
+	~Pagas para que dejen de llamar #No es la mejor opción. No pueden cobrar a referencias.
+	=No pagas y te quejas en el REDECO #¡Correcto! No pueden cobrar a referencias.
+	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
+}
+
+$CATEGORY: $course$/Tu Turno v1.2/M6
 
 ::M6 U01 P1::Te piden el código que te llegó «para cancelar un cargo». ¿Qué haces? {
 	~Lo das si la persona sabe tu nombre completo #No es la mejor opción. El banco no pide códigos.
@@ -407,9 +515,9 @@ $CATEGORY: $course$/Tu Turno/M6
 }
 
 ::M6 U05 P1::¿Cuánto cuesta inscribirte en el REPEP? {
-	=Nada #¡Correcto! Es sin costo.
-	~150 pesos al año #No es la mejor opción. Es sin costo.
-	~Lo que cobre tu compañía de celular #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! No tiene costo.
+	~150 pesos al año #No es la mejor opción. No tiene costo.
+	~Lo que cobre tu compañía de celular #No es la mejor opción. No tiene costo.
 }
 
 ::M6 U05 P2::¿Qué haces con la copia de tu INE que entregas? {
@@ -442,7 +550,7 @@ $CATEGORY: $course$/Tu Turno/M6
 	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
 }
 
-$CATEGORY: $course$/Tu Turno/M7
+$CATEGORY: $course$/Tu Turno v1.2/M7
 
 ::M7 U01 P1::¿Dónde guardas tu fondo? {
 	~En una tanda con tus compañeros #No es la mejor opción. Seguro y disponible.
@@ -516,7 +624,7 @@ $CATEGORY: $course$/Tu Turno/M7
 	=Fotos de tus cosas y la póliza #¡Correcto! Prueba de lo perdido.
 }
 
-$CATEGORY: $course$/Tu Turno/M8
+$CATEGORY: $course$/Tu Turno v1.2/M8
 
 ::M8 U01 P1::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
 	=50 pesos #¡Correcto! Desde 50.
@@ -525,9 +633,9 @@ $CATEGORY: $course$/Tu Turno/M8
 }
 
 ::M8 U01 P2::¿Cómo sabes en qué AFORE estás? {
-	~Preguntas en tu trabajo o a un gestor que cobra poco #No es la mejor opción. Es sin costo.
-	=Con tu CURP en e-SAR #¡Correcto! Es sin costo.
-	~No se puede saber #No es la mejor opción. Es sin costo.
+	~Preguntas en tu trabajo o a un gestor que cobra poco #No es la mejor opción. No tiene costo.
+	=Con tu CURP en e-SAR #¡Correcto! No tiene costo.
+	~No se puede saber #No es la mejor opción. No tiene costo.
 }
 
 ::M8 U01 P3::Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? {
@@ -554,37 +662,19 @@ $CATEGORY: $course$/Tu Turno/M8
 	=80 #¡Correcto! 1,200 entre 15.
 }
 
-::M8 U03 P1::¿Dónde revisas tus puntos y tu ahorro de vivienda? {
-	~Con un gestor #No es la mejor opción. Sitio oficial.
-	~En tu banco #No es la mejor opción. Sitio oficial.
-	=En Mi Cuenta Infonavit con tu NSS #¡Correcto! Sitio oficial.
-}
-
-::M8 U03 P2::Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? {
-	=No pagas\: el trámite no tiene costo #¡Correcto! Sin intermediarios.
-	~Pagas la mitad #No es la mejor opción. Sin intermediarios.
-	~Le das tu contraseña para agilizar #No es la mejor opción. Sin intermediarios.
-}
-
-::M8 U03 P3::¿Qué revisas antes de firmar un crédito de vivienda? {
-	~Solo el color de la casa #No es la mejor opción. Tu presupuesto manda.
-	=Cuánto te descontarán de la quincena y si te alcanza #¡Correcto! Tu presupuesto manda.
-	~Lo que opine el vendedor #No es la mejor opción. Tu presupuesto manda.
-}
-
-::M8 U04 P1::¿Cada cuándo revisas tu plan? {
+::M8 U03 P1::¿Cada cuándo revisas tu plan? {
 	~Una vez al año, en diciembre #No es la mejor opción. Cinco minutos cada quincena.
 	=Cada día de pago #¡Correcto! Cinco minutos cada quincena.
 	~Nunca #No es la mejor opción. Cinco minutos cada quincena.
 }
 
-::M8 U04 P2::¿Qué va en tu plan? {
+::M8 U03 P2::¿Qué va en tu plan? {
 	~Tu NIP #No es la mejor opción. Son sus partes.
 	~Tus contraseñas #No es la mejor opción. Son sus partes.
 	=Tu presupuesto, deudas, ahorro, protección y AFORE #¡Correcto! Son sus partes.
 }
 
-::M8 U04 P3::Terminaste una deuda. ¿Qué haces? {
+::M8 U03 P3::Terminaste una deuda. ¿Qué haces? {
 	=Lo anotas y sumas ese pago a la siguiente #¡Correcto! Así avanzas más rápido.
 	~Pides otro crédito para celebrar #No es la mejor opción. Así avanzas más rápido.
 	~Nada #No es la mejor opción. Así avanzas más rápido.

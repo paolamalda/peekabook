@@ -167,7 +167,7 @@ SBA · Contractors State License Board (CSLB), accessed September 29, 2026.
 
 #### Selling on credit is lending
 
-When you deliver before you get paid, you lend your money interest-free. It can help you sell more, but if it grows without control, it leaves you without cash.
+When you deliver before you get paid, you lend your money no-interest. It can help you sell more, but if it grows without control, it leaves you without cash.
 
 
 
@@ -277,7 +277,7 @@ An office wants food from Don Ramón every Friday and to pay at the end of the m
 
 #### Quiz
 
-1. What is selling on credit for your business? a) A sale already collected · b) An interest-free loan to your customer · c) Extra profit
+1. What is selling on credit for your business? a) A sale already collected · b) An no-interest loan to your customer · c) Extra profit
 2. A customer hasn't paid and places another order. What do you do? a) Deliver so you don't lose them · b) Post their name on your social media to pressure them · c) No more credit until they pay
 3. What do you ask for on a big order? a) A deposit and a written agreement · b) Only their phone number · c) Nothing: trust is enough
 **Answers:** 1-b: money that hasn't come back. 2-c: clear rule. 3-a: it protects you.
@@ -465,5 +465,164 @@ Set your reserve goal and the percentage of each sale you'll set aside starting 
 ### Sources
 
 FDIC · NCUA, accessed September 29, 2026.
+
+---
+
+## M3 U04. Inflation, interest rates and compound interest in your business
+
+**What you will be able to do:** Understand how inflation raises your costs and erodes your cash, when and how to adjust prices, and how compound interest grows your reserve or your debt.
+
+**To start:** Don Ramón has sold his burrito at the same price for a year, but meat, tortillas and gas went up. He sells the same amount and keeps less. In this lesson you'll see how to protect your margin.
+
+### The essentials (5 minutes)
+
+#### Inflation raises your costs
+
+With inflation, your supplies, rent and gas go up. If your prices stay the same, your margin shrinks even if you sell the same amount.
+
+> **Current fact:** the Federal Reserve's long-run inflation goal is 2% a year; the Bureau of Labor Statistics (BLS) publishes the Consumer Price Index (CPI) every month. Accessed September 30, 2026 through the Federal Reserve and the BLS.
+
+
+
+#### Don Ramón's margin
+
+Here's how the margin on one burrito changed.
+- Sale price: **12**
+- Cost after the increases (was 6.50): **8**
+- Margin per item (was 5.50): **4**
+He sells the same, but earns almost 30% less per item.
+
+
+#### Review costs and prices every quarter
+
+Every three months, compare your costs with last quarter. If they went up, recalculate your price (M2 U02) and your break-even point (M2 U03). Raise prices a little and tell your customers, instead of one big jump.
+
+
+
+#### A case in one minute
+
+Don Ramón reviewed his five best-selling dishes: four had higher costs. He raised prices a dollar, updated his menu board and recovered his margin without losing customers.
+
+> **Key idea:** inflation raises your costs; review costs and prices every quarter and protect your margin.
+
+
+
+#### Check your understanding
+
+1. What happens to your margin if your costs rise and your prices don't?
+*Answer:* It shrinks.
+
+2. How often do you review costs and prices?
+*Answer:* Every three months.
+
+
+#### Remember
+
+- Inflation raises your costs.
+- Review every quarter.
+- Small, announced changes.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Your reserve loses value too
+
+A business reserve kept in cash loses buying power with inflation. Keep it in an insured savings account that pays interest and is still available (M3 U03).
+
+
+
+#### Rates and your loans
+
+When the Federal Reserve raises its rate, card and loan rates usually go up. If your loan has a variable rate, your payment can change. Prefer a fixed rate or calculate the payment with a higher rate.
+
+
+
+#### $10,000 at 10% a year, compounded
+
+| Year | In your reserve | In a debt |
+|---|---|---|
+| 1 | $11,000 | you owe $11,000 |
+| 3 | $13,310 | you owe $13,310 |
+| 5 | $16,105 | you owe $16,105 |
+
+> **Before you act, check:** last year's CPI at the BLS and whether your loan rate is fixed or variable.
+
+
+
+#### Cases
+
+
+**Case 1. Don Ramón's burrito**
+
+The burrito's cost went from $6.50 to $8 and Don Ramón still sells it for $12.
+- *What does he do?* He reviews his costs and raises the price a little, telling his customers.
+
+
+**Case 2. Lupita's reserve**
+
+Lupita has kept her business reserve in cash for two years.
+- *What does she do?* She moves it to an insured savings account that pays interest and stays available.
+
+
+**Case 3. Javier's credit line**
+
+Javier is offered a variable-rate credit line for a van.
+- *What does he do?* He calculates the payment with a higher rate or looks for a fixed rate.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Frozen prices | Margin slips away | Review every quarter |
+| Reserve in cash | Loses value | Insured account |
+| Variable rate without math | Payment rises | Calculate higher |
+| Raising all at once | You lose customers | Small and announced |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Lupita and Javier. Pick the best decision in each one; if you miss, you can try again. It earns experience points.
+
+
+
+#### Quiz
+
+1. Your costs rise and your price doesn't. What happens? a) Your margin shrinks · b) You earn more · c) Nothing, you sell the same
+2. What happens to a reserve kept in cash for years? a) It grows on its own · b) It stays just as useful · c) It loses buying power
+3. Your loan has a variable rate. What do you do? a) Nothing, rates always fall · b) Calculate the payment with a higher rate · c) Take another loan to cover it
+**Answers:** 1-a: that's why you review prices. 2-c: inflation wears it down. 3-b: be ready in case it rises.
+
+
+
+#### Put it into practice
+
+A supply went from $40 to $46. By what percentage did it rise?
+**Answer:** 15% (6 divided by 40).
+
+
+
+#### Your plan
+
+Write down the cost of your five best-selling items and check it again in three months.
+
+
+
+### Learn more
+
+- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi.
+- **Monetary policy** (Federal Reserve · English): https://www.federalreserve.gov | What to look for: "inflation target".
+
+### Key words
+
+- *Inflation:* a general rise in prices over time.
+- *Margin:* what you keep per item after its cost.
+- *Variable rate:* an interest rate that can change during the loan.
+
+### Sources
+
+Federal Reserve · BLS, accessed September 30, 2026.
 
 ---

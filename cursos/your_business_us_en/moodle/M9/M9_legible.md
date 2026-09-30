@@ -62,7 +62,7 @@ Don Ramón checked his account at ssa.gov: he has 52 credits and an estimate of 
 
 #### Tax advantages
 
-Contributions to a traditional IRA, SEP or Solo 401(k) can lower your taxes today; with a Roth you pay taxes today and withdraw tax-free in retirement, if you follow the rules. Withdrawing before age 59½ usually carries a penalty. Ask your preparer which one fits you.
+Contributions to a traditional IRA, SEP or Solo 401(k) can lower your taxes today; with a Roth you pay taxes today and withdraw without taxes in retirement, if you follow the rules. Withdrawing before age 59½ usually carries a penalty. Ask your preparer which one fits you.
 
 
 
@@ -224,7 +224,7 @@ If a relative will continue the business, agree in writing on when, under what c
 
 #### Will and beneficiaries
 
-The business's equipment, inventory and money are part of your estate. A will or living trust and up-to-date beneficiaries on accounts, IRAs and insurance spare your family long proceedings. There are free or low-cost legal clinics.
+The business's equipment, inventory and money are part of your estate. A will or living trust and up-to-date beneficiaries on accounts, IRAs and insurance spare your family long proceedings. There cost nothing or low-cost legal clinics.
 
 > **Before you act, check:** the steps to close with the IRS, your state and your city, and talk to an attorney about a will or transfer.
 
@@ -334,6 +334,7 @@ One page forces you to choose what matters. You pin it where you can see it and 
 | Protection | Health insurance: ___ · Business insurance: ___ · Trademark: ___ |
 | Monthly numbers | Review on day ___ |
 | Future | Social Security checked: yes / no · Retirement account: ___ · Folder: yes / no |
+| My commitment | Goal: ___ · Amount: ___ every ___ · Witness: ___ · Reminder: day ___ |
 
 
 
@@ -347,7 +348,13 @@ Set a fixed date, for example alongside your estimated payments. Update the numb
 
 Daniela filled in her page in one afternoon. Two things were missing: her retirement account and checking her trademark. She made them goals for next quarter.
 
-> **Key idea:** your plan fits on one page; review it every three months and improve one thing at a time.
+
+
+#### Your commitment
+
+Choose one goal for the quarter with a name ("two-month reserve for winter"), how much you'll set aside and how often. Tell someone you trust or your community group. Set up an automatic transfer on the day you get paid and a monthly reminder with your goal's name.
+
+> **Key idea:** your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
 
 
 
@@ -378,7 +385,13 @@ If a lot is missing, start with: 1) separating money and setting aside taxes, 2)
 
 #### Share it
 
-Share your plan with someone you trust or in the community (with no personal data or real amounts). A free adviser from an SBDC or SCORE can also review it with you.
+Share your plan with someone you trust or in the community (with no personal data or real amounts). A no-cost adviser from an SBDC or SCORE can also review it with you.
+
+
+
+#### Why it works
+
+Studies in several countries found that naming a goal, committing to someone and getting a monthly reminder with that goal helps people save more. Setting money aside automatically, before you see it, also helps.
 
 
 
@@ -453,6 +466,6 @@ Fill in your one-page plan and set the date of your first review.
 
 ### Sources
 
-SBA, accessed September 29, 2026.
+SBA, accessed September 29, 2026 · Innovations for Poverty Action and J-PAL, "Nudges for Financial Health."
 
 ---

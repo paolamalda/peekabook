@@ -105,7 +105,7 @@ Don Ramón pays the food truck insurance once a year and never counts it in his 
 | Mistake | What happens | What to do |
 |---|---|---|
 | Counting only materials | Low price | Add fixed costs |
-| Forgetting your salary | You work for free | It's a fixed cost |
+| Forgetting your salary | You work without pay | It's a fixed cost |
 | Ignoring yearly payments | Surprises | Divide by 12 |
 | Not counting time | Cheap service | Cost per hour |
 
@@ -122,7 +122,7 @@ Don Ramón pays the food truck insurance once a year and never counts it in his 
 1. Which of these is a variable cost? a) Your online store subscription · b) The packaging for each order · c) Your phone plan
 2. Your fixed costs are $600 and you sell 200 pieces a month. How much fixed cost goes to each piece? a) $3 · b) $30 · c) $600
 3. Is your salary a business cost? a) No, it's profit · b) Only if something is left at the end of the month · c) Yes, it's a fixed cost
-**Answers:** 1-b: it goes up with each sale. 2-a: $600 divided by 200. 3-c: without it you work for free.
+**Answers:** 1-b: it goes up with each sale. 2-a: $600 divided by 200. 3-c: without it you work without pay.
 
 
 
@@ -529,7 +529,7 @@ Don Ramón wrote down his waste: $350 a month. He started buying meat twice a we
 
 #### Volume deals
 
-"Buy 10 cases and get one free" only pays off if you sell all 11 before they go bad or before you need that money.
+"Buy 10 cases and get one at no cost" only pays off if you sell all 11 before they go bad or before you need that money.
 
 
 
@@ -544,8 +544,8 @@ The cost of the merchandise you sell is subtracted on your return as cost of goo
 
 **Case 1. The deal for Don Ramón**
 
-The supplier offers Don Ramón a free case if he buys 10 of a product that sells slowly.
-- *What does he do?* He buys only what he can sell before it expires, even if he loses the free case.
+The supplier offers Don Ramón a no-cost case if he buys 10 of a product that sells slowly.
+- *What does he do?* He buys only what he can sell before it expires, even if he loses the no-cost case.
 
 
 **Case 2. Lupita's ingredients**

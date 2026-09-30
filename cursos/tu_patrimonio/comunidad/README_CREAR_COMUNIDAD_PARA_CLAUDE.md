@@ -26,7 +26,8 @@ Reglas:
 |---|---|
 | Nombre | Comunidad Tu Patrimonio |
 | Nombre corto | TPTF-COM |
-| Visibilidad | **Ocultar** |
+| Visibilidad | **Mostrar** |
+| Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
 | Formato | Temas, 4 secciones |
 | Seguimiento de finalización | No |
 | Mostrar calificaciones | No |
@@ -89,7 +90,7 @@ En el curso **TPTF-MX**, sección General, agrega una **URL** `Comunidad Tu Patr
 ## 4. Inscripción
 
 - Si la persona creó la cohorte "Tu Patrimonio": en ambos cursos, *Participantes > Métodos de inscripción > Agregar método > Sincronización de cohortes*, cohorte "Tu Patrimonio", rol Estudiante.
-- Si no: deja activada la inscripción manual y repórtalo.
+- Si no: activa la **Autoinscripción** con la clave que te dé la persona («[por definir]» si no la tienes) y repórtalo.
 - Agrega al equipo de moderación con rol **Profesor sin permiso de edición** (o Profesor, si lo pide la persona).
 
 ## 5. Revisión (con rol de estudiante)
@@ -104,4 +105,4 @@ En el curso **TPTF-MX**, sección General, agrega una **URL** `Comunidad Tu Patr
 
 Enlace del curso; lista de foros con su configuración; estado de la consulta y la encuesta; método de inscripción; lo que quedó "[por definir]"; capturas de la página principal del curso y de un foro con la advertencia.
 
-El curso queda **oculto** hasta que la persona decida mostrarlo.
+El curso queda **visible**, con inscripción por clave.

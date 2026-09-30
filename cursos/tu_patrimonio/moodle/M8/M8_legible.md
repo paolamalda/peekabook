@@ -509,7 +509,7 @@ Un seguro de vida protege a quien depende de tu ingreso o a quien quedaría con 
 
 #### Beneficiarios
 
-Revisa a quién nombraste. Si es un menor de edad, pregunta cómo se le entregaría. Actualizarlos es gratis.
+Revisa a quién nombraste. Si es un menor de edad, pregunta cómo se le entregaría. Actualizarlos no tiene costo.
 
 
 
@@ -609,7 +609,7 @@ A Maru le ofrecen un plan funerario de una empresa que no conoce.
 1. ¿Para qué sirve un seguro de vida? a) Para ahorrar sin riesgo · b) Para pagar tus gastos médicos · c) Para proteger a quien depende de ti
 2. ¿Qué pides antes de cancelar un seguro con ahorro? a) El valor de rescate por escrito · b) Un regalo por renovar o un descuento en la siguiente prima · c) Nada, solo lo cancelas
 3. ¿Cuánto cuesta actualizar beneficiarios? a) Una comisión fija · b) Nada · c) Depende de la suma asegurada
-**Respuestas:** 1-c: protege a tus dependientes. 2-a: para no perder aportaciones. 3-b: es gratis.
+**Respuestas:** 1-c: protege a tus dependientes. 2-a: para no perder aportaciones. 3-b: no tiene costo.
 
 
 
@@ -825,7 +825,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 4. Guarda notas y recibos de lo que gastes en lo urgente.
 5. Contrata reparaciones solo después de la revisión del ajustador.
 
-> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió. Si no te responde o no estás de acuerdo, puedes reclamar gratis en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió. Si no te responde o no estás de acuerdo, puedes reclamar sin costo en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -858,7 +858,7 @@ Carmen tenía copia digital de su póliza en el correo y encontró que sí cubr�
 
 #### Fraudes después de un desastre
 
-Aparecen falsos peritos, falsos funcionarios que cobran por «inscribirte» en apoyos, colectas falsas y constructores que piden todo por adelantado. Los apoyos de gobierno son gratuitos: nadie debe cobrarte por registrarte. Dona solo a organizaciones que puedas verificar.
+Aparecen falsos peritos, falsos funcionarios que cobran por «inscribirte» en apoyos, colectas falsas y constructores que piden todo por adelantado. Los apoyos de gobierno no tienen costo: nadie debe cobrarte por registrarte. Dona solo a organizaciones que puedas verificar.
 
 
 
@@ -888,7 +888,7 @@ Las escrituras y pólizas de Lucía están en una caja en el piso de abajo, en z
 **Caso 3. El apoyo de Maru**
 
 Alguien en la colonia de Maru cobra 500 pesos por «inscribir» a las familias en los apoyos.
-- *¿Qué hace?* No paga: los apoyos son gratuitos; se informa por los canales oficiales.
+- *¿Qué hace?* No paga: los apoyos no tienen costo; se informa por los canales oficiales.
 
 
 #### Errores frecuentes
@@ -898,7 +898,7 @@ Alguien en la colonia de Maru cobra 500 pesos por «inscribir» a las familias e
 | Papeles sin copia | No puedes demostrar | Copia digital |
 | Tirar lo dañado sin fotos | Reclamo débil | Fotos primero |
 | Pagar por adelantado | Fraude | Espera al ajustador |
-| Pagar por apoyos | Fraude | Son gratuitos |
+| Pagar por apoyos | Fraude | Son sin costo |
 
 ### Practica
 
@@ -911,9 +911,9 @@ Alguien en la colonia de Maru cobra 500 pesos por «inscribir» a las familias e
 #### Quiz
 
 1. ¿Qué haces antes de limpiar después de una inundación? a) Tiras todo lo mojado para evitar hongos · b) Llamas al primer constructor que pase · c) Tomas fotos y video de los daños
-2. Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? a) Un fraude: los apoyos son gratuitos · b) Un trámite normal · c) Una cuota de la aseguradora
-3. La aseguradora no te responde después de entregar tus documentos. ¿Qué haces? a) Esperas sin plazo · b) Reclamas gratis en la CONDUSEF · c) Contratas a un gestor que cobra por adelantado
-**Respuestas:** 1-c: las fotos sostienen tu reclamo. 2-a: nadie cobra por registrarte. 3-b: la CONDUSEF atiende gratis.
+2. Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? a) Un fraude: los apoyos no tienen costo · b) Un trámite normal · c) Una cuota de la aseguradora
+3. La aseguradora no te responde después de entregar tus documentos. ¿Qué haces? a) Esperas sin plazo · b) Reclamas sin costo en la CONDUSEF · c) Contratas a un gestor que cobra por adelantado
+**Respuestas:** 1-c: las fotos sostienen tu reclamo. 2-a: nadie cobra por registrarte. 3-b: la CONDUSEF atiende sin costo.
 
 
 
