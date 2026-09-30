@@ -19,7 +19,7 @@ Este curso no tiene una comunidad en Moodle. Se acompaña con un canal de WhatsA
 | 4 | Revisa si tu cuenta cobra comisiones | M2 U01 |
 | 5 | Haz tu lista de deudas | M3 U01 |
 | 6 | Elige tu primera deuda para pagar | M3 U04 |
-| 7 | Pide tu reporte de crédito gratis | M5 U02 |
+| 7 | Pide tu reporte de crédito sin costo | M5 U02 |
 | 8 | Revisa los permisos de tus apps | M6 U02 |
 | 9 | Acuerda una palabra clave con tu familia | M6 U03 |
 | 10 | Anota tu clínica y el hospital cercano | M7 U02 |

@@ -214,9 +214,9 @@ Si un cobrador te contacta por una deuda muy vieja, no hagas pagos ni promesas d
 | Bancarrota | Proceso legal | Requiere abogado |
 
 --- tema | fa-balance-scale | Dónde conseguir ayuda legal
-El State Bar de California tiene una lista de servicios de ayuda legal gratuita o de bajo costo y de servicios de referencia de abogados certificados.
+El State Bar de California tiene una lista de servicios de ayuda legal sin costo o de bajo costo y de servicios de referencia de abogados certificados.
 
-En muchas cortes de California hay centros de autoayuda gratuitos que te explican cómo responder a una demanda.
+En muchas cortes de California hay centros de autoayuda sin costo que te explican cómo responder a una demanda.
 
 --- tema | fa-file-text | Qué debe decir el acuerdo por escrito
 - El monto de cada pago y las fechas.
@@ -271,7 +271,7 @@ Crea un expediente con hechos, comunicaciones, opciones y fechas. Localiza un se
 
 == recursos
 - **Cobranza de deudas: tus derechos** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/debt-collection/ | Qué buscar: las cartas modelo para pedir la validación de una deuda y para pedir que dejen de llamarte.
-- **Ayuda legal en California** (State Bar de California · español e inglés): https://www.calbar.ca.gov | Qué buscar: "Find Legal Help" para servicios de ayuda legal gratuita o de bajo costo cerca de ti.
+- **Ayuda legal en California** (State Bar de California · español e inglés): https://www.calbar.ca.gov | Qué buscar: "Find Legal Help" para servicios de ayuda legal sin costo o de bajo costo cerca de ti.
 - **Centros de autoayuda de las cortes** (Tribunales de California · español e inglés): https://selfhelp.courts.ca.gov | Qué buscar: "Demandas por deudas" para saber cómo responder a tiempo.
 
 == palabras
@@ -409,7 +409,7 @@ A veces, por necesidad, algunas familias abren cuentas de luz, teléfono o créd
 
 Eso puede dañar el historial de crédito del menor antes de que cumpla 18 años, y le causará problemas cuando quiera rentar o estudiar.
 
-Si descubres que alguien abrió cuentas con los datos de un menor, puedes **congelar su crédito gratis** en las tres agencias y reportarlo en IdentityTheft.gov.
+Si descubres que alguien abrió cuentas con los datos de un menor, puedes **congelar su crédito sin costo** en las tres agencias y reportarlo en IdentityTheft.gov.
 
 --- casos
 ### Caso 1. El primo de Mar
@@ -462,7 +462,7 @@ Escribe qué apoyo puedes dar sin poner en riesgo tus gastos, qué información 
 - *Cofirmante o aval:* persona que responde por la deuda de otra.
 - *Usuario autorizado:* persona que puede usar tu tarjeta; la deuda es tuya.
 - *Credenciales:* tu usuario y contraseña; nunca se comparten.
-- *Congelar el crédito:* bloquear gratis tu reporte para que nadie abra cuentas a tu nombre.
+- *Congelar el crédito:* bloquear sin costo tu reporte para que nadie abra cuentas a tu nombre.
 
 == fuentes
 FTC, Cosigning a Loan FAQs · CFPB en español, cobranza de deudas.
@@ -676,7 +676,7 @@ En cada revisión anota:
 Una vez que tienes historial, cuídalo:
 
 - pon pagos automáticos del mínimo y paga el resto a mano;
-- revisa tus reportes gratis cada pocos meses;
+- revisa tus reportes sin costo cada pocos meses;
 - congela tu crédito si no planeas pedir préstamos pronto (M4 U04).
 
 > **Dato adicional:** los datos negativos no se quedan para siempre en tu reporte. Mientras tanto, cada pago a tiempo pesa a tu favor.
@@ -688,7 +688,7 @@ En el Módulo 4 aprenderás a proteger tu dinero, tu identidad y a tu familia: e
 Ahora sabes distinguir aprobación de capacidad de pago, leer tu reporte, crear historial sin endeudarte, reconocer estafas de reparación, comparar préstamos por costo total, ordenar tus deudas, negociar y protegerte de cobradores, firmar con cuidado y hacer que tu tanda cuente.
 
 --- tema | fa-life-ring | Si te sientes abrumado
-Si tus deudas te quitan el sueño, no estás solo. Una agencia de asesoría de crédito sin fines de lucro puede revisar tu caso gratis o a bajo costo.
+Si tus deudas te quitan el sueño, no estás solo. Una agencia de asesoría de crédito sin fines de lucro puede revisar tu caso sin costo o a bajo costo.
 
 Pedir ayuda a tiempo evita problemas más grandes.
 
@@ -731,7 +731,7 @@ respuesta: Por ejemplo: "No tengo historial. El 15 de octubre preguntaré en dos
 Entrega tu expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos. Resuelve también el caso integrador E3 al final del manual.
 
 == recursos
-- **Reportes de crédito gratuitos** (AnnualCreditReport.com · inglés y español): https://www.annualcreditreport.com | Qué buscar: pide tus tres reportes y anota la fecha para tu próxima revisión.
+- **Reportes de crédito sin costo** (AnnualCreditReport.com · inglés y español): https://www.annualcreditreport.com | Qué buscar: pide tus tres reportes y anota la fecha para tu próxima revisión.
 - **Reportes y puntajes de crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: la lista de pasos para construir y cuidar tu crédito.
 
 == palabras

@@ -19,7 +19,7 @@ Aquí resuelves dudas, compartes avances, te enteras de fechas importantes y te 
 ## Qué es y qué no es
 
 - **Sí es** un lugar para aprender, preguntar y apoyarnos.
-- **No es** asesoría fiscal, legal ni de inversión personalizada. Para tu caso concreto, te orientamos hacia un profesional o una institución gratuita.
+- **No es** asesoría fiscal, legal ni de inversión personalizada. Para tu caso concreto, te orientamos hacia un profesional o una institución sin costo.
 - **No es** un lugar para vender productos, ofrecer préstamos ni invitar a inversiones.
 
 ## Cómo empezar

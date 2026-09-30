@@ -20,7 +20,7 @@ Cada mes proponemos un reto corto en **Avisos**. Cuando lo cumplas, compártelo 
 |---|---|
 | 1 | Calcula tu ganancia real de tu último proyecto |
 | 2 | Págate un sueldo fijo durante un mes e inscribe tus números en el REPEP y el REUS |
-| 3 | Pide tu reporte gratis en Buró o en Círculo |
+| 3 | Pide tu reporte sin costo en Buró o en Círculo |
 | 4 | Haz tu inventario de deudas |
 | 5 | Activa la verificación en dos pasos en tu correo y tus redes |
 | 6 | Verifica en el SIPRES a una institución con la que tienes un producto |

@@ -67,7 +67,7 @@ You pay from your debit account (no cash remittance tax). Made-up quotes from th
 
 All fit within 310. A is the cheapest, but arrives the next day. If the need is same-day, B covers it at a lower cost than C. Before sending, verify the urgency and the provider.
 
-**Debt variation.** You only have 180 free. A loan would cover B's difference (119.40) with a fixed cost of 18, payable in 14 days: 137.40. If that day you'll only have 100 free, 37.40 is missing. Don't accept automatically: look at a partial transfer or other real options.
+**Debt variation.** You only have 180 left over. A loan would cover B's difference (119.40) with a fixed cost of 18, payable in 14 days: 137.40. If that day you'll only have 100 left over, 37.40 is missing. Don't accept automatically: look at a partial transfer or other real options.
 
 **Cash variation.** If you paid for B in cash at a store and the transfer were subject to the 1% tax, you'd add about 3 dollars.
 
@@ -107,7 +107,7 @@ All fit within 310. A is the cheapest, but arrives the next day. If the need is 
 **Key.**
 
 - Net worth: 8,000 − 4,500 = 3,500. Liquidity: 2,000.
-- Coverage if all the liquidity were free: 2,000 ÷ 1,800 = 1.11 months.
+- Coverage if all the liquidity were available: 2,000 ÷ 1,800 = 1.11 months.
 - Corrected margin: 120 − 40 = 80.
 - The course requires 50 a month; 30 is left for other goals.
 - Don't count the same 2,000 for every goal.

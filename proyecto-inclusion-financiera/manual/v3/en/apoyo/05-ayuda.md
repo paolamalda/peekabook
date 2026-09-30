@@ -5,29 +5,29 @@ Each option has a different role: a regulator doesn't replace a tax preparer or 
 | Need | Where | Cost | What to check |
 |---|---|---|---|
 | Preparing taxes | IRS VITA and TCE | Free for those who qualify | Location, language, whether they help with ITINs |
-| Tax help in California | FTB free help and CalFile | Free depending on the program | Requirements for the year |
-| Verifying a preparer | CTEC (California) and the IRS directory | Free | Current registration |
-| Immigration advice | Licensed attorneys and DOJ-accredited representatives | Varies; there are free options | License with the State Bar or accreditation on the DOJ (EOIR) list |
+| Tax help in California | FTB no-cost help and CalFile | Free depending on the program | Requirements for the year |
+| Verifying a preparer | CTEC (California) and the IRS directory | No cost | Current registration |
+| Immigration advice | Licensed attorneys and DOJ-accredited representatives | Varies; there are no-cost options | License with the State Bar or accreditation on the DOJ (EOIR) list |
 | General legal help | State Bar of California certified lawyer referral services | The consultation may have a cost | Service certification and license |
-| Reporting notario fraud | State Bar, California Attorney General, FTC | Free | Keep contracts and receipts |
-| Identity theft | FTC IdentityTheft.gov | Free | Go directly to the site; avoid imitators |
-| Financial complaints | CFPB and DFPI | Free | Your complaint number |
-| Money transmitter licenses | DFPI and NMLS Consumer Access | Free | Exact legal name |
-| Banks and credit unions | FDIC BankFind and the NCUA locator | Free | Legal name and insurance |
-| Building credit with tandas | Mission Asset Fund and other lending circles | Free | Which bureaus they report to |
+| Reporting notario fraud | State Bar, California Attorney General, FTC | No cost | Keep contracts and receipts |
+| Identity theft | FTC IdentityTheft.gov | No cost | Go directly to the site; avoid imitators |
+| Financial complaints | CFPB and DFPI | No cost | Your complaint number |
+| Money transmitter licenses | DFPI and NMLS Consumer Access | No cost | Exact legal name |
+| Banks and credit unions | FDIC BankFind and the NCUA locator | No cost | Legal name and insurance |
+| Building credit with tandas | Mission Asset Fund and other lending circles | No cost | Which bureaus they report to |
 | Housing | HUD-certified housing counselors (CFPB locator) | Free or low cost | Agency and service area |
-| Insurance | California Department of Insurance (CDI) | Free | License of the insurer and the agent |
-| Health plans | DMHC Help Center | Free | Whether your plan is under its oversight |
-| Wages and labor rights | Department of Industrial Relations (DIR) | Free | Keep hours and pay stubs |
+| Insurance | California Department of Insurance (CDI) | No cost | License of the insurer and the agent |
+| Health plans | DMHC Help Center | No cost | Whether your plan is under its oversight |
+| Wages and labor rights | Department of Industrial Relations (DIR) | No cost | Keep hours and pay stubs |
 | Your own business | Small Business Development Centers (SBDC) | Free or low cost | Advice in Spanish |
-| Retirement | CalSavers | Free | Participation requirements |
-| Consular financial guidance | Ventanillas de Asesoría Financiera at Mexican consulates | Free | Hours and appointments |
+| Retirement | CalSavers | No cost | Participation requirements |
+| Consular financial guidance | Ventanillas de Asesoría Financiera at Mexican consulates | No cost | Hours and appointments |
 
 **Private preparers.** You can compare them using the same approach. One example in San Diego is ATAX Chula Vista Downtown, which advertises tax services, including ITIN help; confirm the full fees, the credential of the person who helps you and the scope. Appearing on this list isn't a recommendation or a partnership.
 
 ## Script to ask for information
 
-"I live in California and I need help with [topic]. Do you handle this kind of case in Spanish? What credential does the person who will help me have? What's the total cost and what doesn't it include? What documents do I need and how do I send them securely? Is there a free or low-cost option?"
+"I live in California and I need help with [topic]. Do you handle this kind of case in Spanish? What credential does the person who will help me have? What's the total cost and what doesn't it include? What documents do I need and how do I send them securely? Is there a no-cost or low-cost option?"
 
 ---
 

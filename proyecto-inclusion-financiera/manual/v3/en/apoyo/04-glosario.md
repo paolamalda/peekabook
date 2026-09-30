@@ -79,7 +79,7 @@ Definitions in plain language. A contract or a law may use the word with a more 
 - **Tax deduction** (*deducción*): reduces the amount taxed.
 - **Tax credit** (*crédito fiscal*): reduces the tax; some are refundable.
 - **CalEITC:** California's state credit for work income; it can be claimed with an ITIN.
-- **VITA:** free IRS help to prepare taxes.
+- **VITA:** no-cost IRS help to prepare taxes.
 - **CTEC:** California's registry of tax preparers.
 - **Estimated payments** (*pagos estimados*): tax payments made during the year.
 - **Marginal rate** (*tasa marginal*): the rate on the last bracket of income.

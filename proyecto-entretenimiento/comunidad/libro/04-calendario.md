@@ -21,13 +21,13 @@ Fechas y recordatorios que importan a quien trabaja por su cuenta en el medio. E
 | Marzo | Junta tus facturas de deducciones personales para la anual | M2 U05 |
 | Abril | Declaración anual de personas físicas, si te corresponde | M2 U05 |
 | Mayo | Revisa tu AFORE y actualiza beneficiarios | M11 U02 |
-| Junio | Pide tu reporte gratis de una sociedad (por ejemplo, Buró) | M7 U03 |
+| Junio | Pide tu reporte sin costo de una sociedad (por ejemplo, Buró) | M7 U03 |
 | Julio | Revisión de medio año de tu plan de una página | M11 U09 |
 | Agosto | Revisa tus seguros y la vigencia de tus pólizas | M10 U01 |
 | Septiembre | Mes del Testamento: descuentos en notarías | M10 U06 |
 | Octubre | Revisa la vigencia de tu reserva de nombre y tu marca | M10 U05 |
 | Noviembre | Buen Fin: suma tus mensualidades antes de comprar a meses | M6 U03 |
-| Diciembre | Pide tu reporte gratis de la otra sociedad (por ejemplo, Círculo) y planea el reparto de tus pagos de fin de año | M7 U03 · M11 U01 |
+| Diciembre | Pide tu reporte sin costo de la otra sociedad (por ejemplo, Círculo) y planea el reparto de tus pagos de fin de año | M7 U03 · M11 U01 |
 
 ## Solo en 2026
 

@@ -11,14 +11,14 @@ LEAD = {"01": "Empieza aquí: cómo funciona el curso, tus rutas de 5 o 10 minut
         "02": "Cinco casos del medio que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
         "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
         "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
-        "05": "Dónde pedir ayuda gratuita o de bajo costo, y respuestas a las dudas más comunes.",
+        "05": "Dónde pedir ayuda sin costo o de bajo costo, y respuestas a las dudas más comunes.",
         "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."}
 if EN:
     LEAD = {"01": "Start here: how the course works, your 5- or 10-minute paths, badges and certificate.",
             "02": "Five cases that bring together what you learned in each module. Solve them before opening the key.",
             "03": "Short exercises to practice the course calculations. The answers are at the end.",
             "04": "The course words explained in plain language, with their name in Spanish.",
-            "05": "Where to get free or low-cost help, and answers to the most common questions.",
+            "05": "Where to get no-cost or low-cost help, and answers to the most common questions.",
             "06": "The sources we used in the course, so you can check them."}
 L = dict(mat="Support materials", key="See the key", ans="See the answers", faq="Frequently asked questions", hdr="Answers",
          keyre=r"(Key|Answers)", taskre=r"Additional task") if EN else \

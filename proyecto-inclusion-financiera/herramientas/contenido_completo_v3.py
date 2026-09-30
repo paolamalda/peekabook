@@ -8,7 +8,7 @@ S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scr
 def shift(md, n=1):  # baja un nivel los títulos para que quepan bajo una parte
     return re.sub(r"(?m)^(#{1,5}) ", lambda m: "#" * min(6, len(m.group(1)) + n) + " ", md)
 P = ["# Tu Dinero, Tu Familia, Tu Futuro: contenido completo (versión 3.2)",
-     "Programa gratuito de educación financiera para personas migrantes · Desarrolla Talento · Piloto California · 28 de septiembre de 2026.",
+     "Programa de bienestar financiero para personas migrantes · Desarrolla Talento · Piloto California · 28 de septiembre de 2026.",
      "Este documento reúne todo el contenido del curso en el formato nuevo: las 59 lecciones (Lo esencial, Profundiza y Practica), el libro de apoyo, las 59 actividades H5P, el banco de preguntas, los datos por confirmar y el prompt para escribir o corregir lecciones.",
      "| Parte | Contenido |\n|---|---|\n| 1 | Personajes y reglas de lenguaje |\n| 2 a 6 | Módulos 1 a 5 |\n| 7 | Materiales de apoyo |\n| 8 | Actividades H5P «¿Qué harías?» |\n| 9 | Banco de preguntas |\n| 10 | Datos por confirmar |\n| 11 | Prompt de reescritura |"]
 P.append("# Parte 1. Personajes y reglas de lenguaje\n\n" + shift(re.sub(r"(?s)^#[^\n]*\n", "", open(f"{BASE}/manual/personajes.md").read())))

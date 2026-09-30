@@ -170,7 +170,7 @@ Publica en **Avisos** el resumen (anexo A5) y anota en la bitácora la asistenci
 
 ## Dudas fiscales: el límite
 
-Puedes explicar cómo funciona RESICO, qué es una factura global o cuándo es el día 17. **No** decides el régimen de nadie ni revisas declaraciones. Frase útil: «Esto es lo general; para tu caso, el SAT y PRODECON orientan gratis, o un contador».
+Puedes explicar cómo funciona RESICO, qué es una factura global o cuándo es el día 17. **No** decides el régimen de nadie ni revisas declaraciones. Frase útil: «Esto es lo general; para tu caso, el SAT y PRODECON orientan sin costo, o un contador».
 
 ## «Presenta tu negocio»
 
@@ -229,7 +229,7 @@ Una publicación al mes por persona. Responde con una frase de ánimo y, si apli
 
 **A6. Caso fiscal personal (mensaje privado)**
 
-"Tu caso depende de datos que no conviene compartir aquí. El SAT y PRODECON orientan gratis; también puedes consultar a un contador. Antes, revisa [lección] para llevar tus preguntas claras."
+"Tu caso depende de datos que no conviene compartir aquí. El SAT y PRODECON orientan sin costo; también puedes consultar a un contador. Antes, revisa [lección] para llevar tus preguntas claras."
 
 ---
 

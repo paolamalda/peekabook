@@ -5,7 +5,7 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
 | EIN, ITIN, pagos estimados, 1099 | IRS: irs.gov/es | Gratis | Entra tú al sitio oficial |
-| Preparar tu declaración | VITA (ingresos moderados); preparadores con PTIN; CPA | Gratis o con costo | Que firme y te dé copia |
+| Preparar tu declaración | VITA (ingresos moderados); preparadores con PTIN; CPA | Con o sin costo | Que firme y te dé copia |
 | Asesoría para tu negocio | SBDC y SCORE (SBA) | Gratis o bajo costo | Asesores de la red oficial |
 | Permisos en California | CalGold; tu ciudad y condado | Variable | Ventanilla oficial |
 | Seller's permit y sales tax | CDTFA | Permiso sin costo | Tasa de tu ciudad |
@@ -23,7 +23,7 @@ Todas las opciones de esta tabla son oficiales o sin fines de lucro. Informació
 | Crisis emocional | Línea 988 (llamada o texto) | Gratis | 24 horas, en español |
 | Marca | USPTO; registro estatal | Con costo | Solo uspto.gov |
 | Retiro | ssa.gov; CalSavers | Gratis | Tu cuenta en my Social Security |
-| Dudas migratorias | Abogados u organizaciones acreditadas por el Departamento de Justicia | Gratis o con costo | Nunca «notarios» |
+| Dudas migratorias | Abogados u organizaciones acreditadas por el Departamento de Justicia | Con o sin costo | Nunca «notarios» |
 | Plan de negocio y financiamiento | SBDC, SCORE y centros de negocios para mujeres (sba.gov); CDFI certificadas | Gratis | Nadie cobra por «aprobar» un préstamo o subsidio |
 | Abuso económico | Línea Nacional sobre la Violencia Doméstica: 1-800-799-7233 o texto START al 88788 | Gratis | 24 horas, en español |
 

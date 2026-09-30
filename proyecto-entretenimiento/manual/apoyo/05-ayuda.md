@@ -5,10 +5,10 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
 | Dudas o problemas con el SAT | PRODECON | Gratis | Cita y documentos |
-| Declaraciones y facturación | SAT y tu contador | SAT gratis; contador con costo | Cédula del contador |
+| Declaraciones y facturación | SAT y tu contador | SAT sin costo; contador con costo | Cédula del contador |
 | Reclamar a un banco, SOFOM o aseguradora | UNE de la institución y CONDUSEF | Gratis | Folio de tu reclamación |
 | Verificar una institución | SIPRES y Buró de Entidades Financieras (CONDUSEF); padrón y advertencias (CNBV) | Gratis | Nombre legal exacto |
-| Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito | Un reporte gratis cada 12 meses en cada uno | Solo sitios oficiales |
+| Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito | Un reporte sin costo cada 12 meses en cada uno | Solo sitios oficiales |
 | Proteger tu historial | Bloqueo y Alertas de Buró de Crédito | Según el servicio | Condiciones vigentes |
 | Cobranza abusiva | REDECO de CONDUSEF | Gratis | Datos del despacho |
 | Llamadas y mensajes de publicidad de tiendas, telefonía o viajes | REPEP de Profeco: repep.profeco.gob.mx, 55 5568 8722 o 800 468 8722 | Gratis | Deja de aplicar a los 30 días; denuncia si siguen |
@@ -27,7 +27,7 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 ## Guion para pedir información
 
-"Trabajo por mi cuenta en el entretenimiento y necesito orientación sobre [tema]. ¿Qué documentos necesito? ¿El trámite tiene costo? ¿Cuánto tarda? ¿Cómo doy seguimiento? ¿Hay una opción gratuita?"
+"Trabajo por mi cuenta en el entretenimiento y necesito orientación sobre [tema]. ¿Qué documentos necesito? ¿El trámite tiene costo? ¿Cuánto tarda? ¿Cómo doy seguimiento? ¿Hay una opción sin costo?"
 
 ---
 
@@ -43,7 +43,7 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 **¿Qué hago si un dato cambió?** Confírmalo en CONDUSEF, la CNBV o el sitio oficial de la institución y usa la información vigente.
 
-**¿Puedo salir del Buró pagando a un despacho?** No. Nadie puede borrar información correcta. Las reclamaciones las haces tú, gratis.
+**¿Puedo salir del Buró pagando a un despacho?** No. Nadie puede borrar información correcta. Las reclamaciones las haces tú, sin costo.
 
 **¿La constancia tiene validez oficial?** Es un reconocimiento educativo del programa, verificable en línea. No es una licencia ni una acreditación oficial.
 
@@ -51,9 +51,9 @@ Cada opción tiene una función distinta. Antes de compartir documentos, confirm
 
 **¿Qué hago si soy víctima de un fraude ahora mismo?** Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U09).
 
-**¿Cómo dejo de recibir llamadas de publicidad?** Inscribe cada número en el REPEP de Profeco (tiendas y servicios) y regístrate en el REUS de CONDUSEF (bancos y financieras). Son gratis; nadie te debe cobrar por inscribirte. No detienen la cobranza ni los fraudes (M9 U08).
+**¿Cómo dejo de recibir llamadas de publicidad?** Inscribe cada número en el REPEP de Profeco (tiendas y servicios) y regístrate en el REUS de CONDUSEF (bancos y financieras). Son sin costo; nadie te debe cobrar por inscribirte. No detienen la cobranza ni los fraudes (M9 U08).
 
-**¿Y si el estrés por dinero no me deja dormir?** Pide ayuda: la Línea de la Vida (800 911 2000) es gratuita las 24 horas (M1 U07). También orienta si ya no puedes dejar de apostar (M8 U06).
+**¿Y si el estrés por dinero no me deja dormir?** Pide ayuda: la Línea de la Vida (800 911 2000) no tiene costo las 24 horas (M1 U07). También orienta si ya no puedes dejar de apostar (M8 U06).
 
 **¿Qué hago si circula un video falso mío?** Guarda evidencia, repórtalo en la plataforma, publica tu único canal oficial y denuncia al 088 (M9 U10).
 

@@ -23,12 +23,12 @@ You want to pay for something that costs 120 in 6 months and you have nothing se
 Check whether those 20 fit in your budget.
 
 --- paso | fa-ban | The same dollar doesn't pay for two goals
-If you have 80 free a month and your goals need 150, you can't assign the same 80 to each one.
+If you have 80 left over a month and your goals need 150, you can't assign the same 80 to each one.
 
 You have to change amounts, deadlines or priorities. It's better to move forward on one goal than on none.
 
 --- paso | fa-user | A case in one minute
-Luis has 150 free a month. His goals: a 600 English course in 12 months (50 a month), his mom's 1,200 roof in 12 months (100 a month) and a 3,000 car in 24 months (125 a month). That adds up to 275.
+Luis has 150 left over a month. His goals: a 600 English course in 12 months (50 a month), his mom's 1,200 roof in 12 months (100 a month) and a 3,000 car in 24 months (125 a month). That adds up to 275.
 
 He decides to start with the course and the roof (150) and leave the car for when he finishes the course.
 
@@ -100,7 +100,7 @@ Andrés has a net worth of 2,500, but if a 2,300 bill arrives tomorrow, he can't
 ? What does he still need to check? || His liquidity: how much money he can use right away.
 
 ### Case 3. Luis's goals
-Luis has three goals that add up to 275 a month and only 150 free.
+Luis has three goals that add up to 275 a month and only 150 left over.
 ? What does he do? || He prioritizes two and puts off the third. He doesn't assign the same money to all three.
 
 --- errores
@@ -305,7 +305,7 @@ The name "retirement account" doesn't say what your money is invested in.
 3. **How does it gain or lose value, and how do I take my money out?**
 
 --- paso | fa-search | Verify who sells to you
-Before investing, look up the company and the person on FINRA's **{{BrokerCheck|A free website where you check whether a broker or investment adviser is registered and has complaints.}}** or in the SEC's adviser database.
+Before investing, look up the company and the person on FINRA's **{{BrokerCheck|A no-cost website where you check whether a broker or investment adviser is registered and has complaints.}}** or in the SEC's adviser database.
 
 Ask whether your money goes to the institution or to the seller's personal account. If it goes to a personal account, it's a red flag.
 
@@ -503,7 +503,7 @@ Compare at least two options and check the total cost.
 --- tema | fa-handshake-o | Homebuying assistance programs
 In California there are state programs, like those of the California Housing Finance Agency (**CalHFA**), and local programs that help first-time buyers with the down payment and closing costs. Each program has its own requirements, and some may ask for documents an ITIN doesn't meet. [POR CONFIRMAR]
 
-A **HUD-certified housing counselor** can help you for free or at low cost to review which programs apply to your case, whether you qualify for a mortgage with an ITIN and how much you need to save.
+A **HUD-certified housing counselor** can help you at no cost or at low cost to review which programs apply to your case, whether you qualify for a mortgage with an ITIN and how much you need to save.
 
 > **Good to know:** the counselor can also help if you already own a home and fall behind on the mortgage, so you don't lose it.
 
@@ -647,7 +647,7 @@ Have a trusted mechanic inspect a used car before you buy it.
 --- tema | fa-graduation-cap | Education: check before you pay
 - Check that the school or program is recognized.
 - Ask how many students finish and get jobs, with data.
-- Ask about scholarships or free programs from the state or community colleges.
+- Ask about scholarships or no-cost programs from the state or community colleges.
 
 California community colleges have low-cost programs and some student aid, including some that don't depend on immigration status.
 
@@ -826,7 +826,7 @@ Rosa worked in Mexico with IMSS and here she's paid in cash.
 
 --- errores
 * Waiting to have a lot before starting | You lose years of growth | Start with a little
-* Not taking the employer contribution | You leave free money behind | Contribute at least what your employer matches
+* Not taking the employer contribution | You leave matching money behind | Contribute at least what your employer matches
 * Cashing out your 401(k) when you change jobs | You pay taxes and penalties | Transfer it
 * Treating a projection as a promise | You plan with unrealistic numbers | Use several scenarios
 

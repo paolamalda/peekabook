@@ -381,7 +381,7 @@ A name with one different letter can keep your family from picking up the money.
 --- tema | fa-bullhorn | If they don't solve it
 Contact the company through its official website or phone number and keep the answer.
 
-If it isn't solved, file a complaint with the **CFPB** or the **DFPI**. Both are free and you can do them in Spanish.
+If it isn't solved, file a complaint with the **CFPB** or the **DFPI**. Both cost nothing and you can do them in Spanish.
 
 > **Good to know:** federal rules cover most international transfers that individuals make. There are exceptions, for example some scheduled transfers. If in doubt, ask the company or the CFPB.
 
@@ -498,7 +498,7 @@ That way you still owe the same and you've already spent money on the fee. If yo
 > **Key idea:** verify each alternative. None of them should be made up, but there's almost always an option before borrowing.
 
 --- paso | fa-user | A case in one minute
-Daniela's sister needed 400 dollars for medicine. Daniela only had 250 free.
+Daniela's sister needed 400 dollars for medicine. Daniela only had 250 left over.
 
 Instead of taking a quick loan, she sent 250 that day and suggested her sister ask the pharmacy whether she could pay the rest the next week. The pharmacy agreed.
 
@@ -526,7 +526,7 @@ Ask in writing for: the payment schedule, the upfront fees, how much you'll real
 If you use a credit card, ask whether the transfer is treated as a purchase or as a cash advance. The advance usually costs more and charges interest from day one.
 
 --- tabla | fa-refresh | How debt grows when you roll over
-You owe 240 plus a 30 fee in two weeks, but you'll only have 100 free.
+You owe 240 plus a 30 fee in two weeks, but you'll only have 100 left over.
 
 | When | You pay | You still owe | Fees paid so far |
 |---|---|---|---|
@@ -560,7 +560,7 @@ If the lender threatens you or collects in an abusive way, you can complain to t
 
 --- casos
 ### Case 1. The emergency of Alex's mom
-Alex has 180 free and needs to send 300. A loan would cover the missing 120, with an 18 fee, to be paid in 14 days: 138. On that date Alex will only have 100 free.
+Alex has 180 left over and needs to send 300. A loan would cover the missing 120, with an 18 fee, to be paid in 14 days: 138. On that date Alex will only have 100 left over.
 ? What's the problem? || Alex will be 38 short to pay the loan.
 ? What should Alex check before accepting? || A partial transfer, or whether a brother can chip in the difference.
 

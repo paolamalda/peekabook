@@ -6,10 +6,10 @@ Cuatro publicaciones al mes: un recordatorio de fechas, un reto, una alerta o co
 |---|---|---|---|---|
 | Enero | Cuesta de enero: tu fondo de sequía | Calcula tu ganancia real | Préstamos por app en enero: verifica en el SIPRES | Sesión: sueldo fijo e ingresos variables |
 | Febrero | Nueva UMA desde el 1 de febrero | Págate un sueldo fijo un mes; inscríbete en el REPEP y el REUS | Falsos castings de inicio de año | Sesión: régimen fiscal |
-| Marzo | Junta tus facturas para la anual | Pide tu reporte gratis | Mensajes falsos del SAT sobre la anual | Sesión: deducciones personales |
+| Marzo | Junta tus facturas para la anual | Pide tu reporte sin costo | Mensajes falsos del SAT sobre la anual | Sesión: deducciones personales |
 | Abril | Declaración anual: fecha límite | Haz tu inventario de deudas | Saldo a favor: cuida tu CLABE | Sesión: declaración anual |
 | Mayo | Revisa tu AFORE | Verificación en dos pasos | Robo de cuentas de redes | Sesión: AFORE y retiro |
-| Junio | Reporte gratis de medio año | Verifica una institución en el SIPRES | Apps "montadeudas" | Sesión: Buró y Círculo |
+| Junio | Reporte sin costo de medio año | Verifica una institución en el SIPRES | Apps "montadeudas" | Sesión: Buró y Círculo |
 | Julio | Revisión de medio año del plan | Aparta tu primer mes de fondo | Inversiones milagro | Sesión: salir de deudas |
 | Agosto | Revisa tus seguros | Busca tu AFORE con tu CURP | Seguros que te agregan sin pedir | Sesión: IMSS Modalidad 10 |
 | Septiembre | Mes del Testamento | Agenda tu testamento | Gestores de AFORE | Sesión: testamento y beneficiarios |
@@ -25,7 +25,7 @@ Cuatro publicaciones al mes: un recordatorio de fechas, un reto, una alerta o co
 | Cada dos años desde tu inscripción | Renueva tu inscripción en el REUS (M9 U08). |
 
 **Ejemplo de alerta de la semana 3 (noviembre), para la parte de llamadas:**
-"📵 ¿Te llaman para venderte de todo? Inscribe gratis tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Nadie te debe cobrar por hacerlo. Paso a paso en M9 U08."
+"📵 ¿Te llaman para venderte de todo? Inscribe sin costo tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Nadie te debe cobrar por hacerlo. Paso a paso en M9 U08."
 
 ## Formato para el canal de WhatsApp
 

@@ -177,7 +177,7 @@ Filing a false application with USCIS is a serious crime and can put you into de
 --- paso | fa-user | A case in one minute
 Rosa wanted to help her granddaughter with an application and found an "advisor" on social media who charged 800 dollars.
 
-Before paying, she looked up the name with the State Bar and on the DOJ list. It wasn't on either. She called a recognized organization in Fresno and got a free appointment.
+Before paying, she looked up the name with the State Bar and on the DOJ list. It wasn't on either. She called a recognized organization in Fresno and got a no-cost appointment.
 
 --- pasos | fa-check-square-o | Do it this week
 1. Find a recognized organization near you on the DOJ list.
@@ -213,13 +213,13 @@ Government agencies **don't** ask for payments like that. Hang up and check the 
 | Sign | Why it's dangerous |
 |---|---|
 | They guarantee the outcome | Nobody can guarantee what the government decides |
-| They charge for free forms | USCIS forms can be downloaded for free |
+| They charge for forms that cost nothing | USCIS forms can be downloaded at no cost |
 | They ask you to sign blank forms or with false information | They can get you into a crime |
 | They keep your originals | You lose important documents |
 | They don't give you a contract or receipt | You have no way to complain |
 | They sell "new programs" on social media | They're almost always fake |
 
-> **Good to know:** USCIS forms are free at uscis.gov. If someone charges you for the form, they're charging you for something that costs nothing.
+> **Good to know:** USCIS forms cost nothing at uscis.gov. If someone charges you for the form, they're charging you for something that costs nothing.
 
 --- tema | fa-bullhorn | Where to report
 To the State Bar of California, the California Attorney General and the FTC (ReportFraud.ftc.gov).
@@ -237,7 +237,7 @@ In California, immigration consultants must give you a written contract in your 
 --- casos
 ### Case 1. Mar's neighbor
 A "Notaria – Inmigración" office promises Mar's neighbor "papers in 6 months" for 5,000 dollars.
-? What does Mar do? || She goes with her neighbor to an organization with accredited representatives, which reviews her case for free.
+? What does Mar do? || She goes with her neighbor to an organization with accredited representatives, which reviews her case at no cost.
 
 ### Case 2. The call from "ICE"
 Alex gets a call: a cousin is detained and must pay 2,000 in gift cards to be released.
@@ -284,7 +284,7 @@ Save the contact information of an organization with accredited representatives 
 - *Immigration consultant:* can do non-legal tasks if registered.
 
 == fuentes
-[R23] State Bar of California · [R37] California Secretary of State, immigration consultants · [R38] DOJ EOIR · [R47] California Attorney General · USCIS, free forms.
+[R23] State Bar of California · [R37] California Secretary of State, immigration consultants · [R38] DOJ EOIR · [R47] California Attorney General · USCIS, no-cost forms.
 
 
 # M4 U03 | What protects my accounts besides a password?
@@ -451,7 +451,7 @@ Don't blame yourself. These scams are designed to fool anyone. What matters is a
 5. **Keep evidence:** messages, receipts and a timeline.
 
 --- paso | fa-snowflake-o | Freeze your credit
-**{{Freezing your credit|Blocking your report for free so nobody can open new accounts in your name.}}** is free at all three agencies. It keeps new accounts from being opened in your name.
+**{{Freezing your credit|Blocking your report at no cost so nobody can open new accounts in your name.}}** costs nothing at all three agencies. It keeps new accounts from being opened in your name.
 
 It doesn't protect your current accounts or erase debts, but it closes the door to new fraud. You can lift it when you need to apply for credit.
 
@@ -487,7 +487,7 @@ At **IdentityTheft.gov** you create a report and get a step-by-step recovery pla
 - **Freeze:** nobody can open new credit in your name. You request it at each of the three agencies.
 - **Fraud alert:** companies must verify your identity before opening something in your name. You request it at one agency and it notifies the other two.
 
-Both are free.
+Both cost nothing.
 
 --- tema | fa-file-text-o | Your incident sheet
 Write down on a sheet:
@@ -510,7 +510,7 @@ You request the freeze on each agency's website: Equifax, Experian and TransUnio
 When you need to apply for credit or rent, you "thaw" it temporarily in minutes and then freeze it again. It costs nothing.
 
 --- tema | fa-child | Your children's information
-Children can also be victims of identity theft. You can freeze your minor children's credit at all three agencies, for free.
+Children can also be victims of identity theft. You can freeze your minor children's credit at all three agencies, at no cost.
 
 Don't share their Social Security numbers or photos of their documents.
 
@@ -554,7 +554,7 @@ Prepare an incident sheet and a list of official contacts, without full account 
 
 == recursos
 - **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov | Qué buscar: "Report identity theft" to create your report and your personal recovery plan.
-- **Freeze your credit** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: the links to Equifax, Experian and TransUnion to freeze for free.
+- **Freeze your credit** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: the links to Equifax, Experian and TransUnion to freeze at no cost.
 - **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov | Qué buscar: the form to report the fraud even if you already told your bank.
 
 == palabras
@@ -599,7 +599,7 @@ Look for confidential guidance from a safe device and at a safe time.
 > **Key idea:** recognizing it doesn't mean you have to tell your private life. To pass this course you don't have to confront anyone or share your story.
 
 --- paso | fa-phone | Where to get support
-The **National Domestic Violence Hotline** answers 24 hours a day, free, confidential and in Spanish: **1-800-799-7233**.
+The **National Domestic Violence Hotline** answers 24 hours a day, at no cost, confidential and in Spanish: **1-800-799-7233**.
 
 If there's immediate danger, call **911**.
 

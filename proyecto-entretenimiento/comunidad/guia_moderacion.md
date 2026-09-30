@@ -24,12 +24,12 @@ Para el equipo que modera los foros y el canal. Versión 1 · Septiembre de 2026
 |---|---|---|
 | Publica RFC, CURP, cuenta o captura | Editar o retirar la publicación | "Retiramos tu publicación porque tenía datos personales. Puedes volver a preguntar con números inventados o redondeados." |
 | Ofrece préstamos, inversiones o productos | Retirar y advertir | "En la comunidad no se permiten ofertas de productos, préstamos ni inversiones. Revisa las reglas en el capítulo 2." |
-| Recomienda un gestor o despacho de "limpieza" | Retirar y explicar | "Nadie puede borrar información correcta del Buró; las reclamaciones son gratuitas (M7 U07 y M7 U09)." |
-| Caso fiscal concreto | Responder con lo general y canalizar | "Tu caso depende de tus números. Te sugerimos PRODECON (gratis) o tu contador. La lección M2 U01 explica el tema." |
+| Recomienda un gestor o despacho de "limpieza" | Retirar y explicar | "Nadie puede borrar información correcta del Buró; las reclamaciones no tienen costo (M7 U07 y M7 U09)." |
+| Caso fiscal concreto | Responder con lo general y canalizar | "Tu caso depende de tus números. Te sugerimos PRODECON (sin costo) o tu contador. La lección M2 U01 explica el tema." |
 | Caso legal o de contrato | Responder con lo general y canalizar | "Revisa M3 U01 y consulta a un abogado del medio; si eres agremiado, a la ANDA." |
-| Deudas graves o cobranza abusiva | Responder con pasos y canalizar | "Revisa M8 U04; puedes quejarte en el REDECO de CONDUSEF. CONDUSEF también orienta gratis." |
-| Se queja de llamadas o mensajes de publicidad | Responder con pasos | "Inscribe gratis tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Si siguen después del plazo, denuncia con número, fecha y hora (M9 U08)." |
-| Alguien cobra por "inscribirte" en el REPEP o el REUS o por "vincular tu línea" | Retirar y alertar | "Estos trámites son gratuitos y se hacen solo en los sitios oficiales o en la tienda de tu compañía. Es un fraude (M9 U08)." |
+| Deudas graves o cobranza abusiva | Responder con pasos y canalizar | "Revisa M8 U04; puedes quejarte en el REDECO de CONDUSEF. CONDUSEF también orienta sin costo." |
+| Se queja de llamadas o mensajes de publicidad | Responder con pasos | "Inscribe sin costo tus números en el REPEP de Profeco (tiendas y servicios) y en el REUS de CONDUSEF (bancos). Si siguen después del plazo, denuncia con número, fecha y hora (M9 U08)." |
+| Alguien cobra por "inscribirte" en el REPEP o el REUS o por "vincular tu línea" | Retirar y alertar | "Estos trámites no tienen costo y se hacen solo en los sitios oficiales o en la tienda de tu compañía. Es un fraude (M9 U08)." |
 | Fraude en curso | Responder de inmediato | "Bloquea tus tarjetas con tu banco, reclama por escrito, reporta al 088 y a CONDUSEF (M9 U09)." |
 | Crisis emocional o riesgo | Responder con empatía y canalizar | "Lamentamos lo que vives. Si estás en riesgo, llama al 911. También puedes buscar apoyo en la Línea de la Vida (800 911 2000)." |
 | Conflicto entre participantes | Recordar reglas; si sigue, suspender | "Te pedimos mantener el respeto. Es la regla 2 de la comunidad." |

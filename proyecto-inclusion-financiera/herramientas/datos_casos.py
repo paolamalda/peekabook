@@ -84,13 +84,13 @@ CASOS = {
 ],
 "M2 U03": [
  ("Que cada institución acepta documentos distintos.", "Que sin SSN ningún banco le abre una cuenta.", "Que todas las instituciones piden exactamente los mismos papeles."),
- ("No paga: las citas son gratis en el sistema oficial.", "Paga, porque así evita meses de espera en línea.", "Paga la mitad por adelantado y el resto cuando ya tenga la cita."),
+ ("No paga: las citas no tienen costo en el sistema oficial.", "Paga, porque así evita meses de espera en línea.", "Paga la mitad por adelantado y el resto cuando ya tenga la cita."),
  ("Renueva su pasaporte y pregunta qué otros papeles aceptan.", "Usa el pasaporte vencido y no dice nada al banco.", "Pide a una amiga que abra la cuenta a nombre de ella."),
 ],
 "M2 U04": [
- ("12 al mes: 144 al año.", "Nada: la cuenta es gratis.", "12 al año, una sola vez."),
+ ("12 al mes: 144 al año.", "Nada: la cuenta no tiene costo.", "12 al año, una sola vez."),
  ("Que su primo retire todo el saldo.", "Ninguno: el primo solo puede ver el saldo.", "Solo que el banco le cobre más comisiones."),
- ("Dónde depositar efectivo gratis cerca de casa y trabajo.", "Qué app tiene más descargas y mejores calificaciones.", "Qué banco paga la tasa de interés más alta del mes."),
+ ("Dónde depositar efectivo sin costo cerca de casa y trabajo.", "Qué app tiene más descargas y mejores calificaciones.", "Qué banco paga la tasa de interés más alta del mes."),
 ],
 "M2 U05": [
  ("Revisar el estado y el comprobante antes de repetir.", "Repetirlo, porque si sale doble se regresa solo.", "Cancelar su cuenta y abrir otra en otro banco."),
@@ -109,7 +109,7 @@ CASOS = {
 ],
 "M2 U08": [
  ("Comparar tres cotizaciones del mismo día y base.", "Quedarse con la app porque ya tuvo promoción.", "Elegir siempre la que no cobra comisión, porque así llega más dinero."),
- ("Unos 3 dólares de impuesto, y tal vez la comisión.", "Nada: pagar en efectivo o con cuenta cuesta igual.", "Todo el envío, porque desde la cuenta es gratis."),
+ ("Unos 3 dólares de impuesto, y tal vez la comisión.", "Nada: pagar en efectivo o con cuenta cuesta igual.", "Todo el envío, porque desde la cuenta no tiene costo."),
  ("No, pero sí hay comisiones y cargos al recibir.", "Sí, igual que cuando se envía a México.", "No, y por eso enviar dinero a El Salvador no tiene ningún costo."),
 ],
 "M2 U09": [
@@ -193,7 +193,7 @@ CASOS = {
  ("No pagar sin ver el lugar ni verificar al dueño.", "Pagar rápido para apartar el departamento.", "Pagar solo la mitad del depósito y el resto cuando le den la llave."),
 ],
 "M4 U02": [
- ("La lleva con representantes acreditados, que la orientan gratis.", "Le aconseja pagar rápido para asegurar su lugar en la fila.", "Le presta dinero para que pague en abonos a la oficina."),
+ ("La lleva con representantes acreditados, que la orientan sin costo.", "Le aconseja pagar rápido para asegurar su lugar en la fila.", "Le presta dinero para que pague en abonos a la oficina."),
  ("Cuelga y llama a su primo y a la familia.", "Compra las tarjetas de regalo para ayudar.", "Da sus datos para que verifiquen quién es."),
  ("Una solicitud falsa es delito y puede llevarla a deportación.", "Ninguno: es un trámite rápido que hace mucha gente.", "Solo perder la cuota si no le aprueban el permiso."),
 ],
@@ -274,7 +274,7 @@ CASOS = {
 ],
 "M5 U07": [
  ("Usa e-SAR o AforeMóvil con su CURP.", "Paga a un gestor para que la busque.", "Viaja a México a preguntar en persona."),
- ("No acepta: los trámites son gratuitos.", "Acepta, porque así es más rápido y fácil.", "Negocia bajar el cobro a 15% del saldo."),
+ ("No acepta: los trámites no tienen costo.", "Acepta, porque así es más rápido y fácil.", "Negocia bajar el cobro a 15% del saldo."),
  ("No: para sumar semanas debe preguntar al IMSS.", "Sí: cada aportación suma semanas de cotización.", "No, y ya no puede hacer nada desde EE. UU."),
 ],
 "M5 U08": [

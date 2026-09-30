@@ -2,7 +2,7 @@
 
 Manual del programa · Versión 1.2 · México · Desarrolla Talento · 29 de septiembre de 2026
 
-Educación financiera para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
+Programa de bienestar financiero para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
 
 [[TOC]]
 
@@ -200,7 +200,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | Institución | Sitio | Qué buscar |
 |---|---|---|
 | SAT | https://www.sat.gob.mx | RFC, e.firma, RESICO, facturación CFDI 4.0, declaraciones, buzón tributario, plataformas digitales |
-| PRODECON | https://www.gob.mx/prodecon | Orientación y defensa gratuita ante el SAT |
+| PRODECON | https://www.gob.mx/prodecon | Orientación y defensa sin costo ante el SAT |
 | IMSS | https://www.imss.gob.mx/personas-trabajadoras-independientes | Modalidad 10 y su calculadora; alta de trabajadores |
 | CONDUSEF | https://www.condusef.gob.mx | SIPRES, Buró de Entidades Financieras, simuladores de crédito, fraudes |
 | CNBV | https://www.gob.mx/cnbv | Padrón de entidades supervisadas |
@@ -213,7 +213,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | Guardia Nacional | 088 | Fraudes, extorsión y delitos en línea |
 | Profeco (REPEP) | https://repep.profeco.gob.mx | Registro para evitar publicidad |
 | Comisión Reguladora de Telecomunicaciones | https://portal.crt.gob.mx | Líneas registradas con tu CURP |
-| Buró de Crédito | https://www.burodecredito.com.mx | Reporte gratis y bloqueo |
+| Buró de Crédito | https://www.burodecredito.com.mx | Reporte sin costo y bloqueo |
 | Secretaría de Gobernación | https://www.gob.mx/segob | Permisionarios de juegos y sorteos |
 | CNSF | https://www.gob.mx/cnsf | Aseguradoras autorizadas |
 | CENAPRED | https://www.gob.mx/cenapred | Plan de protección civil |
@@ -240,7 +240,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | N13 | Límite de transferencias (MTU) | Cada persona fija el límite de sus transferencias; si no lo fija, el banco aplica 1,500 UDIS. Obligatorio desde el 1-ene-2026 | CNBV |
 | N14 | Fraude | 72,873 asuntos por posible fraude en CONDUSEF durante 2025 | CONDUSEF |
 | N15 | Comprobante de transferencia | El CEP (Comprobante Electrónico de Pago) se descarga en el sitio de Banxico y confirma que un SPEI se liquidó | Banco de México |
-| N16 | REPEP y REUS | REPEP gratis, 30 días, no vence; REUS gratis, hasta 45 días, dura dos años | Profeco; CONDUSEF |
-| N17 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
+| N16 | REPEP y REUS | REPEP sin costo, 30 días, no vence; REUS sin costo, hasta 45 días, dura dos años | Profeco; CONDUSEF |
+| N17 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación sin costo | Comisión Reguladora de Telecomunicaciones |
 
 **Datos que se confirman cada año o antes de cada grupo:** tasas y montos fiscales (reforma de cada enero), comisiones de terminales y plataformas, cuotas del IMSS, salario mínimo, UMA y tarifas del IMPI.

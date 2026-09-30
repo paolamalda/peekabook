@@ -54,7 +54,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **DBA:** nombre comercial ficticio con el que operas.
 - **Deducción:** gasto que se resta de tus ingresos para calcular impuestos.
 - **Dueño único (sole proprietor):** persona que tiene un negocio a su nombre, sin crear una empresa aparte.
-- **EIN:** número de identificación del empleador: número del negocio ante el IRS, gratuito.
+- **EIN:** número de identificación del empleador: número del negocio ante el IRS, sin costo.
 - **Facilitador de mercado:** plataforma que cobra y entrega el sales tax por quienes venden en ella.
 - **Impuesto sobre el trabajo por cuenta propia:** Seguro Social y Medicare que paga quien trabaja por su cuenta.
 - **IP PIN:** número del IRS que protege tu declaración contra el robo de identidad.
@@ -85,14 +85,14 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Certificado de seguro (COI):** documento que prueba que tienes seguro.
 - **Clase:** grupo de productos o servicios que cubre un registro de marca.
 - **Compensación al trabajador:** seguro que cubre lesiones de empleados en el trabajo.
-- **Congelamiento de crédito:** bloqueo gratuito para que nadie abra crédito nuevo a tu nombre.
+- **Congelamiento de crédito:** bloqueo sin costo para que nadie abra crédito nuevo a tu nombre.
 - **Deducible:** lo que pagas tú antes de que el seguro empiece a pagar.
 - **Inscripción abierta:** periodo del año para contratar o cambiar tu seguro médico.
 - **Inteligencia artificial:** programas que imitan voces, caras o textos de forma muy realista.
 - **Interrupción del negocio:** cobertura que paga ingresos perdidos cuando no puedes trabajar por un daño cubierto.
 - **Marca:** nombre, logotipo o combinación que distingue tu producto o servicio.
 - **Prima:** lo que pagas cada mes por tu seguro.
-- **Registro Nacional No Llame:** registro federal gratuito para que las empresas no te llamen con ventas (Do Not Call).
+- **Registro Nacional No Llame:** registro federal sin costo para que las empresas no te llamen con ventas (Do Not Call).
 - **Responsabilidad civil general:** seguro que paga daños que causas a otras personas o a sus bienes.
 - **Robo de identidad:** uso de tus datos para hacerse pasar por ti y abrir cuentas, pedir créditos o presentar declaraciones.
 - **USPTO:** Oficina de Patentes y Marcas de Estados Unidos: registra marcas a nivel federal.

@@ -7,7 +7,10 @@
  "intro": "Curso de finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: 8 módulos, 37 lecciones cortas para el celular.",
  "categoria": "Tu Turno",
  "banco": "banco_preguntas_ttdf.gift.txt",
- "min_leccion": [5, 10],
+ "min_leccion": [
+  5,
+  10
+ ],
  "modulos": {
   "M1": "Módulo 1. Tu quincena rinde",
   "M2": "Módulo 2. Tu cuenta y tu dinero",
@@ -33,27 +36,75 @@
   "02": "Cuatro casos que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
   "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
   "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
-  "05": "Dónde pedir ayuda gratuita, y respuestas a las dudas más comunes.",
+  "05": "Dónde pedir ayuda sin costo, y respuestas a las dudas más comunes.",
   "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
  },
  "insignias": [
-  ["01_quincena_en_orden", "M1 · M2", "Quincena en orden", "fa-calendar-check-o"],
-  ["02_deudas_claras", "M3", "Deudas claras", "fa-list-ol"],
-  ["03_tanda_segura", "M4", "Tanda segura", "fa-users"],
-  ["04_buro_sin_miedo", "M5", "Buró sin miedo", "fa-file-text-o"],
-  ["05_nadie_me_extorsiona", "M6", "Nadie me extorsiona", "fa-shield"],
-  ["06_familia_protegida", "M7", "Familia protegida", "fa-heart"],
-  ["07_futuro_en_marcha", "M8", "Futuro en marcha", "fa-road"],
-  ["08_plan_completo", "CURSO", "Plan completo", "fa-trophy"]
+  [
+   "01_quincena_en_orden",
+   "M1 · M2",
+   "Quincena en orden",
+   "fa-calendar-check-o"
+  ],
+  [
+   "02_deudas_claras",
+   "M3",
+   "Deudas claras",
+   "fa-list-ol"
+  ],
+  [
+   "03_tanda_segura",
+   "M4",
+   "Tanda segura",
+   "fa-users"
+  ],
+  [
+   "04_buro_sin_miedo",
+   "M5",
+   "Buró sin miedo",
+   "fa-file-text-o"
+  ],
+  [
+   "05_nadie_me_extorsiona",
+   "M6",
+   "Nadie me extorsiona",
+   "fa-shield"
+  ],
+  [
+   "06_familia_protegida",
+   "M7",
+   "Familia protegida",
+   "fa-heart"
+  ],
+  [
+   "07_futuro_en_marcha",
+   "M8",
+   "Futuro en marcha",
+   "fa-road"
+  ],
+  [
+   "08_plan_completo",
+   "CURSO",
+   "Plan completo",
+   "fa-trophy"
+  ]
  ],
  "constancia": {
   "top": "TU TURNO · TU DINERO · TU FUTURO",
   "titulo": "Constancia de conclusión",
   "otorga": "Se otorga a",
   "nombre": "Nombre de la persona",
-  "texto": "por concluir el programa de educación financiera <b>Tu Turno, Tu Dinero, Tu Futuro</b>, con sus ocho módulos y autoevaluaciones aprobadas.",
-  "mods": ["Quincena y cuenta", "Deudas y tandas", "Buró y fraudes", "Familia", "Futuro"],
-  "fecha": "Fecha", "fecha_muestra": "29 de septiembre de 2026", "codigo": "Código de verificación",
+  "texto": "por concluir el programa de bienestar financiero <b>Tu Turno, Tu Dinero, Tu Futuro</b>, con sus ocho módulos y autoevaluaciones aprobadas.",
+  "mods": [
+   "Quincena y cuenta",
+   "Deudas y tandas",
+   "Buró y fraudes",
+   "Familia",
+   "Futuro"
+  ],
+  "fecha": "Fecha",
+  "fecha_muestra": "29 de septiembre de 2026",
+  "codigo": "Código de verificación",
   "nota": "Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial."
  },
  "comunidad": null,
@@ -61,30 +112,109 @@
   "nombre_corto": "TTDF-MX",
   "readme": "README_INSTALAR_TU_TURNO_PARA_CLAUDE.md",
   "aviso_foro": "No compartas números de cuenta, contraseñas, códigos ni montos reales de tus deudas.",
-  "niveles": [["Primer turno", 0, "Al entrar"], ["Quincena en orden", 150, "Durante el Módulo 2"], ["Sin deudas ocultas", 350, "Durante el Módulo 3"], ["Alerta", 550, "Durante el Módulo 5"], ["Protegido", 750, "Durante el Módulo 7"], ["Con futuro", 900, "Durante el Módulo 8"]],
+  "niveles": [
+   [
+    "Primer turno",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Quincena en orden",
+    150,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Sin deudas ocultas",
+    350,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Alerta",
+    550,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Protegido",
+    750,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Con futuro",
+    900,
+    "Durante el Módulo 8"
+   ]
+  ],
   "insignias_info": [
-   ["Autoevaluaciones de los Módulos 1 y 2", "Tu quincena tiene presupuesto, ahorro apartado y una cuenta sin comisiones."],
-   ["Autoevaluación del Módulo 3", "Conoces todas tus deudas, lo que cuestan y tu plan para salir."],
-   ["Autoevaluación del Módulo 4", "Sabes organizar una tanda con reglas o ahorrar por tu cuenta."],
-   ["Autoevaluación del Módulo 5", "Revisaste tu reporte de crédito y sabes cómo mejorarlo."],
-   ["Autoevaluación del Módulo 6", "Reconoces fraudes, apps montadeudas y extorsiones, y sabes qué hacer."],
-   ["Autoevaluación del Módulo 7", "Tienes fondo de emergencia y protección para tu familia."],
-   ["Autoevaluación del Módulo 8", "Ahorras para tu retiro y tienes tu plan de una página."],
-   ["Finalización del curso", "Concluiste los ocho módulos del programa."]],
+   [
+    "Autoevaluaciones de los Módulos 1 y 2",
+    "Tu quincena tiene presupuesto, ahorro apartado y una cuenta sin comisiones."
+   ],
+   [
+    "Autoevaluación del Módulo 3",
+    "Conoces todas tus deudas, lo que cuestan y tu plan para salir."
+   ],
+   [
+    "Autoevaluación del Módulo 4",
+    "Sabes organizar una tanda con reglas o ahorrar por tu cuenta."
+   ],
+   [
+    "Autoevaluación del Módulo 5",
+    "Revisaste tu reporte de crédito y sabes cómo mejorarlo."
+   ],
+   [
+    "Autoevaluación del Módulo 6",
+    "Reconoces fraudes, apps montadeudas y extorsiones, y sabes qué hacer."
+   ],
+   [
+    "Autoevaluación del Módulo 7",
+    "Tienes fondo de emergencia y protección para tu familia."
+   ],
+   [
+    "Autoevaluación del Módulo 8",
+    "Ahorras para tu retiro y tienes tu plan de una página."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los ocho módulos del programa."
+   ]
+  ],
   "extra_readme": "\n## 9. Canal de avisos (pregunta antes)\n\nEste curso no tiene comunidad en Moodle; se acompaña con un **canal de WhatsApp** de avisos (ver `7_guias/comunidad_y_canales.md`). En la sección General agrega una **URL** `Canal de avisos` con el enlace que te dé la persona (si no lo tiene, escribe \"[por definir]\" y repórtalo). Confirma que las lecciones se ven bien en el celular: el público las toma entre turnos.\n"
  },
  "carpeta": {
-  "nombre": "Tu_Turno_Tu_Dinero_Tu_Futuro", "zip": "Tu_Turno_v1.2",
-  "manual": "Manual_del_programa_TTDF_v1.2", "contenido": "Contenido_completo_TTDF_v1.2", "guia": "Guia_implementacion_TTDF_v1.2",
-  "descripciones": ["Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
-                    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
-                    "Guía de implementación: instalación en Moodle, gamificación, canal de avisos y mantenimiento (.docx y .md).",
-                    "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."],
-  "lista": ["Coordinación leyó el manual del programa", "Datos vigentes confirmados en el sitio oficial (manual, sección de datos verificados)",
-            "Curso instalado con 04_Moodle/README_INSTALAR_TU_TURNO_PARA_CLAUDE.md", "Level Up, insignias y constancia configurados",
-            "Canal de WhatsApp creado (solo publica el equipo)", "Revisión en el celular con rol de estudiante", "Calendario de mantenimiento asignado"],
-  "notas": ["El curso no aborda la situación de alta de las personas en el IMSS; habla de la AFORE y del Infonavit solo para quien ya los tiene o quiere ahorrar por su cuenta.",
-            "Las lecciones no recomiendan bancos ni productos; enseñan a verificar y comparar.",
-            "Formato pensado para el celular y para tomarse entre turnos: lecciones de 5 minutos."]
+  "nombre": "Tu_Turno_Tu_Dinero_Tu_Futuro",
+  "zip": "Tu_Turno_v1.2",
+  "manual": "Manual_del_programa_TTDF_v1.2",
+  "contenido": "Contenido_completo_TTDF_v1.2",
+  "guia": "Guia_implementacion_TTDF_v1.2",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
+   "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación, canal de avisos y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, constancia, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Datos vigentes confirmados en el sitio oficial (manual, sección de datos verificados)",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_TURNO_PARA_CLAUDE.md",
+   "Level Up, insignias y constancia configurados",
+   "Canal de WhatsApp creado (solo publica el equipo)",
+   "Revisión en el celular con rol de estudiante",
+   "Calendario de mantenimiento asignado"
+  ],
+  "notas": [
+   "El curso no aborda la situación de alta de las personas en el IMSS; habla de la AFORE y del Infonavit solo para quien ya los tiene o quiere ahorrar por su cuenta.",
+   "Las lecciones no recomiendan bancos ni productos; enseñan a verificar y comparar.",
+   "Formato pensado para el celular y para tomarse entre turnos: lecciones de 5 minutos."
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Ordena tu quincena, sal de deudas, protégete de fraudes y prepara tu futuro.",
+   "Microlecciones de 5 a 10 minutos pensadas para turnos largos y para el celular."
+  ],
+  "para_quien": "Guardias de seguridad y personas con turnos largos en México.",
+  "idiomas": "Español"
  }
 }

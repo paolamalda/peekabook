@@ -18,7 +18,7 @@ Las referencias S vienen del temario del programa; las referencias R se agregaro
 - **S12** IRS. Individual Taxpayer Identification Number (ITIN).
 - **S13** IRS. Gig Economy Tax Center.
 - **S14** California FTB. ITIN.
-- **S15** California FTB. Get free tax help.
+- **S15** California FTB. Get no-cost tax help.
 - **S16** California FTB. Publicación 982, cómo elegir un preparador.
 - **S17** CFPB. ¿Qué es una transferencia de remesas y cuáles son mis derechos?
 - **S18** CFPB. Formas de iniciar o reconstruir un buen historial de crédito.
@@ -29,7 +29,7 @@ Las referencias S vienen del temario del programa; las referencias R se agregaro
 - **S23** SEC Investor.gov. Introducción a la inversión.
 - **S24** SEC Investor.gov. Productos de inversión.
 - **S25** SSA. Acuerdo de seguridad social entre EE. UU. y México (firmado, no vigente).
-- **S26** CFPB. Educación financiera efectiva: cinco principios.
+- **S26** CFPB. Cinco principios para programas efectivos de bienestar financiero (2017).
 - **S27** CalSavers. Detalles del programa.
 
 ## Referencias de las lecciones
@@ -52,7 +52,7 @@ Las referencias S vienen del temario del programa; las referencias R se agregaro
 - **R16** Self-Help. Checking.
 - **R17** Chime. Checking account.
 - **R18** Chime Help. Cómo abrir una cuenta.
-- **R19** IRS. Preparación gratuita para quienes califican (VITA y TCE).
+- **R19** IRS. Preparación sin costo para quienes califican (VITA y TCE).
 - **R20** ATAX Chula Vista Downtown. Servicios anunciados.
 - **R21** FTC. Acción de marzo de 2022 contra una empresa de reparación de crédito.
 - **R22** CFPB. Encuentra un consejero de vivienda.

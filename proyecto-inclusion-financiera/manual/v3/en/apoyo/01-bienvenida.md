@@ -1,6 +1,6 @@
 # Welcome
 
-**Your Money, Your Family, Your Future** is a free personal finance program for immigrants living in California. Here you'll learn to organize your money, send remittances for less, build your credit, protect yourself from fraud and prepare your future, here and in your home country.
+**Your Money, Your Family, Your Future** is a no-cost personal finance program for immigrants living in California. Here you'll learn to organize your money, send remittances for less, build your credit, protect yourself from fraud and prepare your future, here and in your home country.
 
 You don't need to know about finance to start. Each lesson starts from an everyday situation, explains technical words when they come up and ends with an action you can take this week.
 
@@ -45,7 +45,7 @@ Fees, requirements and rules change. Before you act, confirm the current informa
 
 ## When to ask for professional help
 
-This program teaches you to understand, compare and prepare questions. For a tax, legal, immigration, insurance or investment case that needs a personal recommendation, look for a licensed professional. **Where to find help** has free and low-cost options.
+This program teaches you to understand, compare and prepare questions. For a tax, legal, immigration, insurance or investment case that needs a personal recommendation, look for a licensed professional. **Where to find help** has no-cost and low-cost options.
 
 > **Important:** this program **never** gives immigration advice. Only an attorney or a representative accredited by the Department of Justice can give it.
 

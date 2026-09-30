@@ -305,7 +305,7 @@ El nombre "cuenta de retiro" no dice en qué está invertido tu dinero.
 3. **¿Cómo gana o pierde valor y cómo saco mi dinero?**
 
 --- paso | fa-search | Verifica a quien te vende
-Antes de invertir, busca a la empresa y a la persona en **{{BrokerCheck|Página gratuita donde verificas si un corredor o asesor de inversiones tiene registro y quejas.}}** de FINRA o en la base de asesores de la SEC.
+Antes de invertir, busca a la empresa y a la persona en **{{BrokerCheck|Página sin costo donde verificas si un corredor o asesor de inversiones tiene registro y quejas.}}** de FINRA o en la base de asesores de la SEC.
 
 Pregunta si tu dinero va a la institución o a una cuenta personal de quien te vende. Si es a una cuenta personal, es una señal de alarma.
 
@@ -503,7 +503,7 @@ Compara con al menos dos opciones y revisa el costo total.
 --- tema | fa-handshake-o | Programas de ayuda para comprar
 En California existen programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales que ayudan con el enganche y los costos de cierre para quienes compran por primera vez. Cada programa tiene sus propios requisitos, y algunos pueden pedir documentos que el ITIN no cumple. [POR CONFIRMAR]
 
-Un **consejero de vivienda certificado por HUD** te ayuda gratis o a bajo costo a revisar qué programas aplican a tu caso, si calificas para una hipoteca con ITIN y cuánto necesitas ahorrar.
+Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo costo a revisar qué programas aplican a tu caso, si calificas para una hipoteca con ITIN y cuánto necesitas ahorrar.
 
 > **Dato adicional:** el consejero también puede ayudarte si ya tienes casa y te atrasas con la hipoteca, para evitar perderla.
 
@@ -647,7 +647,7 @@ Pide una revisión de un mecánico de confianza antes de comprar un auto usado.
 --- tema | fa-graduation-cap | Educación: verifica antes de pagar
 - Revisa que la escuela o el programa estén reconocidos.
 - Pregunta cuántos estudiantes terminan y consiguen trabajo, con datos.
-- Pregunta por becas o programas gratuitos del estado o de colegios comunitarios.
+- Pregunta por becas o programas sin costo del estado o de colegios comunitarios.
 
 Los colegios comunitarios de California tienen programas de bajo costo y algunas ayudas para estudiantes, incluidos algunos que no dependen de la situación migratoria.
 
@@ -826,7 +826,7 @@ Rosa trabajó en México con IMSS y aquí cobra en efectivo.
 
 --- errores
 * Esperar a tener mucho para empezar | Pierdes años de crecimiento | Empieza con poco
-* No aprovechar la aportación del empleador | Dejas dinero gratis | Aporta al menos lo que iguala tu empleador
+* No aprovechar la aportación del empleador | Dejas dinero sin costo | Aporta al menos lo que iguala tu empleador
 * Retirar tu 401(k) al cambiar de trabajo | Pagas impuestos y penalidades | Transfiérelo
 * Creer en una proyección como promesa | Planeas con números irreales | Usa varios escenarios
 

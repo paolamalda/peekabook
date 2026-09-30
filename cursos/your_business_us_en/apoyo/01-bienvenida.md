@@ -1,6 +1,6 @@
 # Welcome
 
-**Your Business, Your Money, Your Future · U.S.** is a financial education program for Latino entrepreneurs and self-employed people in the United States.
+**Your Business, Your Money, Your Future · U.S.** is a financial well-being program for Latino entrepreneurs and self-employed people in the United States.
 
 Here you'll learn to separate business and household money, set prices, manage your cash flow, get paid without losing, formalize and pay your taxes without fear, use credit carefully, protect your business and plan for your future.
 

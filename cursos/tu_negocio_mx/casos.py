@@ -19,7 +19,7 @@ CASOS = {
 "M1 U04": [
  ("Pasa cada pago a su hoja el mismo día.", "Guarda las capturas y las suma a fin de año.", "Borra las capturas viejas para liberar espacio."),
  ("Busca gastos o retiros sin anotar.", "Ajusta el corte para que cuadre con la caja.", "Lo ignora porque la diferencia es pequeña."),
- ("No la usa y elige libreta u hoja.", "La usa porque es gratis y fácil.", "Manda solo la foto de su INE para probarla."),
+ ("No la usa y elige libreta u hoja.", "La usa porque no tiene costo y fácil.", "Manda solo la foto de su INE para probarla."),
 ],
 "M1 U05": [
  ("No toma del negocio y busca ayuda.", "Toma los 2,000 y los repone el sábado.", "Apuesta el doble para recuperar rápido."),
@@ -88,7 +88,7 @@ CASOS = {
 ],
 "M5 U01": [
  ("Se inscribe en el RFC y elige régimen.", "Rechaza el contrato para no pagar impuestos.", "Pide a un amigo que facture por él."),
- ("Lo tramita ella gratis en el SAT.", "Paga al gestor para ahorrar tiempo.", "Pide al gestor que use su RFC."),
+ ("Lo tramita ella sin costo en el SAT.", "Paga al gestor para ahorrar tiempo.", "Pide al gestor que use su RFC."),
  ("No la manda y pide una vía formal.", "La manda porque confía en ella.", "La manda y cambia la contraseña después."),
 ],
 "M5 U02": [
@@ -179,7 +179,7 @@ CASOS = {
 "M8 U01": [
  ("El costo real y su equilibrio.", "Solo si la ayudante acepta 1,800.", "Nada: el sueldo es todo el costo."),
  ("Acuerdan horario y pago por escrito.", "Sigue igual porque es familia.", "Le paga cuando sobre algo al mes."),
- ("Contrata el servicio con factura.", "Contrata a alguien de tiempo completo.", "Le pide a su sobrino que lo haga gratis."),
+ ("Contrata el servicio con factura.", "Contrata a alguien de tiempo completo.", "Le pide a su sobrino que lo haga sin costo."),
 ],
 "M8 U02": [
  ("Registra su RFC en la plataforma.", "Deja de vender en la plataforma.", "Sube precios para cubrir el 16%."),

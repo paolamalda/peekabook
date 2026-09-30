@@ -1,6 +1,6 @@
 # Bienvenida
 
-**Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.** es un programa de educación financiera para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos.
+**Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.** es un programa de bienestar financiero para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos.
 
 Aquí aprenderás a separar el dinero del negocio y de tu casa, poner precio, cuidar tu flujo, cobrar sin perder, formalizarte y pagar tus impuestos sin miedo, usar el crédito con cuidado, proteger tu negocio y pensar en tu futuro.
 

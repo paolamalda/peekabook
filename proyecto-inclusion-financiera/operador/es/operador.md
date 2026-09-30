@@ -43,7 +43,7 @@ Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.2 en Moodle y a su
 
 **Competencias transversales:** C1 interpretar información y términos; C2 calcular y comparar; C3 planear y ajustar; C4 verificar proveedores y protegerse; C5 ejercer derechos y buscar ayuda; C6 comunicar acuerdos con autonomía; C7 documentar y revisar decisiones.
 
-**Referentes metodológicos:** marco de competencias financieras para adultos OCDE/INFE e investigación del CFPB sobre habilidad financiera y educación financiera efectiva. Se usan como orientación, sin afirmar una alineación certificada. [S01, S02, S26]
+**Referentes metodológicos:** marco de competencias financieras para adultos OCDE/INFE e investigación del CFPB sobre habilidad financiera y programas efectivos de bienestar financiero. Se usan como orientación, sin afirmar una alineación certificada. [S01, S02, S26]
 
 ---
 
@@ -158,7 +158,7 @@ Son instrumentos propios sin validación psicométrica externa. Si se comparan r
 - **Reactivos:** 0 (incorrecto o inseguro), 1 (idea central correcta pero incompleta; en cálculos, método correcto con error de cálculo), 2 (respuesta y justificación suficientes).
 - **Conocimientos** = suma ÷ 20 × 100.
 - **Caso integrador:** rúbrica de cuatro dimensiones de 0 a 3; suma ÷ 12 × 100.
-- **Dominio del módulo** = 40% conocimientos + 60% caso integrador. Hay dominio con 80 de 100, al menos nivel 2 en cada dimensión del caso y corrección de errores críticos. Los reintentos con retroalimentación son gratuitos.
+- **Dominio del módulo** = 40% conocimientos + 60% caso integrador. Hay dominio con 80 de 100, al menos nivel 2 en cada dimensión del caso y corrección de errores críticos. Los reintentos con retroalimentación no tienen costo.
 
 **Ejemplo simulado.** Conocimientos 16 de 20 = 80; caso 10 de 12 = 83.33. Resultado = 0.40 × 80 + 0.60 × 83.33 = 82. Hay dominio solo si cada dimensión del caso tiene al menos 2 y se corrigieron los errores críticos.
 ## Rúbrica

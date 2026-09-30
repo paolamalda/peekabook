@@ -16,7 +16,7 @@ Reglas:
 ## 0. Antes de empezar
 
 1. Confirma que no existe un curso con nombre corto `TDTF-CA-ES`. Si existe, detente y pregunta.
-2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**, y si Level Up es la versión gratuita o Level Up+. Anótalo para el reporte.
+2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**, y si Level Up es la versión sin costo o Level Up+. Anótalo para el reporte.
 3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
 ## 1. Crear el curso
@@ -137,6 +137,6 @@ Sigue la sección 3 de la guía con las 8 imágenes de `5_insignias/`. Crea cada
 
 ## 12. Reporte para la persona
 
-Incluye el enlace del curso, el número de páginas de cada libro, las H5P subidas por módulo, las preguntas por autoevaluación, las insignias creadas, la configuración de Level Up (gratuita o Level Up+), si la constancia quedó lista, todo lo que no pudiste hacer y por qué, y capturas de: una portada de lección, una H5P, una autoevaluación y la vista previa de la constancia.
+Incluye el enlace del curso, el número de páginas de cada libro, las H5P subidas por módulo, las preguntas por autoevaluación, las insignias creadas, la configuración de Level Up (sin costo o Level Up+), si la constancia quedó lista, todo lo que no pudiste hacer y por qué, y capturas de: una portada de lección, una H5P, una autoevaluación y la vista previa de la constancia.
 
 El curso queda **oculto**. La persona decide cuándo mostrarlo.

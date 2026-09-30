@@ -381,7 +381,7 @@ Un nombre con una letra distinta puede impedir que tu familia cobre.
 --- tema | fa-bullhorn | Si no te resuelven
 Contacta al proveedor por su página o teléfono oficial y guarda la respuesta.
 
-Si no se resuelve, presenta una queja ante el **CFPB** o el **DFPI**. Las dos son gratuitas y puedes hacerlas en español.
+Si no se resuelve, presenta una queja ante el **CFPB** o el **DFPI**. Las dos no tienen costo y puedes hacerlas en español.
 
 > **Dato adicional:** las reglas federales cubren la mayoría de los envíos al extranjero que hacen las personas. Hay excepciones, por ejemplo algunos envíos programados. Si tienes duda, pregunta al proveedor o al CFPB.
 

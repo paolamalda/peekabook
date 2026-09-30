@@ -230,7 +230,7 @@ One post a month per person. Reply with a sentence of encouragement and, if it a
 
 **A6. Personal tax case (private message)**
 
-"Your case depends on details that shouldn't be shared here. VITA and SBDCs offer free guidance; you can also see a preparer with a PTIN or a CPA. First, check [lesson] so you bring clear questions."
+"Your case depends on details that shouldn't be shared here. VITA and SBDCs offer no-cost guidance; you can also see a preparer with a PTIN or a CPA. First, check [lesson] so you bring clear questions."
 
 ---
 

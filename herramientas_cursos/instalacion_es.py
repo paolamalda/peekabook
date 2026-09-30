@@ -9,7 +9,7 @@ def generar(D, CFG, lecciones):
     pts = (tot + 2 * nm) * 25
     sec_apoyo, sec_eval = nm + 1, nm + 2
     tit, corto = CFG["titulo"], I["nombre_corto"]
-    cat, banco = CFG["categoria"], CFG["banco"]
+    cat, banco = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     filas_sec = "\n".join(f"| {i} | {t} | " + (f"Contenido de `1_libros/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"
                           for i, (m, t) in enumerate(MODS.items(), 1))
     filas_lib = "\n".join(f"| {m} | {n[m]} | {n[m] * 4} |" for m in MODS)
@@ -45,9 +45,13 @@ Reglas:
 |---|---|
 | Nombre | {tit} |
 | Nombre corto | {corto} |
-| Visibilidad | **Ocultar** |
-| Formato | Temas, {sec_eval} secciones |
+| Visibilidad | **Mostrar** |
+| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. {sec_eval} secciones |
 | Seguimiento de finalización | Sí |
+
+**Formato Mosaicos (si existe):** en la configuración del curso, *Mostrar progreso en los mosaicos*: **como porcentaje**; un ícono por módulo acorde a su tema; la sección General arriba de los mosaicos. Si Mosaicos no existe, usa Temas con "Mostrar una sección por página".
+
+**Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.
 
 ## 2. Secciones
 
@@ -102,25 +106,39 @@ Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en
 
 **Comprueba:** abre 3 actividades al azar con *Cambiar rol a > Estudiante*. Debes ver 3 casos, 3 opciones por caso y la calificación al terminar.
 
-## 8. Level Up, insignias, finalización y constancia
+## 8. Encuestas del programa
 
-Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`), 4 (finalización con las {nm} autoevaluaciones) y 5 (constancia con `6_certificado/certificado_fondo.png`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
+En `8_encuestas/` están las encuestas y su documento `encuestas.md`. Usa el módulo **Retroalimentación** (Feedback), modo **anónimo**, y en cada una *Plantillas > Importar preguntas* con su XML (si la importación falla, créalas a mano con `encuestas.md`):
+
+| Actividad | Sección | Archivo | Finalización |
+|---|---|---|---|
+| `Encuesta de inicio` | General | `encuesta_inicio.xml` | Enviar |
+| `Encuesta final` | {sec_eval} | `encuesta_final.xml` | Enviar; es requisito de la constancia |
+| `Seguimiento a 30 días` | {sec_eval} | `encuesta_seguimiento.xml` | Enviar |
+| `Seguimiento a 90 días` | {sec_eval} | `encuesta_seguimiento.xml` | Enviar |
+
+Restringe los seguimientos por fecha: 30 y 90 días después de la fecha de fin de la cohorte ("[por definir]"). La encuesta final es la evidencia de resultados del programa: no la omitas.
+
+## 9. Level Up, insignias, finalización y constancia
+
+Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`; cada nombre lleva el curso para que sea único en la plataforma), 4 (finalización con las {nm} autoevaluaciones) y 5 (constancia con la plantilla estándar y los datos de `6_constancia/constancia.md`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
 {extra}
-## {10 if extra else 9}. Revisión final (con rol de estudiante)
+## {11 if extra else 10}. Revisión final (con rol de estudiante)
 
 - M1 U01: portada primero, dos botones de ruta, términos en color con su significado y recuadros "Dato vigente" o "Antes de actuar, verifica".
 - Una H5P por módulo abre, muestra 3 casos y registra calificación.
 - Una autoevaluación muestra 3 opciones por pregunta.
 - El libro de apoyo muestra "Ver la clave" en los casos integradores y las preguntas frecuentes desplegables.
 
-## {11 if extra else 10}. Reporte para la persona
+## {12 if extra else 11}. Reporte para la persona
 
-Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de una portada, una H5P, una autoevaluación y la vista previa de la constancia.
+Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; encuestas creadas; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de la portada en mosaicos, una H5P, una autoevaluación y la vista previa de la constancia.
 
-El curso queda **oculto**. La persona decide cuándo mostrarlo.
+El curso queda **visible**, con inscripción por clave. Para la ficha del catálogo usa `tarjeta_catalogo.md`.
 """
     niveles = "\n".join(f"| {i} | {nom} | {p:,} | {cuando} |" for i, (nom, p, cuando) in enumerate(I["niveles"], 1))
-    ins = "\n".join(f"| {fn}.png | {nom} | {crit} | {desc} |" for (fn, tag, nom, icon), (crit, desc) in zip(CFG["insignias"], I["insignias_info"]))
+    ins = "\n".join(f"| {fn}.png | {nom} · {CFG['categoria']} | {crit} | {desc} |" for (fn, tag, nom, icon), (crit, desc) in zip(CFG["insignias"], I["insignias_info"]))
+    T = CFG["constancia"]; temas = "\n".join(f"   | Tema {i} | {t} |" for i, t in enumerate(T["mods"], 1))
     guia = f"""# Guía de actividades, puntos, insignias y constancia · {tit}
 
 Esta guía es para Moodle 3.10 con Level Up (block_xp) 3.15.2 y el complemento Certificado personalizado (mod_customcert).
@@ -167,7 +185,7 @@ Completar todo el curso da unos {pts:,} puntos:
 
 ## 3. Insignias
 
-*Administración del curso > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca.
+*Administración del curso > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca. Los nombres llevan el curso para que no se repitan en la plataforma: úsalos tal cual.
 
 | Imagen | Insignia | Criterio (finalización de actividad, con aprobación) | Descripción |
 |---|---|---|---|
@@ -181,20 +199,19 @@ Al terminar, **activa** cada insignia.
 
 ## 5. Constancia de conclusión (Certificado personalizado)
 
-1. En la sección "Evaluación y constancia", agrega **Certificado personalizado**: nombre "Constancia de conclusión", tamaño A4 horizontal (297 × 210 mm).
-2. **Restringir acceso:** una condición de "Finalización de actividad" por cada una de las {nm} autoevaluaciones, "debe estar completa con calificación aprobatoria".
-3. **Editar certificado:**
+1. En la sección "Evaluación y constancia", agrega **Certificado personalizado** con la **plantilla estándar de la plataforma** (sin imagen de fondo): nombre "Constancia de conclusión".
+2. **Restringir acceso:** una condición de "Finalización de actividad" por cada una de las {nm} autoevaluaciones, "debe estar completa con calificación aprobatoria", y la **Encuesta final** enviada.
+3. En la plantilla cambia solo estos datos (también están en `6_constancia/constancia.md`):
 
-   | Elemento | Posición aproximada (mm) | Formato |
-   |---|---|---|
-   | Imagen de fondo | Cubre la página | `6_certificado/certificado_fondo.png` |
-   | Nombre del estudiante | X 0, Y 74, ancho 297, centrado | Negrita, 32 pt, color #0B1220 |
-   | Fecha (finalización del curso) | X 17, Y 170, ancho 70, centrado | 12 pt, color #E4007C |
-   | Código | X 210, Y 170, ancho 70, centrado | 12 pt, color #E4007C |
+   | Campo | Texto |
+   |---|---|
+   | Título del curso | {tit} |
+   | Línea | por concluir el programa de bienestar financiero {tit} |
+{temas}
 
-4. Revisa la **Vista previa en PDF** y compárala con `certificado_muestra.png`. Activa "Verificar certificado".
+4. Revisa la **Vista previa en PDF** y activa "Verificar certificado".
 
-Si Certificado personalizado no está instalado, la insignia **Plan completo** funciona como constancia digital.
+Si Certificado personalizado no está instalado, la insignia **{CFG["insignias"][-1][2]} · {CFG["categoria"]}** funciona como constancia digital.
 
 ## 6. Qué no hacer
 

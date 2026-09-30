@@ -6,7 +6,7 @@ Cada cifra de las lecciones va en un recuadro «Dato vigente» con fecha y fuent
 |---|---|---|
 | Enero | Pensiones del Bienestar (montos y fechas de registro) | M7 U04 |
 | Enero | Retención de ISR por intereses (Ley de Ingresos del año) | M5 U04, M9 U02 |
-| Cada año | Reglas de pago mínimo de tarjetas y reporte gratuito de Buró y Círculo | M5 U05, M5 U06 |
+| Cada año | Reglas de pago mínimo de tarjetas y reporte sin costo de Buró y Círculo | M5 U05, M5 U06 |
 | Febrero | Nueva UMA: límite exento de pensiones y tope de deducciones | M9 |
 | Enero | Porcentaje de cuota de Modalidad 40 (sube cada año hasta 2030) | M7 U03 |
 | Enero | Edad y años de servicio del décimo transitorio del ISSSTE (bajan gradualmente hasta 2034) | M7 U05 |

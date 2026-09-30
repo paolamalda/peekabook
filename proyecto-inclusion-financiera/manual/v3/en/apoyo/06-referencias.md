@@ -18,7 +18,7 @@ S references come from the program syllabus; R references were added to develop 
 - **S12** IRS. Individual Taxpayer Identification Number (ITIN).
 - **S13** IRS. Gig Economy Tax Center.
 - **S14** California FTB. ITIN.
-- **S15** California FTB. Get free tax help.
+- **S15** California FTB. Get no-cost tax help.
 - **S16** California FTB. Publication 982, choosing a tax preparer.
 - **S17** CFPB. What is a remittance transfer and what are my rights?
 - **S18** CFPB. Ways to start or rebuild a good credit history.
@@ -29,7 +29,7 @@ S references come from the program syllabus; R references were added to develop 
 - **S23** SEC Investor.gov. Introduction to investing.
 - **S24** SEC Investor.gov. Investment products.
 - **S25** SSA. U.S.–Mexico social security agreement (signed, not in effect).
-- **S26** CFPB. Effective financial education: five principles.
+- **S26** CFPB. Five principles for effective financial well-being programs (2017).
 - **S27** CalSavers. Program details.
 
 ## Lesson references

@@ -5,7 +5,7 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # id: (nombre ES, nombre EN, organización, url, idioma del recurso)
 R = {
  "MS": ("Money Smart para adultos", "Money Smart for Adults", "FDIC", "https://www.fdic.gov/consumer-resource-center/money-smart-adults", "ES/EN"),
- "EDU": ("Herramientas para educación financiera (incluye Your Money, Your Goals)", "Financial education tools (includes Your Money, Your Goals)", "CFPB", "https://www.consumerfinance.gov/consumer-tools/educator-tools/", "EN, algunas en ES"),
+ "EDU": ("Herramientas para el bienestar financiero (incluye Your Money, Your Goals)", "Financial well-being tools (includes Your Money, Your Goals)", "CFPB", "https://www.consumerfinance.gov/consumer-tools/educator-tools/", "EN, algunas en ES"),
  "CFPBES": ("CFPB en español", "CFPB in Spanish", "CFPB", "https://www.consumerfinance.gov/es/", "ES"),
  "CFPBWB": ("Bienestar financiero: cuestionario y herramientas", "Financial well-being questionnaire and tools", "CFPB", "https://www.consumerfinance.gov/consumer-tools/financial-well-being/", "ES/EN"),
  "NEWC": ("Guías para recién llegados: cómo manejar el dinero", "Newcomer's guides to managing money", "CFPB", "https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/", "ES/EN"),
@@ -17,7 +17,7 @@ R = {
  "AUTO": ("Préstamos para auto", "Auto loans", "CFPB", "https://www.consumerfinance.gov/consumer-tools/auto-loans/", "ES/EN"),
  "HOME": ("Comprar una casa", "Buying a house", "CFPB", "https://www.consumerfinance.gov/owning-a-home/", "ES/EN"),
  "HCOUNS": ("Buscador de consejeros de vivienda", "Find a housing counselor", "CFPB / HUD", "https://www.consumerfinance.gov/find-a-housing-counselor/", "EN"),
- "ACR": ("Reportes de crédito gratuitos", "Free credit reports", "AnnualCreditReport.com", "https://www.annualcreditreport.com", "EN"),
+ "ACR": ("Reportes de crédito sin costo", "Free credit reports", "AnnualCreditReport.com", "https://www.annualcreditreport.com", "EN"),
  "IDT": ("Robo de identidad: reportar y plan de recuperación", "Identity theft: report and recovery plan", "FTC", "https://www.identitytheft.gov", "ES/EN (robodeidentidad.gov)"),
  "RF": ("Reportar un fraude", "Report fraud", "FTC", "https://reportefraude.ftc.gov", "ES (EN: reportfraud.ftc.gov)"),
  "CONS": ("Consejos para consumidores en español", "FTC consumer advice", "FTC", "https://consumidor.ftc.gov", "ES (EN: consumer.ftc.gov)"),
@@ -26,13 +26,13 @@ R = {
  "IRSES": ("IRS en español", "IRS in Spanish", "IRS", "https://www.irs.gov/es", "ES"),
  "ITIN": ("Cómo solicitar un ITIN", "How to apply for an ITIN", "IRS", "https://www.irs.gov/tin/itin/how-to-apply-for-an-itin", "EN/ES"),
  "CAA": ("Buscador de agentes certificadores (ITIN)", "ITIN acceptance agents locator", "IRS", "https://www.irs.gov/tin/itin/itin-acceptance-agents", "EN"),
- "VITA": ("Preparación gratuita de impuestos (VITA y TCE)", "Free tax return preparation (VITA and TCE)", "IRS", "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers", "EN/ES"),
+ "VITA": ("Preparación sin costo de impuestos (VITA y TCE)", "Free tax return preparation (VITA and TCE)", "IRS", "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers", "EN/ES"),
  "GIG": ("Centro de impuestos de la economía de plataformas", "Gig Economy Tax Center", "IRS", "https://www.irs.gov/businesses/gig-economy-tax-center", "EN/ES"),
  "SE": ("Centro para trabajadores por cuenta propia", "Self-Employed Individuals Tax Center", "IRS", "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center", "EN/ES"),
  "EIN": ("Solicitar un número de identificación del empleador (EIN)", "Get an Employer Identification Number (EIN)", "IRS", "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number", "EN/ES"),
  "CALEITC": ("CalEITC: crédito por ingreso del trabajo de California", "California Earned Income Tax Credit (CalEITC)", "FTB", "https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html", "EN/ES"),
  "YCTC": ("Crédito tributario por hijos menores (YCTC)", "Young Child Tax Credit (YCTC)", "FTB", "https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit-es.html", "ES (EN disponible)"),
- "FTBFREE": ("Ayuda fiscal gratuita en California", "Free tax help in California", "FTB", "https://www.ftb.ca.gov/help/free-tax-help/index.html", "EN"),
+ "FTBFREE": ("Ayuda fiscal sin costo en California", "Free tax help in California", "FTB", "https://www.ftb.ca.gov/help/free-tax-help/index.html", "EN"),
  "CTEC": ("Verificar a un preparador registrado", "Verify a registered tax preparer", "CTEC", "https://www.ctec.org", "EN"),
  "DIR": ("Salarios y reclamos laborales (Comisionado Laboral)", "Wages and wage claims (Labor Commissioner)", "DIR de California", "https://www.dir.ca.gov/dlse/", "EN/ES"),
  "DFPI": ("Directorio de remesadoras con licencia en California", "Directory of licensed money transmitters in California", "DFPI", "https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/", "EN"),
@@ -94,7 +94,7 @@ M = {
 def block(lesson, lang):
     ids = M[lesson]
     if lang == "es":
-        lines = ["### Para saber más", "", "Recursos gratuitos y oficiales para profundizar (verificados el 28 de septiembre de 2026):", ""]
+        lines = ["### Para saber más", "", "Recursos sin costo y oficiales para profundizar (verificados el 28 de septiembre de 2026):", ""]
         for i in ids:
             n, _, org, url, idi = R[i]
             lines.append(f"- **{n}** ({org}; idioma: {idi}): {url}")
@@ -137,7 +137,7 @@ for les, ids in M.items():
 with open(os.path.join(BASE, "recursos", "para_saber_mas_moodle.csv"), "w", newline="") as fh:
     w = csv.writer(fh); w.writerow(["leccion","id_recurso","nombre_es","nombre_en","organizacion","url","idioma"]); w.writerows(rows)
 with open(os.path.join(BASE, "recursos", "catalogo_recursos.md"), "w") as fh:
-    fh.write("# Catálogo de recursos gratuitos oficiales\n\nVerificados por búsqueda web el 28 de septiembre de 2026. Revisar enlaces cada 6 meses.\n\n| ID | Recurso | Organización | Idioma | URL | Lecciones |\n|---|---|---|---|---|---|\n")
+    fh.write("# Catálogo de recursos sin costo oficiales\n\nVerificados por búsqueda web el 28 de septiembre de 2026. Revisar enlaces cada 6 meses.\n\n| ID | Recurso | Organización | Idioma | URL | Lecciones |\n|---|---|---|---|---|---|\n")
     for i,(n_es,n_en,org,url,idi) in R.items():
         les = ", ".join(l for l,ids in M.items() if i in ids)
         fh.write(f"| {i} | {n_es} | {org} | {idi} | {url} | {les} |\n")

@@ -13,7 +13,7 @@ Para inscribir al grupo de una vez, la persona administradora del sitio puede cr
 ## 2. Canal de WhatsApp
 
 - Nombre: "Tu Talento · Desarrolla Talento".
-- Contenido: avisos del curso, fechas del SAT, alertas de fraude, recordatorios (reportes de crédito gratis, Mes del Testamento, declaración anual) y referencias.
+- Contenido: avisos del curso, fechas del SAT, alertas de fraude, recordatorios (reportes de crédito sin costo, Mes del Testamento, declaración anual) y referencias.
 - Solo el equipo publica; los seguidores no ven el número de los demás.
 - Evitar grupos de conversación de WhatsApp: ahí los números sí son visibles.
 

@@ -310,7 +310,7 @@ Write down the tax year, your documents, the dates you checked and your unanswer
 == recursos
 - **IRS: Filing** (IRS · English and Spanish): https://www.irs.gov/filing | Qué buscar: who has to file and this year's deadline.
 - **How to apply for an ITIN** (IRS · English and Spanish): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin | Qué buscar: the list of accepted documents and the section on when an ITIN expires and how to renew it.
-- **Free tax help in California** (FTB · English): https://www.ftb.ca.gov/help/free-tax-help/index.html | Qué buscar: the free filing options and the finder for nearby locations.
+- **Free tax help in California** (FTB · English): https://www.ftb.ca.gov/help/free-tax-help/index.html | Qué buscar: the no-cost filing options and the finder for nearby locations.
 
 == palabras
 - *Tax return:* a document that reports your information and calculates your tax.
@@ -480,8 +480,8 @@ Prepare folders for income, expenses, health, family and notices from the IRS or
 
 
 # M1 U11 | What tax benefits are there if I file with an ITIN?
-objetivo: Learn how to get an ITIN, which credits may apply to your household and where to get free help to file.
-gancho: Mar thought that, because she files with an ITIN, she wasn't entitled to any benefit. At a free tax help site she found out her family could get state credits. In this lesson you'll learn what benefits exist if you file with an ITIN in California.
+objetivo: Learn how to get an ITIN, which credits may apply to your household and where to get no-cost help to file.
+gancho: Mar thought that, because she files with an ITIN, she wasn't entitled to any benefit. At a no-cost tax help site she found out her family could get state credits. In this lesson you'll learn what benefits exist if you file with an ITIN in California.
 
 == esencial
 
@@ -498,10 +498,10 @@ It also creates a record that you meet your tax obligations every year.
 --- pasos | fa-list-ol | Three steps
 1. **Find out if you need an ITIN:** if you must file and can't get an SSN.
 2. **Check which credits exist** for your situation this year.
-3. **Look for free, certified help** to prepare your return.
+3. **Look at no cost, certified help** to prepare your return.
 
 --- paso | fa-handshake-o | Free help to file
-**{{VITA|An IRS program where certified volunteers help you prepare your tax return for free.}}** is an IRS program with certified volunteers. It helps people with incomes under a limit that is published every year, for free.
+**{{VITA|An IRS program where certified volunteers help you prepare your tax return at no cost.}}** is an IRS program with certified volunteers. It helps people with incomes under a limit that is published every year, at no cost.
 
 Many sites offer help in Spanish and help with the ITIN application.
 
@@ -530,7 +530,7 @@ Ask at VITA which documents are needed for the children. Children born in the U.
 
 --- recuerda
 - In California there are state credits that accept an ITIN.
-- VITA helps for free and in Spanish.
+- VITA helps at no cost and in Spanish.
 - File every year to keep your ITIN active.
 
 == profundiza
@@ -549,9 +549,9 @@ The federal Child Tax Credit has SSN requirements that changed recently. There's
 
 Always check the rules for the current year: they change often.
 
---- tema | fa-laptop | Other free options
+--- tema | fa-laptop | Other no-cost options
 - **TCE:** an IRS program similar to VITA, focused on people 60 and older.
-- **CalFile:** a free FTB tool for simple state returns, if you qualify.
+- **CalFile:** a no-cost FTB tool for simple state returns, if you qualify.
 
 --- tema | fa-check | Why file even if it doesn't seem worth it this year
 It may be required depending on your income. It creates a compliance record. It lets you get credits you're entitled to. And it keeps your ITIN active.
@@ -625,11 +625,11 @@ Find the nearest VITA site and write down its hours, its languages and the docum
 - *ITIN:* the IRS tax number for people who can't get an SSN.
 - *CalEITC:* California's state credit for work income.
 - *Refundable credit:* it can give you money even if you owe no tax.
-- *VITA:* free IRS tax help with certified volunteers.
+- *VITA:* no-cost IRS tax help with certified volunteers.
 - *Certifying Acceptance Agent:* a person authorized by the IRS to review ITIN documents.
 
 == fuentes
-[S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, free tax help · [R19] IRS, VITA · [R48] FTB, CalFile.
+[S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, no-cost tax help · [R19] IRS, VITA · [R48] FTB, CalFile.
 
 
 # M1 U12 | How do I choose someone to help me with taxes?
@@ -667,16 +667,16 @@ Walk away if the preparer:
 --- paso | fa-user | A case in one minute
 Mar is looking for someone to do her tax return. An office in the neighborhood charges 60, but won't give her a copy. Another charges 150, signs as the preparer and is registered with CTEC.
 
-Mar asks at a VITA site and finds out she qualifies for free help. She brings her papers and gets a copy of everything.
+Mar asks at a VITA site and finds out she qualifies for no-cost help. She brings her papers and gets a copy of everything.
 
-She learned that the lowest price isn't always the best, and that the free option is sometimes the safest.
+She learned that the lowest price isn't always the best, and that the no-cost option is sometimes the safest.
 
 > **Before you act, check:** always ask for the total price in writing and a complete copy of your return.
 
 --- pasos | fa-check-square-o | Do it this week
 1. Ask two preparers what their price includes and the total cost.
 2. Check their registration with CTEC or in the IRS directory.
-3. Check whether you qualify for VITA, which is free.
+3. Check whether you qualify for VITA, which costs nothing.
 
 --- comprueba
 1. What must every paid preparer have? || An IRS PTIN.
@@ -774,7 +774,7 @@ A preparer promises "the maximum refund guaranteed" before seeing your documents
 respuesta: You don't sign, you protect your documents and you look for an option you can verify (VITA or a registered preparer). A refund can't be promised without reviewing your information.
 
 --- plan
-Compare two services and one free option. Write down what you confirmed and what's still missing.
+Compare two services and one no-cost option. Write down what you confirmed and what's still missing.
 
 == recursos
 - **Verify a registered preparer** (CTEC · English): https://www.ctec.org | Qué buscar: "Verify a Preparer"; type the preparer's name to confirm their registration is current.
@@ -788,7 +788,7 @@ Compare two services and one free option. Write down what you confirmed and what
 - *CTEC:* California's registry of tax preparers.
 
 == fuentes
-[S15] FTB, free help · [S16] FTB, Publication 982 · [R36] CTEC, preparer verification.
+[S15] FTB, no-cost help · [S16] FTB, Publication 982 · [R36] CTEC, preparer verification.
 
 
 # M1 U13 | What should I know before I apply for public benefits?
@@ -1042,7 +1042,7 @@ Seeing your progress encourages you to keep going. And if something didn't work,
 --- tema | fa-life-ring | If you need help
 If your plan shows a shortfall you can't cover, don't try to solve it alone.
 
-Look for county support programs, community organizations and free financial counseling. The "Where to find help" chapter in the support materials has a list.
+Look for county support programs, community organizations and no-cost financial counseling. The "Where to find help" chapter in the support materials has a list.
 
 --- tema | fa-arrow-right | What's next
 In Module 2 you'll learn to choose where to keep your money and to plan what you send to your family.

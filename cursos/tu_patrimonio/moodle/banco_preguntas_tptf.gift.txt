@@ -75,9 +75,9 @@ $CATEGORY: $course$/Tu Patrimonio/M1
 $CATEGORY: $course$/Tu Patrimonio/M2
 
 ::M2 U01 P1::¿Qué hace la CONDUSEF? {
-	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. Es gratuita y defiende a los usuarios.
-	=Orienta y defiende a los usuarios #¡Correcto! Es gratuita y defiende a los usuarios.
-	~Presta dinero en emergencias #No es la mejor opción. Es gratuita y defiende a los usuarios.
+	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. Es sin costo y defiende a los usuarios.
+	=Orienta y defiende a los usuarios #¡Correcto! Es sin costo y defiende a los usuarios.
+	~Presta dinero en emergencias #No es la mejor opción. Es sin costo y defiende a los usuarios.
 }
 
 ::M2 U01 P2::¿Dónde verificas si un banco está autorizado? {
@@ -135,9 +135,9 @@ $CATEGORY: $course$/Tu Patrimonio/M2
 }
 
 ::M2 U04 P2::¿Qué haces si no te resuelven? {
-	~Te olvidas del cargo #No es la mejor opción. La CONDUSEF es gratuita.
-	~Pagas para que un despacho reclame #No es la mejor opción. La CONDUSEF es gratuita.
-	=Acudes a la CONDUSEF con tu folio #¡Correcto! La CONDUSEF es gratuita.
+	~Te olvidas del cargo #No es la mejor opción. La CONDUSEF no tiene costo.
+	~Pagas para que un despacho reclame #No es la mejor opción. La CONDUSEF no tiene costo.
+	=Acudes a la CONDUSEF con tu folio #¡Correcto! La CONDUSEF no tiene costo.
 }
 
 ::M2 U04 P3::Un seguro de 350 al mes que no pediste, durante un año. ¿Cuánto reclamas? {
@@ -337,9 +337,9 @@ $CATEGORY: $course$/Tu Patrimonio/M4
 }
 
 ::M4 U06 P2::¿Cuánto cuesta consultar las líneas con tu CURP? {
-	=Nada #¡Correcto! Es gratuito.
-	~Lo que cobre cada compañía #No es la mejor opción. Es gratuito.
-	~Una cuota anual al gobierno #No es la mejor opción. Es gratuito.
+	=Nada #¡Correcto! Es sin costo.
+	~Lo que cobre cada compañía #No es la mejor opción. Es sin costo.
+	~Una cuota anual al gobierno #No es la mejor opción. Es sin costo.
 }
 
 ::M4 U06 P3::¿Qué haces con estados de cuenta viejos? {
@@ -361,9 +361,9 @@ $CATEGORY: $course$/Tu Patrimonio/M4
 }
 
 ::M4 U07 P3::Te cobran por inscribirte en el REPEP. ¿Qué es? {
-	~Una cuota oficial #No es la mejor opción. Es gratis.
-	~Un servicio exprés #No es la mejor opción. Es gratis.
-	=Un fraude #¡Correcto! Es gratis.
+	~Una cuota oficial #No es la mejor opción. Es sin costo.
+	~Un servicio exprés #No es la mejor opción. Es sin costo.
+	=Un fraude #¡Correcto! Es sin costo.
 }
 
 ::M4 U08 P1::¿Qué haces primero si ves cargos que no reconoces? {
@@ -577,7 +577,7 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 }
 
 ::M7 U02 P2::Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? {
-	~Aceptas\: el regalo es gratis #No es la mejor opción. El regalo no mejora tu retiro.
+	~Aceptas\: el regalo no tiene costo #No es la mejor opción. El regalo no mejora tu retiro.
 	=Comparas rendimientos en la CONSAR antes #¡Correcto! El regalo no mejora tu retiro.
 	~Te cambias y, si no te gusta, regresas a tu AFORE anterior #No es la mejor opción. El regalo no mejora tu retiro.
 }
@@ -601,9 +601,9 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 }
 
 ::M7 U03 P3::¿Quién puede cobrarte por inscribirte? {
-	=Nadie\: el trámite es gratuito #¡Correcto! Es gratuito.
-	~Un gestor autorizado por el IMSS para agilizar la inscripción #No es la mejor opción. Es gratuito.
-	~Tu AFORE, con una comisión #No es la mejor opción. Es gratuito.
+	=Nadie\: el trámite no tiene costo #¡Correcto! Es sin costo.
+	~Un gestor autorizado por el IMSS para agilizar la inscripción #No es la mejor opción. Es sin costo.
+	~Tu AFORE, con una comisión #No es la mejor opción. Es sin costo.
 }
 
 ::M7 U04 P1::¿Cuánto da la Pensión de Adultos Mayores en 2026? {
@@ -613,9 +613,9 @@ $CATEGORY: $course$/Tu Patrimonio/M7
 }
 
 ::M7 U04 P2::Te piden dinero para aumentar tu pensión del Bienestar. ¿Qué es? {
-	=Un fraude #¡Correcto! Es gratuito.
-	~Un trámite especial para adultos mayores #No es la mejor opción. Es gratuito.
-	~Una cuota voluntaria #No es la mejor opción. Es gratuito.
+	=Un fraude #¡Correcto! Es sin costo.
+	~Un trámite especial para adultos mayores #No es la mejor opción. Es sin costo.
+	~Una cuota voluntaria #No es la mejor opción. Es sin costo.
 }
 
 ::M7 U04 P3::La pensión de tu esposo es de 20,000 al mes. ¿Cuánto sería, en general, tu pensión de viudez? {
@@ -729,9 +729,9 @@ $CATEGORY: $course$/Tu Patrimonio/M8
 }
 
 ::M8 U04 P3::¿Cuánto cuesta actualizar beneficiarios? {
-	~Una comisión fija #No es la mejor opción. Es gratis.
-	=Nada #¡Correcto! Es gratis.
-	~Depende de la suma asegurada #No es la mejor opción. Es gratis.
+	~Una comisión fija #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! Es sin costo.
+	~Depende de la suma asegurada #No es la mejor opción. Es sin costo.
 }
 
 ::M8 U05 P1::¿Qué cobertura del auto es la más importante? {
@@ -759,15 +759,15 @@ $CATEGORY: $course$/Tu Patrimonio/M8
 }
 
 ::M8 U06 P2::Te cobran 500 pesos por inscribirte en un apoyo de gobierno. ¿Qué es? {
-	=Un fraude\: los apoyos son gratuitos #¡Correcto! Nadie cobra por registrarte.
+	=Un fraude\: los apoyos no tienen costo #¡Correcto! Nadie cobra por registrarte.
 	~Un trámite normal #No es la mejor opción. Nadie cobra por registrarte.
 	~Una cuota de la aseguradora #No es la mejor opción. Nadie cobra por registrarte.
 }
 
 ::M8 U06 P3::La aseguradora no te responde después de entregar tus documentos. ¿Qué haces? {
-	~Esperas sin plazo #No es la mejor opción. La CONDUSEF atiende gratis.
-	=Reclamas gratis en la CONDUSEF #¡Correcto! La CONDUSEF atiende gratis.
-	~Contratas a un gestor que cobra por adelantado #No es la mejor opción. La CONDUSEF atiende gratis.
+	~Esperas sin plazo #No es la mejor opción. La CONDUSEF atiende sin costo.
+	=Reclamas sin costo en la CONDUSEF #¡Correcto! La CONDUSEF atiende sin costo.
+	~Contratas a un gestor que cobra por adelantado #No es la mejor opción. La CONDUSEF atiende sin costo.
 }
 
 $CATEGORY: $course$/Tu Patrimonio/M9
@@ -778,10 +778,10 @@ $CATEGORY: $course$/Tu Patrimonio/M9
 	~Solo declaras si el SAT te llama #No es la mejor opción. Las rentas suelen obligarte.
 }
 
-::M9 U01 P2::¿Dónde pides ayuda gratis si tienes un problema con el SAT? {
-	=PRODECON #¡Correcto! Es gratuita.
-	~Con un gestor que cobra #No es la mejor opción. Es gratuita.
-	~En el banco #No es la mejor opción. Es gratuita.
+::M9 U01 P2::¿Dónde pides ayuda sin costo si tienes un problema con el SAT? {
+	=PRODECON #¡Correcto! Es sin costo.
+	~Con un gestor que cobra #No es la mejor opción. Es sin costo.
+	~En el banco #No es la mejor opción. Es sin costo.
 }
 
 ::M9 U01 P3::Te llega un enlace del «SAT» para una devolución. ¿Qué haces? {

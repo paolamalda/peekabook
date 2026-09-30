@@ -230,7 +230,7 @@ Una publicación al mes por persona. Responde con una frase de ánimo y, si apli
 
 **A6. Caso fiscal personal (mensaje privado)**
 
-"Tu caso depende de datos que no conviene compartir aquí. VITA y los SBDC orientan gratis; también puedes consultar a un preparador con PTIN o un CPA. Antes, revisa [lección] para llevar tus preguntas claras."
+"Tu caso depende de datos que no conviene compartir aquí. VITA y los SBDC orientan sin costo; también puedes consultar a un preparador con PTIN o un CPA. Antes, revisa [lección] para llevar tus preguntas claras."
 
 ---
 

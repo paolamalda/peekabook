@@ -170,7 +170,7 @@ Si vas a una sala de urgencias, la ley federal (**No Surprises Act**) prohíbe q
 Y si no tienes seguro, tienes derecho a pedir una **{{Estimación de Buena Fe|Presupuesto por escrito del costo total de una atención médica programada, que debes recibir si no tienes seguro.}}** por escrito del costo total antes de una atención programada.
 
 --- paso | fa-hand-o-right | Pide ayuda financiera antes de pagar
-Los hospitales de California deben tener una política de **asistencia financiera** y ofrecer atención gratis o con descuento a personas con ingresos bajos y medios que califiquen.
+Los hospitales de California deben tener una política de **asistencia financiera** y ofrecer atención sin costo o con descuento a personas con ingresos bajos y medios que califiquen.
 
 Pregunta **antes** de pagar o de pasar la cuenta a una tarjeta de crédito.
 
@@ -269,7 +269,7 @@ Guarda los contactos de tu plan, tus médicos y el regulador. Pide la política 
 
 == palabras
 - *Explicación de beneficios:* resumen de cómo se procesó una atención.
-- *Asistencia financiera:* descuento o atención gratuita por ingresos.
+- *Asistencia financiera:* descuento o atención sin costo por ingresos.
 - *DMHC:* regulador de muchos planes de salud en California.
 - *Estimación de Buena Fe:* presupuesto por escrito si no tienes seguro.
 
@@ -437,7 +437,7 @@ Un plan hecho con calma protege a tu familia en un momento de crisis. Prepararte
 --- paso | fa-file-text | La declaración del cuidador
 En California existe la **{{Declaración Jurada de Autorización del Cuidador|Documento de California que permite a un adulto de confianza inscribir a tus hijos en la escuela y autorizar cierta atención médica. No cambia la custodia.}}** (Caregiver's Authorization Affidavit).
 
-Permite a un adulto de confianza inscribir a tus hijos en la escuela y autorizar cierta atención médica. **No** cambia la custodia. Es gratis y no necesita juez.
+Permite a un adulto de confianza inscribir a tus hijos en la escuela y autorizar cierta atención médica. **No** cambia la custodia. Es sin costo y no necesita juez.
 
 --- paso | fa-key | Compartir la contraseña no basta
 Compartir tu contraseña del banco **no** le da a tu familia permiso legal para actuar si estás hospitalizado o detenido.

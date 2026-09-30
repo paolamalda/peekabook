@@ -157,8 +157,8 @@ Tu **puntaje** es un número que se calcula con parte de esa información.
 
 Si alguna vez tuviste una tarjeta, un préstamo o un plan de celular a plazos, probablemente tienes un reporte.
 
---- paso | fa-download | Cómo obtenerlo gratis
-Puedes ver tus reportes de las tres agencias **gratis cada semana** en el sitio oficial **AnnualCreditReport.com**.
+--- paso | fa-download | Cómo obtenerlo sin costo
+Puedes ver tus reportes de las tres agencias **sin costo cada semana** en el sitio oficial **AnnualCreditReport.com**.
 
 Revisar tu propio reporte **no** baja tu puntaje.
 
@@ -183,7 +183,7 @@ Un dato incorrecto sí se corrige con una **{{disputa|Solicitud formal para que 
 > **Idea clave:** usa solo AnnualCreditReport.com. Otras páginas cobran o piden datos de tu tarjeta.
 
 --- paso | fa-user | Un caso en un minuto
-Andrés pidió sus tres reportes gratis. En uno aparecía una dirección de otra ciudad donde nunca vivió y una tarjeta que no abrió.
+Andrés pidió sus tres reportes sin costo. En uno aparecía una dirección de otra ciudad donde nunca vivió y una tarjeta que no abrió.
 
 Tomó capturas, disputó los dos datos en línea con la agencia y congeló su crédito en las tres agencias. Anotó los folios y puso una alerta para revisar en 30 días.
 
@@ -197,7 +197,7 @@ Tomó capturas, disputó los dos datos en línea con la agencia y congeló su cr
 2. Tu reporte muestra un atraso real. ¿Es un error que se puede borrar? || No. Un dato correcto no se borra; se atiende pagando.
 
 --- recuerda
-- Revisa tus tres reportes gratis en AnnualCreditReport.com.
+- Revisa tus tres reportes sin costo en AnnualCreditReport.com.
 - Separa errores de datos desfavorables correctos.
 - Disputa solo los errores, con pruebas.
 
@@ -226,7 +226,7 @@ Muchos datos negativos correctos pueden permanecer hasta siete años. Ciertas ba
 
 No los tomes como una fecha de "limpieza": depende del tipo de registro. Mientras tanto, pagar a tiempo de aquí en adelante sí mejora tu historial.
 
-> **Dato adicional:** puedes congelar tu crédito gratis en las tres agencias. Así nadie puede abrir cuentas nuevas a tu nombre. Lo verás en M4 U04.
+> **Dato adicional:** puedes congelar tu crédito sin costo en las tres agencias. Así nadie puede abrir cuentas nuevas a tu nombre. Lo verás en M4 U04.
 
 --- tema | fa-ban | Nunca mientas en una disputa
 Nunca declares robo de identidad para borrar un atraso real. Es falso y puede tener consecuencias legales.
@@ -243,7 +243,7 @@ Tapa tus datos sensibles en las copias, como tu número completo de cuenta.
 --- tema | fa-bell | Si te niegan un crédito
 Si te niegan un préstamo o una renta por tu reporte, te deben decir qué agencia lo emitió.
 
-Tienes derecho a pedir ese reporte gratis dentro de los 60 días siguientes y a disputar los errores.
+Tienes derecho a pedir ese reporte sin costo dentro de los 60 días siguientes y a disputar los errores.
 
 --- casos
 ### Caso 1. La tarjeta de otra persona
@@ -260,7 +260,7 @@ Luis pidió su reporte con ITIN por correo.
 ? ¿Qué encontró? || Su plan de teléfono a plazos, pagado a tiempo. Ya tenía historial sin saberlo.
 
 --- errores
-* Usar páginas que cobran por tu reporte | Pagas por algo gratis o te roban datos | Usa AnnualCreditReport.com
+* Usar páginas que cobran por tu reporte | Pagas por algo sin costo o te roban datos | Usa AnnualCreditReport.com
 * Disputar un dato correcto | No se borra y pierdes tiempo | Disputa solo errores
 * Enviar documentos originales | Los pierdes | Envía copias
 * No guardar el folio de la disputa | No puedes dar seguimiento | Anota fecha, folio y respuesta
@@ -284,7 +284,7 @@ respuesta: Identifica la cuenta con los últimos dígitos, describe la diferenci
 Registra la fecha de tu revisión, lo que encontraste, tu prueba y la próxima revisión. No entregues tu reporte completo al curso.
 
 == recursos
-- **Reportes de crédito gratuitos** (AnnualCreditReport.com · inglés y español): https://www.annualcreditreport.com | Qué buscar: "Solicitar reportes" para pedir los de las tres agencias; si usas ITIN, la opción por correo.
+- **Reportes de crédito sin costo** (AnnualCreditReport.com · inglés y español): https://www.annualcreditreport.com | Qué buscar: "Solicitar reportes" para pedir los de las tres agencias; si usas ITIN, la opción por correo.
 - **Cómo disputar errores** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: las cartas modelo para disputar un error con la agencia y con el acreedor.
 
 == palabras
@@ -461,7 +461,7 @@ Desconfía de quien promete:
 - crear una "nueva identidad de crédito";
 - cobrar antes de hacer el trabajo.
 
-Todo lo que hace una empresa legítima de reparación de crédito, tú lo puedes hacer gratis.
+Todo lo que hace una empresa legítima de reparación de crédito, tú lo puedes hacer sin costo.
 
 --- pasos | fa-check-square-o | Hazlo esta semana
 1. Revisa tu reporte y separa errores de datos correctos.
@@ -522,7 +522,7 @@ La ley federal prohíbe que las empresas de reparación de crédito te cobren an
 --- tema | fa-user-secret | Cómo reconocer a una empresa legítima
 Una empresa legítima de asesoría de crédito no te promete resultados, no te cobra antes y te da un contrato por escrito.
 
-Muchas agencias sin fines de lucro ofrecen asesoría gratis o de bajo costo. Pregunta si están afiliadas a una organización nacional de consejería de crédito.
+Muchas agencias sin fines de lucro ofrecen asesoría sin costo o de bajo costo. Pregunta si están afiliadas a una organización nacional de consejería de crédito.
 
 --- casos
 ### Caso 1. La oferta de 30 días
@@ -562,7 +562,7 @@ respuesta: No contratas por esa promesa. Verificas tus datos, disputas solo erro
 Elige tres acciones con fecha: revisar tu reporte, corregir si aplica y organizar tus pagos. Registra resultados, sin esperar una fecha garantizada.
 
 == recursos
-- **Reparación de crédito: estafas** (FTC · español): https://consumidor.ftc.gov | Qué buscar: escribe "reparación de crédito" para ver las señales de estafa y cómo hacerlo tú gratis.
+- **Reparación de crédito: estafas** (FTC · español): https://consumidor.ftc.gov | Qué buscar: escribe "reparación de crédito" para ver las señales de estafa y cómo hacerlo tú sin costo.
 - **Reportes y puntajes de crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: "Cómo mejorar tu puntaje" y la explicación de la utilización.
 
 == palabras

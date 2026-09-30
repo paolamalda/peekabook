@@ -250,7 +250,7 @@ Si una participante dice que alguien le quitó su tarjeta, decide sus gastos o l
 
 **A6. Caso personal (mensaje privado)**
 
-"Tu caso depende de datos que no conviene compartir aquí. Te sugiero acudir a [institución], que orienta gratis. Antes, revisa [lección] para llevar tus preguntas claras."
+"Tu caso depende de datos que no conviene compartir aquí. Te sugiero acudir a [institución], que orienta sin costo. Antes, revisa [lección] para llevar tus preguntas claras."
 
 ---
 

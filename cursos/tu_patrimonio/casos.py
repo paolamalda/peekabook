@@ -98,7 +98,7 @@ CASOS = {
 ],
 "M4 U06": [
  ("Pide su reporte, reclama, denuncia y bloquea.", "Paga la tarjeta para que dejen de llamar.", "Ignora las llamadas hasta que se cansen."),
- ("Consulta gratis sus líneas con su CURP.", "Paga a un gestor para revisar sus líneas.", "Cambia de compañía telefónica por si acaso."),
+ ("Consulta sin costo sus líneas con su CURP.", "Paga a un gestor para revisar sus líneas.", "Cambia de compañía telefónica por si acaso."),
  ("Los rompe antes de tirarlos.", "Los tira enteros en bolsas separadas.", "Los guarda todos en una caja sin revisar."),
 ],
 "M4 U07": [
@@ -138,8 +138,8 @@ CASOS = {
 ],
 "M5 U06": [
  ("Habla con él para ponerse al corriente.", "Lo ignora: el crédito no es suyo.", "Firma como aval otra vez para ayudarlo."),
- ("Reclama gratis y revisa si hay robo de identidad.", "Paga la tarjeta para que desaparezca.", "Contrata un despacho para quitarla."),
- ("No paga: es fraude y reclamar es gratis.", "Paga la mitad para probar.", "Paga para limpiar su historial rápido."),
+ ("Reclama sin costo y revisa si hay robo de identidad.", "Paga la tarjeta para que desaparezca.", "Contrata un despacho para quitarla."),
+ ("No paga: es fraude y reclamar no tiene costo.", "Paga la mitad para probar.", "Paga para limpiar su historial rápido."),
 ],
 "M5 U07": [
  ("Lee el contrato y firma solo si podría pagar.", "Firma: es familia y no le va a fallar.", "Firma y le pide un pagaré a su sobrino."),
@@ -177,24 +177,24 @@ CASOS = {
  ("Revisa los requisitos de Mujeres Bienestar.", "Espera a cumplir 65 para preguntar.", "Paga a quien le ofrece registrarla."),
 ],
 "M7 U02": [
- ("La localiza gratis con su CURP.", "Paga a un gestor para encontrarla.", "Llama a cada AFORE para preguntar."),
+ ("La localiza sin costo con su CURP.", "Paga a un gestor para encontrarla.", "Llama a cada AFORE para preguntar."),
  ("Actualiza sus beneficiarios en su AFORE.", "Lo deja así; ya pasará a sus hermanos.", "Espera a jubilarse para cambiarlos."),
  ("Compara rendimientos en la CONSAR antes.", "Se cambia porque el regalo es útil.", "Se cambia y regresa si no le gusta."),
 ],
 "M7 U03": [
- ("Confirma en el IMSS y hace el trámite gratis.", "Paga los 15,000 para asegurar su lugar.", "Paga la mitad ahora y el resto cuando el gestor confirme la inscripción."),
+ ("Confirma en el IMSS y hace el trámite sin costo.", "Paga los 15,000 para asegurar su lugar.", "Paga la mitad ahora y el resto cuando el gestor confirme la inscripción."),
  ("Pregunta en el IMSS si le conviene.", "Se inscribe porque a su amiga le funcionó.", "Paga un año para ver si su pensión sube."),
  ("Pide una estimación del IMSS antes de endeudarse.", "Toma el préstamo para asegurar la pensión.", "Pide el préstamo a sus hijos."),
 ],
 "M7 U04": [
  ("Se registra en el módulo oficial.", "Supone que no puede por tener viudez.", "Paga a un gestor para registrarse."),
  ("La tramita y la guarda en su carpeta.", "Espera a necesitarla para buscarla.", "Le pide a Jorge que la guarde él."),
- ("Cuelga: el registro es gratuito.", "Paga para que le aumenten la pensión.", "Da los datos de su tarjeta para el depósito."),
+ ("Cuelga: el registro no tiene costo.", "Paga para que le aumenten la pensión.", "Da los datos de su tarjeta para el depósito."),
 ],
 "M7 U05": [
  ("Piden la hoja única y confirman el régimen.", "Suponen que está en el régimen viejo.", "Pagan a un gestor para que lo averigüe."),
  ("La acompaña al ISSSTE con los documentos.", "Le dice que ya pasó mucho tiempo.", "Busca a un gestor que lo haga por ella."),
- ("Que no pague: el trámite es gratuito.", "Que pague la mitad al empezar.", "Que pague si le da recibo."),
+ ("Que no pague: el trámite no tiene costo.", "Que pague la mitad al empezar.", "Que pague si le da recibo."),
 ],
 "M7 U06": [
  ("Calculan gasto, pensión y diferencia.", "Suponen que la pensión alcanza.", "Esperan a jubilarse para ver qué pasa."),

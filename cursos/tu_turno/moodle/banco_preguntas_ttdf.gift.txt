@@ -129,9 +129,9 @@ $CATEGORY: $course$/Tu Turno/M2
 }
 
 ::M2 U03 P1::¿Qué hace la CONDUSEF? {
-	~Presta dinero en emergencias a quien lo necesita #No es la mejor opción. Es gratuita.
-	=Orienta y defiende gratis #¡Correcto! Es gratuita.
-	~Cobra deudas #No es la mejor opción. Es gratuita.
+	~Presta dinero en emergencias a quien lo necesita #No es la mejor opción. Es sin costo.
+	=Orienta y defiende sin costo #¡Correcto! Es sin costo.
+	~Cobra deudas #No es la mejor opción. Es sin costo.
 }
 
 ::M2 U03 P2::¿Dónde verificas que una financiera existe? {
@@ -296,16 +296,16 @@ $CATEGORY: $course$/Tu Turno/M5
 	=Pagar a tiempo #¡Correcto! Los pagos puntuales cuentan.
 }
 
-::M5 U02 P1::¿Cuántos reportes gratis puedes pedir al año? {
+::M5 U02 P1::¿Cuántos reportes sin costo puedes pedir al año? {
 	~Ninguno #No es la mejor opción. Uno en cada una.
 	~Uno en total, en cualquiera de las dos #No es la mejor opción. Uno en cada una.
 	=Uno en Buró y uno en Círculo #¡Correcto! Uno en cada una.
 }
 
 ::M5 U02 P2::Hay un crédito que no es tuyo. ¿Qué haces? {
-	=Lo reclamas #¡Correcto! Reclamar es gratis.
-	~Lo pagas para que se borre #No es la mejor opción. Reclamar es gratis.
-	~Lo ignoras #No es la mejor opción. Reclamar es gratis.
+	=Lo reclamas #¡Correcto! Reclamar no tiene costo.
+	~Lo pagas para que se borre #No es la mejor opción. Reclamar no tiene costo.
+	~Lo ignoras #No es la mejor opción. Reclamar no tiene costo.
 }
 
 ::M5 U02 P3::¿Dónde pides tu reporte? {
@@ -407,9 +407,9 @@ $CATEGORY: $course$/Tu Turno/M6
 }
 
 ::M6 U05 P1::¿Cuánto cuesta inscribirte en el REPEP? {
-	=Nada #¡Correcto! Es gratuito.
-	~150 pesos al año #No es la mejor opción. Es gratuito.
-	~Lo que cobre tu compañía de celular #No es la mejor opción. Es gratuito.
+	=Nada #¡Correcto! Es sin costo.
+	~150 pesos al año #No es la mejor opción. Es sin costo.
+	~Lo que cobre tu compañía de celular #No es la mejor opción. Es sin costo.
 }
 
 ::M6 U05 P2::¿Qué haces con la copia de tu INE que entregas? {
@@ -505,7 +505,7 @@ $CATEGORY: $course$/Tu Turno/M7
 }
 
 ::M7 U04 P2::Alguien te cobra por anotarte en un apoyo del gobierno. ¿Qué es? {
-	=Un fraude\: los apoyos son gratis #¡Correcto! Nadie cobra.
+	=Un fraude\: los apoyos no tienen costo #¡Correcto! Nadie cobra.
 	~Un trámite normal #No es la mejor opción. Nadie cobra.
 	~Una comisión del banco #No es la mejor opción. Nadie cobra.
 }
@@ -525,9 +525,9 @@ $CATEGORY: $course$/Tu Turno/M8
 }
 
 ::M8 U01 P2::¿Cómo sabes en qué AFORE estás? {
-	~Preguntas en tu trabajo o a un gestor que cobra poco #No es la mejor opción. Es gratis.
-	=Con tu CURP en e-SAR #¡Correcto! Es gratis.
-	~No se puede saber #No es la mejor opción. Es gratis.
+	~Preguntas en tu trabajo o a un gestor que cobra poco #No es la mejor opción. Es sin costo.
+	=Con tu CURP en e-SAR #¡Correcto! Es sin costo.
+	~No se puede saber #No es la mejor opción. Es sin costo.
 }
 
 ::M8 U01 P3::Te ofrecen un regalo por cambiarte de AFORE. ¿Qué haces? {
@@ -561,7 +561,7 @@ $CATEGORY: $course$/Tu Turno/M8
 }
 
 ::M8 U03 P2::Alguien te cobra por «sacarte» tu crédito Infonavit. ¿Qué haces? {
-	=No pagas\: el trámite es gratis #¡Correcto! Sin intermediarios.
+	=No pagas\: el trámite no tiene costo #¡Correcto! Sin intermediarios.
 	~Pagas la mitad #No es la mejor opción. Sin intermediarios.
 	~Le das tu contraseña para agilizar #No es la mejor opción. Sin intermediarios.
 }

@@ -91,7 +91,7 @@ El mánager de Gael calcula su 15% sobre el pago con IVA incluido.
 * Gastar el pago antes de restar la comisión | Te quedas corto cuando el mánager cobra | Separa la comisión en cuanto llegue el pago
 * Gastar el IVA | Debes dinero al SAT | Apártalo el mismo día
 * Creer que en RESICO deduces tus gastos | Calculas mal tus impuestos | Pregunta a tu contador qué aplica en tu régimen
-* Aceptar gastos sin reembolso | Trabajas casi gratis | Negocia antes de firmar
+* Aceptar gastos sin reembolso | Trabajas casi sin cobrar | Negocia antes de firmar
 
 == practica
 

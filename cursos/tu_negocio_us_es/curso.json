@@ -38,7 +38,7 @@
   "02": "Cuatro casos de negocio que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
   "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
   "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
-  "05": "Dónde pedir ayuda gratuita o de bajo costo, y respuestas a las dudas más comunes.",
+  "05": "Dónde pedir ayuda sin costo o de bajo costo, y respuestas a las dudas más comunes.",
   "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
  },
  "insignias": [
@@ -96,7 +96,7 @@
   "titulo": "Constancia de conclusión",
   "otorga": "Se otorga a",
   "nombre": "Nombre de la persona",
-  "texto": "por concluir el programa de educación financiera para emprender <b>Tu Negocio, Tu Dinero, Tu Futuro</b> (Estados Unidos), con sus nueve módulos y autoevaluaciones aprobadas.",
+  "texto": "por concluir el programa de bienestar financiero para emprender <b>Tu Negocio, Tu Dinero, Tu Futuro</b> (Estados Unidos), con sus nueve módulos y autoevaluaciones aprobadas.",
   "mods": [
    "Dinero separado",
    "Precio y flujo",
@@ -243,5 +243,15 @@
    "Reglas federales con ejemplos de California; en otros estados se revisan las reglas locales.",
    "El curso orienta en impuestos, pero cada caso se revisa con un preparador de impuestos o CPA. No da asesoría migratoria."
   ]
+ },
+ "encuesta": "us_es",
+ "negocio": true,
+ "catalogo": {
+  "descripcion": [
+   "Separa el dinero de tu negocio, pon precios con ganancia, cumple con tus impuestos y protege tu negocio.",
+   "Microlecciones prácticas con casos de comida, oficios y ventas en línea en Estados Unidos."
+  ],
+  "para_quien": "Personas hispanas con un negocio propio en Estados Unidos (federal y California).",
+  "idiomas": "Español (también en inglés)"
  }
 }

@@ -11,7 +11,7 @@ Lenders look at your income and your history, but they don't know all your expen
 
 --- ecuacion | fa-calculator | Do the math yourself
 You're offered a payment of 50 a month. After food, housing and commitments, you only have 30 left.
-= 30 | What you have free
+= 30 | What you have left over
 - 50 | The payment offered
 = −20 | You'd be short every month
 Your **{{ability to pay|What you can pay each month without leaving your basic expenses uncovered, even in a hard month.}}** means being able to cover the payment with your resources, even in a hard month.
@@ -157,8 +157,8 @@ Your **score** is a number calculated with part of that information.
 
 If you ever had a card, a loan or a phone paid in installments, you probably have a report.
 
---- paso | fa-download | How to get it for free
-You can see your reports from all three agencies **free every week** on the official site **AnnualCreditReport.com**.
+--- paso | fa-download | How to get it at no cost
+You can see your reports from all three agencies **no-cost every week** on the official site **AnnualCreditReport.com**.
 
 Checking your own report does **not** lower your score.
 
@@ -183,7 +183,7 @@ Incorrect information is corrected with a well-documented **{{dispute|A formal r
 > **Key idea:** use only AnnualCreditReport.com. Other websites charge or ask for your card information.
 
 --- paso | fa-user | A case in one minute
-Andrés requested his three free reports. One showed an address in another city where he never lived and a card he didn't open.
+Andrés requested his three no-cost reports. One showed an address in another city where he never lived and a card he didn't open.
 
 He took screenshots, disputed both items online with the agency and froze his credit at all three agencies. He wrote down the confirmation numbers and set an alert to check again in 30 days.
 
@@ -197,7 +197,7 @@ He took screenshots, disputed both items online with the agency and froze his cr
 2. Your report shows a real late payment. Is it an error that can be erased? || No. Correct information isn't erased; you handle it by paying.
 
 --- recuerda
-- Check your three reports free at AnnualCreditReport.com.
+- Check your three reports no-cost at AnnualCreditReport.com.
 - Separate errors from correct negative information.
 - Dispute only errors, with proof.
 
@@ -226,7 +226,7 @@ Much correct negative information can stay up to seven years. Certain bankruptci
 
 Don't treat these as a "clean slate" date: it depends on the type of record. Meanwhile, paying on time from now on does improve your history.
 
-> **Good to know:** you can freeze your credit for free at all three agencies. That way nobody can open new accounts in your name. You'll see it in M4 U04.
+> **Good to know:** you can freeze your credit at no cost at all three agencies. That way nobody can open new accounts in your name. You'll see it in M4 U04.
 
 --- tema | fa-ban | Never lie in a dispute
 Never claim identity theft to erase a real late payment. It's false and can have legal consequences.
@@ -243,7 +243,7 @@ Cover your sensitive information on the copies, like your full account number.
 --- tema | fa-bell | If you're denied credit
 If you're denied a loan or a rental because of your report, they must tell you which agency issued it.
 
-You have the right to request that report free within the next 60 days and to dispute any errors.
+You have the right to request that report no-cost within the next 60 days and to dispute any errors.
 
 --- casos
 ### Case 1. Someone else's card
@@ -260,7 +260,7 @@ Luis requested his report by mail using his ITIN.
 ? What did he find? || His phone installment plan, paid on time. He already had a history without knowing it.
 
 --- errores
-* Using websites that charge for your report | You pay for something free or your data gets stolen | Use AnnualCreditReport.com
+* Using websites that charge for your report | You pay for something no-cost or your data gets stolen | Use AnnualCreditReport.com
 * Disputing correct information | It isn't erased and you lose time | Dispute only errors
 * Sending original documents | You lose them | Send copies
 * Not keeping the dispute confirmation number | You can't follow up | Write down date, number and answer
@@ -284,7 +284,7 @@ respuesta: Identify the account by its last digits, describe the difference, att
 Write down the date of your review, what you found, your proof and the next review date. Don't hand your full report to the course.
 
 == recursos
-- **Free credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com | Qué buscar: "Request your free credit reports" to get all three; if you use an ITIN, the mail option.
+- **Free credit reports** (AnnualCreditReport.com · English and Spanish): https://www.annualcreditreport.com | Qué buscar: "Request your no-cost credit reports" to get all three; if you use an ITIN, the mail option.
 - **How to dispute errors** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: the sample letters to dispute an error with the agency and with the creditor.
 
 == palabras
@@ -461,7 +461,7 @@ Be wary of anyone who promises to:
 - create a "new credit identity";
 - charge you before doing the work.
 
-Anything a legitimate credit repair company does, you can do yourself for free.
+Anything a legitimate credit repair company does, you can do yourself at no cost.
 
 --- pasos | fa-check-square-o | Do it this week
 1. Check your report and separate errors from correct information.
@@ -522,7 +522,7 @@ Federal law prohibits credit repair companies from charging you before doing the
 --- tema | fa-user-secret | How to recognize a legitimate company
 A legitimate credit counseling company doesn't promise you results, doesn't charge you upfront and gives you a written contract.
 
-Many nonprofit agencies offer free or low-cost counseling. Ask whether they're affiliated with a national credit counseling organization.
+Many nonprofit agencies offer no-cost or low-cost counseling. Ask whether they're affiliated with a national credit counseling organization.
 
 --- casos
 ### Case 1. The 30-day offer
@@ -562,7 +562,7 @@ respuesta: You don't sign up based on that promise. You check your information, 
 Choose three actions with dates: check your report, fix errors if any and organize your payments. Record results, without expecting a guaranteed date.
 
 == recursos
-- **Credit repair scams** (FTC · English): https://consumer.ftc.gov | Qué buscar: search for "credit repair" to see the warning signs and how to do it yourself for free.
+- **Credit repair scams** (FTC · English): https://consumer.ftc.gov | Qué buscar: search for "credit repair" to see the warning signs and how to do it yourself at no cost.
 - **Credit reports and scores** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: "How to improve your credit score" and the explanation of utilization.
 
 == palabras

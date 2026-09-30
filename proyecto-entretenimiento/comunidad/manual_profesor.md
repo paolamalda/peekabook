@@ -16,7 +16,7 @@ La comunidad es un **complemento** del curso *Tu Talento, Tu Marca, Tu Futuro*, 
 
 | | Curso Tu Talento (TTMF-MX) | Comunidad Tu Talento (TTMF-COM) |
 |---|---|---|
-| Para qué | Aprender: 11 módulos, 78 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
+| Para qué | Aprender: 11 módulos, 79 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
 | Evaluación | Sí: insignias y constancia | No: no hay calificaciones ni constancia |
 | Quién entra | Las personas inscritas al programa | Las mismas personas (misma cohorte), desde un enlace en el curso |
@@ -213,7 +213,7 @@ Además, las referencias comerciales van aparte, como máximo dos al mes, solo e
 
 > **Duda:** "Una tarjeta que liquidé hace un año aparece con saldo en Círculo, no en Buró. ¿Reclamo solo en Círculo?"
 >
-> **Respuesta:** "Buena pregunta; pasa más de lo que parece. Si el error aparece solo en Círculo, la reclamación va en Círculo, y conviene avisar también al banco que reportó. Guarda tu carta de liquidación: es tu prueba. El paso a paso está en M7 U07. La reclamación es gratuita; si en el plazo no se corrige, puedes acudir a CONDUSEF."
+> **Respuesta:** "Buena pregunta; pasa más de lo que parece. Si el error aparece solo en Círculo, la reclamación va en Círculo, y conviene avisar también al banco que reportó. Guarda tu carta de liquidación: es tu prueba. El paso a paso está en M7 U07. La reclamación no tiene costo; si en el plazo no se corrige, puedes acudir a CONDUSEF."
 
 ## Cuándo pasar a mensaje privado
 
@@ -334,7 +334,7 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 
 **A8. Caso personal (mensaje privado)**
 
-"Tu caso depende de datos que no conviene compartir aquí. Te sugiero acudir a [institución], que orienta gratis. Antes, revisa [lección] para llevar tus preguntas claras. Si después tienes una duda general, con gusto la vemos en el foro."
+"Tu caso depende de datos que no conviene compartir aquí. Te sugiero acudir a [institución], que orienta sin costo. Antes, revisa [lección] para llevar tus preguntas claras. Si después tienes una duda general, con gusto la vemos en el foro."
 
 ---
 
@@ -347,10 +347,10 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 | Deducciones, facturar y declarar; declaración anual | M2 U03 a U05 |
 | Contratos, exclusividad, derechos de imagen y voz | M3 U01, U02 |
 | Mánagers y agencias; ANDA, ANDI y organizaciones; regalías; productora que no paga | M3 U03 a U06 |
-| Quién es quién en el sistema financiero; verificar una institución; derechos | M4 U01 a U04 |
+| Quién es quién en el sistema financiero; verificar una institución; derechos; noticias y cambios | M4 U01 a U05 |
 | Elegir institución, cuenta, ahorro, seguro o crédito; leer el contrato; aval y referencia | M5 U01 a U08 |
 | Línea de crédito no es ingreso; pago mínimo; meses sin intereses; inventario de deudas | M6 U01 a U06 |
-| Buró y Círculo: reportes gratis, leer el reporte, score, plazos, reclamar, bloqueo | M7 U01 a U08, U10 |
+| Buró y Círculo: reportes sin costo, leer el reporte, score, plazos, reclamar, bloqueo | M7 U01 a U08, U10 |
 | Despachos que "limpian el Buró" | M7 U09 |
 | Salir de deudas, negociar, consolidar, cobranza, apuestas | M8 U01 a U06 |
 | Fraudes: falsos castings, phishing, robo de identidad, cuentas y línea | M9 U01 a U05 |
@@ -374,7 +374,7 @@ Confirma teléfonos y horarios en el sitio oficial antes de compartirlos; el lib
 | Problemas con el SAT | PRODECON (prodecon.gob.mx) | Gratis |
 | Reclamar a un banco, financiera o aseguradora | UNE de la institución y CONDUSEF: 55 5340 0999 u 800 999 8080 | Gratis |
 | Cobranza abusiva | REDECO de CONDUSEF | Gratis |
-| Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito (solo sitios oficiales) | Un reporte gratis al año en cada uno |
+| Reportes de crédito y reclamaciones | Buró de Crédito y Círculo de Crédito (solo sitios oficiales) | Un reporte sin costo al año en cada uno |
 | Llamadas de publicidad | REPEP de Profeco: 55 5568 8722 u 800 468 8722; REUS de CONDUSEF | Gratis |
 | Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis |
 | Pago tardío o relación laboral | PROFEDET | Gratis |

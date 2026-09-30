@@ -10,7 +10,7 @@ Fechas y recordatorios que importan para tu dinero y tu familia. En **Avisos** y
 | Marzo | Junta tus facturas médicas para la declaración anual | M9 U03 |
 | Abril | Declaración anual de personas físicas, si te corresponde | M9 |
 | Mayo | Revisa tu AFORE y tus beneficiarios | M7 U02 |
-| Junio | Pide tu reporte de crédito gratis | M4 U06 |
+| Junio | Pide tu reporte de crédito sin costo | M4 U06 |
 | Julio | Revisa tus candados en la app: alertas y límite de transferencias | M3 U03 |
 | Agosto | Revisa tus seguros antes de renovar | M8 |
 | Septiembre | Mes del Testamento: revisa tu carpeta y tu plan | M10 U01 · M11 U03 |

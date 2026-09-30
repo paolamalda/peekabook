@@ -79,7 +79,7 @@ Definiciones en lenguaje sencillo. Un contrato o una ley pueden usar la palabra 
 - **Deducción** (*tax deduction*): reduce la base del impuesto.
 - **Crédito fiscal** (*tax credit*): reduce el impuesto; algunos son reembolsables.
 - **CalEITC:** crédito estatal de California por ingresos del trabajo; se puede reclamar con ITIN.
-- **VITA:** ayuda gratuita del IRS para preparar impuestos.
+- **VITA:** ayuda sin costo del IRS para preparar impuestos.
 - **CTEC:** registro de preparadores de impuestos de California.
 - **Pagos estimados** (*estimated payments*): anticipos de impuestos durante el año.
 - **Tasa marginal** (*marginal rate*): tasa del último tramo de ingreso.

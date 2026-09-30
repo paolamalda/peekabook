@@ -459,7 +459,7 @@ Alex tiene 60 dólares libres. Puede comprar el regalo de cumpleaños de su hijo
 ### Caso 3. Los 60 dólares de Luis
 Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de 40, sus zapatos de trabajo están rotos y lo invitaron a un concierto.
 ? ¿Qué es urgente? || La medicina y los zapatos, porque protegen la salud y el trabajo.
-? ¿Qué hace con el concierto? || Lo aplaza o busca una opción gratis. Puede apartar un poco de cada pago para ir al siguiente.
+? ¿Qué hace con el concierto? || Lo aplaza o busca una opción sin costo. Puede apartar un poco de cada pago para ir al siguiente.
 
 --- errores
 * Pagar primero lo que más presiona | Queda sin cubrir lo que protege tu casa o tu trabajo | Pregunta la fecha real y la consecuencia de esperar
@@ -779,7 +779,7 @@ Hay excepciones según el tipo de trabajo. Si tus horas extra no aparecen en tu 
 --- tema | fa-gavel | Tus derechos si reclamas
 En California, tu patrón no puede despedirte ni castigarte por preguntar por tu pago o por presentar un reclamo de salarios.
 
-Si te deben dinero, puedes presentar un reclamo ante el Comisionado Laboral. El trámite es gratuito, hay atención en español y no te preguntan tu situación migratoria.
+Si te deben dinero, puedes presentar un reclamo ante el Comisionado Laboral. El trámite no tiene costo, hay atención en español y no te preguntan tu situación migratoria.
 
 Guarda copia de todo lo que entregues y anota con quién hablaste y en qué fecha.
 
@@ -837,7 +837,7 @@ Crea una carpeta de recibos de pago y un registro de horas. Anota una pregunta s
 
 # M1 U06 | ¿Una compra pequeña puede sumar mucho?
 objetivo: Medir el peso real de tus gastos grandes y pequeños, y elegir ajustes que sí puedas sostener.
-gancho: Luis revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "gratis" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena.
+gancho: Luis revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "sin costo" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena.
 
 == esencial
 
@@ -917,7 +917,7 @@ Un paquete grande puede ser más barato por pieza, pero una peor opción si se e
 --- tema | fa-tags | Promociones
 Antes de aceptar una promoción, pregúntate dos cosas: ¿lo compraría sin descuento? ¿Hay cargos o renovaciones automáticas después?
 
-Las "pruebas gratis" suelen pedir tu tarjeta y cobrar solas al terminar. Anota la fecha para cancelar antes.
+Las "pruebas sin costo" suelen pedir tu tarjeta y cobrar solas al terminar. Anota la fecha para cancelar antes.
 
 > **Dato adicional:** en California, las empresas que renuevan suscripciones automáticamente deben dejarte cancelar en línea si te inscribiste en línea. Si no te dejan, puedes presentar una queja ante la [Procuraduría General de California](https://oag.ca.gov/consumers).
 
@@ -949,7 +949,7 @@ Alex compra un refresco de 2.50 cada día de trabajo: 55 al mes.
 ? ¿Cuánto libera? || Unos 30 al mes, que asigna a su reserva.
 
 ### Caso 2. La suscripción olvidada de Luis
-Luis descubre un cargo de 12.99 al mes de una app que probó "gratis". Lleva ocho meses pagando.
+Luis descubre un cargo de 12.99 al mes de una app que probó "sin costo". Lleva ocho meses pagando.
 ? ¿Cuánto ha pagado? || 12.99 × 8 = 103.92.
 ? ¿Qué hace? || Cancela en la app o con la empresa, guarda el comprobante y revisa su estado de cuenta el mes siguiente.
 

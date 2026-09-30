@@ -111,6 +111,11 @@ CASOS = {
  ("En el RECA o pidiendo la carátula.", "En las redes sociales del banco.", "Solo después de que se la entreguen."),
  ("Inscribirse en el REUS.", "Cambiar de número celular.", "Contestar y pedir que no llamen."),
 ],
+"M4 U05": [
+ ("Lo confirma con el SAT y su contador.", "Saca todo su dinero del banco hoy.", "Deja de facturar hasta que pase."),
+ ("No invierte en lo que no puede explicar.", "Invierte poco para probar.", "Invierte si el video tiene muchas vistas."),
+ ("Revisa su estado de cuenta y prioriza esa deuda.", "Espera a que la tasa baje sola.", "Pide otra tarjeta con tasa fija para pagarla."),
+],
 "M5 U01": [
  ("Autorización, quejas y comisiones.", "Solo que el regalo sea útil.", "Que la sucursal quede cerca."),
  ("Dónde depositar efectivo y cuánto cuesta.", "Si la tarjeta tiene diseño metálico.", "Si el banco patrocina eventos y conciertos del medio."),
@@ -202,7 +207,7 @@ CASOS = {
  ("Investiga las que no reconoce y reclama.", "Nada: las consultas no importan.", "Pide más créditos para compensar."),
 ],
 "M7 U05": [
- ("No cada mes: basta su reporte gratis.", "Sí: sin pagar la app no sabe nada.", "Sí, y además paga otra app igual."),
+ ("No cada mes: basta su reporte sin costo.", "Sí: sin pagar la app no sabe nada.", "Sí, y además paga otra app igual."),
  ("Pagarlas y cerrar poco a poco las que no usa.", "Cerrar las cinco hoy mismo.", "Pedir otras cinco tarjetas para subir su línea disponible."),
  ("No paga: es fraude.", "Paga si le dan factura.", "Paga la mitad por adelantado."),
 ],
@@ -258,7 +263,7 @@ CASOS = {
 ],
 "M8 U06": [
  ("No toca el fondo, deja de apostar y pide ayuda.", "Toma los 5,000 y los repone con el siguiente pago.", "Apuesta el doble para recuperarlo más rápido."),
- ("Revisa el permiso y que no salga de su plan.", "Deposita: el bono es dinero gratis.", "Deposita con la tarjeta para ganar puntos."),
+ ("Revisa el permiso y que no salga de su plan.", "Deposita: el bono es dinero sin costo.", "Deposita con la tarjeta para ganar puntos."),
  ("No le presta y le comparte la Línea de la Vida.", "Le presta poco para que se le pase.", "Le presta si le promete pagarle al ganar."),
 ],
 "M9 U01": [
@@ -353,7 +358,7 @@ CASOS = {
 ],
 "M11 U02": [
  ("La busca con su CURP y actualiza beneficiarios.", "Da por perdido ese dinero porque ya no trabaja en la disquera.", "Pide a un gestor que la busque por él."),
- ("No acepta: los trámites son gratuitos.", "Acepta porque así es más rápido.", "Negocia que le cobren solo 15%."),
+ ("No acepta: los trámites no tienen costo.", "Acepta porque así es más rápido.", "Negocia que le cobren solo 15%."),
  ("Compara con datos de CONSAR y se cambia.", "Se queda aunque rinda poco.", "Se cambia a la AFORE que le ofrece un regalo de bienvenida."),
 ],
 "M11 U03": [
@@ -384,7 +389,7 @@ CASOS = {
 "M11 U08": [
  ("Construye su siguiente etapa desde ahora.", "Espera a cumplir 55 años para pensar qué hará después.", "Deja la música y busca otro empleo ya."),
  ("Ahorrar, proteger y diversificar.", "Gastar porque siempre será así.", "Dejar de aprender porque ya llegó."),
- ("Presupuestar formación cada año.", "Esperar a que un curso le llegue gratis.", "Formarse solo si pierde trabajo."),
+ ("Presupuestar formación cada año.", "Esperar a que un curso le llegue sin costo.", "Formarse solo si pierde trabajo."),
 ],
 "M11 U09": [
  ("Elige una acción pequeña con fecha.", "Espera a tener todo claro primero.", "Hace todo al mismo tiempo."),

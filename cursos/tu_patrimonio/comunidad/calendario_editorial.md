@@ -9,7 +9,7 @@ Cuatro publicaciones al mes: fechas, reto, alerta de fraude y aviso de la sesió
 | Marzo | Facturas para la anual | Alertas y límite de transferencias | Enlaces de paquetería | Sesión: el celular sin miedo |
 | Abril | Declaración anual | Palabra clave familiar | «Mamá, estoy en problemas» | Sesión: fraudes |
 | Mayo | Revisa tu AFORE | REPEP y REUS | Ayuda en el cajero | Sesión: cuentas e IPAB |
-| Junio | Reporte de crédito gratis | Pide tu reporte | Robo de identidad | Sesión: inversiones |
+| Junio | Reporte de crédito sin costo | Pide tu reporte | Robo de identidad | Sesión: inversiones |
 | Julio | Revisa tus candados | Tu ahorro y el IPAB | Inversiones milagro | Sesión: pensiones |
 | Agosto | Seguros por renovar | Localiza tu AFORE | Gestores de pensiones | Sesión: seguro médico |
 | Septiembre | Mes del Testamento | Agenda tu testamento | Falsos notarios y trámites | Sesión: testamento y beneficiarios |

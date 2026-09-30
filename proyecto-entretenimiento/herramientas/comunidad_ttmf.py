@@ -18,7 +18,7 @@ if EN:
             "02": "Five cases that bring together what you learned in each module. Solve them before opening the key.",
             "03": "Short exercises to practice the course calculations. The answers are at the end.",
             "04": "The course words explained in plain language, with their name in Spanish.",
-            "05": "Where to get free or low-cost help, and answers to the most common questions.",
+            "05": "Where to get no-cost or low-cost help, and answers to the most common questions.",
             "06": "The sources we used in the course, so you can check them."}
 L = dict(mat="Support materials", key="See the key", ans="See the answers", faq="Frequently asked questions", hdr="Answers",
          keyre=r"(Key|Answers)", taskre=r"Additional task") if EN else \

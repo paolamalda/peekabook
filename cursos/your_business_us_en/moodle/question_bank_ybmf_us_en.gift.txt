@@ -15,7 +15,7 @@ $CATEGORY: $course$/Your Business US EN/M1
 ::M1 U01 P3::Your sales and costs are the same. What happens? {
 	~You earn a little, but the business does leave you something #Not the best option. Nothing is left for you.
 	~You lose money every month #Not the best option. Nothing is left for you.
-	=You break even\: you work for free #Correct! Nothing is left for you.
+	=You break even\: you work without pay #Correct! Nothing is left for you.
 }
 
 ::M1 U02 P1::Where do you pay business materials from? {
@@ -67,7 +67,7 @@ $CATEGORY: $course$/Your Business US EN/M1
 }
 
 ::M1 U04 P3::An app asks for your bank password. What do you do? {
-	~Give it if the app is free and has good reviews #Not the best option. It asks for too much.
+	~Give it if the app costs nothing and has good reviews #Not the best option. It asks for too much.
 	=Don't give it and choose another tool #Correct! It asks for too much.
 	~Give only your Social Security number #Not the best option. It asks for too much.
 }
@@ -105,9 +105,9 @@ $CATEGORY: $course$/Your Business US EN/M2
 }
 
 ::M2 U01 P3::Is your salary a business cost? {
-	~No, it's profit #Not the best option. Without it you work for free.
-	~Only if something is left at the end of the month #Not the best option. Without it you work for free.
-	=Yes, it's a fixed cost #Correct! Without it you work for free.
+	~No, it's profit #Not the best option. Without it you work without pay.
+	~Only if something is left at the end of the month #Not the best option. Without it you work without pay.
+	=Yes, it's a fixed cost #Correct! Without it you work without pay.
 }
 
 ::M2 U02 P1::Your cost is $35. What is the minimum price for a 30% margin on price? {
@@ -186,7 +186,7 @@ $CATEGORY: $course$/Your Business US EN/M3
 
 ::M3 U02 P1::What is selling on credit for your business? {
 	~A sale already collected #Not the best option. Money that hasn't come back.
-	=An interest-free loan to your customer #Correct! Money that hasn't come back.
+	=An no-interest loan to your customer #Correct! Money that hasn't come back.
 	~Extra profit #Not the best option. Money that hasn't come back.
 }
 
@@ -297,9 +297,9 @@ $CATEGORY: $course$/Your Business US EN/M5
 }
 
 ::M5 U02 P1::Where do you get your EIN? {
-	~From a private site that charges a fee #Not the best option. It's free.
-	=Free at irs.gov #Correct! It's free.
-	~At your bank #Not the best option. It's free.
+	~From a private site that charges a fee #Not the best option. It's at no cost.
+	=Free at irs.gov #Correct! It's at no cost.
+	~At your bank #Not the best option. It's at no cost.
 }
 
 ::M5 U02 P2::What is the ITIN for? {
@@ -383,9 +383,9 @@ $CATEGORY: $course$/Your Business US EN/M6
 }
 
 ::M6 U01 P3::What do you do before borrowing for an order? {
-	=Check whether the customer can pay a deposit #Correct! An interest-free alternative.
-	~Ask for the maximum amount #Not the best option. An interest-free alternative.
-	~Quickly sign the first offer so you don't lose the day's deal #Not the best option. An interest-free alternative.
+	=Check whether the customer can pay a deposit #Correct! An no-interest alternative.
+	~Ask for the maximum amount #Not the best option. An no-interest alternative.
+	~Quickly sign the first offer so you don't lose the day's deal #Not the best option. An no-interest alternative.
 }
 
 ::M6 U02 P1::You're asked for a fee to release your loan. What is it? {
@@ -517,9 +517,9 @@ $CATEGORY: $course$/Your Business US EN/M7
 }
 
 ::M7 U05 P1::How much does a credit freeze cost? {
-	~$10 per bureau #Not the best option. It's free at all three bureaus.
-	=Nothing #Correct! It's free at all three bureaus.
-	~It's only free if your identity was already stolen #Not the best option. It's free at all three bureaus.
+	~$10 per bureau #Not the best option. It costs nothing at all three bureaus.
+	=Nothing #Correct! It costs nothing at all three bureaus.
+	~It's at no cost only if your identity was already stolen #Not the best option. It costs nothing at all three bureaus.
 }
 
 ::M7 U05 P2::Where do you report identity theft? {
@@ -559,9 +559,9 @@ $CATEGORY: $course$/Your Business US EN/M7
 }
 
 ::M7 U07 P2::Someone from "FEMA" asks for $100 to speed up your aid. What is it? {
-	=A scam\: FEMA doesn't charge #Correct! Aid is free.
-	~A normal procedure #Not the best option. Aid is free.
-	~An SBA fee #Not the best option. Aid is free.
+	=A scam\: FEMA doesn't charge #Correct! Aid costs nothing.
+	~A normal procedure #Not the best option. Aid costs nothing.
+	~An SBA fee #Not the best option. Aid costs nothing.
 }
 
 ::M7 U07 P3::Up to how much does the SBA lend a business after a disaster? {

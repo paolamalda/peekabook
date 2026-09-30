@@ -43,7 +43,7 @@ Version 3.0 · September 2026 · Matches course v3.2 in Moodle and its full cont
 
 **Cross-cutting competencies:** C1 interpret information and terms; C2 calculate and compare; C3 plan and adjust; C4 verify providers and protect oneself; C5 exercise rights and seek help; C6 communicate agreements autonomously; C7 document and review decisions.
 
-**Methodological references:** the OECD/INFE adult financial competence framework and CFPB research on financial skill and effective financial education. They guide the design; no certified alignment is claimed. [S01, S02, S26]
+**Methodological references:** the OECD/INFE adult financial competence framework and CFPB research on financial skill and effective financial well-being programs. They guide the design; no certified alignment is claimed. [S01, S02, S26]
 
 ---
 
@@ -158,7 +158,7 @@ These are original instruments without external psychometric validation. When re
 - **Items:** 0 (incorrect or unsafe), 1 (main idea correct but incomplete; in calculations, correct method with a calculation error), 2 (sufficient answer and reasoning).
 - **Knowledge** = sum ÷ 20 × 100.
 - **Integrative case:** four-dimension rubric scored 0 to 3; sum ÷ 12 × 100.
-- **Module mastery** = 40% knowledge + 60% integrative case. Mastery requires 80 out of 100, at least level 2 on every case dimension and correction of critical errors. Retries with feedback are free.
+- **Module mastery** = 40% knowledge + 60% integrative case. Mastery requires 80 out of 100, at least level 2 on every case dimension and correction of critical errors. Retries with feedback are allowed at no cost.
 
 **Simulated example.** Knowledge 16 of 20 = 80; case 10 of 12 = 83.33. Result = 0.40 × 80 + 0.60 × 83.33 = 82. Mastery only if every case dimension is at least 2 and critical errors have been corrected.
 ## Rubric

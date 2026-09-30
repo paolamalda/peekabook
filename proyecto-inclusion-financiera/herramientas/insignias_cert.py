@@ -23,12 +23,12 @@ if EN:
          ("07_expert_comparer", "SPECIAL", "Expert comparer", "fa-balance-scale"),
          ("08_complete_plan", "COURSE", "Complete plan", "fa-trophy")]
 T = dict(top="YOUR MONEY · YOUR FAMILY · YOUR FUTURE", t="Certificate of Completion", otorga="Awarded to", name="Participant name",
-         txt="for completing the financial education program <b>Your Money, Your Family, Your Future</b> (California pilot), with its five modules and self-assessments passed.",
+         txt="for completing the financial well-being program <b>Your Money, Your Family, Your Future</b> (California pilot), with its five modules and self-assessments passed.",
          mods=["My money", "Financial system and remittances", "Credit and debt", "Protection", "Future and wealth"],
          date="September 28, 2026", fecha="Date", cod="Verification code",
          nota="An educational recognition from the program. It isn't a professional license or an official accreditation.") if EN else \
     dict(top="TU DINERO · TU FAMILIA · TU FUTURO", t="Constancia de conclusión", otorga="Se otorga a", name="Nombre de la persona",
-         txt="por concluir el programa de educación financiera <b>Tu Dinero, Tu Familia, Tu Futuro</b> (piloto California), con sus cinco módulos y autoevaluaciones aprobadas.",
+         txt="por concluir el programa de bienestar financiero <b>Tu Dinero, Tu Familia, Tu Futuro</b> (piloto California), con sus cinco módulos y autoevaluaciones aprobadas.",
          mods=["Mi dinero", "Sistema financiero y remesas", "Crédito y deudas", "Protección", "Futuro y patrimonio"],
          date="28 de septiembre de 2026", fecha="Fecha", cod="Código de verificación",
          nota="Reconocimiento educativo del programa. No es una licencia profesional ni una acreditación oficial.")
@@ -43,7 +43,7 @@ if TTMF:
          ("07_futuro_en_escena", "M11", "Futuro en escena", "fa-star"),
          ("08_plan_completo", "CURSO", "Plan completo", "fa-trophy")]
     T.update(top="TU TALENTO · TU MARCA · TU FUTURO",
-             txt="por concluir el programa de educación financiera <b>Tu Talento, Tu Marca, Tu Futuro</b>, con sus once módulos y autoevaluaciones aprobadas.",
+             txt="por concluir el programa de bienestar financiero <b>Tu Talento, Tu Marca, Tu Futuro</b>, con sus once módulos y autoevaluaciones aprobadas.",
              mods=["Tu dinero y tu carrera", "Sistema financiero", "Crédito y deudas", "Protección", "Futuro"])
 MODS = "".join(f"<span>{m}</span>" for m in T["mods"])
 OUTB, OUTC = [os.path.join(os.path.dirname(BASE), "proyecto-entretenimiento", "moodle", d) for d in ("insignias", "certificado")] if TTMF else [os.path.join(BASE, "moodle/v3/en" if EN else "moodle/v3", d) for d in ("insignias", "certificado")]

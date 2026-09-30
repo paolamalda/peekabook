@@ -310,7 +310,7 @@ Anota el año fiscal, tus documentos, las fechas que verificaste y tus preguntas
 == recursos
 - **IRS en español** (IRS · español): https://www.irs.gov/es | Qué buscar: "Presentar" para ver quién debe declarar y la fecha límite de este año.
 - **Cómo solicitar un ITIN** (IRS · inglés y español): https://www.irs.gov/tin/itin/how-to-apply-for-an-itin | Qué buscar: la lista de documentos aceptados y la sección sobre cuándo vence y cómo renovar un ITIN.
-- **Ayuda fiscal gratuita en California** (FTB · inglés): https://www.ftb.ca.gov/help/free-tax-help/index.html | Qué buscar: las opciones gratuitas para declarar y el buscador de sedes cercanas.
+- **Ayuda fiscal sin costo en California** (FTB · inglés): https://www.ftb.ca.gov/help/free-tax-help/index.html | Qué buscar: las opciones sin costo para declarar y el buscador de sedes cercanas.
 
 == palabras
 - *Declaración de impuestos:* documento que informa tus datos y calcula tu impuesto.
@@ -480,8 +480,8 @@ Prepara carpetas de ingresos, gastos, salud, familia y avisos del IRS o del FTB.
 
 
 # M1 U11 | ¿Qué apoyos fiscales existen si declaro con ITIN?
-objetivo: Conocer cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda gratuita para declarar.
-gancho: Mar pensaba que, como declara con ITIN, no tenía derecho a ningún apoyo. En una sede de ayuda gratuita descubrió que su familia podía recibir créditos estatales. En esta lección aprenderás qué apoyos existen si declaras con ITIN en California.
+objetivo: Conocer cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin costo para declarar.
+gancho: Mar pensaba que, como declara con ITIN, no tenía derecho a ningún apoyo. En una sede de ayuda sin costo descubrió que su familia podía recibir créditos estatales. En esta lección aprenderás qué apoyos existen si declaras con ITIN en California.
 
 == esencial
 
@@ -498,10 +498,10 @@ Además, crea un registro de que cumples con tus impuestos cada año.
 --- pasos | fa-list-ol | Tres pasos
 1. **Averigua si necesitas ITIN:** si debes declarar y no puedes tener SSN.
 2. **Revisa qué créditos existen** para tu situación este año.
-3. **Busca ayuda gratuita** y certificada para preparar tu declaración.
+3. **Busca ayuda sin costo** y certificada para preparar tu declaración.
 
---- paso | fa-handshake-o | Ayuda gratuita para declarar
-**{{VITA|Programa del IRS donde voluntarios certificados te ayudan gratis a hacer tu declaración.}}** es un programa del IRS con voluntarios certificados. Ayuda gratis a personas con ingresos por debajo de un límite que se publica cada año.
+--- paso | fa-handshake-o | Ayuda sin costo para declarar
+**{{VITA|Programa del IRS donde voluntarios certificados te ayudan sin costo a hacer tu declaración.}}** es un programa del IRS con voluntarios certificados. Ayuda sin costo a personas con ingresos por debajo de un límite que se publica cada año.
 
 Muchas sedes atienden en español y ayudan a tramitar el ITIN.
 
@@ -530,7 +530,7 @@ Pregunta en VITA qué documentos se necesitan para los niños. Los hijos nacidos
 
 --- recuerda
 - En California hay créditos estatales que aceptan ITIN.
-- VITA ayuda gratis y en español.
+- VITA ayuda sin costo y en español.
 - Declara cada año para mantener tu ITIN activo.
 
 == profundiza
@@ -549,9 +549,9 @@ El crédito federal por hijos tiene requisitos de SSN que cambiaron recientement
 
 Verifica siempre las reglas del año en curso: cambian con frecuencia.
 
---- tema | fa-laptop | Otras opciones gratuitas
+--- tema | fa-laptop | Otras opciones sin costo
 - **TCE:** programa del IRS parecido a VITA, enfocado en personas de 60 años o más.
-- **CalFile:** herramienta gratuita del FTB para declaraciones estatales sencillas, si calificas.
+- **CalFile:** herramienta sin costo del FTB para declaraciones estatales sencillas, si calificas.
 
 --- tema | fa-check | Por qué declarar aunque este año no "convenga"
 Puede ser obligatorio según tus ingresos. Crea un registro de cumplimiento. Te permite recibir créditos a los que tienes derecho. Y mantiene tu ITIN activo.
@@ -619,17 +619,17 @@ Localiza la sede de VITA más cercana y anota su horario, su idioma y los docume
 - **CalEITC** (FTB · inglés y español): https://www.ftb.ca.gov/file/personal/credits/california-earned-income-tax-credit.html | Qué buscar: la tabla de límites de ingreso de este año y la calculadora para saber si calificas.
 - **Young Child Tax Credit** (FTB · español): https://www.ftb.ca.gov/file/personal/credits/young-child-tax-credit-es.html | Qué buscar: los requisitos de edad del hijo y cuánto puede ser el crédito.
 - **Buscador de agentes certificadores** (IRS · inglés): https://www.irs.gov/tin/itin/itin-acceptance-agents | Qué buscar: filtra por California y tu ciudad para encontrar un agente cercano.
-- **Preparación gratuita de impuestos (VITA)** (IRS · inglés y español): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers | Qué buscar: el buscador de sedes por código postal y qué documentos llevar.
+- **Preparación sin costo de impuestos (VITA)** (IRS · inglés y español): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers | Qué buscar: el buscador de sedes por código postal y qué documentos llevar.
 
 == palabras
 - *ITIN:* número fiscal del IRS para quien no puede tener SSN.
 - *CalEITC:* crédito estatal de California por ingresos del trabajo.
 - *Crédito reembolsable:* puede darte dinero aunque no debas impuesto.
-- *VITA:* ayuda fiscal gratuita del IRS con voluntarios certificados.
+- *VITA:* ayuda fiscal sin costo del IRS con voluntarios certificados.
 - *Agente Certificador de Aceptación:* persona autorizada por el IRS para revisar documentos del ITIN.
 
 == fuentes
-[S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, ayuda fiscal gratuita · [R19] IRS, VITA · [R48] FTB, CalFile.
+[S12] IRS, ITIN · [S14] FTB, ITIN · [S15] FTB, ayuda fiscal sin costo · [R19] IRS, VITA · [R48] FTB, CalFile.
 
 
 # M1 U12 | ¿Cómo elijo a alguien que me ayude con impuestos?
@@ -667,16 +667,16 @@ Aléjate si el preparador:
 --- paso | fa-user | Un caso en un minuto
 Mar busca quién le haga su declaración. Una oficina del barrio cobra 60, pero no le quiere dar copia. Otra cobra 150, firma como preparadora y tiene registro en CTEC.
 
-Mar pregunta en una sede de VITA y descubre que califica para que le ayuden gratis. Lleva sus papeles y recibe copia de todo.
+Mar pregunta en una sede de VITA y descubre que califica para que le ayuden sin costo. Lleva sus papeles y recibe copia de todo.
 
-Aprendió que el precio más bajo no siempre es el mejor, y que la opción gratuita a veces es la más segura.
+Aprendió que el precio más bajo no siempre es el mejor, y que la opción sin costo a veces es la más segura.
 
 > **Antes de actuar, verifica:** pide siempre el precio total por escrito y una copia completa de tu declaración.
 
 --- pasos | fa-check-square-o | Hazlo esta semana
 1. Pregunta a dos preparadores qué incluye su precio y cuánto cuesta en total.
 2. Verifica su registro en CTEC o en el directorio del IRS.
-3. Revisa si calificas para VITA, que es gratis.
+3. Revisa si calificas para VITA, que no tiene costo.
 
 --- comprueba
 1. ¿Qué debe tener todo preparador pagado? || Un PTIN del IRS.
@@ -774,12 +774,12 @@ Un preparador promete "el máximo reembolso garantizado" antes de ver tus docume
 respuesta: No firmas, proteges tus documentos y buscas una opción verificable (VITA o un preparador registrado). Un reembolso no se puede prometer sin revisar tu información.
 
 --- plan
-Compara dos servicios y una opción gratuita. Anota qué confirmaste y qué falta.
+Compara dos servicios y una opción sin costo. Anota qué confirmaste y qué falta.
 
 == recursos
 - **Verificar un preparador registrado** (CTEC · inglés): https://www.ctec.org | Qué buscar: "Verify a Preparer"; escribe el nombre del preparador para confirmar que su registro está vigente.
 - **Directorio de preparadores del IRS** (IRS · inglés): https://irs.treasury.gov/rpo/rpo.jsf | Qué buscar: busca por código postal para encontrar CPA y agentes inscritos (EA) con credenciales verificadas.
-- **Preparación gratuita de impuestos (VITA)** (IRS · inglés y español): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers | Qué buscar: el buscador de sedes por código postal.
+- **Preparación sin costo de impuestos (VITA)** (IRS · inglés y español): https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers | Qué buscar: el buscador de sedes por código postal.
 
 == palabras
 - *Alcance del servicio:* los trabajos que incluye el precio.
@@ -788,7 +788,7 @@ Compara dos servicios y una opción gratuita. Anota qué confirmaste y qué falt
 - *CTEC:* registro de preparadores de impuestos de California.
 
 == fuentes
-[S15] FTB, ayuda gratuita · [S16] FTB, Publicación 982 · [R36] CTEC, verificación de preparadores.
+[S15] FTB, ayuda sin costo · [S16] FTB, Publicación 982 · [R36] CTEC, verificación de preparadores.
 
 
 # M1 U13 | ¿Qué debo saber antes de pedir un apoyo público?
@@ -1042,7 +1042,7 @@ Ver tus avances te da ánimo para seguir. Y si algo no salió, anótalo también
 --- tema | fa-life-ring | Si necesitas ayuda
 Si tu plan muestra un faltante que no puedes cubrir, no lo resuelvas solo.
 
-Busca apoyos de tu condado, organizaciones comunitarias y consejería financiera gratuita. En el capítulo "Dónde encontrar ayuda" del manual tienes una lista.
+Busca apoyos de tu condado, organizaciones comunitarias y consejería financiera sin costo. En el capítulo "Dónde encontrar ayuda" del manual tienes una lista.
 
 --- tema | fa-arrow-right | Lo que sigue
 En el Módulo 2 aprenderás a elegir dónde guardar tu dinero y a planear tus envíos a tu familia.

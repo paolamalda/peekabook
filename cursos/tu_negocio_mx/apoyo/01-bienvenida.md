@@ -1,6 +1,6 @@
 # Bienvenida
 
-**Tu Negocio, Tu Dinero, Tu Futuro** es un programa de educación financiera para personas que emprenden o trabajan por su cuenta en México.
+**Tu Negocio, Tu Dinero, Tu Futuro** es un programa de bienestar financiero para personas que emprenden o trabajan por su cuenta en México.
 
 Aquí aprenderás a separar el dinero del negocio y de tu casa, poner precio, cuidar tu flujo, cobrar sin perder, formalizarte sin miedo, usar el crédito con cuidado, proteger tu negocio y pensar en tu futuro.
 

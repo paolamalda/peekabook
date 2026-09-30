@@ -214,9 +214,9 @@ If a collector contacts you about a very old debt, don't make payments or promis
 | Bankruptcy | A legal process | Requires an attorney |
 
 --- tema | fa-balance-scale | Where to get legal help
-The State Bar of California has a list of free or low-cost legal aid services and certified lawyer referral services.
+The State Bar of California has a list of no-cost or low-cost legal aid services and certified lawyer referral services.
 
-Many California courts have free self-help centers that explain how to respond to a lawsuit.
+Many California courts have no-cost self-help centers that explain how to respond to a lawsuit.
 
 --- tema | fa-file-text | What the written agreement should say
 - The amount of each payment and the dates.
@@ -271,7 +271,7 @@ Create a file with facts, communications, options and dates. Find a legal aid se
 
 == recursos
 - **Debt collection: your rights** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/debt-collection/ | Qué buscar: the sample letters to ask for validation of a debt and to ask them to stop calling you.
-- **Legal help in California** (State Bar of California · English and Spanish): https://www.calbar.ca.gov | Qué buscar: "Find Legal Help" for free or low-cost legal aid near you.
+- **Legal help in California** (State Bar of California · English and Spanish): https://www.calbar.ca.gov | Qué buscar: "Find Legal Help" at no cost or low-cost legal aid near you.
 - **Court self-help centers** (California Courts · English and Spanish): https://selfhelp.courts.ca.gov | Qué buscar: "Debt lawsuits" to learn how to respond on time.
 
 == palabras
@@ -303,8 +303,8 @@ For the {{lender|The bank, credit union, store or person lending the money.}}, t
 * fa-key | Sharing your password | The other person gets into your bank or app. | They can move your money, and the bank may not reimburse you. | no
 
 --- ecuacion | fa-calculator | Do the math before you sign
-You earn 2,400 a month. After your expenses you have 150 free. Your cousin asks you to cosign a car with a 180 monthly payment.
-= 150 | What you have free
+You earn 2,400 a month. After your expenses you have 150 left over. Your cousin asks you to cosign a car with a 180 monthly payment.
+= 150 | What you have left over
 - 180 | The payment if your cousin stops paying
 = −30 | What you'd be short each month
 And that's without counting late fees. In this case, signing puts your rent at risk.
@@ -332,7 +332,7 @@ Saying "no" or offering another kind of help is also caring for your family.
 
 --- comprueba
 1. Your brother promises he'll pay the loan you cosign. Does that protect you? || No. If the contract says you're responsible, the lender can collect from you.
-2. You have 150 free a month and are asked to cosign a 180 payment. What does the math tell you? || That if the other person doesn't pay, you'd be 30 short each month. Signing puts your basic expenses at risk.
+2. You have 150 left over a month and are asked to cosign a 180 payment. What does the math tell you? || That if the other person doesn't pay, you'd be 30 short each month. Signing puts your basic expenses at risk.
 
 --- recuerda
 - Signing, lending your card and sharing your password can leave you with a debt.
@@ -409,7 +409,7 @@ Sometimes, out of need, some families open electric, phone or credit accounts us
 
 That can damage the child's credit history before they turn 18, and will cause them problems when they want to rent or study.
 
-If you find out someone opened accounts with a minor's information, you can **freeze their credit for free** at all three agencies and report it at IdentityTheft.gov.
+If you find out someone opened accounts with a minor's information, you can **freeze their credit at no cost** at all three agencies and report it at IdentityTheft.gov.
 
 --- casos
 ### Case 1. Mar's cousin
@@ -446,8 +446,8 @@ Daniela lends her sister 500. They agree by message that her sister will pay 100
 respuestas: 1-a: the lender can collect all of it from you. 2-b: the contract is what counts. 3-b: you lose control and the bank's protection.
 
 --- ponlo
-You have 220 free a month. Your aunt asks you to cosign a loan with a 160 monthly payment for 2 years. Could you cover it if she stops paying? What would you do?
-respuesta: You could cover it, but you'd have only 60 free a month for 2 years, with no margin for emergencies. Before signing, ask for the cosigner notice, agree on how she'll let you know about a late payment and consider helping with an amount you can give away.
+You have 220 left over a month. Your aunt asks you to cosign a loan with a 160 monthly payment for 2 years. Could you cover it if she stops paying? What would you do?
+respuesta: You could cover it, but you'd have only 60 left over a month for 2 years, with no margin for emergencies. Before signing, ask for the cosigner notice, agree on how she'll let you know about a late payment and consider helping with an amount you can give away.
 
 --- plan
 Write what support you can give without putting your expenses at risk, what information you're missing to decide and what you'll do if your situation changes.
@@ -462,7 +462,7 @@ Write what support you can give without putting your expenses at risk, what info
 - *Cosigner:* a person who is responsible for someone else's debt.
 - *Authorized user:* a person who can use your card; the debt is yours.
 - *Login information:* your username and password; never shared.
-- *Credit freeze:* a free block on your report so nobody can open accounts in your name.
+- *Credit freeze:* a no-cost block on your report so nobody can open accounts in your name.
 
 == fuentes
 FTC, Cosigning a Loan FAQs · CFPB, debt collection.
@@ -676,7 +676,7 @@ At each review write down:
 Once you have a history, take care of it:
 
 - set up automatic minimum payments and pay the rest manually;
-- check your free reports every few months;
+- check your no-cost reports every few months;
 - freeze your credit if you don't plan to borrow soon (M4 U04).
 
 > **Good to know:** negative information doesn't stay on your report forever. Meanwhile, every on-time payment works in your favor.
@@ -688,7 +688,7 @@ In Module 4 you'll learn to protect your money, your identity and your family: s
 Now you know how to tell approval from ability to pay, read your report, build a history without going into debt, recognize repair scams, compare loans by total cost, organize your debts, negotiate and protect yourself from collectors, sign carefully and make your tanda count.
 
 --- tema | fa-life-ring | If you feel overwhelmed
-If your debts keep you up at night, you're not alone. A nonprofit credit counseling agency can review your case for free or at low cost.
+If your debts keep you up at night, you're not alone. A nonprofit credit counseling agency can review your case at no cost or at low cost.
 
 Asking for help in time avoids bigger problems.
 

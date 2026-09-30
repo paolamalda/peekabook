@@ -72,7 +72,7 @@ Cada institución está supervisada según lo que hace. En California, el **DFPI
 
 Busca siempre el nombre legal exacto. Una empresa falsa puede copiar el nombre o el logotipo de una real.
 
-> **Dato adicional:** puedes presentar una queja gratuita ante el [CFPB](https://www.consumerfinance.gov/es/enviar-una-queja/) contra bancos, remesadoras, apps de pago y cobradores. La empresa debe responder, normalmente en 15 días.
+> **Dato adicional:** puedes presentar una queja sin costo ante el [CFPB](https://www.consumerfinance.gov/es/enviar-una-queja/) contra bancos, remesadoras, apps de pago y cobradores. La empresa debe responder, normalmente en 15 días.
 
 --- tema | fa-cogs | Cómo prestan los bancos
 Cuando un banco presta, crea un depósito en la cuenta de quien recibe el préstamo.
@@ -220,12 +220,12 @@ Busca las respuestas en los términos de la app y verifica al banco en BankFind.
 | ¿Qué pasa si pierdo el teléfono? | Una sola vía de acceso te puede dejar sin dinero. |
 | ¿Piden hacerse socio? | En cooperativas, la aportación de socio no siempre se puede gastar. |
 
---- ecuacion | fa-calculator | La cuenta "gratis" que sale cara
+--- ecuacion | fa-calculator | La cuenta "sin costo" que sale cara
 La cuenta A cobra 5 al mes e incluye depósitos de efectivo. La cuenta B no cobra mensualidad, pero cada depósito de efectivo cuesta 3 y haces 4 al mes.
 = 144 | Cuenta B al año (12 × 3 × 4)
 - 60 | Cuenta A al año (12 × 5)
-= 84 | Lo que te cuesta de más la "gratis"
-Para quien deposita efectivo seguido, la cuenta "gratis" es la más cara.
+= 84 | Lo que te cuesta de más la "sin costo"
+Para quien deposita efectivo seguido, la cuenta "sin costo" es la más cara.
 
 --- tema | fa-calculator | El límite de 250,000
 El límite es por persona, por banco y por tipo de cuenta. Si tienes dos cuentas individuales en el mismo banco, se suman.
@@ -257,7 +257,7 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 * Creer que toda app es un banco | Tu dinero puede no estar asegurado | Busca y verifica el banco aliado
 * Pensar que las inversiones están aseguradas | Puedes perder dinero sin protección | Separa depósitos de inversiones
 * Depender solo del teléfono | Te quedas sin acceso a tu dinero | Ten tarjeta física y un contacto de ayuda
-* Elegir la cuenta "gratis" sin ver tus hábitos | Pagas más en comisiones | Calcula el costo según cómo usas tu dinero
+* Elegir la cuenta "sin costo" sin ver tus hábitos | Pagas más en comisiones | Calcula el costo según cómo usas tu dinero
 
 == practica
 
@@ -341,7 +341,7 @@ Aprendió que el "no" de un banco no es el "no" de todos.
 
 --- recuerda
 - Cada institución acepta documentos distintos: pregunta antes.
-- Tramita documentos solo por vías oficiales y gratuitas.
+- Tramita documentos solo por vías oficiales y sin costo.
 - No mandes fotos de tu identificación a desconocidos.
 
 == profundiza
@@ -361,14 +361,14 @@ Aprendió que el "no" de un banco no es el "no" de todos.
 - **ITIN:** con el formulario W-7 del IRS (M1 U11).
 - **Documentos de El Salvador y otros países:** en el consulado de tu país, con cita en su página oficial.
 
-Desconfía de quien vende citas o promete trámites "más rápidos". Las citas oficiales son gratis.
+Desconfía de quien vende citas o promete trámites "más rápidos". Las citas oficiales no tienen costo.
 
 > **Dato adicional:** la licencia AB 60 tiene una marca en el frente que dice "Federal Limits Apply". Aun así, en California sirve como identificación para muchos trámites, y la ley estatal prohíbe discriminar a quien la usa.
 
 --- tema | fa-ban | Si te rechazan
 Pide la razón del rechazo.
 
-Si se debe a un reporte de tu historial bancario, por ejemplo de **ChexSystems**, tienes derecho a saber qué empresa lo emitió y a pedir una copia gratuita. Si hay un error, puedes disputarlo.
+Si se debe a un reporte de tu historial bancario, por ejemplo de **ChexSystems**, tienes derecho a saber qué empresa lo emitió y a pedir una copia sin costo. Si hay un error, puedes disputarlo.
 
 --- tema | fa-lock | Protege tus documentos
 No entregues originales a nadie que no sea la institución oficial.
@@ -392,7 +392,7 @@ Luis tiene pasaporte y matrícula consular, pero no SSN ni ITIN. Llama a dos ban
 
 ### Caso 2. La cita que se vende
 A Alex le ofrecen una cita en el consulado "rápida" por 80 dólares.
-? ¿Qué hace? || No paga. Las citas se sacan gratis en el sistema oficial.
+? ¿Qué hace? || No paga. Las citas se sacan sin costo en el sistema oficial.
 
 ### Caso 3. La identificación de Daniela
 Daniela tiene su pasaporte salvadoreño vencido.
@@ -400,7 +400,7 @@ Daniela tiene su pasaporte salvadoreño vencido.
 
 --- errores
 * Ir al banco sin preguntar | Pierdes el día y te frustras | Llama antes con la pregunta exacta
-* Pagar por una cita consular | Pierdes dinero y a veces tus datos | Saca tu cita gratis en el sistema oficial
+* Pagar por una cita consular | Pierdes dinero y a veces tus datos | Saca tu cita sin costo en el sistema oficial
 * Rendirte después del primer "no" | Te quedas sin cuenta | Pregunta en otro banco o cooperativa
 * Mandar fotos de tu identificación | Robo de identidad | Entrégala solo a la institución oficial
 
@@ -424,7 +424,7 @@ Haz tu kit de documentos: qué tienes, qué está por vencer y qué te falta tra
 
 == recursos
 - **Licencia AB 60** (DMV de California · español e inglés): https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/ | Qué buscar: la lista de documentos aceptados para probar identidad y domicilio, y cómo sacar cita.
-- **MiConsulado** (SRE · español): https://citas.sre.gob.mx | Qué buscar: crea tu cuenta y agenda gratis tu cita para matrícula consular o pasaporte.
+- **MiConsulado** (SRE · español): https://citas.sre.gob.mx | Qué buscar: crea tu cuenta y agenda sin costo tu cita para matrícula consular o pasaporte.
 - **Lista para abrir una cuenta** (CFPB · inglés): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf | Qué buscar: la lista de preguntas para hacerle al banco antes de abrir la cuenta.
 
 == palabras
@@ -439,7 +439,7 @@ Haz tu kit de documentos: qué tienes, qué está por vencer y qué te falta tra
 
 # M2 U04 | ¿Qué necesito para abrir una cuenta y cuánto cuesta mantenerla?
 objetivo: Comparar cuentas según tu necesidad, tus documentos y tu forma de usar el dinero.
-gancho: Alex abrió una cuenta que decía "gratis". Al mes le cobraron 12 dólares. La cuenta era gratis solo si le depositaban el sueldo directo, y él cobra con cheque. En esta lección aprenderás a leer las condiciones antes de abrir una cuenta.
+gancho: Alex abrió una cuenta que decía "sin costo". Al mes le cobraron 12 dólares. La cuenta era sin costo solo si le depositaban el sueldo directo, y él cobra con cheque. En esta lección aprenderás a leer las condiciones antes de abrir una cuenta.
 
 == esencial
 
@@ -452,11 +452,11 @@ La mejor cuenta para una persona puede ser cara para otra.
 * fa-sign-in | {{Depósito de apertura|Lo mínimo que debes poner para abrir la cuenta.}} | Lo mínimo para abrir la cuenta, por ejemplo 25. | Solo se pide una vez. | igual
 * fa-balance-scale | Saldo para evitar la cuota | Lo que debes mantener cada mes para que no te cobren, por ejemplo 500 cada día. | Es una condición mensual. | no
 
---- ecuacion | fa-calculator | La cuenta "gratis" de Alex
+--- ecuacion | fa-calculator | La cuenta "sin costo" de Alex
 La cuenta cobra 12 al mes, salvo que recibas tu sueldo por depósito directo. Alex cobra con cheque.
 = 12 | Cuota al mes
 + 132 | Los otros 11 meses
-= 144 | Lo que paga al año por una cuenta "gratis"
+= 144 | Lo que paga al año por una cuenta "sin costo"
 **"Depósito directo"** suele significar tu nómina depositada electrónicamente, no cualquier transferencia.
 
 --- paso | fa-star | Busca cuentas Bank On
@@ -472,7 +472,7 @@ Pregunta en tu banco o cooperativa si tienen una cuenta certificada Bank On.
 > **Idea clave:** el depósito para abrir y la cuota mensual son cosas distintas. Cumplir uno no elimina el otro.
 
 --- paso | fa-user | Un caso en un minuto
-Luis compara dos cuentas. La primera no cobra cuota, pero cobra 3.50 por cada depósito de efectivo en tiendas. La segunda cobra 5 al mes, pero los depósitos de efectivo en sus cajeros son gratis.
+Luis compara dos cuentas. La primera no cobra cuota, pero cobra 3.50 por cada depósito de efectivo en tiendas. La segunda cobra 5 al mes, pero los depósitos de efectivo en sus cajeros no tienen costo.
 
 Luis deposita efectivo unas 3 veces al mes. Con la primera pagaría 10.50 al mes; con la segunda, 5.
 
@@ -484,7 +484,7 @@ Eligió la segunda, aunque "cobra cuota", porque para su forma de usar el dinero
 3. Calcula cuánto te costaría cada una al año.
 
 --- comprueba
-1. Una cuenta es gratis con depósito directo, pero tú cobras en efectivo. ¿Es gratis para ti? || No necesariamente. Pregunta qué condición puedes cumplir.
+1. Una cuenta no tiene costo con depósito directo, pero tú cobras en efectivo. ¿Es sin costo para ti? || No necesariamente. Pregunta qué condición puedes cumplir.
 2. ¿El depósito de apertura y el saldo mínimo son lo mismo? || No. Uno es para abrir; el otro es una condición cada mes.
 
 --- recuerda
@@ -507,7 +507,7 @@ Compartir tu contraseña no es lo mismo que dar una autorización formal. Antes 
 Además de la cuota mensual, compara:
 
 - dónde puedes depositar efectivo y cuánto cuesta;
-- qué cajeros son gratis;
+- qué cajeros no tienen costo;
 - cuándo está disponible el dinero que depositas;
 - los límites de depósito.
 
@@ -533,8 +533,8 @@ Para muchas personas es mejor así: prefieren que un pago se rechace a pagar 35 
 Pregunta si tu cuenta tiene sobregiro y cómo desactivarlo.
 
 --- casos
-### Caso 1. La cuenta "gratis" de Alex
-La cuenta de Alex es gratis con depósito directo de nómina. Alex cobra con cheque y lo deposita en ventanilla.
+### Caso 1. La cuenta "sin costo" de Alex
+La cuenta de Alex no tiene costo con depósito directo de nómina. Alex cobra con cheque y lo deposita en ventanilla.
 ? ¿Cuánto le cuesta? || 12 al mes, 144 al año.
 ? ¿Qué puede hacer? || Pedir a su patrón el depósito directo o cambiar a una cuenta sin cuota, como una certificada Bank On.
 
@@ -545,13 +545,13 @@ El primo de Mar le pide que lo agregue a su cuenta "para ayudarle".
 
 ### Caso 3. El efectivo de Luis
 Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la renta compartida.
-? ¿Qué compara? || Dónde puede depositar efectivo gratis cerca de su casa y del trabajo.
+? ¿Qué compara? || Dónde puede depositar efectivo sin costo cerca de su casa y del trabajo.
 
 --- errores
-* Creer lo que dice "gratis" sin leer la condición | Pagas cuota cada mes | Pregunta qué evita la cuota
+* Creer lo que dice "sin costo" sin leer la condición | Pagas cuota cada mes | Pregunta qué evita la cuota
 * Confundir el depósito de apertura con el saldo mínimo | Te cobran aunque abriste con lo pedido | Pregunta las dos cantidades
 * Agregar a alguien a tu cuenta para ayudarle | Puede sacar todo tu dinero | Ayuda de otra forma
-* No preguntar por depósitos de efectivo | Pagas cada vez que depositas | Compara dónde es gratis
+* No preguntar por depósitos de efectivo | Pagas cada vez que depositas | Compara dónde no tiene costo
 
 == practica
 
@@ -560,7 +560,7 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 
 --- quiz
 1. ¿Depósito de apertura y saldo mínimo son lo mismo? a) Sí · b) No · c) Sí, los dos se pagan cada mes
-2. Una cuenta es gratis con depósito directo y tú cobras en efectivo. ¿Puedes suponer que es gratis? a) Sí · b) No · c) Sí, si nunca sobregiras
+2. Una cuenta no tiene costo con depósito directo y tú cobras en efectivo. ¿Puedes suponer que no tiene costo? a) Sí · b) No · c) Sí, si nunca sobregiras
 3. ¿Una cuenta conjunta permite a la otra persona retirar dinero? a) Sí · b) No · c) Solo con tu permiso por escrito cada vez
 respuestas: 1-b: uno es para abrir y otro es mensual. 2-b: depende de si cumples la condición. 3-a: cualquiera de los dueños puede retirar.
 

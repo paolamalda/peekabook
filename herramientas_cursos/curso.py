@@ -160,7 +160,7 @@ def paso_banco():
     ok_t, no_t = ("Correct!", "Not the best option.") if EN else ("¡Correcto!", "No es la mejor opción.")
     out, n, probs = [], 0, []
     for mod in MODS:
-        out.append(f"$CATEGORY: $course$/{CFG['categoria']}/{mod}\n")
+        out.append(f"$CATEGORY: $course$/{CFG['categoria']} v{CFG['version']}/{mod}\n")
         for code, title, les in lecciones(mod):
             q = re.search(r"--- quiz\n(.*?)\n(?:respuestas|answers):\s*(.*?)\n", les, re.S)
             ans = {k: (l, why.strip()) for k, l, why in re.findall(r"(\d+)-([a-c]):\s*(.*?)(?=\s\d+-[a-c]:|$)", q.group(2))}
@@ -315,22 +315,18 @@ def paso_insignias():
 <div class=nota>{T['nota']}</div>
 </div></body></html>'''
 
-    OUTB, OUTC = os.path.join(OUT, "insignias"), os.path.join(OUT, "certificado")
-    shutil.rmtree(OUTB, ignore_errors=True)
-    os.makedirs(OUTB); os.makedirs(OUTC, exist_ok=True)
+    OUTB = os.path.join(OUT, "insignias")
+    shutil.rmtree(OUTB, ignore_errors=True); shutil.rmtree(os.path.join(OUT, "certificado"), ignore_errors=True)
+    os.makedirs(OUTB)
     tmp = "/tmp/badges_html_curso"; shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp)
     jobs = []
     for fn, tag, name, icon in CFG["insignias"]:
         p = f"{tmp}/{fn}.html"; open(p, "w").write(badge(tag, name, icon, tag == curso_tag))
         jobs.append((p, os.path.join(OUTB, fn + ".png"), 512, 512, True))
-    names = ("certificate_background.png", "certificate_sample.png") if EN else ("certificado_fondo.png", "certificado_muestra.png")
-    for smp, out in zip((False, True), names):
-        p = f"{tmp}/{out}.html"; open(p, "w").write(cert(smp))
-        jobs.append((p, os.path.join(OUTC, out), 2339, 1654, False))
     js = "const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();for(const [f,o,w,h,t] of %s){const p=await b.newPage({viewport:{width:w,height:h}});await p.goto('file://'+f);await p.waitForTimeout(1200);await p.screenshot({path:o,omitBackground:t});await p.close();}await b.close();})();" % json.dumps(jobs)
     open(f"{tmp}/r.js", "w").write(js)
     subprocess.run(["node", f"{tmp}/r.js"], check=True, env={**os.environ, "NODE_PATH": subprocess.check_output(["npm", "root", "-g"]).decode().strip()})
-    print(len(CFG["insignias"]), "insignias y constancia")
+    print(len(CFG["insignias"]), "insignias")
 
 
 # ---------------------------------------------------------------------------
@@ -370,17 +366,62 @@ def paso_verificar():
     return probs
 
 
+# ---------------------------------------------------------------------------
+def nombre_insignia(nom):
+    """Nombre único en la plataforma: insignia · curso."""
+    return f"{nom} · {CFG['categoria']}"
+
+
+def paso_constancia():
+    """Datos para la plantilla estándar de la plataforma: título, línea y 5 temas de 25 caracteres o menos."""
+    T = CFG["constancia"]; temas = T["mods"]
+    assert len(temas) == 5 and all(len(x) <= 25 for x in temas), temas
+    linea = (f"for completing the financial well-being program {CFG['titulo']}" if EN else
+             f"por concluir el programa de bienestar financiero {CFG['titulo']}")
+    d = os.path.join(OUT, "constancia"); os.makedirs(d, exist_ok=True)
+    L = [("# Certificate: data for the standard template" if EN else "# Constancia: datos para la plantilla estándar"), "",
+         ("Use the platform's standard template, with no background image. Only these data change:" if EN else
+          "Usa la plantilla estándar de la plataforma, sin imagen de fondo. Solo cambian estos datos:"), "",
+         "| " + ("Field" if EN else "Campo") + " | " + ("Text" if EN else "Texto") + " |", "|---|---|",
+         f"| {'Course title' if EN else 'Título del curso'} | {CFG['titulo']} |",
+         f"| {'Line' if EN else 'Línea'} | {linea} |"] + [f"| {'Topic' if EN else 'Tema'} {i} | {t} |" for i, t in enumerate(temas, 1)]
+    open(os.path.join(d, "certificate.md" if EN else "constancia.md"), "w").write("\n".join(L) + "\n")
+    print("constancia:", linea, "·", " / ".join(temas))
+
+
+def paso_encuesta():
+    import encuesta
+    v = CFG.get("encuesta", "us_en" if EN else "mx")
+    r = encuesta.generar(os.path.join(OUT, "encuesta"), v, CFG.get("negocio", False), CFG["titulo"])
+    print("encuestas (inicio, final, seguimiento):", r)
+
+
+def paso_catalogo():
+    K = CFG["catalogo"]; nl = sum(len(lecciones(m)) for m in MODS); nm = len(MODS)
+    assert len(K["descripcion"]) == 2
+    if EN:
+        L = ["# Catalog card", "", "| Field | Text |", "|---|---|", f"| Course | {CFG['titulo']} |",
+             f"| Description | {K['descripcion'][0]}<br>{K['descripcion'][1]} |", f"| Who it's for | {K['para_quien']} |",
+             f"| Languages | {K['idiomas']} |", f"| Modules and lessons | {nm} modules · {nl} lessons |"]
+    else:
+        L = ["# Tarjeta de catálogo", "", "| Campo | Texto |", "|---|---|", f"| Curso | {CFG['titulo']} |",
+             f"| Descripción | {K['descripcion'][0]}<br>{K['descripcion'][1]} |", f"| Para quién es | {K['para_quien']} |",
+             f"| Idiomas | {K['idiomas']} |", f"| Módulos y lecciones | {nm} módulos · {nl} lecciones |"]
+    open(os.path.join(OUT, "catalog_card.md" if EN else "tarjeta_catalogo.md"), "w").write("\n".join(L) + "\n")
+    print("tarjeta de catálogo:", nm, "módulos ·", nl, "lecciones")
+
+
 def paso_instalacion():
     import instalacion_en, instalacion_es
     (instalacion_en if EN else instalacion_es).generar(D, CFG, lecciones)
 
 
 PASOS = {"instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
-         "insignias": paso_insignias, "verificar": paso_verificar}
+         "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias"]
+    if "todo" in pedidos: pedidos = ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo"]
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

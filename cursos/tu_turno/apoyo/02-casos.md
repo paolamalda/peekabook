@@ -53,7 +53,7 @@ Los casos usan datos inventados. Resuelve cada caso antes de abrir la clave.
 
 - Pedía contactos y fotos, cobraba de más y probablemente no está en el SIPRES.
 - No paga la extorsión, avisa a sus contactos, guarda capturas, denuncia y reporta, y desinstala la app.
-- Pide su reporte gratis en el sitio oficial.
+- Pide su reporte sin costo en el sitio oficial.
 - Pagando a tiempo, usando poco su límite y sin pedir muchos créditos.
 
 ## E4. El futuro de Ramiro (Módulos 7 y 8)

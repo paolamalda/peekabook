@@ -20,7 +20,7 @@ Cada mes proponemos un reto corto en **Avisos**. Cuando lo cumplas, compártelo 
 | 3 | Activa las alertas de tu app y fija tu límite de transferencias (M3 U03) |
 | 4 | Acuerda una palabra clave con tu familia (M4 U04) |
 | 5 | Inscribe tus números en el REPEP y el REUS (M4 U07) |
-| 6 | Pide tu reporte de crédito gratis (M4 U06) |
+| 6 | Pide tu reporte de crédito sin costo (M4 U06) |
 | 7 | Revisa si tu ahorro está dentro del límite del IPAB (M5 U02) |
 | 8 | Localiza tu AFORE y revisa tus beneficiarios (M7 U02) |
 | 9 | Agenda tu testamento (M10 U01) |

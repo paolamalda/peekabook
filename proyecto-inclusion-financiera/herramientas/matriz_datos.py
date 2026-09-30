@@ -14,7 +14,7 @@ add(B,"Chase Secure Banking","$4.95","Exento de 17 a 24 años o con $250 en dep�
 add(B,"Wells Fargo Clear Access Banking","$5","Exento de 13 a 24 años o con depósito militar","Pasaporte y otras; confirmar en sucursal","SSN; ITIN no indicado","Sí, en cajeros y sucursales","Nacional","Sin sobregiros","Exención limitada a jóvenes","https://www.wellsfargo.com/checking/clear-access-banking/",P)
 add(B,"Citi Access Checking","$5","Exento con $250 en depósitos directos o transacciones; ≤23 años desde 18 jul 2026","Confirmar en sucursal","Confirmar","Sí, en cajeros Citi","Nacional (sucursales en CA)","Sin sobregiros","Requisitos de exención cambian","https://www.citi.com/banking/access-account",P)
 add(B,"U.S. Bank Safe Debit","$4.95","No se puede exentar; apertura $25","Matrícula consular como ID principal en sucursal + ID secundaria","SSN o ITIN para la mayoría de cuentas","Sí","Nacional","Acepta matrícula","Sin cheques; cobro fijo","https://www.usbank.com/bank-accounts/checking-accounts/safe-debit-account.html")
-add(B,"Capital One 360 Checking","$0","Sin mínimos","Confirmar","SSN o ITIN","Gratis en CVS y Walgreens (hasta $1,500 al día y $5,000 al mes)","Nacional","Sin cuotas; depósito en efectivo gratis","Pocas sucursales","https://www.capitalone.com/bank/checking-accounts/online-checking-account/")
+add(B,"Capital One 360 Checking","$0","Sin mínimos","Confirmar","SSN o ITIN","Gratis en CVS y Walgreens (hasta $1,500 al día y $5,000 al mes)","Nacional","Sin cuotas; depósito en efectivo sin costo","Pocas sucursales","https://www.capitalone.com/bank/checking-accounts/online-checking-account/")
 add(B,"BMO Smart Advantage","$0 con estados de cuenta digitales ($3 en papel)","Exento a los 65 años o más; sobregiro $20","No residentes abren en sucursal","SSN o ITIN","Sí","Nacional (fuerte en IL)","Sin cuota con estados digitales","Cobro de sobregiro","https://www.bmo.com/en-us/main/personal/checking-accounts/smart-advantage/")
 
 C = "Cooperativa (credit union)"
@@ -41,7 +41,7 @@ N = "Neobanco o app"
 add(N,"Comun","$0","Sin saldo mínimo; remesas desde $2.99","Pasaporte, matrícula consular o ID nacional","No requiere SSN ni ITIN","Confirmar","Nacional","Abre sin SSN; Zelle; banco aliado asegurado por FDIC","No es banco; revisa el banco aliado","https://www.comun.app/")
 add(N,"Majority","$6.99","Membresía mensual","Pasaporte, matrícula","ITIN; no requiere SSN","Confirmar","Nacional","Diseñada para migrantes","Cuota mensual","https://majority.com/")
 add(N,"Zolve","$0","Cuenta y tarjeta","Pasaporte + visa","SSN o ITIN (tarjeta sin SSN)","Confirmar","Nacional","Tarjeta de crédito sin historial","Enfoque en personas con visa","https://zolve.com/")
-add(N,"Chime","$0","Depósitos gratis en Walgreens; $3 a $5 en otras tiendas","Confirmar","Fuentes contradictorias: SSN solo o SSN/ITIN","Walgreens gratis; otros con costo","Nacional","Sin cuotas; SpotMe","Confirmar si acepta ITIN","https://www.chime.com/",P)
+add(N,"Chime","$0","Depósitos sin costo en Walgreens; $3 a $5 en otras tiendas","Confirmar","Fuentes contradictorias: SSN solo o SSN/ITIN","Walgreens sin costo; otros con costo","Nacional","Sin cuotas; SpotMe","Confirmar si acepta ITIN","https://www.chime.com/",P)
 add(N,"Varo","$0","Sin cuotas mensuales","Confirmar","SSN o ITIN","Gratis en CVS","Nacional","Es banco con licencia propia","Pocas opciones de efectivo","https://www.varomoney.com/")
 add(N,"Current","$0","Depósito en efectivo $3.50","Confirmar","Requiere SSN","$3.50 por depósito","Nacional","Sin cuotas","Requiere SSN","https://current.com/")
 add(N,"SoFi Checking and Savings","$0","Intereses en ahorro","Confirmar","SSN o ITIN","Limitado","Nacional","Sin cuotas; interés alto","Poco efectivo","https://www.sofi.com/banking/")
@@ -60,7 +60,7 @@ add(R,"Ria / Walmart2Walmart","N/A","Desde $2.50; cuota $0.99 a $9; margen 0.25%
 add(R,"Intermex","N/A","$0 primer envío; luego desde $2.99","ID oficial","Confirmar","Sí","EE. UU. a México","Red amplia en México","Revisa tipo de cambio","https://www.intermexonline.com/")
 add(R,"Félix Pago","N/A","$2.99 a banco; $4.98 en efectivo","Confirmar","Confirmar","Pago en efectivo en México","EE. UU. a México","Envía por WhatsApp","Usa USDC internamente","https://www.felixpago.com/")
 add(R,"BOSS Revolution","N/A","$0.99 a billeteras con débito (promoción al 30 sep 2026)","Confirmar","Confirmar","Confirmar","EE. UU. a México","Barato a billeteras","Promoción temporal","https://www.bossrevolution.com/",P)
-add(R,"Pangea","N/A","Primer envío gratis","Confirmar","Confirmar","40,000 puntos de pago","EE. UU. a México","Primera transferencia gratis","Revisa tipo de cambio","https://pangeamoneytransfer.com/")
+add(R,"Pangea","N/A","Primer envío sin costo","Confirmar","Confirmar","40,000 puntos de pago","EE. UU. a México","Primera transferencia sin costo","Revisa tipo de cambio","https://pangeamoneytransfer.com/")
 add(R,"Sendwave","N/A","Sin cuota; margen 1% a 3%","Confirmar","Confirmar","Confirmar","EE. UU. a México","Sin comisión visible","El costo va en el tipo de cambio","https://www.sendwave.com/")
 add(R,"WorldRemit","N/A","Variable","Confirmar","Confirmar","Confirmar","EE. UU. a México","Varias formas de pago","Costos variables","https://www.worldremit.com/",P)
 add(R,"Viamericas","N/A","No encontrado","Confirmar","Confirmar","Confirmar","EE. UU. a México","Red de agentes","Datos no verificados","https://www.viamericas.com/",P)
@@ -78,7 +78,7 @@ add(K,"Nova Credit","N/A","Usa historial de México vía Círculo de Crédito","
 add(K,"Zolve Classic (tarjeta)","$0","Tarjeta de crédito","Pasaporte + visa","No requiere SSN","N/A","Nacional","Sin historial en EE. UU.","Enfoque en personas con visa","https://zolve.com/")
 
 T = "Tarjeta prepagada"
-add(T,"Walmart MoneyCard","$5.94","Exento con $500 en depósito directo; recarga $3 (gratis por app en Walmart)","ID extranjera aceptada","SSN, TIN o ID extranjera","Sí, en Walmart","Nacional","Acepta ID extranjera","Cuota mensual sin depósito directo","https://www.walmartmoneycard.com/")
+add(T,"Walmart MoneyCard","$5.94","Exento con $500 en depósito directo; recarga $3 (sin costo por app en Walmart)","ID extranjera aceptada","SSN, TIN o ID extranjera","Sí, en Walmart","Nacional","Acepta ID extranjera","Cuota mensual sin depósito directo","https://www.walmartmoneycard.com/")
 add(T,"Netspend","$9.95 o $1.95 por compra","$5 al mes con $500 en depósito directo","Confirmar","Confirmar","Sí, con costo","Nacional","Planes a elegir","Cuotas altas","https://www.netspend.com/",P)
 add(T,"Green Dot","$7.95","Exento con $500 en depósito directo; plan por uso $1.50","Confirmar","Confirmar","Sí, con costo","Nacional","Muy disponible","Cuota mensual","https://www.greendot.com/",P)
 

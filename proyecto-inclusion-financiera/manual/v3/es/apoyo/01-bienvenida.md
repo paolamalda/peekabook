@@ -1,6 +1,6 @@
 # Bienvenida
 
-**Tu Dinero, Tu Familia, Tu Futuro** es un programa gratuito de finanzas personales para personas migrantes que viven en California. Aquí aprenderás a organizar tu dinero, enviar remesas con menos costo, construir tu crédito, protegerte de fraudes y preparar tu futuro, aquí y en tu país de origen.
+**Tu Dinero, Tu Familia, Tu Futuro** es un programa sin costo de finanzas personales para personas migrantes que viven en California. Aquí aprenderás a organizar tu dinero, enviar remesas con menos costo, construir tu crédito, protegerte de fraudes y preparar tu futuro, aquí y en tu país de origen.
 
 No necesitas saber de finanzas para empezar. Cada lección parte de una situación de la vida diaria, explica las palabras técnicas cuando aparecen y termina con una acción que puedes hacer esta semana.
 
@@ -45,7 +45,7 @@ Las comisiones, requisitos y reglas cambian. Antes de actuar, confirma la inform
 
 ## Cuándo pedir ayuda profesional
 
-Este programa te enseña a entender, comparar y preparar preguntas. Para un caso fiscal, legal, migratorio, de seguros o de inversión que necesita una recomendación personal, busca a un profesional autorizado. En **Dónde encontrar ayuda** hay opciones gratuitas y de bajo costo.
+Este programa te enseña a entender, comparar y preparar preguntas. Para un caso fiscal, legal, migratorio, de seguros o de inversión que necesita una recomendación personal, busca a un profesional autorizado. En **Dónde encontrar ayuda** hay opciones sin costo y de bajo costo.
 
 > **Importante:** este programa **nunca** da asesoría migratoria. Solo un abogado o un representante acreditado por el Departamento de Justicia puede darla.
 

@@ -16,13 +16,13 @@ CASOS = {
  ("Sets aside a % of each profit for taxes.", "Waits until April to see what she owes.", "Takes out a loan when the bill arrives."),
 ],
 "M1 U04": [
- ("Moves each payment to her sheet the same day.", "Keeps the screenshots and adds them up in April.", "Deletes old screenshots to free up space."),
+ ("Moves each payment to her sheet the same day.", "Keeps the screenshots and adds them up in April.", "Deletes old screenshots to make space."),
  ("Logs date, destination, purpose and miles.", "Estimates his miles by eye in April.", "Keeps only his gas receipts."),
- ("Doesn't give his password and picks another tool.", "Gives it because the app is free.", "Gives only his Social Security number."),
+ ("Doesn't give his password and picks another tool.", "Gives it because the app costs nothing.", "Gives only his Social Security number."),
 ],
 "M1 U05": [
  ("Doesn't touch that money and gets help.", "Uses the $300 and puts it back later.", "Bets double to win it back fast."),
- ("Checks that it's banned and keeps business money out.", "Buys the package: the coins are free.", "Buys it with the business card."),
+ ("Checks that it's banned and keeps business money out.", "Buys the package: the coins cost nothing.", "Buys it with the business card."),
  ("Doesn't give it and shares where to get help.", "Gives it as a salary advance.", "Lends it with interest."),
 ],
 "M1 U06": [
@@ -46,7 +46,7 @@ CASOS = {
  ("How much more she'd need to sell.", "Nothing: a shop always sells more.", "Only whether the shop is in a good location."),
 ],
 "M2 U04": [
- ("Buys only what he can sell in time.", "Buys the 10 cases for the free one.", "Buys 20 to get two free cases."),
+ ("Buys only what he can sell in time.", "Buys the 10 cases for the no-cost one.", "Buys 20 to get two no-cost cases."),
  ("Logs what she throws out and buys less.", "Buys more to have variety.", "Keeps going; waste is normal."),
  ("Offers them at a discount and doesn't rebuy.", "Keeps them in case they sell again.", "Buys more of the same style cheaper."),
 ],
@@ -71,7 +71,7 @@ CASOS = {
  ("Calculates the payment with a higher rate.", "Signs: rates always go down.", "Opens another line in case it rises."),
 ],
 "M4 U01": [
- ("Figures the total cost and reads the contract.", "Accepts because the reader is free.", "Rejects any reader as too expensive."),
+ ("Figures the total cost and reads the contract.", "Accepts because the reader costs nothing.", "Rejects any reader as too expensive."),
  ("Uses the linked business option.", "Stays on her personal app; nobody will notice.", "Asks everyone to pay in cash."),
  ("Fee, deposit time and chargebacks.", "Only the design of the payment link.", "Nothing: links are always safe."),
 ],
@@ -91,7 +91,7 @@ CASOS = {
  ("Opens an account just for the LLC.", "Keeps going; the LLC always protects her.", "Closes the LLC to keep it simple."),
 ],
 "M5 U02": [
- ("Gets it free at irs.gov with her ITIN.", "Pays the $150 to save time.", "Uses a friend's EIN."),
+ ("Gets it no-cost at irs.gov with her ITIN.", "Pays the $150 to save time.", "Uses a friend's EIN."),
  ("That he needs a CSLB license.", "Nothing: he splits the job into parts.", "Only that the client pays in cash."),
  ("Looks for an attorney or accredited group.", "Pays the notario because he speaks Spanish.", "Pays half to get started."),
 ],
@@ -171,7 +171,7 @@ CASOS = {
  ("Checks whether the IRS postponed deadlines.", "Pays the penalty without checking.", "Stops paying taxes that year."),
 ],
 "M8 U01": [
- ("Registers as an employer.", "Pays her in cash as a contractor.", "Asks her to work for free for a few months."),
+ ("Registers as an employer.", "Pays her in cash as a contractor.", "Asks her to work without pay for a few months."),
  ("That he needs a license and workers' comp.", "Nothing: the helper is his cousin.", "Only that the helper has an ITIN."),
  ("Asks for a W-9 and keeps the invoice.", "Sends him a W-2 as an employee.", "Keeps nothing because it was a small amount."),
 ],

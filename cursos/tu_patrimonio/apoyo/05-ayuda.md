@@ -1,6 +1,6 @@
 # Dónde encontrar ayuda
 
-Cada opción tiene una función distinta. Todas las de esta tabla son oficiales y, salvo que se indique, gratuitas. Información consultada el 29 de septiembre de 2026; confírmala en el sitio oficial de cada institución.
+Cada opción tiene una función distinta. Todas las de esta tabla son oficiales y, salvo que se indique, sin costo. Información consultada el 29 de septiembre de 2026; confírmala en el sitio oficial de cada institución.
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
@@ -11,7 +11,7 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 | Fraudes y delitos en línea | 088 de la Guardia Nacional y fiscalía de tu estado | Gratis | Evidencia |
 | Extorsión | 089 (denuncia anónima) y 911 | Gratis | Localizar a tu familiar primero |
 | Llamadas de publicidad | REPEP de Profeco (55 5568 8722 u 800 468 8722) y REUS de CONDUSEF | Gratis | Nadie cobra por inscribirte |
-| Reporte de crédito y bloqueo | Buró de Crédito y Círculo de Crédito | Un reporte gratis al año en cada uno | Solo sitios oficiales |
+| Reporte de crédito y bloqueo | Buró de Crédito y Círculo de Crédito | Un reporte sin costo al año en cada uno | Solo sitios oficiales |
 | Líneas de celular con tu CURP | Comisión Reguladora de Telecomunicaciones (portal.crt.gob.mx) | Gratis | Desvincula las que no son tuyas |
 | Semanas cotizadas, Modalidad 40 y viudez | IMSS | Gratis | Trámites sin gestores |
 | Régimen, jubilación y viudez del gobierno federal | ISSSTE y PENSIONISSSTE; hoja única de servicios en la dependencia | Gratis | Trámites sin gestores |
@@ -46,11 +46,11 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 **¿La constancia tiene validez oficial?** Es un reconocimiento educativo del programa, verificable en línea. No es una licencia ni una acreditación oficial.
 
-**¿Qué hago después de un sismo o una inundación?** Primero tu seguridad. Toma fotos de los daños, reporta a tu aseguradora por su número oficial y no pagues nada por adelantado. Los apoyos de gobierno son gratuitos (M8 U06).
+**¿Qué hago después de un sismo o una inundación?** Primero tu seguridad. Toma fotos de los daños, reporta a tu aseguradora por su número oficial y no pagues nada por adelantado. Los apoyos de gobierno no tienen costo (M8 U06).
 
 **¿Terminé de pagar mi casa y ya está todo?** Falta inscribir la liberación de hipoteca con una notaría (M10 U06).
 
-**¿Cómo sé qué hay en mi historial de crédito?** Pide tu reporte especial gratis una vez al año en Buró de Crédito y en Círculo de Crédito, en sus sitios oficiales. Reclamar un error también es gratis (M5 U06).
+**¿Cómo sé qué hay en mi historial de crédito?** Pide tu reporte especial sin costo una vez al año en Buró de Crédito y en Círculo de Crédito, en sus sitios oficiales. Reclamar un error también no tiene costo (M5 U06).
 
 **¿Qué hago con un rumor sobre mi pensión o mis inversiones?** Confírmalo en el sitio oficial antes de actuar y no decidas con miedo (M6 U06).
 

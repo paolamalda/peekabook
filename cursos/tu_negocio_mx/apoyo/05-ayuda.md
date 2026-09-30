@@ -1,6 +1,6 @@
 # Dónde encontrar ayuda
 
-Cada opción tiene una función distinta. Todas las de esta tabla son oficiales y, salvo que se indique, gratuitas. Información consultada el 29 de septiembre de 2026; confírmala en el sitio oficial de cada institución.
+Cada opción tiene una función distinta. Todas las de esta tabla son oficiales y, salvo que se indique, sin costo. Información consultada el 29 de septiembre de 2026; confírmala en el sitio oficial de cada institución.
 
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
@@ -47,7 +47,7 @@ Cada opción tiene una función distinta. Todas las de esta tabla son oficiales 
 
 **¿La constancia tiene validez oficial?** Es un reconocimiento educativo del programa, verificable en línea. No es una licencia ni una acreditación oficial.
 
-**¿Qué hago si alguien controla el dinero de mi negocio?** Es violencia económica y hay ayuda gratuita: llama al 911 o acude al Centro de Justicia para las Mujeres de tu estado; en la Ciudad de México, Locatel *0311, Línea Mujeres (M1 U06).
+**¿Qué hago si alguien controla el dinero de mi negocio?** Es violencia económica y hay ayuda sin costo: llama al 911 o acude al Centro de Justicia para las Mujeres de tu estado; en la Ciudad de México, Locatel *0311, Línea Mujeres (M1 U06).
 
 **¿Dónde busco apoyos para mi negocio?** En convocatorias de sitios oficiales, Nacional Financiera, incubadoras y cámaras. Nadie debe cobrarte por inscribirte (M8 U05).
 

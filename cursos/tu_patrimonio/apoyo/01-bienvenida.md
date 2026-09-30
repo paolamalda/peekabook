@@ -1,6 +1,6 @@
 # Bienvenida
 
-**Tu Patrimonio, Tu Tranquilidad, Tu Futuro** es un programa de educación financiera para mujeres que administran su casa y su patrimonio en México.
+**Tu Patrimonio, Tu Tranquilidad, Tu Futuro** es un programa de bienestar financiero para mujeres que administran su casa y su patrimonio en México.
 
 Aquí aprenderás a saber qué tienes y dónde está, entender el sistema financiero, usar el celular con seguridad, protegerte de fraudes, cuidar tu ahorro e inversiones, entender tu pensión, tu seguro médico y tus impuestos, y dejar en orden a tu familia.
 
@@ -51,7 +51,7 @@ Montos, tasas y reglas cambian. Los datos del programa se consultaron el **29 de
 
 ## Cuándo pedir ayuda profesional
 
-Este programa te enseña a entender, comparar y preparar preguntas. No da asesoría legal, fiscal ni de inversión personalizada. Para tu caso concreto, consulta a un notario, un contador, tu aseguradora o la institución. En **Dónde encontrar ayuda** hay opciones gratuitas.
+Este programa te enseña a entender, comparar y preparar preguntas. No da asesoría legal, fiscal ni de inversión personalizada. Para tu caso concreto, consulta a un notario, un contador, tu aseguradora o la institución. En **Dónde encontrar ayuda** hay opciones sin costo.
 
 ## Puntos, niveles e insignias
 

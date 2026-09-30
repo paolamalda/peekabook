@@ -53,7 +53,7 @@ Plain-language definitions of the course words, grouped by module.
 - **1099-NEC:** a form that reports payments for services to independent workers.
 - **DBA:** the fictitious business name you operate under.
 - **Deduction:** an expense subtracted from your income to figure your taxes.
-- **EIN:** employer identification number: your business's free number with the IRS.
+- **EIN:** employer identification number: your business costs nothing number with the IRS.
 - **Estimated payments:** tax payments you make each quarter on what you're earning.
 - **IP PIN:** an IRS number that protects your return from identity theft.
 - **ITIN:** individual taxpayer identification number, for people who can't get an SSN.
@@ -84,14 +84,14 @@ Plain-language definitions of the course words, grouped by module.
 - **Certificate of insurance (COI):** a document that proves you have insurance.
 - **Class:** the group of products or services a trademark registration covers.
 - **Cloned voice:** a computer-made imitation of a person's voice.
-- **Credit freeze:** a free block so nobody can open new credit in your name.
+- **Credit freeze:** a no-cost block so nobody can open new credit in your name.
 - **Deductible:** what you pay before the insurance starts paying.
 - **Disaster area:** an area declared by the government where federal help is activated.
 - **Fraud alert:** a notice on your report so lenders verify your identity before giving credit.
 - **General liability:** insurance that pays for damage you cause to other people or their property.
 - **Government-imitation letter:** mail from a private company that looks official in order to charge you for services.
 - **Identity theft:** using your information to pose as you and open accounts, get credit or file tax returns.
-- **National Do Not Call Registry:** a free federal registry so companies don't call you with sales pitches.
+- **National Do Not Call Registry:** a no-cost federal registry so companies don't call you with sales pitches.
 - **Open enrollment:** the time of year to buy or change your health insurance.
 - **Premium:** what you pay each month for your insurance.
 - **Trademark:** a name, logo or combination that identifies your product or service.

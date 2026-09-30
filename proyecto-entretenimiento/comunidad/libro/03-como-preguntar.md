@@ -25,7 +25,7 @@ Una pregunta clara recibe una respuesta útil más rápido.
 | Qué institución te puede ayudar | Revisar tu contrato completo |
 | Pasos para reclamar o verificar | Representarte ante el SAT o un juzgado |
 
-Para lo que no se resuelve aquí, revisa **Dónde encontrar ayuda** en el libro de apoyo del curso: PRODECON, CONDUSEF, PROFEDET, IMSS, INDAUTOR, IMPI y más, casi todos gratuitos.
+Para lo que no se resuelve aquí, revisa **Dónde encontrar ayuda** en el libro de apoyo del curso: PRODECON, CONDUSEF, PROFEDET, IMSS, INDAUTOR, IMPI y más, casi todos sin costo.
 
 ## Responder a otras personas
 

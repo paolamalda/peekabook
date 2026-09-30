@@ -38,7 +38,7 @@
   "02": "Four business cases that bring together what you learned. Solve them before opening the key.",
   "03": "Short exercises to practice the course calculations. Answers are at the end.",
   "04": "The course words explained in plain language, by module.",
-  "05": "Where to get free or low-cost help, and answers to common questions.",
+  "05": "Where to get no-cost or low-cost help, and answers to common questions.",
   "06": "The sources we used in the course, so you can check them."
  },
  "insignias": [
@@ -96,7 +96,7 @@
   "titulo": "Certificate of completion",
   "otorga": "Presented to",
   "nombre": "Participant name",
-  "texto": "for completing the financial education program for entrepreneurs <b>Your Business, Your Money, Your Future</b> (United States), with its nine modules and self-assessments passed.",
+  "texto": "for completing the financial well-being program for entrepreneurs <b>Your Business, Your Money, Your Future</b> (United States), with its nine modules and self-assessments passed.",
   "mods": [
    "Separate money",
    "Price and cash flow",
@@ -243,5 +243,15 @@
    "Federal rules with California examples; in other states, local rules are checked.",
    "The course gives tax orientation, but each case is reviewed with a tax preparer or CPA. It does not give immigration advice."
   ]
+ },
+ "encuesta": "us_en",
+ "negocio": true,
+ "catalogo": {
+  "descripcion": [
+   "Separate your business money, price for profit, handle your taxes and protect your business.",
+   "Practical microlessons with cases from food, trades and online sales in the United States."
+  ],
+  "para_quien": "People who run their own small business in the United States (federal and California).",
+  "idiomas": "English (also in Spanish)"
  }
 }

@@ -104,8 +104,8 @@ def construir(D, CFG):
         G.append(f"# {txt(en, 'Parte', 'Part')} {extra}. " + txt(en, "Mantenimiento", "Maintenance") + "\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, "mantenimiento.md")))))
     g = K.escribir(d[2], F["guia"], G, tit, txt(en, f"Guía de implementación · Versión {ver}", f"Implementation guide · Version {ver}"))
     # 04 Moodle
-    L, Gl, Pr, Bd, Ce, Gu, Vp = txt(en, ["1_libros", "3_glosario", "4_preguntas", "5_insignias", "6_certificado", "7_guias", "8_vista_previa"],
-                                    ["1_books", "3_glossary", "4_questions", "5_badges", "6_certificate", "7_guides", "8_preview"])
+    L, Gl, Pr, Bd, Ce, Gu, Vp, En = txt(en, ["1_libros", "3_glosario", "4_preguntas", "5_insignias", "6_constancia", "7_guias", "9_vista_previa", "8_encuestas"],
+                                        ["1_books", "3_glossary", "4_questions", "5_badges", "6_certificate", "7_guides", "9_preview", "8_surveys"])
     mo = d[3]
     for m in MODS:
         K.copiar(os.path.join(M, m, f"{m}_libro_Moodle.zip"), os.path.join(mo, L))
@@ -118,7 +118,9 @@ def construir(D, CFG):
                        os.path.join(mo, Gl, txt(en, "Glosario_curso_Moodle.xml", "Course_glossary_Moodle.xml")))
     K.copiar(os.path.join(M, CFG["banco"]), os.path.join(mo, Pr))
     K.copiar(os.path.join(M, "insignias", "*.png"), os.path.join(mo, Bd))
-    K.copiar(os.path.join(M, "certificado", "*.png"), os.path.join(mo, Ce))
+    K.copiar(os.path.join(M, "constancia", "*.md"), os.path.join(mo, Ce))
+    K.copiar(os.path.join(M, "encuesta", "*.xml"), os.path.join(mo, En)); K.copiar(os.path.join(M, "encuesta", "*.md"), os.path.join(mo, En))
+    K.copiar(os.path.join(M, txt(en, "tarjeta_catalogo.md", "catalog_card.md")), mo)
     gn = txt(en, "guia_gamificacion", "gamification_guide")
     K.copiar(os.path.join(I, gn + ".md"), os.path.join(mo, Gu))
     K.docx(os.path.join(I, gn + ".md"), os.path.join(mo, Gu, gn + ".docx"), tit,

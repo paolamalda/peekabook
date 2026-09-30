@@ -453,13 +453,13 @@ Mar pays 15 a month for a music app she uses every day and 9 for a video app she
 ? Should she cancel the more expensive one? || Not necessarily. What matters is the value she gets. She doesn't use the video app: that's the one worth canceling.
 
 ### Case 2. The birthday present
-Alex has 60 dollars free. Alex can buy their son's birthday present or save the money.
+Alex has 60 dollars left over. Alex can buy their son's birthday present or save the money.
 ? What is the right answer? || It depends on Alex's priorities. A good decision keeps the bills covered, explains the choice and doesn't call the present "bad" or the savings "mandatory."
 
 ### Case 3. Luis's 60 dollars
 Luis has 60 dollars until his next paycheck. His mom needs a 40-dollar medicine, his work shoes are torn and he was invited to a concert.
 ? What is urgent? || The medicine and the shoes, because they protect health and work.
-? What does he do about the concert? || He puts it off or looks for a free option. He can set aside a little from each paycheck to go to the next one.
+? What does he do about the concert? || He puts it off or looks for a no-cost option. He can set aside a little from each paycheck to go to the next one.
 
 --- errores
 * Paying first whatever pushes hardest | What protects your home or your job goes unpaid | Ask for the real date and the consequence of waiting
@@ -779,7 +779,7 @@ There are exceptions depending on the type of job. If your overtime doesn't show
 --- tema | fa-gavel | Your rights if you file a claim
 In California, your employer can't fire you or punish you for asking about your pay or for filing a wage claim.
 
-If you're owed money, you can file a claim with the Labor Commissioner. It's free, there is service in Spanish and they don't ask about your immigration status.
+If you're owed money, you can file a claim with the Labor Commissioner. It's at no cost, there is service in Spanish and they don't ask about your immigration status.
 
 Keep a copy of everything you turn in and write down who you spoke with and on what date.
 
@@ -837,7 +837,7 @@ Create a folder for pay stubs and a record of hours. Write down one question abo
 
 # M1 U06 | Can a small purchase add up to a lot?
 objetivo: Measure the real weight of your big and small expenses, and choose adjustments you can actually keep up.
-gancho: Luis checked his statement and found a 12.99 charge from an app he tried "for free" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it.
+gancho: Luis checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it.
 
 == esencial
 
@@ -903,7 +903,7 @@ A 4-dollar purchase, 22 times a month.
 | Step | Calculation | Result |
 |---|---|---|
 | Today | 4 × 22 | 88 a month |
-| If you cut it to 10 times | 4 × 10 | 40 a month: you free up 48 |
+| If you cut it to 10 times | 4 × 10 | 40 a month: you save 48 |
 | If the other 12 times you buy something for 1.50 | 1.50 × 12 | 18 a month |
 | Net savings | 48 − 18 | 30 a month |
 
@@ -946,10 +946,10 @@ Store brands usually cost less and have the same quality for basic products, lik
 ### Case 1. Alex's sodas
 Alex buys a 2.50 soda every workday: 55 a month.
 ? What does Alex decide? || To bring water three days a week and keep the soda on Fridays.
-? How much does that free up? || About 30 a month, which goes to the savings cushion.
+? How much does that save? || About 30 a month, which goes to the savings cushion.
 
 ### Case 2. Luis's forgotten subscription
-Luis finds a 12.99 monthly charge from an app he tried "for free." He's been paying for eight months.
+Luis finds a 12.99 monthly charge from an app he tried "at no cost." He's been paying for eight months.
 ? How much has he paid? || 12.99 × 8 = 103.92.
 ? What does he do? || He cancels in the app or with the company, keeps the confirmation and checks his statement the next month.
 

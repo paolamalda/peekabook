@@ -35,7 +35,7 @@ Tasas, cuotas, límites y reglas cambian. Los datos del programa se consultaron 
 
 ## Cuándo pedir ayuda profesional
 
-Este programa te enseña a entender, comparar y preparar preguntas. No da asesoría fiscal, legal ni de inversión personalizada. Para tu caso concreto, consulta a un contador, un abogado o la institución. En **Dónde encontrar ayuda** hay opciones gratuitas.
+Este programa te enseña a entender, comparar y preparar preguntas. No da asesoría fiscal, legal ni de inversión personalizada. Para tu caso concreto, consulta a un contador, un abogado o la institución. En **Dónde encontrar ayuda** hay opciones sin costo.
 
 ## Puntos, niveles e insignias
 
@@ -53,7 +53,7 @@ Este programa te enseña a entender, comparar y preparar preguntas. No da asesor
 | 4. Conoce el sistema financiero | Autoridades, tipos de entidades, cómo verificar, tus derechos | 4 |
 | 5. Compara y elige | Institución, cuenta, ahorro, seguro y crédito | 7 |
 | 6. El crédito es deuda | Línea de crédito, pago mínimo, MSI, inventario, capacidad | 6 |
-| 7. Buró y Círculo de Crédito | Reportes gratis, score, plazos, reclamaciones, bloqueo | 10 |
+| 7. Buró y Círculo de Crédito | Reportes sin costo, score, plazos, reclamaciones, bloqueo | 10 |
 | 8. Sal de deudas | Métodos, negociación, consolidación, cobranza | 5 |
 | 9. No caigas | Fraudes, falsos castings, phishing, robo de identidad | 8 |
 | 10. Protección y prevención | Gastos médicos, IMSS, incapacidad, vida, marca, testamento | 6 |

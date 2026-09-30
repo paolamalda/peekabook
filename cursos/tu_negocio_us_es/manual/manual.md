@@ -2,7 +2,7 @@
 
 Manual del programa · Versión 1.2 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
 
-Educación financiera para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
+Programa de bienestar financiero para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
 
 [[TOC]]
 
@@ -118,7 +118,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M5 U01 · ¿Dueño único, LLC u otra forma?** Qué protege una LLC, el mínimo de $800 en California, DBA e intermediarios.
 
-**M5 U02 · Números y permisos: EIN, ITIN y licencias** EIN gratis, ITIN, licencia de negocio, seller's permit, permisos de salud, CSLB y CalGold; cuidado con «notarios».
+**M5 U02 · Números y permisos: EIN, ITIN y licencias** EIN sin costo, ITIN, licencia de negocio, seller's permit, permisos de salud, CSLB y CalGold; cuidado con «notarios».
 
 **M5 U03 · Tus impuestos federales como dueño** Impuesto por cuenta propia (15.3%), impuesto sobre la renta, deducciones, QBI, Schedule C, VITA.
 
@@ -148,7 +148,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M7 U04 · Tu marca y tu nombre** USPTO ($350 por clase), registro estatal y avisos falsos.
 
-**M7 U05 · Robo de identidad y llamadas no deseadas** Congelamiento de crédito en las tres agencias, alerta de fraude, reportes semanales gratis, IdentityTheft.gov, ITIN y Registro Nacional No Llame.
+**M7 U05 · Robo de identidad y llamadas no deseadas** Congelamiento de crédito en las tres agencias, alerta de fraude, reportes semanales sin costo, IdentityTheft.gov, ITIN y Registro Nacional No Llame.
 
 **M7 U06 · Fraudes con inteligencia artificial: voces, videos y mensajes falsos** Proveedores con voz clonada, videos falsos de famosos, palabra clave y aviso a clientes.
 
@@ -166,7 +166,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo** Siete preguntas, presentación de dos minutos, SBDC, SCORE, centros de negocios para mujeres, CDFI, fondeo colectivo y subsidios falsos.
 
-**M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación gratuita.
+**M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación sin costo.
 
 ## Módulo 9. Tu futuro
 
@@ -213,7 +213,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | USPTO | https://www.uspto.gov | Marcas |
 | SSA | https://www.ssa.gov/espanol | Créditos y estimado de retiro |
 | IdentityTheft.gov y donotcall.gov | https://www.robodeidentidad.gov · https://www.donotcall.gov/es | Robo de identidad y Registro No Llame |
-| AnnualCreditReport.com | https://www.annualcreditreport.com | Reportes de crédito gratis |
+| AnnualCreditReport.com | https://www.annualcreditreport.com | Reportes de crédito sin costo |
 | FEMA | https://www.disasterassistance.gov/es | Asistencia por desastre |
 | 988 y 1-800-GAMBLER | 988 · 1-800-GAMBLER | Crisis emocional y juego compulsivo |
 
@@ -239,7 +239,7 @@ El libro de apoyo incluye casos integradores, prácticas de cálculo, glosario, 
 | U14 | Créditos del Seguro Social | $1,890 por crédito en 2026, hasta 4 al año ($7,560); 40 créditos para la pensión de retiro | SSA |
 | U15 | Comisiones de tarjeta | Comúnmente de 2.6% a 3.5% más una cuota fija por cobro | Tarifas publicadas de procesadores |
 | U16 | Corte de reclamos menores en California | Hasta $12,500 para personas | California Courts |
-| U17 | Congelamiento, alertas y reportes | Congelar y descongelar gratis en Equifax, Experian y TransUnion; alerta de fraude inicial gratis por un año; reportes gratis cada semana | FTC |
+| U17 | Congelamiento, alertas y reportes | Congelar y descongelar sin costo en Equifax, Experian y TransUnion; alerta de fraude inicial sin costo por un año; reportes sin costo cada semana | FTC |
 | U18 | Registro Nacional No Llame | Gratis; hasta 31 días para que dejen de llamar; no vence | FTC |
 | U19 | Préstamos por desastre de la SBA | Hasta $500,000 vivienda, $100,000 bienes personales y $2 millones negocios; tasa de hasta 4% sin crédito en otro lado | SBA |
 | U20 | Apuestas en California | Apuestas deportivas en línea no legales; casinos de sorteo en línea prohibidos desde el 1-ene-2026 (AB 831) | Ley AB 831; medios |

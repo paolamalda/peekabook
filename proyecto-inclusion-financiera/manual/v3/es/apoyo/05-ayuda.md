@@ -5,9 +5,9 @@ Cada opción tiene una función distinta: un regulador no sustituye a un prepara
 | Necesidad | Dónde | Costo | Qué verificar |
 |---|---|---|---|
 | Preparar impuestos | IRS VITA y TCE | Gratis para quienes califican | Sede, idioma, si ayudan con ITIN |
-| Ayuda fiscal en California | FTB, ayuda gratuita y CalFile | Gratis según programa | Requisitos del año |
+| Ayuda fiscal en California | FTB, ayuda sin costo y CalFile | Gratis según programa | Requisitos del año |
 | Verificar a un preparador | CTEC (California) y directorio del IRS | Gratis | Registro vigente |
-| Asesoría migratoria | Abogados con licencia y representantes acreditados del DOJ | Variable; hay opciones gratuitas | Licencia en el State Bar o acreditación en la lista del DOJ (EOIR) |
+| Asesoría migratoria | Abogados con licencia y representantes acreditados del DOJ | Variable; hay opciones sin costo | Licencia en el State Bar o acreditación en la lista del DOJ (EOIR) |
 | Ayuda legal general | Servicios de referencia certificados del State Bar de California | La consulta puede tener costo | Certificación del servicio y licencia |
 | Reportar fraude de notarios | State Bar, Procuraduría General de California, FTC | Gratis | Guarda contratos y recibos |
 | Robo de identidad | FTC IdentityTheft.gov | Gratis | Entra directamente; evita imitadores |
@@ -27,7 +27,7 @@ Cada opción tiene una función distinta: un regulador no sustituye a un prepara
 
 ## Guion para pedir información
 
-"Vivo en California y necesito ayuda con [tema]. ¿Atienden este caso en español? ¿Qué credencial tiene la persona que me atenderá? ¿Cuál es el costo total y qué no incluye? ¿Qué documentos necesito y cómo los envío de forma segura? ¿Hay una opción gratuita o de bajo costo?"
+"Vivo en California y necesito ayuda con [tema]. ¿Atienden este caso en español? ¿Qué credencial tiene la persona que me atenderá? ¿Cuál es el costo total y qué no incluye? ¿Qué documentos necesito y cómo los envío de forma segura? ¿Hay una opción sin costo o de bajo costo?"
 
 ---
 

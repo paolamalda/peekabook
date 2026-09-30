@@ -72,7 +72,7 @@ Each institution is supervised according to what it does. In California, the **D
 
 Always look for the exact legal name. A fake company can copy the name or logo of a real one.
 
-> **Good to know:** you can file a free complaint with the [CFPB](https://www.consumerfinance.gov/complaint/) against banks, money transmitters, payment apps and debt collectors. The company must answer, usually within 15 days.
+> **Good to know:** you can file a no-cost complaint with the [CFPB](https://www.consumerfinance.gov/complaint/) against banks, money transmitters, payment apps and debt collectors. The company must answer, usually within 15 days.
 
 --- tema | fa-cogs | How banks lend
 When a bank lends, it creates a deposit in the account of the person receiving the loan.
@@ -220,12 +220,12 @@ Look for the answers in the app's terms and check the bank on BankFind. If the a
 | What happens if I lose my phone? | A single way in can leave you without money. |
 | Do they ask you to become a member? | At credit unions, the membership deposit can't always be spent. |
 
---- ecuacion | fa-calculator | The "free" account that turns out expensive
+--- ecuacion | fa-calculator | The "at no cost" account that turns out expensive
 Account A charges 5 a month and includes cash deposits. Account B has no monthly fee, but each cash deposit costs 3 and you make 4 a month.
 = 144 | Account B per year (12 × 3 × 4)
 - 60 | Account A per year (12 × 5)
-= 84 | The extra cost of the "free" one
-For someone who deposits cash often, the "free" account is the most expensive.
+= 84 | The extra cost of the "no-fee" one
+For someone who deposits cash often, the "at no cost" account is the most expensive.
 
 --- tema | fa-calculator | The 250,000 limit
 The limit is per person, per bank, per type of account. If you have two individual accounts at the same bank, they're added together.
@@ -257,7 +257,7 @@ A credit union asks Mar for 5 dollars to become a member.
 * Believing every app is a bank | Your money may not be insured | Find and check the partner bank
 * Thinking investments are insured | You can lose money with no protection | Keep deposits and investments separate
 * Depending only on your phone | You're cut off from your money | Have a physical card and a help contact
-* Choosing the "free" account without looking at your habits | You pay more in fees | Calculate the cost based on how you use your money
+* Choosing the "at no cost" account without looking at your habits | You pay more in fees | Calculate the cost based on how you use your money
 
 == practica
 
@@ -341,7 +341,7 @@ She learned that one bank's "no" isn't everyone's "no."
 
 --- recuerda
 - Each institution accepts different documents: ask first.
-- Get documents only through official, free channels.
+- Get documents only through official, no-cost channels.
 - Don't send photos of your ID to strangers.
 
 == profundiza
@@ -361,14 +361,14 @@ She learned that one bank's "no" isn't everyone's "no."
 - **ITIN:** with IRS Form W-7 (M1 U11).
 - **Documents from El Salvador and other countries:** at your country's consulate, with an appointment on its official website.
 
-Be wary of anyone who sells appointments or promises "faster" paperwork. Official appointments are free.
+Be wary of anyone who sells appointments or promises "faster" paperwork. Official appointments cost nothing.
 
 > **Good to know:** the AB 60 license has a mark on the front that says "Federal Limits Apply." Even so, in California it works as ID for many things, and state law prohibits discriminating against people who use it.
 
 --- tema | fa-ban | If you're turned down
 Ask for the reason.
 
-If it's because of a report on your banking history, for example from **ChexSystems**, you have the right to know which company issued it and to ask for a free copy. If there's a mistake, you can dispute it.
+If it's because of a report on your banking history, for example from **ChexSystems**, you have the right to know which company issued it and to ask for a no-cost copy. If there's a mistake, you can dispute it.
 
 --- tema | fa-lock | Protect your documents
 Don't hand originals to anyone other than the official institution.
@@ -392,7 +392,7 @@ Luis has a passport and a consular ID, but no SSN or ITIN. He calls two banks an
 
 ### Case 2. The appointment for sale
 Alex is offered a "fast" consulate appointment for 80 dollars.
-? What does Alex do? || Doesn't pay. Appointments are free through the official system.
+? What does Alex do? || Doesn't pay. Appointments cost nothing through the official system.
 
 ### Case 3. Daniela's ID
 Daniela's Salvadoran passport has expired.
@@ -400,7 +400,7 @@ Daniela's Salvadoran passport has expired.
 
 --- errores
 * Going to the bank without asking first | You lose the day and get frustrated | Call first with the exact question
-* Paying for a consulate appointment | You lose money and sometimes your data | Get your appointment free through the official system
+* Paying for a consulate appointment | You lose money and sometimes your data | Get your appointment no-cost through the official system
 * Giving up after the first "no" | You're left without an account | Ask at another bank or credit union
 * Sending photos of your ID | Identity theft | Give it only to the official institution
 
@@ -424,7 +424,7 @@ Put together your document kit: what you have, what's about to expire and what y
 
 == recursos
 - **AB 60 license** (California DMV · English and Spanish): https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/ | Qué buscar: the list of accepted documents to prove identity and residence, and how to make an appointment.
-- **MiConsulado** (Mexico's Foreign Ministry · Spanish): https://citas.sre.gob.mx | Qué buscar: create your account and book a free appointment for a consular ID or passport.
+- **MiConsulado** (Mexico's Foreign Ministry · Spanish): https://citas.sre.gob.mx | Qué buscar: create your account and book a no-cost appointment for a consular ID or passport.
 - **Checklist for opening a bank account** (CFPB · English): https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf | Qué buscar: the list of questions to ask the bank before you open the account.
 
 == palabras
@@ -439,7 +439,7 @@ Put together your document kit: what you have, what's about to expire and what y
 
 # M2 U04 | What do I need to open an account, and how much does it cost to keep it?
 objetivo: Compare accounts based on your needs, your documents and the way you use money.
-gancho: Alex opened an account that said "free." A month later, a 12-dollar fee was charged. The account was only free with direct deposit of wages, and Alex gets paid by check. In this lesson you'll learn to read the conditions before you open an account.
+gancho: Alex opened an account that said "at no cost." A month later, a 12-dollar fee was charged. The account only cost nothing with direct deposit of wages, and Alex gets paid by check. In this lesson you'll learn to read the conditions before you open an account.
 
 == esencial
 
@@ -452,11 +452,11 @@ The best account for one person can be expensive for another.
 * fa-sign-in | {{Opening deposit|The minimum you must put in to open the account.}} | The minimum to open the account, for example 25. | Only asked for once. | igual
 * fa-balance-scale | Balance to avoid the fee | What you must keep each month so they don't charge you, for example 500 every day. | It's a monthly condition. | no
 
---- ecuacion | fa-calculator | Alex's "free" account
+--- ecuacion | fa-calculator | Alex's "at no cost" account
 The account charges 12 a month, unless you get your pay by direct deposit. Alex gets paid by check.
 = 12 | Fee per month
 + 132 | The other 11 months
-= 144 | What Alex pays per year for a "free" account
+= 144 | What Alex pays per year for a "at no cost" account
 **"Direct deposit"** usually means your payroll deposited electronically, not just any transfer.
 
 --- paso | fa-star | Look for Bank On accounts
@@ -472,7 +472,7 @@ Ask your bank or credit union if they have a Bank On certified account.
 > **Key idea:** the opening deposit and the monthly fee are different things. Meeting one doesn't remove the other.
 
 --- paso | fa-user | A case in one minute
-Luis compares two accounts. The first has no monthly fee, but charges 3.50 for each cash deposit at stores. The second charges 5 a month, but cash deposits at its ATMs are free.
+Luis compares two accounts. The first has no monthly fee, but charges 3.50 for each cash deposit at stores. The second charges 5 a month, but cash deposits at its ATMs cost nothing.
 
 Luis deposits cash about 3 times a month. With the first he'd pay 10.50 a month; with the second, 5.
 
@@ -484,7 +484,7 @@ He chose the second, even though it "charges a fee," because for the way he uses
 3. Calculate how much each would cost you per year.
 
 --- comprueba
-1. An account is free with direct deposit, but you get paid in cash. Is it free for you? || Not necessarily. Ask which condition you can meet.
+1. An account costs nothing with direct deposit, but you get paid in cash. Is it no-cost for you? || Not necessarily. Ask which condition you can meet.
 2. Are the opening deposit and the minimum balance the same thing? || No. One is to open; the other is a condition every month.
 
 --- recuerda
@@ -507,7 +507,7 @@ Sharing your password isn't the same as giving formal authorization. Before addi
 Besides the monthly fee, compare:
 
 - where you can deposit cash and what it costs;
-- which ATMs are free;
+- which ATMs cost nothing;
 - when the money you deposit becomes available;
 - deposit limits.
 
@@ -533,8 +533,8 @@ For many people that's better: they'd rather have a payment declined than pay a 
 Ask whether your account has overdraft and how to turn it off.
 
 --- casos
-### Case 1. Alex's "free" account
-Alex's account is free with payroll direct deposit. Alex gets paid by check and deposits it at the teller.
+### Case 1. Alex's "at no cost" account
+Alex's account costs nothing with payroll direct deposit. Alex gets paid by check and deposits it at the teller.
 ? How much does it cost? || 12 a month, 144 a year.
 ? What can Alex do? || Ask the employer for direct deposit or switch to an account with no fee, like a Bank On certified one.
 
@@ -545,13 +545,13 @@ Mar's cousin asks her to add him to her account "to help him out."
 
 ### Case 3. Luis's cash
 Luis gets paid through payroll, but his roommates pay him their share of the rent in cash.
-? What does he compare? || Where he can deposit cash for free near his home and his work.
+? What does he compare? || Where he can deposit cash at no cost near his home and his work.
 
 --- errores
-* Believing "free" without reading the condition | You pay a fee every month | Ask what avoids the fee
+* Believing "no fee" without reading the condition | You pay a fee every month | Ask what avoids the fee
 * Confusing the opening deposit with the minimum balance | You get charged even though you opened with what they asked | Ask about both amounts
 * Adding someone to your account to help them | They can take all your money | Help in another way
-* Not asking about cash deposits | You pay every time you deposit | Compare where it's free
+* Not asking about cash deposits | You pay every time you deposit | Compare where it costs nothing
 
 == practica
 
@@ -560,13 +560,13 @@ Luis gets paid through payroll, but his roommates pay him their share of the ren
 
 --- quiz
 1. Are the opening deposit and the minimum balance the same? a) Yes · b) No · c) Yes, both are paid every month
-2. An account is free with direct deposit and you get paid in cash. Can you assume it's free? a) Yes · b) No · c) Yes, if you never overdraw
+2. An account costs nothing with direct deposit and you get paid in cash. Can you assume it costs nothing? a) Yes · b) No · c) Yes, if you never overdraw
 3. Does a joint account let the other person withdraw money? a) Yes · b) No · c) Only with your written permission each time
 respuestas: 1-b: one is to open and the other is monthly. 2-b: it depends on whether you meet the condition. 3-a: any owner can withdraw.
 
 --- ponlo
 You use cash every week. What should you compare besides the monthly fee?
-respuesta: Where and how much it costs to deposit cash, free ATMs, when the money becomes available, distance, limits and help in your language.
+respuesta: Where and how much it costs to deposit cash, no-cost ATMs, when the money becomes available, distance, limits and help in your language.
 
 --- plan
 Fill in the comparison sheet for two accounts. You don't need to open one to pass.
@@ -586,17 +586,17 @@ Fill in the comparison sheet for two accounts. You don't need to open one to pas
 [R46] Bank On, national standards · FDIC, national survey of unbanked households · CFPB, newcomer's guides.
 
 
-# M2 U05 | Is all the balance I see free to spend?
+# M2 U05 | Is all the balance I see available to spend?
 objetivo: Use your payment methods knowing when money is available and how to dispute a charge.
 gancho: Mar saw 100 dollars in her app and paid a 70 bill. The next day a payment she had scheduled went through and she ended up negative. The money was on the screen, but it already had a job. In this lesson you'll learn to read your balance for real.
 
 == esencial
 
---- ecuacion | fa-eye | The money you see and the money that's free
+--- ecuacion | fa-eye | The money you see and the money that's available
 Your screen shows 100, but you scheduled a 40 payment for tomorrow.
 = 100 | What you see
 - 40 | Scheduled payment
-= 60 | What's actually free
+= 60 | What's actually available
 The money you see and the money with no commitment can be different.
 
 --- paso | fa-clock-o | Three moments of a payment
@@ -709,7 +709,7 @@ Luis paid 150 by Zelle for a used phone that never arrived.
 respuestas: 1-b: it can bounce. 2-b: you authorized it. 3-b: cancel with the company.
 
 --- ponlo
-Your record: start 300, deposit 500, purchases of 120 and 80, scheduled payment of 200. The bank shows 600. How much is free?
+Your record: start 300, deposit 500, purchases of 120 and 80, scheduled payment of 200. The bank shows 600. How much is available?
 respuesta: 400. The 200 scheduled payment already has a job, even if the bank hasn't taken it out yet.
 
 --- plan

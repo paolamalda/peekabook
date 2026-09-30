@@ -37,7 +37,7 @@ She updated her beneficiaries and set aside a small voluntary contribution every
 * fa-plus-circle | Contribute | Voluntary contributions by card or at stores. | Small amounts. | si
 * fa-exchange | Switch AFORE | If another one suits you better. | Compare fees and returns. | igual
 
-It's all free. Nobody should charge you to use the app.
+It all costs nothing. Nobody should charge you to use the app.
 
 > **Before you act, check:** that you're using CONSAR's official app and not a copy. Never pay to sign up.
 
@@ -69,7 +69,7 @@ That's why your weeks in Mexico and your credits in the U.S. are reviewed separa
 --- tema | fa-shield | Watch out for middlemen
 Some people offer to "recover your AFORE" or "advance your pension" in exchange for a percentage or your personal information.
 
-Procedures with your AFORE, CONSAR and IMSS are free. Don't share your CURP, your NSS or your passwords with middlemen.
+Procedures with your AFORE, CONSAR and IMSS cost nothing. Don't share your CURP, your NSS or your passwords with middlemen.
 
 --- tema | fa-users | Unemployment withdrawals
 Some accounts allow a partial withdrawal for unemployment. Doing it reduces your contribution weeks.
@@ -81,7 +81,7 @@ Before withdrawing, ask how many weeks you'd lose and whether it's worth it.
 --- tema | fa-bar-chart | Compare your AFORE
 AFOREs charge different fees and have different returns. CONSAR publishes a comparison every year.
 
-If your AFORE has low returns, you can switch, generally once a year. Switching is free and is done from AforeMóvil or at the new AFORE.
+If your AFORE has low returns, you can switch, generally once a year. Switching costs nothing and is done from AforeMóvil or at the new AFORE.
 
 Don't switch because of a gift or an agent's promise. Compare with CONSAR's data.
 
@@ -92,7 +92,7 @@ Rosa doesn't know which AFORE she's in.
 
 ### Case 2. Luis's middleman
 A middleman offers Luis to "release his AFORE" for 30% of the balance.
-? What does Luis do? || He doesn't accept. The procedures are free and he does them himself with his AFORE or CONSAR.
+? What does Luis do? || He doesn't accept. The procedures cost nothing and he does them himself with his AFORE or CONSAR.
 
 ### Case 3. Weeks or savings
 Rosa wants to increase her savings and also complete weeks for her pension.
@@ -101,7 +101,7 @@ Rosa wants to increase her savings and also complete weeks for her pension.
 --- errores
 * Not checking your AFORE | You don't know what you have | Look it up with your CURP
 * Not updating beneficiaries | A long process for your family | Update them
-* Paying a middleman | You lose money or your data | Do it yourself, it's free
+* Paying a middleman | You lose money or your data | Do it yourself, it costs nothing
 * Believing contributing adds weeks | You plan your pension wrong | Ask IMSS
 
 == practica
@@ -113,7 +113,7 @@ Rosa wants to increase her savings and also complete weeks for her pension.
 1. Do you lose your AFORE by living in the U.S.? a) Yes · b) No · c) Yes, after 5 years
 2. What do you need to find it? a) Your ITIN · b) Your CURP · c) Your consular ID number
 3. Is a middleman who charges to "release your AFORE" necessary? a) Yes · b) No · c) Only if you live abroad
-respuestas: 1-b: it's still yours. 2-b: the CURP. 3-b: the procedures are free.
+respuestas: 1-b: it's still yours. 2-b: the CURP. 3-b: the procedures cost nothing.
 
 --- ponlo
 Write down the three things you need to check your AFORE and who you'd name as your beneficiary.
@@ -514,7 +514,7 @@ If you earn 400 or more in the year working for yourself, you generally must fil
 
 Set aside part of each sale and ask for help at a VITA center or from a certified preparer (M4 U04).
 
-> **Good to know:** Small Business Development Centers (SBDC) and many community organizations offer free advice in Spanish to start a business.
+> **Good to know:** Small Business Development Centers (SBDC) and many community organizations offer no-cost advice in Spanish to start a business.
 
 --- tema | fa-users | Business loans
 Some community institutions (CDFIs) and microloan programs lend to small businesses with an ITIN.
@@ -568,7 +568,7 @@ Open an account for your business, record your sales and expenses for a month an
 == recursos
 - **Start a business in California** (CalGold · English): https://www.calgold.ca.gov | Qué buscar: type your city and business type to see the permits you need.
 - **LLC franchise tax** (FTB · English): https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html | Qué buscar: the 800 minimum yearly tax and when it's due.
-- **Small Business Development Centers** (SBA · English and Spanish): https://www.sba.gov/local-assistance | Qué buscar: type your ZIP code to find free advice near you.
+- **Small Business Development Centers** (SBA · English and Spanish): https://www.sba.gov/local-assistance | Qué buscar: type your ZIP code to find no-cost advice near you.
 - **Cottage food operations** (California Department of Public Health · English): https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx | Qué buscar: the list of allowed foods and how to register in your county.
 
 == palabras
@@ -650,10 +650,10 @@ Doing something small today helps you keep going tomorrow. The plan grows with e
 | My goals | Three goals with amount, date and priority |
 | My protection | Insurance, beneficiaries, documents |
 | My next steps | Three actions with dates |
-| My help | Who I can ask for free guidance |
+| My help | Who I can ask at no cost guidance |
 
 --- tema | fa-life-ring | Your support network
-Keep the contacts for free help you learned about in the program: VITA centers, housing counselors, nonprofit credit counseling, your consulate, attorneys or accredited representatives.
+Keep the contacts for no-cost help you learned about in the program: VITA centers, housing counselors, nonprofit credit counseling, your consulate, attorneys or accredited representatives.
 
 You don't have to do it alone.
 
@@ -723,11 +723,11 @@ Write your one-page plan and give it a review date. Congratulations on finishing
 == recursos
 - **Your Money, Your Goals** (CFPB · English and Spanish): https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/ | Qué buscar: the goal, budget and action plan tools to print.
 - **Money Smart for Adults** (FDIC · English and Spanish): https://www.fdic.gov/consumer-resource-center/money-smart-adults | Qué buscar: the modules you want to review.
-- **Find a credit counselor** (NFCC · English and Spanish): https://www.nfcc.org | Qué buscar: free or low-cost nonprofit counseling.
+- **Find a credit counselor** (NFCC · English and Spanish): https://www.nfcc.org | Qué buscar: no-cost or low-cost nonprofit counseling.
 
 == palabras
 - *Financial plan:* your goals and steps in writing.
-- *Support network:* people and institutions that guide you for free.
+- *Support network:* people and institutions that guide you at no cost.
 
 == fuentes
 CFPB, Your Money, Your Goals · FDIC, Money Smart · NFCC.

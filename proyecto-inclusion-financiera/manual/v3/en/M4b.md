@@ -170,7 +170,7 @@ If you go to an emergency room, federal law (the **No Surprises Act**) prohibits
 And if you don't have insurance, you have the right to ask for a written **{{Good Faith Estimate|A written estimate of the total cost of scheduled medical care, which you should get if you don't have insurance.}}** of the total cost before scheduled care.
 
 --- paso | fa-hand-o-right | Ask for financial assistance before you pay
-California hospitals must have a **financial assistance** policy and offer free or discounted care to people with low and middle incomes who qualify.
+California hospitals must have a **financial assistance** policy and offer no-cost or discounted care to people with low and middle incomes who qualify.
 
 Ask **before** you pay or put the bill on a credit card.
 
@@ -205,7 +205,7 @@ Ask at the hospital whether they can help you apply.
 --- tema | fa-credit-card | Medical debts and your credit
 In California, a law in effect since 2025 generally prohibits reporting medical debts to the credit agencies. Check whether there are exceptions or changes.
 
-Even so, don't ignore a bill: ask for financial assistance or an interest-free payment plan.
+Even so, don't ignore a bill: ask for financial assistance or an no-interest payment plan.
 
 > **Good to know:** if the Good Faith Estimate says 1,000 and you're charged 400 or more above it, you can start a federal dispute within 120 days of the bill.
 
@@ -269,7 +269,7 @@ Save the contacts of your plan, your doctors and the regulator. Ask for the fina
 
 == palabras
 - *Explanation of benefits:* a summary of how care was processed.
-- *Financial assistance:* a discount or free care based on income.
+- *Financial assistance:* a discount or no-cost care based on income.
 - *DMHC:* the regulator of many health plans in California.
 - *Good Faith Estimate:* a written estimate if you don't have insurance.
 
@@ -437,7 +437,7 @@ A plan made calmly protects your family in a moment of crisis. Preparing isn't g
 --- paso | fa-file-text | The caregiver affidavit
 California has the **{{Caregiver's Authorization Affidavit|A California form that lets a trusted adult enroll your children in school and authorize some medical care. It doesn't change custody.}}**.
 
-It lets a trusted adult enroll your children in school and authorize some medical care. It does **not** change custody. It's free and doesn't need a judge.
+It lets a trusted adult enroll your children in school and authorize some medical care. It does **not** change custody. It costs nothing and doesn't need a judge.
 
 --- paso | fa-key | Sharing your password isn't enough
 Sharing your bank password does **not** give your family legal permission to act if you're in the hospital or detained.

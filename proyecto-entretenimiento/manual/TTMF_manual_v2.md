@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 78 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 79 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -194,6 +194,9 @@ Objetivo: usar el SIPRES (registro de prestadores de servicios financieros), el 
 **M4 U04 · Tus derechos como usuario**
 Objetivo: conocer tus derechos (información clara, contrato registrado, cancelación, reclamación) y cómo reclamar: primero a la Unidad Especializada (UNE) de la institución, luego a CONDUSEF.
 
+**M4 U05 · Noticias, rumores y cambios: ajusta tu plan sin pánico**
+Objetivo: confirmar en fuentes oficiales, reconocer el miedo, el efecto manada y la publicidad disfrazada, saber quién influye en la economía y ajustar el plan cuando cambian tasas, impuestos o reglas.
+
 ## Módulo 5. Compara y elige: instituciones y productos
 
 **M5 U01 · Primero elige la institución**
@@ -254,15 +257,15 @@ Objetivo: entender que son sociedades de información crediticia: guardan tu his
 Objetivo: saber que hay dos sociedades con la misma función, que cada institución reporta a una, a la otra o a ambas, y que por eso tu información puede ser distinta en cada una. Revisa las dos.
 Gancho: Toño revisó su Buró y todo estaba bien, pero le negaron un crédito por un atraso que solo aparece en Círculo.
 
-**M7 U03 · Pide tus reportes gratis: dos al año**
-Objetivo: obtener tu Reporte de Crédito Especial gratis la primera vez y después una vez cada 12 meses en **cada** sociedad: uno en Buró y otro en Círculo. Se pide en sus sitios oficiales con tus datos y preguntas de seguridad; los reportes extra tienen costo (47 pesos en Buró y desde 34.50 pesos en Círculo, por internet).
-Regla: pídelo solo en los sitios oficiales. Nadie más "te consulta el Buró gratis" a cambio de tus datos.
+**M7 U03 · Pide tus reportes sin costo: dos al año**
+Objetivo: obtener tu Reporte de Crédito Especial sin costo la primera vez y después una vez cada 12 meses en **cada** sociedad: uno en Buró y otro en Círculo. Se pide en sus sitios oficiales con tus datos y preguntas de seguridad; los reportes extra tienen costo (47 pesos en Buró y desde 34.50 pesos en Círculo, por internet).
+Regla: pídelo solo en los sitios oficiales. Nadie más "te consulta el Buró sin costo" a cambio de tus datos.
 
 **M7 U04 · Lee tu reporte**
 Objetivo: identificar cuentas, otorgante, saldo, límite, forma de pago y atrasos, claves de observación (por ejemplo, cuenta liquidada con quita) y la lista de quién consultó tu historial en los últimos 24 meses.
 
 **M7 U05 · Tu score: qué lo sube y qué lo baja**
-Objetivo: saber que el score (como Mi Score de Buró) es un producto aparte y con costo, distinto del reporte gratuito, y conocer lo que lo mueve: pagos a tiempo, uso de tu línea, antigüedad, consultas y tipos de crédito.
+Objetivo: saber que el score (como Mi Score de Buró) es un producto aparte y con costo, distinto del reporte sin costo, y conocer lo que lo mueve: pagos a tiempo, uso de tu línea, antigüedad, consultas y tipos de crédito.
 
 **M7 U06 · ¿Cuánto tiempo se queda un atraso?**
 Objetivo: conocer los plazos para que se elimine una deuda del historial, según su monto en UDIS:
@@ -278,16 +281,16 @@ No se eliminan por plazo las deudas mayores a 400,000 UDIS, las que están en ju
 Gancho: Toño cree que su atraso de hace siete años "lo tiene marcado de por vida".
 
 **M7 U07 · Si hay un error: reclama paso a paso**
-Objetivo: presentar una reclamación ante la unidad especializada del Buró o del Círculo, por escrito o en línea, con copia de tu reporte, los registros que impugnas y tus pruebas (por ejemplo, la carta de liquidación). La sociedad pide la información a la institución; si esta no la sustenta, el registro se corrige o se elimina. Hay reclamaciones gratuitas al año (en Círculo, dos gratis y las siguientes a 80 pesos). La sociedad la envía a la institución en 5 días hábiles; la institución tiene 30 días naturales para responder o el registro se modifica o elimina como pidió la persona (artículos 42 a 44 LRSIC). Si no se resuelve, acude a CONDUSEF.
+Objetivo: presentar una reclamación ante la unidad especializada del Buró o del Círculo, por escrito o en línea, con copia de tu reporte, los registros que impugnas y tus pruebas (por ejemplo, la carta de liquidación). La sociedad pide la información a la institución; si esta no la sustenta, el registro se corrige o se elimina. Hay reclamaciones sin costo al año (en Círculo, dos sin costo y las siguientes a 80 pesos). La sociedad la envía a la institución en 5 días hábiles; la institución tiene 30 días naturales para responder o el registro se modifica o elimina como pidió la persona (artículos 42 a 44 LRSIC). Si no se resuelve, acude a CONDUSEF.
 
 **M7 U08 · Protege tu historial: bloqueo y alertas**
 Objetivo: conocer los servicios de protección:
 - **Bloqueo de Buró:** mientras está activo, nadie puede consultar tu historial, así que nadie puede abrir un crédito a tu nombre. Cuesta 58 pesos por tres meses, con bloqueos y desbloqueos ilimitados en ese periodo; no se renueva solo.
 - **Alertas Buró:** te avisa cada vez que alguien consulta tu historial o se abre un crédito a tu nombre (232 pesos al año, incluye 4 Mi Score).
-- Círculo de Crédito: bloqueo temporal por tres meses y alertas "Avísame" (gratis) o "Avísame Mucho Más" (250 pesos al año).
+- Círculo de Crédito: bloqueo temporal por tres meses y alertas "Avísame" (sin costo) o "Avísame Mucho Más" (250 pesos al año).
 
 **M7 U09 · Despachos que "limpian tu Buró": fraude**
-Objetivo: reconocer que nadie puede borrar información correcta, que las reclamaciones las haces tú y son gratuitas, y que esos cobros son fraude.
+Objetivo: reconocer que nadie puede borrar información correcta, que las reclamaciones las haces tú y no tienen costo, y que esos cobros son fraude.
 
 **M7 U10 · Cómo mejorar tu historial paso a paso**
 Objetivo: seguir un plan de 6 a 12 meses: pagar a tiempo, bajar el uso de tus tarjetas, no pedir créditos seguidos, regularizar los atrasos y revisar tus dos reportes cada año.
@@ -344,7 +347,7 @@ Objetivo: reconocer pirámides, esquemas de referidos, criptomonedas con rendimi
 Gancho: un productor conocido le ofrece a Gael 10% mensual por "invertir en su siguiente película".
 
 **M9 U08 · Que dejen de llamarte: REPEP, REUS y tu línea**
-Objetivo: inscribir tus números en el REPEP de Profeco (publicidad de bienes y servicios; gratis, fijo o celular, 30 días para que dejen de llamar, sin vencimiento) y en el REUS de CONDUSEF (publicidad de instituciones financieras; hasta 45 días, dura dos años). Saber qué no cubren (cobranza, partidos, encuestas, beneficencia y fraudes), denunciar con evidencia, consultar las líneas registradas con tu CURP y desvincular las que no son tuyas. Reconocer "registros" falsos que cobran.
+Objetivo: inscribir tus números en el REPEP de Profeco (publicidad de bienes y servicios; sin costo, fijo o celular, 30 días para que dejen de llamar, sin vencimiento) y en el REUS de CONDUSEF (publicidad de instituciones financieras; hasta 45 días, dura dos años). Saber qué no cubren (cobranza, partidos, encuestas, beneficencia y fraudes), denunciar con evidencia, consultar las líneas registradas con tu CURP y desvincular las que no son tuyas. Reconocer "registros" falsos que cobran.
 Gancho: a Gael le llaman ocho veces al día para venderle algo; entre esas llamadas pierde la de un casting y contesta una de fraude.
 
 **M9 U09 · Si ya te pasó: tu plan de respuesta**
@@ -504,9 +507,9 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | E05 | Convenio IMSS-ANDA | Incorporación voluntaria de artistas independientes con beneficiarios, publicado el 20-sep-2026 | IMSS; medios |
 | E06 | Modalidad 40 | 14.438% en 2026, de 3 a 25 UMA; sube hasta 18.8% en 2030 | LSS 218; reforma 2020 |
 | E07 | Plazo de eliminación en historial | 1, 2, 4 o 6 años según UDIS; se cuenta desde que se incorporó el primer incumplimiento | LRSIC 23; CONDUSEF |
-| E08 | Reclamaciones | 5 días hábiles para enviar; 30 días naturales para responder; Círculo: 2 gratis al año, luego 80 pesos | LRSIC 42-44; Círculo de Crédito |
+| E08 | Reclamaciones | 5 días hábiles para enviar; 30 días naturales para responder; Círculo: 2 sin costo al año, luego 80 pesos | LRSIC 42-44; Círculo de Crédito |
 | E09 | Reportes adicionales y score | Buró: reporte 47, Mi Score 58; Círculo: reporte desde 34.50, score 50 y 97 | Sitios oficiales; medios |
-| E10 | Bloqueo y alertas | Buró: bloqueo 58 por 3 meses, Alertas 232 al año; Círculo: bloqueo 3 meses, Avísame gratis, Avísame Mucho Más 250 | Sitios oficiales; medios |
+| E10 | Bloqueo y alertas | Buró: bloqueo 58 por 3 meses, Alertas 232 al año; Círculo: bloqueo 3 meses, Avísame sin costo, Avísame Mucho Más 250 | Sitios oficiales; medios |
 | E11 | Horario de cobranza | 7:00 a 22:00 horas del huso horario del deudor | Disposiciones CONDUSEF, DOF 7-oct-2014 |
 | E12 | Pago anticipado | Derecho a pagos anticipados; comisión solo si está pactada y registrada; prohibida en hipotecarios salvo opción | LTOSF; Circular 22/2010 y 8/2016 |
 | E13 | Regalías | Exenciones para autores: ISR hasta 20 UMA (93-XXIX) e IVA (15-XVI); intérpretes, revisar con contador | LISR; LIVA |
@@ -518,9 +521,9 @@ Cada publicación dice "Referencia comercial: Desarrolla Talento puede recibir u
 | E19 | Policía cibernética | 088 de la Guardia Nacional | Guardia Nacional CERT-MX |
 | E20 | REPEP | Gratis, fijo o celular, en repep.profeco.gob.mx o 55 5568 8722 / 800 468 8722; 30 días para dejar de llamar; sin vencimiento; no cubre cobranza, partidos, beneficencia ni encuestas | Profeco |
 | E21 | REUS | Hasta 45 días naturales para aplicar; vigencia de dos años; 55 5340 0999 / 800 999 8080 | CONDUSEF; Reglas del Registro Público de Usuarios (DOF) |
-| E22 | Líneas móviles y CURP | Registro obligatorio desde el 9-ene-2026, escalonado por terminación, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
-| E23 | Línea de la Vida | 800 911 2000, gratuita, 24 horas, todos los días; salud mental y adicciones, incluido el juego | CONASAMA |
+| E22 | Líneas móviles y CURP | Registro obligatorio desde el 9-ene-2026, escalonado por terminación, plazo final 31-dic-2026; consulta y desvinculación sin costo | Comisión Reguladora de Telecomunicaciones |
+| E23 | Línea de la Vida | 800 911 2000, sin costo, 24 horas, todos los días; salud mental y adicciones, incluido el juego | CONASAMA |
 | E24 | Juegos con apuestas | Casinos y apuestas, también en línea, requieren permiso de la Secretaría de Gobernación | Ley Federal de Juegos y Sorteos; Segob |
-| E25 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir documentos e información; reclamación gratuita en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
+| E25 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir documentos e información; reclamación sin costo en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
 
 **Quedan dos confirmaciones que conviene hacer en el sitio oficial antes de publicar:** que los productos de ahorro de Nu ya estén en el banco (padrón de la CNBV) y los precios de Buró y Círculo del día (los sitios oficiales no fueron accesibles desde el entorno de trabajo; los montos vienen de fuentes que citan esos sitios).

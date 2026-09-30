@@ -307,7 +307,7 @@ EN_TXT = dict(t_estructura="WHAT IS IN THIS FOLDER", t_lista="CHECKLIST FOR A CO
 CURSOS = [
  dict(ES_TXT, carpeta="Tu_Dinero_Tu_Familia_Tu_Futuro_ES", zip="Tu_Dinero_ES_v3.2", leeme="00_LEEME.txt",
       titulo="Tu Dinero, Tu Familia, Tu Futuro", sub="Curso en español · Versión 3.2 · Desarrolla Talento · Septiembre de 2026",
-      intro="Curso gratuito de finanzas personales para personas migrantes en EE. UU. (piloto California): 5 módulos, 59 lecciones.",
+      intro="Curso sin costo de finanzas personales para personas migrantes en EE. UU. (piloto California): 5 módulos, 59 lecciones.",
       desc=["Manual del operador v3.0: programa, reglas, editorial, evaluación y claves, métricas, matriz, expansión por estados, privacidad y trazabilidad.",
             "Contenido completo v3.2: personajes, 59 lecciones, libro de apoyo, 59 H5P y banco de 177 preguntas (.docx y .md).",
             "Guía de implementación v3.2: instalación en Moodle, puntos, insignias y constancia, y mantenimiento (.docx y .md).",
@@ -340,7 +340,7 @@ CURSOS = [
       h5p_partes=[["M1", "M2"], ["M3", "M4", "M5"]]),
  dict(ES_TXT, carpeta="Tu_Talento_Tu_Marca_Tu_Futuro", zip="Tu_Talento_v1.3", leeme="00_LEEME.txt",
       titulo="Tu Talento, Tu Marca, Tu Futuro", sub="Versión 1.3 · Desarrolla Talento · Septiembre de 2026",
-      intro="Curso de educación financiera para personas que trabajan en el entretenimiento en México: 11 módulos, 77 lecciones, con el crédito como eje.",
+      intro="Programa de bienestar financiero para personas que trabajan en el entretenimiento en México: 11 módulos, 77 lecciones, con el crédito como eje.",
       desc=["Manual del programa v2.4: público, reglas, módulos y lecciones, personajes, comunidad, fuentes y datos verificados.",
             "Contenido completo v1.3: personajes, 77 lecciones, libro de apoyo, 77 H5P y banco de 231 preguntas (.docx y .md).",
             "Guía de implementación v1.3: instalación en Moodle, gamificación, comunidad y canales, y mantenimiento de datos (.docx y .md).",

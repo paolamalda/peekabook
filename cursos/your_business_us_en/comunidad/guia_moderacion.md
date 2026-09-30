@@ -27,7 +27,7 @@ For the team that moderates the forums and the channel. Version 1.0 · September
 | Offers loans or investments | Remove and warn | "Financial offers aren't allowed in the community. Check the rules in chapter 2." |
 | Offers schemes to "pay less tax" | Remove, warn and tell coordination | "Tax schemes aren't allowed in the community. Handle your taxes with a preparer or CPA (M5 U03)." |
 | Promotes their business outside its forum or more than once a month | Move or remove | "Please use **Introduce your business**, once a month. Thanks for sharing!" |
-| Recommends a "notario" or a site that charges for the EIN | Remove and explain | "The EIN and seller's permit are free on official sites; for immigration matters, only attorneys or accredited organizations (M5 U02)." |
+| Recommends a "notario" or a site that charges for the EIN | Remove and explain | "The EIN and seller's permit cost nothing on official sites; for immigration matters, only attorneys or accredited organizations (M5 U02)." |
 | Asks us to review their return or whether to open an LLC | Answer generally and refer | "Your case depends on your details. We suggest VITA, a preparer with a PTIN or an SBDC; lesson [lesson] helps you prepare your questions." |
 | Selling scam in progress | Respond immediately | "Don't send money back, keep evidence, tell your bank or processor and report it at ReportFraud.ftc.gov (M4 U03)." |
 | Extortion or threat | Respond immediately | "Don't negotiate; hang up. If there's danger, call 911 or local police (M7 U03)." |

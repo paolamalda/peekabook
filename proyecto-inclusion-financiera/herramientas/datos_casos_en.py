@@ -69,7 +69,7 @@ CASOS = {
 "M1 U14": [
  ("Write down dates, ask to change a date and recalculate.", "Take out a loan every month to make rent.", "Wait to earn more before getting organized, because now it's impossible."),
  ("Stabilize first: record the shortfall.", "Save 20% every month even if she's short.", "Forget about saving until she earns more."),
- ("He picks one action with a date and does it.", "He does all his ideas in the same week.", "He waits until he has more free time to start."),
+ ("He picks one action with a date and does it.", "He does all his ideas in the same week.", "He waits until he has more spare time to start."),
 ],
 "M2 U01": [
  ("The issuing bank, at the number on the back.", "The pharmacy, because that's where he bought it.", "The number someone sends him by text."),
@@ -83,13 +83,13 @@ CASOS = {
 ],
 "M2 U03": [
  ("That each institution accepts different documents.", "That without an SSN no bank will open an account.", "That they all ask for exactly the same papers."),
- ("Doesn't pay: appointments are free in the official system.", "Pays, because that way Alex avoids months of waiting online.", "Pays half upfront and the rest at the appointment."),
+ ("Doesn't pay: appointments cost nothing in the official system.", "Pays, because that way Alex avoids months of waiting online.", "Pays half upfront and the rest at the appointment."),
  ("She renews her passport and asks which other papers they accept.", "She uses the expired passport and doesn't tell the bank.", "She asks a friend to open the account in the friend's name."),
 ],
 "M2 U04": [
- ("12 a month: 144 a year.", "Nothing: the account is free.", "12 a year, only once."),
+ ("12 a month: 144 a year.", "Nothing: the account costs nothing.", "12 a year, only once."),
  ("Her cousin could withdraw the whole balance.", "None: the cousin can only see the balance.", "Only that the bank charges her more fees."),
- ("Where to deposit cash for free near home and work.", "Which app has the most downloads and best ratings.", "Which bank pays the highest interest rate this month."),
+ ("Where to deposit cash at no cost near home and work.", "Which app has the most downloads and best ratings.", "Which bank pays the highest interest rate this month."),
 ],
 "M2 U05": [
  ("Check the status and the receipt before repeating it.", "Repeat it, because if it goes through twice it's refunded.", "Close the account and open another one at another bank."),
@@ -108,7 +108,7 @@ CASOS = {
 ],
 "M2 U08": [
  ("Compare three quotes from the same day and base.", "Stay with the app because it already had a promotion.", "Always choose the one that charges no fee."),
- ("About 3 dollars in tax, and maybe the fee.", "Nothing: paying in cash or from an account costs the same.", "The whole transfer, because it's free from an account."),
+ ("About 3 dollars in tax, and maybe the fee.", "Nothing: paying in cash or from an account costs the same.", "The whole transfer, because it costs nothing from an account."),
  ("No, but there are fees and charges to receive.", "Yes, the same as when sending to Mexico.", "No, and that's why sending costs nothing at all."),
 ],
 "M2 U09": [
@@ -192,7 +192,7 @@ CASOS = {
  ("Not pay without seeing the place or verifying the owner.", "Pay quickly to hold the apartment.", "Pay only half and the rest on arrival."),
 ],
 "M4 U02": [
- ("She takes her to accredited representatives, who advise for free.", "She advises paying quickly to secure a spot in line.", "She lends money so it can be paid to the office in installments."),
+ ("She takes her to accredited representatives, who advise at no cost.", "She advises paying quickly to secure a spot in line.", "She lends money so it can be paid to the office in installments."),
  ("Hangs up and calls the cousin and the family.", "Buys the gift cards to help.", "Gives personal information so they can verify."),
  ("A false application is a crime and can lead to deportation.", "None: it's a quick process lots of people use.", "Only losing the fee if the permit isn't approved."),
 ],
@@ -273,7 +273,7 @@ CASOS = {
 ],
 "M5 U07": [
  ("She uses e-SAR or AforeMóvil with her CURP.", "She pays a middleman to look for it.", "She travels to Mexico to ask in person."),
- ("He doesn't accept: the procedures are free.", "He accepts, because it's faster and easier.", "He negotiates the fee down to 15% of the balance."),
+ ("He doesn't accept: the procedures cost nothing.", "He accepts, because it's faster and easier.", "He negotiates the fee down to 15% of the balance."),
  ("No: to add weeks she must ask IMSS.", "Yes: every contribution adds contribution weeks.", "No, and she can't do anything from the U.S."),
 ],
 "M5 U08": [

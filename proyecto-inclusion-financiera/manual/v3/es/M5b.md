@@ -37,7 +37,7 @@ Actualizó a sus beneficiarios y apartó una aportación voluntaria pequeña cad
 * fa-plus-circle | Aportar | Aportaciones voluntarias con tarjeta o en tiendas. | Montos pequeños. | si
 * fa-exchange | Cambiarte de AFORE | Si otra te conviene más. | Compara comisiones y rendimientos. | igual
 
-Todo es gratis. Nadie te debe cobrar por usar la app.
+Nada tiene costo. Nadie te debe cobrar por usar la app.
 
 > **Antes de actuar, verifica:** que estés en la app oficial de CONSAR y no en una copia. Nunca pagues para registrarte.
 
@@ -69,7 +69,7 @@ Por eso, tus semanas en México y tus créditos en EE. UU. se revisan por separa
 --- tema | fa-shield | Cuidado con los gestores
 Hay personas que ofrecen "recuperar tu AFORE" o "adelantar tu pensión" a cambio de un porcentaje o de tus datos.
 
-Los trámites con tu AFORE, con CONSAR y con el IMSS son gratuitos. No compartas tu CURP, tu NSS ni tus contraseñas con gestores.
+Los trámites con tu AFORE, con CONSAR y con el IMSS no tienen costo. No compartas tu CURP, tu NSS ni tus contraseñas con gestores.
 
 --- tema | fa-users | Retiros por desempleo
 Algunas cuentas permiten un retiro parcial por desempleo. Hacerlo te reduce semanas de cotización.
@@ -81,7 +81,7 @@ Antes de retirar, pregunta cuántas semanas perderías y si te conviene.
 --- tema | fa-bar-chart | Compara tu AFORE
 Las AFORE cobran comisiones distintas y tienen rendimientos distintos. CONSAR publica cada año una comparación.
 
-Si tu AFORE tiene rendimiento bajo, puedes cambiarte, en general una vez al año. El cambio es gratuito y se hace desde AforeMóvil o en la nueva AFORE.
+Si tu AFORE tiene rendimiento bajo, puedes cambiarte, en general una vez al año. El cambio no tiene costo y se hace desde AforeMóvil o en la nueva AFORE.
 
 No te cambies por un regalo o una promesa de un agente. Compara con los datos de CONSAR.
 
@@ -92,7 +92,7 @@ Rosa no sabe en qué AFORE está.
 
 ### Caso 2. El gestor de Luis
 Un gestor le ofrece a Luis "liberar su AFORE" por 30% del saldo.
-? ¿Qué hace Luis? || No acepta. Los trámites son gratuitos y los hace él mismo con su AFORE o con CONSAR.
+? ¿Qué hace Luis? || No acepta. Los trámites no tienen costo y los hace él mismo con su AFORE o con CONSAR.
 
 ### Caso 3. Semanas o ahorro
 Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
@@ -101,7 +101,7 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 --- errores
 * No revisar tu AFORE | No sabes lo que tienes | Consulta con tu CURP
 * No actualizar beneficiarios | Trámite largo para tu familia | Actualízalos
-* Pagar a un gestor | Pierdes dinero o tus datos | Hazlo tú, es gratis
+* Pagar a un gestor | Pierdes dinero o tus datos | Hazlo tú, no tiene costo
 * Creer que aportar suma semanas | Planeas mal tu pensión | Pregunta al IMSS
 
 == practica
@@ -113,7 +113,7 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 1. ¿Pierdes tu AFORE por vivir en EE. UU.? a) Sí · b) No · c) Sí, después de 5 años
 2. ¿Qué necesitas para localizarla? a) Tu ITIN · b) Tu CURP · c) Tu número de matrícula consular
 3. ¿Un gestor que cobra por "liberar tu AFORE" es necesario? a) Sí · b) No · c) Solo si vives fuera
-respuestas: 1-b: sigue siendo tuya. 2-b: la CURP. 3-b: los trámites son gratuitos.
+respuestas: 1-b: sigue siendo tuya. 2-b: la CURP. 3-b: los trámites no tienen costo.
 
 --- ponlo
 Escribe los tres datos que necesitas para revisar tu AFORE y a quién pondrías como beneficiario.
@@ -221,7 +221,7 @@ En septiembre, el "Mes del Testamento" en México suele ofrecer testamentos a me
 --- tema | fa-balance-scale | Ayuda legal de bajo costo
 No necesitas pagar mucho para preparar documentos básicos. Busca:
 
-- Clínicas legales gratuitas de organizaciones comunitarias.
+- Clínicas legales sin costo de organizaciones comunitarias.
 - Centros de autoayuda de las cortes de California.
 - Abogados o representantes acreditados por el DOJ para temas migratorios.
 
@@ -514,7 +514,7 @@ Si ganas 400 o más en el año como trabajador por tu cuenta, generalmente debes
 
 Aparta una parte de cada venta y pide ayuda en un centro VITA o con un preparador certificado (M4 U04).
 
-> **Dato adicional:** los centros de desarrollo de pequeños negocios (SBDC) y muchas organizaciones comunitarias ofrecen asesoría gratis en español para empezar un negocio.
+> **Dato adicional:** los centros de desarrollo de pequeños negocios (SBDC) y muchas organizaciones comunitarias ofrecen asesoría sin costo en español para empezar un negocio.
 
 --- tema | fa-users | Préstamos para negocio
 Algunas instituciones comunitarias (CDFI) y programas de microcréditos prestan con ITIN a negocios pequeños.
@@ -568,7 +568,7 @@ Abre una cuenta para tu negocio, registra tus ventas y gastos por un mes y pregu
 == recursos
 - **Empezar un negocio en California** (CalGold · inglés): https://www.calgold.ca.gov | Qué buscar: escribe tu ciudad y tu tipo de negocio para ver los permisos que necesitas.
 - **Impuesto de franquicia de la LLC** (FTB · inglés): https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html | Qué buscar: el impuesto anual mínimo de 800 y cuándo se paga.
-- **Centros de desarrollo de pequeños negocios** (SBA · español e inglés): https://www.sba.gov/local-assistance | Qué buscar: escribe tu código postal para encontrar asesoría gratis cerca de ti.
+- **Centros de desarrollo de pequeños negocios** (SBA · español e inglés): https://www.sba.gov/local-assistance | Qué buscar: escribe tu código postal para encontrar asesoría sin costo cerca de ti.
 - **Comida hecha en casa** (Departamento de Salud Pública de California · inglés): https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx | Qué buscar: la lista de alimentos permitidos y cómo registrarte en tu condado.
 
 == palabras
@@ -650,10 +650,10 @@ Hacer algo pequeño hoy te ayuda a seguir mañana. El plan crece con cada paso.
 | Mis metas | Tres metas con monto, fecha y prioridad |
 | Mi protección | Seguros, beneficiarios, documentos |
 | Mis próximos pasos | Tres acciones con fecha |
-| Mi ayuda | A quién puedo pedir orientación gratis |
+| Mi ayuda | A quién puedo pedir orientación sin costo |
 
 --- tema | fa-life-ring | Tu red de apoyo
-Guarda los contactos de ayuda gratuita que conociste en el programa: centros VITA, consejeros de vivienda, consejería de crédito sin fines de lucro, tu consulado, abogados o representantes acreditados.
+Guarda los contactos de ayuda sin costo que conociste en el programa: centros VITA, consejeros de vivienda, consejería de crédito sin fines de lucro, tu consulado, abogados o representantes acreditados.
 
 No tienes que hacerlo solo.
 
@@ -723,11 +723,11 @@ Escribe tu plan de una página y ponle una fecha de revisión. ¡Felicidades por
 == recursos
 - **Your Money, Your Goals** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/ | Qué buscar: las herramientas de metas, presupuesto y plan de acción para imprimir.
 - **Money Smart para adultos** (FDIC · español e inglés): https://www.fdic.gov/consumer-resource-center/money-smart-adults | Qué buscar: los módulos que quieras repasar.
-- **Buscar un consejero de crédito** (NFCC · español e inglés): https://www.nfcc.org | Qué buscar: consejería gratuita o de bajo costo sin fines de lucro.
+- **Buscar un consejero de crédito** (NFCC · español e inglés): https://www.nfcc.org | Qué buscar: consejería sin costo o de bajo costo sin fines de lucro.
 
 == palabras
 - *Plan financiero:* tus metas y pasos por escrito.
-- *Red de apoyo:* personas e instituciones que te orientan gratis.
+- *Red de apoyo:* personas e instituciones que te orientan sin costo.
 
 == fuentes
 CFPB, Your Money, Your Goals · FDIC, Money Smart · NFCC.

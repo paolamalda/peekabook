@@ -2,7 +2,7 @@
 
 Manual del programa · Versión 1.2 · Desarrolla Talento · 29 de septiembre de 2026
 
-Educación financiera para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
+Programa de bienestar financiero para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
 
 [[TOC]]
 
@@ -119,7 +119,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M4 U06 · Robo de identidad** Cuidar INE, CURP y firma; líneas a tu nombre; bloqueo en Buró de Crédito.
 
-**M4 U07 · Que dejen de llamarte: REPEP y REUS** Registros gratuitos contra la publicidad y qué no cubren.
+**M4 U07 · Que dejen de llamarte: REPEP y REUS** Registros sin costo contra la publicidad y qué no cubren.
 
 **M4 U08 · Si ya te pasó: tu plan de respuesta** Bloquear, llamar al número oficial, reclamar por escrito, CONDUSEF, 088 y denuncia.
 
@@ -135,7 +135,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M5 U05 · Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses** Estado de cuenta, CAT, meses sin intereses y tarjetas adicionales.
 
-**M5 U06 · Tu historial de crédito: Buró, Círculo y ser aval** Reporte gratis una vez al año, reclamaciones gratuitas, despachos fraudulentos y responsabilidad del aval.
+**M5 U06 · Tu historial de crédito: Buró, Círculo y ser aval** Reporte sin costo una vez al año, reclamaciones sin costo, despachos fraudulentos y responsabilidad del aval.
 
 **M5 U07 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?** Diferencia entre aval, obligado solidario, fiador, garantía y referencia personal; qué te pueden cobrar; cobranza y REDECO; cómo decir que no.
 
@@ -275,12 +275,12 @@ Cada lección toma de 10 a 15 minutos (5 si solo se lee lo esencial), más la ac
 | P07 | Modalidad 40 | Requiere al menos 52 semanas cotizadas en los últimos 5 años al darse de baja, dentro de los plazos de conservación de derechos; cuota de 14.438% en 2026, sube hasta 18.8% en 2030 | LSS art. 218; IMSS |
 | P08 | Pensión de viudez | En general, 90% de la pensión que recibía o habría recibido la persona fallecida | LSS; IMSS |
 | P09 | Fraude | 72,873 asuntos por posible fraude en CONDUSEF durante 2025; en enero-marzo de 2026, 37.4% de las reclamaciones se relacionaron con un posible fraude | CONDUSEF |
-| P10 | REPEP y REUS | REPEP gratis, 30 días, sin vencimiento; REUS hasta 45 días, dura dos años | Profeco; CONDUSEF |
-| P11 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
+| P10 | REPEP y REUS | REPEP sin costo, 30 días, sin vencimiento; REUS hasta 45 días, dura dos años | Profeco; CONDUSEF |
+| P11 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación sin costo | Comisión Reguladora de Telecomunicaciones |
 | P12 | Tope de deducciones personales | El menor entre 5 UMA anuales (213,973.20 pesos en 2026) y 15% de los ingresos | LISR art. 151 |
 | P13 | Asesores en inversiones | Deben estar en el Registro de Asesores en Inversiones de la CNBV | CNBV |
 | P14 | Jubilación ISSSTE, décimo transitorio | En 2026 y 2027: mujeres 56 años y 28 de servicio; hombres 58 años y 30 de servicio; baja gradualmente hasta 53 y 55 años en 2034 | Decreto DOF 24-jun-2025; ISSSTE |
 | P15 | Viudez ISSSTE | 100% de la pensión que recibía o le habría correspondido a la persona fallecida; si falleció en activo por causas ajenas al trabajo, al menos 3 años cotizados | Ley del ISSSTE; ISSSTE |
-| P16 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir los documentos e información; reclamación gratuita en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
+| P16 | Pago de siniestros | La aseguradora tiene 30 días para pagar después de recibir los documentos e información; reclamación sin costo en CONDUSEF | Ley sobre el Contrato de Seguro; CONDUSEF |
 
 **Datos que se confirman en cada sesión o renovación:** precios de pólizas, tasas de Cetes, costos notariales y montos de programas sociales.

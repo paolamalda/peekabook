@@ -84,7 +84,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M2 U03 · Quién te protege y dónde reclamar** CONDUSEF, UNE y verificación de instituciones.
 
-**M2 U04 · ¿A quién le crees? Información confiable y cambios que te afectan** Fuentes oficiales, publicidad y rumores; orientación gratuita; ajustar el plan cuando suben precios o cambian reglas.
+**M2 U04 · ¿A quién le crees? Información confiable y cambios que te afectan** Fuentes oficiales, publicidad y rumores; orientación sin costo; ajustar el plan cuando suben precios o cambian reglas.
 
 **M2 U05 · El dinero pierde valor: inflación e interés compuesto** Inflación, meta del Banco de México, tasa real e interés compuesto en el ahorro y en las deudas.
 
@@ -108,7 +108,7 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M5 U01 · Qué es el Buró de Crédito** Mitos y realidades.
 
-**M5 U02 · Tu reporte gratis y cómo reclamar**
+**M5 U02 · Tu reporte sin costo y cómo reclamar**
 
 **M5 U03 · Cómo mejorar tu historial** Y despachos que «limpian»: fraude.
 
@@ -165,8 +165,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | CONASAMI | https://www.gob.mx/conasami | Salarios mínimos |
 | CONDUSEF | https://www.condusef.gob.mx | SIPRES, fraudes, simuladores, reclamaciones |
 | Banco de México | https://www.banxico.org.mx | Cuentas básicas, CAT, CEP |
-| Buró de Crédito | https://www.burodecredito.com.mx | Reporte gratis |
-| Círculo de Crédito | https://www.circulodecredito.com.mx | Reporte gratis |
+| Buró de Crédito | https://www.burodecredito.com.mx | Reporte sin costo |
+| Círculo de Crédito | https://www.circulodecredito.com.mx | Reporte sin costo |
 | CONSAR | https://www.gob.mx/consar | Ahorro voluntario |
 | e-SAR | https://www.e-sar.com.mx | Localizar tu AFORE |
 | Guardia Nacional | 088 | Fraudes en línea |
@@ -186,9 +186,9 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 | G02 | Cuenta básica | Los bancos deben ofrecer una cuenta sin comisiones por apertura, manejo, retiros y consultas en sus cajeros; nivel 2 hasta unos 26,000 pesos de depósitos al mes | LIC art. 48 Bis 2; Banxico |
 | G03 | Aportaciones voluntarias a la AFORE | Desde 50 pesos en tiendas con tu CURP; también por AforeMóvil | CONSAR |
 | G04 | Préstamos «gota a gota» y apps montadeudas | Intereses de hasta 20% diario o semanal, acoso y extorsión; CONDUSEF recomienda no pagar a apps fraudulentas y verificar en el SIPRES | CONDUSEF; medios |
-| G05 | Reporte de crédito | Uno gratis al año en Buró de Crédito y otro en Círculo de Crédito | Sitios oficiales |
+| G05 | Reporte de crédito | Uno sin costo al año en Buró de Crédito y otro en Círculo de Crédito | Sitios oficiales |
 | G06 | Fraude | 72,873 asuntos por posible fraude en CONDUSEF durante 2025 | CONDUSEF |
 | G07 | Seguro de depósitos | 400,000 UDIS por persona y por banco | IPAB |
-| G08 | REPEP y REUS | REPEP gratis, 30 días, no vence; REUS gratis, hasta 45 días, dura dos años | Profeco; CONDUSEF |
-| G09 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación gratuitas | Comisión Reguladora de Telecomunicaciones |
+| G08 | REPEP y REUS | REPEP sin costo, 30 días, no vence; REUS sin costo, hasta 45 días, dura dos años | Profeco; CONDUSEF |
+| G09 | Líneas móviles y CURP | Registro obligatorio en 2026, plazo final 31-dic-2026; consulta y desvinculación sin costo | Comisión Reguladora de Telecomunicaciones |
 | G10 | Infonavit, modelo de 100 puntos | 1 a 2 salarios mínimos, 6 meses seguidos cotizando y sin vivienda propia; tasa fija de 3.69% a 10.45% según salario | Infonavit; medios |

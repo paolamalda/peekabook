@@ -25,7 +25,7 @@ Para el equipo que modera los foros, el canal y la línea de apoyo. Versión 1.0
 |---|---|---|
 | Publica cuenta, INE, CURP o captura | Retirar la publicación | "Retiramos tu publicación porque tenía datos personales. Puedes volver a preguntar con números inventados o redondeados." |
 | Ofrece inversiones, préstamos o asesores | Retirar y advertir | "En la comunidad no se permiten ofertas de inversiones, préstamos ni asesores. Revisa las reglas en el capítulo 2." |
-| Recomienda un gestor de pensiones o del SAT | Retirar y explicar | "Los trámites del IMSS, la AFORE y el SAT son gratuitos y se hacen sin gestores (M7 y M9)." |
+| Recomienda un gestor de pensiones o del SAT | Retirar y explicar | "Los trámites del IMSS, la AFORE y el SAT no tienen costo y se hacen sin gestores (M7 y M9)." |
 | Pide ayuda para operar su app | Explicar y canalizar | "Te explicamos los pasos en la línea de apoyo o en la sesión; tú los haces desde tu celular. Nunca compartas tu pantalla con desconocidos." |
 | Fraude en curso | Responder de inmediato | "Bloquea tus tarjetas y accesos desde la app o el número de atrás de tu tarjeta, reclama por escrito, acude a la CONDUSEF y reporta al 088 (M4 U08)." |
 | Extorsión telefónica | Responder de inmediato | "Cuelga y localiza a tu familiar por otro medio. Si hay riesgo, 911; puedes denunciar en el 089 (M4 U04)." |

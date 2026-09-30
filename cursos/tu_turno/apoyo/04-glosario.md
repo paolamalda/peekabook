@@ -17,7 +17,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **CLABE:** número de 18 dígitos para recibir transferencias.
 - **Comprobante:** prueba de que hiciste un pago.
-- **CONDUSEF:** institución del gobierno que orienta y defiende gratis a los usuarios de bancos y otras financieras.
+- **CONDUSEF:** institución del gobierno que orienta y defiende sin costo a los usuarios de bancos y otras financieras.
 - **Cuenta básica:** cuenta sin comisiones por apertura, manejo, retiros y consultas en los cajeros del banco.
 - **Folio:** número de tu reclamación.
 - **Portabilidad de nómina:** cambiar tu cuenta de nómina a otro banco sin costo.
@@ -86,7 +86,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **AFORE:** administradora que guarda e invierte tu ahorro para el retiro.
 - **Aportación voluntaria:** ahorro extra que haces tú en tu AFORE.
 - **Costo:** lo que gastas para poder vender.
-- **Coyote:** intermediario que cobra por trámites que son gratuitos.
+- **Coyote:** intermediario que cobra por trámites que no tienen costo.
 - **Ganancia:** lo que te queda después de pagar los costos.
 - **Plan de una página:** resumen de tus decisiones de dinero en una sola hoja.
 - **Precalificación:** puntos que indican si ya puedes pedir un crédito de vivienda.

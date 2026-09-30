@@ -24,7 +24,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Declaración anual:** La declaración de abril en la que calculas tus impuestos de todo el año.
 - **Deducciones autorizadas:** Gastos necesarios para tu actividad, con factura a tu nombre, que la ley permite restar de tus ingresos.
 - **IVA acreditable:** IVA de tus gastos de trabajo que puedes restar del IVA que cobraste.
-- **PRODECON:** Procuraduría de la Defensa del Contribuyente: orienta y defiende gratis a las personas frente al SAT.
+- **PRODECON:** Procuraduría de la Defensa del Contribuyente: orienta y defiende sin costo a las personas frente al SAT.
 - **Régimen fiscal:** La forma en que el SAT te pide calcular y pagar tus impuestos según tu actividad.
 - **Saldo a favor:** impuesto que pagaste de más.
 - **Utilidad:** ingresos menos gastos deducibles.
@@ -36,7 +36,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Comunicación pública:** uso de una obra en radio, TV o lugares públicos.
 - **Estado de cuenta:** detalle de lo que cobró y te entrega.
 - **Exclusividad:** prohibición de trabajar con competidores.
-- **PROFEDET:** defensoría gratuita de las personas trabajadoras.
+- **PROFEDET:** defensoría sin costo de las personas trabajadoras.
 - **Regalías:** pagos por el uso de tus obras o interpretaciones.
 - **Relación laboral:** trabajo con órdenes, horario y pago periódico.
 - **Sindicato:** organización que defiende tus condiciones de trabajo.
@@ -99,7 +99,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Folio:** número para dar seguimiento a tu trámite.
 - **Forma de pago:** registro de puntualidad o atraso de cada periodo.
 - **Reclamación:** Solicitud para que se revise y corrija un registro incorrecto en tu reporte.
-- **Reporte de Crédito Especial:** Tu reporte de crédito que puedes pedir gratis una vez cada 12 meses en cada sociedad.
+- **Reporte de Crédito Especial:** Tu reporte de crédito que puedes pedir sin costo una vez cada 12 meses en cada sociedad.
 - **RFC:** tu Registro Federal de Contribuyentes.
 - **Score crediticio:** Número que calcula una sociedad de información crediticia para estimar qué tan probable es que pagues a tiempo.
 - **Sociedades de información crediticia:** Empresas autorizadas que guardan el historial de cómo pagas tus créditos y lo comparten con quien tú autorizas.

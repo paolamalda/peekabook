@@ -177,7 +177,7 @@ Presentar una solicitud falsa ante USCIS es un delito grave y puede llevarte a u
 --- paso | fa-user | Un caso en un minuto
 Rosa quería ayudar a su nieta con un trámite y encontró en redes a un "asesor" que cobraba 800 dólares.
 
-Antes de pagar, buscó su nombre en el State Bar y en la lista del DOJ. No aparecía en ninguna. Llamó a una organización reconocida en Fresno y le dieron una cita gratis.
+Antes de pagar, buscó su nombre en el State Bar y en la lista del DOJ. No aparecía en ninguna. Llamó a una organización reconocida en Fresno y le dieron una cita sin costo.
 
 --- pasos | fa-check-square-o | Hazlo esta semana
 1. Busca en la lista del DOJ una organización reconocida cerca de ti.
@@ -213,13 +213,13 @@ Las agencias del gobierno **no** te piden pagos así. Cuelga y verifica en la p�
 | Señal | Por qué es peligrosa |
 |---|---|
 | Garantizan el resultado | Nadie puede garantizar lo que decide el gobierno |
-| Cobran por formularios gratuitos | Los formularios de USCIS se descargan gratis |
+| Cobran por formularios sin costo | Los formularios de USCIS se descargan sin costo |
 | Te piden firmar en blanco o con datos falsos | Pueden meterte en un delito |
 | Se quedan con tus originales | Pierdes documentos importantes |
 | No te dan contrato ni recibo | No tienes cómo reclamar |
 | Venden "programas nuevos" por redes | Casi siempre son falsos |
 
-> **Dato adicional:** los formularios de USCIS son gratuitos en uscis.gov. Si alguien te cobra por el formulario, te está cobrando por algo que no cuesta.
+> **Dato adicional:** los formularios de USCIS no tienen costo en uscis.gov. Si alguien te cobra por el formulario, te está cobrando por algo que no cuesta.
 
 --- tema | fa-bullhorn | Dónde reportar
 Al State Bar de California, a la Procuraduría General de California y a la FTC (ReporteFraude.ftc.gov).
@@ -237,7 +237,7 @@ En California, los consultores de inmigración deben darte un contrato por escri
 --- casos
 ### Caso 1. La vecina de Mar
 Una oficina de "Notaria – Inmigración" promete a la vecina de Mar "papeles en 6 meses" por 5,000 dólares.
-? ¿Qué hace Mar? || La acompaña a una organización con representantes acreditados, que revisa su caso gratis.
+? ¿Qué hace Mar? || La acompaña a una organización con representantes acreditados, que revisa su caso sin costo.
 
 ### Caso 2. La llamada de "ICE"
 Alex recibe una llamada: su primo está detenido y debe pagar 2,000 en tarjetas de regalo para liberarlo.
@@ -284,7 +284,7 @@ Guarda el contacto de una organización con representantes acreditados o un serv
 - *Consultor de inmigración:* puede hacer tareas no legales si está registrado.
 
 == fuentes
-[R23] State Bar de California · [R37] Secretaría de Estado de California, consultores de inmigración · [R38] DOJ EOIR · [R47] Procuraduría General de California · USCIS, formularios gratuitos.
+[R23] State Bar de California · [R37] Secretaría de Estado de California, consultores de inmigración · [R38] DOJ EOIR · [R47] Procuraduría General de California · USCIS, formularios sin costo.
 
 
 # M4 U03 | ¿Qué protege mis cuentas además de una contraseña?
@@ -451,7 +451,7 @@ No te culpes. Estas estafas están hechas para engañar a cualquiera. Lo importa
 5. **Guarda pruebas:** mensajes, comprobantes y una cronología.
 
 --- paso | fa-snowflake-o | Congela tu crédito
-**{{Congelar tu crédito|Bloquear gratis tu reporte para que nadie pueda abrir cuentas nuevas a tu nombre.}}** es gratis en las tres agencias. Impide que abran cuentas nuevas a tu nombre.
+**{{Congelar tu crédito|Bloquear sin costo tu reporte para que nadie pueda abrir cuentas nuevas a tu nombre.}}** no tiene costo en las tres agencias. Impide que abran cuentas nuevas a tu nombre.
 
 No protege tus cuentas actuales ni borra deudas, pero cierra la puerta a nuevos fraudes. Lo puedes quitar cuando necesites pedir un crédito.
 
@@ -487,7 +487,7 @@ En **IdentityTheft.gov** creas un reporte y recibes un plan de recuperación pas
 - **Congelamiento:** nadie puede abrir crédito nuevo con tu nombre. Se pide en cada una de las tres agencias.
 - **Alerta de fraude:** las empresas deben verificar tu identidad antes de abrir algo a tu nombre. Se pide en una agencia y ella avisa a las otras dos.
 
-Las dos son gratis.
+Las dos no tienen costo.
 
 --- tema | fa-file-text-o | Tu hoja de incidente
 Anota en una hoja:
@@ -510,7 +510,7 @@ El congelamiento se pide en la página de cada agencia: Equifax, Experian y Tran
 Cuando necesites pedir un crédito o rentar, lo "descongelas" temporalmente en minutos y luego lo vuelves a congelar. No cuesta nada.
 
 --- tema | fa-child | Los datos de tus hijos
-Los niños también pueden ser víctimas de robo de identidad. Puedes congelar el crédito de tus hijos menores en las tres agencias, gratis.
+Los niños también pueden ser víctimas de robo de identidad. Puedes congelar el crédito de tus hijos menores en las tres agencias, sin costo.
 
 No compartas sus números de Seguro Social ni fotos de sus documentos.
 
@@ -554,7 +554,7 @@ Prepara una hoja de incidentes y una lista de contactos oficiales, sin números 
 
 == recursos
 - **Robo de identidad** (FTC · español e inglés): https://www.identitytheft.gov | Qué buscar: "Reportar robo de identidad" para crear tu reporte y tu plan de recuperación personalizado.
-- **Congelar tu crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: los enlaces a Equifax, Experian y TransUnion para congelar gratis.
+- **Congelar tu crédito** (CFPB · español e inglés): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | Qué buscar: los enlaces a Equifax, Experian y TransUnion para congelar sin costo.
 - **Reportar un fraude** (FTC · español): https://reportefraude.ftc.gov | Qué buscar: el formulario para reportar el fraude aunque ya hayas avisado a tu banco.
 
 == palabras
@@ -599,7 +599,7 @@ Busca orientación confidencial desde un dispositivo y un momento seguros.
 > **Idea clave:** reconocerlo no te obliga a contar tu vida privada. Para aprobar este curso no tienes que confrontar a nadie ni contar tu historia.
 
 --- paso | fa-phone | Dónde pedir apoyo
-La **Línea Nacional contra la Violencia Doméstica** atiende 24 horas, gratis, confidencial y en español: **1-800-799-7233**.
+La **Línea Nacional contra la Violencia Doméstica** atiende 24 horas, sin costo, confidencial y en español: **1-800-799-7233**.
 
 Si hay peligro inmediato, llama al **911**.
 

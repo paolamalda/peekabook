@@ -27,8 +27,8 @@ Para el equipo que modera los foros y el canal. Versión 1.0 · Septiembre de 20
 | Ofrece préstamos, inversiones o tandas | Retirar y advertir | "En la comunidad no se permiten ofertas financieras. Revisa las reglas en el capítulo 2." |
 | Ofrece facturas o «bajar impuestos» | Retirar, advertir y avisar a coordinación | "La compra y venta de facturas es ilegal y no se permite en la comunidad (M5 U03)." |
 | Promociona su negocio fuera de su foro o más de una vez al mes | Mover o retirar | "Te pedimos usar **Presenta tu negocio**, una vez al mes. ¡Gracias por compartir!" |
-| Recomienda un gestor del SAT o del IMSS | Retirar y explicar | "Los trámites del SAT y del IMSS son gratuitos y se hacen en sus sitios oficiales (M5 U01 y M7 U01)." |
-| Pide que revisemos su declaración o su régimen | Responder lo general y canalizar | "Tu caso depende de tus datos. Te sugerimos el SAT o PRODECON, que orientan gratis; la lección [lección] te ayuda a llevar tus preguntas." |
+| Recomienda un gestor del SAT o del IMSS | Retirar y explicar | "Los trámites del SAT y del IMSS no tienen costo y se hacen en sus sitios oficiales (M5 U01 y M7 U01)." |
+| Pide que revisemos su declaración o su régimen | Responder lo general y canalizar | "Tu caso depende de tus datos. Te sugerimos el SAT o PRODECON, que orientan sin costo; la lección [lección] te ayuda a llevar tus preguntas." |
 | Fraude al vender en curso | Responder de inmediato | "Guarda evidencia, reporta a tu banco o proveedor de pagos, reclama por escrito con folio y denuncia al 088 (M4 U03)." |
 | Extorsión o «cobro de piso» | Responder de inmediato | "No negocies y cuelga. Denuncia al 089 o al 088; si hay riesgo, 911 (M7 U03)." |
 | Conflicto laboral con un trabajador | Responder lo general y canalizar | "Las obligaciones como patrón se revisan con el IMSS, el SAT y un profesional (M8 U01)." |

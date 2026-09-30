@@ -43,7 +43,7 @@ CASOS = {
 "M2 U03": [
  ("Reclama con folio y luego va a la CONDUSEF.", "Acepta que no se puede quitar y sigue pagando.", "Deja de pagar la tarjeta en protesta."),
  ("Busca la financiera en el SIPRES.", "Pide el préstamo porque tiene muchos seguidores.", "Pide el préstamo pequeño para probar."),
- ("Reclama él mismo gratis.", "Paga los 500 para que se lo arreglen.", "Paga la mitad y el resto al terminar el trámite con el banco."),
+ ("Reclama él mismo sin costo.", "Paga los 500 para que se lo arreglen.", "Paga la mitad y el resto al terminar el trámite con el banco."),
 ],
 "M2 U04": [
  ("Lo confirma en CONDUSEF y no lo reenvía.", "Saca todo su dinero del banco hoy mismo.", "Lo reenvía a todos para que se cuiden."),
@@ -86,13 +86,13 @@ CASOS = {
  ("No lo acepta en los primeros turnos.", "Le da el primer turno para ayudarlo.", "Le da el primer turno si deja su credencial."),
 ],
 "M5 U01": [
- ("Pide su reporte gratis para ver qué hay.", "Da por hecho que nunca le prestarán.", "Paga a alguien para que lo saque de la lista."),
+ ("Pide su reporte sin costo para ver qué hay.", "Da por hecho que nunca le prestarán.", "Paga a alguien para que lo saque de la lista."),
  ("Empieza con algo pequeño que pueda pagar.", "Pide muchos créditos hasta que le den uno.", "Deja de intentarlo para siempre."),
  ("Sigue pagando a tiempo; el registro se elimina con el tiempo.", "Reclama que borren el atraso ya.", "Paga a un despacho para borrarlo."),
 ],
 "M5 U02": [
  ("Reclama con su comprobante.", "Paga otra vez la deuda para que se borre.", "Lo deja así; ya lo pagó una vez y no quiere problemas."),
- ("Lo pide gratis en el sitio oficial.", "Paga los 200; es más rápido.", "Pide a un amigo que lo saque por él."),
+ ("Lo pide sin costo en el sitio oficial.", "Paga los 200; es más rápido.", "Pide a un amigo que lo saque por él."),
  ("Reclama la consulta y revisa sus datos.", "Ignora la consulta.", "Llama a la financiera al número que encontró en un anuncio."),
 ],
 "M5 U03": [
@@ -157,7 +157,7 @@ CASOS = {
 ],
 "M8 U01": [
  ("Empieza con aportaciones pequeñas cada quincena.", "Espera a ganar más para empezar.", "Espera a cumplir 50 años."),
- ("La localiza gratis con su CURP.", "Paga a un gestor para encontrarla.", "Supone que no tiene AFORE y no busca."),
+ ("La localiza sin costo con su CURP.", "Paga a un gestor para encontrarla.", "Supone que no tiene AFORE y no busca."),
  ("Compara rendimientos en la CONSAR.", "Se cambia por la despensa.", "Se cambia y luego regresa si no le gusta el rendimiento."),
 ],
 "M8 U02": [
@@ -167,7 +167,7 @@ CASOS = {
 ],
 "M4 U03": [
  ("Revisa sus puntos en Mi Cuenta Infonavit.", "Supone que nunca podrá.", "Paga a un gestor para que revise."),
- ("No paga: el trámite es gratis.", "Paga los 3,000 para adelantarlo.", "Le da su contraseña al gestor."),
+ ("No paga: el trámite no tiene costo.", "Paga los 3,000 para adelantarlo.", "Le da su contraseña al gestor."),
  ("Si su presupuesto aguanta el descuento.", "Solo si la casa le gusta.", "Firma rápido para no perder la casa."),
 ],
 "M2 U05": [

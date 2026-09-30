@@ -15,7 +15,7 @@ $CATEGORY: $course$/Tu Negocio MX/M1
 ::M1 U01 P3::Tus ventas y tus costos son iguales. ¿Qué pasa? {
 	~Ganas poco, pero el negocio sí te deja algo #No es la mejor opción. No queda nada para ti.
 	~Pierdes dinero cada mes #No es la mejor opción. No queda nada para ti.
-	=Sales tablas\: trabajas gratis #¡Correcto! No queda nada para ti.
+	=Sales tablas\: trabajas sin cobrar #¡Correcto! No queda nada para ti.
 }
 
 ::M1 U02 P1::¿Desde dónde pagas los insumos? {
@@ -67,7 +67,7 @@ $CATEGORY: $course$/Tu Negocio MX/M1
 }
 
 ::M1 U04 P3::Una app te pide tu INE y foto de tu tarjeta. ¿Qué haces? {
-	~La usas si es gratis y tiene buenas reseñas en la tienda #No es la mejor opción. Pide de más.
+	~La usas si no tiene costo y tiene buenas reseñas en la tienda #No es la mejor opción. Pide de más.
 	=No la usas y eliges otra herramienta #¡Correcto! Pide de más.
 	~Mandas solo la tarjeta #No es la mejor opción. Pide de más.
 }
@@ -105,9 +105,9 @@ $CATEGORY: $course$/Tu Negocio MX/M2
 }
 
 ::M2 U01 P3::¿Tu sueldo es un costo del negocio? {
-	~No, es ganancia #No es la mejor opción. Sin él trabajas gratis.
-	~Solo si te sobra #No es la mejor opción. Sin él trabajas gratis.
-	=Sí, es un costo fijo #¡Correcto! Sin él trabajas gratis.
+	~No, es ganancia #No es la mejor opción. Sin él trabajas sin cobrar.
+	~Solo si te sobra #No es la mejor opción. Sin él trabajas sin cobrar.
+	=Sí, es un costo fijo #¡Correcto! Sin él trabajas sin cobrar.
 }
 
 ::M2 U02 P1::Tu costo es 70. ¿Cuál es el precio mínimo para un margen de 30% sobre el precio? {
@@ -279,9 +279,9 @@ $CATEGORY: $course$/Tu Negocio MX/M4
 $CATEGORY: $course$/Tu Negocio MX/M5
 
 ::M5 U01 P1::¿Cuánto cobra el SAT por inscribirte en el RFC? {
-	~Depende del gestor #No es la mejor opción. Es gratuito.
-	=Nada #¡Correcto! Es gratuito.
-	~1,500 #No es la mejor opción. Es gratuito.
+	~Depende del gestor #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! Es sin costo.
+	~1,500 #No es la mejor opción. Es sin costo.
 }
 
 ::M5 U01 P2::¿Dónde recibes avisos oficiales del SAT? {
@@ -523,15 +523,15 @@ $CATEGORY: $course$/Tu Negocio MX/M7
 }
 
 ::M7 U05 P2::¿Dónde revisas los créditos a tu nombre? {
-	=En tu reporte de Buró o Círculo #¡Correcto! Reporte gratis cada año.
-	~En tu estado de cuenta del banco #No es la mejor opción. Reporte gratis cada año.
-	~En el SAT #No es la mejor opción. Reporte gratis cada año.
+	=En tu reporte de Buró o Círculo #¡Correcto! Reporte sin costo cada año.
+	~En tu estado de cuenta del banco #No es la mejor opción. Reporte sin costo cada año.
+	~En el SAT #No es la mejor opción. Reporte sin costo cada año.
 }
 
 ::M7 U05 P3::¿Cuánto cuesta inscribirte en el REUS? {
-	~200 pesos al año #No es la mejor opción. Es gratuito.
-	~Depende del banco #No es la mejor opción. Es gratuito.
-	=Nada #¡Correcto! Es gratuito.
+	~200 pesos al año #No es la mejor opción. Es sin costo.
+	~Depende del banco #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! Es sin costo.
 }
 
 ::M7 U06 P1::Tu proveedor, con su misma voz, te pide pagar a una cuenta nueva. ¿Qué haces? {

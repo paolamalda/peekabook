@@ -27,7 +27,7 @@ Para el equipo que modera los foros y el canal. Versión 1.0 · Septiembre de 20
 | Ofrece préstamos o inversiones | Retirar y advertir | "En la comunidad no se permiten ofertas financieras. Revisa las reglas en el capítulo 2." |
 | Ofrece esquemas para «pagar menos impuestos» | Retirar, advertir y avisar a coordinación | "No se permiten esquemas fiscales en la comunidad. Tus impuestos, con un preparador o CPA (M5 U03)." |
 | Promociona su negocio fuera de su foro o más de una vez al mes | Mover o retirar | "Te pedimos usar **Presenta tu negocio**, una vez al mes. ¡Gracias por compartir!" |
-| Recomienda un «notario» o un sitio que cobra por el EIN | Retirar y explicar | "El EIN y el seller's permit son gratis en los sitios oficiales; para temas migratorios, solo abogados u organizaciones acreditadas (M5 U02)." |
+| Recomienda un «notario» o un sitio que cobra por el EIN | Retirar y explicar | "El EIN y el seller's permit no tienen costo en los sitios oficiales; para temas migratorios, solo abogados u organizaciones acreditadas (M5 U02)." |
 | Pide que revisemos su declaración o si abrir una LLC | Responder lo general y canalizar | "Tu caso depende de tus datos. Te sugerimos VITA, un preparador con PTIN o un SBDC; la lección [lección] te ayuda a llevar tus preguntas." |
 | Fraude al vender en curso | Responder de inmediato | "No regreses dinero, guarda evidencia, avisa a tu banco o procesador y reporta en ReportFraud.ftc.gov (M4 U03)." |
 | Extorsión o amenaza | Responder de inmediato | "No negocies y cuelga. Si hay riesgo, 911 o la policía local (M7 U03)." |

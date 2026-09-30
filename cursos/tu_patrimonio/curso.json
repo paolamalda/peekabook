@@ -4,7 +4,7 @@
  "subtitulo": "Versión 1.2 · Desarrolla Talento · Septiembre de 2026",
  "version": "1.2",
  "lang": "es",
- "intro": "Curso de educación financiera para mujeres que administran su casa y su patrimonio en México: 11 módulos, con la protección contra fraudes como eje.",
+ "intro": "Programa de bienestar financiero para mujeres que administran su casa y su patrimonio en México: 11 módulos, con la protección contra fraudes como eje.",
  "categoria": "Tu Patrimonio",
  "banco": "banco_preguntas_tptf.gift.txt",
  "min_leccion": [
@@ -42,7 +42,7 @@
   "02": "Cinco casos que reúnen lo aprendido. Resuélvelos antes de abrir la clave.",
   "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
   "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
-  "05": "Dónde pedir ayuda gratuita, y respuestas a las dudas más comunes.",
+  "05": "Dónde pedir ayuda sin costo, y respuestas a las dudas más comunes.",
   "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
  },
  "insignias": [
@@ -100,7 +100,7 @@
   "titulo": "Constancia de conclusión",
   "otorga": "Se otorga a",
   "nombre": "Nombre de la persona",
-  "texto": "por concluir el programa de educación financiera <b>Tu Patrimonio, Tu Tranquilidad, Tu Futuro</b>, con sus once módulos y autoevaluaciones aprobadas.",
+  "texto": "por concluir el programa de bienestar financiero <b>Tu Patrimonio, Tu Tranquilidad, Tu Futuro</b>, con sus once módulos y autoevaluaciones aprobadas.",
   "mods": [
    "Tu dinero y el sistema",
    "Seguridad y fraudes",
@@ -249,5 +249,15 @@
    ]
   ],
   "extra_readme": "\n## 9. Comunidad y acompañamiento (pregunta antes)\n\nEste curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe \"[por definir]\" y repórtalo).\n"
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Ordena tu patrimonio, protege tu dinero de fraudes y prepara tu retiro y el de tu familia.",
+   "Microlecciones con acompañamiento en grupo y práctica guiada en el celular."
+  ],
+  "para_quien": "Mujeres que administran su casa y su patrimonio en México.",
+  "idiomas": "Español"
  }
 }

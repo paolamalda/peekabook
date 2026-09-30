@@ -18,11 +18,11 @@ CASOS = {
 "M1 U04": [
  ("Pasa cada pago a su hoja el mismo día.", "Guarda las capturas y las suma en abril.", "Borra las capturas viejas para liberar espacio."),
  ("Anota fecha, destino, motivo y millas.", "Calcula las millas a ojo en abril.", "Guarda solo los recibos de gasolina."),
- ("No da su contraseña y elige otra opción.", "Se la da porque la app es gratis.", "Le da solo su número de Seguro Social."),
+ ("No da su contraseña y elige otra opción.", "Se la da porque la app no tiene costo.", "Le da solo su número de Seguro Social."),
 ],
 "M1 U05": [
  ("No toca ese dinero y busca ayuda.", "Usa los $300 y los repone después.", "Apuesta el doble para recuperar rápido."),
- ("Revisa que está prohibido y no usa el negocio.", "Compra el paquete: las monedas son gratis.", "Compra con la tarjeta del negocio."),
+ ("Revisa que está prohibido y no usa el negocio.", "Compra el paquete: las monedas no tienen costo.", "Compra con la tarjeta del negocio."),
  ("No se lo da y le comparte dónde pedir ayuda.", "Se lo da como adelanto de sueldo.", "Le presta con intereses."),
 ],
 "M1 U06": [
@@ -71,7 +71,7 @@ CASOS = {
  ("Calcula el pago con una tasa más alta.", "La firma: las tasas siempre bajan.", "Pide otra línea por si sube."),
 ],
 "M4 U01": [
- ("Calcula el costo total y lee el contrato.", "Lo acepta porque el lector es gratis.", "Rechaza cualquier lector por costoso."),
+ ("Calcula el costo total y lee el contrato.", "Lo acepta porque el lector no tiene costo.", "Rechaza cualquier lector por costoso."),
  ("Usa la opción de negocio conectada.", "Sigue en su app personal; nadie se da cuenta.", "Pide a todos que paguen en efectivo."),
  ("Comisión, depósito y contracargos.", "Solo el diseño del link de pago.", "Nada: los links siempre son seguros."),
 ],
@@ -91,7 +91,7 @@ CASOS = {
  ("Abre una cuenta solo de la LLC.", "Sigue igual; la LLC la protege siempre.", "Cierra la LLC para no complicarse."),
 ],
 "M5 U02": [
- ("Lo tramita gratis en irs.gov con su ITIN.", "Paga los $150 para ahorrar tiempo.", "Usa el EIN de una amiga."),
+ ("Lo tramita sin costo en irs.gov con su ITIN.", "Paga los $150 para ahorrar tiempo.", "Usa el EIN de una amiga."),
  ("Que necesita licencia de la CSLB.", "Nada: divide el trabajo en partes.", "Solo que el cliente le pague en efectivo."),
  ("Busca un abogado u organización acreditada.", "Le paga al notario porque habla español.", "Le paga la mitad para empezar."),
 ],
@@ -171,7 +171,7 @@ CASOS = {
  ("Revisa si el IRS pospuso las fechas.", "Paga la multa sin revisar.", "Deja de pagar impuestos ese año."),
 ],
 "M8 U01": [
- ("Se registra como empleadora.", "Le paga en efectivo como contratista.", "Le pide que trabaje gratis unos meses."),
+ ("Se registra como empleadora.", "Le paga en efectivo como contratista.", "Le pide que trabaje sin costo unos meses."),
  ("Que necesita licencia y compensación.", "Nada: el ayudante es su primo.", "Solo que el ayudante tenga ITIN."),
  ("Pide su W-9 y guarda la factura.", "Le envía un W-2 como empleado.", "No guarda nada porque fue poco."),
 ],

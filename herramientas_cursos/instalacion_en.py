@@ -9,7 +9,7 @@ def generar(D, CFG, lecciones):
     pts = (tot + 2 * nm) * 25
     sec_sup, sec_eval = nm + 1, nm + 2
     tit, short = CFG["titulo"], I["nombre_corto"]
-    cat, bank = CFG["categoria"], CFG["banco"]
+    cat, bank = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     rows_sec = "\n".join(f"| {i} | {t} | " + (f"Content of `1_books/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"
                          for i, (m, t) in enumerate(MODS.items(), 1))
     rows_book = "\n".join(f"| {m} | {n[m]} | {n[m] * 4} |" for m in MODS)
@@ -45,10 +45,14 @@ Rules:
 |---|---|
 | Full name | {tit} |
 | Short name | {short} |
-| Visibility | **Hide** |
-| Format | Topics, {sec_eval} sections |
+| Visibility | **Show** |
+| Format | **Tiles** if installed; otherwise Topics. {sec_eval} sections |
 | Completion tracking | Yes |
 | Force language | English |
+
+**Tiles format (if available):** in course settings, *Show progress on tiles*: **as a percentage**; one icon per module that fits its topic; the General section above the tiles. If Tiles doesn't exist, use Topics with "Show one section per page."
+
+**Enrolment:** *Enrolment methods* > enable **Self enrolment** with the **enrolment key** the person gives you (if you don't have it, leave "[TBD]" and report it). Turn off guest access.
 
 ## 2. Sections
 
@@ -103,25 +107,39 @@ Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesso
 
 **Check:** open 3 random activities with *Switch role to > Student*. You should see 3 cases, 3 options per case and the grade at the end.
 
-## 8. Level Up, badges, completion and certificate
+## 8. Program surveys
 
-Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with `5_badges/`), 4 (completion with the {nm} self-assessments) and 5 (certificate with `6_certificate/certificate_background.png`). If Level Up or Custom certificate does not exist, do not install it: skip that step and report it.
+`8_surveys/` has the surveys and their document `surveys.md`. Use the **Feedback** module in **anonymous** mode and, in each one, *Templates > Import questions* with its XML (if the import fails, build them by hand from `surveys.md`):
+
+| Activity | Section | File | Completion |
+|---|---|---|---|
+| `Start survey` | General | `survey_start.xml` | Submit |
+| `Final survey` | {sec_eval} | `survey_final.xml` | Submit; required for the certificate |
+| `30-day follow-up` | {sec_eval} | `survey_follow_up.xml` | Submit |
+| `90-day follow-up` | {sec_eval} | `survey_follow_up.xml` | Submit |
+
+Restrict the follow-ups by date: 30 and 90 days after the cohort's end date ("[TBD]"). The final survey is the program's evidence of results: don't skip it.
+
+## 9. Level Up, badges, completion and certificate
+
+Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with `5_badges/`; each name includes the course so it's unique on the platform), 4 (completion with the {nm} self-assessments) and 5 (certificate with the standard template and the data in `6_certificate/certificate.md`). If Level Up or Custom certificate does not exist, do not install it: skip that step and report it.
 {extra}
-## {10 if extra else 9}. Final review (as a student)
+## {11 if extra else 10}. Final review (as a student)
 
 - M1 U01: cover page first, two path buttons, colored terms with their meaning and "Current fact" or "Before you act, check" boxes.
 - One H5P per module opens, shows 3 cases and records a grade.
 - One self-assessment shows 3 options per question.
 - The support book shows "See the key" in the case studies and collapsible frequently asked questions.
 
-## {11 if extra else 10}. Report for the person
+## {12 if extra else 11}. Report for the person
 
-Course link; pages per book; H5P per module; questions per self-assessment; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of a cover page, an H5P, a self-assessment and the certificate preview.
+Course link; pages per book; H5P per module; questions per self-assessment; surveys created; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of the tiles home page, an H5P, a self-assessment and the certificate preview.
 
-The course stays **hidden**. The person decides when to show it.
+The course stays **visible**, with enrolment by key. For the catalog listing, use `catalog_card.md`.
 """
     levels = "\n".join(f"| {i} | {nom} | {p:,} | {when} |" for i, (nom, p, when) in enumerate(I["niveles"], 1))
-    bad = "\n".join(f"| {fn}.png | {nom} | {crit} | {desc} |" for (fn, tag, nom, icon), (crit, desc) in zip(CFG["insignias"], I["insignias_info"]))
+    bad = "\n".join(f"| {fn}.png | {nom} · {CFG['categoria']} | {crit} | {desc} |" for (fn, tag, nom, icon), (crit, desc) in zip(CFG["insignias"], I["insignias_info"]))
+    T = CFG["constancia"]; topics = "\n".join(f"   | Topic {i} | {t} |" for i, t in enumerate(T["mods"], 1))
     guide = f"""# Activities, points, badges and certificate guide · {tit}
 
 This guide is for Moodle 3.10 with Level Up (block_xp) 3.15.2 and the Custom certificate plugin (mod_customcert).
@@ -168,7 +186,7 @@ Completing the whole course gives about {pts:,} points:
 
 ## 3. Badges
 
-*Course administration > Badges > Add a new badge*. Images in `5_badges/`. Issuer: Desarrolla Talento. Expiry: never.
+*Course administration > Badges > Add a new badge*. Images in `5_badges/`. Issuer: Desarrolla Talento. Expiry: never. Names include the course so they're unique on the platform: use them exactly.
 
 | Image | Badge | Criterion (activity completion, with passing grade) | Description |
 |---|---|---|---|
@@ -182,20 +200,19 @@ When done, **enable** each badge.
 
 ## 5. Certificate of completion (Custom certificate)
 
-1. In the section "Assessment and certificate", add **Custom certificate**: name "Certificate of completion", A4 landscape (297 × 210 mm).
-2. **Restrict access:** one "Activity completion" condition for each of the {nm} self-assessments, "must be marked complete and pass".
-3. **Edit certificate:**
+1. In the section "Assessment and certificate", add **Custom certificate** using the **platform's standard template** (no background image): name "Certificate of completion".
+2. **Restrict access:** one "Activity completion" condition for each of the {nm} self-assessments, "must be marked complete and pass", and the **Final survey** submitted.
+3. In the template change only these data (also in `6_certificate/certificate.md`):
 
-   | Element | Approximate position (mm) | Format |
-   |---|---|---|
-   | Background image | Covers the page | `6_certificate/certificate_background.png` |
-   | Student name | X 0, Y 74, width 297, centered | Bold, 32 pt, color #0B1220 |
-   | Date (course completion) | X 17, Y 170, width 70, centered | 12 pt, color #E4007C |
-   | Code | X 210, Y 170, width 70, centered | 12 pt, color #E4007C |
+   | Field | Text |
+   |---|---|
+   | Course title | {tit} |
+   | Line | for completing the financial well-being program {tit} |
+{topics}
 
-4. Check the **PDF preview** and compare it with `certificate_sample.png`. Turn on "Verify certificate".
+4. Check the **PDF preview** and turn on "Verify certificate".
 
-If Custom certificate is not installed, the **Full plan** badge works as a digital certificate.
+If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG["categoria"]}** badge works as a digital certificate.
 
 ## 6. What not to do
 

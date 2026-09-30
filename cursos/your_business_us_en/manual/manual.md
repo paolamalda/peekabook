@@ -2,7 +2,7 @@
 
 Program manual · Version 1.2 · United States (federal and California) · English · Desarrolla Talento · September 29, 2026
 
-Financial education for Latino entrepreneurs and self-employed people in the United States: separating money, pricing, managing cash flow, getting paid safely, formalizing and paying taxes, using credit carefully, protecting yourself and planning for the future. A Spanish version with the same content exists (*Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.*).
+Financial well-being program for Latino entrepreneurs and self-employed people in the United States: separating money, pricing, managing cash flow, getting paid safely, formalizing and paying taxes, using credit carefully, protecting yourself and planning for the future. A Spanish version with the same content exists (*Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.*).
 
 [[TOC]]
 
@@ -148,7 +148,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M7 U04 · Your brand and your name** USPTO ($350 per class), state registration and fake notices.
 
-**M7 U05 · Identity theft and unwanted calls** Credit freeze at all three bureaus, fraud alert, free weekly reports, IdentityTheft.gov, ITIN and the National Do Not Call Registry.
+**M7 U05 · Identity theft and unwanted calls** Credit freeze at all three bureaus, fraud alert, no-cost weekly reports, IdentityTheft.gov, ITIN and the National Do Not Call Registry.
 
 **M7 U06 · AI scams: fake voices, videos and messages** Suppliers with cloned voices, fake celebrity videos, code words and warning customers.
 
@@ -166,7 +166,7 @@ These characters are fictional; any resemblance to real people is coincidental.
 
 **M8 U05 · Your one-page business plan and how to pitch it** Seven questions, a two-minute pitch, SBDCs, SCORE, Women's Business Centers, CDFIs, crowdfunding and fake grants.
 
-**M8 U06 · Your business and its surroundings: competition, economy, community and rule changes** What to watch, official sources, reputation and free training.
+**M8 U06 · Your business and its surroundings: competition, economy, community and rule changes** What to watch, official sources, reputation and no-cost training.
 
 ## Module 9. Your future
 
@@ -239,7 +239,7 @@ The support book includes case studies, calculation practice, glossary, where to
 | U14 | Social Security credits | $1,890 per credit in 2026, up to 4 a year ($7,560); 40 credits for a retirement benefit | SSA |
 | U15 | Card fees | Commonly 2.6% to 3.5% plus a flat fee per payment | Processors' published rates |
 | U16 | California small claims court | Up to $12,500 for individuals | California Courts |
-| U17 | Freezes, alerts and reports | Free freeze and unfreeze at Equifax, Experian and TransUnion; free initial fraud alert for one year; free weekly reports | FTC |
+| U17 | Freezes, alerts and reports | Free freeze and unfreeze at Equifax, Experian and TransUnion; no-cost initial fraud alert for one year; no-cost weekly reports | FTC |
 | U18 | National Do Not Call Registry | Free; up to 31 days for calls to stop; never expires | FTC |
 | U19 | SBA disaster loans | Up to $500,000 for homes, $100,000 for personal property and $2 million for businesses; rate up to 4% without credit elsewhere | SBA |
 | U20 | Betting in California | Online sports betting not legal; online sweepstakes casinos banned since Jan 1, 2026 (AB 831) | AB 831; media |
