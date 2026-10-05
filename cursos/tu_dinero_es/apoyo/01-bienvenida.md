@@ -10,14 +10,14 @@ Versión 3 · Edición en español · Septiembre de 2026.
 
 | Parte | Qué encuentras | Tiempo |
 |---|---|---|
-| **Libro de lecciones** | Cada lección empieza con una portada donde eliges tu ruta. | 5 o 10 minutos por lección |
-| **¿Qué harías?** | Una actividad por lección: tres situaciones para elegir la mejor decisión. | 3 minutos |
-| **Autoevaluación del módulo** | Preguntas de todas las lecciones del módulo. Apruebas con 70% y puedes intentarlo las veces que quieras. | 15 a 20 minutos |
+| **Lecciones** | Cada lección es un mosaico. Se abre al terminar la anterior y tiene cuatro pasos: Empieza, Lo esencial, Profundiza (opcional) y Practica. | 10 a 15 minutos por lección |
+| **Practica** | Dentro de cada lección: tres situaciones de «¿Qué harías?», tres preguntas, un ejercicio con números y tu compromiso. | Incluida en la lección |
+| **Autoevaluación** | Al final de cada parte, preguntas de todas sus lecciones. Apruebas con 70% y puedes intentarlo las veces que quieras. | 15 a 20 minutos |
 
 ## Elige tu ruta en cada lección
 
-- **Ruta rápida (5 min):** lee *Lo esencial* y pasa a *Practica*. Ideal si tienes poco tiempo o ya conoces el tema.
-- **Ruta completa (10 min):** suma *Profundiza*, con casos, errores frecuentes y más datos.
+- **Lo esencial (unos 10 min):** lo más importante, los errores que más cuestan y la práctica.
+- **Lo esencial + Profundiza (unos 15 min):** suma más datos y explicaciones.
 
 Las **palabras en color** muestran su significado al pasar el cursor o al tocarlas en el teléfono. Las respuestas están ocultas: intenta primero y luego toca para verlas.
 

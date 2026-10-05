@@ -2332,3 +2332,153 @@ Entrega tu expediente del Módulo 4: cinco riesgos prioritarios, comparación de
 Ready.gov · FTC, IdentityTheft.gov.
 
 ---
+
+## M4 U12. ¿Cómo aseguro que la manutención llegue a mis hijos?
+
+**Lo que lograrás:** Saber qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México.
+
+**Para empezar:** Daniela cría sola a su hijo en San Diego. El papá le da «cuando puede», en efectivo. A Daniela le da miedo pedir más porque cree que, por su situación migratoria, no puede ir a una oficina del gobierno.
+
+### Lo esencial (5 minutos)
+
+#### Lo básico
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Es un derecho de tus hijos | No de la mamá ni del papá. | Se calcula con una fórmula del estado. |
+| Agencia de manutención de tu estado | Ayuda a establecer, cobrar y registrar pagos. | Servicios a bajo costo. |
+| Pago con comprobante | Por la agencia o descuento del salario. | Nunca en efectivo sin recibo. |
+| Si el otro padre vive en México | Pregunta a tu agencia y a tu consulado. | Puede haber acuerdos. |
+
+#### Cómo se pide
+
+La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la paternidad, fijar un monto con la fórmula del estado y cobrarlo, muchas veces con descuento directo del salario del otro padre. En general atienden a madres y padres sin importar su situación migratoria; pregunta qué documentos piden.
+
+
+
+#### Si tú pagas
+
+Paga a través de la agencia o con descuento del salario, y guarda comprobantes. Los pagos en efectivo o «por fuera» pueden no contar. Si tu ingreso baja, pide una modificación; no dejes de pagar por tu cuenta.
+
+
+
+#### Un caso en un minuto
+
+Daniela llamó a la agencia de su condado. Le pidieron el acta de nacimiento de su hijo y datos del papá. Ahora el pago llega por la agencia cada mes y queda registrado.
+
+> **Idea clave:** la manutención es un derecho de tus hijos; la agencia de tu estado ayuda a pedirla y registrar los pagos, y quien paga debe hacerlo con comprobante.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Quién ayuda a establecer y cobrar la manutención?
+*Respuesta:* La agencia de manutención de hijos de tu estado.
+
+2. ¿Qué haces si pagas y tu ingreso baja?
+*Respuesta:* Pides una modificación; no dejas de pagar por tu cuenta.
+
+
+#### Para recordar
+
+- Es un derecho de tus hijos.
+- La agencia de tu estado ayuda.
+- Paga siempre con comprobante.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Entre EE. UU. y México
+
+Si el otro padre vive en México, dile a tu agencia: algunos estados tienen acuerdos con México para cobrar la manutención. Tu consulado también orienta. Si tú vives en EE. UU. y tus hijos en México, allá se puede pedir una pensión alimenticia ante un juez.
+
+
+
+#### Si no se paga
+
+Los estados pueden descontar del salario, retener reembolsos de impuestos o suspender licencias a quien no paga. La deuda no desaparece con el tiempo.
+
+
+
+#### Administra lo que recibes
+
+Anota la manutención como ingreso de tus hijos y separa los gastos grandes del año (escuela, ropa, salud).
+
+
+
+#### Casos
+
+
+**Caso 1. El «cuando puedo»**
+
+El papá del hijo de Daniela da solo cuando puede y en efectivo.
+- *¿Qué hace Daniela?* Llama a la agencia de manutención de su condado.
+
+
+**Caso 2. Los pagos de Andrés**
+
+Andrés paga manutención de una hija de una relación anterior, en efectivo y sin recibo.
+- *¿Qué hace?* Paga por la agencia o con comprobante.
+
+
+**Caso 3. El nieto de Rosa**
+
+El papá del nieto de Rosa vive en México y no paga.
+- *¿Qué hace la hija de Rosa?* Pregunta a su agencia y a su consulado por los acuerdos con México.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que no puedes pedirla | Tus hijos pierden su derecho | Pregunta a tu agencia |
+| Pagar en efectivo sin recibo | Puede no contar | Paga con comprobante |
+| Dejar de pagar sin pedir cambio | La deuda crece | Pide una modificación |
+| Mezclarla con todo | No alcanza | Anótala aparte |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Daniela, Andrés y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿De quién es el derecho a la manutención? a) De los hijos · b) Del padre que la recibe · c) Del estado
+2. ¿Cómo pagas para que cuente? a) En efectivo, de mano en mano · b) Por la agencia o con descuento del salario · c) Cuando puedas
+3. Tu ingreso bajó y pagas manutención. ¿Qué haces? a) Dejas de pagar · b) Pagas la mitad · c) Pides una modificación
+**Respuestas:** 1-a: es para lo que necesitan. 2-b: queda registrado. 3-c: la deuda sigue mientras no se cambie.
+
+
+
+#### Ponlo en práctica
+
+La manutención es de 450 dólares al mes. ¿Cuánto es al año y cuántos comprobantes guardas?
+**Respuesta:** 450 × 12 = 5,400 dólares; 12 comprobantes.
+
+
+
+#### A tu plan
+
+Si pagas o recibes manutención, junta los comprobantes de este año en una carpeta o en fotos.
+
+
+
+### Para saber más
+
+- **Manutención de menores** (Administración para Niños y Familias · español): https://www.acf.hhs.gov/css — **Qué buscar:** «agencia de manutención de tu estado».
+- **Tu consulado** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** «protección» y «pensión alimenticia».
+
+### Palabras clave
+
+- *Child support:* manutención de los hijos que paga el padre o la madre que no vive con ellos.
+- *Modificación:* cambio del monto de la manutención aprobado por la agencia o la corte.
+
+### Fuentes
+
+Office of Child Support Services (ACF) · SRE, consultados el 30 de septiembre de 2026.
+
+---

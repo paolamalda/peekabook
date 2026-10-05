@@ -2,6 +2,73 @@
 import os, re
 
 
+def ux3(readme, guia, CFG, MODS, n, tot, nm, sec_eval, cat):
+    """Formato UX3: mosaicos con submosaicos, un libro por lección con la práctica incrustada, sin ranking."""
+    NOMB = {m: CFG.get("nombres", {}).get(m, {}).get("titulo", t) for m, t in MODS.items()}
+    def rep(a, b, s):
+        assert a in s, a[:60]
+        return s.replace(a, b)
+    readme = rep("| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. " + str(sec_eval) + " secciones |",
+                 "| Formato | **Mosaicos** (Tiles). " + str(sec_eval) + " secciones |", readme)
+    readme = re.sub(r"\*\*Formato Mosaicos \(si existe\):\*\*.*\n", """**Formato Mosaicos:**
+- *Mostrar progreso en los mosaicos*: **como porcentaje**.
+- **Usar submosaicos para las actividades: Sí** (cada lección se ve como un mosaico dentro de su parte).
+- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.
+- Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
+""", readme)
+    for i, m in enumerate(MODS, 1):
+        readme = readme.replace(f"| {i} | {MODS[m]} |", f"| {i} | {NOMB[m]} |")
+    filas = "\n".join(f"| {NOMB[m]} | {n[m]} | `1_libros/{m}/` |" for m in MODS)
+    readme = re.sub(r"## 3\. Libros de lecciones\n.*?(?=\n## 4\.)", f"""## 3. Lecciones: un libro por lección
+
+La estructura completa (nombres, orden, archivos y minutos) está en `estructura_moodle.json`. En cada sección, por cada lección y en orden:
+
+1. Crea un **Libro** con el nombre de la lección **tal cual** (la pregunta, sin claves como «M1 U01»). Formato de capítulo "Nada"; estilo de navegación "Texto".
+2. Menú del libro > **Importar capítulo** > el zip de la lección (`1_libros/MN/NN_MN_UYY.zip`), tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Empieza, Lo esencial, Profundiza, Practica.
+3. **Finalización:** "Ver".
+4. **Restringir acceso:** la lección anterior debe estar completa (la primera de cada parte, sin restricción; la primera de la parte 2 en adelante pide la última de la parte anterior). Muestra la lección bloqueada en gris, no oculta.
+
+| Parte | Lecciones | Carpeta |
+|---|---|---|
+{filas}
+""", readme, flags=re.S)
+    readme = re.sub(r"## 7\. Actividades H5P \(\d+\)\n.*?(?=\n## 8\.)", f"""## 7. Práctica dentro de cada lección ({tot} H5P)
+
+La práctica **no** va como actividad aparte en la sección: va incrustada en el capítulo «Practica» de su libro.
+
+1. *Banco de contenido* del curso > **Subir** los {tot} archivos de `2_h5p/MN/` (`MN_UYY_practica.h5p`).
+2. Abre el capítulo «Practica» de cada libro en modo edición. Verás un recuadro rosa con el texto `[[H5P MN_UYY_practica.h5p]]`.
+3. Borra **todo el recuadro** y en su lugar inserta el H5P con el botón **Insertar H5P** del editor, eligiendo ese archivo del banco de contenido.
+4. Guarda y comprueba con *Cambiar rol a > Estudiante* que se vean las situaciones y preguntas, una por pantalla.
+
+**Nota:** la práctica incrustada no registra calificación. El avance de cada lección se marca al verla, y la calificación del módulo sale de la autoevaluación.
+
+**Orden final de cada sección:** las lecciones en orden y al final la autoevaluación (restringida a completar la última lección de la parte).
+""", readme, flags=re.S)
+    readme = rep("- M1 U01: portada primero, dos botones de ruta, términos en color con su significado y recuadros \"Dato vigente\" o \"Antes de actuar, verifica\".\n- Una H5P por módulo abre, muestra 3 casos y registra calificación.",
+                 "- La portada muestra un mosaico por parte con su porcentaje; dentro de cada parte, un submosaico por lección sin claves técnicas.\n- La primera lección: capítulos Empieza, Lo esencial, Profundiza y Practica; «Cuidado con estos errores» al final de Lo esencial; la práctica incrustada funciona.\n- La segunda lección aparece bloqueada hasta ver la primera.\n- No hay ranking ni tabla de posiciones visible.", readme)
+    readme = readme.replace("páginas por libro; H5P por módulo;", "libros por parte; H5P incrustadas;")
+    pts = (tot + nm) * 25
+    guia = re.sub(r"## 1\. Qué hay en cada módulo\n.*?(?=\n\*\*Las autoevaluaciones)", f"""## 1. Qué hay en cada parte
+
+| Actividad | Cuántas | Finalización |
+|---|---|---|
+| Libro por lección (con la práctica incrustada) | {tot} | Ver |
+| Cuestionario "Autoevaluación del Módulo N" | 1 por parte ({nm}) | Calificación aprobatoria de 70% |
+""", guia, flags=re.S)
+    guia = re.sub(r"Completar todo el curso da unos .*?\| \*\*Total\*\* \|[^\n]*\n", f"""Completar todo el curso da unos {pts:,} puntos:
+
+| Actividades | Cuántas | Puntos |
+|---|---|---|
+| Lecciones | {tot} | {tot * 25:,} |
+| Autoevaluaciones | {nm} | {nm * 25:,} |
+| **Total** | {tot + nm} | **{pts:,}** |
+""", guia, flags=re.S)
+    guia = rep("**Clasificación:** anonimato activado; mostrar solo vecinos cercanos o desactivarla.",
+               "**Clasificación (ranking): desactivada.** En *Level Up > Clasificación* elige no mostrarla, y quita o esconde el bloque de tabla de posiciones. Cada persona ve solo sus puntos, su nivel y sus insignias.", guia)
+    return readme, guia
+
+
 def generar(D, CFG, lecciones):
     MODS = CFG["modulos"]; I = CFG["instalacion"]
     n = {m: len(lecciones(m)) for m in MODS}
@@ -227,6 +294,7 @@ Si Certificado personalizado no está instalado, la insignia **{CFG["insignias"]
 - No pedir datos reales para aprobar.
 - No ligar insignias ni constancia a contratar servicios o productos.
 """
+    if CFG.get("ux") == 3: readme, guia = ux3(readme, guia, CFG, MODS, n, tot, nm, sec_eval, cat)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)
     for f in os.listdir(os.path.join(D, "instalacion")):
         if f.startswith("README_INSTALAR_"): os.remove(os.path.join(D, "instalacion", f))

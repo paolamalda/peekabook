@@ -4,17 +4,14 @@ Esta guía es para Moodle 3.10 con Level Up (block_xp) 3.15.2 y el complemento C
 
 El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificación perfecta. Nunca se muestra el nombre de nadie en una tabla.
 
-## 1. Qué hay en cada módulo
+## 1. Qué hay en cada parte
 
 | Actividad | Cuántas | Finalización |
 |---|---|---|
-| Libro "Lecciones del Módulo N" | 1 por módulo (5) | Ver |
-| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (60) | Recibir calificación |
-| Cuestionario "Autoevaluación del Módulo N" | 1 por módulo (5) | Calificación aprobatoria de 70% |
+| Libro por lección (con la práctica incrustada) | 63 | Ver |
+| Cuestionario "Autoevaluación del Módulo N" | 1 por parte (5) | Calificación aprobatoria de 70% |
 
-**Configuración de cada actividad H5P:** sin botón de descarga, con botón de derechos de autor e incrustar desactivado; seguimiento de intentos con "Calificación más alta"; finalización "El estudiante debe recibir una calificación".
-
-**Las autoevaluaciones:** usan el banco de 180 preguntas con tres opciones y retroalimentación, en las categorías *Tu Dinero v3.4/M1* a *M5*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
+**Las autoevaluaciones:** usan el banco de 189 preguntas con tres opciones y retroalimentación, en las categorías *Tu Dinero v3.4/M1* a *M5*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
 
 ## 2. Level Up: niveles y puntos
 
@@ -25,14 +22,13 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 3. **Por participar en el foro:** 5 puntos, con el evento "Mensaje creado" (`\mod_forum\event\post_created`).
 4. Deja activada la protección contra trampas.
 
-Completar todo el curso da unos 1,750 puntos:
+Completar todo el curso da unos 1,700 puntos:
 
 | Actividades | Cuántas | Puntos |
 |---|---|---|
-| Actividades H5P | 60 | 1,500 |
-| Libros | 5 | 125 |
+| Lecciones | 63 | 1,575 |
 | Autoevaluaciones | 5 | 125 |
-| **Total** | 70 | **1,750** |
+| **Total** | 68 | **1,700** |
 
 **Niveles** (6 niveles, sin algoritmo automático):
 
@@ -45,7 +41,7 @@ Completar todo el curso da unos 1,750 puntos:
 | 5 | Protejo a mi familia | 1,150 | Durante el Módulo 4 |
 | 6 | Construyo mi futuro | 1,500 | Durante el Módulo 5 |
 
-**Clasificación:** anonimato activado; mostrar solo vecinos cercanos o desactivarla.
+**Clasificación (ranking): desactivada.** En *Level Up > Clasificación* elige no mostrarla, y quita o esconde el bloque de tabla de posiciones. Cada persona ve solo sus puntos, su nivel y sus insignias.
 
 ## 3. Insignias
 

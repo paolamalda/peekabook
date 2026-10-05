@@ -116,11 +116,15 @@ def construir(D, CFG):
                                         ["1_books", "3_glossary", "4_questions", "5_badges", "6_certificate", "7_guides", "9_preview", "8_surveys"])
     mo = d[3]
     for m in MODS:
-        K.copiar(os.path.join(M, m, f"{m}_libro_Moodle.zip"), os.path.join(mo, L))
+        if CFG.get("ux") == 3:
+            K.copiar(os.path.join(M, m, "lecciones", "*.zip"), os.path.join(mo, L, m))
+        else:
+            K.copiar(os.path.join(M, m, f"{m}_libro_Moodle.zip"), os.path.join(mo, L))
         K.copiar(os.path.join(M, m, f"{m}_resumen.html"), os.path.join(mo, L))
         K.copiar(os.path.join(M, "h5p", f"{m}_U*.h5p"), os.path.join(mo, "2_h5p", m))
         shutil.copytree(os.path.join(M, m, "vista_previa"), os.path.join(mo, Vp, m))
     K.copiar(os.path.join(M, "Apoyo", "Apoyo_libro_Moodle.zip"), os.path.join(mo, L))
+    if CFG.get("ux") == 3: K.copiar(os.path.join(M, "estructura_moodle.json"), mo)
     os.makedirs(os.path.join(mo, Gl))
     nterm = K.glosario([os.path.join(M, m, f"{m}_glosario_Moodle.xml") for m in MODS], txt(en, "Palabras clave del curso", "Course key words"),
                        os.path.join(mo, Gl, txt(en, "Glosario_curso_Moodle.xml", "Course_glossary_Moodle.xml")))

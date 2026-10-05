@@ -2207,3 +2207,316 @@ Entrega tu expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, c
 CFPB, reportes y puntajes · FTC, congelamiento de crédito.
 
 ---
+
+## M3 U11. ¿Un adelanto de sueldo es dinero sin costo?
+
+**Lo que lograrás:** Comparar el adelanto de tu empleador, las apps que adelantan tu pago y los préstamos «payday», y calcular lo que cuestan en un año.
+
+**Para empezar:** A Luis le faltan 200 dólares para la renta y cobra en cuatro días. Una app le ofrece adelantarlos «sin intereses», con una «propina sugerida» de 8 dólares y 4 más por recibirlos al instante. Su amigo le recomienda un préstamo payday.
+
+### Lo esencial (5 minutos)
+
+#### Tres formas de cobrar antes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Adelanto del empleador | Te adelantan parte de lo que ya trabajaste. | Pregunta en recursos humanos. |
+| App de adelanto | «Propinas», comisión por rapidez o membresía. | Suma todo. |
+| Préstamo payday | Cargos muy altos y plazo de dos semanas. | Evítalo. |
+| Tu fondo de emergencia | Sin costo. | La primera opción (M4 U06). |
+
+#### Lo que cuesta un adelanto «sin intereses»
+
+Una propina de 8 más 4 por rapidez son 12 dólares por adelantar 200 durante cuatro días. Si lo haces cada dos semanas, son **312 dólares al año**. Y el siguiente cheque llega con 200 menos, así que es fácil necesitar otro adelanto.
+
+
+
+#### La trampa del payday
+
+Un préstamo payday cobra cargos que, llevados a un año, suelen pasar de 300% y se paga completo en tu siguiente cheque. Si no alcanzas, lo «renuevas» y pagas cargos otra vez. Algunos estados los limitan o los prohíben.
+
+
+
+#### Un caso en un minuto
+
+Luis preguntó en su trabajo: su empleador adelanta hasta la mitad de lo ya trabajado sin costo, una vez al mes. Pidió los 200 ahí y empezó a apartar 20 dólares por cheque para su fondo, para no volver a necesitarlo.
+
+> **Idea clave:** un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Una app de adelanto «sin intereses» te sale sin costo?
+*Respuesta:* No siempre: propinas, comisiones por rapidez y membresías cuestan.
+
+2. ¿Qué pasa con tu siguiente cheque después de un adelanto?
+*Respuesta:* Llega con menos dinero.
+
+
+#### Para recordar
+
+- Pregunta primero a tu empleador.
+- Suma el costo del año.
+- Evita los payday.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Suma el costo de un año
+
+| Concepto | Por adelanto | Veces al año | Total |
+|---|---|---|---|
+| Propina | 8 | 26 | 208 |
+| Comisión por rapidez | 4 | 26 | 104 |
+| **Total** | 12 | 26 | **312** |
+
+
+
+#### Cuidado con dar acceso a tu cuenta
+
+Estas apps piden conectarse a tu cuenta de banco para cobrarse solas. Si no hay saldo, puedes pagar cargos por sobregiro. Revisa la fecha en que se cobran.
+
+
+
+#### Si ya estás en el ciclo
+
+Baja el monto poco a poco: pide 150 en lugar de 200, luego 100, hasta dejar de pedir. Mientras, arma tu fondo aunque sea de 10 dólares por cheque.
+
+
+
+#### Casos
+
+
+**Caso 1. La app de Luis**
+
+La app le cobra a Luis 12 dólares por adelantar 200 cada dos semanas.
+- *¿Cuánto paga al año?* 312 dólares.
+- *¿Qué hace?* Pregunta si su empleador adelanta sin costo y arma su fondo.
+
+
+**Caso 2. El payday de Alex**
+
+A Alex le ofrecen un préstamo payday de 400.
+- *¿Qué hace?* Busca otra salida: el payday se renueva y los cargos se acumulan.
+
+
+**Caso 3. El sobregiro de Daniela**
+
+La app de Daniela se cobró cuando no tenía saldo.
+- *¿Qué hace?* Cambia la fecha de cobro y deja de usarla.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que no cuesta | Pagas cientos al año | Suma propinas y comisiones |
+| Pedir cada cheque | Nunca te llega el pago completo | Baja el monto |
+| Renovar un payday | Los cargos se acumulan | Evítalo |
+| Dar acceso sin revisar | Sobregiros | Revisa la fecha de cobro |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde preguntas primero por un adelanto? a) En una app · b) Con tu empleador · c) En un payday
+2. 10 dólares por adelanto, 26 veces al año. ¿Cuánto pagas? a) 260 · b) 10 · c) 130
+3. ¿Qué pasa con tu siguiente cheque después de un adelanto? a) Llega completo · b) Llega con un bono · c) Llega con menos dinero
+**Respuestas:** 1-b: muchas empresas lo hacen sin costo. 2-a: 10 × 26. 3-c: ya cobraste esa parte.
+
+
+
+#### Ponlo en práctica
+
+Una app cobra una membresía de 9.99 al mes más 3 por cada adelanto rápido. Usas 2 adelantos rápidos al mes. ¿Cuánto pagas al año?
+**Respuesta:** 9.99 + 6 = 15.99 al mes; × 12 = 191.88 dólares.
+
+
+
+#### A tu plan
+
+Si usas una app de adelanto, revisa tus movimientos del último mes y suma todo lo que te cobró.
+
+
+
+### Para saber más
+
+- **Adelantos y préstamos de día de pago** (CFPB · español): https://www.consumerfinance.gov/es — **Qué buscar:** «préstamos de día de pago».
+- **Asesoría de crédito sin fines de lucro** (NFCC · español): https://www.nfcc.org — **Qué buscar:** «asesoría en español».
+
+### Palabras clave
+
+- *Adelanto de sueldo:* recibir antes una parte de lo que ya trabajaste.
+- *Préstamo payday:* préstamo pequeño y muy caro que se paga en tu siguiente cheque.
+
+### Fuentes
+
+CFPB · NFCC, consultados el 30 de septiembre de 2026.
+
+---
+
+## M3 U12. ¿Empeñar es una buena salida?
+
+**Lo que lograrás:** Entender cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas.
+
+**Para empezar:** Mar necesita 300 dólares para una reparación del carro. Su cuñada le dice que empeñe su cadena de oro: «te dan el dinero en diez minutos y no revisan tu crédito».
+
+### Lo esencial (5 minutos)
+
+#### Cómo funciona
+
+1. Dejas algo de valor y te dan un **pawn ticket** (boleta).
+2. Te prestan solo una parte de lo que vale.
+3. Tienes un plazo para pagar el préstamo más los cargos y recuperarlo.
+4. Muchas casas permiten **extender** el plazo pagando solo los cargos.
+5. Si no pagas, la casa **se queda con tu prenda** y la vende.
+
+
+
+#### La cadena de Mar
+
+- Préstamo: **300**
+- Cargos de un mes: **75**
+- Para recuperarla: **375**
+Los cargos cambian por estado; pídelos por escrito antes de firmar.
+
+
+#### Lo bueno y lo malo
+
+No revisan tu crédito y, si no pagas, **no te persiguen ni te reportan**: pierdes la prenda y ya. Pero tampoco construye tu historial de crédito, y los cargos suelen ser altos. Las casas de empeño necesitan licencia de tu estado.
+
+
+
+#### Un caso en un minuto
+
+Mar comparó: el taller le aceptaba pagar la reparación en dos partes sin cargo. Así no empeñó su cadena. Guardó la idea del empeño solo para una urgencia en la que no tenga otra opción.
+
+> **Idea clave:** empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda; pide los cargos por escrito, guarda tu boleta y anota la fecha límite.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pasa si no pagas un empeño?
+*Respuesta:* La casa se queda con tu prenda; no te reporta al crédito.
+
+2. ¿Empeñar construye tu historial de crédito?
+*Respuesta:* No.
+
+
+#### Para recordar
+
+- Pide los cargos por escrito.
+- Guarda tu boleta.
+- Anota la fecha límite.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Empeño contra otras salidas
+
+| Opción | Ventaja | Riesgo |
+|---|---|---|
+| Empeño | Rápido, sin revisar crédito | Cargos altos, pierdes la prenda |
+| Plan de pago del taller o del proveedor | A veces sin cargo | Hay que pedirlo |
+| Préstamo de cooperativa de crédito | Cargos más bajos | Tarda más |
+| Tu fondo de emergencia | Sin costo | Hay que armarlo antes |
+
+
+
+#### Lo que te piden
+
+Te pedirán una identificación. Revisa la boleta: nombre de la casa, descripción de tu prenda, monto, cargos y fecha límite.
+
+
+
+#### No empeñes lo que usas para trabajar
+
+Si empeñas tus herramientas o el celular con el que te llaman del trabajo, puedes perder ingresos además de la prenda.
+
+
+
+#### Casos
+
+
+**Caso 1. La cadena de Mar**
+
+Mar necesita 300 para el carro.
+- *¿Qué hace primero?* Pregunta al taller por un plan de pago.
+
+
+**Caso 2. Las herramientas de Andrés**
+
+Andrés quiere empeñar las herramientas con las que hace trabajos los fines de semana.
+- *¿Qué hace?* No empeña lo que usa para trabajar.
+
+
+**Caso 3. La boleta de Luis**
+
+Luis empeñó su reloj y perdió la boleta.
+- *¿Qué hace?* Va a la casa con su identificación y pide una copia.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin preguntar los cargos | Pagas de más | Pídelos por escrito |
+| Perder la boleta | Complicas recuperar tu prenda | Tómale foto |
+| Olvidar la fecha | Pierdes tu prenda | Anótala |
+| Creer que construye crédito | Sigues sin historial | Usa otro camino (M3 U03) |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mar, Andrés y Luis. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Si no pagas un empeño, ¿qué pasa con tu crédito? a) No cambia; pierdes la prenda · b) Te reportan como deuda en cobranza · c) Te bloquean la cuenta del banco
+2. ¿Empeñar construye tu historial? a) Sí · b) Solo si pagas a tiempo · c) No
+3. ¿Qué pides antes de empeñar? a) Nada · b) Los cargos y la fecha límite por escrito · c) Un préstamo extra
+**Respuestas:** 1-a: la casa se queda con la prenda. 2-c: no se reporta. 3-b: así sabes lo que pagarás.
+
+
+
+#### Ponlo en práctica
+
+Te prestan 250 con cargos de 20% al mes. ¿Cuánto pagas para recuperarla en dos meses?
+**Respuesta:** 20% de 250 = 50 al mes; 100 en dos meses. Pagas 350.
+
+
+
+#### A tu plan
+
+Anota en tu plan tres salidas para una urgencia antes de empeñar: tu fondo, un plan de pago y una cooperativa de crédito.
+
+
+
+### Para saber más
+
+- **Protección al consumidor** (CFPB · español): https://www.consumerfinance.gov/es — **Qué buscar:** «préstamos pequeños».
+- **Licencias de tu estado** (departamento financiero de tu estado · inglés) — **Qué buscar:** «pawnbroker license» y el nombre de tu estado.
+
+### Palabras clave
+
+- *Pawn ticket:* la boleta de tu empeño, con el monto, los cargos y la fecha límite.
+- *Extender:* pagar solo los cargos para tener más tiempo.
+
+### Fuentes
+
+CFPB · departamentos financieros estatales, consultados el 30 de septiembre de 2026.
+
+---

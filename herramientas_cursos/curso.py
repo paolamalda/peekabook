@@ -18,6 +18,7 @@ HF = os.path.join(RAIZ, "proyecto-inclusion-financiera", "herramientas")
 sys.path.insert(0, HF)
 import build_v3 as B
 from leccion_ux2 import build, page, CSS, md, terms
+import leccion_ux3 as UX3
 from i18n_en import tr as tr_en
 
 S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
@@ -55,6 +56,7 @@ def casos():
 
 # ---------------------------------------------------------------------------
 def paso_libros():
+    if CFG.get("ux") == 3: return paso_libros_ux3()
     B.TITULOS.clear(); B.TITULOS.update(MODS)
     for mod in MODS:
         text = leer(os.path.join(LEC, f"{mod}.md"))
@@ -91,6 +93,42 @@ def paso_libros():
 
 
 # ---------------------------------------------------------------------------
+def paso_libros_ux3():
+    """Un Libro de Moodle por lección (4 capítulos), nombre = la pregunta de la lección, y un manifiesto por módulo."""
+    NOMB = CFG.get("nombres", {})  # nombres amables de cada parte: {"M1": {"titulo": …, "descripcion": …}}
+    manif = {"curso": CFG["titulo"], "partes": []}
+    for i, mod in enumerate(MODS):
+        text = leer(os.path.join(LEC, f"{mod}.md"))
+        d = os.path.join(OUT, mod); shutil.rmtree(d, ignore_errors=True); os.makedirs(os.path.join(d, "lecciones"))
+        les = UX3.build(text)
+        prev = []
+        for k, L in enumerate(les, 1):
+            zp = os.path.join(d, "lecciones", f"{k:02d}_{L['code'].replace(' ', '_')}.zip")
+            with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as z:
+                for fn, tt, b in L["pages"]: z.writestr(fn, page(tt, b))
+            prev += [(f"{k:02d}_{fn}", (L["title"] if j == 0 else tt), b.replace('href="0', f'href="{k:02d}_0'))
+                     for j, (fn, tt, b) in enumerate(L["pages"])]
+        xml, n = B.glosario(text, ("Key words · " if EN else "Palabras clave · ") + mod)
+        open(os.path.join(d, f"{mod}_glosario_Moodle.xml"), "w").write(tr(xml))
+        open(os.path.join(d, f"{mod}_legible.md"), "w").write(tr(B.legible(text, mod)))
+        B.preview(prev, os.path.join(d, "vista_previa"))
+        nm = NOMB.get(mod, {})
+        titulo = nm.get("titulo", MODS[mod]); desc = nm.get("descripcion", "")
+        lo, hi = sum(L["min"][0] for L in les), sum(L["min"][1] for L in les)
+        h = lambda m: f"{round(m / 30) / 2:g}"
+        tiempo = f"unas {h(lo)} a {h(hi)} horas" if lo >= 60 else f"{lo} a {hi} minutos"
+        res = CFG.get("resultados", {}).get(mod, "")
+        html_res = (f"<p>{html.escape(desc)}</p>" if desc else "") + \
+            (f"<p><strong>Al terminar tendrás:</strong> {html.escape(res[0].lower() + res[1:])}</p>" if res else "") + \
+            f"<p><strong>{len(les)} lecciones</strong> de 10 a 15 minutos · {tiempo} en total.</p>"
+        open(os.path.join(d, f"{mod}_resumen.html"), "w").write(html_res)
+        manif["partes"].append({"modulo": mod, "seccion": titulo, "orden": i + 1, "resumen": html_res, "minutos": [lo, hi],
+                                "lecciones": [{"orden": k, "nombre_actividad": L["title"], "zip": f"lecciones/{k:02d}_{L['code'].replace(' ', '_')}.zip",
+                                               "h5p": f"h5p/{L['h5p']}", "minutos": L["min"], "clave_interna": L["code"]} for k, L in enumerate(les, 1)]})
+        print(mod, titulo, "·", len(les), "lecciones ·", tiempo)
+    json.dump(manif, open(os.path.join(OUT, "estructura_moodle.json"), "w"), ensure_ascii=False, indent=1)
+
+
 def paso_h5p():
     LIBS = [("H5P.SingleChoiceSet", "scs"), ("H5P.JoubelUI", "h5p-joubel-ui"), ("H5P.Question", "h5p-question"),
             ("H5P.Transition", "h5p-transition"), ("H5P.FontIcons", "h5p-font-icons"), ("FontAwesome", "fa")]
@@ -123,6 +161,10 @@ def paso_h5p():
                 "scoreBarLabel": "Obtuviste :num de :total puntos", "solutionListQuestionNumber": "Caso :num",
                 "a11yShowSolution": "Mostrar las respuestas.", "a11yRetry": "Reiniciar la actividad."}
         FB = ["Revisa los casos en Profundiza e inténtalo otra vez.", "¡Muy bien! Ya sabes qué hacer en estas situaciones."]
+    if CFG.get("ux") == 3:
+        L10N.update({"slideOfTotal": ":num de :total" if not EN else ":num of :total", "nextButtonLabel": "Siguiente" if not EN else "Next",
+                     "solutionListQuestionNumber": "Pregunta :num" if not EN else "Question :num"})
+        FB = ["Repasa Lo esencial e inténtalo otra vez.", "¡Muy bien! Ya sabes qué hacer."] if not EN else ["Review The essentials and try again.", "Great job! You know what to do."]
     CASOS = casos()
     dest_dir = os.path.join(OUT, "h5p"); shutil.rmtree(dest_dir, ignore_errors=True); os.makedirs(dest_dir)
     n = 0
@@ -137,6 +179,12 @@ def paso_h5p():
                 name = re.sub(r"^(Caso|Case) \d+\.\s*", "", h.strip())
                 choices.append({"question": f"<p><strong>{html.escape(name)}.</strong> {html.escape(ctx)}</p><p><strong>{html.escape(q)}</strong></p>",
                                 "answers": [f"<p>{html.escape(o)}</p>" for o in opts]})
+            if CFG.get("ux") == 3:
+                pr = dict((k, c) for k, _, _, c in UX3.blocks(UX3.parse(code + " | " + les.split("\n", 1)[1])[3]["practica"]))
+                for q, opts, key, _ in UX3.quiz_items(pr):
+                    idx = "abcde".index(key)
+                    orden = [opts[idx]] + [o for j, o in enumerate(opts) if j != idx]
+                    choices.append({"question": f"<p><strong>{html.escape(q)}</strong></p>", "answers": [f"<p>{html.escape(o)}</p>" for o in orden]})
             content = {"choices": choices,
                        "overallFeedback": [{"from": 0, "to": 66, "feedback": FB[0]}, {"from": 67, "to": 100, "feedback": FB[1]}],
                        "behaviour": {"autoContinue": False, "timeoutCorrect": 2000, "timeoutWrong": 3000, "soundEffectsEnabled": False,
@@ -145,7 +193,11 @@ def paso_h5p():
             lab = "What would you do?" if EN else "¿Qué harías?"
             h5pjson = {"title": f"{code} {lab}", "language": "en" if EN else "es", "mainLibrary": "H5P.SingleChoiceSet",
                        "embedTypes": ["div", "iframe"], "license": "U", "defaultLanguage": "en" if EN else "es", "preloadedDependencies": deps}
-            dest = os.path.join(dest_dir, f"{code.replace(' ', '_')}_" + ("what_would_you_do" if EN else "que_harias") + ".h5p")
+            if CFG.get("ux") == 3:
+                h5pjson["title"] = ("Practice · " if EN else "Practica · ") + title
+                dest = os.path.join(dest_dir, UX3.h5p_nombre(code))
+            else:
+                dest = os.path.join(dest_dir, f"{code.replace(' ', '_')}_" + ("what_would_you_do" if EN else "que_harias") + ".h5p")
             with zipfile.ZipFile(dest, "w", zipfile.ZIP_DEFLATED) as z:
                 z.writestr("h5p.json", json.dumps(h5pjson, ensure_ascii=False, indent=1))
                 z.writestr("content/content.json", json.dumps(content, ensure_ascii=False))

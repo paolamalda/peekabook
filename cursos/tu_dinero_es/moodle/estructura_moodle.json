@@ -1,0 +1,758 @@
+{
+ "curso": "Tu Dinero, Tu Familia, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu dinero en orden",
+   "orden": 1,
+   "resumen": "<p>Lo que entra, lo que sale y un plan para el mes.</p><p><strong>Al terminar tendrás:</strong> un calendario de dinero de 8 semanas, un presupuesto que funciona también en un mes difícil, una carpeta fiscal y un plan de 90 días.</p><p><strong>14 lecciones</strong> de 10 a 15 minutos · unas 2.5 a 3.5 horas en total.</p>",
+   "minutos": [
+    140,
+    210
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Todo el dinero que recibo es dinero que gané?",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Por qué el mismo dinero ya no alcanza?",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Qué necesito cuidar primero?",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Cobrar cada semana es lo mismo que cobrar cada mes?",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿Por qué me depositan menos de lo que gané?",
+     "zip": "lecciones/05_M1_U05.zip",
+     "h5p": "h5p/M1_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿Una compra pequeña puede sumar mucho?",
+     "zip": "lecciones/06_M1_U06.zip",
+     "h5p": "h5p/M1_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "¿Por qué me falta dinero si este mes gano suficiente?",
+     "zip": "lecciones/07_M1_U07.zip",
+     "h5p": "h5p/M1_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "¿Cómo decido para qué usar mi dinero?",
+     "zip": "lecciones/08_M1_U08.zip",
+     "h5p": "h5p/M1_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "¿Presentar impuestos significa que me devolverán dinero?",
+     "zip": "lecciones/09_M1_U09.zip",
+     "h5p": "h5p/M1_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "¿Todo lo que cobro por mi cuenta es para gastar?",
+     "zip": "lecciones/10_M1_U10.zip",
+     "h5p": "h5p/M1_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "¿Qué apoyos fiscales existen si declaro con ITIN?",
+     "zip": "lecciones/11_M1_U11.zip",
+     "h5p": "h5p/M1_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "¿Cómo elijo a alguien que me ayude con impuestos?",
+     "zip": "lecciones/12_M1_U12.zip",
+     "h5p": "h5p/M1_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U12"
+    },
+    {
+     "orden": 13,
+     "nombre_actividad": "¿Qué debo saber antes de pedir un apoyo público?",
+     "zip": "lecciones/13_M1_U13.zip",
+     "h5p": "h5p/M1_U13_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U13"
+    },
+    {
+     "orden": 14,
+     "nombre_actividad": "¿Cómo convierto lo aprendido en algo que sí puedo hacer?",
+     "zip": "lecciones/14_M1_U14.zip",
+     "h5p": "h5p/M1_U14_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U14"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Bancos y envíos a casa",
+   "orden": 2,
+   "resumen": "<p>Dónde guardar tu dinero y cómo mandar más por menos.</p><p><strong>Al terminar tendrás:</strong> un mapa de instituciones, la comparación de cuentas según tu forma de usar el dinero, tres cotizaciones de remesa comparables, un calendario de envíos y un acuerdo familiar.</p><p><strong>13 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    130,
+    195
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Quién cuida mi dinero y quién me presta el servicio?",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Una app de dinero es siempre un banco?",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Qué identificación me sirve para trámites financieros?",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Qué necesito para abrir una cuenta y cuánto cuesta mantenerla?",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿Todo el saldo que veo está libre para gastar?",
+     "zip": "lecciones/05_M2_U05.zip",
+     "h5p": "h5p/M2_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿Cómo apoyo a mi familia sin decidir a última hora?",
+     "zip": "lecciones/06_M2_U06.zip",
+     "h5p": "h5p/M2_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "¿Cuánto puedo enviar y cuándo?",
+     "zip": "lecciones/07_M2_U07.zip",
+     "h5p": "h5p/M2_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "¿Sin comisión siempre llega más dinero?",
+     "zip": "lecciones/08_M2_U08.zip",
+     "h5p": "h5p/M2_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "¿Qué reviso antes de enviar y qué hago si algo falla?",
+     "zip": "lecciones/09_M2_U09.zip",
+     "h5p": "h5p/M2_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "¿Qué pasa cuando pido prestado para enviar?",
+     "zip": "lecciones/10_M2_U10.zip",
+     "h5p": "h5p/M2_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "¿Cómo digo cuánto puedo ayudar sin prometer de más?",
+     "zip": "lecciones/11_M2_U11.zip",
+     "h5p": "h5p/M2_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "¿Cómo ahorro para algo que se pagará en pesos?",
+     "zip": "lecciones/12_M2_U12.zip",
+     "h5p": "h5p/M2_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U12"
+    },
+    {
+     "orden": 13,
+     "nombre_actividad": "¿Cómo junto cuenta y remesas en un solo plan?",
+     "zip": "lecciones/13_M2_U13.zip",
+     "h5p": "h5p/M2_U13_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U13"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Crédito sin sustos",
+   "orden": 3,
+   "resumen": "<p>Tu historial, tus deudas y cómo salir de ellas.</p><p><strong>Al terminar tendrás:</strong> tu ruta de crédito, un reporte revisado, la comparación de dos opciones de financiamiento, un inventario de deudas con estrategia y un calendario de pagos.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Que me presten significa que puedo pagar?",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Cómo sé qué información usan sobre mis deudas?",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Cómo empiezo si no tengo historial?",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Mejorar mi crédito significa borrar todo?",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿Por qué un pago pequeño puede salir más caro?",
+     "zip": "lecciones/05_M3_U05.zip",
+     "h5p": "h5p/M3_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿Por cuál deuda empiezo?",
+     "zip": "lecciones/06_M3_U06.zip",
+     "h5p": "h5p/M3_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "¿Qué hago si sé que no podré pagar?",
+     "zip": "lecciones/07_M3_U07.zip",
+     "h5p": "h5p/M3_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "¿Firmar para ayudar puede dejarme una deuda?",
+     "zip": "lecciones/08_M3_U08.zip",
+     "h5p": "h5p/M3_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "¿Una tanda me ayuda a construir crédito?",
+     "zip": "lecciones/09_M3_U09.zip",
+     "h5p": "h5p/M3_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "¿Cuál es mi siguiente paso con el crédito?",
+     "zip": "lecciones/10_M3_U10.zip",
+     "h5p": "h5p/M3_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "¿Un adelanto de sueldo es dinero sin costo?",
+     "zip": "lecciones/11_M3_U11.zip",
+     "h5p": "h5p/M3_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "¿Empeñar es una buena salida?",
+     "zip": "lecciones/12_M3_U12.zip",
+     "h5p": "h5p/M3_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U12"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Protege lo tuyo",
+   "orden": 4,
+   "resumen": "<p>Fraudes, seguros y un plan para tu familia.</p><p><strong>Al terminar tendrás:</strong> tu regla de pausa, un protocolo de respuesta a fraudes, la revisión de tus coberturas, una reserva por etapas y tu plan de preparación familiar.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Por qué alguien insiste en que actúe ahora mismo?",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Quién puede ayudarme de verdad con un trámite migratorio?",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Qué protege mis cuentas además de una contraseña?",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Qué hago si ya compartí datos o veo algo extraño?",
+     "zip": "lecciones/04_M4_U04.zip",
+     "h5p": "h5p/M4_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿Hablar de dinero es lo mismo que controlar a alguien?",
+     "zip": "lecciones/05_M4_U05.zip",
+     "h5p": "h5p/M4_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿Para qué sirve separar un poco de dinero?",
+     "zip": "lecciones/06_M4_U06.zip",
+     "h5p": "h5p/M4_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "¿Tener seguro significa que ya no pagaré nada?",
+     "zip": "lecciones/07_M4_U07.zip",
+     "h5p": "h5p/M4_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "¿Este documento médico me está pidiendo pagar?",
+     "zip": "lecciones/08_M4_U08.zip",
+     "h5p": "h5p/M4_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "¿Cómo pago lo indispensable si no puedo trabajar unos días?",
+     "zip": "lecciones/09_M4_U09.zip",
+     "h5p": "h5p/M4_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "¿Qué pasa con mi familia y mi dinero si no puedo estar?",
+     "zip": "lecciones/10_M4_U10.zip",
+     "h5p": "h5p/M4_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "¿Cómo sé si mi plan de protección funciona?",
+     "zip": "lecciones/11_M4_U11.zip",
+     "h5p": "h5p/M4_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "¿Cómo aseguro que la manutención llegue a mis hijos?",
+     "zip": "lecciones/12_M4_U12.zip",
+     "h5p": "h5p/M4_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U12"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Tu futuro",
+   "orden": 5,
+   "resumen": "<p>Metas, ahorro, vivienda y retiro.</p><p><strong>Al terminar tendrás:</strong> tus metas con monto, fecha y prioridad; decisiones de ahorro, inversión, vivienda y retiro con costos completos; tu mapa binacional; y un plan financiero integrado.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Cómo convierto un deseo en una meta?",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Tener más dinero significa que mi inversión ganó?",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Abrir una cuenta significa que ya invertí?",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Rentar o comprar? ¿Qué derechos tengo como inquilino?",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿El precio anunciado es todo lo que cuesta?",
+     "zip": "lecciones/05_M5_U05.zip",
+     "h5p": "h5p/M5_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿De qué viviré cuando trabaje menos o deje de trabajar?",
+     "zip": "lecciones/06_M5_U06.zip",
+     "h5p": "h5p/M5_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "¿Qué pasa con lo que ahorré en México?",
+     "zip": "lecciones/07_M5_U07.zip",
+     "h5p": "h5p/M5_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "¿Qué pasa con mi familia si algo me pasa?",
+     "zip": "lecciones/08_M5_U08.zip",
+     "h5p": "h5p/M5_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "¿Cómo hago un plan cuando el ingreso cambia cada mes?",
+     "zip": "lecciones/09_M5_U09.zip",
+     "h5p": "h5p/M5_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "¿Cómo formalizo mi negocio?",
+     "zip": "lecciones/10_M5_U10.zip",
+     "h5p": "h5p/M5_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "¿Cuál es mi plan financiero?",
+     "zip": "lecciones/11_M5_U11.zip",
+     "h5p": "h5p/M5_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "¿Qué pasa si heredo o dejo algo entre dos países?",
+     "zip": "lecciones/12_M5_U12.zip",
+     "h5p": "h5p/M5_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U12"
+    }
+   ]
+  }
+ ]
+}

@@ -2499,6 +2499,12 @@ Nadie necesita cobrarte miles de dólares por «arreglar» una herencia en Méxi
 
 
 
+#### Tu casa en México: el usufructo
+
+Si tienes casa o terreno en México y quieres pasarlos a tus hijos en vida sin dejar de usarlos, allá existe la donación con **reserva de usufructo**, ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
+
+
+
 #### Casos
 
 

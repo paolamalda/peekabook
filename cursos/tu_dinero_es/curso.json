@@ -26,7 +26,7 @@
   "M5": "Tus metas con monto, fecha y prioridad; decisiones de ahorro, inversión, vivienda y retiro con costos completos; tu mapa binacional; y un plan financiero integrado."
  },
  "apoyo_leads": {
-  "01": "Empieza aquí: cómo funciona el curso, tus rutas de 5 o 10 minutos, insignias y constancia.",
+  "01": "Empieza aquí: cómo funciona el curso, tus rutas de 10 o 15 minutos, insignias y constancia.",
   "02": "Cinco casos que reúnen lo aprendido en cada módulo. Resuélvelos antes de abrir la clave.",
   "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
   "04": "Las palabras del curso explicadas en lenguaje sencillo, con su nombre en inglés.",
@@ -194,7 +194,7 @@
  "catalogo": {
   "descripcion": [
    "Organiza tu dinero, envía remesas con cabeza, construye crédito, protege a tu familia y planea tu futuro.",
-   "Microlecciones de 5 a 10 minutos con casos de familias latinas en California."
+   "Lecciones de 10 a 15 minutos con casos de familias latinas en California."
   ],
   "para_quien": "Personas migrantes latinas y sus familias en California.",
   "idiomas": "Español (también en inglés)"
@@ -220,5 +220,28 @@
  "hojas": [
   "envios",
   "bienes"
- ]
+ ],
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu dinero en orden",
+   "descripcion": "Lo que entra, lo que sale y un plan para el mes."
+  },
+  "M2": {
+   "titulo": "Bancos y envíos a casa",
+   "descripcion": "Dónde guardar tu dinero y cómo mandar más por menos."
+  },
+  "M3": {
+   "titulo": "Crédito sin sustos",
+   "descripcion": "Tu historial, tus deudas y cómo salir de ellas."
+  },
+  "M4": {
+   "titulo": "Protege lo tuyo",
+   "descripcion": "Fraudes, seguros y un plan para tu familia."
+  },
+  "M5": {
+   "titulo": "Tu futuro",
+   "descripcion": "Metas, ahorro, vivienda y retiro."
+  }
+ }
 }
