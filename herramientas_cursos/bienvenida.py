@@ -249,7 +249,7 @@ def paginas(D, cfg):
           f'<div class="step"><i class="fa fa-comment-o"></i><b>3. {T("Preséntate", "Introduce yourself")}</b><span>{T("En el foro, con tu nombre o apodo: ¿qué esperas de este programa?", "In the forum, with your name or a nickname: what do you expect from this program?")}</span></div></div>'
           f'<div class="note" style="margin-top:16px"><i class="fa fa-bookmark-o"></i> {T("Escribe tu meta en una frase y guárdala en tu celular. La volverás a ver al final.", "Write your goal in one sentence and save it on your phone. You’ll see it again at the end.")}</div>'
           f'<p class="center" style="margin-top:22px"><span class="cta"><i class="fa fa-play"></i> {T("Ahora sí: ve a la Parte 1", "Now go to Part 1")} · {e(_nombre(cfg, list(MODS)[0]))}</span></p>'
-          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Programa de bienestar financiero", "Financial well-being program")}</div>')
+          f'<div class="firma"><div class="marca">{LOGO}</div>{"Desarrolla Talento"}</div>')
 
     bienvenida = [("01_bienvenida.html", T("Te damos la bienvenida", "Welcome"), b1),
                   ("02_bienvenida.html", T("Cómo funciona el curso", "How the course works"), b2),
@@ -283,10 +283,10 @@ def paginas(D, cfg):
     c4 = (f'<div class="hero center"><div class="logo">{LOGO}</div>'
           f'<h2>{T("¡Gracias y hasta pronto!", "Thank you, and see you soon!")}</h2><p>{tit}</p></div>'
           f'<div class="quote">{e(B.get("despedida", ""))}</div><div class="grid">'
-          f'<div class="card rosa"><div class="ic"><i class="fa fa-share-alt"></i></div><b>{T("Compártelo", "Share it")}</b><span>{T("¿Conoces a alguien a quien le serviría? Cuéntale del programa; es sin costo para quien participa.", "Know someone who could use it? Tell them about the program; there is no cost to participants.")}</span></div>'
+          f'<div class="card rosa"><div class="ic"><i class="fa fa-share-alt"></i></div><b>{T("Compártelo", "Share it")}</b><span>{T("¿Conoces a alguien a quien le serviría? Cuéntale del programa.", "Know someone who could use it? Tell them about the program.")}</span></div>'
           f'<div class="card"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>{T("Seguimos en contacto", "Let’s stay in touch")}</b><span>{T("El foro y los mensajes al equipo siguen abiertos", "The forum and team messages stay open")}{correo_txt}.</span></div>'
           f'<div class="card rosa"><div class="ic"><i class="fa fa-star"></i></div><b>{T("Celebra", "Celebrate")}</b><span>{T("Comparte tu insignia o tu constancia si quieres: son el reconocimiento a tu esfuerzo y tu constancia.", "Share your badge or certificate if you want: they recognize your effort and persistence.")}</span></div></div>'
-          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Reconocemos tu esfuerzo y tu constancia · Programa de bienestar financiero", "We recognize your effort and persistence · Financial well-being program")}</div>')
+          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Reconocemos tu esfuerzo y tu constancia · Desarrolla Talento", "We recognize your effort and persistence · Desarrolla Talento")}</div>')
     cierre = [("01_cierre.html", T("Lo que lograste", "What you achieved"), c1),
               ("02_cierre.html", T("Tu plan sigue", "Your plan continues"), c2),
               ("03_cierre.html", T("Encuesta final y constancia", "Final survey and certificate"), c3),
