@@ -69,65 +69,65 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M1 U01 | Dos caminos: Canadá y Estados Unidos | Distinguir cómo funcionan el PTAT a Canadá y la visa H-2A a Estados Unidos, y qué paga el empleador en cada uno. |
-| M1 U02 | Reclutadores falsos | Reconocer a los reclutadores que cobran o engañan, y saber cómo verificar una oferta para Canadá o Estados Unidos. |
-| M1 U03 | Lee tu contrato | Revisar los puntos clave de tu contrato antes de firmar, sea para Canadá o para Estados Unidos. |
+| M1 U01 | Dos caminos: Canadá y Estados Unidos | Distinguir cómo funcionan el PTAT a Canadá y la visa H-2A a Estados Unidos, y qué paga el empleador en cada uno. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M1 U02 | Reclutadores falsos | Reconocer a los reclutadores que cobran o engañan, y saber cómo verificar una oferta para Canadá o Estados Unidos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M1 U03 | Lee tu contrato | Revisar los puntos clave de tu contrato antes de firmar, sea para Canadá o para Estados Unidos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
 
 ## Módulo 2. Antes de irte: la casa en orden
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M2 U01 | No te endeudes para irte | Calcular lo que de verdad cuesta irte y evitar deudas caras antes de la temporada. |
-| M2 U02 | Quién maneja el dinero en casa | Dejar acordado quién maneja el dinero en México mientras estás fuera y con qué herramientas. |
-| M2 U03 | El presupuesto de la familia mientras no estás | Hacer el presupuesto de la familia en México para toda la temporada, con ahorro incluido. |
+| M2 U01 | No te endeudes para irte | Calcular lo que de verdad cuesta irte y evitar deudas caras antes de la temporada. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M2 U02 | Quién maneja el dinero en casa | Dejar acordado quién maneja el dinero en México mientras estás fuera y con qué herramientas. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
+| M2 U03 | El presupuesto de la familia mientras no estás | Hacer el presupuesto de la familia en México para toda la temporada, con ahorro incluido. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
 
 ## Módulo 3. Tu pago allá
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M3 U01 | Tu talón de pago | Leer tu talón de pago para revisar horas, tarifa, pago por pieza y descuentos, en Canadá o en Estados Unidos. |
-| M3 U02 | ¿Te pagan lo correcto? | Saber cómo se fija tu salario en Canadá y en Estados Unidos, y qué hacer si te pagan menos. |
-| M3 U03 | Cobrar sin perder en comisiones | Cobrar tus pagos sin dejar parte en comisiones caras. |
+| M3 U01 | Tu talón de pago | Leer tu talón de pago para revisar horas, tarifa, pago por pieza y descuentos, en Canadá o en Estados Unidos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M3 U02 | ¿Te pagan lo correcto? | Saber cómo se fija tu salario en Canadá y en Estados Unidos, y qué hacer si te pagan menos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M3 U03 | Cobrar sin perder en comisiones | Cobrar tus pagos sin dejar parte en comisiones caras. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
 
 ## Módulo 4. Mandar dinero que rinda
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M4 U01 | Compara antes de mandar | Comparar comisión y tipo de cambio para que llegue más dinero a tu familia, desde Canadá o desde Estados Unidos. |
-| M4 U02 | El plan para la remesa | Acordar con tu familia en qué se usa cada envío. |
-| M4 U03 | Ahorrar allá o mandar a México | Decidir dónde guardar el ahorro de la temporada de forma segura. |
+| M4 U01 | Compara antes de mandar | Comparar comisión y tipo de cambio para que llegue más dinero a tu familia, desde Canadá o desde Estados Unidos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M4 U02 | El plan para la remesa | Acordar con tu familia en qué se usa cada envío. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
+| M4 U03 | Ahorrar allá o mandar a México | Decidir dónde guardar el ahorro de la temporada de forma segura. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
 
 ## Módulo 5. Impuestos y papeles en Canadá y Estados Unidos
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M5 U01 | Impuestos en Estados Unidos con visa H-2A | Entender qué impuestos aplican al salario H-2A y cuándo puede corresponderte una declaración. |
-| M5 U02 | Impuestos en Canadá con el PTAT | Entender las deducciones de Canadá y por qué conviene presentar tu declaración de impuestos. |
-| M5 U03 | Tu carpeta de papeles | Guardar en una carpeta los papeles de cada temporada para impuestos, pensión y reclamos. |
+| M5 U01 | Impuestos en Estados Unidos con visa H-2A | Entender qué impuestos aplican al salario H-2A y cuándo puede corresponderte una declaración. Aplica solo a Estados Unidos (H-2A). Si vas a Canadá, ve la siguiente lección. |
+| M5 U02 | Impuestos en Canadá con el PTAT | Entender las deducciones de Canadá y por qué conviene presentar tu declaración de impuestos. Aplica solo a Canadá (PTAT). Si vas a Estados Unidos, ve la lección anterior. |
+| M5 U03 | Tu carpeta de papeles | Guardar en una carpeta los papeles de cada temporada para impuestos, pensión y reclamos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
 
 ## Módulo 6. Tus derechos y tu seguridad
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M6 U01 | Tus derechos básicos allá | Conocer los derechos básicos de las personas trabajadoras agrícolas temporales en Canadá y en Estados Unidos. |
-| M6 U02 | Si te lastimas o te enfermas | Saber qué hacer si te lastimas o te enfermas trabajando, y qué seguros te cubren. |
-| M6 U03 | A quién llamar | Tener a la mano a quién llamar en Canadá y en Estados Unidos si tienes un problema. |
+| M6 U01 | Tus derechos básicos allá | Conocer los derechos básicos de las personas trabajadoras agrícolas temporales en Canadá y en Estados Unidos. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
+| M6 U02 | Si te lastimas o te enfermas | Saber qué hacer si te lastimas o te enfermas trabajando, y qué seguros te cubren. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M6 U03 | A quién llamar | Tener a la mano a quién llamar en Canadá y en Estados Unidos si tienes un problema. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
 
 ## Módulo 7. El regreso y los meses sin temporada
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M7 U01 | El regreso | Prepararte para el regreso: transporte pagado, papeles y dinero en orden. |
-| M7 U02 | Los meses sin temporada | Hacer que el dinero de la temporada alcance para los meses en México hasta la siguiente. |
-| M7 U03 | ¿Otra temporada? | Decidir con números si te conviene volver la siguiente temporada. |
+| M7 U01 | El regreso | Prepararte para el regreso: transporte pagado, papeles y dinero en orden. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M7 U02 | Los meses sin temporada | Hacer que el dinero de la temporada alcance para los meses en México hasta la siguiente. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
+| M7 U03 | ¿Otra temporada? | Decidir con números si te conviene volver la siguiente temporada. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
 
 ## Módulo 8. Tu retiro y tu futuro en México
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M8 U01 | Tu retiro: Canadá, Estados Unidos y México | Saber qué cuenta para tu retiro según el país donde trabajas y cómo completarlo en México. |
-| M8 U02 | Un proyecto que produce | Convertir el ahorro de las temporadas en un proyecto que genere ingreso en México. |
-| M8 U03 | Tu plan de temporada en una página | Reunir en una página tu contrato, tu pago, tus envíos, tus papeles, tus derechos y tu futuro. |
+| M8 U01 | Tu retiro: Canadá, Estados Unidos y México | Saber qué cuenta para tu retiro según el país donde trabajas y cómo completarlo en México. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país. |
+| M8 U02 | Un proyecto que produce | Convertir el ahorro de las temporadas en un proyecto que genere ingreso en México. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
+| M8 U03 | Tu plan de temporada en una página | Reunir en una página tu contrato, tu pago, tus envíos, tus papeles, tus derechos y tu futuro. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A). |
 
 # 4. Estructura de cada lección
 

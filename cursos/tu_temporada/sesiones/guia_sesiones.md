@@ -1,6 +1,6 @@
 # Tu Temporada · Guía de implementación
 
-Programa híbrido para personas que trabajan por temporada en el campo de **Canadá (PTAT)** o de **Estados Unidos (visa H-2A)** y para sus familias. Tiene 24 lecciones de 5 a 10 minutos, unas 3 horas en total, que se pueden tomar en el celular antes de irse, durante la temporada o entre temporadas. Abre con una sesión presencial de 3 horas en la comunidad de origen, antes de la salida.
+Programa híbrido para personas que trabajan por temporada en el campo de **Canadá (PTAT)** o de **Estados Unidos (visa H-2A)** y para sus familias. Tiene 24 lecciones de 5 a 10 minutos (unas 2 horas en la ruta rápida) que se pueden tomar en el celular antes de irse, durante la temporada o entre temporadas. Abre con una sesión presencial de 3 horas en la comunidad de origen, antes de la salida.
 
 **Con quién:** la persona que se va y quien administra el dinero en casa. Conviene que vengan juntos.
 
@@ -43,4 +43,5 @@ Programa híbrido para personas que trabajan por temporada en el campo de **Cana
 - No se recomiendan empresas de envío, bancos, financieras ni preparadores de impuestos.
 - No se piden números de Seguro Social, ITIN, SIN, pasaporte ni datos de cuentas.
 - El programa no da asesoría legal ni migratoria: se orienta al Servicio Nacional de Empleo, a los consulados y a las oficinas públicas.
+- Cada lección dice al inicio si aplica a Canadá (PTAT), a Estados Unidos (H-2A) o a los dos, y cada bloque que cambia por país lleva su etiqueta. En grupos mixtos, el facilitador lo señala al presentar cada bloque.
 - Salarios, contratos y reglas cambian cada año: revisar los datos del manual antes de cada temporada.
