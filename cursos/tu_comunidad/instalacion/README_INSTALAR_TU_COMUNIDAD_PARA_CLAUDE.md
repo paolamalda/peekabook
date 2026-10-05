@@ -43,7 +43,7 @@ Reglas:
 
 | Sección | Nombre | Descripción |
 |---|---|---|
-| General | Bienvenida | Libro «Bienvenida», foros "Dudas y comentarios" y "Preséntate", encuesta de inicio y «Tu punto de partida» |
+| General | Bienvenida | Libro «Bienvenida», foro "Dudas y comentarios", encuesta de inicio, «Tu punto de partida» y «Mi meta» |
 | 1 | Tu tarjeta y tus apoyos, sin intermediarios | Contenido de `1_libros/M1_resumen.html` |
 | 2 | Tu cuenta a tu nombre | `M2_resumen.html` |
 | 3 | Recibir y enviar dinero sin perder | `M3_resumen.html` |
@@ -61,7 +61,8 @@ Descripción del foro "Dudas y comentarios": "No compartas números de cuenta, N
 Son lo primero y lo último que ve la persona: no los omitas.
 
 1. **Sección General, arriba de todo:** crea el libro `Bienvenida` (formato de capítulo "Nada", navegación "Texto") e importa `1_libros/Bienvenida_libro_Moodle.zip`, tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Te damos la bienvenida, Cómo funciona el curso, Guía de contacto y comunidad, Antes de empezar. Finalización: "Ver".
-2. Debajo, el foro **"Dudas y comentarios"** (foro general) y el foro **"Preséntate"** (tipo "Foro estándar para uso general"; descripción: "Tu nombre o apodo y qué esperas de este programa. Sin datos personales."). Los dos dan puntos en Level Up.
+2. Debajo, el foro **"Dudas y comentarios"** (foro general). **No crees un foro de presentaciones:** pedir que la gente se presente invita a compartir datos personales.
+   Después, la tarea **"Mi meta"**: tipo *Tarea*, entrega "Texto en línea" (límite de 60 palabras), **sin calificación**, sin fecha límite, sin avisos a otros participantes; las entregas solo las ven la persona y el equipo del curso. Instrucciones: "En una frase: qué esperas del programa y qué quieres lograr. No escribas datos personales ni montos reales. Al final del curso la vuelves a abrir." Permite editar la entrega en cualquier momento. Finalización: "Enviar".
 3. Debajo, la **Encuesta de inicio** (sección 8) y el cuestionario **«Tu punto de partida»**: importa `4_preguntas/diagnostica.gift.txt` (crea su propia categoría «Diagnóstica»), todas las preguntas, calificación sobre 0 (no cuenta para la calificación), **un intento**, tiempo máximo 10 minutos, revisión con respuesta correcta al terminar.
 4. **Restringir acceso** de la primera lección de la Parte 1: el libro `Bienvenida` debe estar visto.
 5. **Sección 9, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.

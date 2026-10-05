@@ -56,7 +56,7 @@ Crea estos foros. En **todos**:
 
 | Nombre | Tipo de foro | Descripción (después de la advertencia) |
 |---|---|---|
-| Preséntate | Foro para uso general | "Cuéntanos quién eres, a qué te dedicas y qué quieres lograr este año." |
+| Lo que quiero lograr | Foro para uso general | "En una frase, qué quieres lograr este año. Sin nombre completo, datos personales ni montos reales." |
 | Dudas: mi dinero, el SAT, contratos y regalías | Foro estándar que aparece en un formato similar a un blog | "Módulos 1 a 3. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: crédito, Buró y deudas | Foro estándar que aparece en un formato similar a un blog | "Módulos 4 a 8. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: fraudes, protección y futuro | Foro estándar que aparece en un formato similar a un blog | "Módulos 9 a 11. Usa la plantilla del capítulo 3 de la guía." |
@@ -95,7 +95,7 @@ En el curso **TTMF-MX**, sección General, agrega una **URL** `Comunidad Tu Tale
 ## 5. Revisión (con rol de estudiante)
 
 - No se pueden adjuntar archivos en los foros.
-- El estudiante puede publicar en Preséntate, Dudas, Alertas y Logros.
+- El estudiante puede publicar en Lo que quiero lograr, Dudas, Alertas y Logros.
 - El estudiante no puede publicar en Avisos ni en Referencias comerciales.
 - El libro muestra 6 capítulos.
 - La consulta y la encuesta funcionan.

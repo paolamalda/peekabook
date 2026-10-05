@@ -9,7 +9,7 @@ Aquí resuelves dudas, compartes avances, te enteras de fechas importantes y te 
 | Espacio | Para qué sirve |
 |---|---|
 | **Avisos** | Fechas del SAT, recordatorios, sesiones en vivo y cambios en el curso. Solo publica el equipo. |
-| **Preséntate** | Di quién eres y qué quieres lograr este año. |
+| **Lo que quiero lograr** | En una frase, qué quieres lograr. Sin datos personales. |
 | **Foros de dudas** | Tres foros por tema: dinero y SAT; crédito y deudas; fraudes, protección y futuro. |
 | **Alertas de fraude** | Avisa de falsos castings, mensajes falsos o apps sospechosas. |
 | **Logros** | Celebra tus avances: pediste tus reportes, pagaste una tarjeta, registraste tu nombre. |
@@ -25,7 +25,7 @@ Aquí resuelves dudas, compartes avances, te enteras de fechas importantes y te 
 ## Cómo empezar
 
 1. Lee las reglas (capítulo 2).
-2. Preséntate en el foro **Preséntate**.
+2. Si quieres, comparte en **Lo que quiero lograr** qué te gustaría lograr, en una frase y sin datos personales.
 3. Suscríbete a **Avisos** para recibir las fechas importantes.
 4. Cuando tengas una duda, usa la plantilla del capítulo 3.
 

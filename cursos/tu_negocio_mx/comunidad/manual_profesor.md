@@ -81,7 +81,7 @@ En Moodle tienes el rol **Profesor sin permiso de edición** (o Profesor, si coo
 ## Día de apertura
 
 1. Publica en **Avisos** la bienvenida (anexo A1) y fíjala.
-2. Publica tu presentación en **Preséntate** como ejemplo.
+2. Publica en **Lo que quiero lograr** un ejemplo: una meta en una frase, sin datos personales.
 3. Publica en el canal el aviso de apertura (anexo A2).
 
 ## Semana 1 · Conocerse
@@ -209,7 +209,7 @@ Una publicación al mes por persona. Responde con una frase de ánimo y, si apli
 
 **A1. Bienvenida (Avisos, fijada)**
 
-"¡Bienvenida y bienvenido a la Comunidad Tu Negocio! Aquí resolvemos dudas, nos avisamos de fraudes, compartimos nuestros negocios y celebramos avances. Para empezar: lee las reglas (capítulo 2), preséntate en **Preséntate** y anota la fecha de la primera sesión: [fecha y enlace]. Importante: Desarrolla Talento nunca te pide tu RFC, contraseñas ni e.firma."
+"¡Bienvenida y bienvenido a la Comunidad Tu Negocio! Aquí resolvemos dudas, nos avisamos de fraudes, compartimos nuestros negocios y celebramos avances. Para empezar: lee las reglas (capítulo 2), comparte en una frase lo que quieres lograr en **Lo que quiero lograr** y anota la fecha de la primera sesión: [fecha y enlace]. Importante: Desarrolla Talento nunca te pide tu RFC, contraseñas ni e.firma."
 
 **A2. Apertura (canal)**
 

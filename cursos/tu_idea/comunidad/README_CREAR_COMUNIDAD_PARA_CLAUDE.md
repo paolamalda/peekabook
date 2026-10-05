@@ -63,7 +63,7 @@ Crea estos foros. En **todos**:
 
 | Nombre | Tipo de foro | Descripción (después de la advertencia) |
 |---|---|---|
-| Preséntate | Foro para uso general | "Preséntate solo con tu nombre de pila y cuéntanos qué te gustaría crear." |
+| Lo que quiero lograr | Foro para uso general | "En una frase, qué quieres lograr este año. Sin nombre completo, datos personales ni montos reales." |
 | Dudas: mi dinero y lo digital | Foro estándar que aparece en un formato similar a un blog | "Módulos 1 y 2. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: crear y crecer | Foro estándar que aparece en un formato similar a un blog | "Módulos 3 y 4. Usa la plantilla del capítulo 3 de la guía." |
 | Vitrina de ideas | Foro para uso general | "Cuenta tu idea en tres líneas y pide retroalimentación. No se vende, no se cobra y no se publican datos de contacto." |
@@ -102,7 +102,7 @@ En el curso **TIDF-MX**, sección General, agrega una **URL** `Comunidad Tu Idea
 ## 5. Revisión (con rol de estudiante)
 
 - No se pueden adjuntar archivos en los foros.
-- El estudiante puede publicar en Preséntate, Dudas, Alertas y Logros.
+- El estudiante puede publicar en Lo que quiero lograr, Dudas, Alertas y Logros.
 - El estudiante no puede publicar en Avisos.
 - La Vitrina de ideas muestra la advertencia de no vender ni publicar datos de contacto.
 - El libro muestra 6 capítulos.

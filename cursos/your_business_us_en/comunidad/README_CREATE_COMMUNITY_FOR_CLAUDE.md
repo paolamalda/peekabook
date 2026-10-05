@@ -57,7 +57,7 @@ Create these forums. In **all** of them:
 
 | Name | Forum type | Description (after the warning) |
 |---|---|---|
-| Introduce yourself | Standard forum for general use | "Tell us who you are, what business you have and what you want to achieve this year." |
+| What I want to achieve | Standard forum for general use | "In one sentence, what you want to achieve this year. No full name, personal data or real amounts." |
 | Questions: money, price, cash flow and payments | Standard forum displayed in a blog-like format | "Modules 1 to 4. Use the template in chapter 3 of the guide." |
 | Questions: taxes and formality | Standard forum displayed in a blog-like format | "Module 5. General orientation; review your case with a tax preparer or CPA. Immigration topics aren't covered. Use the template in chapter 3." |
 | Questions: credit, protection, growth and future | Standard forum displayed in a blog-like format | "Modules 6 to 9. Use the template in chapter 3 of the guide." |
@@ -97,7 +97,7 @@ In the course **YBMF-US-EN**, General section, add a **URL** `Your Business Comm
 ## 5. Review (as a student)
 
 - Attachments can't be added in the forums.
-- The student can post in Introduce yourself, Questions, Introduce your business, Alerts and Wins.
+- The student can post in What I want to achieve, Questions, Introduce your business, Alerts and Wins.
 - The student can't post in Announcements or Commercial referrals.
 - The book shows 6 chapters.
 - The choice and the survey work.

@@ -7,7 +7,7 @@
 | Espacio | Para qué sirve |
 |---|---|
 | **Avisos** | Fechas, retos, sesiones y alertas. Solo publica el equipo. |
-| **Preséntate** | Di tu nombre de pila y qué te gustaría crear. |
+| **Lo que quiero lograr** | En una frase, qué quieres lograr. Sin datos personales. |
 | **Foros de dudas** | Tres foros: mi dinero y lo digital; crear y crecer; invertir, crédito y protección. |
 | **Vitrina de ideas** | Cuenta tu idea y pide retroalimentación. No se vende ni se cobra aquí. |
 | **Alertas de fraude** | Avisa de ofertas de «dinero fácil», cuentas mula o sorteos falsos. |
@@ -27,6 +27,6 @@ El equipo **nunca** te pide datos personales, fotos, tu ubicación, tus redes, c
 ## Cómo empezar
 
 1. Lee las reglas (capítulo 2).
-2. Preséntate en el foro **Preséntate**, solo con tu nombre de pila.
+2. Si quieres, comparte en **Lo que quiero lograr** qué te gustaría lograr, en una frase y sin datos personales.
 3. Revisa los retos del mes (capítulo 5).
 4. Cuando tengas una duda, usa la plantilla del capítulo 3.

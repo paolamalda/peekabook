@@ -7,7 +7,7 @@
 | Espacio | Para qué sirve |
 |---|---|
 | **Avisos** | Fechas de impuestos, recordatorios, sesión mensual y alertas. Solo publica el equipo. |
-| **Preséntate** | Di quién eres, qué negocio tienes y qué quieres lograr. |
+| **Lo que quiero lograr** | En una frase, qué quieres lograr. Sin datos personales. |
 | **Foros de dudas** | Tres foros por tema: dinero, precio y flujo; impuestos y formalidad; crédito, protección y futuro. |
 | **Presenta tu negocio** | Una publicación al mes para contar qué haces. Sin ofertas financieras. |
 | **Alertas de fraude** | Avisa de llamadas «del IRS», cartas que imitan al gobierno, cheques de más o proveedores falsos. |
@@ -28,6 +28,6 @@ El equipo **nunca** te pide tu SSN, ITIN, EIN, contraseñas, números de cuenta,
 ## Cómo empezar
 
 1. Lee las reglas (capítulo 2).
-2. Preséntate en el foro **Preséntate**.
+2. Si quieres, comparte en **Lo que quiero lograr** qué te gustaría lograr, en una frase y sin datos personales.
 3. Anota la fecha de la sesión mensual (capítulo 5).
 4. Cuando tengas una duda, usa la plantilla del capítulo 3.

@@ -57,7 +57,7 @@ Crea estos foros. En **todos**:
 
 | Nombre | Tipo de foro | Descripción (después de la advertencia) |
 |---|---|---|
-| Preséntate | Foro para uso general | "Cuéntanos quién eres, a qué te dedicas y qué quieres lograr este año." |
+| Lo que quiero lograr | Foro para uso general | "En una frase, qué quieres lograr este año. Sin nombre completo, datos personales ni montos reales." |
 | Dudas: mi dinero y el sistema financiero | Foro estándar que aparece en un formato similar a un blog | "Módulos 1, 2, 5 y 6. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: celular, seguridad y fraudes | Foro estándar que aparece en un formato similar a un blog | "Módulos 3 y 4. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: retiro, salud, impuestos y familia | Foro estándar que aparece en un formato similar a un blog | "Módulos 7 a 11. Usa la plantilla del capítulo 3 de la guía." |
@@ -96,7 +96,7 @@ En el curso **TPTF-MX**, sección General, agrega una **URL** `Comunidad Tu Patr
 ## 5. Revisión (con rol de estudiante)
 
 - No se pueden adjuntar archivos en los foros.
-- El estudiante puede publicar en Preséntate, Dudas, Alertas y Logros.
+- El estudiante puede publicar en Lo que quiero lograr, Dudas, Alertas y Logros.
 - El estudiante no puede publicar en Avisos ni en Referencias comerciales.
 - El libro muestra 6 capítulos.
 - La consulta y la encuesta funcionan.

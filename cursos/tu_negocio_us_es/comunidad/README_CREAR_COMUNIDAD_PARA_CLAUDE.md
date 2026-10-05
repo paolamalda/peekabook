@@ -56,7 +56,7 @@ Crea estos foros. En **todos**:
 
 | Nombre | Tipo de foro | Descripción (después de la advertencia) |
 |---|---|---|
-| Preséntate | Foro para uso general | "Cuéntanos quién eres, qué negocio tienes y qué quieres lograr este año." |
+| Lo que quiero lograr | Foro para uso general | "En una frase, qué quieres lograr este año. Sin nombre completo, datos personales ni montos reales." |
 | Dudas: dinero, precio, flujo y cobros | Foro estándar que aparece en un formato similar a un blog | "Módulos 1 a 4. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: impuestos y formalidad | Foro estándar que aparece en un formato similar a un blog | "Módulo 5. Orientación general; tu caso lo revisas con un preparador de impuestos o CPA. No se tratan temas migratorios. Usa la plantilla del capítulo 3." |
 | Dudas: crédito, protección, crecer y futuro | Foro estándar que aparece en un formato similar a un blog | "Módulos 6 a 9. Usa la plantilla del capítulo 3 de la guía." |
@@ -96,7 +96,7 @@ En el curso **TNDF-US-ES**, sección General, agrega una **URL** `Comunidad Tu N
 ## 5. Revisión (con rol de estudiante)
 
 - No se pueden adjuntar archivos en los foros.
-- El estudiante puede publicar en Preséntate, Dudas, Presenta tu negocio, Alertas y Logros.
+- El estudiante puede publicar en Lo que quiero lograr, Dudas, Presenta tu negocio, Alertas y Logros.
 - El estudiante no puede publicar en Avisos ni en Referencias comerciales.
 - El libro muestra 6 capítulos.
 - La consulta y la encuesta funcionan.

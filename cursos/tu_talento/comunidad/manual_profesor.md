@@ -74,7 +74,7 @@ En Moodle tienes el rol **Profesor sin permiso de edición** (o Profesor, si coo
 | [ ] | Confirmar con coordinación la fecha, la hora y el enlace de las tres primeras sesiones mensuales. |
 | [ ] | Confirmar que existe el canal de WhatsApp y que tú o coordinación pueden publicar en él. |
 | [ ] | Activar las notificaciones de los foros en tu perfil (*Preferencias > Preferencias de notificación*). |
-| [ ] | Preparar tu presentación para el foro **Preséntate** (sección 3). |
+| [ ] | Preparar tu ejemplo para el foro **Lo que quiero lograr** (sección 3). |
 | [ ] | Crear tu bitácora (sección 9) y agendar tus bloques de tiempo (sección 4). |
 | [ ] | Guardar en tu teléfono los textos listos del anexo A y el directorio del anexo C. |
 
@@ -93,7 +93,7 @@ El primer mes marca el ritmo. La meta es que cada persona se presente, haga su p
 ## Día de apertura
 
 1. Publica en **Avisos** el mensaje de bienvenida (anexo A1) y fíjalo arriba.
-2. Publica tu presentación en **Preséntate** como ejemplo: nombre, qué haces, qué te gustaría lograr con la comunidad. Sin datos personales.
+2. Publica en **Lo que quiero lograr** un ejemplo: una meta en una frase, sin datos personales.
 3. Publica en el canal de WhatsApp el aviso de apertura (anexo A2).
 4. Abre en cada foro de dudas una primera discusión fijada: "¿Cómo preguntar?", con la plantilla del capítulo 3 de la guía.
 
@@ -306,7 +306,7 @@ Anótalo en la bitácora como "error en el curso", con la lección y qué deber�
 
 **A1. Bienvenida (Avisos, fijada)**
 
-"¡Bienvenida, bienvenido a la Comunidad Tu Talento! 🎬 Este es el espacio para resolver dudas del curso, enterarte de fechas importantes, alertarnos de fraudes y celebrar avances. Para empezar: 1) lee las reglas (capítulo 2 de la guía); 2) preséntate en **Preséntate**; 3) cuando tengas una duda, usa la plantilla del capítulo 3. Importante: nunca publiques RFC, CURP, cuentas, montos reales ni capturas. Nos vemos en la sesión en vivo del [fecha]."
+"¡Bienvenida, bienvenido a la Comunidad Tu Talento! 🎬 Este es el espacio para resolver dudas del curso, enterarte de fechas importantes, alertarnos de fraudes y celebrar avances. Para empezar: 1) lee las reglas (capítulo 2 de la guía); 2) comparte en una frase lo que quieres lograr en **Lo que quiero lograr**; 3) cuando tengas una duda, usa la plantilla del capítulo 3. Importante: nunca publiques RFC, CURP, cuentas, montos reales ni capturas. Nos vemos en la sesión en vivo del [fecha]."
 
 **A2. Apertura (canal de WhatsApp)**
 

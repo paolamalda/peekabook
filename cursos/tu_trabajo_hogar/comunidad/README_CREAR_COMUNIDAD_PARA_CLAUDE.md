@@ -56,7 +56,7 @@ Crea estos foros. En **todos**:
 
 | Nombre | Tipo de foro | Descripción (después de la advertencia) |
 |---|---|---|
-| Preséntate | Foro para uso general | "Cuéntanos quién eres y qué quieres lograr este año." |
+| Lo que quiero lograr | Foro para uso general | "En una frase, qué quieres lograr este año. Sin nombre completo, datos personales ni montos reales." |
 | Dudas: ingreso, derechos y ahorro | Foro estándar que aparece en un formato similar a un blog | "Módulos 1 a 3. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: familia y deudas | Foro estándar que aparece en un formato similar a un blog | "Módulos 4 y 5. Usa la plantilla del capítulo 3 de la guía." |
 | Dudas: salud, fraudes y futuro | Foro estándar que aparece en un formato similar a un blog | "Módulos 6 a 9. Usa la plantilla del capítulo 3 de la guía." |
@@ -95,7 +95,7 @@ En el curso **TTFF-MX**, sección General, agrega una **URL** `Comunidad Tu Trab
 ## 5. Revisión (con rol de estudiante)
 
 - No se pueden adjuntar archivos en los foros.
-- El estudiante puede publicar en Preséntate, Dudas, Alertas y Logros.
+- El estudiante puede publicar en Lo que quiero lograr, Dudas, Alertas y Logros.
 - El estudiante no puede publicar en Avisos ni en Referencias comerciales.
 - El libro muestra 6 capítulos.
 - La consulta y la encuesta funcionan.

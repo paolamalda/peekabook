@@ -7,7 +7,7 @@
 | Space | What it's for |
 |---|---|
 | **Announcements** | Tax dates, reminders, the monthly session and alerts. Only the team posts. |
-| **Introduce yourself** | Tell us who you are, what business you have and what you want to achieve. |
+| **What I want to achieve** | In one sentence, what you want to achieve. No personal data. |
 | **Question forums** | Three forums by topic: money, price and cash flow; taxes and formality; credit, protection and future. |
 | **Introduce your business** | One post a month to tell people what you do. No financial offers. |
 | **Scam alerts** | Warn about "IRS" calls, government-imitation letters, overpayment checks or fake suppliers. |
@@ -28,6 +28,6 @@ The team **never** asks for your SSN, ITIN, EIN, passwords, account numbers, you
 ## How to start
 
 1. Read the rules (chapter 2).
-2. Introduce yourself in **Introduce yourself**.
+2. If you want, share in **What I want to achieve** what you would like to achieve, in one sentence and with no personal data.
 3. Note the date of the monthly session (chapter 5).
 4. When you have a question, use the template in chapter 3.

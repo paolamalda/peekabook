@@ -82,7 +82,7 @@ In Moodle you have the **Non-editing teacher** role (or Teacher, if coordination
 ## Opening day
 
 1. Post the welcome (annex A1) in **Announcements** and pin it.
-2. Post your own introduction in **Introduce yourself** as an example.
+2. Post an example in **What I want to achieve**: one goal in one sentence, with no personal data.
 3. Post the opening notice (annex A2) on the channel.
 
 ## Week 1 · Getting to know each other
@@ -210,7 +210,7 @@ One post a month per person. Reply with a sentence of encouragement and, if it a
 
 **A1. Welcome (Announcements, pinned)**
 
-"Welcome to Your Business Community! Here we answer questions, warn each other about scams, share our businesses and celebrate progress. To start: read the rules (chapter 2), introduce yourself in **Introduce yourself** and note the date of the first session: [date and link]. Important: Desarrolla Talento never asks for your SSN, ITIN, passwords or immigration status."
+"Welcome to Your Business Community! Here we answer questions, warn each other about scams, share our businesses and celebrate progress. To start: read the rules (chapter 2), share in one sentence what you want to achieve in **What I want to achieve** and note the date of the first session: [date and link]. Important: Desarrolla Talento never asks for your SSN, ITIN, passwords or immigration status."
 
 **A2. Opening (channel)**
 

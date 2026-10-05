@@ -7,7 +7,7 @@
 | Espacio | Para qué sirve |
 |---|---|
 | **Avisos** | Fechas, recordatorios, sesiones y alertas. Solo publica el equipo. |
-| **Preséntate** | Di quién eres y qué quieres lograr. |
+| **Lo que quiero lograr** | En una frase, qué quieres lograr. Sin datos personales. |
 | **Foros de dudas** | Tres foros por tema: ingreso, derechos y ahorro; familia y deudas; salud, fraudes y futuro. |
 | **Alertas de fraude** | Avisa de llamadas, mensajes, falsos trabajos o apps sospechosas. |
 | **Logros** | Celebra tus avances: apartaste tu ahorro, nombraste beneficiarias, pediste tu aumento. |
@@ -27,6 +27,6 @@ El equipo **nunca** te pide datos personales, contraseñas, códigos, fotos de t
 ## Cómo empezar
 
 1. Lee las reglas (capítulo 2).
-2. Preséntate en el foro **Preséntate**.
+2. Si quieres, comparte en **Lo que quiero lograr** qué te gustaría lograr, en una frase y sin datos personales.
 3. Revisa las fechas de las sesiones (capítulo 5).
 4. Cuando tengas una duda, usa la plantilla del capítulo 3.
