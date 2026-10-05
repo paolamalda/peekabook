@@ -1,0 +1,76 @@
+{
+ "sigla": "TRTA",
+ "titulo": "Tu Ruta, Tu Dinero, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para repartidores y conductores de aplicaciones en México: ingreso real, derechos de la reforma de plataformas, IMSS, impuestos, vehículo, accidentes, préstamos y futuro. 8 módulos y 24 lecciones cortas en línea, para tomar entre viajes.",
+ "publico": "Personas que reparten o conducen con aplicaciones en México, en bici, moto o auto, propio o rentado.",
+ "formato": "En línea, a su ritmo, en lecciones de 5 a 10 minutos (unas 3 horas en total).",
+ "categoria": "Tu Ruta",
+ "banco": "banco_preguntas_trta.gift.txt",
+ "min_leccion": [5, 10],
+ "personajes": {
+  "Beto": "28 años. Reparte en moto propia en Guadalajara con dos aplicaciones.",
+  "Mariana": "33 años. Conduce su auto en la Ciudad de México; es mamá de una niña.",
+  "Kevin": "21 años. Reparte en bici en Puebla mientras estudia.",
+  "Don Chava": "47 años. Conduce un auto que le renta un dueño por semana en Monterrey."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Tu ingreso real",
+  "M2": "Módulo 2. Tus derechos con la reforma",
+  "M3": "Módulo 3. Tu IMSS, tu Afore y tu Infonavit",
+  "M4": "Módulo 4. Tus impuestos",
+  "M5": "Módulo 5. Tu vehículo",
+  "M6": "Módulo 6. Accidentes, salud y días sin trabajo",
+  "M7": "Módulo 7. Préstamos y fraudes en la ruta",
+  "M8": "Módulo 8. Tu futuro"
+ },
+ "resultados": {
+  "M1": "Tu ganancia real por hora y un sueldo fijo para las semanas malas.",
+  "M2": "Tus derechos claros: quién es persona trabajadora de plataforma, prestaciones y cómo reclamar.",
+  "M3": "Tu situación ante el IMSS revisada y tu Afore localizada.",
+  "M4": "Tus retenciones entendidas y tu RFC en orden.",
+  "M5": "Tu apartado para el vehículo y tu decisión sobre seguro y compra.",
+  "M6": "Tu plan ante un accidente y tu fondo para días sin trabajo.",
+  "M7": "Tu regla contra préstamos caros y fraudes de cuentas.",
+  "M8": "Tu ahorro para el retiro y tu plan de una página."
+ },
+ "insignias": [
+  ["01_ganancia_real", "M1", "Ganancia real", "fa-calculator"],
+  ["02_conozco_mis_derechos", "M2", "Conozco mis derechos", "fa-balance-scale"],
+  ["03_asegurado", "M3", "Asegurado", "fa-hospital-o"],
+  ["04_cuentas_claras", "M4", "Cuentas claras con el SAT", "fa-file-text-o"],
+  ["05_vehiculo_en_orden", "M5", "Vehículo en orden", "fa-motorcycle"],
+  ["06_ruta_segura", "M6 · M7", "Ruta segura", "fa-shield"],
+  ["07_futuro_en_marcha", "M8", "Futuro en marcha", "fa-road"],
+  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+ ],
+ "constancia": {
+  "titulo": "Tu Ruta, Tu Dinero, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Ruta, Tu Dinero, Tu Futuro",
+  "temas": ["Ingreso real", "Derechos e IMSS", "Impuestos", "Vehículo y accidentes", "Futuro"]
+ },
+ "problema": [
+  "Ven lo que entra en la app, pero no lo que se va en gasolina, mantenimiento, comisiones y celular.",
+  "El ingreso cambia cada semana y no hay sueldo fijo.",
+  "No saben si les alcanza para tener IMSS completo con la reforma, ni qué prestaciones les tocan.",
+  "Les retienen impuestos y no saben si están al corriente con el SAT.",
+  "Un accidente o una falla del vehículo los deja sin ingreso.",
+  "Préstamos rápidos, renta de cuentas y soporte falso les cuestan dinero."
+ ],
+ "reglas_extra": [
+  "**No se recomiendan aplicaciones, aseguradoras ni financieras:** se enseña a comparar y verificar.",
+  "**Pensado para el celular y entre viajes:** cada lección se puede tomar en un descanso."
+ ],
+ "datos": [
+  ["Reforma de plataformas digitales a la Ley Federal del Trabajo", "Publicada el 24 de diciembre de 2024; vigente desde el 22 de junio de 2025", "DOF; STPS"],
+  ["Ingreso neto para ser persona trabajadora de plataforma con IMSS completo", "Al menos un salario mínimo mensual: 9,582.47 pesos en 2026", "STPS e IMSS"],
+  ["Porcentaje que se descuenta del ingreso bruto para calcular el neto", "Auto 48%, moto 32%, bici o a pie 3%", "STPS, diciembre de 2025"],
+  ["Ingreso bruto mensual equivalente", "Auto 18,427.83; moto 14,092.46; bici 9,878.83 pesos", "STPS e IMSS, 2026"],
+  ["Quien no llega al umbral", "Conserva la cobertura por riesgos de trabajo mientras está conectado", "IMSS"],
+  ["Reparto de utilidades", "Para quienes son personas trabajadoras de plataforma y trabajan más de 288 horas al año", "LFT, reforma de plataformas"],
+  ["Retención de impuestos por plataforma (transporte y entrega)", "ISR 2.1% e IVA 8% con RFC; sin RFC, ISR 20% e IVA 16%", "SAT, Ley de Ingresos 2026"],
+  ["Personas en el plan piloto del IMSS", "912 mil (julio a diciembre de 2025)", "IMSS"]
+ ]
+}
