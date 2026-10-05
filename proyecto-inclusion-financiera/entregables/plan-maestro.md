@@ -170,6 +170,12 @@ Revisión del 5 de octubre de 2026 contra el material de Formador de instructore
 - [ ] **D05** Evaluación de satisfacción (reacción) completa: evento, contenido, instructor y materiales; versión en línea y presencial. *(Responsable: Claude)*
 - [ ] **D06** Listas de cotejo para productos de las sesiones presenciales (plan de remesa, presupuesto, lista de ayuda, etc.). *(Responsable: Claude)*
 - [ ] **D07** Formato de detección de necesidades por cliente, sin datos personales (tema, objetivo, beneficio para la organización). *(Responsable: Claude + Paola)*
-- [ ] **D08** Revisar todos los cursos contra el EC0366 (cursos en línea) y listar brechas. *(Responsable: Claude)*
+- [x] **D08** Revisar los cursos contra el EC0366 (cursos en línea): hecho el 5 de octubre de 2026 con fuentes secundarias; falta cotejar con el texto oficial del CONOCER. Brechas en D11 a D16. *(Responsable: Claude)*
+- [ ] **D11** Cronograma de desarrollo por curso: título, objetivo general, fecha, actividades numeradas (estructura temática, información general, guías, materiales, instrumentos), tiempo por actividad y firmas de quien elabora y autoriza. *(Responsable: Claude + Paola)*
+- [ ] **D12** Documento de información general por curso: título, objetivo general, temas, objetivos particulares, introducción, guía visual de navegación, metodología, perfil de ingreso, requerimientos tecnológicos, forma de evaluación y duración en horas y semanas. *(Responsable: Claude)*
+- [ ] **D13** Guía de actividades de aprendizaje por módulo y calendario general sugerido: objetivo específico, actividades con instrucciones y recursos, participación individual o colaborativa, periodo, ponderación, criterios de evaluación y fechas sugeridas. *(Responsable: Claude)*
+- [ ] **D14** Instrumentos de evaluación con encabezado completo: nombre, instrucciones, tiempo máximo, reactivos y valor de cada reactivo. *(Responsable: Claude)*
+- [ ] **D15** Al menos una imagen o video por lección o presentación, con derechos de uso claros. *(Responsable: Producción)*
+- [ ] **D16** Reporte de revisión del funcionamiento en la plataforma en el formato del EC0366 (curso, desarrollador, fecha, observaciones de diseño, contenido y funcionalidad con unidad y propuesta), incluida la prueba de enlaces (K12). *(Responsable: Claude + quien instala)*
 - [ ] **D09** Decidir si registrarse como agente capacitador externo ante la STPS (DC-5) para emitir constancias DC-3 a clientes empresa. *(Responsable: Paola)*
 - [ ] **D10** Al armar kit, encuestas y libro de apoyo de los siete cursos nuevos, hacerlos ya con D01 a D06. *(Responsable: Claude)*
