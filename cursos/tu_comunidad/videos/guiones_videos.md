@@ -1,3 +1,4 @@
+<!-- manual -->
 # Guiones visuales · Tu Comunidad · 14 videos sin palabras
 
 Un video por lección, de 40 a 50 segundos, contado solo con imágenes. En la sesión, la intérprete o la facilitadora lo narra en su lengua; en el celular se entiende solo. Cada video sale también como **lámina** impresa (4 escenas) para sesiones sin proyector.
