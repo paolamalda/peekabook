@@ -1,0 +1,134 @@
+$CATEGORY: $course$/Tu Patrimonio/Diagnóstica
+
+::DIAG 1::¿Qué va en tu inventario? {
+	~Tus contraseñas, para tenerlas juntas
+	=Qué tienes, dónde está y a nombre de quién
+	~Solo las cuentas con más dinero, porque las demás no importan
+}
+
+::DIAG 2::¿Dónde consultas el régimen de tu matrimonio? {
+	~En tu estado de cuenta
+	~En la escritura de la casa
+	=En tu acta de matrimonio
+}
+
+::DIAG 3::¿Qué hace la CONDUSEF? {
+	~Vende seguros y créditos a mejor precio que los bancos
+	=Orienta y defiende a los usuarios
+	~Presta dinero en emergencias
+}
+
+::DIAG 4::¿Qué revisas primero de una institución? {
+	~Si tiene oficinas bonitas
+	~Si alguien conocido ya invirtió
+	=Si existe y está autorizada
+}
+
+::DIAG 5::¿Qué nunca te pide tu banco? {
+	~Que revises tus movimientos
+	=El código de un mensaje
+	~Que actives los avisos
+}
+
+::DIAG 6::Nunca transfieres más de 4,000. ¿Qué límite fijas? {
+	~El más alto posible
+	=4,000
+	~El que ponga el banco
+}
+
+::DIAG 7::¿Qué gancho usa «tiene cinco minutos o pierde su dinero»? {
+	~Premio
+	=Urgencia
+	~Ninguno, es un aviso normal
+}
+
+::DIAG 8::Tu tarjeta se atora. ¿Qué haces? {
+	~Aceptas la ayuda de quien esté cerca
+	=Bloqueas por teléfono y vas a la sucursal
+	~Marcas el NIP varias veces hasta que el cajero te regrese la tarjeta
+}
+
+::DIAG 9::¿Qué indica la GAT real? {
+	~Lo que te cobra el banco cada mes por manejo
+	=Lo que te paga descontando la inflación
+	~El saldo mínimo
+}
+
+::DIAG 10::¿Qué pago te libra de intereses? {
+	~El pago mínimo
+	=El pago para no generar intereses
+	~Cualquier pago antes de fin de mes
+}
+
+::DIAG 11::Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? {
+	~13%
+	=3%
+	~8%, porque la inflación no cuenta
+}
+
+::DIAG 12::¿Qué preguntas a tu asesor antes de decidir? {
+	~Cuántos clientes tiene y desde cuándo
+	=Cómo le pagan y cuánto cuesta en total
+	~Si ya lo compró él mismo
+}
+
+::DIAG 13::Empezaste a cotizar en 1990. ¿Qué ley te puede aplicar? {
+	=La Ley 73
+	~La Ley 97, que aplica a todos por igual
+	~Ninguna, por la fecha
+}
+
+::DIAG 14::¿Cuánto da la Pensión de Adultos Mayores en 2026? {
+	~3,100 cada mes, igual que Mujeres Bienestar
+	=6,400 cada dos meses
+	~6,400 cada mes
+}
+
+::DIAG 15::¿Qué es el coaseguro? {
+	=El porcentaje que pagas después del deducible
+	~Lo máximo que paga la aseguradora por evento
+	~Una cuota mensual extra que se suma a tu prima anual del seguro
+}
+
+::DIAG 16::¿Para qué sirve un seguro de vida? {
+	~Para ahorrar sin riesgo
+	~Para pagar tus gastos médicos
+	=Para proteger a quien depende de ti
+}
+
+::DIAG 17::Recibes rentas de un departamento. ¿Qué pasa? {
+	~Nunca declaras si eres pensionada
+	=Probablemente debes declarar
+	~Solo declaras si el SAT te llama
+}
+
+::DIAG 18::¿Qué es una retención? {
+	~Una comisión que cobra el banco por administrar
+	=Impuesto pagado por adelantado
+	~Una multa del SAT
+}
+
+::DIAG 19::¿Ante quién se hace un testamento? {
+	~Ante un abogado cualquiera
+	~Ante tu banco
+	=Ante notario
+}
+
+::DIAG 20::Terminaste de pagar tu casa. ¿Qué te falta? {
+	~Nada, ya es tuya
+	=Inscribir la liberación de hipoteca
+	~Pagar otro crédito
+}
+
+::DIAG 21::Te dicen «la oferta solo es hoy». ¿Qué haces? {
+	=Esperas y comparas
+	~Firmas para no perderla
+	~Pides un descuento extra
+}
+
+::DIAG 22::Un familiar se queda con tu tarjeta y decide tus gastos. ¿Qué es? {
+	~Ayuda normal
+	=Control económico
+	~Una forma de cuidarte
+}
+

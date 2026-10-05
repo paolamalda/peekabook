@@ -10,7 +10,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Llenó su lista de papeles: marca lo que tiene y anotó dónde sacarás lo que falta | ☐ | ☐ | |
+| 1 | Llenó su lista de papeles: marcó lo que tiene y anotó dónde sacarás lo que falta | ☐ | ☐ | |
 | 2 | Saca su acta en línea y llamó o pregunta en el módulo del INE más cercano qué comprobante de domicilio aceptan | ☐ | ☐ | |
 | 3 | Preguntó en el Registro Civil de su municipio qué piden para inscribir el nacimiento de sus hijos y llenó la lista | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
@@ -25,7 +25,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 |---|---|---|---|---|
 | 1 | Hizo su lista de cómo usará los 2,000 pesos: traslado, papeles, comida y un guardadito | ☐ | ☐ | |
 | 2 | Anotó las cuatro preguntas y hazlas antes de abrir su cuenta; guardó la carátula | ☐ | ☐ | |
-| 3 | Llenó su ficha de cuenta y activa las alertas por mensaje | ☐ | ☐ | |
+| 3 | Llenó su ficha de cuenta y activó las alertas por mensaje | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -101,9 +101,9 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Repasa la tabla de trámites sin costo y guárdala en su celular | ☐ | ☐ | |
+| 1 | Repasa la tabla de trámites sin costo y la guardó en su celular | ☐ | ☐ | |
 | 2 | Acordó con su familia una palabra clave para emergencias y guardó el 089 en su celular | ☐ | ☐ | |
-| 3 | Llenó su plan de regreso en una página y ponle fecha a cada siguiente acción | ☐ | ☐ | |
+| 3 | Llenó su plan de regreso en una página y le puso fecha a cada siguiente acción | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.

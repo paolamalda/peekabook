@@ -1,7 +1,7 @@
 # Documentos para los estándares EC0366 (cursos en línea) y EC0217 (impartición presencial) de un curso.
 # Uso: python3 herramientas_cursos/estandares.py cursos/<carpeta> [--inicio AAAA-MM-DD]
 # Salida: cursos/<carpeta>/estandares/ (12 documentos en Markdown, diagnóstica en GIFT y encuesta de satisfacción en XML).
-import os, re, sys, json, math, datetime, html
+import unicodedata, os, re, sys, json, math, datetime, html
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RAIZ, "proyecto-inclusion-financiera", "herramientas"))
@@ -60,6 +60,8 @@ def tercera(s):
     s = re.sub(r"\b(\w+)\b", lambda m: V2.get(m.group(1), m.group(1)), s)
     s = re.sub(r"\btú\b", "la persona", s)
     s = re.sub(r"\b(de|para|a) ti\b", r"\1 la persona", s)
+    s = re.sub(r"\bpor ti\b", "por la persona", s)
+    s = re.sub(r"\bcontigo\b", "con la persona", s)
     return s
 
 
@@ -76,14 +78,44 @@ PASADO = {"haz": "hizo", "anota": "anotó", "escribe": "escribió", "crea": "cre
           "regístrate": "se registró", "fíjate": "se fijó"}
 
 
+PASADO.update({"activa": "activó", "entra": "entró", "empieza": "empezó", "entrega": "entregó", "resuelve": "resolvió", "manda": "mandó", "ajusta": "ajustó",
+               "cotiza": "cotizó", "quita": "quitó", "inscribe": "inscribió", "vuelve": "volvió", "publica": "publicó", "tramita": "tramitó", "cancela": "canceló",
+               "corrige": "corrigió", "averigua": "averiguó", "conecta": "conectó", "solicita": "solicitó", "multiplica": "multiplicó", "diseña": "diseñó",
+               "encuentra": "encontró", "explora": "exploró", "reserva": "reservó", "pega": "pegó", "respalda": "respaldó", "cambia": "cambió", "avisa": "avisó",
+               "bloquea": "bloqueó", "borra": "borró", "reclama": "reclamó", "denuncia": "denunció", "firma": "firmó", "negocia": "negoció", "cuelga": "colgó",
+               "escoge": "escogió", "presenta": "presentó", "formaliza": "formalizó", "domicilia": "domicilió", "di": "dijo", "ten": "tuvo", "sal": "salió", "ve": "fue", "pide": "pidió", "sigue": "siguió"})
+_CLIT = {"lo": "lo", "la": "la", "los": "los", "las": "las", "le": "le", "les": "les"}
+
+
+def _sin_acento(w):
+    return "".join(ch for ch in unicodedata.normalize("NFD", w) if unicodedata.category(ch) != "Mn")
+
+
+def pasado(w):
+    """Imperativo (con o sin pronombre pegado) a pretérito: «búscalo» → «lo buscó». None si no es un imperativo conocido."""
+    k = w.lower().strip(",:")
+    if k in PASADO: return PASADO[k]
+    if k.endswith("te") and len(k) > 4:
+        base = _sin_acento(k[:-2])
+        if base in PASADO and k != base + "te": return "se " + PASADO[base]
+    for cl in ("los", "las", "les", "lo", "la", "le"):
+        if k.endswith(cl) and len(k) > len(cl) + 1:
+            base = _sin_acento(k[:-len(cl)])
+            if base in PASADO and k != base + cl:  # lleva acento: es imperativo con pronombre
+                return f"{cl} {PASADO[base]}"
+            if base == "di": return f"{cl} dijo"
+            if base == "pon": return f"{cl} puso"
+    return None
+
+
 def criterio(plan):
     """Convierte la instrucción del «plan» de una lección en un criterio observable de lista de cotejo."""
     frases = [f for f in re.split(r"(?<=[.!?])\s+", plan) if f and not re.match(r"(No necesitas|No compartas|No tienes que|Usa datos|Puedes usar)", f)]
     out = []
     for f in frases:
-        w = f.split()[0]; k = w.lower().strip(",:")
-        if k in PASADO: f = PASADO[k] + f[len(w):]
-        f = re.sub(r"(,? y |; |, )(\w+)\b", lambda m: m.group(1) + PASADO.get(m.group(2).lower(), m.group(2)), f)
+        w = f.split()[0]
+        if pasado(w): f = pasado(w) + f[len(w):]
+        f = re.sub(r"(,? y |; |, |: )(\w+)\b", lambda m: m.group(1) + (pasado(m.group(2)) or m.group(2)), f)
         out.append(tercera(f).rstrip("."))
     s = "; ".join(out)
     return s[:1].upper() + s[1:]
@@ -95,6 +127,14 @@ def sin_aplica(obj):
 
 def curso(D, inicio):
     cfg = json.load(open(os.path.join(D, "curso.json"), encoding="utf-8"))
+    global PASO3, INSTR
+    if cfg.get("ux") == 3:
+        PASO3 = "3. **Dentro de una lección:** cuatro pasos arriba de la pantalla: **Empieza**, **Lo esencial**, **Profundiza** (opcional) y **Practica**."
+        INSTR = "Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa)."
+    else:
+        PASO3 = ("3. **Dentro de una lección:** una portada con la situación y dos rutas: **rápida** (Lo esencial y Practica) o **completa** "
+                 "(agrega Profundiza). Cada parte es un capítulo del libro de la lección.")
+        INSTR = "En la portada, elige tu ruta; lee «Lo esencial» (y «Profundiza» si eliges la ruta completa)."
     tit, MODS = cfg["titulo"], cfg["modulos"]
     nombres = {m: cfg.get("nombres", {}).get(m, {}).get("titulo") or re.sub(r"^Módulo \d+\.\s*", "", t) for m, t in MODS.items()}
     les = {}
@@ -158,11 +198,11 @@ def curso(D, inicio):
     for i, m in enumerate(MODS, 1):
         s += f"**{i}. {nombres[m]}** ({len(les[m])} lecciones, {h(mins[m][0])} a {h(mins[m][1])} horas). {particular(m)}\n\n"
         s += "".join(f"- {l['title']}\n" for l in les[m]) + "\n"
-    s += """## Guía visual del curso
+    s += ("""## Guía visual del curso
 
 1. **Inicio del curso:** un mosaico por módulo con su porcentaje de avance y el botón para seguir donde te quedaste.
 2. **Dentro de un módulo:** un mosaico por lección. Cada lección se abre al terminar la anterior y muestra si está terminada, en curso o pendiente.
-3. **Dentro de una lección:** cuatro pasos arriba de la pantalla: **Empieza**, **Lo esencial**, **Profundiza** (opcional) y **Practica**.
+""" + PASO3 + """
 4. **Practica:** la actividad «¿Qué harías?» y «Pruébate» (una pantalla a la vez), el ejercicio con tus números y tu compromiso.
 5. **Al final de cada módulo:** la autoevaluación. Al aprobar todas y responder la encuesta final se libera la constancia.
 
@@ -172,7 +212,7 @@ def curso(D, inicio):
 
 Curso en línea, asíncrono y a tu ritmo, en lecciones cortas. Cada lección empieza con un caso de la vida diaria y permite elegir entre dos rutas: **Lo esencial** (unos 10 minutos con práctica) o **Lo esencial + Profundiza** (unos 15 minutos). La práctica da retroalimentación inmediata y se puede repetir. Hay una comunidad (foro) para compartir dudas y compromisos sin datos personales, y materiales de apoyo con glosario, casos integradores y dónde pedir ayuda. Si una organización lo pide, se acompaña con sesiones presenciales (ver la carta descriptiva).
 
-"""
+""")
     s += f"## Perfil de ingreso\n\n{limpia(publico)}\n\n**Requisitos:** saber leer textos sencillos en español, tener celular o computadora con internet y un correo o cuenta de Google para entrar. No se piden datos personales, números de cuenta ni documentos.\n\n"
     s += """## Requerimientos tecnológicos y materiales
 
@@ -223,7 +263,7 @@ Curso en línea, asíncrono y a tu ritmo, en lecciones cortas. Cada lección emp
         s += f"## Módulo {i}. {nombres[m]}\n\n**Objetivo específico de la unidad:** {particular(m)}\n\n**Periodo sugerido:** semana{'s' if a != b else ''} {a}{'–' + str(b) if a != b else ''} · **Tiempo estimado:** {h(mins[m][0])} a {h(mins[m][1])} horas.\n\n"
         s += "| # | Actividad | Instrucciones | Recursos | Participación | Evaluación |\n|---|---|---|---|---|---|\n"
         for k, l in enumerate(les[m], 1):
-            s += (f"| {k} | {l['title']} | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», "
+            s += (f"| {k} | {l['title']} | {INSTR} En «Practica», resuelve «¿Qué harías?» y «Pruébate», "
                   f"haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva"
                   f"{', herramienta descargable' if 'hoja' in l['plan'].lower() or 'tabla' in l['plan'].lower() else ''} | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |\n")
         s += (f"| {len(les[m]) + 1} | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |\n"

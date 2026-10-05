@@ -62,7 +62,7 @@ Al terminar el programa, la persona participante será capaz de administrar su p
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
 | Poder amplio o poder limitado | Al terminar la lección, la persona participante será capaz de distinguir un poder notarial amplio de uno limitado y no firmar uno sin revisarlo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Tu persona de apoyo | Al terminar la lección, la persona participante será capaz de elegir a una persona de apoyo que le acompañe en sus decisiones de dinero sin decidir por ti, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | evaluación |
+| Tu persona de apoyo | Al terminar la lección, la persona participante será capaz de elegir a una persona de apoyo que le acompañe en sus decisiones de dinero sin decidir por la persona, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | evaluación |
 
 ### 7. Testamento y beneficiarios
 

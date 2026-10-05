@@ -1,0 +1,134 @@
+$CATEGORY: $course$/Tu Talento/Diagnóstica
+
+::DIAG 1::Te ofrecen 40,000 por un personaje. ¿Con qué número decides si te alcanza para un compromiso nuevo? {
+	=Lo que queda después de comisión, impuestos y gastos
+	~40,000
+	~40,000 más el IVA que te pagan, porque ya es tuyo
+}
+
+::DIAG 2::¿Qué es lo más importante para tu fondo de sequía? {
+	=La seguridad y poder sacarlo rápido
+	~El rendimiento más alto que encuentres en cualquier app
+	~Que esté en una app nueva
+}
+
+::DIAG 3::En RESICO cobras 40,000 en el mes. ¿Qué tasa de ISR aplica? {
+	=1.1%
+	~2.5%
+	~10%
+}
+
+::DIAG 4::¿En qué régimen puedes deducir tus gastos de trabajo? {
+	~RESICO
+	=Actividad Empresarial y Profesional
+	~En ninguno\: los gastos de trabajo nunca se pueden deducir
+}
+
+::DIAG 5::¿Qué frase te da menos control sobre tu trabajo? {
+	~Redes sociales en México por un año
+	~Televisión abierta por seis meses
+	=Todos los medios a perpetuidad
+}
+
+::DIAG 6::¿Quién cobra tus regalías como actor por retransmisiones? {
+	~ANDA
+	=ANDI
+	~SAT
+}
+
+::DIAG 7::¿Qué autoridad protege tus depósitos en bancos? {
+	~Profeco
+	=IPAB
+	~CONSAR
+}
+
+::DIAG 8::¿Dónde confirmas que una empresa es prestador de servicios financieros registrado? {
+	~Google Maps
+	~Sus redes sociales
+	=SIPRES
+}
+
+::DIAG 9::¿Qué eliges primero? {
+	=La institución
+	~El regalo de la promoción
+	~El color de la tarjeta
+}
+
+::DIAG 10::Crédito de 12 pagos de 2,000 y otro de 18 pagos de 1,500, ambos por 20,000. ¿Cuál cuesta menos en total? {
+	=El de 12 pagos (24,000)
+	~El de 18 pagos (27,000)
+	~Cuestan igual
+}
+
+::DIAG 11::Tu línea es 40,000 y debes 15,000. ¿Cuánto dinero tuyo hay ahí? {
+	~25,000
+	~40,000
+	=Nada
+}
+
+::DIAG 12::Mes bajo de 30,000 y pagos de deuda de 6,000. ¿En qué zona estás? {
+	~Amarilla
+	~Roja
+	=Verde (20%)
+}
+
+::DIAG 13::¿Qué hace el Buró de Crédito? {
+	~Presta dinero
+	~Castiga a quien no paga sus créditos
+	=Guarda tu historial de crédito
+}
+
+::DIAG 14::Deuda de 20 UDIS. ¿Después de cuánto se elimina? {
+	~6 años
+	~Nunca
+	=1 año
+}
+
+::DIAG 15::Con la avalancha, ¿qué deuda pagas primero? {
+	=La de mayor costo
+	~La más pequeña
+	~La más antigua
+}
+
+::DIAG 16::¿Qué registro de CONDUSEF sirve para verificar despachos de cobranza? {
+	~RECA
+	~SIPRES
+	=REDECO
+}
+
+::DIAG 17::Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? {
+	~Lo das para cancelar rápido
+	~Lo mandas por WhatsApp al número que te llamó
+	=Cuelgas y llamas al número oficial
+}
+
+::DIAG 18::¿Dónde verificas si una financiera está registrada? {
+	=SIPRES de CONDUSEF
+	~Tienda de apps
+	~Sus redes
+}
+
+::DIAG 19::Gasto de 100,000, deducible de 10,000 y coaseguro de 10%. ¿Cuánto pagas tú? {
+	=19,000
+	~10,000
+	~1,000
+}
+
+::DIAG 20::¿Qué institución protege tu nombre artístico con una reserva de derechos? {
+	~SAT
+	=INDAUTOR
+	~CONDUSEF
+}
+
+::DIAG 21::¿Qué apartas primero de un pago gordo? {
+	=Impuestos
+	~Un viaje
+	~Un auto
+}
+
+::DIAG 22::¿Qué es diversificar? {
+	~Poner todo en una acción
+	~Guardar efectivo
+	=Repartir en muchas inversiones
+}
+

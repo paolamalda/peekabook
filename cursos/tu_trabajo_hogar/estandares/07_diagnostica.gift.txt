@@ -1,0 +1,110 @@
+$CATEGORY: $course$/Tu Trabajo/Diagnóstica
+
+::DIAG 1::Cobras 600 por día y trabajas 15 días. ¿Cuánto te entra en el mes? {
+	=9,000
+	~6,000
+	~15,600
+}
+
+::DIAG 2::Gastas 25 en refresco cada día y trabajas 20 días. ¿Cuánto al mes? {
+	~25
+	~250
+	=500
+}
+
+::DIAG 3::¿Cuántos días de aguinaldo te tocan como mínimo si trabajas todo el año? {
+	~30
+	~5
+	=15
+}
+
+::DIAG 4::¿Qué te sirve de prueba de lo que acordaste? {
+	=Un mensaje con el acuerdo
+	~Tu palabra
+	~Lo que recuerdan tus vecinas
+}
+
+::DIAG 5::Tanda de 8 personas con 250 cada semana. ¿Cuánto cobra cada una? {
+	~250
+	~2,500
+	=2,000
+}
+
+::DIAG 6::Tus gastos básicos son 2,000 a la semana. ¿Cuál es tu primera meta de fondo? {
+	~2,000
+	~20,000
+	=4,000
+}
+
+::DIAG 7::Das 600 a tu hija y 400 a tu mamá cada quincena. ¿Cuánto das al mes? {
+	~1,000
+	=2,000
+	~600
+}
+
+::DIAG 8::¿Cuál es una señal de estrés por dinero? {
+	=Dormir mal por las deudas
+	~Anotar tus gastos cada día
+	~Ahorrar el día que cobras
+}
+
+::DIAG 9::Debes 4,000, 2,500 y 1,500. ¿Cuánto debes en total? {
+	~6,500
+	=8,000
+	~4,000
+}
+
+::DIAG 10::En la bola de nieve, ¿cuál pagas primero? {
+	~La más grande
+	=La más chica
+	~La más reciente
+}
+
+::DIAG 11::¿Qué te da el IMSS si la casa te inscribe? {
+	~Solo medicinas
+	=Médico, incapacidades, guardería y pensión
+	~Un préstamo con descuento para tu familia y tu casa
+}
+
+::DIAG 12::¿Cuánto cuesta atenderte en el centro de salud si no tienes seguridad social? {
+	~Lo mismo que un médico privado
+	~Una cuota al año
+	=No tiene costo
+}
+
+::DIAG 13::¿Qué es lo primero que haces ante una llamada que pide dinero urgente? {
+	~Depositas rápido para ayudar a tu familiar
+	~Pides más datos
+	=Cuelgas y verificas
+}
+
+::DIAG 14::¿Qué candado evita que te roben tu WhatsApp? {
+	=Verificación en dos pasos
+	~Fondo de pantalla
+	~Más memoria y una funda más resistente
+}
+
+::DIAG 15::¿Cuánto da al año la Pensión Mujeres Bienestar en 2026? {
+	=18,600
+	~3,100
+	~38,400
+}
+
+::DIAG 16::¿Qué pasa si nombras beneficiarias en tu cuenta? {
+	~Pagan más impuestos cuando reciben el dinero
+	=Reciben el dinero sin juicio
+	~No cambia nada
+}
+
+::DIAG 17::¿Qué es pensar en crecer? {
+	~Aguantar hasta que las cosas mejoren solas
+	=Buscar cómo ganar más con lo que sabes
+	~Pedir un préstamo
+}
+
+::DIAG 18::La clienta paga 800 y la app se queda con 20%. ¿Cuánto te llega antes de pasajes? {
+	~160
+	~800
+	=640
+}
+

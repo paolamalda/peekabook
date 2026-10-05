@@ -22,8 +22,8 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Si alguien más conoce su NIP, cámbialo esta semana; eligió a su persona de confianza para acompañarse | ☐ | ☐ | |
-| 2 | Llenó su ficha de emergencia y guárdala separada de su tarjeta | ☐ | ☐ | |
+| 1 | Si alguien más conoce su NIP, lo cambió esta semana; eligió a su persona de confianza para acompañarse | ☐ | ☐ | |
+| 2 | Llenó su ficha de emergencia y la guardó separada de su tarjeta | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -47,7 +47,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Revisó su saldo después de cada pago y llenó la tabla «¿Te ha pasado?» | ☐ | ☐ | |
-| 2 | Llenó su lista de ayuda con los teléfonos y guárdala junto a su ficha de emergencia | ☐ | ☐ | |
+| 2 | Llenó su lista de ayuda con los teléfonos y la guardó junto a su ficha de emergencia | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -59,7 +59,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Si le ofrecen un préstamo, escribió las cuatro preguntas y no firmes hasta tener las respuestas por escrito | ☐ | ☐ | |
-| 2 | Escribió su frase para decir que no y practícala con su persona de confianza | ☐ | ☐ | |
+| 2 | Escribió su frase para decir que no y la practicó con su persona de confianza | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.

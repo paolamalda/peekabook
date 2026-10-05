@@ -161,7 +161,7 @@ Actualizado: 2026-09-28
 
 ### Diseño instruccional (EC0217 y EC0366)
 
-**Avance al 5 de octubre de 2026:** D01 a D07 y D11 a D14 ya están generados con `herramientas_cursos/estandares.py` para Tu Dinero y los siete cursos nuevos; faltan los cursos anteriores (Tu Turno, Tu Patrimonio, Tu Trabajo, Tu Idea, Tu Talento, Tu Negocio México y EE. UU., Your Money y Your Business) y la revisión de Paola.
+**Avance al 5 de octubre de 2026:** D01 a D07 y D11 a D14 ya están generados con `herramientas_cursos/estandares.py` en `estandares/` de los 15 cursos en español, cada uno con su objetivo general escrito a mano; las tres versiones en inglés (Your Money, Your Business y Your Return) usan los de su versión en español porque tienen las mismas lecciones. Falta la revisión de Paola, las capturas de la guía visual (al instalar) y la prueba de enlaces (D16).
 
 Revisión del 5 de octubre de 2026 contra el material de Formador de instructores (EC0217). Ya se cumple: aprendizaje de adultos, refuerzo inmediato, evaluación formativa por lección, autoevaluación final con 70% aprobatorio, reglas de pruebas objetivas, técnicas instruccionales y grupales, y compromiso del participante. Falta:
 

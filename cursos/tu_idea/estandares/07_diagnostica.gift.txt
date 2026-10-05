@@ -1,0 +1,110 @@
+$CATEGORY: $course$/Tu Idea/Diagnóstica
+
+::DIAG 1::¿Qué es poner el dinero a trabajar? {
+	~Esconderlo en tu cuarto para no gastarlo
+	~Gastarlo en lo que se te antoje
+	=Usarlo para generar más
+}
+
+::DIAG 2::Gastas 79 en un juego 6 veces al mes. ¿Cuánto al año? {
+	~474
+	=5,688
+	~948
+}
+
+::DIAG 3::Tienes 16 años. ¿Cómo abres una cuenta? {
+	~No puedes hasta los 21
+	~Solo por internet sin nadie
+	=Con tu mamá, papá o tutor
+}
+
+::DIAG 4::Algo cuesta 40 dólares y el dólar está a 18. ¿Cuánto es en pesos? {
+	=720
+	~58
+	~400
+}
+
+::DIAG 5::¿Por dónde empieza una buena idea de negocio? {
+	~Por lo que está de moda en redes
+	=Por un problema real
+	~Por un préstamo grande
+}
+
+::DIAG 6::Vendes 40 pulseras a 50 y cada una te cuesta 22. ¿Cuánto ganas? {
+	~2,000
+	=1,120
+	~880
+}
+
+::DIAG 7::Ganas 1,000; te pagas 400 y guardas 150 de reserva. ¿Cuánto reinviertes? {
+	=450
+	~1,000
+	~550
+}
+
+::DIAG 8::¿Qué publicas en la cuenta de tu negocio? {
+	=Fotos de tus productos
+	~Tu dirección para que te encuentren fácil
+	~Fotos de tu escuela
+}
+
+::DIAG 9::Quieres 4,800 en 12 meses. ¿Cuánto apartas al mes? {
+	~480
+	=400
+	~1,200
+}
+
+::DIAG 10::¿Qué inversión suele tener menos riesgo? {
+	~Acciones de una empresa nueva
+	=Bonos del gobierno
+	~Una app que paga 20% al mes
+}
+
+::DIAG 11::Pagas 250 por semana durante 40 semanas por algo de 7,000. ¿Cuánto pagas de más? {
+	=3,000
+	~10,000
+	~250
+}
+
+::DIAG 12::¿A quién NO puede cobrar un despacho? {
+	~Al aval
+	~Al obligado solidario que firmó el contrato completo
+	=A la referencia personal
+}
+
+::DIAG 13::¿Qué es transferir un riesgo? {
+	=Contratar un seguro
+	~Olvidarte del riesgo
+	~Pasárselo a un amigo
+}
+
+::DIAG 14::Te ofrecen pagar por recibir depósitos y pasarlos. ¿Qué es? {
+	=Una cuenta mula
+	~Un trabajo normal
+	~Una inversión
+}
+
+::DIAG 15::¿Quién cuida el valor del peso y la inflación? {
+	~La PROFECO
+	=El Banco de México
+	~Tu escuela y la dirección de la prepa
+}
+
+::DIAG 16::¿Quién publica el tipo de cambio oficial? {
+	~Un influencer de finanzas
+	=El Banco de México
+	~Tu banco nada más
+}
+
+::DIAG 17::¿Por qué estudiar se considera una inversión? {
+	~Porque no cuesta nada de tiempo ni de dinero
+	=Porque suele subir lo que ganas por años
+	~Porque te dan dinero al inscribirte en cualquier escuela
+}
+
+::DIAG 18::¿Qué pierdes en un trabajo «sin papeles»? {
+	~Nada, porque te pagan más en efectivo cada semana
+	=IMSS, Afore y prestaciones
+	~Solo el uniforme
+}
+

@@ -22,7 +22,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Armó su bolsa de papeles esta semana y manda fotos a un familiar | ☐ | ☐ | |
+| 1 | Armó su bolsa de papeles esta semana y mandó fotos a un familiar | ☐ | ☐ | |
 | 2 | Revisó su bolsa de papeles y anotó cuáles tendrías que reponer y dónde | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
@@ -94,7 +94,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Llenó la tabla de sus bienes y averigua a nombre de quién está cada uno | ☐ | ☐ | |
+| 1 | Llenó la tabla de sus bienes y averiguó a nombre de quién está cada uno | ☐ | ☐ | |
 | 2 | Llenó su tabla de herencia y marcó qué hará primero | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 

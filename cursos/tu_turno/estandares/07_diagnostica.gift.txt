@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Turno/Diagnóstica
+
+::DIAG 1::¿Con qué cifra haces tu presupuesto? {
+	~Con tu salario antes de descuentos, porque es lo que ganas
+	=Con lo que te llega
+	~Con lo que ganan tus compañeros
+}
+
+::DIAG 2::¿Cuándo apartas tu ahorro? {
+	=El día de pago
+	~Al final del mes, con lo que sobre
+	~Cuando haya una emergencia
+}
+
+::DIAG 3::¿Qué es la cuenta básica? {
+	~Una cuenta con comisiones bajas pero con tarjeta de crédito
+	=Una cuenta sin comisiones de manejo
+	~Una cuenta solo para empresas
+}
+
+::DIAG 4::Te llega una cadena que dice que el banco congelará cuentas. ¿Qué haces? {
+	=Lo confirmas en la fuente oficial y no lo reenvías
+	~Sacas todo tu dinero hoy
+	~Lo reenvías para avisar a todos
+}
+
+::DIAG 5::¿Qué va en tu lista de deudas? {
+	=Todas tus deudas, incluidas las de personas
+	~Solo las del banco
+	~Solo las grandes, las chicas no importan
+}
+
+::DIAG 6::Con la avalancha, ¿cuál pagas primero? {
+	=La más cara
+	~La más chica
+	~La más reciente
+}
+
+::DIAG 7::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
+	=3,200
+	~400
+	~4,000
+}
+
+::DIAG 8::¿Quién debe tener los primeros turnos? {
+	~Quien los pida primero
+	=Personas de confianza
+	~Un desconocido que los necesite con urgencia
+}
+
+::DIAG 9::¿Qué es el Buró de Crédito? {
+	~Una lista negra de personas que no pagan sus deudas
+	=Un historial de tus créditos y pagos
+	~Un banco
+}
+
+::DIAG 10::Te ofrecen «limpiar tu Buró» por dinero. ¿Qué es? {
+	~Un servicio legítimo si tienen oficina
+	=Un engaño\: nadie borra lo correcto
+	~Un trámite del gobierno
+}
+
+::DIAG 11::Te piden el código que te llegó «para cancelar un cargo». ¿Qué haces? {
+	~Lo das si la persona sabe tu nombre completo
+	=Cuelgas y llamas a tu banco
+	~Das la mitad
+}
+
+::DIAG 12::Ves un cargo que no hiciste. ¿Qué haces primero? {
+	=Bloqueas la tarjeta
+	~Esperas al estado de cuenta
+	~Llamas al número del mensaje
+}
+
+::DIAG 13::¿Dónde guardas tu fondo? {
+	~En una tanda con tus compañeros
+	=En una cuenta aparte
+	~Prestado a un amigo
+}
+
+::DIAG 14::¿Cuánto cuesta en 2026 el seguro familiar del IMSS para una persona de 65 años? {
+	~9,300
+	~13,800
+	=19,800
+}
+
+::DIAG 15::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
+	=50 pesos
+	~1,000 pesos
+	~500 pesos
+}
+
+::DIAG 16::Cobras 1,500 a la semana y gastas 500 en materiales. ¿Cuál es tu ganancia? {
+	=1,000
+	~1,500
+	~2,000
+}
+

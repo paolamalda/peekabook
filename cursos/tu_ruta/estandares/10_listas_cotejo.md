@@ -25,7 +25,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 |---|---|---|---|---|
 | 1 | Calculó su ingreso neto del último mes en la app donde más trabaja | ☐ | ☐ | |
 | 2 | Revisó el detalle de sus pagos y guardó una captura este mes | ☐ | ☐ | |
-| 3 | Guardó el teléfono de la PROFEDET y empieza su carpeta de capturas | ☐ | ☐ | |
+| 3 | Guardó el teléfono de la PROFEDET y empezó su carpeta de capturas | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -50,8 +50,8 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Revisó en la app si tiene su RFC registrado y descargó sus constancias | ☐ | ☐ | |
-| 2 | Si no tiene RFC, se inscribió esta semana y regístralo en su app | ☐ | ☐ | |
-| 3 | Revisó su opinión de cumplimiento y activa su buzón tributario | ☐ | ☐ | |
+| 2 | Si no tiene RFC, se inscribió esta semana y lo registró en su app | ☐ | ☐ | |
+| 3 | Revisó su opinión de cumplimiento y activó su buzón tributario | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -75,7 +75,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Llenó su ficha de accidente y guárdala en su celular | ☐ | ☐ | |
+| 1 | Llenó su ficha de accidente y la guardó en su celular | ☐ | ☐ | |
 | 2 | Decidió cuánto apartarás al día y dónde guardarás su fondo | ☐ | ☐ | |
 | 3 | Escribió su horario ideal con sus mejores horas y su tiempo de descanso | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
@@ -89,7 +89,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Si tiene un adelanto activo, escribió cuánto pagará en total y cuánto le descuentan al día | ☐ | ☐ | |
-| 2 | Cambió su contraseña y activa la verificación en dos pasos en sus apps | ☐ | ☐ | |
+| 2 | Cambió su contraseña y activó la verificación en dos pasos en sus apps | ☐ | ☐ | |
 | 3 | Hizo su revisión semanal de cuenta este domingo | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
@@ -101,7 +101,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Decidió su aportación mensual y domicíliala | ☐ | ☐ | |
+| 1 | Decidió su aportación mensual y la domicilió | ☐ | ☐ | |
 | 2 | Escribió su meta con los cuatro datos y abrió un apartado para ella | ☐ | ☐ | |
 | 3 | Llenó su plan de ruta y puso en su calendario el día de revisión | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |

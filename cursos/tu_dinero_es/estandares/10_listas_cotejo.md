@@ -23,7 +23,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 11 | Localizó la sede de VITA más cercana y anotó su horario, su idioma y los documentos que pide | ☐ | ☐ | |
 | 12 | Comparó dos servicios y una opción sin costo; anotó qué confirmó y qué falta | ☐ | ☐ | |
 | 13 | Anotó qué apoyo necesita su hogar, quién podría calificar y dónde confirmarás su caso | ☐ | ☐ | |
-| 14 | Entrega su expediente del Módulo 1: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días; Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tiene; Resuelve también el caso integrador E1 al final del manual | ☐ | ☐ | |
+| 14 | Entregó su expediente del Módulo 1: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días; Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tiene; resolvió también el caso integrador E1 al final del manual | ☐ | ☐ | |
 | 15 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -46,7 +46,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 10 | Escribió qué harías en una emergencia antes de pedir prestado: tres opciones en orden | ☐ | ☐ | |
 | 11 | Acordó hoy una palabra clave con su familia y guardó su acuerdo de forma privada | ☐ | ☐ | |
 | 12 | Eligió una meta binacional y registró lo confirmado, lo pendiente y el profesional que necesita | ☐ | ☐ | |
-| 13 | Entrega su expediente del Módulo 2: mapa de instituciones, comparación de cuentas, tres cotizaciones de envío, calendario de envíos, acuerdo familiar con palabra clave y protocolo de emergencia; Indica qué cifras son simuladas y no incluyas datos de quien recibe; Resuelve también el caso integrador E2 al final del manual | ☐ | ☐ | |
+| 13 | Entregó su expediente del Módulo 2: mapa de instituciones, comparación de cuentas, tres cotizaciones de envío, calendario de envíos, acuerdo familiar con palabra clave y protocolo de emergencia; Indica qué cifras son simuladas y no incluyas datos de quien recibe; resolvió también el caso integrador E2 al final del manual | ☐ | ☐ | |
 | 14 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -66,7 +66,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 7 | Creó un expediente con hechos, comunicaciones, opciones y fechas; localizó un servicio de ayuda legal cerca de la persona | ☐ | ☐ | |
 | 8 | Escribió qué apoyo puede dar sin poner en riesgo sus gastos, qué información le falta para decidir y qué hará si cambia su situación | ☐ | ☐ | |
 | 9 | Si participas en una tanda, anotó integrantes, turnos y fechas; investigó un círculo de préstamo que reporte a las agencias | ☐ | ☐ | |
-| 10 | Entrega su expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos; Resuelve también el caso integrador E3 al final del manual | ☐ | ☐ | |
+| 10 | Entregó su expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos; resolvió también el caso integrador E3 al final del manual | ☐ | ☐ | |
 | 11 | Si usa una app de adelanto, revisó sus movimientos del último mes y sumó todo lo que le cobró | ☐ | ☐ | |
 | 12 | Anotó en su plan tres salidas para una urgencia antes de empeñar: su fondo, un plan de pago y una cooperativa de crédito | ☐ | ☐ | |
 | 13 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
@@ -89,7 +89,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 8 | Guardó los contactos de su plan, sus médicos y el regulador; pidió la política de asistencia financiera del hospital más cercano | ☐ | ☐ | |
 | 9 | Enumera seis cosas de su carpeta de continuidad y quién sabe dónde está | ☐ | ☐ | |
 | 10 | Completó las cinco secciones del plan | ☐ | ☐ | |
-| 11 | Entrega su expediente del Módulo 4: cinco riesgos prioritarios, comparación de dos coberturas, protocolo de incidentes, índice de su carpeta de continuidad y plan de preparación familiar, sin datos sensibles; Se evalúa su razonamiento, no la compra de productos; Resuelve también el caso integrador E4 al final del manual | ☐ | ☐ | |
+| 11 | Entregó su expediente del Módulo 4: cinco riesgos prioritarios, comparación de dos coberturas, protocolo de incidentes, índice de su carpeta de continuidad y plan de preparación familiar, sin datos sensibles; Se evalúa su razonamiento, no la compra de productos; resolvió también el caso integrador E4 al final del manual | ☐ | ☐ | |
 | 12 | Si paga o recibe manutención, juntó los comprobantes de este año en una carpeta o en fotos | ☐ | ☐ | |
 | 13 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
@@ -103,7 +103,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 |---|---|---|---|---|
 | 1 | Escribió sus tres metas y cuánto apartarás para cada una; revisó si caben en su presupuesto | ☐ | ☐ | |
 | 2 | Para cada meta anota plazo, liquidez, pérdida que podrías soportar y costos; No elijas solo por el rendimiento pasado | ☐ | ☐ | |
-| 3 | Llenó la ficha de inversión: cuenta, producto, meta, riesgo, costo, acceso y entidad verificada; Si no puede explicarlo, anotó qué necesita aprender antes de contratar | ☐ | ☐ | |
+| 3 | Llenó la ficha de inversión: contó, producto, meta, riesgo, costo, acceso y entidad verificada; Si no puede explicarlo, anotó qué necesita aprender antes de contratar | ☐ | ☐ | |
 | 4 | Guardó su contrato y sus recibos; Si quiere comprar, agendó una cita con un consejero de vivienda certificado | ☐ | ☐ | |
 | 5 | Comparó dos alternativas y la opción de esperar; anotó al menos cinco costos y una contingencia | ☐ | ☐ | |
 | 6 | Hizo su inventario de fuentes de retiro, sus preguntas y un primer paso; No se exige aportar para aprobar | ☐ | ☐ | |
@@ -111,7 +111,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 8 | Llenó su lista de documentos, actualizó un beneficiario esta semana y habló con la persona que cuidaría a sus hijos | ☐ | ☐ | |
 | 9 | Hizo su presupuesto base con su mes bajo y decidió qué porcentaje de lo extra apartarás | ☐ | ☐ | |
 | 10 | Abrió una cuenta para su negocio, registró sus ventas y gastos por un mes y preguntó en su ciudad qué licencia necesita | ☐ | ☐ | |
-| 11 | Escribió su plan de una página y ponle una fecha de revisión; ¡Felicidades por terminar el programa! | ☐ | ☐ | |
+| 11 | Escribió su plan de una página y le puso una fecha de revisión; ¡Felicidades por terminar el programa! | ☐ | ☐ | |
 | 12 | Hizo su mapa entre dos países y revisó los beneficiarios de sus cuentas aquí | ☐ | ☐ | |
 | 13 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 

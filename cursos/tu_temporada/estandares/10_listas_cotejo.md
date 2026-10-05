@@ -36,8 +36,8 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Llevó su libreta toda una semana y compárala con su talón | ☐ | ☐ | |
-| 2 | Anotó la tarifa de su contrato y guárdala con su libreta | ☐ | ☐ | |
+| 1 | Llevó su libreta toda una semana y la comparó con su talón | ☐ | ☐ | |
+| 2 | Anotó la tarifa de su contrato y la guardó con su libreta | ☐ | ☐ | |
 | 3 | Preguntó en su trabajo por depósito directo o una cuenta y sus comisiones | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
@@ -75,9 +75,9 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Revisó su vivienda con la tabla y guardó su pasaporte contigo | ☐ | ☐ | |
+| 1 | Revisó su vivienda con la tabla y guardó su pasaporte con la persona | ☐ | ☐ | |
 | 2 | Llenó su ficha de salud al llegar | ☐ | ☐ | |
-| 3 | Llenó su lista de ayuda y guárdala en papel en su cartera | ☐ | ☐ | |
+| 3 | Llenó su lista de ayuda y la guardó en papel en su cartera | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -103,7 +103,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 |---|---|---|---|---|
 | 1 | Localizó su Afore, decidió cuánto aportarás cada mes de temporada y guardó sus T4 si va a Canadá | ☐ | ☐ | |
 | 2 | Escribió su proyecto que produce: qué es, cuánto cuesta, para cuándo y cuánto por envío | ☐ | ☐ | |
-| 3 | Llenó su plan de temporada y revísalo con su familia | ☐ | ☐ | |
+| 3 | Llenó su plan de temporada y lo revisó con su familia | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.

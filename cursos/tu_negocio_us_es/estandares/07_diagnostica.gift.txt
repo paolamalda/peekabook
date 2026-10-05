@@ -1,0 +1,110 @@
+$CATEGORY: $course$/Tu Negocio US ES/Diagnóstica
+
+::DIAG 1::Vendes $3,000 y tus costos son $2,200. ¿Cuánto ganas? {
+	=$800
+	~$3,000
+	~$5,200
+}
+
+::DIAG 2::¿Qué es lo mínimo que anotas cada día? {
+	~Solo las ventas grandes
+	~Lo que recuerdes el domingo
+	=Fecha, ventas y gastos
+}
+
+::DIAG 3::¿Cuál de estos es un costo variable? {
+	~La suscripción de tu tienda en línea
+	=El empaque de cada pedido
+	~Tu plan de teléfono
+}
+
+::DIAG 4::Fijos de $3,000 y cada venta te deja 50%. ¿Punto de equilibrio? {
+	~$1,500
+	=$6,000
+	~$3,500
+}
+
+::DIAG 5::Tienes $600, cobrarás $900 y pagarás $1,700 esta semana. ¿Cómo terminas? {
+	~Con $200 de sobra
+	~Con $3,200
+	=Con $200 de faltante
+}
+
+::DIAG 6::Costos fijos de $1,500 al mes. ¿Reserva para 3 meses? {
+	~$500
+	~$1,500
+	=$4,500
+}
+
+::DIAG 7::Cobras $5,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
+	=$150
+	~$500
+	~$15
+}
+
+::DIAG 8::¿Cuándo entregas un pedido pagado por app? {
+	~Cuando te mandan la captura
+	~Cuando el cliente te jura por teléfono que ya pagó
+	=Cuando el dinero está disponible en tu cuenta
+}
+
+::DIAG 9::¿Qué forma de negocio empieza sin trámite de empresa? {
+	=Dueño único
+	~LLC
+	~Corporación
+}
+
+::DIAG 10::¿Cuál es la tasa del impuesto sobre el trabajo por cuenta propia? {
+	=15.3%
+	~7.65%
+	~2.5%
+}
+
+::DIAG 11::La ganancia extra es $300 al mes y el pago es $400. ¿Qué pasa? {
+	~El crédito se paga solo
+	=Te faltan $100 al mes
+	~Ganas $100
+}
+
+::DIAG 12::Dos créditos de igual monto y plazo\: APR 12% y APR 30%. ¿Cuál es más barato? {
+	=El de 12%
+	~El de 30%
+	~Cuestan igual
+}
+
+::DIAG 13::¿Dónde revisas seguro médico en California si trabajas por tu cuenta? {
+	=En Covered California y Medi-Cal
+	~Solo con tu banco
+	~En el IRS
+}
+
+::DIAG 14::¿Dónde buscas si un nombre ya es marca federal? {
+	=En la USPTO
+	~En redes sociales
+	~En un buscador de internet
+}
+
+::DIAG 15::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {
+	=Un empleado
+	~Un contratista independiente
+	~Un socio
+}
+
+::DIAG 16::Tus clientes te escriben a medianoche. ¿Qué haces? {
+	~Contestas siempre para no perderlos
+	=Publicas un horario y una respuesta automática
+	~Apagas el teléfono una semana
+}
+
+::DIAG 17::¿Dónde revisas tu historial del Seguro Social? {
+	~En tu banco
+	=En ssa.gov
+	~En el IRS
+}
+
+::DIAG 18::¿Cada cuánto revisas tu plan de una página? {
+	=Cada tres meses
+	~Una vez en la vida
+	~Cada día
+}
+

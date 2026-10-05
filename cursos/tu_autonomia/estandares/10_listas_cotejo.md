@@ -76,7 +76,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Guardó el 079 en su teléfono (con otro nombre si hace falta) y llenó la tabla en privado | ☐ | ☐ | |
-| 2 | Si lo necesita, llenó su plan en privado; Si no, compártelo con alguien que pueda necesitarlo | ☐ | ☐ | |
+| 2 | Si lo necesita, llenó su plan en privado; Si no, lo compartió con alguien que pueda necesitarlo | ☐ | ☐ | |
 | 3 | Llenó su tabla de pasos y hizo el primero esta semana | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
@@ -101,9 +101,9 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 1 | Llenó su tabla de señales y platícala con alguien de confianza | ☐ | ☐ | |
+| 1 | Llenó su tabla de señales y la platicó con alguien de confianza | ☐ | ☐ | |
 | 2 | Escribió sus tres pasos y la fecha de su revisión mensual | ☐ | ☐ | |
-| 3 | Llenó su plan de autonomía y ponle fecha a cada acción | ☐ | ☐ | |
+| 3 | Llenó su plan de autonomía y le puso fecha a cada acción | ☐ | ☐ | |
 | 4 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.

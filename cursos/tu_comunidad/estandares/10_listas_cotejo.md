@@ -11,7 +11,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Platiquen en su comunidad cómo ir juntas a cobrar y cuánto cuesta el pasaje | ☐ | ☐ | |
-| 2 | Guardó el número 800 639 4264 y compártelo con su comunidad | ☐ | ☐ | |
+| 2 | Guardó el número 800 639 4264 y lo compartió con su comunidad | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -35,7 +35,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Platicó con quien le manda dinero para que lo mande directo a su cuenta | ☐ | ☐ | |
-| 2 | Pidió a su familiar su número de tarjeta por escrito y guárdalo | ☐ | ☐ | |
+| 2 | Pidió a su familiar su número de tarjeta por escrito y lo guardó | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
@@ -71,7 +71,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | # | Criterio | Sí | No | Observaciones |
 |---|---|---|---|---|
 | 1 | Si es ejidatario, preguntó en su comisariado o en el RAN cómo depositar su lista | ☐ | ☐ | |
-| 2 | Ve a su banco y preguntó quiénes son sus beneficiarios | ☐ | ☐ | |
+| 2 | Fue a su banco y preguntó quiénes son sus beneficiarios | ☐ | ☐ | |
 | 3 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 
 **Resultado:** cumple si marca «Sí» en al menos 80% de los criterios.
