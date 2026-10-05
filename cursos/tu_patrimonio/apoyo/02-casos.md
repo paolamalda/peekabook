@@ -4,7 +4,7 @@ Los casos usan datos inventados para que practiques sin compartir información p
 
 ## E1. El mapa de Carmen (Módulos 1 y 2)
 
-**Datos.** Carmen y Jorge tienen: cuenta de la casa en el Banco A (a nombre de ambos, 250,000), cuenta propia de Carmen en el Banco B (80,000), un fondo de deuda en una casa de bolsa a nombre de Jorge (900,000), un departamento que rentan en 12,000 al mes y un seguro de gastos médicos que renueva en marzo (48,000 al año). Sus gastos de cada mes son 38,000 y sus gastos anuales suman 84,000.
+**Datos.** Carmen y Arturo tienen: cuenta de la casa en el Banco A (a nombre de ambos, 250,000), cuenta propia de Carmen en el Banco B (80,000), un fondo de deuda en una casa de bolsa a nombre de Arturo (900,000), un departamento que rentan en 12,000 al mes y un seguro de gastos médicos que renueva en marzo (48,000 al año). Sus gastos de cada mes son 38,000 y sus gastos anuales suman 84,000.
 
 **Tareas.**
 
@@ -56,15 +56,15 @@ Los casos usan datos inventados para que practiques sin compartir información p
 - Rendimiento alto y garantizado; probablemente pide traer a más personas; no está autorizada (verificar en la CNBV).
 - 60% al año: imposible sin fraude.
 
-## E4. La jubilación de Carmen y Jorge (Módulos 7 a 9)
+## E4. La jubilación de Carmen y Arturo (Módulos 7 a 9)
 
-**Datos.** Carmen y Jorge gastarán 45,000 al mes en su retiro. La pensión de Jorge será de 22,000 al mes y Carmen recibirá la Pensión de Adultos Mayores (6,400 cada dos meses). Su seguro de gastos médicos tiene deducible de 30,000 y coaseguro de 10% con tope de 40,000.
+**Datos.** Carmen y Arturo gastarán 45,000 al mes en su retiro. La pensión de Arturo será de 22,000 al mes y Carmen recibirá la Pensión de Adultos Mayores (6,400 cada dos meses). Su seguro de gastos médicos tiene deducible de 30,000 y coaseguro de 10% con tope de 40,000.
 
 **Tareas.**
 
 1. ¿Cuál es la diferencia mensual?
 2. Si Carmen se opera y cuesta 250,000, ¿cuánto paga ella?
-3. Si la pensión de Jorge es de 22,000 al mes, ¿paga ISR?
+3. Si la pensión de Arturo es de 22,000 al mes, ¿paga ISR?
 4. ¿Qué parte de su fondo de emergencia debería reservar para salud?
 
 **Clave.**

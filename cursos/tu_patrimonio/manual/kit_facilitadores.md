@@ -45,11 +45,11 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - **M1 U01 · La lista de Carmen.** Carmen quiere hacer su inventario y piensa anotar el NIP de cada tarjeta «para no olvidarlo». *¿Qué hace?* — Respuesta esperada: Anota solo los últimos cuatro dígitos y guarda los NIP en su memoria, nunca en la lista.
 - **M1 U02 · El enero de Elena.** Elena paga en enero el seguro del auto, el predial y las inscripciones, y siempre usa su ahorro. *¿Qué hace?* — Respuesta esperada: Suma sus gastos anuales, los divide entre 12 y aparta esa cantidad cada mes en una cuenta aparte.
-- **M1 U03 · La cita de Carmen.** Carmen quiere saber qué tienen, pero teme que Jorge se moleste. *¿Qué hace?* — Respuesta esperada: Propone una cita tranquila con una meta común: estar preparados si alguno falta.
+- **M1 U03 · La cita de Carmen.** Carmen quiere saber qué tienen, pero teme que Arturo se moleste. *¿Qué hace?* — Respuesta esperada: Propone una cita tranquila con una meta común: estar preparados si alguno falta.
 
 **Práctica**
 
-- **M1 U01.** Carmen tiene 80,000 en su cuenta, 900,000 en un fondo a nombre de Jorge y 250,000 en una cuenta de ambos. ¿Cuánto está a nombre de Carmen, sola o compartido? — Respuesta: 80,000 más 250,000: 330,000. Los 900,000 del fondo están a nombre de Jorge.
+- **M1 U01.** Carmen tiene 80,000 en su cuenta, 900,000 en un fondo a nombre de Arturo y 250,000 en una cuenta de ambos. ¿Cuánto está a nombre de Carmen, sola o compartido? — Respuesta: 80,000 más 250,000: 330,000. Los 900,000 del fondo están a nombre de Arturo.
 - **M1 U02.** Tus gastos de cada mes son 38,000 y tus gastos anuales suman 54,000. ¿Cuál es tu mes promedio? — Respuesta: 54,000 entre 12 son 4,500. Tu mes promedio es 38,000 más 4,500: 42,500.
 
 ## Módulo 2. Conoce el sistema financiero

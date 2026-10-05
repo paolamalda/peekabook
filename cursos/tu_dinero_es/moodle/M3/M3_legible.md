@@ -154,9 +154,9 @@ A Mar le aprueban 500 más de lo que pidió.
 - *¿Debe aceptarlos para "aprovechar"?* No. Son deuda extra con su propio costo. Pide solo lo que necesita.
 
 
-**Caso 3. La primera tarjeta de Luis**
+**Caso 3. La primera tarjeta de Rubén**
 
-A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había tenido tanto "dinero disponible".
+A Rubén le llegó una oferta de tarjeta con un límite de 2,000. Nunca había tenido tanto "dinero disponible".
 - *¿Cómo debe verlo?* Como un préstamo que tendría que pagar, no como dinero suyo.
 
 
@@ -173,7 +173,7 @@ A Luis le llegó una oferta de tarjeta con un límite de 2,000. Nunca había ten
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -384,9 +384,9 @@ Mar pagó una tarjeta, pero el reporte muestra 900 de saldo.
 - *¿Es un error?* Revisa la fecha del reporte: se generó antes del pago. Espera la siguiente actualización antes de disputar.
 
 
-**Caso 3. El primer reporte de Luis**
+**Caso 3. El primer reporte de Rubén**
 
-Luis pidió su reporte con ITIN por correo.
+Rubén pidió su reporte con ITIN por correo.
 - *¿Qué encontró?* Su plan de teléfono a plazos, pagado a tiempo. Ya tenía historial sin saberlo.
 
 
@@ -403,7 +403,7 @@ Luis pidió su reporte con ITIN por correo.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -451,7 +451,7 @@ Registra la fecha de tu revisión, lo que encontraste, tu prueba y la próxima r
 
 **Lo que lograrás:** Comparar opciones para crear historial de crédito sin endeudarte de más.
 
-**Para empezar:** Luis quiere rentar su propio departamento, pero el dueño le pide historial de crédito. Nunca ha tenido una tarjeta: siempre paga en efectivo o con su app. No sabe por dónde empezar. En esta lección conocerás las formas más seguras de crear historial.
+**Para empezar:** Rubén quiere rentar su propio departamento, pero el dueño le pide historial de crédito. Nunca ha tenido una tarjeta: siempre paga en efectivo o con su app. No sabe por dónde empezar. En esta lección conocerás las formas más seguras de crear historial.
 
 ### Lo esencial (5 minutos)
 
@@ -500,7 +500,7 @@ Para crear historial con una tarjeta, **usa poco y paga el saldo completo cada m
 
 Andrés llegó a EE. UU. con buen historial en México, pero aquí no tenía nada. Preguntó en una empresa que usa historial de otros países y una tarjeta lo aceptó con su historial mexicano.
 
-Luis, sin historial en ningún país, empezó con una tarjeta garantizada de 200 y pidió que reportaran su renta.
+Rubén, sin historial en ningún país, empezó con una tarjeta garantizada de 200 y pidió que reportaran su renta.
 
 
 
@@ -575,10 +575,10 @@ Para que exista un puntaje, muchos modelos necesitan al menos seis meses de hist
 #### Casos
 
 
-**Caso 1. La tarjeta garantizada de Luis**
+**Caso 1. La tarjeta garantizada de Rubén**
 
-Luis deposita 300 en una tarjeta garantizada y compra 40 de gasolina.
-- *¿El depósito paga esos 40?* No. Luis debe pagar los 40 según su estado de cuenta.
+Rubén deposita 300 en una tarjeta garantizada y compra 40 de gasolina.
+- *¿El depósito paga esos 40?* No. Rubén debe pagar los 40 según su estado de cuenta.
 - *¿Cómo crea historial sin pagar intereses?* Pagando el saldo completo cada mes.
 
 
@@ -607,7 +607,7 @@ Daniela paga 1,600 de renta cada mes, siempre a tiempo, en un edificio de 40 dep
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -808,9 +808,9 @@ Andrés tiene 600 de saldo con un límite de 1,000: 60%. Paga 300 y baja a 30%.
 - *¿Cuántos puntos subirá?* No lo sabe, pero sí sabe que redujo su deuda y su utilización.
 
 
-**Caso 3. La "nueva identidad" de Luis**
+**Caso 3. La "nueva identidad" de Rubén**
 
-A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
+A Rubén le ofrecen un "número nuevo" para empezar un historial limpio.
 - *¿Qué es?* Una estafa y un delito. Usar un número que no es tuyo puede traer problemas legales serios.
 
 
@@ -827,7 +827,7 @@ A Luis le ofrecen un "número nuevo" para empezar un historial limpio.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -915,7 +915,7 @@ Si solo pagas el mínimo, puedes tardar años en terminar y pagar mucho en inter
 
 #### Un caso en un minuto
 
-Luis compró un celular con "paga en 4" en una app, luego unos tenis y luego unos audífonos. Cada plan era de 35 dólares.
+Rubén compró un celular con "paga en 4" en una app, luego unos tenis y luego unos audífonos. Cada plan era de 35 dólares.
 
 Por separado parecían pequeños. Juntos eran 140 cada dos semanas, y se cobraban solos de su tarjeta de débito.
 
@@ -1036,9 +1036,9 @@ El horno cuesta 900 de contado. La tienda ofrece pagos de 70 al mes durante 24 m
 - *¿Qué opciones tiene?* Ahorrar unos meses, buscar un préstamo de una cooperativa con menor costo o comprar uno usado.
 
 
-**Caso 3. Los planes de Luis**
+**Caso 3. Los planes de Rubén**
 
-Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
+Rubén tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
 - *¿Cuánto le sale cada dos semanas?* 140, juntos.
 
 
@@ -1055,7 +1055,7 @@ Luis tiene cuatro planes de "paga en 4" de 35 cada dos semanas.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1149,7 +1149,7 @@ A veces la tasa no es lo más importante. Atiende primero una deuda que pone en 
 
 #### Un caso en un minuto
 
-Luis debía 400 en su tarjeta al 28% y 150 a un amigo, sin intereses. Tenía 100 al mes para pagar.
+Rubén debía 400 en su tarjeta al 28% y 150 a un amigo, sin intereses. Tenía 100 al mes para pagar.
 
 Pagó 30 del mínimo de la tarjeta, 20 a su amigo según lo acordado, y los 50 extra a la tarjeta. En siete meses terminó la tarjeta y siguió con su amigo.
 
@@ -1466,9 +1466,9 @@ Mar disputa una deuda con una agencia y le llega una notificación de la corte.
 - *¿Espera a que termine la disputa?* No. Revisa el plazo de la corte y busca ayuda legal de inmediato.
 
 
-**Caso 3. La deuda vieja de Luis**
+**Caso 3. La deuda vieja de Rubén**
 
-Un cobrador llama a Luis por una deuda de un teléfono de hace cinco años, de cuando vivía en otro estado.
+Un cobrador llama a Rubén por una deuda de un teléfono de hace cinco años, de cuando vivía en otro estado.
 - *¿Qué hace?* No promete pagos por teléfono. Pide la información por escrito, verifica la fecha y busca orientación antes de decidir.
 
 
@@ -1485,7 +1485,7 @@ Un cobrador llama a Luis por una deuda de un teléfono de hace cinco años, de c
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Andrés y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1926,9 +1926,9 @@ Mar está en una tanda de 10 personas, 100 por semana, y le toca el turno 8. En 
 - *¿Qué hará la próxima vez?* Pedirá un turno temprano o apartará una reserva.
 
 
-**Caso 2. El círculo de Luis**
+**Caso 2. El círculo de Rubén**
 
-Luis se une a un círculo de préstamo organizado, con su ITIN.
+Rubén se une a un círculo de préstamo organizado, con su ITIN.
 - *¿Qué pasa a los pocos meses?* Sus pagos puntuales aparecen en su reporte de crédito. Ya tiene historial.
 
 
@@ -1951,7 +1951,7 @@ En la tanda de Daniela, una integrante dejó de pagar después de recibir.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1998,7 +1998,7 @@ Si participas en una tanda, anota integrantes, turnos y fechas. Investiga un cí
 
 **Lo que lograrás:** Elegir tu ruta de crédito y armar un plan de 30 a 90 días.
 
-**Para empezar:** Luis no tiene historial. Andrés tiene un error en su reporte. Mar tiene una tarjeta con saldo alto. Daniela tiene una cuenta en cobranza. Los cuatro quieren "mejorar su crédito", pero cada uno necesita algo distinto. En esta lección elegirás tu propia ruta.
+**Para empezar:** Rubén no tiene historial. Andrés tiene un error en su reporte. Mar tiene una tarjeta con saldo alto. Daniela tiene una cuenta en cobranza. Los cuatro quieren "mejorar su crédito", pero cada uno necesita algo distinto. En esta lección elegirás tu propia ruta.
 
 ### Lo esencial (5 minutos)
 
@@ -2040,7 +2040,7 @@ Revisar tu reporte es una acción cumplida aunque tu puntaje no cambie de inmedi
 
 #### Un caso en un minuto
 
-Luis no tiene historial. En la semana 1 pregunta en dos cooperativas por tarjetas garantizadas con ITIN. En la semana 3 compara costos. El día 30 elige una tarjeta que reporta a las tres agencias y pide a su arrendador que reporte su renta.
+Rubén no tiene historial. En la semana 1 pregunta en dos cooperativas por tarjetas garantizadas con ITIN. En la semana 3 compara costos. El día 30 elige una tarjeta que reporta a las tres agencias y pide a su arrendador que reporte su renta.
 
 A los 90 días revisa su reporte: ya aparecen sus primeros pagos.
 
@@ -2212,7 +2212,7 @@ CFPB, reportes y puntajes · FTC, congelamiento de crédito.
 
 **Lo que lograrás:** Comparar el adelanto de tu empleador, las apps que adelantan tu pago y los préstamos «payday», y calcular lo que cuestan en un año.
 
-**Para empezar:** A Luis le faltan 200 dólares para la renta y cobra en cuatro días. Una app le ofrece adelantarlos «sin intereses», con una «propina sugerida» de 8 dólares y 4 más por recibirlos al instante. Su amigo le recomienda un préstamo payday.
+**Para empezar:** A Rubén le faltan 200 dólares para la renta y cobra en cuatro días. Una app le ofrece adelantarlos «sin intereses», con una «propina sugerida» de 8 dólares y 4 más por recibirlos al instante. Su amigo le recomienda un préstamo payday.
 
 ### Lo esencial (5 minutos)
 
@@ -2239,7 +2239,7 @@ Un préstamo payday cobra cargos que, llevados a un año, suelen pasar de 300% y
 
 #### Un caso en un minuto
 
-Luis preguntó en su trabajo: su empleador adelanta hasta la mitad de lo ya trabajado sin costo, una vez al mes. Pidió los 200 ahí y empezó a apartar 20 dólares por cheque para su fondo, para no volver a necesitarlo.
+Rubén preguntó en su trabajo: su empleador adelanta hasta la mitad de lo ya trabajado sin costo, una vez al mes. Pidió los 200 ahí y empezó a apartar 20 dólares por cheque para su fondo, para no volver a necesitarlo.
 
 > **Idea clave:** un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador.
 
@@ -2289,9 +2289,9 @@ Baja el monto poco a poco: pide 150 en lugar de 200, luego 100, hasta dejar de p
 #### Casos
 
 
-**Caso 1. La app de Luis**
+**Caso 1. La app de Rubén**
 
-La app le cobra a Luis 12 dólares por adelantar 200 cada dos semanas.
+La app le cobra a Rubén 12 dólares por adelantar 200 cada dos semanas.
 - *¿Cuánto paga al año?* 312 dólares.
 - *¿Qué hace?* Pregunta si su empleador adelanta sin costo y arma su fondo.
 
@@ -2321,7 +2321,7 @@ La app de Daniela se cobró cuando no tenía saldo.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Daniela. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2460,9 +2460,9 @@ Andrés quiere empeñar las herramientas con las que hace trabajos los fines de 
 - *¿Qué hace?* No empeña lo que usa para trabajar.
 
 
-**Caso 3. La boleta de Luis**
+**Caso 3. La boleta de Rubén**
 
-Luis empeñó su reloj y perdió la boleta.
+Rubén empeñó su reloj y perdió la boleta.
 - *¿Qué hace?* Va a la casa con su identificación y pide una copia.
 
 
@@ -2479,7 +2479,7 @@ Luis empeñó su reloj y perdió la boleta.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Mar, Andrés y Luis. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mar, Andrés y Rubén. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

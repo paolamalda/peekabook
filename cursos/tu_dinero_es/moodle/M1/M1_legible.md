@@ -182,8 +182,8 @@ Daniela vendió 600 dólares de pasteles en un mes. Gastó 250 en ingredientes y
 
 **Caso 3. El depósito misterioso**
 
-Aparece un depósito de 300 en la cuenta de Luis. No sabe de dónde viene. Días después, alguien le escribe: "Te deposité por error, devuélvemelo por Zelle".
-- *¿Qué debe hacer Luis?* No gastarlo ni devolverlo por su cuenta. Primero debe llamar a su banco al número oficial.
+Aparece un depósito de 300 en la cuenta de Rubén. No sabe de dónde viene. Días después, alguien le escribe: "Te deposité por error, devuélvemelo por Zelle".
+- *¿Qué debe hacer Rubén?* No gastarlo ni devolverlo por su cuenta. Primero debe llamar a su banco al número oficial.
 - *¿Por qué?* Puede ser una estafa. En muchas, el depósito original se cancela después y el dinero que "devuelves" sale de tu propio saldo. Puedes reportarla en [ReporteFraude.ftc.gov](https://reportefraude.ftc.gov).
 
 
@@ -200,7 +200,7 @@ Aparece un depósito de 300 en la cuenta de Luis. No sabe de dónde viene. Días
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -309,11 +309,11 @@ En un ahorro, el interés compuesto trabaja a tu favor. En una deuda, trabaja en
 
 #### Un caso en un minuto
 
-Luis gana lo mismo que el año pasado: 650 a la semana. Su renta subió de 700 a 756 al mes, y el transporte de 120 a 132.
+Rubén gana lo mismo que el año pasado: 650 a la semana. Su renta subió de 700 a 756 al mes, y el transporte de 120 a 132.
 
 Su renta subió 8% y el transporte 10%. Aunque su sueldo no bajó, le quedan 68 dólares menos cada mes.
 
-Luis no está gastando de más. Sus precios subieron y su ingreso no. Saberlo le ayuda a pedir un aumento con datos o a buscar dónde ajustar.
+Rubén no está gastando de más. Sus precios subieron y su ingreso no. Saberlo le ayuda a pedir un aumento con datos o a buscar dónde ajustar.
 
 > **Antes de actuar, verifica:** en cualquier oferta de crédito, busca si la tasa es anual o mensual, si es simple o compuesta, y qué cargos incluye.
 
@@ -440,7 +440,7 @@ Mar guardó 1,000 dólares en una cuenta que pagó 3% en un año. La canasta que
 
 **Caso 3. El préstamo "de 1% semanal"**
 
-A Luis le ofrecen un préstamo "barato" de 1% a la semana.
+A Rubén le ofrecen un préstamo "barato" de 1% a la semana.
 - *¿Cuánto es al año?* Casi 68%, porque 1.01 elevado a 52 es 1.678. No es barato.
 - *¿Qué pregunta debe hacer?* La tasa anual (APR) y todos los cargos, por escrito.
 
@@ -458,7 +458,7 @@ A Luis le ofrecen un préstamo "barato" de 1% a la semana.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -508,7 +508,7 @@ Anota tres precios que subieron en tu casa este año y una acción que sí depen
 
 **Lo que lograrás:** Ordenar tus prioridades según tus valores y tu situación, sin culparte.
 
-**Para empezar:** A Luis le quedan 60 dólares hasta el próximo pago. Su mamá necesita medicina, se le rompieron los zapatos de trabajo y un amigo lo invita a un concierto. Todo parece importante. En esta lección aprenderás un método sencillo para decidir qué va primero.
+**Para empezar:** A Rubén le quedan 60 dólares hasta el próximo pago. Su mamá necesita medicina, se le rompieron los zapatos de trabajo y un amigo lo invita a un concierto. Todo parece importante. En esta lección aprenderás un método sencillo para decidir qué va primero.
 
 ### Lo esencial (5 minutos)
 
@@ -657,9 +657,9 @@ Alex tiene 60 dólares libres. Puede comprar el regalo de cumpleaños de su hijo
 - *¿Cuál es la respuesta correcta?* Depende de sus prioridades. Una buena decisión mantiene cubiertos los pagos, explica por qué elige y no llama "malo" al regalo ni "obligatorio" al ahorro.
 
 
-**Caso 3. Los 60 dólares de Luis**
+**Caso 3. Los 60 dólares de Rubén**
 
-Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de 40, sus zapatos de trabajo están rotos y lo invitaron a un concierto.
+Rubén tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de 40, sus zapatos de trabajo están rotos y lo invitaron a un concierto.
 - *¿Qué es urgente?* La medicina y los zapatos, porque protegen la salud y el trabajo.
 - *¿Qué hace con el concierto?* Lo aplaza o busca una opción sin costo. Puede apartar un poco de cada pago para ir al siguiente.
 
@@ -677,7 +677,7 @@ Luis tiene 60 dólares hasta el próximo pago. Su mamá necesita una medicina de
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -784,9 +784,9 @@ Lo que cobraste menos lo que gastaste para trabajar es tu ganancia real.
 
 #### Un caso en un minuto
 
-Luis cobra cada viernes. En julio hubo cinco viernes y recibió 3,250 en lugar de 2,600.
+Rubén cobra cada viernes. En julio hubo cinco viernes y recibió 3,250 en lugar de 2,600.
 
-Su compañero de cuarto le propuso rentar un departamento más caro, porque "ahora ganas más". Luis revisó su calendario: solo cuatro meses del año tienen cinco viernes.
+Su compañero de cuarto le propuso rentar un departamento más caro, porque "ahora ganas más". Rubén revisó su calendario: solo cuatro meses del año tienen cinco viernes.
 
 Decidió usar el pago extra para adelantar su reserva y mantener la renta que puede pagar con cuatro pagos.
 
@@ -957,7 +957,7 @@ IRS, economía de plataformas · CFPB, Your Money, Your Goals.
 
 **Lo que lograrás:** Leer tu recibo de pago y saber cuándo y dónde pedir una aclaración.
 
-**Para empezar:** Luis trabajó toda la semana y esperaba 700 dólares. Le depositaron 565. No sabe si es un error o si así debe ser. En esta lección aprenderás a leer tu recibo de pago línea por línea.
+**Para empezar:** Rubén trabajó toda la semana y esperaba 700 dólares. Le depositaron 565. No sabe si es un error o si así debe ser. En esta lección aprenderás a leer tu recibo de pago línea por línea.
 
 ### Lo esencial (5 minutos)
 
@@ -1143,13 +1143,13 @@ Alex trabajó 40 horas, pero el recibo dice 36.
 
 **Caso 2. El descuento desconocido**
 
-Luis ve un descuento de 12 dólares llamado "uniform".
+Rubén ve un descuento de 12 dólares llamado "uniform".
 - *¿Qué hace?* Pide por escrito que le expliquen el concepto y si debe pagarlo.
 
 
-**Caso 3. Los 565 de Luis**
+**Caso 3. Los 565 de Rubén**
 
-Luis esperaba 700 y recibió 565.
+Rubén esperaba 700 y recibió 565.
 - *¿Hay un error?* No necesariamente. 700 era su bruto. Si los descuentos suman 135, el neto correcto es 565.
 
 
@@ -1166,7 +1166,7 @@ Luis esperaba 700 y recibió 565.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1214,7 +1214,7 @@ Crea una carpeta de recibos de pago y un registro de horas. Anota una pregunta s
 
 **Lo que lograrás:** Medir el peso real de tus gastos grandes y pequeños, y elegir ajustes que sí puedas sostener.
 
-**Para empezar:** Luis revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "sin costo" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena.
+**Para empezar:** Rubén revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "sin costo" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena.
 
 ### Lo esencial (5 minutos)
 
@@ -1375,9 +1375,9 @@ Alex compra un refresco de 2.50 cada día de trabajo: 55 al mes.
 - *¿Cuánto libera?* Unos 30 al mes, que asigna a su reserva.
 
 
-**Caso 2. La suscripción olvidada de Luis**
+**Caso 2. La suscripción olvidada de Rubén**
 
-Luis descubre un cargo de 12.99 al mes de una app que probó "sin costo". Lleva ocho meses pagando.
+Rubén descubre un cargo de 12.99 al mes de una app que probó "sin costo". Lleva ocho meses pagando.
 - *¿Cuánto ha pagado?* 12.99 × 8 = 103.92.
 - *¿Qué hace?* Cancela en la app o con la empresa, guarda el comprobante y revisa su estado de cuenta el mes siguiente.
 
@@ -1401,7 +1401,7 @@ Daniela compara dos paquetes de fresas para sus pasteles. Solo usará la mitad d
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1503,7 +1503,7 @@ Un cambio que pediste no está aprobado hasta que te lo confirmen, de preferenci
 
 #### Un caso en un minuto
 
-Luis cobra 650 cada viernes. Su renta de 750 vence el día 1 y su teléfono de 60 el día 3.
+Rubén cobra 650 cada viernes. Su renta de 750 vence el día 1 y su teléfono de 60 el día 3.
 
 Si el día 1 cae en martes, solo cuenta con lo que cobró el viernes anterior. Para no quedarse corto, aparta 190 de cada uno de los cuatro cobros anteriores a la renta.
 
@@ -1626,9 +1626,9 @@ El seguro del auto de Daniela se cobra solo el día 3. Un mes su cuenta tenía 6
 - *¿Qué cambió?* Ahora tiene una alerta dos días antes y preguntó a su banco cómo desactivar el sobregiro.
 
 
-**Caso 3. El cuarto compartido de Luis**
+**Caso 3. El cuarto compartido de Rubén**
 
-Luis y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas distintas.
+Rubén y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas distintas.
 - *¿Qué acuerdan?* Cada quien deposita su parte en una cuenta común tres días antes, y lo anotan en un calendario compartido.
 
 
@@ -1645,7 +1645,7 @@ Luis y sus compañeros pagan la renta el día 1, pero cada uno cobra en fechas d
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1743,7 +1743,7 @@ Para cada ajuste escribe qué harás y por cuánto tiempo. Por ejemplo: "reduzco
 
 #### Un caso en un minuto
 
-Luis gana 2,600 al mes. Su renta es 750, comida 400, transporte 130, teléfono 60 y le envía 300 a su mamá. Suma 1,640 y le quedan 960.
+Rubén gana 2,600 al mes. Su renta es 750, comida 400, transporte 130, teléfono 60 y le envía 300 a su mamá. Suma 1,640 y le quedan 960.
 
 Parece mucho, pero no ha contado la ropa de trabajo, las salidas ni los gastos que no son mensuales, como el registro del auto de su compañero que él ayuda a pagar.
 
@@ -2105,9 +2105,9 @@ Alex envía dinero a su mamá en Michoacán.
 - *¿La puede declarar como dependiente?* No es automático. Hay reglas de parentesco, residencia y apoyo que cambian. Debe llevar la información a un preparador con credenciales.
 
 
-**Caso 3. El ITIN de Luis**
+**Caso 3. El ITIN de Rubén**
 
-Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
+Rubén tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 - *¿Qué puede pasar?* Que su ITIN esté desactivado. Debe revisarlo antes de declarar para renovarlo a tiempo.
 
 
@@ -2124,7 +2124,7 @@ Luis tramitó su ITIN hace cuatro años, pero no declaró los últimos tres.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2445,7 +2445,7 @@ Muchas sedes atienden en español y ayudan a tramitar el ITIN.
 
 #### Un caso en un minuto
 
-Luis trabaja y declara con ITIN. No tiene hijos. Pensaba que no calificaba para nada.
+Rubén trabaja y declara con ITIN. No tiene hijos. Pensaba que no calificaba para nada.
 
 En VITA le explican que el CalEITC también puede aplicar a personas sin hijos, según sus ingresos. Su declaración estatal resulta con un pequeño reembolso.
 
@@ -2563,7 +2563,7 @@ Mar declara con ITIN. Con sus ingresos y dos hijos pequeños, en una sede de VIT
 
 **Caso 2. El pasaporte por correo**
 
-Un vecino le dice a Luis que para el ITIN debe mandar su pasaporte original al IRS.
+Un vecino le dice a Rubén que para el ITIN debe mandar su pasaporte original al IRS.
 - *¿Hay otra opción?* Sí. Un Agente Certificador de Aceptación puede revisar sus documentos sin que los envíe.
 
 
@@ -2586,7 +2586,7 @@ Daniela no declaró durante tres años y su ITIN se desactivó.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2637,7 +2637,7 @@ Localiza la sede de VITA más cercana y anota su horario, su idioma y los docume
 
 **Lo que lograrás:** Comparar servicios de preparación de impuestos y reconocer prácticas peligrosas.
 
-**Para empezar:** Luis vio un anuncio en redes: "Reembolso de 3,000 garantizado". Le pedían firmar antes de revisar sus papeles. Algo no le cuadró. En esta lección aprenderás a elegir quién te ayuda con tus impuestos y a detectar señales de alarma.
+**Para empezar:** Rubén vio un anuncio en redes: "Reembolso de 3,000 garantizado". Le pedían firmar antes de revisar sus papeles. Algo no le cuadró. En esta lección aprenderás a elegir quién te ayuda con tus impuestos y a detectar señales de alarma.
 
 ### Lo esencial (5 minutos)
 
@@ -2793,7 +2793,7 @@ Si tienes un negocio con empleados, bienes en otro país, declaraciones atrasada
 
 **Caso 1. El reembolso garantizado**
 
-Un anuncio en redes promete a Luis "reembolso de 3,000 garantizado". Le piden firmar antes de revisar.
+Un anuncio en redes promete a Rubén "reembolso de 3,000 garantizado". Le piden firmar antes de revisar.
 - *¿Qué hace?* No firma y busca una sede de VITA.
 - *¿Por qué es una señal de alarma?* Nadie puede prometer un reembolso sin revisar tus documentos.
 
@@ -2823,7 +2823,7 @@ El preparador de Daniela le pide que el reembolso llegue a "la cuenta de la ofic
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -3096,7 +3096,7 @@ Anota qué apoyo necesita tu hogar, quién podría calificar y dónde confirmar�
 
 **Lo que lograrás:** Armar un plan de 90 días con acciones concretas, fechas y una alternativa si algo cambia.
 
-**Para empezar:** Luis terminó el módulo con muchas ideas: hacer un calendario, ahorrar, revisar sus impuestos. Una semana después no había hecho nada. No le faltaron ganas: le faltó convertirlas en pasos. En esta lección aprenderás a hacer un plan que sí se cumple.
+**Para empezar:** Rubén terminó el módulo con muchas ideas: hacer un calendario, ahorrar, revisar sus impuestos. Una semana después no había hecho nada. No le faltaron ganas: le faltó convertirlas en pasos. En esta lección aprenderás a hacer un plan que sí se cumple.
 
 ### Lo esencial (5 minutos)
 
@@ -3273,9 +3273,9 @@ Daniela quiere ahorrar, pero su hogar todavía tiene déficit.
 - *¿Por dónde empieza?* Documenta el faltante durante 4 semanas, revisa dos apoyos y resuelve una obligación. Su primera meta es estabilizar.
 
 
-**Caso 3. Las ideas de Luis**
+**Caso 3. Las ideas de Rubén**
 
-Luis tiene muchas ideas y ninguna fecha.
+Rubén tiene muchas ideas y ninguna fecha.
 - *¿Qué hace?* Elige una sola: "el domingo haré mi calendario de 8 semanas". La cumple y después elige la siguiente.
 
 
@@ -3292,7 +3292,7 @@ Luis tiene muchas ideas y ninguna fecha.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

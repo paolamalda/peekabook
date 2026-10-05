@@ -130,7 +130,7 @@ Se cuentan palabras visibles (sin las definiciones de los términos). A 90–110
 - Sin culpa ni juicios: "puedes", "te conviene", nunca "debiste".
 - Sin tono defensivo ni avisos repetidos.
 - Números con ejemplo concreto.
-- Usa a los personajes del módulo (ver `manual/personajes.md`): M1 Alex y Mar, Luis y Daniela; M2 Luis, Daniela, Alex y Mar; M3 Luis, Andrés, Mar y Daniela; M4 Rosa, Daniela, Alex y Mar; M5 Andrés, Rosa, Daniela y Luis.
+- Usa a los personajes del módulo (ver `manual/personajes.md`): M1 Alex y Mar, Rubén y Daniela; M2 Rubén, Daniela, Alex y Mar; M3 Rubén, Andrés, Mar y Daniela; M4 Rosa, Daniela, Alex y Mar; M5 Andrés, Rosa, Daniela y Rubén.
 - Nunca digas la situación migratoria de un personaje. Si el tema lo pide, usa "sin residencia legal", "sin permiso para trabajar" o "sin visa de trabajo"; nunca "ilegal" ni "sin papeles".
 - Del trabajo de Mar di solo lo necesario: le pagan cada semana, recibe la mayor parte de sus propinas en efectivo, a veces le pagan por app y algunos fines de semana vende comida por encargo.
 - No mezcles temas en un mismo párrafo. Si cambias de tema, cambia de párrafo o de bloque.

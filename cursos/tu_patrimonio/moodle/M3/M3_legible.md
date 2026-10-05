@@ -662,7 +662,7 @@ Nunca pidas ni aceptes ayuda de desconocidos en el cajero, en la sucursal o por 
 
 #### Un caso en un minuto
 
-Lucía eligió a su hija Ana como persona de confianza. Los domingos, Ana le explica con paciencia y Lucía hace los pasos. Si Ana no está, Lucía llama al número de atrás de su tarjeta.
+Lucía eligió a su hija Clara como persona de confianza. Los domingos, Clara le explica con paciencia y Lucía hace los pasos. Si Clara no está, Lucía llama al número de atrás de su tarjeta.
 
 > **Idea clave:** elige tu persona de confianza antes de necesitarla, y nunca aceptes ayuda de desconocidos.
 

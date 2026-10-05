@@ -45,9 +45,9 @@ Week 1 shows 420 of rent without funds. The positive ending balance doesn't eras
 
 **Additional tax practice.** A self-employed worker receives 2,000 through a platform and 300 in cash. Her costs for the year are 400. The platform deposits 2,000 in her bank and she moves 1,000 to another account of her own. Result before taxes: 2,300 − 400 = 1,900. The deposits and her own transfer aren't counted again.
 
-## E2. Luis: an emergency and three remittances (Module 2)
+## E2. Rubén: an emergency and three remittances (Module 2)
 
-**Data.** Luis's mother, in Oaxaca, asks for 5,000 pesos for an emergency. Luis can use at most 310 dollars in total.
+**Data.** Rubén's mother, in Oaxaca, asks for 5,000 pesos for an emergency. Rubén can use at most 310 dollars in total.
 
 | Provider | Exchange rate | Fee | Delivery | Other costs |
 |---|---|---|---|---|

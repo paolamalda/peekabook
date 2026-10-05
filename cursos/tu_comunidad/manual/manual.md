@@ -36,9 +36,10 @@ Programa de bienestar financiero diseñado para pueblos indígenas: cobrar apoyo
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **No se dice que el programa está en lenguas indígenas:** el material está en español y lo imparte un intérprete o una facilitadora bilingüe de la comunidad.
-8. **Pocas palabras y muchas ilustraciones:** cada idea cabe en una imagen; las hojas de trabajo se llenan con marcas, no con texto largo.
-9. **Respeto a las formas de la comunidad:** asambleas, cargos y acuerdos comunitarios se toman en cuenta al hablar de dinero y tierra.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **No se dice que el programa está en lenguas indígenas:** el material está en español y lo imparte un intérprete o una facilitadora bilingüe de la comunidad.
+9. **Pocas palabras y muchas ilustraciones:** cada idea cabe en una imagen; las hojas de trabajo se llenan con marcas, no con texto largo.
+10. **Respeto a las formas de la comunidad:** asambleas, cargos y acuerdos comunitarios se toman en cuenta al hablar de dinero y tierra.
 
 ## Personajes
 

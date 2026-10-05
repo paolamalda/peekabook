@@ -35,8 +35,9 @@ Programa de bienestar financiero para comunidades afromexicanas de la Costa Chic
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **Ejemplos de la región:** pesca, limón, ajonjolí, coco, turismo de playa y comercio local de la Costa Chica.
-8. **Facilitadores de la región** siempre que sea posible.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **Ejemplos de la región:** pesca, limón, ajonjolí, coco, turismo de playa y comercio local de la Costa Chica.
+9. **Facilitadores de la región** siempre que sea posible.
 
 ## Personajes
 

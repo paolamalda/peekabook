@@ -23,7 +23,7 @@ Lección: [por definir]
 
 **Audio** (123 palabras, unos 51 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué tengo y dónde está? Carmen sabe que tienen «algo invertido» y un departamento que rentan, pero todo lo maneja Jorge. Una tarde se pregunta qué haría si él se enfermara mañana. No sabe en qué banco está cada cosa ni a quién llamar. En esta lección harás el mapa que a Carmen le falta. Un inventario sencillo te da tranquilidad y es el punto de partida de todo el curso. Recuerda: Qué tienes, dónde está y a nombre de quién. Sin números completos, NIP ni contraseñas. Revísalo cada año. Tu paso de esta semana: Llena la tabla de inventario con lo que sepas hoy y marca lo que te falta averiguar. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué tengo y dónde está? Carmen sabe que tienen «algo invertido» y un departamento que rentan, pero todo lo maneja Arturo. Una tarde se pregunta qué haría si él se enfermara mañana. No sabe en qué banco está cada cosa ni a quién llamar. En esta lección harás el mapa que a Carmen le falta. Un inventario sencillo te da tranquilidad y es el punto de partida de todo el curso. Recuerda: Qué tienes, dónde está y a nombre de quién. Sin números completos, NIP ni contraseñas. Revísalo cada año. Tu paso de esta semana: Llena la tabla de inventario con lo que sepas hoy y marca lo que te falta averiguar. Nos escuchamos en la próxima lección.
 
 ### M1 U02 · ¿Cuánto cuesta vivir en mi casa, al mes y al año?
 
@@ -65,7 +65,7 @@ Lección: [por definir]
 
 **Audio** (108 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Mi dinero, nuestro dinero. Carmen nunca ha preguntado cuánto ganan ni cuánto tienen: «eso lo ve Jorge». No es desconfianza; así se acostumbraron. Pero si algo cambiara, ella tendría que empezar de cero. En esta lección verás cómo abrir la conversación sin pelear. Hablar de dinero en familia no es desconfianza; es tranquilidad para las dos personas. Recuerda: Las dos personas saben qué hay. Cuenta propia a tu nombre. Revisa tu acta de matrimonio. Tu paso de esta semana: Busca tu acta de matrimonio, anota tu régimen y propón a tu familia una cita mensual de dinero. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Mi dinero, nuestro dinero. Carmen nunca ha preguntado cuánto ganan ni cuánto tienen: «eso lo ve Arturo». No es desconfianza; así se acostumbraron. Pero si algo cambiara, ella tendría que empezar de cero. En esta lección verás cómo abrir la conversación sin pelear. Hablar de dinero en familia no es desconfianza; es tranquilidad para las dos personas. Recuerda: Las dos personas saben qué hay. Cuenta propia a tu nombre. Revisa tu acta de matrimonio. Tu paso de esta semana: Busca tu acta de matrimonio, anota tu régimen y propón a tu familia una cita mensual de dinero. Nos escuchamos en la próxima lección.
 
 ### M1 U04 · Tu carpeta de documentos
 
@@ -493,7 +493,7 @@ Lección: [por definir]
 
 **Audio** (106 palabras, unos 44 segundos)
 
-Hola. Hoy hablamos de esto: Elige y revisa tus cuentas. Carmen tiene cinco cuentas en tres bancos: la de nómina vieja de Jorge, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas. Menos cuentas, cada una con propósito, sin comisiones y con beneficiarios al día. Recuerda: Cada cuenta con propósito. Revisa comisiones y GAT. Cierra por escrito las que no usas. Tu paso de esta semana: Llena la tabla de revisión con tus cuentas y decide cuáles cierras. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Elige y revisa tus cuentas. Carmen tiene cinco cuentas en tres bancos: la de nómina vieja de Arturo, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas. Menos cuentas, cada una con propósito, sin comisiones y con beneficiarios al día. Recuerda: Cada cuenta con propósito. Revisa comisiones y GAT. Cierra por escrito las que no usas. Tu paso de esta semana: Llena la tabla de revisión con tus cuentas y decide cuáles cierras. Nos escuchamos en la próxima lección.
 
 ### M5 U02 · El seguro del IPAB: hasta cuánto te protege
 
@@ -875,7 +875,7 @@ Lección: [por definir]
 
 **Audio** (99 palabras, unos 41 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuánto necesito para mi retiro? Carmen y Jorge piensan que con la pensión de él «alcanza». Nunca lo han calculado. Al hacer números, descubren que la pensión cubre la mitad de su gasto actual. En esta lección harás tu propio cálculo. Calcula tu gasto, tus pensiones y la diferencia; así sabes cuánto ahorro necesitas. Recuerda: Gasto, pensiones y diferencia. La salud sube. La diferencia se cubre con ahorro u otros ingresos. Tu paso de esta semana: Llena tu cálculo de retiro con tus números y anota la diferencia. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuánto necesito para mi retiro? Carmen y Arturo piensan que con la pensión de él «alcanza». Nunca lo han calculado. Al hacer números, descubren que la pensión cubre la mitad de su gasto actual. En esta lección harás tu propio cálculo. Calcula tu gasto, tus pensiones y la diferencia; así sabes cuánto ahorro necesitas. Recuerda: Gasto, pensiones y diferencia. La salud sube. La diferencia se cubre con ahorro u otros ingresos. Tu paso de esta semana: Llena tu cálculo de retiro con tus números y anota la diferencia. Nos escuchamos en la próxima lección.
 
 ## Módulo 8. Salud y seguros
 

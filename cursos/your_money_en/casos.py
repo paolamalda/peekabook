@@ -34,7 +34,7 @@ CASOS = {
 "M1 U07": [
  ("Their paychecks arrive after the rent due date.", "They earn less than they need to live in their area.", "They spend too much on food during the first week."),
  ("She sets an alert and asks how to turn off overdraft.", "She cancels her car insurance to avoid more charges.", "She leaves the account empty so the charge doesn't go through."),
- ("Each one deposits their share three days before.", "Each one pays when they get paid, even if it's late.", "Luis pays it all and then collects from the others."),
+ ("Each one deposits their share three days before.", "Each one pays when they get paid, even if it's late.", "Rubén pays it all and then collects from the others."),
 ],
 "M1 U08": [
  ("Pause savings, lower the remittance and ask for a payment plan.", "Cancel every subscription and hope it's enough.", "Take out a 480 loan and pay it back when things improve."),
@@ -104,7 +104,7 @@ CASOS = {
 "M2 U07": [
  ("Send after payday.", "Send before rent.", "Borrow to send it."),
  ("120.", "200.", "250."),
- ("Luis sends on the 15th and his brother on the 30th.", "Both send on the same day so it's more money.", "Only whoever earned more that month sends money."),
+ ("Rubén sends on the 15th and his brother on the 30th.", "Both send on the same day so it's more money.", "Only whoever earned more that month sends money."),
 ],
 "M2 U08": [
  ("Compare three quotes from the same day and base.", "Stay with the app because it already had a promotion.", "Always choose the one that charges no fee."),
@@ -147,7 +147,7 @@ CASOS = {
  ("That he already had a history from his phone plan.", "That he had nothing, because he uses an ITIN.", "That his ITIN doesn't work for having credit."),
 ],
 "M3 U03": [
- ("No: Luis pays the 40 on his statement.", "Yes: the deposit pays his purchases up to 300.", "Yes, because that's what he deposited the 300 for."),
+ ("No: Rubén pays the 40 on his statement.", "Yes: the deposit pays his purchases up to 300.", "Yes, because that's what he deposited the 300 for."),
  ("A: it costs less and does report.", "B, because the more expensive one is better.", "Neither: both charge too much."),
  ("Whether her landlord can report her rent payments.", "Whether she can pay rent with her credit card.", "Whether the owner can lower her rent for paying on time."),
 ],

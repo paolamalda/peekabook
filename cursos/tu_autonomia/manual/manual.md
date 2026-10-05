@@ -35,9 +35,10 @@ Programa de bienestar financiero para mujeres adultas: dinero y documentos a su 
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **No es un curso de emprendimiento:** se enfoca en autonomía, retiro y protección.
-8. **Sin culpas:** se separan los hábitos personales de las desigualdades que no dependen de ellas.
-9. **Seguridad primero:** las lecciones de violencia económica recuerdan borrar el historial si alguien revisa el dispositivo y dan el 079 y el 911.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **No es un curso de emprendimiento:** se enfoca en autonomía, retiro y protección.
+9. **Sin culpas:** se separan los hábitos personales de las desigualdades que no dependen de ellas.
+10. **Seguridad primero:** las lecciones de violencia económica recuerdan borrar el historial si alguien revisa el dispositivo y dan el 079 y el 911.
 
 ## Personajes
 

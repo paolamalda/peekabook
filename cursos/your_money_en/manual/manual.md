@@ -10,7 +10,7 @@ Financial well-being program for Latino immigrants in California: money, remitta
 
 A couple living in Los Angeles with their two children, ages 7 and 4. Alex's mother lives in Michoacán and they send her money every month. Alex is paid biweekly and sometimes does jobs with his truck; Mar is paid weekly, gets most of her tips in cash and sometimes sells food to order.
 
-### Luis
+### Rubén
 
 He's 24 and came from Oaxaca two years ago. He shares an apartment in Los Angeles, works in a warehouse, is paid weekly and sends money to his mother. He has no credit history and pays almost everything with apps.
 
@@ -156,7 +156,7 @@ In the H5P activities the wrong options are about as long as the right one, so l
 
 #### Serialized story
 
-Six characters accompany the course: Alex and Mar, Luis, Daniela, Rosa and Andrés. Each module puts at the front those who live the topic most closely and closes with an integrative case: E1 Alex and Mar (calendar), E2 Luis (remittances), E3 Andrés (credit and debt), E4 Rosa (protection) and E5 Daniela (future).
+Six characters accompany the course: Alex and Mar, Rubén, Daniela, Rosa and Andrés. Each module puts at the front those who live the topic most closely and closes with an integrative case: E1 Alex and Mar (calendar), E2 Rubén (remittances), E3 Andrés (credit and debt), E4 Rosa (protection) and E5 Daniela (future).
 
 ---
 

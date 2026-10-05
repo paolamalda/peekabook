@@ -182,8 +182,8 @@ Daniela sold 600 dollars' worth of cakes in a month. She spent 250 on ingredient
 
 **Case 3. The mystery deposit**
 
-A 300 deposit shows up in Luis's account. He doesn't know where it came from. A few days later, someone texts him: "I deposited it by mistake, send it back to me by Zelle."
-- *What should Luis do?* Not spend it and not send it back on his own. First he should call his bank at its official number.
+A 300 deposit shows up in Rubén's account. He doesn't know where it came from. A few days later, someone texts him: "I deposited it by mistake, send it back to me by Zelle."
+- *What should Rubén do?* Not spend it and not send it back on his own. First he should call his bank at its official number.
 - *Why?* It may be a scam. In many of these scams the original deposit is reversed later, and the money you "send back" comes out of your own balance. You can report it at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov).
 
 
@@ -200,7 +200,7 @@ A 300 deposit shows up in Luis's account. He doesn't know where it came from. A 
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -309,11 +309,11 @@ In savings, compound interest works for you. In a debt, it works against you: if
 
 #### A case in one minute
 
-Luis earns the same as last year: 650 a week. His rent went up from 700 to 756 a month, and transportation from 120 to 132.
+Rubén earns the same as last year: 650 a week. His rent went up from 700 to 756 a month, and transportation from 120 to 132.
 
 His rent went up 8% and transportation 10%. Even though his pay didn't go down, he has 68 dollars less each month.
 
-Luis isn't overspending. His prices went up and his income didn't. Knowing this helps him ask for a raise with numbers or look for where to adjust.
+Rubén isn't overspending. His prices went up and his income didn't. Knowing this helps him ask for a raise with numbers or look for where to adjust.
 
 > **Before you act, check:** in any credit offer, look for whether the rate is yearly or monthly, simple or compound, and which fees it includes.
 
@@ -440,7 +440,7 @@ Mar kept 1,000 dollars in an account that paid 3% in a year. The basket of thing
 
 **Case 3. The "1% a week" loan**
 
-Luis is offered a "cheap" loan at 1% a week.
+Rubén is offered a "cheap" loan at 1% a week.
 - *How much is that a year?* Almost 68%, because 1.01 raised to 52 is 1.678. It isn't cheap.
 - *What should he ask?* The yearly rate (APR) and all the fees, in writing.
 
@@ -458,7 +458,7 @@ Luis is offered a "cheap" loan at 1% a week.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -508,7 +508,7 @@ Write down three prices that went up in your home this year and one action that 
 
 **What you will be able to do:** Put your priorities in order based on your values and your situation, without blaming yourself.
 
-**To start:** Luis has 60 dollars left until his next paycheck. His mom needs medicine, his work shoes fell apart and a friend invited him to a concert. Everything seems important. In this lesson you'll learn a simple way to decide what comes first.
+**To start:** Rubén has 60 dollars left until his next paycheck. His mom needs medicine, his work shoes fell apart and a friend invited him to a concert. Everything seems important. In this lesson you'll learn a simple way to decide what comes first.
 
 ### The essentials (5 minutes)
 
@@ -657,9 +657,9 @@ Alex has 60 dollars left over. Alex can buy their son's birthday present or save
 - *What is the right answer?* It depends on Alex's priorities. A good decision keeps the bills covered, explains the choice and doesn't call the present "bad" or the savings "mandatory."
 
 
-**Case 3. Luis's 60 dollars**
+**Case 3. Rubén's 60 dollars**
 
-Luis has 60 dollars until his next paycheck. His mom needs a 40-dollar medicine, his work shoes are torn and he was invited to a concert.
+Rubén has 60 dollars until his next paycheck. His mom needs a 40-dollar medicine, his work shoes are torn and he was invited to a concert.
 - *What is urgent?* The medicine and the shoes, because they protect health and work.
 - *What does he do about the concert?* He puts it off or looks for a no-cost option. He can set aside a little from each paycheck to go to the next one.
 
@@ -677,7 +677,7 @@ Luis has 60 dollars until his next paycheck. His mom needs a 40-dollar medicine,
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -784,9 +784,9 @@ What you received minus what you spent to work is your real profit.
 
 #### A case in one minute
 
-Luis gets paid every Friday. In July there were five Fridays and he received 3,250 instead of 2,600.
+Rubén gets paid every Friday. In July there were five Fridays and he received 3,250 instead of 2,600.
 
-His roommate suggested renting a more expensive apartment, because "now you make more." Luis checked his calendar: only four months of the year have five Fridays.
+His roommate suggested renting a more expensive apartment, because "now you make more." Rubén checked his calendar: only four months of the year have five Fridays.
 
 He decided to use the extra paycheck to build up his savings cushion and keep the rent he can pay with four paychecks.
 
@@ -957,7 +957,7 @@ IRS, gig economy · CFPB, Your Money, Your Goals.
 
 **What you will be able to do:** Read your pay stub and know when and where to ask for a correction.
 
-**To start:** Luis worked all week and expected 700 dollars. He got 565. He doesn't know if it's a mistake or if that's how it should be. In this lesson you'll learn to read your pay stub line by line.
+**To start:** Rubén worked all week and expected 700 dollars. He got 565. He doesn't know if it's a mistake or if that's how it should be. In this lesson you'll learn to read your pay stub line by line.
 
 ### The essentials (5 minutes)
 
@@ -1143,13 +1143,13 @@ Alex worked 40 hours, but the pay stub says 36.
 
 **Case 2. The unknown deduction**
 
-Luis sees a 12-dollar deduction called "uniform."
+Rubén sees a 12-dollar deduction called "uniform."
 - *What does he do?* He asks in writing for an explanation of the charge and whether he has to pay it.
 
 
-**Case 3. Luis's 565**
+**Case 3. Rubén's 565**
 
-Luis expected 700 and received 565.
+Rubén expected 700 and received 565.
 - *Is there a mistake?* Not necessarily. 700 was his gross pay. If deductions add up to 135, the correct net is 565.
 
 
@@ -1166,7 +1166,7 @@ Luis expected 700 and received 565.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1214,7 +1214,7 @@ Create a folder for pay stubs and a record of hours. Write down one question abo
 
 **What you will be able to do:** Measure the real weight of your big and small expenses, and choose adjustments you can actually keep up.
 
-**To start:** Luis checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it.
+**To start:** Rubén checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it.
 
 ### The essentials (5 minutes)
 
@@ -1375,9 +1375,9 @@ Alex buys a 2.50 soda every workday: 55 a month.
 - *How much does that save?* About 30 a month, which goes to the savings cushion.
 
 
-**Case 2. Luis's forgotten subscription**
+**Case 2. Rubén's forgotten subscription**
 
-Luis finds a 12.99 monthly charge from an app he tried "at no cost." He's been paying for eight months.
+Rubén finds a 12.99 monthly charge from an app he tried "at no cost." He's been paying for eight months.
 - *How much has he paid?* 12.99 × 8 = 103.92.
 - *What does he do?* He cancels in the app or with the company, keeps the confirmation and checks his statement the next month.
 
@@ -1401,7 +1401,7 @@ Daniela compares two packages of strawberries for her cakes. She'll only use hal
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1503,7 +1503,7 @@ A change you asked for isn't approved until they confirm it, preferably in writi
 
 #### A case in one minute
 
-Luis gets 650 every Friday. His 750 rent is due on the 1st and his 60 phone bill on the 3rd.
+Rubén gets 650 every Friday. His 750 rent is due on the 1st and his 60 phone bill on the 3rd.
 
 If the 1st falls on a Tuesday, he only has what he got the Friday before. So he doesn't come up short, he sets aside 190 from each of the four paychecks before rent.
 
@@ -1626,9 +1626,9 @@ Daniela's car insurance is charged automatically on the 3rd. One month her accou
 - *What changed?* Now she has an alert two days before, and she asked her bank how to turn off overdraft.
 
 
-**Case 3. Luis's shared room**
+**Case 3. Rubén's shared room**
 
-Luis and his roommates pay rent on the 1st, but each one gets paid on different dates.
+Rubén and his roommates pay rent on the 1st, but each one gets paid on different dates.
 - *What do they agree on?* Each one deposits their share into a shared account three days before, and they write it on a shared calendar.
 
 
@@ -1645,7 +1645,7 @@ Luis and his roommates pay rent on the 1st, but each one gets paid on different 
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1743,7 +1743,7 @@ For each adjustment, write what you'll do and for how long. For example: "I cut 
 
 #### A case in one minute
 
-Luis earns 2,600 a month. His rent is 750, food 400, transportation 130, phone 60, and he sends 300 to his mom. That adds up to 1,640 and leaves him 960.
+Rubén earns 2,600 a month. His rent is 750, food 400, transportation 130, phone 60, and he sends 300 to his mom. That adds up to 1,640 and leaves him 960.
 
 It looks like a lot, but he hasn't counted work clothes, going out or expenses that aren't monthly, like his roommate's car registration that he helps pay.
 
@@ -2105,9 +2105,9 @@ Alex sends money to Alex's mother in Michoacán.
 - *Can she be claimed as a dependent?* It isn't automatic. There are rules about relationship, residency and support that change. Alex should take the information to a preparer with credentials.
 
 
-**Case 3. Luis's ITIN**
+**Case 3. Rubén's ITIN**
 
-Luis got his ITIN four years ago, but he didn't file for the last three.
+Rubén got his ITIN four years ago, but he didn't file for the last three.
 - *What can happen?* His ITIN may be deactivated. He should check it before filing so he can renew it in time.
 
 
@@ -2124,7 +2124,7 @@ Luis got his ITIN four years ago, but he didn't file for the last three.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2445,7 +2445,7 @@ Many sites offer help in Spanish and help with the ITIN application.
 
 #### A case in one minute
 
-Luis works and files with an ITIN. He has no children. He thought he didn't qualify for anything.
+Rubén works and files with an ITIN. He has no children. He thought he didn't qualify for anything.
 
 At VITA they explain that CalEITC can also apply to people without children, depending on income. His state return ends up with a small refund.
 
@@ -2563,7 +2563,7 @@ Mar files with an ITIN. With her income and two young children, a VITA site chec
 
 **Case 2. The passport in the mail**
 
-A neighbor tells Luis that for the ITIN he has to mail his original passport to the IRS.
+A neighbor tells Rubén that for the ITIN he has to mail his original passport to the IRS.
 - *Is there another option?* Yes. A Certifying Acceptance Agent can review his documents without him mailing them.
 
 
@@ -2586,7 +2586,7 @@ Daniela didn't file for three years and her ITIN was deactivated.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2637,7 +2637,7 @@ Find the nearest VITA site and write down its hours, its languages and the docum
 
 **What you will be able to do:** Compare tax preparation services and recognize dangerous practices.
 
-**To start:** Luis saw an ad on social media: "3,000 refund guaranteed." They asked him to sign before they looked at his papers. Something didn't feel right. In this lesson you'll learn to choose who helps you with your taxes and spot the warning signs.
+**To start:** Rubén saw an ad on social media: "3,000 refund guaranteed." They asked him to sign before they looked at his papers. Something didn't feel right. In this lesson you'll learn to choose who helps you with your taxes and spot the warning signs.
 
 ### The essentials (5 minutes)
 
@@ -2793,7 +2793,7 @@ If you have a business with employees, property in another country, several year
 
 **Case 1. The guaranteed refund**
 
-An ad on social media promises Luis a "3,000 refund guaranteed." They ask him to sign before reviewing anything.
+An ad on social media promises Rubén a "3,000 refund guaranteed." They ask him to sign before reviewing anything.
 - *What does he do?* He doesn't sign and looks for a VITA site.
 - *Why is it a warning sign?* Nobody can promise a refund without reviewing your documents.
 
@@ -2823,7 +2823,7 @@ Daniela's preparer asks her to have the refund sent to "the office account" to "
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -3096,7 +3096,7 @@ Write down what help your household needs, who might qualify and where you'll co
 
 **What you will be able to do:** Build a 90-day plan with specific actions, dates and a backup if something changes.
 
-**To start:** Luis finished the module with lots of ideas: make a calendar, save, check his taxes. A week later he hadn't done anything. It wasn't lack of will: he hadn't turned them into steps. In this lesson you'll learn to make a plan you'll actually follow.
+**To start:** Rubén finished the module with lots of ideas: make a calendar, save, check his taxes. A week later he hadn't done anything. It wasn't lack of will: he hadn't turned them into steps. In this lesson you'll learn to make a plan you'll actually follow.
 
 ### The essentials (5 minutes)
 
@@ -3273,9 +3273,9 @@ Daniela wants to save, but her household still has a deficit.
 - *Where does she start?* She records the shortfall for 4 weeks, checks two support programs and takes care of one obligation. Her first goal is to stabilize.
 
 
-**Case 3. Luis's ideas**
+**Case 3. Rubén's ideas**
 
-Luis has lots of ideas and no dates.
+Rubén has lots of ideas and no dates.
 - *What does he do?* He chooses one: "on Sunday I'll make my 8-week calendar." He does it and then chooses the next one.
 
 
@@ -3292,7 +3292,7 @@ Luis has lots of ideas and no dates.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 

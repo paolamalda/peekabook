@@ -65,7 +65,7 @@ Lesson: [to be defined]
 
 **Audio** (132 words, about 55 seconds)
 
-Hi. Today's topic: What do I need to take care of first? Luis has 60 dollars left until his next paycheck. His mom needs medicine, his work shoes fell apart and a friend invited him to a concert. Everything seems important. In this lesson you'll learn a simple way to decide what comes first. There are no "good" or "bad" expenses for everyone. There are decisions that protect what matters to you. Remember: First, what protects your housing, food, health and work. "If I do this, I put that off" makes visible what you give up. A pause rule protects you from decisions made under pressure. Your step this week: Write your three priorities and a pause rule. You don't need to share personal experiences. Talk to you in the next lesson.
+Hi. Today's topic: What do I need to take care of first? Rubén has 60 dollars left until his next paycheck. His mom needs medicine, his work shoes fell apart and a friend invited him to a concert. Everything seems important. In this lesson you'll learn a simple way to decide what comes first. There are no "good" or "bad" expenses for everyone. There are decisions that protect what matters to you. Remember: First, what protects your housing, food, health and work. "If I do this, I put that off" makes visible what you give up. A pause rule protects you from decisions made under pressure. Your step this week: Write your three priorities and a pause rule. You don't need to share personal experiences. Talk to you in the next lesson.
 
 ### M1 U04 · Is getting paid every week the same as getting paid every month?
 
@@ -107,7 +107,7 @@ Lesson: [to be defined]
 
 **Audio** (126 words, about 52 seconds)
 
-Hi. Today's topic: Why is my deposit smaller than what I earned? Luis worked all week and expected 700 dollars. He got 565. He doesn't know if it's a mistake or if that's how it should be. In this lesson you'll learn to read your pay stub line by line. In California your employer must give you a pay stub with the details of your pay. Keep all of them. Remember: Plan with your net income. Keep your pay stubs and your record of hours. Ask in writing about any deduction you don't understand. Your step this week: Create a folder for pay stubs and a record of hours. Write down one question about a benefit you don't understand. Talk to you in the next lesson.
+Hi. Today's topic: Why is my deposit smaller than what I earned? Rubén worked all week and expected 700 dollars. He got 565. He doesn't know if it's a mistake or if that's how it should be. In this lesson you'll learn to read your pay stub line by line. In California your employer must give you a pay stub with the details of your pay. Keep all of them. Remember: Plan with your net income. Keep your pay stubs and your record of hours. Ask in writing about any deduction you don't understand. Your step this week: Create a folder for pay stubs and a record of hours. Write down one question about a benefit you don't understand. Talk to you in the next lesson.
 
 ### M1 U06 · Can a small purchase add up to a lot?
 
@@ -128,7 +128,7 @@ Lesson: [to be defined]
 
 **Audio** (117 words, about 49 seconds)
 
-Hi. Today's topic: Can a small purchase add up to a lot? Luis checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it. Adjust where the change is real and lasting, not where it makes you feel guilty. Remember: Track an expense before you judge it. Check the big expenses first. Cancel subscriptions with the company and keep the confirmation. Your step this week: Choose one expense to reduce, one to cancel and one to keep, and write why. Talk to you in the next lesson.
+Hi. Today's topic: Can a small purchase add up to a lot? Rubén checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. He never used it. In this lesson you'll learn to find the expenses that repeat and decide which ones are worth it. Adjust where the change is real and lasting, not where it makes you feel guilty. Remember: Track an expense before you judge it. Check the big expenses first. Cancel subscriptions with the company and keep the confirmation. Your step this week: Choose one expense to reduce, one to cancel and one to keep, and write why. Talk to you in the next lesson.
 
 ### M1 U07 · Why am I short on money if I earn enough this month?
 
@@ -254,7 +254,7 @@ Lesson: [to be defined]
 
 **Audio** (126 words, about 52 seconds)
 
-Hi. Today's topic: How do I choose someone to help me with taxes? Luis saw an ad on social media: "3,000 refund guaranteed." They asked him to sign before they looked at his papers. Something didn't feel right. In this lesson you'll learn to choose who helps you with your taxes and spot the warning signs. Never sign something you haven't read. You are responsible for what your return says. Remember: Compare what the price includes, not only the price. Check the PTIN and the CTEC registration. Never sign blank pages or let the refund go to another account. Your step this week: Compare two services and one no-cost option. Write down what you confirmed and what's still missing. Talk to you in the next lesson.
+Hi. Today's topic: How do I choose someone to help me with taxes? Rubén saw an ad on social media: "3,000 refund guaranteed." They asked him to sign before they looked at his papers. Something didn't feel right. In this lesson you'll learn to choose who helps you with your taxes and spot the warning signs. Never sign something you haven't read. You are responsible for what your return says. Remember: Compare what the price includes, not only the price. Check the PTIN and the CTEC registration. Never sign blank pages or let the refund go to another account. Your step this week: Compare two services and one no-cost option. Write down what you confirmed and what's still missing. Talk to you in the next lesson.
 
 ### M1 U13 · What should I know before I apply for public benefits?
 
@@ -296,7 +296,7 @@ Lesson: [to be defined]
 
 **Audio** (150 words, about 62 seconds)
 
-Hi. Today's topic: How do I turn what I learned into something I can actually do? Luis finished the module with lots of ideas: make a calendar, save, check his taxes. A week later he hadn't done anything. It wasn't lack of will: he hadn't turned them into steps. In this lesson you'll learn to make a plan you'll actually follow. A plan that adjusts is a plan that works. Remember: Every goal needs an action, a date and evidence. A few well-chosen priorities. Review and adjust your plan every 30 days. Your step this week: Turn in your Module 1 file: your diagnosis, 8-week calendar, usual budget and budget with less income, tax checklist and three 90-day actions. What's evaluated is consistency and your ability to adjust, not how much money you have. Also solve integrated case E1 in the support materials. Talk to you in the next lesson.
+Hi. Today's topic: How do I turn what I learned into something I can actually do? Rubén finished the module with lots of ideas: make a calendar, save, check his taxes. A week later he hadn't done anything. It wasn't lack of will: he hadn't turned them into steps. In this lesson you'll learn to make a plan you'll actually follow. A plan that adjusts is a plan that works. Remember: Every goal needs an action, a date and evidence. A few well-chosen priorities. Review and adjust your plan every 30 days. Your step this week: Turn in your Module 1 file: your diagnosis, 8-week calendar, usual budget and budget with less income, tax checklist and three 90-day actions. What's evaluated is consistency and your ability to adjust, not how much money you have. Also solve integrated case E1 in the support materials. Talk to you in the next lesson.
 
 ## Module 2. Understand the financial system and plan your remittances
 
@@ -319,7 +319,7 @@ Lesson: [to be defined]
 
 **Audio** (152 words, about 63 seconds)
 
-Hi. Today's topic: Who takes care of my money and who provides the service? Luis bought a prepaid card at a pharmacy, uses it with an app, and his money is held by a bank he has never seen. When a charge he didn't recognize showed up, he didn't know who to call. In this lesson you'll learn to identify who is responsible for each service you use. Being registered with a regulator shows that a company exists and is authorized. It doesn't mean every offer it makes is good for you. Remember: The logo isn't always who is responsible: look for the legal name. Save the official contact for each service you use. Registration with a regulator is not a guarantee of a good offer. Your step this week: Build your map of services: what you use, who is responsible and their official contact. Talk to you in the next lesson.
+Hi. Today's topic: Who takes care of my money and who provides the service? Rubén bought a prepaid card at a pharmacy, uses it with an app, and his money is held by a bank he has never seen. When a charge he didn't recognize showed up, he didn't know who to call. In this lesson you'll learn to identify who is responsible for each service you use. Being registered with a regulator shows that a company exists and is authorized. It doesn't mean every offer it makes is good for you. Remember: The logo isn't always who is responsible: look for the legal name. Save the official contact for each service you use. Registration with a regulator is not a guarantee of a good offer. Your step this week: Build your map of services: what you use, who is responsible and their official contact. Talk to you in the next lesson.
 
 ### M2 U02 · Is a money app always a bank?
 
@@ -361,7 +361,7 @@ Lesson: [to be defined]
 
 **Audio** (126 words, about 52 seconds)
 
-Hi. Today's topic: What ID works for financial paperwork? Luis went to open an account with his passport and was told no. At another bank, with the same documents, they opened it in twenty minutes. It wasn't him: each institution accepts different documents. In this lesson you'll learn what to ask before you go. If one bank says no, ask another. Credit unions and Bank On accounts often accept more combinations of documents. Remember: Each institution accepts different documents: ask first. Get documents only through official, no-cost channels. Don't send photos of your ID to strangers. Your step this week: Put together your document kit: what you have, what's about to expire and what you still need to get. Talk to you in the next lesson.
+Hi. Today's topic: What ID works for financial paperwork? Rubén went to open an account with his passport and was told no. At another bank, with the same documents, they opened it in twenty minutes. It wasn't him: each institution accepts different documents. In this lesson you'll learn what to ask before you go. If one bank says no, ask another. Credit unions and Bank On accounts often accept more combinations of documents. Remember: Each institution accepts different documents: ask first. Get documents only through official, no-cost channels. Don't send photos of your ID to strangers. Your step this week: Put together your document kit: what you have, what's about to expire and what you still need to get. Talk to you in the next lesson.
 
 ### M2 U04 · What do I need to open an account, and how much does it cost to keep it?
 
@@ -424,7 +424,7 @@ Lesson: [to be defined]
 
 **Audio** (125 words, about 52 seconds)
 
-Hi. Today's topic: How do I support my family without deciding at the last minute? Every month, Luis's mom texts him asking for money, and every month Luis decides at the last minute how much to send. Some months he sends too much and comes up short on rent. In this lesson you'll learn to plan what you send so the support can continue. Separate what's regular from what's an emergency. Not everything urgent is an emergency. Remember: Ask for amount, currency and date. Sort: regular, foreseeable, emergency or project. Agree only to what you can keep up. Your step this week: Make a map of your sends: person, purpose, frequency and range. You can use made-up names. Talk to you in the next lesson.
+Hi. Today's topic: How do I support my family without deciding at the last minute? Every month, Rubén's mom texts him asking for money, and every month Rubén decides at the last minute how much to send. Some months he sends too much and comes up short on rent. In this lesson you'll learn to plan what you send so the support can continue. Separate what's regular from what's an emergency. Not everything urgent is an emergency. Remember: Ask for amount, currency and date. Sort: regular, foreseeable, emergency or project. Agree only to what you can keep up. Your step this week: Make a map of your sends: person, purpose, frequency and range. You can use made-up names. Talk to you in the next lesson.
 
 ### M2 U07 · How much can I send, and when?
 
@@ -466,7 +466,7 @@ Lesson: [to be defined]
 
 **Audio** (132 words, about 55 seconds)
 
-Hi. Today's topic: Does "no fee" always mean more money arrives? Luis switched money transmitters because the new one said "no fee." A month later, his mom told him fewer pesos were arriving. They didn't charge him a fee, but they gave him a worse exchange rate. In this lesson you'll learn to really compare transfers. If you pay for your transfers in cash at a store, compare with paying from an account. You save the 1% and, often, fees. Remember: Compare how much arrives, not only the fee. Always use the same base to compare. Paying from an account avoids the 1% cash tax. Your step this week: Compare three quotes from the same day with the same base and the same delivery time. Talk to you in the next lesson.
+Hi. Today's topic: Does "no fee" always mean more money arrives? Rubén switched money transmitters because the new one said "no fee." A month later, his mom told him fewer pesos were arriving. They didn't charge him a fee, but they gave him a worse exchange rate. In this lesson you'll learn to really compare transfers. If you pay for your transfers in cash at a store, compare with paying from an account. You save the 1% and, often, fees. Remember: Compare how much arrives, not only the fee. Always use the same base to compare. Paying from an account avoids the 1% cash tax. Your step this week: Compare three quotes from the same day with the same base and the same delivery time. Talk to you in the next lesson.
 
 ### M2 U09 · What do I check before sending, and what do I do if something goes wrong?
 
@@ -636,7 +636,7 @@ Lesson: [to be defined]
 
 **Audio** (137 words, about 57 seconds)
 
-Hi. Today's topic: How do I start if I have no credit history? Luis wants to rent his own apartment, but the landlord asks for a credit history. He has never had a card: he always pays in cash or with his app. He doesn't know where to start. In this lesson you'll learn the safest ways to build a history. A product that doesn't report to the credit agencies doesn't build your history, even if you pay on time. Remember: Choose products that report to all three agencies. Don't lock up your emergency money. Pay the full balance every month. Your step this week: Compare two products and the option of waiting to build up your savings. Write down which one reports and how much money it locks up. Talk to you in the next lesson.
+Hi. Today's topic: How do I start if I have no credit history? Rubén wants to rent his own apartment, but the landlord asks for a credit history. He has never had a card: he always pays in cash or with his app. He doesn't know where to start. In this lesson you'll learn the safest ways to build a history. A product that doesn't report to the credit agencies doesn't build your history, even if you pay on time. Remember: Choose products that report to all three agencies. Don't lock up your emergency money. Pay the full balance every month. Your step this week: Compare two products and the option of waiting to build up your savings. Write down which one reports and how much money it locks up. Talk to you in the next lesson.
 
 ### M3 U04 · Does improving my credit mean erasing everything?
 
@@ -783,7 +783,7 @@ Lesson: [to be defined]
 
 **Audio** (134 words, about 56 seconds)
 
-Hi. Today's topic: What's my next step with credit? Luis has no history. Andrés has an error in his report. Mar has a card with a high balance. Daniela has an account in collections. All four want to "improve their credit," but each one needs something different. In this lesson you'll choose your own path. Asking for help in time is a skill, not a failure. Remember: Identify your situation before acting. Measure your actions, not only your score. Review your plan at 30 and 90 days. Your step this week: Turn in your Module 3 file: chosen path, a sample report with notes, a comparison of two financing options, debt list, two scenarios and a payment calendar. Also solve integrated case E3 in the support materials. Talk to you in the next lesson.
+Hi. Today's topic: What's my next step with credit? Rubén has no history. Andrés has an error in his report. Mar has a card with a high balance. Daniela has an account in collections. All four want to "improve their credit," but each one needs something different. In this lesson you'll choose your own path. Asking for help in time is a skill, not a failure. Remember: Identify your situation before acting. Measure your actions, not only your score. Review your plan at 30 and 90 days. Your step this week: Turn in your Module 3 file: chosen path, a sample report with notes, a comparison of two financing options, debt list, two scenarios and a payment calendar. Also solve integrated case E3 in the support materials. Talk to you in the next lesson.
 
 ## Module 4. Protect your money, your identity and your family
 
@@ -1039,7 +1039,7 @@ Lesson: [to be defined]
 
 **Audio** (126 words, about 52 seconds)
 
-Hi. Today's topic: How do I turn a wish into a goal? Luis wants to study English, help his mom fix her house and someday buy a car. He's eager, but every month the money goes and no goal moves forward. In this lesson you'll learn to turn wishes into goals you can actually reach. A goal has an amount, a date, a currency and a priority. Remember: Turn each wish into an amount, date, currency and priority. Calculate how much to set aside each month. If it isn't enough, change deadlines or priorities. Your step this week: Write down your three goals and how much you'll set aside for each one. Check whether they fit in your budget. Talk to you in the next lesson.
+Hi. Today's topic: How do I turn a wish into a goal? Rubén wants to study English, help his mom fix her house and someday buy a car. He's eager, but every month the money goes and no goal moves forward. In this lesson you'll learn to turn wishes into goals you can actually reach. A goal has an amount, a date, a currency and a priority. Remember: Turn each wish into an amount, date, currency and priority. Calculate how much to set aside each month. If it isn't enough, change deadlines or priorities. Your step this week: Write down your three goals and how much you'll set aside for each one. Check whether they fit in your budget. Talk to you in the next lesson.
 
 ### M5 U02 · Does having more money mean my investment made money?
 
@@ -1123,7 +1123,7 @@ Lesson: [to be defined]
 
 **Audio** (110 words, about 46 seconds)
 
-Hi. Today's topic: Is the advertised price all it costs? Luis saw a car ad for "only 280 a month." It seemed perfect. When he added insurance, gas and maintenance, the car cost him 650 a month. In this lesson you'll learn to see everything something costs before you buy it. Always compare with the same list of costs. Remember: Add up all the costs, not just the payment. Compare with the same list. Check that a course is real before paying. Your step this week: Compare two options and the option of waiting. Write down at least five costs and one contingency. Talk to you in the next lesson.
+Hi. Today's topic: Is the advertised price all it costs? Rubén saw a car ad for "only 280 a month." It seemed perfect. When he added insurance, gas and maintenance, the car cost him 650 a month. In this lesson you'll learn to see everything something costs before you buy it. Always compare with the same list of costs. Remember: Add up all the costs, not just the payment. Compare with the same list. Check that a course is real before paying. Your step this week: Compare two options and the option of waiting. Write down at least five costs and one contingency. Talk to you in the next lesson.
 
 ### M5 U06 · What will I live on when I work less or stop working?
 
@@ -1186,7 +1186,7 @@ Lesson: [to be defined]
 
 **Audio** (130 words, about 54 seconds)
 
-Hi. Today's topic: What happens to my family if something happens to me? Luis has two children in Stockton. One night he wonders: if something happens to me, who takes care of them? Who knows where my money is? He has nothing in writing. In this lesson you'll prepare the basics, step by step, without fear. If you're worried about your immigration situation, an attorney or a DOJ-accredited representative can guide you on a family preparedness plan. Remember: Update beneficiaries on every account. Make a plan for your children. Tell someone you trust where your documents are. Your step this week: Fill in your document list, update one beneficiary this week and talk with the person who would take care of your children. Talk to you in the next lesson.
+Hi. Today's topic: What happens to my family if something happens to me? Rubén has two children in Stockton. One night he wonders: if something happens to me, who takes care of them? Who knows where my money is? He has nothing in writing. In this lesson you'll prepare the basics, step by step, without fear. If you're worried about your immigration situation, an attorney or a DOJ-accredited representative can guide you on a family preparedness plan. Remember: Update beneficiaries on every account. Make a plan for your children. Tell someone you trust where your documents are. Your step this week: Fill in your document list, update one beneficiary this week and talk with the person who would take care of your children. Talk to you in the next lesson.
 
 ### M5 U09 · How do I plan when my income changes every month?
 
@@ -1249,7 +1249,7 @@ Lesson: [to be defined]
 
 **Audio** (107 words, about 45 seconds)
 
-Hi. Today's topic: What's my financial plan? You've reached the end of the program. Luis, Daniela, Andrés and Rosa have something in common: they all started with doubts and now they have a plan. In this lesson you'll make yours, on a single page. It's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder. Remember: Your plan fits on one page. Write three actions with dates. Review it when something changes. Your step this week: Write your one-page plan and give it a review date. Congratulations on finishing the program!. Talk to you in the next lesson.
+Hi. Today's topic: What's my financial plan? You've reached the end of the program. Rubén, Daniela, Andrés and Rosa have something in common: they all started with doubts and now they have a plan. In this lesson you'll make yours, on a single page. It's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder. Remember: Your plan fits on one page. Write three actions with dates. Review it when something changes. Your step this week: Write your one-page plan and give it a review date. Congratulations on finishing the program!. Talk to you in the next lesson.
 
 ### M5 U12 · What happens if I inherit or leave something across two countries?
 

@@ -35,8 +35,9 @@ Programa de bienestar financiero para jornaleros mexicanos que van a trabajar al
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **No se da asesoría migratoria ni legal:** se orienta a los consulados, al Servicio Nacional de Empleo, al Departamento del Trabajo de EE. UU., al Gobierno de Canadá y a oficinas públicas.
-8. **No se recomiendan reclutadores, agencias ni empresas de envío:** se enseña a verificarlos y compararlos.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **No se da asesoría migratoria ni legal:** se orienta a los consulados, al Servicio Nacional de Empleo, al Departamento del Trabajo de EE. UU., al Gobierno de Canadá y a oficinas públicas.
+9. **No se recomiendan reclutadores, agencias ni empresas de envío:** se enseña a verificarlos y compararlos.
 
 ## Personajes
 

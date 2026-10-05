@@ -93,8 +93,8 @@ Maru cree que no tiene pensión porque se dedicó a la casa, pero trabajó 12 a�
 
 **Caso 2. El esposo de Carmen**
 
-Carmen no sabe si aparece como beneficiaria de la pensión de Jorge.
-- *¿Qué hace?* Revisa con Jorge sus documentos de pensión y sus beneficiarios.
+Carmen no sabe si aparece como beneficiaria de la pensión de Arturo.
+- *¿Qué hace?* Revisa con Arturo sus documentos de pensión y sus beneficiarios.
 
 
 **Caso 3. Los 60 años de Lucía**
@@ -572,7 +572,7 @@ Lucía cumplirá 65 y ya recibe pensión de viudez.
 **Caso 2. Los papeles de Carmen**
 
 Carmen no sabe dónde está su acta de matrimonio.
-- *¿Qué hace?* La tramita y la guarda en su carpeta junto con los datos del IMSS de Jorge.
+- *¿Qué hace?* La tramita y la guarda en su carpeta junto con los datos del IMSS de Arturo.
 
 
 **Caso 3. La llamada a Maru**
@@ -810,7 +810,7 @@ ISSSTE · PENSIONISSSTE · Diario Oficial de la Federación (24-jun-2025), consu
 
 **Lo que lograrás:** Estimar cuánto gastarás en tu retiro, cuánto recibirás de pensiones y cuánto ahorro necesitas para cubrir la diferencia.
 
-**Para empezar:** Carmen y Jorge piensan que con la pensión de él «alcanza». Nunca lo han calculado. Al hacer números, descubren que la pensión cubre la mitad de su gasto actual. En esta lección harás tu propio cálculo.
+**Para empezar:** Carmen y Arturo piensan que con la pensión de él «alcanza». Nunca lo han calculado. Al hacer números, descubren que la pensión cubre la mitad de su gasto actual. En esta lección harás tu propio cálculo.
 
 ### Lo esencial (5 minutos)
 
@@ -822,9 +822,9 @@ Para tu retiro necesitas tres números: cuánto **gastarás** al mes, cuánto **
 
 #### La diferencia
 
-Carmen y Jorge calculan su mes de retiro.
+Carmen y Arturo calculan su mes de retiro.
 - Gasto esperado al mes: **45,000**
-- Pensión de Jorge más Bienestar: **28,000**
+- Pensión de Arturo más Bienestar: **28,000**
 - Diferencia al mes: **17,000**
 Esa diferencia se cubre con ahorro, rentas u otros ingresos.
 
@@ -837,7 +837,7 @@ En el retiro algunos gastos bajan (transporte, trabajo) y otros suben: salud, me
 
 #### Un caso en un minuto
 
-Carmen y Jorge calcularon la diferencia: 17,000 al mes, es decir, 204,000 al año. Con sus ahorros y la renta del departamento cubren buena parte. Decidieron no prestar más dinero a los hijos hasta asegurar su retiro.
+Carmen y Arturo calcularon la diferencia: 17,000 al mes, es decir, 204,000 al año. Con sus ahorros y la renta del departamento cubren buena parte. Decidieron no prestar más dinero a los hijos hasta asegurar su retiro.
 
 > **Idea clave:** calcula tu gasto, tus pensiones y la diferencia; así sabes cuánto ahorro necesitas.
 
@@ -891,9 +891,9 @@ Rentas de un inmueble, la venta de una casa grande para vivir en una más peque�
 #### Casos
 
 
-**Caso 1. La pensión de Jorge**
+**Caso 1. La pensión de Arturo**
 
-Carmen y Jorge creen que la pensión alcanza sin haberlo calculado.
+Carmen y Arturo creen que la pensión alcanza sin haberlo calculado.
 - *¿Qué hacen?* Calculan su gasto, su pensión y la diferencia.
 
 

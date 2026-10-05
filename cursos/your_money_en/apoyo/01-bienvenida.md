@@ -63,7 +63,7 @@ This program teaches you to understand, compare and prepare questions. For a tax
 Throughout the program you'll follow six people. Their decisions, mistakes and successes will help you practice. They're made-up characters: any resemblance to real people is a coincidence.
 
 - **Alex and Mar** live in Los Angeles with their two children. Alex is paid through payroll every two weeks and does some freelance work on weekends. Mar is paid every week and gets most of her tips in cash. They send money to Alex's mother in Michoacán.
-- **Luis** is 24, came from Oaxaca two years ago and works in a warehouse. He sends money to his mother and is starting his credit history.
+- **Rubén** is 24, came from Oaxaca two years ago and works in a warehouse. He sends money to his mother and is starting his credit history.
 - **Daniela** is from San Salvador and lives in San Diego with her son. She works by the hour and has a custom cake business.
 - **Rosa** is 61, worked in Guadalajara and lives in Fresno with her daughter and grandchildren. She thinks about her health and her retirement.
 - **Andrés** is from León, Guanajuato, and lives in Sacramento with his wife and daughter. He wants to buy a house.

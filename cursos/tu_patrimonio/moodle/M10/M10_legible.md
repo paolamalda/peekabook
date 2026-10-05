@@ -1240,3 +1240,315 @@ Escribe qué quieres que pase con tu casa y agenda una consulta en una notaría.
 Ley del ISR (artículo 93) · SAT · Secretaría de Gobernación, consultados el 30 de septiembre de 2026.
 
 ---
+
+## M10 U09. Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos
+
+**Lo que lograrás:** Reconocer la violencia económica y patrimonial, proteger tus cuentas, tus documentos y tus bienes, y saber dónde pedir ayuda sin costo.
+
+**Para empezar:** Arturo siempre manejó todo. Cuando Carmen pidió ver el estado de cuenta, él le dijo que «no le iba a entender». Hace poco Carmen supo que Arturo quiere vender el terreno que compraron juntos, sin decirle.
+
+### Lo esencial (5 minutos)
+
+#### Señales
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| No te dejan ver las cuentas | «No le vas a entender». | Es control. |
+| Te dan «el gasto» y nada más | Y te piden cuentas de cada peso. | Es control. |
+| Venden o esconden bienes comunes | Casa, terreno, auto. | Es violencia patrimonial. |
+| Te hacen firmar sin explicar | Créditos, poderes, ventas. | Es abuso. |
+
+#### Tiene nombre y protección
+
+La ley la llama **violencia económica** (controlar o limitar tu dinero) y **violencia patrimonial** (quitar, dañar, esconder o vender tus bienes o documentos). También pasa entre hijos y padres mayores. Hablar de dinero en pareja no es desconfianza: es cuidar lo que construyeron juntos.
+
+> **Dato vigente:** la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia define la violencia patrimonial y la económica (artículo 6, fracciones III y IV); la Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
+
+
+
+#### Tres protecciones
+
+1. **Conoce tu régimen matrimonial**: en sociedad conyugal, lo comprado durante el matrimonio es de los dos y para venderlo se necesita tu firma (M1 U03).
+2. **Ten algo a tu nombre**: una cuenta y copia de tus documentos y escrituras.
+3. **Nunca firmes sin leer**: pregunta qué es, para qué sirve y qué pasa si no firmas.
+
+
+
+#### Un caso en un minuto
+
+Carmen pidió una copia de la escritura del terreno en el Registro Público: aparece a nombre de los dos. Sin su firma, Arturo no puede venderlo. Llamó al 079 para orientarse y abrió una cuenta a su nombre.
+
+> **Idea clave:** tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la violencia patrimonial?
+*Respuesta:* Quitar, dañar, esconder o vender tus bienes o documentos.
+
+2. ¿Dónde te orientas sin costo?
+*Respuesta:* En la Línea de las Mujeres 079, opción 1; en emergencia, 911.
+
+
+#### Para recordar
+
+- Conoce tu régimen matrimonial.
+- Algo a tu nombre.
+- No firmes sin entender.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Dónde pedir copia de tus papeles
+
+| Documento | Dónde |
+|---|---|
+| Acta de matrimonio | Registro Civil |
+| Escritura de la casa o terreno | Registro Público de la Propiedad |
+| Estado de cuenta de la Afore | Tu Afore o Afore Móvil |
+| Póliza de seguro | La aseguradora |
+
+
+
+#### Poderes notariales
+
+Un poder amplio permite que otra persona venda, firme o saque dinero por ti. Antes de dar uno, pregunta en la notaría qué tan amplio es y si puedes limitarlo o cancelarlo.
+
+
+
+#### Con los hijos grandes
+
+También es violencia que un hijo tome tu pensión, tu tarjeta o tus papeles. Nadie más necesita tu NIP.
+
+
+
+#### Casos
+
+
+**Caso 1. El estado de cuenta de Carmen**
+
+Arturo no deja que Carmen vea las cuentas.
+- *¿Qué hace Carmen?* Pide ver los estados de cuenta y se orienta en el 079.
+
+
+**Caso 2. El terreno**
+
+Arturo quiere vender el terreno que compraron juntos.
+- *¿Qué hace Carmen?* Pide copia de la escritura y revisa su régimen matrimonial.
+
+
+**Caso 3. La tarjeta de Lucía**
+
+Un hijo de Lucía le pide su tarjeta y su NIP para «ayudarle».
+- *¿Qué hace Lucía?* No da su NIP y hace ella sus pagos o con su acompañamiento.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que «no vas a entender» | Pierdes el control | Pide ver las cuentas |
+| No saber tu régimen | Pueden vender sin ti | Revisa tu acta |
+| Dar un poder amplio sin preguntar | Firman por ti | Limítalo |
+| Compartir tu NIP | Te vacían la cuenta | Nadie lo necesita |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Carmen y Lucía. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. En sociedad conyugal, ¿se puede vender la casa sin tu firma? a) No, se necesita tu firma · b) Sí, si está a nombre de él · c) Sí, siempre
+2. ¿Cuál es una señal de violencia económica? a) Ver juntos el estado de cuenta · b) Ahorrar para una meta en común · c) Que no te dejen ver las cuentas
+3. Te piden firmar un poder notarial. ¿Qué haces? a) Firmas rápido · b) Preguntas qué tan amplio es y si puedes limitarlo · c) Firmas y guardas la copia
+**Respuestas:** 1-a: lo compraron juntos. 2-c: es control del dinero. 3-b: un poder amplio permite vender por ti.
+
+
+
+#### Ponlo en práctica
+
+Carmen quiere apartar 800 al mes en una cuenta a su nombre. ¿Cuánto tendrá en un año?
+**Respuesta:** 800 × 12 = 9,600.
+
+
+
+#### A tu plan
+
+Revisa esta semana: tu acta de matrimonio y régimen, dónde están tus escrituras y si tienes una cuenta a tu nombre.
+
+
+
+### Para saber más
+
+- **Línea de las Mujeres** (Secretaría de las Mujeres · español): 079, opción 1 | Orientación sin costo las 24 horas.
+- **Emergencias** (español): 911.
+- **Centros de Justicia para las Mujeres** (Secretaría de las Mujeres · español): https://www.gob.mx/mujeres — **Qué buscar:** «Centros de Justicia para las Mujeres».
+
+### Palabras clave
+
+- *Violencia patrimonial:* quitar, dañar, esconder o vender bienes o documentos de otra persona.
+- *Poder notarial:* documento ante notario que permite a otra persona actuar por ti.
+
+### Fuentes
+
+Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (artículo 6) · Secretaría de las Mujeres, consultados el 30 de septiembre de 2026.
+
+---
+
+## M10 U10. Pensión alimenticia: pedirla, cuidarla y hacerla durar
+
+**Lo que lograrás:** Saber qué cubre la pensión alimenticia, cómo se pide o se revisa, qué pasa si no se paga y cómo administrarla.
+
+**Para empezar:** Elena se divorció hace dos años. Su exesposo pagaba la pensión de sus dos hijos, pero desde hace cuatro meses deposita la mitad «porque le bajó el trabajo». Elena no sabe si puede hacer algo.
+
+### Lo esencial (5 minutos)
+
+#### Qué cubren los alimentos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Comida | Lo de cada día. | Base del cálculo. |
+| Casa | Renta y servicios. | Parte proporcional. |
+| Salud | Consultas, medicinas y seguro. | También imprevistos. |
+| Escuela | Colegiaturas, útiles, uniformes. | Hasta que terminen. |
+
+#### Solo un juez la cambia
+
+Si la pensión la fijó un juez, **quien paga no puede bajarla por su cuenta**. Si su ingreso cambió, debe pedir al juez que la revise. Mientras tanto, lo que no pagó se acumula como deuda. Tú también puedes pedir que se revise si las necesidades de tus hijos aumentaron.
+
+
+
+#### Si no se paga
+
+Quien deja de pagar durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**; con eso no puede sacar licencia de manejo ni pasaporte. El juez también puede ordenar que se descuente directo de su nómina.
+
+> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte; en agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
+
+
+
+#### Un caso en un minuto
+
+Elena juntó los comprobantes de depósito de los últimos seis meses y fue a la defensoría pública. Le explicaron que puede pedir el pago de lo atrasado y el descuento por nómina. Mientras, ajustó su presupuesto y usa la pensión solo para los gastos de sus hijos.
+
+> **Idea clave:** si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Quien paga puede bajar la pensión por su cuenta?
+*Respuesta:* No; debe pedirlo al juez.
+
+2. ¿Qué junta Elena para ir a la defensoría?
+*Respuesta:* Los comprobantes de depósito.
+
+
+#### Para recordar
+
+- Solo un juez la cambia.
+- Guarda tus comprobantes.
+- Lo atrasado se puede reclamar.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Hijos que estudian
+
+La pensión puede seguir después de los 18 años si tus hijos siguen estudiando, según la ley de tu estado y lo que diga el juez.
+
+
+
+#### El seguro de gastos médicos de los hijos
+
+Si el padre tenía a los hijos en su seguro de gastos médicos, revisa si siguen asegurados. Puedes pedir que forme parte del acuerdo.
+
+
+
+#### Administra lo que recibes
+
+Anota la pensión como ingreso de tus hijos, separa en una cuenta los gastos grandes del año (inscripciones, uniformes) y guarda los comprobantes.
+
+
+
+#### Casos
+
+
+**Caso 1. La mitad**
+
+El exesposo de Elena deposita la mitad desde hace cuatro meses.
+- *¿Qué hace Elena?* Junta sus comprobantes y pide orientación en la defensoría pública.
+
+
+**Caso 2. La inscripción**
+
+En agosto llega la inscripción de los hijos de Elena.
+- *¿Qué hace?* Aparta cada mes una parte de la pensión para los gastos del año.
+
+
+**Caso 3. El seguro de los hijos**
+
+Maru ayuda a su sobrina, que se divorció y no sabe si sus hijos siguen en el seguro del papá.
+- *¿Qué le sugiere?* Revisar la póliza y pedir que el seguro forme parte del acuerdo.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aceptar que bajen el pago sin juez | Pierdes lo que les toca | Pide revisión |
+| No guardar comprobantes | No puedes reclamar | Guárdalos |
+| Mezclar la pensión con todo | No alcanza para lo grande | Separa por meta |
+| Olvidar el seguro médico | Tus hijos quedan sin cobertura | Revísalo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Elena y Maru. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Quién puede cambiar una pensión fijada por un juez? a) Quien paga · b) Un juez · c) Quien la recibe
+2. ¿Qué pasa con lo que no se pagó? a) Se acumula como deuda · b) Se olvida · c) Se divide a la mitad
+3. ¿Qué puede ordenar el juez para que el pago llegue? a) Que pague en efectivo · b) Que pague cuando pueda · c) Que se descuente de su nómina
+**Respuestas:** 1-b: nadie la cambia por su cuenta. 2-a: se puede reclamar. 3-c: así llega completa.
+
+
+
+#### Ponlo en práctica
+
+La pensión es de 8,000 al mes y desde hace 4 meses llegan 4,000. ¿Cuánto se debe?
+**Respuesta:** Faltan 4,000 cada mes: 16,000.
+
+
+
+#### A tu plan
+
+Junta en una carpeta o en fotos los comprobantes de pensión de este año y anota cuánto falta, si falta algo.
+
+
+
+### Para saber más
+
+- **Orientación familiar** (DIF · español): https://www.gob.mx/difnacional — **Qué buscar:** «Procuraduría de Protección de Niñas, Niños y Adolescentes».
+- **Defensoría pública** (Poder Judicial de tu estado · español) — **Qué buscar:** «defensoría pública familiar» y el nombre de tu estado.
+
+### Palabras clave
+
+- *Pensión alimenticia:* dinero para comida, casa, salud y escuela de los hijos.
+- *Deudor alimentario moroso:* quien deja de pagar una pensión fijada por un juez durante 60 días o más.
+
+### Fuentes
+
+Ley General de los Derechos de Niñas, Niños y Adolescentes · Registro Nacional de Obligaciones Alimentarias · DIF, consultados el 30 de septiembre de 2026.
+
+---

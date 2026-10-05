@@ -154,9 +154,9 @@ Mar is approved for 500 more than she asked for.
 - *Should she take it to "make the most of it"?* No. It's extra debt with its own cost. She should ask only for what she needs.
 
 
-**Case 3. Luis's first card**
+**Case 3. Rubén's first card**
 
-Luis got a card offer with a 2,000 limit. He had never had so much "available money."
+Rubén got a card offer with a 2,000 limit. He had never had so much "available money."
 - *How should he see it?* As a loan he'd have to pay back, not as his money.
 
 
@@ -173,7 +173,7 @@ Luis got a card offer with a 2,000 limit. He had never had so much "available mo
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -384,9 +384,9 @@ Mar paid off a card, but the report shows a balance of 900.
 - *Is it an error?* She checks the report date: it was generated before the payment. She waits for the next update before disputing.
 
 
-**Case 3. Luis's first report**
+**Case 3. Rubén's first report**
 
-Luis requested his report by mail using his ITIN.
+Rubén requested his report by mail using his ITIN.
 - *What did he find?* His phone installment plan, paid on time. He already had a history without knowing it.
 
 
@@ -403,7 +403,7 @@ Luis requested his report by mail using his ITIN.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -451,7 +451,7 @@ Write down the date of your review, what you found, your proof and the next revi
 
 **What you will be able to do:** Compare options for building a credit history without taking on too much debt.
 
-**To start:** Luis wants to rent his own apartment, but the landlord asks for a credit history. He has never had a card: he always pays in cash or with his app. He doesn't know where to start. In this lesson you'll learn the safest ways to build a history.
+**To start:** Rubén wants to rent his own apartment, but the landlord asks for a credit history. He has never had a card: he always pays in cash or with his app. He doesn't know where to start. In this lesson you'll learn the safest ways to build a history.
 
 ### The essentials (5 minutes)
 
@@ -500,7 +500,7 @@ To build a history with a card, **use a little and pay the full balance every mo
 
 Andrés came to the U.S. with a good credit history in Mexico, but here he had nothing. He asked a company that uses credit history from other countries, and a card accepted him with his Mexican history.
 
-Luis, with no history in any country, started with a 200 secured card and asked for his rent to be reported.
+Rubén, with no history in any country, started with a 200 secured card and asked for his rent to be reported.
 
 
 
@@ -575,10 +575,10 @@ For a score to exist, many models need at least six months of history. Be patien
 #### Cases
 
 
-**Case 1. Luis's secured card**
+**Case 1. Rubén's secured card**
 
-Luis deposits 300 in a secured card and buys 40 in gas.
-- *Does the deposit pay those 40?* No. Luis has to pay the 40 according to his statement.
+Rubén deposits 300 in a secured card and buys 40 in gas.
+- *Does the deposit pay those 40?* No. Rubén has to pay the 40 according to his statement.
 - *How does he build a history without paying interest?* By paying the full balance every month.
 
 
@@ -607,7 +607,7 @@ Daniela pays 1,600 in rent every month, always on time, in a 40-unit building.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -808,9 +808,9 @@ Andrés has a 600 balance on a 1,000 limit: 60%. He pays 300 and drops to 30%.
 - *How many points will he gain?* He doesn't know, but he does know he lowered his debt and his utilization.
 
 
-**Case 3. Luis's "new identity"**
+**Case 3. Rubén's "new identity"**
 
-Luis is offered a "new number" to start a clean history.
+Rubén is offered a "new number" to start a clean history.
 - *What is it?* A scam and a crime. Using a number that isn't yours can bring serious legal problems.
 
 
@@ -827,7 +827,7 @@ Luis is offered a "new number" to start a clean history.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -915,7 +915,7 @@ If you only pay the minimum, you can take years to finish and pay a lot in inter
 
 #### A case in one minute
 
-Luis bought a phone with "pay in 4" in an app, then some sneakers and then some headphones. Each plan was 35 dollars.
+Rubén bought a phone with "pay in 4" in an app, then some sneakers and then some headphones. Each plan was 35 dollars.
 
 Separately they seemed small. Together they were 140 every two weeks, taken automatically from his debit card.
 
@@ -1036,9 +1036,9 @@ The oven costs 900 in cash. The store offers payments of 70 a month for 24 month
 - *What options does she have?* Save for a few months, look for a lower-cost loan from a credit union or buy a used one.
 
 
-**Case 3. Luis's plans**
+**Case 3. Rubén's plans**
 
-Luis has four "pay in 4" plans of 35 every two weeks.
+Rubén has four "pay in 4" plans of 35 every two weeks.
 - *How much does it add up to every two weeks?* 140, all together.
 
 
@@ -1055,7 +1055,7 @@ Luis has four "pay in 4" plans of 35 every two weeks.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1149,7 +1149,7 @@ Sometimes the rate isn't what matters most. First take care of a debt that puts 
 
 #### A case in one minute
 
-Luis owed 400 on his card at 28% and 150 to a friend, with no interest. He had 100 a month to pay.
+Rubén owed 400 on his card at 28% and 150 to a friend, with no interest. He had 100 a month to pay.
 
 He paid the 30 minimum on the card, 20 to his friend as agreed, and the extra 50 to the card. In seven months he paid off the card and kept going with his friend.
 
@@ -1466,9 +1466,9 @@ Mar is disputing a debt with a credit agency and gets a court notice.
 - *Does she wait for the dispute to finish?* No. She checks the court's deadline and gets legal help right away.
 
 
-**Case 3. Luis's old debt**
+**Case 3. Rubén's old debt**
 
-A collector calls Luis about a phone debt from five years ago, from when he lived in another state.
+A collector calls Rubén about a phone debt from five years ago, from when he lived in another state.
 - *What does he do?* He doesn't promise payments over the phone. He asks for the information in writing, checks the date and gets guidance before deciding.
 
 
@@ -1485,7 +1485,7 @@ A collector calls Luis about a phone debt from five years ago, from when he live
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Andrés and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1926,9 +1926,9 @@ Mar is in a tanda of 10 people, 100 a week, and she has turn 8. In week 5 she ne
 - *What will she do next time?* Ask for an early turn or set aside a cushion.
 
 
-**Case 2. Luis's circle**
+**Case 2. Rubén's circle**
 
-Luis joins an organized lending circle, with his ITIN.
+Rubén joins an organized lending circle, with his ITIN.
 - *What happens a few months later?* His on-time payments show up on his credit report. He now has a history.
 
 
@@ -1951,7 +1951,7 @@ In Daniela's tanda, one member stopped paying after receiving.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1998,7 +1998,7 @@ If you're in a tanda, write down the members, turns and dates. Look into a lendi
 
 **What you will be able to do:** Choose your credit path and build a 30- to 90-day plan.
 
-**To start:** Luis has no history. Andrés has an error in his report. Mar has a card with a high balance. Daniela has an account in collections. All four want to "improve their credit," but each one needs something different. In this lesson you'll choose your own path.
+**To start:** Rubén has no history. Andrés has an error in his report. Mar has a card with a high balance. Daniela has an account in collections. All four want to "improve their credit," but each one needs something different. In this lesson you'll choose your own path.
 
 ### The essentials (5 minutes)
 
@@ -2040,7 +2040,7 @@ Checking your report is a completed action even if your score doesn't change rig
 
 #### A case in one minute
 
-Luis has no history. In week 1 he asks two credit unions about secured cards with an ITIN. In week 3 he compares costs. On day 30 he chooses a card that reports to all three agencies and asks his landlord to report his rent.
+Rubén has no history. In week 1 he asks two credit unions about secured cards with an ITIN. In week 3 he compares costs. On day 30 he chooses a card that reports to all three agencies and asks his landlord to report his rent.
 
 At 90 days he checks his report: his first payments already show up.
 
@@ -2205,5 +2205,318 @@ Turn in your Module 3 file: chosen path, a sample report with notes, a compariso
 ### Sources
 
 CFPB, credit reports and scores · FTC, credit freezes.
+
+---
+
+## M3 U11. Is a paycheck advance money at no cost?
+
+**What you will be able to do:** Compare your employer's advance, apps that advance your pay and payday loans, and calculate what they cost over a year.
+
+**To start:** Rubén is 200 dollars short for rent and gets paid in four days. An app offers to advance it "with no interest," with a "suggested tip" of 8 dollars and 4 more to get it instantly. His friend recommends a payday loan.
+
+### The essentials (5 minutes)
+
+#### Three ways to get paid early
+
+| Type | Description | What it means for you |
+|---|---|---|
+| Employer advance | Part of what you already worked, paid early. | Ask HR. |
+| Advance app | "Tips," express fees or a membership. | Add it all up. |
+| Payday loan | Very high fees and a two-week term. | Avoid it. |
+| Your emergency fund | No cost. | The first option (M4 U06). |
+
+#### What a "no-interest" advance costs
+
+An 8-dollar tip plus a 4-dollar express fee is 12 dollars to advance 200 for four days. If you do it every two weeks, that's **312 dollars a year**. And your next check arrives 200 short, so it's easy to need another advance.
+
+
+
+#### The payday trap
+
+A payday loan charges fees that, over a year, often top 300%, and it's due in full on your next check. If you can't pay, you "roll it over" and pay fees again. Some states limit or ban them.
+
+
+
+#### A case in one minute
+
+Rubén asked at work: his employer advances up to half of what he's already earned, at no cost, once a month. He got the 200 there and started setting aside 20 dollars per check for his fund so he won't need it again.
+
+> **Key idea:** an advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first.
+
+
+
+#### Check your understanding
+
+1. Is a "no-interest" advance app always at no cost?
+*Answer:* Not always: tips, express fees and memberships cost money.
+
+2. What happens to your next check after an advance?
+*Answer:* It arrives with less money.
+
+
+#### Remember
+
+- Ask your employer first.
+- Add up the yearly cost.
+- Avoid payday loans.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Add up a year
+
+| Item | Per advance | Times a year | Total |
+|---|---|---|---|
+| Tip | 8 | 26 | 208 |
+| Express fee | 4 | 26 | 104 |
+| **Total** | 12 | 26 | **312** |
+
+
+
+#### Be careful giving access to your account
+
+These apps ask to connect to your bank account to collect automatically. If there's no balance, you may pay overdraft fees. Check the date they collect.
+
+
+
+#### If you're already in the cycle
+
+Lower the amount little by little: ask for 150 instead of 200, then 100, until you stop. Meanwhile, build your fund, even 10 dollars per check.
+
+
+
+#### Cases
+
+
+**Case 1. Rubén's app**
+
+The app charges Rubén 12 dollars to advance 200 every two weeks.
+- *How much does he pay a year?* 312 dollars.
+- *What does he do?* He asks whether his employer advances pay at no cost and builds his fund.
+
+
+**Case 2. Alex's payday loan**
+
+Alex is offered a 400-dollar payday loan.
+- *What does he do?* He looks for another option: payday loans roll over and fees add up.
+
+
+**Case 3. Daniela's overdraft**
+
+Daniela's app collected when she had no balance.
+- *What does she do?* She changes the collection date and stops using it.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Thinking it costs nothing | You pay hundreds a year | Add up tips and fees |
+| Advancing every check | Your full pay never arrives | Lower the amount |
+| Rolling over a payday loan | Fees pile up | Avoid it |
+| Granting access without checking | Overdrafts | Check the collection date |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Daniela. Choose the best decision in each; if you miss, you can try again. Earns experience points.
+
+
+
+#### Quiz
+
+1. Where do you ask first for an advance? a) In an app · b) Your employer · c) A payday lender
+2. 10 dollars per advance, 26 times a year. How much do you pay? a) 260 · b) 10 · c) 130
+3. What happens to your next check after an advance? a) It arrives in full · b) It comes with a bonus · c) It arrives with less money
+**Answers:** 1-b: many employers do it at no cost. 2-a: 10 × 26. 3-c: you already received that part.
+
+
+
+#### Put it into practice
+
+An app charges a 9.99 monthly membership plus 3 per express advance. You use 2 express advances a month. How much do you pay a year?
+**Answer:** 9.99 + 6 = 15.99 a month; × 12 = 191.88 dollars.
+
+
+
+#### Your plan
+
+If you use an advance app, review last month's transactions and add up everything it charged you.
+
+
+
+### Learn more
+
+- **Payday loans and advances** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to search: "payday loans."
+- **Nonprofit credit counseling** (NFCC · English and Spanish): https://www.nfcc.org | What to search: "credit counseling."
+
+### Key words
+
+- *Paycheck advance:* getting part of what you already earned before payday.
+- *Payday loan:* a small, very expensive loan due on your next paycheck.
+
+### Sources
+
+CFPB · NFCC, accessed September 30, 2026.
+
+---
+
+## M3 U12. Is pawning a good way out?
+
+**What you will be able to do:** Understand how a U.S. pawn shop works, what it costs and what happens if you don't pay.
+
+**To start:** Mar needs 300 dollars for a car repair. Her sister-in-law tells her to pawn her gold chain: "they give you the money in ten minutes and don't check your credit."
+
+### The essentials (5 minutes)
+
+#### How it works
+
+1. You leave something valuable and get a **pawn ticket**.
+2. They lend you only part of what it's worth.
+3. You have a deadline to repay the loan plus fees and get it back.
+4. Many shops let you **extend** by paying only the fees.
+5. If you don't pay, the shop **keeps your item** and sells it.
+
+
+
+#### Mar's chain
+
+- Loan: **300**
+- One month of fees: **75**
+- To get it back: **375**
+Fees vary by state; ask for them in writing before you sign.
+
+
+#### The good and the bad
+
+They don't check your credit and, if you don't pay, **they don't chase or report you**: you just lose the item. But it doesn't build your credit history either, and fees are usually high. Pawn shops need a state license.
+
+
+
+#### A case in one minute
+
+Mar compared: the shop would let her pay for the repair in two parts at no charge. So she didn't pawn her chain. She keeps pawning only for an emergency with no other option.
+
+> **Key idea:** pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline.
+
+
+
+#### Check your understanding
+
+1. What happens if you don't repay a pawn loan?
+*Answer:* The shop keeps your item; it isn't reported to your credit.
+
+2. Does pawning build your credit history?
+*Answer:* No.
+
+
+#### Remember
+
+- Get the fees in writing.
+- Keep your ticket.
+- Note the deadline.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Pawn versus other options
+
+| Option | Upside | Risk |
+|---|---|---|
+| Pawn | Fast, no credit check | High fees, you lose the item |
+| Payment plan with the shop or provider | Sometimes no charge | You have to ask |
+| Credit union loan | Lower fees | Takes longer |
+| Your emergency fund | No cost | You need to build it first |
+
+
+
+#### What they ask for
+
+They'll ask for ID. Check the ticket: shop name, description of your item, amount, fees and deadline.
+
+
+
+#### Don't pawn what you use for work
+
+If you pawn your tools or the phone your job calls you on, you can lose income as well as the item.
+
+
+
+#### Cases
+
+
+**Case 1. Mar's chain**
+
+Mar needs 300 for the car.
+- *What does she do first?* She asks the shop about a payment plan.
+
+
+**Case 2. Andrés's tools**
+
+Andrés wants to pawn the tools he uses for weekend jobs.
+- *What does he do?* He doesn't pawn what he uses for work.
+
+
+**Case 3. Rubén's ticket**
+
+Rubén pawned his watch and lost the ticket.
+- *What does he do?* He goes to the shop with his ID and asks for a copy.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Signing without asking the fees | You overpay | Get them in writing |
+| Losing the ticket | Harder to get your item back | Take a photo |
+| Forgetting the date | You lose your item | Write it down |
+| Thinking it builds credit | You still have no history | Use another path (M3 U03) |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Mar, Andrés and Rubén. Choose the best decision in each; if you miss, you can try again. Earns experience points.
+
+
+
+#### Quiz
+
+1. If you don't repay a pawn loan, what happens to your credit? a) Nothing changes; you lose the item · b) It's reported as a debt in collections · c) Your bank account is frozen
+2. Does pawning build your history? a) Yes · b) Only if you pay on time · c) No
+3. What do you ask for before pawning? a) Nothing · b) The fees and the deadline in writing · c) An extra loan
+**Answers:** 1-a: the shop keeps the item. 2-c: it isn't reported. 3-b: so you know what you'll pay.
+
+
+
+#### Put it into practice
+
+You're lent 250 with fees of 20% a month. How much do you pay to get it back in two months?
+**Answer:** 20% of 250 = 50 a month; 100 in two months. You pay 350.
+
+
+
+#### Your plan
+
+Write three options in your plan for an emergency before pawning: your fund, a payment plan and a credit union.
+
+
+
+### Learn more
+
+- **Consumer protection** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to search: "small-dollar loans."
+- **Your state's licenses** (your state's financial regulator · English) | What to search: "pawnbroker license" and your state's name.
+
+### Key words
+
+- *Pawn ticket:* the receipt for your pawn, with the amount, fees and deadline.
+- *Extend:* pay only the fees to get more time.
+
+### Sources
+
+CFPB · state financial regulators, accessed September 30, 2026.
 
 ---

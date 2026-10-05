@@ -35,7 +35,8 @@ Programa de bienestar financiero para personas que regresan de Estados Unidos a 
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **No se da asesoría migratoria ni legal:** se orienta a consulados, a la Embajada y a oficinas públicas.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **No se da asesoría migratoria ni legal:** se orienta a consulados, a la Embajada y a oficinas públicas.
 
 ## Personajes
 

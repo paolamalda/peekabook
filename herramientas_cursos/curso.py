@@ -383,6 +383,10 @@ def paso_insignias():
 
 
 # ---------------------------------------------------------------------------
+# Nombres que no se usan para personajes (decisión de Desarrolla Talento). Lugares como Los Ángeles o Santa Ana sí se permiten.
+NOMBRES_PROHIBIDOS = r"(?<![\wÁÉÍÓÚáéíóúñÑ])(?<!Los )(?<!Santa )(Jorge|Jos[eé]|[ÁA]ngeles|David|Luis|Ana|Jonathan|Paola|Ernesto|Marisa|Tomás|Tomas(?! [a-záéíóúñ])|Leonardo|Esther|Liliana|Alberto)(?![\wáéíóúñ])(?! Potos)"
+
+
 def paso_verificar():
     """Revisa estructura, conteos, balance de respuestas y largos."""
     CASOS = casos()
@@ -394,6 +398,7 @@ def paso_verificar():
             tot += 1
             for sec in ["== esencial", "== profundiza", "== practica", "== recursos", "== palabras", "== fuentes", "--- casos", "--- errores", "--- quiz", "--- ponlo", "--- plan", "--- comprueba", "--- recuerda"]:
                 if sec not in les: probs.append(f"{code}: falta {sec}")
+            for nom in re.findall(NOMBRES_PROHIBIDOS, les): probs.append(f"{code}: nombre prohibido «{nom}»")
             ncas = len(re.findall(r"(?m)^### ", les))
             if ncas != 3: probs.append(f"{code}: {ncas} casos")
             if code not in CASOS: probs.append(f"{code}: sin CASOS"); continue

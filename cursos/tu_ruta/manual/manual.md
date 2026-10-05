@@ -35,8 +35,9 @@ Programa de bienestar financiero para repartidores y conductores de aplicaciones
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **No se recomiendan aplicaciones, aseguradoras ni financieras:** se enseña a comparar y verificar.
-8. **Pensado para el celular y entre viajes:** cada lección se puede tomar en un descanso.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **No se recomiendan aplicaciones, aseguradoras ni financieras:** se enseña a comparar y verificar.
+9. **Pensado para el celular y entre viajes:** cada lección se puede tomar en un descanso.
 
 ## Personajes
 

@@ -95,9 +95,9 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 
 **Cases**
 
-- **M2 U01 · The pharmacy card.** Luis bought a prepaid card at a pharmacy. A charge he doesn't recognize shows up. At the pharmacy they tell him they can't help. *Who should he call?* — Expected answer: The issuing bank shown on the back of the card, at the number printed there.
+- **M2 U01 · The pharmacy card.** Rubén bought a prepaid card at a pharmacy. A charge he doesn't recognize shows up. At the pharmacy they tell him they can't help. *Who should he call?* — Expected answer: The issuing bank shown on the back of the card, at the number printed there.
 - **M2 U02 · "We work with banks".** An app tells Daniela that her money is protected because it "works with banks." *What does Daniela do?* — Expected answer: She looks for the bank's name in the terms and checks it on BankFind.
-- **M2 U03 · Luis and the branch account.** Luis has a passport and a consular ID, but no SSN or ITIN. He calls two banks and a credit union. *What does he find out?* — Expected answer: One bank accepts his combination at a branch, the other requires an SSN, and the credit union accepts it if he becomes a member.
+- **M2 U03 · Rubén and the branch account.** Rubén has a passport and a consular ID, but no SSN or ITIN. He calls two banks and a credit union. *What does he find out?* — Expected answer: One bank accepts his combination at a branch, the other requires an SSN, and the credit union accepts it if he becomes a member.
 
 **Practice**
 
@@ -136,7 +136,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 
 - **M3 U01 · Andrés's car.** Andrés earns 2,500 net a month. His expenses and commitments add up to 2,250: he has 250 left. The car payment would be 220, plus 90 for insurance. *Can he afford it?* — Expected answer: No. He'd be 60 short every month, even though he was approved.
 - **M3 U02 · Someone else's card.** Andrés's report shows a card he never opened and a real late payment on a phone. *What does he do about the card?* — Expected answer: He disputes it as possible fraud and freezes his credit.
-- **M3 U03 · Luis's secured card.** Luis deposits 300 in a secured card and buys 40 in gas. *Does the deposit pay those 40?* — Expected answer: No. Luis has to pay the 40 according to his statement.
+- **M3 U03 · Rubén's secured card.** Rubén deposits 300 in a secured card and buys 40 in gas. *Does the deposit pay those 40?* — Expected answer: No. Rubén has to pay the 40 according to his statement.
 
 **Practice**
 

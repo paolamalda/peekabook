@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Distinguir qué hace cada institución (banco, cooperativa, aseguradora, remesadora, app) y quién responde si hay un problema.
 
-**Para empezar:** Luis compró una tarjeta prepagada en una farmacia, la usa con una app y el dinero lo guarda un banco que nunca ha visto. Cuando apareció un cargo que no reconocía, no supo a quién llamar. En esta lección aprenderás a identificar quién responde por cada servicio que usas.
+**Para empezar:** Rubén compró una tarjeta prepagada en una farmacia, la usa con una app y el dinero lo guarda un banco que nunca ha visto. Cuando apareció un cargo que no reconocía, no supo a quién llamar. En esta lección aprenderás a identificar quién responde por cada servicio que usas.
 
 ### Lo esencial (5 minutos)
 
@@ -139,7 +139,7 @@ Si no te pueden responder con claridad, es una señal para buscar otra opción.
 
 **Caso 1. La tarjeta de la farmacia**
 
-Luis compró una tarjeta prepagada en una farmacia. Aparece un cargo que no reconoce. En la farmacia le dicen que no pueden ayudarlo.
+Rubén compró una tarjeta prepagada en una farmacia. Aparece un cargo que no reconoce. En la farmacia le dicen que no pueden ayudarlo.
 - *¿A quién debe llamar?* Al banco emisor que aparece en el reverso de la tarjeta, al número impreso ahí.
 - *¿Qué debe guardar?* El número de reporte y la fecha de su llamada.
 
@@ -169,7 +169,7 @@ Daniela recibe los pagos de sus pasteles en una app. La app dice que "trabaja co
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -268,7 +268,7 @@ Si tu único acceso es la app, necesitas un plan B: una tarjeta física, una suc
 
 #### Un caso en un minuto
 
-Luis cobra por nómina y casi todo lo paga con su teléfono. Abrió una cuenta en una app porque no tenía que ir a una sucursal.
+Rubén cobra por nómina y casi todo lo paga con su teléfono. Abrió una cuenta en una app porque no tenía que ir a una sucursal.
 
 Revisó los términos y encontró el nombre del banco aliado. Lo buscó en BankFind: estaba asegurado. También pidió una tarjeta física y anotó en papel el teléfono de ayuda.
 
@@ -366,9 +366,9 @@ Una app le dice a Daniela que su dinero está protegido porque "trabaja con banc
 - *¿Qué más pregunta?* Si su dinero está a su nombre en ese banco y cómo lo recuperaría si la app cierra.
 
 
-**Caso 2. El teléfono de Luis**
+**Caso 2. El teléfono de Rubén**
 
-Luis perdió su teléfono y su único acceso a su dinero era una app.
+Rubén perdió su teléfono y su único acceso a su dinero era una app.
 - *¿Qué aprendió?* A pedir una tarjeta física y a guardar en papel el teléfono de ayuda de su app.
 
 
@@ -391,7 +391,7 @@ Una cooperativa le pide a Mar 5 dólares para hacerse socia.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -440,7 +440,7 @@ Verifica en BankFind o NCUA dónde está tu dinero. Guarda la consulta y la fech
 
 **Lo que lograrás:** Conocer qué documentos suelen aceptar bancos, cooperativas y remesadoras, y cómo tramitar los que te faltan sin riesgos.
 
-**Para empezar:** Luis fue a abrir una cuenta con su pasaporte y le dijeron que no. En otro banco, con los mismos documentos, se la abrieron en veinte minutos. No era él: cada institución acepta documentos distintos. En esta lección aprenderás qué preguntar antes de ir.
+**Para empezar:** Rubén fue a abrir una cuenta con su pasaporte y le dijeron que no. En otro banco, con los mismos documentos, se la abrieron en veinte minutos. No era él: cada institución acepta documentos distintos. En esta lección aprenderás qué preguntar antes de ir.
 
 ### Lo esencial (5 minutos)
 
@@ -578,9 +578,9 @@ Si sientes que te negaron un servicio por eso, puedes consultar al Departamento 
 #### Casos
 
 
-**Caso 1. Luis y la cuenta en sucursal**
+**Caso 1. Rubén y la cuenta en sucursal**
 
-Luis tiene pasaporte y matrícula consular, pero no SSN ni ITIN. Llama a dos bancos y a una cooperativa.
+Rubén tiene pasaporte y matrícula consular, pero no SSN ni ITIN. Llama a dos bancos y a una cooperativa.
 - *¿Qué descubre?* Un banco acepta su combinación en sucursal, otro exige SSN y la cooperativa la acepta si se hace socio.
 
 
@@ -609,7 +609,7 @@ Daniela tiene su pasaporte salvadoreño vencido.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -706,9 +706,9 @@ Pregunta en tu banco o cooperativa si tienen una cuenta certificada Bank On.
 
 #### Un caso en un minuto
 
-Luis compara dos cuentas. La primera no cobra cuota, pero cobra 3.50 por cada depósito de efectivo en tiendas. La segunda cobra 5 al mes, pero los depósitos de efectivo en sus cajeros no tienen costo.
+Rubén compara dos cuentas. La primera no cobra cuota, pero cobra 3.50 por cada depósito de efectivo en tiendas. La segunda cobra 5 al mes, pero los depósitos de efectivo en sus cajeros no tienen costo.
 
-Luis deposita efectivo unas 3 veces al mes. Con la primera pagaría 10.50 al mes; con la segunda, 5.
+Rubén deposita efectivo unas 3 veces al mes. Con la primera pagaría 10.50 al mes; con la segunda, 5.
 
 Eligió la segunda, aunque "cobra cuota", porque para su forma de usar el dinero es más barata.
 
@@ -811,9 +811,9 @@ El primo de Mar le pide que lo agregue a su cuenta "para ayudarle".
 - *¿Qué hace Mar?* Busca otra forma de ayudar sin darle acceso a su cuenta.
 
 
-**Caso 3. El efectivo de Luis**
+**Caso 3. El efectivo de Rubén**
 
-Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la renta compartida.
+Rubén cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la renta compartida.
 - *¿Qué compara?* Dónde puede depositar efectivo sin costo cerca de su casa y del trabajo.
 
 
@@ -830,7 +830,7 @@ Luis cobra por nómina, pero recibe dinero de sus compañeros en efectivo por la
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -928,11 +928,11 @@ Pero si **tú** mandas dinero por Zelle o una app a alguien que te engañó, las
 
 #### Un caso en un minuto
 
-Luis vio en redes un celular usado a buen precio. El vendedor le pidió pagar por Zelle antes de enviarlo. Luis pagó 150 y el celular nunca llegó.
+Rubén vio en redes un celular usado a buen precio. El vendedor le pidió pagar por Zelle antes de enviarlo. Rubén pagó 150 y el celular nunca llegó.
 
 Llamó a su banco. Le dijeron que, como él había autorizado el pago, no podían devolverle el dinero, aunque lo reportarían.
 
-Desde entonces, Luis solo usa Zelle con personas que conoce y paga compras a desconocidos con tarjeta de crédito, que sí tiene protección.
+Desde entonces, Rubén solo usa Zelle con personas que conoce y paga compras a desconocidos con tarjeta de crédito, que sí tiene protección.
 
 
 
@@ -1026,9 +1026,9 @@ Saldo inicial 100, depósito 500, pagos de 320 y 60. Esperaba 220 y el estado mu
 - *¿Qué hace?* Busca los 10 de diferencia: es un cargo por usar un cajero de otro banco.
 
 
-**Caso 3. El "vendedor" de Luis**
+**Caso 3. El "vendedor" de Rubén**
 
-Luis pagó 150 por Zelle por un celular usado que nunca llegó.
+Rubén pagó 150 por Zelle por un celular usado que nunca llegó.
 - *¿El banco debe devolverle el dinero?* Normalmente no, porque él autorizó el pago. Puede reportarlo al banco y a la FTC, pero recuperarlo es difícil.
 - *¿Qué aprendió?* A pagar compras a desconocidos solo con métodos que tengan protección, como tarjeta de crédito.
 
@@ -1046,7 +1046,7 @@ Luis pagó 150 por Zelle por un celular usado que nunca llegó.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1095,7 +1095,7 @@ CFPB, Regulación E (transferencias electrónicas) · FTC, apps de pago · CFPB,
 
 **Lo que lograrás:** Identificar las necesidades de quien recibe y lo que tú puedes sostener, para planear tus remesas.
 
-**Para empezar:** Cada mes, la mamá de Luis le escribe pidiendo dinero, y cada mes Luis decide de último momento cuánto mandar. Algunos meses manda de más y le falta para la renta. En esta lección aprenderás a planear tus envíos para que el apoyo pueda continuar.
+**Para empezar:** Cada mes, la mamá de Rubén le escribe pidiendo dinero, y cada mes Rubén decide de último momento cuánto mandar. Algunos meses manda de más y le falta para la renta. En esta lección aprenderás a planear tus envíos para que el apoyo pueda continuar.
 
 ### Lo esencial (5 minutos)
 
@@ -1145,11 +1145,11 @@ Pensar en pesos, o en la moneda del país, te ayuda a comparar mejor y a no qued
 
 #### Un caso en un minuto
 
-Cada mes, la mamá de Luis le escribía pidiendo una cantidad distinta. Luis mandaba lo que podía en el momento y a veces le faltaba para la renta.
+Cada mes, la mamá de Rubén le escribía pidiendo una cantidad distinta. Rubén mandaba lo que podía en el momento y a veces le faltaba para la renta.
 
 Hablaron por videollamada. Acordaron 200 dólares el día 15 para comida, y que su mamá le avisaría con un mes si venía un gasto de la escuela de su hermana.
 
-Ahora Luis lo tiene en su calendario y su mamá sabe con qué cuenta cada mes.
+Ahora Rubén lo tiene en su calendario y su mamá sabe con qué cuenta cada mes.
 
 
 
@@ -1254,9 +1254,9 @@ Pide 200 dólares cada mes para comida, 120 al inicio de clases de su nieta y, e
 - *¿Qué hace antes de decidir?* Verifica el monto del hospital y las alternativas.
 
 
-**Caso 2. Los mensajes de Luis**
+**Caso 2. Los mensajes de Rubén**
 
-La mamá de Luis le escribe cada mes con una cantidad distinta.
+La mamá de Rubén le escribe cada mes con una cantidad distinta.
 - *¿Qué cambia?* Acuerdan un monto habitual el día 15 y avisarse con dos semanas si viene un gasto previsible.
 
 
@@ -1279,7 +1279,7 @@ Daniela envía dinero a su hermana en San Salvador para la escuela de su sobrina
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1495,10 +1495,10 @@ Mar tiene 900. Necesita 650 hasta el próximo cobro, 80 para su reserva de impue
 - *¿Qué puede hacer?* Enviar 120 ahora y el resto cuando vuelva a cobrar, avisando a su suegra.
 
 
-**Caso 3. Los hermanos de Luis**
+**Caso 3. Los hermanos de Rubén**
 
-Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
-- *¿Qué acuerdan?* Luis envía el día 15 y su hermano el día 30. Así su mamá recibe dinero dos veces al mes y ninguno se aprieta.
+Rubén y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
+- *¿Qué acuerdan?* Rubén envía el día 15 y su hermano el día 30. Así su mamá recibe dinero dos veces al mes y ninguno se aprieta.
 
 
 #### Errores frecuentes
@@ -1514,7 +1514,7 @@ Luis y su hermano, que vive en Texas, apoyan a su mamá en Oaxaca.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1561,7 +1561,7 @@ CFPB, remesas · CFPB, Your Money, Your Goals.
 
 **Lo que lograrás:** Comparar envíos por lo que sale de tu bolsillo y lo que llega a tu familia.
 
-**Para empezar:** Luis cambió de remesadora porque la nueva decía "sin comisión". Al mes, su mamá le dijo que le estaban llegando menos pesos. No le cobraban comisión, pero le daban un tipo de cambio peor. En esta lección aprenderás a comparar envíos de verdad.
+**Para empezar:** Rubén cambió de remesadora porque la nueva decía "sin comisión". Al mes, su mamá le dijo que le estaban llegando menos pesos. No le cobraban comisión, pero le daban un tipo de cambio peor. En esta lección aprenderás a comparar envíos de verdad.
 
 ### Lo esencial (5 minutos)
 
@@ -1711,9 +1711,9 @@ Guarda en tu teléfono la captura de cada cotización y de cada recibo.
 #### Casos
 
 
-**Caso 1. La promoción de Luis**
+**Caso 1. La promoción de Rubén**
 
-A Luis le ofrecen "primer envío sin comisión y mejor tipo de cambio". El segundo mes, la misma app entrega menos pesos que su opción anterior.
+A Rubén le ofrecen "primer envío sin comisión y mejor tipo de cambio". El segundo mes, la misma app entrega menos pesos que su opción anterior.
 - *¿Qué hace?* Compara con tres cotizaciones del mismo día y con la misma base.
 
 
@@ -1742,7 +1742,7 @@ Daniela envía a El Salvador, que usa dólar.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1831,7 +1831,7 @@ Puedes buscarlas en el directorio del DFPI o en NMLS Consumer Access. Una empres
 
 #### Un caso en un minuto
 
-Luis mandó dinero a su mamá y, cinco minutos después, se dio cuenta de que había escrito mal el monto.
+Rubén mandó dinero a su mamá y, cinco minutos después, se dio cuenta de que había escrito mal el monto.
 
 Como no habían pasado 30 minutos y su mamá no lo había cobrado, llamó a la remesadora y canceló el envío sin costo. Lo volvió a mandar con el monto correcto.
 
@@ -1943,7 +1943,7 @@ El recibo de Alex dice que el dinero estaría disponible el lunes. El martes no 
 
 **Caso 2. La remesadora del mercado**
 
-Un local ofrece a Luis un tipo de cambio excelente. Luis busca el nombre en el directorio del DFPI y no aparece.
+Un local ofrece a Rubén un tipo de cambio excelente. Rubén busca el nombre en el directorio del DFPI y no aparece.
 - *¿Qué decide?* No usarlo. Sin licencia no tiene a quién reclamar si algo falla.
 
 
@@ -1966,7 +1966,7 @@ Daniela escribió el apellido de su hermana con una letra distinta. Su hermana n
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2172,9 +2172,9 @@ Mar usa una app que adelanta su salario por una "propina voluntaria" de 5 cada v
 - *¿Cuánto le cuesta?* 20 al mes por adelantar su propio dinero.
 
 
-**Caso 3. La tarjeta de Luis**
+**Caso 3. La tarjeta de Rubén**
 
-Luis pagó un envío con su tarjeta de crédito.
+Rubén pagó un envío con su tarjeta de crédito.
 - *¿Qué debe revisar?* Si el banco lo cobró como adelanto de efectivo, con comisión e intereses desde el primer día.
 
 
@@ -2191,7 +2191,7 @@ Luis pagó un envío con su tarjeta de crédito.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2393,10 +2393,10 @@ Alex y su mamá acuerdan: comida, entre 150 y 180 dólares, el día 15. Emergenc
 - *¿Qué agregan después de esta lección?* Una palabra clave familiar.
 
 
-**Caso 3. La palabra de Luis**
+**Caso 3. La palabra de Rubén**
 
-Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero para un doctor.
-- *¿Qué hace?* Pide la palabra clave. La voz duda y cuelga. Luis llama a su mamá, que estaba en casa sin ningún problema.
+Rubén recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero para un doctor.
+- *¿Qué hace?* Pide la palabra clave. La voz duda y cuelga. Rubén llama a su mamá, que estaba en casa sin ningún problema.
 
 
 #### Errores frecuentes
@@ -2412,7 +2412,7 @@ Luis recibe una llamada con una voz igual a la de su mamá, pidiéndole dinero p
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2506,7 +2506,7 @@ Si se compra un terreno a nombre de otra persona, tu comprobante de envío prueb
 
 #### Un caso en un minuto
 
-Luis quiere juntar 20,000 pesos en un año para que su mamá arregle el techo de su casa en Oaxaca.
+Rubén quiere juntar 20,000 pesos en un año para que su mamá arregle el techo de su casa en Oaxaca.
 
 Hace la cuenta con 16.5 pesos por dólar: necesita 1,212.12 dólares, unos 101 al mes. Si el dólar sube, termina antes; si baja, ya tiene margen.
 
@@ -2613,9 +2613,9 @@ Mar envió dinero durante tres años para un terreno que está a nombre de su he
 - *¿Qué debió hacer?* Acordar por escrito, ante notario, cuál era su parte antes de enviar.
 
 
-**Caso 3. La casa de los papás de Luis**
+**Caso 3. La casa de los papás de Rubén**
 
-Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
+Rubén quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 - *¿Qué pregunta primero?* A nombre de quién está la casa y si sus hermanos también aportarán, para dejarlo claro desde el inicio.
 
 
@@ -2632,7 +2632,7 @@ Luis quiere ayudar a arreglar la casa de sus papás en Oaxaca.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Alex y Mar. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2829,7 +2829,7 @@ Cheque de nómina, cambio en tienda, pago de remesa en efectivo.
 
 **Caso 2. La promoción que terminó**
 
-El proveedor de Luis fue el mejor con la promoción inicial, pero ahora entrega menos que otro con el mismo presupuesto.
+El proveedor de Rubén fue el mejor con la promoción inicial, pero ahora entrega menos que otro con el mismo presupuesto.
 - *¿Qué hace?* Cambia de proveedor y verifica otra vez los datos de su mamá antes del primer envío.
 
 
@@ -2852,7 +2852,7 @@ Daniela cobra por horas y por pedidos. Envía a su hermana cada mes.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Alex. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

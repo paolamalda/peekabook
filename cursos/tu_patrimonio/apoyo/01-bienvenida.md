@@ -34,7 +34,7 @@ Las **palabras en color** muestran su significado al pasar el cursor o al tocarl
 
 ## Las personajes
 
-- **Carmen** (58): casada con Jorge; él siempre manejó las cuentas y las inversiones.
+- **Carmen** (58): casada con Arturo; él siempre manejó las cuentas y las inversiones.
 - **Lucía** (64): viuda desde hace un año; recibe pensión de viudez y heredó inversiones.
 - **Maru** (52): trabajó 12 años antes de casarse y vende por catálogo; su esposo, Raúl, es maestro con ISSSTE.
 - **Elena** (47): divorciada, con dos hijos; su seguro médico subió 30%.

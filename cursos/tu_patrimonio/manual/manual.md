@@ -40,7 +40,7 @@ Programa de bienestar financiero para mujeres que administran su casa y su patri
 
 | Personaje | Perfil | Reto principal |
 |---|---|---|
-| **Carmen** (58) | Casada con Jorge, vive en la Ciudad de México. Su esposo siempre manejó las cuentas y las inversiones; ella lleva el gasto de la casa y una cuenta propia con ahorros | No sabe qué tienen, dónde está ni qué pasaría si Jorge faltara |
+| **Carmen** (58) | Casada con Arturo, vive en la Ciudad de México. Su esposo siempre manejó las cuentas y las inversiones; ella lleva el gasto de la casa y una cuenta propia con ahorros | No sabe qué tienen, dónde está ni qué pasaría si Arturo faltara |
 | **Lucía** (64) | Viuda desde hace un año, vive en Guadalajara. Recibe pensión de viudez del IMSS; heredó inversiones que no entiende. Sus hijos le «ayudan» con el celular | Le da miedo la tecnología y ya recibió dos llamadas «del banco» |
 | **Maru** (52) | Vive en Puebla. Trabajó 12 años en una empresa antes de casarse (cotizó desde 1990) y vende por catálogo. Piensa en la Modalidad 40. Su esposo, Raúl, es maestro en escuelas públicas federales (ISSSTE) | Saber si todavía puede y si le conviene |
 | **Elena** (47) | Divorciada, vive en Monterrey con dos hijos adolescentes. Trabaja en una inmobiliaria y ayuda con las cuentas de su mamá | Su seguro de gastos médicos subió 30% y no sabe si cancelarlo |

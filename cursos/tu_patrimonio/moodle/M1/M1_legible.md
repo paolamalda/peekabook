@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Hacer el inventario de tu patrimonio: cuentas, inversiones, seguros, inmuebles, pensiones y deudas, sin anotar números completos ni contraseñas.
 
-**Para empezar:** Carmen sabe que tienen «algo invertido» y un departamento que rentan, pero todo lo maneja Jorge. Una tarde se pregunta qué haría si él se enfermara mañana. No sabe en qué banco está cada cosa ni a quién llamar. En esta lección harás el mapa que a Carmen le falta.
+**Para empezar:** Carmen sabe que tienen «algo invertido» y un departamento que rentan, pero todo lo maneja Arturo. Una tarde se pregunta qué haría si él se enfermara mañana. No sabe en qué banco está cada cosa ni a quién llamar. En esta lección harás el mapa que a Carmen le falta.
 
 ### Lo esencial (5 minutos)
 
@@ -33,7 +33,7 @@ En tu inventario **no** van números completos de tarjeta, NIP, contraseñas ni 
 
 #### Un caso en un minuto
 
-Carmen se sentó con Jorge un domingo. Con los estados de cuenta a la mano, llenaron una tabla: dos cuentas de banco, un fondo en una casa de bolsa, el seguro de gastos médicos y el departamento.
+Carmen se sentó con Arturo un domingo. Con los estados de cuenta a la mano, llenaron una tabla: dos cuentas de banco, un fondo en una casa de bolsa, el seguro de gastos médicos y el departamento.
 
 Descubrieron una cuenta vieja que nadie usaba y que cobraba comisión cada mes.
 
@@ -66,8 +66,8 @@ Llena una fila por cada cosa. Usa números redondeados.
 | Tipo | Institución | A nombre de | Últimos 4 dígitos | Saldo aproximado | Contacto |
 |---|---|---|---|---|---|
 | Cuenta de débito | Banco A | Carmen | 1234 | 80,000 | Sucursal Del Valle |
-| Fondo de inversión | Casa de bolsa B | Jorge | 5678 | 900,000 | Asesor, teléfono oficial |
-| Seguro de gastos médicos | Aseguradora C | Jorge y Carmen | — | Renueva en marzo | Agente |
+| Fondo de inversión | Casa de bolsa B | Arturo | 5678 | 900,000 | Asesor, teléfono oficial |
+| Seguro de gastos médicos | Aseguradora C | Arturo y Carmen | — | Renueva en marzo | Agente |
 | Departamento | — | Ambos | — | Valor aproximado | Escrituras en la carpeta |
 
 
@@ -138,8 +138,8 @@ Elena encuentra en su inventario una cuenta que no usa desde hace años y que co
 
 #### Ponlo en práctica
 
-Carmen tiene 80,000 en su cuenta, 900,000 en un fondo a nombre de Jorge y 250,000 en una cuenta de ambos. ¿Cuánto está a nombre de Carmen, sola o compartido?
-**Respuesta:** 80,000 más 250,000: 330,000. Los 900,000 del fondo están a nombre de Jorge.
+Carmen tiene 80,000 en su cuenta, 900,000 en un fondo a nombre de Arturo y 250,000 en una cuenta de ambos. ¿Cuánto está a nombre de Carmen, sola o compartido?
+**Respuesta:** 80,000 más 250,000: 330,000. Los 900,000 del fondo están a nombre de Arturo.
 
 
 
@@ -261,7 +261,7 @@ Elena paga en enero el seguro del auto, el predial y las inscripciones, y siempr
 
 **Caso 2. El gasto de Carmen**
 
-Carmen no sabe cuánto gasta la casa; Jorge dice que «unos 40 mil».
+Carmen no sabe cuánto gasta la casa; Arturo dice que «unos 40 mil».
 - *¿Qué hace?* Revisa tres meses de estados de cuenta y agrupa los gastos para saber la cifra real.
 
 
@@ -329,7 +329,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Hablar de dinero en pareja y en familia, conocer el régimen de tu matrimonio y tener una cuenta propia para tu tranquilidad.
 
-**Para empezar:** Carmen nunca ha preguntado cuánto ganan ni cuánto tienen: «eso lo ve Jorge». No es desconfianza; así se acostumbraron. Pero si algo cambiara, ella tendría que empezar de cero. En esta lección verás cómo abrir la conversación sin pelear.
+**Para empezar:** Carmen nunca ha preguntado cuánto ganan ni cuánto tienen: «eso lo ve Arturo». No es desconfianza; así se acostumbraron. Pero si algo cambiara, ella tendría que empezar de cero. En esta lección verás cómo abrir la conversación sin pelear.
 
 ### Lo esencial (5 minutos)
 
@@ -355,7 +355,7 @@ Si estás casada por lo civil, tu matrimonio tiene un régimen patrimonial. En l
 
 #### Un caso en un minuto
 
-Carmen le propuso a Jorge una «cita de dinero» al mes. Empezaron con el inventario del módulo 1. Jorge le mostró sus cuentas y ella abrió una cuenta propia para su ahorro.
+Carmen le propuso a Arturo una «cita de dinero» al mes. Empezaron con el inventario del módulo 1. Arturo le mostró sus cuentas y ella abrió una cuenta propia para su ahorro.
 
 > **Idea clave:** hablar de dinero en familia no es desconfianza; es tranquilidad para las dos personas.
 
@@ -412,7 +412,7 @@ Si tu pareja se niega siempre a hablar de dinero, te quita el acceso a tus cuent
 
 **Caso 1. La cita de Carmen**
 
-Carmen quiere saber qué tienen, pero teme que Jorge se moleste.
+Carmen quiere saber qué tienen, pero teme que Arturo se moleste.
 - *¿Qué hace?* Propone una cita tranquila con una meta común: estar preparados si alguno falta.
 
 
@@ -456,7 +456,7 @@ Elena no sabe qué régimen tuvo su matrimonio al divorciarse.
 
 #### Ponlo en práctica
 
-Durante su matrimonio en sociedad conyugal, Carmen y Jorge compraron un departamento de 2,400,000. ¿Qué parte corresponde a cada quien?
+Durante su matrimonio en sociedad conyugal, Carmen y Arturo compraron un departamento de 2,400,000. ¿Qué parte corresponde a cada quien?
 **Respuesta:** En sociedad conyugal, lo adquirido es de las dos personas: 1,200,000 cada quien, salvo acuerdos distintos en sus capitulaciones.
 
 

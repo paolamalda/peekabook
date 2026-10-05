@@ -15,7 +15,7 @@ Pareja que vive en Los Ángeles con sus dos hijos, de 7 y 4 años. La mamá de A
 - **Alex** cobra por nómina cada dos semanas, los viernes. Algunos fines de semana hace trabajos por su cuenta con su camioneta.
 - **Mar** cobra cada semana y recibe la mayor parte de sus propinas en efectivo. A veces le pagan por una aplicación. Algunos fines de semana vende comida por encargo.
 
-### Luis
+### Rubén
 
 Tiene 24 años. Llegó de Oaxaca hace dos años y comparte departamento con dos compañeros en Los Ángeles. Trabaja en un almacén y cobra cada semana. Le envía dinero a su mamá. No tiene historial de crédito y casi todo lo paga con apps.
 
@@ -159,7 +159,7 @@ En las H5P las opciones incorrectas tienen un largo parecido al de la correcta, 
 
 #### Historia en serie
 
-Seis personajes acompañan el curso: Alex y Mar, Luis, Daniela, Rosa y Andrés. Cada módulo pone al frente a quienes viven más de cerca el tema y cierra con un caso integrador: E1 Alex y Mar (calendario), E2 Luis (remesas), E3 Andrés (crédito y deudas), E4 Rosa (protección) y E5 Daniela (futuro).
+Seis personajes acompañan el curso: Alex y Mar, Rubén, Daniela, Rosa y Andrés. Cada módulo pone al frente a quienes viven más de cerca el tema y cierra con un caso integrador: E1 Alex y Mar (calendario), E2 Rubén (remesas), E3 Andrés (crédito y deudas), E4 Rosa (protección) y E5 Daniela (futuro).
 
 ---
 

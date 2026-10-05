@@ -95,9 +95,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Casos**
 
-- **M2 U01 · La tarjeta de la farmacia.** Luis compró una tarjeta prepagada en una farmacia. Aparece un cargo que no reconoce. En la farmacia le dicen que no pueden ayudarlo. *¿A quién debe llamar?* — Respuesta esperada: Al banco emisor que aparece en el reverso de la tarjeta, al número impreso ahí.
+- **M2 U01 · La tarjeta de la farmacia.** Rubén compró una tarjeta prepagada en una farmacia. Aparece un cargo que no reconoce. En la farmacia le dicen que no pueden ayudarlo. *¿A quién debe llamar?* — Respuesta esperada: Al banco emisor que aparece en el reverso de la tarjeta, al número impreso ahí.
 - **M2 U02 · "Trabajamos con bancos".** Una app le dice a Daniela que su dinero está protegido porque "trabaja con bancos". *¿Qué hace Daniela?* — Respuesta esperada: Busca en los términos el nombre del banco y lo verifica en BankFind.
-- **M2 U03 · Luis y la cuenta en sucursal.** Luis tiene pasaporte y matrícula consular, pero no SSN ni ITIN. Llama a dos bancos y a una cooperativa. *¿Qué descubre?* — Respuesta esperada: Un banco acepta su combinación en sucursal, otro exige SSN y la cooperativa la acepta si se hace socio.
+- **M2 U03 · Rubén y la cuenta en sucursal.** Rubén tiene pasaporte y matrícula consular, pero no SSN ni ITIN. Llama a dos bancos y a una cooperativa. *¿Qué descubre?* — Respuesta esperada: Un banco acepta su combinación en sucursal, otro exige SSN y la cooperativa la acepta si se hace socio.
 
 **Práctica**
 
@@ -136,7 +136,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - **M3 U01 · El auto de Andrés.** Andrés gana 2,500 netos al mes. Sus gastos y compromisos suman 2,250: le quedan 250. La cuota del auto sería 220 y el seguro 90 más. *¿Puede pagarlo?* — Respuesta esperada: No. Le faltarían 60 cada mes, aunque se lo aprobaron.
 - **M3 U02 · La tarjeta de otra persona.** El reporte de Andrés muestra una tarjeta que nunca abrió y un atraso real de un teléfono. *¿Qué hace con la tarjeta?* — Respuesta esperada: La disputa como posible fraude y congela su crédito.
-- **M3 U03 · La tarjeta garantizada de Luis.** Luis deposita 300 en una tarjeta garantizada y compra 40 de gasolina. *¿El depósito paga esos 40?* — Respuesta esperada: No. Luis debe pagar los 40 según su estado de cuenta.
+- **M3 U03 · La tarjeta garantizada de Rubén.** Rubén deposita 300 en una tarjeta garantizada y compra 40 de gasolina. *¿El depósito paga esos 40?* — Respuesta esperada: No. Rubén debe pagar los 40 según su estado de cuenta.
 
 **Práctica**
 

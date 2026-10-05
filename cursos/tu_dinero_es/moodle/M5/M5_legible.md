@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Medir tu patrimonio y definir metas con monto, fecha y prioridad, sin contar el mismo dinero dos veces.
 
-**Para empezar:** Luis quiere estudiar inglés, ayudar a su mamá a arreglar su casa y algún día comprar un auto. Tiene muchas ganas, pero cada mes el dinero se va y ninguna meta avanza. En esta lección aprenderás a convertir deseos en metas que sí puedes alcanzar.
+**Para empezar:** Rubén quiere estudiar inglés, ayudar a su mamá a arreglar su casa y algún día comprar un auto. Tiene muchas ganas, pero cada mes el dinero se va y ninguna meta avanza. En esta lección aprenderás a convertir deseos en metas que sí puedes alcanzar.
 
 ### Lo esencial (5 minutos)
 
@@ -44,7 +44,7 @@ Tienes que cambiar montos, plazos o prioridades. Es mejor avanzar en una meta qu
 
 #### Un caso en un minuto
 
-Luis tiene 150 libres al mes. Sus metas: curso de inglés de 600 en 12 meses (50 al mes), techo de su mamá de 1,200 en 12 meses (100 al mes) y auto de 3,000 en 24 meses (125 al mes). Suman 275.
+Rubén tiene 150 libres al mes. Sus metas: curso de inglés de 600 en 12 meses (50 al mes), techo de su mamá de 1,200 en 12 meses (100 al mes) y auto de 3,000 en 24 meses (125 al mes). Suman 275.
 
 Decide empezar con el curso y el techo (150) y dejar el auto para cuando termine el curso.
 
@@ -149,9 +149,9 @@ Andrés tiene patrimonio de 2,500, pero si mañana le llega una factura de 2,300
 - *¿Qué le falta revisar?* Su liquidez: cuánto dinero puede usar de inmediato.
 
 
-**Caso 3. Las metas de Luis**
+**Caso 3. Las metas de Rubén**
 
-Luis tiene tres metas que suman 275 al mes y solo 150 libres.
+Rubén tiene tres metas que suman 275 al mes y solo 150 libres.
 - *¿Qué hace?* Prioriza dos y pospone la tercera. No asigna el mismo dinero a las tres.
 
 
@@ -168,7 +168,7 @@ Luis tiene tres metas que suman 275 al mes y solo 150 libres.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -363,9 +363,9 @@ La cuenta de retiro de Andrés pasó de 2,000 a 2,300, pero él aportó 250.
 - *¿Cuánto ganó la inversión?* 50.
 
 
-**Caso 3. El "promedio" de Luis**
+**Caso 3. El "promedio" de Rubén**
 
-Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%.
+Un amigo le dice a Rubén que su inversión "promedió 0%": subió 20% y bajó 20%.
 - *¿Quedó igual?* No. De 1,000 pasó a 960: perdió 4%.
 
 
@@ -382,7 +382,7 @@ Un amigo le dice a Luis que su inversión "promedió 0%": subió 20% y bajó 20%
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Rosa y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -569,9 +569,9 @@ Andrés abrió una IRA hace un año y su dinero sigue en efectivo porque nunca e
 - *¿Qué hace?* Pregunta a su administrador qué opciones tiene y elige según su plazo y su riesgo.
 
 
-**Caso 2. Los dos fondos de Luis**
+**Caso 2. Los dos fondos de Rubén**
 
-Luis compró dos fondos de "tecnología" que tienen casi las mismas empresas.
+Rubén compró dos fondos de "tecnología" que tienen casi las mismas empresas.
 - *¿Diversificó?* No. Duplicó su riesgo en el mismo sector.
 
 
@@ -594,7 +594,7 @@ Daniela recibe una oferta de 20% al mes en criptomonedas.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -853,7 +853,7 @@ Guarda tu contrato y tus recibos. Si quieres comprar, agenda una cita con un con
 
 **Lo que lograrás:** Comparar un auto o un curso por su costo total y su flexibilidad.
 
-**Para empezar:** Luis vio un auto con un anuncio de "solo 280 al mes". Le pareció perfecto. Cuando sumó el seguro, la gasolina y el mantenimiento, el auto le costaba 650 al mes. En esta lección aprenderás a ver todo lo que cuesta algo antes de comprarlo.
+**Para empezar:** Rubén vio un auto con un anuncio de "solo 280 al mes". Le pareció perfecto. Cuando sumó el seguro, la gasolina y el mantenimiento, el auto le costaba 650 al mes. En esta lección aprenderás a ver todo lo que cuesta algo antes de comprarlo.
 
 ### Lo esencial (5 minutos)
 
@@ -865,7 +865,7 @@ El **costo total de uso** incluye todo lo que pagas por tener y usar algo.
 
 
 
-#### Los dos autos de Luis
+#### Los dos autos de Rubén
 
 | | Auto A | Auto B |
 |---|---|---|
@@ -999,7 +999,7 @@ Lee todo el contrato antes de firmar. Algunas agencias agregan productos opciona
 #### Casos
 
 
-**Caso 1. Los dos autos de Luis**
+**Caso 1. Los dos autos de Rubén**
 
 Auto A: total 650. Auto B: total 600.
 - *¿Qué le falta revisar?* Precio total, plazo, enganche, estado del auto y pérdida de valor. El pago solo engaña.
@@ -1030,7 +1030,7 @@ Una agencia le ofrece a Andrés bajar el pago de su auto alargando el préstamo 
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1429,10 +1429,10 @@ Rosa no sabe en qué AFORE está.
 - *¿Qué hace?* Usa e-SAR o AforeMóvil con su CURP.
 
 
-**Caso 2. El gestor de Luis**
+**Caso 2. El gestor de Rubén**
 
-Un gestor le ofrece a Luis "liberar su AFORE" por 30% del saldo.
-- *¿Qué hace Luis?* No acepta. Los trámites no tienen costo y los hace él mismo con su AFORE o con CONSAR.
+Un gestor le ofrece a Rubén "liberar su AFORE" por 30% del saldo.
+- *¿Qué hace Rubén?* No acepta. Los trámites no tienen costo y los hace él mismo con su AFORE o con CONSAR.
 
 
 **Caso 3. Semanas o ahorro**
@@ -1454,7 +1454,7 @@ Rosa quiere aumentar su ahorro y también completar semanas para su pensión.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén y Rosa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -1504,7 +1504,7 @@ CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 y 33 [POR CONFIRMAR] · SSA
 
 **Lo que lograrás:** Preparar lo básico para proteger a tu familia: beneficiarios, documentos y un plan para tus hijos.
 
-**Para empezar:** Luis tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo.
+**Para empezar:** Rubén tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo.
 
 ### Lo esencial (5 minutos)
 
@@ -1543,7 +1543,7 @@ Tu testamento no cambia lo que dice ese formulario. Revísalos todos.
 
 #### Un caso en un minuto
 
-Luis habló con su hermana, que acepta cuidar a sus hijos. Llenó el formulario de cuidador y le dio una copia.
+Rubén habló con su hermana, que acepta cuidar a sus hijos. Llenó el formulario de cuidador y le dio una copia.
 
 Actualizó beneficiarios en su cuenta y en su seguro, y le dijo a su hermana dónde está su carpeta familiar.
 
@@ -1635,9 +1635,9 @@ Desconfía de "notarios" o "consultores" que ofrecen trámites migratorios. En E
 #### Casos
 
 
-**Caso 1. El plan de Luis**
+**Caso 1. El plan de Rubén**
 
-Luis quiere que su hermana cuide a sus hijos si él no puede.
+Rubén quiere que su hermana cuide a sus hijos si él no puede.
 - *¿Qué documento usa?* La declaración jurada de autorización del cuidador de California.
 
 
@@ -1666,7 +1666,7 @@ Un conocido le ofrece a Andrés "manejar todo" con un poder notarial.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2091,7 +2091,7 @@ Daniela vendió 1,200 y gastó 600 en total.
 
 **Caso 2. ¿LLC ya?**
 
-Luis empieza a vender comida por encargo algunos fines de semana y gana 150 al mes.
+Rubén empieza a vender comida por encargo algunos fines de semana y gana 150 al mes.
 - *¿Le conviene una LLC?* Probablemente no por ahora: el mínimo de 800 al año sería más de lo que gana en cinco meses. Empieza como empresa individual.
 
 
@@ -2114,7 +2114,7 @@ A Andrés le ofrecen un "adelanto" para su negocio que se cobra de sus ventas di
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 
@@ -2164,7 +2164,7 @@ CalGold · FTB, LLC · SBA · CDPH, comida hecha en casa · IRS, trabajo por cue
 
 **Lo que lograrás:** Reunir lo aprendido en un plan financiero personal de una página con acciones y fechas.
 
-**Para empezar:** Llegaste al final del programa. Luis, Daniela, Andrés y Rosa tienen algo en común: todos empezaron con dudas y ahora tienen un plan. En esta lección harás el tuyo, en una sola página.
+**Para empezar:** Llegaste al final del programa. Rubén, Daniela, Andrés y Rosa tienen algo en común: todos empezaron con dudas y ahora tienen un plan. En esta lección harás el tuyo, en una sola página.
 
 ### Lo esencial (5 minutos)
 
@@ -2332,9 +2332,9 @@ Si algo cambia, como un nuevo trabajo, un hijo o una mudanza, busca la lección 
 #### Casos
 
 
-**Caso 1. El plan de Luis**
+**Caso 1. El plan de Rubén**
 
-Luis tiene tres metas pero no sabe por dónde empezar.
+Rubén tiene tres metas pero no sabe por dónde empezar.
 - *¿Qué hace?* Elige una acción pequeña para esta semana y la escribe con fecha.
 
 
@@ -2363,7 +2363,7 @@ Daniela tuvo que usar su reserva por una emergencia.
 
 #### Actividad interactiva
 
-**¿Qué harías? (H5P):** tres situaciones de esta lección con Luis, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rubén, Daniela y Andrés. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
 
 
 

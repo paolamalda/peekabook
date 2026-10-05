@@ -35,7 +35,7 @@ CASOS = {
 "M1 U07": [
  ("Sus cobros llegan después de la fecha de la renta.", "Ganan menos de lo que necesitan para vivir en su zona.", "Gastan demasiado en comida durante la primera semana."),
  ("Pone una alerta y pregunta cómo desactivar el sobregiro.", "Cancela el seguro del auto para evitar más cargos.", "Deja la cuenta vacía ese día para que el cobro automático no pase."),
- ("Cada quien deposita su parte tres días antes.", "Cada quien paga cuando cobre, aunque sea tarde.", "Luis paga todo y luego cobra a los demás."),
+ ("Cada quien deposita su parte tres días antes.", "Cada quien paga cuando cobre, aunque sea tarde.", "Rubén paga todo y luego cobra a los demás."),
 ],
 "M1 U08": [
  ("Pausar la reserva, bajar la remesa y pedir un plan de pagos.", "Cancelar todas las suscripciones y esperar que alcance.", "Pedir un préstamo por 480 y pagarlo cuando mejore."),
@@ -105,7 +105,7 @@ CASOS = {
 "M2 U07": [
  ("Enviar después de cobrar.", "Enviar antes de la renta.", "Pedir prestado para enviar."),
  ("120.", "200.", "250."),
- ("Luis envía el día 15 y su hermano el 30.", "Los dos envían el mismo día para que sea más.", "Envía solo quien haya ganado más ese mes."),
+ ("Rubén envía el día 15 y su hermano el 30.", "Los dos envían el mismo día para que sea más.", "Envía solo quien haya ganado más ese mes."),
 ],
 "M2 U08": [
  ("Comparar tres cotizaciones del mismo día y base.", "Quedarse con la app porque ya tuvo promoción.", "Elegir siempre la que no cobra comisión, porque así llega más dinero."),
@@ -148,7 +148,7 @@ CASOS = {
  ("Que ya tenía historial por su plan de teléfono.", "Que no tenía nada, porque usa ITIN.", "Que su ITIN no sirve para tener crédito en Estados Unidos."),
 ],
 "M3 U03": [
- ("No: Luis paga los 40 con su estado de cuenta.", "Sí: el depósito paga sus compras hasta 300.", "Sí, porque para eso depositó los 300 al abrir la tarjeta."),
+ ("No: Rubén paga los 40 con su estado de cuenta.", "Sí: el depósito paga sus compras hasta 300.", "Sí, porque para eso depositó los 300 al abrir la tarjeta."),
  ("La A: cuesta menos y sí reporta.", "La B, porque la más cara es mejor.", "Ninguna: las dos cobran demasiado."),
  ("Si su arrendador puede reportar sus pagos de renta.", "Si puede pagar la renta con su tarjeta de crédito.", "Si el dueño le puede bajar la renta por pagar siempre puntual."),
 ],

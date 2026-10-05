@@ -45,9 +45,9 @@ La semana 1 muestra 420 de renta sin fondos. El saldo final positivo no borra es
 
 **Práctica fiscal complementaria.** Una trabajadora independiente recibe 2,000 por una plataforma y 300 en efectivo. Sus costos del ejercicio son 400. La plataforma deposita 2,000 en su banco y ella pasa 1,000 a otra cuenta propia. Resultado antes de impuestos: 2,300 − 400 = 1,900. No se cuentan otra vez los depósitos ni la transferencia propia.
 
-## E2. Luis: una emergencia y tres remesas (Módulo 2)
+## E2. Rubén: una emergencia y tres remesas (Módulo 2)
 
-**Datos.** La mamá de Luis, en Oaxaca, pide 5,000 pesos para una emergencia. Luis puede usar como máximo 310 dólares en total.
+**Datos.** La mamá de Rubén, en Oaxaca, pide 5,000 pesos para una emergencia. Rubén puede usar como máximo 310 dólares en total.
 
 | Proveedor | Tipo de cambio | Comisión | Entrega | Otros costos |
 |---|---|---|---|---|

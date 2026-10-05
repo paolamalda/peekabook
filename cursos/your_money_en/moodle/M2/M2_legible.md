@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Tell apart what each institution does (bank, credit union, insurer, money transmitter, app) and who is responsible if there's a problem.
 
-**To start:** Luis bought a prepaid card at a pharmacy, uses it with an app, and his money is held by a bank he has never seen. When a charge he didn't recognize showed up, he didn't know who to call. In this lesson you'll learn to identify who is responsible for each service you use.
+**To start:** Rubén bought a prepaid card at a pharmacy, uses it with an app, and his money is held by a bank he has never seen. When a charge he didn't recognize showed up, he didn't know who to call. In this lesson you'll learn to identify who is responsible for each service you use.
 
 ### The essentials (5 minutes)
 
@@ -139,7 +139,7 @@ If they can't answer clearly, it's a sign to look for another option.
 
 **Case 1. The pharmacy card**
 
-Luis bought a prepaid card at a pharmacy. A charge he doesn't recognize shows up. At the pharmacy they tell him they can't help.
+Rubén bought a prepaid card at a pharmacy. A charge he doesn't recognize shows up. At the pharmacy they tell him they can't help.
 - *Who should he call?* The issuing bank shown on the back of the card, at the number printed there.
 - *What should he keep?* The report number and the date of his call.
 
@@ -169,7 +169,7 @@ Daniela receives payments for her cakes in an app. The app says it "works with b
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -268,7 +268,7 @@ If the app is your only way in, you need a plan B: a physical card, a branch, a 
 
 #### A case in one minute
 
-Luis gets paid through payroll and pays for almost everything with his phone. He opened an account in an app because he didn't have to go to a branch.
+Rubén gets paid through payroll and pays for almost everything with his phone. He opened an account in an app because he didn't have to go to a branch.
 
 He read the terms and found the name of the partner bank. He looked it up on BankFind: it was insured. He also asked for a physical card and wrote the help line down on paper.
 
@@ -366,9 +366,9 @@ An app tells Daniela that her money is protected because it "works with banks."
 - *What else does she ask?* Whether her money is held in her name at that bank and how she'd get it back if the app shuts down.
 
 
-**Case 2. Luis's phone**
+**Case 2. Rubén's phone**
 
-Luis lost his phone, and an app was his only way to reach his money.
+Rubén lost his phone, and an app was his only way to reach his money.
 - *What did he learn?* To ask for a physical card and to keep the app's help line written down on paper.
 
 
@@ -391,7 +391,7 @@ A credit union asks Mar for 5 dollars to become a member.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -440,7 +440,7 @@ Check on BankFind or NCUA where your money is. Save the search and the date.
 
 **What you will be able to do:** Learn which documents banks, credit unions and money transmitters usually accept, and how to get the ones you're missing without risk.
 
-**To start:** Luis went to open an account with his passport and was told no. At another bank, with the same documents, they opened it in twenty minutes. It wasn't him: each institution accepts different documents. In this lesson you'll learn what to ask before you go.
+**To start:** Rubén went to open an account with his passport and was told no. At another bank, with the same documents, they opened it in twenty minutes. It wasn't him: each institution accepts different documents. In this lesson you'll learn what to ask before you go.
 
 ### The essentials (5 minutes)
 
@@ -578,9 +578,9 @@ If you feel you were denied a service for that reason, you can contact the Calif
 #### Cases
 
 
-**Case 1. Luis and the branch account**
+**Case 1. Rubén and the branch account**
 
-Luis has a passport and a consular ID, but no SSN or ITIN. He calls two banks and a credit union.
+Rubén has a passport and a consular ID, but no SSN or ITIN. He calls two banks and a credit union.
 - *What does he find out?* One bank accepts his combination at a branch, the other requires an SSN, and the credit union accepts it if he becomes a member.
 
 
@@ -609,7 +609,7 @@ Daniela's Salvadoran passport has expired.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -706,9 +706,9 @@ Ask your bank or credit union if they have a Bank On certified account.
 
 #### A case in one minute
 
-Luis compares two accounts. The first has no monthly fee, but charges 3.50 for each cash deposit at stores. The second charges 5 a month, but cash deposits at its ATMs cost nothing.
+Rubén compares two accounts. The first has no monthly fee, but charges 3.50 for each cash deposit at stores. The second charges 5 a month, but cash deposits at its ATMs cost nothing.
 
-Luis deposits cash about 3 times a month. With the first he'd pay 10.50 a month; with the second, 5.
+Rubén deposits cash about 3 times a month. With the first he'd pay 10.50 a month; with the second, 5.
 
 He chose the second, even though it "charges a fee," because for the way he uses money it's cheaper.
 
@@ -811,9 +811,9 @@ Mar's cousin asks her to add him to her account "to help him out."
 - *What does Mar do?* She looks for another way to help without giving him access to her account.
 
 
-**Case 3. Luis's cash**
+**Case 3. Rubén's cash**
 
-Luis gets paid through payroll, but his roommates pay him their share of the rent in cash.
+Rubén gets paid through payroll, but his roommates pay him their share of the rent in cash.
 - *What does he compare?* Where he can deposit cash at no cost near his home and his work.
 
 
@@ -830,7 +830,7 @@ Luis gets paid through payroll, but his roommates pay him their share of the ren
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -928,11 +928,11 @@ But if **you** send money by Zelle or an app to someone who tricked you, the rul
 
 #### A case in one minute
 
-Luis saw a used phone at a good price on social media. The seller asked him to pay by Zelle before shipping it. Luis paid 150 and the phone never arrived.
+Rubén saw a used phone at a good price on social media. The seller asked him to pay by Zelle before shipping it. Rubén paid 150 and the phone never arrived.
 
 He called his bank. They told him that, because he had authorized the payment, they couldn't give the money back, although they would report it.
 
-Since then, Luis only uses Zelle with people he knows and pays strangers for purchases with a credit card, which does have protection.
+Since then, Rubén only uses Zelle with people he knows and pays strangers for purchases with a credit card, which does have protection.
 
 
 
@@ -1026,9 +1026,9 @@ Starting balance 100, deposit 500, payments of 320 and 60. She expected 220 and 
 - *What does she do?* She looks for the 10 difference: it's a fee for using another bank's ATM.
 
 
-**Case 3. Luis's "seller"**
+**Case 3. Rubén's "seller"**
 
-Luis paid 150 by Zelle for a used phone that never arrived.
+Rubén paid 150 by Zelle for a used phone that never arrived.
 - *Must the bank give him the money back?* Usually not, because he authorized the payment. He can report it to the bank and the FTC, but getting it back is hard.
 - *What did he learn?* To pay strangers only with methods that have protection, like a credit card.
 
@@ -1046,7 +1046,7 @@ Luis paid 150 by Zelle for a used phone that never arrived.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1095,7 +1095,7 @@ CFPB, Regulation E (electronic transfers) · FTC, payment apps · CFPB, ways to 
 
 **What you will be able to do:** Identify the needs of the person receiving money and what you can keep up, so you can plan your remittances.
 
-**To start:** Every month, Luis's mom texts him asking for money, and every month Luis decides at the last minute how much to send. Some months he sends too much and comes up short on rent. In this lesson you'll learn to plan what you send so the support can continue.
+**To start:** Every month, Rubén's mom texts him asking for money, and every month Rubén decides at the last minute how much to send. Some months he sends too much and comes up short on rent. In this lesson you'll learn to plan what you send so the support can continue.
 
 ### The essentials (5 minutes)
 
@@ -1145,11 +1145,11 @@ Thinking in pesos, or the country's currency, helps you compare better and not c
 
 #### A case in one minute
 
-Every month, Luis's mom texted him asking for a different amount. Luis sent what he could at the moment, and sometimes he was short on rent.
+Every month, Rubén's mom texted him asking for a different amount. Rubén sent what he could at the moment, and sometimes he was short on rent.
 
 They talked on a video call. They agreed on 200 dollars on the 15th for food, and that his mom would let him know a month ahead if a school expense for his sister was coming.
 
-Now Luis has it on his calendar and his mom knows what she can count on each month.
+Now Rubén has it on his calendar and his mom knows what she can count on each month.
 
 
 
@@ -1254,9 +1254,9 @@ She asks for 200 dollars every month for food, 120 at the start of her granddaug
 - *What does Alex do before deciding?* Verify the hospital amount and the alternatives.
 
 
-**Case 2. Luis's messages**
+**Case 2. Rubén's messages**
 
-Luis's mom texts him every month with a different amount.
+Rubén's mom texts him every month with a different amount.
 - *What changes?* They agree on a regular amount on the 15th and to give two weeks' notice if a foreseeable expense is coming.
 
 
@@ -1279,7 +1279,7 @@ Daniela sends money to her sister in San Salvador for her niece's school.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1495,10 +1495,10 @@ Mar has 900. She needs 650 until her next paycheck, 80 for her tax savings and 5
 - *What can she do?* Send 120 now and the rest when she gets paid again, letting her mother-in-law know.
 
 
-**Case 3. Luis's brothers**
+**Case 3. Rubén's brothers**
 
-Luis and his brother, who lives in Texas, support their mom in Oaxaca.
-- *What do they agree on?* Luis sends on the 15th and his brother on the 30th. That way their mom receives money twice a month and neither of them is squeezed.
+Rubén and his brother, who lives in Texas, support their mom in Oaxaca.
+- *What do they agree on?* Rubén sends on the 15th and his brother on the 30th. That way their mom receives money twice a month and neither of them is squeezed.
 
 
 #### Common mistakes
@@ -1514,7 +1514,7 @@ Luis and his brother, who lives in Texas, support their mom in Oaxaca.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1561,7 +1561,7 @@ CFPB, remittances · CFPB, Your Money, Your Goals.
 
 **What you will be able to do:** Compare transfers by what comes out of your pocket and what reaches your family.
 
-**To start:** Luis switched money transmitters because the new one said "no fee." A month later, his mom told him fewer pesos were arriving. They didn't charge him a fee, but they gave him a worse exchange rate. In this lesson you'll learn to really compare transfers.
+**To start:** Rubén switched money transmitters because the new one said "no fee." A month later, his mom told him fewer pesos were arriving. They didn't charge him a fee, but they gave him a worse exchange rate. In this lesson you'll learn to really compare transfers.
 
 ### The essentials (5 minutes)
 
@@ -1711,9 +1711,9 @@ Save on your phone a screenshot of each quote and each receipt.
 #### Cases
 
 
-**Case 1. Luis's promotion**
+**Case 1. Rubén's promotion**
 
-Luis is offered "first transfer with no fee and a better exchange rate." The second month, the same app delivers fewer pesos than his previous option.
+Rubén is offered "first transfer with no fee and a better exchange rate." The second month, the same app delivers fewer pesos than his previous option.
 - *What does he do?* He compares three quotes from the same day with the same base.
 
 
@@ -1742,7 +1742,7 @@ Daniela sends money to El Salvador, which uses the dollar.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1831,7 +1831,7 @@ You can look them up in the DFPI directory or on NMLS Consumer Access. A company
 
 #### A case in one minute
 
-Luis sent money to his mom and, five minutes later, realized he had typed the wrong amount.
+Rubén sent money to his mom and, five minutes later, realized he had typed the wrong amount.
 
 Since 30 minutes hadn't passed and his mom hadn't picked it up, he called the money transmitter and canceled the transfer at no cost. He sent it again with the right amount.
 
@@ -1943,7 +1943,7 @@ Alex's receipt says the money would be available on Monday. On Tuesday it isn't 
 
 **Case 2. The money transmitter at the market**
 
-A shop offers Luis an excellent exchange rate. Luis looks up the name in the DFPI directory and it isn't there.
+A shop offers Rubén an excellent exchange rate. Rubén looks up the name in the DFPI directory and it isn't there.
 - *What does he decide?* Not to use it. Without a license, he has nowhere to complain if something goes wrong.
 
 
@@ -1966,7 +1966,7 @@ Daniela wrote her sister's last name with a different letter. Her sister couldn'
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2172,9 +2172,9 @@ Mar uses an app that advances her pay for a "voluntary tip" of 5 each time. She 
 - *How much does it cost her?* 20 a month to get her own money early.
 
 
-**Case 3. Luis's card**
+**Case 3. Rubén's card**
 
-Luis paid for a transfer with his credit card.
+Rubén paid for a transfer with his credit card.
 - *What should he check?* Whether the bank charged it as a cash advance, with a fee and interest from day one.
 
 
@@ -2191,7 +2191,7 @@ Luis paid for a transfer with his credit card.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2393,10 +2393,10 @@ Alex and Alex's mom agree: food, between 150 and 180 dollars, on the 15th. Emerg
 - *What do they add after this lesson?* A family code word.
 
 
-**Case 3. Luis's code word**
+**Case 3. Rubén's code word**
 
-Luis gets a call with a voice just like his mom's, asking him for money for a doctor.
-- *What does he do?* He asks for the code word. The voice hesitates and hangs up. Luis calls his mom, who was at home with no problem at all.
+Rubén gets a call with a voice just like his mom's, asking him for money for a doctor.
+- *What does he do?* He asks for the code word. The voice hesitates and hangs up. Rubén calls his mom, who was at home with no problem at all.
 
 
 #### Common mistakes
@@ -2412,7 +2412,7 @@ Luis gets a call with a voice just like his mom's, asking him for money for a do
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2506,7 +2506,7 @@ If land is bought in someone else's name, your transfer receipt proves you sent 
 
 #### A case in one minute
 
-Luis wants to save 20,000 pesos in a year so his mom can fix the roof of her house in Oaxaca.
+Rubén wants to save 20,000 pesos in a year so his mom can fix the roof of her house in Oaxaca.
 
 He does the math at 16.5 pesos per dollar: he needs 1,212.12 dollars, about 101 a month. If the dollar goes up, he finishes sooner; if it goes down, he already has a margin.
 
@@ -2613,9 +2613,9 @@ Mar sent money for three years for land that's in her brother's name. Now she wa
 - *What should she have done?* Agree in writing, before a notario, what her share was before sending.
 
 
-**Case 3. Luis's parents' house**
+**Case 3. Rubén's parents' house**
 
-Luis wants to help fix his parents' house in Oaxaca.
+Rubén wants to help fix his parents' house in Oaxaca.
 - *What does he ask first?* Whose name the house is in and whether his siblings will also chip in, to make it clear from the start.
 
 
@@ -2632,7 +2632,7 @@ Luis wants to help fix his parents' house in Oaxaca.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2829,7 +2829,7 @@ Payroll check, cashing at a store, paying for the remittance in cash.
 
 **Case 2. The promotion that ended**
 
-Luis's provider was the best with the introductory promotion, but now delivers less than another one with the same budget.
+Rubén's provider was the best with the introductory promotion, but now delivers less than another one with the same budget.
 - *What does he do?* He switches providers and double-checks his mom's information before the first transfer.
 
 
@@ -2852,7 +2852,7 @@ Daniela is paid by the hour and by order. She sends money to her sister every mo
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Alex. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 

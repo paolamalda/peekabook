@@ -35,9 +35,10 @@ Programa de bienestar financiero para personas adultas mayores: proteger la pens
 4. **Programa de bienestar financiero:** así se nombra en todos los materiales.
 5. **Nada es gratis ni se regala:** los trámites públicos se describen como «sin costo».
 6. **Cada dato con fecha y fuente**; donde dos fuentes oficiales difieren, se citan ambas.
-7. **Protección antes que crédito:** el programa no promueve préstamos; explica sus límites y riesgos.
-8. **Letra grande y ritmo lento:** cada sesión repasa lo anterior y deja una sola tarea.
-9. **La persona decide:** el acompañante apoya, no decide por ella.
+7. **Nombres que no se usan para personajes:** Jorge, José, Ángeles, David, Luis, Ana, Jonathan, Paola, Ernesto, Marisa, Tomás, Leonardo, Esther, Liliana y Alberto (la verificación del generador los detecta).
+8. **Protección antes que crédito:** el programa no promueve préstamos; explica sus límites y riesgos.
+9. **Letra grande y ritmo lento:** cada sesión repasa lo anterior y deja una sola tarea.
+10. **La persona decide:** el acompañante apoya, no decide por ella.
 
 ## Personajes
 

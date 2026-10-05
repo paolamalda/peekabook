@@ -8,11 +8,11 @@ CASOS = {
 ],
 "M1 U02": [
  ("Divide lo anual entre 12 y lo aparta.", "Sigue usando su ahorro cada enero.", "Pide un préstamo en diciembre para enero."),
- ("Revisa tres meses de estados de cuenta.", "Usa los 40 mil que calcula Jorge porque él lleva las cuentas.", "Calcula a ojo lo que cree que gasta."),
+ ("Revisa tres meses de estados de cuenta.", "Usa los 40 mil que calcula Arturo porque él lleva las cuentas.", "Calcula a ojo lo que cree que gasta."),
  ("Ajusta gastos y deja de usar la tarjeta.", "Sigue cubriendo la diferencia con la tarjeta.", "Pide un aumento de límite para estar tranquila."),
 ],
 "M1 U03": [
- ("Propone una cita con una meta común.", "Revisa a escondidas los papeles de Jorge.", "Espera a que Jorge saque el tema algún día."),
+ ("Propone una cita con una meta común.", "Revisa a escondidas los papeles de Arturo.", "Espera a que Arturo saque el tema algún día."),
  ("Abre una cuenta a su nombre.", "Sigue depositando en la cuenta del esposo.", "Guarda lo que gana en efectivo en casa."),
  ("Revisa su acta y consulta si hay dudas.", "Supone que todo fue en sociedad conyugal.", "Pregunta a una amiga qué régimen tuvo ella."),
 ],
@@ -173,7 +173,7 @@ CASOS = {
 ],
 "M7 U01": [
  ("Consulta sus semanas y su AFORE.", "Da por hecho que no tiene nada.", "Paga a un gestor para que lo averigüe."),
- ("Revisa con Jorge sus documentos y beneficiarios.", "Supone que por estar casada ya aparece.", "Espera a que Jorge se jubile para preguntar por los beneficiarios."),
+ ("Revisa con Arturo sus documentos y beneficiarios.", "Supone que por estar casada ya aparece.", "Espera a que Arturo se jubile para preguntar por los beneficiarios."),
  ("Revisa los requisitos de Mujeres Bienestar.", "Espera a cumplir 65 para preguntar.", "Paga a quien le ofrece registrarla."),
 ],
 "M7 U02": [
@@ -188,7 +188,7 @@ CASOS = {
 ],
 "M7 U04": [
  ("Se registra en el módulo oficial.", "Supone que no puede por tener viudez.", "Paga a un gestor para registrarse."),
- ("La tramita y la guarda en su carpeta.", "Espera a necesitarla para buscarla.", "Le pide a Jorge que la guarde él."),
+ ("La tramita y la guarda en su carpeta.", "Espera a necesitarla para buscarla.", "Le pide a Arturo que la guarde él."),
  ("Cuelga: el registro no tiene costo.", "Paga para que le aumenten la pensión.", "Da los datos de su tarjeta para el depósito."),
 ],
 "M7 U05": [

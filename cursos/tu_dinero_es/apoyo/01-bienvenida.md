@@ -63,7 +63,7 @@ Este programa te enseña a entender, comparar y preparar preguntas. Para un caso
 A lo largo del programa acompañarás a seis personas. Sus decisiones, errores y aciertos te ayudarán a practicar. Son personajes inventados: cualquier parecido con personas reales es coincidencia.
 
 - **Alex y Mar** viven en Los Ángeles con sus dos hijos. Alex cobra por nómina cada dos semanas y algunos fines de semana hace trabajos por su cuenta. Mar cobra cada semana y recibe la mayor parte de sus propinas en efectivo. Envían dinero a la mamá de Alex en Michoacán.
-- **Luis** tiene 24 años, llegó de Oaxaca hace dos años y trabaja en un almacén. Le envía dinero a su mamá y está empezando su historial de crédito.
+- **Rubén** tiene 24 años, llegó de Oaxaca hace dos años y trabaja en un almacén. Le envía dinero a su mamá y está empezando su historial de crédito.
 - **Daniela** es de San Salvador y vive en San Diego con su hijo. Trabaja por horas y tiene un negocio de pasteles por encargo.
 - **Rosa** tiene 61 años, trabajó en Guadalajara y vive en Fresno con su hija y sus nietos. Piensa en su salud y su retiro.
 - **Andrés** es de León, Guanajuato, y vive en Sacramento con su esposa y su hija. Quiere comprar casa.

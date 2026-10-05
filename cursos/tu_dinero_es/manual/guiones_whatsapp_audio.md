@@ -65,7 +65,7 @@ Lección: [por definir]
 
 **Audio** (131 palabras, unos 55 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué necesito cuidar primero? A Luis le quedan 60 dólares hasta el próximo pago. Su mamá necesita medicina, se le rompieron los zapatos de trabajo y un amigo lo invita a un concierto. Todo parece importante. En esta lección aprenderás un método sencillo para decidir qué va primero. No hay gastos "buenos" o "malos" para todos. Hay decisiones que protegen lo que a ti te importa. Recuerda: Primero lo que protege tu vivienda, tu comida, tu salud y tu trabajo. "Si hago esto, pospongo aquello" hace visible lo que dejas. Una regla de pausa te protege de las decisiones por presión. Tu paso de esta semana: Escribe tus tres prioridades y una regla de pausa. No necesitas compartir experiencias personales. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué necesito cuidar primero? A Rubén le quedan 60 dólares hasta el próximo pago. Su mamá necesita medicina, se le rompieron los zapatos de trabajo y un amigo lo invita a un concierto. Todo parece importante. En esta lección aprenderás un método sencillo para decidir qué va primero. No hay gastos "buenos" o "malos" para todos. Hay decisiones que protegen lo que a ti te importa. Recuerda: Primero lo que protege tu vivienda, tu comida, tu salud y tu trabajo. "Si hago esto, pospongo aquello" hace visible lo que dejas. Una regla de pausa te protege de las decisiones por presión. Tu paso de esta semana: Escribe tus tres prioridades y una regla de pausa. No necesitas compartir experiencias personales. Nos escuchamos en la próxima lección.
 
 ### M1 U04 · ¿Cobrar cada semana es lo mismo que cobrar cada mes?
 
@@ -107,7 +107,7 @@ Lección: [por definir]
 
 **Audio** (121 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: ¿Por qué me depositan menos de lo que gané? Luis trabajó toda la semana y esperaba 700 dólares. Le depositaron 565. No sabe si es un error o si así debe ser. En esta lección aprenderás a leer tu recibo de pago línea por línea. En California tu patrón debe darte un recibo con el detalle de tu pago. Guárdalos todos. Recuerda: Planea con tu ingreso neto. Guarda tus recibos y lleva tu registro de horas. Pregunta por escrito cualquier descuento que no entiendas. Tu paso de esta semana: Crea una carpeta de recibos de pago y un registro de horas. Anota una pregunta sobre una prestación que no entiendas. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Por qué me depositan menos de lo que gané? Rubén trabajó toda la semana y esperaba 700 dólares. Le depositaron 565. No sabe si es un error o si así debe ser. En esta lección aprenderás a leer tu recibo de pago línea por línea. En California tu patrón debe darte un recibo con el detalle de tu pago. Guárdalos todos. Recuerda: Planea con tu ingreso neto. Guarda tus recibos y lleva tu registro de horas. Pregunta por escrito cualquier descuento que no entiendas. Tu paso de esta semana: Crea una carpeta de recibos de pago y un registro de horas. Anota una pregunta sobre una prestación que no entiendas. Nos escuchamos en la próxima lección.
 
 ### M1 U06 · ¿Una compra pequeña puede sumar mucho?
 
@@ -128,7 +128,7 @@ Lección: [por definir]
 
 **Audio** (117 palabras, unos 49 segundos)
 
-Hola. Hoy hablamos de esto: ¿Una compra pequeña puede sumar mucho? Luis revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "sin costo" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena. Ajusta donde el cambio es real y sostenible, no donde te hace sentir culpa. Recuerda: Registra antes de juzgar un gasto. Revisa primero los gastos grandes. Cancela las suscripciones con el proveedor y guarda el comprobante. Tu paso de esta semana: Elige un gasto para reducir, uno para cancelar y uno para conservar, y escribe por qué. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Una compra pequeña puede sumar mucho? Rubén revisó su estado de cuenta y encontró un cargo de 12.99 de una app que probó "sin costo" hace ocho meses. Nunca la usó. En esta lección aprenderás a encontrar los gastos que se repiten y a decidir cuáles valen la pena. Ajusta donde el cambio es real y sostenible, no donde te hace sentir culpa. Recuerda: Registra antes de juzgar un gasto. Revisa primero los gastos grandes. Cancela las suscripciones con el proveedor y guarda el comprobante. Tu paso de esta semana: Elige un gasto para reducir, uno para cancelar y uno para conservar, y escribe por qué. Nos escuchamos en la próxima lección.
 
 ### M1 U07 · ¿Por qué me falta dinero si este mes gano suficiente?
 
@@ -254,7 +254,7 @@ Lección: [por definir]
 
 **Audio** (127 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cómo elijo a alguien que me ayude con impuestos? Luis vio un anuncio en redes: "Reembolso de 3,000 garantizado". Le pedían firmar antes de revisar sus papeles. Algo no le cuadró. En esta lección aprenderás a elegir quién te ayuda con tus impuestos y a detectar señales de alarma. Nunca firmes algo que no has leído. Tú eres responsable de lo que dice tu declaración. Recuerda: Compara lo que incluye el precio, no solo el precio. Verifica el PTIN y el registro en CTEC. Nunca firmes en blanco ni dejes que el reembolso vaya a otra cuenta. Tu paso de esta semana: Compara dos servicios y una opción sin costo. Anota qué confirmaste y qué falta. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cómo elijo a alguien que me ayude con impuestos? Rubén vio un anuncio en redes: "Reembolso de 3,000 garantizado". Le pedían firmar antes de revisar sus papeles. Algo no le cuadró. En esta lección aprenderás a elegir quién te ayuda con tus impuestos y a detectar señales de alarma. Nunca firmes algo que no has leído. Tú eres responsable de lo que dice tu declaración. Recuerda: Compara lo que incluye el precio, no solo el precio. Verifica el PTIN y el registro en CTEC. Nunca firmes en blanco ni dejes que el reembolso vaya a otra cuenta. Tu paso de esta semana: Compara dos servicios y una opción sin costo. Anota qué confirmaste y qué falta. Nos escuchamos en la próxima lección.
 
 ### M1 U13 · ¿Qué debo saber antes de pedir un apoyo público?
 
@@ -296,7 +296,7 @@ Lección: [por definir]
 
 **Audio** (146 palabras, unos 61 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cómo convierto lo aprendido en algo que sí puedo hacer? Luis terminó el módulo con muchas ideas: hacer un calendario, ahorrar, revisar sus impuestos. Una semana después no había hecho nada. No le faltaron ganas: le faltó convertirlas en pasos. En esta lección aprenderás a hacer un plan que sí se cumple. Un plan que se ajusta es un plan que funciona. Recuerda: Cada meta necesita acción, fecha y evidencia. Pocas prioridades, bien elegidas. Revisa y ajusta tu plan cada 30 días. Tu paso de esta semana: Entrega tu expediente del Módulo 1: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días. Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tienes. Resuelve también el caso integrador E1 al final del manual. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cómo convierto lo aprendido en algo que sí puedo hacer? Rubén terminó el módulo con muchas ideas: hacer un calendario, ahorrar, revisar sus impuestos. Una semana después no había hecho nada. No le faltaron ganas: le faltó convertirlas en pasos. En esta lección aprenderás a hacer un plan que sí se cumple. Un plan que se ajusta es un plan que funciona. Recuerda: Cada meta necesita acción, fecha y evidencia. Pocas prioridades, bien elegidas. Revisa y ajusta tu plan cada 30 días. Tu paso de esta semana: Entrega tu expediente del Módulo 1: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días. Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tienes. Resuelve también el caso integrador E1 al final del manual. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Entiende el sistema financiero y planea tus remesas
 
@@ -319,7 +319,7 @@ Lección: [por definir]
 
 **Audio** (140 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: ¿Quién cuida mi dinero y quién me presta el servicio? Luis compró una tarjeta prepagada en una farmacia, la usa con una app y el dinero lo guarda un banco que nunca ha visto. Cuando apareció un cargo que no reconocía, no supo a quién llamar. En esta lección aprenderás a identificar quién responde por cada servicio que usas. Estar registrada ante un regulador indica que una empresa existe y está autorizada. No significa que cualquier oferta suya te convenga. Recuerda: El logotipo no siempre es quien responde: busca el nombre legal. Guarda el contacto oficial de cada servicio que usas. Registro ante un regulador no es garantía de buena oferta. Tu paso de esta semana: Arma tu mapa de servicios: qué usas, quién responde y su contacto oficial. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Quién cuida mi dinero y quién me presta el servicio? Rubén compró una tarjeta prepagada en una farmacia, la usa con una app y el dinero lo guarda un banco que nunca ha visto. Cuando apareció un cargo que no reconocía, no supo a quién llamar. En esta lección aprenderás a identificar quién responde por cada servicio que usas. Estar registrada ante un regulador indica que una empresa existe y está autorizada. No significa que cualquier oferta suya te convenga. Recuerda: El logotipo no siempre es quien responde: busca el nombre legal. Guarda el contacto oficial de cada servicio que usas. Registro ante un regulador no es garantía de buena oferta. Tu paso de esta semana: Arma tu mapa de servicios: qué usas, quién responde y su contacto oficial. Nos escuchamos en la próxima lección.
 
 ### M2 U02 · ¿Una app de dinero es siempre un banco?
 
@@ -361,7 +361,7 @@ Lección: [por definir]
 
 **Audio** (130 palabras, unos 54 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué identificación me sirve para trámites financieros? Luis fue a abrir una cuenta con su pasaporte y le dijeron que no. En otro banco, con los mismos documentos, se la abrieron en veinte minutos. No era él: cada institución acepta documentos distintos. En esta lección aprenderás qué preguntar antes de ir. Si un banco dice que no, pregunta en otro. Las cooperativas y las cuentas Bank On suelen aceptar más combinaciones de documentos. Recuerda: Cada institución acepta documentos distintos: pregunta antes. Tramita documentos solo por vías oficiales y sin costo. No mandes fotos de tu identificación a desconocidos. Tu paso de esta semana: Haz tu kit de documentos: qué tienes, qué está por vencer y qué te falta tramitar. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué identificación me sirve para trámites financieros? Rubén fue a abrir una cuenta con su pasaporte y le dijeron que no. En otro banco, con los mismos documentos, se la abrieron en veinte minutos. No era él: cada institución acepta documentos distintos. En esta lección aprenderás qué preguntar antes de ir. Si un banco dice que no, pregunta en otro. Las cooperativas y las cuentas Bank On suelen aceptar más combinaciones de documentos. Recuerda: Cada institución acepta documentos distintos: pregunta antes. Tramita documentos solo por vías oficiales y sin costo. No mandes fotos de tu identificación a desconocidos. Tu paso de esta semana: Haz tu kit de documentos: qué tienes, qué está por vencer y qué te falta tramitar. Nos escuchamos en la próxima lección.
 
 ### M2 U04 · ¿Qué necesito para abrir una cuenta y cuánto cuesta mantenerla?
 
@@ -424,7 +424,7 @@ Lección: [por definir]
 
 **Audio** (120 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cómo apoyo a mi familia sin decidir a última hora? Cada mes, la mamá de Luis le escribe pidiendo dinero, y cada mes Luis decide de último momento cuánto mandar. Algunos meses manda de más y le falta para la renta. En esta lección aprenderás a planear tus envíos para que el apoyo pueda continuar. Separa lo que es habitual de lo que es emergencia. No todo lo urgente es emergencia. Recuerda: Pregunta monto, moneda y fecha. Clasifica: habitual, previsible, emergencia o proyecto. Acuerda solo lo que puedes sostener. Tu paso de esta semana: Haz un mapa de tus envíos: persona, propósito, frecuencia y rango. Puedes usar nombres inventados. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cómo apoyo a mi familia sin decidir a última hora? Cada mes, la mamá de Rubén le escribe pidiendo dinero, y cada mes Rubén decide de último momento cuánto mandar. Algunos meses manda de más y le falta para la renta. En esta lección aprenderás a planear tus envíos para que el apoyo pueda continuar. Separa lo que es habitual de lo que es emergencia. No todo lo urgente es emergencia. Recuerda: Pregunta monto, moneda y fecha. Clasifica: habitual, previsible, emergencia o proyecto. Acuerda solo lo que puedes sostener. Tu paso de esta semana: Haz un mapa de tus envíos: persona, propósito, frecuencia y rango. Puedes usar nombres inventados. Nos escuchamos en la próxima lección.
 
 ### M2 U07 · ¿Cuánto puedo enviar y cuándo?
 
@@ -466,7 +466,7 @@ Lección: [por definir]
 
 **Audio** (129 palabras, unos 54 segundos)
 
-Hola. Hoy hablamos de esto: ¿Sin comisión siempre llega más dinero? Luis cambió de remesadora porque la nueva decía "sin comisión". Al mes, su mamá le dijo que le estaban llegando menos pesos. No le cobraban comisión, pero le daban un tipo de cambio peor. En esta lección aprenderás a comparar envíos de verdad. Si pagas tus envíos en efectivo en una tienda, compara con pagarlos desde una cuenta. Ahorras el 1% y, muchas veces, comisiones. Recuerda: Compara cuánto llega, no solo la comisión. Usa siempre la misma base para comparar. Pagar desde una cuenta evita el impuesto de 1% en efectivo. Tu paso de esta semana: Compara tres cotizaciones del mismo día con la misma base y el mismo tiempo de entrega. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Sin comisión siempre llega más dinero? Rubén cambió de remesadora porque la nueva decía "sin comisión". Al mes, su mamá le dijo que le estaban llegando menos pesos. No le cobraban comisión, pero le daban un tipo de cambio peor. En esta lección aprenderás a comparar envíos de verdad. Si pagas tus envíos en efectivo en una tienda, compara con pagarlos desde una cuenta. Ahorras el 1% y, muchas veces, comisiones. Recuerda: Compara cuánto llega, no solo la comisión. Usa siempre la misma base para comparar. Pagar desde una cuenta evita el impuesto de 1% en efectivo. Tu paso de esta semana: Compara tres cotizaciones del mismo día con la misma base y el mismo tiempo de entrega. Nos escuchamos en la próxima lección.
 
 ### M2 U09 · ¿Qué reviso antes de enviar y qué hago si algo falla?
 
@@ -636,7 +636,7 @@ Lección: [por definir]
 
 **Audio** (122 palabras, unos 51 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cómo empiezo si no tengo historial? Luis quiere rentar su propio departamento, pero el dueño le pide historial de crédito. Nunca ha tenido una tarjeta: siempre paga en efectivo o con su app. No sabe por dónde empezar. En esta lección conocerás las formas más seguras de crear historial. Un producto que no reporta a las agencias de crédito no te construye historial, aunque pagues puntual. Recuerda: Elige productos que reporten a las tres agencias. No bloquees tu dinero de emergencias. Paga el saldo completo cada mes. Tu paso de esta semana: Compara dos productos y la opción de esperar para fortalecer tu reserva. Anota cuál reporta y cuánto dinero bloquea. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cómo empiezo si no tengo historial? Rubén quiere rentar su propio departamento, pero el dueño le pide historial de crédito. Nunca ha tenido una tarjeta: siempre paga en efectivo o con su app. No sabe por dónde empezar. En esta lección conocerás las formas más seguras de crear historial. Un producto que no reporta a las agencias de crédito no te construye historial, aunque pagues puntual. Recuerda: Elige productos que reporten a las tres agencias. No bloquees tu dinero de emergencias. Paga el saldo completo cada mes. Tu paso de esta semana: Compara dos productos y la opción de esperar para fortalecer tu reserva. Anota cuál reporta y cuánto dinero bloquea. Nos escuchamos en la próxima lección.
 
 ### M3 U04 · ¿Mejorar mi crédito significa borrar todo?
 
@@ -783,7 +783,7 @@ Lección: [por definir]
 
 **Audio** (137 palabras, unos 57 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuál es mi siguiente paso con el crédito? Luis no tiene historial. Andrés tiene un error en su reporte. Mar tiene una tarjeta con saldo alto. Daniela tiene una cuenta en cobranza. Los cuatro quieren "mejorar su crédito", pero cada uno necesita algo distinto. En esta lección elegirás tu propia ruta. Pedir ayuda a tiempo es una habilidad, no un fracaso. Recuerda: Identifica tu situación antes de actuar. Mide tus acciones, no solo tu puntaje. Revisa tu plan a los 30 y 90 días. Tu paso de esta semana: Entrega tu expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos. Resuelve también el caso integrador E3 al final del manual. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuál es mi siguiente paso con el crédito? Rubén no tiene historial. Andrés tiene un error en su reporte. Mar tiene una tarjeta con saldo alto. Daniela tiene una cuenta en cobranza. Los cuatro quieren "mejorar su crédito", pero cada uno necesita algo distinto. En esta lección elegirás tu propia ruta. Pedir ayuda a tiempo es una habilidad, no un fracaso. Recuerda: Identifica tu situación antes de actuar. Mide tus acciones, no solo tu puntaje. Revisa tu plan a los 30 y 90 días. Tu paso de esta semana: Entrega tu expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos. Resuelve también el caso integrador E3 al final del manual. Nos escuchamos en la próxima lección.
 
 ## Módulo 4. Protege tu dinero, tu identidad y tu familia
 
@@ -1039,7 +1039,7 @@ Lección: [por definir]
 
 **Audio** (114 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cómo convierto un deseo en una meta? Luis quiere estudiar inglés, ayudar a su mamá a arreglar su casa y algún día comprar un auto. Tiene muchas ganas, pero cada mes el dinero se va y ninguna meta avanza. En esta lección aprenderás a convertir deseos en metas que sí puedes alcanzar. Una meta tiene monto, fecha, moneda y prioridad. Recuerda: Convierte cada deseo en monto, fecha, moneda y prioridad. Calcula cuánto apartar cada mes. Si no alcanza, cambia plazos o prioridades. Tu paso de esta semana: Escribe tus tres metas y cuánto apartarás para cada una. Revisa si caben en tu presupuesto. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cómo convierto un deseo en una meta? Rubén quiere estudiar inglés, ayudar a su mamá a arreglar su casa y algún día comprar un auto. Tiene muchas ganas, pero cada mes el dinero se va y ninguna meta avanza. En esta lección aprenderás a convertir deseos en metas que sí puedes alcanzar. Una meta tiene monto, fecha, moneda y prioridad. Recuerda: Convierte cada deseo en monto, fecha, moneda y prioridad. Calcula cuánto apartar cada mes. Si no alcanza, cambia plazos o prioridades. Tu paso de esta semana: Escribe tus tres metas y cuánto apartarás para cada una. Revisa si caben en tu presupuesto. Nos escuchamos en la próxima lección.
 
 ### M5 U02 · ¿Tener más dinero significa que mi inversión ganó?
 
@@ -1123,7 +1123,7 @@ Lección: [por definir]
 
 **Audio** (116 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: ¿El precio anunciado es todo lo que cuesta? Luis vio un auto con un anuncio de "solo 280 al mes". Le pareció perfecto. Cuando sumó el seguro, la gasolina y el mantenimiento, el auto le costaba 650 al mes. En esta lección aprenderás a ver todo lo que cuesta algo antes de comprarlo. Compara siempre con la misma lista de costos. Recuerda: Suma todos los costos, no solo el pago. Compara con la misma lista. Verifica que un curso sea real antes de pagar. Tu paso de esta semana: Compara dos alternativas y la opción de esperar. Anota al menos cinco costos y una contingencia. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿El precio anunciado es todo lo que cuesta? Rubén vio un auto con un anuncio de "solo 280 al mes". Le pareció perfecto. Cuando sumó el seguro, la gasolina y el mantenimiento, el auto le costaba 650 al mes. En esta lección aprenderás a ver todo lo que cuesta algo antes de comprarlo. Compara siempre con la misma lista de costos. Recuerda: Suma todos los costos, no solo el pago. Compara con la misma lista. Verifica que un curso sea real antes de pagar. Tu paso de esta semana: Compara dos alternativas y la opción de esperar. Anota al menos cinco costos y una contingencia. Nos escuchamos en la próxima lección.
 
 ### M5 U06 · ¿De qué viviré cuando trabaje menos o deje de trabajar?
 
@@ -1186,7 +1186,7 @@ Lección: [por definir]
 
 **Audio** (127 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué pasa con mi familia si algo me pasa? Luis tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo. Si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar. Recuerda: Actualiza beneficiarios en cada cuenta. Haz un plan para tus hijos. Dile a alguien de confianza dónde están tus documentos. Tu paso de esta semana: Llena tu lista de documentos, actualiza un beneficiario esta semana y habla con la persona que cuidaría a tus hijos. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué pasa con mi familia si algo me pasa? Rubén tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo. Si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar. Recuerda: Actualiza beneficiarios en cada cuenta. Haz un plan para tus hijos. Dile a alguien de confianza dónde están tus documentos. Tu paso de esta semana: Llena tu lista de documentos, actualiza un beneficiario esta semana y habla con la persona que cuidaría a tus hijos. Nos escuchamos en la próxima lección.
 
 ### M5 U09 · ¿Cómo hago un plan cuando el ingreso cambia cada mes?
 
@@ -1249,7 +1249,7 @@ Lección: [por definir]
 
 **Audio** (110 palabras, unos 46 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuál es mi plan financiero? Llegaste al final del programa. Luis, Daniela, Andrés y Rosa tienen algo en común: todos empezaron con dudas y ahora tienen un plan. En esta lección harás el tuyo, en una sola página. No se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio. Recuerda: Tu plan cabe en una página. Escribe tres acciones con fecha. Revísalo cuando algo cambie. Tu paso de esta semana: Escribe tu plan de una página y ponle una fecha de revisión. ¡Felicidades por terminar el programa!. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuál es mi plan financiero? Llegaste al final del programa. Rubén, Daniela, Andrés y Rosa tienen algo en común: todos empezaron con dudas y ahora tienen un plan. En esta lección harás el tuyo, en una sola página. No se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio. Recuerda: Tu plan cabe en una página. Escribe tres acciones con fecha. Revísalo cuando algo cambie. Tu paso de esta semana: Escribe tu plan de una página y ponle una fecha de revisión. ¡Felicidades por terminar el programa!. Nos escuchamos en la próxima lección.
 
 ### M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?
 

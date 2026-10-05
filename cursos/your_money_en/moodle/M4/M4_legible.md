@@ -487,9 +487,9 @@ Don't install apps someone asks you to install during an unexpected call or pop-
 
 #### A case in one minute
 
-Luis turned on two-step verification for his email and his bank. A month later he got a message: "Someone tried to sign in to your account from another country."
+Rubén turned on two-step verification for his email and his bank. A month later he got a message: "Someone tried to sign in to your account from another country."
 
-Since they didn't have the second code, they couldn't get in. Luis changed his password and carried on calmly.
+Since they didn't have the second code, they couldn't get in. Rubén changed his password and carried on calmly.
 
 
 
@@ -1121,7 +1121,7 @@ If you have no margin today, the first step may be to stabilize your expenses an
 
 #### A case in one minute
 
-Luis started setting aside 10 dollars every Friday in a separate account. He didn't feel it. In six months he had 260.
+Rubén started setting aside 10 dollars every Friday in a separate account. He didn't feel it. In six months he had 260.
 
 When his phone broke, he paid for it with his savings, with no card and no loan.
 
@@ -2330,5 +2330,155 @@ Turn in your Module 4 file: five priority risks, a comparison of two coverages, 
 ### Sources
 
 Ready.gov · FTC, IdentityTheft.gov.
+
+---
+
+## M4 U12. How do I make sure child support reaches my kids?
+
+**What you will be able to do:** Learn what child support is in the U.S., how to request it through your state agency, how to pay it with proof and what to do if the other parent lives in Mexico.
+
+**To start:** Daniela is raising her son alone in San Diego. His father gives "when he can," in cash. Daniela is afraid to ask for more because she thinks her immigration status keeps her from going to a government office.
+
+### The essentials (5 minutes)
+
+#### The basics
+
+| Type | Description | What it means for you |
+|---|---|---|
+| It's your children's right | Not the mother's or father's. | Set with a state formula. |
+| Your state's child support agency | Helps establish, collect and record payments. | Low-cost services. |
+| Payment with proof | Through the agency or wage withholding. | Never cash without a receipt. |
+| If the other parent lives in Mexico | Ask your agency and your consulate. | There may be agreements. |
+
+#### How to request it
+
+Your state's child support agency can help establish paternity, set an amount with the state formula and collect it, often with a deduction straight from the other parent's wages. In general they serve parents regardless of immigration status; ask what documents they need.
+
+
+
+#### If you're the one paying
+
+Pay through the agency or wage withholding and keep proof. Cash or "side" payments may not count. If your income drops, request a modification; don't stop paying on your own.
+
+
+
+#### A case in one minute
+
+Daniela called her county's agency. They asked for her son's birth certificate and information about his father. Now the payment arrives through the agency every month and is recorded.
+
+> **Key idea:** child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof.
+
+
+
+#### Check your understanding
+
+1. Who helps establish and collect child support?
+*Answer:* Your state's child support agency.
+
+2. What do you do if you pay and your income drops?
+*Answer:* Request a modification; don't stop paying on your own.
+
+
+#### Remember
+
+- It's your children's right.
+- Your state agency helps.
+- Always pay with proof.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Between the U.S. and Mexico
+
+If the other parent lives in Mexico, tell your agency: some states have agreements with Mexico to collect child support. Your consulate can also guide you. If you live in the U.S. and your children live in Mexico, they can request child support (pensión alimenticia) before a judge there.
+
+
+
+#### If it isn't paid
+
+States can withhold wages, intercept tax refunds or suspend licenses of parents who don't pay. The debt doesn't disappear over time.
+
+
+
+#### Manage what you receive
+
+Record child support as your children's income and set aside the big yearly expenses (school, clothes, health).
+
+
+
+#### Cases
+
+
+**Case 1. "When I can"**
+
+The father of Daniela's son pays only when he can, in cash.
+- *What does Daniela do?* She calls her county's child support agency.
+
+
+**Case 2. Andrés's payments**
+
+Andrés pays child support for a daughter from a previous relationship, in cash and without a receipt.
+- *What does he do?* He pays through the agency or with proof.
+
+
+**Case 3. Rosa's grandson**
+
+The father of Rosa's grandson lives in Mexico and doesn't pay.
+- *What does Rosa's daughter do?* She asks her agency and her consulate about agreements with Mexico.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Thinking you can't request it | Your children lose their right | Ask your agency |
+| Paying cash without a receipt | It may not count | Pay with proof |
+| Stopping without a modification | The debt grows | Request a change |
+| Mixing it with everything | It doesn't last | Track it separately |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Daniela, Andrés and Rosa. Choose the best decision in each; if you miss, you can try again. Earns experience points.
+
+
+
+#### Quiz
+
+1. Whose right is child support? a) The children's · b) The receiving parent's · c) The state's
+2. How do you pay so it counts? a) In cash, hand to hand · b) Through the agency or wage withholding · c) Whenever you can
+3. Your income dropped and you pay child support. What do you do? a) Stop paying · b) Pay half · c) Request a modification
+**Answers:** 1-a: it's for what they need. 2-b: it gets recorded. 3-c: the debt continues until it's changed.
+
+
+
+#### Put it into practice
+
+Child support is 450 dollars a month. How much is it a year, and how many receipts do you keep?
+**Answer:** 450 × 12 = 5,400 dollars; 12 receipts.
+
+
+
+#### Your plan
+
+If you pay or receive child support, gather this year's receipts in a folder or in photos.
+
+
+
+### Learn more
+
+- **Child support** (Administration for Children and Families · English and Spanish): https://www.acf.hhs.gov/css | What to search: "state child support agency."
+- **Your consulate** (SRE · Spanish): https://consulmex.sre.gob.mx | What to search: "protección" and "pensión alimenticia."
+
+### Key words
+
+- *Child support:* payments from the parent who doesn't live with the children to cover their needs.
+- *Modification:* a change to the child support amount approved by the agency or the court.
+
+### Sources
+
+Office of Child Support Services (ACF) · SRE, accessed September 30, 2026.
 
 ---

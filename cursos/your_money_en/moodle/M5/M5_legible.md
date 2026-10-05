@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Measure your net worth and set goals with an amount, a date and a priority, without counting the same money twice.
 
-**To start:** Luis wants to study English, help his mom fix her house and someday buy a car. He's eager, but every month the money goes and no goal moves forward. In this lesson you'll learn to turn wishes into goals you can actually reach.
+**To start:** Rubén wants to study English, help his mom fix her house and someday buy a car. He's eager, but every month the money goes and no goal moves forward. In this lesson you'll learn to turn wishes into goals you can actually reach.
 
 ### The essentials (5 minutes)
 
@@ -44,7 +44,7 @@ You have to change amounts, deadlines or priorities. It's better to move forward
 
 #### A case in one minute
 
-Luis has 150 left over a month. His goals: a 600 English course in 12 months (50 a month), his mom's 1,200 roof in 12 months (100 a month) and a 3,000 car in 24 months (125 a month). That adds up to 275.
+Rubén has 150 left over a month. His goals: a 600 English course in 12 months (50 a month), his mom's 1,200 roof in 12 months (100 a month) and a 3,000 car in 24 months (125 a month). That adds up to 275.
 
 He decides to start with the course and the roof (150) and leave the car for when he finishes the course.
 
@@ -149,9 +149,9 @@ Andrés has a net worth of 2,500, but if a 2,300 bill arrives tomorrow, he can't
 - *What does he still need to check?* His liquidity: how much money he can use right away.
 
 
-**Case 3. Luis's goals**
+**Case 3. Rubén's goals**
 
-Luis has three goals that add up to 275 a month and only 150 left over.
+Rubén has three goals that add up to 275 a month and only 150 left over.
 - *What does he do?* He prioritizes two and puts off the third. He doesn't assign the same money to all three.
 
 
@@ -168,7 +168,7 @@ Luis has three goals that add up to 275 a month and only 150 left over.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -363,9 +363,9 @@ Andrés's retirement account went from 2,000 to 2,300, but he put in 250.
 - *How much did the investment earn?* 50.
 
 
-**Case 3. Luis's "average"**
+**Case 3. Rubén's "average"**
 
-A friend tells Luis that his investment "averaged 0%": it went up 20% and down 20%.
+A friend tells Rubén that his investment "averaged 0%": it went up 20% and down 20%.
 - *Did it stay the same?* No. From 1,000 it went to 960: it lost 4%.
 
 
@@ -382,7 +382,7 @@ A friend tells Luis that his investment "averaged 0%": it went up 20% and down 2
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Rosa and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Rosa and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -569,9 +569,9 @@ Andrés opened an IRA a year ago and his money is still in cash because he never
 - *What does he do?* He asks his plan administrator what options he has and chooses based on his time frame and risk.
 
 
-**Case 2. Luis's two funds**
+**Case 2. Rubén's two funds**
 
-Luis bought two "technology" funds that hold almost the same companies.
+Rubén bought two "technology" funds that hold almost the same companies.
 - *Did he diversify?* No. He doubled his risk in the same sector.
 
 
@@ -594,7 +594,7 @@ Daniela gets an offer of 20% a month in cryptocurrency.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -853,7 +853,7 @@ Keep your lease and your receipts. If you want to buy, make an appointment with 
 
 **What you will be able to do:** Compare a car or a course by its total cost and its flexibility.
 
-**To start:** Luis saw a car ad for "only 280 a month." It seemed perfect. When he added insurance, gas and maintenance, the car cost him 650 a month. In this lesson you'll learn to see everything something costs before you buy it.
+**To start:** Rubén saw a car ad for "only 280 a month." It seemed perfect. When he added insurance, gas and maintenance, the car cost him 650 a month. In this lesson you'll learn to see everything something costs before you buy it.
 
 ### The essentials (5 minutes)
 
@@ -865,7 +865,7 @@ The **total cost of ownership** includes everything you pay to own and use somet
 
 
 
-#### Luis's two cars
+#### Rubén's two cars
 
 | | Car A | Car B |
 |---|---|---|
@@ -999,7 +999,7 @@ Read the whole contract before signing. Some dealerships add optional products t
 #### Cases
 
 
-**Case 1. Luis's two cars**
+**Case 1. Rubén's two cars**
 
 Car A: total 650. Car B: total 600.
 - *What does he still need to check?* Total price, term, down payment, the car's condition and loss of value. The payment alone is misleading.
@@ -1030,7 +1030,7 @@ A dealership offers to lower Andrés's car payment by stretching the loan from 4
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1429,10 +1429,10 @@ Rosa doesn't know which AFORE she's in.
 - *What does she do?* She uses e-SAR or AforeMóvil with her CURP.
 
 
-**Case 2. Luis's middleman**
+**Case 2. Rubén's middleman**
 
-A middleman offers Luis to "release his AFORE" for 30% of the balance.
-- *What does Luis do?* He doesn't accept. The procedures cost nothing and he does them himself with his AFORE or CONSAR.
+A middleman offers Rubén to "release his AFORE" for 30% of the balance.
+- *What does Rubén do?* He doesn't accept. The procedures cost nothing and he does them himself with his AFORE or CONSAR.
 
 
 **Case 3. Weeks or savings**
@@ -1454,7 +1454,7 @@ Rosa wants to increase her savings and also complete weeks for her pension.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis and Rosa. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén and Rosa. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -1504,7 +1504,7 @@ CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 and 33 [POR CONFIRMAR] · S
 
 **What you will be able to do:** Prepare the basics to protect your family: beneficiaries, documents and a plan for your children.
 
-**To start:** Luis has two children in Stockton. One night he wonders: if something happens to me, who takes care of them? Who knows where my money is? He has nothing in writing. In this lesson you'll prepare the basics, step by step, without fear.
+**To start:** Rubén has two children in Stockton. One night he wonders: if something happens to me, who takes care of them? Who knows where my money is? He has nothing in writing. In this lesson you'll prepare the basics, step by step, without fear.
 
 ### The essentials (5 minutes)
 
@@ -1543,7 +1543,7 @@ Your will doesn't change what that form says. Check them all.
 
 #### A case in one minute
 
-Luis talked with his sister, who agrees to take care of his children. He filled out the caregiver form and gave her a copy.
+Rubén talked with his sister, who agrees to take care of his children. He filled out the caregiver form and gave her a copy.
 
 He updated the beneficiaries on his account and his insurance, and told his sister where his family folder is.
 
@@ -1635,9 +1635,9 @@ Be wary of "notarios" or "consultants" who offer immigration services. In the U.
 #### Cases
 
 
-**Case 1. Luis's plan**
+**Case 1. Rubén's plan**
 
-Luis wants his sister to take care of his children if he can't.
+Rubén wants his sister to take care of his children if he can't.
 - *What document does he use?* California's Caregiver's Authorization Affidavit.
 
 
@@ -1666,7 +1666,7 @@ An acquaintance offers to "handle everything" for Andrés with a power of attorn
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2091,7 +2091,7 @@ Daniela sold 1,200 and spent 600 in total.
 
 **Case 2. An LLC already?**
 
-Luis is starting to sell food to order some weekends and makes 150 a month.
+Rubén is starting to sell food to order some weekends and makes 150 a month.
 - *Does an LLC make sense for him?* Probably not for now: the 800 yearly minimum would be more than he makes in five months. He starts as a sole proprietorship.
 
 
@@ -2114,7 +2114,7 @@ Andrés is offered a business "advance" that's collected from his daily sales.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2164,7 +2164,7 @@ CalGold · FTB, LLC · SBA · CDPH, cottage food · IRS, self-employment.
 
 **What you will be able to do:** Bring together what you learned in a one-page personal financial plan with actions and dates.
 
-**To start:** You've reached the end of the program. Luis, Daniela, Andrés and Rosa have something in common: they all started with doubts and now they have a plan. In this lesson you'll make yours, on a single page.
+**To start:** You've reached the end of the program. Rubén, Daniela, Andrés and Rosa have something in common: they all started with doubts and now they have a plan. In this lesson you'll make yours, on a single page.
 
 ### The essentials (5 minutes)
 
@@ -2332,9 +2332,9 @@ If something changes, like a new job, a child or a move, look for the lesson on 
 #### Cases
 
 
-**Case 1. Luis's plan**
+**Case 1. Rubén's plan**
 
-Luis has three goals but doesn't know where to start.
+Rubén has three goals but doesn't know where to start.
 - *What does he do?* He chooses one small action for this week and writes it down with a date.
 
 
@@ -2363,7 +2363,7 @@ Daniela had to use her reserve for an emergency.
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Luis, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Rubén, Daniela and Andrés. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
 
 
 
@@ -2496,6 +2496,12 @@ In the U.S., if you sell something you inherited, the gain is measured from its 
 Nobody needs to charge you thousands of dollars to "fix" an inheritance in Mexico from here. Ask your consulate and work with a registered notary.
 
 > **Before you act, check:** the consulate's requirements for wills and powers of attorney, and the current small estate limit at the California courts.
+
+
+
+#### Your home in Mexico: usufruct
+
+If you own a house or land in Mexico and want to pass it to your children while you're alive but keep using it, Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
 
 
 

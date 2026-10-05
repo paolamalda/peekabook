@@ -487,9 +487,9 @@ No instales apps que te pida alguien en una llamada o ventana inesperada. Con el
 
 #### Un caso en un minuto
 
-Luis activó la verificación en dos pasos en su correo y en su banco. Un mes después recibió un mensaje: "Alguien intentó entrar a tu cuenta desde otro país".
+Rubén activó la verificación en dos pasos en su correo y en su banco. Un mes después recibió un mensaje: "Alguien intentó entrar a tu cuenta desde otro país".
 
-Como no tenían el segundo código, no pudieron entrar. Luis cambió su contraseña y siguió tranquilo.
+Como no tenían el segundo código, no pudieron entrar. Rubén cambió su contraseña y siguió tranquilo.
 
 
 
@@ -1121,7 +1121,7 @@ Si hoy no tienes margen, el primer paso puede ser estabilizar tus gastos y busca
 
 #### Un caso en un minuto
 
-Luis empezó apartando 10 dólares cada viernes en una cuenta aparte. No lo sentía. En seis meses tenía 260.
+Rubén empezó apartando 10 dólares cada viernes en una cuenta aparte. No lo sentía. En seis meses tenía 260.
 
 Cuando se le rompió el teléfono, lo pagó con su reserva, sin tarjeta ni préstamo.
 
