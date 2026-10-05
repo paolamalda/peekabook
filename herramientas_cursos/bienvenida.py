@@ -283,7 +283,6 @@ def paginas(D, cfg):
     c4 = (f'<div class="hero center"><div class="logo">{LOGO}</div>'
           f'<h2>{T("¡Gracias y hasta pronto!", "Thank you, and see you soon!")}</h2><p>{tit}</p></div>'
           f'<div class="quote">{e(B.get("despedida", ""))}</div><div class="grid">'
-          f'<div class="card rosa"><div class="ic"><i class="fa fa-share-alt"></i></div><b>{T("Compártelo", "Share it")}</b><span>{T("¿Conoces a alguien a quien le serviría? Cuéntale del programa.", "Know someone who could use it? Tell them about the program.")}</span></div>'
           f'<div class="card"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>{T("Seguimos en contacto", "Let’s stay in touch")}</b><span>{T("El foro y los mensajes al equipo siguen abiertos", "The forum and team messages stay open")}{correo_txt}.</span></div>'
           f'<div class="card rosa"><div class="ic"><i class="fa fa-star"></i></div><b>{T("Celebra", "Celebrate")}</b><span>{T("Comparte tu insignia o tu constancia si quieres: son el reconocimiento a tu esfuerzo y tu constancia.", "Share your badge or certificate if you want: they recognize your effort and persistence.")}</span></div></div>'
           f'<div class="firma"><div class="marca">{LOGO}</div>{T("Reconocemos tu esfuerzo y tu constancia · Desarrolla Talento", "We recognize your effort and persistence · Desarrolla Talento")}</div>')
