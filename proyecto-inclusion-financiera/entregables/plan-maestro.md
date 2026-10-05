@@ -93,9 +93,9 @@ Actualizado: 2026-09-28
 - [ ] **L11** App: confirmar que no custodia ni transfiere dinero (evita licencia de transmisor) y revisar términos de tiendas de apps. *(Responsable: Abogado fintech)*
 - [ ] **L12** Licencias de contenido de terceros (obras del gobierno federal, Creative Commons) y permisos para casos reales. *(Responsable: Coordinación curricular)*
 - [ ] **L13** Seguro de responsabilidad profesional (E&O) para la organización. *(Responsable: Administración)*
-- [ ] **K06** Confirmar AB 2747 (California): arrendadores con 15 o más unidades deben ofrecer reportar la renta puntual a burós. Umbral, fecha de vigencia y excepciones (M3 U03). *(Responsable: Abogado)*
-- [ ] **K07** Confirmar si en California un pago parcial revive una deuda prescrita (plazo de 4 años) y cómo redactar la recomendación (M3 U07). *(Responsable: Abogado)*
-- [ ] **K10** Confirmar que en California el aviso para cofirmantes debe entregarse en inglés y en español (M3 U08). *(Responsable: Abogado)*
+- [x] **K06** Confirmar AB 2747 (California): arrendadores con 15 o más unidades deben ofrecer reportar la renta puntual a burós. Umbral, fecha de vigencia y excepciones (M3 U03). *(Responsable: Abogado)* **Hecho el 5 de octubre de 2026:** confirmado (más de 15 unidades, hasta 10 dólares al mes) y corregido en M3 y M5; falta revisión legal.
+- [x] **K07** Confirmar si en California un pago parcial revive una deuda prescrita (plazo de 4 años) y cómo redactar la recomendación (M3 U07). *(Responsable: Abogado)* **Hecho el 5 de octubre de 2026:** pagar no revive una deuda prescrita, una nueva promesa por escrito sí; corregido en M3; falta revisión legal.
+- [x] **K10** Confirmar que en California el aviso para cofirmantes debe entregarse en inglés y en español (M3 U08). *(Responsable: Abogado)* **Hecho el 5 de octubre de 2026:** el aviso va en inglés y en otros idiomas, entre ellos el español; corregido en M3.
 - [ ] **K11** Revisar redacción sobre carga pública, Medi-Cal para adultos sin residencia legal (cambios 2026) y clínicas FQHC (M1 U13). *(Responsable: Abogado)*
 
 ### Donativos
@@ -134,7 +134,7 @@ Actualizado: 2026-09-28
 - [ ] **E03** Instrumentos: escala CFPB, preguntas comparables FDIC y FINRA, banco de reactivos. *(Responsable: Evaluación)*
 - [ ] **E04** Socio universitario para evaluación independiente (y revisión ética si aplica). *(Responsable: Paola)*
 - [ ] **E05** Tablero de métricas (K01–K13, A01–A12) y primer informe de impacto público. *(Responsable: Evaluación)*
-- [ ] **E06** Auditoría de accesibilidad y de legibilidad por lección. *(Responsable: Equipo técnico)*
+- [x] **E06** Auditoría de accesibilidad y de legibilidad por lección. *(Responsable: Equipo técnico)* **Hecho el 5 de octubre de 2026:** informe en `auditoria_accesibilidad.md` (702 lecciones); siglas explicadas con definición emergente y contraste corregido. Falta acortar frases largas (prioridad: lecciones de la lista).
 
 ### Evidencia NIW y credenciales
 
@@ -153,9 +153,9 @@ Actualizado: 2026-09-28
 - [ ] **K04** Fichas estatales: Texas, Illinois, Nueva York y Florida. *(Responsable: Coordinación curricular)*
 - [ ] **K05** Grabar audios y construir los interactivos H5P de M1. *(Responsable: Producción)*
 - [ ] **K08** Confirmar qué programas de CalHFA aceptan ITIN y qué prestamistas (cooperativas, CDFI) ofrecen hipotecas con ITIN (M5 U04). *(Responsable: Coordinación curricular)*
-- [ ] **K09** Confirmar con IMSS o consulado las modalidades para quien vive fuera de México: Modalidad 40 (pensión) y 33 (salud); corregir mención a Modalidad 10 (M5 U07). *(Responsable: Coordinación curricular)*
+- [x] **K09** Confirmar con IMSS o consulado las modalidades para quien vive fuera de México: Modalidad 40 (pensión) y 33 (salud); corregir mención a Modalidad 10 (M5 U07). *(Responsable: Coordinación curricular)* **Hecho el 5 de octubre de 2026:** Modalidades 40 y 33 confirmadas y detalladas en M5; la Modalidad 10 ya no se menciona ahí.
 - [ ] **K12** Probar con un clic todos los enlaces de 'Para saber más' y de dentro del texto; revisar cada 6 meses. *(Responsable: Coordinación curricular)*
-- [ ] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)*
+- [x] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)* **Hecho el 5 de octubre de 2026:** sin marcas en ninguna lección; detalle en `datos_por_confirmar.md`. Sigue pendiente solo K08.
 
 - [x] **K14** Versiones de Tu Regreso en inglés y bilingüe: hecho el 5 de octubre de 2026 (`cursos/your_return_en`, guía de sesión en inglés y `sesiones/guia_grupo_bilingue.md`). Falta revisión de Paola y textos en inglés para los videos. *(Responsable: Claude + Paola)*
 - [x] **K15** Bienvenida y despedida con diseño en los 18 cursos: libro «Bienvenida» antes de la primera lección (conexión con la población, cómo funciona, guía de contacto y comunidad, antes de empezar) y libro «Cierre y despedida» después de la conclusión; guía de contacto para imprimir o compartir y «Tu punto de partida» (evaluación diagnóstica). Hecho el 5 de octubre de 2026 con `herramientas_cursos/bienvenida.py`. Correo de contacto: hola@desarrollatalento.com. Falta: WhatsApp de soporte, si lo habrá, y revisión de Paola. *(Responsable: Claude + Paola)*

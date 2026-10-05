@@ -438,7 +438,7 @@ Verifica en BankFind o NCUA dónde está tu dinero. Guarda la consulta y la fech
 
 ## M2 U03. ¿Qué identificación me sirve para trámites financieros?
 
-**Lo que lograrás:** Conocer qué documentos suelen aceptar bancos, cooperativas y remesadoras, y cómo tramitar los que te faltan sin riesgos.
+**Lo que lograrás:** Identificar qué documentos suelen aceptar bancos, cooperativas y remesadoras, y cómo tramitar los que te faltan sin riesgos.
 
 **Para empezar:** Rubén fue a abrir una cuenta con su pasaporte y le dijeron que no. En otro banco, con los mismos documentos, se la abrieron en veinte minutos. No era él: cada institución acepta documentos distintos. En esta lección aprenderás qué preguntar antes de ir.
 

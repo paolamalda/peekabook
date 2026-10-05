@@ -2403,7 +2403,7 @@ Prepara carpetas de ingresos, gastos, salud, familia y avisos del IRS o del FTB.
 
 ## M1 U11. ¿Qué apoyos fiscales existen si declaro con ITIN?
 
-**Lo que lograrás:** Conocer cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin costo para declarar.
+**Lo que lograrás:** Explicar cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin costo para declarar.
 
 **Para empezar:** Mar pensaba que, como declara con ITIN, no tenía derecho a ningún apoyo. En una sede de ayuda sin costo descubrió que su familia podía recibir créditos estatales. En esta lección aprenderás qué apoyos existen si declaras con ITIN en California.
 
@@ -2870,7 +2870,7 @@ Compara dos servicios y una opción sin costo. Anota qué confirmaste y qué fal
 
 ## M1 U13. ¿Qué debo saber antes de pedir un apoyo público?
 
-**Lo que lograrás:** Entender qué es la "carga pública", qué apoyos existen y dónde confirmar tu caso antes de decidir.
+**Lo que lograrás:** Explicar qué es la "carga pública", qué apoyos existen y dónde confirmar tu caso antes de decidir.
 
 **Para empezar:** Daniela necesita ayuda para comprar comida para su hijo, pero una vecina le dijo que pedir cualquier apoyo podía afectarla. No sabe si es cierto. En esta lección aprenderás qué dice la regla y dónde confirmar tu caso sin arriesgarte.
 

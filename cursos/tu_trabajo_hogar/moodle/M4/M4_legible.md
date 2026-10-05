@@ -741,3 +741,162 @@ Guarda tus documentos en un lugar seguro, con copia en tu celular, y decide cuá
 Inmujeres · Locatel · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ---
+
+## M4 U06. Pensión alimenticia: lo que les toca a tus hijos y nietas
+
+**Lo que lograrás:** Identificar qué cubre la pensión alimenticia, dónde pedir orientación sin costo para pedirla y cómo administrar lo que llega.
+
+**Para empezar:** Rosa, la hija de Doña Tere, cría sola a sus hijas. El papá «manda cuando se acuerda» y Doña Tere termina pagando uniformes y consultas con lo que gana limpiando. Nadie les ha dicho que eso tiene solución.
+
+### Lo esencial (5 minutos)
+
+#### Qué cubren los alimentos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Comida | Lo de cada día. | Base del cálculo. |
+| Casa | Renta y servicios. | Parte proporcional. |
+| Salud | Consultas y medicinas. | También imprevistos. |
+| Escuela | Útiles, uniformes, cuotas. | Hasta que terminen. |
+
+#### Es un derecho de las niñas
+
+La pensión alimenticia no es un favor del papá: es un derecho de sus hijas e hijos. Se puede **acordar** en un convenio que aprueba un juez o **pedir** en un juzgado familiar. No necesitas dinero para empezar: la defensoría pública y el DIF de tu municipio orientan sin costo.
+
+
+
+#### Si no la paga
+
+Quien deja de pagar una pensión fijada por un juez durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**, y no puede sacar licencia de manejo ni pasaporte. Aunque el papá viva en otro estado, se puede pedir.
+
+> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte; en agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
+
+
+
+#### Un caso en un minuto
+
+Rosa fue con Doña Tere al DIF de su municipio. Les explicaron los papeles que necesitan: actas de nacimiento de las niñas y una lista de sus gastos del mes. Con eso pidieron un convenio y el pago llega por depósito.
+
+> **Idea clave:** la pensión es un derecho de las niñas; pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿De quién es el derecho a la pensión?
+*Respuesta:* De las hijas e hijos.
+
+2. ¿Dónde piden orientación sin costo?
+*Respuesta:* En la defensoría pública o en el DIF del municipio.
+
+
+#### Para recordar
+
+- Es un derecho de las niñas.
+- Orientación sin costo en el DIF o la defensoría.
+- Lleva una lista de sus gastos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu lista de gastos de las niñas
+
+| Gasto | Al mes |
+|---|---|
+| Comida | |
+| Parte de la renta y servicios | |
+| Salud | |
+| Escuela, uniformes y útiles | |
+| Transporte | |
+| **Total** | |
+
+
+
+#### Cuando llegue
+
+Anota la pensión como ingreso de las niñas en tu presupuesto y úsala para lo de ellas. Guarda los comprobantes de lo que pagas: si un día hay que revisar el monto, te sirven.
+
+
+
+#### Si la abuela es quien las cría
+
+Si las nietas viven contigo y tú las mantienes, también puedes pedir orientación: el derecho es de ellas, sin importar con quién vivan.
+
+
+
+#### Casos
+
+
+**Caso 1. El «cuando se acuerda»**
+
+El papá de las hijas de Rosa manda dinero solo cuando se acuerda.
+- *¿Qué hace Rosa?* Se orienta en el DIF o la defensoría pública y pide un convenio.
+
+
+**Caso 2. Los papeles**
+
+Rosa no sabe qué llevar a su cita.
+- *¿Qué lleva?* Las actas de nacimiento y una lista de los gastos de las niñas.
+
+
+**Caso 3. El depósito**
+
+Ya llega la pensión, pero se mezcla con el gasto de la casa.
+- *¿Qué hace?* La anota como ingreso de las niñas y la usa para lo de ellas.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que es un favor | Las niñas se quedan sin lo básico | Es su derecho |
+| Pensar que cuesta mucho | No lo intentas | Orientación sin costo |
+| Ir sin lista de gastos | Es difícil calcular | Lleva tus números |
+| Mezclar la pensión con todo | No sabes si alcanza | Anótala aparte |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa y Doña Tere. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué cubre la pensión alimenticia? a) Solo la comida de cada día · b) Solo la escuela y los uniformes · c) Comida, casa, salud y escuela
+2. ¿Dónde se orienta Rosa sin costo? a) En el DIF o la defensoría pública · b) Con un gestor que cobra por adelantado · c) En una app de préstamos
+3. ¿Qué pasa si el papá no paga una pensión fijada durante 60 días? a) Nada · b) Lo pueden inscribir como deudor y no saca licencia ni pasaporte · c) Le perdonan la deuda
+**Respuestas:** 1-c: todo lo que necesitan. 2-a: orientación sin costo. 3-b: Registro Nacional de Obligaciones Alimentarias.
+
+
+
+#### Ponlo en práctica
+
+Las niñas gastan al mes: comida 2,400, parte de renta 800, salud 300, escuela 500. ¿Cuánto suman?
+**Respuesta:** 2,400 + 800 + 300 + 500 = 4,000 al mes.
+
+
+
+#### A tu plan
+
+Haz la lista de gastos de tus hijas, hijos o nietas de un mes y guárdala; te sirve para pedir o revisar una pensión.
+
+
+
+### Para saber más
+
+- **Orientación familiar** (DIF · español): https://www.gob.mx/difnacional — **Qué buscar:** «Procuraduría de Protección de Niñas, Niños y Adolescentes».
+- **Defensoría pública** (Poder Judicial de tu estado · español) — **Qué buscar:** «defensoría pública familiar» y el nombre de tu estado.
+
+### Palabras clave
+
+- *Pensión alimenticia:* dinero para cubrir comida, casa, salud y escuela de las hijas e hijos.
+- *Convenio:* acuerdo por escrito entre los padres que aprueba un juez.
+
+### Fuentes
+
+Ley General de los Derechos de Niñas, Niños y Adolescentes · Registro Nacional de Obligaciones Alimentarias · DIF, consultados el 30 de septiembre de 2026.
+
+---

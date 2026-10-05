@@ -2,7 +2,7 @@
 
 ## M9 U01. Tu retiro si trabajas por tu cuenta
 
-**Lo que lograrás:** Conocer cómo ahorrar para tu retiro si trabajas por tu cuenta: AFORE, aportaciones voluntarias, PPR y ahorro propio.
+**Lo que lograrás:** Explicar cómo ahorrar para tu retiro si trabajas por tu cuenta: AFORE, aportaciones voluntarias, PPR y ahorro propio.
 
 **Para empezar:** Don Pepe tiene 61 años. Trabajó 8 años en una empresa antes de abrir la tienda y no sabe si tiene AFORE. Piensa que «la tienda es su pensión». En esta lección verás tus opciones.
 
@@ -546,6 +546,12 @@ Don Pepe nombró beneficiarios, hizo su testamento en septiembre, revisó en el 
 #### Si tus herederos venden
 
 Si tus herederos venden el local o la casa, puede haber ISR sobre la ganancia; se calcula con lo que pagaste tú. Si viven en la casa, puede aplicar la exención por casa habitación, con límites.
+
+
+
+#### Pasar el local o la casa en vida: el usufructo
+
+Si quieres que tu local o tu casa pase a tus hijos pero seguir usándolo o cobrando la renta, puedes donar con **reserva de usufructo** ante notario: ellos quedan como dueños y tú conservas el uso hasta que fallezcas. Entre padres e hijos la donación no paga ISR, pero escriturar sí cuesta y ya no puedes vender sin su firma. Compáralo con el testamento.
 
 
 

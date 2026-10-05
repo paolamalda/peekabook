@@ -525,7 +525,7 @@ Profeco · SAT · Prácticas del medio artístico.
 
 ## M3 U04. ANDA, ANDI y las organizaciones del medio: ¿quién hace qué?
 
-**Lo que lograrás:** Saber a qué organización mexicana acudir según lo que necesitas: tu actividad laboral, tus regalías como intérprete, como autor, como músico o como productor.
+**Lo que lograrás:** Explicar a qué organización mexicana acudir según lo que necesitas: tu actividad laboral, tus regalías como intérprete, como autor, como músico o como productor.
 
 **Para empezar:** Gael es agremiado de la ANDA desde hace años. Una telenovela en la que actuó se retransmite en Sudamérica y él cree que sus regalías le llegan por la ANDA. Nunca le ha llegado nada. En esta lección conocerás qué hace cada organización del medio en México.
 

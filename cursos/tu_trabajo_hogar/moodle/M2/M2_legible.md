@@ -2,7 +2,7 @@
 
 ## M2 U01. Tus derechos: lo que la ley dice de tu trabajo
 
-**Lo que lograrás:** Conocer tus derechos como trabajadora del hogar (salario, aguinaldo, vacaciones, descanso y contrato) para platicarlos con calma con quien te contrata.
+**Lo que lograrás:** Identificar tus derechos como trabajadora del hogar (salario, aguinaldo, vacaciones, descanso y contrato) para platicarlos con calma con quien te contrata.
 
 **Para empezar:** Mari lleva seis años de planta en la misma casa. Nunca ha tomado vacaciones pagadas y en diciembre le dan «lo que se puede». No sabe si le toca algo más. En esta lección conocerás tus derechos.
 

@@ -2,7 +2,7 @@
 
 ## M8 U01. Ahorro para el retiro por tu cuenta
 
-**Lo que lograrás:** Conocer las aportaciones voluntarias a la AFORE, desde 50 pesos en tiendas, para ahorrar para tu retiro por tu cuenta.
+**Lo que lograrás:** Identificar las aportaciones voluntarias a la AFORE, desde 50 pesos en tiendas, para ahorrar para tu retiro por tu cuenta.
 
 **Para empezar:** Ramiro tiene 36 años y piensa que el retiro «está lejos». Pero cada año que pasa sin ahorrar cuenta. Le dijeron que puede ahorrar en la AFORE desde 50 pesos en la tienda. En esta lección verás cómo.
 

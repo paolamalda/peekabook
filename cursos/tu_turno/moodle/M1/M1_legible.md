@@ -2,7 +2,7 @@
 
 ## M1 U01. ¿Cuánto entra de verdad?
 
-**Lo que lograrás:** Saber cuánto dinero te llega de verdad cada quincena, después de descuentos, y compararlo con el salario mínimo 2026.
+**Lo que lograrás:** Identificar cuánto dinero te llega de verdad cada quincena, después de descuentos, y compararlo con el salario mínimo 2026.
 
 **Para empezar:** Don Chuy dice que gana «como 10 mil», pero a su cuenta le llegan 4,100 cada quincena. Nunca ha revisado por qué. En esta lección sabrás cuánto entra de verdad a tu bolsillo.
 

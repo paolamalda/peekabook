@@ -149,7 +149,7 @@ CONDUSEF, consultado el 30 de septiembre de 2026.
 
 ## M5 U02. El interés compuesto y tu mejor aliado: el tiempo
 
-**Lo que lograrás:** Entender cómo el interés compuesto hace crecer el dinero con el tiempo, por qué empezar joven es una ventaja y cómo la inflación afecta lo que guardas.
+**Lo que lograrás:** Explicar cómo el interés compuesto hace crecer el dinero con el tiempo, por qué empezar joven es una ventaja y cómo la inflación afecta lo que guardas.
 
 **Para empezar:** Santi y su primo empiezan a invertir 500 al mes. Santi empieza a los 18; su primo, a los 28. Los dos paran a los 60. En esta lección verás por qué la diferencia es enorme.
 
@@ -300,7 +300,7 @@ Banco de México · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ## M5 U03. Invertir: riesgo, rendimiento y no poner todo junto
 
-**Lo que lograrás:** Entender qué es invertir, la relación entre riesgo y rendimiento, por qué diversificar y cómo empezar con instituciones reguladas cuando tengas la edad.
+**Lo que lograrás:** Explicar qué es invertir, la relación entre riesgo y rendimiento, por qué diversificar y cómo empezar con instituciones reguladas cuando tengas la edad.
 
 **Para empezar:** Valeria tiene 3,000 de su negocio y un compañero le dice que «invertir es para ricos». Otra le dice que «en tal app ganas 20% al mes». En esta lección verás qué es de verdad invertir.
 

@@ -2,7 +2,7 @@
 
 ## M8 U01. Tus pensiones del Bienestar
 
-**Lo que lograrás:** Conocer la Pensión Mujeres Bienestar (60 a 64 años) y la Pensión para Adultos Mayores (65 o más), cuánto dan en 2026 y por qué conviene ahorrar además.
+**Lo que lograrás:** Identificar la Pensión Mujeres Bienestar (60 a 64 años) y la Pensión para Adultos Mayores (65 o más), cuánto dan en 2026 y por qué conviene ahorrar además.
 
 **Para empezar:** Doña Tere tiene 58 años. Piensa que «cuando llegue la pensión» ya no tendrá que trabajar. No sabe cuánto es ni cuándo le toca. En esta lección sacarás cuentas.
 
@@ -146,7 +146,7 @@ Programas para el Bienestar, consultado el 30 de septiembre de 2026.
 
 ## M8 U02. Tu Afore: encuéntrala y ahórrale desde 50 pesos
 
-**Lo que lograrás:** Saber si tienes Afore, registrarla y ahorrar en ella desde 50 pesos en tiendas, aunque trabajes por día.
+**Lo que lograrás:** Comprobar si tienes Afore, registrarla y ahorrar en ella desde 50 pesos en tiendas, aunque trabajes por día.
 
 **Para empezar:** Mari trabajó dos años en una fábrica antes de dedicarse al hogar. No sabe si tiene Afore ni cuánto hay. Chayo nunca ha tenido una. En esta lección verás cómo empezar.
 
@@ -297,7 +297,7 @@ CONSAR, consultado el 30 de septiembre de 2026.
 
 ## M8 U03. Las becas de tus hijas y nietas, sin coyotes
 
-**Lo que lograrás:** Conocer las becas universales para estudiantes de escuelas públicas, cómo registrarlas sin pagar a nadie y cómo usar el dinero para la escuela.
+**Lo que lograrás:** Identificar las becas universales para estudiantes de escuelas públicas, cómo registrarlas sin pagar a nadie y cómo usar el dinero para la escuela.
 
 **Para empezar:** Doña Tere se hace cargo de la escuela de su nieta Yaretzi, que entra a la prepa. Una vecina le dice que la beca «solo sale si conoces a alguien». En esta lección verás cómo funciona.
 
@@ -743,7 +743,7 @@ Secretaría de Gobernación · Registro Agrario Nacional · INSUS · Ley Agraria
 
 ## M8 U06. Heredar sin sustos: deudas, impuestos y la plática en familia
 
-**Lo que lograrás:** Saber qué pasa con tus deudas cuando faltas, qué impuestos hay (y cuáles no) al heredar, y cómo platicarlo en familia.
+**Lo que lograrás:** Identificar qué pasa con tus deudas cuando faltas, qué impuestos hay (y cuáles no) al heredar, y cómo platicarlo en familia.
 
 **Para empezar:** Cuando murió el papá de Mari, un despacho le dijo que ella tenía que pagar sus deudas. Y su hermano no quiere pasar la casa a su nombre porque «hay que pagar 30% de impuestos». En esta lección verás qué es cierto.
 

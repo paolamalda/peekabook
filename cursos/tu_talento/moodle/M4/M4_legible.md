@@ -521,7 +521,7 @@ CONDUSEF, SIPRES y Buró de Entidades Financieras · CNBV, advertencias, consult
 
 ## M4 U04. Tus derechos como usuario
 
-**Lo que lograrás:** Conocer tus derechos frente a una institución financiera y los pasos para reclamar: primero a la institución y luego a CONDUSEF.
+**Lo que lograrás:** Identificar tus derechos frente a una institución financiera y los pasos para reclamar: primero a la institución y luego a CONDUSEF.
 
 **Para empezar:** A Valeria le cobraron un seguro en su tarjeta que nunca pidió. El ejecutivo le dijo por teléfono que "no se puede quitar". Ella pagó tres meses sin saber que podía reclamar. En esta lección conocerás tus derechos y cómo defenderlos.
 

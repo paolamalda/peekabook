@@ -540,7 +540,7 @@ Rubén, with no history in any country, started with a 200 secured card and aske
 
 If you pay rent every month, you're already doing something that can count toward your history.
 
-In California, a recent law (AB 2747) requires many landlords to offer tenants the option of reporting their on-time rent payments to the credit agencies. It applies to certain buildings, for example those with 15 or more units, and reports only positive payments if you ask for it. [POR CONFIRMAR]
+In California, since 2025 a law (AB 2747) requires many landlords to offer tenants the option of reporting their on-time rent payments to at least one credit agency. It applies to buildings with more than 15 units and to some companies that own several properties. Only on-time payments are reported, if you ask; the landlord may charge you their cost, up to 10 dollars a month.
 
 Ask your landlord whether they offer this service and whether it has a cost.
 
@@ -647,7 +647,7 @@ Compare two products and the option of waiting to build up your savings. Write d
 
 ### Sources
 
-[S18] CFPB, building or rebuilding credit · Mission Asset Fund · California AB 2747 (rent reporting) [POR CONFIRMAR].
+[S18] CFPB, building or rebuilding credit · Mission Asset Fund · California AB 2747 (rent reporting, Civil Code 1954.07).
 
 ---
 
@@ -1406,7 +1406,7 @@ Ask about the options, the fees, the effect on your report and how the agreement
 
 In California, the time a creditor has to sue you over a credit card debt or a written contract is usually **4 years**. It's called the statute of limitations.
 
-If a collector contacts you about a very old debt, don't make payments or promises to pay without first checking the date of the debt and getting guidance. The rules about what happens if you pay an old debt are complex. [POR CONFIRMAR]
+If a collector contacts you about a very old debt, check the date first. In California, paying a debt that is already time-barred doesn't revive the right to sue you, but **signing a new written promise to pay can**. The collector must tell you in writing if the debt is too old to sue over. Get guidance before you promise anything.
 
 > **Good to know:** in California, debt collectors must be licensed by the DFPI, and there are special rules for debts sold to other companies. If a collector isn't licensed, report it.
 
@@ -1526,7 +1526,7 @@ Create a file with facts, communications, options and dates. Find a legal aid se
 
 ### Sources
 
-[R08] CFPB, debt collectors · [R23] State Bar of California · California Code of Civil Procedure, time limits · DFPI, debt collectors [POR CONFIRMAR].
+[R08] CFPB, debt collectors · [R23] State Bar of California · California Code of Civil Procedure, time limits · California Code of Civil Procedure, section 360 · California Civil Code, section 1788.14 · DFPI, debt collectors.
 
 ---
 
@@ -1625,7 +1625,7 @@ The lender agrees to make the loan because you're responsible too. This means th
 
 Federal law requires many lenders to give you a cosigner notice before you sign. The FTC explains your risks in [Cosigning a Loan FAQs](https://consumer.ftc.gov/articles/cosigning-loan-faqs).
 
-> **Good to know:** in California, the law requires the cosigner notice to be given in English and Spanish. If you didn't get it, ask for it before you sign. [POR CONFIRMAR]
+> **Good to know:** in California, the law requires the «Notice to Cosigner» to be given in English and in other languages, including Spanish. If you didn't get it, ask for it before you sign.
 
 
 

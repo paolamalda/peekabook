@@ -282,7 +282,7 @@ Gobierno de México, consultado el 29 de septiembre de 2026.
 
 ## M7 U03. Seguro de vida, gastos funerarios y beneficiarios
 
-**Lo que lograrás:** Conocer seguros de bajo costo para proteger a tu familia, y dejar claro quiénes son tus beneficiarios.
+**Lo que lograrás:** Identificar seguros de bajo costo para proteger a tu familia, y dejar claro quiénes son tus beneficiarios.
 
 **Para empezar:** Don Chuy piensa: «si me pasa algo en el turno, ¿qué va a hacer mi familia?». Tiene tres hijos y nadie sabe qué seguros tiene. En esta lección verás cómo proteger a tu familia con poco.
 
@@ -563,7 +563,7 @@ CENAPRED · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ## M7 U05. Salud para tu familia: el seguro del IMSS que pagas tú
 
-**Lo que lograrás:** Conocer el Seguro de Salud para la Familia del IMSS, que puedes pagar por tu cuenta para tus papás, tu pareja o tus hijos si no tienen seguridad social, y el IMSS-Bienestar como opción sin costo.
+**Lo que lograrás:** Identificar el Seguro de Salud para la Familia del IMSS, que puedes pagar por tu cuenta para tus papás, tu pareja o tus hijos si no tienen seguridad social, y el IMSS-Bienestar como opción sin costo.
 
 **Para empezar:** La mamá de Don Chuy tiene 67 años, diabetes y no tiene seguridad social. Cada mes él paga consultas y medicinas en farmacias privadas: unos 1,800 pesos. En esta lección verás otras opciones.
 
@@ -1023,5 +1023,315 @@ Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles falta
 ### Fuentes
 
 Ley del ISR (artículo 93) · SAT · Registro Agrario Nacional · INSUS · CONDUSEF, consultados el 30 de septiembre de 2026.
+
+---
+
+## M7 U08. Tu dinero, tu decisión: violencia económica en casa
+
+**Lo que lograrás:** Reconocer la violencia económica y patrimonial, cuidar tu dinero y tus papeles, y saber dónde pedir ayuda sin costo.
+
+**Para empezar:** Karla le da toda su quincena a su pareja «porque él administra». Si quiere comprar algo para su hija, tiene que pedir permiso y explicar cada peso. Ella piensa que así son todas las parejas.
+
+### Lo esencial (5 minutos)
+
+#### Señales de violencia económica
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Te quitan tu dinero o tu tarjeta | Y te dan «lo que te toca». | Es control. |
+| No te dejan trabajar o estudiar | O te hacen perder el trabajo. | Es control. |
+| Te hacen firmar créditos | A tu nombre, para otra persona. | Es abuso. |
+| Venden o esconden lo de la familia | Casa, auto, papeles. | Es violencia patrimonial. |
+
+#### Tiene nombre
+
+La ley la llama **violencia económica** (controlar o limitar tu dinero) y **violencia patrimonial** (dañar, quitar o esconder tus bienes o documentos). Le puede pasar a mujeres y a hombres. No es «ser ordenado con el dinero»: una pareja que se organiza decide junta y los dos saben cuánto entra y cuánto sale.
+
+> **Dato vigente:** la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia define la violencia patrimonial y la económica (artículo 6, fracciones III y IV); la Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
+
+
+
+#### Lo que sí puedes hacer
+
+Ten una cuenta **a tu nombre** donde te depositen tu sueldo, guarda tus documentos (INE, acta, CURP, escrituras) en un lugar seguro o en foto en tu celular, y aparta aunque sea poco para ti. Nunca firmes un crédito que no vas a usar tú.
+
+
+
+#### Un caso en un minuto
+
+Karla pidió en recursos humanos que su nómina llegara a una cuenta solo suya. Guardó sus papeles y los de su hija con su mamá. Llamó al 079 para orientarse, sin compromiso.
+
+> **Idea clave:** decidir juntos no es entregar todo; tu sueldo, tu cuenta y tus documentos son tuyos, y hay ayuda sin costo para orientarte.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es la violencia patrimonial?
+*Respuesta:* Dañar, quitar o esconder tus bienes o documentos.
+
+2. ¿A qué número llamas para orientarte?
+*Respuesta:* A la Línea de las Mujeres 079, opción 1; en emergencia, al 911.
+
+
+#### Para recordar
+
+- Tu sueldo, a tu cuenta.
+- Tus papeles, en lugar seguro.
+- 079, opción 1; emergencia, 911.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Organizarse en pareja o controlar
+
+| Organizarse en pareja | Controlar |
+|---|---|
+| Los dos saben cuánto entra | Solo uno sabe |
+| Deciden juntos los gastos grandes | Uno decide todo |
+| Cada quien tiene algo para sí | Tienes que pedir permiso |
+| Las deudas se platican | Te endeudan a tu nombre |
+
+
+
+#### Cuida tu banca en el celular
+
+Cambia tus contraseñas si alguien más las conoce, activa las alertas de tu banco y no compartas tu NIP ni tus códigos, ni con tu pareja.
+
+
+
+#### Si eres tú quien controla
+
+Si te reconoces en la tabla, hablar de dinero con números claros y sin gritos es un primer paso. Los centros de salud y los DIF tienen apoyo psicológico.
+
+
+
+#### Casos
+
+
+**Caso 1. La quincena de Karla**
+
+Karla entrega toda su quincena y pide permiso para cada gasto.
+- *¿Qué hace?* Pide que su nómina llegue a una cuenta a su nombre y se orienta en el 079.
+
+
+**Caso 2. El crédito de Beto**
+
+La pareja de Beto le pide que saque un crédito a su nombre para ella.
+- *¿Qué hace?* No firma un crédito que no va a usar él.
+
+
+**Caso 3. Los papeles de Don Chuy**
+
+Un familiar de Don Chuy tiene escondidas las escrituras de la casa.
+- *¿Qué hace?* Pide una copia en el Registro Público y se orienta.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que es normal | El control crece | Reconoce las señales |
+| Dejar tus papeles en otras manos | No puedes hacer trámites | Guárdalos seguros |
+| Compartir tu NIP | Pierdes el control de tu dinero | Nadie lo necesita |
+| Firmar por otra persona | La deuda es tuya | Di que no |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Karla, Beto y Don Chuy. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es una señal de violencia económica? a) Hacer juntos el presupuesto · b) Que te quiten tu tarjeta y te den «lo que te toca» · c) Ahorrar para una meta en común
+2. ¿Qué número da orientación a mujeres las 24 horas? a) 079, opción 1 · b) 800 de tu banco · c) El de la tienda de la colonia
+3. Tu pareja te pide un crédito a tu nombre para ella. ¿Qué pasa si lo firmas? a) La deuda queda a nombre de ella · b) Nadie la paga · c) La deuda es tuya
+**Respuestas:** 1-b: es control del dinero. 2-a: orientación jurídica y psicológica. 3-c: lo que firmas es tuyo.
+
+
+
+#### Ponlo en práctica
+
+Karla gana 4,800 por quincena y quiere apartar 5% para ella en una cuenta a su nombre. ¿Cuánto aparta al mes?
+**Respuesta:** 5% de 4,800 es 240 por quincena: 480 al mes.
+
+
+
+#### A tu plan
+
+Revisa tres cosas esta semana: que tu sueldo llegue a una cuenta tuya, dónde están tus documentos y quién conoce tus contraseñas.
+
+
+
+### Para saber más
+
+- **Línea de las Mujeres** (Secretaría de las Mujeres · español): 079, opción 1 | Orientación sin costo las 24 horas.
+- **Emergencias** (español): 911.
+- **Centros de Justicia para las Mujeres** (Secretaría de las Mujeres · español): https://www.gob.mx/mujeres — **Qué buscar:** «Centros de Justicia para las Mujeres».
+
+### Palabras clave
+
+- *Violencia económica:* controlar o limitar el dinero de otra persona.
+- *Violencia patrimonial:* dañar, quitar o esconder bienes o documentos de otra persona.
+
+### Fuentes
+
+Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (artículo 6) · Secretaría de las Mujeres, consultados el 30 de septiembre de 2026.
+
+---
+
+## M7 U09. Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos
+
+**Lo que lograrás:** Identificar qué cubre la pensión alimenticia, cómo se pide o se acuerda, cómo pagarla con comprobante y qué pasa si no se paga.
+
+**Para empezar:** Karla cría sola a su hija y el papá «da cuando puede». Don Chuy le da a la mamá de su hijo menor 1,500 en efectivo cada quincena, sin recibo. Los dos tienen algo pendiente.
+
+### Lo esencial (5 minutos)
+
+#### Qué cubren los alimentos
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Comida | Lo de cada día. | Base del cálculo. |
+| Casa | Renta y servicios. | Parte proporcional. |
+| Salud | Consultas y medicinas. | También imprevistos. |
+| Escuela | Útiles, uniformes, cuotas. | Hasta que terminen. |
+
+#### Cómo se fija
+
+La pensión se puede **acordar** entre los padres en un convenio que aprueba un juez, o **pedir** en un juzgado familiar. Se calcula según lo que necesitan tus hijos y lo que puede pagar quien la da. Puedes pedir orientación sin costo en la defensoría pública o en el DIF de tu municipio.
+
+
+
+#### Si no se paga
+
+Quien deja de pagar una pensión fijada por un juez durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**, y con eso no puede sacar su licencia de manejo ni su pasaporte.
+
+> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte; en agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy dejó de pagar en efectivo: ahora deposita a una cuenta de la mamá y guarda cada comprobante. Karla fue a la defensoría pública y llegó a un convenio con el papá de su hija, aprobado por el juez.
+
+> **Idea clave:** la pensión es un derecho de tus hijos, no un favor; quien la recibe puede pedirla con orientación sin costo y quien la paga debe hacerlo con comprobante.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué cubre la pensión alimenticia?
+*Respuesta:* Comida, casa, salud y escuela de tus hijos.
+
+2. ¿Cómo pagas para evitar problemas?
+*Respuesta:* Con depósito o transferencia, y guardando el comprobante.
+
+
+#### Para recordar
+
+- Es un derecho de tus hijos.
+- Acuerdo ante juez o juzgado familiar.
+- Paga con comprobante.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si tu ingreso baja
+
+Si quien paga pierde el trabajo o gana menos, no debe dejar de pagar por su cuenta: puede pedir al juez que revise el monto. Mientras tanto, la deuda sigue corriendo.
+
+
+
+#### Descuento por nómina
+
+El juez puede ordenar a la empresa que descuente la pensión directo del sueldo. Así llega completa y a tiempo, y quien paga tiene prueba de que cumplió.
+
+
+
+#### Administra lo que recibes
+
+Si recibes la pensión, anótala en tu presupuesto como ingreso de tus hijos y guarda los comprobantes de lo que gastas en ellos.
+
+
+
+#### Casos
+
+
+**Caso 1. El efectivo de Don Chuy**
+
+Don Chuy paga la pensión en efectivo y sin recibo.
+- *¿Qué hace?* Deposita a una cuenta y guarda el comprobante.
+
+
+**Caso 2. El «cuando puedo» de Karla**
+
+El papá de la hija de Karla da solo cuando puede.
+- *¿Qué hace?* Se orienta en la defensoría pública o en el DIF y pide un convenio ante el juez.
+
+
+**Caso 3. El trabajo de Ramiro**
+
+Ramiro perdió horas extra y ya no alcanza a pagar lo fijado.
+- *¿Qué hace?* Pide al juez que revise el monto y sigue pagando lo que puede con comprobante.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Pagar en efectivo sin recibo | No puedes probar que pagaste | Deposita |
+| Dejar de pagar sin avisar | Te inscriben como deudor | Pide revisión al juez |
+| Creer que es un favor | Tus hijos se quedan sin lo básico | Es su derecho |
+| No anotar lo que recibes | No sabes en qué se va | Inclúyela en tu presupuesto |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Karla y Ramiro. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿De quién es el derecho a la pensión alimenticia? a) De la mamá o el papá que la recibe · b) De los hijos · c) Del juez que la fija
+2. ¿Qué puede pasar si no pagas una pensión fijada durante 60 días? a) Nada, si después pagas · b) Te bajan el monto · c) Te inscriben en un registro y no puedes sacar licencia ni pasaporte
+3. Te bajó el ingreso. ¿Qué haces? a) Pides al juez que revise el monto · b) Dejas de pagar · c) Pagas cuando puedas
+**Respuestas:** 1-b: es para su comida, casa, salud y escuela. 2-c: Registro Nacional de Obligaciones Alimentarias. 3-a: la deuda sigue mientras no se revise.
+
+
+
+#### Ponlo en práctica
+
+Don Chuy paga 1,500 por quincena. ¿Cuánto paga en un año y cuántos comprobantes debe guardar?
+**Respuesta:** 24 quincenas × 1,500 = 36,000 al año; 24 comprobantes.
+
+
+
+#### A tu plan
+
+Si pagas o recibes pensión, junta los comprobantes de este año en una carpeta o en fotos en tu celular.
+
+
+
+### Para saber más
+
+- **Orientación familiar** (DIF · español): https://www.gob.mx/difnacional — **Qué buscar:** «Procuraduría de Protección de Niñas, Niños y Adolescentes».
+- **Defensoría pública** (Poder Judicial de tu estado · español) — **Qué buscar:** «defensoría pública familiar» y el nombre de tu estado.
+
+### Palabras clave
+
+- *Pensión alimenticia:* dinero para cubrir comida, casa, salud y escuela de los hijos.
+- *Deudor alimentario moroso:* quien deja de pagar una pensión fijada por un juez durante 60 días o más.
+
+### Fuentes
+
+Ley General de los Derechos de Niñas, Niños y Adolescentes · Registro Nacional de Obligaciones Alimentarias · DIF, consultados el 30 de septiembre de 2026.
 
 ---

@@ -2,7 +2,7 @@
 
 ## M3 U01. Tandas: cómo funcionan y qué puede salir mal
 
-**Lo que lograrás:** Entender cómo funciona una tanda, cuándo es ahorro y cuándo es deuda, y qué riesgos tiene.
+**Lo que lograrás:** Explicar cómo funciona una tanda, cuándo es ahorro y cuándo es deuda, y qué riesgos tiene.
 
 **Para empezar:** Chayo organiza la tanda de la colonia: 10 señoras con 300 cada semana. Una cobró en el número 2 y se fue a vivir a otro estado. Chayo puso de su bolsa para cumplir. En esta lección verás qué puede salir mal.
 

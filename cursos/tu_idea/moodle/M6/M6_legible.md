@@ -2,7 +2,7 @@
 
 ## M6 U01. Qué es el crédito y cuánto cuesta de verdad
 
-**Lo que lograrás:** Entender qué es un crédito, cómo funcionan los intereses y el CAT, y cuándo un crédito ayuda y cuándo hunde.
+**Lo que lograrás:** Explicar qué es un crédito, cómo funcionan los intereses y el CAT, y cuándo un crédito ayuda y cuándo hunde.
 
 **Para empezar:** Santi quiere una laptop de 12,000 para aprender diseño. En la tienda le dicen: «Llévatela hoy, pagas 399 a la semana». No sabe si le conviene. En esta lección lo calcularás.
 
@@ -158,7 +158,7 @@ CONDUSEF · Banco de México, consultados el 30 de septiembre de 2026.
 
 ## M6 U02. Tarjeta de crédito, meses sin intereses y «compra ahora, paga después»
 
-**Lo que lograrás:** Entender cómo funciona una tarjeta de crédito (pago mínimo, pago para no generar intereses, fecha de corte), los meses sin intereses y las apps de «compra ahora, paga después».
+**Lo que lograrás:** Explicar cómo funciona una tarjeta de crédito (pago mínimo, pago para no generar intereses, fecha de corte), los meses sin intereses y las apps de «compra ahora, paga después».
 
 **Para empezar:** La hermana de Naomi pagó solo el mínimo de su tarjeta durante un año y su deuda casi no bajó. Y Naomi compró un celular en una app de «compra ahora, paga después» en 4 pagos, se le pasó uno y le cobraron recargo. En esta lección verás cómo usar el crédito sin caer.
 
@@ -306,7 +306,7 @@ CONDUSEF · Banco de México, consultados el 30 de septiembre de 2026.
 
 ## M6 U03. Tu historial desde joven y lo que nunca firmas por otros
 
-**Lo que lograrás:** Entender qué es el historial de crédito, cómo se construye bien desde joven y la diferencia entre aval, obligado solidario y referencia personal.
+**Lo que lograrás:** Explicar qué es el historial de crédito, cómo se construye bien desde joven y la diferencia entre aval, obligado solidario y referencia personal.
 
 **Para empezar:** Santi cumplió 18 y un amigo le pidió que fuera su aval para una moto. «Nada más firmas», le dijo. En esta lección verás qué implica.
 
@@ -591,5 +591,151 @@ Busca una beca o un concurso para jóvenes en tu estado y anota la fecha límite
 ### Fuentes
 
 STPS · Programas para el Bienestar · Instituto Mexicano de la Juventud, consultados el 30 de septiembre de 2026.
+
+---
+
+## M6 U05. Adelantos de sueldo y préstamos de nómina en tu primer trabajo
+
+**Lo que lograrás:** Identificar qué es un adelanto de sueldo, cuánto te pueden descontar por ley, por qué las apps de adelanto cuestan y qué preguntar antes de aceptar un préstamo de nómina.
+
+**Para empezar:** Emilio quiere unos tenis de 1,800. En la taquería le ofrecen adelantarle la semana, y una app le promete «tu sueldo antes, sin intereses», con una comisión de 49 pesos. Él piensa: «Total, es mi dinero».
+
+### Lo esencial (5 minutos)
+
+#### Tu dinero antes… ¿a qué costo?
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Adelanto del trabajo | Te dan antes lo que ya vas a ganar. | Por escrito. |
+| App de adelanto | Comisión cada vez. | Suma el año. |
+| Préstamo de nómina | Del banco donde cobras. | Te descuentan meses. |
+| Tu apartado | Sin costo. | La primera opción. |
+
+#### Tu sueldo tiene protección
+
+Si trabajas con contrato, la ley limita lo que te pueden descontar por un adelanto: hasta **30% de lo que ganas arriba del salario mínimo** por pago. Y si eres menor de edad, tu jornada y tu pago también tienen reglas especiales (M9 U02).
+
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
+
+
+
+#### La cuenta de Emilio
+
+Si usa la app cada semana: 49 × 52 = **2,548 pesos al año**. Con eso se compraba un par de tenis y le sobraba. Y la semana siguiente le llega menos dinero, así que es fácil volver a pedir.
+
+
+
+#### Un caso en un minuto
+
+Emilio no usó la app. Apartó 300 por fin de semana y en seis semanas compró los tenis sin deber nada. Si un día necesita un adelanto por una urgencia, lo pedirá en la taquería, por escrito.
+
+> **Idea clave:** un adelanto no es dinero extra, es tu mismo sueldo antes; las apps cobran cada vez y suman mucho en un año.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Un adelanto es dinero extra?
+*Respuesta:* No, es tu mismo sueldo antes.
+
+2. ¿Cuánto pagas al año con 49 pesos cada semana?
+*Respuesta:* 2,548 pesos.
+
+
+#### Para recordar
+
+- No es dinero extra.
+- Las apps cobran cada vez.
+- Primero, tu apartado.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si te ofrecen un préstamo de nómina
+
+Cuando tengas tu primer empleo formal, el banco donde cobras te ofrecerá préstamos «preaprobados». Pregunta el CAT y el total a pagar, y cuántos meses te van a descontar. Si cambias de trabajo, la deuda sigue.
+
+
+
+#### «Tu sueldo antes» para comprar algo que quieres
+
+Pedir adelantos para gustos es la forma más fácil de vivir siempre una semana atrás. Déjalos solo para urgencias.
+
+
+
+#### Casos
+
+
+**Caso 1. Los tenis**
+
+La app le cobra a Emilio 49 pesos por adelantarle cada semana.
+- *¿Qué hace?* Aparta cada semana y compra los tenis sin deber.
+
+
+**Caso 2. El préstamo preaprobado**
+
+A Santi, en su primer trabajo, el banco le ofrece 15,000 de préstamo de nómina.
+- *¿Qué hace?* Pregunta el total a pagar y cuántos meses le descontarán antes de decidir.
+
+
+**Caso 3. El adelanto de palabra**
+
+A Valeria le adelantaron dinero en la cafetería donde ayuda y no sabe cuánto le van a descontar.
+- *¿Qué hace?* Pide por escrito cuánto le descuentan y cuántos pagos faltan.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que es dinero extra | Vives una semana atrás | Es tu mismo sueldo |
+| Usar la app cada semana | Pagas miles al año | Suma el costo |
+| Aceptar un preaprobado sin preguntar | Te descuentan meses | Pregunta el total |
+| Adelantos de palabra | No sabes cuánto debes | Por escrito |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Emilio, Santi y Valeria. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué es un adelanto de sueldo? a) Un regalo del trabajo · b) Tu mismo sueldo, antes · c) Un bono
+2. 35 pesos de comisión cada semana. ¿Cuánto es al año? a) 1,820 · b) 420 · c) 35
+3. ¿Qué preguntas antes de un préstamo de nómina? a) Si es rápido · b) Si te dan más · c) El total a pagar y cuántos meses te descuentan
+**Respuestas:** 1-b: luego te lo descuentan. 2-a: 35 × 52. 3-c: así sabes cuánto cuesta.
+
+
+
+#### Ponlo en práctica
+
+Quieres algo de 1,500 y apartas 250 por semana. ¿En cuántas semanas lo compras sin deber?
+**Respuesta:** 1,500 ÷ 250 = 6 semanas.
+
+
+
+#### A tu plan
+
+Elige algo que quieras comprar y calcula cuántas semanas necesitas apartando una cantidad fija, sin adelantos.
+
+
+
+### Para saber más
+
+- **Compara créditos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «simulador de crédito de nómina».
+- **Trabajo de adolescentes** (PROFEDET · español): 800 911 7877 | Asesoría laboral sin costo.
+
+### Palabras clave
+
+- *Adelanto de sueldo:* recibir antes parte de tu pago, que luego te descuentan.
+- *Préstamo de nómina:* crédito del banco donde cobras que se paga con descuentos de tu sueldo.
+
+### Fuentes
+
+Ley Federal del Trabajo (artículo 110) · CONDUSEF · PROFEDET, consultados el 30 de septiembre de 2026.
 
 ---

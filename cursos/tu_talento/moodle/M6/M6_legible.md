@@ -2,7 +2,7 @@
 
 ## M6 U01. Tu línea de crédito no es tu ingreso
 
-**Lo que lograrás:** Entender que tu línea de crédito es dinero prestado que pagarás con tus ingresos futuros, y que un aumento de línea no es un aumento de sueldo.
+**Lo que lograrás:** Explicar que tu línea de crédito es dinero prestado que pagarás con tus ingresos futuros, y que un aumento de línea no es un aumento de sueldo.
 
 **Para empezar:** Renata suma las líneas de sus seis tarjetas y dice: "Tengo 180,000 disponibles". Cuando le suben la línea, lo celebra como si le hubieran pagado un evento. Hoy debe 95,000 y no sabe cómo llegó ahí. En esta lección aprenderás a ver el crédito como lo que es: deuda.
 
@@ -1035,5 +1035,319 @@ Escribe tres ideas de ingreso puente que puedas activar en tu próxima temporada
 ### Fuentes
 
 CONDUSEF, consultado el 29 de septiembre de 2026.
+
+---
+
+## M6 U07. Adelantos de pago y préstamo de nómina en meses de llamados
+
+**Lo que lograrás:** Distinguir el adelanto de una producción, el préstamo de nómina del banco y las apps que «adelantan», y decidir cuándo conviene cada uno sin comprometer tus meses de sequía.
+
+**Para empezar:** Gael cobra como asimilado en una serie. Producción le ofrece adelantarle el pago de dos capítulos, y su banco le manda un mensaje: «Tienes 60,000 de préstamo de nómina preaprobado». En tres meses termina la temporada.
+
+### Lo esencial (5 minutos)
+
+#### Tres formas de tener dinero antes
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Adelanto de la producción | Te pagan antes lo que ya vas a ganar. | Por escrito. |
+| Préstamo de nómina | El banco se cobra de tu depósito. | Sigue aunque termine el proyecto. |
+| App que «adelanta» | Comisión por cada adelanto. | Suma el costo del año. |
+| Tu fondo de sequía | Sin intereses. | La primera opción. |
+
+#### El riesgo: el préstamo dura más que el proyecto
+
+Un préstamo de nómina se paga con tus depósitos. Si la temporada termina y ya no te depositan en esa cuenta, **la deuda sigue** y el banco la cobra de lo que tengas o la reporta al Buró. Antes de aceptar, cuenta cuántos pagos caen después del último día de tu contrato.
+
+
+
+#### Si te adelantan pago
+
+Un adelanto de la producción no cobra intereses, pero pídelo por escrito: cuánto, a cuenta de qué pago y qué pasa si el proyecto se cancela. Si cobras como asimilado, la ley laboral limita los descuentos por anticipos.
+
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
+
+
+
+#### Un caso en un minuto
+
+Gael contó: el préstamo de 60,000 era a 24 quincenas y su contrato dura 6. Quedarían 18 quincenas sin depósito de esa serie. Pidió solo el adelanto de un capítulo por escrito y reforzó su fondo de sequía.
+
+> **Idea clave:** un préstamo de nómina no termina con tu proyecto; compara los pagos con la duración de tu contrato y usa primero tu fondo de sequía.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pasa con un préstamo de nómina si termina tu proyecto?
+*Respuesta:* La deuda sigue aunque ya no te depositen.
+
+2. ¿Qué pides por escrito en un adelanto de la producción?
+*Respuesta:* Cuánto, a cuenta de qué pago y qué pasa si se cancela.
+
+
+#### Para recordar
+
+- El préstamo dura más que el proyecto.
+- Adelanto por escrito.
+- Primero, tu fondo de sequía.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Antes de aceptar
+
+| Pregunta | Anota |
+|---|---|
+| ¿Cuánto dura mi contrato? | |
+| ¿Cuántos pagos tiene el préstamo? | |
+| ¿Cuántos pagos caen después del contrato? | |
+| ¿De dónde saldrán esos pagos? | |
+| Total a pagar y CAT | |
+
+
+
+#### Las apps de adelanto
+
+Algunas apps cobran una «propina» o comisión fija por adelantar. 90 pesos por adelantar 1,500 cada quincena son 2,160 al año: más caro que muchos créditos.
+
+
+
+#### Si facturas
+
+Si cobras por honorarios o RESICO, no hay «nómina»: el banco te ofrecerá un préstamo personal. Aplica la misma regla: compara los pagos con tus ingresos de los meses flojos.
+
+
+
+#### Casos
+
+
+**Caso 1. El preaprobado de Gael**
+
+El banco le ofrece a Gael 60,000 a 24 quincenas; su contrato dura 6.
+- *¿Qué hace?* Cuenta los pagos que caen después del contrato y usa primero su fondo.
+
+
+**Caso 2. El adelanto de Valeria**
+
+Una marca le ofrece a Valeria adelantarle la mitad de una campaña.
+- *¿Qué hace?* Lo pide por escrito: monto, a cuenta de qué y qué pasa si se cancela.
+
+
+**Caso 3. La app de Renata**
+
+Renata usa una app que le adelanta 1,500 por 90 cada quincena.
+- *¿Qué hace?* Calcula lo que paga al año y deja de usarla.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aceptar por «preaprobado» | Deuda sin ingreso fijo | Compara con tu contrato |
+| Adelantos de palabra | Discusiones al cobrar | Por escrito |
+| Usar la app cada quincena | Pagas más que un crédito | Suma el año |
+| Olvidar la sequía | Te quedas sin nada | Fondo primero |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Gael, Valeria y Renata. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué pasa con un préstamo de nómina cuando termina tu proyecto? a) Se cancela solo · b) La deuda sigue · c) Lo paga la producción
+2. ¿Qué usas primero en un mes sin llamados? a) Tu fondo de sequía · b) Un préstamo preaprobado · c) Una app de adelanto
+3. Una app cobra 90 por adelantar cada quincena. ¿Cuánto pagas al año? a) 1,080 · b) 90 · c) 2,160
+**Respuestas:** 1-b: se cobra de lo que tengas o se reporta al Buró. 2-a: no cobra intereses. 3-c: 90 × 24 quincenas.
+
+
+
+#### Ponlo en práctica
+
+Te ofrecen un préstamo a 24 quincenas de 3,200. Tu contrato dura 8 quincenas. ¿Cuánto tendrás que pagar después de que termine tu contrato?
+**Respuesta:** Quedan 16 quincenas × 3,200 = 51,200.
+
+
+
+#### A tu plan
+
+Antes de aceptar cualquier préstamo o adelanto, llena la tabla «Antes de aceptar» con tu contrato actual.
+
+
+
+### Para saber más
+
+- **Compara créditos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «simulador de crédito de nómina» y «crédito personal».
+- **Tus derechos laborales** (PROFEDET · español): 800 911 7877 | Asesoría sin costo.
+
+### Palabras clave
+
+- *Préstamo de nómina:* crédito que se paga con descuentos de tus depósitos de nómina.
+- *Adelanto:* pago que recibes antes de la fecha acordada, a cuenta de lo que vas a ganar.
+
+### Fuentes
+
+Ley Federal del Trabajo (artículo 110) · CONDUSEF · PROFEDET, consultados el 30 de septiembre de 2026.
+
+---
+
+## M6 U08. Empeñar tu equipo: la herramienta que no debes perder
+
+**Lo que lograrás:** Explicar cómo funciona un empeño, cuánto cuesta de verdad y por qué tu equipo de trabajo es lo último que empeñas.
+
+**Para empezar:** Toño necesitaba 12,000 para pagar la renta del estudio. Empeñó su micrófono principal. Dos semanas después le salió una sesión grande y tuvo que rentar uno: pagó el empeño, la renta del micrófono y casi pierde la sesión.
+
+### Lo esencial (5 minutos)
+
+#### Cómo funciona
+
+1. Dejas una **prenda** y hacen un **avalúo**.
+2. Te prestan solo una parte de ese valor.
+3. Pagas el préstamo más los intereses para recuperarla (**desempeño**).
+4. Puedes **refrendar**: pagar los intereses y alargar el plazo.
+5. Si no pagas ni refrendas, la casa **vende** tu prenda.
+
+
+
+#### El micrófono de Toño
+
+- Préstamo: **12,000**
+- Intereses y comisiones de 2 meses: **2,880**
+- Renta de un micrófono para la sesión: **1,500**
+- Lo que le costó de verdad: **16,380**
+Empeñar su herramienta le costó más que el préstamo.
+
+
+#### Si vas a empeñar
+
+Busca la casa en el **Registro Público de Casas de Empeño de la PROFECO**, pide por escrito el avalúo, el costo total y la fecha límite, y guarda tu boleta. Empeña algo que no uses para trabajar.
+
+> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO, con un contrato de adhesión registrado, y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
+
+
+
+#### Un caso en un minuto
+
+Toño desempeñó su micrófono y se puso una regla: su equipo principal nunca se empeña. Hizo una lista de lo que sí podría empeñar en una urgencia y subió su fondo de sequía a tres meses de renta del estudio.
+
+> **Idea clave:** tu equipo es tu ingreso; si tienes que empeñar, que sea algo que no uses para trabajar, en una casa registrada y con la fecha anotada.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Por qué no empeñas tu equipo principal?
+*Respuesta:* Porque puedes perder trabajo además de la prenda.
+
+2. ¿Qué es la demasía?
+*Respuesta:* Lo que sobra si venden tu prenda en más de lo que debías; es tuya.
+
+
+#### Para recordar
+
+- Tu equipo no se empeña.
+- Casa registrada en la PROFECO.
+- Fecha anotada y boleta guardada.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si venden tu prenda: la demasía
+
+Si venden tu prenda en más de lo que debías, la diferencia es tuya. Pregunta cómo reclamarla y en qué plazo.
+
+
+
+#### Asegura tu equipo
+
+Un seguro para tu equipo o una lista con números de serie y facturas te ayuda si te lo roban o se daña (M10). Es más fácil recuperarte con un seguro que con un empeño.
+
+
+
+#### Otras salidas
+
+Antes de empeñar: tu fondo de sequía, pedir un adelanto por escrito de un proyecto confirmado o negociar la fecha de pago de la renta.
+
+
+
+#### Casos
+
+
+**Caso 1. El micrófono**
+
+Toño necesita 12,000 y piensa empeñar su micrófono principal.
+- *¿Qué hace?* Usa su fondo o empeña algo que no usa para trabajar.
+
+
+**Caso 2. La cámara de Valeria**
+
+Valeria quiere empeñar la cámara con la que graba su contenido.
+- *¿Qué hace?* Busca otra salida: sin cámara no puede trabajar.
+
+
+**Caso 3. La casa de empeño**
+
+Renata va a empeñar un reloj en un local sin registro.
+- *¿Qué hace?* Busca una casa registrada en la PROFECO.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Empeñar tu herramienta | Pierdes ingresos | Empeña otra cosa |
+| Firmar sin leer | No sabes cuánto pagarás | Pide todo por escrito |
+| Olvidar la fecha | Venden tu prenda | Anótala |
+| No tener seguro del equipo | Si lo pierdes, empiezas de cero | Asegúralo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Toño, Valeria y Renata. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué es lo último que empeñas? a) Tu equipo de trabajo · b) Un reloj que no usas · c) Una joya
+2. ¿Qué es refrendar? a) Vender tu prenda · b) Pagar los intereses para alargar el plazo · c) Pedir más dinero
+3. ¿Dónde verificas una casa de empeño? a) En redes sociales · b) En sus anuncios · c) En el registro de la PROFECO
+**Respuestas:** 1-a: sin equipo no hay ingreso. 2-b: así no pierdes la prenda. 3-c: así tienes a quién reclamar.
+
+
+
+#### Ponlo en práctica
+
+Te prestan 10,000 y el costo es 12% al mes. Si lo recuperas en 3 meses, ¿cuánto pagas?
+**Respuesta:** 12% de 10,000 = 1,200 al mes; 3,600 en 3 meses. Pagas 13,600.
+
+
+
+#### A tu plan
+
+Haz tu lista de equipo que nunca empeñarías, con número de serie y foto de la factura.
+
+
+
+### Para saber más
+
+- **Registro Público de Casas de Empeño** (PROFECO · español): https://rpce.profeco.gob.mx — **Qué buscar:** el nombre de la casa de empeño.
+- **Quejas** (PROFECO · español): 55 5568 8722 | Teléfono del Consumidor.
+
+### Palabras clave
+
+- *Avalúo:* el valor que la casa de empeño le pone a tu prenda.
+- *Refrendo:* pago de intereses para alargar el plazo de un empeño.
+
+### Fuentes
+
+PROFECO (Registro Público de Casas de Empeño) · Ley Federal de Protección al Consumidor, consultados el 30 de septiembre de 2026.
 
 ---

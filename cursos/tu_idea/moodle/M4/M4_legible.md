@@ -455,7 +455,7 @@ SSPC · INDAUTOR, consultados el 30 de septiembre de 2026.
 
 ## M4 U04. Crecer en serio: RFC, permisos e impuestos cuando toque
 
-**Lo que lograrás:** Saber cuándo y cómo formalizar un negocio en México (RFC, régimen de impuestos, permisos) y qué hacer mientras eres menor de edad.
+**Lo que lograrás:** Decidir cuándo y cómo formalizar un negocio en México (RFC, régimen de impuestos, permisos) y qué hacer mientras eres menor de edad.
 
 **Para empezar:** A Santi, ya de 18, una tienda le pide factura para contratarlo a reparar los celulares de sus empleados. Nunca ha tramitado su RFC y cree que «le van a quitar todo en impuestos». En esta lección verás qué implica formalizarse.
 

@@ -548,6 +548,12 @@ If what you leave is small, California has a small estate affidavit that avoids 
 
 
 
+#### Your home in Mexico: usufruct
+
+If you own a house or land in Mexico and want to pass it to your children while you're alive but keep using it, Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
+
+
+
 #### Cases
 
 

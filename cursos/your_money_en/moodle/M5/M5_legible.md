@@ -751,7 +751,7 @@ Compare at least two options and check the total cost.
 
 #### Homebuying assistance programs
 
-In California there are state programs, like those of the California Housing Finance Agency (**CalHFA**), and local programs that help first-time buyers with the down payment and closing costs. Each program has its own requirements, and some may ask for documents an ITIN doesn't meet. [POR CONFIRMAR]
+In California there are state programs, like those of the California Housing Finance Agency (**CalHFA**), and local programs that help first-time buyers with the down payment and closing costs. Each program has its own requirements, and some may ask for documents an ITIN doesn't meet; ask the program directly.
 
 A **HUD-certified housing counselor** can help you at no cost or at low cost to review which programs apply to your case, whether you qualify for a mortgage with an ITIN and how much you need to save.
 
@@ -761,7 +761,7 @@ A **HUD-certified housing counselor** can help you at no cost or at low cost to 
 
 #### Reporting rent to your credit history
 
-Some landlords and services report your rent payments to the credit agencies. In California, some owners of certain buildings must offer that option to their tenants. [POR CONFIRMAR]
+Some landlords and services report your rent payments to the credit agencies. In California, owners of buildings with more than 15 units and some companies that own several properties must offer that option to their tenants (AB 2747); they may charge you up to 10 dollars a month.
 
 If you pay on time, this can help you build a credit history for a future mortgage (M3 U03).
 
@@ -845,7 +845,7 @@ Keep your lease and your receipts. If you want to buy, make an appointment with 
 
 ### Sources
 
-[R44] California, tenants' rights guide · [R22] CFPB, housing counselors · AB 12 (deposits, 2024) · CalHFA [POR CONFIRMAR].
+[R44] California, tenants' rights guide · [R22] CFPB, housing counselors · AB 12 (deposits, 2024) · AB 2747 (rent reporting) · CalHFA.
 
 ---
 
@@ -1372,12 +1372,12 @@ It all costs nothing. Nobody should charge you to use the app.
 
 ### Go deeper (5 more minutes)
 
-#### IMSS options for people living abroad [POR CONFIRMAR]
+#### IMSS options for people living abroad
 
 | Option | What it's for | What to check |
 |---|---|---|
-| Modalidad 40 (voluntary continuation) | Keep adding weeks toward the pension | Requirements, prior weeks and cost with IMSS |
-| Modalidad 33 (health insurance for the family) | IMSS medical care for you and your family in Mexico | Yearly cost and who can enroll |
+| Modalidad 40 (voluntary continuation) | Keep adding weeks toward the pension; it can be paid from abroad | At least 52 weeks contributed in the 5 years before you left formal work, and no more than 5 years since then; the cost with IMSS |
+| Modalidad 33 (health insurance for the family) | IMSS medical care for your family in Mexico, and for you when you're there | Yearly fee based on each person's age |
 | Voluntary contributions to the AFORE | Increase your savings | Doesn't add weeks |
 
 These options have requirements and costs that change. Confirm them directly with IMSS before deciding.
@@ -1496,7 +1496,7 @@ Download AforeMóvil or use e-SAR, find your account and update your beneficiari
 
 ### Sources
 
-CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 and 33 [POR CONFIRMAR] · SSA, international agreements.
+CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 and 33 · SSA, international agreements.
 
 ---
 
@@ -1614,7 +1614,7 @@ Tell a trusted person where it is. You can use a sealed envelope or a folder at 
 
 A U.S. will may not be enough for property in Mexico. Ask a notario in Mexico.
 
-In September, Mexico's "Mes del Testamento" (Will Month) usually offers wills at a lower cost. [POR CONFIRMAR]
+In September, Mexico's "Mes del Testamento" (Will Month) offers discounts of up to 50% on notary fees in every state; the price depends on the state.
 
 > **Good to know:** the Mexican Consulate offers guidance and sometimes events with notarios for procedures like powers of attorney and wills. Ask at your consulate.
 
@@ -2072,7 +2072,7 @@ Compare the total cost and avoid cash advances that take a percentage of your da
 
 #### Getting paid with apps and cards
 
-If you get paid through payment apps, use a business account. Some apps send you and the IRS a Form 1099-K when you receive payments for goods or services above a certain amount. [POR CONFIRMAR]
+If you get paid through payment apps, use a business account. Payment apps send you and the IRS a Form 1099-K when you receive more than 20,000 dollars in more than 200 payments for goods or services in a year. Even if you don't get one, that income must be reported.
 
 That doesn't mean you pay more taxes, but it does mean the IRS knows about that income. That's why you keep your record of sales and expenses.
 

@@ -898,3 +898,157 @@ Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus c
 SAT · INEGI · Banco de México · Nacional Financiera, consultados el 30 de septiembre de 2026.
 
 ---
+
+## M8 U07. Adelantos y préstamos a tus empleados
+
+**Lo que lograrás:** Poner reglas claras para adelantar sueldo o prestar a quien trabaja contigo, respetar el tope de descuento de la ley y cuidar el flujo de tu negocio.
+
+**Para empezar:** En la fonda de Rosa, las dos ayudantes le piden adelantos casi cada semana. Rosa dice que sí a todo «porque son como de la familia», pero ya no sabe cuánto le debe cada una y un lunes no le alcanzó para surtir.
+
+### Lo esencial (5 minutos)
+
+#### Tu política en cuatro reglas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Por escrito | Monto, descuento y fecha de término. | Firmado por los dos. |
+| Con tope | Respeta el límite de la ley. | Su mínimo no se toca. |
+| Uno a la vez | Hasta liquidar el anterior. | Evita la bola de nieve. |
+| Con un fondo | Un monto al mes para adelantos. | Protege tu flujo. |
+
+#### Lo que dice la ley
+
+Si descuentas un adelanto del sueldo, la Ley Federal del Trabajo pone límites: el descuento de cada pago **no puede pasar de 30% de lo que la persona gana arriba del salario mínimo**, el adelanto no puede ser mayor a un mes de sueldo y **no se cobran intereses**. El salario mínimo no se puede descontar.
+
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo permite descontar anticipos de salario con un tope de 30% del excedente del salario mínimo, sin intereses; el salario mínimo general en 2026 es de 315.04 pesos diarios. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la CONASAMI.
+
+
+
+#### Cuida tu flujo
+
+Decide cuánto puedes adelantar al mes sin afectar tus compras y tus pagos, por ejemplo 5% de tus ventas del mes. Cuando se acabe ese fondo, se acabaron los adelantos hasta que regrese dinero.
+
+
+
+#### Un caso en un minuto
+
+Rosa hizo una hoja por ayudante: cuánto les adelantó, cuánto descuenta por semana y cuánto falta. Puso un fondo de 1,500 al mes para adelantos y una regla: uno a la vez. Ya no le falta para surtir.
+
+> **Idea clave:** un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo; ponlo por escrito, con tope y con un fondo al mes.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Puedes cobrar intereses por un adelanto de sueldo?
+*Respuesta:* No; la ley no lo permite.
+
+2. ¿Cuál es el tope del descuento?
+*Respuesta:* 30% de lo que la persona gana arriba del salario mínimo.
+
+
+#### Para recordar
+
+- Por escrito y firmado.
+- Sin intereses y con tope.
+- Un fondo al mes para adelantos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu hoja de adelantos
+
+| Nombre | Adelanto | Descuento por pago | Pagos | Fecha de término |
+|---|---|---|---|---|
+| | | | | |
+
+
+
+#### Cuando es una emergencia
+
+Para una urgencia de salud o una muerte en la familia, puedes dar más plazo. Déjalo por escrito igual: la claridad cuida la relación.
+
+
+
+#### Si te piden ser aval
+
+Si alguien de tu equipo te pide que seas aval de un crédito, recuerda que la deuda sería tuya si no paga (M6).
+
+
+
+#### Casos
+
+
+**Caso 1. Las ayudantes de Rosa**
+
+Rosa adelanta a sus ayudantes sin anotar nada.
+- *¿Qué hace?* Hace una hoja por persona y un acuerdo por escrito.
+
+
+**Caso 2. El interés de Don Pepe**
+
+Don Pepe quiere cobrar 10% de interés a su ayudante por un adelanto.
+- *¿Qué hace?* No cobra intereses: la ley no lo permite en adelantos de sueldo.
+
+
+**Caso 3. El técnico de Toño**
+
+El ayudante de Toño pide un segundo adelanto sin haber pagado el primero.
+- *¿Qué hace?* Aplica su regla de uno a la vez y ofrece más plazo si es una emergencia.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Adelantos sin anotar | No sabes cuánto te deben | Hoja por persona |
+| Cobrar intereses | Rompes la ley | Sin intereses |
+| Descontar todo de golpe | La persona se queda sin nada | Respeta el tope |
+| Sin fondo para adelantos | Te falta para surtir | Fija un monto al mes |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Don Pepe y Toño. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Puedes cobrar intereses por un adelanto de sueldo? a) Sí, 10% · b) Sí, si lo firman · c) No
+2. ¿Cuál es el tope para descontar un adelanto? a) 30% de lo que gana arriba del mínimo · b) Todo el sueldo · c) Lo que decidas
+3. ¿Cómo proteges tu flujo? a) Das todo lo que te piden · b) Fijas un fondo al mes para adelantos · c) Pides prestado para adelantar
+**Respuestas:** 1-c: artículo 110 de la Ley Federal del Trabajo. 2-a: su mínimo no se toca. 3-b: así no te falta para surtir.
+
+
+
+#### Ponlo en práctica
+
+Tu ayudante gana 2,400 a la semana y el mínimo semanal es de unos 2,205. ¿Cuánto es lo más que le puedes descontar por semana?
+**Respuesta:** Gana 195 arriba del mínimo; 30% de 195 = 58.50 por semana.
+
+
+
+#### A tu plan
+
+Escribe tu política de adelantos en cuatro reglas y compártela con tu equipo.
+
+
+
+### Para saber más
+
+- **Obligaciones como patrón** (PROFEDET · español): 800 911 7877 | Asesoría laboral sin costo.
+- **Salario mínimo vigente** (CONASAMI · español): https://www.gob.mx/conasami — **Qué buscar:** «salarios mínimos 2026».
+
+### Palabras clave
+
+- *Anticipo de salario:* parte del sueldo que se paga antes y luego se descuenta, sin intereses.
+- *Flujo de efectivo:* el dinero que entra y sale de tu negocio cada semana.
+
+### Fuentes
+
+Ley Federal del Trabajo (artículos 110 y 112) · CONASAMI · PROFEDET, consultados el 30 de septiembre de 2026.
+
+---

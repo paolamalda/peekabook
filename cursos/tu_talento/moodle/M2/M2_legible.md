@@ -2,7 +2,7 @@
 
 ## M2 U01. ¿RESICO, Asimilados o Actividad Empresarial?
 
-**Lo que lograrás:** Conocer cómo funciona cada forma de pagar impuestos para llegar preparado a la conversación con tu contador.
+**Lo que lograrás:** Explicar cómo funciona cada forma de pagar impuestos para llegar preparado a la conversación con tu contador.
 
 **Para empezar:** Gael factura en RESICO, pero una productora le paga como "asimilado". Además gasta mucho en vestuario y clases, y creía que en RESICO podía deducirlos. Su contador le dice que tiene que revisar las dos cosas. En esta lección conocerás los tres caminos más comunes para gente del medio.
 
@@ -194,7 +194,7 @@ LISR, artículos 94, 96, 100 a 110 y 113-E a 113-J, consultados el 29 de septiem
 
 ## M2 U02. El IVA: el dinero que cobras pero no es tuyo
 
-**Lo que lograrás:** Entender que el IVA que cobras en tus facturas se entrega al SAT y apartarlo el mismo día que te pagan.
+**Lo que lograrás:** Explicar que el IVA que cobras en tus facturas se entrega al SAT y apartarlo el mismo día que te pagan.
 
 **Para empezar:** Valeria facturó 50,000 más IVA por una campaña. Le depositaron 58,000 y los usó como si fueran suyos. Al mes siguiente su contador le dijo que debía 8,000 de IVA y no los tenía. En esta lección aprenderás a separar el IVA desde el primer día.
 
@@ -555,7 +555,7 @@ LISR, artículos 27 y 103 a 105, consultados el 29 de septiembre de 2026 a trav�
 
 ## M2 U04. Facturar, declarar y no atrasarte con el SAT
 
-**Lo que lograrás:** Conocer tu calendario fiscal y las herramientas del SAT para cumplir a tiempo y responder si te llega un aviso.
+**Lo que lograrás:** Identificar tu calendario fiscal y las herramientas del SAT para cumplir a tiempo y responder si te llega un aviso.
 
 **Para empezar:** Toño dejó de declarar dos años porque "casi no facturaba". Un día le llegó una carta invitación del SAT a su buzón tributario, que nunca revisaba. Se asustó y no supo qué hacer. En esta lección armarás tu calendario y sabrás a quién pedir ayuda.
 
@@ -732,7 +732,7 @@ SAT, buzón tributario y CFDI 4.0 · PRODECON, consultados el 29 de septiembre d
 
 ## M2 U05. Deducciones personales y tu declaración anual
 
-**Lo que lograrás:** Conocer las deducciones personales, cuándo aplican y cómo pueden darte saldo a favor en tu declaración anual.
+**Lo que lograrás:** Identificar las deducciones personales, cuándo aplican y cómo pueden darte saldo a favor en tu declaración anual.
 
 **Para empezar:** Gael pagó una cirugía de rodilla, sus consultas de psicología y un PPR. Nunca los usó en su declaración anual porque no sabía que existían. Cuando cobra por asimilados, esas deducciones pueden devolverle dinero. En esta lección aprenderás cuáles son y quién puede usarlas.
 

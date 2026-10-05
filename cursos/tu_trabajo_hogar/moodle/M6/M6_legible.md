@@ -2,7 +2,7 @@
 
 ## M6 U01. Cuando la casa te inscribe al IMSS
 
-**Lo que lograrás:** Conocer qué te da el IMSS cuando la casa donde trabajas te inscribe, cómo funciona si trabajas en varias casas y cómo platicarlo.
+**Lo que lograrás:** Identificar qué te da el IMSS cuando la casa donde trabajas te inscribe, cómo funciona si trabajas en varias casas y cómo platicarlo.
 
 **Para empezar:** La señora con quien trabaja Mari le dijo: «Te puedo inscribir al IMSS, pero no sé cómo y no sé si te conviene». Mari tampoco sabe qué ganaría. En esta lección lo verás.
 
@@ -152,7 +152,7 @@ IMSS, esquema de Personas Trabajadoras del Hogar, consultado el 30 de septiembre
 
 ## M6 U02. IMSS por tu cuenta: inscríbete tú y paga tu cuota
 
-**Lo que lograrás:** Conocer las formas de tener IMSS pagando tú la cuota (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cómo decidir.
+**Lo que lograrás:** Identificar las formas de tener IMSS pagando tú la cuota (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cómo decidir.
 
 **Para empezar:** Ninguna de las casas de Chayo la inscribe. Su mamá, de 62 años, necesita médico seguido y su hija es chica. Chayo escuchó que se puede «pagar el IMSS por tu cuenta». En esta lección verás cómo.
 
@@ -317,7 +317,7 @@ IMSS · medios nacionales que citan las cuotas 2026, consultados el 30 de septie
 
 ## M6 U03. Sin seguridad social: IMSS-Bienestar y tu prevención
 
-**Lo que lograrás:** Saber dónde atenderte si no tienes seguridad social, qué documentos llevar y cómo prevenir para no perder días de trabajo.
+**Lo que lograrás:** Identificar dónde atenderte si no tienes seguridad social, qué documentos llevar y cómo prevenir para no perder días de trabajo.
 
 **Para empezar:** Doña Tere no tiene IMSS. Cuando se enferma va a la farmacia de la esquina y pierde días de trabajo. Nunca se ha hecho un chequeo. En esta lección verás dónde atenderte.
 
@@ -600,7 +600,7 @@ IMSS · Secretaría de Salud, consultados el 30 de septiembre de 2026.
 
 ## M6 U05. Seguros chiquitos: vida y gastos funerarios
 
-**Lo que lograrás:** Entender los seguros de vida y los planes de previsión funeraria, qué revisar antes de contratar y cómo nombrar beneficiarios.
+**Lo que lograrás:** Explicar los seguros de vida y los planes de previsión funeraria, qué revisar antes de contratar y cómo nombrar beneficiarios.
 
 **Para empezar:** Cuando murió su mamá, Doña Tere pidió prestado 25,000 para el funeral. Todavía lo está pagando. Ahora piensa: «Si me pasa algo, no quiero que mi hija se endeude». En esta lección verás tus opciones.
 

@@ -6,7 +6,7 @@
 import re, html, markdown
 
 C = dict(azul="#0A3161", azul2="#061F40", rosa="#E4007C", rosa2="#FF4FA8", tinte="#E6ECF5", niebla="#F5F7FB",
-         borde="#E5E8F0", texto="#0B1220", gris="#5A6478", ambar="#B35C00", ambar_bg="#FFF6EC")
+         borde="#E5E8F0", texto="#0B1220", gris="#5A6478", ambar="#A35200", ambar_bg="#FFF6EC")
 
 CSS = """<style>
 .tdtf{max-width:880px;margin:0 auto;color:%(texto)s;font-size:1.02rem;line-height:1.6}
@@ -21,7 +21,7 @@ CSS = """<style>
 .tdtf .hero .code{display:inline-block;background:%(rosa)s;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
 .tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
 .tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
-.tdtf .hero .lbl{color:%(rosa2)s;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .hero .lbl{color:#FF7ABD;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
 .tdtf .card2{background:#fff;border:1px solid %(borde)s;border-radius:16px;padding:18px 20px;margin-bottom:14px}
 .tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:%(tinte)s;border-radius:16px;padding:18px 20px;margin-bottom:18px}
 .tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%%;background:%(rosa)s;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}

@@ -153,7 +153,7 @@ SEP · STPS, consultados el 30 de septiembre de 2026.
 
 ## M9 U02. Tu primer trabajo formal: contrato, recibo, IMSS y Afore
 
-**Lo que lograrás:** Saber qué revisar en tu primer trabajo formal (contrato, salario, recibo, IMSS, Afore y derechos) y cómo empezar tu ahorro para el retiro desde joven.
+**Lo que lograrás:** Identificar qué revisar en tu primer trabajo formal (contrato, salario, recibo, IMSS, Afore y derechos) y cómo empezar tu ahorro para el retiro desde joven.
 
 **Para empezar:** Emilio cumplió 18 y le ofrecieron trabajo en una tienda. Le dijeron: «Te pagamos en efectivo y sin papeles, así ganas más». No sabe qué le conviene. En esta lección verás qué implica un trabajo formal.
 

@@ -2,7 +2,7 @@
 
 ## M2 U01. Una cuenta sin comisiones
 
-**Lo que lograrás:** Conocer la cuenta básica que los bancos deben ofrecer sin comisiones y revisar si tu cuenta de nómina te cobra.
+**Lo que lograrás:** Identificar la cuenta básica que los bancos deben ofrecer sin comisiones y revisar si tu cuenta de nómina te cobra.
 
 **Para empezar:** A Ramiro su banco le cobra 120 pesos al mes por «saldo mínimo». No sabía que existe una cuenta que no cobra comisiones. En esta lección sabrás cómo pedirla.
 
@@ -278,7 +278,7 @@ Banco de México, consultado el 29 de septiembre de 2026.
 
 ## M2 U03. Quién te protege y dónde reclamar
 
-**Lo que lograrás:** Saber qué hace la CONDUSEF, cómo verificar que una institución existe y cómo reclamar un cobro indebido.
+**Lo que lograrás:** Identificar qué hace la CONDUSEF, cómo verificar que una institución existe y cómo reclamar un cobro indebido.
 
 **Para empezar:** A Karla le cobran un «seguro» en su tarjeta que nunca pidió. En el banco le dijeron que no se puede quitar. Sí se puede. En esta lección sabrás a quién acudir.
 
@@ -570,7 +570,7 @@ CONDUSEF · Profeco · Banco de México, consultados el 30 de septiembre de 2026
 
 ## M2 U05. El dinero pierde valor: inflación e interés compuesto
 
-**Lo que lograrás:** Entender cómo la inflación le quita valor al dinero guardado, qué es la tasa real y cómo el interés compuesto hace crecer tu ahorro o tu deuda.
+**Lo que lograrás:** Explicar cómo la inflación le quita valor al dinero guardado, qué es la tasa real y cómo el interés compuesto hace crecer tu ahorro o tu deuda.
 
 **Para empezar:** Don Chuy guarda 10,000 pesos en un cajón desde hace tres años «para una emergencia». Hoy con ese dinero compra menos que cuando lo guardó. En esta lección verás por qué y qué hacer.
 

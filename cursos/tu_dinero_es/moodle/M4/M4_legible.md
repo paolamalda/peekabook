@@ -2335,7 +2335,7 @@ Ready.gov · FTC, IdentityTheft.gov.
 
 ## M4 U12. ¿Cómo aseguro que la manutención llegue a mis hijos?
 
-**Lo que lograrás:** Saber qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México.
+**Lo que lograrás:** Identificar qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México.
 
 **Para empezar:** Daniela cría sola a su hijo en San Diego. El papá le da «cuando puede», en efectivo. A Daniela le da miedo pedir más porque cree que, por su situación migratoria, no puede ir a una oficina del gobierno.
 

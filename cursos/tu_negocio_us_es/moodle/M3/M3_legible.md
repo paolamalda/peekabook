@@ -2,7 +2,7 @@
 
 ## M3 U01. Ganar no es tener efectivo
 
-**Lo que lograrás:** Entender el flujo de efectivo y hacer un calendario sencillo de entradas y salidas para no quedarte sin dinero.
+**Lo que lograrás:** Explicar el flujo de efectivo y hacer un calendario sencillo de entradas y salidas para no quedarte sin dinero.
 
 **Para empezar:** Javier terminó de pintar una casa por $4,500 para un contratista, pero le pagarán en 30 días. Mientras, tiene que pagar pintura, gasolina y su pago trimestral de impuestos. En esta lección verás por qué ganar no es lo mismo que tener dinero.
 
@@ -470,7 +470,7 @@ FDIC · NCUA, consultados el 29 de septiembre de 2026.
 
 ## M3 U04. Inflación, tasas e interés compuesto en tu negocio
 
-**Lo que lograrás:** Entender cómo la inflación sube tus costos y le quita valor a tu efectivo, cuándo y cómo ajustar precios, y cómo el interés compuesto hace crecer tu reserva o tu deuda.
+**Lo que lograrás:** Explicar cómo la inflación sube tus costos y le quita valor a tu efectivo, cuándo y cómo ajustar precios, y cómo el interés compuesto hace crecer tu reserva o tu deuda.
 
 **Para empezar:** Don Ramón vende el burrito al mismo precio desde hace un año, pero la carne, las tortillas y el gas subieron. Vende lo mismo y le queda menos. En esta lección verás cómo proteger tu margen.
 

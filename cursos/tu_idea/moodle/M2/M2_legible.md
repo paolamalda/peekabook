@@ -2,7 +2,7 @@
 
 ## M2 U01. Tu primera cuenta
 
-**Lo que lograrás:** Saber cómo abrir tu primera cuenta siendo menor de edad, qué revisar (comisiones, protección, límites) y la diferencia entre tarjeta de débito y de crédito.
+**Lo que lograrás:** Explicar cómo abrir tu primera cuenta siendo menor de edad, qué revisar (comisiones, protección, límites) y la diferencia entre tarjeta de débito y de crédito.
 
 **Para empezar:** Valeria ya vende postres y guarda el dinero en una caja de zapatos. Su hermano le dijo que abra una cuenta, pero ella tiene 16 y cree que no puede. En esta lección verás cómo.
 

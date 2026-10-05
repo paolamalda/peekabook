@@ -2,7 +2,7 @@
 
 ## M7 U01. ¿Qué son el Buró y el Círculo de Crédito?
 
-**Lo que lograrás:** Entender que son sociedades de información crediticia que guardan tu historial, no una "lista negra" ni quienes deciden si te prestan.
+**Lo que lograrás:** Explicar que son sociedades de información crediticia que guardan tu historial, no una "lista negra" ni quienes deciden si te prestan.
 
 **Para empezar:** Toño dice que está "boletinado en Buró" y que por eso nunca le van a prestar. Cree que el Buró es una lista de personas castigadas. En realidad, el Buró guarda su historial, bueno y malo, y quien decide si le presta es cada institución. En esta lección entenderás qué es y qué no es.
 
@@ -167,7 +167,7 @@ Ley para Regular las Sociedades de Información Crediticia · Banco de México, 
 
 ## M7 U02. Buró y Círculo: ¿en qué se parecen y en qué no?
 
-**Lo que lograrás:** Saber que existen dos sociedades con la misma función, que cada institución reporta a una, a otra o a ambas, y que por eso conviene revisar las dos.
+**Lo que lograrás:** Explicar que existen dos sociedades con la misma función, que cada institución reporta a una, a otra o a ambas, y que por eso conviene revisar las dos.
 
 **Para empezar:** Toño revisó su Buró de Crédito y todo estaba en orden. Aun así le negaron un crédito por un atraso que solo aparece en Círculo de Crédito. No sabía que existía otro. En esta lección aprenderás por qué debes revisar los dos.
 
@@ -674,7 +674,7 @@ Banco de México, Circular 27/2008 · Buró de Crédito · CONDUSEF, consultados
 
 ## M7 U05. Tu score: qué lo sube y qué lo baja
 
-**Lo que lograrás:** Saber que el score es un producto distinto del reporte sin costo, y conocer lo que lo mueve.
+**Lo que lograrás:** Explicar que el score es un producto distinto del reporte sin costo, y conocer lo que lo mueve.
 
 **Para empezar:** Valeria pagó 400 por "conocer su score" en una app y luego descubrió que el reporte sin costo no incluía ese número. Quiere saber si lo necesita y cómo subirlo. En esta lección aprenderás qué es el score y cómo mejorarlo.
 
@@ -842,7 +842,7 @@ Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 29 de sept
 
 ## M7 U06. ¿Cuánto tiempo se queda un atraso?
 
-**Lo que lograrás:** Conocer los plazos para que se elimine una deuda de tu historial según su monto en UDIS, y qué deudas no se eliminan por plazo.
+**Lo que lograrás:** Identificar los plazos para que se elimine una deuda de tu historial según su monto en UDIS, y qué deudas no se eliminan por plazo.
 
 **Para empezar:** Toño cree que un atraso de hace siete años "lo tiene marcado de por vida". Nunca revisó cuánto era ni cuándo se reportó. En esta lección conocerás los plazos que marca la ley.
 
@@ -1192,7 +1192,7 @@ Ley para Regular las Sociedades de Información Crediticia, artículos 42 a 45 �
 
 ## M7 U08. Protege tu historial: bloqueo y alertas
 
-**Lo que lograrás:** Conocer los servicios de bloqueo y alertas para evitar que alguien abra créditos a tu nombre.
+**Lo que lograrás:** Identificar los servicios de bloqueo y alertas para evitar que alguien abra créditos a tu nombre.
 
 **Para empezar:** Renata dio sus datos en una página falsa. Teme que alguien pida un crédito a su nombre y no se entere hasta que le llamen de cobranza. En esta lección conocerás dos herramientas para proteger tu historial.
 

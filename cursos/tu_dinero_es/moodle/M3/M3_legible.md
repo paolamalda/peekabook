@@ -540,7 +540,7 @@ Rubén, sin historial en ningún país, empezó con una tarjeta garantizada de 2
 
 Si pagas renta cada mes, ya haces algo que puede contar para tu historial.
 
-En California, una ley reciente (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos la opción de reportar sus pagos puntuales de renta a las agencias de crédito. Aplica a ciertos edificios, por ejemplo los de 15 o más unidades, y reporta solo pagos positivos si tú lo pides. [POR CONFIRMAR]
+En California, desde 2025 una ley (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos la opción de reportar sus pagos puntuales de renta a al menos una agencia de crédito. Aplica a edificios de más de 15 unidades y a algunas empresas dueñas de varias propiedades. Solo se reportan pagos a tiempo, si tú lo pides; el arrendador puede cobrarte lo que le cuesta, hasta 10 dólares al mes.
 
 Pregunta a tu arrendador si ofrece este servicio y si tiene algún costo.
 
@@ -647,7 +647,7 @@ Compara dos productos y la opción de esperar para fortalecer tu reserva. Anota 
 
 ### Fuentes
 
-[S18] CFPB, iniciar o reconstruir historial · Mission Asset Fund · California AB 2747 (reporte de renta) [POR CONFIRMAR].
+[S18] CFPB, iniciar o reconstruir historial · Mission Asset Fund · California AB 2747 (reporte de renta, Código Civil 1954.07).
 
 ---
 
@@ -1406,7 +1406,7 @@ Pregunta por las opciones, los cargos, el efecto en tu reporte y cómo termina e
 
 En California, el tiempo que tiene un acreedor para demandarte por una deuda de tarjeta o de contrato escrito normalmente es de **4 años**. Se llama estatuto de limitaciones.
 
-Si un cobrador te contacta por una deuda muy vieja, no hagas pagos ni promesas de pago sin antes verificar la fecha de la deuda y pedir orientación. Las reglas sobre qué pasa si pagas una deuda vieja son complejas. [POR CONFIRMAR]
+Si un cobrador te contacta por una deuda muy vieja, verifica primero la fecha. En California, pagar una deuda que ya prescribió no revive el derecho a demandarte, pero **firmar una nueva promesa de pago por escrito sí puede**. El cobrador debe avisarte por escrito si la deuda es demasiado vieja para demandarte. Antes de prometer algo, pide orientación.
 
 > **Dato adicional:** en California, los cobradores de deudas deben tener licencia del DFPI, y hay reglas especiales para deudas vendidas a otras empresas. Si un cobrador no tiene licencia, repórtalo.
 
@@ -1526,7 +1526,7 @@ Crea un expediente con hechos, comunicaciones, opciones y fechas. Localiza un se
 
 ### Fuentes
 
-[R08] CFPB, cobradores · [R23] State Bar de California · Código de Procedimientos Civiles de California, plazos · DFPI, cobradores de deudas [POR CONFIRMAR].
+[R08] CFPB, cobradores · [R23] State Bar de California · Código de Procedimientos Civiles de California, plazos · Código de Procedimientos Civiles de California, artículo 360 · Código Civil de California, artículo 1788.14 · DFPI, cobradores de deudas.
 
 ---
 
@@ -1625,7 +1625,7 @@ El prestamista acepta dar el préstamo porque tú también respondes. Esto signi
 
 La ley federal obliga a muchos prestamistas a darte un aviso para cofirmantes antes de firmar. La FTC explica tus riesgos en [Cofirmar un préstamo: preguntas frecuentes](https://consumer.ftc.gov/articles/cosigning-loan-faqs) (en inglés).
 
-> **Dato adicional:** en California, la ley pide que el aviso para cofirmantes se entregue en inglés y en español. Si no te lo dieron, pídelo antes de firmar. [POR CONFIRMAR]
+> **Dato adicional:** en California, la ley pide que el aviso para cofirmantes («Notice to Cosigner») se entregue en inglés y en otros idiomas, entre ellos el español. Si no te lo dieron, pídelo antes de firmar.
 
 
 
@@ -2365,7 +2365,7 @@ CFPB · NFCC, consultados el 30 de septiembre de 2026.
 
 ## M3 U12. ¿Empeñar es una buena salida?
 
-**Lo que lograrás:** Entender cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas.
+**Lo que lograrás:** Explicar cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas.
 
 **Para empezar:** Mar necesita 300 dólares para una reparación del carro. Su cuñada le dice que empeñe su cadena de oro: «te dan el dinero en diez minutos y no revisan tu crédito».
 

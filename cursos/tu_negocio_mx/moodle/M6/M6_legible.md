@@ -152,7 +152,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ## M6 U02. Opciones de crédito y cómo verificarlas
 
-**Lo que lograrás:** Conocer las opciones de crédito para pequeños negocios y verificar que quien presta esté autorizado.
+**Lo que lograrás:** Identificar las opciones de crédito para pequeños negocios y verificar que quien presta esté autorizado.
 
 **Para empezar:** A Rosa le llegó un mensaje: «Crédito para tu negocio sin Buró, solo manda tu INE y un depósito de 500 para activarlo». En esta lección verás las opciones reales y cómo detectar fraudes.
 

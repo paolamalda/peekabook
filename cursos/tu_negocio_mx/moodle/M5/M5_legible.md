@@ -2,7 +2,7 @@
 
 ## M5 U01. ¿Por qué formalizarte y por dónde empezar?
 
-**Lo que lograrás:** Conocer los beneficios y costos de formalizarte y los primeros pasos: RFC, e.firma, buzón tributario y permisos locales.
+**Lo que lograrás:** Identificar los beneficios y costos de formalizarte y los primeros pasos: RFC, e.firma, buzón tributario y permisos locales.
 
 **Para empezar:** Toño perdió un contrato con una constructora porque no podía facturar. Le da miedo inscribirse en el SAT: cree que le cobrarán mucho y que lo van a multar. En esta lección verás qué gana y qué cuesta formalizarse.
 
@@ -166,7 +166,7 @@ SAT · PRODECON, consultados el 29 de septiembre de 2026.
 
 ## M5 U02. RESICO: el régimen para empezar
 
-**Lo que lograrás:** Conocer el Régimen Simplificado de Confianza (RESICO) para personas físicas, sus tasas, límites y cuándo conviene otro régimen.
+**Lo que lograrás:** Identificar el Régimen Simplificado de Confianza (RESICO) para personas físicas, sus tasas, límites y cuándo conviene otro régimen.
 
 **Para empezar:** Toño cobra unos 22,000 al mes. Le dijeron que en RESICO paga «muy poquito». Pero también compra mucho material. En esta lección verás cómo funciona y cuándo conviene.
 
@@ -483,7 +483,7 @@ SAT, consultado el 29 de septiembre de 2026.
 
 ## M5 U04. El IVA de tu negocio
 
-**Lo que lograrás:** Saber qué ventas llevan IVA, cómo se calcula lo que pagas y qué IVA puedes acreditar.
+**Lo que lograrás:** Identificar qué ventas llevan IVA, cómo se calcula lo que pagas y qué IVA puedes acreditar.
 
 **Para empezar:** Rosa pensaba que el IVA era un impuesto que ella pagaba de su bolsa. Ahora que se formalizó, no sabe si su comida lleva IVA ni cuánto. En esta lección verás cómo funciona.
 
@@ -637,7 +637,7 @@ SAT · Ley del IVA, consultados el 29 de septiembre de 2026.
 
 ## M5 U05. Tus declaraciones
 
-**Lo que lograrás:** Conocer tu calendario de pagos mensuales, la declaración anual y cuándo conviene buscar un contador.
+**Lo que lograrás:** Identificar tu calendario de pagos mensuales, la declaración anual y cuándo conviene buscar un contador.
 
 **Para empezar:** Toño ya factura, pero no sabe cuándo pagar ni qué pasa si se atrasa. Le llegó un mensaje «del SAT» con un enlace. En esta lección verás tu calendario y cómo cuidarte.
 

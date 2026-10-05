@@ -348,7 +348,7 @@ CONSAR, AforeMóvil, e-SAR y SARTEL, consultados el 29 de septiembre de 2026.
 
 ## M11 U03. Modalidad 40: si cotizaste antes de julio de 1997
 
-**Lo que lograrás:** Conocer la continuación voluntaria del IMSS (Modalidad 40) para personas de la Ley 73, sus requisitos, su costo y cómo se diferencia de la Modalidad 10.
+**Lo que lograrás:** Identificar la continuación voluntaria del IMSS (Modalidad 40) para personas de la Ley 73, sus requisitos, su costo y cómo se diferencia de la Modalidad 10.
 
 **Para empezar:** Toño trabajó con nómina en una disquera de 1994 a 2021. Hoy trabaja por su cuenta y un colega le dice que con la "Modalidad 40" podría mejorar mucho su pensión. No sabe si aplica para él ni cuánto costaría. En esta lección conocerás la Modalidad 40.
 
@@ -519,7 +519,7 @@ Ley del Seguro Social, artículo 218 · IMSS, trámite IMSS-02-007, consultados 
 
 ## M11 U04. Plan Personal de Retiro (PPR) y aportaciones deducibles
 
-**Lo que lograrás:** Conocer el PPR y las aportaciones voluntarias deducibles, sus límites, a quién le sirven y qué comparar.
+**Lo que lograrás:** Identificar el PPR y las aportaciones voluntarias deducibles, sus límites, a quién le sirven y qué comparar.
 
 **Para empezar:** A Gael le ofrecen un PPR "para pagar menos impuestos". Él factura en RESICO. El agente no le explicó que en RESICO no aplican deducciones personales. En esta lección aprenderás cuándo un PPR te conviene y qué comparar.
 
@@ -683,7 +683,7 @@ LISR, artículo 151 · SAT · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ## M11 U05. Invertir a largo plazo sin especular
 
-**Lo que lograrás:** Entender riesgo, plazo, diversificación y comisiones, y verificar que el intermediario esté autorizado antes de invertir a largo plazo.
+**Lo que lograrás:** Explicar riesgo, plazo, diversificación y comisiones, y verificar que el intermediario esté autorizado antes de invertir a largo plazo.
 
 **Para empezar:** Valeria ya tiene su fondo de sequía, su AFORE y cero deudas. Quiere invertir para dentro de 15 años. En redes ve a gente que "hace trading" y promete ganancias rápidas. En esta lección aprenderás la diferencia entre invertir y especular.
 

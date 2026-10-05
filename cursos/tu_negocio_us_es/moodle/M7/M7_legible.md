@@ -2,7 +2,7 @@
 
 ## M7 U01. Tu salud si trabajas por tu cuenta
 
-**Lo que lograrás:** Conocer las opciones de seguro médico para quien trabaja por su cuenta y cómo proteger tu ingreso si te enfermas.
+**Lo que lograrás:** Identificar las opciones de seguro médico para quien trabaja por su cuenta y cómo proteger tu ingreso si te enfermas.
 
 **Para empezar:** Javier se lastimó la espalda cargando una escalera y estuvo dos semanas sin trabajar. No tenía seguro médico y pagó la consulta de urgencias de su bolsa. En esta lección verás tus opciones.
 
@@ -453,7 +453,7 @@ FTC · California Secretary of State, consultados el 29 de septiembre de 2026.
 
 ## M7 U04. Tu marca y tu nombre
 
-**Lo que lograrás:** Saber cuándo conviene registrar tu marca, cómo buscar si ya existe y cómo hacerlo sin intermediarios abusivos.
+**Lo que lograrás:** Decidir cuándo conviene registrar tu marca, cómo buscar si ya existe y cómo hacerlo sin intermediarios abusivos.
 
 **Para empezar:** Daniela vende joyería como «Luna Morena» desde hace dos años. Una tienda en otro estado le escribió diciendo que la marca es suya. En esta lección verás cómo proteger tu nombre.
 

@@ -2,7 +2,7 @@
 
 ## M5 U01. ¿Dueño único, LLC u otra forma?
 
-**Lo que lograrás:** Conocer las formas más comunes de organizar un negocio pequeño, qué protegen y cuánto cuestan, para decidir con información.
+**Lo que lograrás:** Identificar las formas más comunes de organizar un negocio pequeño, qué protegen y cuánto cuestan, para decidir con información.
 
 **Para empezar:** A Javier le dijeron que «tiene que abrir una LLC» para trabajar con contratistas. Un sitio en internet le cobra $299 por hacerlo. No sabe si la necesita. En esta lección verás las opciones.
 
@@ -151,7 +151,7 @@ SBA · Franchise Tax Board · California Secretary of State, consultados el 29 d
 
 ## M5 U02. Números y permisos: EIN, ITIN y licencias
 
-**Lo que lograrás:** Saber qué número fiscal usar, cómo tramitar un EIN sin costo y qué licencias y permisos puede necesitar tu negocio.
+**Lo que lograrás:** Identificar qué número fiscal usar, cómo tramitar un EIN sin costo y qué licencias y permisos puede necesitar tu negocio.
 
 **Para empezar:** Lupita quiere vender tamales en un mercado y le piden «licencia, permiso de salud y seller's permit». No sabe por dónde empezar ni si puede con su ITIN. En esta lección verás los números y permisos más comunes.
 
@@ -308,7 +308,7 @@ IRS · CDTFA · CSLB · CalGold, consultados el 29 de septiembre de 2026.
 
 ## M5 U03. Tus impuestos federales como dueño
 
-**Lo que lograrás:** Entender los dos impuestos federales que paga un dueño único, qué gastos se deducen y cuánto apartar.
+**Lo que lograrás:** Explicar los dos impuestos federales que paga un dueño único, qué gastos se deducen y cuánto apartar.
 
 **Para empezar:** Daniela ganó $14,000 limpios en su primer año vendiendo joyería. En abril descubrió que debía más de $2,000 al IRS y no había apartado nada. En esta lección verás por qué y cómo prepararte.
 
@@ -467,7 +467,7 @@ IRS · One Big Beautiful Bill Act (2025), consultados el 29 de septiembre de 202
 
 ## M5 U04. Pagos trimestrales y formularios 1099
 
-**Lo que lograrás:** Conocer las fechas de los pagos estimados, los formularios 1099 que puedes recibir o enviar y cómo protegerte de fraudes «del IRS».
+**Lo que lograrás:** Identificar las fechas de los pagos estimados, los formularios 1099 que puedes recibir o enviar y cómo protegerte de fraudes «del IRS».
 
 **Para empezar:** Javier recibió un formulario 1099 de un contratista y no sabía qué era. Además, le llamaron «del IRS» diciendo que lo arrestarían si no pagaba con tarjetas de regalo. En esta lección verás tu calendario y cómo cuidarte.
 
@@ -617,7 +617,7 @@ IRS · One Big Beautiful Bill Act (2025), consultados el 29 de septiembre de 202
 
 ## M5 U05. El impuesto sobre ventas (sales tax)
 
-**Lo que lograrás:** Saber qué ventas llevan impuesto sobre ventas, cómo se cobra y cómo se entrega al estado.
+**Lo que lograrás:** Identificar qué ventas llevan impuesto sobre ventas, cómo se cobra y cómo se entrega al estado.
 
 **Para empezar:** Lupita vende comida en un mercado y en fiestas. Alguien le dijo que tiene que cobrar sales tax; otra persona le dijo que la comida no lleva. En esta lección verás cómo funciona, con el ejemplo de California.
 

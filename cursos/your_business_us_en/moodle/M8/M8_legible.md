@@ -898,3 +898,157 @@ Set aside 15 minutes a week to check competition, official notices and your cost
 IRS · BLS · Federal Reserve · SBA, accessed September 30, 2026.
 
 ---
+
+## M8 U07. Pay advances and loans to your employees
+
+**What you will be able to do:** Set clear rules for advancing pay or lending to people who work with you, follow your state's deduction rules and protect your business cash flow.
+
+**To start:** Don Ramón has two helpers on his food truck. He advances them money "when they need it" and then deducts whatever he remembers. One of them complained that a check arrived almost at zero.
+
+### The essentials (5 minutes)
+
+#### Your policy in four rules
+
+| Type | Description | What it means for you |
+|---|---|---|
+| In writing | Amount, deduction and end date. | Signed by both. |
+| Within the law | Pay doesn't drop below minimum wage. | Check your state. |
+| One at a time | Until the last one is repaid. | Avoid a snowball. |
+| With a fund | A monthly amount for advances. | Protects your cash flow. |
+
+#### Deduction rules
+
+In the U.S., a paycheck deduction must not leave the worker below minimum wage, and many states, like California, require the employee's **written authorization** for each deduction. Before advancing, ask your state's labor office what it requires.
+
+> **Before you act, check:** paycheck deduction rules with your state's labor department; they vary by state. Accessed September 30, 2026 through the U.S. Department of Labor.
+
+
+
+#### Protect your cash flow
+
+Decide how much you can advance each month without hurting your purchases and bills, for example 5% of monthly sales. When that fund runs out, advances stop until money comes back in.
+
+
+
+#### A case in one minute
+
+Don Ramón wrote an agreement for each advance, with a fixed deduction per check and his helper's signature. Now nobody gets a check at zero and he knows how much he's owed.
+
+> **Key idea:** an advance to your team comes out of your cash flow; put it in writing, get a signed authorization, don't let pay drop below minimum wage and keep a monthly fund.
+
+
+
+#### Check your understanding
+
+1. What do you ask for before deducting an advance?
+*Answer:* The employee's written authorization.
+
+2. How low can pay go after the deduction?
+*Answer:* Not below minimum wage.
+
+
+#### Remember
+
+- In writing and signed.
+- Pay doesn't drop below minimum.
+- A monthly fund for advances.
+
+
+
+### Go deeper (5 more minutes)
+
+#### Your advances sheet
+
+| Name | Advance | Deduction per check | Checks | End date |
+|---|---|---|---|---|
+| | | | | |
+
+
+
+#### Advance apps for employees
+
+Some services advance pay to your employees through your payroll. Check who pays the fees: if your employee does, it can add up to a lot over a year (Your Money, M3).
+
+
+
+#### When it's an emergency
+
+For an emergency, you can give more time. Still put it in writing: clarity protects the relationship.
+
+
+
+#### Cases
+
+
+**Case 1. The zero check**
+
+Don Ramón deducted a full advance and his helper's check arrived almost at zero.
+- *What does he do?* He signs an agreement with a fixed deduction that keeps pay above minimum wage.
+
+
+**Case 2. Lupita's advances**
+
+Lupita advances money to her tamale helpers without writing anything down.
+- *What does she do?* She keeps a sheet per person and gets each agreement signed.
+
+
+**Case 3. The second advance**
+
+Javier's helper asks for a second advance before repaying the first.
+- *What does he do?* He applies his one-at-a-time rule and gives more time if it's an emergency.
+
+
+#### Common mistakes
+
+| Mistake | What happens | What to do |
+|---|---|---|
+| Unrecorded advances | You don't know what you're owed | One sheet per person |
+| Deducting without authorization | Trouble with your state | Signed in writing |
+| Pay below minimum wage | You break the law | Fixed deduction |
+| No fund for advances | You're short for supplies | Set a monthly amount |
+
+### Practice
+
+#### Interactive activity
+
+**What would you do? (H5P):** three situations from this lesson with Don Ramón, Lupita and Javier. Choose the best decision in each; if you miss, you can try again. Earns experience points.
+
+
+
+#### Quiz
+
+1. What do you ask for before deducting an advance? a) Nothing · b) Written authorization · c) A cosigner
+2. Can the deduction leave pay below minimum wage? a) Yes, if you both agree · b) Yes, once · c) No
+3. How do you protect your cash flow? a) Set a monthly fund for advances · b) Give whatever is asked · c) Borrow to advance pay
+**Answers:** 1-b: many states require it. 2-c: minimum wage is protected. 3-a: so you aren't short for supplies.
+
+
+
+#### Put it into practice
+
+Your monthly sales are 12,000 dollars and you decide to advance up to 5%. How big is your advances fund?
+**Answer:** 5% of 12,000 = 600 dollars a month.
+
+
+
+#### Your plan
+
+Write your advances policy in four rules and check what your state requires to deduct from pay.
+
+
+
+### Learn more
+
+- **Wages and deductions** (U.S. Department of Labor · English and Spanish): https://www.dol.gov/agencies/whd | What to search: "deductions from pay."
+- **Your state** (your state's labor department) | What to search: "wage deductions" and your state's name.
+
+### Key words
+
+- *Pay advance:* part of the wage paid early and deducted later.
+- *Deduction authorization:* the employee's written permission to deduct from their pay.
+
+### Sources
+
+U.S. Department of Labor (Wage and Hour Division) · state labor departments, accessed September 30, 2026.
+
+---

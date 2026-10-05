@@ -640,7 +640,7 @@ Llena la ficha de inversión: cuenta, producto, meta, riesgo, costo, acceso y en
 
 ## M5 U04. ¿Rentar o comprar? ¿Qué derechos tengo como inquilino?
 
-**Lo que lograrás:** Conocer tus derechos básicos como inquilino en California y los costos reales de comprar una vivienda, incluso con ITIN.
+**Lo que lograrás:** Identificar tus derechos básicos como inquilino en California y los costos reales de comprar una vivienda, incluso con ITIN.
 
 **Para empezar:** Andrés sueña con comprar casa en Sacramento. Carmen, su esposa, prefiere seguir rentando unos años. Mientras deciden, el dueño les avisa un aumento de renta de 15%. En esta lección conocerás tus derechos como inquilino y lo que cuesta de verdad comprar.
 
@@ -751,7 +751,7 @@ Compara con al menos dos opciones y revisa el costo total.
 
 #### Programas de ayuda para comprar
 
-En California existen programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales que ayudan con el enganche y los costos de cierre para quienes compran por primera vez. Cada programa tiene sus propios requisitos, y algunos pueden pedir documentos que el ITIN no cumple. [POR CONFIRMAR]
+En California existen programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales que ayudan con el enganche y los costos de cierre para quienes compran por primera vez. Cada programa tiene sus propios requisitos, y algunos pueden pedir documentos que el ITIN no cumple; pregunta directamente al programa.
 
 Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo costo a revisar qué programas aplican a tu caso, si calificas para una hipoteca con ITIN y cuánto necesitas ahorrar.
 
@@ -761,7 +761,7 @@ Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo cos
 
 #### Reporte de renta a tu historial
 
-Algunos dueños y servicios reportan tus pagos de renta a las agencias de crédito. En California, algunos dueños de ciertos edificios deben ofrecer esa opción a sus inquilinos. [POR CONFIRMAR]
+Algunos dueños y servicios reportan tus pagos de renta a las agencias de crédito. En California, los dueños de edificios de más de 15 unidades y algunas empresas dueñas de varias propiedades deben ofrecer esa opción a sus inquilinos (AB 2747); pueden cobrarte hasta 10 dólares al mes.
 
 Si pagas a tiempo, esto puede ayudarte a construir historial de crédito para una futura hipoteca (M3 U03).
 
@@ -845,7 +845,7 @@ Guarda tu contrato y tus recibos. Si quieres comprar, agenda una cita con un con
 
 ### Fuentes
 
-[R44] California, guía de derechos de inquilinos · [R22] CFPB, consejeros de vivienda · AB 12 (depósitos, 2024) · CalHFA [POR CONFIRMAR].
+[R44] California, guía de derechos de inquilinos · [R22] CFPB, consejeros de vivienda · AB 12 (depósitos, 2024) · AB 2747 (reporte de renta) · CalHFA.
 
 ---
 
@@ -1372,12 +1372,12 @@ Nada tiene costo. Nadie te debe cobrar por usar la app.
 
 ### Profundiza (5 minutos más)
 
-#### Opciones del IMSS para quien vive fuera [POR CONFIRMAR]
+#### Opciones del IMSS para quien vive fuera
 
 | Opción | Para qué sirve | Qué verificar |
 |---|---|---|
-| Modalidad 40 (continuación voluntaria) | Seguir sumando semanas para la pensión | Requisitos, semanas previas y costo con el IMSS |
-| Modalidad 33 (seguro de salud para la familia) | Servicio médico del IMSS para ti y tu familia en México | Costo anual y quién puede afiliarse |
+| Modalidad 40 (continuación voluntaria) | Seguir sumando semanas para la pensión; se puede pagar desde el extranjero | Haber cotizado al menos 52 semanas en los últimos 5 años antes de tu baja y que no hayan pasado más de 5 años desde ella; el costo con el IMSS |
+| Modalidad 33 (seguro de salud para la familia) | Servicio médico del IMSS para tu familia en México, y para ti cuando estés allá | Cuota anual por edad de cada persona |
 | Aportaciones voluntarias en AFORE | Aumentar tu ahorro | No suma semanas |
 
 Estas modalidades tienen requisitos y costos que cambian. Confírmalos directamente con el IMSS antes de decidir.
@@ -1496,7 +1496,7 @@ Descarga AforeMóvil o usa e-SAR, localiza tu cuenta y actualiza a tus beneficia
 
 ### Fuentes
 
-CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 y 33 [POR CONFIRMAR] · SSA, acuerdos internacionales.
+CONSAR, AforeMóvil · e-SAR · IMSS, Modalidades 40 y 33 · SSA, acuerdos internacionales.
 
 ---
 
@@ -1614,7 +1614,7 @@ Dile a una persona de confianza dónde está. Puedes usar un sobre cerrado o una
 
 Un testamento en EE. UU. puede no ser suficiente para bienes en México. Pregunta a un notario en México.
 
-En septiembre, el "Mes del Testamento" en México suele ofrecer testamentos a menor costo. [POR CONFIRMAR]
+En septiembre, el "Mes del Testamento" en México ofrece descuentos de hasta 50% en los honorarios de las notarías, en todos los estados; el precio cambia según el estado.
 
 > **Dato adicional:** el Consulado de México ofrece orientación y a veces jornadas con notarios para trámites como poderes y testamentos. Pregunta en tu consulado.
 
@@ -2072,7 +2072,7 @@ Compara el costo total y evita los adelantos de efectivo que cobran un porcentaj
 
 #### Cobrar con apps y tarjeta
 
-Si cobras con apps de pago, usa una cuenta de negocio. Algunas apps envían a la persona y al IRS un formulario 1099-K cuando recibes pagos por bienes o servicios arriba de cierto monto. [POR CONFIRMAR]
+Si cobras con apps de pago, usa una cuenta de negocio. Las apps de pago envían a la persona y al IRS un formulario 1099-K cuando recibes más de 20,000 dólares en más de 200 pagos por bienes o servicios en el año. Aunque no te llegue, ese ingreso se declara.
 
 Eso no significa que pagues más impuestos, pero sí que el IRS sabe de esos ingresos. Por eso lleva tu registro de ventas y gastos.
 
@@ -2408,7 +2408,7 @@ CFPB, Your Money, Your Goals · FDIC, Money Smart · NFCC.
 
 ## M5 U12. ¿Qué pasa si heredo o dejo algo entre dos países?
 
-**Lo que lograrás:** Saber cómo pasar tus cuentas y tu casa sin corte en Estados Unidos, qué impuestos hay (y cuáles no) al heredar aquí y en México, y qué avisar al IRS si heredas algo de México.
+**Lo que lograrás:** Explicar cómo pasar tus cuentas y tu casa sin corte en Estados Unidos, qué impuestos hay (y cuáles no) al heredar aquí y en México, y qué avisar al IRS si heredas algo de México.
 
 **Para empezar:** La mamá de Alex tiene una casa en Michoacán sin testamento. Alex vive en Los Ángeles y un compañero le dijo que si la hereda «el IRS le cobra 40%». Rosa tiene una cuenta en Fresno y quiere que sea para sus nietos. En esta lección verás qué es cierto y qué preparar.
 

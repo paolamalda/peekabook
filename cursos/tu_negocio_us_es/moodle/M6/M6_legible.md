@@ -152,7 +152,7 @@ SBA, consultado el 29 de septiembre de 2026.
 
 ## M6 U02. Opciones de crédito y cómo verificarlas
 
-**Lo que lograrás:** Conocer las opciones de crédito para pequeños negocios, incluidas las que aceptan ITIN, y detectar préstamos caros o falsos.
+**Lo que lograrás:** Identificar las opciones de crédito para pequeños negocios, incluidas las que aceptan ITIN, y detectar préstamos caros o falsos.
 
 **Para empezar:** Lupita recibió un mensaje: «Préstamo para tu negocio sin revisar crédito. Deposita $200 de cuota de apertura y recibe $5,000 hoy». En esta lección verás las opciones reales y cómo detectar fraudes.
 

@@ -178,7 +178,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 ## M10 U02. IMSS Modalidad 10: seguridad social para independientes
 
-**Lo que lograrás:** Conocer la Modalidad 10 del IMSS para personas trabajadoras independientes, qué cubre, cuánto cuesta y cómo inscribirte.
+**Lo que lograrás:** Identificar la Modalidad 10 del IMSS para personas trabajadoras independientes, qué cubre, cuánto cuesta y cómo inscribirte.
 
 **Para empezar:** Gael lleva seis años sin IMSS desde su último contrato de nómina. No tiene servicio médico, no cotiza para su pensión y no genera ahorro para vivienda. Un colega le cuenta que se dio de alta como independiente. En esta lección conocerás la Modalidad 10.
 
@@ -687,7 +687,7 @@ CONDUSEF · CONSAR, consultados el 29 de septiembre de 2026.
 
 ## M10 U05. Protege tu nombre y tu marca
 
-**Lo que lograrás:** Conocer la reserva de derechos al uso exclusivo de tu nombre artístico ante INDAUTOR y el registro de marca ante el IMPI.
+**Lo que lograrás:** Identificar la reserva de derechos al uso exclusivo de tu nombre artístico ante INDAUTOR y el registro de marca ante el IMPI.
 
 **Para empezar:** Valeria usa el nombre artístico "Vale Luna" desde hace cinco años. Un día descubre que alguien registró "Vale Luna" como marca para ropa y le pide que deje de usarlo en su mercancía. En esta lección aprenderás a proteger tu nombre.
 
@@ -942,6 +942,12 @@ Revisa tu testamento y tus beneficiarios cuando cambie tu vida: pareja, hijos, u
 
 
 
+#### Dar en vida y seguir usándolo: el usufructo
+
+Si quieres pasar tu casa o tu estudio a tus hijos en vida pero seguir usándolo o rentándolo, existe la **donación con reserva de usufructo**: ellos quedan como dueños y tú conservas el uso hasta que fallezcas. Se hace ante notario, escriturar cuesta y ya no puedes vender sin su firma. Compáralo con el testamento, que puedes cambiar cuando quieras.
+
+
+
 #### Casos
 
 
@@ -1168,7 +1174,7 @@ CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protecc
 
 ## M10 U08. Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos
 
-**Lo que lograrás:** Saber qué pasa con tus derechos de autor y de intérprete y con tus regalías cuando faltes, cómo nombrar a quién las cobra y qué impuestos hay al heredar.
+**Lo que lograrás:** Identificar qué pasa con tus derechos de autor y de intérprete y con tus regalías cuando faltes, cómo nombrar a quién las cobra y qué impuestos hay al heredar.
 
 **Para empezar:** Toño tiene canciones registradas y cobra regalías por su trabajo de sesión. Valeria recibe regalías por campañas y por su voz en una canción. Ninguno sabe quién cobraría esas regalías si faltaran ni si su familia pagaría impuestos. En esta lección lo verás.
 

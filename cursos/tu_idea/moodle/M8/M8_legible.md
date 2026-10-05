@@ -2,7 +2,7 @@
 
 ## M8 U01. Quién es quién en el sistema financiero y quién te protege
 
-**Lo que lograrás:** Conocer las instituciones financieras (bancos y otras), las autoridades que las vigilan y tus derechos como usuario.
+**Lo que lograrás:** Identificar las instituciones financieras (bancos y otras), las autoridades que las vigilan y tus derechos como usuario.
 
 **Para empezar:** A Valeria su app le cobró una comisión que no reconoce. Llamó y nadie le resolvió. No sabe a quién más acudir. En esta lección conocerás quién te protege.
 
@@ -153,7 +153,7 @@ CONDUSEF · Banco de México · CNBV · PROFECO, consultados el 30 de septiembre
 
 ## M8 U02. Impuestos: de dónde salen tu escuela y tu beca
 
-**Lo que lograrás:** Entender qué son los impuestos, cuáles pagas aunque no te des cuenta (IVA) y para qué se usan (escuelas, hospitales, becas, calles).
+**Lo que lograrás:** Explicar qué son los impuestos, cuáles pagas aunque no te des cuenta (IVA) y para qué se usan (escuelas, hospitales, becas, calles).
 
 **Para empezar:** Emilio dice: «Yo no pago impuestos, soy estudiante». Pero cada vez que compra un refresco o un celular paga IVA. Y su beca sale de los impuestos de todos. En esta lección verás cómo funciona.
 
@@ -305,7 +305,7 @@ SAT · Secretaría de Hacienda, consultados el 30 de septiembre de 2026.
 
 ## M8 U03. Economía, noticias y rumores: lo que cambia tu dinero
 
-**Lo que lograrás:** Entender cómo la inflación, las tasas de interés y el tipo de cambio afectan tu dinero, y distinguir información confiable de rumores.
+**Lo que lograrás:** Explicar cómo la inflación, las tasas de interés y el tipo de cambio afectan tu dinero, y distinguir información confiable de rumores.
 
 **Para empezar:** Naomi vio en redes: «¡El dólar va a llegar a 30 mañana, cambia todos tus pesos ya!». Emilio escuchó que «los precios subieron 50%». En esta lección verás qué es cierto y cómo verificarlo.
 
@@ -522,6 +522,12 @@ Naomi ayudó a su abuela a juntar sus papeles en una carpeta y encontró las esc
 #### Si tu familia está en dos países
 
 Si tus papás viven en Estados Unidos y heredan una casa en México, también deben saber las reglas de allá: por ejemplo, avisar al IRS si una herencia del extranjero pasa de 100,000 dólares. Que lo pregunten a una persona experta.
+
+
+
+#### Cuando los abuelos hablan de «pasar la casa»
+
+A veces los abuelos pasan la casa a sus hijos o nietos en vida, pero conservan el derecho a vivir ahí hasta que fallecen: se llama **usufructo**. Lo importante es que se haga por escrito ante notario, no de palabra.
 
 
 

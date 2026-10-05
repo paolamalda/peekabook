@@ -752,3 +752,322 @@ Si apuestas, fija un tope al mes que salga de tus gustos y activa los límites d
 Secretaría de Gobernación · Secretaría de Salud · Centros de Integración Juvenil, consultados el 29 de septiembre de 2026.
 
 ---
+
+## M3 U06. Préstamo de nómina, FONACOT y adelantos: lo que te descuentan
+
+**Lo que lograrás:** Distinguir el adelanto de la empresa, el préstamo de nómina del banco y el crédito FONACOT, saber cuánto te pueden descontar y cuándo sí conviene.
+
+**Para empezar:** A Beto el banco donde le depositan le ofrece «dinero ya, sin papeles, se descuenta solo». Ramiro prefiere pedirle un adelanto al supervisor. Y Karla escuchó del FONACOT. Los tres se descuentan de la quincena, pero no cuestan lo mismo.
+
+### Lo esencial (5 minutos)
+
+#### Tres préstamos que salen de tu quincena
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Adelanto de la empresa | Te adelantan parte de tu pago. | Por ley, el descuento tiene tope. |
+| Préstamo de nómina del banco | El banco donde cobras se cobra solo. | Compara el CAT. |
+| Crédito FONACOT | Institución del gobierno para trabajadores formales. | Solo si tu empresa está afiliada. |
+| App que «adelanta tu sueldo» | Cobra comisiones o «propinas». | Suma el costo real. |
+
+#### El tope de los adelantos de la empresa
+
+Si la empresa te adelanta dinero, la Ley Federal del Trabajo (artículo 110) pone un límite: lo que te descuenten cada quincena no puede pasar de **30% de lo que ganas arriba del salario mínimo**, y el total del adelanto no puede ser mayor a un mes de tu salario. Pide siempre por escrito cuánto te adelantaron y cuánto te descontarán.
+
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo; el salario mínimo no se puede embargar (artículo 112). Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
+
+
+
+#### El préstamo del banco donde cobras
+
+El banco ve tu nómina y te ofrece dinero rápido. Se lo cobra directo de tu cuenta el día que te depositan, así que tu quincena llega más chica **durante meses**. Antes de aceptar, pide el CAT y el total a pagar. Si tu quincena es de 4,500 y el pago es de 1,200, más de la cuarta parte ya tiene dueño.
+
+
+
+#### Un caso en un minuto
+
+Beto iba a aceptar 10,000 del banco a 24 quincenas de 690: pagaría 16,560. Preguntó en recursos humanos por el FONACOT: su empresa sí está afiliada y el pago total salía más bajo. Comparó los dos totales antes de firmar y eligió el que le dejaba más quincena libre.
+
+> **Idea clave:** un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuánto te puede descontar la empresa por un adelanto?
+*Respuesta:* Hasta 30% de lo que ganas arriba del salario mínimo.
+
+2. ¿Qué pides antes de aceptar un préstamo de nómina?
+*Respuesta:* El CAT y el total a pagar.
+
+
+#### Para recordar
+
+- Adelanto con tope y por escrito.
+- Préstamo de nómina: compara el total.
+- FONACOT solo si tu empresa está afiliada.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Compara antes de firmar
+
+| Pregunta | Adelanto | Banco | FONACOT |
+|---|---|---|---|
+| ¿Cobra intereses? | Normalmente no | Sí | Sí, más bajos que muchos |
+| ¿Se descuenta solo? | Sí, de tu pago | Sí, de tu cuenta | Sí, por la empresa |
+| ¿Reporta a Buró? | No | Sí | Sí |
+| ¿Qué pasa si cambias de trabajo? | Se descuenta del finiquito | Sigues debiendo | Sigues debiendo |
+
+
+
+#### Tu nómina es tuya
+
+Puedes pedir que tu sueldo se pase a otro banco (portabilidad de nómina) sin costo. Si tienes un préstamo de nómina, primero liquídalo o acuerda cómo lo pagarás: la deuda no desaparece al cambiar de banco.
+
+
+
+#### Encadenar préstamos
+
+Pedir un préstamo nuevo para pagar el anterior hace que tu quincena nunca se recupere. Si ya estás así, haz tu lista de deudas (M3 U01) y habla con el banco antes de atrasarte.
+
+
+
+#### Casos
+
+
+**Caso 1. La oferta a Beto**
+
+El banco le ofrece a Beto 10,000 «sin papeles» que se descuentan solos.
+- *¿Qué hace?* Pide el CAT y el total a pagar, y compara con otra opción.
+
+
+**Caso 2. El adelanto de Ramiro**
+
+Ramiro pidió 3,000 de adelanto y quieren descontarle todo en una quincena.
+- *¿Qué hace?* Pide que el descuento respete el tope de ley y que quede por escrito.
+
+
+**Caso 3. La app de Karla**
+
+Una app le «adelanta» 1,000 a Karla por 99 de comisión cada quincena.
+- *¿Qué hace?* Calcula lo que paga al año y busca otra salida.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aceptar porque «se descuenta solo» | Tu quincena se encoge por meses | Compara el total |
+| Pedir adelantos cada quincena | Nunca te llega el pago completo | Arma tu fondo |
+| Adelanto de palabra | No sabes cuánto debes | Pídelo por escrito |
+| Préstamo para pagar préstamo | La deuda crece | Haz tu lista y negocia |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Beto, Ramiro y Karla. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Cuál es el tope para descontarte un adelanto de la empresa? a) Todo tu pago de la quincena, si así lo pide la empresa · b) 30% de lo que ganas arriba del mínimo · c) La mitad de lo que ganas cada quincena
+2. ¿Qué comparas entre dos préstamos de nómina? a) Cuál llega más rápido · b) Cuál tiene el pago más chico · c) El total a pagar y el CAT
+3. ¿Quién da el crédito FONACOT? a) Una institución del gobierno, si tu empresa está afiliada · b) Cualquier app · c) La tienda de la esquina
+**Respuestas:** 1-b: artículo 110 de la Ley Federal del Trabajo. 2-c: el pago chico puede esconder un total alto. 3-a: se descuenta por nómina.
+
+
+
+#### Ponlo en práctica
+
+Te ofrecen 8,000 a 20 quincenas de 580. ¿Cuánto pagas en total y cuánto es de intereses y comisiones?
+**Respuesta:** 580 × 20 = 11,600. De eso, 3,600 son intereses y comisiones.
+
+
+
+#### A tu plan
+
+Revisa tu recibo de esta quincena: anota si tienes algún descuento por adelanto o préstamo, cuánto es y cuántas quincenas faltan.
+
+
+
+### Para saber más
+
+- **Crédito FONACOT** (Instituto FONACOT · español): https://www.fonacot.gob.mx — **Qué buscar:** «requisitos» y «simulador».
+- **Compara créditos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «simulador de crédito personal y de nómina».
+- **Tus derechos** (PROFEDET · español): 800 911 7877 | Asesoría laboral sin costo.
+
+### Palabras clave
+
+- *Préstamo de nómina:* crédito del banco donde cobras que se paga con descuentos de tu depósito.
+- *Portabilidad de nómina:* tu derecho a recibir tu sueldo en el banco que elijas.
+
+### Fuentes
+
+Ley Federal del Trabajo (artículos 110 y 112) · Instituto FONACOT · CONDUSEF · PROFEDET, consultados el 30 de septiembre de 2026.
+
+---
+
+## M3 U07. Empeñar sin perder tu prenda
+
+**Lo que lograrás:** Explicar cómo funciona un empeño, cuánto cuesta de verdad, qué es el refrendo y cómo verificar que la casa de empeño esté registrada.
+
+**Para empezar:** Don Chuy llevó su anillo de bodas a empeñar: se lo valuaron en 6,000 y le prestaron 3,600. Firmó sin leer. Hoy no sabe cuándo vence ni cuánto tiene que pagar para recuperarlo.
+
+### Lo esencial (5 minutos)
+
+#### Cómo funciona
+
+1. Llevas una **prenda** (joya, reloj, celular, herramienta).
+2. La casa hace un **avalúo** y te presta solo una parte de ese valor.
+3. Tienes un **plazo** para pagar el préstamo más los intereses y recuperar tu prenda (**desempeño**).
+4. Si no alcanzas, puedes **refrendar**: pagas solo los intereses y el plazo se alarga.
+5. Si no pagas ni refrendas, la casa **vende** tu prenda.
+
+
+
+#### El anillo de Don Chuy
+
+- Préstamo: **3,600**
+- Intereses y comisiones de 2 meses: **1,080**
+- Para recuperar su anillo: **4,680**
+Le prestaron 60% del avalúo, pero para recuperarlo necesita 30% más de lo que recibió.
+
+
+#### Antes de dejar tu prenda
+
+Verifica que la casa de empeño esté en el **Registro Público de Casas de Empeño de la PROFECO** y que su contrato esté registrado. Pide que te den por escrito el avalúo, el monto del préstamo, el costo total, la fecha límite y lo que pasa si venden tu prenda.
+
+> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO, con un contrato de adhesión registrado, y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
+
+
+
+#### Un caso en un minuto
+
+Don Chuy le tomó foto a su boleta y anotó en el celular la fecha límite. Como no juntaba los 4,680, pagó el refrendo a tiempo y apartó 300 por quincena hasta sacar su anillo.
+
+> **Idea clave:** empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué es el refrendo?
+*Respuesta:* Pagar los intereses para alargar el plazo sin perder la prenda.
+
+2. ¿Dónde verificas que una casa de empeño esté registrada?
+*Respuesta:* En el Registro Público de Casas de Empeño de la PROFECO.
+
+
+#### Para recordar
+
+- Te prestan solo una parte del avalúo.
+- Anota la fecha límite y guarda la boleta.
+- Verifica el registro en la PROFECO.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Si venden tu prenda: la demasía
+
+Si la casa vende tu prenda en más de lo que debías, la diferencia se llama **demasía** o remanente y es tuya. Pregunta cómo y en qué plazo la puedes reclamar; viene en tu contrato.
+
+
+
+#### Empeño contra otras salidas
+
+| Opción | Ventaja | Riesgo |
+|---|---|---|
+| Empeño | Dinero rápido sin revisar tu historial | Pierdes la prenda si no pagas |
+| Fondo de emergencia | No pagas intereses | Hay que armarlo antes |
+| Préstamo de nómina | Plazo más largo | Tu quincena baja por meses |
+| App de préstamos | Muy rápido | Cobros abusivos y acoso |
+
+
+
+#### Nunca empeñes tu herramienta de trabajo
+
+Si empeñas el celular que usas para tus turnos o algo que necesitas para trabajar, puedes perder ingresos además de la prenda.
+
+
+
+#### Casos
+
+
+**Caso 1. La boleta de Don Chuy**
+
+Don Chuy no sabe cuándo vence su empeño.
+- *¿Qué hace?* Revisa la boleta, anota la fecha límite y la guarda en foto.
+
+
+**Caso 2. El reloj de Ramiro**
+
+Ramiro va a empeñar su reloj en un local que no aparece en la PROFECO.
+- *¿Qué hace?* Busca una casa registrada y con contrato registrado.
+
+
+**Caso 3. El celular de Beto**
+
+Beto quiere empeñar el celular con el que checa su turno.
+- *¿Qué hace?* No empeña su herramienta de trabajo y busca otra salida.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Firmar sin leer | No sabes cuánto pagarás | Pide todo por escrito |
+| Perder la boleta | Te cuesta recuperar tu prenda | Tómale foto |
+| Olvidar la fecha | Venden tu prenda | Anótala en el celular |
+| No reclamar la demasía | Pierdes dinero tuyo | Pregunta por ella |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chuy, Ramiro y Beto. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Qué pasa si no pagas ni refrendas a tiempo? a) La casa vende tu prenda · b) Te dan más plazo sin costo · c) Te la regresan igual
+2. ¿Qué es la demasía? a) Un cobro extra de la casa · b) Lo que sobra si venden tu prenda en más de lo que debías · c) El interés del mes
+3. ¿Qué revisas antes de empeñar? a) Que el local esté cerca de tu casa o de tu trabajo · b) Que te presten el valor completo · c) Que esté en el registro de la PROFECO
+**Respuestas:** 1-a: por eso anotas la fecha. 2-b: es tuya y la puedes reclamar. 3-c: así tienes a quién reclamar.
+
+
+
+#### Ponlo en práctica
+
+Tu cadena vale 5,000 y te prestan 55% del avalúo. El costo de un mes es 12% del préstamo. ¿Cuánto recibes y cuánto pagas para recuperarla en un mes?
+**Respuesta:** Recibes 2,750. El costo es 330. Pagas 3,080.
+
+
+
+#### A tu plan
+
+Si tienes algo empeñado, busca tu boleta, anota la fecha límite en tu celular y calcula cuánto apartar cada quincena para recuperarlo.
+
+
+
+### Para saber más
+
+- **Registro Público de Casas de Empeño** (PROFECO · español): https://rpce.profeco.gob.mx — **Qué buscar:** el nombre de la casa de empeño.
+- **Quejas** (PROFECO · español): 55 5568 8722 | Teléfono del Consumidor.
+
+### Palabras clave
+
+- *Avalúo:* el valor que la casa de empeño le pone a tu prenda.
+- *Refrendo:* pago de intereses para alargar el plazo de un empeño.
+- *Demasía:* lo que sobra si venden tu prenda en más de lo que debías; es tuya.
+
+### Fuentes
+
+PROFECO (Registro Público de Casas de Empeño) · Ley Federal de Protección al Consumidor, consultados el 30 de septiembre de 2026.
+
+---

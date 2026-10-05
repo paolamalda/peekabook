@@ -2,7 +2,7 @@
 
 ## M4 U01. Tandas: cómo funcionan y qué puede salir mal
 
-**Lo que lograrás:** Entender cómo funciona una tanda, cuándo es ahorro y cuándo es deuda, y qué riesgos tiene.
+**Lo que lograrás:** Explicar cómo funciona una tanda, cuándo es ahorro y cuándo es deuda, y qué riesgos tiene.
 
 **Para empezar:** Karla organiza una tanda de 10 compañeras con 500 cada quincena. Una compañera cobró en el turno 2 y dejó de pagar. Karla tuvo que poner de su bolsa. En esta lección verás qué puede salir mal.
 
@@ -303,7 +303,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ## M4 U03. Tu casa: Infonavit y el crédito de 100 puntos
 
-**Lo que lograrás:** Conocer cómo revisar tus puntos y tu ahorro de vivienda en Infonavit, las nuevas reglas para salarios bajos y cómo evitar coyotes.
+**Lo que lograrás:** Explicar cómo revisar tus puntos y tu ahorro de vivienda en Infonavit, las nuevas reglas para salarios bajos y cómo evitar coyotes.
 
 **Para empezar:** Karla cotiza en el IMSS desde hace dos años. Siempre creyó que «nunca juntaría los puntos» para una casa. Una compañera le dijo que las reglas cambiaron. En esta lección verás qué revisar.
 

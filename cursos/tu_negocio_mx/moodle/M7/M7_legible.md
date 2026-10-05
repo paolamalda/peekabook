@@ -2,7 +2,7 @@
 
 ## M7 U01. IMSS para personas independientes (Modalidad 10)
 
-**Lo que lograrás:** Conocer la incorporación voluntaria al IMSS para personas que trabajan por su cuenta: qué cubre, cuánto cuesta y cómo inscribirte.
+**Lo que lograrás:** Identificar la incorporación voluntaria al IMSS para personas que trabajan por su cuenta: qué cubre, cuánto cuesta y cómo inscribirte.
 
 **Para empezar:** Toño se cayó de una escalera y estuvo tres semanas sin trabajar. No tenía servicio médico ni ingreso. En esta lección verás cómo protegerte con el IMSS aunque trabajes por tu cuenta.
 
@@ -464,7 +464,7 @@ SAT · Guardia Nacional · Secretariado Ejecutivo del Sistema Nacional de Seguri
 
 ## M7 U04. Tu marca y tu nombre
 
-**Lo que lograrás:** Saber cuándo conviene registrar tu marca, cómo buscar si ya existe y cómo hacerlo sin gestores abusivos.
+**Lo que lograrás:** Decidir cuándo conviene registrar tu marca, cómo buscar si ya existe y cómo hacerlo sin gestores abusivos.
 
 **Para empezar:** Mariana vende con el nombre «Luna Morena» desde hace dos años. Una tienda en línea le escribió diciendo que la marca es suya y que debe dejar de usarla. En esta lección verás cómo proteger tu nombre.
 
@@ -1067,7 +1067,7 @@ CENAPRED · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 ## M7 U08. Si faltas: seguro de vida y gastos funerarios
 
-**Lo que lograrás:** Saber si tu familia necesita un seguro de vida, cuánto cubrir, cómo elegir beneficiarios y cómo contratar previsión funeraria sin fraudes.
+**Lo que lograrás:** Comprobar si tu familia necesita un seguro de vida, cuánto cubrir, cómo elegir beneficiarios y cómo contratar previsión funeraria sin fraudes.
 
 **Para empezar:** Rosa es quien sostiene su casa con la fonda. Si ella faltara, su hija no podría pagar la renta ni las deudas del negocio. En esta lección verás cómo proteger a tu familia.
 

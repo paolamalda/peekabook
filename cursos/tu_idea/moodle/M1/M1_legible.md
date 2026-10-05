@@ -151,7 +151,7 @@ Banco de México, inflación · CONDUSEF, consultados el 30 de septiembre de 202
 
 ## M1 U02. ¿De dónde sale el dinero? Tus fuentes de ingreso
 
-**Lo que lograrás:** Conocer las formas de ganar dinero (trabajo, negocio, habilidades, inversión y apoyos) y cuáles puedes empezar a tu edad.
+**Lo que lograrás:** Identificar las formas de ganar dinero (trabajo, negocio, habilidades, inversión y apoyos) y cuáles puedes empezar a tu edad.
 
 **Para empezar:** Emilio, de 17, trabaja sábados y domingos en una taquería y gana 700 a la semana. Santi, de 18, repara celulares en su casa y este mes ganó 3,200. Los dos quieren ganar más. En esta lección verás de dónde sale el dinero.
 

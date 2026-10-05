@@ -2,7 +2,7 @@
 
 ## M9 U01. Tu retiro si trabajas por tu cuenta
 
-**Lo que lograrás:** Conocer cómo ahorrar para el retiro si trabajas por tu cuenta: Seguro Social, cuentas IRA, SEP IRA y Solo 401(k).
+**Lo que lograrás:** Explicar cómo ahorrar para el retiro si trabajas por tu cuenta: Seguro Social, cuentas IRA, SEP IRA y Solo 401(k).
 
 **Para empezar:** Don Ramón tiene 60 años. Piensa que «el food truck es su retiro», pero no sabe cuánto recibiría del Seguro Social ni si le alcanza. En esta lección verás tus opciones.
 
@@ -545,6 +545,12 @@ Don Ramón puso a su hija como beneficiaria (POD) de sus cuentas, revisó con un
 #### Herencias pequeñas
 
 Si lo que dejas es poco, en California existe una declaración jurada para herencias pequeñas que evita el juicio sucesorio. El monto límite cambia cada pocos años: pregúntalo en la corte o con un abogado.
+
+
+
+#### Tu casa en México: el usufructo
+
+Si tienes casa o terreno en México y quieres pasarlos a tus hijos en vida sin dejar de usarlos, allá existe la donación con **reserva de usufructo**, ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
 
 
 

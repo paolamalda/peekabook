@@ -2,7 +2,7 @@
 
 ## M5 U01. Qué es el Buró de Crédito
 
-**Lo que lograrás:** Entender qué es el Buró de Crédito, qué guarda y qué no hace, para perderle el miedo.
+**Lo que lograrás:** Explicar qué es el Buró de Crédito, qué guarda y qué no hace, para perderle el miedo.
 
 **Para empezar:** Beto cree que está «boletinado en el Buró» y que por eso nunca le prestarán. Otros le dicen que el Buró es una lista negra. En esta lección verás qué es de verdad.
 
