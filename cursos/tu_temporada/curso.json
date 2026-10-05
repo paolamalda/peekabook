@@ -1,0 +1,178 @@
+{
+ "sigla": "TTMP",
+ "titulo": "Tu Temporada, Tu Dinero, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para jornaleros mexicanos que van a trabajar al campo en Canadá (Programa de Trabajadores Agrícolas Temporales) o en Estados Unidos (visa H-2A), y para sus familias: reclutamiento sin fraudes, contrato, pago y derechos allá, envíos de dinero, impuestos, regreso y un proyecto para el futuro en México. 8 módulos y 24 lecciones cortas.",
+ "publico": "Personas que van o quieren ir a trabajar al campo en Canadá o en Estados Unidos por temporada, y las familias que se quedan en México.",
+ "formato": "Híbrido: 1 sesión presencial de 3 horas antes de salir, en la comunidad de origen, y 2 horas en línea durante la temporada (5 horas totales).",
+ "categoria": "Tu Temporada",
+ "banco": "banco_preguntas_ttmp.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "personajes": {
+  "Don Efrén": "45 años. De Guanajuato. Lleva ocho temporadas con visa H-2A en el tabaco en Carolina del Norte.",
+  "Rosaura": "38 años. De Tlaxcala. Va con el PTAT a invernaderos de Ontario, Canadá, desde hace seis temporadas.",
+  "Juan Carlos": "23 años. De Hidalgo. Va por primera vez a la cosecha de manzana en Washington con visa H-2A.",
+  "Doña Imelda": "43 años. Esposa de Don Efrén. Se queda a cargo de la casa y de los hijos.",
+  "Ramiro": "35 años. De Michoacán. Un reclutador le cobró por «asegurar su lugar»."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Antes de firmar: dos caminos y cero fraudes",
+  "M2": "Módulo 2. Antes de irte: la casa en orden",
+  "M3": "Módulo 3. Tu pago allá",
+  "M4": "Módulo 4. Mandar dinero que rinda",
+  "M5": "Módulo 5. Impuestos y papeles en Canadá y Estados Unidos",
+  "M6": "Módulo 6. Tus derechos y tu seguridad",
+  "M7": "Módulo 7. El regreso y los meses sin temporada",
+  "M8": "Módulo 8. Tu retiro y tu futuro en México"
+ },
+ "resultados": {
+  "M1": "El camino correcto para ti, tu contrato revisado y ningún pago a reclutadores.",
+  "M2": "Tu casa en orden: quién maneja el dinero, el presupuesto de la familia y sin deudas para irte.",
+  "M3": "Tus talones de pago revisados y tu forma segura de cobrar.",
+  "M4": "Tus envíos comparados y un plan para la remesa acordado con la familia.",
+  "M5": "Tus papeles de impuestos guardados y tu decisión sobre la declaración.",
+  "M6": "Tus derechos claros y tu lista de a quién llamar.",
+  "M7": "Tu presupuesto para los meses entre temporadas.",
+  "M8": "Tus semanas y aportaciones para el retiro (en México y Canadá) y tu proyecto en números."
+ },
+ "insignias": [
+  [
+   "01_contrato_claro",
+   "M1",
+   "Contrato claro",
+   "fa-file-text-o"
+  ],
+  [
+   "02_casa_en_orden",
+   "M2",
+   "Casa en orden",
+   "fa-home"
+  ],
+  [
+   "03_pago_revisado",
+   "M3",
+   "Pago revisado",
+   "fa-money"
+  ],
+  [
+   "04_envio_que_rinde",
+   "M4",
+   "Envío que rinde",
+   "fa-exchange"
+  ],
+  [
+   "05_papeles_en_regla",
+   "M5",
+   "Papeles en regla",
+   "fa-folder"
+  ],
+  [
+   "06_conozco_mis_derechos",
+   "M6",
+   "Conozco mis derechos",
+   "fa-balance-scale"
+  ],
+  [
+   "07_proyecto_en_marcha",
+   "M7 · M8",
+   "Proyecto en marcha",
+   "fa-leaf"
+  ],
+  [
+   "08_plan_completo",
+   "Curso",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "titulo": "Tu Temporada, Tu Dinero, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Temporada, Tu Dinero, Tu Futuro",
+  "temas": [
+   "Contrato sin fraudes",
+   "Pago y derechos",
+   "Envíos de dinero",
+   "Impuestos",
+   "Retiro y proyecto"
+  ]
+ },
+ "problema": [
+  "Reclutadores falsos cobran por «asegurar un lugar» en Estados Unidos o en Canadá, cuando el PTAT es sin costo y en la H-2A paga el empleador.",
+  "Muchas personas se endeudan para irse y llegan con deudas que tardan la temporada en pagar.",
+  "No revisan su contrato ni sus talones de pago y no saben si les pagan lo correcto.",
+  "Los envíos de dinero pierden parte en comisiones y tipo de cambio, y la familia no tiene un plan.",
+  "No saben qué impuestos les tocan en Estados Unidos ni qué papeles guardar.",
+  "Al regresar, el dinero de la temporada se acaba antes de la siguiente y no hay ahorro para el retiro en México."
+ ],
+ "reglas_extra": [
+  "**No se da asesoría migratoria ni legal:** se orienta a los consulados, al Servicio Nacional de Empleo, al Departamento del Trabajo de EE. UU., al Gobierno de Canadá y a oficinas públicas.",
+  "**No se recomiendan reclutadores, agencias ni empresas de envío:** se enseña a verificarlos y compararlos."
+ ],
+ "datos": [
+  [
+   "Programa de Trabajadores Agrícolas Temporales México-Canadá (PTAT)",
+   "Acuerdo entre gobiernos desde 1974; el reclutamiento es sin costo en el Servicio Nacional de Empleo",
+   "STPS"
+  ],
+  [
+   "Duración del contrato PTAT",
+   "Mínimo 240 horas en 6 semanas o menos; máximo 8 meses; regreso a más tardar el 15 de diciembre",
+   "Contrato SAWP-México 2026, Gobierno de Canadá"
+  ],
+  [
+   "Avión en el PTAT",
+   "Lo paga el empleador; puede recuperar hasta 50% por descuentos, con tope anual",
+   "Contrato SAWP-México 2026"
+  ],
+  [
+   "Vivienda en el PTAT",
+   "Sin costo, salvo Columbia Británica: hasta 5.99 dólares canadienses por día trabajado y 923.82 en total (2026)",
+   "Contrato SAWP-México 2026"
+  ],
+  [
+   "Deducciones en Canadá",
+   "Impuesto sobre la renta, Plan de Pensiones de Canadá (CPP) y Seguro de Empleo (EI)",
+   "Gobierno de Canadá"
+  ],
+  [
+   "Convenio de seguridad social México-Canadá",
+   "Permite sumar periodos cotizados en ambos países para una pensión (en vigor desde 1996)",
+   "DOF, 1998; Gobierno de Canadá"
+  ],
+  [
+   "Visas H-2A para personas mexicanas",
+   "285,781 en 2024",
+   "Observatorio de Migración Internacional"
+  ],
+  [
+   "Costos a cargo del empleador H-2A",
+   "Reclutamiento, certificación, vivienda y transporte; viaje de ida reembolsado al cumplir 50% del contrato",
+   "Departamento del Trabajo de EE. UU. (DOL)"
+  ],
+  [
+   "Garantía H-2A de tres cuartas partes",
+   "Al menos 3/4 de las horas del contrato",
+   "DOL"
+  ],
+  [
+   "Salarios H-2A en 2026",
+   "Nueva metodología de 2025 con dos niveles por estado; de unos 8 a 17 dólares por hora",
+   "DOL, Federal Register (2 de octubre de 2025)"
+  ],
+  [
+   "Impuestos H-2A",
+   "Sin Seguro Social ni Medicare; sin retención federal obligatoria; puede corresponder declaración 1040-NR",
+   "IRS"
+  ],
+  [
+   "Alerta de fraudes",
+   "La STPS alertó en septiembre de 2026 sobre fraudes con visas de trabajo agrícola",
+   "STPS"
+  ]
+ ]
+}
