@@ -1,0 +1,76 @@
+{
+ "sigla": "TPPF",
+ "titulo": "Tu Pensión, Tu Tranquilidad, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para personas adultas mayores: proteger la pensión, evitar fraudes y abusos, y dejar todo en orden. 8 módulos y 16 lecciones cortas, pensadas para sesiones presenciales con letra grande y acompañante de confianza.",
+ "publico": "Personas de 60 años y más, con Pensión Bienestar, pensión del IMSS o del ISSSTE, o sin pensión; pueden asistir con un acompañante de confianza.",
+ "formato": "Presencial: 4 sesiones de 2 horas (8 horas totales), grupos de 15 personas, materiales en letra grande.",
+ "categoria": "Tu Pensión",
+ "banco": "banco_preguntas_tppf.gift.txt",
+ "min_leccion": [5, 10],
+ "personajes": {
+  "Doña Mago": "72 años. Cobra la Pensión Bienestar. Vive con su hijo y su nuera en Puebla.",
+  "Don Toño": "68 años. Viudo, pensionado del IMSS desde hace ocho años. Vive solo en Saltillo.",
+  "Doña Bertha": "66 años. Cuida a sus nietos y cobra la Pensión Bienestar. No usa el cajero.",
+  "Sofía": "25 años. Nieta de Doña Mago; es su acompañante de confianza en el programa."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Tu pensión y tu mes",
+  "M2": "Módulo 2. Tu tarjeta y el cajero, sin riesgos",
+  "M3": "Módulo 3. Llamadas, mensajes y «el nieto en apuros»",
+  "M4": "Módulo 4. Cuando el abuso viene de casa",
+  "M5": "Módulo 5. Préstamos a cuenta de tu pensión",
+  "M6": "Módulo 6. Decidir con apoyo, sin perder el control",
+  "M7": "Módulo 7. Testamento y beneficiarios",
+  "M8": "Módulo 8. Tu salud y tus seguros"
+ },
+ "resultados": {
+  "M1": "Tu pensión repartida en el bimestre, con lo básico primero.",
+  "M2": "Tu NIP protegido y tu forma segura de usar el cajero.",
+  "M3": "Tu regla para colgar y verificar ante llamadas y mensajes.",
+  "M4": "Las señales de abuso patrimonial y a quién llamar.",
+  "M5": "Tu decisión informada sobre préstamos y el tope de 30%.",
+  "M6": "Tu persona de apoyo elegida y ningún poder amplio firmado sin revisar.",
+  "M7": "Tus beneficiarios revisados y tu decisión sobre el testamento.",
+  "M8": "Tu guardadito para salud y tus seguros revisados."
+ },
+ "insignias": [
+  ["01_pension_que_alcanza", "M1", "Pensión que alcanza", "fa-calendar-check-o"],
+  ["02_mi_nip_es_mio", "M2", "Mi NIP es mío", "fa-lock"],
+  ["03_cuelgo_y_verifico", "M3", "Cuelgo y verifico", "fa-phone"],
+  ["04_nadie_decide_por_mi", "M4", "Nadie decide por mí", "fa-shield"],
+  ["05_prestamo_con_cabeza", "M5", "Préstamo con cabeza", "fa-percent"],
+  ["06_apoyo_de_confianza", "M6", "Apoyo de confianza", "fa-handshake-o"],
+  ["07_todo_en_orden", "M7 · M8", "Todo en orden", "fa-file-text-o"],
+  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+ ],
+ "constancia": {
+  "titulo": "Tu Pensión, Tu Tranquilidad, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Pensión, Tu Tranquilidad, Tu Futuro",
+  "temas": ["Pensión y tarjeta", "Fraudes", "Abuso patrimonial", "Testamento", "Salud y seguros"]
+ },
+ "problema": [
+  "La pensión llega cada dos meses y no alcanza el segundo mes.",
+  "Comparten el NIP o la tarjeta con familiares, cuidadores o desconocidos en el cajero.",
+  "Son el blanco de llamadas falsas del banco y de «el nieto en apuros».",
+  "Una parte del abuso viene de casa: uso de la tarjeta, préstamos a su nombre, firmas para pasar la casa.",
+  "Firman préstamos a cuenta de su pensión, a veces para otras personas.",
+  "No tienen testamento ni beneficiarios al día, y los gastos de salud los sorprenden."
+ ],
+ "reglas_extra": [
+  "**Protección antes que crédito:** el programa no promueve préstamos; explica sus límites y riesgos.",
+  "**Letra grande y ritmo lento:** cada sesión repasa lo anterior y deja una sola tarea.",
+  "**La persona decide:** el acompañante apoya, no decide por ella."
+ ],
+ "datos": [
+  ["Personas de 60 años y más", "19.2 millones (14.7% del país)", "INEGI, Encuesta Intercensal 2025"],
+  ["Pensión Bienestar (65 años y más)", "6,400 pesos al bimestre en 2026", "Secretaría de Bienestar, Reglas de Operación 2026"],
+  ["Pensión Mujeres Bienestar (60 a 64 años)", "3,100 pesos al bimestre en 2026", "Secretaría de Bienestar"],
+  ["Quejas por posible fraude bancario de personas de 60 años y más", "32% del total", "CONDUSEF"],
+  ["Personas de 65 años y más con dificultades ante un imprevisto", "50.0%", "ENSAFI 2023"],
+  ["Personas de 60 a 70 años con seguro", "18%", "ENIF 2024"],
+  ["Préstamos a cuenta de pensión IMSS (Ley 73)", "Descuento máximo de 30% de la pensión, plazo máximo de 60 meses, solo con entidades con convenio", "IMSS"]
+ ]
+}
