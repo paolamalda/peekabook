@@ -2,7 +2,7 @@
 
 ## M10 U01. Testamento: tu decisión por escrito
 
-**Lo que lograrás:** Entender por qué hacer testamento, qué pasa si no lo haces, cuánto cuesta y cómo aprovechar el Mes del Testamento.
+**Lo que lograrás:** Explicar por qué hacer testamento, qué pasa si no lo haces, cuánto cuesta y cómo aprovechar el Mes del Testamento.
 
 **Para empezar:** El esposo de Lucía no dejó testamento. Aunque todo estaba claro en la familia, el juicio para repartir la casa y las inversiones tardó más de un año y costó mucho. Lucía no quiere que sus hijos pasen por lo mismo. En esta lección verás cómo evitarlo.
 
@@ -319,7 +319,7 @@ CONDUSEF · Ley de Instituciones de Crédito, consultadas el 29 de septiembre de
 
 ## M10 U03. Poder notarial y quién decide si tú no puedes
 
-**Lo que lograrás:** Conocer los tipos de poder notarial, sus riesgos, y cómo dejar por escrito quién decide sobre tu salud y tus bienes si no puedes hacerlo.
+**Lo que lograrás:** Identificar los tipos de poder notarial, sus riesgos, y cómo dejar por escrito quién decide sobre tu salud y tus bienes si no puedes hacerlo.
 
 **Para empezar:** La mamá de Elena tuvo un derrame y no podía firmar. Elena necesitaba pagar el hospital con los ahorros de su mamá, pero el banco no le dejó. En esta lección verás cómo prepararte para ese momento.
 
@@ -633,7 +633,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ## M10 U05. Viudez o separación: los primeros 90 días
 
-**Lo que lograrás:** Saber qué hacer primero después de enviudar o separarte, qué no firmar con prisa y a quién acudir.
+**Lo que lograrás:** Decidir qué hacer primero después de enviudar o separarte, qué no firmar con prisa y a quién acudir.
 
 **Para empezar:** En las semanas después de la muerte de su esposo, a Lucía le llegaron ofertas: un asesor que quería «reacomodar» sus inversiones, un familiar que pedía dinero prestado y un agente que le ofrecía un seguro. Ella estaba en duelo y no podía pensar. En esta lección verás cómo protegerte en esos días.
 
@@ -941,7 +941,7 @@ Infonavit · Fovissste · Colegio Nacional del Notariado Mexicano, consultados e
 
 ## M10 U07. Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio
 
-**Lo que lograrás:** Saber qué pasa si alguien fallece sin testamento, cómo se hereda en unión libre y la tierra ejidal, y qué hacer para evitar pleitos.
+**Lo que lograrás:** Identificar qué pasa si alguien fallece sin testamento, cómo se hereda en unión libre y la tierra ejidal, y qué hacer para evitar pleitos.
 
 **Para empezar:** El hermano de Lucía murió sin testamento. Vivía en unión libre desde hacía 15 años, tenía una parcela ejidal en su pueblo y una casa en Guadalajara. Su pareja, sus hijos y sus hermanos no se ponen de acuerdo. En esta lección verás cómo funciona.
 
@@ -1091,7 +1091,7 @@ Ley Agraria (artículos 17 y 18) · Registro Agrario Nacional · Secretaría de 
 
 ## M10 U08. Heredar o dar en vida: impuestos, costos y riesgos
 
-**Lo que lograrás:** Entender qué impuestos hay (y cuáles no) al heredar, cuánto cuesta pasar una casa a tu nombre, y los riesgos y costos de dar en vida con donación, venta o usufructo.
+**Lo que lograrás:** Explicar qué impuestos hay (y cuáles no) al heredar, cuánto cuesta pasar una casa a tu nombre, y los riesgos y costos de dar en vida con donación, venta o usufructo.
 
 **Para empezar:** Carmen quiere dejarle la casa a su hija. Una amiga le dice: «Mejor véndesela en vida por un peso, así no paga impuestos». Otra le dice que la done. Y su hija cree que heredar paga 30%. En esta lección verás qué conviene.
 
@@ -1403,7 +1403,7 @@ Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (artículo 6)
 
 ## M10 U10. Pensión alimenticia: pedirla, cuidarla y hacerla durar
 
-**Lo que lograrás:** Saber qué cubre la pensión alimenticia, cómo se pide o se revisa, qué pasa si no se paga y cómo administrarla.
+**Lo que lograrás:** Identificar qué cubre la pensión alimenticia, cómo se pide o se revisa, qué pasa si no se paga y cómo administrarla.
 
 **Para empezar:** Elena se divorció hace dos años. Su exesposo pagaba la pensión de sus dos hijos, pero desde hace cuatro meses deposita la mitad «porque le bajó el trabajo». Elena no sabe si puede hacer algo.
 

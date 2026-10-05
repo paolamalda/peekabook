@@ -79,6 +79,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Comisión:** cobro del banco por un servicio.
 - **Cuenta mancomunada:** cuenta con dos o más titulares.
 - **Deducible:** la cantidad que pagas tú antes de que el seguro empiece a pagar.
+- **Demasía:** lo que sobra si venden tu prenda en más de lo que debías.
+- **Desempeñar:** pagar el préstamo y los intereses para recuperar tu prenda.
 - **Domiciliación:** pago automático de un servicio con cargo a tu cuenta.
 - **Fiador:** persona que se obliga a pagar si el deudor no paga; común en contratos de renta.
 - **Fondo de emergencia:** dinero apartado solo para imprevistos, disponible de inmediato.
@@ -88,8 +90,10 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Obligado solidario:** persona que responde por todo el contrato como si hubiera pedido el crédito.
 - **Pago mínimo:** lo menos que puedes pagar para no atrasarte; genera intereses.
 - **Pago para no generar intereses:** lo que gastaste en el periodo; si lo pagas, no hay intereses.
+- **Préstamo a cuenta de pensión:** crédito que se paga con descuentos de tu pensión.
 - **Referencia personal:** persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no se obliga a pagar.
 - **Reinversión:** volver a invertir automáticamente al terminar el plazo.
+- **Seguro de liberación de adeudo:** seguro que cancela la deuda si la persona fallece.
 - **UDIS:** unidad cuyo valor en pesos cambia con la inflación.
 
 ## Tus inversiones
@@ -165,6 +169,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **Albacea:** persona que se encarga del trámite de la herencia.
 - **Convenio de separación:** acuerdo sobre bienes y obligaciones al separarse.
+- **Deudor alimentario moroso:** quien deja de pagar una pensión fijada por un juez durante 60 días o más.
 - **Donación:** dar un bien en vida sin cobrar.
 - **Duelo:** proceso emocional después de una pérdida.
 - **Escriturar:** pasar legalmente una propiedad a nombre de otra persona ante notario.
@@ -173,6 +178,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Herencia en vida:** transferir bienes a tus herederos mientras vives.
 - **Libertad de gravamen:** certificado que muestra si un inmueble tiene deudas o cargas.
 - **Lista de sucesión:** lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
+- **Pensión alimenticia:** dinero para comida, casa, salud y escuela de los hijos.
 - **Poder notarial:** documento ante notario en el que autorizas a otra persona a actuar por ti.
 - **Revocar:** cancelar un poder o un documento.
 - **Subcuenta de vivienda:** dinero que tu patrón aporta para tu vivienda dentro de tu cuenta de ahorro para el retiro.
@@ -181,6 +187,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Tutor:** persona que cuida los intereses de un menor de edad.
 - **Unión libre:** pareja que vive junta sin estar casada.
 - **Usufructo:** derecho a usar una propiedad y vivir en ella aunque otra persona sea la dueña.
+- **Violencia patrimonial:** quitar, dañar, esconder o vender bienes o documentos de otra persona.
 - **Voluntad anticipada:** documento en el que dices qué tratamientos médicos quieres o no si no puedes decidir.
 
 ## Decidir con calma y tu plan

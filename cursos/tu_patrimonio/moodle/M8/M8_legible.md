@@ -2,7 +2,7 @@
 
 ## M8 U01. Cómo funciona tu seguro de gastos médicos
 
-**Lo que lograrás:** Entender cómo funciona tu Seguro de Gastos Médicos Mayores: suma asegurada, deducible, coaseguro, tope de coaseguro y red hospitalaria.
+**Lo que lograrás:** Explicar cómo funciona tu Seguro de Gastos Médicos Mayores: suma asegurada, deducible, coaseguro, tope de coaseguro y red hospitalaria.
 
 **Para empezar:** Elena paga 48,000 al año por su seguro de gastos médicos, pero no sabe qué pagaría ella si la operan. En su póliza hay palabras como «deducible», «coaseguro» y «tabulador». En esta lección las entenderás con un ejemplo.
 
@@ -165,7 +165,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 ## M8 U02. ¿Por qué sube tanto y cómo bajarlo sin quedarte sin protección?
 
-**Lo que lograrás:** Entender por qué sube la prima de tu seguro de gastos médicos y conocer formas de bajarla sin perder la protección, antes de pensar en cancelarlo.
+**Lo que lograrás:** Explicar por qué sube la prima de tu seguro de gastos médicos y conocer formas de bajarla sin perder la protección, antes de pensar en cancelarlo.
 
 **Para empezar:** A Elena le llegó la renovación: su seguro subió 30%. Su primera idea fue cancelarlo. Pero si lo cancela y después se enferma, podría no encontrar otro que la cubra igual. En esta lección verás qué opciones tiene.
 
@@ -644,7 +644,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 ## M8 U05. Casa y auto: lo básico
 
-**Lo que lograrás:** Saber qué cubren un seguro de casa y uno de auto, y qué revisar al renovar para no pagar de más ni quedarte sin cobertura.
+**Lo que lograrás:** Identificar qué cubren un seguro de casa y uno de auto, y qué revisar al renovar para no pagar de más ni quedarte sin cobertura.
 
 **Para empezar:** El seguro del auto de Carmen se renovó solo por años, con el valor de un auto nuevo aunque el suyo ya tiene diez años. Y su casa no tiene seguro contra sismo. En esta lección revisarás lo básico.
 
@@ -948,7 +948,7 @@ CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protecc
 
 ## M8 U07. IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10
 
-**Lo que lograrás:** Conocer las dos formas de tener IMSS pagando tú (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cuándo conviene cada una frente a un seguro de gastos médicos privado.
+**Lo que lograrás:** Identificar las dos formas de tener IMSS pagando tú (Seguro de Salud para la Familia y personas trabajadoras independientes), cuánto cuestan en 2026 y cuándo conviene cada una frente a un seguro de gastos médicos privado.
 
 **Para empezar:** A Elena le subió 30% su seguro de gastos médicos. Maru vende por catálogo y no tiene servicio médico. Las dos escucharon que «se puede pagar el IMSS por tu cuenta». En esta lección verás cómo.
 

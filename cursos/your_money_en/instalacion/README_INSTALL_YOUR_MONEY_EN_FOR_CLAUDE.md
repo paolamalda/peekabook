@@ -63,15 +63,15 @@ In each module section:
 |---|---|---|
 | M1 | 14 | 56 |
 | M2 | 13 | 52 |
-| M3 | 10 | 40 |
-| M4 | 11 | 44 |
+| M3 | 12 | 48 |
+| M4 | 12 | 48 |
 | M5 | 12 | 48 |
 
 ## 4. Support book
 
 In section 6, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters). In the General section, add a **URL** or label to chapter 1 ("Welcome").
 
-In the same section 6, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
+In the same section 6, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; plus: the cost of each transfer, your assets and who receives them. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
 ## 5. Glossary
 
@@ -79,15 +79,15 @@ In section 6, create the glossary `Course key words` and import `3_glossary/Glos
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v3.4/M1* to *M5* are created, with 180 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v3.4/M1* to *M5* are created, with 189 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
 3. Add **all** questions from *Your Money v3.4/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 |
 |---|---|---|---|---|
-| 42 | 39 | 30 | 33 | 36 |
+| 42 | 39 | 36 | 36 | 36 |
 
-## 7. H5P activities (60)
+## 7. H5P activities (63)
 
 Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesson order:
 

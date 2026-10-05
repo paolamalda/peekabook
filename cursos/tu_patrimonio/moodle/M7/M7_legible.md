@@ -319,7 +319,7 @@ CONSAR · IMSS, consultados el 29 de septiembre de 2026.
 
 ## M7 U03. Modalidad 40: ¿puedes y te conviene?
 
-**Lo que lograrás:** Saber si puedes inscribirte a la Modalidad 40 del IMSS, cuánto cuesta en 2026 y cómo decidir con números antes de pagar.
+**Lo que lograrás:** Comprobar si puedes inscribirte a la Modalidad 40 del IMSS, cuánto cuesta en 2026 y cómo decidir con números antes de pagar.
 
 **Para empezar:** Maru escuchó que con la Modalidad 40 «cualquiera puede tener una buena pensión». Un gestor le ofreció inscribirla por 15,000 pesos. En esta lección verás los requisitos reales, el costo y cómo decidir sin intermediarios.
 
@@ -476,7 +476,7 @@ IMSS · Ley del Seguro Social, consultados el 29 de septiembre de 2026.
 
 ## M7 U04. Pensión de viudez y pensiones del Bienestar
 
-**Lo que lograrás:** Conocer la pensión de viudez del IMSS (en general, 90% de la pensión de la persona fallecida), su trámite, y las pensiones del Bienestar para mujeres de 60 a 64 y personas de 65 o más.
+**Lo que lograrás:** Identificar la pensión de viudez del IMSS (en general, 90% de la pensión de la persona fallecida), su trámite, y las pensiones del Bienestar para mujeres de 60 a 64 y personas de 65 o más.
 
 **Para empezar:** Cuando falleció su esposo, Lucía tardó meses en tramitar su pensión de viudez porque no encontraba el acta de matrimonio ni sabía dónde ir. Ahora está por cumplir 65 y no sabe si puede recibir también la pensión del Bienestar. En esta lección verás ambas.
 
@@ -638,7 +638,7 @@ IMSS · Programas para el Bienestar, consultados el 29 de septiembre de 2026.
 
 ## M7 U05. Si tú o tu pareja trabajaron para el gobierno: ISSSTE
 
-**Lo que lograrás:** Saber en qué régimen del ISSSTE están tú o tu pareja, qué requisitos hay en 2026 para jubilarse en el régimen anterior, cómo funciona la pensión de viudez del ISSSTE y qué documentos pedir.
+**Lo que lograrás:** Identificar en qué régimen del ISSSTE están tú o tu pareja, qué requisitos hay en 2026 para jubilarse en el régimen anterior, cómo funciona la pensión de viudez del ISSSTE y qué documentos pedir.
 
 **Para empezar:** Raúl, el esposo de Maru, es maestro y trabajó 31 años en escuelas públicas federales. Maru no sabe si él «está en el régimen viejo o en el de AFORE», ni qué le tocaría a ella si él faltara. En esta lección verás cómo averiguarlo sin gestores.
 

@@ -180,6 +180,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M5 U05 · Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses: paga el total para no generar intereses antes de la fecha límite; el mínimo solo evita el atraso.
 - M5 U06 · Tu historial de crédito: Buró, Círculo y ser aval: revisa tu reporte sin costo cada año, reclama errores sin costo y firma como aval solo si podrías pagar esa deuda.
 - M5 U07 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?: aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
+- M5 U08 · Préstamos de nómina y a cuenta de tu pensión: un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo.
+- M5 U09 · Empeñar sin perder tus joyas: empeñar sirve para una urgencia corta; compara en casas registradas, guarda tu boleta y anota la fecha límite.
 
 **Casos**
 
@@ -355,6 +357,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M10 U06 · Tu casa: escrituras, predial y crédito en orden: escritura inscrita, liberación de hipoteca al terminar, predial al día y el seguro del crédito localizable; tu subcuenta de vivienda no se pierde.
 - M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio: sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
 - M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos: heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir.
+- M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos: tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+- M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar: si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
 
 **Casos**
 

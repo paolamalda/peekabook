@@ -670,6 +670,42 @@ $CATEGORY: $course$/Your Money v3.4/M3
 	~920 #Not the best option. 800 + 16 + 90 − 120 \= 786.
 }
 
+::M3 U11 P1::Where do you ask first for an advance? {
+	~In an app #Not the best option. Many employers do it at no cost.
+	=Your employer #Correct! Many employers do it at no cost.
+	~A payday lender #Not the best option. Many employers do it at no cost.
+}
+
+::M3 U11 P2::10 dollars per advance, 26 times a year. How much do you pay? {
+	=260 #Correct! 10 × 26.
+	~10 #Not the best option. 10 × 26.
+	~130 #Not the best option. 10 × 26.
+}
+
+::M3 U11 P3::What happens to your next check after an advance? {
+	~It arrives in full #Not the best option. You already received that part.
+	~It comes with a bonus #Not the best option. You already received that part.
+	=It arrives with less money #Correct! You already received that part.
+}
+
+::M3 U12 P1::If you don't repay a pawn loan, what happens to your credit? {
+	=Nothing changes; you lose the item #Correct! The shop keeps the item.
+	~It's reported as a debt in collections #Not the best option. The shop keeps the item.
+	~Your bank account is frozen #Not the best option. The shop keeps the item.
+}
+
+::M3 U12 P2::Does pawning build your history? {
+	~Yes #Not the best option. It isn't reported.
+	~Only if you pay on time #Not the best option. It isn't reported.
+	=No #Correct! It isn't reported.
+}
+
+::M3 U12 P3::What do you ask for before pawning? {
+	~Nothing #Not the best option. So you know what you'll pay.
+	=The fees and the deadline in writing #Correct! So you know what you'll pay.
+	~An extra loan #Not the best option. So you know what you'll pay.
+}
+
 $CATEGORY: $course$/Your Money v3.4/M4
 
 ::M4 U01 P1::Which number do you call to verify? {
@@ -868,6 +904,24 @@ $CATEGORY: $course$/Your Money v3.4/M4
 	~Never #Not the best option. Practicing keeps the plan useful.
 	~Only when something happens #Not the best option. Practicing keeps the plan useful.
 	=At least once a year #Correct! Practicing keeps the plan useful.
+}
+
+::M4 U12 P1::Whose right is child support? {
+	=The children's #Correct! It's for what they need.
+	~The receiving parent's #Not the best option. It's for what they need.
+	~The state's #Not the best option. It's for what they need.
+}
+
+::M4 U12 P2::How do you pay so it counts? {
+	~In cash, hand to hand #Not the best option. It gets recorded.
+	=Through the agency or wage withholding #Correct! It gets recorded.
+	~Whenever you can #Not the best option. It gets recorded.
+}
+
+::M4 U12 P3::Your income dropped and you pay child support. What do you do? {
+	~Stop paying #Not the best option. The debt continues until it's changed.
+	~Pay half #Not the best option. The debt continues until it's changed.
+	=Request a modification #Correct! The debt continues until it's changed.
 }
 
 $CATEGORY: $course$/Your Money v3.4/M5

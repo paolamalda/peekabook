@@ -158,7 +158,7 @@ CONDUSEF · Banco de México, consultados el 29 de septiembre de 2026.
 
 ## M5 U02. El seguro del IPAB: hasta cuánto te protege
 
-**Lo que lograrás:** Saber qué protege el seguro de depósitos del IPAB, hasta cuánto (400,000 UDIS por persona y por banco) y cómo repartir tu ahorro si tienes más.
+**Lo que lograrás:** Identificar qué protege el seguro de depósitos del IPAB, hasta cuánto (400,000 UDIS por persona y por banco) y cómo repartir tu ahorro si tienes más.
 
 **Para empezar:** Lucía tiene 4.5 millones de pesos de la venta de una casa, todos en una cuenta del mismo banco. Leyó que «el gobierno protege tus ahorros» y está tranquila. Pero la protección tiene un límite. En esta lección verás cuánto cubre y cómo organizarte.
 
@@ -476,7 +476,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 ## M5 U04. Ahorro con Cetes y BONDDIA
 
-**Lo que lograrás:** Conocer Cetesdirecto, los Cetes y BONDDIA para ahorrar a corto plazo con respaldo del gobierno federal, y cómo empezar.
+**Lo que lograrás:** Identificar Cetesdirecto, los Cetes y BONDDIA para ahorrar a corto plazo con respaldo del gobierno federal, y cómo empezar.
 
 **Para empezar:** Maru tiene 60,000 de sus ventas en una cuenta que no le paga casi nada. Su comadre le habló de «los Cetes», pero a Maru le suena a algo de gente rica y complicado. En esta lección verás que puedes empezar con poco y sin intermediarios.
 
@@ -781,7 +781,7 @@ Banco de México · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ## M5 U06. Tu historial de crédito: Buró, Círculo y ser aval
 
-**Lo que lograrás:** Saber qué es tu historial de crédito, pedir tu reporte sin costo una vez al año, reclamar errores y decidir con información antes de ser aval.
+**Lo que lograrás:** Identificar qué es tu historial de crédito, pedir tu reporte sin costo una vez al año, reclamar errores y decidir con información antes de ser aval.
 
 **Para empezar:** A Lucía le negaron una tarjeta en la tienda «por el Buró». Nunca pidió un crédito a su nombre, pero hace años firmó como aval de su sobrino. En esta lección verás qué hay en tu historial y cómo cuidarlo.
 
@@ -1092,7 +1092,7 @@ CONDUSEF (disposiciones para despachos de cobranza y REDECO), consultados el 30 
 
 ## M5 U08. Préstamos de nómina y a cuenta de tu pensión
 
-**Lo que lograrás:** Entender cómo funcionan los préstamos que se descuentan de la nómina o de la pensión, cuánto te pueden descontar y cómo evitar a los intermediarios que cobran de más.
+**Lo que lograrás:** Explicar cómo funcionan los préstamos que se descuentan de la nómina o de la pensión, cuánto te pueden descontar y cómo evitar a los intermediarios que cobran de más.
 
 **Para empezar:** A Lucía la llaman casi a diario: «Por ser pensionada, tiene un préstamo preaprobado; solo mándenos su INE y su estado de cuenta». Y a Raúl, el esposo de Maru, le ofrecen un crédito que se descuenta de su quincena de maestro.
 
@@ -1252,7 +1252,7 @@ IMSS · ISSSTE · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 ## M5 U09. Empeñar sin perder tus joyas
 
-**Lo que lograrás:** Saber cómo funciona un empeño, cuánto cuesta de verdad, qué son el refrendo y la demasía, y cómo verificar que la casa de empeño esté registrada.
+**Lo que lograrás:** Explicar cómo funciona un empeño, cuánto cuesta de verdad, qué son el refrendo y la demasía, y cómo verificar que la casa de empeño esté registrada.
 
 **Para empezar:** Elena empeñó una pulsera de oro de su mamá para pagar el deducible del seguro. Le dieron 8,000. Ahora le quedan 10 días y todavía no sabe cuánto tiene que pagar para recuperarla.
 

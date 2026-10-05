@@ -530,6 +530,42 @@ $CATEGORY: $course$/Tu Patrimonio v1.3/M5
 	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
 }
 
+::M5 U08 P1::¿Con quién tramitas un préstamo a cuenta de tu pensión del IMSS? {
+	~Con quien te llame por teléfono #No es la mejor opción. Así tienes a quién reclamar.
+	=Con una financiera del listado oficial del IMSS #¡Correcto! Así tienes a quién reclamar.
+	~Con cualquier gestor #No es la mejor opción. Así tienes a quién reclamar.
+}
+
+::M5 U08 P2::Te piden 1,500 para «liberar» tu préstamo. ¿Qué haces? {
+	=No pagas\: es fraude #¡Correcto! Nadie serio cobra por adelantado.
+	~Pagas la mitad #No es la mejor opción. Nadie serio cobra por adelantado.
+	~Pagas para no perder el préstamo #No es la mejor opción. Nadie serio cobra por adelantado.
+}
+
+::M5 U08 P3::Sacas un préstamo para tu sobrino y él deja de pagar. ¿Qué pasa? {
+	~Lo paga él #No es la mejor opción. La deuda es tuya.
+	~Se cancela #No es la mejor opción. La deuda es tuya.
+	=Te lo siguen descontando de tu pensión #¡Correcto! La deuda es tuya.
+}
+
+::M5 U09 P1::¿Dónde verificas que una casa de empeño esté registrada? {
+	~En sus anuncios #No es la mejor opción. Así tienes a quién reclamar.
+	=En el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
+	~Con una vecina #No es la mejor opción. Así tienes a quién reclamar.
+}
+
+::M5 U09 P2::¿Qué pasa si no pagas ni refrendas a tiempo? {
+	~Te esperan #No es la mejor opción. Por eso anotas la fecha.
+	~Te bajan el interés #No es la mejor opción. Por eso anotas la fecha.
+	=La casa vende tu prenda #¡Correcto! Por eso anotas la fecha.
+}
+
+::M5 U09 P3::¿De quién es la demasía? {
+	=Tuya #¡Correcto! Es lo que sobra de la venta.
+	~De la casa de empeño #No es la mejor opción. Es lo que sobra de la venta.
+	~De la PROFECO #No es la mejor opción. Es lo que sobra de la venta.
+}
+
 $CATEGORY: $course$/Tu Patrimonio v1.3/M6
 
 ::M6 U01 P1::Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? {
@@ -1078,6 +1114,42 @@ $CATEGORY: $course$/Tu Patrimonio v1.3/M10
 	~Ninguno #No es la mejor opción. Pasa a ser de otra persona.
 	~Pagar ISR sobre el valor total de la casa #No es la mejor opción. Pasa a ser de otra persona.
 	=Que ya no sea tuya #¡Correcto! Pasa a ser de otra persona.
+}
+
+::M10 U09 P1::En sociedad conyugal, ¿se puede vender la casa sin tu firma? {
+	=No, se necesita tu firma #¡Correcto! Lo compraron juntos.
+	~Sí, si está a nombre de él #No es la mejor opción. Lo compraron juntos.
+	~Sí, siempre #No es la mejor opción. Lo compraron juntos.
+}
+
+::M10 U09 P2::¿Cuál es una señal de violencia económica? {
+	~Ver juntos el estado de cuenta #No es la mejor opción. Es control del dinero.
+	~Ahorrar para una meta en común #No es la mejor opción. Es control del dinero.
+	=Que no te dejen ver las cuentas #¡Correcto! Es control del dinero.
+}
+
+::M10 U09 P3::Te piden firmar un poder notarial. ¿Qué haces? {
+	~Firmas rápido #No es la mejor opción. Un poder amplio permite vender por ti.
+	=Preguntas qué tan amplio es y si puedes limitarlo #¡Correcto! Un poder amplio permite vender por ti.
+	~Firmas y guardas la copia #No es la mejor opción. Un poder amplio permite vender por ti.
+}
+
+::M10 U10 P1::¿Quién puede cambiar una pensión fijada por un juez? {
+	~Quien paga #No es la mejor opción. Nadie la cambia por su cuenta.
+	=Un juez #¡Correcto! Nadie la cambia por su cuenta.
+	~Quien la recibe #No es la mejor opción. Nadie la cambia por su cuenta.
+}
+
+::M10 U10 P2::¿Qué pasa con lo que no se pagó? {
+	=Se acumula como deuda #¡Correcto! Se puede reclamar.
+	~Se olvida #No es la mejor opción. Se puede reclamar.
+	~Se divide a la mitad #No es la mejor opción. Se puede reclamar.
+}
+
+::M10 U10 P3::¿Qué puede ordenar el juez para que el pago llegue? {
+	~Que pague en efectivo #No es la mejor opción. Así llega completa.
+	~Que pague cuando pueda #No es la mejor opción. Así llega completa.
+	=Que se descuente de su nómina #¡Correcto! Así llega completa.
 }
 
 $CATEGORY: $course$/Tu Patrimonio v1.3/M11

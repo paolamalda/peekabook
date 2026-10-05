@@ -785,6 +785,48 @@ Lesson: [to be defined]
 
 Hi. Today's topic: What's my next step with credit? Rubén has no history. Andrés has an error in his report. Mar has a card with a high balance. Daniela has an account in collections. All four want to "improve their credit," but each one needs something different. In this lesson you'll choose your own path. Asking for help in time is a skill, not a failure. Remember: Identify your situation before acting. Measure your actions, not only your score. Review your plan at 30 and 90 days. Your step this week: Turn in your Module 3 file: chosen path, a sample report with notes, a comparison of two financing options, debt list, two scenarios and a payment calendar. Also solve integrated case E3 in the support materials. Talk to you in the next lesson.
 
+### M3 U11 · Is a paycheck advance money at no cost?
+
+**WhatsApp**
+
+```
+*M3 U11 · Is a paycheck advance money at no cost?*
+An advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first.
+
+• Ask your employer first.
+• Add up the yearly cost.
+• Avoid payday loans.
+
+Your step this week: If you use an advance app, review last month's transactions and add up everything it charged you.
+
+Lesson: [to be defined]
+```
+
+**Audio** (117 words, about 49 seconds)
+
+Hi. Today's topic: Is a paycheck advance money at no cost? Rubén is 200 dollars short for rent and gets paid in four days. An app offers to advance it "with no interest," with a "suggested tip" of 8 dollars and 4 more to get it instantly. His friend recommends a payday loan. An advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first. Remember: Ask your employer first. Add up the yearly cost. Avoid payday loans. Your step this week: If you use an advance app, review last month's transactions and add up everything it charged you. Talk to you in the next lesson.
+
+### M3 U12 · Is pawning a good way out?
+
+**WhatsApp**
+
+```
+*M3 U12 · Is pawning a good way out?*
+Pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline.
+
+• Get the fees in writing.
+• Keep your ticket.
+• Note the deadline.
+
+Your step this week: Write three options in your plan for an emergency before pawning: your fund, a payment plan and a credit union.
+
+Lesson: [to be defined]
+```
+
+**Audio** (108 words, about 45 seconds)
+
+Hi. Today's topic: Is pawning a good way out? Mar needs 300 dollars for a car repair. Her sister-in-law tells her to pawn her gold chain: "they give you the money in ten minutes and don't check your credit." Pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline. Remember: Get the fees in writing. Keep your ticket. Note the deadline. Your step this week: Write three options in your plan for an emergency before pawning: your fund, a payment plan and a credit union. Talk to you in the next lesson.
+
 ## Module 4. Protect your money, your identity and your family
 
 ### M4 U01 · Why is someone pushing me to act right now?
@@ -1017,6 +1059,27 @@ Lesson: [to be defined]
 **Audio** (144 words, about 60 seconds)
 
 Hi. Today's topic: How do I know if my protection plan works? Rosa had her plan written on a sheet: contacts, documents, savings. One day she lost her phone and realized she didn't remember her email password. The sheet looked complete, but it didn't work. In this lesson you'll test your plan before you need it. A plan that only works for one emergency needs adjustments. Remember: Test your plan with a made-up situation. Fix what didn't work. Review your plan when your life changes. Your step this week: Turn in your Module 4 file: five priority risks, a comparison of two coverages, an incident protocol, the index of your continuity folder and your family preparedness plan, with no sensitive information. Your reasoning is evaluated, not buying products. Also solve integrated case E4 in the support materials. Talk to you in the next lesson.
+
+### M4 U12 · How do I make sure child support reaches my kids?
+
+**WhatsApp**
+
+```
+*M4 U12 · How do I make sure child support reaches my kids?*
+Child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof.
+
+• It's your children's right.
+• Your state agency helps.
+• Always pay with proof.
+
+Your step this week: If you pay or receive child support, gather this year's receipts in a folder or in photos.
+
+Lesson: [to be defined]
+```
+
+**Audio** (115 words, about 48 seconds)
+
+Hi. Today's topic: How do I make sure child support reaches my kids? Daniela is raising her son alone in San Diego. His father gives "when he can," in cash. Daniela is afraid to ask for more because she thinks her immigration status keeps her from going to a government office. Child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof. Remember: It's your children's right. Your state agency helps. Always pay with proof. Your step this week: If you pay or receive child support, gather this year's receipts in a folder or in photos. Talk to you in the next lesson.
 
 ## Module 5. Build wealth and prepare your future
 

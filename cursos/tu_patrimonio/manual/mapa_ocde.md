@@ -7,14 +7,14 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | A1 Dinero y monedas | 20 | M6 U01, M3 U04, M3 U03, M9 U03 |
 | OCDE adultos (2016) | A2 Ingreso | 20 | M11 U02, M10 U04, M9 U01, M7 U03, M7 U05 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M1 U05, M4 U07, M8 U03, M3 U03 |
-| OCDE adultos (2016) | A4 Registros y contratos | 7 | M1 U04, M3 U04, M8 U06, M7 U05, M7 U01, M11 U03 |
+| OCDE adultos (2016) | A4 Registros y contratos | 7 | M1 U04, M3 U04, M8 U06, M10 U09, M7 U05, M7 U01 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U02 |
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M10 U05, M5 U03, M1 U03 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M5 U03, M7 U06, M5 U04, M11 U03, M5 U02, M8 U04 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M6 U02, M5 U04, M2 U02, M6 U01, M1 U01, M6 U03 |
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M10 U01, M10 U07, M11 U03, M10 U02, M1 U01, M8 U06 |
-| OCDE adultos (2016) | B6 Retiro | 13 | M7 U05, M7 U04, M7 U02, M7 U03, M7 U06, M10 U02 |
-| OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U05, M5 U07, M4 U06, M10 U04, M10 U06 |
+| OCDE adultos (2016) | B6 Retiro | 13 | M7 U05, M7 U04, M7 U02, M7 U03, M5 U08, M7 U06 |
+| OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U08, M5 U05, M5 U07, M4 U06, M10 U04 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M1 U01, M10 U04, M4 U06, M6 U02, M5 U04, M5 U05 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M8 U06, M6 U01, M10 U08, M10 U03, M8 U05, M5 U03 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M8 U07, M8 U01, M5 U03, M8 U04, M10 U02, M7 U03 |
@@ -22,13 +22,13 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U04, M4 U08, M2 U03, M5 U02, M4 U07, M6 U04 |
 | OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U07, M5 U06, M10 U04, M2 U04, M7 U05 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M6 U04, M6 U06, M2 U03, M7 U01 |
-| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M5 U01, M5 U02, M2 U02, M1 U01, M6 U03, M4 U02 |
+| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M5 U01, M5 U02, M2 U02, M1 U01, M5 U08, M6 U03 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M4 U01, M4 U04, M4 U06, M8 U06, M11 U03, M4 U07 |
 | OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M9 U02, M9 U01, M10 U08, M8 U07, M9 U03, M4 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M6 U06 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M6 U01, M6 U02 |
 | IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M5 U04, M6 U02, M2 U02, M5 U03, M6 U03, M6 U04 |
-| IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M6 U04, M2 U03, M2 U02 |
+| IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M6 U04, M2 U03, M5 U08, M2 U02 |
 | IOSCO/OCDE inversionistas (2019) | I4 Dar seguimiento a sus inversiones | 8 | M6 U03 |
 | IOSCO/OCDE inversionistas (2019) | I5 Derechos y obligaciones de quien invierte | 8 | M2 U04, M2 U03, M4 U08, M4 U04, M6 U04, M5 U06 |
 | IOSCO/OCDE inversionistas (2019) | I6 Sesgos al invertir | 6 | M6 U06 |
@@ -141,7 +141,7 @@ Temas cubiertos: 29 de 29.
 
 ## A4 · Registros y contratos
 
-**Lecciones:** M1 U04 Tu carpeta de documentos; M3 U04 Transferir sin errores; M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado; M7 U05 Si tú o tu pareja trabajaron para el gobierno: ISSSTE; M7 U01 Tu mapa de pensiones; M11 U03 Tu plan de una página
+**Lecciones:** M1 U04 Tu carpeta de documentos; M3 U04 Transferir sin errores; M8 U06 Si llega un sismo o una inundación: tu patrimonio preparado; M10 U09 Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos; M7 U05 Si tú o tu pareja trabajaron para el gobierno: ISSSTE; M7 U01 Tu mapa de pensiones
 
 *Conocimiento*
 
@@ -309,7 +309,7 @@ Temas cubiertos: 29 de 29.
 
 ## B6 · Retiro
 
-**Lecciones:** M7 U05 Si tú o tu pareja trabajaron para el gobierno: ISSSTE; M7 U04 Pensión de viudez y pensiones del Bienestar; M7 U02 Tu AFORE y tus semanas cotizadas; M7 U03 Modalidad 40: ¿puedes y te conviene?; M7 U06 ¿Cuánto necesito para mi retiro?; M10 U02 Beneficiarios: cuentas, seguros y AFORE
+**Lecciones:** M7 U05 Si tú o tu pareja trabajaron para el gobierno: ISSSTE; M7 U04 Pensión de viudez y pensiones del Bienestar; M7 U02 Tu AFORE y tus semanas cotizadas; M7 U03 Modalidad 40: ¿puedes y te conviene?; M5 U08 Préstamos de nómina y a cuenta de tu pensión; M7 U06 ¿Cuánto necesito para mi retiro?
 
 *Conocimiento*
 
@@ -335,7 +335,7 @@ Temas cubiertos: 29 de 29.
 
 ## B7 · Crédito
 
-**Lecciones:** M5 U06 Tu historial de crédito: Buró, Círculo y ser aval; M5 U05 Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses; M5 U07 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M4 U06 Robo de identidad; M10 U04 Ayudar a los hijos sin descuidar tu futuro; M10 U06 Tu casa: escrituras, predial y crédito en orden
+**Lecciones:** M5 U06 Tu historial de crédito: Buró, Círculo y ser aval; M5 U08 Préstamos de nómina y a cuenta de tu pensión; M5 U05 Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses; M5 U07 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M4 U06 Robo de identidad; M10 U04 Ayudar a los hijos sin descuidar tu futuro
 
 *Conocimiento*
 
@@ -553,7 +553,7 @@ Temas cubiertos: 29 de 29.
 
 ## D4 · Productos y servicios financieros
 
-**Lecciones:** M5 U01 Elige y revisa tus cuentas; M5 U02 El seguro del IPAB: hasta cuánto te protege; M2 U02 Bancos, casas de bolsa, aseguradoras y AFORE: ¿qué hace cada una?; M1 U01 ¿Qué tengo y dónde está?; M6 U03 Lee tu estado de cuenta de inversión; M4 U02 La llamada «del banco»
+**Lecciones:** M5 U01 Elige y revisa tus cuentas; M5 U02 El seguro del IPAB: hasta cuánto te protege; M2 U02 Bancos, casas de bolsa, aseguradoras y AFORE: ¿qué hace cada una?; M1 U01 ¿Qué tengo y dónde está?; M5 U08 Préstamos de nómina y a cuenta de tu pensión; M6 U03 Lee tu estado de cuenta de inversión
 
 *Conocimiento*
 
@@ -699,7 +699,7 @@ Temas cubiertos: 29 de 29.
 
 ## I3 · Comprar y vender inversiones
 
-**Lecciones:** M6 U04 Tu asesor: verifica, pregunta y compara; M2 U03 Verifica antes de confiar; M2 U02 Bancos, casas de bolsa, aseguradoras y AFORE: ¿qué hace cada una?
+**Lecciones:** M6 U04 Tu asesor: verifica, pregunta y compara; M2 U03 Verifica antes de confiar; M5 U08 Préstamos de nómina y a cuenta de tu pensión; M2 U02 Bancos, casas de bolsa, aseguradoras y AFORE: ¿qué hace cada una?
 
 *Conocimiento*
 

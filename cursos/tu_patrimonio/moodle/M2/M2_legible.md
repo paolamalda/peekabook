@@ -162,7 +162,7 @@ CNBV · CONDUSEF · Banxico, consultados el 29 de septiembre de 2026.
 
 ## M2 U02. Bancos, casas de bolsa, aseguradoras y AFORE: ¿qué hace cada una?
 
-**Lo que lograrás:** Saber qué hace cada tipo de institución, qué cuida de tu dinero y quién la vigila, para no confundir un depósito con una inversión.
+**Lo que lograrás:** Identificar qué hace cada tipo de institución, qué cuida de tu dinero y quién la vigila, para no confundir un depósito con una inversión.
 
 **Para empezar:** Carmen cree que su fondo en la casa de bolsa «es como una cuenta de banco» y que está protegido igual. No lo está. En esta lección verás por qué importa saber qué tipo de institución tiene tu dinero.
 
@@ -480,7 +480,7 @@ CONDUSEF · CNBV, consultados el 29 de septiembre de 2026.
 
 ## M2 U04. Tus derechos y dónde reclamar
 
-**Lo que lograrás:** Conocer tus derechos como usuaria de servicios financieros y reclamar paso a paso, primero en la institución y después en la CONDUSEF.
+**Lo que lograrás:** Identificar tus derechos como usuaria de servicios financieros y reclamar paso a paso, primero en la institución y después en la CONDUSEF.
 
 **Para empezar:** Elena vio en su estado de cuenta un seguro que nunca contrató: 350 pesos al mes desde hace un año. Llamó al banco y le dijeron que «así venía la tarjeta». No es así. En esta lección aprenderás a reclamar para que te devuelvan lo que es tuyo.
 

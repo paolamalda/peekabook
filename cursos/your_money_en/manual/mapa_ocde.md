@@ -5,7 +5,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | Marco | Tema | Competencias | Lecciones |
 |---|---|---|---|
 | OCDE adultos (2016) | A1 Dinero y monedas | 20 | M2 U12, M1 U02, M2 U06, M2 U13, M2 U08, M2 U09 |
-| OCDE adultos (2016) | A2 Ingreso | 20 | M1 U04, M5 U09, M1 U10, M5 U06, M4 U09, M1 U01 |
+| OCDE adultos (2016) | A2 Ingreso | 20 | M1 U04, M5 U09, M1 U10, M5 U06, M4 U09, M3 U11 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M5 U05, M1 U06, M1 U02, M1 U12, M3 U03, M5 U10 |
 | OCDE adultos (2016) | A4 Registros y contratos | 7 | M2 U03, M4 U10, M1 U10, M5 U08, M4 U08, M2 U04 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U08, M5 U09, M3 U01 |
@@ -27,7 +27,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M1 U09, M5 U12, M1 U12, M1 U11, M5 U10, M1 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M5 U11, M2 U07 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M1 U02 |
-| IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M2 U08, M1 U09, M2 U04, M1 U06, M1 U12, M2 U13 |
+| IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M2 U08, M1 U09, M2 U04, M3 U11, M1 U06, M3 U12 |
 | IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M5 U03 |
 | IOSCO/OCDE inversionistas (2019) | I4 Dar seguimiento a sus inversiones | 8 | M5 U02, M1 U06 |
 | IOSCO/OCDE inversionistas (2019) | I5 Derechos y obligaciones de quien invierte | 8 | M5 U04, M2 U09, M4 U08, M5 U03, M3 U03, M2 U04 |
@@ -71,7 +71,7 @@ Temas cubiertos: 29 de 29.
 
 ## A2 · Ingreso
 
-**Lecciones:** M1 U04 Is getting paid every week the same as getting paid every month?; M5 U09 How do I plan when my income changes every month?; M1 U10 Is everything I earn on my own for spending?; M5 U06 What will I live on when I work less or stop working?; M4 U09 How do I pay for the essentials if I can't work for a few days?; M1 U01 Is all the money I receive money I earned?
+**Lecciones:** M1 U04 Is getting paid every week the same as getting paid every month?; M5 U09 How do I plan when my income changes every month?; M1 U10 Is everything I earn on my own for spending?; M5 U06 What will I live on when I work less or stop working?; M4 U09 How do I pay for the essentials if I can't work for a few days?; M3 U11 Is a paycheck advance money at no cost?
 
 *Conocimiento*
 
@@ -678,7 +678,7 @@ Temas cubiertos: 29 de 29.
 
 ## I2 · Características de los productos de inversión
 
-**Lecciones:** M2 U08 Does "no fee" always mean more money arrives?; M1 U09 Does filing taxes mean I'll get money back?; M2 U04 What do I need to open an account, and how much does it cost to keep it?; M1 U06 Can a small purchase add up to a lot?; M1 U12 How do I choose someone to help me with taxes?; M2 U13 How do I bring my account and my remittances into one plan?
+**Lecciones:** M2 U08 Does "no fee" always mean more money arrives?; M1 U09 Does filing taxes mean I'll get money back?; M2 U04 What do I need to open an account, and how much does it cost to keep it?; M3 U11 Is a paycheck advance money at no cost?; M1 U06 Can a small purchase add up to a lot?; M3 U12 Is pawning a good way out?
 
 *Conocimiento*
 

@@ -2,7 +2,7 @@
 
 ## M9 U01. ¿Tengo que declarar?
 
-**Lo que lograrás:** Saber en qué casos debes presentar declaración anual, qué es el RFC y la e.firma, y cómo acercarte al SAT sin miedo.
+**Lo que lograrás:** Identificar en qué casos debes presentar declaración anual, qué es el RFC y la e.firma, y cómo acercarte al SAT sin miedo.
 
 **Para empezar:** Lucía recibe su pensión de viudez, intereses de sus inversiones y la renta de un local. Su hijo le dice que «las pensionadas no declaran». Su contadora le dice que quizá sí. En esta lección verás de qué depende.
 
@@ -161,7 +161,7 @@ SAT · PRODECON, consultados el 29 de septiembre de 2026.
 
 ## M9 U02. Lo que te retienen
 
-**Lo que lograrás:** Entender las retenciones de impuestos sobre tus intereses (0.90% sobre el capital en 2026) y sobre tu pensión si pasa de 15 UMA, y usar tus constancias de retenciones.
+**Lo que lograrás:** Explicar las retenciones de impuestos sobre tus intereses (0.90% sobre el capital en 2026) y sobre tu pensión si pasa de 15 UMA, y usar tus constancias de retenciones.
 
 **Para empezar:** En el estado de cuenta de Carmen aparece «ISR retenido». Cree que el banco le cobra una comisión extra. En realidad es un impuesto que ya pagó por adelantado y que puede servirle en su declaración. En esta lección entenderás tus retenciones.
 
@@ -319,7 +319,7 @@ Ley de Ingresos de la Federación 2026 · LISR · INEGI · SAT, consultados el 2
 
 ## M9 U03. Deducciones personales y tu declaración anual
 
-**Lo que lograrás:** Conocer tus deducciones personales (gastos médicos, primas de gastos médicos, funerales, intereses de crédito hipotecario, aportaciones voluntarias), el tope y cómo pueden darte saldo a favor.
+**Lo que lograrás:** Identificar tus deducciones personales (gastos médicos, primas de gastos médicos, funerales, intereses de crédito hipotecario, aportaciones voluntarias), el tope y cómo pueden darte saldo a favor.
 
 **Para empezar:** Elena paga 48,000 al año de seguro de gastos médicos y miles en consultas. No sabía que, si declara, esos gastos pueden reducir su impuesto. En esta lección verás qué puedes deducir.
 

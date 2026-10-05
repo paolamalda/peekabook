@@ -70,19 +70,19 @@ En cada sección de módulo:
 | M2 | 4 | 16 |
 | M3 | 5 | 20 |
 | M4 | 8 | 32 |
-| M5 | 7 | 28 |
+| M5 | 9 | 36 |
 | M6 | 6 | 24 |
 | M7 | 6 | 24 |
 | M8 | 7 | 28 |
 | M9 | 3 | 12 |
-| M10 | 8 | 32 |
+| M10 | 10 | 40 |
 | M11 | 3 | 12 |
 
 ## 4. Libro de apoyo
 
 En la sección 12, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
 
-En la misma sección 12, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
+En la misma sección 12, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto; además: tus bienes y quién los recibe. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
 
 ## 5. Glosario
 
@@ -90,15 +90,15 @@ En la sección 12, crea el glosario `Palabras clave del curso` e importa `3_glos
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tptf.gift.txt`. Se crean *Tu Patrimonio v1.3/M1* a *M11*, con 186 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tptf.gift.txt`. Se crean *Tu Patrimonio v1.3/M1* a *M11*, con 198 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
 3. Agrega **todas** las preguntas de *Tu Patrimonio v1.3/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 15 | 12 | 15 | 24 | 21 | 18 | 18 | 21 | 9 | 24 | 9 |
+| 15 | 12 | 15 | 24 | 27 | 18 | 18 | 21 | 9 | 30 | 9 |
 
-## 7. Actividades H5P (62)
+## 7. Actividades H5P (66)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

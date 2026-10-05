@@ -2,7 +2,7 @@
 
 ## M3 U01. Tu banco en el celular: lo que sí y lo que nunca
 
-**Lo que lograrás:** Conocer lo que puedes hacer con la app de tu banco y lo que tu banco nunca te pedirá, para usarla con tranquilidad.
+**Lo que lograrás:** Identificar lo que puedes hacer con la app de tu banco y lo que tu banco nunca te pedirá, para usarla con tranquilidad.
 
 **Para empezar:** Lucía no usa la app de su banco: «me da miedo picarle a algo y que se vaya el dinero». Cada vez que necesita algo, le pide ayuda a su nieto o hace fila en la sucursal. En esta lección verás que la app, bien configurada, puede ser más segura que la fila.
 

@@ -621,6 +621,48 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento, y la hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
+### M5 U08 · Préstamos de nómina y a cuenta de tu pensión
+
+**WhatsApp**
+
+```
+*M5 U08 · Préstamos de nómina y a cuenta de tu pensión*
+Un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo.
+
+• Tope de 30% de la pensión.
+• Solo financieras del listado oficial.
+• Nunca pagues por adelantado.
+
+Tu paso de esta semana: Si tienes un préstamo de nómina o de pensión, anota cuánto te descuentan, cuántos pagos faltan y el total que pagarás.
+
+Lección: [por definir]
+```
+
+**Audio** (135 palabras, unos 56 segundos)
+
+Hola. Hoy hablamos de esto: Préstamos de nómina y a cuenta de tu pensión. A Lucía la llaman casi a diario: «Por ser pensionada, tiene un préstamo preaprobado; solo mándenos su INE y su estado de cuenta». Y a Raúl, el esposo de Maru, le ofrecen un crédito que se descuenta de su quincena de maestro. Un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo. Recuerda: Tope de 30% de la pensión. Solo financieras del listado oficial. Nunca pagues por adelantado. Tu paso de esta semana: Si tienes un préstamo de nómina o de pensión, anota cuánto te descuentan, cuántos pagos faltan y el total que pagarás. Nos escuchamos en la próxima lección.
+
+### M5 U09 · Empeñar sin perder tus joyas
+
+**WhatsApp**
+
+```
+*M5 U09 · Empeñar sin perder tus joyas*
+Empeñar sirve para una urgencia corta; compara en casas registradas, guarda tu boleta y anota la fecha límite.
+
+• Compara en dos casas registradas.
+• Guarda la boleta.
+• Anota la fecha límite.
+
+Tu paso de esta semana: Si tienes algo empeñado, anota la fecha límite y cuánto apartarás cada mes para recuperarlo.
+
+Lección: [por definir]
+```
+
+**Audio** (100 palabras, unos 42 segundos)
+
+Hola. Hoy hablamos de esto: Empeñar sin perder tus joyas. Elena empeñó una pulsera de oro de su mamá para pagar el deducible del seguro. Le dieron 8,000. Ahora le quedan 10 días y todavía no sabe cuánto tiene que pagar para recuperarla. Empeñar sirve para una urgencia corta; compara en casas registradas, guarda tu boleta y anota la fecha límite. Recuerda: Compara en dos casas registradas. Guarda la boleta. Anota la fecha límite. Tu paso de esta semana: Si tienes algo empeñado, anota la fecha límite y cuánto apartarás cada mes para recuperarlo. Nos escuchamos en la próxima lección.
+
 ## Módulo 6. Tus inversiones
 
 ### M6 U01 · Rendimiento, riesgo, plazo y liquidez
@@ -1260,6 +1302,48 @@ Lección: [por definir]
 **Audio** (130 palabras, unos 54 segundos)
 
 Hola. Hoy hablamos de esto: Heredar o dar en vida: impuestos, costos y riesgos. Carmen quiere dejarle la casa a su hija. Una amiga le dice: «Mejor véndesela en vida por un peso, así no paga impuestos». Otra le dice que la done. Y su hija cree que heredar paga 30%. En esta lección verás qué conviene. Heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir. Recuerda: Heredar y donar a hijos: sin ISR. Escriturar cuesta. Dar en vida: ya no es tuya. Tu paso de esta semana: Escribe qué quieres que pase con tu casa y agenda una consulta en una notaría. Nos escuchamos en la próxima lección.
+
+### M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos
+
+**WhatsApp**
+
+```
+*M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos*
+Tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+
+• Conoce tu régimen matrimonial.
+• Algo a tu nombre.
+• No firmes sin entender.
+
+Tu paso de esta semana: Revisa esta semana: tu acta de matrimonio y régimen, dónde están tus escrituras y si tienes una cuenta a tu nombre.
+
+Lección: [por definir]
+```
+
+**Audio** (124 palabras, unos 52 segundos)
+
+Hola. Hoy hablamos de esto: Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos. Arturo siempre manejó todo. Cuando Carmen pidió ver el estado de cuenta, él le dijo que «no le iba a entender». Hace poco Carmen supo que Arturo quiere vender el terreno que compraron juntos, sin decirle. Tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo. Recuerda: Conoce tu régimen matrimonial. Algo a tu nombre. No firmes sin entender. Tu paso de esta semana: Revisa esta semana: tu acta de matrimonio y régimen, dónde están tus escrituras y si tienes una cuenta a tu nombre. Nos escuchamos en la próxima lección.
+
+### M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar
+
+**WhatsApp**
+
+```
+*M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar*
+Si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
+
+• Solo un juez la cambia.
+• Guarda tus comprobantes.
+• Lo atrasado se puede reclamar.
+
+Tu paso de esta semana: Junta en una carpeta o en fotos los comprobantes de pensión de este año y anota cuánto falta, si falta algo.
+
+Lección: [por definir]
+```
+
+**Audio** (117 palabras, unos 49 segundos)
+
+Hola. Hoy hablamos de esto: Pensión alimenticia: pedirla, cuidarla y hacerla durar. Elena se divorció hace dos años. Su exesposo pagaba la pensión de sus dos hijos, pero desde hace cuatro meses deposita la mitad «porque le bajó el trabajo». Elena no sabe si puede hacer algo. Si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa. Recuerda: Solo un juez la cambia. Guarda tus comprobantes. Lo atrasado se puede reclamar. Tu paso de esta semana: Junta en una carpeta o en fotos los comprobantes de pensión de este año y anota cuánto falta, si falta algo. Nos escuchamos en la próxima lección.
 
 ## Módulo 11. Decidir con calma y tu plan
 
