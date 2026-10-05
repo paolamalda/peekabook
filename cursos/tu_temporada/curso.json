@@ -347,5 +347,8 @@
  "bienvenida": {
   "conecta": "Cada temporada dejas a tu familia para trabajar en el campo de Canadá o de Estados Unidos. Es un esfuerzo enorme de los dos lados: tú allá y tu familia aquí. Este programa es para que nadie te cobre por tu lugar, te paguen lo justo, el dinero que mandas rinda y cada temporada te acerque a un proyecto en México.",
   "despedida": "Gracias por tu tiempo, que vale mucho en temporada. Ahora sabes reconocer un fraude de reclutamiento, revisar tu pago, mandar dinero que rinda y planear los meses sin temporada. Que cada viaje deje algo que se quede con tu familia."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

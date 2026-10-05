@@ -265,5 +265,8 @@
  "bienvenida": {
   "conecta": "Tienes ideas, energía y un celular que usas todo el día. El dinero no es solo para guardarlo: también sirve para crear, probar y hacer crecer algo tuyo. Aquí aprendes a usarlo con cabeza, a no caer en trampas y a convertir una idea en tu primera venta.",
   "despedida": "¡Lo lograste! Empezaste con una idea y terminas con un plan, una forma de cuidar tu dinero y la experiencia de haber probado algo tuyo. Lo que sigue lo decides tú; aquí aprendiste a hacerlo con cabeza."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

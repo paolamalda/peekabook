@@ -326,5 +326,8 @@
  "bienvenida": {
   "conecta": "Pasas horas en la calle entre pedidos y viajes; lo que ves en la app no siempre es lo que te queda. Con la reforma de plataformas tienes derechos nuevos y muchas dudas. Este programa es para que sepas cuánto ganas de verdad, uses tus derechos y tu dinero te lleve a donde quieres llegar. Las lecciones son cortas para tomarlas entre viajes.",
   "despedida": "Gracias por hacer espacio entre viaje y viaje. Ahora conoces tu ingreso real, tus derechos, tu IMSS y tus impuestos, y tienes un plan para tu vehículo y tu futuro. Que cada ruta te acerque a tu meta."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

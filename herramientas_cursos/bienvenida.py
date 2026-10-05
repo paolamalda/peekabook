@@ -5,19 +5,23 @@
 import os, re, sys, json, html, zipfile, shutil
 
 AZ, AZ2, RO, RS, GR, FO, TX = "#0A3161", "#061F40", "#E4007C", "#FF4FA8", "#E6ECF5", "#F5F7FB", "#5A6478"
+LOGO = '<svg aria-label="Desarrolla Talento" viewBox="0 0 64 64" width="64" height="64"><g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M10 52 L32 32 L54 52" stroke="#0A3161"/><path d="M10 32 L32 12 L54 32" stroke="#E4007C"/></g></svg>'
 ICONOS_MOD = ["fa-calendar", "fa-university", "fa-line-chart", "fa-shield", "fa-flag-checkered", "fa-users", "fa-home", "fa-briefcase",
               "fa-leaf", "fa-heart", "fa-star"]
 
 CSS = f"""<style>
 .dtw{{font-family:Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;color:{AZ2};line-height:1.55;max-width:860px;margin:0 auto}}
 .dtw *{{box-sizing:border-box}}
+.dtw a{{color:{RO};font-weight:700;text-decoration:none;word-break:break-word}}
 .dtw .hero{{background:linear-gradient(135deg,{AZ} 0%,{AZ2} 55%,{RO} 140%);color:#fff;border-radius:24px;padding:32px 24px;position:relative;overflow:hidden;margin-bottom:22px}}
 .dtw .hero:after{{content:"";position:absolute;right:-70px;top:-70px;width:220px;height:220px;border-radius:50%;background:rgba(255,79,168,.28)}}
 .dtw .hero:before{{content:"";position:absolute;left:-50px;bottom:-80px;width:180px;height:180px;border-radius:50%;background:rgba(255,255,255,.07)}}
 .dtw .hero .tag{{display:inline-block;background:rgba(255,255,255,.16);border-radius:999px;padding:4px 14px;font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase}}
 .dtw .hero h2{{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-weight:800;font-size:2rem;line-height:1.15;margin:14px 0 8px;color:#fff;position:relative;z-index:1}}
 .dtw .hero p{{font-size:1.08rem;margin:0;opacity:.95;position:relative;z-index:1}}
-.dtw .hero .big{{font-size:3rem;color:{RS};position:relative;z-index:1}}
+.dtw .hero .logo{{width:92px;height:92px;margin:0 auto 6px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;position:relative;z-index:1;box-shadow:0 8px 24px rgba(0,0,0,.25)}}
+.dtw .hero .logo svg{{width:56px;height:56px}}
+.dtw .marca{{display:flex;justify-content:center;margin-top:24px}}.dtw .marca svg{{width:40px;height:40px}}
 .dtw .quote{{background:#fff;border-left:6px solid {RO};border-radius:16px;padding:20px 22px;font-size:1.1rem;box-shadow:0 6px 20px rgba(6,31,64,.08);margin-bottom:22px}}
 .dtw h3{{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-weight:800;color:{AZ};font-size:1.35rem;margin:26px 0 12px}}
 .dtw .grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}}
@@ -215,7 +219,7 @@ def paginas(D, cfg):
     if C.get("whatsapp"):
         canales.append(("fa-whatsapp", "WhatsApp", e(C["whatsapp"]) + (f" · {e(C['horario'])}" if C.get("horario") else ""), ""))
     if C.get("correo"):
-        canales.append(("fa-at", T("Correo", "Email"), e(C["correo"]), " rosa"))
+        canales.append(("fa-envelope", T("Correo", "Email"), f'<a href="mailto:{e(C["correo"])}">{e(C["correo"])}</a> · ' + T("para lo que no quieras escribir en el foro.", "for anything you’d rather not post in the forum."), " rosa"))
     g = (f'<div class="hero"><span class="tag"><i class="fa fa-life-ring"></i> {T("Guía de contacto y comunidad", "Contact and community guide")}</span>'
          f'<h2>{T("No estás sola ni solo en esto", "You are not alone in this")}</h2>'
          f'<p>{T("Aquí te decimos dónde preguntar, cómo participar y cómo cuidamos tus datos.", "Here is where to ask, how to take part and how we protect your data.")}</p></div>'
@@ -241,11 +245,11 @@ def paginas(D, cfg):
     b4 = (f'<div class="hero"><span class="tag"><i class="fa fa-rocket"></i> {T("Antes de empezar", "Before you start")}</span>'
           f'<h2>{T("Tres pasos y arrancamos", "Three steps and we are off")}</h2><p>{T("Te toman unos 15 minutos.", "They take about 15 minutes.")}</p></div><div class="steps">'
           f'<div class="step"><i class="fa fa-bar-chart"></i><b>1. {T("Encuesta de inicio", "Start survey")}</b><span>{T("Anónima. Nos dice cómo estás hoy para medir tu avance al final.", "Anonymous. It tells us how you are today so we can measure your progress.")}</span></div>'
-          f'<div class="step"><i class="fa fa-lightbulb-o"></i><b>2. {T("Pruebita de inicio", "Starting quiz")}</b><span>{T("Unas preguntas para ver de dónde partes. No cuenta para tu calificación.", "A few questions to see where you start. It doesn’t count toward your grade.")}</span></div>'
+          f'<div class="step"><i class="fa fa-lightbulb-o"></i><b>2. {T("Tu punto de partida", "Your starting point")}</b><span>{T("Unas preguntas rápidas para saber qué ya sabes. No es examen y no cuenta para tu calificación.", "A few quick questions about what you already know. It’s not a test and it doesn’t count toward your grade.")}</span></div>'
           f'<div class="step"><i class="fa fa-comment-o"></i><b>3. {T("Preséntate", "Introduce yourself")}</b><span>{T("En el foro, con tu nombre o apodo: ¿qué esperas de este programa?", "In the forum, with your name or a nickname: what do you expect from this program?")}</span></div></div>'
           f'<div class="note" style="margin-top:16px"><i class="fa fa-bookmark-o"></i> {T("Escribe tu meta en una frase y guárdala en tu celular. La volverás a ver al final.", "Write your goal in one sentence and save it on your phone. You’ll see it again at the end.")}</div>'
           f'<p class="center" style="margin-top:22px"><span class="cta"><i class="fa fa-play"></i> {T("Ahora sí: ve a la Parte 1", "Now go to Part 1")} · {e(_nombre(cfg, list(MODS)[0]))}</span></p>'
-          f'<div class="firma"><b>Desarrolla Talento</b>{T("Programa de bienestar financiero", "Financial well-being program")}</div>')
+          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Programa de bienestar financiero", "Financial well-being program")}</div>')
 
     bienvenida = [("01_bienvenida.html", T("Te damos la bienvenida", "Welcome"), b1),
                   ("02_bienvenida.html", T("Cómo funciona el curso", "How the course works"), b2),
@@ -275,13 +279,14 @@ def paginas(D, cfg):
           f'<h2>{T("Dos pasos para tu constancia", "Two steps to your certificate")}</h2><p>{T("Ya casi.", "Almost there.")}</p></div><div class="steps">'
           f'<div class="step"><i class="fa fa-bar-chart"></i><b>1. {T("Encuesta final", "Final survey")}</b><span>{T("Anónima, unos 5 minutos. Nos ayuda a mejorar y a mostrar que el programa funciona.", "Anonymous, about 5 minutes. It helps us improve and show that the program works.")}</span></div>'
           f'<div class="step"><i class="fa fa-download"></i><b>2. {T("Descarga tu constancia", "Download your certificate")}</b><span>{T("Se libera al terminar la encuesta. Es un reconocimiento educativo, verificable en línea.", "It unlocks when you finish the survey. It’s an educational recognition that can be verified online.")}</span></div></div>')
-    c4 = (f'<div class="hero center"><div class="big"><i class="fa fa-heart"></i></div>'
+    correo_txt = (f'; {T("escríbenos también a", "you can also write to")} <a href="mailto:{e(C["correo"])}">{e(C["correo"])}</a>') if C.get("correo") else ""
+    c4 = (f'<div class="hero center"><div class="logo">{LOGO}</div>'
           f'<h2>{T("¡Gracias y hasta pronto!", "Thank you, and see you soon!")}</h2><p>{tit}</p></div>'
           f'<div class="quote">{e(B.get("despedida", ""))}</div><div class="grid">'
           f'<div class="card rosa"><div class="ic"><i class="fa fa-share-alt"></i></div><b>{T("Compártelo", "Share it")}</b><span>{T("¿Conoces a alguien a quien le serviría? Cuéntale del programa; es sin costo para quien participa.", "Know someone who could use it? Tell them about the program; there is no cost to participants.")}</span></div>'
-          f'<div class="card"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>{T("Seguimos en contacto", "Let’s stay in touch")}</b><span>{T("El foro y los mensajes al equipo siguen abiertos.", "The forum and team messages stay open.")}</span></div>'
+          f'<div class="card"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>{T("Seguimos en contacto", "Let’s stay in touch")}</b><span>{T("El foro y los mensajes al equipo siguen abiertos", "The forum and team messages stay open")}{correo_txt}.</span></div>'
           f'<div class="card rosa"><div class="ic"><i class="fa fa-star"></i></div><b>{T("Celebra", "Celebrate")}</b><span>{T("Comparte tu insignia o tu constancia si quieres. Te lo ganaste.", "Share your badge or certificate if you want. You earned it.")}</span></div></div>'
-          f'<div class="firma"><b>Desarrolla Talento</b>{T("Con cariño, todo el equipo del programa de bienestar financiero", "With care, the whole financial well-being program team")}</div>')
+          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Con cariño, todo el equipo del programa de bienestar financiero", "With care, the whole financial well-being program team")}</div>')
     cierre = [("01_cierre.html", T("Lo que lograste", "What you achieved"), c1),
               ("02_cierre.html", T("Tu plan sigue", "Your plan continues"), c2),
               ("03_cierre.html", T("Encuesta final y constancia", "Final survey and certificate"), c3),
@@ -309,7 +314,7 @@ def preview(pags, d, en):
 
 
 def diagnostica_en(D, cfg, out):
-    """«Starting quiz» en inglés: mismas reglas que estandares.py (primera pregunta de cada lección, 2 por módulo)."""
+    """«Your starting point» en inglés: mismas reglas que estandares.py (primera pregunta de cada lección, 2 por módulo)."""
     sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "proyecto-inclusion-financiera", "herramientas"))
     import leccion_ux3 as UX3
     g, k = f"$CATEGORY: $course$/{cfg.get('categoria', cfg['titulo'])}/Start\n\n", 0
@@ -347,8 +352,8 @@ def generar(D, cfg, out):
         f'<!DOCTYPE html><html lang="{"en" if en else "es"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
         f'<title>{"Contact and community guide" if en else "Guía de contacto y comunidad"}</title>'
         f'{HEAD}<style>body{{background:{FO};margin:0;padding:16px}}</style>{CSS}</head><body><div class="dtw">{guia}'
-        f'<div class="firma"><b>Desarrolla Talento</b>{e(cfg["titulo"])}</div></div></body></html>')
-    if en: res.append(f"starting quiz: {diagnostica_en(D, cfg, out)} items")
+        f'<div class="firma"><div class="marca">{LOGO}</div>{e(cfg["titulo"])}</div></div></body></html>')
+    if en: res.append(f"your starting point: {diagnostica_en(D, cfg, out)} items")
     return res + [nom]
 
 

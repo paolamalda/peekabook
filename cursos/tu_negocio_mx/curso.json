@@ -291,5 +291,8 @@
  "bienvenida": {
   "conecta": "Sacas adelante tu negocio con esfuerzo: vendes, cobras, compras, atiendes y además llevas la casa. Muchas veces el dinero del negocio y el de la familia se mezclan y no sabes si de verdad ganas. Este programa es para que tu negocio deje ganancia, se formalice sin miedo y te dé un futuro.",
   "despedida": "Gracias por invertir este tiempo en tu negocio. Ahora sabes cuánto te cuesta lo que vendes, cuánto ganas de verdad y cómo crecer con orden. Tu negocio tiene números claros y tú, más tranquilidad."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

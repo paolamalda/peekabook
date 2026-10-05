@@ -330,5 +330,8 @@
  "bienvenida": {
   "conecta": "Coming back isn't starting from zero: you bring skills, experience and the strength to move forward. But the first months can feel heavy: papers, accounts, work, family and people trying to take advantage. No one here asks how you came back; this program is to help your money and your future settle in soon.",
   "despedida": "Thank you for taking this time in the middle of so much change. Now your papers are in order, you have an account in your name, a plan for your first months and ways to protect yourself from scams. What you brought from there, plus what you learned here, is your starting point."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

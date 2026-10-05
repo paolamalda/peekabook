@@ -40,7 +40,7 @@ Rules:
 
 | Section | Name | Description |
 |---|---|---|
-| General | Welcome | «Welcome» book, "Questions and comments" and "Introduce yourself" forums, start survey and «Starting quiz» |
+| General | Welcome | «Welcome» book, "Questions and comments" and "Introduce yourself" forums, start survey and «Your starting point» |
 | 1 | Module 1. Your business and your home: separate money | Content of `1_books/M1_resumen.html` |
 | 2 | Module 2. Costs and price | `M2_resumen.html` |
 | 3 | Module 3. Cash flow | `M3_resumen.html` |
@@ -61,7 +61,7 @@ They are the first and last thing each person sees: don't skip them.
 
 1. **General section, at the very top:** create the book `Welcome` (chapter formatting "None", navigation "Text") and import `1_books/Bienvenida_libro_Moodle.zip`, type "Each HTML file represents one chapter". There must be 4 chapters: Welcome, How the course works, Contact and community guide, Before you start. Completion: "View".
 2. Below it, the **"Questions and comments"** forum (general forum) and the **"Introduce yourself"** forum ("Standard forum for general use"; description: "Your name or a nickname and what you expect from this program. No personal data."). Both earn Level Up points.
-3. Below, the **Start survey** (section 8) and the **«Starting quiz»**: import `4_questions/diagnostica.gift.txt` (it creates its own «Start» category), all questions, maximum grade 0 (doesn't count toward the grade), **one attempt**, 10-minute time limit, review with the correct answer at the end.
+3. Below, the **Start survey** (section 8) and the **«Your starting point»**: import `4_questions/diagnostica.gift.txt` (it creates its own «Start» category), all questions, maximum grade 0 (doesn't count toward the grade), **one attempt**, 10-minute time limit, review with the correct answer at the end.
 4. **Restrict access** on the first lesson of Part 1: the `Welcome` book must be viewed.
 5. **Section 11, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
 6. **Guide to print or share:** `7_guides/Contact_and_community_guide.html`. Open it in a browser > Print > Save as PDF, and share it in the in-person session or by WhatsApp.

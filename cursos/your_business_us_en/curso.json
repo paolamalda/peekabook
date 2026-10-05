@@ -297,5 +297,8 @@
  "bienvenida": {
   "conecta": "Starting a business in a new country takes double the effort: new rules, taxes in another language and customers who pay late. And still, here you are, moving your business forward. This program is so you truly profit, comply without fear and protect what you built, without asking for personal data or your immigration status.",
   "despedida": "Thank you for investing this time in your business. Now you have prices with profit, your cash flow under control and your taxes in order. What you built in this country stands on firmer ground."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

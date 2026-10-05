@@ -254,5 +254,8 @@
  "bienvenida": {
   "conecta": "Tus turnos son largos, duermes a deshoras y la quincena se va antes de que te des cuenta. Cuidas la seguridad de otros todos los días; aquí te toca cuidar la tuya y la de tu familia. Cada lección es corta para que la tomes en un descanso, desde el celular.",
   "despedida": "Gracias por darle un lugar a tu dinero entre turno y turno. Ahora tu quincena tiene un plan, tus deudas tienen salida y tu familia tiene más protección. Sigue cuidando lo tuyo con la misma atención con la que cuidas tu puesto."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

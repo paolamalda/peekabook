@@ -39,7 +39,7 @@ Reglas:
 
 | Sección | Nombre | Descripción |
 |---|---|---|
-| General | Bienvenida | Libro «Bienvenida», foros "Dudas y comentarios" y "Preséntate", encuesta de inicio y «Pruébate de inicio» |
+| General | Bienvenida | Libro «Bienvenida», foros "Dudas y comentarios" y "Preséntate", encuesta de inicio y «Tu punto de partida» |
 | 1 | Módulo 1. Tu dinero hoy: mapa y orden | Contenido de `1_libros/M1_resumen.html` |
 | 2 | Módulo 2. Conoce el sistema financiero | `M2_resumen.html` |
 | 3 | Módulo 3. El celular sin miedo | `M3_resumen.html` |
@@ -62,7 +62,7 @@ Son lo primero y lo último que ve la persona: no los omitas.
 
 1. **Sección General, arriba de todo:** crea el libro `Bienvenida` (formato de capítulo "Nada", navegación "Texto") e importa `1_libros/Bienvenida_libro_Moodle.zip`, tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Te damos la bienvenida, Cómo funciona el curso, Guía de contacto y comunidad, Antes de empezar. Finalización: "Ver".
 2. Debajo, el foro **"Dudas y comentarios"** (foro general) y el foro **"Preséntate"** (tipo "Foro estándar para uso general"; descripción: "Tu nombre o apodo y qué esperas de este programa. Sin datos personales."). Los dos dan puntos en Level Up.
-3. Debajo, la **Encuesta de inicio** (sección 8) y el cuestionario **«Pruébate de inicio»**: importa `4_preguntas/diagnostica.gift.txt` (crea su propia categoría «Diagnóstica»), todas las preguntas, calificación sobre 0 (no cuenta para la calificación), **un intento**, tiempo máximo 10 minutos, revisión con respuesta correcta al terminar.
+3. Debajo, la **Encuesta de inicio** (sección 8) y el cuestionario **«Tu punto de partida»**: importa `4_preguntas/diagnostica.gift.txt` (crea su propia categoría «Diagnóstica»), todas las preguntas, calificación sobre 0 (no cuenta para la calificación), **un intento**, tiempo máximo 10 minutos, revisión con respuesta correcta al terminar.
 4. **Restringir acceso** de la primera lección de la Parte 1: el libro `Bienvenida` debe estar visto.
 5. **Sección 13, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.
 6. **Guía para imprimir o compartir:** `7_guias/Guia_de_contacto_y_comunidad.html`. Ábrela en el navegador > Imprimir > Guardar como PDF, y compártela en la sesión presencial o por WhatsApp.

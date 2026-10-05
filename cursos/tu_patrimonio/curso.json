@@ -287,5 +287,8 @@
  "bienvenida": {
   "conecta": "Tú sostienes la casa: llevas las cuentas, cuidas a la familia y tomas decisiones de dinero todos los días, aunque pocas veces te lo reconozcan. También eres a quien más buscan los defraudadores. Este programa es para que decidas con calma, con información y con la seguridad de que lo que construiste queda protegido.",
   "despedida": "Gracias por dedicarte este tiempo. Ahora sabes reconocer un fraude, revisar tus cuentas, planear tu retiro y dejar tu patrimonio en orden. Lo que cuidas es el futuro de tu familia, y ahora lo cuidas con más tranquilidad."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

@@ -322,5 +322,8 @@
  "bienvenida": {
   "conecta": "Trabajaste toda la vida y hoy tu pensión es lo que te da tranquilidad. Por eso hay quienes buscan quedarse con ella: con una llamada, un préstamo o una firma. Este programa es para que tú decidas sobre tu dinero, a tu ritmo, con letra grande y con la compañía de alguien de tu confianza.",
   "despedida": "Gracias por acompañarnos. Ahora tu pensión tiene un plan, tu tarjeta y tu NIP están protegidos, y tus papeles quedan en orden para tu familia. Tú sigues decidiendo sobre lo tuyo, con más tranquilidad."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

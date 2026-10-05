@@ -278,5 +278,8 @@
  "bienvenida": {
   "conecta": "En el entretenimiento hay meses de mucho trabajo y meses de nada, contratos que nadie te explicó y tarjetas que llegan cuando más ganas. Tu talento es tu marca, y tu dinero también necesita una estrategia. Este programa es para que tu carrera te dé estabilidad, no solo aplausos.",
   "despedida": "Gracias por dedicarle este tiempo a tu carrera fuera del escenario. Ahora sabes manejar un ingreso variable, leer un contrato, cuidar tu crédito y planear tu futuro. Que tu talento te dé tranquilidad por muchos años."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

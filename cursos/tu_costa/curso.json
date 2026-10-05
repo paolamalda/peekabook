@@ -320,5 +320,8 @@
  "bienvenida": {
   "conecta": "En la Costa Chica se vive del mar, del campo, del comercio y del turismo, con temporadas buenas, meses flojos y huracanes que llegan cada año. Tu historia y tu comunidad son fuertes; este programa es para que tu dinero también lo sea: para que tengas un plan antes de la tormenta y cuides lo que es de tu familia.",
   "despedida": "Gracias por compartir este camino. Ahora tu familia tiene un plan para la temporada de huracanes, un guardadito para los meses flojos y sus papeles a salvo. Lo que han construido en la costa queda mejor protegido."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

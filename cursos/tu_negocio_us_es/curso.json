@@ -291,5 +291,8 @@
  "bienvenida": {
   "conecta": "Emprender en otro país pide doble esfuerzo: reglas nuevas, impuestos en otro idioma y clientes que pagan tarde. Aun así, aquí estás, sacando adelante tu negocio. Este programa es para que ganes de verdad, cumplas sin miedo y protejas lo que construiste, sin pedirte datos personales ni tu situación migratoria.",
   "despedida": "Gracias por invertir este tiempo en tu negocio. Ahora tienes precios con ganancia, tu flujo bajo control y tus impuestos en orden. Lo que construiste en este país tiene bases más firmes."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

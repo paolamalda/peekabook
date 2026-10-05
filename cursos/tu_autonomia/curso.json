@@ -337,5 +337,8 @@
  "bienvenida": {
   "conecta": "Tal vez manejas el dinero de la casa pero no tienes nada a tu nombre, cuidas a todos y nadie cuenta ese trabajo, o quieres por fin tener tu propio ahorro y tu retiro. Este programa es para ti, a cualquier edad y con o sin ingreso propio: para que decidas sobre tu dinero con libertad y con seguridad.",
   "despedida": "Gracias por darte este espacio. Ahora tienes dinero y documentos a tu nombre, un presupuesto que cuenta tu trabajo, tu retiro en camino y un plan para cuidarte. Tu autonomía también es tranquilidad para quienes te quieren."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }

@@ -326,5 +326,8 @@
  "bienvenida": {
   "conecta": "Regresar no es empezar de cero: traes oficio, experiencia y fuerza para salir adelante. Pero los primeros meses pueden sentirse pesados: papeles, cuentas, trabajo, familia y gente que quiere aprovecharse. Aquí nadie te pregunta cómo regresaste; este programa es para que tu dinero y tu futuro se acomoden pronto.",
   "despedida": "Gracias por darte este tiempo en medio de tanto cambio. Ahora tienes tus papeles en orden, una cuenta a tu nombre, un plan para tus primeros meses y la forma de cuidarte de engaños. Lo que trajiste de allá, más lo que aprendiste aquí, es tu punto de partida."
+ },
+ "contacto": {
+  "correo": "hola@desarrollatalento.com"
  }
 }
