@@ -1,0 +1,75 @@
+{
+ "sigla": "TCDF",
+ "titulo": "Tu Costa, Tu Dinero, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para comunidades afromexicanas de la Costa Chica de Guerrero y Oaxaca: proteger lo que se tiene ante huracanes, ordenar el ingreso de temporada, usar crédito con cuidado, reclamar un trato injusto y cuidar el patrimonio. 8 módulos y 16 lecciones cortas para sesiones presenciales.",
+ "publico": "Personas y familias afromexicanas de la Costa Chica que viven de la pesca, el campo, el comercio o el turismo.",
+ "formato": "Presencial en la Costa Chica: 4 sesiones de 2 horas (8 horas totales), grupos de 20 personas, con facilitadores de la región.",
+ "categoria": "Tu Costa",
+ "banco": "banco_preguntas_tcdf.gift.txt",
+ "min_leccion": [5, 10],
+ "personajes": {
+  "Don Mel": "58 años. Pescador en Punta Maldonado, Guerrero. Tiene lancha propia y vende a un comprador del pueblo.",
+  "Doña Chepa": "50 años. Vende pescado y comida en Collantes, Oaxaca. Su hijo le manda dinero desde Carolina del Norte.",
+  "Yesenia": "29 años. Trabaja en un restaurante de playa en Marquelia; en temporada baja casi no hay trabajo.",
+  "Julián": "34 años. Siembra limón y ajonjolí en Cuajinicuilapa con su papá."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Tu plan de dinero ante huracanes",
+  "M2": "Módulo 2. Tus documentos a salvo",
+  "M3": "Módulo 3. El ingreso de temporada, mes a mes",
+  "M4": "Módulo 4. Fondo de emergencia y seguro de vivienda",
+  "M5": "Módulo 5. Crédito para tu actividad",
+  "M6": "Módulo 6. Tus derechos y cómo reclamar",
+  "M7": "Módulo 7. Remesas que rinden",
+  "M8": "Módulo 8. Tu patrimonio y tu herencia"
+ },
+ "resultados": {
+  "M1": "Tu plan de dinero para antes y después de un huracán.",
+  "M2": "Tus documentos importantes protegidos y respaldados.",
+  "M3": "Tu calendario de ingresos del año y lo que apartas en temporada buena.",
+  "M4": "Tu fondo de emergencia en marcha y tu decisión sobre el seguro de vivienda.",
+  "M5": "Tu comparación del costo total de cualquier crédito o adelanto.",
+  "M6": "Tu forma de pedir un trato digno y de reclamar con folio.",
+  "M7": "Tu forma de recibir remesas con menos comisión y con un plan.",
+  "M8": "Tus papeles de casa y terreno en orden y tu decisión sobre la herencia."
+ },
+ "insignias": [
+  ["01_listo_para_la_temporada", "M1 · M2", "Listo para la temporada", "fa-umbrella"],
+  ["02_ano_completo", "M3", "Año completo", "fa-calendar"],
+  ["03_casa_protegida", "M4", "Casa protegida", "fa-home"],
+  ["04_credito_claro", "M5", "Crédito claro", "fa-calculator"],
+  ["05_trato_digno", "M6", "Trato digno", "fa-balance-scale"],
+  ["06_remesa_que_rinde", "M7", "Remesa que rinde", "fa-exchange"],
+  ["07_patrimonio_en_orden", "M8", "Patrimonio en orden", "fa-file-text-o"],
+  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+ ],
+ "constancia": {
+  "titulo": "Tu Costa, Tu Dinero, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Costa, Tu Dinero, Tu Futuro",
+  "temas": ["Plan ante huracanes", "Ingreso de temporada", "Crédito y costo total", "Derechos y reclamos", "Patrimonio"]
+ },
+ "problema": [
+  "Los huracanes dañan casas, lanchas y cosechas, y la región Sur sufre el doble de daños económicos por desastres que el promedio nacional.",
+  "El ingreso llega por temporadas (pesca, cosecha, turismo) y en los meses bajos no alcanza.",
+  "Muchas personas ya tienen cuenta, pero no ahorran en ella ni tienen seguro.",
+  "Los adelantos de compradores y tiendas de insumos cuestan más de lo que parece.",
+  "Hay trato desigual en ventanilla y pocas personas saben cómo reclamar.",
+  "Casas y terrenos sin papeles en orden ni herencia definida."
+ ],
+ "reglas_extra": [
+  "**Ejemplos de la región:** pesca, limón, ajonjolí, coco, turismo de playa y comercio local de la Costa Chica.",
+  "**Facilitadores de la región** siempre que sea posible."
+ ],
+ "datos": [
+  ["Población afromexicana", "2.1 millones (1.6%) en 2025; 2.58 millones en 2020", "INEGI, Encuesta Intercensal 2025 y Censo 2020"],
+  ["Población afromexicana en Guerrero y Oaxaca", "303,923 y 194,474 (2020)", "INEGI, Censo 2020"],
+  ["Bienestar financiero", "Guerrero 49.0 y Oaxaca 49.8 (nacional 52.8), los más bajos del país", "ENSAFI 2023"],
+  ["Daños económicos por desastres en tres años", "22% en la región Sur; 11% nacional", "ENSAFI 2023"],
+  ["Inclusión financiera afromexicana", "78.4% con algún producto (ENIF 2024); 70% según la PNIF 2025-2030", "ENIF 2024 y PNIF 2025-2030"],
+  ["Temporada de huracanes en el Pacífico", "Del 15 de mayo al 30 de noviembre; agosto a octubre, lo más crítico", "SMN"],
+  ["Comparador de envíos de dinero", "Quién es Quién en el Envío de Dinero", "PROFECO"]
+ ]
+}
