@@ -177,5 +177,5 @@ Revisión del 5 de octubre de 2026 contra el material de Formador de instructore
 - [ ] **D14** Instrumentos de evaluación con encabezado completo: nombre, instrucciones, tiempo máximo, reactivos y valor de cada reactivo. *(Responsable: Claude)*
 - [ ] **D15** Al menos una imagen o video por lección o presentación, con derechos de uso claros. *(Responsable: Producción)*
 - [ ] **D16** Reporte de revisión del funcionamiento en la plataforma en el formato del EC0366 (curso, desarrollador, fecha, observaciones de diseño, contenido y funcionalidad con unidad y propuesta), incluida la prueba de enlaces (K12). *(Responsable: Claude + quien instala)*
-- [ ] **D09** Decidir si registrarse como agente capacitador externo ante la STPS (DC-5) para emitir constancias DC-3 a clientes empresa. *(Responsable: Paola)*
+- [ ] **D09** Registro como agente capacitador externo ante la STPS (DC-5): en trámite; Paola ya cuenta con DC-3. Al obtenerlo, agregar la DC-3 como opción para clientes empresa junto a la constancia del curso. *(Responsable: Paola)*
 - [ ] **D10** Al armar kit, encuestas y libro de apoyo de los siete cursos nuevos, hacerlos ya con D01 a D06. *(Responsable: Claude)*
