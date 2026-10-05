@@ -1,0 +1,76 @@
+{
+ "sigla": "TCMF",
+ "titulo": "Tu Comunidad, Tu Dinero, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero diseñado para pueblos indígenas: cobrar apoyos y remesas sin intermediarios, una cuenta a nombre de cada mujer, ahorro en grupo con reglas, protección contra fraudes, la tierra y la familia. 7 módulos y 14 lecciones cortas en español, para sesiones presenciales con intérprete o facilitadora bilingüe.",
+ "publico": "Personas y familias de pueblos indígenas, sobre todo mujeres, en comunidades rurales; con intérprete en la lengua de la región.",
+ "formato": "Presencial en español con intérprete o facilitadora bilingüe: 5 sesiones de 2.5 horas (12.5 horas totales), grupos de 20 personas, materiales ilustrados con pocas palabras.",
+ "categoria": "Tu Comunidad",
+ "banco": "banco_preguntas_tcmf.gift.txt",
+ "min_leccion": [5, 10],
+ "personajes": {
+  "Doña Juana": "55 años. Cobra la Pensión Mujeres Bienestar en una comunidad de la Montaña de Guerrero. Habla náhuatl y poco español.",
+  "Rosa": "32 años. Tiene tres hijos; su esposo trabaja en Sinaloa y le manda dinero. No tiene cuenta a su nombre.",
+  "Don Pedro": "61 años. Ejidatario en Chiapas. Siembra maíz y café.",
+  "Marta": "24 años. Estudió la preparatoria; ayuda a su comunidad con trámites y habla tsotsil y español."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Tu tarjeta y tus apoyos, sin intermediarios",
+  "M2": "Módulo 2. Tu cuenta a tu nombre",
+  "M3": "Módulo 3. Recibir y enviar dinero sin perder",
+  "M4": "Módulo 4. Ahorro en grupo con reglas claras",
+  "M5": "Módulo 5. Fraudes por teléfono y apps de préstamo",
+  "M6": "Módulo 6. Tu tierra: lista de sucesión y beneficiarios",
+  "M7": "Módulo 7. Seguro de vida y gastos funerarios"
+ },
+ "resultados": {
+  "M1": "Tus apoyos cobrados completos, sin pagar a nadie.",
+  "M2": "Una cuenta a tu nombre, sobre todo si eres mujer.",
+  "M3": "Tu dinero recibido y enviado con menos comisión y sin intermediarios.",
+  "M4": "Las reglas escritas de tu grupo de ahorro.",
+  "M5": "Tu regla para colgar y no instalar apps de préstamo.",
+  "M6": "Tu lista de sucesión hecha y tus beneficiarios al día.",
+  "M7": "Tu plan para los gastos funerarios sin endeudar a tu familia."
+ },
+ "insignias": [
+  ["01_mi_apoyo_completo", "M1", "Mi apoyo completo", "fa-gift"],
+  ["02_cuenta_a_mi_nombre", "M2", "Cuenta a mi nombre", "fa-credit-card"],
+  ["03_dinero_que_llega", "M3", "Dinero que llega", "fa-exchange"],
+  ["04_grupo_con_reglas", "M4", "Grupo con reglas", "fa-users"],
+  ["05_no_me_enganan", "M5", "No me engañan", "fa-shield"],
+  ["06_mi_tierra_en_orden", "M6", "Mi tierra en orden", "fa-tree"],
+  ["07_familia_protegida", "M7", "Familia protegida", "fa-heart"],
+  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+ ],
+ "constancia": {
+  "titulo": "Tu Comunidad, Tu Dinero, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Comunidad, Tu Dinero, Tu Futuro",
+  "temas": ["Apoyos sin intermediarios", "Cuenta a mi nombre", "Ahorro en grupo", "Fraudes", "Tierra y familia"]
+ },
+ "problema": [
+  "Quienes hablan una lengua indígena tienen el nivel de inclusión financiera más bajo del país y la mayor brecha entre mujeres y hombres.",
+  "Hay intermediarios que cobran una parte de los apoyos por «ayudar» a cobrarlos.",
+  "Muchas mujeres no tienen una cuenta a su nombre y el dinero lo controla otra persona.",
+  "Los envíos de dinero llegan con comisiones altas o a través de terceros.",
+  "Ahorran en grupo sin reglas escritas y a veces pierden.",
+  "La tierra ejidal o comunal se queda sin lista de sucesión y la familia pierde derechos.",
+  "Los gastos funerarios endeudan a las familias."
+ ],
+ "reglas_extra": [
+  "**No se dice que el programa está en lenguas indígenas:** el material está en español y lo imparte un intérprete o una facilitadora bilingüe de la comunidad.",
+  "**Pocas palabras y muchas ilustraciones:** cada idea cabe en una imagen; las hojas de trabajo se llenan con marcas, no con texto largo.",
+  "**Respeto a las formas de la comunidad:** asambleas, cargos y acuerdos comunitarios se toman en cuenta al hablar de dinero y tierra."
+ ],
+ "datos": [
+  ["Hablantes de lengua indígena", "7.4 millones de 3 años y más (5.9%); 24.2 millones se reconocen indígenas", "INEGI, Encuesta Intercensal 2025"],
+  ["Hablantes que no hablan español", "865,972 (11.8%)", "INEGI, Censo 2020"],
+  ["Lenguas con más hablantes", "Náhuatl 1.65 M, maya 0.77 M, tseltal 0.59 M, tsotsil 0.55 M, mixteco 0.53 M, zapoteco 0.49 M", "INEGI, Censo 2020"],
+  ["Hablantes con algún producto financiero", "58.2%, el nivel más bajo; brecha mujer-hombre de 15.2 puntos", "ENIF 2024"],
+  ["Meta de la política nacional", "Mujeres indígenas de 63.3% a 71% con algún producto en 2030", "PNIF 2025-2030"],
+  ["Pobreza en población indígena", "60.8%", "INEGI, medición de pobreza 2024"],
+  ["Trámites de los Programas para el Bienestar", "Sin costo y sin intermediarios; Línea de Bienestar 800 639 4264", "Secretaría de Bienestar"],
+  ["Lista de sucesión ejidal", "Se deposita en el Registro Agrario Nacional o se formaliza ante notario; vale la de fecha más reciente", "Ley Agraria, artículo 17"]
+ ]
+}
