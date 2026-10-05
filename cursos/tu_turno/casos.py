@@ -200,4 +200,24 @@ CASOS = {
  ("Que heredar no paga ISR; solo cuestan los gastos de escriturar.", "Que de verdad hay que pagar 30% y mejor no escriturar.", "Que conviene no decirle nada al SAT para no pagar."),
  ("Revisa si firmó como aval; si no, no paga con su dinero.", "Paga la tarjeta de su papá para que ya no le llamen.", "Paga la mitad para que el despacho la deje en paz."),
 ],
+"M3 U06": [
+ ('Pide el CAT y el total a pagar, y compara con otra opción.', 'Acepta porque se descuenta solo y ya no tiene que acordarse.', 'Acepta el monto más alto que le ofrezcan por si acaso.'),
+ ('Pide que el descuento respete el tope y quede por escrito.', 'Deja que le descuenten todo en una quincena para salir rápido.', 'Pide otro adelanto para cubrir lo que le van a descontar.'),
+ ('Calcula lo que paga al año y busca otra salida.', 'Lo usa cada quincena porque 99 pesos se ven poquito.', 'Descarga otra app para comparar cuál adelanta más rápido.'),
+],
+"M3 U07": [
+ ('Revisa la boleta, anota la fecha límite y la guarda en foto.', 'Espera a que la casa de empeño le llame para avisarle.', 'Deja el anillo ahí y piensa en recuperarlo más adelante.'),
+ ('Busca una casa registrada y con su contrato registrado.', 'Empeña ahí porque le prestan un poco más que en otros lados.', 'Empeña ahí y no pide boleta para que sea más rápido.'),
+ ('No empeña su herramienta de trabajo y busca otra salida.', 'Empeña el celular y pide uno prestado para checar su turno.', 'Empeña el celular porque lo recupera en la siguiente quincena.'),
+],
+"M7 U08": [
+ ('Pide su nómina a una cuenta suya y se orienta en el 079.', 'Sigue igual porque cree que así son todas las parejas.', 'Deja de trabajar para que ya no haya pleitos por el dinero.'),
+ ('No firma un crédito que no va a usar él.', 'Firma para que ella no se enoje y confía en que pagará.', 'Firma y le pide que le pague a él cada quincena.'),
+ ('Pide una copia en el Registro Público y se orienta.', 'Espera a que su familiar le regrese las escrituras solo.', 'Deja las cosas así para no pelear con la familia.'),
+],
+"M7 U09": [
+ ('Deposita a una cuenta y guarda el comprobante.', 'Sigue en efectivo porque así lo ha hecho siempre.', 'Paga cada dos meses en efectivo para juntar más.'),
+ ('Se orienta en la defensoría o el DIF y pide un convenio.', 'Espera a que el papá se acuerde de dar cuando pueda.', 'Deja de pedirle porque cree que no vale la pena.'),
+ ('Pide al juez que revise el monto y paga lo que puede.', 'Deja de pagar hasta que vuelva a tener horas extra.', 'Paga solo cuando le sobre algo al final del mes.'),
+],
 }

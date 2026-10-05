@@ -16,7 +16,7 @@ Programa de bienestar financiero en microlecciones para jóvenes de preparatoria
 | Público | Jóvenes de 15 a 18 años que estudian la preparatoria en México, en escuelas públicas o privadas; algunas y algunos ya trabajan los fines de semana o venden algo |
 | Tono | Tuteo directo y cercano, sin infantilizar; ejemplos de su vida (redes, juegos, escuela, primeros ingresos) |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, para el celular; actividades H5P «¿Qué harías?», autoevaluaciones, constancia, comunidad moderada y un Excel con hojas de negocio |
-| Duración | 9 módulos, 36 lecciones |
+| Duración | 9 módulos, 37 lecciones |
 | Marco | Todas las competencias del marco de la OCDE para jóvenes (2015), más emprendimiento |
 
 ## El problema que resuelve
@@ -115,6 +115,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M6 U03 · Tu historial desde joven y lo que nunca firmas por otros** Entender qué es el historial de crédito, cómo se construye bien desde joven y la diferencia entre aval, obligado solidario y referencia personal.
 
 **M6 U04 · Pagar tus estudios o tu idea: antes que un préstamo** Buscar primero becas, apoyos y concursos para estudiar o emprender, y si hace falta un crédito, comparar con cuidado.
+
+**M6 U05 · Adelantos de sueldo y préstamos de nómina en tu primer trabajo** Saber qué es un adelanto de sueldo, cuánto te pueden descontar por ley, por qué las apps de adelanto cuestan y qué preguntar antes de aceptar un préstamo de nómina.
 
 **M7 U01 · Identifica tus riesgos antes de que pasen** Reconocer los riesgos que pueden afectar tu dinero y tu negocio (salud, robo, accidentes, pérdidas) y decidir cómo protegerte.
 

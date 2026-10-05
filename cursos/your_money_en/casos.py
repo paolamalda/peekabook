@@ -301,4 +301,19 @@ CASOS = {
  ("She names them as POD beneficiaries and her daughter as guardian.", "She leaves the account as is because her grandchildren will get it anyway.", "She withdraws everything in cash and keeps it at home for them."),
  ("She asks her consulate and looks for a registered notary.", "She pays the gestor so she doesn't have to travel or do anything.", "She sends the gestor her documents over WhatsApp to get started."),
 ],
+"M3 U11": [
+ ('He asks if his employer advances pay at no cost and builds his fund.', 'He keeps using the app because 12 dollars seems like very little money.', 'He asks for the biggest advance the app will allow.'),
+ ('He looks elsewhere: payday loans roll over and fees grow.', "He takes it because he'll repay it all on his next check.", 'He takes it and gets another one later to pay the first.'),
+ ('She changes the collection date and stops using it.', 'She keeps it as is and pays the overdraft each time.', 'She opens another account just so the app collects there.'),
+],
+"M3 U12": [
+ ('She asks the shop about a payment plan.', "She pawns the chain right away because it's faster than asking.", "She takes a payday loan so she doesn't touch her chain."),
+ ("He doesn't pawn what he uses for work.", 'He pawns them and borrows other tools for the weekend.', "He pawns them because he'll surely get them back in two weeks."),
+ ('He goes to the shop with his ID and asks for a copy.', 'He gives the watch up for lost and does nothing else.', "He buys another watch so he doesn't have to deal with it."),
+],
+"M4 U12": [
+ ("She calls her county's child support agency.", 'She keeps waiting because she thinks her status keeps her from asking.', 'She borrows money from a friend every month instead.'),
+ ('He pays through the agency or with proof.', "He keeps paying cash because that's what they agreed years ago.", 'He pays cash, but every three months to pay more at once.'),
+ ('She asks her agency and consulate about agreements with Mexico.', 'She gives up on it because he lives in another country.', 'She asks a gestor to collect on his own in Mexico.'),
+],
 }

@@ -9,6 +9,10 @@ def generar(D, CFG, lecciones):
     pts = (tot + 2 * nm) * 25
     sec_apoyo, sec_eval = nm + 1, nm + 2
     herr = "; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas" if (CFG.get("negocio") or CFG.get("hojas_negocio")) else ""
+    _H = {"quincena_turnos": "tu quincena con turnos extra", "pago_por_dia": "lo que ganas por día en cada casa", "ingreso_variable": "tus ingresos de 12 meses y tu fondo de sequía",
+          "bienes": "tus bienes y quién los recibe", "envios": "el costo de cada envío", "adelantos": "adelantos a tu equipo", "semana_apps": "lo que te queda de verdad en la semana",
+          "pension": "tus pensiones y tu mes", "temporada": "tu temporada: lo que ganas, envías y traes", "regreso": "tus primeros 90 días de regreso"}
+    if CFG.get("hojas"): herr += "; además: " + ", ".join(_H[h] for h in CFG["hojas"] if h in _H)
     tit, corto = CFG["titulo"], I["nombre_corto"]
     cat, banco = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     filas_sec = "\n".join(f"| {i} | {t} | " + (f"Contenido de `1_libros/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"

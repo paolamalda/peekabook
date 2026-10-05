@@ -1,6 +1,6 @@
 # Tu Turno, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.3 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Desarrolla Talento · 30 de septiembre de 2026
 
 Finanzas personales en microlecciones para guardias de seguridad y personas con turnos largos en México: quincena, cuenta, deudas, tandas, Buró, fraudes, familia y futuro.
 
@@ -16,7 +16,7 @@ Finanzas personales en microlecciones para guardias de seguridad y personas con 
 | Público | Guardias de seguridad y personas con turnos de 24 por 24 horas o similares, con ingresos cercanos al salario mínimo; muchas tienen deudas, participan en tandas y no conocen el sistema financiero |
 | Tono | Tuteo cálido y directo, español de México, frases muy cortas, sin tecnicismos, sin culpas |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y para tomarse entre turnos; actividades H5P «¿Qué harías?», autoevaluaciones, constancia y un canal de avisos por WhatsApp |
-| Duración | 8 módulos, 37 lecciones |
+| Duración | 8 módulos, 44 lecciones |
 
 ## El problema que resuelve
 
@@ -100,6 +100,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M3 U05 · Apuestas en línea: cuando el juego se vuelve deuda** Señales de alerta, sitios con permiso, límites, autoexclusión y ayuda.
 
+**M3 U06 · Préstamo de nómina, FONACOT y adelantos: lo que te descuentan** Distinguir el adelanto de la empresa, el préstamo de nómina del banco y el crédito FONACOT, saber cuánto te pueden descontar y cuándo sí conviene.
+
+**M3 U07 · Empeñar sin perder tu prenda** Saber cómo funciona un empeño, cuánto cuesta de verdad, qué es el refrendo y cómo verificar que la casa de empeño esté registrada.
+
 **M4 U01 · Tandas: cómo funcionan y qué puede salir mal**
 
 **M4 U02 · Tu tanda con reglas o tu propio ahorro**
@@ -139,6 +143,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento** Nombrar beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y hacer tu testamento para que tu familia reciba lo tuyo sin juicios largos.
 
 **M7 U07 · Tu casa, tu tierra y lo que se hereda** Poner en orden los papeles de tu casa o terreno (escrituras, tierra ejidal), saber qué pasa si no hay testamento y qué pasa con las deudas y los impuestos al heredar.
+
+**M7 U08 · Tu dinero, tu decisión: violencia económica en casa** Reconocer la violencia económica y patrimonial, cuidar tu dinero y tus papeles, y saber dónde pedir ayuda sin costo.
+
+**M7 U09 · Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos** Saber qué cubre la pensión alimenticia, cómo se pide o se acuerda, cómo pagarla con comprobante y qué pasa si no se paga.
 
 **M8 U01 · Ahorro para el retiro por tu cuenta** Aportaciones voluntarias desde 50 pesos.
 

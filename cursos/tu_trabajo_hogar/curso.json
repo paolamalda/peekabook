@@ -285,5 +285,9 @@
     "M4 U04"
    ]
   }
- }
+ },
+ "hojas": [
+  "pago_por_dia",
+  "bienes"
+ ]
 }

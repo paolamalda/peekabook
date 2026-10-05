@@ -54,7 +54,7 @@ Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.4 en Moodle y a su
 | Público | Adultos migrantes en EE. UU., con SSN, ITIN o sin ninguno; asalariados, independientes, trabajadores de plataformas o con ingresos mixtos; con dependientes y vínculos con México u otros países |
 | Cobertura geográfica | Núcleo federal y módulo estatal. Piloto en California; después Texas, Illinois, Nueva York y Florida |
 | Duración estimada | Unas 13 horas en la plataforma (lecciones de 5 a 10 minutos, actividades y autoevaluaciones), más el tiempo de los casos integradores y el plan; se ajustará con datos del piloto |
-| Estructura | 5 módulos, 59 lecciones, 59 actividades H5P «¿Qué harías?», 5 autoevaluaciones (177 preguntas), 5 casos integradores y 22 prácticas de cálculo |
+| Estructura | 5 módulos, 63 lecciones, 63 actividades H5P «¿Qué harías?», 5 autoevaluaciones (189 preguntas), 5 casos integradores y 22 prácticas de cálculo |
 | Constancia | Insignia por módulo y constancia de conclusión verificable al aprobar las cinco autoevaluaciones; no es licencia ni acreditación oficial |
 
 **Objetivo general.** Al terminar, la persona construye, justifica y ajusta un plan que conecta ingresos, gastos, impuestos, servicios financieros, remesas, crédito, protección y metas. Compara alternativas, reconoce riesgos, verifica información y pide la ayuda adecuada.
@@ -513,6 +513,8 @@ Cada lección tiene explicación, práctica con retroalimentación y una acción
 | M3 U08 | ¿Firmar para ayudar puede dejarme una deuda? | Evaluar los riesgos de firmar, prestar o endeudarte por tu familia. | H5P, quiz y práctica de M3 U08; acción en el plan; caso integrador E3 |
 | M3 U09 | ¿Una tanda me ayuda a construir crédito? | Comparar la tanda tradicional con los círculos de préstamo que reportan a buró, y usar ambos con menos riesgo. | H5P, quiz y práctica de M3 U09; acción en el plan; caso integrador E3 |
 | M3 U10 | ¿Cuál es mi siguiente paso con el crédito? | Elegir tu ruta de crédito y armar un plan de 30 a 90 días. | H5P, quiz y práctica de M3 U10; acción en el plan; caso integrador E3 |
+| M3 U11 | ¿Un adelanto de sueldo es dinero sin costo? | Comparar el adelanto de tu empleador, las apps que adelantan tu pago y los préstamos «payday», y calcular lo que cuestan en un año. | H5P, quiz y práctica de M3 U11; acción en el plan |
+| M3 U12 | ¿Empeñar es una buena salida? | Entender cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas. | H5P, quiz y práctica de M3 U12; acción en el plan |
 | M4 U01 | ¿Por qué alguien insiste en que actúe ahora mismo? | Reconocer cómo funcionan las estafas y verificar por tu cuenta antes de actuar. | H5P, quiz y práctica de M4 U01; acción en el plan; caso integrador E4 |
 | M4 U02 | ¿Quién puede ayudarme de verdad con un trámite migratorio? | Reconocer los fraudes que más afectan a migrantes (notarios, falsos abogados y personas que se hacen pasar por el gobierno) y saber dónde verificar. | H5P, quiz y práctica de M4 U02; acción en el plan; caso integrador E4 |
 | M4 U03 | ¿Qué protege mis cuentas además de una contraseña? | Proteger tu acceso, tus dispositivos y tu forma de recuperar tus cuentas. | H5P, quiz y práctica de M4 U03; acción en el plan; caso integrador E4 |
@@ -524,6 +526,7 @@ Cada lección tiene explicación, práctica con retroalimentación y una acción
 | M4 U09 | ¿Cómo pago lo indispensable si no puedo trabajar unos días? | Preparar tus finanzas ante un desastre, un accidente o una pérdida temporal de ingreso. | H5P, quiz y práctica de M4 U09; acción en el plan; caso integrador E4 |
 | M4 U10 | ¿Qué pasa con mi familia y mi dinero si no puedo estar? | Armar un plan de preparación familiar: quién cuida a tus hijos, dónde están tus documentos y cómo se pagan las cuentas si tú no puedes hacerlo. | H5P, quiz y práctica de M4 U10; acción en el plan; caso integrador E4 |
 | M4 U11 | ¿Cómo sé si mi plan de protección funciona? | Integrar prevención, protección y respuesta, y probar tu plan con un simulacro. | H5P, quiz y práctica de M4 U11; acción en el plan; caso integrador E4 |
+| M4 U12 | ¿Cómo aseguro que la manutención llegue a mis hijos? | Saber qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México. | H5P, quiz y práctica de M4 U12; acción en el plan |
 | M5 U01 | ¿Cómo convierto un deseo en una meta? | Medir tu patrimonio y definir metas con monto, fecha y prioridad, sin contar el mismo dinero dos veces. | H5P, quiz y práctica de M5 U01; acción en el plan; caso integrador E5 |
 | M5 U02 | ¿Tener más dinero significa que mi inversión ganó? | Elegir entre ahorrar e invertir según el plazo, el riesgo y el acceso, y calcular rendimientos sin engañarte. | H5P, quiz y práctica de M5 U02; acción en el plan; caso integrador E5 |
 | M5 U03 | ¿Abrir una cuenta significa que ya invertí? | Distinguir la cuenta (el recipiente) de la inversión (el contenido) y verificar a quien te la vende. | H5P, quiz y práctica de M5 U03; acción en el plan; caso integrador E5 |

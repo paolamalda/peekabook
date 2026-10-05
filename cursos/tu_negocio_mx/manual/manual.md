@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro
 
-Manual del programa · Versión 1.3 · México · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · México · Desarrolla Talento · 30 de septiembre de 2026
 
 Programa de bienestar financiero para personas que emprenden o trabajan por su cuenta en México: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse, usar el crédito con cuidado, protegerse y pensar en el futuro.
 
@@ -16,7 +16,7 @@ Programa de bienestar financiero para personas que emprenden o trabajan por su c
 | Público | Personas residentes en México, de 18 años en adelante, con un negocio pequeño o un trabajo por su cuenta: comida, comercio, oficios, servicios, venta por catálogo o por internet. Muchas son informales o recién formales; algunas tienen una o dos personas que les ayudan |
 | Tono | Tuteo cercano, español de México, frases cortas, ejemplos de negocio real, sin tecnicismos y sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo imprimible y comunidad aparte |
-| Duración | 9 módulos, 44 lecciones |
+| Duración | 9 módulos, 46 lecciones |
 | Eje | Separar el dinero del negocio y de la casa, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -168,6 +168,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo** Siete preguntas, presentación de dos minutos, apoyos, incubadoras, fondeo colectivo autorizado y apoyos falsos.
 
 **M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación.
+
+**M8 U07 · Adelantos y préstamos a tus empleados** Poner reglas claras para adelantar sueldo o prestar a quien trabaja contigo, respetar el tope de descuento de la ley y cuidar el flujo de tu negocio.
 
 ## Módulo 9. Tu futuro
 

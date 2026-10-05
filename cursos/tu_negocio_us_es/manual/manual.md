@@ -1,6 +1,6 @@
 # Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.
 
-Manual del programa · Versión 1.3 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Estados Unidos (federal y California) · Español · Desarrolla Talento · 30 de septiembre de 2026
 
 Programa de bienestar financiero para personas latinas que emprenden o trabajan por su cuenta en Estados Unidos: separar el dinero, poner precio, cuidar el flujo, cobrar sin perder, formalizarse y pagar impuestos, usar el crédito con cuidado, protegerse y pensar en el futuro. Existe una versión en inglés con el mismo contenido.
 
@@ -17,7 +17,7 @@ Programa de bienestar financiero para personas latinas que emprenden o trabajan 
 | Tono | Tuteo cercano, español neutro con términos en inglés cuando se usan así en la vida diaria (EIN, sales tax, LLC), frases cortas, sin culpas |
 | Formato | Curso en Moodle 3.10: lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluación por módulo y constancia. Libro de apoyo y comunidad aparte |
 | Alcance | Reglas federales con ejemplos de California; en otros estados se indica revisar las reglas locales |
-| Duración | 9 módulos, 43 lecciones |
+| Duración | 9 módulos, 45 lecciones |
 | Idiomas | Español (este curso) e inglés (curso paralelo *Your Business, Your Money, Your Future*) |
 
 ## El problema que resuelve
@@ -167,6 +167,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo** Siete preguntas, presentación de dos minutos, SBDC, SCORE, centros de negocios para mujeres, CDFI, fondeo colectivo y subsidios falsos.
 
 **M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley** Qué vigilar, fuentes oficiales, reputación y capacitación sin costo.
+
+**M8 U07 · Adelantos y préstamos a tus empleados** Poner reglas claras para adelantar pago o prestar a quien trabaja contigo, cumplir las reglas de descuentos de tu estado y cuidar el flujo de tu negocio.
 
 ## Módulo 9. Tu futuro
 

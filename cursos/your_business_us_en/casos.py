@@ -220,4 +220,9 @@ CASOS = {
  ("He files Form 3520 with the IRS even though he owes no tax.", "He reports nothing because the land is in Mexico, not in the U.S.", "He sells the land quickly so he doesn't have to report anything."),
  ("She names a POD beneficiary at her bank.", "She gives her password to her mom in case something happens someday.", "She closes the account and keeps the business money in cash."),
 ],
+"M8 U07": [
+ ('He signs an agreement with a fixed deduction that keeps pay above minimum.', 'He keeps deducting whatever he remembers to recover his money fast.', 'He stops giving advances to everyone without explaining why.'),
+ ('She keeps a sheet per person and gets each agreement signed.', 'She keeps advancing by word of mouth because she trusts them.', 'She deducts everything at the end of the month to keep it simple.'),
+ ("He applies his one-at-a-time rule and gives time if it's an emergency.", 'He gives the second one and deducts both from a single check.', 'He gives the second one without writing it down to avoid awkwardness.'),
+],
 }

@@ -51,7 +51,7 @@ Version 3.0 · September 2026 · Matches course v3.4 in Moodle and its full cont
 | Audience | Immigrant adults in the U.S., with an SSN, an ITIN or neither; wage earners, self-employed, platform workers or mixed income; with dependents and ties to Mexico or other countries |
 | Geographic coverage | Federal core and state module. Pilot in California; then Texas, Illinois, New York and Florida |
 | Estimated duration | About 13 hours on the platform (5 to 10 minute lessons, activities and self-assessments), plus time for the integrative cases and the plan; to be adjusted with pilot data |
-| Structure | 5 modules, 59 lessons, 59 "What would you do?" H5P activities, 5 self-assessments (177 questions), 5 integrative cases and 22 calculation practices |
+| Structure | 5 modules, 63 lessons, 63 "What would you do?" H5P activities, 5 self-assessments (189 questions), 5 integrative cases and 22 calculation practices |
 | Certificate | A badge per module and a verifiable certificate of completion after passing the five self-assessments; not a license or official accreditation |
 
 **Overall objective.** By the end, participants build, justify and adjust a plan that connects income, expenses, taxes, financial services, remittances, credit, protection and goals. They compare alternatives, recognize risks, verify information and seek the right help.
@@ -510,6 +510,8 @@ Every lesson has an explanation, practice with feedback and an action for the pl
 | M3 U08 | Can signing to help leave me with a debt? | Weigh the risks of signing, lending or borrowing for your family. | M3 U08 H5P, quiz and practice; plan action; integrative case E3 |
 | M3 U09 | Can a tanda help me build credit? | Compare the traditional tanda with lending circles that report to the credit bureaus, and use both with less risk. | M3 U09 H5P, quiz and practice; plan action; integrative case E3 |
 | M3 U10 | What is my next step with credit? | Choose your credit pathway and build a 30- to 90-day plan. | M3 U10 H5P, quiz and practice; plan action; integrative case E3 |
+| M3 U11 | Is a paycheck advance money at no cost? | Compare your employer's advance, apps that advance your pay and payday loans, and calculate what they cost over a year. | M3 U11 H5P, quiz and practice; plan action; integrative case E3 |
+| M3 U12 | Is pawning a good way out? | Understand how a U.S. pawn shop works, what it costs and what happens if you don't pay. | M3 U12 H5P, quiz and practice; plan action; integrative case E3 |
 | M4 U01 | Why is someone insisting that I act right now? | Recognize how scams work and verify on your own before acting. | M4 U01 H5P, quiz and practice; plan action; integrative case E4 |
 | M4 U02 | Who can really help me with an immigration matter? | Recognize the fraud that most affects immigrants (notarios, fake lawyers and government impersonators) and know where to verify. | M4 U02 H5P, quiz and practice; plan action; integrative case E4 |
 | M4 U03 | What protects my accounts besides a password? | Protect your access, your devices and how you recover your accounts. | M4 U03 H5P, quiz and practice; plan action; integrative case E4 |
@@ -521,6 +523,7 @@ Every lesson has an explanation, practice with feedback and an action for the pl
 | M4 U09 | How do I pay for the essentials if I can't work for a few days? | Prepare your finances for a disaster, an accident or a temporary loss of income. | M4 U09 H5P, quiz and practice; plan action; integrative case E4 |
 | M4 U10 | What happens to my family and my money if I can't be there? | Build a family preparedness plan: who takes care of your children, where your documents are and how bills get paid if you cannot do it. | M4 U10 H5P, quiz and practice; plan action; integrative case E4 |
 | M4 U11 | How do I know if my protection plan works? | Bring together prevention, protection and response, and test your plan with a drill. | M4 U11 H5P, quiz and practice; plan action; integrative case E4 |
+| M4 U12 | How do I make sure child support reaches my kids? | Learn what child support is in the U.S., how to request it through your state agency, how to pay it with proof and what to do if the other parent lives in Mexico. | M4 U12 H5P, quiz and practice; plan action; integrative case E4 |
 | M5 U01 | How do I turn a wish into a goal? | Measure your net worth and set goals with an amount, a date and a priority, without counting the same money twice. | M5 U01 H5P, quiz and practice; plan action; integrative case E5 |
 | M5 U02 | If I have more money, did my investment earn it? | Choose between saving and investing based on time frame, risk and access, and calculate returns without fooling yourself. | M5 U02 H5P, quiz and practice; plan action; integrative case E5 |
 | M5 U03 | Does opening an account mean I already invested? | Tell apart the account (the container) from the investment (the contents) and verify whoever sells it to you. | M5 U03 H5P, quiz and practice; plan action; integrative case E5 |

@@ -235,6 +235,115 @@ def hojas(D, CFG, EN):
             entrada(ws.cell(6, j)); entrada(ws.cell(7, j))
             if j > 2: ws.cell(5, j, f"={ws.cell(8, j - 1).column_letter}8").number_format = fmt
             c = ws.cell(8, j, f"={col}5+{col}6-{col}7"); c.number_format = fmt; c.font = Font(bold=True, color=RO)
+    # Hojas propias de cada público (curso.json: "hojas": [...])
+    def tabla(ws, fila, cols, n, formulas=None, anchos=None):
+        cab(ws, fila, cols)
+        for r in range(fila + 1, fila + 1 + n):
+            for j in range(1, len(cols) + 1):
+                f = (formulas or {}).get(j)
+                if f: c = ws.cell(r, j, f.format(r=r)); c.number_format = fmt; c.font = Font(bold=True, color=RO)
+                elif j == 1: ws.cell(r, j).fill = IN
+                else: entrada(ws.cell(r, j))
+        return fila + 1 + n
+    def total(ws, fila, etiqueta, formula, col=2):
+        ws.cell(fila, 1, etiqueta).font = Font(bold=True)
+        c = ws.cell(fila, col, formula); c.number_format = fmt; c.font = Font(bold=True, color=RO)
+    for h in CFG.get("hojas", []):
+        if h == "quincena_turnos":
+            ws = hoja(T("Quincena", "Pay period"), T("Mi quincena con turnos extra", "My pay period with extra shifts"), nota)
+            rows = [(T("Sueldo base de la quincena", "Base pay for the period"), None), (T("Turnos extra", "Extra shifts"), None), (T("Pago por turno extra", "Pay per extra shift"), None),
+                    (T("Descuentos (adelantos, préstamos, FONACOT)", "Deductions (advances, loans)"), None),
+                    (T("Lo que me llega", "What I take home"), "=B4+B5*B6-B7"), (T("Ahorro, apartado primero (10%)", "Savings, set aside first (10%)"), "=ROUND(B8*0.1,0)"),
+                    (T("Para gastar la quincena", "To spend this period"), "=B8-B9")]
+            for i, (lab, val) in enumerate(rows, 4):
+                ws.cell(i, 1, lab); c = ws.cell(i, 2, val)
+                if val is None: entrada(c)
+                else: c.number_format = fmt; c.font = Font(bold=True, color=RO)
+            ws["B5"].number_format = "0"
+        elif h == "pago_por_dia":
+            ws = hoja(T("Mis casas", "My jobs"), T("Lo que gano por día en cada casa", "What I earn per day at each job"), nota)
+            fin = tabla(ws, 4, [T("Casa (sin nombres, usa un apodo)", "Job (use a nickname)"), T("Días por semana", "Days per week"), T("Pago por día", "Pay per day"), T("Pasajes que me dan", "Fare they give me"), T("A la semana", "Per week"), T("Al mes (×4.33)", "Per month (×4.33)")],
+                        6, {5: "=B{r}*(C{r}+D{r})", 6: "=ROUND(E{r}*4.33,0)"})
+            total(ws, fin + 1, T("Total a la semana", "Total per week"), f"=SUM(E5:E{fin - 1})", 5); total(ws, fin + 2, T("Total al mes", "Total per month"), f"=SUM(F5:F{fin - 1})", 6)
+            ws.cell(fin + 4, 1, T("Presupuesta con el mes más flojo, no con el mejor.", "Budget with your slowest month, not your best."))
+        elif h == "ingreso_variable":
+            ws = hoja(T("Ingreso variable", "Variable income"), T("Mis ingresos de 12 meses y mi fondo de sequía", "My 12 months of income and my dry-spell fund"), nota)
+            cab(ws, 4, [T("Mes", "Month"), T("Ingreso", "Income")])
+            for i in range(12): ws.cell(5 + i, 1, i + 1); entrada(ws.cell(5 + i, 2))
+            total(ws, 18, T("Promedio al mes", "Monthly average"), "=IFERROR(AVERAGE(B5:B16),0)"); total(ws, 19, T("Mes más bajo", "Lowest month"), "=MIN(B5:B16)")
+            ws.cell(20, 1, T("Gasto básico al mes", "Basic monthly expenses")); entrada(ws.cell(20, 2))
+            ws.cell(21, 1, T("Meses de sequía que quiero cubrir", "Dry-spell months to cover")); ws.cell(21, 2, 4).fill = IN
+            total(ws, 22, T("Mi meta de fondo de sequía", "My dry-spell fund goal"), "=B20*B21")
+        elif h == "bienes":
+            ws = hoja(T("Mis bienes", "My assets"), T("Lo que tengo, a nombre de quién y quién lo recibe", "What I own, whose name it's in and who receives it"), T("No anotes números de cuenta ni contraseñas; solo dónde está cada documento.", "Don't write account numbers or passwords; only where each document is."))
+            cab(ws, 4, [T("Bien o cuenta", "Asset or account"), T("A nombre de", "In whose name"), T("Valor aproximado", "Approximate value"), T("Documento", "Document"), T("Dónde está el documento", "Where the document is"), T("Beneficiario o heredero", "Beneficiary or heir")])
+            for r in range(5, 17):
+                for j in range(1, 7):
+                    if j == 3: entrada(ws.cell(r, j))
+                    else: ws.cell(r, j).fill = IN
+            total(ws, 18, T("Valor total aproximado", "Approximate total value"), "=SUM(C5:C16)", 3)
+            for col in "BDEF": ws.column_dimensions[col].width = 24
+        elif h == "envios":
+            ws = hoja(T("Envíos", "Remittances"), T("Lo que cuesta cada envío", "What each transfer costs"), nota)
+            fin = tabla(ws, 4, [T("Servicio (apodo)", "Service (nickname)"), T("Envío en dólares", "Amount sent (USD)"), T("Comisión", "Fee"), T("Tipo de cambio que te dan", "Exchange rate you get"), T("Tipo de cambio del día", "Market rate"), T("Pesos que llegan", "Pesos received"), T("Costo total en dólares", "Total cost (USD)")],
+                        6, {6: "=B{r}*D{r}", 7: "=IFERROR(C{r}+B{r}*(E{r}-D{r})/E{r},\"\")"})
+            ws.cell(fin + 1, 1, T("Compara el costo total: la comisión más el tipo de cambio.", "Compare total cost: the fee plus the exchange rate."))
+        elif h == "adelantos":
+            ws = hoja(T("Adelantos", "Advances"), T("Adelantos a mi equipo", "Advances to my team"), nota)
+            fin = tabla(ws, 4, [T("Persona (apodo)", "Person (nickname)"), T("Adelanto", "Advance"), T("Descuento por pago", "Deduction per pay"), T("Pagos hechos", "Payments made"), T("Falta", "Remaining"), T("Pagos que faltan", "Payments left")],
+                        8, {5: "=MAX(B{r}-C{r}*D{r},0)", 6: "=IF(C{r}>0,ROUNDUP(E{r}/C{r},0),\"\")"})
+            ws.cell(fin + 1, 1, T("Fondo de adelantos del mes", "Monthly advances fund")); entrada(ws.cell(fin + 1, 2))
+            total(ws, fin + 2, T("Me queda en el fondo", "Left in the fund"), f"=B{fin + 1}-SUM(B5:B{fin - 1})")
+            for r in range(5, fin): ws.cell(r, 4).number_format = "0"; ws.cell(r, 6).number_format = "0"
+        elif h == "semana_apps":
+            ws = hoja(T("Mi semana", "My week"), T("Lo que me queda de verdad en la semana", "What I really keep each week"), nota)
+            cab(ws, 4, [T("Concepto", "Item"), T("Semana", "Week")])
+            ent = [T("Ganancias en la app 1", "Earnings app 1"), T("Ganancias en la app 2", "Earnings app 2"), T("Propinas", "Tips")]
+            sal = [T("Gasolina o carga", "Gas or charging"), T("Mantenimiento (aparta por semana)", "Maintenance (set aside weekly)"), T("Renta del vehículo o pago del crédito", "Vehicle rent or loan payment"),
+                   T("Plan de datos del celular", "Phone data plan"), T("Seguro del vehículo (parte de la semana)", "Vehicle insurance (weekly share)"), T("Comida en la calle", "Food on the road")]
+            r = 5
+            for e in ent: ws.cell(r, 1, e); entrada(ws.cell(r, 2)); r += 1
+            total(ws, r, T("Entró en la semana", "Money in this week"), f"=SUM(B5:B{r - 1})"); ri = r; r += 1
+            s0 = r
+            for e in sal: ws.cell(r, 1, e); entrada(ws.cell(r, 2)); r += 1
+            total(ws, r, T("Costos de trabajar", "Cost of working"), f"=SUM(B{s0}:B{r - 1})"); rc = r; r += 1
+            total(ws, r, T("Me queda de verdad", "What I really keep"), f"=B{ri}-B{rc}"); rq = r; r += 1
+            ws.cell(r, 1, T("Horas conectado en la semana", "Hours logged in this week")); ws.cell(r, 2).fill = IN; rh = r; r += 1
+            total(ws, r, T("Me queda por hora", "What I keep per hour"), f"=IF(B{rh}>0,B{rq}/B{rh},\"\")"); r += 1
+            total(ws, r, T("Apartado para imprevistos y retiro (10%)", "Set aside for emergencies and retirement (10%)"), f"=ROUND(B{rq}*0.1,0)")
+        elif h == "pension":
+            ws = hoja(T("Mi pensión", "My pension"), T("Mis pensiones y mi mes", "My pensions and my month"), nota)
+            rows = [(T("Pensión Bienestar (bimestral)", "Pensión Bienestar (every two months)"), None), (T("Pensión IMSS o ISSSTE (mensual)", "IMSS or ISSSTE pension (monthly)"), None),
+                    (T("Apoyo de la familia (mensual)", "Family support (monthly)"), None), (T("Otro ingreso (mensual)", "Other income (monthly)"), None),
+                    (T("Lo que me entra al mes", "My monthly income"), "=B4/2+B5+B6+B7"), (T("Descuento por préstamo a cuenta de pensión", "Pension loan deduction"), None),
+                    (T("Gastos del mes", "Monthly expenses"), None), (T("Me queda al mes", "Left each month"), "=B8-B9-B10"),
+                    (T("Tope de descuento (30% de la pensión IMSS)", "Deduction cap (30% of IMSS pension)"), "=ROUND(B5*0.3,0)")]
+            for i, (lab, val) in enumerate(rows, 4):
+                ws.cell(i, 1, lab); c = ws.cell(i, 2, val)
+                if val is None: entrada(c)
+                else: c.number_format = fmt; c.font = Font(bold=True, color=RO)
+            ws["A14"] = T("La Pensión Bienestar llega cada dos meses: aparta la mitad para el mes sin depósito.", "Pensión Bienestar arrives every two months: set half aside for the month without a deposit.")
+        elif h == "temporada":
+            ws = hoja(T("Temporada", "Season"), T("Mi temporada: lo que gano, lo que envío y lo que traigo", "My season: what I earn, send and bring home"), nota)
+            rows = [(T("Semanas de contrato", "Contract weeks"), None), (T("Horas por semana (promedio)", "Hours per week (average)"), None), (T("Pago por hora (dólares)", "Pay per hour (USD)"), None),
+                    (T("Lo que gano en la temporada", "What I earn in the season"), "=B4*B5*B6"), (T("Gastos allá por semana (comida, teléfono)", "Weekly costs there (food, phone)"), None),
+                    (T("Envíos a mi familia por semana", "Weekly remittances to my family"), None), (T("Lo que me queda para traer", "What's left to bring home"), "=B7-B4*(B8+B9)"),
+                    (T("Mi meta al regresar", "My goal when I return"), None), (T("Me falta o me sobra", "Short or over"), "=B10-B11")]
+            for i, (lab, val) in enumerate(rows, 4):
+                ws.cell(i, 1, lab); c = ws.cell(i, 2, val)
+                if val is None: entrada(c)
+                else: c.number_format = fmt; c.font = Font(bold=True, color=RO)
+            for a in ("B4", "B5"): ws[a].number_format = "0"
+            ws["B6"].number_format = '"$"#,##0.00'
+            ws["A14"] = T("Con la garantía de tres cuartas partes, te deben pagar al menos 75% de las horas del contrato.", "Under the three-fourths guarantee, you must be paid for at least 75% of the contract hours.")
+        elif h == "regreso":
+            ws = hoja(T("Mis 90 días", "My 90 days"), T("Mis primeros 90 días de regreso", "My first 90 days back"), nota)
+            fin = tabla(ws, 4, [T("Concepto", "Item"), T("Mes 1", "Month 1"), T("Mes 2", "Month 2"), T("Mes 3", "Month 3"), T("Total", "Total")], 10, {5: "=SUM(B{r}:D{r})"})
+            etiquetas = [T("Lo que traigo o me llega", "What I bring or receive"), T("Ingreso de trabajo", "Work income"), T("Renta o aporte a la casa", "Rent or household share"), T("Comida", "Food"),
+                         T("Transporte", "Transportation"), T("Trámites (acta, INE, CURP, cuenta)", "Paperwork (birth certificate, ID, account)"), T("Salud", "Health"), T("Herramientas o capacitación", "Tools or training"),
+                         T("Apoyo a la familia", "Family support"), T("Ahorro", "Savings")]
+            for i, e in enumerate(etiquetas): ws.cell(5 + i, 1, e)
+            total(ws, fin + 1, T("Me queda al final de los 90 días", "Left at the end of 90 days"), f"=SUM(E5:E6)-SUM(E7:E{fin - 1})", 5)
     sig = CFG.get("sigla") or os.path.basename(D)
     d = os.path.join(D, "moodle", "herramientas"); os.makedirs(d, exist_ok=True)
     nombre = T(f"Herramientas_{sig}.xlsx", f"Tools_{sig}.xlsx")

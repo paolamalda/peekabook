@@ -16,7 +16,7 @@ Programa de bienestar financiero en microlecciones para trabajadoras del hogar e
 | Público | Mujeres que trabajan en limpieza, cocina y cuidado en casas particulares en México, por día (de entrada por salida, a veces una casa distinta cada día) o de planta (pago por semana o quincena). Muchas sostienen a su pareja, hijas y nietas, usan tandas, no tienen seguridad social ni ahorro, y se endeudan para ayudar a otras personas. |
 | Tono | Tuteo cálido y respetuoso, español de México, frases muy cortas, sin tecnicismos, sin culpas; reconoce que su trabajo vale |
 | Formato | Microlecciones de 5 a 10 minutos en Moodle 3.10, pensadas para el celular y datos limitados; actividades H5P «¿Qué harías?», autoevaluaciones, constancia, comunidad con sesiones por la tarde o en domingo y un canal de WhatsApp |
-| Duración | 9 módulos, 42 lecciones |
+| Duración | 9 módulos, 45 lecciones |
 
 ## El problema que resuelve
 
@@ -103,6 +103,8 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M4 U05 · Tu dinero a tu nombre: autonomía y violencia económica** Reconocer la violencia económica, tener dinero y documentos a tu nombre y saber dónde pedir ayuda.
 
+**M4 U06 · Pensión alimenticia: lo que les toca a tus hijos y nietas** Saber qué cubre la pensión alimenticia, dónde pedir orientación sin costo para pedirla y cómo administrar lo que llega.
+
 **M5 U01 · ¿Cuánto debes en total?** Hacer la lista de todas tus deudas, con cuánto debes, cuánto pagas y a quién, para ver el tamaño real del problema.
 
 **M5 U02 · Lo que de verdad cuesta un préstamo** Calcular el costo total de un préstamo, entender el CAT y comparar tiendas en abonos, casas de empeño y bancos.
@@ -112,6 +114,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M5 U04 · Tu plan para salir de deudas** Elegir un orden para pagar tus deudas (bola de nieve o avalancha), negociar con quien te presta y no tomar deudas nuevas.
 
 **M5 U05 · Tu historial de crédito sin miedo** Saber qué es el Buró de Crédito, pedir tu reporte sin costo, reclamar errores y construir un buen historial.
+
+**M5 U06 · Adelantos de la patrona y préstamo de nómina** Pedir un adelanto con reglas claras, saber cuánto te pueden descontar por ley y comparar con un préstamo de nómina del banco.
+
+**M5 U07 · Empeñar sin perder tu prenda** Saber cómo funciona un empeño, cuánto cuesta de verdad, qué es el refrendo y la demasía, y verificar que la casa de empeño esté registrada.
 
 **M6 U01 · Cuando la casa te inscribe al IMSS** Conocer qué te da el IMSS cuando la casa donde trabajas te inscribe, cómo funciona si trabajas en varias casas y cómo platicarlo.
 

@@ -180,4 +180,9 @@ CASOS = {
  ("Pone un recordatorio mensual para revisarlo.", "Lo guarda en un cajón porque ya lo hizo una vez.", "Lo rehace completo cada semana desde el principio."),
  ("No las anota: el plan no lleva datos sensibles.", "Las anota al final para no olvidarlas nunca.", "Las anota al revés para que nadie las entienda."),
 ],
+"M6 U05": [
+ ('Aparta cada semana y compra los tenis sin deber.', 'Usa la app cada semana porque 49 pesos casi no se notan.', 'Pide adelantos en la app y en la taquería para comprarlos ya.'),
+ ('Pregunta el total y cuántos meses le descontarán.', 'Lo acepta porque ya está preaprobado y no pide papeles.', 'Lo acepta completo para comprarse un celular nuevo.'),
+ ('Pide por escrito cuánto le descuentan y cuántos pagos faltan.', 'Deja que le descuenten lo que quieran para no incomodar a nadie.', 'Pide otro adelanto para no sentir el descuento.'),
+],
 }

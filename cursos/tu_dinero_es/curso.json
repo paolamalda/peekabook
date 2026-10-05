@@ -216,5 +216,9 @@
     "M5 U03"
    ]
   }
- }
+ },
+ "hojas": [
+  "envios",
+  "bienes"
+ ]
 }

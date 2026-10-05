@@ -1,0 +1,391 @@
+<title>Brechas de bienestar financiero en México</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Informe de investigación: columna de lectura de 72ch, tablas con desplazamiento propio, gráficas de barras horizontales a escala 0–100 */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --fg:#17201b; --muted:#56615a; --line:#d9ded6;
+  --accent:#1f6b52; --accent-soft:#e3efe9;
+  --ok:#1d6b3a; --ok-bg:#e2f1e6; --warn:#8a5a00; --warn-bg:#fbf0d6; --bad:#a3282a; --bad-bg:#f8e3e2;
+  --s1:#2a78d6; --s2:#eb6834; --track:#eceee9;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141a17; --surface:#1b2420; --fg:#e8ede9; --muted:#a6b2aa; --line:#33403a;
+  --accent:#6cc2a1; --accent-soft:#213a31;
+  --ok:#8fd6a5; --ok-bg:#1f3527; --warn:#f0c46a; --warn-bg:#3a2f16; --bad:#f19a98; --bad-bg:#3d2222;
+  --s1:#3987e5; --s2:#d95926; --track:#2a3530; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141a17; --surface:#1b2420; --fg:#e8ede9; --muted:#a6b2aa; --line:#33403a;
+  --accent:#6cc2a1; --accent-soft:#213a31;
+  --ok:#8fd6a5; --ok-bg:#1f3527; --warn:#f0c46a; --warn-bg:#3a2f16; --bad:#f19a98; --bad-bg:#3d2222;
+  --s1:#3987e5; --s2:#d95926; --track:#2a3530; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:16px;line-height:1.6;margin:0;padding-inline:16px;padding-block:32px 64px}
+main{max-width:72ch;margin:0 auto;display:flex;flex-direction:column;gap:40px}
+header{display:flex;flex-direction:column;gap:12px;border-bottom:1px solid var(--line);padding-bottom:24px}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1,h2,h3{font-family:var(--serif);text-wrap:balance;margin:0;line-height:1.2}
+h1{font-size:clamp(28px,5vw,40px);font-weight:700}
+h2{font-size:26px;font-weight:700;padding-top:8px}
+h3{font-size:19px;font-weight:700;margin-top:8px}
+p{margin:0}
+section{display:flex;flex-direction:column;gap:14px}
+.lead{font-size:18px;color:var(--muted)}
+ul,ol{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:6px}
+a{color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.note{background:var(--accent-soft);border-radius:6px;padding:14px 16px;font-size:15px}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:560px}
+th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid var(--line)}
+th{font-weight:700;background:var(--bg);font-size:13px}
+tr:last-child td{border-bottom:none}
+td.n{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.pill{display:inline-block;font-size:12px;font-weight:700;border-radius:999px;padding:1px 9px;white-space:nowrap}
+.ok{background:var(--ok-bg);color:var(--ok)}
+.warn{background:var(--warn-bg);color:var(--warn)}
+.bad{background:var(--bad-bg);color:var(--bad)}
+.toc{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:14px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:12px 14px;display:flex;flex-direction:column;gap:2px}
+.kpi b{font-family:var(--serif);font-size:28px;font-variant-numeric:tabular-nums}
+.kpi span{font-size:13px;color:var(--muted)}
+figure{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:10px}
+figcaption{font-size:13px;color:var(--muted)}
+.fig-t{font-family:var(--serif);font-weight:700;font-size:17px}
+.bars{display:grid;grid-template-columns:minmax(110px,170px) 1fr;gap:8px 12px;align-items:center}
+.bars .lbl{font-size:14px}
+.track{position:relative;height:16px;background:var(--track);border-radius:0 4px 4px 0}
+.bar{position:absolute;left:0;top:0;bottom:0;border-radius:0 4px 4px 0;background:var(--s1)}
+.bar.s2{background:var(--s2)}
+.track:hover .bar,.pair:hover .bar{filter:brightness(1.12)}
+.val{position:absolute;top:-1px;font-family:var(--mono);font-size:12px;color:var(--fg);padding-left:6px;white-space:nowrap}
+.pair{display:flex;flex-direction:column;gap:2px}
+.legend{display:flex;gap:16px;font-size:13px;color:var(--muted);flex-wrap:wrap}
+.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:middle}
+.stack{display:flex;height:22px;border-radius:4px;overflow:hidden;gap:2px;background:var(--surface)}
+.stack div{height:100%}
+.axis{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--muted);grid-column:2}
+.group{border-top:1px solid var(--line);padding-top:18px;display:flex;flex-direction:column;gap:12px}
+.facts{display:grid;grid-template-columns:1fr;gap:6px;font-size:15px}
+dl{margin:0;display:grid;grid-template-columns:minmax(120px,170px) 1fr;gap:6px 14px;font-size:15px}
+dt{font-weight:700;color:var(--muted)}
+dd{margin:0;min-width:0}
+small,.src{font-size:13px;color:var(--muted)}
+@media (max-width:520px){dl{grid-template-columns:1fr} dt{margin-top:6px} .bars{grid-template-columns:1fr} .axis{grid-column:1}}
+@media (prefers-reduced-motion:no-preference){.bar{transition:filter .15s}}
+</style>
+
+<main>
+<header>
+  <span class="eyebrow">Investigación · Desarrolla Talento · 5 de octubre de 2026</span>
+  <h1>Brechas de bienestar financiero en México</h1>
+  <p class="lead">Quién se queda fuera del sistema financiero, dónde vive, qué lengua habla, qué le impide avanzar y qué capacitación atacaría los problemas principales. Con datos oficiales verificados y una revisión, cifra por cifra, del reporte de Gemini.</p>
+  <nav class="toc" aria-label="Contenido">
+    <a href="#resumen">Resumen</a><a href="#verificacion">Verificación de Gemini</a><a href="#panorama">Panorama nacional</a><a href="#grupos">Grupos</a><a href="#prioridad">Prioridades</a><a href="#temario">Temarios</a><a href="#cobertura">Nuestros cursos</a><a href="#fuentes">Fuentes</a>
+  </nav>
+</header>
+
+<section id="resumen">
+  <h2>Resumen</h2>
+  <div class="kpis">
+    <div class="kpi"><b>76.5%</b><span>de 18 a 70 años tiene al menos un producto financiero (ENIF 2024)</span></div>
+    <div class="kpi"><b>58.2%</b><span>entre hablantes de lengua indígena, el grupo más rezagado</span></div>
+    <div class="kpi"><b>17.2 pp</b><span>de brecha en Afore: 34.2% mujeres contra 51.4% hombres</span></div>
+    <div class="kpi"><b>36.9%</b><span>vive con estrés financiero alto; 42.2% de las mujeres (ENSAFI 2023)</span></div>
+    <div class="kpi"><b>10.3%</b><span>tiene ahorro para más de tres meses de ingreso</span></div>
+    <div class="kpi"><b>6.0%</b><span>ha tomado algún curso sobre ahorro, presupuesto o crédito</span></div>
+  </div>
+  <ul>
+    <li><b>Tener cuenta ya no es el problema principal.</b> Siete de cada diez personas tienen un producto, en gran parte por los programas sociales. El rezago está en el <b>uso</b>: ahorro de emergencia, seguros, Afore y crédito formal frente a préstamos de familiares y tandas.</li>
+    <li><b>La lengua es la barrera más dura.</b> Las personas que hablan una lengua indígena tienen 18 puntos menos de inclusión que el promedio, y la brecha entre mujeres y hombres dentro de ese grupo es de 15.2 puntos, casi el doble que la nacional.</li>
+    <li><b>El estrés financiero es un problema de salud.</b> Uno de cada tres adultos reporta malestar físico por dinero (gastritis, colitis, dolor de cabeza, presión).</li>
+    <li><b>Casi nadie ha recibido capacitación</b>, y la proporción bajó de 8.3% en 2018 a 6.0% en 2024. Hay mucho espacio para un programa como el nuestro.</li>
+    <li><b>El reporte de Gemini es útil pero no es confiable tal cual.</b> De 33 cifras revisadas, 21 coinciden con la fuente oficial, 5 tienen errores o mezclan universos y 7 no se pudieron localizar en las publicaciones oficiales. Ver la <a href="#verificacion">tabla de verificación</a>.</li>
+  </ul>
+  <p class="note"><b>Cómo se verificó.</b> Los sitios del INEGI, la CNBV, FIRA y el DOF no se pueden abrir desde el entorno donde se hizo este trabajo. Cada cifra se confirmó con resultados de búsqueda que citan textualmente el documento oficial (comunicados del INEGI, reportes de la CNBV, CONDUSEF, Banxico), y al final están los enlaces a cada documento para revisarlo directamente. Ojo con los universos: la ENIF mide a personas de 18 a 70 años; la ENSAFI, de 18 años y más; el Censo y la Encuesta Intercensal, a toda la población.</p>
+</section>
+
+<section id="verificacion">
+  <h2>Verificación del reporte de Gemini</h2>
+  <p><span class="pill ok">Confirmada</span> coincide con la fuente oficial. <span class="pill warn">Con reservas</span> la cifra existe pero está mal atribuida, mezcla universos o la contradice otra fuente oficial. <span class="pill bad">No localizada</span> no aparece en las publicaciones oficiales consultadas; no se debe usar hasta revisarla en el documento original.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Lo que dijo Gemini</th><th>Estado</th><th>Lo que dice la fuente</th></tr></thead>
+    <tbody>
+      <tr><td>76.5% tiene al menos un producto</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024, personas de 18 a 70 años. +8.7 pp desde 2021.</td></tr>
+      <tr><td>Mujeres 72.8%, hombres 80.9%</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024. La brecha bajó de 12 pp (2021) a 8 pp.</td></tr>
+      <tr><td>Hablantes de lengua indígena 58.2%</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024; el grupo con menor acceso.</td></tr>
+      <tr><td>Afrodescendientes 78.4%</td><td><span class="pill warn">Con reservas</span></td><td>Es el dato de la ENIF 2024 (18 a 70 años). La Política Nacional de Inclusión Financiera 2025-2030 reporta <b>70%</b> para la población afromexicana. Hay que citar ambas y aclarar que la muestra afro de la ENIF es pequeña.</td></tr>
+      <tr><td>Personas con discapacidad 77.4%</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024.</td></tr>
+      <tr><td>Brecha por sexo: CDMX 11.3 pp; Centro Sur y Oriente 9.5 pp</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024.</td></tr>
+      <tr><td>Cuenta 63.0%; crédito formal 37.3%</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024.</td></tr>
+      <tr><td>Seguro 22.9% nacional</td><td><span class="pill bad">No localizada</span></td><td>No apareció en los resultados oficiales consultados. Por sexo sí: 18.3% mujeres, 28.2% hombres.</td></tr>
+      <tr><td>Mujeres/hombres: cuenta 58.6/68.0; crédito 36.1/38.8; seguro 18.3/28.2; Afore 34.2/51.4</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024 (INEGI). Otras fuentes no oficiales redondean distinto (61/70, 34/34, 31/48, 18/27); usa las del INEGI.</td></tr>
+      <tr><td>Rural (&lt;15 mil hab.) 65.5% con algún producto</td><td><span class="pill bad">No localizada</span></td><td>El reporte de la CNBV dice que la penetración rural pasó de <b>56% (2021) a 66% (2024)</b>. La PNIF usa una línea base rural de 67.9% con meta de 75% a 2030. El 65.5% parece ser otro indicador.</td></tr>
+      <tr><td>Crédito formal rural 26.0% contra urbano 43.3%</td><td><span class="pill bad">No localizada</span></td><td>Solo se confirmó el uso de canales digitales: en lo rural, 6.3% contrató su último ahorro y 8.4% su último crédito por app o internet, contra 9.4% y 13.4% en lo urbano.</td></tr>
+      <tr><td>Afromexicanos: cuenta 48%, crédito 27%, seguro 11%</td><td><span class="pill warn">Con reservas</span></td><td>Lo cita el Programa Institucional FIRA 2025-2030 (DOF, 4 de diciembre de 2025), pero no aparece en los resultados publicados de la ENIF. Choca con el 78.4%: solo cuadraría si casi un tercio tuviera únicamente Afore. Pide a FIRA el tabulado de origen antes de usarlo.</td></tr>
+      <tr><td>Mujeres indígenas: algún producto 74% (hombres 81%); cuenta 51/63; crédito 26/28; seguro 10/21</td><td><span class="pill warn">Con reservas</span></td><td>Atribuidas a FIRA, no localizadas. La PNIF da otra línea base: <b>población indígena 69.8%</b> y <b>mujeres indígenas 63.3%</b>, no 74%. La brecha por sexo oficial es de 14.3 pp (autoadscripción) y 15.2 pp (hablantes).</td></tr>
+      <tr><td>Unidades de producción agropecuarias con crédito: 6.1%</td><td><span class="pill ok">Confirmada</span></td><td>Censo Agropecuario 2022 (era 3.9% en 2007).</td></tr>
+      <tr><td>Microunidades agrícolas (E1) 4.6%; solo 28% con título de propiedad privada</td><td><span class="pill bad">No localizada</span></td><td>No apareció en el Censo Agropecuario ni en los resultados consultados.</td></tr>
+      <tr><td>Adultos mayores: 80% con cuenta</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024: «8 de cada 10». Ojo: la ENIF llega a 70 años, así que mide a personas de 60 a 70, no «60 y más».</td></tr>
+      <tr><td>Adultos mayores: seguro 18%</td><td><span class="pill ok">Confirmada</span></td><td>ENIF 2024; el mismo 18% que en jóvenes de 18 a 29.</td></tr>
+      <tr><td>Adultos mayores: crédito 23%</td><td><span class="pill bad">No localizada</span></td><td>No apareció en los resultados oficiales consultados.</td></tr>
+      <tr><td>Bienestar financiero 52.8 puntos; alto 17.8%; medio bajo o bajo 50.8%</td><td><span class="pill ok">Confirmada</span></td><td>ENSAFI 2023. Medio alto: 31.4%.</td></tr>
+      <tr><td>Estrés alto 36.9%; mujeres 42.2%, hombres 30.7%</td><td><span class="pill ok">Confirmada</span></td><td>ENSAFI 2023. Índice de estrés: 59.5 puntos (mujeres 62.5, hombres 56.0).</td></tr>
+      <tr><td>34.9% con malestar físico; 30.7% con efectos psicológicos</td><td><span class="pill ok">Confirmada</span></td><td>ENSAFI 2023.</td></tr>
+      <tr><td>Jóvenes 18–29: ahorro 59.6%, atraso 28.6%</td><td><span class="pill ok">Confirmada</span></td><td>ENSAFI 2023.</td></tr>
+      <tr><td>50.0% de adultos mayores con dificultades ante imprevistos</td><td><span class="pill warn">Con reservas</span></td><td>El 50.0% es del grupo de <b>65 años y más</b>, no de 60 y más (ENSAFI 2023).</td></tr>
+      <tr><td>Capacidad de pago mensual: mujeres 2,262, hombres 3,382 pesos</td><td><span class="pill ok">Confirmada</span></td><td>ENSAFI 2023; promedio 2,777.</td></tr>
+      <tr><td>54.4% de las mujeres hace presupuesto</td><td><span class="pill warn">Con reservas</span></td><td>La ENSAFI dice que 54.4% de las mujeres lleva algún <b>registro o control de sus gastos</b> (hombres 51.8%), no un presupuesto.</td></tr>
+      <tr><td>FIRA mide acreditados en 15 municipios afromexicanos</td><td><span class="pill ok">Confirmada</span></td><td>Programa Institucional FIRA 2025-2030, indicador con desagregación anual.</td></tr>
+      <tr><td>La ENEF 2025-2030 tiene enfoque de género e inclusión</td><td><span class="pill ok">Confirmada</span></td><td>Sus dos ejes transversales son igualdad de género e inclusión de grupos en situación de vulnerabilidad. La etiqueta «GESI» no aparece en las fuentes consultadas.</td></tr>
+    </tbody>
+  </table></div>
+  <p class="src">El conteo del resumen incluye cifras agrupadas en una misma fila. Cuando una cifra de Gemini «no localizada» se necesite para un documento oficial, búscala en el tabulado original de la ENIF (INEGI) o pide el dato a la institución que lo cita.</p>
+</section>
+
+<section id="panorama">
+  <h2>Panorama nacional</h2>
+  <figure>
+    <span class="fig-t">Personas con al menos un producto financiero, por grupo</span>
+    <div class="bars" role="img" aria-label="Porcentaje con al menos un producto financiero por grupo, ENIF 2024">
+      <span class="lbl">Hombres</span><div class="track" title="Hombres: 80.9%"><div class="bar" style="width:80.9%"></div><span class="val" style="left:80.9%">80.9</span></div>
+      <span class="lbl">Afrodescendientes*</span><div class="track" title="Afrodescendientes: 78.4% (ENIF); 70% según la PNIF"><div class="bar" style="width:78.4%"></div><span class="val" style="left:78.4%">78.4</span></div>
+      <span class="lbl">Con discapacidad</span><div class="track" title="Personas con discapacidad: 77.4%"><div class="bar" style="width:77.4%"></div><span class="val" style="left:77.4%">77.4</span></div>
+      <span class="lbl"><b>Nacional</b></span><div class="track" title="Nacional: 76.5%"><div class="bar" style="width:76.5%"></div><span class="val" style="left:76.5%"><b>76.5</b></span></div>
+      <span class="lbl">Mujeres</span><div class="track" title="Mujeres: 72.8%"><div class="bar" style="width:72.8%"></div><span class="val" style="left:72.8%">72.8</span></div>
+      <span class="lbl">Rural (&lt;15 mil hab.)</span><div class="track" title="Localidades rurales: 66% (reporte CNBV)"><div class="bar" style="width:66%"></div><span class="val" style="left:66%">66</span></div>
+      <span class="lbl">Lengua indígena</span><div class="track" title="Hablantes de lengua indígena: 58.2%"><div class="bar" style="width:58.2%"></div><span class="val" style="left:58.2%">58.2</span></div>
+      <span class="axis"><span>0</span><span>50</span><span>100%</span></span>
+    </div>
+    <figcaption>ENIF 2024, personas de 18 a 70 años. *La PNIF 2025-2030 reporta 70% para población afromexicana. Rural: reporte de resultados de la CNBV.</figcaption>
+  </figure>
+
+  <figure>
+    <span class="fig-t">Mujeres y hombres, por producto</span>
+    <div class="legend"><span><i class="sw" style="background:var(--s1)"></i>Mujeres</span><span><i class="sw" style="background:var(--s2)"></i>Hombres</span></div>
+    <div class="bars" role="img" aria-label="Tenencia por producto, mujeres y hombres, ENIF 2024">
+      <span class="lbl">Cuenta</span><div class="pair"><div class="track" title="Mujeres: 58.6%"><div class="bar" style="width:58.6%"></div><span class="val" style="left:58.6%">58.6</span></div><div class="track" title="Hombres: 68.0%"><div class="bar s2" style="width:68%"></div><span class="val" style="left:68%">68.0</span></div></div>
+      <span class="lbl">Afore</span><div class="pair"><div class="track" title="Mujeres: 34.2%"><div class="bar" style="width:34.2%"></div><span class="val" style="left:34.2%">34.2</span></div><div class="track" title="Hombres: 51.4%"><div class="bar s2" style="width:51.4%"></div><span class="val" style="left:51.4%">51.4</span></div></div>
+      <span class="lbl">Crédito formal</span><div class="pair"><div class="track" title="Mujeres: 36.1%"><div class="bar" style="width:36.1%"></div><span class="val" style="left:36.1%">36.1</span></div><div class="track" title="Hombres: 38.8%"><div class="bar s2" style="width:38.8%"></div><span class="val" style="left:38.8%">38.8</span></div></div>
+      <span class="lbl">Seguro</span><div class="pair"><div class="track" title="Mujeres: 18.3%"><div class="bar" style="width:18.3%"></div><span class="val" style="left:18.3%">18.3</span></div><div class="track" title="Hombres: 28.2%"><div class="bar s2" style="width:28.2%"></div><span class="val" style="left:28.2%">28.2</span></div></div>
+      <span class="axis"><span>0</span><span>50</span><span>100%</span></span>
+    </div>
+    <figcaption>ENIF 2024 (INEGI). La brecha más grande está en la Afore (17.2 pp) y en seguros (9.9 pp).</figcaption>
+  </figure>
+
+  <figure>
+    <span class="fig-t">Bienestar y estrés financiero</span>
+    <div class="facts">
+      <span>Nivel de bienestar financiero</span>
+      <div class="stack" role="img" aria-label="Bienestar: alto 17.8%, medio alto 31.4%, medio bajo o bajo 50.8%">
+        <div style="width:17.8%;background:var(--ok)" title="Alto: 17.8%"></div><div style="width:31.4%;background:var(--s1)" title="Medio alto: 31.4%"></div><div style="width:50.8%;background:var(--muted)" title="Medio bajo o bajo: 50.8%"></div>
+      </div>
+      <small>Alto 17.8% · Medio alto 31.4% · Medio bajo o bajo 50.8%</small>
+      <span>Nivel de estrés financiero</span>
+      <div class="stack" role="img" aria-label="Estrés: alto 36.9%, moderado 34.6%, bajo o nulo 28.5%">
+        <div style="width:36.9%;background:var(--bad)" title="Alto: 36.9%"></div><div style="width:34.6%;background:var(--warn)" title="Moderado: 34.6%"></div><div style="width:28.5%;background:var(--muted)" title="Bajo o nulo: 28.5%"></div>
+      </div>
+      <small>Alto 36.9% · Moderado 34.6% · Bajo o nulo 28.5%</small>
+    </div>
+    <figcaption>ENSAFI 2023, personas de 18 años y más. Índice de bienestar: 52.8 de 100 (hombres 54.1, mujeres 51.7).</figcaption>
+  </figure>
+
+  <h3>Cifras clave que respaldan el diagnóstico</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Tema</th><th>Dato</th><th>Fuente</th></tr></thead>
+    <tbody>
+      <tr><td>Por qué no tienen cuenta</td><td>No la necesita 36%; ingresos insuficientes 30%; no sabe usarla 9%; no cumple requisitos 8%</td><td>ENIF 2024</td></tr>
+      <tr><td>Por qué no tienen crédito formal</td><td>No quiere endeudarse 38%; sin interés o necesidad 26%; cree no cumplir requisitos 21%</td><td>ENIF 2024</td></tr>
+      <tr><td>Ahorro informal (tandas, en casa)</td><td>36.6%</td><td>ENIF 2024</td></tr>
+      <tr><td>Efectivo como medio de pago</td><td>85.2% en compras menores de 500 pesos; 73.5% en mayores (90.1% y 78.7% en 2021)</td><td>ENIF 2024</td></tr>
+      <tr><td>Uso de app del banco</td><td>69.1% de quienes tienen cuenta (54.3% en 2021)</td><td>ENIF 2024</td></tr>
+      <tr><td>Capacitación recibida</td><td>6.0% tomó un curso de ahorro, presupuesto o crédito (8.3% en 2018)</td><td>ENIF 2024</td></tr>
+      <tr><td>Tamaño del ahorro</td><td>De quienes ahorran: 57.3% tiene hasta una quincena de ingreso; 10.3% más de tres meses</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Ante un imprevisto</td><td>34.6% puede hacer poco o nada (mujeres 38.3%, hombres 30.1%); 63.2% recurriría a familiares o amigos</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Cuando no alcanzó</td><td>68.3% recortó gastos; 41.6% pidió a familiares o amigos; 32.0% usó ahorros; 9.7% vendió o empeñó algo</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Atraso en pagos</td><td>27.3% de quienes tienen deuda (mujeres 26.1%, hombres 28.5%)</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Bienestar por estado</td><td>Más bajo: Guerrero 49.0, Oaxaca 49.8, Zacatecas 49.8. Más alto: Quintana Roo 56.3, Coahuila 55.9, CDMX 55.6</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Desastres naturales</td><td>11% de los adultos sufrió daños económicos en tres años; 22% en la región Sur</td><td>ENSAFI 2023</td></tr>
+      <tr><td>Pobreza</td><td>29.6% (38.5 millones); extrema 7.0 millones. Rural 45.8% (13.0 millones) contra urbano 25.0%</td><td>INEGI, medición 2024</td></tr>
+      <tr><td>Fraudes</td><td>37,582 reclamaciones por posible fraude en el 1.er semestre de 2025 (28% del total); 43,871 en el 1.er semestre de 2026 (+16.7%)</td><td>CONDUSEF</td></tr>
+      <tr><td>Infraestructura</td><td>Más de 90% de la población adulta vive en un municipio con sucursal, cajero o corresponsal; el reto es el uso, no la existencia</td><td>CNBV, Panorama 2025</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="grupos">
+  <h2>Los grupos, uno por uno</h2>
+  <p>Cada ficha responde lo mismo: cuántos son y dónde viven, qué lengua hablan, qué dicen los datos, qué los frena y qué capacitación atacaría el problema principal.</p>
+
+  <div class="group" id="g-indigena">
+    <h3>1. Población indígena y hablantes de lengua indígena</h3>
+    <dl>
+      <dt>Tamaño</dt><dd>24.2 millones se consideran indígenas (18.6%) y 7.42 millones de 3 años y más hablan una lengua indígena (5.9%), según la Encuesta Intercensal 2025. En 2020, 865,972 hablantes no hablaban español (11.8%).</dd>
+      <dt>Dónde</dt><dd>Oaxaca y Chiapas (alrededor de 29% de su población habla una lengua indígena en 2025), Yucatán (21.4%), Guerrero (15.5% en 2020), Quintana Roo e Hidalgo.</dd>
+      <dt>Lenguas principales</dt><dd>Náhuatl (1.65 millones), maya (0.77), tseltal (0.59), tsotsil (0.55), mixteco (0.53) y zapoteco (0.49), con datos del Censo 2020.</dd>
+      <dt>Datos financieros</dt><dd>58.2% de los hablantes tiene algún producto (ENIF 2024). La brecha entre mujeres y hombres es de 15.2 pp entre hablantes y de 14.3 pp por autoadscripción; las mujeres hablantes tienen el acceso más bajo del país. Línea base de la PNIF: población indígena 69.8% (meta 77% a 2030), mujeres indígenas 63.3% (meta 71%). Pobreza: 60.8% en 2024.</dd>
+      <dt>Barreras</dt><dd>Lengua y lectoescritura en español; documentos (acta, CURP, comprobante de domicilio); distancia y costo de traslado; ingreso en efectivo y por temporadas; tierra comunal o ejidal que no sirve de garantía; desconfianza tras fraudes; control del dinero por parte de la familia o la pareja.</dd>
+      <dt>Temas problemáticos</dt><dd>Cobro de apoyos con intermediarios que se quedan una parte, préstamos de prestamistas locales y apps montadeudas, envíos de dinero caros, sucesión de derechos ejidales sin lista de sucesión, mujeres sin cuenta a su nombre.</dd>
+      <dt>Capacitación recomendada</dt><dd>Primero el audio y en la lengua materna (náhuatl, maya, tseltal, tsotsil, mixteco y zapoteco cubren a la mayoría), con facilitadoras de la comunidad y materiales con pocas palabras. Temas: tu tarjeta y tus apoyos sin intermediarios; cuenta a nombre de la mujer; recibir remesas; ahorro grupal con reglas; reconocer fraudes; lista de sucesión ejidal y beneficiarios; seguro de vida y gastos funerarios.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-afro">
+    <h3>2. Población afromexicana</h3>
+    <dl>
+      <dt>Tamaño</dt><dd>2.1 millones (1.6%) en la Encuesta Intercensal 2025; 2.58 millones (2.0%) en el Censo 2020. La diferencia puede venir del método de cada levantamiento.</dd>
+      <dt>Dónde</dt><dd>En números absolutos (2020): Guerrero 303,923; Estado de México 296,264; Veracruz 215,435; Oaxaca 194,474; Ciudad de México 186,914; Jalisco 139,676. La mayor concentración relativa está en la Costa Chica de Guerrero y Oaxaca.</dd>
+      <dt>Lengua</dt><dd>Español; no hace falta traducción, pero sí materiales con ejemplos y personas de la región.</dd>
+      <dt>Datos financieros</dt><dd>78.4% con algún producto según la ENIF 2024, pero 70% según la PNIF. Brecha entre mujeres y hombres: 9.4 pp. FIRA cita 48% con cuenta, 27% con crédito y 11% con seguro (sin verificar). FIRA medirá cada año a sus acreditados en 15 municipios afromexicanos.</dd>
+      <dt>Barreras</dt><dd>Discriminación y trato desigual en ventanilla; economía costera de pesca, agricultura y turismo, con ingresos de temporada; huracanes recientes en Guerrero y Oaxaca (la región Sur duplica el daño por desastres); migración; muestra estadística pequeña, lo que vuelve a este grupo poco visible en los datos.</dd>
+      <dt>Temas problemáticos</dt><dd>Proteger lo que tienen ante desastres (seguro de vivienda, fondo de emergencia, documentos a salvo), el paso de tener cuenta a ahorrar en ella, crédito productivo para pesca y turismo, y patrimonio y sucesión.</dd>
+      <dt>Capacitación recomendada</dt><dd>Plan de dinero ante huracanes (documentos, fondo y seguro), ingreso de temporada, crédito para la actividad productiva comparando el costo total, cómo reclamar ante un trato injusto (CONDUSEF) y patrimonio familiar.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-mujeres">
+    <h3>3. Mujeres</h3>
+    <dl>
+      <dt>Tamaño</dt><dd>Poco más de la mitad de la población adulta; 13.6 millones viven en localidades de menos de 2,500 habitantes (Censo 2020).</dd>
+      <dt>Datos financieros</dt><dd>72.8% con algún producto (hombres 80.9%). Cuenta 58.6% contra 68.0%; Afore 34.2% contra 51.4%; seguro 18.3% contra 28.2%; crédito 36.1% contra 38.8%. Estrés alto: 42.2% (hombres 30.7%). Capacidad de pago mensual: 2,262 pesos (hombres 3,382). 38.3% no podría con un imprevisto.</dd>
+      <dt>Violencia</dt><dd>27.4% de las mujeres ha vivido violencia económica, patrimonial o discriminación a lo largo de su vida (ENDIREH 2021).</dd>
+      <dt>Barreras</dt><dd>Trabajo de cuidados sin pago, que interrumpe la cotización a la Afore; ingresos más bajos e informales; dinero controlado por la pareja; menos tiempo para capacitarse.</dd>
+      <dt>Capacitación recomendada</dt><dd>Cuenta y documentos a su nombre, Afore y aportaciones voluntarias, seguro de vida y de salud, violencia económica, pensión alimenticia, deudas por ayudar a la familia y manejo del estrés financiero.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-rural">
+    <h3>4. Zonas rurales, semirrurales y producción agropecuaria</h3>
+    <dl>
+      <dt>Definiciones</dt><dd>El INEGI llama rural a las localidades de menos de 2,500 habitantes. La ENIF llama rural a las de menos de 15,000. Este informe llama «semirrural» al tramo de 2,500 a 15,000.</dd>
+      <dt>Tamaño</dt><dd>26.7 millones viven en 184,295 localidades rurales de menos de 2,500 habitantes (Censo 2020). En el campo hay 5.19 millones de unidades de producción, con 27 millones de personas trabajando (16% mujeres), según el Censo Agropecuario 2022. Hay 2.34 millones de jornaleros agrícolas (2022).</dd>
+      <dt>Datos financieros</dt><dd>Penetración rural: 66% en 2024 (56% en 2021). Solo 6.1% de las unidades de producción tiene crédito. 88 de cada 100 jornaleros no tiene seguridad social; 20.1% habla una lengua indígena. Pobreza rural: 45.8%.</dd>
+      <dt>Barreras</dt><dd>Ingreso por cosecha; la tierra ejidal o comunal no sirve como garantía; distancia a una sucursal (aunque haya corresponsales); poca señal de internet; riesgos de clima y plagas sin seguro.</dd>
+      <dt>Capacitación recomendada</dt><dd>Presupuesto por ciclo agrícola, ahorro de la cosecha, comparar crédito de avío y de tienda de insumos, qué cubre un seguro agrícola y qué hacer cuando el estado activa uno catastrófico, sucesión ejidal, remesas productivas y fraudes por teléfono.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-mayores">
+    <h3>5. Personas adultas mayores</h3>
+    <dl>
+      <dt>Tamaño</dt><dd>19.2 millones de 60 años y más (14.7%), según la Encuesta Intercensal 2025. En 2024, cuatro de cada diez estaban retiradas o pensionadas, o no trabajaban, y 30.7% tenía trabajo con pago.</dd>
+      <dt>Datos financieros</dt><dd>8 de cada 10 personas de 60 a 70 años tiene cuenta, en gran parte por la Pensión Bienestar, pero solo 18% tiene seguro. 50.0% de las personas de 65 años y más tiene dificultades ante un imprevisto, el porcentaje más alto de todas las edades.</dd>
+      <dt>Barreras</dt><dd>Poca familiaridad con lo digital; dependencia de familiares o cuidadores para cobrar y hacer trámites; salud que se deteriora.</dd>
+      <dt>Temas problemáticos</dt><dd>Fraudes, incluidos los de familiares y cuidadores: uso de su tarjeta o su NIP, poderes notariales amplios, firmas para pasar la casa, préstamos a cuenta de su pensión para otras personas. También gestores falsos de pensiones.</dd>
+      <dt>Capacitación recomendada</dt><dd>Protección antes que crédito: uso seguro de la tarjeta y el cajero, préstamos a cuenta de pensión (tope de 30% y listado oficial), poder notarial limitado, testamento y beneficiarios, cómo reconocer el abuso patrimonial y a quién llamar, y gastos de salud.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-jovenes">
+    <h3>6. Jóvenes de 18 a 29 años</h3>
+    <dl>
+      <dt>Datos</dt><dd>Son quienes más ahorran (59.6%) y quienes más se atrasan en sus pagos (28.6%), y los que menos dificultad tienen ante imprevistos (27.4%). Solo 18% tiene seguro.</dd>
+      <dt>Temas problemáticos</dt><dd>Compras a plazos y «compra ahora, paga después», apps de préstamo, apuestas en línea, cripto e inversiones «milagro», cuentas mula.</dd>
+      <dt>Capacitación recomendada</dt><dd>Historial de crédito desde el primer producto, costo total de comprar a plazos, apuestas y cripto con números reales, primer empleo formal y Afore, y emprender.</dd>
+    </dl>
+  </div>
+
+  <div class="group" id="g-otros">
+    <h3>7. Otros grupos con datos oficiales</h3>
+    <dl>
+      <dt>Personas con discapacidad</dt><dd>77.4% con algún producto (ENIF 2024). Son 6.2 millones con discapacidad (Censo 2020, 4.9%); la Encuesta Intercensal 2025 cuenta 21.6 millones con discapacidad, limitación o condición mental (16.55%), con una definición más amplia. Necesitan materiales accesibles (lectura fácil, audio, subtítulos) y orientación sobre quién puede decidir con ellas sin quitarles el control.</dd>
+      <dt>Trabajadoras del hogar</dt><dd>2.5 millones; 87.9% son mujeres (ENOE). Muy pocas tienen IMSS: los reportes de 2026 hablan de 38,643 a cerca de 60 mil afiliadas, menos de 5%. Ya cubiertas por <i>Tu Trabajo</i>.</dd>
+      <dt>Hogares con remesas</dt><dd>11.3% de los hogares las recibe. En 2025 llegaron 61,791 millones de dólares, 4.6% menos que en 2024 y la primera caída desde 2013. Principales estados receptores: Guanajuato, Michoacán, Jalisco y Chiapas.</dd>
+      <dt>Migrantes que regresan</dt><dd>271,193 personas repatriadas de Estados Unidos entre el 20 de enero de 2025 y agosto de 2026 (programa México te Abraza).</dd>
+      <dt>Jornaleros con visa H-2A</dt><dd>285,781 visas H-2A para personas mexicanas en 2024 (Observatorio de Migración Internacional).</dd>
+      <dt>Trabajadores de plataformas</dt><dd>Solo cerca de 14% alcanza el ingreso neto para tener IMSS completo (8% de las mujeres, 15.1% de los hombres). En 2026, los umbrales son de 18,427 pesos al mes en auto, 14,092 en moto y 9,878 en bicicleta.</dd>
+    </dl>
+  </div>
+</section>
+
+<section id="prioridad">
+  <h2>Dónde está el mayor impacto</h2>
+  <div class="tbl"><table>
+    <thead><tr><th>Grupo</th><th>Tamaño</th><th>Brecha principal</th><th>Prioridad</th><th>Por qué</th></tr></thead>
+    <tbody>
+      <tr><td>Hablantes de lengua indígena, sobre todo mujeres</td><td class="n">7.4 M</td><td>Acceso (58.2%) y brecha por sexo de 15.2 pp</td><td><span class="pill bad">Muy alta</span></td><td>Es el mayor rezago y nadie lo atiende en su lengua. Requiere audio y facilitación local.</td></tr>
+      <tr><td>Rural y agropecuario</td><td class="n">26.7 M</td><td>Crédito (6.1% de las unidades de producción) y riesgo climático</td><td><span class="pill bad">Muy alta</span></td><td>Concentra la pobreza (45.8%) y no hay ningún curso nuestro para este grupo.</td></tr>
+      <tr><td>Mujeres</td><td>Mitad de la población</td><td>Afore (17.2 pp), seguros y estrés</td><td><span class="pill warn">Alta</span></td><td>Es transversal: entra en todos los cursos y ya tiene cursos dedicados.</td></tr>
+      <tr><td>Personas adultas mayores</td><td class="n">19.2 M</td><td>Imprevistos (50%), fraudes y seguros</td><td><span class="pill warn">Alta</span></td><td>Crece rápido y es blanco de abuso patrimonial. El curso ya estaba planeado.</td></tr>
+      <tr><td>Afromexicanos</td><td class="n">2.1–2.6 M</td><td>Uso de productos y riesgo por huracanes (datos débiles)</td><td><span class="pill warn">Alta</span></td><td>Población concentrada y visible en la política pública (FIRA, PNIF). Conviene un módulo regional antes que un curso aparte.</td></tr>
+      <tr><td>Jóvenes</td><td>—</td><td>Atrasos (28.6%), apuestas y cripto</td><td><span class="pill ok">Media</span></td><td>Ya cubierto por <i>Tu Idea</i>.</td></tr>
+      <tr><td>Personas con discapacidad</td><td class="n">6.2 M</td><td>Accesibilidad</td><td><span class="pill ok">Media</span></td><td>Acceso similar al promedio; lo que falta es que los materiales sean accesibles.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="temario">
+  <h2>Revisión de los temarios de Gemini y temario recomendado</h2>
+  <p>Los temarios de Gemini van en buena dirección, pero tienen seis problemas que hay que corregir antes de usarlos:</p>
+  <ol>
+    <li><b>Recomiendan SOFIPO y SOCAP</b> para población indígena. Va contra la regla del programa: enseñamos a verificar cualquier institución (registro en CONDUSEF y CNBV), sin recomendar figuras ni nombres.</li>
+    <li><b>Enseñan instrumentos que la persona no contrata.</b> FONAGA y las garantías de FIRA las usa el intermediario financiero, no el productor; los seguros paramétricos los compran normalmente los gobiernos estatales. Lo útil es explicar qué pedir y qué hacer cuando existen.</li>
+    <li><b>Para adultos mayores proponen «acceso a crédito».</b> El dato pide protección: la mitad no puede con un imprevisto y es blanco de fraudes. El crédito va con límites (tope de 30%) y advertencias.</li>
+    <li><b>El temario afromexicano es genérico.</b> Podría ser de cualquier grupo. Le faltan el territorio (Costa Chica), los huracanes, el ingreso de temporada y el trato en ventanilla.</li>
+    <li><b>El indígena no resuelve la lengua.</b> Dice «en lengua originaria», pero no dice cómo: con audio, con facilitadoras bilingües y en qué seis lenguas empezar.</li>
+    <li><b>Se apoya en cifras sin verificar</b> (48/27/11, 51/63, 26.0% rural, 23% de crédito en adultos mayores). Los objetivos deben medirse con indicadores oficiales.</li>
+  </ol>
+  <h3>Temario recomendado por grupo</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Grupo</th><th>Módulos</th><th>Formato</th></tr></thead>
+    <tbody>
+      <tr><td>Hablantes de lengua indígena</td><td>1. Tu tarjeta y tus apoyos, sin intermediarios · 2. Tu cuenta a tu nombre (mujeres) · 3. Recibir y enviar dinero sin perder · 4. Ahorro en grupo con reglas · 5. Fraudes por teléfono y apps · 6. Tu tierra, tus beneficiarios y la lista de sucesión · 7. Protección: seguro de vida y gastos funerarios</td><td>Audio en la lengua (WhatsApp), ilustraciones, sesiones presenciales con facilitadora bilingüe</td></tr>
+      <tr><td>Rural y agropecuario</td><td>1. Presupuesto por ciclo agrícola · 2. Ahorro de la cosecha · 3. Crédito de avío o de la tienda de insumos: comparar el costo total · 4. Seguro agrícola y apoyos ante desastres · 5. Ejido, sucesión y papeles · 6. Remesas productivas · 7. Fraudes</td><td>Audio, sesiones en asamblea, calendario agrícola como hilo conductor</td></tr>
+      <tr><td>Afromexicanos (módulo regional)</td><td>1. Tu plan de dinero ante huracanes · 2. Ingreso de temporada (pesca, turismo, campo) · 3. Crédito para tu actividad · 4. Tus derechos como usuario y cómo reclamar · 5. Patrimonio y sucesión</td><td>Módulo que se agrega a <i>Tu Negocio MX</i> o <i>Tu Patrimonio</i>, con casos de la Costa Chica</td></tr>
+      <tr><td>Mujeres</td><td>Autonomía (cuenta y documentos propios) · Afore y aportaciones voluntarias · Seguros · Violencia económica · Pensión alimenticia · Estrés financiero</td><td>Ya en <i>Tu Patrimonio</i> y <i>Tu Trabajo</i>; reforzar Afore en los demás cursos</td></tr>
+      <tr><td>Personas adultas mayores</td><td>Tu pensión y tu mes · Tarjeta y cajero seguros · Préstamos a cuenta de pensión · Fraudes, incluidos los de familiares y cuidadores · Poder notarial limitado · Testamento · Gastos de salud</td><td>Letra grande, audio, sesiones con acompañante de confianza</td></tr>
+      <tr><td>Personas con discapacidad</td><td>Contenido de los cursos existentes en formato accesible y una lección sobre apoyos para decidir sin perder el control del dinero</td><td>Lectura fácil, audio, subtítulos, compatibilidad con lector de pantalla</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="cobertura">
+  <h2>Qué cubren nuestros cursos y qué falta</h2>
+  <div class="tbl"><table>
+    <thead><tr><th>Grupo</th><th>Curso actual o planeado</th><th>Estado</th></tr></thead>
+    <tbody>
+      <tr><td>Mujeres de 45 a 65 años</td><td><i>Tu Patrimonio</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Trabajadoras del hogar</td><td><i>Tu Trabajo</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Jóvenes de preparatoria</td><td><i>Tu Idea</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Emprendedores en México</td><td><i>Tu Negocio MX</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Personas trabajadoras con empleo (guardias)</td><td><i>Tu Turno</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Familias mexicanas en EE. UU.</td><td><i>Tu Dinero</i>, <i>Tu Negocio US</i></td><td><span class="pill ok">Cubierto</span></td></tr>
+      <tr><td>Personas adultas mayores</td><td>Curso planeado</td><td><span class="pill warn">Pendiente</span></td></tr>
+      <tr><td>Migrantes que regresan</td><td>Curso planeado</td><td><span class="pill warn">Pendiente</span></td></tr>
+      <tr><td>Jornaleros con visa H-2A</td><td>Curso planeado</td><td><span class="pill warn">Pendiente</span></td></tr>
+      <tr><td>Repartidores y conductores de apps</td><td>Curso planeado</td><td><span class="pill warn">Pendiente</span></td></tr>
+      <tr><td>Hablantes de lengua indígena</td><td>Ninguno</td><td><span class="pill bad">Sin cobertura</span></td></tr>
+      <tr><td>Rural y agropecuario</td><td>Ninguno</td><td><span class="pill bad">Sin cobertura</span></td></tr>
+      <tr><td>Afromexicanos</td><td>Ninguno (propuesta: módulo regional)</td><td><span class="pill bad">Sin cobertura</span></td></tr>
+      <tr><td>Personas con discapacidad</td><td>Ninguno (propuesta: versión accesible)</td><td><span class="pill bad">Sin cobertura</span></td></tr>
+    </tbody>
+  </table></div>
+  <p><b>Para el replanteamiento:</b> los dos huecos más grandes son la población rural y agropecuaria y las personas que hablan una lengua indígena, y en buena parte se traslapan. Un solo curso rural, hecho primero en audio y producido después en las seis lenguas principales, atendería a ambos y pesaría más que cualquiera de los cuatro cursos planeados. Sugiero revisarlo antes de retomar esos cuatro.</p>
+</section>
+
+<section id="fuentes">
+  <h2>Fuentes</h2>
+  <ul class="src">
+    <li>INEGI y CNBV. <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/enif/ENIF2024_RR.pdf">ENIF 2024, reporte de resultados</a> · <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/enif/ENIF2024_CP.pdf">comunicado 49/25</a> · <a href="https://www.cnbv.gob.mx/Inclusi%C3%B3n/Anexos%20Inclusin%20Financiera/Reporte_ENIF2024.pdf">reporte de la CNBV</a> · <a href="https://www.inegi.org.mx/rnm/index.php/catalog/1081">microdatos</a></li>
+    <li>INEGI y CONDUSEF. <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/ENSAFI/ENSAFI.pdf">ENSAFI 2023, comunicado 385/24</a> · <a href="https://www.condusef.gob.mx/?p=contenido&amp;idc=2448&amp;idcat=1">página de CONDUSEF</a></li>
+    <li>CONAIF. <a href="https://www.cnbv.gob.mx/Inclusi%C3%B3n/Documents/PNIF_2025_2030.pdf">Política Nacional de Inclusión Financiera 2025-2030</a></li>
+    <li>SHCP. <a href="https://www.finanzassostenibles.hacienda.gob.mx/work/models/finanzassostenibles/recursos/documentos/noticias/Estrategia_Nacional_Educacion_Financiera_2025-2030.pdf">Estrategia Nacional de Educación Financiera 2025-2030</a></li>
+    <li>FIRA. <a href="https://sidof.segob.gob.mx/notas/docFuente/5775139">Programa Institucional 2025-2030 (DOF, 4 de diciembre de 2025)</a></li>
+    <li>CNBV. <a href="https://www.cnbv.gob.mx/Inclusi%C3%B3n/Documents/Panorama_2025_Version_Accesible.pdf">Panorama Anual de Inclusión Financiera 2025</a></li>
+    <li>INEGI. <a href="https://www.inegi.org.mx/programas/eic/2025/default.html">Encuesta Intercensal 2025</a> · <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/ei/EIC2025-def_RR.pdf">reporte de resultados 37/26</a></li>
+    <li>INEGI. <a href="https://www.inegi.org.mx/programas/ccpv/2020/">Censo de Población y Vivienda 2020</a> · <a href="https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/889463921431.pdf">perfil de la población afrodescendiente</a></li>
+    <li>INEGI. <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pm/pm2025_RR_08.pdf">Pobreza multidimensional 2024</a></li>
+    <li>INEGI. <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/CA_Def/CA_Def2022.pdf">Censo Agropecuario 2022, resultados definitivos</a></li>
+    <li>INEGI. <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2022/endireh/Endireh2021_Nal.pdf">ENDIREH 2021</a> · <a href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/enoe/enoe2025_11.pdf">ENOE 2025</a></li>
+    <li>CONEVAL. <a href="https://www.coneval.org.mx/EvaluacionDS/PP/CEIPP/Documents/Informes/Estudio_PJA.pdf">Estudio sobre la población jornalera agrícola 2024</a></li>
+    <li>Banxico. <a href="https://www.banxico.org.mx/publicaciones-y-prensa/remesas/%7BED06F2CB-06BA-2EC6-D145-73FF4579BADA%7D.pdf">Remesas, diciembre de 2025</a></li>
+    <li>CONDUSEF. <a href="https://www.condusef.gob.mx/documentos/transparencia/IA-ENE-JUN-2025.pdf">Informe de autoevaluación enero-junio 2025</a></li>
+    <li>SEGOB. <a href="https://www.gob.mx/segob/prensa/se-mantiene-programa-mexico-te-abraza-para-recibir-a-los-connacionales-que-vienen-de-eeuu">Programa México te Abraza</a> · OMI, <a href="http://www.omi.gob.mx/es/OMI/visas_mex_h2">visas H-2A</a></li>
+    <li>Datos de medios que citan fuentes oficiales: afiliación de trabajadoras del hogar al IMSS (Cimac Noticias, Infobae, 2026) y umbrales de plataformas digitales (IDC, El Imparcial, 2026).</li>
+  </ul>
+</section>
+</main>

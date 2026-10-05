@@ -302,4 +302,19 @@ CASOS = {
  ("Los nombra como beneficiarios POD y designa a su hija como tutora.", "Deja la cuenta así porque sus nietos la recibirán sin problema.", "Saca todo en efectivo y lo guarda en su casa para sus nietos."),
  ("Pide información en su consulado y busca un notario registrado.", "Le paga al gestor porque así no tiene que viajar ni hacer nada.", "Le manda al gestor sus documentos por WhatsApp para empezar."),
 ],
+"M3 U11": [
+ ('Pregunta si su empleador adelanta sin costo y arma su fondo.', 'Sigue usando la app porque 12 dólares se ven muy poquito.', 'Pide el adelanto más grande que le permita la app.'),
+ ('Busca otra salida: el payday se renueva y los cargos crecen.', 'Lo acepta porque lo paga completo en su siguiente cheque.', 'Lo acepta y pide otro después para pagar el primero.'),
+ ('Cambia la fecha de cobro y deja de usarla.', 'Sigue igual y paga el sobregiro cada vez que pase.', 'Abre otra cuenta solo para que la app se cobre ahí.'),
+],
+"M3 U12": [
+ ('Pregunta al taller por un plan de pago.', 'Empeña la cadena de inmediato porque es más rápido que preguntar.', 'Pide un préstamo payday para no tocar su cadena.'),
+ ('No empeña lo que usa para trabajar.', 'Las empeña y pide prestadas otras para el fin de semana.', 'Las empeña porque seguro las recupera en dos semanas.'),
+ ('Va a la casa con su identificación y pide una copia.', 'Da el reloj por perdido y no hace nada más.', 'Compra otro reloj para no tener que hacer el trámite.'),
+],
+"M4 U12": [
+ ('Llama a la agencia de manutención de su condado.', 'Sigue esperando porque cree que por su situación no puede pedirla.', 'Le pide dinero prestado a una amiga cada mes.'),
+ ('Paga por la agencia o con comprobante.', 'Sigue en efectivo porque así lo acordaron hace años.', 'Paga en efectivo, pero cada tres meses para juntar más.'),
+ ('Pregunta a su agencia y a su consulado por acuerdos con México.', 'Da por perdido el pago porque él vive en otro país.', 'Le pide a un gestor que cobre por su cuenta en México.'),
+],
 }

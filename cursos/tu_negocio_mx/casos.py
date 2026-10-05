@@ -226,4 +226,9 @@ CASOS = {
  ("Lo acuerdan por escrito y nombran quién accede a las cuentas.", "Lo dejan de palabra porque se tienen mucha confianza.", "Se pasan sus contraseñas por WhatsApp por si algo pasa."),
  ("Tramita su propio RFC para seguir el negocio.", "Sigue facturando con el RFC de su papá como si nada.", "Deja de facturar y vende todo solo en efectivo."),
 ],
+"M8 U07": [
+ ('Hace una hoja por persona y un acuerdo por escrito.', 'Sigue adelantando sin anotar porque son como de la familia.', 'Deja de dar adelantos a todas sin explicarles por qué.'),
+ ('No cobra intereses: la ley no lo permite.', 'Cobra 10% porque así cuida el dinero de su tienda.', 'Cobra 5% para que sea menos pero igual le gane algo.'),
+ ('Aplica su regla de uno a la vez y da plazo si es emergencia.', 'Le da el segundo adelanto y descuenta los dos de golpe.', 'Le da el segundo adelanto sin anotarlo para no incomodarlo.'),
+],
 }

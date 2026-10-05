@@ -401,4 +401,14 @@ CASOS = {
  ("Que heredar no paga ISR, pero cada regalía que cobre después sí.", "Que las regalías heredadas nunca pagan impuestos.", "Que conviene no declarar las regalías porque son herencia."),
  ("Deja instrucciones de quién lo administra, sin contraseñas completas.", "Escribe todas sus contraseñas en una hoja que deja en su escritorio.", "No deja nada porque su canal se cerrará solo si algo pasa."),
 ],
+"M6 U07": [
+ ('Cuenta los pagos después del contrato y usa su fondo.', 'Lo acepta porque ya está preaprobado y no tiene que hacer trámites.', 'Acepta el préstamo completo para invertirlo en su carrera.'),
+ ('Lo pide por escrito: monto, a cuenta de qué y si se cancela.', 'Lo acepta de palabra porque la marca ya lo conoce bien.', 'Pide que le adelanten toda la campaña para no esperar.'),
+ ('Calcula lo que paga al año y deja de usarla.', 'La sigue usando porque 90 pesos no se sienten.', 'Baja otra app para tener dos adelantos cada quincena.'),
+],
+"M6 U08": [
+ ('Usa su fondo o empeña algo que no usa para trabajar.', 'Empeña el micrófono y renta uno si le sale una sesión.', 'Empeña el micrófono porque seguro lo saca en dos semanas.'),
+ ('Busca otra salida: sin cámara no puede trabajar.', 'La empeña y graba con el celular mientras la recupera.', 'La empeña y pide una cámara prestada a una amiga.'),
+ ('Busca una casa registrada en la PROFECO.', 'Empeña ahí porque le prestan un poco más que en otras.', 'Empeña ahí sin pedir boleta para que sea más rápido.'),
+],
 }

@@ -9,6 +9,10 @@ def generar(D, CFG, lecciones):
     pts = (tot + 2 * nm) * 25
     sec_sup, sec_eval = nm + 1, nm + 2
     herr = "; and for your business: cost and price, break-even and 8-week cash flow" if (CFG.get("negocio") or CFG.get("hojas_negocio")) else ""
+    _H = {"quincena_turnos": "your pay period with extra shifts", "pago_por_dia": "what you earn per day at each job", "ingreso_variable": "12 months of income and your dry-spell fund",
+          "bienes": "your assets and who receives them", "envios": "the cost of each transfer", "adelantos": "advances to your team", "semana_apps": "what you really keep each week",
+          "pension": "your pensions and your month", "temporada": "your season", "regreso": "your first 90 days back"}
+    if CFG.get("hojas"): herr += "; plus: " + ", ".join(_H[h] for h in CFG["hojas"] if h in _H)
     tit, short = CFG["titulo"], I["nombre_corto"]
     cat, bank = f'{CFG["categoria"]} v{CFG["version"]}', CFG["banco"]
     rows_sec = "\n".join(f"| {i} | {t} | " + (f"Content of `1_books/{m}_resumen.html`" if i == 1 else f"`{m}_resumen.html`") + " |"

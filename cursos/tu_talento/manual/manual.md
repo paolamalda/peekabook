@@ -16,7 +16,7 @@ Finanzas, crédito, carrera, protección y futuro para personas que trabajan en 
 | Público | Personas residentes en México que trabajan en el entretenimiento: actuación (TV, teatro, cine, streaming), canto y música, modelaje, baile, creación de contenido, conducción, producción y técnica |
 | Tono | Tuteo cálido, español de México, directo y sin culpas. Lectura accesible (secundaria o preparatoria) |
 | Plataforma | Moodle 3.10 con Level Up, H5P "¿Qué harías?", autoevaluaciones y constancia (mismo diseño v3 que Tu Dinero, Tu Familia, Tu Futuro) |
-| Duración | 11 módulos, 79 lecciones de 5 a 10 minutos |
+| Duración | 11 módulos, 82 lecciones de 5 a 10 minutos |
 
 ## El problema que resuelve
 
@@ -243,6 +243,10 @@ Objetivo: listar cada deuda con institución, tipo, saldo, tasa o CAT, pago mín
 Objetivo: medir tus pagos de deuda contra tu mes bajo, no contra tu mejor mes, y fijar tu límite personal.
 
 **M6 U06 · No uses la tarjeta para vivir la sequía**
+
+**M6 U07 · Adelantos de pago y préstamo de nómina en meses de llamados** Distinguir el adelanto de una producción, el préstamo de nómina del banco y las apps que «adelantan», y decidir cuándo conviene cada uno sin comprometer tus meses de sequía.
+
+**M6 U08 · Empeñar tu equipo: la herramienta que no debes perder** Saber cómo funciona un empeño, cuánto cuesta de verdad y por qué tu equipo de trabajo es lo último que empeñas.
 Objetivo: diferenciar una emergencia de un faltante recurrente y usar primero el fondo de sequía.
 Gancho: Gael pagó la renta de cuatro meses sin llamados con la tarjeta y ahora debe 60,000.
 

@@ -311,4 +311,24 @@ CASOS = {
  ("Que heredar no paga ISR; solo los gastos de escriturar.", "Que de verdad hay que pagar 30% y mejor no escriturar.", "Que conviene no avisarle nada al SAT para no pagar."),
  ("Considera el usufructo vitalicio para seguir viviendo ahí.", "Le dona el departamento sin condiciones para no complicarse.", "Le vende el departamento por un peso para que sea más rápido."),
 ],
+"M5 U08": [
+ ('Cuelga y verifica en el listado oficial del IMSS.', 'Manda su INE y su estado de cuenta para no perder la oferta.', 'Pide que le manden el préstamo primero y luego sus datos.'),
+ ('No lo saca: la deuda sería suya.', 'Lo saca porque su sobrino promete pagar cada mes sin falta.', 'Lo saca a la mitad para ayudarle un poco nada más.'),
+ ('El total a pagar, el CAT y lo que le queda de su quincena.', 'Solo cuál le deposita más rápido en su cuenta de nómina.', 'Solo cuál le presta más dinero, por si luego lo necesita.'),
+],
+"M5 U09": [
+ ('Busca la boleta y paga el refrendo antes de la fecha.', 'Espera a que la casa de empeño le avise que ya vence.', 'Deja la pulsera y piensa en recuperarla el próximo año.'),
+ ('Compara el avalúo y el costo en dos casas registradas.', 'Empeña en la primera casa que encuentra en su camino.', 'Empeña donde le prometen más dinero sin preguntar el costo.'),
+ ('Compara empeñar contra vender directo.', 'La empeña de todos modos y deja que la vendan después.', 'La empeña y pide otro préstamo para pagar los intereses.'),
+],
+"M10 U09": [
+ ('Pide ver los estados de cuenta y se orienta en el 079.', 'Deja que él siga manejando todo porque así ha sido siempre.', 'Le pide a su hija que revise las cuentas a escondidas.'),
+ ('Pide copia de la escritura y revisa su régimen matrimonial.', 'Deja que él lo venda porque el terreno lo pagó con su sueldo.', 'Firma lo que le pidan para no pelear con su esposo.'),
+ ('No da su NIP y hace sus pagos ella o acompañada.', 'Le da la tarjeta y el NIP porque es su hijo y confía en él.', 'Le da solo el NIP y se queda con la tarjeta en su bolsa.'),
+],
+"M10 U10": [
+ ('Junta sus comprobantes y pide orientación en la defensoría.', 'Acepta la mitad porque a él le bajó el trabajo este año.', 'Deja de pedirle porque cree que ya no se puede hacer nada.'),
+ ('Aparta cada mes una parte para los gastos del año.', 'Espera a agosto y ve cómo le hace con la inscripción.', 'Usa la tarjeta de crédito para pagar la inscripción completa.'),
+ ('Revisar la póliza y pedir que el seguro esté en el acuerdo.', 'Esperar a que los niños se enfermen para ver si hay seguro.', 'Contratar otro seguro de inmediato sin revisar el que tienen.'),
+],
 }

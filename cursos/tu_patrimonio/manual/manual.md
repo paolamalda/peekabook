@@ -1,6 +1,6 @@
 # Tu Patrimonio, Tu Tranquilidad, Tu Futuro
 
-Manual del programa · Versión 1.3 · Desarrolla Talento · 29 de septiembre de 2026
+Manual del programa · Versión 1.3 · Desarrolla Talento · 30 de septiembre de 2026
 
 Programa de bienestar financiero para mujeres que administran su casa y su patrimonio en México: sistema financiero, seguridad y fraudes, ahorro, inversión, pensión, salud y familia.
 
@@ -16,7 +16,7 @@ Programa de bienestar financiero para mujeres que administran su casa y su patri
 | Público | Mujeres residentes en México, de 45 a 75 años aproximadamente, dedicadas al hogar, con nivel socioeconómico medio o medio alto. Algunas trabajan; muchas tienen o tendrán una pensión; llevan cuentas personales, tienen ahorros y, a veces, inversiones |
 | Tono | Tuteo cálido, español de México, frases cortas, sin tecnicismos, sin culpas y sin paternalismo |
 | Formato | Mixto: curso en Moodle 3.10 (lecciones de 5 o 10 minutos, actividades H5P «¿Qué harías?», autoevaluaciones y constancia), sesiones de acompañamiento en grupo, práctica guiada con el celular y libro de apoyo imprimible |
-| Duración | 11 módulos, 59 lecciones |
+| Duración | 11 módulos, 66 lecciones |
 | Eje | Protección contra fraudes y robo de identidad, presente en todos los módulos |
 
 ## El problema que resuelve
@@ -139,6 +139,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 
 **M5 U07 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?** Diferencia entre aval, obligado solidario, fiador, garantía y referencia personal; qué te pueden cobrar; cobranza y REDECO; cómo decir que no.
 
+**M5 U08 · Préstamos de nómina y a cuenta de tu pensión** Entender cómo funcionan los préstamos que se descuentan de la nómina o de la pensión, cuánto te pueden descontar y cómo evitar a los intermediarios que cobran de más.
+
+**M5 U09 · Empeñar sin perder tus joyas** Saber cómo funciona un empeño, cuánto cuesta de verdad, qué son el refrendo y la demasía, y cómo verificar que la casa de empeño esté registrada.
+
 ## Módulo 6. Tus inversiones
 
 **M6 U01 · Rendimiento, riesgo, plazo y liquidez** Las cuatro preguntas antes de invertir; rendimiento real contra la inflación.
@@ -208,6 +212,10 @@ Son personajes inventados; cualquier parecido con personas reales es coincidenci
 **M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio** Saber qué pasa si alguien fallece sin testamento, cómo se hereda en unión libre y la tierra ejidal, y qué hacer para evitar pleitos.
 
 **M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos** Entender qué impuestos hay (y cuáles no) al heredar, cuánto cuesta pasar una casa a tu nombre, y los riesgos y costos de dar en vida con donación, venta o usufructo.
+
+**M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos** Reconocer la violencia económica y patrimonial, proteger tus cuentas, tus documentos y tus bienes, y saber dónde pedir ayuda sin costo.
+
+**M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar** Saber qué cubre la pensión alimenticia, cómo se pide o se revisa, qué pasa si no se paga y cómo administrarla.
 
 ## Módulo 11. Decidir con calma y tu plan
 

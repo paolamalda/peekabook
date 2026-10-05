@@ -17,7 +17,7 @@ Financial well-being program for Latino entrepreneurs and self-employed people i
 | Tone | Friendly and direct, plain English, short sentences, no blame |
 | Format | Moodle 3.10 course: 5- or 10-minute lessons, H5P "What would you do?" activities, a self-assessment per module and a certificate. Support book and separate community |
 | Scope | Federal rules with California examples; other states are told what to check locally |
-| Length | 9 modules, 43 lessons |
+| Length | 9 modules, 45 lessons |
 | Languages | English (this course) and Spanish (parallel course) |
 
 ## The problem it solves
@@ -167,6 +167,8 @@ These characters are fictional; any resemblance to real people is coincidental.
 **M8 U05 · Your one-page business plan and how to pitch it** Seven questions, a two-minute pitch, SBDCs, SCORE, Women's Business Centers, CDFIs, crowdfunding and fake grants.
 
 **M8 U06 · Your business and its surroundings: competition, economy, community and rule changes** What to watch, official sources, reputation and no-cost training.
+
+**M8 U07 · Pay advances and loans to your employees** Set clear rules for advancing pay or lending to people who work with you, follow your state's deduction rules and protect your business cash flow.
 
 ## Module 9. Your future
 

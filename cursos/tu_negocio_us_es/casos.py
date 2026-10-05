@@ -220,4 +220,9 @@ CASOS = {
  ("Presenta el Formulario 3520 ante el IRS aunque no pague impuesto.", "No avisa nada porque el terreno está en México y no en Estados Unidos.", "Vende el terreno rápido para no tener que reportar nada."),
  ("Nombra un beneficiario POD en su banco.", "Le da su contraseña a su mamá por si algo pasa algún día.", "Cierra la cuenta y guarda el dinero del negocio en efectivo."),
 ],
+"M8 U07": [
+ ('Firma un acuerdo con descuento fijo que no baje el pago del mínimo.', 'Sigue descontando lo que se acuerde para recuperar su dinero rápido.', 'Deja de dar adelantos a todos sin explicar por qué.'),
+ ('Hace una hoja por persona y pide la firma de cada acuerdo.', 'Sigue adelantando de palabra porque confía en sus ayudantes.', 'Descuenta todo al final del mes para no complicarse.'),
+ ('Aplica su regla de uno a la vez y da plazo si es emergencia.', 'Le da el segundo y descuenta los dos en un solo cheque.', 'Le da el segundo sin anotarlo para no incomodarlo.'),
+],
 }

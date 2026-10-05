@@ -210,4 +210,19 @@ CASOS = {
  ("Lo revisa cinco minutos cada semana.", "Lo guarda en un cajón porque ya lo hizo una vez.", "Lo rehace completo cada vez que se acuerda de él."),
  ("No lo anota: el plan no lleva datos sensibles.", "Lo anota en la última línea para tenerlo a la mano.", "Lo anota al revés para que nadie lo entienda."),
 ],
+"M4 U06": [
+ ('Se orienta en el DIF o la defensoría y pide un convenio.', 'Sigue esperando a que el papá se acuerde de mandar dinero.', 'Le pide a su mamá que siga pagando todo sin decir nada.'),
+ ('Las actas de nacimiento y una lista de gastos de las niñas.', 'Nada; espera a que en la cita le digan qué hace falta llevar.', 'Solo su INE, porque con eso le pueden resolver todo ahí mismo.'),
+ ('La anota como ingreso de las niñas y la usa para lo de ellas.', 'La mezcla con el gasto de la casa porque todo es de la familia.', 'La presta a una vecina porque todavía no la necesita.'),
+],
+"M5 U06": [
+ ('Propone un descuento fijo y lo confirma por mensaje.', 'Deja que le descuenten lo que quieran para no incomodar.', 'Pide otro adelanto para no sentir el descuento este mes.'),
+ ('Pide que el descuento respete el tope de ley.', 'Acepta que le descuenten todo y pide prestado para la semana.', 'Deja de ir a esa casa para que no le descuenten nada.'),
+ ('Pide el CAT y el total a pagar y lo compara.', 'Acepta porque se descuenta solo y es más cómodo para ella.', 'Acepta el monto más alto por si luego le hace falta más.'),
+],
+"M5 U07": [
+ ('Busca la boleta, anota la fecha límite y le toma foto.', 'Espera a que la casa de empeño le llame para avisarle.', 'Se olvida del anillo y piensa en recuperarlo en diciembre.'),
+ ('Busca una casa registrada en la PROFECO.', 'Empeña ahí porque le prestan un poquito más que en otros lados.', 'Empeña ahí sin pedir boleta para que el trámite sea rápido.'),
+ ('No empeña lo que usa para trabajar y busca otra salida.', 'Empeña el celular y pide prestado otro para que le avisen.', 'Empeña el celular porque lo saca la próxima quincena.'),
+],
 }
