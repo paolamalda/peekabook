@@ -1,0 +1,161 @@
+{
+ "sigla": "TRDF",
+ "titulo": "Tu Regreso, Tu Dinero, Tu Futuro",
+ "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
+ "version": "0.1",
+ "lang": "es",
+ "intro": "Programa de bienestar financiero para personas que regresan de Estados Unidos a México, por deportación o por decisión propia: 8 módulos y 24 lecciones cortas. Formato híbrido: una sesión presencial de arranque y el resto en línea.",
+ "publico": "Personas mexicanas que regresan de Estados Unidos y sus familias.",
+ "formato": "Híbrido: 1 sesión presencial de 3 horas y 2 horas en línea (5 horas totales).",
+ "categoria": "Tu Regreso",
+ "banco": "banco_preguntas_trdf.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "personajes": {
+  "Don Rafa": "52 años. Trabajó 18 años en construcción en Texas. Lo deportaron en marzo; volvió a Michoacán.",
+  "Lupita": "38 años. Regresó por decisión propia a Guanajuato con dos hijos nacidos en EE. UU.",
+  "Memo": "24 años. Llegó a EE. UU. a los 6 años; regresó a Puebla y casi no conoce México.",
+  "Chayo": "45 años. Vive en Oaxaca; recibía remesas de su esposo, que acaba de regresar."
+ },
+ "modulos": {
+  "M1": "Módulo 1. Tus papeles",
+  "M2": "Módulo 2. Tu cuenta en México",
+  "M3": "Módulo 3. Crédito desde cero",
+  "M4": "Módulo 4. Lo que dejaste en Estados Unidos",
+  "M5": "Módulo 5. Tu Afore, tu IMSS y tus semanas",
+  "M6": "Módulo 6. Tus primeros 90 días",
+  "M7": "Módulo 7. Trabajo o negocio con lo que sabes hacer",
+  "M8": "Módulo 8. Que no te engañen al regresar"
+ },
+ "resultados": {
+  "M1": "Tu lista de papeles en orden: constancia, CURP, acta, INE y los de tus hijos.",
+  "M2": "Una cuenta a tu nombre para recibir apoyos y dinero, y tus tarjetas de regreso bien usadas.",
+  "M3": "Tu primer historial de crédito en México, empezando chico y sin trampas.",
+  "M4": "Tu lista de lo que quedó allá: último pago, cuentas, impuestos y retiro.",
+  "M5": "Tus semanas cotizadas revisadas y tu Afore localizada.",
+  "M6": "Tu presupuesto de regreso para los primeros tres meses.",
+  "M7": "Tu plan para usar lo que sabes hacer: empleo, oficio o negocio pequeño.",
+  "M8": "Tu protocolo contra gestores falsos, fraudes y extorsión al que regresa."
+ },
+ "insignias": [
+  [
+   "01_papeles_en_orden",
+   "M1",
+   "Papeles en orden",
+   "fa-id-card"
+  ],
+  [
+   "02_cuenta_a_mi_nombre",
+   "M2",
+   "Cuenta a mi nombre",
+   "fa-credit-card"
+  ],
+  [
+   "03_historial_desde_cero",
+   "M3",
+   "Historial desde cero",
+   "fa-line-chart"
+  ],
+  [
+   "04_nada_se_queda_alla",
+   "M4",
+   "Nada se queda allá",
+   "fa-suitcase"
+  ],
+  [
+   "05_semanas_contadas",
+   "M5",
+   "Semanas contadas",
+   "fa-calendar"
+  ],
+  [
+   "06_noventa_dias",
+   "M6",
+   "Noventa días",
+   "fa-calculator"
+  ],
+  [
+   "07_lo_que_se_hacer",
+   "M7",
+   "Lo que sé hacer",
+   "fa-wrench"
+  ],
+  [
+   "08_plan_completo",
+   "Curso",
+   "Plan completo",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "titulo": "Tu Regreso, Tu Dinero, Tu Futuro",
+  "linea": "por concluir el programa de bienestar financiero Tu Regreso, Tu Dinero, Tu Futuro",
+  "temas": [
+   "Papeles y cuenta",
+   "Crédito desde cero",
+   "Lo que quedó allá",
+   "Afore y semanas",
+   "Plan de regreso"
+  ]
+ },
+ "problema": [
+  "Llegan sin papeles a la mano o con papeles de EE. UU. que aquí no sirven para abrir una cuenta.",
+  "Su historial de crédito de allá no cuenta en México y son blanco de préstamos caros «sin buró».",
+  "Dejan en EE. UU. sueldos, cuentas, reembolsos de impuestos y ahorro para el retiro sin saber cómo recuperarlos.",
+  "No saben si tienen Afore ni cuántas semanas cotizaron antes de irse.",
+  "Los primeros meses entra poco dinero y el ahorro se va en compromisos y préstamos a la familia.",
+  "Gestores falsos, fraudes y extorsiones buscan a quien acaba de regresar."
+ ],
+ "datos": [
+  [
+   "Personas repatriadas de EE. UU.",
+   "271,193 entre el 20 de enero de 2025 y agosto de 2026",
+   "SEGOB, México te Abraza"
+  ],
+  [
+   "Migrantes de retorno viviendo en México",
+   "150,752 (2020 a 2025)",
+   "INEGI, Encuesta Intercensal 2025"
+  ],
+  [
+   "Remesas 2025",
+   "61,791 millones de dólares, 4.6% menos que en 2024",
+   "Banxico"
+  ],
+  [
+   "Hogares que reciben remesas",
+   "11.3%",
+   "CEMLA"
+  ],
+  [
+   "Tarjeta Bienestar Paisano",
+   "Apoyo único de 2,000 pesos",
+   "Secretaría de Bienestar, México te Abraza"
+  ],
+  [
+   "Tarjetas FINABIEN Paisano emitidas",
+   "132,827 al 18 de marzo de 2026",
+   "SEGOB"
+  ],
+  [
+   "Semanas para pensión Ley 97",
+   "875 en 2026; suben 25 por año hasta 1,000 en 2031",
+   "IMSS"
+  ],
+  [
+   "Semanas para pensión Ley 73",
+   "500",
+   "IMSS"
+  ],
+  [
+   "Aguinaldo mínimo",
+   "15 días de sueldo",
+   "Ley Federal del Trabajo"
+  ]
+ ],
+ "reglas_extra": [
+  "**No se da asesoría migratoria ni legal:** se orienta a consulados, a la Embajada y a oficinas públicas."
+ ]
+}
