@@ -533,6 +533,10 @@ def paso_instalacion():
     (instalacion_en if EN else instalacion_es).generar(D, CFG, lecciones)
 
 
+def paso_bienvenida():
+    import bienvenida; print(", ".join(bienvenida.generar(D, CFG, OUT)))
+
+
 def paso_whatsapp():
     import extras; extras.guiones(D, CFG, lecciones, EN); print("guiones de WhatsApp y audio")
 
@@ -545,12 +549,12 @@ def paso_herramientas():
     import extras; n, h = extras.hojas(D, CFG, EN); print("herramientas:", n, h)
 
 
-PASOS = {"whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
+PASOS = {"bienvenida": paso_bienvenida, "whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
          "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo, "ocde": paso_ocde}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
+    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "bienvenida", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

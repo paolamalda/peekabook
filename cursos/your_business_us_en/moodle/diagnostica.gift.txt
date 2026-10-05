@@ -1,0 +1,110 @@
+$CATEGORY: $course$/Your Business US EN/Start
+
+::DIAG 1::You sell $3,000 and your costs are $2,200. How much do you earn? {
+	=$800
+	~$3,000
+	~$5,200
+}
+
+::DIAG 2::What's the minimum you write down every day? {
+	~Only the big sales
+	~Whatever you remember on Sunday
+	=Date, sales and expenses
+}
+
+::DIAG 3::Which of these is a variable cost? {
+	~Your online store subscription
+	=The packaging for each order
+	~Your phone plan
+}
+
+::DIAG 4::Fixed costs of $3,000 and each sale leaves 50%. Break-even point? {
+	~$1,500
+	=$6,000
+	~$3,500
+}
+
+::DIAG 5::You have $600, will collect $900 and will pay $1,700 this week. How do you end? {
+	~$200 left over
+	~$3,200
+	=$200 short
+}
+
+::DIAG 6::Fixed costs of $1,500 a month. Reserve for 3 months? {
+	~$500
+	~$1,500
+	=$4,500
+}
+
+::DIAG 7::You take $5,000 a month in cards and the fee is 3%. How much do you pay? {
+	=$150
+	~$500
+	~$15
+}
+
+::DIAG 8::When do you deliver an order paid through an app? {
+	~When they send you the screenshot
+	~When the customer swears on the phone they already paid
+	=When the money is available in your account
+}
+
+::DIAG 9::Which business form starts without company paperwork? {
+	=Sole proprietor
+	~LLC
+	~Corporation
+}
+
+::DIAG 10::What is the self-employment tax rate? {
+	=15.3%
+	~7.65%
+	~2.5%
+}
+
+::DIAG 11::Extra profit is $300 a month and the payment is $400. What happens? {
+	~The loan pays for itself
+	=You're $100 short each month
+	~You earn $100
+}
+
+::DIAG 12::Two offers with the same amount and term\: 12% APR and 30% APR. Which is cheaper? {
+	=The 12% one
+	~The 30% one
+	~They cost the same
+}
+
+::DIAG 13::Where do you look for health insurance in California if you're self-employed? {
+	=Covered California and Medi-Cal
+	~Only at your bank
+	~At the IRS
+}
+
+::DIAG 14::Where do you search whether a name is already a federal trademark? {
+	=The USPTO
+	~Social media
+	~An internet search engine
+}
+
+::DIAG 15::Someone works at your place, on your schedule and following your instructions. What are they usually? {
+	=An employee
+	~An independent contractor
+	~A partner
+}
+
+::DIAG 16::Customers message you at midnight. What do you do? {
+	~Always answer so you don't lose them
+	=Post your hours and an automatic reply
+	~Turn off your phone for a week
+}
+
+::DIAG 17::Where do you check your Social Security record? {
+	~At your bank
+	=At ssa.gov
+	~At the IRS
+}
+
+::DIAG 18::How often do you review your one-page plan? {
+	=Every three months
+	~Once in a lifetime
+	~Every day
+}
+

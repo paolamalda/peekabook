@@ -1,0 +1,62 @@
+$CATEGORY: $course$/Your Money/Start
+
+::DIAG 1::Someone lends you 300 dollars. How does your net worth change? {
+	~It goes up 300
+	=It doesn't change
+	~It goes down 300
+}
+
+::DIAG 2::Does a budget require money to be left over? {
+	~Yes
+	=No
+	~Yes, at least 10%
+}
+
+::DIAG 3::Can you open an account at the central bank? {
+	~Yes
+	~Yes, with an ITIN
+	=No
+}
+
+::DIAG 4::Is the cost of sending subtracted from your capacity? {
+	~No
+	~Only if you pay by card
+	=Yes
+}
+
+::DIAG 5::Does a good score guarantee you can pay? {
+	=No
+	~Yes
+	~Yes, if it's over 700
+}
+
+::DIAG 6::Does a dispute with a credit agency stop a lawsuit? {
+	=No
+	~Yes
+	~Yes, for 30 days
+}
+
+::DIAG 7::Which number do you call to verify? {
+	~The one in the message
+	=The one you look up yourself
+	~The one in the email
+}
+
+::DIAG 8::Does liability insurance fix your car? {
+	~Yes
+	=No
+	~Yes, if the crash was your fault
+}
+
+::DIAG 9::Assets 12,000 and debts 8,500. Net worth? {
+	~20,500
+	~8,500
+	=3,500
+}
+
+::DIAG 10::Do you lose your AFORE by living in the U.S.? {
+	~Yes
+	~Yes, after 5 years
+	=No
+}
+

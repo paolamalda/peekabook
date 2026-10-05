@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Guía de contacto y comunidad</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;margin:0;padding:16px}</style><style>
+.dtw{font-family:Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;color:#061F40;line-height:1.55;max-width:860px;margin:0 auto}
+.dtw *{box-sizing:border-box}
+.dtw .hero{background:linear-gradient(135deg,#0A3161 0%,#061F40 55%,#E4007C 140%);color:#fff;border-radius:24px;padding:32px 24px;position:relative;overflow:hidden;margin-bottom:22px}
+.dtw .hero:after{content:"";position:absolute;right:-70px;top:-70px;width:220px;height:220px;border-radius:50%;background:rgba(255,79,168,.28)}
+.dtw .hero:before{content:"";position:absolute;left:-50px;bottom:-80px;width:180px;height:180px;border-radius:50%;background:rgba(255,255,255,.07)}
+.dtw .hero .tag{display:inline-block;background:rgba(255,255,255,.16);border-radius:999px;padding:4px 14px;font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.dtw .hero h2{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-weight:800;font-size:2rem;line-height:1.15;margin:14px 0 8px;color:#fff;position:relative;z-index:1}
+.dtw .hero p{font-size:1.08rem;margin:0;opacity:.95;position:relative;z-index:1}
+.dtw .hero .big{font-size:3rem;color:#FF4FA8;position:relative;z-index:1}
+.dtw .quote{background:#fff;border-left:6px solid #E4007C;border-radius:16px;padding:20px 22px;font-size:1.1rem;box-shadow:0 6px 20px rgba(6,31,64,.08);margin-bottom:22px}
+.dtw h3{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-weight:800;color:#0A3161;font-size:1.35rem;margin:26px 0 12px}
+.dtw .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.dtw .card{background:#fff;border-radius:18px;padding:18px;box-shadow:0 4px 16px rgba(6,31,64,.07);border:1px solid #E6ECF5}
+.dtw .card .ic{width:46px;height:46px;border-radius:14px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.3rem;margin-bottom:10px}
+.dtw .card.rosa .ic{background:#FFE3F1;color:#E4007C}
+.dtw .card b{display:block;color:#0A3161;font-size:1.02rem;margin-bottom:4px}
+.dtw .card span{color:#5A6478;font-size:.95rem}
+.dtw .card .num,.dtw .num{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;font-size:.75rem;font-weight:700;padding:2px 10px;margin-bottom:8px}
+.dtw .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin:6px 0 4px}
+.dtw .stat{background:#0A3161;color:#fff;border-radius:18px;padding:16px;text-align:center}
+.dtw .stat .n{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-size:1.9rem;font-weight:800;color:#FF4FA8;display:block;line-height:1.1}
+.dtw .stat .l{font-size:.88rem;opacity:.9}
+.dtw .steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;counter-reset:p}
+.dtw .step{background:#fff;border-radius:18px;padding:16px;border-top:5px solid #0A3161;box-shadow:0 4px 14px rgba(6,31,64,.06)}
+.dtw .step:nth-child(2){border-top-color:#E4007C}.dtw .step:nth-child(3){border-top-color:#FF4FA8}.dtw .step:nth-child(4){border-top-color:#061F40}
+.dtw .step i{font-size:1.4rem;color:#E4007C}
+.dtw .step b{display:block;margin:6px 0 2px;color:#0A3161}
+.dtw .step span{font-size:.92rem;color:#5A6478}
+.dtw .people{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.dtw .person{display:flex;gap:12px;align-items:flex-start;background:#fff;border-radius:18px;padding:14px;border:1px solid #E6ECF5}
+.dtw .avatar{flex:0 0 52px;height:52px;border-radius:50%;background:linear-gradient(135deg,#E4007C,#FF4FA8);color:#fff;font-weight:800;font-size:1.2rem;display:flex;align-items:center;justify-content:center}
+.dtw .person:nth-child(even) .avatar{background:linear-gradient(135deg,#0A3161,#2A5BA8)}
+.dtw .person b{color:#0A3161}
+.dtw .person span{font-size:.92rem;color:#5A6478}
+.dtw .check{list-style:none;padding:0;margin:0}
+.dtw .check li{background:#fff;border-radius:14px;padding:12px 14px 12px 48px;margin-bottom:10px;position:relative;border:1px solid #E6ECF5}
+.dtw .check li:before{content:"\f00c";font-family:FontAwesome;position:absolute;left:14px;top:12px;width:24px;height:24px;border-radius:50%;background:#E4007C;color:#fff;font-size:.8rem;display:flex;align-items:center;justify-content:center}
+.dtw .check li b{color:#0A3161}
+.dtw .badges{display:flex;flex-wrap:wrap;gap:12px}
+.dtw .badge{flex:1 1 120px;text-align:center;background:#fff;border-radius:18px;padding:14px 8px;border:1px solid #E6ECF5}
+.dtw .badge .c{width:62px;height:62px;margin:0 auto 8px;border-radius:50%;background:linear-gradient(160deg,#0A3161,#061F40);border:4px solid #E4007C;color:#fff;font-size:1.5rem;display:flex;align-items:center;justify-content:center}
+.dtw .badge small{display:block;font-weight:700;color:#0A3161;font-size:.82rem;line-height:1.25}
+.dtw .timeline{border-left:4px solid #E6ECF5;margin-left:14px;padding-left:22px}
+.dtw .tl{position:relative;margin-bottom:18px}
+.dtw .tl:before{content:"";position:absolute;left:-33px;top:4px;width:18px;height:18px;border-radius:50%;background:#E4007C;border:4px solid #fff;box-shadow:0 0 0 2px #E4007C}
+.dtw .tl b{color:#0A3161;display:block}
+.dtw .tl span{color:#5A6478}
+.dtw .note{background:#FFF4FA;border:1px dashed #FF4FA8;border-radius:16px;padding:14px 16px;font-size:.95rem}
+.dtw .alert{background:#061F40;color:#fff;border-radius:18px;padding:18px}
+.dtw .alert b{color:#FF4FA8}
+.dtw .alert ul{margin:8px 0 0;padding-left:20px}
+.dtw .post{background:#fff;border-radius:16px;border:1px solid #E6ECF5;padding:14px;font-size:.95rem}
+.dtw .post .h{display:flex;gap:10px;align-items:center;margin-bottom:8px;color:#5A6478;font-size:.85rem}
+.dtw .post .h .avatar{flex-basis:34px;height:34px;font-size:.85rem}
+.dtw .ok{color:#1B7F4B;font-weight:700}.dtw .no{color:#E4007C;font-weight:700}
+.dtw .cta{display:inline-block;background:#E4007C;color:#fff!important;border-radius:999px;padding:12px 24px;font-weight:700;text-decoration:none;box-shadow:0 6px 16px rgba(228,0,124,.3)}
+.dtw .center{text-align:center}
+.dtw .firma{text-align:center;color:#5A6478;margin-top:24px;font-size:.9rem}
+.dtw .firma b{display:block;color:#0A3161;font-family:"Bricolage Grotesque",Figtree,sans-serif;font-size:1.2rem}
+@media (max-width:600px){.dtw .hero{padding:24px 18px}.dtw .hero h2{font-size:1.55rem}.dtw .quote{font-size:1rem}}
+@media print{.dtw .hero{-webkit-print-color-adjust:exact;print-color-adjust:exact}.dtw .card,.dtw .step{break-inside:avoid}}
+</style></head><body><div class="dtw"><div class="hero"><span class="tag"><i class="fa fa-life-ring"></i> Guía de contacto y comunidad</span><h2>No estás sola ni solo en esto</h2><p>Aquí te decimos dónde preguntar, cómo participar y cómo cuidamos tus datos.</p></div><h3><i class="fa fa-commenting-o" style="color:#E4007C"></i> ¿Dónde pregunto?</h3><div class="grid"><div class="card"><div class="ic"><i class="fa fa-comments"></i></div><b>Foro «Dudas y comentarios»</b><span>Para dudas de las lecciones. Te responde el equipo y también otras personas del grupo.</span></div><div class="card rosa"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>Mensaje privado al equipo</b><span>Para algo personal o un problema con la plataforma: en el ícono de mensajes, busca al equipo del curso.</span></div><div class="card"><div class="ic"><i class="fa fa-users"></i></div><b>Comunidad Tu Patrimonio</b><span>Un espacio aparte para alertas de fraude, avisos, sesiones en vivo y conocer a más personas como tú.</span></div></div><div class="note" style="margin-top:14px"><i class="fa fa-clock-o"></i> Respondemos en <b>48 horas hábiles</b> o menos.</div><h3><i class="fa fa-pencil" style="color:#E4007C"></i> Cómo escribir en el foro</h3><div class="steps"><div class="step"><i class="fa fa-hand-pointer-o"></i><b>1. Entra al foro</b><span>Está arriba de las partes del curso.</span></div><div class="step"><i class="fa fa-plus-circle"></i><b>2. «Añadir un nuevo tema»</b><span>Escribe un asunto corto: «Duda de la lección de crédito».</span></div><div class="step"><i class="fa fa-paper-plane"></i><b>3. Pregunta y envía</b><span>Con números inventados o redondeados. Te llega aviso cuando respondan.</span></div></div><div class="grid" style="margin-top:14px"><div class="post"><div class="h"><div class="avatar">AM</div>Así sí <span class="ok"><i class="fa fa-check"></i></span></div>«Si me cobran 120 al mes de comisión, ¿cómo pido la cuenta básica?»</div><div class="post"><div class="h"><div class="avatar">RC</div>Así no <span class="no"><i class="fa fa-times"></i></span></div>«Mi número de cuenta es 0123… y mi NIP es…»</div></div><h3><i class="fa fa-shield" style="color:#E4007C"></i> Reglas de oro</h3><ul class="check"><li><b>Tus datos son tuyos:</b> No compartas números de cuenta, contraseñas, códigos, fotos de tarjetas ni montos reales. El equipo nunca te pedirá esos datos.</li><li><b>Nadie del equipo te pedirá</b> datos personales, contraseñas ni dinero. Si alguien lo hace a nuestro nombre, es fraude.</li><li><b>Respeto siempre:</b> sin juicios, sin ventas y sin publicidad.</li><li><b>Lo que cuentas es confidencial:</b> la organización que te ofrece el curso no recibe tus datos personales ni financieros.</li></ul><h3><i class="fa fa-heartbeat" style="color:#E4007C"></i> Si necesitas ayuda urgente</h3><div class="alert"><b>No esperes al foro:</b><ul><li>Línea de la Vida: 800 911 2000 (salud mental y adicciones, las 24 horas)</li><li>CONDUSEF: 55 5340 0999 (bancos, créditos, seguros)</li><li>088 de la Guardia Nacional (fraudes y delitos en línea)</li><li>911 (emergencias y violencia)</li></ul></div><div class="firma"><b>Desarrolla Talento</b>Tu Patrimonio, Tu Tranquilidad, Tu Futuro</div></div></body></html>

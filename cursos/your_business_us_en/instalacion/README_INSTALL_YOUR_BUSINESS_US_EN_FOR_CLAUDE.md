@@ -40,7 +40,7 @@ Rules:
 
 | Section | Name | Description |
 |---|---|---|
-| General | Welcome | Link to chapter 1 of the support book and the forum "Questions and comments" |
+| General | Welcome | «Welcome» book, "Questions and comments" and "Introduce yourself" forums, start survey and «Starting quiz» |
 | 1 | Module 1. Your business and your home: separate money | Content of `1_books/M1_resumen.html` |
 | 2 | Module 2. Costs and price | `M2_resumen.html` |
 | 3 | Module 3. Cash flow | `M3_resumen.html` |
@@ -51,9 +51,20 @@ Rules:
 | 8 | Module 8. Grow in an orderly way | `M8_resumen.html` |
 | 9 | Module 9. Your future | `M9_resumen.html` |
 | 10 | Support materials | "Cases, practice, glossary and where to get help." |
-| 11 | Assessment and certificate | "Your certificate of completion." |
+| 11 | Closing and certificate | "What you achieved, your certificate and see you soon." |
 
 Description of the forum "Questions and comments": "Do not share your SSN, ITIN, EIN, passwords, account numbers, your business's real amounts or your immigration status."
+
+### Welcome and farewell (designed books)
+
+They are the first and last thing each person sees: don't skip them.
+
+1. **General section, at the very top:** create the book `Welcome` (chapter formatting "None", navigation "Text") and import `1_books/Bienvenida_libro_Moodle.zip`, type "Each HTML file represents one chapter". There must be 4 chapters: Welcome, How the course works, Contact and community guide, Before you start. Completion: "View".
+2. Below it, the **"Questions and comments"** forum (general forum) and the **"Introduce yourself"** forum ("Standard forum for general use"; description: "Your name or a nickname and what you expect from this program. No personal data."). Both earn Level Up points.
+3. Below, the **Start survey** (section 8) and the **«Starting quiz»**: import `4_questions/diagnostica.gift.txt` (it creates its own «Start» category), all questions, maximum grade 0 (doesn't count toward the grade), **one attempt**, 10-minute time limit, review with the correct answer at the end.
+4. **Restrict access** on the first lesson of Part 1: the `Welcome` book must be viewed.
+5. **Section 11, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
+6. **Guide to print or share:** `7_guides/Contact_and_community_guide.html`. Open it in a browser > Print > Save as PDF, and share it in the in-person session or by WhatsApp.
 
 ## 3. Lesson books
 
@@ -72,14 +83,14 @@ In each module section:
 | M5 | 5 | 20 |
 | M6 | 5 | 20 |
 | M7 | 7 | 28 |
-| M8 | 6 | 24 |
+| M8 | 7 | 28 |
 | M9 | 4 | 16 |
 
 ## 4. Support book
 
-In section 10, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters). In the General section, add a **URL** or label to chapter 1 ("Welcome").
+In section 10, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
-In the same section 10, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; and for your business: cost and price, break-even and 8-week cash flow. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
+In the same section 10, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; and for your business: cost and price, break-even and 8-week cash flow; plus: advances to your team. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
 ## 5. Glossary
 
@@ -87,15 +98,15 @@ In section 10, create the glossary `Course key words` and import `3_glossary/Glo
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN v1.3/M1* to *M9* are created, with 132 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN v1.3/M1* to *M9* are created, with 135 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
 3. Add **all** questions from *Your Business US EN v1.3/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|
-| 18 | 12 | 12 | 9 | 15 | 15 | 21 | 18 | 12 |
+| 18 | 12 | 12 | 9 | 15 | 15 | 21 | 21 | 12 |
 
-## 7. H5P activities (44)
+## 7. H5P activities (45)
 
 Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesson order:
 

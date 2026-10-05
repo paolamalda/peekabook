@@ -40,16 +40,27 @@ Rules:
 
 | Section | Name | Description |
 |---|---|---|
-| General | Welcome | Link to chapter 1 of the support book and the forum "Questions and comments" |
+| General | Welcome | «Welcome» book, "Questions and comments" and "Introduce yourself" forums, start survey and «Starting quiz» |
 | 1 | Module 1. Understand your money and organize your finances | Content of `1_books/M1_resumen.html` |
 | 2 | Module 2. Understand the financial system and plan your remittances | `M2_resumen.html` |
 | 3 | Module 3. Build your credit and manage your debts | `M3_resumen.html` |
 | 4 | Module 4. Protect your money, your identity and your family | `M4_resumen.html` |
 | 5 | Module 5. Build wealth and prepare your future | `M5_resumen.html` |
 | 6 | Support materials | "Cases, practice, glossary and where to get help." |
-| 7 | Assessment and certificate | "Your certificate of completion." |
+| 7 | Closing and certificate | "What you achieved, your certificate and see you soon." |
 
 Description of the forum "Questions and comments": "Don't share account numbers, SSN, ITIN, passwords or your immigration status."
+
+### Welcome and farewell (designed books)
+
+They are the first and last thing each person sees: don't skip them.
+
+1. **General section, at the very top:** create the book `Welcome` (chapter formatting "None", navigation "Text") and import `1_books/Bienvenida_libro_Moodle.zip`, type "Each HTML file represents one chapter". There must be 4 chapters: Welcome, How the course works, Contact and community guide, Before you start. Completion: "View".
+2. Below it, the **"Questions and comments"** forum (general forum) and the **"Introduce yourself"** forum ("Standard forum for general use"; description: "Your name or a nickname and what you expect from this program. No personal data."). Both earn Level Up points.
+3. Below, the **Start survey** (section 8) and the **«Starting quiz»**: import `4_questions/diagnostica.gift.txt` (it creates its own «Start» category), all questions, maximum grade 0 (doesn't count toward the grade), **one attempt**, 10-minute time limit, review with the correct answer at the end.
+4. **Restrict access** on the first lesson of Part 1: the `Welcome` book must be viewed.
+5. **Section 7, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
+6. **Guide to print or share:** `7_guides/Contact_and_community_guide.html`. Open it in a browser > Print > Save as PDF, and share it in the in-person session or by WhatsApp.
 
 ## 3. Lesson books
 
@@ -69,7 +80,7 @@ In each module section:
 
 ## 4. Support book
 
-In section 6, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters). In the General section, add a **URL** or label to chapter 1 ("Welcome").
+In section 6, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
 In the same section 6, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; plus: the cost of each transfer, your assets and who receives them. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 

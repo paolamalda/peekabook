@@ -124,6 +124,15 @@ def construir(D, CFG):
         K.copiar(os.path.join(M, "h5p", f"{m}_U*.h5p"), os.path.join(mo, "2_h5p", m))
         shutil.copytree(os.path.join(M, m, "vista_previa"), os.path.join(mo, Vp, m))
     K.copiar(os.path.join(M, "Apoyo", "Apoyo_libro_Moodle.zip"), os.path.join(mo, L))
+    for b in ("Bienvenida", "Cierre"):
+        K.copiar(os.path.join(M, b, f"{b}_libro_Moodle.zip"), os.path.join(mo, L))
+        if os.path.isdir(os.path.join(M, b, "vista_previa")): shutil.copytree(os.path.join(M, b, "vista_previa"), os.path.join(mo, Vp, b))
+    for g in ("Guia_de_contacto_y_comunidad.html", "Contact_and_community_guide.html"):
+        if os.path.exists(os.path.join(M, "Bienvenida", g)): os.makedirs(os.path.join(mo, Gu), exist_ok=True); shutil.copy(os.path.join(M, "Bienvenida", g), os.path.join(mo, Gu))
+    if os.path.exists(os.path.join(M, "diagnostica.gift.txt")):
+        os.makedirs(os.path.join(mo, Pr), exist_ok=True); shutil.copy(os.path.join(M, "diagnostica.gift.txt"), os.path.join(mo, Pr))
+    elif os.path.exists(os.path.join(D, "estandares", "07_diagnostica.gift.txt")):
+        os.makedirs(os.path.join(mo, Pr), exist_ok=True); shutil.copy(os.path.join(D, "estandares", "07_diagnostica.gift.txt"), os.path.join(mo, Pr, "diagnostica.gift.txt"))
     if CFG.get("ux") == 3: K.copiar(os.path.join(M, "estructura_moodle.json"), mo)
     os.makedirs(os.path.join(mo, Gl))
     nterm = K.glosario([os.path.join(M, m, f"{m}_glosario_Moodle.xml") for m in MODS], txt(en, "Palabras clave del curso", "Course key words"),

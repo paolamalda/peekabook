@@ -290,5 +290,9 @@
   "pago_por_dia",
   "bienes"
  ],
- "objetivo_general": "calcular y cobrar un pago justo por día o por quincena, conocer sus derechos como trabajadora del hogar, ahorrar y organizar tandas con reglas, ayudar a su familia sin endeudarse, salir de deudas, proteger su salud y su seguridad social, evitar fraudes en el celular, planear su vejez y armar un plan para crecer"
+ "objetivo_general": "calcular y cobrar un pago justo por día o por quincena, conocer sus derechos como trabajadora del hogar, ahorrar y organizar tandas con reglas, ayudar a su familia sin endeudarse, salir de deudas, proteger su salud y su seguridad social, evitar fraudes en el celular, planear su vejez y armar un plan para crecer",
+ "bienvenida": {
+  "conecta": "Tu trabajo hace posible que otras casas funcionen, y muchas veces nadie te explica cuánto debe valer ni qué derechos tienes. Cobras por día o por quincena, ayudas a tu familia y casi nunca te queda algo para ti. Este programa es para que tu trabajo y tu dinero rindan, y para que pienses también en ti.",
+  "despedida": "Gracias por tomar este tiempo para ti, que casi nunca lo haces. Ahora sabes cuánto vale tu trabajo, cómo ahorrar en tanda sin perder y cómo ayudar sin hundirte. Te lo mereces."
+ }
 }

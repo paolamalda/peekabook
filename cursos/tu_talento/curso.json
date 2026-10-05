@@ -274,5 +274,9 @@
   "ingreso_variable",
   "bienes"
  ],
- "objetivo_general": "administrar un ingreso variable, cumplir con su régimen fiscal y sus impuestos, revisar contratos, representación y regalías, comparar instituciones y productos del sistema financiero, usar el crédito con responsabilidad y cuidar su historial, salir de deudas, protegerse de fraudes y del robo de identidad, prevenir riesgos y planear su futuro"
+ "objetivo_general": "administrar un ingreso variable, cumplir con su régimen fiscal y sus impuestos, revisar contratos, representación y regalías, comparar instituciones y productos del sistema financiero, usar el crédito con responsabilidad y cuidar su historial, salir de deudas, protegerse de fraudes y del robo de identidad, prevenir riesgos y planear su futuro",
+ "bienvenida": {
+  "conecta": "En el entretenimiento hay meses de mucho trabajo y meses de nada, contratos que nadie te explicó y tarjetas que llegan cuando más ganas. Tu talento es tu marca, y tu dinero también necesita una estrategia. Este programa es para que tu carrera te dé estabilidad, no solo aplausos.",
+  "despedida": "Gracias por dedicarle este tiempo a tu carrera fuera del escenario. Ahora sabes manejar un ingreso variable, leer un contrato, cuidar tu crédito y planear tu futuro. Que tu talento te dé tranquilidad por muchos años."
+ }
 }

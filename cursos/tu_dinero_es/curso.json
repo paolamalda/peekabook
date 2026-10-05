@@ -244,5 +244,9 @@
    "descripcion": "Metas, ahorro, vivienda y retiro."
   }
  },
- "objetivo_general": "tomar decisiones informadas para organizar su dinero y sus impuestos, usar el sistema financiero y enviar remesas con menor costo, construir crédito y salir de deudas, proteger su dinero, su identidad y a su familia, y planear su patrimonio y su retiro en Estados Unidos y en México"
+ "objetivo_general": "tomar decisiones informadas para organizar su dinero y sus impuestos, usar el sistema financiero y enviar remesas con menor costo, construir crédito y salir de deudas, proteger su dinero, su identidad y a su familia, y planear su patrimonio y su retiro en Estados Unidos y en México",
+ "bienvenida": {
+  "conecta": "Llegaste a este país con un plan y lo sostienes con trabajo: mandas dinero a casa, pagas renta, cuidas a tu familia aquí y allá. Muchas veces decides solo o sola, con prisa y sin que nadie te explique cómo funciona el sistema. Este programa es para eso: para que cada dólar que tanto te cuesta trabaje para ti y para los tuyos, sin importar tu situación migratoria y sin pedirte ningún dato personal.",
+  "despedida": "Gracias por llegar hasta aquí. Lo que aprendiste no se queda en una pantalla: se nota cada vez que comparas un envío, revisas tu reporte o le dices «no» a una prisa sospechosa. Tu familia, aquí y allá, tiene a alguien que sabe cuidar su dinero."
+ }
 }

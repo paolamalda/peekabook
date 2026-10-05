@@ -39,7 +39,7 @@ Reglas:
 
 | Sección | Nombre | Descripción |
 |---|---|---|
-| General | Bienvenida | Enlace al capítulo 1 del libro de apoyo y foro "Dudas y comentarios" |
+| General | Bienvenida | Libro «Bienvenida», foros "Dudas y comentarios" y "Preséntate", encuesta de inicio y «Pruébate de inicio» |
 | 1 | Módulo 1. Tu quincena rinde | Contenido de `1_libros/M1_resumen.html` |
 | 2 | Módulo 2. Tu cuenta y tu dinero | `M2_resumen.html` |
 | 3 | Módulo 3. Tus deudas claras | `M3_resumen.html` |
@@ -49,9 +49,20 @@ Reglas:
 | 7 | Módulo 7. Tu familia y los imprevistos | `M7_resumen.html` |
 | 8 | Módulo 8. Tu futuro | `M8_resumen.html` |
 | 9 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
-| 10 | Evaluación y constancia | "Tu constancia de conclusión." |
+| 10 | Cierre y constancia | "Lo que lograste, tu constancia y hasta pronto." |
 
 Descripción del foro "Dudas y comentarios": "No compartas números de cuenta, contraseñas, códigos ni montos reales de tus deudas."
+
+### Bienvenida y despedida (libros con diseño)
+
+Son lo primero y lo último que ve la persona: no los omitas.
+
+1. **Sección General, arriba de todo:** crea el libro `Bienvenida` (formato de capítulo "Nada", navegación "Texto") e importa `1_libros/Bienvenida_libro_Moodle.zip`, tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Te damos la bienvenida, Cómo funciona el curso, Guía de contacto y comunidad, Antes de empezar. Finalización: "Ver".
+2. Debajo, el foro **"Dudas y comentarios"** (foro general) y el foro **"Preséntate"** (tipo "Foro estándar para uso general"; descripción: "Tu nombre o apodo y qué esperas de este programa. Sin datos personales."). Los dos dan puntos en Level Up.
+3. Debajo, la **Encuesta de inicio** (sección 8) y el cuestionario **«Pruébate de inicio»**: importa `4_preguntas/diagnostica.gift.txt` (crea su propia categoría «Diagnóstica»), todas las preguntas, calificación sobre 0 (no cuenta para la calificación), **un intento**, tiempo máximo 10 minutos, revisión con respuesta correcta al terminar.
+4. **Restringir acceso** de la primera lección de la Parte 1: el libro `Bienvenida` debe estar visto.
+5. **Sección 10, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.
+6. **Guía para imprimir o compartir:** `7_guias/Guia_de_contacto_y_comunidad.html`. Ábrela en el navegador > Imprimir > Guardar como PDF, y compártela en la sesión presencial o por WhatsApp.
 
 ## 3. Libros de lecciones
 
@@ -65,18 +76,18 @@ En cada sección de módulo:
 |---|---|---|
 | M1 | 6 | 24 |
 | M2 | 6 | 24 |
-| M3 | 5 | 20 |
+| M3 | 7 | 28 |
 | M4 | 3 | 12 |
 | M5 | 4 | 16 |
 | M6 | 6 | 24 |
-| M7 | 7 | 28 |
+| M7 | 9 | 36 |
 | M8 | 3 | 12 |
 
 ## 4. Libro de apoyo
 
-En la sección 9, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
+En la sección 9, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos).
 
-En la misma sección 9, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
+En la misma sección 9, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto; además: tu quincena con turnos extra. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
 
 ## 5. Glosario
 
@@ -84,15 +95,15 @@ En la sección 9, crea el glosario `Palabras clave del curso` e importa `3_glosa
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttdf.gift.txt`. Se crean *Tu Turno v1.3/M1* a *M8*, con 120 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_ttdf.gift.txt`. Se crean *Tu Turno v1.3/M1* a *M8*, con 132 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
 3. Agrega **todas** las preguntas de *Tu Turno v1.3/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 |
 |---|---|---|---|---|---|---|---|
-| 18 | 18 | 15 | 9 | 12 | 18 | 21 | 9 |
+| 18 | 18 | 21 | 9 | 12 | 18 | 27 | 9 |
 
-## 7. Actividades H5P (40)
+## 7. Actividades H5P (44)
 
 Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
 

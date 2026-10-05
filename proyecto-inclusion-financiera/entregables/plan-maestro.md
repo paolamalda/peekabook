@@ -158,6 +158,7 @@ Actualizado: 2026-09-28
 - [ ] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)*
 
 - [x] **K14** Versiones de Tu Regreso en inglés y bilingüe: hecho el 5 de octubre de 2026 (`cursos/your_return_en`, guía de sesión en inglés y `sesiones/guia_grupo_bilingue.md`). Falta revisión de Paola y textos en inglés para los videos. *(Responsable: Claude + Paola)*
+- [x] **K15** Bienvenida y despedida con diseño en los 18 cursos: libro «Bienvenida» antes de la primera lección (conexión con la población, cómo funciona, guía de contacto y comunidad, antes de empezar) y libro «Cierre y despedida» después de la conclusión; guía de contacto para imprimir o compartir y «Pruébate de inicio». Hecho el 5 de octubre de 2026 con `herramientas_cursos/bienvenida.py`. Falta: correo o WhatsApp de soporte (`contacto` en curso.json) y revisión de Paola. *(Responsable: Claude + Paola)*
 
 ### Diseño instruccional (EC0217 y EC0366)
 

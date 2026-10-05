@@ -318,5 +318,9 @@
  "hojas": [
   "pension"
  ],
- "objetivo_general": "administrar su pensión para que alcance el bimestre, usar su tarjeta y el cajero sin riesgos, reconocer fraudes, abuso patrimonial y préstamos que dañan su pensión, decidir con apoyo sin perder el control, dejar en orden su testamento y sus beneficiarios, y prever sus gastos de salud"
+ "objetivo_general": "administrar su pensión para que alcance el bimestre, usar su tarjeta y el cajero sin riesgos, reconocer fraudes, abuso patrimonial y préstamos que dañan su pensión, decidir con apoyo sin perder el control, dejar en orden su testamento y sus beneficiarios, y prever sus gastos de salud",
+ "bienvenida": {
+  "conecta": "Trabajaste toda la vida y hoy tu pensión es lo que te da tranquilidad. Por eso hay quienes buscan quedarse con ella: con una llamada, un préstamo o una firma. Este programa es para que tú decidas sobre tu dinero, a tu ritmo, con letra grande y con la compañía de alguien de tu confianza.",
+  "despedida": "Gracias por acompañarnos. Ahora tu pensión tiene un plan, tu tarjeta y tu NIP están protegidos, y tus papeles quedan en orden para tu familia. Tú sigues decidiendo sobre lo tuyo, con más tranquilidad."
+ }
 }
