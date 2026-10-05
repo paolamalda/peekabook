@@ -71,14 +71,14 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M1 U01 | Tu apoyo es tuyo, completo | Cobrar tus apoyos completos, directo en tu tarjeta, sin pagar a nadie. |
-| M1 U02 | Si alguien se queda con tu dinero | Saber a quién avisar si alguien te cobra por tu apoyo o se queda con una parte. |
+| M1 U02 | Si alguien se queda con tu dinero | Identificar a quién avisar si alguien te cobra por tu apoyo o se queda con una parte. |
 
 ## Módulo 2. Tu cuenta a tu nombre
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M2 U01 | ¿Por qué una cuenta a tu nombre? | Entender por qué conviene que cada mujer tenga una cuenta a su nombre. |
-| M2 U02 | Abrir y usar tu cuenta | Saber qué llevar para abrir una cuenta básica y dónde usarla cerca de tu comunidad. |
+| M2 U01 | ¿Por qué una cuenta a tu nombre? | Explicar por qué conviene que cada mujer tenga una cuenta a su nombre. |
+| M2 U02 | Abrir y usar tu cuenta | Identificar qué llevar para abrir una cuenta básica y dónde usarla cerca de tu comunidad. |
 
 ## Módulo 3. Recibir y enviar dinero sin perder
 

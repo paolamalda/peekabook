@@ -71,7 +71,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M1 U01 | Una cuenta a tu nombre | Abrir o usar una cuenta a tu nombre para tener dinero que solo tú controlas. |
-| M1 U02 | Tus documentos y tus bienes a tu nombre | Saber qué documentos deben estar a tu nombre y guardar copias. |
+| M1 U02 | Tus documentos y tus bienes a tu nombre | Identificar qué documentos deben estar a tu nombre y guardar copias. |
 | M1 U03 | Un dinero propio, aunque no tengas sueldo | Tener una parte del dinero del hogar para ti y tomar decisiones de dinero en pareja. |
 
 ## Módulo 2. Un presupuesto que cuenta los cuidados
@@ -86,7 +86,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M3 U01 | La brecha de la Afore | Entender por qué las mujeres tienen menos Afore y localizar la tuya. |
+| M3 U01 | La brecha de la Afore | Explicar por qué las mujeres tienen menos Afore y localizar la tuya. |
 | M3 U02 | Las semanas que se pierden por cuidar | Revisar tus semanas cotizadas y entender cómo los años de cuidado afectan tu pensión. |
 | M3 U03 | Aportaciones voluntarias: tu retiro, tu decisión | Hacer aportaciones voluntarias a tu Afore, aunque sean pequeñas. |
 
@@ -94,16 +94,16 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M4 U01 | Qué es la Pensión Mujeres Bienestar | Conocer la Pensión Mujeres Bienestar, quién puede recibirla y cómo registrarse. |
+| M4 U01 | Qué es la Pensión Mujeres Bienestar | Identificar la Pensión Mujeres Bienestar, quién puede recibirla y cómo registrarse. |
 | M4 U02 | Que tu pensión sea para ti | Usar la pensión para tus necesidades y no dejar que otros la tomen. |
-| M4 U03 | A los 65, el paso a la Pensión Adultos Mayores | Saber qué pasa con tu pensión al cumplir 65 años y planear con el nuevo monto. |
+| M4 U03 | A los 65, el paso a la Pensión Adultos Mayores | Identificar qué pasa con tu pensión al cumplir 65 años y planear con el nuevo monto. |
 
 ## Módulo 5. Seguros para mí
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M5 U01 | Un seguro de vida también para ti | Saber si te conviene un seguro de vida a tu nombre y qué preguntar. |
-| M5 U02 | Tu salud, protegida | Saber qué servicio de salud te corresponde y prepararte para gastos médicos. |
+| M5 U01 | Un seguro de vida también para ti | Comprobar si te conviene un seguro de vida a tu nombre y qué preguntar. |
+| M5 U02 | Tu salud, protegida | Identificar qué servicio de salud te corresponde y prepararte para gastos médicos. |
 | M5 U03 | Revisa los seguros que ya pagas | Encontrar los seguros que te cobran y decidir si te sirven. |
 
 ## Módulo 6. Violencia económica: señales y salida
@@ -118,8 +118,8 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M7 U01 | Qué cubre la pensión alimenticia | Saber qué cubre la pensión alimenticia y que es un derecho de tus hijos. |
-| M7 U02 | Si la pensión no llega | Saber qué hacer cuando la pensión alimenticia se atrasa o deja de pagarse. |
+| M7 U01 | Qué cubre la pensión alimenticia | Identificar qué cubre la pensión alimenticia y que es un derecho de tus hijos. |
+| M7 U02 | Si la pensión no llega | Decidir qué hacer cuando la pensión alimenticia se atrasa o deja de pagarse. |
 | M7 U03 | Que la pensión rinda para tus hijos | Administrar la pensión alimenticia para los gastos de tus hijos y dejar registro. |
 
 ## Módulo 8. Estrés financiero y salud

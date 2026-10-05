@@ -425,6 +425,8 @@ def paso_verificar():
             for sec in ["== esencial", "== profundiza", "== practica", "== recursos", "== palabras", "== fuentes", "--- casos", "--- errores", "--- quiz", "--- ponlo", "--- plan", "--- comprueba", "--- recuerda"]:
                 if sec not in les: probs.append(f"{code}: falta {sec}")
             for nom in re.findall(NOMBRES_PROHIBIDOS, les): probs.append(f"{code}: nombre prohibido «{nom}»")
+            if not EN and re.search(r"\b[Gg]ratis\b", les): probs.append(f"{code}: dice «gratis» (usar «sin costo»)")
+            if not EN and re.search(r"(?m)^objetivo: (Saber|Conocer|Entender) ", les): probs.append(f"{code}: objetivo con verbo no observable")
             ncas = len(re.findall(r"(?m)^### ", les))
             if ncas != 3: probs.append(f"{code}: {ncas} casos")
             if code not in CASOS: probs.append(f"{code}: sin CASOS"); continue

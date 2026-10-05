@@ -68,7 +68,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M1 U01 | Tu constancia y tu CURP: los dos primeros papeles | Saber para qué sirve la constancia de repatriación y cómo sacar tu CURP para empezar cualquier trámite. |
+| M1 U01 | Tu constancia y tu CURP: los dos primeros papeles | Explicar para qué sirve la constancia de repatriación y cómo sacar tu CURP para empezar cualquier trámite. |
 | M1 U02 | Tu acta y tu INE | Sacar tu acta de nacimiento y tramitar tu credencial del INE, que te pedirán en el banco y en el trabajo. |
 | M1 U03 | Los papeles de tus hijos nacidos en Estados Unidos | Registrar en México a tus hijos nacidos en EE. UU. para que tengan CURP, escuela y servicios. |
 
@@ -84,7 +84,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M3 U01 | Tu historial de allá no cuenta aquí | Entender que en México empiezas sin historial de crédito y revisar tu reporte gratis. |
+| M3 U01 | Tu historial de allá no cuenta aquí | Explicar que en México empiezas sin historial de crédito y revisar tu reporte sin costo. |
 | M3 U02 | Empieza chico y paga a tiempo | Construir historial en México con un crédito pequeño que puedas pagar completo y a tiempo. |
 | M3 U03 | Préstamos «sin buró» y apps que cobran de más | Reconocer los préstamos caros que buscan a quien no tiene historial y compararlos antes de firmar. |
 
@@ -93,14 +93,14 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M4 U01 | Tu último pago y tu cuenta de allá | Recuperar el sueldo que te deben y decidir qué hacer con tu cuenta de banco en EE. UU. |
-| M4 U02 | Tus impuestos de allá | Saber si te conviene presentar tu declaración en EE. UU. para recuperar impuestos retenidos. |
-| M4 U03 | Tu retiro de allá: 401(k) y Seguro Social | Saber si dejaste dinero de retiro en EE. UU. y a quién preguntar para no perderlo. |
+| M4 U02 | Tus impuestos de allá | Comprobar si te conviene presentar tu declaración en EE. UU. para recuperar impuestos retenidos. |
+| M4 U03 | Tu retiro de allá: 401(k) y Seguro Social | Comprobar si dejaste dinero de retiro en EE. UU. y a quién preguntar para no perderlo. |
 
 ## Módulo 5. Tu Afore, tu IMSS y tus semanas
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M5 U01 | ¿Tienes Afore? Encuéntrala | Saber si tienes una cuenta de Afore de cuando trabajaste en México y localizarla. |
+| M5 U01 | ¿Tienes Afore? Encuéntrala | Comprobar si tienes una cuenta de Afore de cuando trabajaste en México y localizarla. |
 | M5 U02 | Tus semanas cotizadas | Consultar tus semanas cotizadas en el IMSS y saber cuántas te faltan para una pensión. |
 | M5 U03 | Ahorra para tu retiro aunque trabajes por tu cuenta | Hacer aportaciones voluntarias a tu Afore y conocer cómo afiliarte al IMSS si trabajas por tu cuenta. |
 

@@ -92,13 +92,13 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M4 U01 | Señales de abuso patrimonial | Reconocer cuando alguien cercano usa tu dinero o tus bienes sin tu permiso. |
-| M4 U02 | A quién llamar | Saber a dónde acudir si alguien abusa de tu dinero, tus bienes o tu persona. |
+| M4 U02 | A quién llamar | Explicar a dónde acudir si alguien abusa de tu dinero, tus bienes o tu persona. |
 
 ## Módulo 5. Préstamos a cuenta de tu pensión
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M5 U01 | El préstamo a cuenta de tu pensión | Entender cómo funcionan los préstamos que se descuentan de la pensión del IMSS y sus límites. |
+| M5 U01 | El préstamo a cuenta de tu pensión | Explicar cómo funcionan los préstamos que se descuentan de la pensión del IMSS y sus límites. |
 | M5 U02 | Préstamos para otros | Decidir con cuidado antes de pedir un préstamo o ser aval para alguien más. |
 
 ## Módulo 6. Decidir con apoyo, sin perder el control
@@ -112,7 +112,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M7 U01 | Tu testamento | Saber para qué sirve un testamento y qué preparar antes de ir a la notaría. |
+| M7 U01 | Tu testamento | Explicar para qué sirve un testamento y qué preparar antes de ir a la notaría. |
 | M7 U02 | Tus beneficiarios al día | Revisar quién recibiría el dinero de tus cuentas, tu Afore y tus seguros. |
 
 ## Módulo 8. Tu salud y tus seguros

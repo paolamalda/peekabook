@@ -77,7 +77,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M2 U01 | Tus papeles en una bolsa | Proteger tus documentos importantes del agua y respaldarlos con copias. |
-| M2 U02 | Si perdiste tus papeles | Saber dónde reponer tus documentos más importantes después de perderlos. |
+| M2 U02 | Si perdiste tus papeles | Identificar dónde reponer tus documentos más importantes después de perderlos. |
 
 ## Módulo 3. El ingreso de temporada, mes a mes
 
@@ -91,7 +91,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M4 U01 | Tu fondo de emergencia | Empezar un fondo de emergencia aunque sea poco, y usarlo solo para emergencias. |
-| M4 U02 | ¿Asegurar tu casa? | Saber qué preguntar sobre un seguro de vivienda y si cubre daños por huracán. |
+| M4 U02 | ¿Asegurar tu casa? | Identificar qué preguntar sobre un seguro de vivienda y si cubre daños por huracán. |
 
 ## Módulo 5. Crédito para tu actividad
 
@@ -104,7 +104,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M6 U01 | Tienes derecho a un trato digno | Saber que tienes derecho a ser atendido sin discriminación y qué hacer si no pasa. |
+| M6 U01 | Tienes derecho a un trato digno | Explicar que tienes derecho a ser atendido sin discriminación y qué hacer si no pasa. |
 | M6 U02 | Reclama con folio | Presentar una reclamación ante tu banco o aseguradora y llevarla a CONDUSEF si no te resuelven. |
 
 ## Módulo 7. Remesas que rinden
@@ -118,7 +118,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M8 U01 | Los papeles de tu casa y tu terreno | Saber qué papel comprueba que tu casa o tu terreno es tuyo y qué hacer si no lo tienes. |
+| M8 U01 | Los papeles de tu casa y tu terreno | Identificar qué papel comprueba que tu casa o tu terreno es tuyo y qué hacer si no lo tienes. |
 | M8 U02 | Que tu familia no pelee por lo tuyo | Dejar decidido a quién le tocan tus bienes: testamento, lista de sucesión y beneficiarios. |
 
 # 4. Estructura de cada lección

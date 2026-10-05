@@ -15,7 +15,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 ## Módulo 1. Tus papeles
 
 ### M1 U01 · Tu constancia y tu CURP: los dos primeros papeles
-**Debe entenderse:** Saber para qué sirve la constancia de repatriación y cómo sacar tu CURP para empezar cualquier trámite. · **Personaje:** Don Rafa
+**Debe entenderse:** Explicar para qué sirve la constancia de repatriación y cómo sacar tu CURP para empezar cualquier trámite. · **Personaje:** Don Rafa
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -40,7 +40,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 4 | 24–32 | Aparecen 3 tarjetas, una por una: Recibo de familiar, Testigos, Constancia de residencia. | Si no tienes comprobante de domicilio |
 | 5 | 32–38 | ✕ magenta sobre la escena: Llegar sin acta → Te regresan. | ✕ Llegar sin acta |
 | 6 | 38–45 | Chayo lo resuelve: El esposo de Chayo sacó su acta en línea, pidió una constancia de residencia en el municipio y fue al módulo del INE. | El esposo de Chayo sacó su acta en línea, pidió una constancia de residencia en el municipio y fue… |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Con acta y comprobante de domicilio sacas tu INE gratis; es la identificación que abre el banco. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Con acta y comprobante de domicilio sacas tu INE sin costo; es la identificación que abre el banco. |
 
 ### M1 U03 · Los papeles de tus hijos nacidos en Estados Unidos
 **Debe entenderse:** Registrar en México a tus hijos nacidos en EE. UU. para que tengan CURP, escuela y servicios. · **Personaje:** Lupita
@@ -103,7 +103,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 ## Módulo 3. Crédito desde cero
 
 ### M3 U01 · Tu historial de allá no cuenta aquí
-**Debe entenderse:** Entender que en México empiezas sin historial de crédito y revisar tu reporte gratis. · **Personaje:** Don Rafa
+**Debe entenderse:** Explicar que en México empiezas sin historial de crédito y revisar tu reporte sin costo. · **Personaje:** Don Rafa
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -114,7 +114,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 4 | 25–32 | Un documento en grande; Puedes pedir tu reporte especial sin costo una vez cada 12 meses en cada sociedad. | Puedes pedir tu reporte especial sin costo una vez cada 12 meses en cada sociedad. |
 | 5 | 32–38 | ✕ magenta sobre la escena: Creer que tu crédito de EE. UU. sirve aquí → Te frustras. | ✕ Creer que tu crédito de EE. UU. sirve aquí |
 | 6 | 38–45 | Don Rafa lo resuelve: Don Rafa pidió su reporte: no tenía créditos. | Don Rafa pidió su reporte: no tenía créditos. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | En México empiezas sin historial; revisa tu reporte gratis para ver que nadie usó tu nombre. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | En México empiezas sin historial; revisa tu reporte sin costo para ver que nadie usó tu nombre. |
 
 ### M3 U02 · Empieza chico y paga a tiempo
 **Debe entenderse:** Construir historial en México con un crédito pequeño que puedas pagar completo y a tiempo. · **Personaje:** Memo
@@ -161,7 +161,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Tu último sueldo y tu cuenta de allá siguen siendo tuyos; decide qué hacer con ellos pronto. |
 
 ### M4 U02 · Tus impuestos de allá
-**Debe entenderse:** Saber si te conviene presentar tu declaración en EE. UU. para recuperar impuestos retenidos. · **Personaje:** Lupita
+**Debe entenderse:** Comprobar si te conviene presentar tu declaración en EE. UU. para recuperar impuestos retenidos. · **Personaje:** Lupita
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -175,7 +175,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Si te retuvieron impuestos, presenta tu declaración; puede haber un reembolso para ti. |
 
 ### M4 U03 · Tu retiro de allá: 401(k) y Seguro Social
-**Debe entenderse:** Saber si dejaste dinero de retiro en EE. UU. y a quién preguntar para no perderlo. · **Personaje:** Memo
+**Debe entenderse:** Comprobar si dejaste dinero de retiro en EE. UU. y a quién preguntar para no perderlo. · **Personaje:** Memo
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -191,7 +191,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 ## Módulo 5. Tu Afore, tu IMSS y tus semanas
 
 ### M5 U01 · ¿Tienes Afore? Encuéntrala
-**Debe entenderse:** Saber si tienes una cuenta de Afore de cuando trabajaste en México y localizarla. · **Personaje:** Don Rafa
+**Debe entenderse:** Comprobar si tienes una cuenta de Afore de cuando trabajaste en México y localizarla. · **Personaje:** Don Rafa
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -329,10 +329,10 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 |---|---|---|---|
 | 0 | 0–3 | Fondo azul marino; una figura sospechosa y el título. | Gestores falsos |
 | 1 | 3–10 | Don Rafa en su día a día: Afuera del centro de atención, un señor con chaleco ofrecía a Don Rafa «agilizar» su CURP, su acta y su apoyo por 1,500 pesos. | Afuera del centro de atención, un señor con chaleco ofrecía a Don Rafa «agilizar» su CURP, su acta y su apoyo por 1,500… |
-| 2 | 10–17 | Una figura sospechosa en grande; Es alguien que te cobra por algo que es gratis o que tú puedes hacer solo, y que a veces se queda con tus papeles o tus datos. | Es alguien que te cobra por algo que es gratis o que tú puedes hacer solo, y que a veces se queda… |
-| 3 | 17–25 | Aparecen 4 tarjetas, una por una: Cobra por lo gratis, Pide originales, Promete rapidez, Chaleco o gafete. | Señales |
+| 2 | 10–17 | Una figura sospechosa en grande; Es alguien que te cobra por algo que es sin costo o que tú puedes hacer solo, y que a veces se queda con tus papeles o tus datos. | Es alguien que te cobra por algo que es sin costo o que tú puedes hacer solo, y que a veces se… |
+| 3 | 17–25 | Aparecen 4 tarjetas, una por una: Cobra por lo sin costo, Pide originales, Promete rapidez, Chaleco o gafete. | Señales |
 | 4 | 25–32 | Una ilustración del tema en grande; Entra a la oficina y pregunta en ventanilla. | Entra a la oficina y pregunta en ventanilla. |
-| 5 | 32–38 | ✕ magenta sobre la escena: Pagar por lo gratis → Pierdes dinero. | ✕ Pagar por lo gratis |
+| 5 | 32–38 | ✕ magenta sobre la escena: Pagar por lo sin costo → Pierdes dinero. | ✕ Pagar por lo sin costo |
 | 6 | 38–45 | Don Rafa lo resuelve: Don Rafa no le dio sus papeles. | Don Rafa no le dio sus papeles. |
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Si te cobran por un trámite gratuito o piden tus originales, no es ayuda: es un gestor falso. |
 

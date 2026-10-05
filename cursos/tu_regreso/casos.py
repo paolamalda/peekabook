@@ -8,7 +8,7 @@ CASOS = {
 "M1 U02": [
  ("Tramita su INE con acta y comprobante.", "Insiste con la licencia de Texas, porque también tiene foto.", "Pide a Chayo que abra la cuenta a nombre de ella."),
  ("Pregunta en el módulo si aceptan el recibo de su tía o testigos.", "Espera a rentar una casa propia para tener recibos.", "Usa un recibo de luz que encontró en la calle."),
- ("No paga: la cita y la credencial son gratis.", "Paga los 300 pesos para asegurar la cita esta semana.", "Da sus datos en la página y paga después."),
+ ("No paga: la cita y la credencial son sin costo.", "Paga los 300 pesos para asegurar la cita esta semana.", "Da sus datos en la página y paga después."),
 ],
 "M1 U03": [
  ("Pide inscripción mientras se registra a sus hijos.", "Deja a sus hijos en casa hasta que tengan su CURP.", "Los inscribe con la CURP de un sobrino mientras tanto."),
@@ -33,7 +33,7 @@ CASOS = {
 "M3 U01": [
  ("Pide su reporte y entiende que empieza de cero.", "Insiste en que su buen crédito de Texas tiene que contar aquí.", "Pide un préstamo en una app para aparecer rápido."),
  ("Presenta una reclamación ante la sociedad de información crediticia.", "Paga el préstamo de la app para no meterse en problemas.", "Lo ignora porque él no lo pidió."),
- ("Lo pide gratis en la página oficial.", "Paga los 400 pesos en esa página porque es más rápido.", "Le pide a un amigo su usuario para ver el reporte."),
+ ("Lo pide sin costo en la página oficial.", "Paga los 400 pesos en esa página porque es más rápido.", "Le pide a un amigo su usuario para ver el reporte."),
 ],
 "M3 U02": [
  ("Pide un límite bajo que pueda pagar.", "Acepta los 20,000 de límite por si un día los necesita.", "Acepta y usa todo el límite para crear historial rápido."),
@@ -63,7 +63,7 @@ CASOS = {
 "M5 U01": [
  ("Lo busca con su CURP en AforeMóvil.", "Lo da por perdido, porque se fue muchos años.", "Le paga a un gestor para que lo busque."),
  ("Abre su Afore con su CURP en la app, aunque trabaje por su cuenta.", "Espera a tener patrón para pensar en su retiro.", "Ahorra para el retiro en una lata en su casa."),
- ("No paga: la consulta es gratis.", "Le paga la comisión al gestor para no batallar.", "Le da al gestor la CURP de su esposo para que avance."),
+ ("No paga: la consulta es sin costo.", "Le paga la comisión al gestor para no batallar.", "Le da al gestor la CURP de su esposo para que avance."),
 ],
 "M5 U02": [
  ("Consultan sus semanas en la página del IMSS con su CURP.", "Dan por perdidas las semanas, porque se fue muchos años.", "Le pagan a un gestor para recuperarlas."),

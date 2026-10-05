@@ -77,39 +77,39 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M2 U01 | ¿Eres persona trabajadora de plataforma? | Saber si con la reforma te corresponde ser persona trabajadora de plataforma y cómo se calcula tu ingreso neto. |
-| M2 U02 | Aguinaldo, vacaciones y reparto de utilidades | Conocer las prestaciones proporcionales que te corresponden como persona trabajadora de plataforma. |
-| M2 U03 | Desactivaciones y cómo reclamar | Saber qué hacer si la app te desactiva o te paga mal, y a dónde acudir. |
+| M2 U01 | ¿Eres persona trabajadora de plataforma? | Comprobar si con la reforma te corresponde ser persona trabajadora de plataforma y cómo se calcula tu ingreso neto. |
+| M2 U02 | Aguinaldo, vacaciones y reparto de utilidades | Identificar las prestaciones proporcionales que te corresponden como persona trabajadora de plataforma. |
+| M2 U03 | Desactivaciones y cómo reclamar | Decidir qué hacer si la app te desactiva o te paga mal, y a dónde acudir. |
 
 ## Módulo 3. Tu IMSS, tu Afore y tu Infonavit
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M3 U01 | Lo que te da el IMSS completo | Saber qué te da el IMSS si eres persona trabajadora de plataforma y cómo comprobar que estás dado de alta. |
-| M3 U02 | Si no llegas al umbral | Saber qué protección tienes si no llegas al umbral y cómo completarla. |
+| M3 U01 | Lo que te da el IMSS completo | Identificar qué te da el IMSS si eres persona trabajadora de plataforma y cómo comprobar que estás dado de alta. |
+| M3 U02 | Si no llegas al umbral | Identificar qué protección tienes si no llegas al umbral y cómo completarla. |
 | M3 U03 | Tu Afore y tus semanas | Localizar tu Afore y entender cómo las semanas cotizadas por la plataforma te acercan a una pensión. |
 
 ## Módulo 4. Tus impuestos
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M4 U01 | Lo que la app retiene de impuestos | Entender las retenciones de ISR e IVA que hace la plataforma y por qué conviene tener RFC. |
+| M4 U01 | Lo que la app retiene de impuestos | Explicar las retenciones de ISR e IVA que hace la plataforma y por qué conviene tener RFC. |
 | M4 U02 | Tu RFC y tu e.firma | Darte de alta en el RFC en el régimen de plataformas tecnológicas y tener tus accesos en orden. |
-| M4 U03 | Al corriente con el SAT | Saber qué revisar cada año para estar al corriente con el SAT con tus ingresos de apps. |
+| M4 U03 | Al corriente con el SAT | Identificar qué revisar cada año para estar al corriente con el SAT con tus ingresos de apps. |
 
 ## Módulo 5. Tu vehículo
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M5 U01 | El apartado del vehículo | Apartar cada semana para mantenimiento y reparaciones de tu vehículo. |
-| M5 U02 | El seguro de tu vehículo | Saber qué cubre un seguro de auto o moto, qué cubre la plataforma y qué preguntar antes de contratar. |
+| M5 U02 | El seguro de tu vehículo | Identificar qué cubre un seguro de auto o moto, qué cubre la plataforma y qué preguntar antes de contratar. |
 | M5 U03 | Comprar, financiar o rentar tu vehículo | Comparar el costo total de comprar a crédito, rentar o rentar con opción a compra. |
 
 ## Módulo 6. Accidentes, salud y días sin trabajo
 
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
-| M6 U01 | Si tienes un accidente en la ruta | Saber qué hacer en las primeras horas después de un accidente trabajando y cómo usar la cobertura de riesgos de trabajo. |
+| M6 U01 | Si tienes un accidente en la ruta | Decidir qué hacer en las primeras horas después de un accidente trabajando y cómo usar la cobertura de riesgos de trabajo. |
 | M6 U02 | Un fondo para los días sin trabajo | Juntar un fondo de emergencia para días sin trabajo por enfermedad, fallas o desactivación. |
 | M6 U03 | Cansancio, estrés y tu dinero | Reconocer cómo el cansancio y el estrés por dinero afectan tu seguridad en la ruta. |
 
@@ -118,7 +118,7 @@ Al terminar todo el programa: insignia **Plan completo** y constancia con los te
 | Clave | Lección | Lo que logra la persona |
 |---|---|---|
 | M7 U01 | Adelantos y préstamos dentro de la app | Calcular cuánto cuesta un adelanto o préstamo que se descuenta de lo que ganas en la app. |
-| M7 U02 | Rentar o prestar tu cuenta | Conocer los riesgos de rentar, prestar o usar cuentas de otras personas en las apps. |
+| M7 U02 | Rentar o prestar tu cuenta | Identificar los riesgos de rentar, prestar o usar cuentas de otras personas en las apps. |
 | M7 U03 | Soporte falso y robo de cuentas | Reconocer mensajes y llamadas de soporte falso que buscan robar tu cuenta o tus ganancias. |
 
 ## Módulo 8. Tu futuro
