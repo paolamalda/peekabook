@@ -21,6 +21,20 @@ CSS = CSS2.replace("</style>", """
 .tdtf .practica-h5p .ph{font-weight:700;color:%(rosa)s}
 .tdtf .fin{background:%(azul)s;color:#fff;border-radius:16px;padding:18px 20px;margin:18px 0;display:flex;gap:14px;align-items:center}
 .tdtf .fin b{font-size:1.1rem}
+@media (max-width:576px){
+.tdtf .ruta{flex-wrap:nowrap;overflow-x:auto;gap:4px;margin:0 -4px 14px;padding:2px 4px;scrollbar-width:none}
+.tdtf .ruta::-webkit-scrollbar{display:none}
+.tdtf .ruta a{padding:6px 11px;font-size:.82rem;white-space:nowrap}
+.tdtf .ruta .opc{display:none}
+.tdtf .hero{padding:18px 18px 16px;border-radius:16px}
+.tdtf .hero:after{display:none}
+.tdtf .gancho{padding:14px 16px}
+.tdtf .avatar{flex-basis:40px;height:40px;font-size:1.1rem}
+.tdtf .rutas{grid-template-columns:1fr;gap:10px}
+.tdtf .rutabox{padding:14px 16px}
+.tdtf .card2{padding:14px 16px}
+.tdtf .cta{grid-template-columns:1fr}
+}
 </style>""" % C)
 
 PPM = 130          # palabras por minuto, ritmo pausado

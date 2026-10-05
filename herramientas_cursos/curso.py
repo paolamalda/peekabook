@@ -93,6 +93,32 @@ def paso_libros():
 
 
 # ---------------------------------------------------------------------------
+def vista_previa_ux3(les, folder):
+    """Vista previa local: cada lección con solo sus 4 capítulos; el índice aparece a un lado en pantallas grandes y no en el celular."""
+    shutil.rmtree(folder, ignore_errors=True); os.makedirs(folder)
+    if os.path.isdir(B.ASSETS): shutil.copytree(B.ASSETS, os.path.join(folder, "assets"), dirs_exist_ok=True)
+    css = ("body{margin:0;background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}.w{display:flex;gap:24px;max-width:1200px;margin:0 auto;padding:16px}"
+           ".toc{flex:0 0 260px;align-self:flex-start;position:sticky;top:12px;background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:16px}"
+           ".toc a{display:block;padding:6px 0;color:#0A3161;text-decoration:none}.toc a.on{font-weight:700;color:#E4007C}.toc small{color:#5A6478}"
+           ".main{flex:1;min-width:0}.lista{display:flex;justify-content:space-between;gap:8px;margin:0 0 12px;font-size:.85rem}.lista a{color:#5A6478}"
+           "@media(max-width:900px){.toc{display:none}.w{padding:12px}}")
+    for k, L in enumerate(les, 1):
+        for j, (fn, tt, b) in enumerate(L["pages"]):
+            name = f"{k:02d}_{fn}"
+            toc = "".join(f'<a href="{k:02d}_{f2}" class="{"on" if f2 == fn else ""}">{t2}</a>' for f2, t2, _ in L["pages"])
+            prev_l = f'<a href="{k - 1:02d}_01_empieza.html">← Lección anterior</a>' if k > 1 else "<span></span>"
+            next_l = f'<a href="{k + 1:02d}_01_empieza.html">Lección siguiente →</a>' if k < len(les) else "<span></span>"
+            body = b.replace('href="0', f'href="{k:02d}_0')
+            open(os.path.join(folder, name), "w").write(
+                f'<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+                f'<title>{html.escape(L["title"])} · {tt}</title><link rel="stylesheet" href="assets/fa.css">'
+                f'<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">'
+                f'<style>{css}</style></head><body><div class="w"><nav class="toc"><small>VISTA PREVIA · lección {k} de {len(les)}</small>'
+                f'<p style="font-weight:800;color:#061F40;margin:8px 0">{html.escape(L["title"])}</p>{toc}</nav>'
+                f'<div class="main"><div class="lista">{prev_l}{next_l}</div>{body}</div></div></body></html>')
+    open(os.path.join(folder, "ABRIR_AQUI.html"), "w").write('<meta http-equiv="refresh" content="0; url=01_01_empieza.html">')
+
+
 def paso_libros_ux3():
     """Un Libro de Moodle por lección (4 capítulos), nombre = la pregunta de la lección, y un manifiesto por módulo."""
     NOMB = CFG.get("nombres", {})  # nombres amables de cada parte: {"M1": {"titulo": …, "descripcion": …}}
@@ -111,7 +137,7 @@ def paso_libros_ux3():
         xml, n = B.glosario(text, ("Key words · " if EN else "Palabras clave · ") + mod)
         open(os.path.join(d, f"{mod}_glosario_Moodle.xml"), "w").write(tr(xml))
         open(os.path.join(d, f"{mod}_legible.md"), "w").write(tr(B.legible(text, mod)))
-        B.preview(prev, os.path.join(d, "vista_previa"))
+        vista_previa_ux3(les, os.path.join(d, "vista_previa"))
         nm = NOMB.get(mod, {})
         titulo = nm.get("titulo", MODS[mod]); desc = nm.get("descripcion", "")
         lo, hi = sum(L["min"][0] for L in les), sum(L["min"][1] for L in les)
