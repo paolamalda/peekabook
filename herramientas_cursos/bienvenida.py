@@ -285,8 +285,8 @@ def paginas(D, cfg):
           f'<div class="quote">{e(B.get("despedida", ""))}</div><div class="grid">'
           f'<div class="card rosa"><div class="ic"><i class="fa fa-share-alt"></i></div><b>{T("Compártelo", "Share it")}</b><span>{T("¿Conoces a alguien a quien le serviría? Cuéntale del programa; es sin costo para quien participa.", "Know someone who could use it? Tell them about the program; there is no cost to participants.")}</span></div>'
           f'<div class="card"><div class="ic"><i class="fa fa-envelope-o"></i></div><b>{T("Seguimos en contacto", "Let’s stay in touch")}</b><span>{T("El foro y los mensajes al equipo siguen abiertos", "The forum and team messages stay open")}{correo_txt}.</span></div>'
-          f'<div class="card rosa"><div class="ic"><i class="fa fa-star"></i></div><b>{T("Celebra", "Celebrate")}</b><span>{T("Comparte tu insignia o tu constancia si quieres. Te lo ganaste.", "Share your badge or certificate if you want. You earned it.")}</span></div></div>'
-          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Con cariño, todo el equipo del programa de bienestar financiero", "With care, the whole financial well-being program team")}</div>')
+          f'<div class="card rosa"><div class="ic"><i class="fa fa-star"></i></div><b>{T("Celebra", "Celebrate")}</b><span>{T("Comparte tu insignia o tu constancia si quieres: son el reconocimiento a tu esfuerzo y tu constancia.", "Share your badge or certificate if you want: they recognize your effort and persistence.")}</span></div></div>'
+          f'<div class="firma"><div class="marca">{LOGO}</div>{T("Reconocemos tu esfuerzo y tu constancia · Programa de bienestar financiero", "We recognize your effort and persistence · Financial well-being program")}</div>')
     cierre = [("01_cierre.html", T("Lo que lograste", "What you achieved"), c1),
               ("02_cierre.html", T("Tu plan sigue", "Your plan continues"), c2),
               ("03_cierre.html", T("Encuesta final y constancia", "Final survey and certificate"), c3),
