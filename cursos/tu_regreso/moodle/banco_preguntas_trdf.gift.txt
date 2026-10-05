@@ -1,0 +1,447 @@
+$CATEGORY: $course$/Tu Regreso v0.1/M1
+
+::M1 U01 P1::¿Qué papel te da el INM al regresarte? {
+	=La Constancia de Recepción de Mexicanos Repatriados #¡Correcto! Es tu identificación temporal.
+	~Tu credencial del INE nueva, lista para votar #No es la mejor opción. Es tu identificación temporal.
+	~Tu acta de nacimiento #No es la mejor opción. Es tu identificación temporal.
+}
+
+::M1 U01 P2::¿Cuál es la llave de casi todos los trámites? {
+	~La credencial del trabajo de EE. UU. #No es la mejor opción. Casi todo la pide.
+	=La CURP #¡Correcto! Casi todo la pide.
+	~El recibo de luz #No es la mejor opción. Casi todo la pide.
+}
+
+::M1 U01 P3::¿Cuánto cuesta imprimir tu CURP en gob.mx? {
+	~500 pesos #No es la mejor opción. Es sin costo.
+	~150 pesos #No es la mejor opción. Es sin costo.
+	=Nada #¡Correcto! Es sin costo.
+}
+
+::M1 U02 P1::¿Qué te piden para la INE? {
+	~Pasaporte vigente de EE. UU. #No es la mejor opción. Son los tres requisitos.
+	=Acta, identificación con foto y comprobante de domicilio #¡Correcto! Son los tres requisitos.
+	~Un aval con casa propia y su comprobante de domicilio #No es la mejor opción. Son los tres requisitos.
+}
+
+::M1 U02 P2::¿Cuánto cuesta sacar la credencial del INE? {
+	=Nada #¡Correcto! Es sin costo.
+	~300 pesos #No es la mejor opción. Es sin costo.
+	~Depende del estado #No es la mejor opción. Es sin costo.
+}
+
+::M1 U02 P3::No tienes recibos a tu nombre. ¿Qué haces? {
+	~Esperas a tener casa propia #No es la mejor opción. Hay opciones.
+	~Usas cualquier recibo de luz que encuentres en la calle, aunque no sea de tu casa #No es la mejor opción. Hay opciones.
+	=Preguntas si aceptan el de tu familiar, testigos o constancia de residencia #¡Correcto! Hay opciones.
+}
+
+::M1 U03 P1::Tu hijo nació en EE. UU. y tú eres mexicana. ¿Qué es tu hijo? {
+	~Solo estadounidense #No es la mejor opción. Se inscribe su nacimiento.
+	=También mexicano, si inscribes su nacimiento #¡Correcto! Se inscribe su nacimiento.
+	~Extranjero hasta que cumpla 18 años y decida #No es la mejor opción. Se inscribe su nacimiento.
+}
+
+::M1 U03 P2::¿Qué haces antes de pagar apostilla o traducción? {
+	=Preguntas si tu estado la pide #¡Correcto! No todos la piden.
+	~Pagas la apostilla y la traducción más caras para ir seguro #No es la mejor opción. No todos la piden.
+	~Nada, no hace falta registrar #No es la mejor opción. No todos la piden.
+}
+
+::M1 U03 P3::La escuela pide CURP y está en trámite. ¿Qué haces? {
+	~Esperas al próximo ciclo #No es la mejor opción. La escuela no debe esperar.
+	~Lo inscribes el próximo año, cuando ya tenga su CURP #No es la mejor opción. La escuela no debe esperar.
+	=Pides inscripción mientras se regulariza #¡Correcto! La escuela no debe esperar.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M2
+
+::M2 U01 P1::¿Qué es la Tarjeta Bienestar Paisano? {
+	=Un apoyo único de 2,000 pesos #¡Correcto! Es una sola vez.
+	~Una pensión que llega cada mes a tu cuenta #No es la mejor opción. Es una sola vez.
+	~Un crédito #No es la mejor opción. Es una sola vez.
+}
+
+::M2 U01 P2::¿Qué tarjeta te sirve para recibir dinero de EE. UU.? {
+	~Ninguna #No es la mejor opción. Es una cuenta.
+	=La FINABIEN Paisano #¡Correcto! Es una cuenta.
+	~La tarjeta de una tienda departamental #No es la mejor opción. Es una cuenta.
+}
+
+::M2 U01 P3::Te piden el NIP «para activar». ¿Qué es? {
+	~Un trámite normal #No es la mejor opción. Nadie pide el NIP.
+	~Un requisito del banco #No es la mejor opción. Nadie pide el NIP.
+	=Un fraude #¡Correcto! Nadie pide el NIP.
+}
+
+::M2 U02 P1::¿Cuál cuenta pides para no pagar comisiones? {
+	~La tarjeta dorada #No es la mejor opción. Sin comisiones.
+	=La cuenta básica #¡Correcto! Sin comisiones.
+	~La de inversión #No es la mejor opción. Sin comisiones.
+}
+
+::M2 U02 P2::Te ofrecen 4% al mes. ¿Qué haces primero? {
+	=Revisas la institución en CONDUSEF #¡Correcto! Verifica primero.
+	~Depositas todo, porque 4% al mes es buen rendimiento #No es la mejor opción. Verifica primero.
+	~Invitas a tu familia #No es la mejor opción. Verifica primero.
+}
+
+::M2 U02 P3::¿Dónde vienen las comisiones? {
+	~En el anuncio #No es la mejor opción. La carátula las resume.
+	~En lo que te dice en voz el ejecutivo de la ventanilla #No es la mejor opción. La carátula las resume.
+	=En la carátula del contrato #¡Correcto! La carátula las resume.
+}
+
+::M2 U03 P1::¿Qué das para que te paguen? {
+	~Tu NIP #No es la mejor opción. Solo la CLABE.
+	=Tu CLABE #¡Correcto! Solo la CLABE.
+	~Tu contraseña de la app #No es la mejor opción. Solo la CLABE.
+}
+
+::M2 U03 P2::¿Qué pides al reclamar en el banco? {
+	=Un folio #¡Correcto! Es tu prueba.
+	~Un descuento #No es la mejor opción. Es tu prueba.
+	~Nada #No es la mejor opción. Es tu prueba.
+}
+
+::M2 U03 P3::El banco no te resuelve. ¿A dónde vas? {
+	~A la policía de tránsito #No es la mejor opción. Defiende a usuarios.
+	~A otro banco #No es la mejor opción. Defiende a usuarios.
+	=A CONDUSEF #¡Correcto! Defiende a usuarios.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M3
+
+::M3 U01 P1::Tenías buen crédito en Texas. ¿Cómo apareces en México? {
+	=Sin historial #¡Correcto! Empiezas de cero.
+	~Con el mismo puntaje #No es la mejor opción. Empiezas de cero.
+	~Con mal crédito #No es la mejor opción. Empiezas de cero.
+}
+
+::M3 U01 P2::¿Cuántas veces al año es sin costo tu reporte especial? {
+	~Ninguna #No es la mejor opción. Una vez cada 12 meses.
+	=Una #¡Correcto! Una vez cada 12 meses.
+	~Cada mes #No es la mejor opción. Una vez cada 12 meses.
+}
+
+::M3 U01 P3::Aparece un crédito que no pediste. ¿Qué haces? {
+	~Lo pagas para no tener problemas #No es la mejor opción. Reclamas.
+	=Presentas una reclamación #¡Correcto! Reclamas.
+	~Nada #No es la mejor opción. Reclamas.
+}
+
+::M3 U02 P1::¿Qué construye mejor tu historial? {
+	~Muchas tarjetas abiertas al mismo tiempo #No es la mejor opción. Chico y a tiempo.
+	=Un crédito chico pagado a tiempo #¡Correcto! Chico y a tiempo.
+	~Pagar el mínimo #No es la mejor opción. Chico y a tiempo.
+}
+
+::M3 U02 P2::Tu límite es 6,000. ¿Cuánto conviene usar como máximo? {
+	=2,000 #¡Correcto! Un tercio.
+	~6,000 #No es la mejor opción. Un tercio.
+	~4,500 #No es la mejor opción. Un tercio.
+}
+
+::M3 U02 P3::¿Qué indicador compara el costo de dos créditos? {
+	~El color de la tarjeta #No es la mejor opción. Junta intereses y comisiones.
+	~El pago mínimo #No es la mejor opción. Junta intereses y comisiones.
+	=El CAT #¡Correcto! Junta intereses y comisiones.
+}
+
+::M3 U03 P1::Te prestan 3,000 y pagas 4,500 en dos semanas. ¿Cuánto te cuesta? {
+	~4,500 #No es la mejor opción. 4,500 menos 3,000.
+	=1,500 #¡Correcto! 4,500 menos 3,000.
+	~Nada #No es la mejor opción. 4,500 menos 3,000.
+}
+
+::M3 U03 P2::Una app pide tus contactos. ¿Qué haces? {
+	=Lo niegas y no la usas #¡Correcto! Es para presionarte.
+	~Lo aceptas #No es la mejor opción. Es para presionarte.
+	~Le das los de tu familia #No es la mejor opción. Es para presionarte.
+}
+
+::M3 U03 P3::¿Qué debe decirte cualquier préstamo antes de firmar? {
+	~Solo el pago semanal #No es la mejor opción. El total.
+	~El nombre y el teléfono del cobrador #No es la mejor opción. El total.
+	=Cuánto pagarás en total #¡Correcto! El total.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M4
+
+::M4 U01 P1::Te deben una semana de sueldo en EE. UU. ¿Qué haces? {
+	=Lo pides por depósito o cheque #¡Correcto! Es tuyo.
+	~Lo das por perdido #No es la mejor opción. Es tuyo.
+	~Le das tu contraseña a un gestor #No es la mejor opción. Es tuyo.
+}
+
+::M4 U01 P2::¿Qué puede pasar con una cuenta olvidada? {
+	~Nada, nunca cambia #No es la mejor opción. Propiedad no reclamada.
+	=Cobra comisiones y pasa al estado #¡Correcto! Propiedad no reclamada.
+	~Te la cierran y te mandan el doble #No es la mejor opción. Propiedad no reclamada.
+}
+
+::M4 U01 P3::¿Quién puede orientarte si el patrón no paga? {
+	~Un gestor de la plaza que conoce a los patrones #No es la mejor opción. El consulado orienta.
+	=El consulado de México #¡Correcto! El consulado orienta.
+	~Nadie #No es la mejor opción. El consulado orienta.
+}
+
+::M4 U02 P1::¿Qué forma te da el patrón con lo que ganaste y te retuvieron? {
+	=La W-2 #¡Correcto! La W-2.
+	~La CURP #No es la mejor opción. La W-2.
+	~El recibo de renta #No es la mejor opción. La W-2.
+}
+
+::M4 U02 P2::¿El IRS deposita en una cuenta de México? {
+	~Sí, siempre #No es la mejor opción. Cheque por correo.
+	~Solo en una cuenta FINABIEN Paisano #No es la mejor opción. Cheque por correo.
+	=No; manda un cheque por correo #¡Correcto! Cheque por correo.
+}
+
+::M4 U02 P3::¿Generalmente cuánto tiempo tienes para reclamar un reembolso? {
+	~Un mes #No es la mejor opción. Unos tres años.
+	=Unos tres años #¡Correcto! Unos tres años.
+	~Para siempre, no hay fecha límite #No es la mejor opción. Unos tres años.
+}
+
+::M4 U03 P1::Tu 401(k) es de… {
+	~Tu patrón #No es la mejor opción. Es tuyo.
+	=Ti #¡Correcto! Es tuyo.
+	~El gobierno de EE. UU. #No es la mejor opción. Es tuyo.
+}
+
+::M4 U03 P2::Retiras tu 401(k) a los 35 años. ¿Qué pasa normalmente? {
+	~Te dan un bono por sacarlo antes de tiempo #No es la mejor opción. Antes de 59 y medio.
+	~Nada #No es la mejor opción. Antes de 59 y medio.
+	=Pagas penalización y retención #¡Correcto! Antes de 59 y medio.
+}
+
+::M4 U03 P3::¿Cuántos créditos suelen pedirse para una pensión del Seguro Social de EE. UU.? {
+	=40 #¡Correcto! Unos 10 años.
+	~4 #No es la mejor opción. Unos 10 años.
+	~400 #No es la mejor opción. Unos 10 años.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M5
+
+::M5 U01 P1::Trabajaste en México con IMSS en 2005. ¿Tienes Afore? {
+	=Probablemente sí #¡Correcto! Si cotizaste, la tienes.
+	~No, se borró #No es la mejor opción. Si cotizaste, la tienes.
+	~Solo si vives en México desde entonces #No es la mejor opción. Si cotizaste, la tienes.
+}
+
+::M5 U01 P2::¿Con qué localizas tu Afore? {
+	~Con tu licencia de EE. UU. #No es la mejor opción. Con la CURP.
+	=Con tu CURP #¡Correcto! Con la CURP.
+	~Con tu recibo de luz #No es la mejor opción. Con la CURP.
+}
+
+::M5 U01 P3::¿Qué son los beneficiarios? {
+	=Los que recibirían tu ahorro si faltas #¡Correcto! Quienes la reciben.
+	~Los dueños y directivos de la Afore #No es la mejor opción. Quienes la reciben.
+	~Tus jefes #No es la mejor opción. Quienes la reciben.
+}
+
+::M5 U02 P1::Empezaste a cotizar en 1990. ¿Qué ley te toca? {
+	~Ley 97 #No es la mejor opción. Antes de julio de 1997.
+	=Ley 73 #¡Correcto! Antes de julio de 1997.
+	~Ninguna #No es la mejor opción. Antes de julio de 1997.
+}
+
+::M5 U02 P2::¿Cuántas semanas pide la Ley 97 en 2026? {
+	~500 #No es la mejor opción. 875.
+	~1,250 #No es la mejor opción. 875.
+	=875 #¡Correcto! 875.
+}
+
+::M5 U02 P3::¿Cuántas semanas suma un año completo de trabajo formal? {
+	=Unas 52 #¡Correcto! Unas 52.
+	~12 #No es la mejor opción. Unas 52.
+	~365, una por cada día del año #No es la mejor opción. Unas 52.
+}
+
+::M5 U03 P1::¿Dónde puedes aportar a tu Afore? {
+	~Solo en el banco donde te depositaba el patrón #No es la mejor opción. Tienes tres formas.
+	=En tienda, app o domiciliado #¡Correcto! Tienes tres formas.
+	~Solo al jubilarte #No es la mejor opción. Tienes tres formas.
+}
+
+::M5 U03 P2::Ahorras 100 pesos por semana en tu Afore. ¿Cuánto en un año? {
+	~1,200 #No es la mejor opción. 52 semanas por 100.
+	=5,200 #¡Correcto! 52 semanas por 100.
+	~520 #No es la mejor opción. 52 semanas por 100.
+}
+
+::M5 U03 P3::¿Qué te da afiliarte al IMSS como independiente? {
+	~Un préstamo #No es la mejor opción. Servicio médico y semanas.
+	~Una tarjeta de crédito con límite según tu cuota #No es la mejor opción. Servicio médico y semanas.
+	=Servicio médico y semanas #¡Correcto! Servicio médico y semanas.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M6
+
+::M6 U01 P1::¿Para cuánto tiempo planeas al regresar? {
+	~Una semana #No es la mejor opción. Los primeros meses.
+	=90 días #¡Correcto! Los primeros meses.
+	~Un día #No es la mejor opción. Los primeros meses.
+}
+
+::M6 U01 P2::Te prometen trabajo «en un mes». ¿Lo cuentas? {
+	~Sí, todo #No es la mejor opción. Solo lo seguro.
+	~La mitad, por si acaso sí te contratan #No es la mejor opción. Solo lo seguro.
+	=No, hasta que sea seguro #¡Correcto! Solo lo seguro.
+}
+
+::M6 U01 P3::¿Cómo haces tus cuentas? {
+	=En pesos con precios de aquí #¡Correcto! En pesos.
+	~En dólares #No es la mejor opción. En pesos.
+	~Con los precios de allá, para comparar mejor #No es la mejor opción. En pesos.
+}
+
+::M6 U02 P1::Te piden prestado al llegar. ¿Qué te ayuda? {
+	~Prestar todo #No es la mejor opción. Corta y amable.
+	=Una respuesta corta y amable #¡Correcto! Corta y amable.
+	~Pedir prestado para poder prestar a tu familia #No es la mejor opción. Corta y amable.
+}
+
+::M6 U02 P2::¿Cuándo decides cuánto ayudar? {
+	=Antes, según tus 90 días #¡Correcto! Antes.
+	~Cuando te lo pidan, según lo que necesite cada quien #No es la mejor opción. Antes.
+	~Nunca #No es la mejor opción. Antes.
+}
+
+::M6 U02 P3::Si ayudas con dinero, conviene darlo como… {
+	~Préstamo con intereses #No es la mejor opción. Sin esperar cobrarlo.
+	~Adelanto #No es la mejor opción. Sin esperar cobrarlo.
+	=Regalo que puedes dar #¡Correcto! Sin esperar cobrarlo.
+}
+
+::M6 U03 P1::Se acabó la remesa. ¿Qué hacen primero? {
+	=Un presupuesto nuevo con lo que entra hoy #¡Correcto! Con números reales.
+	~Piden un préstamo para seguir gastando como antes #No es la mejor opción. Con números reales.
+	~Siguen igual #No es la mejor opción. Con números reales.
+}
+
+::M6 U03 P2::¿Qué gasto se protege? {
+	~El cable #No es la mejor opción. Es básico.
+	=La escuela #¡Correcto! Es básico.
+	~El celular caro #No es la mejor opción. Es básico.
+}
+
+::M6 U03 P3::¿Qué más pueden revisar? {
+	~Nada #No es la mejor opción. Puede haber apoyos.
+	~Las apuestas en línea para recuperar lo de la remesa #No es la mejor opción. Puede haber apoyos.
+	=Apoyos o becas a los que tengan derecho #¡Correcto! Puede haber apoyos.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M7
+
+::M7 U01 P1::¿Cómo presentas tu experiencia? {
+	~«Le hago a todo» #No es la mejor opción. Concreto.
+	=Oficio, años y pruebas #¡Correcto! Concreto.
+	~Solo tu nombre y el país donde trabajaste #No es la mejor opción. Concreto.
+}
+
+::M7 U01 P2::¿Quién tiene bolsa de trabajo para repatriados? {
+	=El Servicio Nacional de Empleo #¡Correcto! SNE.
+	~Un gestor #No es la mejor opción. SNE.
+	~Nadie #No es la mejor opción. SNE.
+}
+
+::M7 U01 P3::Hablas inglés. ¿Qué haces? {
+	~Lo escondes #No es la mejor opción. Es muy buscado.
+	~Lo dices solo si preguntan #No es la mejor opción. Es muy buscado.
+	=Lo pones primero #¡Correcto! Es muy buscado.
+}
+
+::M7 U02 P1::¿Qué NO te da un empleo informal? {
+	~Sueldo #No es la mejor opción. No hay prestaciones.
+	=IMSS y Afore #¡Correcto! No hay prestaciones.
+	~Un pago por las horas que trabajas #No es la mejor opción. No hay prestaciones.
+}
+
+::M7 U02 P2::Ganas 300 pesos diarios. ¿Cuál es tu aguinaldo mínimo? {
+	=4,500 #¡Correcto! 15 días.
+	~300 #No es la mejor opción. 15 días.
+	~9,000 #No es la mejor opción. 15 días.
+}
+
+::M7 U02 P3::¿Desde cuándo deben darte de alta en el IMSS? {
+	=Desde el primer día #¡Correcto! Desde el inicio.
+	~A los tres meses, cuando pases el periodo de prueba #No es la mejor opción. Desde el inicio.
+	~Al año #No es la mejor opción. Desde el inicio.
+}
+
+::M7 U03 P1::¿Qué haces antes de invertir tu ahorro en un negocio? {
+	=Lo pruebas en pequeño #¡Correcto! Prueba primero.
+	~Pides un préstamo #No es la mejor opción. Prueba primero.
+	~Rentas el local más grande #No es la mejor opción. Prueba primero.
+}
+
+::M7 U03 P2::Un producto te cuesta 25 y lo vendes en 40. ¿Cuánto te queda por pieza? {
+	~65 #No es la mejor opción. 40 menos 25.
+	=15 #¡Correcto! 40 menos 25.
+	~40 #No es la mejor opción. 40 menos 25.
+}
+
+::M7 U03 P3::¿Por qué separar el dinero del negocio? {
+	~Por gusto #No es la mejor opción. Para ver si ganas.
+	~Porque la ley lo pide a todo negocio, aunque sea chico #No es la mejor opción. Para ver si ganas.
+	=Para saber si ganas o pierdes #¡Correcto! Para ver si ganas.
+}
+
+$CATEGORY: $course$/Tu Regreso v0.1/M8
+
+::M8 U01 P1::Te cobran por tramitar tu INE. ¿Qué es? {
+	=Un gestor falso #¡Correcto! Es sin costo.
+	~Lo normal #No es la mejor opción. Es sin costo.
+	~Un trámite exprés legal #No es la mejor opción. Es sin costo.
+}
+
+::M8 U01 P2::¿Dónde verificas si alguien es de gobierno? {
+	~En su chaleco #No es la mejor opción. Pregunta dentro.
+	=Dentro de la oficina #¡Correcto! Pregunta dentro.
+	~En su tarjeta de presentación #No es la mejor opción. Pregunta dentro.
+}
+
+::M8 U01 P3::¿Qué dejas para un trámite? {
+	~Tus originales #No es la mejor opción. Copias.
+	~Tu NIP #No es la mejor opción. Copias.
+	=Copias, y muestras el original #¡Correcto! Copias.
+}
+
+::M8 U02 P1::Te llaman\: tu familiar está detenido y piden dinero ya. ¿Qué haces? {
+	=Cuelgas y llamas tú a tu familiar #¡Correcto! Verifica tú.
+	~Depositas #No es la mejor opción. Verifica tú.
+	~Das tus datos #No es la mejor opción. Verifica tú.
+}
+
+::M8 U02 P2::Un empleo te pide pagar el uniforme antes de empezar. ¿Qué es? {
+	~Normal #No es la mejor opción. No se paga por trabajar.
+	~Una prestación que da el patrón para empezar #No es la mejor opción. No se paga por trabajar.
+	=Una señal de fraude #¡Correcto! No se paga por trabajar.
+}
+
+::M8 U02 P3::¿A qué número denuncias de forma anónima? {
+	~911 solo #No es la mejor opción. 089.
+	=089 #¡Correcto! 089.
+	~Al número que te llamó #No es la mejor opción. 089.
+}
+
+::M8 U03 P1::¿Qué lleva cada parte de tu plan? {
+	~Solo lo que ya hiciste #No es la mejor opción. Acción y fecha.
+	=La siguiente acción y una fecha #¡Correcto! Acción y fecha.
+	~Un dibujo de cómo te ves en un año #No es la mejor opción. Acción y fecha.
+}
+
+::M8 U03 P2::¿Cada cuándo revisas tu plan? {
+	=Cada mes #¡Correcto! Cada mes.
+	~Cada cinco años #No es la mejor opción. Cada mes.
+	~Nunca #No es la mejor opción. Cada mes.
+}
+
+::M8 U03 P3::¿Cuál de estas es una parte del plan? {
+	~Tus redes sociales #No es la mejor opción. Papeles.
+	=Tus papeles #¡Correcto! Papeles.
+	~Tus vacaciones #No es la mejor opción. Papeles.
+}

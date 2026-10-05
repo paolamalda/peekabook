@@ -1,0 +1,86 @@
+$CATEGORY: $course$/Tu Comunidad/Diagnóstica
+
+::DIAG 1::¿Cuánto cuesta registrarte a un Programa para el Bienestar? {
+	=Nada
+	~200 pesos
+	~Una parte del primer pago
+}
+
+::DIAG 2::Te cobran para no darte de baja de un apoyo. ¿Qué es? {
+	=Un abuso que se puede reportar
+	~Una regla del programa
+	~Una cooperación normal para la comunidad
+}
+
+::DIAG 3::¿Por qué una cuenta a tu nombre? {
+	=Para que decidas tú sobre tu dinero
+	~Para que otra persona de la familia la administre
+	~Porque lo pide la escuela
+}
+
+::DIAG 4::¿Qué llevas para abrir una cuenta básica? {
+	~Escrituras
+	=INE y CURP
+	~Un aval
+}
+
+::DIAG 5::¿Cuál es la forma más segura de recibir dinero? {
+	~Con un conocido
+	=Directo a tu cuenta
+	~En un sobre por paquetería
+}
+
+::DIAG 6::¿Cuál es la forma más segura de mandar dinero? {
+	~En un sobre con el chofer
+	=Depósito a la tarjeta de tu familiar
+	~Con un vecino que va para allá cada semana
+}
+
+::DIAG 7::¿Cuándo se acuerda qué pasa si alguien no paga? {
+	=Antes de empezar
+	~Cuando ya pasó, según el caso
+	~Nunca
+}
+
+::DIAG 8::¿Dónde es más seguro el dinero del grupo? {
+	~En la casa de la tesorera
+	=En una cuenta con dos firmas
+	~Enterrado en el patio, donde nadie lo encuentre
+}
+
+::DIAG 9::Te piden los números de tu tarjeta por teléfono. ¿Qué haces? {
+	=Cuelgas
+	~Los das
+	~Das solo la mitad
+}
+
+::DIAG 10::Una app pide tus contactos. ¿Qué haces? {
+	=No la instalas
+	~Aceptas
+	~Das solo algunos
+}
+
+::DIAG 11::¿Qué es la lista de sucesión? {
+	=La lista de quién hereda tus derechos ejidales
+	~Una lista de compras para la siembra
+	~La lista de la asamblea
+}
+
+::DIAG 12::¿Dónde pones los beneficiarios de tu cuenta? {
+	=En el banco
+	~En el RAN
+	~En la asamblea
+}
+
+::DIAG 13::¿Cuál NO es una forma de prepararse? {
+	~Ahorro propio
+	=Pedir prestado cuando pase
+	~Un seguro funerario
+}
+
+::DIAG 14::Un vendedor da recibos a mano. ¿Qué haces? {
+	=Verificas la aseguradora en CONDUSEF
+	~Pagas
+	~Pagas dos meses para ver si es cierto
+}
+

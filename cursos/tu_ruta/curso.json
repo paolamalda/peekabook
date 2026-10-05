@@ -9,7 +9,10 @@
  "formato": "En línea, a su ritmo, en lecciones de 5 a 10 minutos (unas 3 horas en total).",
  "categoria": "Tu Ruta",
  "banco": "banco_preguntas_trta.gift.txt",
- "min_leccion": [5, 10],
+ "min_leccion": [
+  5,
+  10
+ ],
  "personajes": {
   "Beto": "28 años. Reparte en moto propia en Guadalajara con dos aplicaciones.",
   "Mariana": "33 años. Conduce su auto en la Ciudad de México; es mamá de una niña.",
@@ -37,19 +40,72 @@
   "M8": "Tu ahorro para el retiro y tu plan de una página."
  },
  "insignias": [
-  ["01_ganancia_real", "M1", "Ganancia real", "fa-calculator"],
-  ["02_conozco_mis_derechos", "M2", "Conozco mis derechos", "fa-balance-scale"],
-  ["03_asegurado", "M3", "Asegurado", "fa-hospital-o"],
-  ["04_cuentas_claras", "M4", "Cuentas claras con el SAT", "fa-file-text-o"],
-  ["05_vehiculo_en_orden", "M5", "Vehículo en orden", "fa-motorcycle"],
-  ["06_ruta_segura", "M6 · M7", "Ruta segura", "fa-shield"],
-  ["07_futuro_en_marcha", "M8", "Futuro en marcha", "fa-road"],
-  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+  [
+   "01_ganancia_real",
+   "M1",
+   "Ganancia real",
+   "fa-calculator"
+  ],
+  [
+   "02_conozco_mis_derechos",
+   "M2",
+   "Conozco mis derechos",
+   "fa-balance-scale"
+  ],
+  [
+   "03_asegurado",
+   "M3",
+   "Asegurado",
+   "fa-hospital-o"
+  ],
+  [
+   "04_cuentas_claras",
+   "M4",
+   "Cuentas claras con el SAT",
+   "fa-file-text-o"
+  ],
+  [
+   "05_vehiculo_en_orden",
+   "M5",
+   "Vehículo en orden",
+   "fa-motorcycle"
+  ],
+  [
+   "06_ruta_segura",
+   "M6 · M7",
+   "Ruta segura",
+   "fa-shield"
+  ],
+  [
+   "07_futuro_en_marcha",
+   "M8",
+   "Futuro en marcha",
+   "fa-road"
+  ],
+  [
+   "08_plan_completo",
+   "Curso",
+   "Plan completo",
+   "fa-trophy"
+  ]
  ],
  "constancia": {
   "titulo": "Tu Ruta, Tu Dinero, Tu Futuro",
   "linea": "por concluir el programa de bienestar financiero Tu Ruta, Tu Dinero, Tu Futuro",
-  "temas": ["Ingreso real", "Derechos e IMSS", "Impuestos", "Vehículo y accidentes", "Futuro"]
+  "temas": [
+   "Ingreso real",
+   "Derechos e IMSS",
+   "Impuestos",
+   "Vehículo y accidentes",
+   "Futuro"
+  ],
+  "mods": [
+   "Ingreso real",
+   "Derechos e IMSS",
+   "Impuestos",
+   "Vehículo y accidentes",
+   "Futuro"
+  ]
  },
  "problema": [
   "Ven lo que entra en la app, pero no lo que se va en gasolina, mantenimiento, comisiones y celular.",
@@ -64,13 +120,207 @@
   "**Pensado para el celular y entre viajes:** cada lección se puede tomar en un descanso."
  ],
  "datos": [
-  ["Reforma de plataformas digitales a la Ley Federal del Trabajo", "Publicada el 24 de diciembre de 2024; vigente desde el 22 de junio de 2025", "DOF; STPS"],
-  ["Ingreso neto para ser persona trabajadora de plataforma con IMSS completo", "Al menos un salario mínimo mensual: 9,582.47 pesos en 2026", "STPS e IMSS"],
-  ["Porcentaje que se descuenta del ingreso bruto para calcular el neto", "Auto 48%, moto 32%, bici o a pie 3%", "STPS, diciembre de 2025"],
-  ["Ingreso bruto mensual equivalente", "Auto 18,427.83; moto 14,092.46; bici 9,878.83 pesos", "STPS e IMSS, 2026"],
-  ["Quien no llega al umbral", "Conserva la cobertura por riesgos de trabajo mientras está conectado", "IMSS"],
-  ["Reparto de utilidades", "Para quienes son personas trabajadoras de plataforma y trabajan más de 288 horas al año", "LFT, reforma de plataformas"],
-  ["Retención de impuestos por plataforma (transporte y entrega)", "ISR 2.1% e IVA 8% con RFC; sin RFC, ISR 20% e IVA 16%", "SAT, Ley de Ingresos 2026"],
-  ["Personas en el plan piloto del IMSS", "912 mil (julio a diciembre de 2025)", "IMSS"]
- ]
+  [
+   "Reforma de plataformas digitales a la Ley Federal del Trabajo",
+   "Publicada el 24 de diciembre de 2024; vigente desde el 22 de junio de 2025",
+   "DOF; STPS"
+  ],
+  [
+   "Ingreso neto para ser persona trabajadora de plataforma con IMSS completo",
+   "Al menos un salario mínimo mensual: 9,582.47 pesos en 2026",
+   "STPS e IMSS"
+  ],
+  [
+   "Porcentaje que se descuenta del ingreso bruto para calcular el neto",
+   "Auto 48%, moto 32%, bici o a pie 3%",
+   "STPS, diciembre de 2025"
+  ],
+  [
+   "Ingreso bruto mensual equivalente",
+   "Auto 18,427.83; moto 14,092.46; bici 9,878.83 pesos",
+   "STPS e IMSS, 2026"
+  ],
+  [
+   "Quien no llega al umbral",
+   "Conserva la cobertura por riesgos de trabajo mientras está conectado",
+   "IMSS"
+  ],
+  [
+   "Reparto de utilidades",
+   "Para quienes son personas trabajadoras de plataforma y trabajan más de 288 horas al año",
+   "LFT, reforma de plataformas"
+  ],
+  [
+   "Retención de impuestos por plataforma (transporte y entrega)",
+   "ISR 2.1% e IVA 8% con RFC; sin RFC, ISR 20% e IVA 16%",
+   "SAT, Ley de Ingresos 2026"
+  ],
+  [
+   "Personas en el plan piloto del IMSS",
+   "912 mil (julio a diciembre de 2025)",
+   "IMSS"
+  ]
+ ],
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu ingreso real",
+   "descripcion": "Tu ganancia real por hora y un sueldo fijo para las semanas malas."
+  },
+  "M2": {
+   "titulo": "Tus derechos con la reforma",
+   "descripcion": "Tus derechos claros: quién es persona trabajadora de plataforma, prestaciones y cómo reclamar."
+  },
+  "M3": {
+   "titulo": "Tu IMSS, tu Afore y tu Infonavit",
+   "descripcion": "Tu situación ante el IMSS revisada y tu Afore localizada."
+  },
+  "M4": {
+   "titulo": "Tus impuestos",
+   "descripcion": "Tus retenciones entendidas y tu RFC en orden."
+  },
+  "M5": {
+   "titulo": "Tu vehículo",
+   "descripcion": "Tu apartado para el vehículo y tu decisión sobre seguro y compra."
+  },
+  "M6": {
+   "titulo": "Accidentes, salud y días sin trabajo",
+   "descripcion": "Tu plan ante un accidente y tu fondo para días sin trabajo."
+  },
+  "M7": {
+   "titulo": "Préstamos y fraudes en la ruta",
+   "descripcion": "Tu regla contra préstamos caros y fraudes de cuentas."
+  },
+  "M8": {
+   "titulo": "Tu futuro",
+   "descripcion": "Tu ahorro para el retiro y tu plan de una página."
+  }
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, cuánto toma cada lección, los personajes, las insignias y la constancia.",
+  "02": "Casos que reúnen lo aprendido en varios módulos. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "instalacion": {
+  "nombre_corto": "TRTA-MX",
+  "readme": "README_INSTALAR_TU_RUTA_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas números de cuenta, NIP, contraseñas, tu CURP, documentos ni montos reales de tus deudas.",
+  "niveles": [
+   [
+    "Empiezo",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Me organizo",
+    100,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Avanzo",
+    200,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Me protejo",
+    350,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Planeo",
+    450,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Lo logré",
+    550,
+    "Durante el Módulo 8"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluación del Módulo 1 completada (aprobada)",
+    "Tu ganancia real por hora y un sueldo fijo para las semanas malas."
+   ],
+   [
+    "Autoevaluación del Módulo 2 completada (aprobada)",
+    "Tus derechos claros: quién es persona trabajadora de plataforma, prestaciones y cómo reclamar."
+   ],
+   [
+    "Autoevaluación del Módulo 3 completada (aprobada)",
+    "Tu situación ante el IMSS revisada y tu Afore localizada."
+   ],
+   [
+    "Autoevaluación del Módulo 4 completada (aprobada)",
+    "Tus retenciones entendidas y tu RFC en orden."
+   ],
+   [
+    "Autoevaluación del Módulo 5 completada (aprobada)",
+    "Tu apartado para el vehículo y tu decisión sobre seguro y compra."
+   ],
+   [
+    "Autoevaluaciones de los módulos 6 y 7",
+    "Tu plan ante un accidente y tu fondo para días sin trabajo. Tu regla contra préstamos caros y fraudes de cuentas."
+   ],
+   [
+    "Autoevaluación del Módulo 8 completada (aprobada)",
+    "Tu ahorro para el retiro y tu plan de una página."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los 8 módulos del programa."
+   ]
+  ]
+ },
+ "carpeta": {
+  "nombre": "Tu_Ruta_Tu_Dinero_Tu_Futuro_ES",
+  "zip": "Tu_Ruta_v0.1",
+  "manual": "Manual_del_programa_TRTA_v0.1",
+  "contenido": "Contenido_completo_TRTA_v0.1",
+  "guia": "Guia_implementacion_TRTA_v0.1",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
+   "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, datos de la constancia, encuestas, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por especialistas en los temas del curso",
+   "Datos vigentes confirmados en los sitios oficiales",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_RUTA_PARA_CLAUDE.md",
+   "Level Up, insignias, constancia y encuestas configurados",
+   "Revisión con rol de estudiante"
+  ],
+  "notas": [
+   "El curso no recomienda instituciones ni productos: enseña a verificar (SIPRES de la CONDUSEF).",
+   "No se piden datos personales: ni cuentas, ni NIP, ni contraseñas, ni CURP, ni montos reales.",
+   "No se recomiendan aplicaciones, aseguradoras ni financieras: se enseña a comparar y verificar.",
+   "Pensado para el celular y entre viajes: cada lección se puede tomar en un descanso."
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Tu ingreso real, tus derechos con la reforma de plataformas, IMSS, impuestos, vehículo, accidentes y tu futuro.",
+   "Lecciones cortas para el celular, para tomar entre viajes."
+  ],
+  "para_quien": "Personas que reparten o conducen con aplicaciones en México, en bici, moto o auto, propio o rentado.",
+  "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos"
+  ],
+  "extra": {}
+ },
+ "hojas": [
+  "semana_apps",
+  "ingreso_variable"
+ ],
+ "objetivo_general": "calcular su ingreso real y su ganancia por hora, ejercer sus derechos como persona trabajadora de plataforma, usar el IMSS, la Afore y el Infonavit, cumplir con sus impuestos, cuidar y financiar su vehículo, prepararse para accidentes y días sin trabajo, evitar préstamos caros y robo de cuentas, y planear su futuro"
 }

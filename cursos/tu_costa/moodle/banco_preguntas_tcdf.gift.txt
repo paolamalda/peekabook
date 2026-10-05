@@ -1,0 +1,303 @@
+$CATEGORY: $course$/Tu Costa v0.1/M1
+
+::M1 U01 P1::¿Cuándo termina la temporada de huracanes en el Pacífico? {
+	=El 30 de noviembre #¡Correcto! 30 de noviembre.
+	~El 15 de mayo #No es la mejor opción. 30 de noviembre.
+	~En enero, con el año nuevo #No es la mejor opción. 30 de noviembre.
+}
+
+::M1 U01 P2::¿Cuándo preparas tu plan? {
+	~Cuando ya está el aviso de huracán #No es la mejor opción. Antes de la temporada.
+	~Después del huracán #No es la mejor opción. Antes de la temporada.
+	=Antes del 15 de mayo #¡Correcto! Antes de la temporada.
+}
+
+::M1 U01 P3::¿Por qué guardar un poco de efectivo? {
+	=Por si se va la luz y no hay cajeros #¡Correcto! Sin luz no hay cajeros.
+	~Porque el banco cierra en temporada #No es la mejor opción. Sin luz no hay cajeros.
+	~Para pagarle al comprador antes de que suba el precio #No es la mejor opción. Sin luz no hay cajeros.
+}
+
+::M1 U02 P1::Te cobran por registrarte a un apoyo después del huracán. ¿Qué es? {
+	~Normal #No es la mejor opción. Los registros oficiales no se cobran.
+	=Fraude #¡Correcto! Los registros oficiales no se cobran.
+	~Una cuota de recuperación oficial #No es la mejor opción. Los registros oficiales no se cobran.
+}
+
+::M1 U02 P2::¿Qué haces primero después del huracán? {
+	~Vendes tu lancha #No es la mejor opción. Familia primero.
+	~Firmas un préstamo de reconstrucción ese mismo día #No es la mejor opción. Familia primero.
+	=Cuidas a tu familia\: salud, agua y comida #¡Correcto! Familia primero.
+}
+
+::M1 U02 P3::Tienes un crédito y no podrás pagar. ¿Cuándo llamas? {
+	~Cuando te llamen a cobrar #No es la mejor opción. Antes.
+	=Antes de atrasarte #¡Correcto! Antes.
+	~Nunca #No es la mejor opción. Antes.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M2
+
+::M2 U01 P1::¿Dónde guardas tus originales? {
+	~En un cajón bajo de madera #No es la mejor opción. Protegidos del agua.
+	=En doble bolsa cerrada y en alto #¡Correcto! Protegidos del agua.
+	~En la lancha, que es donde pasas más tiempo #No es la mejor opción. Protegidos del agua.
+}
+
+::M2 U01 P2::¿A quién mandas las fotos de tus papeles? {
+	~A quien te las pida #No es la mejor opción. Solo confianza.
+	~Al grupo de la colonia, por si alguien las necesita #No es la mejor opción. Solo confianza.
+	=A un familiar de confianza #¡Correcto! Solo confianza.
+}
+
+::M2 U01 P3::¿Qué papel sirve para comprobar que tu lancha es tuya? {
+	~Tu credencial del INE con tu domicilio en la costa #No es la mejor opción. La factura.
+	=La factura de la lancha #¡Correcto! La factura.
+	~Un recibo de luz #No es la mejor opción. La factura.
+}
+
+::M2 U02 P1::¿Por dónde empiezas a reponer papeles? {
+	~Por las escrituras #No es la mejor opción. Abren lo demás.
+	=Por la CURP y el acta #¡Correcto! Abren lo demás.
+	~Por el pasaporte, que vale para todo #No es la mejor opción. Abren lo demás.
+}
+
+::M2 U02 P2::¿Dónde repones un certificado ejidal? {
+	~En el banco donde tienes tu cuenta #No es la mejor opción. RAN.
+	~En la tienda #No es la mejor opción. RAN.
+	=En el Registro Agrario Nacional #¡Correcto! RAN.
+}
+
+::M2 U02 P3::Te cobran 800 por reponer tu INE. ¿Qué haces? {
+	~Pagas #No es la mejor opción. Sin costo.
+	~Pagas la mitad ahora y la otra mitad al recibirla #No es la mejor opción. Sin costo.
+	=Lo haces tú\: es sin costo #¡Correcto! Sin costo.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M3
+
+::M3 U01 P1::¿Qué es un mes bajo? {
+	=Un mes en que entra menos de lo que gastas #¡Correcto! Entra menos.
+	~Un mes con muchas fiestas y compromisos en el pueblo #No es la mejor opción. Entra menos.
+	~Un mes de vacaciones de la escuela #No es la mejor opción. Entra menos.
+}
+
+::M3 U01 P2::¿Cuándo apartas dinero? {
+	~En los meses bajos #No es la mejor opción. Cuando sobra.
+	~Solo en diciembre, con el aguinaldo #No es la mejor opción. Cuando sobra.
+	=En los meses buenos #¡Correcto! Cuando sobra.
+}
+
+::M3 U01 P3::¿Qué marcas además del ingreso? {
+	=Los gastos fuertes #¡Correcto! Gastos fuertes.
+	~Los cumpleaños de los vecinos #No es la mejor opción. Gastos fuertes.
+	~Nada más #No es la mejor opción. Gastos fuertes.
+}
+
+::M3 U02 P1::Cobras 24,000 que deben durar 4 meses. ¿Cuánto usas por mes? {
+	~24,000 el primer mes #No es la mejor opción. 24,000 entre 4.
+	=6,000 #¡Correcto! 24,000 entre 4.
+	~4,000 #No es la mejor opción. 24,000 entre 4.
+}
+
+::M3 U02 P2::¿Qué haces primero al cobrar fuerte? {
+	~Pagas la fiesta #No es la mejor opción. Primero apartas.
+	~Compras lo que te faltaba desde la temporada pasada #No es la mejor opción. Primero apartas.
+	=Apartas lo de los meses bajos #¡Correcto! Primero apartas.
+}
+
+::M3 U02 P3::¿Qué necesita una tanda para ser más segura? {
+	~Mucha gente, aunque no la conozcas, para juntar más #No es la mejor opción. Reglas y confianza.
+	=Reglas claras y personas conocidas #¡Correcto! Reglas y confianza.
+	~Que nadie sepa el orden #No es la mejor opción. Reglas y confianza.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M4
+
+::M4 U01 P1::¿Cuál es un uso correcto del fondo? {
+	=Una reparación urgente #¡Correcto! Es emergencia.
+	~Una fiesta #No es la mejor opción. Es emergencia.
+	~Un celular nuevo porque hay oferta #No es la mejor opción. Es emergencia.
+}
+
+::M4 U01 P2::¿Dónde guardas tu fondo? {
+	~En la tarjeta de diario #No es la mejor opción. Aparte.
+	~Prestado a un vecino #No es la mejor opción. Aparte.
+	=En un apartado o cuenta aparte #¡Correcto! Aparte.
+}
+
+::M4 U01 P3::Usaste tu fondo. ¿Qué haces después? {
+	~Nada #No es la mejor opción. Lo llenas.
+	~Pides prestado para llenarlo de una vez #No es la mejor opción. Lo llenas.
+	=Vuelves a apartar poco a poco #¡Correcto! Lo llenas.
+}
+
+::M4 U02 P1::¿Qué preguntas primero a un seguro de casa en la costa? {
+	~El color de la póliza #No es la mejor opción. Lo que más te importa.
+	=Si cubre huracán e inundación #¡Correcto! Lo que más te importa.
+	~Si regalan algo al contratar este mes #No es la mejor opción. Lo que más te importa.
+}
+
+::M4 U02 P2::El daño es de 30,000 y el deducible de 3,000. ¿Cuánto pagaría el seguro? {
+	~3,000 #No es la mejor opción. 30,000 menos 3,000.
+	~30,000 #No es la mejor opción. 30,000 menos 3,000.
+	=27,000 #¡Correcto! 30,000 menos 3,000.
+}
+
+::M4 U02 P3::La aseguradora no te responde. ¿A dónde vas? {
+	~A otra aseguradora #No es la mejor opción. CONDUSEF.
+	=A CONDUSEF #¡Correcto! CONDUSEF.
+	~A ningún lado #No es la mejor opción. CONDUSEF.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M5
+
+::M5 U01 P1::Te adelantan dinero si les vendes más barato. ¿Qué es? {
+	~Un regalo #No es la mejor opción. Se paga con producto.
+	=Un préstamo #¡Correcto! Se paga con producto.
+	~Un apoyo de gobierno #No es la mejor opción. Se paga con producto.
+}
+
+::M5 U01 P2::Vendes 400 kilos a 15 pesos menos. ¿Cuánto dejas de ganar? {
+	~4,000 #No es la mejor opción. 15 por 400.
+	~415 #No es la mejor opción. 15 por 400.
+	=6,000 #¡Correcto! 15 por 400.
+}
+
+::M5 U01 P3::Tienes la mitad ahorrada. ¿Qué pides? {
+	~Todo el adelanto por si acaso #No es la mejor opción. Solo lo que falta.
+	=Solo lo que te falta #¡Correcto! Solo lo que falta.
+	~El doble para guardar #No es la mejor opción. Solo lo que falta.
+}
+
+::M5 U02 P1::Pagas 900 por semana durante 25 semanas. ¿Cuánto pagas en total? {
+	=22,500 #¡Correcto! 900 por 25.
+	~900 #No es la mejor opción. 900 por 25.
+	~25,900 #No es la mejor opción. 900 por 25.
+}
+
+::M5 U02 P2::¿Qué indicador compara el costo de dos créditos? {
+	~El nombre del asesor #No es la mejor opción. CAT.
+	~El color del anuncio #No es la mejor opción. CAT.
+	=El CAT #¡Correcto! CAT.
+}
+
+::M5 U02 P3::Tus pagos caerían en tus meses bajos. ¿Qué haces? {
+	~Firmas igual #No es la mejor opción. Ajusta o espera.
+	=Pides pagos ajustados o esperas #¡Correcto! Ajusta o espera.
+	~Pides otro crédito para pagar este #No es la mejor opción. Ajusta o espera.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M6
+
+::M6 U01 P1::Te niegan un servicio por tu forma de hablar. ¿Qué es? {
+	=Discriminación #¡Correcto! Es discriminación.
+	~Una regla del banco #No es la mejor opción. Es discriminación.
+	~Un malentendido normal #No es la mejor opción. Es discriminación.
+}
+
+::M6 U01 P2::¿Qué número es del CONAPRED? {
+	~911 #No es la mejor opción. CONAPRED.
+	~El de la sucursal #No es la mejor opción. CONAPRED.
+	=800 543 0033 #¡Correcto! CONAPRED.
+}
+
+::M6 U01 P3::¿Qué anotas si te tratan mal? {
+	~Solo tu nombre #No es la mejor opción. Los datos.
+	=Fecha, hora, lugar y quién te atendió #¡Correcto! Los datos.
+	~Nada, porque las quejas no sirven para nada #No es la mejor opción. Los datos.
+}
+
+::M6 U02 P1::¿Qué es lo más importante al reclamar? {
+	~Gritar fuerte #No es la mejor opción. El folio.
+	=Pedir folio #¡Correcto! El folio.
+	~Ir muchas veces sin anotar #No es la mejor opción. El folio.
+}
+
+::M6 U02 P2::No te resuelven. ¿A dónde vas? {
+	~A tu casa #No es la mejor opción. CONDUSEF.
+	~A otro banco #No es la mejor opción. CONDUSEF.
+	=A CONDUSEF #¡Correcto! CONDUSEF.
+}
+
+::M6 U02 P3::¿Qué llevas a tu reclamación? {
+	~Nada #No es la mejor opción. Tus pruebas.
+	=Estado de cuenta, comprobantes y contrato #¡Correcto! Tus pruebas.
+	~Solo tu INE, porque ellos tienen todo lo demás #No es la mejor opción. Tus pruebas.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M7
+
+::M7 U01 P1::¿Qué comparas entre empresas de envío? {
+	=Los pesos que llegan #¡Correcto! Lo que llega.
+	~El color del logo #No es la mejor opción. Lo que llega.
+	~Qué tan cerca está la oficina #No es la mejor opción. Lo que llega.
+}
+
+::M7 U01 P2::Un envío «sin comisión»… {
+	~siempre es el mejor, porque no te cobran nada #No es la mejor opción. Revisa el cambio.
+	~es un fraude #No es la mejor opción. Revisa el cambio.
+	=puede pagar un tipo de cambio más bajo #¡Correcto! Revisa el cambio.
+}
+
+::M7 U01 P3::¿Qué programa compara envíos de dinero? {
+	~El SIPRES #No es la mejor opción. PROFECO.
+	=Quién es Quién en el Envío de Dinero, de PROFECO #¡Correcto! PROFECO.
+	~El Buró de Crédito, que revisa a las empresas #No es la mejor opción. PROFECO.
+}
+
+::M7 U02 P1::¿Cuáles son las tres partes del plan? {
+	~Fiestas, regalos y préstamos #No es la mejor opción. Tres partes.
+	=Lo básico, ahorro y una meta #¡Correcto! Tres partes.
+	~Todo para lo básico #No es la mejor opción. Tres partes.
+}
+
+::M7 U02 P2::Llegan 6,000 y apartas 10% para ahorro. ¿Cuánto es? {
+	~1,000 #No es la mejor opción. 10% de 6,000.
+	~60 #No es la mejor opción. 10% de 6,000.
+	=600 #¡Correcto! 10% de 6,000.
+}
+
+::M7 U02 P3::¿Con quién acuerdas el plan? {
+	~Con los vecinos que también reciben remesas #No es la mejor opción. Con quien la manda.
+	=Con quien manda la remesa #¡Correcto! Con quien la manda.
+	~Con nadie #No es la mejor opción. Con quien la manda.
+}
+
+$CATEGORY: $course$/Tu Costa v0.1/M8
+
+::M8 U01 P1::¿Qué papel comprueba una propiedad privada? {
+	=La escritura registrada #¡Correcto! La escritura.
+	~El recibo de luz a tu nombre de los últimos años #No es la mejor opción. La escritura.
+	~Una foto de la casa #No es la mejor opción. La escritura.
+}
+
+::M8 U01 P2::¿Dónde se registran los derechos ejidales? {
+	~En el banco donde tienes tu cuenta #No es la mejor opción. RAN.
+	~En la tienda del pueblo #No es la mejor opción. RAN.
+	=En el Registro Agrario Nacional #¡Correcto! RAN.
+}
+
+::M8 U01 P3::Te ofrecen escriturar en una semana sin notario. ¿Qué haces? {
+	~Pagas #No es la mejor opción. Desconfía.
+	=Desconfías y preguntas en una notaría o el municipio #¡Correcto! Desconfía.
+	~Pagas la mitad #No es la mejor opción. Desconfía.
+}
+
+::M8 U02 P1::¿Con qué dejas tu casa a tu familia? {
+	=Con un testamento #¡Correcto! Testamento.
+	~Con un recibo #No es la mejor opción. Testamento.
+	~De palabra, frente a toda la familia reunida #No es la mejor opción. Testamento.
+}
+
+::M8 U02 P2::¿En qué mes el testamento cuesta menos en muchas notarías? {
+	~Enero #No es la mejor opción. Septiembre.
+	~Diciembre #No es la mejor opción. Septiembre.
+	=Septiembre #¡Correcto! Septiembre.
+}
+
+::M8 U02 P3::¿Dónde pones beneficiarios de tu Afore? {
+	=En tu Afore #¡Correcto! En tu Afore.
+	~En el RAN #No es la mejor opción. En tu Afore.
+	~En la notaría #No es la mejor opción. En tu Afore.
+}

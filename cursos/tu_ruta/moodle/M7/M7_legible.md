@@ -1,0 +1,439 @@
+# Módulo 7. Préstamos y fraudes en la ruta
+
+## M7 U01. Adelantos y préstamos dentro de la app
+
+**Lo que lograrás:** Calcular cuánto cuesta un adelanto o préstamo que se descuenta de lo que ganas en la app.
+
+**Para empezar:** A Don Chava la app le ofrece un «adelanto de ganancias» de 3,000 pesos que se descuenta de sus viajes. Parece cómodo. No sabe cuánto le cobran. En esta lección lo calcularás.
+
+### Lo esencial (5 minutos)
+
+#### Cómodo no es barato
+
+Algunos adelantos y préstamos se descuentan solos de lo que ganas. Eso los hace fáciles de pedir, pero pueden tener comisiones o intereses.
+
+
+
+#### Pregunta antes de aceptar
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| ¿Cuánto pago en total? | Préstamo más comisiones. | La cifra completa. |
+| ¿Cuál es el CAT? | El costo anual. | Para comparar. |
+| ¿Cuánto me descuentan al día? | Afecta tu sueldo. | Revisa tu promedio. |
+| ¿Qué pasa si gano menos? | Una semana mala. | Por escrito. |
+
+#### Primero tu colchón
+
+Antes de un adelanto, revisa tu colchón y tu fondo (M1 U03 y M6 U02). Son tu dinero y no cuestan.
+
+
+
+#### Un caso en un minuto
+
+Don Chava preguntó: pagaría 3,450 por 3,000 en un mes. Prefirió usar 1,500 de su colchón y pedir solo lo que le faltaba.
+
+> **Idea clave:** que un adelanto se descuente solo no lo hace barato; pregunta el total y el CAT, y usa primero tu colchón.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué preguntas antes de aceptar un adelanto?
+*Respuesta:* Cuánto pago en total, el CAT, cuánto me descuentan al día y qué pasa si gano menos.
+
+2. ¿Qué revisas antes de pedir?
+*Respuesta:* Mi colchón y mi fondo de emergencia.
+
+
+#### Para recordar
+
+- Pregunta el total.
+- Revisa el descuento diario.
+- Colchón primero.
+
+
+
+### Profundiza (5 minutos más)
+
+#### El adelanto de Don Chava
+
+- Lo que pagaría: **3,450**
+- Lo que recibe: **3,000**
+- Lo que cuesta en un mes: **450**
+
+
+#### Quién te presta
+
+Revisa quién da el préstamo: a veces es una financiera aliada de la app. Búscala en el SIPRES de CONDUSEF.
+
+
+
+#### Casos
+
+
+**Caso 1. El adelanto cómodo**
+
+A Don Chava le ofrecen 3,000 que se descuentan solos.
+- *¿Qué hace?* Pregunta el total y usa primero su colchón.
+
+
+**Caso 2. Descuento diario**
+
+A Beto le descontarían 250 al día por un préstamo.
+- *¿Qué hace?* Revisa si con eso le alcanza su sueldo semanal.
+
+
+**Caso 3. La financiera aliada**
+
+Mariana no sabe quién le presta en la app.
+- *¿Qué hace?* Busca el nombre de la financiera en el SIPRES.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aceptar por cómodo | Pagas de más | Pregunta el total |
+| Ignorar el descuento diario | Te quedas sin sueldo | Revísalo |
+| No usar tu colchón | Préstamo innecesario | Colchón primero |
+| No saber quién presta | Sin a quién reclamar | Verifica |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Chava, Beto y Mariana. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. Te prestan 2,000 y pagas 2,300. ¿Cuánto cuesta? a) Nada · b) 2,300 · c) 300
+2. ¿Qué usas antes de pedir un adelanto? a) Tu colchón · b) Otro préstamo · c) La tarjeta de un amigo
+3. ¿Dónde verificas la financiera? a) En redes sociales · b) En el SIPRES de CONDUSEF · c) Con el soporte de otra app
+**Respuestas:** 1-c: 2,300 menos 2,000. 2-a: colchón. 3-b: SIPRES.
+
+
+
+#### Ponlo en práctica
+
+Te descuentan 150 al día por 20 días. ¿Cuánto pagas? Si te prestaron 2,500, ¿cuánto cuesta?
+**Respuesta:** Pagas 3,000; cuesta 500.
+
+
+
+#### A tu plan
+
+Si tienes un adelanto activo, escribe cuánto pagarás en total y cuánto te descuentan al día.
+
+
+
+### Para saber más
+
+- **Créditos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «CAT».
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+
+### Palabras clave
+
+- *Adelanto:* dinero que te dan antes y se descuenta después.
+- *CAT:* costo anual total.
+- *Financiera aliada:* empresa que presta a través de la app.
+
+### Fuentes
+
+CONDUSEF, CAT y créditos; consultado el 5 de octubre de 2026.
+
+---
+
+## M7 U02. Rentar o prestar tu cuenta
+
+**Lo que lograrás:** Identificar los riesgos de rentar, prestar o usar cuentas de otras personas en las apps.
+
+**Para empezar:** Un conocido le ofrece a Kevin 600 pesos a la semana por «prestarle» su cuenta de reparto mientras él estudia. Parece dinero fácil. En esta lección verás qué arriesga.
+
+### Lo esencial (5 minutos)
+
+#### La cuenta es tu identidad
+
+Tu cuenta está ligada a tu nombre, tu INE, tu RFC y tu cuenta bancaria. Lo que haga otra persona con ella queda a tu nombre.
+
+
+
+#### Lo que arriesgas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Desactivación | La app puede cerrar tu cuenta para siempre. | Pierdes tu trabajo. |
+| Impuestos | Los ingresos se reportan a tu RFC. | Tú respondes al SAT. |
+| Delitos o accidentes | Quedan a tu nombre. | Problemas legales. |
+| Seguridad social | Tu IMSS y tus semanas se confunden. | Datos que no son tuyos. |
+
+#### Usar una cuenta ajena tampoco
+
+Si trabajas con la cuenta de otra persona, no tienes IMSS, ni derechos, ni seguro a tu nombre. Si te accidentas, no te cubren.
+
+
+
+#### Un caso en un minuto
+
+Kevin dijo que no. Su conocido prestó su cuenta a otra persona, que chocó. La cuenta fue desactivada y el reclamo le llegó a él.
+
+> **Idea clave:** tu cuenta es tu identidad; no la rentes ni la prestes, y no trabajes con la de otra persona.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿A nombre de quién queda lo que hace otra persona con tu cuenta?
+*Respuesta:* A mi nombre.
+
+2. ¿Qué pierdes si trabajas con una cuenta ajena?
+*Respuesta:* El IMSS, mis derechos y el seguro a mi nombre.
+
+
+#### Para recordar
+
+- Tu cuenta es tu identidad.
+- No la rentes.
+- No uses cuentas ajenas.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Los 600 pesos no alcanzan
+
+Un solo problema con el SAT o una desactivación cuesta mucho más que lo que te pagan por la renta.
+
+
+
+#### Cuida tus accesos
+
+Activa la verificación en dos pasos y no compartas tu contraseña ni códigos.
+
+
+
+#### Casos
+
+
+**Caso 1. Prestar la cuenta**
+
+Le ofrecen a Kevin 600 a la semana por su cuenta.
+- *¿Qué hace?* No la presta.
+
+
+**Caso 2. La cuenta del primo**
+
+A Don Chava le ofrecen trabajar con la cuenta de un primo.
+- *¿Qué hace?* Abre su propia cuenta para tener sus derechos.
+
+
+**Caso 3. Contraseña compartida**
+
+Beto le dio su contraseña a un amigo hace meses.
+- *¿Qué hace?* La cambia y activa la verificación en dos pasos.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Rentar tu cuenta | Problemas a tu nombre | No |
+| Usar cuenta ajena | Sin derechos | La tuya |
+| Compartir contraseñas | Robo de cuenta | Cámbiala |
+| Creer que es dinero fácil | Cuesta más | Haz la cuenta |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Kevin, Don Chava y Beto. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. Te ofrecen dinero por prestar tu cuenta. ¿Qué haces? a) La prestas a un familiar · b) La prestas solo los fines de semana · c) No la prestas
+2. Trabajas con la cuenta de otra persona. ¿Tienes IMSS a tu nombre? a) Sí · b) No · c) Solo si te accidentas
+3. ¿Qué haces si compartiste tu contraseña? a) Nada · b) La cambias y activas verificación en dos pasos · c) La publicas para que nadie la use
+**Respuestas:** 1-c: no. 2-b: no. 3-b: cámbiala.
+
+
+
+#### Ponlo en práctica
+
+Te pagan 600 por semana por tu cuenta. ¿Cuánto en un año? ¿Vale el riesgo de perder tu trabajo?
+**Respuesta:** 31,200 pesos; no, porque arriesgas tu cuenta, tu RFC y problemas legales.
+
+
+
+#### A tu plan
+
+Cambia tu contraseña y activa la verificación en dos pasos en tus apps.
+
+
+
+### Para saber más
+
+- **Robo de identidad** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «robo de identidad».
+
+### Palabras clave
+
+- *Identidad:* tus datos que te identifican.
+- *Verificación en dos pasos:* un código extra al entrar.
+- *Desactivación:* cierre de tu cuenta.
+
+### Fuentes
+
+CONDUSEF, robo de identidad; consultado el 5 de octubre de 2026.
+
+---
+
+## M7 U03. Soporte falso y robo de cuentas
+
+**Lo que lograrás:** Reconocer mensajes y llamadas de soporte falso que buscan robar tu cuenta o tus ganancias.
+
+**Para empezar:** Mariana recibió un mensaje: «Soporte. Tu cuenta será bloqueada. Envía el código que te llegó por SMS». Lo mandó. Una hora después le habían cambiado la cuenta bancaria de pagos. En esta lección verás cómo evitarlo.
+
+### Lo esencial (5 minutos)
+
+#### Soporte nunca pide códigos
+
+El soporte real de la plataforma no te pide por mensaje ni llamada tu contraseña ni el código que te llega por SMS.
+
+
+
+#### Señales de soporte falso
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Urgencia | «Tu cuenta será bloqueada hoy». | Para que no pienses. |
+| Piden códigos | El SMS que te llegó. | Con eso entran. |
+| Ligas raras | Páginas parecidas. | No las abras. |
+| Por WhatsApp | Números personales. | El soporte usa la app. |
+
+#### Usa solo el canal oficial
+
+Si dudas, abre tú la app y entra a ayuda o soporte desde ahí. Nunca desde una liga que te mandaron.
+
+
+
+#### Un caso en un minuto
+
+Mariana entró a soporte desde la app, reportó el robo y recuperó su cuenta. Ahora revisa cada semana que la cuenta de pagos sea la suya.
+
+> **Idea clave:** el soporte real nunca te pide códigos; ante la duda, entra tú desde la app.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿El soporte te pide el código que te llega por SMS?
+*Respuesta:* No; si lo piden, es fraude.
+
+2. ¿Por dónde contactas a soporte?
+*Respuesta:* Desde la app, nunca desde una liga.
+
+
+#### Para recordar
+
+- Nunca des códigos.
+- Soporte desde la app.
+- Revisa tu cuenta de pagos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Revisión semanal
+
+| Revisar | Bien |
+|---|---|
+| Mi cuenta de pagos es la mía | |
+| Mi correo y teléfono son los míos | |
+| No hay sesiones abiertas raras | |
+
+
+
+#### Si ya pasó
+
+Reporta desde la app, cambia tu contraseña, avisa a tu banco y guarda capturas.
+
+
+
+#### Casos
+
+
+**Caso 1. El código**
+
+A Mariana le piden el código del SMS para «no bloquear» su cuenta.
+- *¿Qué hace?* No lo manda y entra a soporte desde la app.
+
+
+**Caso 2. La liga**
+
+A Beto le llega una liga para «actualizar sus datos de pago».
+- *¿Qué hace?* No la abre y revisa desde la app.
+
+
+**Caso 3. Ya robaron**
+
+A Don Chava le cambiaron la cuenta de pagos.
+- *¿Qué hace?* Reporta desde la app y avisa a su banco.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Dar códigos | Te roban la cuenta | Nunca |
+| Abrir ligas | Robo de datos | Desde la app |
+| No revisar la cuenta de pagos | Te pagan a otro | Semanal |
+| Tardar en reportar | Pierdes más | De inmediato |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Mariana, Beto y Don Chava. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. «Soporte» te pide el código del SMS. ¿Qué haces? a) Das solo la mitad del código · b) Lo das para no perder tu cuenta · c) No lo das y entras a soporte desde la app
+2. ¿Qué revisas cada semana? a) Que tu cuenta de pagos sea la tuya · b) Las calificaciones de otros repartidores · c) Nada
+3. Te robaron la cuenta. ¿Qué haces? a) Esperas · b) Reportas desde la app y avisas a tu banco · c) Abres otra cuenta con otro nombre
+**Respuestas:** 1-c: nunca des códigos. 2-a: cuenta de pagos. 3-b: reporta.
+
+
+
+#### Ponlo en práctica
+
+Escribe la frase que usarás si alguien te pide un código.
+**Respuesta:** Ejemplo: «No doy códigos; entro yo a soporte desde la app».
+
+
+
+#### A tu plan
+
+Haz tu revisión semanal de cuenta este domingo.
+
+
+
+### Para saber más
+
+- **Fraudes** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «phishing» y «robo de cuentas».
+
+### Palabras clave
+
+- *Soporte falso:* alguien que se hace pasar por la app.
+- *Código SMS:* número que te llega para confirmar tu identidad.
+- *Cuenta de pagos:* donde la app te deposita.
+
+### Fuentes
+
+CONDUSEF, alertas de fraude; consultado el 5 de octubre de 2026.
+
+---

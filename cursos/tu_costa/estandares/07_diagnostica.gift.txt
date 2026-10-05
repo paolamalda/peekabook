@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Costa/Diagnóstica
+
+::DIAG 1::¿Cuándo termina la temporada de huracanes en el Pacífico? {
+	=El 30 de noviembre
+	~El 15 de mayo
+	~En enero, con el año nuevo
+}
+
+::DIAG 2::Te cobran por registrarte a un apoyo después del huracán. ¿Qué es? {
+	~Normal
+	=Fraude
+	~Una cuota de recuperación oficial
+}
+
+::DIAG 3::¿Dónde guardas tus originales? {
+	~En un cajón bajo de madera
+	=En doble bolsa cerrada y en alto
+	~En la lancha, que es donde pasas más tiempo
+}
+
+::DIAG 4::¿Por dónde empiezas a reponer papeles? {
+	~Por las escrituras
+	=Por la CURP y el acta
+	~Por el pasaporte, que vale para todo
+}
+
+::DIAG 5::¿Qué es un mes bajo? {
+	=Un mes en que entra menos de lo que gastas
+	~Un mes con muchas fiestas y compromisos en el pueblo
+	~Un mes de vacaciones de la escuela
+}
+
+::DIAG 6::Cobras 24,000 que deben durar 4 meses. ¿Cuánto usas por mes? {
+	~24,000 el primer mes
+	=6,000
+	~4,000
+}
+
+::DIAG 7::¿Cuál es un uso correcto del fondo? {
+	=Una reparación urgente
+	~Una fiesta
+	~Un celular nuevo porque hay oferta
+}
+
+::DIAG 8::¿Qué preguntas primero a un seguro de casa en la costa? {
+	~El color de la póliza
+	=Si cubre huracán e inundación
+	~Si regalan algo al contratar este mes
+}
+
+::DIAG 9::Te adelantan dinero si les vendes más barato. ¿Qué es? {
+	~Un regalo
+	=Un préstamo
+	~Un apoyo de gobierno
+}
+
+::DIAG 10::Pagas 900 por semana durante 25 semanas. ¿Cuánto pagas en total? {
+	=22,500
+	~900
+	~25,900
+}
+
+::DIAG 11::Te niegan un servicio por tu forma de hablar. ¿Qué es? {
+	=Discriminación
+	~Una regla del banco
+	~Un malentendido normal
+}
+
+::DIAG 12::¿Qué es lo más importante al reclamar? {
+	~Gritar fuerte
+	=Pedir folio
+	~Ir muchas veces sin anotar
+}
+
+::DIAG 13::¿Qué comparas entre empresas de envío? {
+	=Los pesos que llegan
+	~El color del logo
+	~Qué tan cerca está la oficina
+}
+
+::DIAG 14::¿Cuáles son las tres partes del plan? {
+	~Fiestas, regalos y préstamos
+	=Lo básico, ahorro y una meta
+	~Todo para lo básico
+}
+
+::DIAG 15::¿Qué papel comprueba una propiedad privada? {
+	=La escritura registrada
+	~El recibo de luz a tu nombre de los últimos años
+	~Una foto de la casa
+}
+
+::DIAG 16::¿Con qué dejas tu casa a tu familia? {
+	=Con un testamento
+	~Con un recibo
+	~De palabra, frente a toda la familia reunida
+}
+

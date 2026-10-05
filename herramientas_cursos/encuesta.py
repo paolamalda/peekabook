@@ -2,14 +2,14 @@
 # Índice de bienestar financiero (0 a 100): promedio de 8 preguntas con puntaje (gastar, ahorrar, deber y planear),
 # redacción propia inspirada en el marco de salud financiera de Financial Health Network. Más señales de estrés (sin puntaje),
 # hábitos y, en la final, la evaluación del programa. Todos los textos tienen menos de 255 caracteres.
-# Uso desde curso.py: encuesta.generar(carpeta_salida, variante, negocio, titulo)  · variante: mx | us_es | us_en | joven_mx
+# Uso desde curso.py: encuesta.generar(carpeta_salida, variante, negocio, titulo)  · variante: mx | mx_en | us_es | us_en | joven_mx
 import os, json, html
 
 # (id, dimensión, texto, [(puntos, opción)]) · puntos None = sin puntaje
 def items(v, negocio=False):
-    en = v == "us_en"; mx = v in ("mx", "joven_mx"); joven = v == "joven_mx"
+    en = v in ("us_en", "mx_en"); mx = v in ("mx", "joven_mx", "mx_en"); joven = v == "joven_mx"
     T = (lambda es, en_: en_) if en else (lambda es, en_: es)
-    seg = T("IMSS, ISSSTE o IMSS-Bienestar" if mx else "Medi-Cal, Medicaid o seguro del trabajo", "Medi-Cal, Medicaid or work coverage")
+    seg = T("IMSS, ISSSTE o IMSS-Bienestar" if mx else "Medi-Cal, Medicaid o seguro del trabajo", "IMSS, ISSSTE or IMSS-Bienestar" if mx else "Medi-Cal, Medicaid or work coverage")
     hogar = T("tu hogar" if not joven else "tu casa (tú y quienes aportan dinero)", "your household")
     S = []
     S.append(("P1", "gastar", T(f"En los últimos 12 meses, comparado con lo que entró a {hogar}, lo que gastaron fue…",
@@ -83,7 +83,8 @@ def items(v, negocio=False):
           [(None, x) for x in (["15 a 16", "17 a 18", "19 o más", "Prefiero no decir"] if joven else
                                T(["18 a 29", "30 a 44", "45 a 59", "60 o más", "Prefiero no decir"], ["18 to 29", "30 to 44", "45 to 59", "60 or older", "Prefer not to say"]))])]
     if not joven:
-        rangos = (["Menos de 10,000 pesos", "De 10,000 a 20,000 pesos", "De 20,000 a 40,000 pesos", "Más de 40,000 pesos", "Prefiero no decir"] if mx else
+        rangos = (T(["Menos de 10,000 pesos", "De 10,000 a 20,000 pesos", "De 20,000 a 40,000 pesos", "Más de 40,000 pesos", "Prefiero no decir"],
+                    ["Less than 10,000 pesos", "10,000 to 20,000 pesos", "20,000 to 40,000 pesos", "More than 40,000 pesos", "Prefer not to say"]) if mx else
                   T(["Menos de $2,500", "De $2,500 a $5,000", "De $5,000 a $8,000", "Más de $8,000", "Prefiero no decir"],
                     ["Less than $2,500", "$2,500 to $5,000", "$5,000 to $8,000", "More than $8,000", "Prefer not to say"]))
         D.append(("D2", "perfil", T("Ingreso aproximado de tu hogar al mes (opcional)", "Your household's approximate monthly income (optional)"), [(None, x) for x in rangos]))
@@ -119,7 +120,7 @@ def moodle_xml(lista):
 
 
 def generar(dest, variante, negocio, titulo):
-    en = variante == "us_en"
+    en = variante in ("us_en", "mx_en")
     S, E, H, D, F = items(variante, negocio)
     todas = S + E + H + D + F
     largo = [(i, len(t)) for i, _, t, ops in todas for t in [t] + [o for _, o in ops] if len(t) >= 255]

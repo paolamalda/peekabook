@@ -45,13 +45,16 @@ V2 = {"tienes": "tiene", "puedes": "puede", "necesitas": "necesita", "trabajas":
       "pagarás": "pagará", "usarás": "usará", "necesitarás": "necesitará", "hiciste": "hizo", "pagaste": "pagó", "recibirás": "recibirá", "quieras": "quiera",
       "debas": "deba", "tienes que": "tiene que", "sepas": "sepa", "uses": "use", "pagues": "pague", "ganes": "gane", "cobres": "cobre", "mudas": "muda", "separas": "separa", "enviudas": "enviuda", "inviertes": "invierte", "contratas": "contrata", "apuestas": "apuesta"}
 REFLEX = {"lastimas", "enfermas", "mudas", "separas"}
+V2.update({"controlas": "controla", "faltas": "falta", "tuyo": "suyo", "tuya": "suya", "tuyos": "suyos", "tuyas": "suyas", "conoces": "conoce",
+           "entiendes": "entiende", "vendes": "vende", "rentas": "renta", "manejas": "maneja", "cuidas": "cuida", "dependes": "depende"})
+NO_ENCLITICO = {"parte", "aparte", "transporte", "deporte", "reporte", "soporte", "aporte", "corte", "norte", "arte", "suerte", "fuerte", "muerte"}
 
 
 def tercera(s):
     """Pasa un objetivo de «tú» a tercera persona para la versión formal."""
     s = re.sub(r"\btus\b", "sus", s); s = re.sub(r"\bTus\b", "Sus", s)
     s = re.sub(r"\btu\b", "su", s); s = re.sub(r"\bTu\b", "Su", s)
-    s = re.sub(r"\b(\w+?)(ar|er|ir)te\b", r"\1\2se", s)
+    s = re.sub(r"\b(\w+?)(ar|er|ir)te\b", lambda m: m.group(0) if m.group(0).lower() in NO_ENCLITICO else m.group(1) + m.group(2) + "se", s)
     s = re.sub(r"\bcuando faltas\b", "cuando falta", s)
     s = re.sub(r"\bte (\w+)\b", lambda m: ("se " if m.group(1) in REFLEX else "le ") + V2.get(m.group(1), m.group(1)), s)
     s = re.sub(r"\b(\w+)\b", lambda m: V2.get(m.group(1), m.group(1)), s)

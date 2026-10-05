@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Pensión/Diagnóstica
+
+::DIAG 1::¿Cada cuándo llega la Pensión Bienestar? {
+	=Cada dos meses
+	~Cada semana
+	~Una vez al año
+}
+
+::DIAG 2::¿Qué pagas primero? {
+	~La fiesta
+	=Comida y medicinas
+	~El préstamo del sobrino
+}
+
+::DIAG 3::¿Con quién compartes tu NIP? {
+	=Con nadie
+	~Con quien te ayude en el cajero
+	~Con el banco por teléfono
+}
+
+::DIAG 4::El cajero falla y alguien ofrece ayuda. ¿Qué haces? {
+	~Aceptas
+	~Le das tu NIP
+	=Cancelas y pides ayuda dentro
+}
+
+::DIAG 5::Te llaman «del banco» y piden tu NIP. ¿Qué haces? {
+	~Lo das
+	=Cuelgas
+	~Das solo dos números
+}
+
+::DIAG 6::Te llega un mensaje con un premio y una liga. ¿Qué haces? {
+	~Lo abres
+	=Lo borras y bloqueas
+	~Lo reenvías
+}
+
+::DIAG 7::¿Cuál es una señal de abuso patrimonial? {
+	=Te faltan retiros que no hiciste
+	~Tu nieto te visita
+	~Te llega tu pensión completa cada bimestre
+}
+
+::DIAG 8::Hay un retiro que no hiciste. ¿A quién llamas primero? {
+	=A tu banco
+	~Al 911
+	~A nadie
+}
+
+::DIAG 9::¿Cuál es el tope de descuento a tu pensión del IMSS? {
+	=30%
+	~50%
+	~No hay tope
+}
+
+::DIAG 10::¿De quién es la deuda de un préstamo a tu nombre? {
+	=Tuya
+	~De quien lo usa
+	~De nadie
+}
+
+::DIAG 11::¿Qué poder conviene para un solo trámite? {
+	~Uno general para todo, así no vuelves a la notaría
+	=Uno limitado con fecha de término
+	~Ninguno, mejor das tu NIP
+}
+
+::DIAG 12::¿Qué hace tu persona de apoyo? {
+	=Te acompaña y tú decides
+	~Decide por ti para que no te equivoques
+	~Guarda tu tarjeta
+}
+
+::DIAG 13::¿Para qué sirve el testamento? {
+	=Para decir a quién dejas tus bienes
+	~Para pedir un préstamo a cuenta de tus bienes
+	~Para cobrar la pensión
+}
+
+::DIAG 14::¿Dónde se registran los beneficiarios de una cuenta? {
+	=En el banco
+	~En el testamento solamente
+	~En la tienda
+}
+
+::DIAG 15::¿Para qué es el guardadito de salud? {
+	=Solo para salud
+	~Para regalos y fiestas de la familia
+	~Para prestar
+}
+
+::DIAG 16::Te cobran un seguro que no pediste. ¿Qué haces? {
+	~Lo sigues pagando
+	=Pides cancelarlo y la devolución
+	~Cierras tu cuenta sin decir nada
+}
+

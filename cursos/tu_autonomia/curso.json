@@ -9,7 +9,10 @@
  "formato": "En línea, a su ritmo (unas 3 horas), con 2 círculos presenciales de 2 horas (7 horas totales).",
  "categoria": "Tu Autonomía",
  "banco": "banco_preguntas_tadf.gift.txt",
- "min_leccion": [5, 10],
+ "min_leccion": [
+  5,
+  10
+ ],
  "personajes": {
   "Leticia": "45 años. Ama de casa en Querétaro; su esposo maneja todo el dinero de la casa.",
   "Lucía": "38 años. Separada, con dos hijos. Trabaja en una tienda y recibe pensión alimenticia que a veces no llega.",
@@ -37,19 +40,72 @@
   "M8": "Tus tres pasos pequeños para bajar el estrés por dinero y tu plan de autonomía."
  },
  "insignias": [
-  ["01_a_mi_nombre", "M1", "A mi nombre", "fa-id-card"],
-  ["02_mi_trabajo_cuenta", "M2", "Mi trabajo cuenta", "fa-balance-scale"],
-  ["03_mi_retiro", "M3 · M4", "Mi retiro", "fa-piggy-bank"],
-  ["04_protegida", "M5", "Protegida", "fa-shield"],
-  ["05_mi_dinero_es_mio", "M6", "Mi dinero es mío", "fa-lock"],
-  ["06_derechos_de_mis_hijos", "M7", "Derechos de mis hijos", "fa-child"],
-  ["07_en_calma", "M8", "En calma", "fa-heart"],
-  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+  [
+   "01_a_mi_nombre",
+   "M1",
+   "A mi nombre",
+   "fa-id-card"
+  ],
+  [
+   "02_mi_trabajo_cuenta",
+   "M2",
+   "Mi trabajo cuenta",
+   "fa-balance-scale"
+  ],
+  [
+   "03_mi_retiro",
+   "M3 · M4",
+   "Mi retiro",
+   "fa-piggy-bank"
+  ],
+  [
+   "04_protegida",
+   "M5",
+   "Protegida",
+   "fa-shield"
+  ],
+  [
+   "05_mi_dinero_es_mio",
+   "M6",
+   "Mi dinero es mío",
+   "fa-lock"
+  ],
+  [
+   "06_derechos_de_mis_hijos",
+   "M7",
+   "Derechos de mis hijos",
+   "fa-child"
+  ],
+  [
+   "07_en_calma",
+   "M8",
+   "En calma",
+   "fa-heart"
+  ],
+  [
+   "08_plan_completo",
+   "Curso",
+   "Plan completo",
+   "fa-trophy"
+  ]
  ],
  "constancia": {
   "titulo": "Tu Autonomía, Tu Dinero, Tu Futuro",
   "linea": "por concluir el programa de bienestar financiero Tu Autonomía, Tu Dinero, Tu Futuro",
-  "temas": ["Dinero a mi nombre", "Trabajo de cuidados", "Afore y pensión", "Violencia económica", "Estrés y salud"]
+  "temas": [
+   "Dinero a mi nombre",
+   "Trabajo de cuidados",
+   "Afore y pensión",
+   "Violencia económica",
+   "Estrés y salud"
+  ],
+  "mods": [
+   "Dinero a mi nombre",
+   "Trabajo de cuidados",
+   "Afore y pensión",
+   "Violencia económica",
+   "Estrés y salud"
+  ]
  },
  "problema": [
   "Las mujeres tienen menos cuentas, menos Afore y menos seguros que los hombres; la brecha más grande está en la Afore.",
@@ -65,15 +121,217 @@
   "**Seguridad primero:** las lecciones de violencia económica recuerdan borrar el historial si alguien revisa el dispositivo y dan el 079 y el 911."
  ],
  "datos": [
-  ["Mujeres con Afore", "34.2% (hombres 51.4%): brecha de 17.2 puntos", "ENIF 2024"],
-  ["Mujeres con cuenta", "58.6% (hombres 68.0%)", "ENIF 2024"],
-  ["Mujeres con seguro", "18.3% (hombres 28.2%)", "ENIF 2024"],
-  ["Estrés financiero alto", "42.2% de las mujeres (hombres 30.7%)", "ENSAFI 2023"],
-  ["Capacidad de pago mensual", "2,262 pesos las mujeres; 3,382 los hombres", "ENSAFI 2023"],
-  ["Trabajo no remunerado", "39.7 horas a la semana las mujeres; 18.2 los hombres", "INEGI, ENUT 2024"],
-  ["Violencia económica, patrimonial o discriminación", "27.4% de las mujeres a lo largo de su vida", "INEGI, ENDIREH 2021"],
-  ["Pensión Mujeres Bienestar", "3,100 pesos al bimestre en 2026, de 60 a 64 años; pasa en automático a la Pensión Adultos Mayores a los 65", "Secretaría de Bienestar"],
-  ["Semanas para pensión Ley 97", "875 en 2026; suben 25 por año hasta 1,000 en 2031", "IMSS"],
-  ["Línea de las Mujeres", "079, opción 1: orientación jurídica y psicológica las 24 horas", "Secretaría de las Mujeres"]
- ]
+  [
+   "Mujeres con Afore",
+   "34.2% (hombres 51.4%): brecha de 17.2 puntos",
+   "ENIF 2024"
+  ],
+  [
+   "Mujeres con cuenta",
+   "58.6% (hombres 68.0%)",
+   "ENIF 2024"
+  ],
+  [
+   "Mujeres con seguro",
+   "18.3% (hombres 28.2%)",
+   "ENIF 2024"
+  ],
+  [
+   "Estrés financiero alto",
+   "42.2% de las mujeres (hombres 30.7%)",
+   "ENSAFI 2023"
+  ],
+  [
+   "Capacidad de pago mensual",
+   "2,262 pesos las mujeres; 3,382 los hombres",
+   "ENSAFI 2023"
+  ],
+  [
+   "Trabajo no remunerado",
+   "39.7 horas a la semana las mujeres; 18.2 los hombres",
+   "INEGI, ENUT 2024"
+  ],
+  [
+   "Violencia económica, patrimonial o discriminación",
+   "27.4% de las mujeres a lo largo de su vida",
+   "INEGI, ENDIREH 2021"
+  ],
+  [
+   "Pensión Mujeres Bienestar",
+   "3,100 pesos al bimestre en 2026, de 60 a 64 años; pasa en automático a la Pensión Adultos Mayores a los 65",
+   "Secretaría de Bienestar"
+  ],
+  [
+   "Semanas para pensión Ley 97",
+   "875 en 2026; suben 25 por año hasta 1,000 en 2031",
+   "IMSS"
+  ],
+  [
+   "Línea de las Mujeres",
+   "079, opción 1: orientación jurídica y psicológica las 24 horas",
+   "Secretaría de las Mujeres"
+  ]
+ ],
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Mi dinero, mi nombre",
+   "descripcion": "Una cuenta, tus documentos y un ingreso propio a tu nombre."
+  },
+  "M2": {
+   "titulo": "Un presupuesto que cuenta los cuidados",
+   "descripcion": "Tu presupuesto del hogar con tu trabajo de cuidados contado y acuerdos de dinero claros."
+  },
+  "M3": {
+   "titulo": "Afore, semanas y aportaciones voluntarias",
+   "descripcion": "Tu Afore localizada, tus semanas revisadas y tu primera aportación voluntaria."
+  },
+  "M4": {
+   "titulo": "Pensión Mujeres Bienestar",
+   "descripcion": "Tu registro o el de una mujer cercana a la Pensión Mujeres Bienestar, y un plan para usarla."
+  },
+  "M5": {
+   "titulo": "Seguros para mí",
+   "descripcion": "Tus seguros revisados y tu decisión sobre un seguro para ti."
+  },
+  "M6": {
+   "titulo": "Violencia económica: señales y salida",
+   "descripcion": "Las señales de violencia económica y tu plan de seguridad económica."
+  },
+  "M7": {
+   "titulo": "Pensión alimenticia",
+   "descripcion": "Tus pasos para pedir, cobrar y administrar la pensión alimenticia."
+  },
+  "M8": {
+   "titulo": "Estrés financiero y salud",
+   "descripcion": "Tus tres pasos pequeños para bajar el estrés por dinero y tu plan de autonomía."
+  }
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, cuánto toma cada lección, los personajes, las insignias y la constancia.",
+  "02": "Casos que reúnen lo aprendido en varios módulos. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "instalacion": {
+  "nombre_corto": "TADF-MX",
+  "readme": "README_INSTALAR_TU_AUTONOMIA_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas números de cuenta, NIP, contraseñas, tu CURP, documentos ni montos reales de tus deudas.",
+  "niveles": [
+   [
+    "Empiezo",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Me organizo",
+    100,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Avanzo",
+    200,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Me protejo",
+    350,
+    "Durante el Módulo 5"
+   ],
+   [
+    "Planeo",
+    450,
+    "Durante el Módulo 7"
+   ],
+   [
+    "Lo logré",
+    550,
+    "Durante el Módulo 8"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluación del Módulo 1 completada (aprobada)",
+    "Una cuenta, tus documentos y un ingreso propio a tu nombre."
+   ],
+   [
+    "Autoevaluación del Módulo 2 completada (aprobada)",
+    "Tu presupuesto del hogar con tu trabajo de cuidados contado y acuerdos de dinero claros."
+   ],
+   [
+    "Autoevaluaciones de los módulos 3 y 4",
+    "Tu Afore localizada, tus semanas revisadas y tu primera aportación voluntaria. Tu registro o el de una mujer cercana a la Pensión Mujeres Bienestar, y un plan para usarla."
+   ],
+   [
+    "Autoevaluación del Módulo 5 completada (aprobada)",
+    "Tus seguros revisados y tu decisión sobre un seguro para ti."
+   ],
+   [
+    "Autoevaluación del Módulo 6 completada (aprobada)",
+    "Las señales de violencia económica y tu plan de seguridad económica."
+   ],
+   [
+    "Autoevaluación del Módulo 7 completada (aprobada)",
+    "Tus pasos para pedir, cobrar y administrar la pensión alimenticia."
+   ],
+   [
+    "Autoevaluación del Módulo 8 completada (aprobada)",
+    "Tus tres pasos pequeños para bajar el estrés por dinero y tu plan de autonomía."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los 8 módulos del programa."
+   ]
+  ]
+ },
+ "carpeta": {
+  "nombre": "Tu_Autonomia_Tu_Dinero_Tu_Futuro_ES",
+  "zip": "Tu_Autonomia_v0.1",
+  "manual": "Manual_del_programa_TADF_v0.1",
+  "contenido": "Contenido_completo_TADF_v0.1",
+  "guia": "Guia_implementacion_TADF_v0.1",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
+   "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, datos de la constancia, encuestas, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por especialistas en los temas del curso",
+   "Datos vigentes confirmados en los sitios oficiales",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_AUTONOMIA_PARA_CLAUDE.md",
+   "Level Up, insignias, constancia y encuestas configurados",
+   "Revisión con rol de estudiante"
+  ],
+  "notas": [
+   "El curso no recomienda instituciones ni productos: enseña a verificar (SIPRES de la CONDUSEF).",
+   "No se piden datos personales: ni cuentas, ni NIP, ni contraseñas, ni CURP, ni montos reales.",
+   "No es un curso de emprendimiento: se enfoca en autonomía, retiro y protección.",
+   "Sin culpas: se separan los hábitos personales de las desigualdades que no dependen de ellas.",
+   "Seguridad primero: las lecciones de violencia económica recuerdan borrar el historial si alguien revisa el dispositivo y dan el 079 y el 911."
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Dinero y documentos a tu nombre, un presupuesto que cuenta los cuidados, tu retiro, tus seguros y salida de la violencia económica.",
+   "Lecciones cortas en línea y dos círculos presenciales, con casos de mujeres de distintas edades."
+  ],
+  "para_quien": "Mujeres adultas de cualquier edad y ocupación, con o sin ingreso propio.",
+  "idiomas": "Español"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos"
+  ],
+  "extra": {}
+ },
+ "hojas": [
+  "bienes"
+ ],
+ "objetivo_general": "tener dinero y documentos a su nombre, hacer un presupuesto que reconozca el trabajo de cuidados, planear su retiro con la Afore y las pensiones a las que tiene derecho, revisar sus seguros, reconocer la violencia económica y armar un plan de seguridad, cobrar y administrar la pensión alimenticia, y reducir el estrés financiero"
 }

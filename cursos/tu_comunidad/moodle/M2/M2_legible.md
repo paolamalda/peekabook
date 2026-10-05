@@ -1,0 +1,289 @@
+# Módulo 2. Tu cuenta a tu nombre
+
+## M2 U01. ¿Por qué una cuenta a tu nombre?
+
+**Lo que lograrás:** Explicar por qué conviene que cada mujer tenga una cuenta a su nombre.
+
+**Para empezar:** El dinero que manda el esposo de Rosa llega a la cuenta de su suegro. Cada vez que Rosa necesita algo para los niños, tiene que pedírselo. A veces le dice que no hay. En esta lección verás por qué tu cuenta te protege.
+
+### Lo esencial (5 minutos)
+
+#### Tu dinero, en tu cuenta
+
+Una cuenta a tu nombre es un lugar donde el dinero es tuyo. Solo tú lo puedes sacar con tu tarjeta y tu NIP. Nadie tiene que darte permiso.
+
+
+
+#### Lo que te da tu cuenta
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Seguridad | Tu dinero no está en la casa. | Menos robo. |
+| Control | Tú decides. | Sin pedir permiso. |
+| Ahorro | Puedes dejar una parte. | Para emergencias. |
+| Recibir | Remesas y pagos directo. | Sin terceros. |
+
+#### En el país, la brecha es grande
+
+Entre quienes hablan una lengua indígena, las mujeres tienen 15 puntos menos de acceso a productos financieros que los hombres. Una cuenta a tu nombre ayuda a cerrar esa diferencia.
+
+
+
+#### Un caso en un minuto
+
+Rosa abrió una cuenta a su nombre. Ahora su esposo le manda directo a ella. Ella decide qué se compra para los niños y deja un poco ahorrado.
+
+> **Idea clave:** una cuenta a tu nombre es tu dinero bajo tu control: tú decides, sin pedir permiso.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Quién puede sacar el dinero de tu cuenta?
+*Respuesta:* Solo yo, con mi tarjeta y mi NIP.
+
+2. ¿Qué te da una cuenta a tu nombre?
+*Respuesta:* Seguridad, control, ahorro y recibir dinero directo.
+
+
+#### Para recordar
+
+- Tu cuenta, tu dinero.
+- Tú decides.
+- Recibe directo.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Imagen de la lección
+
+Una mujer con su propia tarjeta en la mano y una flecha de dinero que llega directo a ella.
+
+
+
+#### No es desconfianza
+
+Tener tu propia cuenta no es pelear con tu familia. Es tener un lugar seguro para lo que es tuyo y para los gastos de tus hijos.
+
+
+
+#### Casos
+
+
+**Caso 1. El dinero en la cuenta del suegro**
+
+A Rosa le llega el dinero a la cuenta del suegro.
+- *¿Qué hace?* Abre una cuenta a su nombre y pide que le manden ahí.
+
+
+**Caso 2. «Para qué, si no tienes dinero»**
+
+Le dicen a Doña Juana que no necesita cuenta porque gana poco.
+- *¿Qué hace?* Sabe que ya tiene su tarjeta de pensión y la usa también para ahorrar.
+
+
+**Caso 3. La hija que se va**
+
+Marta se irá a trabajar a la ciudad.
+- *¿Qué hace?* Abre su propia cuenta antes de irse.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Dejar tu dinero a nombre de otro | Pierdes el control | A tu nombre |
+| Creer que es solo para quien tiene mucho | No la abres | Es para todas |
+| Guardar todo en la casa | Riesgo de robo | En tu cuenta |
+| Pensar que es desconfianza | No la abres | Es protección |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Doña Juana y Marta. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Por qué una cuenta a tu nombre? a) Para que decidas tú sobre tu dinero · b) Para que otra persona de la familia la administre · c) Porque lo pide la escuela
+2. ¿Quién puede sacar dinero de tu cuenta? a) Tu suegro · b) Tú, con tu tarjeta y tu NIP · c) Cualquiera que sepa tu nombre
+3. ¿Tener tu cuenta es pelear con tu familia? a) Sí · b) Solo si eres joven · c) No, es protección
+**Respuestas:** 1-a: tú decides. 2-b: solo tú. 3-c: es protección.
+
+
+
+#### Ponlo en práctica
+
+Te mandan 2,500 al mes y dejas 250 en la cuenta. ¿Cuánto ahorras en 6 meses?
+**Respuesta:** 1,500 pesos.
+
+
+
+#### A tu plan
+
+Si no tienes cuenta a tu nombre, decide esta semana dónde la abrirás (lección siguiente).
+
+
+
+### Para saber más
+
+- **Inclusión financiera de las mujeres** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «mujeres».
+
+### Palabras clave
+
+- *Cuenta:* lugar en el banco donde guardas tu dinero.
+- *A tu nombre:* que es tuyo y solo tú lo controlas.
+- *NIP:* número secreto de tu tarjeta.
+
+### Fuentes
+
+INEGI y CNBV, ENIF 2024; CONAIF, PNIF 2025-2030; consultados el 5 de octubre de 2026.
+
+---
+
+## M2 U02. Abrir y usar tu cuenta
+
+**Lo que lograrás:** Identificar qué llevar para abrir una cuenta básica y dónde usarla cerca de tu comunidad.
+
+**Para empezar:** Rosa fue al banco del municipio y le pidieron muchos papeles. Le dijeron que volviera. No sabe que hay cuentas con muy pocos requisitos. En esta lección verás cuáles.
+
+### Lo esencial (5 minutos)
+
+#### Cuentas con pocos requisitos
+
+Hay cuentas básicas o de bajo monto que se abren solo con identificación oficial y CURP. No cobran comisión por manejo. Pide esa cuenta por su nombre: «cuenta básica».
+
+
+
+#### Dónde usar tu cuenta cerca
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Corresponsales | Tiendas y farmacias que funcionan como banco. | Depositar y retirar. |
+| Cajeros | Del banco o de la red. | Pregunta cuáles no cobran. |
+| En el celular | Si hay señal. | Solo la app oficial. |
+
+#### Verifica antes de firmar
+
+Pregunta si cobra por manejo y si pide saldo mínimo. Revisa que la institución esté autorizada en CONDUSEF. No te recomendamos un banco: tú eliges.
+
+
+
+#### Un caso en un minuto
+
+Marta acompañó a Rosa. Pidieron la cuenta básica con su INE y su CURP. Ahora Rosa deposita y retira en la tienda corresponsal de su comunidad.
+
+> **Idea clave:** pide una cuenta básica con tu INE y tu CURP, y úsala en corresponsales cerca de tu comunidad.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué cuenta pides para que no te cobren por manejo?
+*Respuesta:* La cuenta básica.
+
+2. ¿Qué es un corresponsal?
+*Respuesta:* Una tienda o farmacia donde puedes depositar y retirar.
+
+
+#### Para recordar
+
+- Cuenta básica.
+- INE y CURP.
+- Corresponsales cerca.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Imagen de la lección
+
+Una tienda de la comunidad con el letrero de un banco y una mujer depositando.
+
+
+
+#### Si no entiendes algo
+
+Tienes derecho a que te expliquen. Ve con alguien de confianza que hable español y tu lengua, y pide que te expliquen las comisiones.
+
+
+
+#### Casos
+
+
+**Caso 1. Muchos papeles**
+
+A Rosa le piden muchos papeles en el banco.
+- *¿Qué hace?* Pide la cuenta básica, con INE y CURP.
+
+
+**Caso 2. El cajero lejos**
+
+El cajero más cercano está a dos horas.
+- *¿Qué hace Doña Juana?* Pregunta qué tienda de su comunidad es corresponsal.
+
+
+**Caso 3. No entiende el contrato**
+
+Don Pedro no entiende lo que dice el contrato.
+- *¿Qué hace?* Va con Marta y pide que le expliquen las comisiones.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Desistir por los papeles | No abres cuenta | Cuenta básica |
+| Viajar lejos para retirar | Gasto de pasaje | Corresponsal |
+| Firmar sin entender | Comisiones | Pide explicación |
+| Usar apps no oficiales | Robo | Solo la oficial |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Rosa, Doña Juana y Don Pedro. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Qué llevas para abrir una cuenta básica? a) Escrituras · b) INE y CURP · c) Un aval
+2. ¿Dónde puedes depositar cerca de tu comunidad? a) En una tienda corresponsal · b) Solo en la sucursal de la capital del estado · c) Con un vecino
+3. No entiendes el contrato. ¿Qué haces? a) Firmas · b) Te vas y no vuelves · c) Pides que te expliquen, con alguien de confianza
+**Respuestas:** 1-b: INE y CURP. 2-a: corresponsal. 3-c: tienes derecho.
+
+
+
+#### Ponlo en práctica
+
+El pasaje al cajero cuesta 120 pesos ida y vuelta. Si vas dos veces al mes, ¿cuánto te ahorras al año usando la tienda corresponsal?
+**Respuesta:** 2,880 pesos.
+
+
+
+#### A tu plan
+
+Pregunta qué tienda o farmacia de tu comunidad es corresponsal y anota su nombre.
+
+
+
+### Para saber más
+
+- **Cuentas básicas** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «cuenta básica».
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+
+### Palabras clave
+
+- *Cuenta básica:* cuenta sin comisión por manejo.
+- *Corresponsal:* tienda que hace operaciones de banco.
+- *Comisión:* cobro por un servicio.
+
+### Fuentes
+
+CONDUSEF, cuentas básicas y corresponsales bancarios; CNBV; consultados el 5 de octubre de 2026.
+
+---

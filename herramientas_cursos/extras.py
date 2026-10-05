@@ -78,12 +78,14 @@ def guiones(D, CFG, lecciones, EN):
 # ---------------------------------------------------------------------------
 AYUDA = {"mx": ["Línea de la Vida: 800 911 2000 (salud mental y adicciones, las 24 horas)", "CONDUSEF: 55 5340 0999 (bancos, créditos, seguros)",
                 "088 de la Guardia Nacional (fraudes y delitos en línea)", "911 (emergencias y violencia)"],
+         "mx_en": ["Línea de la Vida: 800 911 2000 (mental health and addictions, 24 hours, Spanish)", "CONDUSEF: 55 5340 0999 (banks, credit, insurance)",
+                   "088, Guardia Nacional (fraud and online crime)", "089 (anonymous reports, including extortion)", "911 (emergencies and violence)"],
          "us": ["988 Suicide & Crisis Lifeline (call or text, English and Spanish)", "CFPB: consumerfinance.gov (complaints about financial companies)",
                 "211 (local help with food, rent and bills)", "National Domestic Violence Hotline: 1-800-799-7233", "911 (emergencies)"]}
 
 def kit(D, CFG, lecciones, EN):
     T = (lambda es, en: en) if EN else (lambda es, en: es)
-    pais = "us" if CFG.get("encuesta", "mx").startswith("us") else "mx"
+    pais = "us" if CFG.get("encuesta", "mx").startswith("us") else ("mx_en" if EN else "mx")
     L = [f"# {T('Kit para facilitadores', 'Facilitator kit')} · {CFG['titulo']}", "",
          T("Una sesión de 60 minutos por módulo, presencial o en línea, para grupos de 8 a 20 personas. Todo sale de las lecciones del módulo: ideas clave, casos y prácticas. Se usa después de que el grupo avanzó en el módulo o como repaso.",
            "One 60-minute session per module, in person or online, for groups of 8 to 20 people. Everything comes from the module's lessons: key ideas, cases and practice. Use it after the group has worked through the module or as a review."), "",

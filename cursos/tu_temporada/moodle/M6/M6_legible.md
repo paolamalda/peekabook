@@ -1,0 +1,452 @@
+# Módulo 6. Tus derechos y tu seguridad
+
+## M6 U01. Tus derechos básicos allá
+
+**Lo que lograrás:** Identificar los derechos básicos de las personas trabajadoras agrícolas temporales en Canadá y en Estados Unidos. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A).
+
+**Para empezar:** A un compañero de Juan Carlos el encargado le pidió su pasaporte «para guardarlo». A una compañera de Rosaura le dijeron que si se quejaba no la volverían a pedir. En esta lección verás qué no es legal.
+
+### Lo esencial (5 minutos)
+
+#### En los dos países
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Tu pasaporte es tuyo | Nadie puede quedárselo. | Ni «para cuidarlo». |
+| Pago completo y a tiempo | Con talón. | Según tu contrato. |
+| Vivienda digna | Segura, limpia, con agua. | Revisada. |
+| Sin represalias | Por quejarte o pedir ayuda. | Es tu derecho. |
+
+#### Herramientas y equipo
+
+Las herramientas y el equipo de protección que pide el trabajo debe darlos el empleador, en los dos programas.
+
+
+
+#### Trato digno
+
+Nadie puede amenazarte, golpearte, acosarte ni encerrarte. Si pasa, pide ayuda (U03).
+
+
+
+#### Un caso en un minuto
+
+El compañero de Juan Carlos no entregó su pasaporte. La compañera de Rosaura habló con el enlace del consulado sobre la amenaza; el consulado dio seguimiento.
+
+> **Idea clave:** tu pasaporte es tuyo, te deben pagar completo y a tiempo, con vivienda digna, y no pueden castigarte por pedir ayuda.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Puede el empleador quedarse con tu pasaporte?
+*Respuesta:* No.
+
+2. ¿Te pueden castigar por quejarte?
+*Respuesta:* No; es tu derecho pedir ayuda.
+
+
+#### Para recordar
+
+- Pasaporte contigo.
+- Pago completo.
+- Sin represalias.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Revisión de mi vivienda
+
+| Revisar | Bien | Mal |
+|---|---|---|
+| Agua potable | | |
+| Baños y regaderas | | |
+| Camas y espacio | | |
+| Cocina o comida | | |
+| Seguridad (gas, electricidad) | | |
+
+
+
+#### Guarda pruebas
+
+Si algo no está bien en la vivienda o en el trato, toma fotos y anota fechas. Te sirven para reclamar.
+
+
+
+#### Casos
+
+
+**Caso 1. El pasaporte**
+
+Le piden el pasaporte a un compañero de Juan Carlos.
+- *¿Qué hace?* No lo entrega.
+
+
+**Caso 2. «No te vuelven a pedir»**
+
+Amenazan a una compañera de Rosaura si se queja.
+- *¿Qué hace?* Habla con el enlace del consulado.
+
+
+**Caso 3. Sin agua**
+
+En la vivienda de Don Efrén falla el agua potable una semana.
+- *¿Qué hace?* Toma fotos, anota fechas y reclama.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Entregar el pasaporte | Pierdes control | Contigo |
+| Callar por miedo | Sigue el abuso | Pide ayuda |
+| No guardar pruebas | Difícil reclamar | Fotos |
+| Pagar tu equipo | No te toca | Lo da el empleador |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Juan Carlos, Rosaura y Don Efrén. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Quién guarda tu pasaporte? a) El encargado · b) Tú · c) El reclutador
+2. Te amenazan si te quejas. ¿Qué es? a) Una represalia que no está permitida · b) Normal en los campos de cultivo · c) Parte de lo que firmaste en el contrato
+3. ¿Quién da el equipo de protección? a) Tú lo compras · b) Tus compañeros · c) El empleador
+**Respuestas:** 1-b: tú. 2-a: represalia. 3-c: el empleador.
+
+
+
+#### Ponlo en práctica
+
+Escribe dos derechos que tienes en los dos países.
+**Respuesta:** Por ejemplo: guardar mi pasaporte y recibir mi pago completo y a tiempo.
+
+
+
+#### A tu plan
+
+Revisa tu vivienda con la tabla y guarda tu pasaporte contigo.
+
+
+
+### Para saber más
+
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Derechos de trabajadores temporales en Canadá** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Trabajadores extranjeros temporales: sus derechos están protegidos».
+
+### Palabras clave
+
+- *Represalia:* castigo por quejarte.
+- *Vivienda digna:* lugar seguro y limpio para vivir.
+- *Equipo de protección:* guantes, botas y lo que pida el trabajo.
+
+### Fuentes
+
+DOL; Gobierno de Canadá, derechos de trabajadores extranjeros temporales; consultados el 5 de octubre de 2026.
+
+---
+
+## M6 U02. Si te lastimas o te enfermas
+
+**Lo que lograrás:** Decidir qué hacer si te lastimas o te enfermas trabajando, y qué seguros te cubren. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país.
+
+**Para empezar:** Juan Carlos se cortó la mano con una herramienta. Le dijeron que «se aguantara para no perder el día». Rosaura tuvo fiebre fuerte y no sabía si podía ir al médico. En esta lección verás qué hacer.
+
+### Lo esencial (5 minutos)
+
+#### Qué te cubre
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Estados Unidos · H-2A | El empleador debe tener seguro de accidentes de trabajo (workers' compensation). | Atención y pago si no puedes trabajar. |
+| Canadá · PTAT | Seguro de accidentes de trabajo de la provincia y cobertura de salud según tu contrato. | Pregunta tu tarjeta o póliza. |
+
+#### Primero tu salud
+
+Avisa al encargado y pide atención médica. Un accidente de trabajo se tiene que reportar; no te lo pueden negar.
+
+
+
+#### Deja registro
+
+Anota fecha, hora y cómo pasó. Pide copia del reporte del accidente y guarda las recetas y comprobantes médicos.
+
+
+
+#### Un caso en un minuto
+
+Juan Carlos pidió atención y que reportaran el accidente. Le cubrió el seguro de trabajo y le pagaron los días que no pudo trabajar. Rosaura usó la cobertura de salud de su contrato.
+
+> **Idea clave:** si te lastimas, primero tu salud y reporta el accidente; el seguro de accidentes de trabajo te cubre en los dos países.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué seguro cubre accidentes de trabajo H-2A?
+*Respuesta:* El de accidentes de trabajo (workers' compensation) del empleador.
+
+2. ¿Qué haces después de un accidente?
+*Respuesta:* Aviso, pido atención y que se reporte, y guardo el registro.
+
+
+#### Para recordar
+
+- Salud primero.
+- Reporta el accidente.
+- Guarda comprobantes.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Mi ficha de salud
+
+| Dato | Lo tengo |
+|---|---|
+| Tarjeta o póliza de salud | |
+| Teléfono del encargado | |
+| Clínica más cercana | |
+| Teléfono del consulado | |
+
+
+
+#### No te pueden presionar
+
+Nadie puede presionarte para no reportar un accidente ni para trabajar lastimado.
+
+
+
+#### Casos
+
+
+**Caso 1. «Aguántate»**
+
+Le dicen a Juan Carlos que se aguante la cortada.
+- *¿Qué hace?* Pide atención y que se reporte el accidente.
+
+
+**Caso 2. La fiebre**
+
+Rosaura tiene fiebre fuerte en Ontario.
+- *¿Qué hace?* Usa la cobertura de salud de su contrato y avisa al encargado.
+
+
+**Caso 3. Sin papeles del accidente**
+
+A Don Efrén no le dieron copia del reporte.
+- *¿Qué hace?* La pide y guarda sus comprobantes médicos.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Aguantarte | Empeora | Atiéndete |
+| No reportar | Sin cobertura | Reporta |
+| No guardar comprobantes | Difícil reclamar | Guárdalos |
+| Ceder a presiones | Pierdes derechos | Pide ayuda |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Juan Carlos, Rosaura y Don Efrén. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. Te lastimas trabajando. ¿Qué haces primero? a) Te aguantas para no perder el día · b) Pides atención y que se reporte · c) Te vas a México a curarte allá
+2. ¿Te pueden presionar para no reportar un accidente? a) Sí · b) No · c) Solo si es leve
+3. ¿Qué guardas? a) Solo la venda y la medicina · b) Nada, ya te atendieron · c) Reporte, recetas y comprobantes
+**Respuestas:** 1-b: atención y reporte. 2-b: no. 3-c: comprobantes.
+
+
+
+#### Ponlo en práctica
+
+Escribe los cuatro datos de tu ficha de salud.
+**Respuesta:** Tarjeta o póliza, teléfono del encargado, clínica más cercana y teléfono del consulado.
+
+
+
+#### A tu plan
+
+Llena tu ficha de salud al llegar.
+
+
+
+### Para saber más
+
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Contrato de trabajo para trabajadores agrícolas temporales mexicanos».
+
+### Palabras clave
+
+- *Workers' compensation:* seguro de accidentes de trabajo en EE. UU.
+- *Reporte de accidente:* registro oficial de lo que pasó.
+- *Cobertura de salud:* seguro que paga tu atención médica.
+
+### Fuentes
+
+DOL; Gobierno de Canadá, contrato SAWP-México 2026; consultados el 5 de octubre de 2026.
+
+---
+
+## M6 U03. A quién llamar
+
+**Lo que lograrás:** Tener a la mano a quién llamar en Canadá y en Estados Unidos si tienes un problema. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país.
+
+**Para empezar:** Ramiro, en su primera temporada, tuvo un problema con su pago y no sabía a quién llamar. Pasaron semanas. En esta lección tendrás tu lista.
+
+### Lo esencial (5 minutos)
+
+#### En los dos países
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Consulado de México | Protección y, en Canadá, enlaces del PTAT. | Tu primer apoyo. |
+| Emergencias | 911 en los dos países. | Si hay peligro. |
+| Trata y trabajo forzoso | EE. UU.: 1-888-373-7888. | Confidencial. |
+
+#### Estados Unidos · H-2A
+
+Por pago y condiciones: División de Horas y Salarios, 1-866-487-9243. Por fraude de reclutadores: la Secretaría del Trabajo en México y el consulado.
+
+
+
+#### Canadá · PTAT
+
+El consulado de México tiene personal de enlace del PTAT. El Gobierno de Canadá también recibe reportes de abuso a trabajadores temporales (busca «sus derechos están protegidos» en canada.ca).
+
+
+
+#### Un caso en un minuto
+
+Ramiro llamó al consulado. Le ayudaron a reclamar su pago con su libreta y sus talones. Ahora lleva la lista en su cartera.
+
+> **Idea clave:** el consulado de México es tu primer apoyo en los dos países; ten a la mano la lista de teléfonos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuál es tu primer apoyo en Canadá y en EE. UU.?
+*Respuesta:* El consulado de México.
+
+2. ¿A qué número llamas por problemas de pago en EE. UU.?
+*Respuesta:* A la División de Horas y Salarios, 1-866-487-9243.
+
+
+#### Para recordar
+
+- Consulado primero.
+- 911 si hay peligro.
+- Lista en la cartera.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Mi lista de ayuda
+
+| A quién | Teléfono |
+|---|---|
+| Consulado de México más cercano | |
+| Enlace PTAT (Canadá) | |
+| División de Horas y Salarios (EE. UU.) | 1-866-487-9243 |
+| Línea contra la trata (EE. UU.) | 1-888-373-7888 |
+| Emergencias | 911 |
+| Mi familia | |
+
+
+
+#### No estás solo
+
+Pedir ayuda no te quita futuras temporadas por sí mismo. Las represalias están prohibidas.
+
+
+
+#### Casos
+
+
+**Caso 1. El pago**
+
+Ramiro tiene un problema con su pago.
+- *¿Qué hace?* Llama al consulado con su libreta y talones.
+
+
+**Caso 2. Encerrados**
+
+A un grupo no lo dejan salir de la vivienda en EE. UU.
+- *¿Qué hacen?* Llaman al 911 o a la línea contra la trata.
+
+
+**Caso 3. En Ontario**
+
+Rosaura tiene un problema con su vivienda.
+- *¿Qué hace?* Habla con el enlace del PTAT en el consulado.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No saber a quién llamar | Pierdes semanas | Lista |
+| Esperar | Se complica | Llama pronto |
+| Callar | Sigue | Pide ayuda |
+| Lista solo en el celular | Sin batería | En papel |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Ramiro, un grupo y Rosaura. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Cuál es tu primer apoyo en el extranjero? a) El reclutador que te contrató · b) El consulado de México · c) Nadie, lo resuelves tú solo
+2. No los dejan salir de la vivienda. ¿Qué hacen? a) Esperan a que termine la temporada · b) Llaman al 911 o a la línea contra la trata · c) Se callan para no perder el trabajo
+3. En Canadá, ¿quién apoya a trabajadores del PTAT? a) Nadie, lo resuelves tú solo · b) El vendedor de tarjetas telefónicas · c) El enlace del PTAT en el consulado
+**Respuestas:** 1-b: consulado. 2-b: emergencia. 3-c: enlace.
+
+
+
+#### Ponlo en práctica
+
+Escribe el número de emergencias en Canadá y en Estados Unidos.
+**Respuesta:** 911 en los dos.
+
+
+
+#### A tu plan
+
+Llena tu lista de ayuda y guárdala en papel en tu cartera.
+
+
+
+### Para saber más
+
+- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx
+- **Línea contra la trata en EE. UU.:** 1-888-373-7888.
+- **División de Horas y Salarios** (DOL · español): 1-866-487-9243.
+
+### Palabras clave
+
+- *Consulado:* oficina de México en otro país.
+- *Trata:* obligar a alguien a trabajar con engaños o amenazas.
+- *Enlace:* persona que te atiende y da seguimiento.
+
+### Fuentes
+
+SRE; DOL; Línea Nacional contra la Trata de Personas de EE. UU.; Gobierno de Canadá; consultados el 5 de octubre de 2026.
+
+---

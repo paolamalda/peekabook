@@ -1,0 +1,447 @@
+$CATEGORY: $course$/Tu Autonomía v0.1/M1
+
+::M1 U01 P1::¿Qué te da una cuenta a tu nombre? {
+	~Que tu pareja vea tus gastos #No es la mejor opción. Tú decides.
+	~Más deudas #No es la mejor opción. Tú decides.
+	=Dinero que decides tú #¡Correcto! Tú decides.
+}
+
+::M1 U01 P2::¿Qué porcentaje de mujeres tiene cuenta en México? {
+	~90%, casi todas #No es la mejor opción. 58.6%.
+	=58.6% #¡Correcto! 58.6%.
+	~20%, una de cada cinco #No es la mejor opción. 58.6%.
+}
+
+::M1 U01 P3::Tu pareja te pide tu NIP. ¿Qué haces? {
+	~Le das la mitad #No es la mejor opción. Es tuyo.
+	=No se lo das #¡Correcto! Es tuyo.
+	~Se lo das #No es la mejor opción. Es tuyo.
+}
+
+::M1 U02 P1::¿Dónde ves si estás casada por sociedad conyugal? {
+	~En tu recibo de luz #No es la mejor opción. El acta.
+	~En tu INE, atrás de la foto #No es la mejor opción. El acta.
+	=En tu acta de matrimonio #¡Correcto! El acta.
+}
+
+::M1 U02 P2::Van a comprar un terreno juntos. ¿Cómo debe quedar la escritura? {
+	~Solo a nombre de él #No es la mejor opción. Los dos.
+	=A nombre de los dos #¡Correcto! Los dos.
+	~Sin nombre #No es la mejor opción. Los dos.
+}
+
+::M1 U02 P3::¿Dónde guardas copias de tus papeles? {
+	~Se las das a tu suegra para que las cuide #No es la mejor opción. Lugar tuyo.
+	=En un lugar que solo tú conozcas o en tu correo #¡Correcto! Lugar tuyo.
+	~Donde todos las vean #No es la mejor opción. Lugar tuyo.
+}
+
+::M1 U03 P1::Cuidas la casa y tu pareja gana el sueldo. ¿De quién es el dinero del hogar? {
+	~De nadie #No es la mejor opción. De los dos.
+	~Solo de él #No es la mejor opción. De los dos.
+	=De los dos #¡Correcto! De los dos.
+}
+
+::M1 U03 P2::Quedan 1,000 pesos después de gastos. ¿Cuánto para cada uno por igual? {
+	~1,000 para él #No es la mejor opción. Mitad.
+	=500 #¡Correcto! Mitad.
+	~200 #No es la mejor opción. Mitad.
+}
+
+::M1 U03 P3::¿Cómo conviene hablar de dinero en pareja? {
+	~Nunca #No es la mejor opción. Con números.
+	=Con el presupuesto y los números #¡Correcto! Con números.
+	~A gritos, cuando ya no aguantas #No es la mejor opción. Con números.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M2
+
+::M2 U01 P1::¿Cuidar a tus papás es trabajo? {
+	~Solo si te pagan por hacerlo #No es la mejor opción. Es trabajo.
+	~No #No es la mejor opción. Es trabajo.
+	=Sí, aunque no tenga pago #¡Correcto! Es trabajo.
+}
+
+::M2 U01 P2::¿Cuántas horas sin pago hacen los hombres en promedio? {
+	~39.7 #No es la mejor opción. 18.2.
+	=18.2 #¡Correcto! 18.2.
+	~0 #No es la mejor opción. 18.2.
+}
+
+::M2 U01 P3::¿Para qué sirve contar tus horas? {
+	=Para ver tu aporte y repartir mejor #¡Correcto! Ver y repartir.
+	~Para nada #No es la mejor opción. Ver y repartir.
+	~Para pedir un préstamo con tus horas #No es la mejor opción. Ver y repartir.
+}
+
+::M2 U02 P1::¿Tus lentes son un lujo o un gasto necesario? {
+	~Depende de tu pareja #No es la mejor opción. Necesario.
+	~Lujo #No es la mejor opción. Necesario.
+	=Necesario #¡Correcto! Necesario.
+}
+
+::M2 U02 P2::Te entran 8,000 por quincena. ¿Cuánto es 5% para ti? {
+	~80 #No es la mejor opción. 5% de 8,000.
+	=400 #¡Correcto! 5% de 8,000.
+	~800 #No es la mejor opción. 5% de 8,000.
+}
+
+::M2 U02 P3::¿Qué renglón suele faltar en el presupuesto de muchas mujeres? {
+	=El de ellas mismas #¡Correcto! Ellas mismas.
+	~La comida de toda la semana #No es la mejor opción. Ellas mismas.
+	~La renta #No es la mejor opción. Ellas mismas.
+}
+
+::M2 U03 P1::Él gana 70% del total y ella 30%. Los gastos comunes son 10,000. ¿Cuánto pone ella? {
+	~7,000 #No es la mejor opción. 30% de 10,000.
+	~5,000 #No es la mejor opción. 30% de 10,000.
+	=3,000 #¡Correcto! 30% de 10,000.
+}
+
+::M2 U03 P2::¿Cada cuándo revisan el acuerdo? {
+	=En una fecha fija o cuando algo cambia #¡Correcto! Fecha fija o cambios.
+	~Nunca #No es la mejor opción. Fecha fija o cambios.
+	~Solo si hay pleito entre los dos #No es la mejor opción. Fecha fija o cambios.
+}
+
+::M2 U03 P3::¿Qué ayuda a evitar malentendidos? {
+	=Escribir el acuerdo #¡Correcto! Por escrito.
+	~No hablar #No es la mejor opción. Por escrito.
+	~Que decida uno solo #No es la mejor opción. Por escrito.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M3
+
+::M3 U01 P1::¿Cuál es la brecha de Afore entre hombres y mujeres? {
+	~2 puntos, casi nada #No es la mejor opción. 51.4 menos 34.2.
+	~Ninguna #No es la mejor opción. 51.4 menos 34.2.
+	=17.2 puntos #¡Correcto! 51.4 menos 34.2.
+}
+
+::M3 U01 P2::¿Con qué localizas tu Afore? {
+	~Con tu acta de matrimonio #No es la mejor opción. CURP.
+	=Con tu CURP #¡Correcto! CURP.
+	~Con tu recibo de luz #No es la mejor opción. CURP.
+}
+
+::M3 U01 P3::Nunca tuviste empleo formal. ¿Puedes tener Afore? {
+	~Solo si te casas y tu esposo tiene una #No es la mejor opción. Se puede abrir.
+	=Sí, la abres con tu CURP #¡Correcto! Se puede abrir.
+	~No #No es la mejor opción. Se puede abrir.
+}
+
+::M3 U02 P1::Empezaste a cotizar en 1995. ¿Qué ley te toca? {
+	~Ley 97 #No es la mejor opción. Antes de 1997.
+	~Ninguna #No es la mejor opción. Antes de 1997.
+	=Ley 73 #¡Correcto! Antes de 1997.
+}
+
+::M3 U02 P2::Eres Ley 97 y tienes 600 semanas. ¿Cuántas te faltan en 2026? {
+	=275 #¡Correcto! 875 menos 600.
+	~400 #No es la mejor opción. 875 menos 600.
+	~0 #No es la mejor opción. 875 menos 600.
+}
+
+::M3 U02 P3::Un gestor te ofrece completar semanas por 15,000. ¿Qué haces? {
+	~Pagas la mitad ahora y la otra al terminar #No es la mejor opción. Directo.
+	=Preguntas directo en el IMSS #¡Correcto! Directo.
+	~Pagas #No es la mejor opción. Directo.
+}
+
+::M3 U03 P1::¿Dónde puedes aportar a tu Afore? {
+	~Solo por medio de tu patrón #No es la mejor opción. Tres formas.
+	~Solo en las oficinas del IMSS, con cita #No es la mejor opción. Tres formas.
+	=En tienda, app o domiciliado #¡Correcto! Tres formas.
+}
+
+::M3 U03 P2::Aportas 200 al mes. ¿Cuánto en 10 años, sin rendimientos? {
+	~2,400 #No es la mejor opción. 200 por 120 meses.
+	=24,000 #¡Correcto! 200 por 120 meses.
+	~240,000 #No es la mejor opción. 200 por 120 meses.
+}
+
+::M3 U03 P3::¿Qué conviene más? {
+	~Esperar a ganar más para aportar en grande #No es la mejor opción. El tiempo ayuda.
+	=Empezar pronto con poco #¡Correcto! El tiempo ayuda.
+	~Aportar solo al final #No es la mejor opción. El tiempo ayuda.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M4
+
+::M4 U01 P1::¿Quién puede recibir la Pensión Mujeres Bienestar? {
+	~Solo mujeres que nunca trabajaron #No es la mejor opción. 60 a 64.
+	~Mujeres de 18 a 30 #No es la mejor opción. 60 a 64.
+	=Mujeres de 60 a 64 años #¡Correcto! 60 a 64.
+}
+
+::M4 U01 P2::¿Cuánto es al bimestre en 2026? {
+	~6,400 #No es la mejor opción. 3,100.
+	=3,100 #¡Correcto! 3,100.
+	~1,000 #No es la mejor opción. 3,100.
+}
+
+::M4 U01 P3::Te piden dinero para registrarte. ¿Qué es? {
+	=Fraude #¡Correcto! Es sin costo.
+	~Una cuota oficial #No es la mejor opción. Es sin costo.
+	~Algo normal entre parejas #No es la mejor opción. Es sin costo.
+}
+
+::M4 U02 P1::¿Quién guarda tu tarjeta de pensión? {
+	~Tu nuera #No es la mejor opción. Tú.
+	~Tu hijo #No es la mejor opción. Tú.
+	=Tú #¡Correcto! Tú.
+}
+
+::M4 U02 P2::Cobras 3,100 por bimestre. ¿Cuánto por mes? {
+	~3,100 #No es la mejor opción. La mitad.
+	=1,550 #¡Correcto! La mitad.
+	~1,000 #No es la mejor opción. La mitad.
+}
+
+::M4 U02 P3::Alguien usa tu pensión sin permiso. ¿Qué es? {
+	=Violencia económica #¡Correcto! Violencia económica.
+	~Algo normal en las familias #No es la mejor opción. Violencia económica.
+	~Ayuda #No es la mejor opción. Violencia económica.
+}
+
+::M4 U03 P1::¿Qué pasa a los 65 si recibes Mujeres Bienestar? {
+	~Te registras desde cero en un módulo #No es la mejor opción. Automático.
+	~Pierdes la pensión #No es la mejor opción. Automático.
+	=Pasas en automático a la Pensión Adultos Mayores #¡Correcto! Automático.
+}
+
+::M4 U03 P2::¿Cuánto más recibes por bimestre al cambiar? {
+	=3,300 #¡Correcto! 6,400 menos 3,100.
+	~100 #No es la mejor opción. 6,400 menos 3,100.
+	~Nada, se queda igual #No es la mejor opción. 6,400 menos 3,100.
+}
+
+::M4 U03 P3::Te cobran por hacer el cambio. ¿Qué haces? {
+	=No pagas y reportas #¡Correcto! Es sin costo.
+	~Pagas la mitad ahora y la otra al terminar #No es la mejor opción. Es sin costo.
+	~Pagas #No es la mejor opción. Es sin costo.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M5
+
+::M5 U01 P1::¿Qué porcentaje de mujeres tiene algún seguro? {
+	~50% #No es la mejor opción. 18.3%.
+	~80%, la mayoría #No es la mejor opción. 18.3%.
+	=18.3% #¡Correcto! 18.3%.
+}
+
+::M5 U01 P2::¿Dónde puede haber un seguro que ya tienes? {
+	=En las prestaciones de tu trabajo #¡Correcto! Prestaciones.
+	~En tu INE, atrás de la foto #No es la mejor opción. Prestaciones.
+	~En tu recibo de luz #No es la mejor opción. Prestaciones.
+}
+
+::M5 U01 P3::Tus beneficiarios son menores. ¿Qué haces? {
+	~Pones a tu expareja para que los cuide #No es la mejor opción. Un tutor.
+	=Preguntas cómo nombrar un tutor #¡Correcto! Un tutor.
+	~Nada, se queda igual #No es la mejor opción. Un tutor.
+}
+
+::M5 U02 P1::No tienes seguridad social. ¿A dónde vas? {
+	~Solo a hospitales privados #No es la mejor opción. IMSS-Bienestar.
+	~A ningún lado, porque no tienes derecho #No es la mejor opción. IMSS-Bienestar.
+	=A tu centro de salud del IMSS-Bienestar #¡Correcto! IMSS-Bienestar.
+}
+
+::M5 U02 P2::Te separaste y eras beneficiaria del IMSS de tu pareja. ¿Qué haces? {
+	~Nada, se queda igual #No es la mejor opción. Revisa.
+	=Revisas tu vigencia #¡Correcto! Revisa.
+	~Usas su credencial mientras se arregla #No es la mejor opción. Revisa.
+}
+
+::M5 U02 P3::Apartas 150 al mes para salud. ¿Cuánto en un año? {
+	~150 #No es la mejor opción. 150 por 12.
+	=1,800 #¡Correcto! 150 por 12.
+	~15,000 #No es la mejor opción. 150 por 12.
+}
+
+::M5 U03 P1::Te cobran un seguro que no pediste. ¿Qué haces? {
+	~Cierras tu cuenta sin decir nada #No es la mejor opción. Cancela y reclama.
+	~Lo sigues pagando #No es la mejor opción. Cancela y reclama.
+	=Pides cancelarlo y la devolución #¡Correcto! Cancela y reclama.
+}
+
+::M5 U03 P2::Un seguro cuesta 95 al mes. ¿Cuánto al año? {
+	~95 #No es la mejor opción. 95 por 12.
+	=1,140 #¡Correcto! 95 por 12.
+	~950, como en diez meses #No es la mejor opción. 95 por 12.
+}
+
+::M5 U03 P3::¿Qué preguntas de cada seguro? {
+	~Su color y el diseño de la póliza #No es la mejor opción. Las tres preguntas.
+	=Qué cubre, cuánto cuesta y si lo necesitas #¡Correcto! Las tres preguntas.
+	~Nada, se queda igual #No es la mejor opción. Las tres preguntas.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M6
+
+::M6 U01 P1::Tu pareja vende un bien de los dos sin decirte. ¿Qué es? {
+	~Un regalo de vez en cuando #No es la mejor opción. Es patrimonial.
+	~Algo normal entre parejas #No es la mejor opción. Es patrimonial.
+	=Violencia patrimonial #¡Correcto! Es patrimonial.
+}
+
+::M6 U01 P2::¿A dónde llamas para orientarte las 24 horas? {
+	=Al 079, opción 1 #¡Correcto! 079.
+	~A tu suegra, para que hable con él #No es la mejor opción. 079.
+	~A nadie #No es la mejor opción. 079.
+}
+
+::M6 U01 P3::¿Qué porcentaje de mujeres ha vivido violencia económica, patrimonial o discriminación? {
+	=27.4% #¡Correcto! 27.4%.
+	~2% #No es la mejor opción. 27.4%.
+	~90%, casi todas #No es la mejor opción. 27.4%.
+}
+
+::M6 U02 P1::¿Dónde guardas copias de tus papeles? {
+	~En el auto de tu pareja #No es la mejor opción. Fuera de casa.
+	~Solo en la casa, en un cajón #No es la mejor opción. Fuera de casa.
+	=Con alguien de confianza o en tu correo #¡Correcto! Fuera de casa.
+}
+
+::M6 U02 P2::Hay peligro inmediato. ¿A dónde llamas? {
+	=Al 911 #¡Correcto! 911.
+	~A la tienda #No es la mejor opción. 911.
+	~A nadie #No es la mejor opción. 911.
+}
+
+::M6 U02 P3::¿Quién te orienta sin costo sobre bienes y pensión? {
+	=La defensoría pública #¡Correcto! Defensoría.
+	~Un vecino que sabe de leyes #No es la mejor opción. Defensoría.
+	~El banco #No es la mejor opción. Defensoría.
+}
+
+::M6 U03 P1::¿Dónde ves si hay créditos a tu nombre que no pediste? {
+	~En tu INE, atrás de la foto #No es la mejor opción. Reporte.
+	~En tu acta de nacimiento #No es la mejor opción. Reporte.
+	=En tu reporte de crédito #¡Correcto! Reporte.
+}
+
+::M6 U03 P2::Tu expareja conoce tus contraseñas. ¿Qué haces? {
+	=Las cambias #¡Correcto! Cámbialas.
+	~Nada, se queda igual #No es la mejor opción. Cámbialas.
+	~Le pides que las olvide #No es la mejor opción. Cámbialas.
+}
+
+::M6 U03 P3::Te sientes abrumada. ¿Qué haces? {
+	=Un paso por semana #¡Correcto! Paso a paso.
+	~Nada, se queda igual #No es la mejor opción. Paso a paso.
+	~Todo en un día, para quitártelo de encima #No es la mejor opción. Paso a paso.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M7
+
+::M7 U01 P1::¿Qué cubre la pensión alimenticia? {
+	~Solo ropa #No es la mejor opción. Todo eso.
+	~Solo comida, lo demás es aparte #No es la mejor opción. Todo eso.
+	=Comida, casa, salud y escuela #¡Correcto! Todo eso.
+}
+
+::M7 U01 P2::¿De quién es el derecho? {
+	=De los hijos #¡Correcto! De los hijos.
+	~De la mamá que cuida a los hijos #No es la mejor opción. De los hijos.
+	~Del papá #No es la mejor opción. De los hijos.
+}
+
+::M7 U01 P3::¿Cómo se fija el monto? {
+	~Lo que quiera quien paga #No es la mejor opción. Necesidades y posibilidades.
+	=Según necesidades y posibilidades #¡Correcto! Necesidades y posibilidades.
+	~Siempre 1,000 pesos #No es la mejor opción. Necesidades y posibilidades.
+}
+
+::M7 U02 P1::La pensión no llega desde hace meses. ¿Qué haces primero? {
+	~Le quitas a los niños #No es la mejor opción. Pruebas.
+	~Nada, se queda igual #No es la mejor opción. Pruebas.
+	=Juntas pruebas con fechas #¡Correcto! Pruebas.
+}
+
+::M7 U02 P2::Quien paga trabaja en una empresa. ¿Qué puedes pedir? {
+	~Un regalo de vez en cuando #No es la mejor opción. Nómina.
+	=Descuento por nómina #¡Correcto! Nómina.
+	~Nada, se queda igual #No es la mejor opción. Nómina.
+}
+
+::M7 U02 P3::Te da miedo pedirla. ¿Dónde te orientas? {
+	~En el banco donde cobras #No es la mejor opción. 079.
+	=En el 079, opción 1 #¡Correcto! 079.
+	~En la tienda #No es la mejor opción. 079.
+}
+
+::M7 U03 P1::¿Dónde conviene guardar la pensión? {
+	~Con tu expareja #No es la mejor opción. Separada.
+	~Mezclada con tu sueldo para que alcance #No es la mejor opción. Separada.
+	=En un apartado o cuenta distinta #¡Correcto! Separada.
+}
+
+::M7 U03 P2::Apartas 250 al mes para el regreso a clases. ¿Cuánto en 10 meses? {
+	=2,500 #¡Correcto! 250 por 10.
+	~250 #No es la mejor opción. 250 por 10.
+	~25,000 #No es la mejor opción. 250 por 10.
+}
+
+::M7 U03 P3::¿Qué guardas? {
+	~Nada, se queda igual #No es la mejor opción. Comprobantes.
+	=Recibos de escuela y médico #¡Correcto! Comprobantes.
+	~Solo los tickets del súper de cada semana #No es la mejor opción. Comprobantes.
+}
+
+$CATEGORY: $course$/Tu Autonomía v0.1/M8
+
+::M8 U01 P1::¿El estrés por dinero afecta la salud? {
+	~Solo a los hombres #No es la mejor opción. Sí.
+	~No #No es la mejor opción. Sí.
+	=Sí #¡Correcto! Sí.
+}
+
+::M8 U01 P2::¿Qué porcentaje de mujeres vive con estrés financiero alto? {
+	~10%, muy pocas #No es la mejor opción. 42.2%.
+	=42.2% #¡Correcto! 42.2%.
+	~90%, casi todas #No es la mejor opción. 42.2%.
+}
+
+::M8 U01 P3::Evitas abrir tus estados de cuenta. ¿Qué haces? {
+	=Los abres con alguien de confianza #¡Correcto! Con apoyo.
+	~Los tiras #No es la mejor opción. Con apoyo.
+	~Los escondes hasta que tengas dinero #No es la mejor opción. Con apoyo.
+}
+
+::M8 U02 P1::¿Qué baja el estrés por dinero? {
+	~Pedir otro préstamo #No es la mejor opción. Pasos pequeños.
+	~No pensar en eso #No es la mejor opción. Pasos pequeños.
+	=Tres pasos pequeños #¡Correcto! Pasos pequeños.
+}
+
+::M8 U02 P2::Apartas 100 por semana. ¿En cuántas semanas llegas a 500? {
+	=5 #¡Correcto! 5 semanas.
+	~50 #No es la mejor opción. 5 semanas.
+	~1 #No es la mejor opción. 5 semanas.
+}
+
+::M8 U02 P3::¿Cada cuándo revisas tus cuentas? {
+	=En una fecha fija al mes #¡Correcto! Fecha fija.
+	~Solo en crisis, cuando ya no alcanza #No es la mejor opción. Fecha fija.
+	~Nunca #No es la mejor opción. Fecha fija.
+}
+
+::M8 U03 P1::¿Qué lleva cada parte de tu plan? {
+	~Un dibujo #No es la mejor opción. Acción y fecha.
+	~Solo lo que ya hiciste en el curso #No es la mejor opción. Acción y fecha.
+	=La siguiente acción y una fecha #¡Correcto! Acción y fecha.
+}
+
+::M8 U03 P2::¿Cada cuándo revisas tu plan? {
+	~Nunca #No es la mejor opción. Cada tres meses.
+	=Cada tres meses o si algo cambia #¡Correcto! Cada tres meses.
+	~Cada diez años, cuando cambia todo #No es la mejor opción. Cada tres meses.
+}
+
+::M8 U03 P3::Tienes un plan de seguridad privado. ¿Dónde lo guardas? {
+	=Aparte, en privado #¡Correcto! Aparte.
+	~En el plan que compartes #No es la mejor opción. Aparte.
+	~En la puerta del refrigerador #No es la mejor opción. Aparte.
+}

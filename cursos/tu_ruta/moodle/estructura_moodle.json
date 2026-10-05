@@ -1,0 +1,365 @@
+{
+ "curso": "Tu Ruta, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu ingreso real",
+   "orden": 1,
+   "resumen": "<p>Tu ganancia real por hora y un sueldo fijo para las semanas malas.</p><p><strong>Al terminar tendrás:</strong> tu ganancia real por hora y un sueldo fijo para las semanas malas.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Lo que entra no es lo que ganas",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Cuánto ganas por hora",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Un sueldo fijo en un trabajo variable",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tus derechos con la reforma",
+   "orden": 2,
+   "resumen": "<p>Tus derechos claros: quién es persona trabajadora de plataforma, prestaciones y cómo reclamar.</p><p><strong>Al terminar tendrás:</strong> tus derechos claros: quién es persona trabajadora de plataforma, prestaciones y cómo reclamar.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Eres persona trabajadora de plataforma?",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Aguinaldo, vacaciones y reparto de utilidades",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Desactivaciones y cómo reclamar",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Tu IMSS, tu Afore y tu Infonavit",
+   "orden": 3,
+   "resumen": "<p>Tu situación ante el IMSS revisada y tu Afore localizada.</p><p><strong>Al terminar tendrás:</strong> tu situación ante el IMSS revisada y tu Afore localizada.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Lo que te da el IMSS completo",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si no llegas al umbral",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu Afore y tus semanas",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Tus impuestos",
+   "orden": 4,
+   "resumen": "<p>Tus retenciones entendidas y tu RFC en orden.</p><p><strong>Al terminar tendrás:</strong> tus retenciones entendidas y tu RFC en orden.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Lo que la app retiene de impuestos",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu RFC y tu e.firma",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Al corriente con el SAT",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Tu vehículo",
+   "orden": 5,
+   "resumen": "<p>Tu apartado para el vehículo y tu decisión sobre seguro y compra.</p><p><strong>Al terminar tendrás:</strong> tu apartado para el vehículo y tu decisión sobre seguro y compra.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "El apartado del vehículo",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El seguro de tu vehículo",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Comprar, financiar o rentar tu vehículo",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Accidentes, salud y días sin trabajo",
+   "orden": 6,
+   "resumen": "<p>Tu plan ante un accidente y tu fondo para días sin trabajo.</p><p><strong>Al terminar tendrás:</strong> tu plan ante un accidente y tu fondo para días sin trabajo.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Si tienes un accidente en la ruta",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Un fondo para los días sin trabajo",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Cansancio, estrés y tu dinero",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Préstamos y fraudes en la ruta",
+   "orden": 7,
+   "resumen": "<p>Tu regla contra préstamos caros y fraudes de cuentas.</p><p><strong>Al terminar tendrás:</strong> tu regla contra préstamos caros y fraudes de cuentas.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Adelantos y préstamos dentro de la app",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Rentar o prestar tu cuenta",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Soporte falso y robo de cuentas",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Tu futuro",
+   "orden": 8,
+   "resumen": "<p>Tu ahorro para el retiro y tu plan de una página.</p><p><strong>Al terminar tendrás:</strong> tu ahorro para el retiro y tu plan de una página.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu retiro aunque trabajes con apps",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "La app como escalón",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de ruta en una página",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

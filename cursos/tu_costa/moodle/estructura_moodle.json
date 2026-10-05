@@ -1,0 +1,277 @@
+{
+ "curso": "Tu Costa, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu plan de dinero ante huracanes",
+   "orden": 1,
+   "resumen": "<p>Tu plan de dinero para antes y después de un huracán.</p><p><strong>Al terminar tendrás:</strong> tu plan de dinero para antes y después de un huracán.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Antes de la temporada: tu plan de dinero",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Después del huracán: sin prisas ni préstamos caros",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tus documentos a salvo",
+   "orden": 2,
+   "resumen": "<p>Tus documentos importantes protegidos y respaldados.</p><p><strong>Al terminar tendrás:</strong> tus documentos importantes protegidos y respaldados.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tus papeles en una bolsa",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si perdiste tus papeles",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "El ingreso de temporada, mes a mes",
+   "orden": 3,
+   "resumen": "<p>Tu calendario de ingresos del año y lo que apartas en temporada buena.</p><p><strong>Al terminar tendrás:</strong> tu calendario de ingresos del año y lo que apartas en temporada buena.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu calendario de ingresos",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Aparta en la temporada buena",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Fondo de emergencia y seguro de vivienda",
+   "orden": 4,
+   "resumen": "<p>Tu fondo de emergencia en marcha y tu decisión sobre el seguro de vivienda.</p><p><strong>Al terminar tendrás:</strong> tu fondo de emergencia en marcha y tu decisión sobre el seguro de vivienda.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu fondo de emergencia",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Asegurar tu casa?",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Crédito para tu actividad",
+   "orden": 5,
+   "resumen": "<p>Tu comparación del costo total de cualquier crédito o adelanto.</p><p><strong>Al terminar tendrás:</strong> tu comparación del costo total de cualquier crédito o adelanto.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "El adelanto del comprador",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Compara el costo total de un crédito",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Tus derechos y cómo reclamar",
+   "orden": 6,
+   "resumen": "<p>Tu forma de pedir un trato digno y de reclamar con folio.</p><p><strong>Al terminar tendrás:</strong> tu forma de pedir un trato digno y de reclamar con folio.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tienes derecho a un trato digno",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Reclama con folio",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Remesas que rinden",
+   "orden": 7,
+   "resumen": "<p>Tu forma de recibir remesas con menos comisión y con un plan.</p><p><strong>Al terminar tendrás:</strong> tu forma de recibir remesas con menos comisión y con un plan.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Compara cómo te mandan el dinero",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Un plan para la remesa",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Tu patrimonio y tu herencia",
+   "orden": 8,
+   "resumen": "<p>Tus papeles de casa y terreno en orden y tu decisión sobre la herencia.</p><p><strong>Al terminar tendrás:</strong> tus papeles de casa y terreno en orden y tu decisión sobre la herencia.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Los papeles de tu casa y tu terreno",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Que tu familia no pelee por lo tuyo",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    }
+   ]
+  }
+ ]
+}

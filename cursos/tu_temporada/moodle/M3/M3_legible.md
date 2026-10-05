@@ -1,0 +1,445 @@
+# Módulo 3. Tu pago allá
+
+## M3 U01. Tu talón de pago
+
+**Lo que lograrás:** Leer tu talón de pago para revisar horas, tarifa, pago por pieza y descuentos, en Canadá o en Estados Unidos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país.
+
+**Para empezar:** Juan Carlos cobra cada semana, pero nunca ha leído el papel que le dan con el pago. Rosaura, en Canadá, ve muchas líneas de descuentos que no entiende. En esta lección aprenderán a leerlo.
+
+### Lo esencial (5 minutos)
+
+#### Te deben dar un talón
+
+Con cada pago, el empleador debe darte un estado de pago con tus horas, lo que ganaste y lo que te descontaron. Es tu prueba.
+
+
+
+#### Lo que revisas
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Horas | Las que trabajaste. | Compara con tu libreta. |
+| Tarifa | Por hora o por pieza. | La del contrato. |
+| Piezas | Cajas, cubetas, libras. | Si te pagan así. |
+| Descuentos | Solo los permitidos. | Pregunta cualquiera raro. |
+
+#### Los descuentos de cada país
+
+**Canadá · PTAT:** impuesto sobre la renta, Plan de Pensiones de Canadá (CPP), Seguro de Empleo (EI) y los que permita tu contrato (parte del avión; vivienda solo en Columbia Británica). **Estados Unidos · H-2A:** normalmente no hay retención de Seguro Social; otros descuentos deben estar permitidos y en tu contrato.
+
+
+
+#### Un caso en un minuto
+
+Juan Carlos anotó una semana: 52 horas. El talón decía 46. Preguntó con su libreta y le corrigieron el pago. Rosaura aprendió que el CPP y el EI no son pérdidas: son cotizaciones (módulos 5 y 8).
+
+> **Idea clave:** compara tu talón con tu propia libreta de horas y piezas, y pregunta cualquier descuento que no entiendas.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué debe traer tu talón de pago?
+*Respuesta:* Mis horas, lo que gané y lo que me descontaron.
+
+2. ¿Qué descuentos son normales en Canadá?
+*Respuesta:* Impuesto, CPP, EI y los que permita el contrato.
+
+
+#### Para recordar
+
+- Lee tu talón.
+- Lleva tu libreta.
+- Pregunta los descuentos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Mi libreta de la semana
+
+| Día | Entrada | Salida | Horas | Piezas |
+|---|---|---|---|---|
+| Lunes | | | | |
+| Martes | | | | |
+| Miércoles | | | | |
+| Jueves | | | | |
+| Viernes | | | | |
+| Sábado | | | | |
+| **Total** | | | | |
+
+
+
+#### Pago por pieza
+
+Si te pagan por pieza, en la H-2A tu pago de la semana no debe ser menor que tus horas por el salario por hora del contrato. Revisa en tu contrato cómo aplica en tu caso.
+
+
+
+#### Casos
+
+
+**Caso 1. Seis horas menos**
+
+El talón de Juan Carlos tiene 6 horas menos que su libreta.
+- *¿Qué hace?* Pregunta al encargado con su libreta en mano.
+
+
+**Caso 2. Renta en la H-2A**
+
+A Ramiro le descuentan «renta» de la vivienda en EE. UU.
+- *¿Qué hace?* Pregunta: la vivienda H-2A es sin costo para el trabajador.
+
+
+**Caso 3. Las siglas de Canadá**
+
+Rosaura no entiende «CPP» y «EI» en su talón.
+- *¿Qué hace?* Sabe que son cotizaciones y las anota para su declaración.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No leer el talón | No ves errores | Léelo |
+| No llevar libreta | Sin pruebas | Anota diario |
+| Aceptar descuentos raros | Pierdes dinero | Pregunta |
+| Tirar los talones | Sin respaldo | Guárdalos |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Juan Carlos, Ramiro y Rosaura. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Qué trae tu talón de pago? a) Solo tu nombre, la fecha y el empleador · b) Horas, lo que ganaste y descuentos · c) Las horas que te faltan para el bono
+2. Te descuentan renta de la vivienda H-2A. ¿Qué haces? a) Preguntas, porque es sin costo · b) Lo aceptas porque así viene en el talón · c) Pagas y luego lo reclamas en México
+3. ¿Qué son el CPP y el EI en tu talón de Canadá? a) Multas por faltas o retrasos en el trabajo · b) Comisiones del banco por el depósito · c) Cotizaciones de pensión y seguro de empleo
+**Respuestas:** 1-b: los tres. 2-a: sin costo. 3-c: cotizaciones.
+
+
+
+#### Ponlo en práctica
+
+Trabajaste 48 horas a 15 dólares la hora. ¿Cuánto debe decir tu talón antes de descuentos?
+**Respuesta:** 720 dólares.
+
+
+
+#### A tu plan
+
+Lleva tu libreta toda una semana y compárala con tu talón.
+
+
+
+### Para saber más
+
+- **Derechos de pago H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Derechos de trabajadores temporales en Canadá** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Trabajadores extranjeros temporales: sus derechos están protegidos».
+
+### Palabras clave
+
+- *Talón de pago:* papel con el detalle de tu pago.
+- *CPP:* Plan de Pensiones de Canadá.
+- *EI:* Seguro de Empleo de Canadá.
+
+### Fuentes
+
+DOL, Wage and Hour Division; Gobierno de Canadá, contrato SAWP-México 2026; consultados el 5 de octubre de 2026.
+
+---
+
+## M3 U02. ¿Te pagan lo correcto?
+
+**Lo que lograrás:** Explicar cómo se fija tu salario en Canadá y en Estados Unidos, y qué hacer si te pagan menos. Aplica a Canadá (PTAT) y a Estados Unidos (H-2A); lo que cambia está marcado por país.
+
+**Para empezar:** Don Efrén notó que este año su salario por hora en EE. UU. bajó. Rosaura quiere saber si en Ontario le pagan lo que dice su contrato. En esta lección verán cómo se fija el salario en cada país.
+
+### Lo esencial (5 minutos)
+
+#### Cómo se fija tu salario
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Canadá · PTAT | El más alto entre: el mínimo de la provincia, el salario de referencia del año y lo que se paga a trabajadores canadienses en la misma tarea. | Está en tu contrato. |
+| Estados Unidos · H-2A | Desde octubre de 2025, dos niveles por estado según la habilidad del puesto. | En 2026, de unos 8 a 17 dólares por hora. |
+
+#### El contrato manda
+
+**En los dos países:** te deben pagar al menos lo que dice tu contrato. Revisa la tarifa antes de firmar y compárala con tu talón.
+
+
+
+#### Si te pagan menos
+
+Habla primero con el encargado con tu libreta y tu talón. Si no se corrige: en **Canadá · PTAT**, el consulado de México tiene personal de enlace del PTAT; en **Estados Unidos · H-2A**, la División de Horas y Salarios del Departamento del Trabajo: 1-866-487-9243, y el consulado.
+
+
+
+#### Un caso en un minuto
+
+Don Efrén revisó su contrato: el salario bajó por el nuevo nivel en su estado y estaba escrito. Rosaura vio que le pagaban menos horas extra de las acordadas y lo resolvió con el enlace del consulado.
+
+> **Idea clave:** te deben pagar al menos lo del contrato; si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
+
+
+
+#### Comprueba lo que entendiste
+
+1. En el PTAT, ¿cómo se fija el salario?
+*Respuesta:* El más alto entre el mínimo de la provincia, el salario de referencia y lo que ganan trabajadores canadienses en la misma tarea.
+
+2. En EE. UU., ¿a qué número llamas si no corrigen tu pago?
+*Respuesta:* A la División de Horas y Salarios, 1-866-487-9243.
+
+
+#### Para recordar
+
+- El contrato manda.
+- Reclama con tu libreta.
+- Consulado y autoridad laboral.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Cuánto cambia en una temporada
+
+- Dólares menos por hora: **2**
+- Horas de la temporada: **960**
+- Dólares menos en la temporada: **1,920**
+
+
+#### Antes de aceptar otra temporada
+
+Compara lo que ganarías (horas por salario, menos descuentos) con lo que dejas de ganar en México y los meses que estarás fuera. Decide con números.
+
+
+
+#### Casos
+
+
+**Caso 1. Bajó el salario**
+
+El salario H-2A de Don Efrén bajó este año.
+- *¿Qué hace?* Revisa su contrato y el nivel de su puesto.
+
+
+**Caso 2. Menos que el contrato en Canadá**
+
+A Rosaura le pagan menos de lo que dice su contrato.
+- *¿Qué hace?* Reclama con su libreta y, si no se corrige, acude al enlace del consulado.
+
+
+**Caso 3. Menos que el contrato en EE. UU.**
+
+A Juan Carlos le pagan menos que la tarifa del contrato.
+- *¿Qué hace?* Reclama y, si no se corrige, llama al 1-866-487-9243.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| No revisar la tarifa | Te pagan menos | Contrato |
+| Creer que no se puede reclamar | Pierdes | Reclama |
+| No calcular la temporada | Decides mal | Números |
+| No acudir al consulado | Sin apoyo | Te orientan |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Efrén, Rosaura y Juan Carlos. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. ¿Qué es lo mínimo que te deben pagar? a) Lo que quiera el encargado · b) Lo mismo que en México · c) Lo que diga tu contrato
+2. En Canadá con el PTAT, ¿quién te apoya si no corrigen tu pago? a) El enlace del PTAT en el consulado de México · b) El reclutador que te llevó al programa · c) Nadie, lo resuelves tú solo
+3. En EE. UU., ¿a quién llamas si no corrigen tu pago? a) Al reclutador que te contrató en México · b) A la División de Horas y Salarios · c) A nadie, para no perder la temporada
+**Respuestas:** 1-c: el contrato. 2-a: el consulado. 3-b: Horas y Salarios.
+
+
+
+#### Ponlo en práctica
+
+Trabajas 900 horas a 16 dólares. ¿Cuánto ganas en la temporada antes de descuentos?
+**Respuesta:** 14,400 dólares.
+
+
+
+#### A tu plan
+
+Anota la tarifa de tu contrato y guárdala con tu libreta.
+
+
+
+### Para saber más
+
+- **División de Horas y Salarios** (DOL · español): https://www.dol.gov/agencies/whd/contact | 1-866-487-9243.
+- **Consulados de México en Canadá** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** «Programa de Trabajadores Agrícolas Temporales».
+
+### Palabras clave
+
+- *Salario de referencia:* salario fijado cada año para la tarea.
+- *Nivel del puesto:* categoría según la habilidad que pide.
+- *Enlace del consulado:* personal que atiende a trabajadores del PTAT.
+
+### Fuentes
+
+Gobierno de Canadá, contrato SAWP-México 2026; DOL, Federal Register (2 de octubre de 2025); consultados el 5 de octubre de 2026.
+
+---
+
+## M3 U03. Cobrar sin perder en comisiones
+
+**Lo que lograrás:** Cobrar tus pagos sin dejar parte en comisiones caras. Aplica igual a Canadá (PTAT) y a Estados Unidos (H-2A).
+
+**Para empezar:** Cada semana, Juan Carlos cambia su cheque en una tienda que cobra 4%. En la temporada se le fueron casi 500 dólares en eso. En esta lección verás opciones.
+
+### Lo esencial (5 minutos)
+
+#### Formas de cobrar
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Cuenta allá | Depósito directo. | Pregunta requisitos. |
+| Tarjeta de nómina | La que da el empleador. | Revisa sus comisiones. |
+| Cambio de cheques | En tiendas. | Suele ser caro. |
+
+#### Haz la cuenta
+
+4% de cada cheque parece poco. En una temporada son cientos de dólares. Compara cuánto te cuesta cada opción.
+
+
+
+#### Pregunta en tu trabajo
+
+Muchos empleadores, en Canadá y en EE. UU., ofrecen depósito directo o ayudan a abrir una cuenta. Pregunta qué comisiones tiene para sacar dinero y para mandar a México.
+
+
+
+#### Un caso en un minuto
+
+Juan Carlos pidió depósito directo a una tarjeta de nómina. Saca su dinero en cajeros sin comisión de la red. Ahorra unos 25 dólares a la semana.
+
+> **Idea clave:** cambiar cheques en tiendas cuesta mucho en la temporada; pregunta por depósito directo o una cuenta.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Cuánto pierdes con 4% de 600 dólares cada semana?
+*Respuesta:* 24 dólares por semana.
+
+2. ¿Qué preguntas sobre la cuenta o tarjeta?
+*Respuesta:* Sus comisiones para sacar dinero y para mandar a México.
+
+
+#### Para recordar
+
+- Haz la cuenta.
+- Depósito directo.
+- Pregunta comisiones.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Lo que perdía Juan Carlos
+
+- Cheque semanal: **600**
+- Comisión: **4%**
+- Dólares por semana: **24**
+- Semanas: **20**
+- Dólares en la temporada: **480**
+
+
+#### Cuida tu dinero en la vivienda
+
+No guardes mucho efectivo en la vivienda. Mándalo a casa o déjalo en tu cuenta.
+
+
+
+#### Casos
+
+
+**Caso 1. El 4%**
+
+Juan Carlos cambia cheques en una tienda.
+- *¿Qué hace?* Pide depósito directo o tarjeta de nómina.
+
+
+**Caso 2. La cuenta en Canadá**
+
+A Rosaura le ofrecen abrir una cuenta en un banco canadiense.
+- *¿Qué hace?* Pregunta sus comisiones y si puede mandar dinero a México desde ahí.
+
+
+**Caso 3. Efectivo guardado**
+
+Don Efrén guarda 1,500 dólares en su maleta.
+- *¿Qué hace?* Lo manda a casa o lo deja en su cuenta.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Cambiar cheques caro | Pierdes cientos | Depósito directo |
+| No preguntar comisiones | Sorpresas | Pregunta |
+| Efectivo en la vivienda | Robo | Mándalo |
+| No hacer la cuenta | No ves la pérdida | Calcula |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Juan Carlos, Rosaura y Don Efrén. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo.
+
+
+
+#### Quiz
+
+1. Un cheque de 500 con 3% de comisión. ¿Cuánto pierdes? a) 3 · b) 15 · c) 150
+2. ¿Qué opción suele ser más barata que cambiar cheques en tiendas? a) Depósito directo · b) Guardar los cheques · c) Cambiar en otra tienda
+3. Tienes mucho efectivo en la vivienda. ¿Qué haces? a) Lo mandas a casa o lo dejas en tu cuenta · b) Lo escondes en la maleta de la vivienda · c) Lo prestas a compañeros que te lo pidan
+**Respuestas:** 1-b: 3% de 500. 2-a: depósito directo. 3-a: mándalo.
+
+
+
+#### Ponlo en práctica
+
+Pierdes 20 dólares por semana durante 24 semanas. ¿Cuánto en la temporada?
+**Respuesta:** 480 dólares.
+
+
+
+#### A tu plan
+
+Pregunta en tu trabajo por depósito directo o una cuenta y sus comisiones.
+
+
+
+### Para saber más
+
+- **Cuentas en EE. UU.** (Consumer Financial Protection Bureau · español): https://www.consumerfinance.gov/es
+- **Cuentas en Canadá** (Agencia del Consumidor en Materia Financiera de Canadá · inglés y francés): https://www.canada.ca/en/financial-consumer-agency.html
+
+### Palabras clave
+
+- *Depósito directo:* el pago llega a tu cuenta o tarjeta.
+- *Tarjeta de nómina:* tarjeta donde te pagan.
+- *Comisión:* cobro por un servicio.
+
+### Fuentes
+
+Consumer Financial Protection Bureau; Agencia del Consumidor en Materia Financiera de Canadá; consultados el 5 de octubre de 2026.
+
+---

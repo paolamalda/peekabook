@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Autonomía/Diagnóstica
+
+::DIAG 1::¿Qué te da una cuenta a tu nombre? {
+	~Que tu pareja vea tus gastos
+	~Más deudas
+	=Dinero que decides tú
+}
+
+::DIAG 2::¿Dónde ves si estás casada por sociedad conyugal? {
+	~En tu recibo de luz
+	~En tu INE, atrás de la foto
+	=En tu acta de matrimonio
+}
+
+::DIAG 3::¿Cuidar a tus papás es trabajo? {
+	~Solo si te pagan por hacerlo
+	~No
+	=Sí, aunque no tenga pago
+}
+
+::DIAG 4::¿Tus lentes son un lujo o un gasto necesario? {
+	~Depende de tu pareja
+	~Lujo
+	=Necesario
+}
+
+::DIAG 5::¿Cuál es la brecha de Afore entre hombres y mujeres? {
+	~2 puntos, casi nada
+	~Ninguna
+	=17.2 puntos
+}
+
+::DIAG 6::Empezaste a cotizar en 1995. ¿Qué ley te toca? {
+	~Ley 97
+	~Ninguna
+	=Ley 73
+}
+
+::DIAG 7::¿Quién puede recibir la Pensión Mujeres Bienestar? {
+	~Solo mujeres que nunca trabajaron
+	~Mujeres de 18 a 30
+	=Mujeres de 60 a 64 años
+}
+
+::DIAG 8::¿Quién guarda tu tarjeta de pensión? {
+	~Tu nuera
+	~Tu hijo
+	=Tú
+}
+
+::DIAG 9::¿Qué porcentaje de mujeres tiene algún seguro? {
+	~50%
+	~80%, la mayoría
+	=18.3%
+}
+
+::DIAG 10::No tienes seguridad social. ¿A dónde vas? {
+	~Solo a hospitales privados
+	~A ningún lado, porque no tienes derecho
+	=A tu centro de salud del IMSS-Bienestar
+}
+
+::DIAG 11::Tu pareja vende un bien de los dos sin decirte. ¿Qué es? {
+	~Un regalo de vez en cuando
+	~Algo normal entre parejas
+	=Violencia patrimonial
+}
+
+::DIAG 12::¿Dónde guardas copias de tus papeles? {
+	~En el auto de tu pareja
+	~Solo en la casa, en un cajón
+	=Con alguien de confianza o en tu correo
+}
+
+::DIAG 13::¿Qué cubre la pensión alimenticia? {
+	~Solo ropa
+	~Solo comida, lo demás es aparte
+	=Comida, casa, salud y escuela
+}
+
+::DIAG 14::La pensión no llega desde hace meses. ¿Qué haces primero? {
+	~Le quitas a los niños
+	~Nada, se queda igual
+	=Juntas pruebas con fechas
+}
+
+::DIAG 15::¿El estrés por dinero afecta la salud? {
+	~Solo a los hombres
+	~No
+	=Sí
+}
+
+::DIAG 16::¿Qué baja el estrés por dinero? {
+	~Pedir otro préstamo
+	~No pensar en eso
+	=Tres pasos pequeños
+}
+

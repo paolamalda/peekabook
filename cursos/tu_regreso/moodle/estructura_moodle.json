@@ -1,0 +1,365 @@
+{
+ "curso": "Tu Regreso, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tus papeles",
+   "orden": 1,
+   "resumen": "<p>Tu lista de papeles en orden: constancia, CURP, acta, INE y los de tus hijos.</p><p><strong>Al terminar tendrás:</strong> tu lista de papeles en orden: constancia, CURP, acta, INE y los de tus hijos.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu constancia y tu CURP: los dos primeros papeles",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu acta y tu INE",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Los papeles de tus hijos nacidos en Estados Unidos",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu cuenta en México",
+   "orden": 2,
+   "resumen": "<p>Una cuenta a tu nombre para recibir apoyos y dinero, y tus tarjetas de regreso bien usadas.</p><p><strong>Al terminar tendrás:</strong> una cuenta a tu nombre para recibir apoyos y dinero, y tus tarjetas de regreso bien usadas.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tus tarjetas de regreso",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Elige una cuenta sin comisiones",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Cobrar, pagar y reclamar",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Crédito desde cero",
+   "orden": 3,
+   "resumen": "<p>Tu primer historial de crédito en México, empezando chico y sin trampas.</p><p><strong>Al terminar tendrás:</strong> tu primer historial de crédito en México, empezando chico y sin trampas.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu historial de allá no cuenta aquí",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Empieza chico y paga a tiempo",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Préstamos «sin buró» y apps que cobran de más",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Lo que dejaste en Estados Unidos",
+   "orden": 4,
+   "resumen": "<p>Tu lista de lo que quedó allá: último pago, cuentas, impuestos y retiro.</p><p><strong>Al terminar tendrás:</strong> tu lista de lo que quedó allá: último pago, cuentas, impuestos y retiro.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu último pago y tu cuenta de allá",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tus impuestos de allá",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu retiro de allá: 401(k) y Seguro Social",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Tu Afore, tu IMSS y tus semanas",
+   "orden": 5,
+   "resumen": "<p>Tus semanas cotizadas revisadas y tu Afore localizada.</p><p><strong>Al terminar tendrás:</strong> tus semanas cotizadas revisadas y tu Afore localizada.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Tienes Afore? Encuéntrala",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tus semanas cotizadas",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Ahorra para tu retiro aunque trabajes por tu cuenta",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Tus primeros 90 días",
+   "orden": 6,
+   "resumen": "<p>Tu presupuesto de regreso para los primeros tres meses.</p><p><strong>Al terminar tendrás:</strong> tu presupuesto de regreso para los primeros tres meses.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Piensa en pesos: tu presupuesto de regreso",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Los compromisos de bienvenida",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Cuando dejan de llegar las remesas",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Trabajo o negocio con lo que sabes hacer",
+   "orden": 7,
+   "resumen": "<p>Tu plan para usar lo que sabes hacer: empleo, oficio o negocio pequeño.</p><p><strong>Al terminar tendrás:</strong> tu plan para usar lo que sabes hacer: empleo, oficio o negocio pequeño.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Lo que sabes hacer vale",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Compara ofertas: sueldo y prestaciones",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Un negocio chico sin arriesgar tu ahorro",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Que no te engañen al regresar",
+   "orden": 8,
+   "resumen": "<p>Tu protocolo contra gestores falsos, fraudes y extorsión al que regresa.</p><p><strong>Al terminar tendrás:</strong> tu protocolo contra gestores falsos, fraudes y extorsión al que regresa.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Gestores falsos",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Fraudes y extorsión al que regresa",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de regreso en una página",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

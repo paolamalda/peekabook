@@ -1,0 +1,277 @@
+{
+ "curso": "Tu Pensión, Tu Tranquilidad, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu pensión y tu mes",
+   "orden": 1,
+   "resumen": "<p>Tu pensión repartida en el bimestre, con lo básico primero.</p><p><strong>Al terminar tendrás:</strong> tu pensión repartida en el bimestre, con lo básico primero.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu pensión llega cada dos meses",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Lo básico primero",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu tarjeta y el cajero, sin riesgos",
+   "orden": 2,
+   "resumen": "<p>Tu NIP protegido y tu forma segura de usar el cajero.</p><p><strong>Al terminar tendrás:</strong> tu NIP protegido y tu forma segura de usar el cajero.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu NIP es solo tuyo",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El cajero, sin riesgos",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Llamadas, mensajes y «el nieto en apuros»",
+   "orden": 3,
+   "resumen": "<p>Tu regla para colgar y verificar ante llamadas y mensajes.</p><p><strong>Al terminar tendrás:</strong> tu regla para colgar y verificar ante llamadas y mensajes.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "«Abuelita, soy yo, estoy en problemas»",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Mensajes, premios y ligas",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Cuando el abuso viene de casa",
+   "orden": 4,
+   "resumen": "<p>Las señales de abuso patrimonial y a quién llamar.</p><p><strong>Al terminar tendrás:</strong> las señales de abuso patrimonial y a quién llamar.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Señales de abuso patrimonial",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "A quién llamar",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Préstamos a cuenta de tu pensión",
+   "orden": 5,
+   "resumen": "<p>Tu decisión informada sobre préstamos y el tope de 30%.</p><p><strong>Al terminar tendrás:</strong> tu decisión informada sobre préstamos y el tope de 30%.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "El préstamo a cuenta de tu pensión",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Préstamos para otros",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Decidir con apoyo, sin perder el control",
+   "orden": 6,
+   "resumen": "<p>Tu persona de apoyo elegida y ningún poder amplio firmado sin revisar.</p><p><strong>Al terminar tendrás:</strong> tu persona de apoyo elegida y ningún poder amplio firmado sin revisar.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Poder amplio o poder limitado",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu persona de apoyo",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Testamento y beneficiarios",
+   "orden": 7,
+   "resumen": "<p>Tus beneficiarios revisados y tu decisión sobre el testamento.</p><p><strong>Al terminar tendrás:</strong> tus beneficiarios revisados y tu decisión sobre el testamento.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu testamento",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tus beneficiarios al día",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Tu salud y tus seguros",
+   "orden": 8,
+   "resumen": "<p>Tu guardadito para salud y tus seguros revisados.</p><p><strong>Al terminar tendrás:</strong> tu guardadito para salud y tus seguros revisados.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Un guardadito para tu salud",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Seguros: lo que cubren y lo que te cobran",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    }
+   ]
+  }
+ ]
+}

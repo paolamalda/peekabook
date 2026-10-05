@@ -1,0 +1,265 @@
+$CATEGORY: $course$/Tu Comunidad v0.1/M1
+
+::M1 U01 P1::¿Cuánto cuesta registrarte a un Programa para el Bienestar? {
+	=Nada #¡Correcto! Es sin costo.
+	~200 pesos #No es la mejor opción. Es sin costo.
+	~Una parte del primer pago #No es la mejor opción. Es sin costo.
+}
+
+::M1 U01 P2::¿Dónde llega tu apoyo? {
+	~Con un gestor de la comunidad #No es la mejor opción. Directo.
+	=Directo en tu tarjeta #¡Correcto! Directo.
+	~En la tienda del pueblo #No es la mejor opción. Directo.
+}
+
+::M1 U01 P3::Alguien te lleva a cobrar. ¿Qué es justo pagarle? {
+	~La mitad de tu apoyo, por la molestia #No es la mejor opción. No una parte del apoyo.
+	~500 pesos #No es la mejor opción. No una parte del apoyo.
+	=Solo el pasaje del viaje #¡Correcto! No una parte del apoyo.
+}
+
+::M1 U02 P1::Te cobran para no darte de baja de un apoyo. ¿Qué es? {
+	=Un abuso que se puede reportar #¡Correcto! Es abuso.
+	~Una regla del programa #No es la mejor opción. Es abuso.
+	~Una cooperación normal para la comunidad #No es la mejor opción. Es abuso.
+}
+
+::M1 U02 P2::¿Cuál es el número de la Línea de Bienestar? {
+	~911 #No es la mejor opción. Línea de Bienestar.
+	=800 639 4264 #¡Correcto! Línea de Bienestar.
+	~El del señor que cobra #No es la mejor opción. Línea de Bienestar.
+}
+
+::M1 U02 P3::¿Qué ayuda si a varias familias les cobran? {
+	~Pagar todas para que no las den de baja #No es la mejor opción. Juntas pesa más.
+	~Callar #No es la mejor opción. Juntas pesa más.
+	=Avisar juntas #¡Correcto! Juntas pesa más.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M2
+
+::M2 U01 P1::¿Por qué una cuenta a tu nombre? {
+	=Para que decidas tú sobre tu dinero #¡Correcto! Tú decides.
+	~Para que otra persona de la familia la administre #No es la mejor opción. Tú decides.
+	~Porque lo pide la escuela #No es la mejor opción. Tú decides.
+}
+
+::M2 U01 P2::¿Quién puede sacar dinero de tu cuenta? {
+	~Tu suegro #No es la mejor opción. Solo tú.
+	=Tú, con tu tarjeta y tu NIP #¡Correcto! Solo tú.
+	~Cualquiera que sepa tu nombre #No es la mejor opción. Solo tú.
+}
+
+::M2 U01 P3::¿Tener tu cuenta es pelear con tu familia? {
+	~Sí #No es la mejor opción. Es protección.
+	~Solo si eres joven #No es la mejor opción. Es protección.
+	=No, es protección #¡Correcto! Es protección.
+}
+
+::M2 U02 P1::¿Qué llevas para abrir una cuenta básica? {
+	~Escrituras #No es la mejor opción. INE y CURP.
+	=INE y CURP #¡Correcto! INE y CURP.
+	~Un aval #No es la mejor opción. INE y CURP.
+}
+
+::M2 U02 P2::¿Dónde puedes depositar cerca de tu comunidad? {
+	=En una tienda corresponsal #¡Correcto! Corresponsal.
+	~Solo en la sucursal de la capital del estado #No es la mejor opción. Corresponsal.
+	~Con un vecino #No es la mejor opción. Corresponsal.
+}
+
+::M2 U02 P3::No entiendes el contrato. ¿Qué haces? {
+	~Firmas #No es la mejor opción. Tienes derecho.
+	~Te vas y no vuelves #No es la mejor opción. Tienes derecho.
+	=Pides que te expliquen, con alguien de confianza #¡Correcto! Tienes derecho.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M3
+
+::M3 U01 P1::¿Cuál es la forma más segura de recibir dinero? {
+	~Con un conocido #No es la mejor opción. Directo.
+	=Directo a tu cuenta #¡Correcto! Directo.
+	~En un sobre por paquetería #No es la mejor opción. Directo.
+}
+
+::M3 U01 P2::Te cobran 10% de 2,000. ¿Cuánto pierdes? {
+	=200 #¡Correcto! 10% de 2,000.
+	~20 #No es la mejor opción. 10% de 2,000.
+	~2,000 #No es la mejor opción. 10% de 2,000.
+}
+
+::M3 U01 P3::¿Qué das a quien te manda dinero? {
+	~Tu NIP #No es la mejor opción. Solo el número de cuenta.
+	~Tu tarjeta para que la registre #No es la mejor opción. Solo el número de cuenta.
+	=Tu número de cuenta #¡Correcto! Solo el número de cuenta.
+}
+
+::M3 U02 P1::¿Cuál es la forma más segura de mandar dinero? {
+	~En un sobre con el chofer #No es la mejor opción. Depósito.
+	=Depósito a la tarjeta de tu familiar #¡Correcto! Depósito.
+	~Con un vecino que va para allá cada semana #No es la mejor opción. Depósito.
+}
+
+::M3 U02 P2::¿Qué haces con el comprobante? {
+	=Lo guardas #¡Correcto! Lo guardas.
+	~Lo tiras #No es la mejor opción. Lo guardas.
+	~Lo regalas #No es la mejor opción. Lo guardas.
+}
+
+::M3 U02 P3::Te equivocaste de número. ¿Qué haces? {
+	~Esperas una semana #No es la mejor opción. De inmediato.
+	~Mandas otra vez al mismo número para ver si llega #No es la mejor opción. De inmediato.
+	=Llamas de inmediato al banco #¡Correcto! De inmediato.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M4
+
+::M4 U01 P1::¿Cuándo se acuerda qué pasa si alguien no paga? {
+	=Antes de empezar #¡Correcto! Antes.
+	~Cuando ya pasó, según el caso #No es la mejor opción. Antes.
+	~Nunca #No es la mejor opción. Antes.
+}
+
+::M4 U01 P2::Diez personas pagan 200 por semana. ¿Cuánto cobra cada una en su turno? {
+	~200 #No es la mejor opción. 10 por 200.
+	=2,000 #¡Correcto! 10 por 200.
+	~1,000 #No es la mejor opción. 10 por 200.
+}
+
+::M4 U01 P3::¿Qué hace la persona que revisa? {
+	~Cobra primero porque trabaja más #No es la mejor opción. Revisa.
+	=Revisa la libreta que lleva otra #¡Correcto! Revisa.
+	~Nada #No es la mejor opción. Revisa.
+}
+
+::M4 U02 P1::¿Dónde es más seguro el dinero del grupo? {
+	~En la casa de la tesorera #No es la mejor opción. Cuenta con dos firmas.
+	=En una cuenta con dos firmas #¡Correcto! Cuenta con dos firmas.
+	~Enterrado en el patio, donde nadie lo encuentre #No es la mejor opción. Cuenta con dos firmas.
+}
+
+::M4 U02 P2::Les ofrecen duplicar el ahorro del grupo. ¿Qué hacen? {
+	=Desconfían y verifican en CONDUSEF #¡Correcto! Verifican.
+	~Invierten todo #No es la mejor opción. Verifican.
+	~Invierten la mitad para probar si es cierto #No es la mejor opción. Verifican.
+}
+
+::M4 U02 P3::¿Cada cuándo muestran las cuentas? {
+	~Nunca #No es la mejor opción. En cada asamblea.
+	~Solo al final del año #No es la mejor opción. En cada asamblea.
+	=En cada asamblea #¡Correcto! En cada asamblea.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M5
+
+::M5 U01 P1::Te piden los números de tu tarjeta por teléfono. ¿Qué haces? {
+	=Cuelgas #¡Correcto! Nunca los des.
+	~Los das #No es la mejor opción. Nunca los des.
+	~Das solo la mitad #No es la mejor opción. Nunca los des.
+}
+
+::M5 U01 P2::Te dicen que ganaste un apoyo y debes pagar. ¿Qué es? {
+	~Normal #No es la mejor opción. Los apoyos no se pagan.
+	=Un fraude #¡Correcto! Los apoyos no se pagan.
+	~Una cuota oficial #No es la mejor opción. Los apoyos no se pagan.
+}
+
+::M5 U01 P3::Ya diste los números. ¿Qué haces? {
+	~Esperas #No es la mejor opción. Bloquea.
+	~Nada #No es la mejor opción. Bloquea.
+	=Llamas al banco para bloquear tu tarjeta #¡Correcto! Bloquea.
+}
+
+::M5 U02 P1::Una app pide tus contactos. ¿Qué haces? {
+	=No la instalas #¡Correcto! No la instales.
+	~Aceptas #No es la mejor opción. No la instales.
+	~Das solo algunos #No es la mejor opción. No la instales.
+}
+
+::M5 U02 P2::Te prestan 2,000 y pagas 3,400. ¿Cuánto cuesta? {
+	~3,400 #No es la mejor opción. 3,400 menos 2,000.
+	=1,400 #¡Correcto! 3,400 menos 2,000.
+	~2,000 #No es la mejor opción. 3,400 menos 2,000.
+}
+
+::M5 U02 P3::¿A dónde reportas el acoso de una app? {
+	=A CONDUSEF #¡Correcto! CONDUSEF.
+	~A la tienda #No es la mejor opción. CONDUSEF.
+	~A nadie #No es la mejor opción. CONDUSEF.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M6
+
+::M6 U01 P1::¿Qué es la lista de sucesión? {
+	=La lista de quién hereda tus derechos ejidales #¡Correcto! Quién hereda.
+	~Una lista de compras para la siembra #No es la mejor opción. Quién hereda.
+	~La lista de la asamblea #No es la mejor opción. Quién hereda.
+}
+
+::M6 U01 P2::¿Dónde la depositas? {
+	~En el banco donde tienes tu cuenta #No es la mejor opción. RAN o notario.
+	=En el RAN o ante notario #¡Correcto! RAN o notario.
+	~En tu casa #No es la mejor opción. RAN o notario.
+}
+
+::M6 U01 P3::Hiciste dos listas. ¿Cuál vale? {
+	~La primera #No es la mejor opción. La más reciente.
+	~Ninguna, porque se contradicen #No es la mejor opción. La más reciente.
+	=La más reciente #¡Correcto! La más reciente.
+}
+
+::M6 U02 P1::¿Dónde pones los beneficiarios de tu cuenta? {
+	=En el banco #¡Correcto! En el banco.
+	~En el RAN #No es la mejor opción. En el banco.
+	~En la asamblea #No es la mejor opción. En el banco.
+}
+
+::M6 U02 P2::Repartes entre dos hijas por igual. ¿Cuánto a cada una? {
+	=50% #¡Correcto! 50%.
+	~100% #No es la mejor opción. 50%.
+	~25% #No es la mejor opción. 50%.
+}
+
+::M6 U02 P3::No sabes si tienes beneficiarios. ¿Qué haces? {
+	~Nada #No es la mejor opción. Pregunta.
+	~Abres otra cuenta para estar seguro #No es la mejor opción. Pregunta.
+	=Preguntas en tu banco #¡Correcto! Pregunta.
+}
+
+$CATEGORY: $course$/Tu Comunidad v0.1/M7
+
+::M7 U01 P1::¿Cuál NO es una forma de prepararse? {
+	~Ahorro propio #No es la mejor opción. Eso es deuda.
+	=Pedir prestado cuando pase #¡Correcto! Eso es deuda.
+	~Un seguro funerario #No es la mejor opción. Eso es deuda.
+}
+
+::M7 U01 P2::Tres hermanos apartan 100 al mes cada uno. ¿Cuánto juntan en un año? {
+	~1,200 #No es la mejor opción. 300 al mes por 12.
+	=3,600 #¡Correcto! 300 al mes por 12.
+	~300 #No es la mejor opción. 300 al mes por 12.
+}
+
+::M7 U01 P3::¿Qué necesita un fondo del grupo para funerales? {
+	=Reglas escritas #¡Correcto! Reglas.
+	~Una sola persona que decida #No es la mejor opción. Reglas.
+	~Nada #No es la mejor opción. Reglas.
+}
+
+::M7 U02 P1::Un vendedor da recibos a mano. ¿Qué haces? {
+	=Verificas la aseguradora en CONDUSEF #¡Correcto! Verifica.
+	~Pagas #No es la mejor opción. Verifica.
+	~Pagas dos meses para ver si es cierto #No es la mejor opción. Verifica.
+}
+
+::M7 U02 P2::¿Qué papel debe darte un seguro? {
+	~Un recibo a mano con la firma del vendedor #No es la mejor opción. Póliza.
+	=Una póliza por escrito #¡Correcto! Póliza.
+	~Ninguno #No es la mejor opción. Póliza.
+}
+
+::M7 U02 P3::¿Quién debe saber que tienes seguro? {
+	~Nadie #No es la mejor opción. Tu familia.
+	~Solo el vendedor y la aseguradora #No es la mejor opción. Tu familia.
+	=Tu familia y tus beneficiarios #¡Correcto! Tu familia.
+}

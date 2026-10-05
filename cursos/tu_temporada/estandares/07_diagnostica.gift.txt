@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Temporada/Diagnóstica
+
+::DIAG 1::¿Dónde te registras para el PTAT a Canadá? {
+	~Con un reclutador privado que cobra cuota
+	=En el Servicio Nacional de Empleo
+	~En la tienda del pueblo, con un anuncio
+}
+
+::DIAG 2::Te cobran por asegurar tu lugar. ¿Qué es? {
+	~Normal
+	~Una cuota oficial
+	=Fraude
+}
+
+::DIAG 3::Pides 10,000 al 10% mensual. ¿Cuánto pagas de interés al mes? {
+	~100
+	=1,000
+	~10,000
+}
+
+::DIAG 4::¿A dónde mandas el dinero? {
+	~Con un compadre de confianza del pueblo
+	=A la cuenta de quien administra en México
+	~En efectivo con un conocido
+}
+
+::DIAG 5::¿Qué trae tu talón de pago? {
+	~Solo tu nombre, la fecha y el empleador
+	=Horas, lo que ganaste y descuentos
+	~Las horas que te faltan para el bono
+}
+
+::DIAG 6::¿Qué es lo mínimo que te deben pagar? {
+	~Lo que quiera el encargado
+	~Lo mismo que en México
+	=Lo que diga tu contrato
+}
+
+::DIAG 7::¿Qué comparas entre empresas de envío? {
+	~El color del anuncio
+	=Los pesos que llegan
+	~La música de la tienda
+}
+
+::DIAG 8::¿Cuáles son las partes del plan? {
+	~Fiestas, regalos y compras grandes
+	=Básico, deudas, ahorro y meta
+	~Todo a la casa, sin apartar nada
+}
+
+::DIAG 9::¿El salario H-2A paga Seguro Social de EE. UU.? {
+	~Sí, el doble
+	=No
+	~Solo el primer mes
+}
+
+::DIAG 10::¿Qué es el CPP? {
+	~Una multa por llegar tarde
+	=El Plan de Pensiones de Canadá
+	~El pago de la renta de la vivienda
+}
+
+::DIAG 11::¿Quién guarda tu pasaporte? {
+	~El encargado
+	=Tú
+	~El reclutador
+}
+
+::DIAG 12::Te lastimas trabajando. ¿Qué haces primero? {
+	~Te aguantas para no perder el día
+	=Pides atención y que se reporte
+	~Te vas a México a curarte allá
+}
+
+::DIAG 13::¿Hasta cuándo es el regreso en el PTAT? {
+	=Al 15 de diciembre
+	~En marzo del año siguiente
+	~Cuando tú lo decidas, sin fecha fija
+}
+
+::DIAG 14::Tienes 18,000 de ahorro y 6 meses. ¿Cuánto puedes usar al mes? {
+	=3,000
+	~18,000
+	~6,000
+}
+
+::DIAG 15::¿Qué es el CPP? {
+	~Una multa por faltar al trabajo
+	=El Plan de Pensiones de Canadá
+	~Un seguro de auto obligatorio
+}
+
+::DIAG 16::¿Cuál es una meta que produce? {
+	~Una pantalla grande
+	=Un invernadero
+	~Una fiesta
+}
+

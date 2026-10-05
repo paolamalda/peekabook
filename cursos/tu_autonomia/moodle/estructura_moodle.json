@@ -1,0 +1,365 @@
+{
+ "curso": "Tu Autonomía, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Mi dinero, mi nombre",
+   "orden": 1,
+   "resumen": "<p>Una cuenta, tus documentos y un ingreso propio a tu nombre.</p><p><strong>Al terminar tendrás:</strong> una cuenta, tus documentos y un ingreso propio a tu nombre.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Una cuenta a tu nombre",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tus documentos y tus bienes a tu nombre",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Un dinero propio, aunque no tengas sueldo",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Un presupuesto que cuenta los cuidados",
+   "orden": 2,
+   "resumen": "<p>Tu presupuesto del hogar con tu trabajo de cuidados contado y acuerdos de dinero claros.</p><p><strong>Al terminar tendrás:</strong> tu presupuesto del hogar con tu trabajo de cuidados contado y acuerdos de dinero claros.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu trabajo de cuidados vale",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El presupuesto del hogar, con tu parte",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Acuerdos de dinero que se cumplen",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Afore, semanas y aportaciones voluntarias",
+   "orden": 3,
+   "resumen": "<p>Tu Afore localizada, tus semanas revisadas y tu primera aportación voluntaria.</p><p><strong>Al terminar tendrás:</strong> tu Afore localizada, tus semanas revisadas y tu primera aportación voluntaria.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "La brecha de la Afore",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Las semanas que se pierden por cuidar",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Aportaciones voluntarias: tu retiro, tu decisión",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Pensión Mujeres Bienestar",
+   "orden": 4,
+   "resumen": "<p>Tu registro o el de una mujer cercana a la Pensión Mujeres Bienestar, y un plan para usarla.</p><p><strong>Al terminar tendrás:</strong> tu registro o el de una mujer cercana a la Pensión Mujeres Bienestar, y un plan para usarla.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Qué es la Pensión Mujeres Bienestar",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Que tu pensión sea para ti",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "A los 65, el paso a la Pensión Adultos Mayores",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Seguros para mí",
+   "orden": 5,
+   "resumen": "<p>Tus seguros revisados y tu decisión sobre un seguro para ti.</p><p><strong>Al terminar tendrás:</strong> tus seguros revisados y tu decisión sobre un seguro para ti.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Un seguro de vida también para ti",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu salud, protegida",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Revisa los seguros que ya pagas",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Violencia económica: señales y salida",
+   "orden": 6,
+   "resumen": "<p>Las señales de violencia económica y tu plan de seguridad económica.</p><p><strong>Al terminar tendrás:</strong> las señales de violencia económica y tu plan de seguridad económica.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Señales de violencia económica",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu plan de seguridad económica",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Recuperar el control de tu dinero",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Pensión alimenticia",
+   "orden": 7,
+   "resumen": "<p>Tus pasos para pedir, cobrar y administrar la pensión alimenticia.</p><p><strong>Al terminar tendrás:</strong> tus pasos para pedir, cobrar y administrar la pensión alimenticia.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Qué cubre la pensión alimenticia",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si la pensión no llega",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Que la pensión rinda para tus hijos",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Estrés financiero y salud",
+   "orden": 8,
+   "resumen": "<p>Tus tres pasos pequeños para bajar el estrés por dinero y tu plan de autonomía.</p><p><strong>Al terminar tendrás:</strong> tus tres pasos pequeños para bajar el estrés por dinero y tu plan de autonomía.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "El estrés por dinero también es salud",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tres pasos pequeños",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Mi plan de autonomía",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

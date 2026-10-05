@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Ruta/Diagnóstica
+
+::DIAG 1::¿Qué es tu ingreso real? {
+	~Lo que te dan de propina los clientes
+	~Lo que muestra la app al final del día
+	=Lo que entra menos lo que te cuesta trabajar
+}
+
+::DIAG 2::Ganas 2,400 reales en 40 horas. ¿Cuánto por hora? {
+	~2,400
+	~40
+	=60
+}
+
+::DIAG 3::¿Desde cuándo está vigente la reforma de plataformas? {
+	=Desde el 22 de junio de 2025
+	~Desde 2010, con la primera app
+	~Todavía no
+}
+
+::DIAG 4::¿Qué te corresponde como persona trabajadora de plataforma? {
+	=Aguinaldo y vacaciones proporcionales
+	~Nada
+	~Solo las propinas de los clientes
+}
+
+::DIAG 5::¿Con qué consultas tu vigencia en el IMSS? {
+	~Con la placa
+	~Con tu licencia
+	=Con tu CURP
+}
+
+::DIAG 6::No llegas al umbral. ¿Qué cobertura tienes conectado? {
+	~Todo el IMSS, igual que un empleado
+	~Ninguna
+	=Riesgos de trabajo
+}
+
+::DIAG 7::¿Cuánto IVA te retienen con RFC? {
+	=8%
+	~16%
+	~Nada
+}
+
+::DIAG 8::¿Qué necesitas para inscribirte al RFC en línea? {
+	=Tu CURP
+	~Una factura
+	~Un aval
+}
+
+::DIAG 9::Gastas 7,800 al año en mantenimiento. ¿Cuánto apartas por semana? {
+	~78
+	~780
+	=150
+}
+
+::DIAG 10::¿Qué cubre la responsabilidad civil? {
+	~Tu gasolina
+	~Tu celular si se te cae
+	=Los daños que le haces a otros
+}
+
+::DIAG 11::Te accidentas conectado. ¿Qué te cubre el IMSS? {
+	=Riesgo de trabajo
+	~Nada
+	~Solo si tienes auto
+}
+
+::DIAG 12::¿Cuál es la primera meta del fondo? {
+	=Una semana de gastos
+	~Un año completo de gastos desde el inicio
+	~Nada
+}
+
+::DIAG 13::Te prestan 2,000 y pagas 2,300. ¿Cuánto cuesta? {
+	~Nada
+	~2,300
+	=300
+}
+
+::DIAG 14::Te ofrecen dinero por prestar tu cuenta. ¿Qué haces? {
+	~La prestas a un familiar
+	~La prestas solo los fines de semana
+	=No la prestas
+}
+
+::DIAG 15::¿Cuándo conviene empezar a ahorrar para el retiro? {
+	=Lo antes posible
+	~A los 60, cuando ya estés cerca
+	~Nunca
+}
+
+::DIAG 16::Tu meta es 15,600 en 52 semanas. ¿Cuánto apartas por semana? {
+	=300
+	~156
+	~1,560
+}
+

@@ -1,0 +1,330 @@
+{
+ "sigla": "TRDF",
+ "titulo": "Your Return, Your Money, Your Future",
+ "subtitulo": "Content draft · Desarrolla Talento · October 2026",
+ "version": "0.1",
+ "lang": "en",
+ "intro": "Financial well-being program for people returning from the United States to Mexico, whether deported or by their own decision: 8 modules and 24 short lessons. Hybrid format: one in-person kickoff session and the rest online. Also available in Spanish and as a bilingual group.",
+ "publico": "Mexican people returning from the United States, and their families, who prefer English or are more comfortable in English (for example, people who grew up in the U.S.).",
+ "formato": "Hybrid: 1 in-person session of 3 hours and 2 hours online (5 hours total).",
+ "categoria": "Your Return",
+ "banco": "banco_preguntas_trdf_en.gift.txt",
+ "min_leccion": [
+  5,
+  10
+ ],
+ "personajes": {
+  "Don Rafa": "52 years old. Worked 18 years in construction in Texas. Deported in March; went back to Michoacán.",
+  "Lupita": "38 years old. Returned by her own decision to Guanajuato with two U.S.-born children.",
+  "Memo": "24 years old. Arrived in the U.S. at age 6; returned to Puebla and barely knows Mexico.",
+  "Chayo": "45 years old. Lives in Oaxaca; received remittances from her husband, who just returned."
+ },
+ "modulos": {
+  "M1": "Module 1. Your papers",
+  "M2": "Module 2. Your account in Mexico",
+  "M3": "Module 3. Credit from scratch",
+  "M4": "Module 4. What you left in the United States",
+  "M5": "Module 5. Your Afore, your IMSS and your weeks",
+  "M6": "Module 6. Your first 90 days",
+  "M7": "Module 7. Work or a business with what you know how to do",
+  "M8": "Module 8. Don't get scammed when you return"
+ },
+ "resultados": {
+  "M1": "Your list of papers in order: repatriation record, CURP, birth certificate, INE and your children's papers.",
+  "M2": "An account in your name to receive support and money, and your returnee cards used well.",
+  "M3": "Your first credit history in Mexico, starting small and with no traps.",
+  "M4": "Your list of what was left there: last paycheck, accounts, taxes and retirement.",
+  "M5": "Your contribution weeks checked and your Afore located.",
+  "M6": "Your return budget for the first three months.",
+  "M7": "Your plan to use what you know how to do: a job, a trade or a small business.",
+  "M8": "Your protocol against fake fixers, fraud and extortion targeting people who return."
+ },
+ "insignias": [
+  [
+   "01_papers_in_order",
+   "M1",
+   "Papers in order",
+   "fa-id-card"
+  ],
+  [
+   "02_account_in_my_name",
+   "M2",
+   "Account in my name",
+   "fa-credit-card"
+  ],
+  [
+   "03_history_from_scratch",
+   "M3",
+   "History from scratch",
+   "fa-line-chart"
+  ],
+  [
+   "04_nothing_left_behind",
+   "M4",
+   "Nothing left behind",
+   "fa-suitcase"
+  ],
+  [
+   "05_weeks_counted",
+   "M5",
+   "Weeks counted",
+   "fa-calendar"
+  ],
+  [
+   "06_ninety_days",
+   "M6",
+   "Ninety days",
+   "fa-calculator"
+  ],
+  [
+   "07_what_i_know",
+   "M7",
+   "What I know how to do",
+   "fa-wrench"
+  ],
+  [
+   "08_complete_plan",
+   "Course",
+   "Complete plan",
+   "fa-trophy"
+  ]
+ ],
+ "constancia": {
+  "titulo": "Your Return, Your Money, Your Future",
+  "linea": "for completing the financial well-being program Your Return, Your Money, Your Future",
+  "temas": [
+   "Papers and account",
+   "Credit from scratch",
+   "What was left there",
+   "Afore and weeks",
+   "Return plan"
+  ],
+  "mods": [
+   "Papers and account",
+   "Credit from scratch",
+   "What was left there",
+   "Afore and weeks",
+   "Return plan"
+  ]
+ },
+ "problema": [
+  "They arrive without their papers at hand, or with U.S. papers that can't be used here to open an account.",
+  "Their U.S. credit history doesn't count in Mexico, and they're targeted by expensive «no credit check» loans.",
+  "They leave wages, accounts, tax refunds and retirement savings in the U.S. without knowing how to recover them.",
+  "They don't know whether they have an Afore or how many weeks they contributed before leaving.",
+  "In the first months little money comes in, and savings go to family obligations and loans.",
+  "Fake fixers, fraud and extortion target people who have just returned."
+ ],
+ "datos": [
+  [
+   "People repatriated from the U.S.",
+   "271,193 between January 20, 2025 and August 2026",
+   "SEGOB, México te Abraza"
+  ],
+  [
+   "Return migrants living in Mexico",
+   "150,752 (2020 to 2025)",
+   "INEGI, Encuesta Intercensal 2025"
+  ],
+  [
+   "Remittances 2025",
+   "61,791 million dollars, 4.6% less than in 2024",
+   "Banxico"
+  ],
+  [
+   "Households receiving remittances",
+   "11.3%",
+   "CEMLA"
+  ],
+  [
+   "Tarjeta Bienestar Paisano",
+   "One-time support of 2,000 pesos",
+   "Ministry of Welfare, México te Abraza"
+  ],
+  [
+   "Tarjetas FINABIEN Paisano issued",
+   "132,827 as of March 18, 2026",
+   "SEGOB"
+  ],
+  [
+   "Weeks for a Ley 97 pension",
+   "875 in 2026; up 25 per year until 1,000 in 2031",
+   "IMSS"
+  ],
+  [
+   "Weeks for a Ley 73 pension",
+   "500",
+   "IMSS"
+  ],
+  [
+   "Minimum aguinaldo",
+   "15 days' wages",
+   "Ley Federal del Trabajo"
+  ]
+ ],
+ "reglas_extra": [
+  "**No immigration or legal advice is given:** participants are referred to consulates, the Embassy and public offices."
+ ],
+ "bilingue": {
+  "es": "cursos/tu_regreso",
+  "nota": "Bilingual group: same lessons, same codes (M1 U01…) and same characters in both languages; each participant chooses the language of each lesson, and the forum and in-person session run in both."
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Your papers",
+   "descripcion": "Your list of papers in order: repatriation record, CURP, birth certificate, INE and your children's papers."
+  },
+  "M2": {
+   "titulo": "Your account in Mexico",
+   "descripcion": "An account in your name to receive support and money, and your returnee cards used well."
+  },
+  "M3": {
+   "titulo": "Credit from scratch",
+   "descripcion": "Your first credit history in Mexico, starting small and with no traps."
+  },
+  "M4": {
+   "titulo": "What you left in the United States",
+   "descripcion": "Your list of what was left there: last paycheck, accounts, taxes and retirement."
+  },
+  "M5": {
+   "titulo": "Your Afore, your IMSS and your weeks",
+   "descripcion": "Your contribution weeks checked and your Afore located."
+  },
+  "M6": {
+   "titulo": "Your first 90 days",
+   "descripcion": "Your return budget for the first three months."
+  },
+  "M7": {
+   "titulo": "Work or a business with what you know how to do",
+   "descripcion": "Your plan to use what you know how to do: a job, a trade or a small business."
+  },
+  "M8": {
+   "titulo": "Don't get scammed when you return",
+   "descripcion": "Your protocol against fake fixers, fraud and extortion targeting people who return."
+  }
+ },
+ "apoyo_leads": {
+  "01": "Start here: how the course works, how long each lesson takes, the characters, badges and certificate.",
+  "02": "Cases that bring together what you learned across modules. Solve them before opening the key.",
+  "03": "Short exercises to practice the course calculations. The answers are at the end.",
+  "04": "The course words explained in plain language, by module.",
+  "05": "Where to get help at no cost, and answers to common questions.",
+  "06": "The sources we used in the course, so you can check them."
+ },
+ "instalacion": {
+  "nombre_corto": "TRDF-MX-EN",
+  "readme": "README_INSTALL_YOUR_RETURN_FOR_CLAUDE.md",
+  "aviso_foro": "Don't share account numbers, PINs, passwords, your CURP, documents or the real amounts of your debts.",
+  "niveles": [
+   [
+    "Getting started",
+    0,
+    "On entry"
+   ],
+   [
+    "Getting organized",
+    100,
+    "During Module 2"
+   ],
+   [
+    "Moving forward",
+    200,
+    "During Module 3"
+   ],
+   [
+    "Protecting what's mine",
+    350,
+    "During Module 5"
+   ],
+   [
+    "Planning ahead",
+    450,
+    "During Module 7"
+   ],
+   [
+    "I made it",
+    550,
+    "During Module 8"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Module 1 self-assessment completed (passed)",
+    "Your list of papers in order: repatriation record, CURP, birth certificate, INE and your children's papers."
+   ],
+   [
+    "Module 2 self-assessment completed (passed)",
+    "An account in your name to receive support and money, and your returnee cards used well."
+   ],
+   [
+    "Module 3 self-assessment completed (passed)",
+    "Your first credit history in Mexico, starting small and with no traps."
+   ],
+   [
+    "Module 4 self-assessment completed (passed)",
+    "Your list of what was left there: last paycheck, accounts, taxes and retirement."
+   ],
+   [
+    "Module 5 self-assessment completed (passed)",
+    "Your contribution weeks checked and your Afore located."
+   ],
+   [
+    "Module 6 self-assessment completed (passed)",
+    "Your return budget for the first three months."
+   ],
+   [
+    "Module 7 self-assessment completed (passed)",
+    "Your plan to use what you know how to do: a job, a trade or a small business."
+   ],
+   [
+    "Course completion",
+    "You completed the program's 8 modules."
+   ]
+  ]
+ },
+ "carpeta": {
+  "nombre": "Your_Return_Your_Money_Your_Future_EN",
+  "zip": "Your_Return_v0.1",
+  "manual": "Program_manual_TRDF_EN_v0.1",
+  "contenido": "Full_content_TRDF_EN_v0.1",
+  "guia": "Implementation_guide_TRDF_EN_v0.1",
+  "descripciones": [
+   "Program manual: audience, rules, modules and lessons, characters and verified facts.",
+   "Full content: lessons, support book, H5P and question bank (.docx and .md).",
+   "Implementation guide: Moodle installation, gamification and maintenance (.docx and .md).",
+   "Package to install: books, H5P, glossary, bank, badges, certificate data, surveys, guides, preview and the README for Claude."
+  ],
+  "lista": [
+   "Coordination read the program manual",
+   "Content reviewed by specialists in the course topics",
+   "Current facts confirmed on official sites",
+   "Course installed with 04_Moodle/README_INSTALL_YOUR_RETURN_FOR_CLAUDE.md",
+   "Level Up, badges, certificate and surveys configured",
+   "Review with the student role"
+  ],
+  "notas": [
+   "The course doesn't recommend institutions or products: it teaches how to verify them (CONDUSEF's SIPRES).",
+   "No personal data is requested: no accounts, PINs, passwords, CURP or real amounts.",
+   "No immigration or legal advice is given: participants are referred to consulates, the Embassy and public offices."
+  ]
+ },
+ "encuesta": "mx_en",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Your papers, an account in your name, credit from scratch, what you left in the U.S., your Afore and your first 90 days.",
+   "Short lessons with cases of people returning to Michoacán, Guanajuato, Puebla and Oaxaca."
+  ],
+  "para_quien": "Mexican people returning from the United States, and their families, who prefer English or are more comfortable in English (for example, people who grew up in the U.S.).",
+  "idiomas": "English (also in Spanish and as a bilingual group)"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos"
+  ],
+  "extra": {}
+ },
+ "hojas": [],
+ "objetivo_general": "organize their papers and open an account in their name, build a credit history in Mexico without expensive loans, recover what they left in the United States, locate their Afore and contribution weeks, make a budget for their first 90 days, use what they know how to do to work or start small, and protect themselves from fake fixers, fraud and extortion"
+}

@@ -1,0 +1,303 @@
+$CATEGORY: $course$/Tu Pensión v0.1/M1
+
+::M1 U01 P1::¿Cada cuándo llega la Pensión Bienestar? {
+	=Cada dos meses #¡Correcto! Es bimestral.
+	~Cada semana #No es la mejor opción. Es bimestral.
+	~Una vez al año #No es la mejor opción. Es bimestral.
+}
+
+::M1 U01 P2::Te llegan 6,400 por bimestre. ¿Cuánto es para cada mes? {
+	~6,400 #No es la mejor opción. La mitad.
+	=3,200 #¡Correcto! La mitad.
+	~1,600 #No es la mejor opción. La mitad.
+}
+
+::M1 U01 P3::¿Qué haces con la segunda mitad? {
+	~La prestas #No es la mejor opción. Es del segundo mes.
+	~La gastas en la primera semana #No es la mejor opción. Es del segundo mes.
+	=La guardas para el segundo mes #¡Correcto! Es del segundo mes.
+}
+
+::M1 U02 P1::¿Qué pagas primero? {
+	~La fiesta #No es la mejor opción. Lo básico.
+	=Comida y medicinas #¡Correcto! Lo básico.
+	~El préstamo del sobrino #No es la mejor opción. Lo básico.
+}
+
+::M1 U02 P2::No alcanza este mes. ¿Qué recortas? {
+	~Las medicinas #No es la mejor opción. Lo que no es básico.
+	~La comida #No es la mejor opción. Lo que no es básico.
+	=Los regalos y cooperaciones #¡Correcto! Lo que no es básico.
+}
+
+::M1 U02 P3::¿Para qué sirve la hoja del mes? {
+	=Para saber cuánto necesitas en lo básico #¡Correcto! Para saber cuánto necesitas.
+	~Para enseñarla al banco cuando pidas un préstamo #No es la mejor opción. Para saber cuánto necesitas.
+	~Para nada #No es la mejor opción. Para saber cuánto necesitas.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M2
+
+::M2 U01 P1::¿Con quién compartes tu NIP? {
+	=Con nadie #¡Correcto! Es tuyo.
+	~Con quien te ayude en el cajero #No es la mejor opción. Es tuyo.
+	~Con el banco por teléfono #No es la mejor opción. Es tuyo.
+}
+
+::M2 U01 P2::Alguien vio tu NIP. ¿Qué haces? {
+	~Nada #No es la mejor opción. Se cambia.
+	=Lo cambias #¡Correcto! Se cambia.
+	~Le pides que lo olvide #No es la mejor opción. Se cambia.
+}
+
+::M2 U01 P3::Necesitas ayuda con trámites de la Pensión Bienestar. ¿Qué haces? {
+	~Prestas tu tarjeta al vecino que se ofrece #No es la mejor opción. Queda registrado.
+	~Dejas de cobrar #No es la mejor opción. Queda registrado.
+	=Registras a una persona auxiliar #¡Correcto! Queda registrado.
+}
+
+::M2 U02 P1::El cajero falla y alguien ofrece ayuda. ¿Qué haces? {
+	~Aceptas #No es la mejor opción. Nada de extraños.
+	~Le das tu NIP #No es la mejor opción. Nada de extraños.
+	=Cancelas y pides ayuda dentro #¡Correcto! Nada de extraños.
+}
+
+::M2 U02 P2::¿Cuál es el mejor lugar para usar el cajero? {
+	=Dentro de una sucursal, de día #¡Correcto! De día y en sucursal.
+	~En la calle, de noche #No es la mejor opción. De día y en sucursal.
+	~En la calle, donde haya menos gente que te vea #No es la mejor opción. De día y en sucursal.
+}
+
+::M2 U02 P3::El cajero se quedó con tu tarjeta. ¿Qué haces? {
+	~Te vas a casa #No es la mejor opción. Bloqueo inmediato.
+	=Llamas al banco y la bloqueas #¡Correcto! Bloqueo inmediato.
+	~Esperas un rato a que la máquina la devuelva sola #No es la mejor opción. Bloqueo inmediato.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M3
+
+::M3 U01 P1::Te llaman «del banco» y piden tu NIP. ¿Qué haces? {
+	~Lo das #No es la mejor opción. Nadie pide el NIP.
+	=Cuelgas #¡Correcto! Nadie pide el NIP.
+	~Das solo dos números #No es la mejor opción. Nadie pide el NIP.
+}
+
+::M3 U01 P2::¿Qué sirve para confirmar que es tu familiar? {
+	=Una palabra clave familiar #¡Correcto! Solo ustedes la saben.
+	~Que llore #No es la mejor opción. Solo ustedes la saben.
+	~Que sepa tu nombre y el de tu familia #No es la mejor opción. Solo ustedes la saben.
+}
+
+::M3 U01 P3::¿Cuál es la señal más clara de fraude? {
+	~Que llamen en la mañana #No es la mejor opción. La prisa.
+	~Que la voz sea joven y hable muy rápido #No es la mejor opción. La prisa.
+	=La prisa y que pidan dinero o datos #¡Correcto! La prisa.
+}
+
+::M3 U02 P1::Te llega un mensaje con un premio y una liga. ¿Qué haces? {
+	~Lo abres #No es la mejor opción. Es trampa.
+	=Lo borras y bloqueas #¡Correcto! Es trampa.
+	~Lo reenvías #No es la mejor opción. Es trampa.
+}
+
+::M3 U02 P2::«Tu hijo» te escribe de otro número pidiendo dinero. ¿Qué haces? {
+	=Llamas al número de siempre de tu hijo #¡Correcto! Verificas.
+	~Depositas #No es la mejor opción. Verificas.
+	~Le pides que espere una semana y luego depositas #No es la mejor opción. Verificas.
+}
+
+::M3 U02 P3::Ya pusiste tus datos en una liga. ¿Qué haces? {
+	~Nada #No es la mejor opción. Actúas rápido.
+	~Pones más datos #No es la mejor opción. Actúas rápido.
+	=Llamas a tu banco y avisas a tu familia #¡Correcto! Actúas rápido.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M4
+
+::M4 U01 P1::¿Cuál es una señal de abuso patrimonial? {
+	=Te faltan retiros que no hiciste #¡Correcto! Alguien usa tu dinero.
+	~Tu nieto te visita #No es la mejor opción. Alguien usa tu dinero.
+	~Te llega tu pensión completa cada bimestre #No es la mejor opción. Alguien usa tu dinero.
+}
+
+::M4 U01 P2::Tu hijo te pide firmar un papel que no entiendes. ¿Qué haces? {
+	~Firmas, porque confías en tu hijo #No es la mejor opción. Revisa antes.
+	=Pides copia y lo revisas con alguien #¡Correcto! Revisa antes.
+	~Lo tiras #No es la mejor opción. Revisa antes.
+}
+
+::M4 U01 P3::¿Quién debe guardar tu tarjeta? {
+	~Tu cuidadora #No es la mejor opción. Es tuya.
+	~El vecino #No es la mejor opción. Es tuya.
+	=Tú #¡Correcto! Es tuya.
+}
+
+::M4 U02 P1::Hay un retiro que no hiciste. ¿A quién llamas primero? {
+	=A tu banco #¡Correcto! Bloqueo y reclamación.
+	~Al 911 #No es la mejor opción. Bloqueo y reclamación.
+	~A nadie #No es la mejor opción. Bloqueo y reclamación.
+}
+
+::M4 U02 P2::El banco no resuelve. ¿A dónde vas? {
+	~A otro banco #No es la mejor opción. Defiende usuarios.
+	=A CONDUSEF #¡Correcto! Defiende usuarios.
+	~A la tienda #No es la mejor opción. Defiende usuarios.
+}
+
+::M4 U02 P3::Te amenazan para que firmes. ¿Qué haces? {
+	~Firmas #No es la mejor opción. Es peligro.
+	~Esperas a que pase #No es la mejor opción. Es peligro.
+	=Llamas al 911 y buscas orientación #¡Correcto! Es peligro.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M5
+
+::M5 U01 P1::¿Cuál es el tope de descuento a tu pensión del IMSS? {
+	=30% #¡Correcto! 30%.
+	~50% #No es la mejor opción. 30%.
+	~No hay tope #No es la mejor opción. 30%.
+}
+
+::M5 U01 P2::Te descuentan 1,500 al mes por 36 meses. ¿Cuánto pagas en total? {
+	~15,000 #No es la mejor opción. 1,500 por 36.
+	=54,000 #¡Correcto! 1,500 por 36.
+	~36,000 #No es la mejor opción. 1,500 por 36.
+}
+
+::M5 U01 P3::¿Con quién se puede pedir un préstamo a cuenta de pensión IMSS? {
+	~Con cualquiera #No es la mejor opción. Convenio vigente.
+	~Con quien te ofrezca afuera de la clínica #No es la mejor opción. Convenio vigente.
+	=Solo con entidades con convenio #¡Correcto! Convenio vigente.
+}
+
+::M5 U02 P1::¿De quién es la deuda de un préstamo a tu nombre? {
+	=Tuya #¡Correcto! Es tuya.
+	~De quien lo usa #No es la mejor opción. Es tuya.
+	~De nadie #No es la mejor opción. Es tuya.
+}
+
+::M5 U02 P2::¿Qué pasa si eres aval y la otra persona no paga? {
+	~Nada #No es la mejor opción. El aval debe.
+	=Te pueden cobrar a ti #¡Correcto! El aval debe.
+	~Se cancela la deuda porque no es tuya #No es la mejor opción. El aval debe.
+}
+
+::M5 U02 P3::¿Qué puedes ofrecer en lugar de firmar? {
+	~Tu NIP #No es la mejor opción. Ayudar sin firmar.
+	~Tu casa #No es la mejor opción. Ayudar sin firmar.
+	=Tu compañía para buscar otra opción #¡Correcto! Ayudar sin firmar.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M6
+
+::M6 U01 P1::¿Qué poder conviene para un solo trámite? {
+	~Uno general para todo, así no vuelves a la notaría #No es la mejor opción. Limitado.
+	=Uno limitado con fecha de término #¡Correcto! Limitado.
+	~Ninguno, mejor das tu NIP #No es la mejor opción. Limitado.
+}
+
+::M6 U01 P2::¿Se puede cancelar un poder? {
+	=Sí, ante notario #¡Correcto! Se revoca.
+	~No, nunca #No es la mejor opción. Se revoca.
+	~Solo si muere la otra persona #No es la mejor opción. Se revoca.
+}
+
+::M6 U01 P3::¿Qué haces antes de firmar un poder? {
+	~Firmas rápido #No es la mejor opción. Entiende antes.
+	=Pides que te expliquen qué podrá hacer la otra persona #¡Correcto! Entiende antes.
+	~Le das tu tarjeta #No es la mejor opción. Entiende antes.
+}
+
+::M6 U02 P1::¿Qué hace tu persona de apoyo? {
+	=Te acompaña y tú decides #¡Correcto! Tú decides.
+	~Decide por ti para que no te equivoques #No es la mejor opción. Tú decides.
+	~Guarda tu tarjeta #No es la mejor opción. Tú decides.
+}
+
+::M6 U02 P2::¿Cuántas personas de apoyo conviene tener? {
+	~Nadie #No es la mejor opción. Una o dos.
+	=Una o dos #¡Correcto! Una o dos.
+	~Todas las que se ofrezcan #No es la mejor opción. Una o dos.
+}
+
+::M6 U02 P3::Tu persona de apoyo te pide el NIP. ¿Qué haces? {
+	~Se lo das #No es la mejor opción. El NIP es tuyo.
+	~Le das la mitad #No es la mejor opción. El NIP es tuyo.
+	=No se lo das #¡Correcto! El NIP es tuyo.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M7
+
+::M7 U01 P1::¿Para qué sirve el testamento? {
+	=Para decir a quién dejas tus bienes #¡Correcto! Tus bienes.
+	~Para pedir un préstamo a cuenta de tus bienes #No es la mejor opción. Tus bienes.
+	~Para cobrar la pensión #No es la mejor opción. Tus bienes.
+}
+
+::M7 U01 P2::¿Qué llevas a la notaría? {
+	~Nada #No es la mejor opción. Lista y papeles.
+	=Tu lista de bienes y tus papeles #¡Correcto! Lista y papeles.
+	~Solo a tus hijos #No es la mejor opción. Lista y papeles.
+}
+
+::M7 U01 P3::¿Cómo se heredan los derechos ejidales? {
+	=Con la lista de sucesión #¡Correcto! Lista de sucesión.
+	~Con un recibo #No es la mejor opción. Lista de sucesión.
+	~No se heredan, regresan al ejido #No es la mejor opción. Lista de sucesión.
+}
+
+::M7 U02 P1::¿Dónde se registran los beneficiarios de una cuenta? {
+	=En el banco #¡Correcto! En cada lugar.
+	~En el testamento solamente #No es la mejor opción. En cada lugar.
+	~En la tienda #No es la mejor opción. En cada lugar.
+}
+
+::M7 U02 P2::¿Puedes poner a más de un beneficiario? {
+	~No #No es la mejor opción. Con porcentajes.
+	~Solo a dos personas, sin porcentaje #No es la mejor opción. Con porcentajes.
+	=Sí, con porcentaje para cada uno #¡Correcto! Con porcentajes.
+}
+
+::M7 U02 P3::¿Qué guardas en la carpeta para tu familia? {
+	~Tu NIP #No es la mejor opción. Los papeles.
+	=Testamento, pólizas, estados de cuenta y la lista #¡Correcto! Los papeles.
+	~Nada #No es la mejor opción. Los papeles.
+}
+
+$CATEGORY: $course$/Tu Pensión v0.1/M8
+
+::M8 U01 P1::¿Para qué es el guardadito de salud? {
+	=Solo para salud #¡Correcto! Solo salud.
+	~Para regalos y fiestas de la familia #No es la mejor opción. Solo salud.
+	~Para prestar #No es la mejor opción. Solo salud.
+}
+
+::M8 U01 P2::Apartas 100 al mes. ¿Cuánto en un año? {
+	~100 #No es la mejor opción. 100 por 12.
+	=1,200 #¡Correcto! 100 por 12.
+	~12,000 #No es la mejor opción. 100 por 12.
+}
+
+::M8 U01 P3::Te recetan algo caro. ¿Qué haces primero? {
+	~Pides un préstamo en la farmacia #No es la mejor opción. Pregunta y compara.
+	~Lo dejas #No es la mejor opción. Pregunta y compara.
+	=Preguntas en tu clínica y comparas #¡Correcto! Pregunta y compara.
+}
+
+::M8 U02 P1::Te cobran un seguro que no pediste. ¿Qué haces? {
+	~Lo sigues pagando #No es la mejor opción. Cancela y reclama.
+	=Pides cancelarlo y la devolución #¡Correcto! Cancela y reclama.
+	~Cierras tu cuenta sin decir nada #No es la mejor opción. Cancela y reclama.
+}
+
+::M8 U02 P2::Te ofrecen un seguro por teléfono. ¿Qué haces? {
+	~Aceptas #No es la mejor opción. Por escrito.
+	~Das tu tarjeta para que te manden la información #No es la mejor opción. Por escrito.
+	=Pides la información por escrito #¡Correcto! Por escrito.
+}
+
+::M8 U02 P3::¿Qué parte de las personas de 60 a 70 años tiene seguro? {
+	=18% #¡Correcto! 18%.
+	~80% #No es la mejor opción. 18%.
+	~Todas #No es la mejor opción. 18%.
+}

@@ -1,0 +1,365 @@
+{
+ "curso": "Tu Temporada, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Antes de firmar: dos caminos y cero fraudes",
+   "orden": 1,
+   "resumen": "<p>El camino correcto para ti, tu contrato revisado y ningún pago a reclutadores.</p><p><strong>Al terminar tendrás:</strong> el camino correcto para ti, tu contrato revisado y ningún pago a reclutadores.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Dos caminos: Canadá y Estados Unidos",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Reclutadores falsos",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Lee tu contrato",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Antes de irte: la casa en orden",
+   "orden": 2,
+   "resumen": "<p>Tu casa en orden: quién maneja el dinero, el presupuesto de la familia y sin deudas para irte.</p><p><strong>Al terminar tendrás:</strong> tu casa en orden: quién maneja el dinero, el presupuesto de la familia y sin deudas para irte.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "No te endeudes para irte",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Quién maneja el dinero en casa",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "El presupuesto de la familia mientras no estás",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Tu pago allá",
+   "orden": 3,
+   "resumen": "<p>Tus talones de pago revisados y tu forma segura de cobrar.</p><p><strong>Al terminar tendrás:</strong> tus talones de pago revisados y tu forma segura de cobrar.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu talón de pago",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Te pagan lo correcto?",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Cobrar sin perder en comisiones",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Mandar dinero que rinda",
+   "orden": 4,
+   "resumen": "<p>Tus envíos comparados y un plan para la remesa acordado con la familia.</p><p><strong>Al terminar tendrás:</strong> tus envíos comparados y un plan para la remesa acordado con la familia.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Compara antes de mandar",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El plan para la remesa",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Ahorrar allá o mandar a México",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Impuestos y papeles en Canadá y Estados Unidos",
+   "orden": 5,
+   "resumen": "<p>Tus papeles de impuestos guardados y tu decisión sobre la declaración.</p><p><strong>Al terminar tendrás:</strong> tus papeles de impuestos guardados y tu decisión sobre la declaración.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Impuestos en Estados Unidos con visa H-2A",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Impuestos en Canadá con el PTAT",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu carpeta de papeles",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Tus derechos y tu seguridad",
+   "orden": 6,
+   "resumen": "<p>Tus derechos claros y tu lista de a quién llamar.</p><p><strong>Al terminar tendrás:</strong> tus derechos claros y tu lista de a quién llamar.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tus derechos básicos allá",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si te lastimas o te enfermas",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "A quién llamar",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "El regreso y los meses sin temporada",
+   "orden": 7,
+   "resumen": "<p>Tu presupuesto para los meses entre temporadas.</p><p><strong>Al terminar tendrás:</strong> tu presupuesto para los meses entre temporadas.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "El regreso",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Los meses sin temporada",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Otra temporada?",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Tu retiro y tu futuro en México",
+   "orden": 8,
+   "resumen": "<p>Tus semanas y aportaciones para el retiro (en México y Canadá) y tu proyecto en números.</p><p><strong>Al terminar tendrás:</strong> tus semanas y aportaciones para el retiro (en México y Canadá) y tu proyecto en números.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu retiro: Canadá, Estados Unidos y México",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Un proyecto que produce",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de temporada en una página",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "curso": "Your Return, Your Money, Your Future",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Your papers",
+   "orden": 1,
+   "resumen": "<p>Your list of papers in order: repatriation record, CURP, birth certificate, INE and your children&#x27;s papers.</p><p><strong>Al terminar tendrás:</strong> your list of papers in order: repatriation record, CURP, birth certificate, INE and your children&#x27;s papers.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Your repatriation record and your CURP: the first two papers",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Your birth certificate and your INE",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Papers for your children born in the United States",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Your account in Mexico",
+   "orden": 2,
+   "resumen": "<p>An account in your name to receive support and money, and your returnee cards used well.</p><p><strong>Al terminar tendrás:</strong> an account in your name to receive support and money, and your returnee cards used well.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Your returnee cards",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Choose an account with no fees",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Getting paid, paying and disputing",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Credit from scratch",
+   "orden": 3,
+   "resumen": "<p>Your first credit history in Mexico, starting small and with no traps.</p><p><strong>Al terminar tendrás:</strong> your first credit history in Mexico, starting small and with no traps.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Your U.S. credit history doesn't count here",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Start small and pay on time",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "«No credit check» loans and apps that overcharge",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "What you left in the United States",
+   "orden": 4,
+   "resumen": "<p>Your list of what was left there: last paycheck, accounts, taxes and retirement.</p><p><strong>Al terminar tendrás:</strong> your list of what was left there: last paycheck, accounts, taxes and retirement.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Your last paycheck and your account back there",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Your U.S. taxes",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Your U.S. retirement: 401(k) and Social Security",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Your Afore, your IMSS and your weeks",
+   "orden": 5,
+   "resumen": "<p>Your contribution weeks checked and your Afore located.</p><p><strong>Al terminar tendrás:</strong> your contribution weeks checked and your Afore located.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Do you have an Afore? Find it",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Your contribution weeks",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Save for retirement even if you're self-employed",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Your first 90 days",
+   "orden": 6,
+   "resumen": "<p>Your return budget for the first three months.</p><p><strong>Al terminar tendrás:</strong> your return budget for the first three months.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Think in pesos: your return budget",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Welcome-home obligations",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "When the remittances stop",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Work or a business with what you know how to do",
+   "orden": 7,
+   "resumen": "<p>Your plan to use what you know how to do: a job, a trade or a small business.</p><p><strong>Al terminar tendrás:</strong> your plan to use what you know how to do: a job, a trade or a small business.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "What you know how to do has value",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Compare offers: wages and benefits",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "A small business without risking your savings",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Don't get scammed when you return",
+   "orden": 8,
+   "resumen": "<p>Your protocol against fake fixers, fraud and extortion targeting people who return.</p><p><strong>Al terminar tendrás:</strong> your protocol against fake fixers, fraud and extortion targeting people who return.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Fake fixers",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Fraud and extortion against people who return",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Your return plan on one page",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

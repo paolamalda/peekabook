@@ -9,7 +9,10 @@
  "formato": "Presencial en español con intérprete o facilitadora bilingüe: 5 sesiones de 2.5 horas (12.5 horas totales), grupos de 20 personas, materiales ilustrados con pocas palabras.",
  "categoria": "Tu Comunidad",
  "banco": "banco_preguntas_tcmf.gift.txt",
- "min_leccion": [5, 10],
+ "min_leccion": [
+  5,
+  10
+ ],
  "personajes": {
   "Doña Juana": "55 años. Cobra la Pensión Mujeres Bienestar en una comunidad de la Montaña de Guerrero. Habla náhuatl y poco español.",
   "Rosa": "32 años. Tiene tres hijos; su esposo trabaja en Sinaloa y le manda dinero. No tiene cuenta a su nombre.",
@@ -35,19 +38,72 @@
   "M7": "Tu plan para los gastos funerarios sin endeudar a tu familia."
  },
  "insignias": [
-  ["01_mi_apoyo_completo", "M1", "Mi apoyo completo", "fa-gift"],
-  ["02_cuenta_a_mi_nombre", "M2", "Cuenta a mi nombre", "fa-credit-card"],
-  ["03_dinero_que_llega", "M3", "Dinero que llega", "fa-exchange"],
-  ["04_grupo_con_reglas", "M4", "Grupo con reglas", "fa-users"],
-  ["05_no_me_enganan", "M5", "No me engañan", "fa-shield"],
-  ["06_mi_tierra_en_orden", "M6", "Mi tierra en orden", "fa-tree"],
-  ["07_familia_protegida", "M7", "Familia protegida", "fa-heart"],
-  ["08_plan_completo", "Curso", "Plan completo", "fa-trophy"]
+  [
+   "01_mi_apoyo_completo",
+   "M1",
+   "Mi apoyo completo",
+   "fa-gift"
+  ],
+  [
+   "02_cuenta_a_mi_nombre",
+   "M2",
+   "Cuenta a mi nombre",
+   "fa-credit-card"
+  ],
+  [
+   "03_dinero_que_llega",
+   "M3",
+   "Dinero que llega",
+   "fa-exchange"
+  ],
+  [
+   "04_grupo_con_reglas",
+   "M4",
+   "Grupo con reglas",
+   "fa-users"
+  ],
+  [
+   "05_no_me_enganan",
+   "M5",
+   "No me engañan",
+   "fa-shield"
+  ],
+  [
+   "06_mi_tierra_en_orden",
+   "M6",
+   "Mi tierra en orden",
+   "fa-tree"
+  ],
+  [
+   "07_familia_protegida",
+   "M7",
+   "Familia protegida",
+   "fa-heart"
+  ],
+  [
+   "08_plan_completo",
+   "Curso",
+   "Plan completo",
+   "fa-trophy"
+  ]
  ],
  "constancia": {
   "titulo": "Tu Comunidad, Tu Dinero, Tu Futuro",
   "linea": "por concluir el programa de bienestar financiero Tu Comunidad, Tu Dinero, Tu Futuro",
-  "temas": ["Apoyos sin intermediarios", "Cuenta a mi nombre", "Ahorro en grupo", "Fraudes", "Tierra y familia"]
+  "temas": [
+   "Apoyos sin intermediarios",
+   "Cuenta a mi nombre",
+   "Ahorro en grupo",
+   "Fraudes",
+   "Tierra y familia"
+  ],
+  "mods": [
+   "Apoyos sin intermediarios",
+   "Cuenta a mi nombre",
+   "Ahorro en grupo",
+   "Fraudes",
+   "Tierra y familia"
+  ]
  },
  "problema": [
   "Quienes hablan una lengua indígena tienen el nivel de inclusión financiera más bajo del país y la mayor brecha entre mujeres y hombres.",
@@ -64,13 +120,201 @@
   "**Respeto a las formas de la comunidad:** asambleas, cargos y acuerdos comunitarios se toman en cuenta al hablar de dinero y tierra."
  ],
  "datos": [
-  ["Hablantes de lengua indígena", "7.4 millones de 3 años y más (5.9%); 24.2 millones se reconocen indígenas", "INEGI, Encuesta Intercensal 2025"],
-  ["Hablantes que no hablan español", "865,972 (11.8%)", "INEGI, Censo 2020"],
-  ["Lenguas con más hablantes", "Náhuatl 1.65 M, maya 0.77 M, tseltal 0.59 M, tsotsil 0.55 M, mixteco 0.53 M, zapoteco 0.49 M", "INEGI, Censo 2020"],
-  ["Hablantes con algún producto financiero", "58.2%, el nivel más bajo; brecha mujer-hombre de 15.2 puntos", "ENIF 2024"],
-  ["Meta de la política nacional", "Mujeres indígenas de 63.3% a 71% con algún producto en 2030", "PNIF 2025-2030"],
-  ["Pobreza en población indígena", "60.8%", "INEGI, medición de pobreza 2024"],
-  ["Trámites de los Programas para el Bienestar", "Sin costo y sin intermediarios; Línea de Bienestar 800 639 4264", "Secretaría de Bienestar"],
-  ["Lista de sucesión ejidal", "Se deposita en el Registro Agrario Nacional o se formaliza ante notario; vale la de fecha más reciente", "Ley Agraria, artículo 17"]
- ]
+  [
+   "Hablantes de lengua indígena",
+   "7.4 millones de 3 años y más (5.9%); 24.2 millones se reconocen indígenas",
+   "INEGI, Encuesta Intercensal 2025"
+  ],
+  [
+   "Hablantes que no hablan español",
+   "865,972 (11.8%)",
+   "INEGI, Censo 2020"
+  ],
+  [
+   "Lenguas con más hablantes",
+   "Náhuatl 1.65 M, maya 0.77 M, tseltal 0.59 M, tsotsil 0.55 M, mixteco 0.53 M, zapoteco 0.49 M",
+   "INEGI, Censo 2020"
+  ],
+  [
+   "Hablantes con algún producto financiero",
+   "58.2%, el nivel más bajo; brecha mujer-hombre de 15.2 puntos",
+   "ENIF 2024"
+  ],
+  [
+   "Meta de la política nacional",
+   "Mujeres indígenas de 63.3% a 71% con algún producto en 2030",
+   "PNIF 2025-2030"
+  ],
+  [
+   "Pobreza en población indígena",
+   "60.8%",
+   "INEGI, medición de pobreza 2024"
+  ],
+  [
+   "Trámites de los Programas para el Bienestar",
+   "Sin costo y sin intermediarios; Línea de Bienestar 800 639 4264",
+   "Secretaría de Bienestar"
+  ],
+  [
+   "Lista de sucesión ejidal",
+   "Se deposita en el Registro Agrario Nacional o se formaliza ante notario; vale la de fecha más reciente",
+   "Ley Agraria, artículo 17"
+  ]
+ ],
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu tarjeta y tus apoyos, sin intermediarios",
+   "descripcion": "Tus apoyos cobrados completos, sin pagar a nadie."
+  },
+  "M2": {
+   "titulo": "Tu cuenta a tu nombre",
+   "descripcion": "Una cuenta a tu nombre, sobre todo si eres mujer."
+  },
+  "M3": {
+   "titulo": "Recibir y enviar dinero sin perder",
+   "descripcion": "Tu dinero recibido y enviado con menos comisión y sin intermediarios."
+  },
+  "M4": {
+   "titulo": "Ahorro en grupo con reglas claras",
+   "descripcion": "Las reglas escritas de tu grupo de ahorro."
+  },
+  "M5": {
+   "titulo": "Fraudes por teléfono y apps de préstamo",
+   "descripcion": "Tu regla para colgar y no instalar apps de préstamo."
+  },
+  "M6": {
+   "titulo": "Tu tierra: lista de sucesión y beneficiarios",
+   "descripcion": "Tu lista de sucesión hecha y tus beneficiarios al día."
+  },
+  "M7": {
+   "titulo": "Seguro de vida y gastos funerarios",
+   "descripcion": "Tu plan para los gastos funerarios sin endeudar a tu familia."
+  }
+ },
+ "apoyo_leads": {
+  "01": "Empieza aquí: cómo funciona el curso, cuánto toma cada lección, los personajes, las insignias y la constancia.",
+  "02": "Casos que reúnen lo aprendido en varios módulos. Resuélvelos antes de abrir la clave.",
+  "03": "Ejercicios cortos para practicar los cálculos del curso. Las respuestas están al final.",
+  "04": "Las palabras del curso explicadas en lenguaje sencillo, por módulo.",
+  "05": "Dónde pedir ayuda sin costo y respuestas a las dudas más comunes.",
+  "06": "Las fuentes que usamos en el curso, para que puedas verificarlas."
+ },
+ "instalacion": {
+  "nombre_corto": "TCMF-MX",
+  "readme": "README_INSTALAR_TU_COMUNIDAD_PARA_CLAUDE.md",
+  "aviso_foro": "No compartas números de cuenta, NIP, contraseñas, tu CURP, documentos ni montos reales de tus deudas.",
+  "niveles": [
+   [
+    "Empiezo",
+    0,
+    "Al entrar"
+   ],
+   [
+    "Me organizo",
+    50,
+    "Durante el Módulo 2"
+   ],
+   [
+    "Avanzo",
+    100,
+    "Durante el Módulo 3"
+   ],
+   [
+    "Me protejo",
+    200,
+    "Durante el Módulo 4"
+   ],
+   [
+    "Planeo",
+    250,
+    "Durante el Módulo 6"
+   ],
+   [
+    "Lo logré",
+    350,
+    "Durante el Módulo 7"
+   ]
+  ],
+  "insignias_info": [
+   [
+    "Autoevaluación del Módulo 1 completada (aprobada)",
+    "Tus apoyos cobrados completos, sin pagar a nadie."
+   ],
+   [
+    "Autoevaluación del Módulo 2 completada (aprobada)",
+    "Una cuenta a tu nombre, sobre todo si eres mujer."
+   ],
+   [
+    "Autoevaluación del Módulo 3 completada (aprobada)",
+    "Tu dinero recibido y enviado con menos comisión y sin intermediarios."
+   ],
+   [
+    "Autoevaluación del Módulo 4 completada (aprobada)",
+    "Las reglas escritas de tu grupo de ahorro."
+   ],
+   [
+    "Autoevaluación del Módulo 5 completada (aprobada)",
+    "Tu regla para colgar y no instalar apps de préstamo."
+   ],
+   [
+    "Autoevaluación del Módulo 6 completada (aprobada)",
+    "Tu lista de sucesión hecha y tus beneficiarios al día."
+   ],
+   [
+    "Autoevaluación del Módulo 7 completada (aprobada)",
+    "Tu plan para los gastos funerarios sin endeudar a tu familia."
+   ],
+   [
+    "Finalización del curso",
+    "Concluiste los 7 módulos del programa."
+   ]
+  ]
+ },
+ "carpeta": {
+  "nombre": "Tu_Comunidad_Tu_Dinero_Tu_Futuro_ES",
+  "zip": "Tu_Comunidad_v0.1",
+  "manual": "Manual_del_programa_TCMF_v0.1",
+  "contenido": "Contenido_completo_TCMF_v0.1",
+  "guia": "Guia_implementacion_TCMF_v0.1",
+  "descripciones": [
+   "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
+   "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",
+   "Guía de implementación: instalación en Moodle, gamificación y mantenimiento (.docx y .md).",
+   "Paquete para instalar: libros, H5P, glosario, banco, insignias, datos de la constancia, encuestas, guías, vista previa y el README para Claude."
+  ],
+  "lista": [
+   "Coordinación leyó el manual del programa",
+   "Contenido revisado por especialistas en los temas del curso",
+   "Datos vigentes confirmados en los sitios oficiales",
+   "Curso instalado con 04_Moodle/README_INSTALAR_TU_COMUNIDAD_PARA_CLAUDE.md",
+   "Level Up, insignias, constancia y encuestas configurados",
+   "Revisión con rol de estudiante"
+  ],
+  "notas": [
+   "El curso no recomienda instituciones ni productos: enseña a verificar (SIPRES de la CONDUSEF).",
+   "No se piden datos personales: ni cuentas, ni NIP, ni contraseñas, ni CURP, ni montos reales.",
+   "No se dice que el programa está en lenguas indígenas: el material está en español y lo imparte un intérprete o una facilitadora bilingüe de la comunidad.",
+   "Pocas palabras y muchas ilustraciones: cada idea cabe en una imagen; las hojas de trabajo se llenan con marcas, no con texto largo.",
+   "Respeto a las formas de la comunidad: asambleas, cargos y acuerdos comunitarios se toman en cuenta al hablar de dinero y tierra."
+  ]
+ },
+ "encuesta": "mx",
+ "negocio": false,
+ "catalogo": {
+  "descripcion": [
+   "Cobra tus apoyos sin intermediarios, ten una cuenta a tu nombre, ahorra en grupo con reglas y protege tu tierra y tu familia.",
+   "Lecciones cortas para sesiones presenciales en comunidades rurales."
+  ],
+  "para_quien": "Personas y familias de pueblos indígenas, sobre todo mujeres, en comunidades rurales; con intérprete en la lengua de la región.",
+  "idiomas": "Español, con intérprete o facilitadora bilingüe en la sesión"
+ },
+ "ocde": {
+  "marcos": [
+   "adultos"
+  ],
+  "extra": {}
+ },
+ "hojas": [],
+ "objetivo_general": "cobrar sus apoyos completos y sin intermediarios, usar una cuenta a su nombre, recibir y enviar dinero sin perder en comisiones, ahorrar en grupo con reglas claras, protegerse de fraudes telefónicos y de apps de préstamo, y proteger su tierra y a su familia con lista de sucesión, beneficiarios y previsión de gastos funerarios"
 }

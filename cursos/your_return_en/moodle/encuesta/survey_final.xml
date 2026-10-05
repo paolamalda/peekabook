@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+     <ITEMS>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[1]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last 12 months, compared with what came into your household, what you spent was…]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P1]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####Much less
+|75####A little less
+|50####About the same
+|25####A little more
+|0####Much more]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[2]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last 12 months, how did your household pay its bills and commitments (rent, utilities, loans)?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P2]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####All on time
+|60####Nearly all on time
+|40####Most on time
+|20####Some on time
+|0####Very few on time]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[3]]></ITEMID>
+               <ITEMTEXT><![CDATA[If your income stopped today, how long could you cover your expenses with money you have available, without borrowing?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P3]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####6 months or more
+|75####3 to 5 months
+|50####1 to 2 months
+|25####1 to 3 weeks
+|0####Less than 1 week]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[4]]></ITEMID>
+               <ITEMTEXT><![CDATA[Thinking about goals like school, a home, a business or retirement, how confident are you that you're doing what's needed to reach them?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P4]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####Very confident
+|75####Quite confident
+|50####Somewhat confident
+|25####Slightly confident
+|0####Not at all confident]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[5]]></ITEMID>
+               <ITEMTEXT><![CDATA[Today, your household's debts (cards, loans, money owed to people, past-due bills) are…]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P5]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####We have no debt
+|85####Manageable
+|40####A bit more than we can manage
+|0####Far more than we can manage]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[6]]></ITEMID>
+               <ITEMTEXT><![CDATA[If tomorrow you had an urgent expense equal to one month of your expenses, could you cover it?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P6]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####Yes, with my savings
+|70####Yes, with family help or formal credit I can repay
+|30####With difficulty: an expensive loan or pawning something
+|0####I couldn't]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[7]]></ITEMID>
+               <ITEMTEXT><![CDATA[Counting health, life, home or car insurance and IMSS, ISSSTE or IMSS-Bienestar, how confident are you that they'd protect you in an emergency?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P7]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####Very confident
+|75####Quite confident
+|50####Somewhat confident
+|25####Slightly confident
+|10####Not at all confident
+|0####We have no insurance or coverage]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="1">
+               <ITEMID><![CDATA[8]]></ITEMID>
+               <ITEMTEXT><![CDATA["My household plans ahead financially."]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[P8]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>100####Strongly agree
+|65####Agree
+|35####Neither agree nor disagree
+|15####Disagree
+|0####Strongly disagree]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[9]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last month, how often did money worries keep you from sleeping well?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[E1]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Never
+|A few times
+|Often
+|Almost always]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[10]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last month, did you argue at home about money?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[E2]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Never
+|Once
+|Several times
+|Very often]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[11]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last 3 months, did you skip buying food or medicine because of money?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[E3]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>No
+|Once
+|Several times]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[12]]></ITEMID>
+               <ITEMTEXT><![CDATA[In the last 3 months, did you use a payday lender, a loan app or a pawn shop to cover basic expenses?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[E4]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>No
+|Once
+|Several times]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[13]]></ITEMID>
+               <ITEMTEXT><![CDATA[Today, how do you feel about your money situation?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[E5]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Calm
+|Somewhat worried
+|Very worried]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[14]]></ITEMID>
+               <ITEMTEXT><![CDATA[Do you have a budget you review at least monthly?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H1]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|Sometimes
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[15]]></ITEMID>
+               <ITEMTEXT><![CDATA[Do you set money aside to save when you get paid?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H2]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Always
+|Sometimes
+|Never]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[16]]></ITEMID>
+               <ITEMTEXT><![CDATA[Do you have emergency savings in a safe place?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H3]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|I'm starting
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[17]]></ITEMID>
+               <ITEMTEXT><![CDATA[Did you check your credit report in the last year?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H4]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|No
+|I don't know what it is]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[18]]></ITEMID>
+               <ITEMTEXT><![CDATA[Do you know where to complain if a financial institution overcharges you?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H5]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[19]]></ITEMID>
+               <ITEMTEXT><![CDATA[Do you know how to spot and report a scam?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H6]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|Somewhat
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[20]]></ITEMID>
+               <ITEMTEXT><![CDATA[If someone asks you to cosign or be a reference, do you know what you could be charged in each case?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[H7]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Yes
+|Somewhat
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[21]]></ITEMID>
+               <ITEMTEXT><![CDATA[How much did the program help you manage your money better?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[F1]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>A lot
+|Some
+|A little
+|Not at all]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[22]]></ITEMID>
+               <ITEMTEXT><![CDATA[What did you do thanks to the program? (check all that apply)]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[F2]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[c>>>>>Made a budget
+|Started saving
+|Paid down or reorganized debt
+|Checked my credit report
+|Protected myself from a scam
+|Reviewed my insurance or retirement
+|Improved my business or how I earn money
+|Other]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[23]]></ITEMID>
+               <ITEMTEXT><![CDATA[From 0 to 10, how likely are you to recommend the program to someone close to you?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[F3]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID><![CDATA[24]]></ITEMID>
+               <ITEMTEXT><![CDATA[What was most useful and what would you improve? (optional)]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[F4]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[60|4]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+     </ITEMS>
+</FEEDBACK>

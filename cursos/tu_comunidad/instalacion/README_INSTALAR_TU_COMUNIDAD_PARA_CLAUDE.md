@@ -1,0 +1,141 @@
+# Instrucciones para Claude: instalar "Tu Comunidad, Tu Dinero, Tu Futuro" (Moodle 3.10)
+
+Vas a crear el curso **Tu Comunidad, Tu Dinero, Tu Futuro** en academia.desarrollatalento.com. El sitio usa Moodle 3.10, el tema Boost, Level Up 3.15.2 y el complemento **Certificado personalizado** (mod_customcert).
+
+Si en el sitio existen otros cursos, **no los toques.**
+
+Trabaja con el navegador y con la sesión de administrador que la persona abrió.
+
+Reglas:
+
+- Usa solo la interfaz web.
+- No uses SSH.
+- No instales complementos.
+- No cambies la configuración del sitio.
+- No toques otros cursos.
+- Si algo no coincide con estas instrucciones, detente y pregunta.
+
+## 0. Antes de empezar
+
+1. Confirma que no existe un curso con nombre corto `TCMF-MX`. Si existe, detente y pregunta.
+2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**. Anótalo para el reporte.
+3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
+
+## 1. Crear el curso
+
+| Campo | Valor |
+|---|---|
+| Nombre | Tu Comunidad, Tu Dinero, Tu Futuro |
+| Nombre corto | TCMF-MX |
+| Visibilidad | **Mostrar** |
+| Formato | **Mosaicos** (Tiles). 9 secciones |
+| Seguimiento de finalización | Sí |
+
+**Formato Mosaicos:**
+- *Mostrar progreso en los mosaicos*: **como porcentaje**.
+- **Usar submosaicos para las actividades: Sí** (cada lección se ve como un mosaico dentro de su parte).
+- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.
+- Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
+
+**Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.
+
+## 2. Secciones
+
+| Sección | Nombre | Descripción |
+|---|---|---|
+| General | Bienvenida | Enlace al capítulo 1 del libro de apoyo y foro "Dudas y comentarios" |
+| 1 | Tu tarjeta y tus apoyos, sin intermediarios | Contenido de `1_libros/M1_resumen.html` |
+| 2 | Tu cuenta a tu nombre | `M2_resumen.html` |
+| 3 | Recibir y enviar dinero sin perder | `M3_resumen.html` |
+| 4 | Ahorro en grupo con reglas claras | `M4_resumen.html` |
+| 5 | Fraudes por teléfono y apps de préstamo | `M5_resumen.html` |
+| 6 | Tu tierra: lista de sucesión y beneficiarios | `M6_resumen.html` |
+| 7 | Seguro de vida y gastos funerarios | `M7_resumen.html` |
+| 8 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
+| 9 | Evaluación y constancia | "Tu constancia de conclusión." |
+
+Descripción del foro "Dudas y comentarios": "No compartas números de cuenta, NIP, contraseñas, tu CURP, documentos ni montos reales de tus deudas."
+
+## 3. Lecciones: un libro por lección
+
+La estructura completa (nombres, orden, archivos y minutos) está en `estructura_moodle.json`. En cada sección, por cada lección y en orden:
+
+1. Crea un **Libro** con el nombre de la lección **tal cual** (la pregunta, sin claves como «M1 U01»). Formato de capítulo "Nada"; estilo de navegación "Texto".
+2. Menú del libro > **Importar capítulo** > el zip de la lección (`1_libros/MN/NN_MN_UYY.zip`), tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Empieza, Lo esencial, Profundiza, Practica.
+3. **Finalización:** "Ver".
+4. **Restringir acceso:** la lección anterior debe estar completa (la primera de cada parte, sin restricción; la primera de la parte 2 en adelante pide la última de la parte anterior). Muestra la lección bloqueada en gris, no oculta.
+
+| Parte | Lecciones | Carpeta |
+|---|---|---|
+| Tu tarjeta y tus apoyos, sin intermediarios | 2 | `1_libros/M1/` |
+| Tu cuenta a tu nombre | 2 | `1_libros/M2/` |
+| Recibir y enviar dinero sin perder | 2 | `1_libros/M3/` |
+| Ahorro en grupo con reglas claras | 2 | `1_libros/M4/` |
+| Fraudes por teléfono y apps de préstamo | 2 | `1_libros/M5/` |
+| Tu tierra: lista de sucesión y beneficiarios | 2 | `1_libros/M6/` |
+| Seguro de vida y gastos funerarios | 2 | `1_libros/M7/` |
+
+## 4. Libro de apoyo
+
+En la sección 8, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos). En la sección General, agrega una **URL** o etiqueta al capítulo 1 ("Bienvenida").
+
+En la misma sección 8, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
+
+## 5. Glosario
+
+En la sección 8, crea el glosario `Palabras clave del curso` e importa `3_glosario/Glosario_curso_Moodle.xml`, destino "glosario actual".
+
+## 6. Banco de preguntas y autoevaluaciones
+
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tcmf.gift.txt`. Se crean *Tu Comunidad v0.1/M1* a *M7*, con 42 preguntas.
+2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
+3. Agrega **todas** las preguntas de *Tu Comunidad v0.1/MN*, 10 por página:
+
+| M1 | M2 | M3 | M4 | M5 | M6 | M7 |
+|---|---|---|---|---|---|---|
+| 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+
+## 7. Práctica dentro de cada lección (14 H5P)
+
+La práctica **no** va como actividad aparte en la sección: va incrustada en el capítulo «Practica» de su libro.
+
+1. *Banco de contenido* del curso > **Subir** los 14 archivos de `2_h5p/MN/` (`MN_UYY_practica.h5p`).
+2. Abre el capítulo «Practica» de cada libro en modo edición. Verás un recuadro rosa con el texto `[[H5P MN_UYY_practica.h5p]]`.
+3. Borra **todo el recuadro** y en su lugar inserta el H5P con el botón **Insertar H5P** del editor, eligiendo ese archivo del banco de contenido.
+4. Guarda y comprueba con *Cambiar rol a > Estudiante* que se vean las situaciones y preguntas, una por pantalla.
+
+**Nota:** la práctica incrustada no registra calificación. El avance de cada lección se marca al verla, y la calificación del módulo sale de la autoevaluación.
+
+**Orden final de cada sección:** las lecciones en orden y al final la autoevaluación (restringida a completar la última lección de la parte).
+
+## 8. Encuestas del programa
+
+En `8_encuestas/` están las encuestas y su documento `encuestas.md`. Usa el módulo **Retroalimentación** (Feedback), modo **anónimo**, y en cada una *Plantillas > Importar preguntas* con su XML (si la importación falla, créalas a mano con `encuestas.md`):
+
+| Actividad | Sección | Archivo | Finalización |
+|---|---|---|---|
+| `Encuesta de inicio` | General | `encuesta_inicio.xml` | Enviar |
+| `Encuesta final` | 9 | `encuesta_final.xml` | Enviar; es requisito de la constancia |
+| `Seguimiento a 30 días` | 9 | `encuesta_seguimiento.xml` | Enviar |
+| `Seguimiento a 90 días` | 9 | `encuesta_seguimiento.xml` | Enviar |
+
+Restringe los seguimientos por fecha: 30 y 90 días después de la fecha de fin de la cohorte ("[por definir]"). La encuesta final es la evidencia de resultados del programa: no la omitas.
+
+## 9. Level Up, insignias, finalización y constancia
+
+Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`; cada nombre lleva el curso para que sea único en la plataforma), 4 (finalización con las 7 autoevaluaciones) y 5 (constancia con la plantilla estándar y los datos de `6_constancia/constancia.md`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
+
+## 10. Revisión final (con rol de estudiante)
+
+- La portada muestra un mosaico por parte con su porcentaje; dentro de cada parte, un submosaico por lección sin claves técnicas.
+- La primera lección: capítulos Empieza, Lo esencial, Profundiza y Practica; «Cuidado con estos errores» al final de Lo esencial; la práctica incrustada funciona.
+- La segunda lección aparece bloqueada hasta ver la primera.
+- No hay ranking ni tabla de posiciones visible.
+- Una autoevaluación muestra 3 opciones por pregunta.
+- El libro de apoyo muestra "Ver la clave" en los casos integradores y las preguntas frecuentes desplegables.
+
+## 11. Reporte para la persona
+
+Enlace del curso; libros por parte; H5P incrustadas; preguntas por autoevaluación; encuestas creadas; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de la portada en mosaicos, una H5P, una autoevaluación y la vista previa de la constancia.
+
+El curso queda **visible**, con inscripción por clave. Para la ficha del catálogo usa `tarjeta_catalogo.md`.

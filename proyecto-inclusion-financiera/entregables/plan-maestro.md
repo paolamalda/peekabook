@@ -157,9 +157,11 @@ Actualizado: 2026-09-28
 - [ ] **K12** Probar con un clic todos los enlaces de 'Para saber más' y de dentro del texto; revisar cada 6 meses. *(Responsable: Coordinación curricular)*
 - [ ] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)*
 
-- [ ] **K14** Versiones de Tu Regreso en inglés y bilingüe (las presentaciones ya las ofrecen). *(Responsable: Claude + Paola)*
+- [x] **K14** Versiones de Tu Regreso en inglés y bilingüe: hecho el 5 de octubre de 2026 (`cursos/your_return_en`, guía de sesión en inglés y `sesiones/guia_grupo_bilingue.md`). Falta revisión de Paola y textos en inglés para los videos. *(Responsable: Claude + Paola)*
 
 ### Diseño instruccional (EC0217 y EC0366)
+
+**Avance al 5 de octubre de 2026:** D01 a D07 y D11 a D14 ya están generados con `herramientas_cursos/estandares.py` para Tu Dinero y los siete cursos nuevos; faltan los cursos anteriores (Tu Turno, Tu Patrimonio, Tu Trabajo, Tu Idea, Tu Talento, Tu Negocio México y EE. UU., Your Money y Your Business) y la revisión de Paola.
 
 Revisión del 5 de octubre de 2026 contra el material de Formador de instructores (EC0217). Ya se cumple: aprendizaje de adultos, refuerzo inmediato, evaluación formativa por lección, autoevaluación final con 70% aprobatorio, reglas de pruebas objetivas, técnicas instruccionales y grupales, y compromiso del participante. Falta:
 
@@ -178,4 +180,4 @@ Revisión del 5 de octubre de 2026 contra el material de Formador de instructore
 - [ ] **D15** Al menos una imagen o video por lección o presentación, con derechos de uso claros. *(Responsable: Producción)*
 - [ ] **D16** Reporte de revisión del funcionamiento en la plataforma en el formato del EC0366 (curso, desarrollador, fecha, observaciones de diseño, contenido y funcionalidad con unidad y propuesta), incluida la prueba de enlaces (K12). *(Responsable: Claude + quien instala)*
 - [ ] **D09** Registro como agente capacitador externo ante la STPS (DC-5): en trámite; Paola ya cuenta con DC-3. Al obtenerlo, agregar la DC-3 como opción para clientes empresa junto a la constancia del curso. *(Responsable: Paola)*
-- [ ] **D10** Al armar kit, encuestas y libro de apoyo de los siete cursos nuevos, hacerlos ya con D01 a D06. *(Responsable: Claude)*
+- [x] **D10** Kit, encuestas, libro de apoyo y documentos de estándares de los siete cursos nuevos y de Your Return: hecho el 5 de octubre de 2026 (`apoyo/`, `manual/`, `moodle/encuesta/` y `estandares/` de cada curso). *(Responsable: Claude)*

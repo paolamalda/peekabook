@@ -1,0 +1,447 @@
+$CATEGORY: $course$/Tu Ruta v0.1/M1
+
+::M1 U01 P1::¿Qué es tu ingreso real? {
+	~Lo que te dan de propina los clientes #No es la mejor opción. El real.
+	~Lo que muestra la app al final del día #No es la mejor opción. El real.
+	=Lo que entra menos lo que te cuesta trabajar #¡Correcto! El real.
+}
+
+::M1 U01 P2::Entran 5,000 y gastas 1,600 en trabajar. ¿Cuánto ganas? {
+	~5,000 #No es la mejor opción. 5,000 menos 1,600.
+	=3,400 #¡Correcto! 5,000 menos 1,600.
+	~6,600 #No es la mejor opción. 5,000 menos 1,600.
+}
+
+::M1 U01 P3::¿Qué cuenta como gasto de trabajo? {
+	~La renta de tu casa #No es la mejor opción. Gasolina.
+	=La gasolina #¡Correcto! Gasolina.
+	~Tus vacaciones #No es la mejor opción. Gasolina.
+}
+
+::M1 U02 P1::Ganas 2,400 reales en 40 horas. ¿Cuánto por hora? {
+	~2,400 #No es la mejor opción. 2,400 entre 40.
+	~40 #No es la mejor opción. 2,400 entre 40.
+	=60 #¡Correcto! 2,400 entre 40.
+}
+
+::M1 U02 P2::¿Las esperas sin pedido cuentan como horas? {
+	~No #No es la mejor opción. Estás conectado.
+	=Sí #¡Correcto! Estás conectado.
+	~Solo si llueve #No es la mejor opción. Estás conectado.
+}
+
+::M1 U02 P3::¿Para qué sirve anotar por bloques de horario? {
+	~Para nada #No es la mejor opción. Comparar.
+	=Para ver qué horas te dejan más #¡Correcto! Comparar.
+	~Para pagar menos impuestos al SAT #No es la mejor opción. Comparar.
+}
+
+::M1 U03 P1::Cuatro semanas suman 8,000. ¿Cuál es tu promedio? {
+	~4,000 #No es la mejor opción. 8,000 entre 4.
+	~8,000 #No es la mejor opción. 8,000 entre 4.
+	=2,000 #¡Correcto! 8,000 entre 4.
+}
+
+::M1 U03 P2::¿Cuánto conviene que sea tu sueldo semanal? {
+	~Igual a tu mejor semana #No es la mejor opción. Menor al promedio.
+	=Un poco menos que tu promedio #¡Correcto! Menor al promedio.
+	~Lo que salga cada semana, sin fijarlo #No es la mejor opción. Menor al promedio.
+}
+
+::M1 U03 P3::Semana mala\: ¿de dónde completas? {
+	~De un préstamo #No es la mejor opción. El colchón.
+	=De tu colchón #¡Correcto! El colchón.
+	~De la app #No es la mejor opción. El colchón.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M2
+
+::M2 U01 P1::¿Desde cuándo está vigente la reforma de plataformas? {
+	=Desde el 22 de junio de 2025 #¡Correcto! Junio de 2025.
+	~Desde 2010, con la primera app #No es la mejor opción. Junio de 2025.
+	~Todavía no #No es la mejor opción. Junio de 2025.
+}
+
+::M2 U01 P2::¿Cuánto se descuenta en auto para calcular el neto? {
+	~3% #No es la mejor opción. 48%.
+	=48% #¡Correcto! 48%.
+	~32% #No es la mejor opción. 48%.
+}
+
+::M2 U01 P3::¿El umbral se cuenta sumando todas tus apps? {
+	~Sí #No es la mejor opción. Por plataforma.
+	~Solo si son dos apps del mismo tipo #No es la mejor opción. Por plataforma.
+	=No, por plataforma #¡Correcto! Por plataforma.
+}
+
+::M2 U02 P1::¿Qué te corresponde como persona trabajadora de plataforma? {
+	=Aguinaldo y vacaciones proporcionales #¡Correcto! Proporcionales.
+	~Nada #No es la mejor opción. Proporcionales.
+	~Solo las propinas de los clientes #No es la mejor opción. Proporcionales.
+}
+
+::M2 U02 P2::¿Cuántas horas al año para el reparto de utilidades? {
+	~100 #No es la mejor opción. 288.
+	=Más de 288 #¡Correcto! 288.
+	~2,000 #No es la mejor opción. 288.
+}
+
+::M2 U02 P3::¿Qué guardas cada mes? {
+	~Nada #No es la mejor opción. Capturas.
+	~Los tickets de gasolina de otros #No es la mejor opción. Capturas.
+	=Capturas del detalle de pagos #¡Correcto! Capturas.
+}
+
+::M2 U03 P1::Te desactivan sin explicación. ¿Qué haces primero? {
+	=Pides por escrito la razón y la revisión #¡Correcto! Por escrito.
+	~Abres otra cuenta con el nombre de un familiar para seguir trabajando #No es la mejor opción. Por escrito.
+	~Nada #No es la mejor opción. Por escrito.
+}
+
+::M2 U03 P2::¿Quién te orienta sin costo? {
+	~Un gestor #No es la mejor opción. PROFEDET.
+	=La PROFEDET #¡Correcto! PROFEDET.
+	~El que desbloquea cuentas #No es la mejor opción. PROFEDET.
+}
+
+::M2 U03 P3::¿Qué guardas como prueba? {
+	~Solo tu memoria de lo que pasó #No es la mejor opción. Capturas.
+	~Nada #No es la mejor opción. Capturas.
+	=Capturas con fechas #¡Correcto! Capturas.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M3
+
+::M3 U01 P1::¿Con qué consultas tu vigencia en el IMSS? {
+	~Con la placa #No es la mejor opción. CURP.
+	~Con tu licencia #No es la mejor opción. CURP.
+	=Con tu CURP #¡Correcto! CURP.
+}
+
+::M3 U01 P2::¿Qué haces para que tu hija tenga IMSS? {
+	~Nada #No es la mejor opción. Beneficiaria.
+	=La registras como beneficiaria #¡Correcto! Beneficiaria.
+	~Usas tu credencial cuando ella vaya #No es la mejor opción. Beneficiaria.
+}
+
+::M3 U01 P3::Un mes no llegas al umbral. ¿Qué pasa? {
+	~Nada cambia #No es la mejor opción. Depende del mes.
+	=Ese mes no tienes cobertura completa #¡Correcto! Depende del mes.
+	~Pierdes para siempre todas las semanas que ya tenías #No es la mejor opción. Depende del mes.
+}
+
+::M3 U02 P1::No llegas al umbral. ¿Qué cobertura tienes conectado? {
+	~Todo el IMSS, igual que un empleado #No es la mejor opción. Riesgos.
+	~Ninguna #No es la mejor opción. Riesgos.
+	=Riesgos de trabajo #¡Correcto! Riesgos.
+}
+
+::M3 U02 P2::Estudias en escuela pública. ¿Qué puedes tener? {
+	=IMSS como estudiante #¡Correcto! Estudiante.
+	~Nada #No es la mejor opción. Estudiante.
+	~Un préstamo para tus estudios #No es la mejor opción. Estudiante.
+}
+
+::M3 U02 P3::Te accidentas fuera de la app. ¿Cubre riesgos de trabajo? {
+	~Sí, siempre #No es la mejor opción. Conectado.
+	=No, solo conectado #¡Correcto! Conectado.
+	~Solo de noche, cuando hay más riesgo #No es la mejor opción. Conectado.
+}
+
+::M3 U03 P1::¿Dónde localizas tu Afore? {
+	~En el taller donde arreglas la moto #No es la mejor opción. AforeMóvil.
+	~En la app de reparto, en tu perfil #No es la mejor opción. AforeMóvil.
+	=En AforeMóvil con tu CURP #¡Correcto! AforeMóvil.
+}
+
+::M3 U03 P2::Tienes 500 semanas y eres Ley 97. ¿Cuántas te faltan en 2026? {
+	=375 #¡Correcto! 875 menos 500.
+	~500 #No es la mejor opción. 875 menos 500.
+	~75 #No es la mejor opción. 875 menos 500.
+}
+
+::M3 U03 P3::¿Desde cuánto puedes hacer una aportación voluntaria? {
+	~5,000 #No es la mejor opción. Desde 50.
+	=50 #¡Correcto! Desde 50.
+	~No se puede #No es la mejor opción. Desde 50.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M4
+
+::M4 U01 P1::¿Cuánto IVA te retienen con RFC? {
+	=8% #¡Correcto! 8%.
+	~16% #No es la mejor opción. 8%.
+	~Nada #No es la mejor opción. 8%.
+}
+
+::M4 U01 P2::Ganas 5,000. ¿Cuánto ISR te retienen con RFC? {
+	~1,000 #No es la mejor opción. 2.1% de 5,000.
+	=105 #¡Correcto! 2.1% de 5,000.
+	~500 #No es la mejor opción. 2.1% de 5,000.
+}
+
+::M4 U01 P3::¿Qué haces con tus constancias de retención? {
+	~Las tiras #No es la mejor opción. Guárdalas.
+	~Las vendes a un gestor #No es la mejor opción. Guárdalas.
+	=Las descargas y guardas #¡Correcto! Guárdalas.
+}
+
+::M4 U02 P1::¿Qué necesitas para inscribirte al RFC en línea? {
+	=Tu CURP #¡Correcto! CURP.
+	~Una factura #No es la mejor opción. CURP.
+	~Un aval #No es la mejor opción. CURP.
+}
+
+::M4 U02 P2::¿Se presta la e.firma? {
+	~A conocidos sí #No es la mejor opción. Nunca.
+	=Nunca #¡Correcto! Nunca.
+	~Solo a la familia #No es la mejor opción. Nunca.
+}
+
+::M4 U02 P3::¿Qué régimen es para las apps? {
+	~Sueldos y salarios #No es la mejor opción. Plataformas.
+	~Arrendamiento, por usar tu vehículo #No es la mejor opción. Plataformas.
+	=Plataformas tecnológicas #¡Correcto! Plataformas.
+}
+
+::M4 U03 P1::¿Dónde ves si estás al corriente con el SAT? {
+	=En la opinión de cumplimiento #¡Correcto! Opinión de cumplimiento.
+	~En la app de reparto, en tu perfil #No es la mejor opción. Opinión de cumplimiento.
+	~En el banco donde cobras #No es la mejor opción. Opinión de cumplimiento.
+}
+
+::M4 U03 P2::Te piden tu contraseña por correo «del SAT». ¿Qué es? {
+	~Normal #No es la mejor opción. El SAT no la pide.
+	~Una actualización #No es la mejor opción. El SAT no la pide.
+	=Fraude #¡Correcto! El SAT no la pide.
+}
+
+::M4 U03 P3::¿En qué mes se presenta la declaración anual de personas físicas? {
+	~Julio #No es la mejor opción. Abril.
+	~Diciembre #No es la mejor opción. Abril.
+	=Abril #¡Correcto! Abril.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M5
+
+::M5 U01 P1::Gastas 7,800 al año en mantenimiento. ¿Cuánto apartas por semana? {
+	~78 #No es la mejor opción. 7,800 entre 52.
+	~780 #No es la mejor opción. 7,800 entre 52.
+	=150 #¡Correcto! 7,800 entre 52.
+}
+
+::M5 U01 P2::¿Para qué es el apartado del vehículo? {
+	=Solo para el vehículo #¡Correcto! Solo vehículo.
+	~Para fiestas #No es la mejor opción. Solo vehículo.
+	~Para préstamos a tus compañeros #No es la mejor opción. Solo vehículo.
+}
+
+::M5 U01 P3::¿Qué pasa si pospones el mantenimiento? {
+	~Ahorras siempre, porque no gastas #No es la mejor opción. Más cara.
+	=La reparación puede salir más cara #¡Correcto! Más cara.
+	~Nada #No es la mejor opción. Más cara.
+}
+
+::M5 U02 P1::¿Qué cubre la responsabilidad civil? {
+	~Tu gasolina #No es la mejor opción. Terceros.
+	~Tu celular si se te cae #No es la mejor opción. Terceros.
+	=Los daños que le haces a otros #¡Correcto! Terceros.
+}
+
+::M5 U02 P2::¿Qué preguntas a tu aseguradora? {
+	=Si cubre uso con apps #¡Correcto! Uso con apps.
+	~El color de la póliza #No es la mejor opción. Uso con apps.
+	~Nada #No es la mejor opción. Uso con apps.
+}
+
+::M5 U02 P3::El daño es de 20,000 y el deducible de 5,000. ¿Cuánto paga el seguro? {
+	~20,000 #No es la mejor opción. 20,000 menos 5,000.
+	=15,000 #¡Correcto! 20,000 menos 5,000.
+	~5,000 #No es la mejor opción. 20,000 menos 5,000.
+}
+
+::M5 U03 P1::Pagas 1,000 por semana durante 104 semanas. ¿Cuánto en total? {
+	~1,000 #No es la mejor opción. 1,000 por 104.
+	~10,400, uno por cada semana #No es la mejor opción. 1,000 por 104.
+	=104,000 #¡Correcto! 1,000 por 104.
+}
+
+::M5 U03 P2::¿Qué revisas en el contrato? {
+	=Qué pasa si te atrasas #¡Correcto! Atrasos.
+	~El color y el modelo del auto #No es la mejor opción. Atrasos.
+	~Nada #No es la mejor opción. Atrasos.
+}
+
+::M5 U03 P3::¿Con qué comparas el total a pagar? {
+	~Con la gasolina #No es la mejor opción. Contado.
+	=Con el precio de contado #¡Correcto! Contado.
+	~Con la renta de tu casa #No es la mejor opción. Contado.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M6
+
+::M6 U01 P1::Te accidentas conectado. ¿Qué te cubre el IMSS? {
+	=Riesgo de trabajo #¡Correcto! Riesgo de trabajo.
+	~Nada #No es la mejor opción. Riesgo de trabajo.
+	~Solo si tienes auto #No es la mejor opción. Riesgo de trabajo.
+}
+
+::M6 U01 P2::¿Qué captura tomas? {
+	=Del pedido o viaje activo #¡Correcto! Pedido activo.
+	~De tus redes sociales del día #No es la mejor opción. Pedido activo.
+	~Ninguna #No es la mejor opción. Pedido activo.
+}
+
+::M6 U01 P3::Chocas con otro auto. ¿Qué haces antes de un acuerdo? {
+	~Te vas #No es la mejor opción. Aseguradora.
+	~Firmas lo que te den para terminar rápido #No es la mejor opción. Aseguradora.
+	=Llamas a tu aseguradora #¡Correcto! Aseguradora.
+}
+
+::M6 U02 P1::¿Cuál es la primera meta del fondo? {
+	=Una semana de gastos #¡Correcto! Una semana.
+	~Un año completo de gastos desde el inicio #No es la mejor opción. Una semana.
+	~Nada #No es la mejor opción. Una semana.
+}
+
+::M6 U02 P2::Apartas 50 al día. ¿Cuánto en 30 días? {
+	=1,500 #¡Correcto! 50 por 30.
+	~150 #No es la mejor opción. 50 por 30.
+	~5,000 #No es la mejor opción. 50 por 30.
+}
+
+::M6 U02 P3::Usaste tu fondo. ¿Qué haces? {
+	~Lo olvidas #No es la mejor opción. Llénalo.
+	~Pides prestado para llenarlo de una vez #No es la mejor opción. Llénalo.
+	=Lo vuelves a llenar #¡Correcto! Llénalo.
+}
+
+::M6 U03 P1::Sientes los ojos pesados. ¿Qué haces? {
+	=Te detienes a descansar #¡Correcto! Descansa.
+	~Subes el volumen y abres la ventana #No es la mejor opción. Descansa.
+	~Aceleras para llegar #No es la mejor opción. Descansa.
+}
+
+::M6 U03 P2::¿Qué te ayuda a trabajar menos horas? {
+	=Elegir los horarios que pagan mejor #¡Correcto! Mejores horarios.
+	~Trabajar de madrugada siempre, que hay menos tráfico #No es la mejor opción. Mejores horarios.
+	~Nada #No es la mejor opción. Mejores horarios.
+}
+
+::M6 U03 P3::¿A dónde llamas si el estrés te rebasa? {
+	~A nadie #No es la mejor opción. 800 911 2000.
+	~A la app, al soporte de viajes #No es la mejor opción. 800 911 2000.
+	=A la Línea de la Vida #¡Correcto! 800 911 2000.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M7
+
+::M7 U01 P1::Te prestan 2,000 y pagas 2,300. ¿Cuánto cuesta? {
+	~Nada #No es la mejor opción. 2,300 menos 2,000.
+	~2,300 #No es la mejor opción. 2,300 menos 2,000.
+	=300 #¡Correcto! 2,300 menos 2,000.
+}
+
+::M7 U01 P2::¿Qué usas antes de pedir un adelanto? {
+	=Tu colchón #¡Correcto! Colchón.
+	~Otro préstamo #No es la mejor opción. Colchón.
+	~La tarjeta de un amigo #No es la mejor opción. Colchón.
+}
+
+::M7 U01 P3::¿Dónde verificas la financiera? {
+	~En redes sociales #No es la mejor opción. SIPRES.
+	=En el SIPRES de CONDUSEF #¡Correcto! SIPRES.
+	~Con el soporte de otra app #No es la mejor opción. SIPRES.
+}
+
+::M7 U02 P1::Te ofrecen dinero por prestar tu cuenta. ¿Qué haces? {
+	~La prestas a un familiar #No es la mejor opción. No.
+	~La prestas solo los fines de semana #No es la mejor opción. No.
+	=No la prestas #¡Correcto! No.
+}
+
+::M7 U02 P2::Trabajas con la cuenta de otra persona. ¿Tienes IMSS a tu nombre? {
+	~Sí #No es la mejor opción. No.
+	=No #¡Correcto! No.
+	~Solo si te accidentas #No es la mejor opción. No.
+}
+
+::M7 U02 P3::¿Qué haces si compartiste tu contraseña? {
+	~Nada #No es la mejor opción. Cámbiala.
+	=La cambias y activas verificación en dos pasos #¡Correcto! Cámbiala.
+	~La publicas para que nadie la use #No es la mejor opción. Cámbiala.
+}
+
+::M7 U03 P1::«Soporte» te pide el código del SMS. ¿Qué haces? {
+	~Das solo la mitad del código #No es la mejor opción. Nunca des códigos.
+	~Lo das para no perder tu cuenta #No es la mejor opción. Nunca des códigos.
+	=No lo das y entras a soporte desde la app #¡Correcto! Nunca des códigos.
+}
+
+::M7 U03 P2::¿Qué revisas cada semana? {
+	=Que tu cuenta de pagos sea la tuya #¡Correcto! Cuenta de pagos.
+	~Las calificaciones de otros repartidores #No es la mejor opción. Cuenta de pagos.
+	~Nada #No es la mejor opción. Cuenta de pagos.
+}
+
+::M7 U03 P3::Te robaron la cuenta. ¿Qué haces? {
+	~Esperas #No es la mejor opción. Reporta.
+	=Reportas desde la app y avisas a tu banco #¡Correcto! Reporta.
+	~Abres otra cuenta con otro nombre #No es la mejor opción. Reporta.
+}
+
+$CATEGORY: $course$/Tu Ruta v0.1/M8
+
+::M8 U01 P1::¿Cuándo conviene empezar a ahorrar para el retiro? {
+	=Lo antes posible #¡Correcto! Pronto.
+	~A los 60, cuando ya estés cerca #No es la mejor opción. Pronto.
+	~Nunca #No es la mejor opción. Pronto.
+}
+
+::M8 U01 P2::Aportas 200 al mes durante 20 años. ¿Cuánto aportas? {
+	=48,000 #¡Correcto! 200 por 240 meses.
+	~4,800 #No es la mejor opción. 200 por 240 meses.
+	~200,000 #No es la mejor opción. 200 por 240 meses.
+}
+
+::M8 U01 P3::Tuviste un mes malo. ¿Qué haces con tu aportación? {
+	~Pides prestado para aportar #No es la mejor opción. Menos, no cero.
+	~La cancelas para siempre y te olvidas #No es la mejor opción. Menos, no cero.
+	=La bajas pero no la dejas en cero #¡Correcto! Menos, no cero.
+}
+
+::M8 U02 P1::Tu meta es 15,600 en 52 semanas. ¿Cuánto apartas por semana? {
+	=300 #¡Correcto! 15,600 entre 52.
+	~156 #No es la mejor opción. 15,600 entre 52.
+	~1,560 #No es la mejor opción. 15,600 entre 52.
+}
+
+::M8 U02 P2::¿Dónde guardas el dinero de la meta? {
+	=En un apartado propio #¡Correcto! Propio.
+	~Con el fondo de emergencia #No es la mejor opción. Propio.
+	~En la cartera #No es la mejor opción. Propio.
+}
+
+::M8 U02 P3::¿Qué hace una meta concreta? {
+	~No sirve #No es la mejor opción. Qué, cuánto, cuándo.
+	~Es solo un deseo que tienes en la cabeza #No es la mejor opción. Qué, cuánto, cuándo.
+	=Dice qué, cuánto y para cuándo #¡Correcto! Qué, cuánto, cuándo.
+}
+
+::M8 U03 P1::¿Qué lleva cada parte? {
+	=La siguiente acción y una fecha #¡Correcto! Acción y fecha.
+	~Solo lo que ya hiciste en el curso #No es la mejor opción. Acción y fecha.
+	~Nada #No es la mejor opción. Acción y fecha.
+}
+
+::M8 U03 P2::¿Cada cuándo revisas tu plan? {
+	=Cada mes #¡Correcto! Cada mes.
+	~Cada cinco años #No es la mejor opción. Cada mes.
+	~Nunca #No es la mejor opción. Cada mes.
+}
+
+::M8 U03 P3::¿Cuál es una parte del plan? {
+	~El clima #No es la mejor opción. Vehículo.
+	~Las calificaciones de otros repartidores #No es la mejor opción. Vehículo.
+	=Vehículo #¡Correcto! Vehículo.
+}

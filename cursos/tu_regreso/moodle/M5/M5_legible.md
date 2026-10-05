@@ -1,0 +1,437 @@
+# Módulo 5. Tu Afore, tu IMSS y tus semanas
+
+## M5 U01. ¿Tienes Afore? Encuéntrala
+
+**Lo que lograrás:** Comprobar si tienes una cuenta de Afore de cuando trabajaste en México y localizarla.
+
+**Para empezar:** Antes de irse, Don Rafa trabajó seis años en una fábrica en Morelia con IMSS. No sabe si ese dinero «se perdió». En esta lección verás cómo encontrarlo.
+
+### Lo esencial (5 minutos)
+
+#### Tu Afore te espera
+
+Si trabajaste en México con IMSS después de 1997, tienes una cuenta de Afore con tu nombre. El dinero no se pierde por irte: sigue ahí y genera rendimientos.
+
+
+
+#### Cómo localizarla
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| App AforeMóvil | Con tu CURP. | Te dice en qué Afore estás. |
+| e-SAR | Página de la CONSAR. | Localiza tu Afore. |
+| SARTEL | 55 1328 5000. | Sin costo. |
+
+#### Si nunca trabajaste formal
+
+Si no tienes Afore, puedes abrir una con tu CURP en la app AforeMóvil, incluso si trabajas por tu cuenta. Así empiezas a ahorrar para tu retiro (U03).
+
+
+
+#### Un caso en un minuto
+
+Don Rafa descargó AforeMóvil, puso su CURP y apareció su cuenta con el ahorro de sus seis años en la fábrica. Actualizó su teléfono y su domicilio.
+
+> **Idea clave:** si trabajaste formal en México, tu Afore sigue ahí; localízala con tu CURP.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Se pierde tu Afore si te fuiste a EE. UU.?
+*Respuesta:* No: sigue ahí a tu nombre.
+
+2. ¿Qué necesitas para localizarla?
+*Respuesta:* Tu CURP.
+
+
+#### Para recordar
+
+- Tu Afore no se pierde.
+- Localízala con tu CURP.
+- Actualiza tus datos.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Tu Afore
+
+| Dato | Lo tengo |
+|---|---|
+| Afore donde estoy | |
+| Saldo aproximado | |
+| Beneficiarios registrados | |
+| Datos de contacto al día | |
+
+
+
+#### Registra a tus beneficiarios
+
+Son las personas que recibirían tu ahorro si faltas. Revísalos en tu Afore; si los pusiste hace años, quizá ya no son los que quieres.
+
+
+
+#### Casos
+
+
+**Caso 1. «Se perdió»**
+
+Don Rafa cree que perdió su ahorro de la fábrica.
+- *¿Qué hace?* Lo busca con su CURP en AforeMóvil.
+
+
+**Caso 2. Nunca formal**
+
+Memo nunca trabajó formal en México.
+- *¿Qué hace?* Abre su Afore con su CURP para empezar a ahorrar.
+
+
+**Caso 3. El gestor de Afores**
+
+Le ofrecen a Chayo «sacar» la Afore de su esposo por una comisión.
+- *¿Qué hace?* No paga: la consulta es gratuita y él la hace con su CURP.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Dar por perdida la Afore | Dinero olvidado | Búscala |
+| No actualizar datos | No te localizan | Actualiza |
+| Beneficiarios viejos | El dinero va a quien no quieres | Revísalos |
+| Pagar a gestores | Fraude | Es sin costo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Rafa, Memo y Chayo. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Trabajaste en México con IMSS en 2005. ¿Tienes Afore? a) Probablemente sí · b) No, se borró · c) Solo si vives en México desde entonces
+2. ¿Con qué localizas tu Afore? a) Con tu licencia de EE. UU. · b) Con tu CURP · c) Con tu recibo de luz
+3. ¿Qué son los beneficiarios? a) Los que recibirían tu ahorro si faltas · b) Los dueños y directivos de la Afore · c) Tus jefes
+**Respuestas:** 1-a: si cotizaste, la tienes. 2-b: con la CURP. 3-a: quienes la reciben.
+
+
+
+#### Ponlo en práctica
+
+¿Qué dos cosas revisas al encontrar tu Afore, además del saldo?
+**Respuesta:** Tus datos de contacto y tus beneficiarios.
+
+
+
+#### A tu plan
+
+Localiza tu Afore con tu CURP y llena la tabla.
+
+
+
+### Para saber más
+
+- **Localiza tu Afore** (CONSAR · español): https://www.gob.mx/consar — **Qué buscar:** «localiza tu Afore» y «AforeMóvil». SARTEL 55 1328 5000.
+
+### Palabras clave
+
+- *Afore:* administradora de tu ahorro para el retiro.
+- *Rendimiento:* lo que gana tu ahorro con el tiempo.
+- *Beneficiario:* persona que recibe tu ahorro si faltas.
+
+### Fuentes
+
+CONSAR, localización de cuentas y AforeMóvil; consultados el 5 de octubre de 2026.
+
+---
+
+## M5 U02. Tus semanas cotizadas
+
+**Lo que lograrás:** Consultar tus semanas cotizadas en el IMSS y saber cuántas te faltan para una pensión.
+
+**Para empezar:** Chayo escuchó que su esposo «ya no alcanza pensión porque se fue muchos años». Nadie ha revisado cuántas semanas tiene. En esta lección verás cómo hacerlo.
+
+### Lo esencial (5 minutos)
+
+#### Las semanas no se borran
+
+Cada semana que trabajaste con IMSS en México se queda registrada. Al irte se detuvo el conteo, pero no se perdió. Puedes consultarlo sin costo en la página del IMSS con tu CURP y tu número de seguridad social.
+
+
+
+#### ¿Qué ley te toca?
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| Ley 73 | Empezaste a cotizar antes del 1 de julio de 1997. | Pide 500 semanas. |
+| Ley 97 | Empezaste después. | En 2026 pide 875 semanas. |
+
+#### La Ley 97 sube cada año
+
+Para la Ley 97, el requisito sube 25 semanas cada año hasta llegar a 1,000 en 2031. Si te faltan semanas, puedes volver a cotizar con un empleo formal o por tu cuenta (U03).
+
+
+
+#### Un caso en un minuto
+
+El esposo de Chayo consultó: tiene 610 semanas y empezó en 1993, así que es Ley 73. Ya rebasa las 500. Al cumplir la edad podrá revisar su pensión.
+
+> **Idea clave:** tus semanas no se borran; consúltalas y averigua qué ley te toca.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Qué pasa con tus semanas al irte a EE. UU.?
+*Respuesta:* Se quedan registradas; el conteo se detiene, pero no se borran.
+
+2. ¿Cuántas semanas pide la Ley 97 en 2026?
+*Respuesta:* 875.
+
+
+#### Para recordar
+
+- Las semanas no se borran.
+- Ley 73: 500.
+- Ley 97: 875 en 2026.
+
+
+
+### Profundiza (5 minutos más)
+
+#### Cuántas le faltan a Don Rafa (Ley 97)
+
+- Requisito en 2026: **875**
+- Semanas que tiene: **312**
+- Semanas que le faltan: **563**
+
+
+#### Unas 52 semanas por año
+
+Un año completo de trabajo formal suma unas 52 semanas. Para 563 semanas se necesitan casi 11 años; por eso conviene empezar pronto.
+
+
+
+#### Casos
+
+
+**Caso 1. «Ya no alcanza»**
+
+A Chayo le dicen que su esposo perdió todo.
+- *¿Qué hace?* Consultan sus semanas en el IMSS con su CURP.
+
+
+**Caso 2. ¿Qué ley?**
+
+Don Rafa empezó a trabajar formal en 2001.
+- *¿Qué hace?* Sabe que le toca Ley 97 y calcula cuántas le faltan.
+
+
+**Caso 3. Le faltan semanas**
+
+A Don Rafa le faltan más de 500 semanas.
+- *¿Qué hace?* Busca un empleo formal o cotizar por su cuenta.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que se borraron | No las cobras | Consulta |
+| Confundir la ley | Cuentas mal | Revisa la fecha de inicio |
+| Esperar a los 60 | Ya no da tiempo | Empieza pronto |
+| Pagar por la consulta | Fraude | Es sin costo |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Chayo y Don Rafa. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. Empezaste a cotizar en 1990. ¿Qué ley te toca? a) Ley 97 · b) Ley 73 · c) Ninguna
+2. ¿Cuántas semanas pide la Ley 97 en 2026? a) 500 · b) 1,250 · c) 875
+3. ¿Cuántas semanas suma un año completo de trabajo formal? a) Unas 52 · b) 12 · c) 365, una por cada día del año
+**Respuestas:** 1-b: antes de julio de 1997. 2-c: 875. 3-a: unas 52.
+
+
+
+#### Ponlo en práctica
+
+Tienes 700 semanas y eres Ley 97. ¿Cuántas te faltan en 2026?
+**Respuesta:** 175.
+
+
+
+#### A tu plan
+
+Consulta tus semanas en la página del IMSS y escribe cuántas tienes y qué ley te toca.
+
+
+
+### Para saber más
+
+- **Constancia de semanas cotizadas** (IMSS · español): https://serviciosdigitales.imss.gob.mx — **Qué buscar:** «semanas cotizadas».
+
+### Palabras clave
+
+- *Semanas cotizadas:* semanas trabajadas con IMSS.
+- *Ley 73 y Ley 97:* reglas de pensión según cuándo empezaste a cotizar.
+- *NSS:* número de seguridad social.
+
+### Fuentes
+
+IMSS, constancia de semanas cotizadas y requisitos de pensión Ley 73 y Ley 97; consultados el 5 de octubre de 2026.
+
+---
+
+## M5 U03. Ahorra para tu retiro aunque trabajes por tu cuenta
+
+**Lo que lograrás:** Hacer aportaciones voluntarias a tu Afore y conocer cómo afiliarte al IMSS si trabajas por tu cuenta.
+
+**Para empezar:** Don Rafa ahora hace trabajos de albañilería por su cuenta. No tiene patrón ni IMSS. Cree que el retiro «ya no es para él». En esta lección verás que sí puede hacer algo.
+
+### Lo esencial (5 minutos)
+
+#### Aportaciones voluntarias
+
+Puedes depositar a tu Afore desde 50 pesos en tiendas de conveniencia, en la app AforeMóvil o por domiciliación. Ese dinero es tuyo y suma a tu retiro.
+
+
+
+#### Formas de ahorrar
+
+| Tipo | Descripción | Qué significa para ti |
+|---|---|---|
+| En la tienda | Desde 50 pesos. | Con tu CURP. |
+| En la app | AforeMóvil. | Cuando quieras. |
+| Domiciliado | Un monto fijo de tu cuenta. | Automático. |
+
+#### IMSS si trabajas por tu cuenta
+
+Las personas trabajadoras independientes pueden afiliarse al IMSS de forma voluntaria y pagar su cuota. Les da servicio médico y les cuenta semanas. Revisa los requisitos y el costo en la página del IMSS.
+
+
+
+#### Un caso en un minuto
+
+Don Rafa decidió apartar 200 pesos cada quincena para su Afore en la tienda. En un año habrá ahorrado 4,800 pesos más rendimientos.
+
+> **Idea clave:** aunque trabajes por tu cuenta, puedes ahorrar en tu Afore desde 50 pesos.
+
+
+
+#### Comprueba lo que entendiste
+
+1. ¿Desde cuánto puedes hacer una aportación voluntaria en tienda?
+*Respuesta:* Desde 50 pesos.
+
+2. ¿Qué te da afiliarte al IMSS como independiente?
+*Respuesta:* Servicio médico y semanas cotizadas.
+
+
+#### Para recordar
+
+- Desde 50 pesos.
+- Tienda, app o domiciliado.
+- IMSS voluntario existe.
+
+
+
+### Profundiza (5 minutos más)
+
+#### El ahorro de Don Rafa
+
+- Por quincena: **200**
+- Quincenas al año: **24**
+- En un año, más rendimientos: **4,800**
+
+
+#### Aportaciones de largo plazo
+
+Las aportaciones voluntarias pueden tener beneficios fiscales si las dejas hasta el retiro. Pregunta a tu Afore qué tipo de aportación te conviene.
+
+
+
+#### Casos
+
+
+**Caso 1. «No es para mí»**
+
+Don Rafa cree que sin patrón no puede ahorrar para el retiro.
+- *¿Qué hace?* Aporta a su Afore cada quincena en la tienda.
+
+
+**Caso 2. Sin servicio médico**
+
+Lupita trabaja vendiendo comida y no tiene IMSS.
+- *¿Qué hace?* Revisa los requisitos para afiliarse como independiente.
+
+
+**Caso 3. Ahorro con un conocido**
+
+Un conocido ofrece a Memo guardar su ahorro de retiro «con buen interés».
+- *¿Qué hace?* Ahorra en su Afore, que está a su nombre.
+
+
+#### Errores frecuentes
+
+| Error | Qué pasa | Qué hacer |
+|---|---|---|
+| Creer que no puedes | No ahorras | Desde 50 pesos |
+| Esperar a tener patrón | Pierdes años | Empieza ya |
+| Ahorro con conocidos | Riesgo de perderlo | En tu Afore |
+| No revisar el IMSS voluntario | Sin servicio médico | Infórmate |
+
+### Practica
+
+#### Actividad interactiva
+
+**¿Qué harías? (H5P):** tres situaciones de esta lección con Don Rafa, Lupita y Memo. Elige la mejor decisión en cada una; si fallas, puedes intentarlo de nuevo. Suma puntos de experiencia.
+
+
+
+#### Quiz
+
+1. ¿Dónde puedes aportar a tu Afore? a) Solo en el banco donde te depositaba el patrón · b) En tienda, app o domiciliado · c) Solo al jubilarte
+2. Ahorras 100 pesos por semana en tu Afore. ¿Cuánto en un año? a) 1,200 · b) 5,200 · c) 520
+3. ¿Qué te da afiliarte al IMSS como independiente? a) Un préstamo · b) Una tarjeta de crédito con límite según tu cuota · c) Servicio médico y semanas
+**Respuestas:** 1-b: tienes tres formas. 2-b: 52 semanas por 100. 3-c: servicio médico y semanas.
+
+
+
+#### Ponlo en práctica
+
+Aportas 300 pesos al mes. ¿Cuánto en dos años, sin contar rendimientos?
+**Respuesta:** 7,200 pesos.
+
+
+
+#### A tu plan
+
+Decide cuánto aportarás a tu Afore y cada cuándo. Escríbelo y haz la primera aportación.
+
+
+
+### Para saber más
+
+- **Ahorro voluntario** (CONSAR · español): https://www.gob.mx/consar — **Qué buscar:** «ahorro voluntario».
+- **Personas trabajadoras independientes** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «personas trabajadoras independientes».
+
+### Palabras clave
+
+- *Aportación voluntaria:* dinero que tú agregas a tu Afore.
+- *Domiciliación:* cargo automático a tu cuenta.
+- *Trabajador independiente:* quien trabaja sin patrón.
+
+### Fuentes
+
+CONSAR, ahorro voluntario; IMSS, incorporación de personas trabajadoras independientes; consultados el 5 de octubre de 2026.
+
+---

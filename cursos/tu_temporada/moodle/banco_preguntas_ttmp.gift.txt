@@ -1,0 +1,447 @@
+$CATEGORY: $course$/Tu Temporada v0.1/M1
+
+::M1 U01 P1::¿Dónde te registras para el PTAT a Canadá? {
+	~Con un reclutador privado que cobra cuota #No es la mejor opción. SNE.
+	=En el Servicio Nacional de Empleo #¡Correcto! SNE.
+	~En la tienda del pueblo, con un anuncio #No es la mejor opción. SNE.
+}
+
+::M1 U01 P2::¿Cuánto cuesta el servicio del PTAT? {
+	=Nada #¡Correcto! Sin costo.
+	~8,000 pesos #No es la mejor opción. Sin costo.
+	~Una parte del primer pago #No es la mejor opción. Sin costo.
+}
+
+::M1 U01 P3::En la H-2A, ¿quién paga el reclutamiento? {
+	~El trabajador #No es la mejor opción. El empleador.
+	~La familia #No es la mejor opción. El empleador.
+	=El empleador #¡Correcto! El empleador.
+}
+
+::M1 U02 P1::Te cobran por asegurar tu lugar. ¿Qué es? {
+	~Normal #No es la mejor opción. Es fraude.
+	~Una cuota oficial #No es la mejor opción. Es fraude.
+	=Fraude #¡Correcto! Es fraude.
+}
+
+::M1 U02 P2::¿Dónde verificas el PTAT a Canadá? {
+	=En el Servicio Nacional de Empleo #¡Correcto! SNE.
+	~En grupos de chat de paisanos #No es la mejor opción. SNE.
+	~Con el reclutador #No es la mejor opción. SNE.
+}
+
+::M1 U02 P3::Ya pagaste a un reclutador falso. ¿Qué haces? {
+	~Nada #No es la mejor opción. Denuncia.
+	=Juntas pruebas y denuncias #¡Correcto! Denuncia.
+	~Pagas más para que te contesten #No es la mejor opción. Denuncia.
+}
+
+::M1 U03 P1::Tu contrato H-2A es de 800 horas. ¿Cuántas te garantizan como mínimo? {
+	=600 #¡Correcto! 3/4 de 800.
+	~800 #No es la mejor opción. 3/4 de 800.
+	~400 #No es la mejor opción. 3/4 de 800.
+}
+
+::M1 U03 P2::¿Hasta cuándo debes regresar de Canadá con el PTAT? {
+	=Al 15 de diciembre #¡Correcto! 15 de diciembre.
+	~Cuando quieras #No es la mejor opción. 15 de diciembre.
+	~En febrero #No es la mejor opción. 15 de diciembre.
+}
+
+::M1 U03 P3::¿En qué idioma tienes derecho a tu contrato? {
+	~Solo en inglés #No es la mejor opción. Español.
+	=En español #¡Correcto! Español.
+	~En ninguno #No es la mejor opción. Español.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M2
+
+::M2 U01 P1::Pides 10,000 al 10% mensual. ¿Cuánto pagas de interés al mes? {
+	~100 #No es la mejor opción. 10% de 10,000.
+	=1,000 #¡Correcto! 10% de 10,000.
+	~10,000 #No es la mejor opción. 10% de 10,000.
+}
+
+::M2 U01 P2::¿Qué haces antes de pedir prestado para irte? {
+	~Pides lo que te ofrezcan, sin hacer cuentas #No es la mejor opción. La lista.
+	=Haces la lista de lo que sí pagas tú #¡Correcto! La lista.
+	~Pides el doble por si acaso falta algo #No es la mejor opción. La lista.
+}
+
+::M2 U01 P3::¿Qué te deben reembolsar? {
+	~Nada #No es la mejor opción. La visa.
+	~Tu comida en México #No es la mejor opción. La visa.
+	=La cuota de la visa #¡Correcto! La visa.
+}
+
+::M2 U02 P1::¿A dónde mandas el dinero? {
+	~Con un compadre de confianza del pueblo #No es la mejor opción. Directo.
+	=A la cuenta de quien administra en México #¡Correcto! Directo.
+	~En efectivo con un conocido #No es la mejor opción. Directo.
+}
+
+::M2 U02 P2::Hace falta un poder para trámites. ¿De qué tipo? {
+	~Uno amplio para todo, sin fecha #No es la mejor opción. Limitado.
+	=Uno limitado con fecha #¡Correcto! Limitado.
+	~Ninguno\: le das tu tarjeta y tu NIP #No es la mejor opción. Limitado.
+}
+
+::M2 U02 P3::¿Qué dejan acordado? {
+	~Nada #No es la mejor opción. El acuerdo.
+	~Solo cómo van a pintar y arreglar la casa #No es la mejor opción. El acuerdo.
+	=Quién administra, qué se paga y cuándo hablan #¡Correcto! El acuerdo.
+}
+
+::M2 U03 P1::¿Qué se necesita para las primeras semanas de la temporada? {
+	~Un préstamo caro #No es la mejor opción. Ahorro previo.
+	=Ahorro previo #¡Correcto! Ahorro previo.
+	~Nada #No es la mejor opción. Ahorro previo.
+}
+
+::M2 U03 P2::Llega un envío de 5,000 y ahorran 20%. ¿Cuánto ahorran? {
+	=1,000 #¡Correcto! 20% de 5,000.
+	~500 #No es la mejor opción. 20% de 5,000.
+	~2,000 #No es la mejor opción. 20% de 5,000.
+}
+
+::M2 U03 P3::¿Cada cuándo revisan juntos? {
+	~Nunca #No es la mejor opción. Cada semana.
+	~Al terminar la temporada #No es la mejor opción. Cada semana.
+	=Cada semana #¡Correcto! Cada semana.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M3
+
+::M3 U01 P1::¿Qué trae tu talón de pago? {
+	~Solo tu nombre, la fecha y el empleador #No es la mejor opción. Los tres.
+	=Horas, lo que ganaste y descuentos #¡Correcto! Los tres.
+	~Las horas que te faltan para el bono #No es la mejor opción. Los tres.
+}
+
+::M3 U01 P2::Te descuentan renta de la vivienda H-2A. ¿Qué haces? {
+	=Preguntas, porque es sin costo #¡Correcto! Sin costo.
+	~Lo aceptas porque así viene en el talón #No es la mejor opción. Sin costo.
+	~Pagas y luego lo reclamas en México #No es la mejor opción. Sin costo.
+}
+
+::M3 U01 P3::¿Qué son el CPP y el EI en tu talón de Canadá? {
+	~Multas por faltas o retrasos en el trabajo #No es la mejor opción. Cotizaciones.
+	~Comisiones del banco por el depósito #No es la mejor opción. Cotizaciones.
+	=Cotizaciones de pensión y seguro de empleo #¡Correcto! Cotizaciones.
+}
+
+::M3 U02 P1::¿Qué es lo mínimo que te deben pagar? {
+	~Lo que quiera el encargado #No es la mejor opción. El contrato.
+	~Lo mismo que en México #No es la mejor opción. El contrato.
+	=Lo que diga tu contrato #¡Correcto! El contrato.
+}
+
+::M3 U02 P2::En Canadá con el PTAT, ¿quién te apoya si no corrigen tu pago? {
+	=El enlace del PTAT en el consulado de México #¡Correcto! El consulado.
+	~El reclutador que te llevó al programa #No es la mejor opción. El consulado.
+	~Nadie, lo resuelves tú solo #No es la mejor opción. El consulado.
+}
+
+::M3 U02 P3::En EE. UU., ¿a quién llamas si no corrigen tu pago? {
+	~Al reclutador que te contrató en México #No es la mejor opción. Horas y Salarios.
+	=A la División de Horas y Salarios #¡Correcto! Horas y Salarios.
+	~A nadie, para no perder la temporada #No es la mejor opción. Horas y Salarios.
+}
+
+::M3 U03 P1::Un cheque de 500 con 3% de comisión. ¿Cuánto pierdes? {
+	~3 #No es la mejor opción. 3% de 500.
+	=15 #¡Correcto! 3% de 500.
+	~150 #No es la mejor opción. 3% de 500.
+}
+
+::M3 U03 P2::¿Qué opción suele ser más barata que cambiar cheques en tiendas? {
+	=Depósito directo #¡Correcto! Depósito directo.
+	~Guardar los cheques #No es la mejor opción. Depósito directo.
+	~Cambiar en otra tienda #No es la mejor opción. Depósito directo.
+}
+
+::M3 U03 P3::Tienes mucho efectivo en la vivienda. ¿Qué haces? {
+	=Lo mandas a casa o lo dejas en tu cuenta #¡Correcto! Mándalo.
+	~Lo escondes en la maleta de la vivienda #No es la mejor opción. Mándalo.
+	~Lo prestas a compañeros que te lo pidan #No es la mejor opción. Mándalo.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M4
+
+::M4 U01 P1::¿Qué comparas entre empresas de envío? {
+	~El color del anuncio #No es la mejor opción. Lo que llega.
+	=Los pesos que llegan #¡Correcto! Lo que llega.
+	~La música de la tienda #No es la mejor opción. Lo que llega.
+}
+
+::M4 U01 P2::Un envío «sin comisión»… {
+	=puede pagar un tipo de cambio más bajo #¡Correcto! Revisa el cambio.
+	~siempre es el mejor, porque no cobra nada #No es la mejor opción. Revisa el cambio.
+	~no está permitido por la ley #No es la mejor opción. Revisa el cambio.
+}
+
+::M4 U01 P3::Cada envío cobra 8 dólares. ¿Cuánto ahorras al mandar 12 veces en vez de 24? {
+	~Nada #No es la mejor opción. 12 por 8.
+	~8 dólares, lo mismo que la comisión #No es la mejor opción. 12 por 8.
+	=96 dólares #¡Correcto! 12 por 8.
+}
+
+::M4 U02 P1::¿Cuáles son las partes del plan? {
+	~Fiestas, regalos y compras grandes #No es la mejor opción. Cuatro partes.
+	=Básico, deudas, ahorro y meta #¡Correcto! Cuatro partes.
+	~Todo a la casa, sin apartar nada #No es la mejor opción. Cuatro partes.
+}
+
+::M4 U02 P2::Llega un envío de 6,000 y ahorran 20%. ¿Cuánto es? {
+	=1,200 #¡Correcto! 20% de 6,000.
+	~600 #No es la mejor opción. 20% de 6,000.
+	~2,000 #No es la mejor opción. 20% de 6,000.
+}
+
+::M4 U02 P3::¿Cuándo acuerdan el plan? {
+	~Nunca\: se decide sobre la marcha #No es la mejor opción. Antes.
+	~Al final de la temporada, ya de regreso #No es la mejor opción. Antes.
+	=Antes de la temporada #¡Correcto! Antes.
+}
+
+::M4 U03 P1::¿Dónde es más seguro tu ahorro? {
+	~En la maleta, para traerlo de regreso #No es la mejor opción. Cuenta tuya.
+	=En una cuenta a tu nombre #¡Correcto! Cuenta tuya.
+	~Con un compañero de la vivienda #No es la mejor opción. Cuenta tuya.
+}
+
+::M4 U03 P2::¿Por qué separar el ahorro del gasto de la casa? {
+	=Para no tocarlo #¡Correcto! No tocarlo.
+	~Por moda #No es la mejor opción. No tocarlo.
+	~Para pagar más comisiones #No es la mejor opción. No tocarlo.
+}
+
+::M4 U03 P3::Te prometen duplicar tu ahorro en seis meses. ¿Qué haces? {
+	~Inviertes la mitad para probar #No es la mejor opción. Desconfía.
+	~Inviertes todo para ganar más rápido #No es la mejor opción. Desconfía.
+	=Desconfías y verificas #¡Correcto! Desconfía.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M5
+
+::M5 U01 P1::¿El salario H-2A paga Seguro Social de EE. UU.? {
+	~Sí, el doble #No es la mejor opción. No.
+	=No #¡Correcto! No.
+	~Solo el primer mes #No es la mejor opción. No.
+}
+
+::M5 U01 P2::¿Está obligado el empleador a retener impuesto federal? {
+	~Solo en los meses de invierno #No es la mejor opción. Voluntario.
+	~Sí, siempre retiene el 30% #No es la mejor opción. Voluntario.
+	=No, solo si lo acuerdan #¡Correcto! Voluntario.
+}
+
+::M5 U01 P3::¿Qué papel guardas para tus impuestos? {
+	=El W-2 #¡Correcto! W-2.
+	~El boleto de avión #No es la mejor opción. W-2.
+	~Nada #No es la mejor opción. W-2.
+}
+
+::M5 U02 P1::¿Qué es el CPP? {
+	~Una multa por llegar tarde #No es la mejor opción. Pensión.
+	=El Plan de Pensiones de Canadá #¡Correcto! Pensión.
+	~El pago de la renta de la vivienda #No es la mejor opción. Pensión.
+}
+
+::M5 U02 P2::¿Por qué presentar tu declaración en Canadá? {
+	~No sirve, ya te retuvieron todo #No es la mejor opción. Reembolso y CPP.
+	~Para pagar más impuesto del que debes #No es la mejor opción. Reembolso y CPP.
+	=Puede darte reembolso y cuida tu pensión #¡Correcto! Reembolso y CPP.
+}
+
+::M5 U02 P3::¿Qué forma te da el empleador? {
+	=La T4 #¡Correcto! T4.
+	~La W-2 #No es la mejor opción. T4.
+	~Ninguna #No es la mejor opción. T4.
+}
+
+::M5 U03 P1::¿Qué va en tu carpeta? {
+	=Contratos, talones y W-2 o T4 #¡Correcto! Los tres.
+	~Solo fotos de la cosecha y del grupo #No es la mejor opción. Los tres.
+	~Nada #No es la mejor opción. Los tres.
+}
+
+::M5 U03 P2::¿Dónde guardas copias? {
+	~Con el reclutador que te contrató #No es la mejor opción. Respaldo.
+	~Solo en la maleta, todos juntos #No es la mejor opción. Respaldo.
+	=En tu correo o con tu familia #¡Correcto! Respaldo.
+}
+
+::M5 U03 P3::Te piden tu número de Seguro Social para «un trámite». ¿Qué haces? {
+	~Lo das para no quedar mal #No es la mejor opción. Protégelo.
+	=No lo das si no es necesario #¡Correcto! Protégelo.
+	~Le mandas una foto de tu tarjeta #No es la mejor opción. Protégelo.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M6
+
+::M6 U01 P1::¿Quién guarda tu pasaporte? {
+	~El encargado #No es la mejor opción. Tú.
+	=Tú #¡Correcto! Tú.
+	~El reclutador #No es la mejor opción. Tú.
+}
+
+::M6 U01 P2::Te amenazan si te quejas. ¿Qué es? {
+	=Una represalia que no está permitida #¡Correcto! Represalia.
+	~Normal en los campos de cultivo #No es la mejor opción. Represalia.
+	~Parte de lo que firmaste en el contrato #No es la mejor opción. Represalia.
+}
+
+::M6 U01 P3::¿Quién da el equipo de protección? {
+	~Tú lo compras #No es la mejor opción. El empleador.
+	~Tus compañeros #No es la mejor opción. El empleador.
+	=El empleador #¡Correcto! El empleador.
+}
+
+::M6 U02 P1::Te lastimas trabajando. ¿Qué haces primero? {
+	~Te aguantas para no perder el día #No es la mejor opción. Atención y reporte.
+	=Pides atención y que se reporte #¡Correcto! Atención y reporte.
+	~Te vas a México a curarte allá #No es la mejor opción. Atención y reporte.
+}
+
+::M6 U02 P2::¿Te pueden presionar para no reportar un accidente? {
+	~Sí #No es la mejor opción. No.
+	=No #¡Correcto! No.
+	~Solo si es leve #No es la mejor opción. No.
+}
+
+::M6 U02 P3::¿Qué guardas? {
+	~Solo la venda y la medicina #No es la mejor opción. Comprobantes.
+	~Nada, ya te atendieron #No es la mejor opción. Comprobantes.
+	=Reporte, recetas y comprobantes #¡Correcto! Comprobantes.
+}
+
+::M6 U03 P1::¿Cuál es tu primer apoyo en el extranjero? {
+	~El reclutador que te contrató #No es la mejor opción. Consulado.
+	=El consulado de México #¡Correcto! Consulado.
+	~Nadie, lo resuelves tú solo #No es la mejor opción. Consulado.
+}
+
+::M6 U03 P2::No los dejan salir de la vivienda. ¿Qué hacen? {
+	~Esperan a que termine la temporada #No es la mejor opción. Emergencia.
+	=Llaman al 911 o a la línea contra la trata #¡Correcto! Emergencia.
+	~Se callan para no perder el trabajo #No es la mejor opción. Emergencia.
+}
+
+::M6 U03 P3::En Canadá, ¿quién apoya a trabajadores del PTAT? {
+	~Nadie, lo resuelves tú solo #No es la mejor opción. Enlace.
+	~El vendedor de tarjetas telefónicas #No es la mejor opción. Enlace.
+	=El enlace del PTAT en el consulado #¡Correcto! Enlace.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M7
+
+::M7 U01 P1::¿Hasta cuándo es el regreso en el PTAT? {
+	=Al 15 de diciembre #¡Correcto! 15 de diciembre.
+	~En marzo del año siguiente #No es la mejor opción. 15 de diciembre.
+	~Cuando tú lo decidas, sin fecha fija #No es la mejor opción. 15 de diciembre.
+}
+
+::M7 U01 P2::¿Cuándo haces tu lista de salida? {
+	~En México, cuando ya regresaste #No es la mejor opción. Antes.
+	~El último día, antes de subirte #No es la mejor opción. Antes.
+	=Una semana antes #¡Correcto! Antes.
+}
+
+::M7 U01 P3::Tu forma de impuestos llega después. ¿Qué haces? {
+	=Dejas tu dirección de México y tu correo #¡Correcto! Deja tus datos.
+	~Nada, ese año ya no declaras #No es la mejor opción. Deja tus datos.
+	~Te quedas allá a esperarla #No es la mejor opción. Deja tus datos.
+}
+
+::M7 U02 P1::Tienes 18,000 de ahorro y 6 meses. ¿Cuánto puedes usar al mes? {
+	=3,000 #¡Correcto! 18,000 entre 6.
+	~18,000 #No es la mejor opción. 18,000 entre 6.
+	~6,000 #No es la mejor opción. 18,000 entre 6.
+}
+
+::M7 U02 P2::¿Qué haces con diciembre? {
+	~Gastas todo #No es la mejor opción. Tope.
+	~Pides prestado #No es la mejor opción. Tope.
+	=Pones un tope #¡Correcto! Tope.
+}
+
+::M7 U02 P3::¿Qué haces con lo que ganas en México? {
+	=Lo cuentas para que el ahorro dure más #¡Correcto! Súmalo.
+	~No lo cuentas porque es poco #No es la mejor opción. Súmalo.
+	~Lo gastas en las fiestas #No es la mejor opción. Súmalo.
+}
+
+::M7 U03 P1::La temporada te deja 80,000 netos y aquí ganarías 35,000. ¿Cuánto te deja de verdad irte? {
+	=45,000 #¡Correcto! 80,000 menos 35,000.
+	~80,000 #No es la mejor opción. 80,000 menos 35,000.
+	~115,000 #No es la mejor opción. 80,000 menos 35,000.
+}
+
+::M7 U03 P2::¿Con qué conviene volver? {
+	~Con deudas nuevas para el viaje #No es la mejor opción. Meta.
+	~Sin plan, como cada año #No es la mejor opción. Meta.
+	=Con una meta clara #¡Correcto! Meta.
+}
+
+::M7 U03 P3::¿Quién decide? {
+	~Tú solo, porque trabajas allá #No es la mejor opción. En familia.
+	=Tu familia y tú, con números #¡Correcto! En familia.
+	~El reclutador que te contrata #No es la mejor opción. En familia.
+}
+
+$CATEGORY: $course$/Tu Temporada v0.1/M8
+
+::M8 U01 P1::¿Qué es el CPP? {
+	~Una multa por faltar al trabajo #No es la mejor opción. CPP.
+	=El Plan de Pensiones de Canadá #¡Correcto! CPP.
+	~Un seguro de auto obligatorio #No es la mejor opción. CPP.
+}
+
+::M8 U01 P2::¿Te da pensión en EE. UU. la temporada H-2A? {
+	~Sí, después de la primera temporada #No es la mejor opción. No cotizas.
+	=No, porque no cotizas al Seguro Social #¡Correcto! No cotizas.
+	~Solo después de 10 temporadas #No es la mejor opción. No cotizas.
+}
+
+::M8 U01 P3::¿Desde cuánto puedes aportar a tu Afore? {
+	~No se puede #No es la mejor opción. Desde 50.
+	~5,000 pesos #No es la mejor opción. Desde 50.
+	=50 pesos #¡Correcto! Desde 50.
+}
+
+::M8 U02 P1::¿Cuál es una meta que produce? {
+	~Una pantalla grande #No es la mejor opción. Produce.
+	=Un invernadero #¡Correcto! Produce.
+	~Una fiesta #No es la mejor opción. Produce.
+}
+
+::M8 U02 P2::¿Qué haces antes de invertir todo? {
+	=Pruebas en pequeño #¡Correcto! En pequeño.
+	~Pides prestado más #No es la mejor opción. En pequeño.
+	~Nada #No es la mejor opción. En pequeño.
+}
+
+::M8 U02 P3::La meta cuesta 30,000 y mandas 20 envíos. ¿Cuánto por envío? {
+	~600 #No es la mejor opción. 30,000 entre 20.
+	~3,000 #No es la mejor opción. 30,000 entre 20.
+	=1,500 #¡Correcto! 30,000 entre 20.
+}
+
+::M8 U03 P1::¿Qué lleva cada parte? {
+	~Solo lo que ya hiciste en la temporada #No es la mejor opción. Acción y fecha.
+	=La siguiente acción y una fecha #¡Correcto! Acción y fecha.
+	~Una lista de compras de la casa #No es la mejor opción. Acción y fecha.
+}
+
+::M8 U03 P2::¿Cuándo revisas tu plan? {
+	=Antes de irte y al regresar #¡Correcto! Antes y después.
+	~Cada diez años, cuando cambie algo #No es la mejor opción. Antes y después.
+	~Nunca, una vez escrito ya quedó #No es la mejor opción. Antes y después.
+}
+
+::M8 U03 P3::¿Con quién compartes el plan? {
+	~Con nadie #No es la mejor opción. Tu familia.
+	~Con el reclutador #No es la mejor opción. Tu familia.
+	=Con tu familia #¡Correcto! Tu familia.
+}

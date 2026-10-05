@@ -1,0 +1,177 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Glosario</title><link rel="stylesheet" href="assets/bootstrap.min.css"><link rel="stylesheet" href="assets/fa.css"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet"><style>body{background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}</style></head><body><div class="container-fluid py-3"><div class="row"><div class="col-lg-3 d-none d-lg-block"><div class="card p-3" style="border-radius:16px;max-height:95vh;overflow:auto;position:sticky;top:10px"><small style="color:#5A6478">VISTA PREVIA · así se verá en el Libro de Moodle</small><a href="01_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Bienvenida</a><a href="02_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Casos integradores</a><a href="03_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Prácticas de cálculo</a><a href="04_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Glosario</a><a href="05_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Dónde encontrar ayuda</a><a href="06_apoyo.html" style="display:block;padding:3px 0 3px 0;color:#0A3161;font-weight:700;margin-top:10px">Referencias</a></div></div><div class="col-lg-9"><h2 class="h4 mb-3" style="font-weight:800;color:#061F40">Glosario</h2>
+<style>
+.tdtf{max-width:880px;margin:0 auto;color:#0B1220;font-size:1.02rem;line-height:1.6}
+.tdtf p{margin:0 0 .8rem}
+.tdtf h3,.tdtf h4{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;color:#061F40;letter-spacing:-.02em}
+.tdtf .ruta{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;padding:0;list-style:none}
+.tdtf .ruta a,.tdtf .ruta span{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;border:2px solid #E5E8F0;color:#5A6478;font-weight:600;font-size:.88rem;text-decoration:none;background:#fff}
+.tdtf .ruta .on{background:#0A3161;border-color:#0A3161;color:#fff}
+.tdtf .ruta a:hover{border-color:#E4007C;color:#E4007C}
+.tdtf .hero{background:#0A3161;color:#fff;border-radius:20px;padding:24px 24px 20px;margin-bottom:18px;position:relative;overflow:hidden}
+.tdtf .hero:after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border-radius:50%;background:rgba(255,79,168,.18)}
+.tdtf .hero .code{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:2px 12px;font-weight:700;font-size:.8rem;letter-spacing:.04em}
+.tdtf .hero h3{color:#fff;font-size:1.6rem;margin:10px 0 8px}
+.tdtf .hero .obj{font-size:1.08rem;opacity:.95;margin:0}
+.tdtf .hero .lbl{color:#FF4FA8;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.tdtf .card2{background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.tdtf .gancho{display:flex;gap:14px;align-items:flex-start;background:#E6ECF5;border-radius:16px;padding:18px 20px;margin-bottom:18px}
+.tdtf .avatar{flex:0 0 48px;height:48px;border-radius:50%;background:#E4007C;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.3rem}
+.tdtf .rutas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:8px 0 18px}
+.tdtf .rutabox{display:block;background:#fff;border:2px solid #0A3161;border-radius:18px;padding:18px 20px;color:#0B1220;text-decoration:none;transition:.15s}
+.tdtf .rutabox:hover{border-color:#E4007C;box-shadow:0 0 0 4px rgba(228,0,124,.15);text-decoration:none;color:#0B1220}
+.tdtf .rutabox.full{background:#0A3161;color:#fff}
+.tdtf .rutabox.full:hover{color:#fff}
+.tdtf .rutabox .t{font-family:"Bricolage Grotesque","Figtree",sans-serif;font-weight:800;font-size:1.25rem;display:flex;align-items:center;gap:8px}
+.tdtf .pill{display:inline-block;background:#E4007C;color:#fff;border-radius:999px;padding:1px 10px;font-size:.8rem;font-weight:700;vertical-align:middle}
+.tdtf .rutabox ol{margin:10px 0 12px 1.1rem;padding:0}
+.tdtf .rutabox .go{font-weight:700}
+.tdtf .aprende li{margin-bottom:4px}
+.tdtf .pagehead{display:flex;align-items:center;gap:10px;margin:4px 0 16px}
+.tdtf .pagehead h3{margin:0;font-size:1.5rem}
+.tdtf .timeline{position:relative;margin-left:22px;padding-left:28px;border-left:3px solid #E6ECF5}
+.tdtf .step{position:relative;margin-bottom:18px}
+.tdtf .step .num{position:absolute;left:-52px;top:14px;width:44px;height:44px;border-radius:50%;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;font-size:1.15rem;box-shadow:0 0 0 5px #fff}
+.tdtf .step h4{font-size:1.15rem;margin:0 0 10px}
+.tdtf .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:12px}
+.tdtf .st.si abbr.term,.tdtf .st.no abbr.term,.tdtf .recuerda abbr.term,.tdtf .hero abbr.term{color:#fff;text-decoration-color:#fff}
+.tdtf .tile{border:1px solid #E5E8F0;border-radius:14px;padding:14px;background:#F5F7FB}
+.tdtf .tile .ic{width:40px;height:40px;border-radius:12px;background:#0A3161;color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.tdtf .tile .nm{font-weight:700;margin-bottom:4px}
+.tdtf .tile .ex{color:#5A6478;font-size:.93rem;margin-bottom:8px}
+.tdtf .tile .st{font-size:.9rem;font-weight:600;border-radius:10px;padding:6px 10px}
+.tdtf .st.si{background:#0A3161;color:#fff}.tdtf .st.no{background:#E4007C;color:#fff}.tdtf .st.igual{background:#E6ECF5;color:#061F40}
+.tdtf .eq{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:12px 0}
+.tdtf .eq .n{flex:1 1 120px;text-align:center;border-radius:14px;padding:12px 8px;background:#E6ECF5}
+.tdtf .eq .n b{display:block;font-family:"Bricolage Grotesque","Figtree",sans-serif;font-size:1.9rem;color:#061F40;line-height:1.1}
+.tdtf .eq .n span{font-size:.85rem;color:#5A6478}
+.tdtf .eq .n.res{background:#0A3161}.tdtf .eq .n.res b,.tdtf .eq .n.res span{color:#fff}
+.tdtf .eq .op{display:flex;align-items:center;font-size:1.6rem;font-weight:800;color:#E4007C}
+.tdtf .box{border-radius:14px;padding:12px 16px;margin:12px 0;border:1px solid #E5E8F0;border-left:5px solid #E4007C;background:#E6ECF5}
+.tdtf .box p:last-child{margin:0}
+.tdtf .box.dato{background:#fff;border-left-color:#0A3161}
+.tdtf .box.verifica{background:#FFF6EC;border-left-color:#B35C00}
+.tdtf .box .h{font-weight:700;color:#E4007C}
+.tdtf .box.dato .h{color:#0A3161}.tdtf .box.verifica .h{color:#B35C00}
+.tdtf ol.check{list-style:none;counter-reset:c;padding:0;margin:0}
+.tdtf ol.check li{counter-increment:c;position:relative;padding:10px 12px 10px 52px;margin-bottom:8px;background:#F5F7FB;border-radius:12px}
+.tdtf ol.check li:before{content:counter(c);position:absolute;left:12px;top:9px;width:28px;height:28px;border-radius:50%;background:#E4007C;color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.tdtf details{border:1px solid #E5E8F0;border-radius:12px;margin:8px 0;background:#fff}
+.tdtf details summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#0A3161;list-style:none}
+.tdtf details summary::-webkit-details-marker{display:none}
+.tdtf details summary:before{content:"\f059";font-family:FontAwesome;color:#E4007C;margin-right:8px}
+.tdtf details[open] summary{border-bottom:1px solid #E5E8F0}
+.tdtf details .a{padding:10px 14px;background:#F5F7FB;border-radius:0 0 12px 12px}
+.tdtf details .a p:last-child{margin:0}
+.tdtf .recuerda{background:#E4007C;color:#fff;border-radius:16px;padding:16px 20px;margin:18px 0}
+.tdtf .recuerda h4{color:#fff;margin:0 0 8px;font-size:1.1rem}
+.tdtf .recuerda ul{margin:0;padding-left:1.2rem}
+.tdtf .cta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:22px 0 8px}
+.tdtf .btnp{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;border-radius:999px;font-weight:700;text-decoration:none;padding:10px 20px;border:2px solid #0A3161}
+.tdtf .btnp.pri{background:#0A3161;color:#fff}.tdtf .btnp.pri:hover{background:#061F40;color:#fff;text-decoration:none}
+.tdtf .btnp.sec{background:#fff;color:#0A3161}.tdtf .btnp.sec:hover{border-color:#E4007C;color:#E4007C;text-decoration:none}
+.tdtf .topic{display:flex;gap:14px}
+.tdtf .topic .ic{flex:0 0 42px;height:42px;border-radius:12px;background:#E6ECF5;color:#0A3161;display:flex;align-items:center;justify-content:center;font-size:1.15rem}
+.tdtf .topic .body{flex:1;min-width:0}
+.tdtf .topic h4{font-size:1.12rem;margin:6px 0 10px}
+.tdtf table{width:100%;border-collapse:collapse;margin:6px 0 12px;font-size:.95rem}
+.tdtf th{background:#0A3161;color:#fff;padding:8px;text-align:left}
+.tdtf td{padding:8px;border-bottom:1px solid #E5E8F0}
+.tdtf .tw{overflow-x:auto}
+.tdtf .caso{border-left:5px solid #E4007C}
+.tdtf .caso h4{font-size:1.08rem;margin:0 0 8px}
+.tdtf .errs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tdtf .err{border:1px solid #E5E8F0;border-radius:14px;overflow:hidden;background:#fff}
+.tdtf .err .e{background:#E4007C;color:#fff;padding:10px 14px;font-weight:700}
+.tdtf .err .p{padding:10px 14px;color:#5A6478;font-size:.93rem}
+.tdtf .err .s{padding:10px 14px;border-top:1px dashed #E5E8F0;font-weight:600;color:#061F40}
+.tdtf .res a.r{display:flex;gap:12px;padding:12px 14px;border:1px solid #E5E8F0;border-radius:14px;margin-bottom:10px;text-decoration:none;color:#0B1220;background:#fff}
+.tdtf .res a.r:hover{border-color:#E4007C;text-decoration:none}
+.tdtf .res .nm{font-weight:700;color:#0A3161}
+.tdtf .res .org{font-size:.85rem;color:#5A6478}
+.tdtf .res .qb{margin-top:4px;font-size:.93rem}
+.tdtf .chips span{display:inline-block;background:#E6ECF5;border-radius:999px;padding:4px 12px;margin:0 6px 8px 0}
+.tdtf .opts{list-style:none;padding:0;margin:6px 0 10px}
+.tdtf .opts li{border:1px solid #E5E8F0;border-radius:10px;padding:8px 12px;margin-bottom:6px;background:#fff}
+.tdtf .h5p{border:2px dashed #E4007C;border-radius:16px;padding:18px;text-align:center;background:#F5F7FB}
+.tdtf .h5p .fa{color:#E4007C}
+.tdtf .fuentes{font-size:.85rem;color:#5A6478}
+.tdtf abbr.term{position:relative;color:#E4007C;font-weight:600;text-decoration:underline dotted #E4007C;cursor:help;border-bottom:0;outline:none}
+.tdtf abbr.term:hover:after,.tdtf abbr.term:focus:after{content:attr(title);position:absolute;left:0;top:1.7em;z-index:1000;width:max-content;max-width:260px;background:#061F40;color:#fff;font-weight:500;font-size:.88rem;line-height:1.35;padding:8px 12px;border-radius:12px;box-shadow:0 6px 18px rgba(6,31,64,.25);white-space:normal;text-align:left}
+@media (max-width:576px){.tdtf .hero h3{font-size:1.3rem}.tdtf .timeline{margin-left:0;padding-left:0;border-left:0}.tdtf .step .num{position:static;margin-bottom:8px;width:36px;height:36px;font-size:1rem}.tdtf .topic .ic{display:none}}
+</style><div class="tdtf"><div class="hero"><span class="code"><i class="fa fa-book"></i> Materiales de apoyo</span><h3>Glosario</h3><p class="obj">Las palabras del curso explicadas en lenguaje sencillo, por módulo.</p></div><div class="card2"><p>Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módulo.</p></div><div class="card2"><h4>Antes de firmar: dos caminos y cero fraudes</h4><ul>
+<li><strong>Agencia de colocación:</strong> empresa que coloca trabajadores.</li>
+<li><strong>Deducción:</strong> lo que te descuentan del pago.</li>
+<li><strong>Denuncia:</strong> aviso formal a la autoridad.</li>
+<li><strong>Garantía de horas:</strong> mínimo de horas que te deben pagar.</li>
+<li><strong>H-2A:</strong> visa de trabajo agrícola temporal en Estados Unidos.</li>
+<li><strong>Pago por pieza:</strong> pago por lo que cosechas.</li>
+<li><strong>PTAT:</strong> Programa de Trabajadores Agrícolas Temporales México-Canadá.</li>
+<li><strong>Reclutador:</strong> quien busca trabajadores para un empleador.</li>
+<li><strong>Servicio Nacional de Empleo:</strong> oficina pública de empleo.</li>
+</ul></div><div class="card2"><h4>Antes de irte: la casa en orden</h4><ul>
+<li><strong>Acuerdo escrito:</strong> papel con lo que acordaron.</li>
+<li><strong>Administrar:</strong> decidir y pagar los gastos.</li>
+<li><strong>Ahorro previo:</strong> lo que se aparta antes.</li>
+<li><strong>Etapa:</strong> parte de la temporada.</li>
+<li><strong>Intermediario:</strong> persona que se mete entre tú y tu dinero.</li>
+<li><strong>Interés:</strong> lo que pagas por un préstamo.</li>
+<li><strong>Poder limitado:</strong> permiso para un trámite concreto.</li>
+<li><strong>Porcentaje:</strong> parte de cada 100.</li>
+<li><strong>Reembolso:</strong> que te regresen lo que pagaste.</li>
+</ul></div><div class="card2"><h4>Tu pago allá</h4><ul>
+<li><strong>Comisión:</strong> cobro por un servicio.</li>
+<li><strong>CPP:</strong> Plan de Pensiones de Canadá.</li>
+<li><strong>Depósito directo:</strong> el pago llega a tu cuenta o tarjeta.</li>
+<li><strong>EI:</strong> Seguro de Empleo de Canadá.</li>
+<li><strong>Enlace del consulado:</strong> personal que atiende a trabajadores del PTAT.</li>
+<li><strong>Nivel del puesto:</strong> categoría según la habilidad que pide.</li>
+<li><strong>Salario de referencia:</strong> salario fijado cada año para la tarea.</li>
+<li><strong>Talón de pago:</strong> papel con el detalle de tu pago.</li>
+<li><strong>Tarjeta de nómina:</strong> tarjeta donde te pagan.</li>
+</ul></div><div class="card2"><h4>Mandar dinero que rinda</h4><ul>
+<li><strong>Ahorro:</strong> dinero que guardas para después.</li>
+<li><strong>Apartado:</strong> espacio separado en tu cuenta.</li>
+<li><strong>Declarar:</strong> avisar a la autoridad.</li>
+<li><strong>Liquidar:</strong> terminar de pagar una deuda.</li>
+<li><strong>Meta:</strong> algo que quieren lograr.</li>
+<li><strong>Plan:</strong> acuerdo de en qué se usa el dinero.</li>
+<li><strong>Remesa:</strong> dinero que mandas a tu familia.</li>
+<li><strong>Tipo de cambio:</strong> pesos por dólar.</li>
+</ul></div><div class="card2"><h4>Impuestos y papeles en Canadá y Estados Unidos</h4><ul>
+<li><strong>1040-NR:</strong> declaración para no residentes.</li>
+<li><strong>Carpeta:</strong> lugar donde guardas tus papeles.</li>
+<li><strong>Copia:</strong> foto o duplicado de un papel.</li>
+<li><strong>Identidad:</strong> tus datos personales.</li>
+<li><strong>ITIN:</strong> número de impuestos del IRS.</li>
+<li><strong>SIN:</strong> número de seguro social de Canadá.</li>
+<li><strong>T4:</strong> forma con tu salario y retenciones en Canadá.</li>
+<li><strong>W-2:</strong> forma con tu salario del año.</li>
+</ul></div><div class="card2"><h4>Tus derechos y tu seguridad</h4><ul>
+<li><strong>Cobertura de salud:</strong> seguro que paga tu atención médica.</li>
+<li><strong>Consulado:</strong> oficina de México en otro país.</li>
+<li><strong>Enlace:</strong> persona que te atiende y da seguimiento.</li>
+<li><strong>Equipo de protección:</strong> guantes, botas y lo que pida el trabajo.</li>
+<li><strong>Reporte de accidente:</strong> registro oficial de lo que pasó.</li>
+<li><strong>Represalia:</strong> castigo por quejarte.</li>
+<li><strong>Trata:</strong> obligar a alguien a trabajar con engaños o amenazas.</li>
+<li><strong>Vivienda digna:</strong> lugar seguro y limpio para vivir.</li>
+<li><strong>Workers' compensation:</strong> seguro de accidentes de trabajo en EE. UU.</li>
+</ul></div><div class="card2"><h4>El regreso y los meses sin temporada</h4><ul>
+<li><strong>Costo de oportunidad:</strong> lo que dejas de ganar al elegir otra cosa.</li>
+<li><strong>Lista de salida:</strong> pendientes antes de regresar.</li>
+<li><strong>Meses sin temporada:</strong> tiempo en México entre una temporada y otra.</li>
+<li><strong>Neto:</strong> lo que queda después de gastos y descuentos.</li>
+<li><strong>Regreso:</strong> viaje de vuelta a México.</li>
+<li><strong>Sueldo mensual:</strong> lo que te das cada mes del ahorro.</li>
+<li><strong>Tope:</strong> lo máximo que vas a gastar.</li>
+<li><strong>Último talón:</strong> el detalle de tu último pago.</li>
+</ul></div><div class="card2"><h4>Tu retiro y tu futuro en México</h4><ul>
+<li><strong>Aportación voluntaria:</strong> lo que tú agregas a tu Afore.</li>
+<li><strong>Convenio de seguridad social:</strong> acuerdo para sumar periodos cotizados entre países.</li>
+<li><strong>Inversión:</strong> dinero que pones para que produzca.</li>
+<li><strong>Proyecto productivo:</strong> algo que genera ingreso.</li>
+<li><strong>Prueba piloto:</strong> empezar en pequeño.</li>
+<li><strong>Revisión:</strong> volver a ver cómo vas.</li>
+<li><strong>Siguiente acción:</strong> el próximo paso concreto.</li>
+</ul></div></div>
+</div></div></div></body></html>

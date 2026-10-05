@@ -1,0 +1,98 @@
+$CATEGORY: $course$/Tu Regreso/Diagnóstica
+
+::DIAG 1::¿Qué papel te da el INM al regresarte? {
+	=La Constancia de Recepción de Mexicanos Repatriados
+	~Tu credencial del INE nueva, lista para votar
+	~Tu acta de nacimiento
+}
+
+::DIAG 2::¿Qué te piden para la INE? {
+	~Pasaporte vigente de EE. UU.
+	=Acta, identificación con foto y comprobante de domicilio
+	~Un aval con casa propia y su comprobante de domicilio
+}
+
+::DIAG 3::¿Qué es la Tarjeta Bienestar Paisano? {
+	=Un apoyo único de 2,000 pesos
+	~Una pensión que llega cada mes a tu cuenta
+	~Un crédito
+}
+
+::DIAG 4::¿Cuál cuenta pides para no pagar comisiones? {
+	~La tarjeta dorada
+	=La cuenta básica
+	~La de inversión
+}
+
+::DIAG 5::Tenías buen crédito en Texas. ¿Cómo apareces en México? {
+	=Sin historial
+	~Con el mismo puntaje
+	~Con mal crédito
+}
+
+::DIAG 6::¿Qué construye mejor tu historial? {
+	~Muchas tarjetas abiertas al mismo tiempo
+	=Un crédito chico pagado a tiempo
+	~Pagar el mínimo
+}
+
+::DIAG 7::Te deben una semana de sueldo en EE. UU. ¿Qué haces? {
+	=Lo pides por depósito o cheque
+	~Lo das por perdido
+	~Le das tu contraseña a un gestor
+}
+
+::DIAG 8::¿Qué forma te da el patrón con lo que ganaste y te retuvieron? {
+	=La W-2
+	~La CURP
+	~El recibo de renta
+}
+
+::DIAG 9::Trabajaste en México con IMSS en 2005. ¿Tienes Afore? {
+	=Probablemente sí
+	~No, se borró
+	~Solo si vives en México desde entonces
+}
+
+::DIAG 10::Empezaste a cotizar en 1990. ¿Qué ley te toca? {
+	~Ley 97
+	=Ley 73
+	~Ninguna
+}
+
+::DIAG 11::¿Para cuánto tiempo planeas al regresar? {
+	~Una semana
+	=90 días
+	~Un día
+}
+
+::DIAG 12::Te piden prestado al llegar. ¿Qué te ayuda? {
+	~Prestar todo
+	=Una respuesta corta y amable
+	~Pedir prestado para poder prestar a tu familia
+}
+
+::DIAG 13::¿Cómo presentas tu experiencia? {
+	~«Le hago a todo»
+	=Oficio, años y pruebas
+	~Solo tu nombre y el país donde trabajaste
+}
+
+::DIAG 14::¿Qué NO te da un empleo informal? {
+	~Sueldo
+	=IMSS y Afore
+	~Un pago por las horas que trabajas
+}
+
+::DIAG 15::Te cobran por tramitar tu INE. ¿Qué es? {
+	=Un gestor falso
+	~Lo normal
+	~Un trámite exprés legal
+}
+
+::DIAG 16::Te llaman\: tu familiar está detenido y piden dinero ya. ¿Qué haces? {
+	=Cuelgas y llamas tú a tu familiar
+	~Depositas
+	~Das tus datos
+}
+

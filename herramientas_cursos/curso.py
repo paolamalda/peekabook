@@ -56,8 +56,8 @@ def casos():
 
 # ---------------------------------------------------------------------------
 def paso_libros():
-    if CFG.get("ux") == 3: return paso_libros_ux3()
     B.TITULOS.clear(); B.TITULOS.update(MODS)
+    if CFG.get("ux") == 3: return paso_libros_ux3()
     for mod in MODS:
         text = leer(os.path.join(LEC, f"{mod}.md"))
         pages = [(fn, tr(t), tr(b)) for fn, t, b in build(text)]
@@ -523,6 +523,7 @@ def paso_ocde():
         for d in "CHA":
             cs = [t for dd, t in r["competencias"] if dd == d]
             if cs: L += [f"*{DIM[d]}*", ""] + [f"- {t}" for t in cs] + [""]
+    os.makedirs(os.path.join(D, "manual"), exist_ok=True)
     open(os.path.join(D, "manual", "mapa_ocde.md"), "w").write("\n".join(L) + "\n")
     print("mapa OCDE:", cub, "de", len(res), "temas cubiertos")
 

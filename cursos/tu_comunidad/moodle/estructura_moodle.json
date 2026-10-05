@@ -1,0 +1,243 @@
+{
+ "curso": "Tu Comunidad, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu tarjeta y tus apoyos, sin intermediarios",
+   "orden": 1,
+   "resumen": "<p>Tus apoyos cobrados completos, sin pagar a nadie.</p><p><strong>Al terminar tendrás:</strong> tus apoyos cobrados completos, sin pagar a nadie.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu apoyo es tuyo, completo",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si alguien se queda con tu dinero",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu cuenta a tu nombre",
+   "orden": 2,
+   "resumen": "<p>Una cuenta a tu nombre, sobre todo si eres mujer.</p><p><strong>Al terminar tendrás:</strong> una cuenta a tu nombre, sobre todo si eres mujer.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Por qué una cuenta a tu nombre?",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Abrir y usar tu cuenta",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Recibir y enviar dinero sin perder",
+   "orden": 3,
+   "resumen": "<p>Tu dinero recibido y enviado con menos comisión y sin intermediarios.</p><p><strong>Al terminar tendrás:</strong> tu dinero recibido y enviado con menos comisión y sin intermediarios.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Recibir dinero sin perder",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Mandar dinero a tu familia",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Ahorro en grupo con reglas claras",
+   "orden": 4,
+   "resumen": "<p>Las reglas escritas de tu grupo de ahorro.</p><p><strong>Al terminar tendrás:</strong> las reglas escritas de tu grupo de ahorro.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Reglas claras para ahorrar en grupo",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El dinero del grupo, seguro",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Fraudes por teléfono y apps de préstamo",
+   "orden": 5,
+   "resumen": "<p>Tu regla para colgar y no instalar apps de préstamo.</p><p><strong>Al terminar tendrás:</strong> tu regla para colgar y no instalar apps de préstamo.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Las llamadas que piden dinero",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Apps de préstamo que te persiguen",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Tu tierra: lista de sucesión y beneficiarios",
+   "orden": 6,
+   "resumen": "<p>Tu lista de sucesión hecha y tus beneficiarios al día.</p><p><strong>Al terminar tendrás:</strong> tu lista de sucesión hecha y tus beneficiarios al día.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "La lista de sucesión de tu tierra",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Beneficiarios de tu cuenta",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Seguro de vida y gastos funerarios",
+   "orden": 7,
+   "resumen": "<p>Tu plan para los gastos funerarios sin endeudar a tu familia.</p><p><strong>Al terminar tendrás:</strong> tu plan para los gastos funerarios sin endeudar a tu familia.</p><p><strong>2 lecciones</strong> de 10 a 15 minutos · 20 a 30 minutos en total.</p>",
+   "minutos": [
+    20,
+    30
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Que un funeral no endeude a tu familia",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Antes de contratar un seguro",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    }
+   ]
+  }
+ ]
+}
