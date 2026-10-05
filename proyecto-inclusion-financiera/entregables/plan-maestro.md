@@ -157,3 +157,19 @@ Actualizado: 2026-09-28
 - [ ] **K12** Probar con un clic todos los enlaces de 'Para saber más' y de dentro del texto; revisar cada 6 meses. *(Responsable: Coordinación curricular)*
 - [ ] **K13** Confirmar datos marcados [POR CONFIRMAR] en las lecciones del formato nuevo (lista al final de cada entrega). *(Responsable: Coordinación curricular)*
 
+- [ ] **K14** Versiones de Tu Regreso en inglés y bilingüe (las presentaciones ya las ofrecen). *(Responsable: Claude + Paola)*
+
+### Diseño instruccional (EC0217 y EC0366)
+
+Revisión del 5 de octubre de 2026 contra el material de Formador de instructores (EC0217). Ya se cumple: aprendizaje de adultos, refuerzo inmediato, evaluación formativa por lección, autoevaluación final con 70% aprobatorio, reglas de pruebas objetivas, técnicas instruccionales y grupales, y compromiso del participante. Falta:
+
+- [ ] **D01** Objetivo general por curso y objetivos formales por módulo y lección en el manual, con los cinco elementos (persona, conducta con verbo observable, contenido, condición y nivel de eficiencia) y su área (cognoscitiva, psicomotriz o afectiva). Reescribir los 151 objetivos que empiezan con «Saber», «Conocer» o «Entender»; el texto amable para el participante se queda. *(Responsable: Claude + revisión de Paola)*
+- [ ] **D02** Carta descriptiva por curso en el formato del plan de sesión: actividades del instructor, técnica grupal, técnica instruccional, recursos, forma e instrumento de evaluación y tiempo. *(Responsable: Claude)*
+- [ ] **D03** Encuadre y cierre completos en guías de sesión y kit: objetivos y temario, expectativas, reglas, forma de evaluar y diagnóstica al inicio; resumen, conclusiones, revisión de expectativas, evaluación final, satisfacción, compromiso y clausura al final. *(Responsable: Claude)*
+- [ ] **D04** Evaluación diagnóstica de conocimientos (5 a 10 reactivos del banco), además de la encuesta de bienestar. *(Responsable: Claude)*
+- [ ] **D05** Evaluación de satisfacción (reacción) completa: evento, contenido, instructor y materiales; versión en línea y presencial. *(Responsable: Claude)*
+- [ ] **D06** Listas de cotejo para productos de las sesiones presenciales (plan de remesa, presupuesto, lista de ayuda, etc.). *(Responsable: Claude)*
+- [ ] **D07** Formato de detección de necesidades por cliente, sin datos personales (tema, objetivo, beneficio para la organización). *(Responsable: Claude + Paola)*
+- [ ] **D08** Revisar todos los cursos contra el EC0366 (cursos en línea) y listar brechas. *(Responsable: Claude)*
+- [ ] **D09** Decidir si registrarse como agente capacitador externo ante la STPS (DC-5) para emitir constancias DC-3 a clientes empresa. *(Responsable: Paola)*
+- [ ] **D10** Al armar kit, encuestas y libro de apoyo de los siete cursos nuevos, hacerlos ya con D01 a D06. *(Responsable: Claude)*
