@@ -670,6 +670,42 @@ $CATEGORY: $course$/Tu Dinero v3.4/M3
 	~920 #No es la mejor opción. 800 + 16 + 90 − 120 \= 786.
 }
 
+::M3 U11 P1::¿Dónde preguntas primero por un adelanto? {
+	~En una app #No es la mejor opción. Muchas empresas lo hacen sin costo.
+	=Con tu empleador #¡Correcto! Muchas empresas lo hacen sin costo.
+	~En un payday #No es la mejor opción. Muchas empresas lo hacen sin costo.
+}
+
+::M3 U11 P2::10 dólares por adelanto, 26 veces al año. ¿Cuánto pagas? {
+	=260 #¡Correcto! 10 × 26.
+	~10 #No es la mejor opción. 10 × 26.
+	~130 #No es la mejor opción. 10 × 26.
+}
+
+::M3 U11 P3::¿Qué pasa con tu siguiente cheque después de un adelanto? {
+	~Llega completo #No es la mejor opción. Ya cobraste esa parte.
+	~Llega con un bono #No es la mejor opción. Ya cobraste esa parte.
+	=Llega con menos dinero #¡Correcto! Ya cobraste esa parte.
+}
+
+::M3 U12 P1::Si no pagas un empeño, ¿qué pasa con tu crédito? {
+	=No cambia; pierdes la prenda #¡Correcto! La casa se queda con la prenda.
+	~Te reportan como deuda en cobranza #No es la mejor opción. La casa se queda con la prenda.
+	~Te bloquean la cuenta del banco #No es la mejor opción. La casa se queda con la prenda.
+}
+
+::M3 U12 P2::¿Empeñar construye tu historial? {
+	~Sí #No es la mejor opción. No se reporta.
+	~Solo si pagas a tiempo #No es la mejor opción. No se reporta.
+	=No #¡Correcto! No se reporta.
+}
+
+::M3 U12 P3::¿Qué pides antes de empeñar? {
+	~Nada #No es la mejor opción. Así sabes lo que pagarás.
+	=Los cargos y la fecha límite por escrito #¡Correcto! Así sabes lo que pagarás.
+	~Un préstamo extra #No es la mejor opción. Así sabes lo que pagarás.
+}
+
 $CATEGORY: $course$/Tu Dinero v3.4/M4
 
 ::M4 U01 P1::¿A qué número llamas para verificar? {
@@ -868,6 +904,24 @@ $CATEGORY: $course$/Tu Dinero v3.4/M4
 	~Nunca #No es la mejor opción. Practicar mantiene el plan útil.
 	~Solo cuando pasa algo #No es la mejor opción. Practicar mantiene el plan útil.
 	=Al menos una vez al año #¡Correcto! Practicar mantiene el plan útil.
+}
+
+::M4 U12 P1::¿De quién es el derecho a la manutención? {
+	=De los hijos #¡Correcto! Es para lo que necesitan.
+	~Del padre que la recibe #No es la mejor opción. Es para lo que necesitan.
+	~Del estado #No es la mejor opción. Es para lo que necesitan.
+}
+
+::M4 U12 P2::¿Cómo pagas para que cuente? {
+	~En efectivo, de mano en mano #No es la mejor opción. Queda registrado.
+	=Por la agencia o con descuento del salario #¡Correcto! Queda registrado.
+	~Cuando puedas #No es la mejor opción. Queda registrado.
+}
+
+::M4 U12 P3::Tu ingreso bajó y pagas manutención. ¿Qué haces? {
+	~Dejas de pagar #No es la mejor opción. La deuda sigue mientras no se cambie.
+	~Pagas la mitad #No es la mejor opción. La deuda sigue mientras no se cambie.
+	=Pides una modificación #¡Correcto! La deuda sigue mientras no se cambie.
 }
 
 $CATEGORY: $course$/Tu Dinero v3.4/M5

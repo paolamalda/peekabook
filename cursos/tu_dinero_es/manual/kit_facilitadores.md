@@ -131,6 +131,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M3 U08 · ¿Firmar para ayudar puede dejarme una deuda?: una promesa familiar no cambia el contrato. Si el contrato dice que respondes, respondes.
 - M3 U09 · ¿Una tanda me ayuda a construir crédito?: no aportes a una tanda dinero que necesitas para lo básico.
 - M3 U10 · ¿Cuál es mi siguiente paso con el crédito?: pedir ayuda a tiempo es una habilidad, no un fracaso.
+- M3 U11 · ¿Un adelanto de sueldo es dinero sin costo?: un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador.
+- M3 U12 · ¿Empeñar es una buena salida?: empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda. Pide los cargos por escrito, guarda tu boleta y anota la fecha límite.
 
 **Casos**
 
@@ -171,6 +173,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M4 U09 · ¿Cómo pago lo indispensable si no puedo trabajar unos días?: no cuentes ayuda que no está confirmada. Un pago del seguro o del gobierno solo es un recurso cuando ya te lo confirmaron.
 - M4 U10 · ¿Qué pasa con mi familia y mi dinero si no puedo estar?: este curso no da asesoría migratoria ni legal. Para tus opciones, acude a un abogado o a un representante acreditado (M4 U02).
 - M4 U11 · ¿Cómo sé si mi plan de protección funciona?: un plan que solo funciona para una emergencia necesita ajustes.
+- M4 U12 · ¿Cómo aseguro que la manutención llegue a mis hijos?: la manutención es un derecho de tus hijos. La agencia de tu estado ayuda a pedirla y a registrar los pagos. Quien paga debe hacerlo con comprobante.
 
 **Casos**
 
@@ -207,11 +210,11 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M5 U05 · ¿El precio anunciado es todo lo que cuesta?: compara siempre con la misma lista de costos.
 - M5 U06 · ¿De qué viviré cuando trabaje menos o deje de trabajar?: una aportación pequeña y constante es distinta de un rendimiento prometido. Nadie puede garantizarte cuánto crecerá.
 - M5 U07 · ¿Qué pasa con lo que ahorré en México?: actualiza tus beneficiarios en tu AFORE. Si no lo haces, tu familia puede tener que hacer un trámite largo para recibir ese dinero.
-- M5 U08 · ¿Qué pasa con mi familia si algo me pasa?: si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar.
+- M5 U08 · ¿Qué pasa con mi familia si algo me pasa?: si te preocupa tu situación migratoria, busca orientación sobre un plan de preparación familiar. Te puede orientar un abogado o un representante acreditado por el DOJ.
 - M5 U09 · ¿Cómo hago un plan cuando el ingreso cambia cada mes?: en los meses buenos, prepara los meses malos.
 - M5 U10 · ¿Cómo formalizo mi negocio?: empieza sencillo y crece cuando tu negocio lo pague.
 - M5 U11 · ¿Cuál es mi plan financiero?: no se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio.
-- M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?: en Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
+- M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?: en Estados Unidos, los beneficiarios POD y TOD y la escritura de traspaso evitan la corte. Heredar no paga impuesto federal, salvo herencias enormes. Lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
 
 **Casos**
 

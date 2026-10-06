@@ -785,6 +785,48 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: ¿Cuál es mi siguiente paso con el crédito? Rubén no tiene historial. Andrés tiene un error en su reporte. Mar tiene una tarjeta con saldo alto. Daniela tiene una cuenta en cobranza. Los cuatro quieren "mejorar su crédito", pero cada uno necesita algo distinto. En esta lección elegirás tu propia ruta. Pedir ayuda a tiempo es una habilidad, no un fracaso. Recuerda: Identifica tu situación antes de actuar. Mide tus acciones, no solo tu puntaje. Revisa tu plan a los 30 y 90 días. Tu paso de esta semana: Entrega tu expediente del Módulo 3: ruta elegida, reporte de ejemplo anotado, comparación de dos opciones de financiamiento, inventario de deudas, dos escenarios y calendario de pagos. Resuelve también el caso integrador E3 al final del manual. Nos escuchamos en la próxima lección.
 
+### M3 U11 · ¿Un adelanto de sueldo es dinero sin costo?
+
+**WhatsApp**
+
+```
+*M3 U11 · ¿Un adelanto de sueldo es dinero sin costo?*
+Un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador.
+
+• Pregunta primero a tu empleador.
+• Suma el costo del año.
+• Evita los payday.
+
+Tu paso de esta semana: Si usas una app de adelanto, revisa tus movimientos del último mes y suma todo lo que te cobró.
+
+Lección: [por definir]
+```
+
+**Audio** (122 palabras, unos 51 segundos)
+
+Hola. Hoy hablamos de esto: ¿Un adelanto de sueldo es dinero sin costo? A Rubén le faltan 200 dólares para la renta y cobra en cuatro días. Una app le ofrece adelantarlos «sin intereses», con una «propina sugerida» de 8 dólares y 4 más por recibirlos al instante. Su amigo le recomienda un préstamo payday. Un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador. Recuerda: Pregunta primero a tu empleador. Suma el costo del año. Evita los payday. Tu paso de esta semana: Si usas una app de adelanto, revisa tus movimientos del último mes y suma todo lo que te cobró. Nos escuchamos en la próxima lección.
+
+### M3 U12 · ¿Empeñar es una buena salida?
+
+**WhatsApp**
+
+```
+*M3 U12 · ¿Empeñar es una buena salida?*
+Empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda. Pide los cargos por escrito, guarda tu boleta y anota la fecha límite.
+
+• Pide los cargos por escrito.
+• Guarda tu boleta.
+• Anota la fecha límite.
+
+Tu paso de esta semana: Anota en tu plan tres salidas para una urgencia antes de empeñar: tu fondo, un plan de pago y una cooperativa de crédito.
+
+Lección: [por definir]
+```
+
+**Audio** (114 palabras, unos 48 segundos)
+
+Hola. Hoy hablamos de esto: ¿Empeñar es una buena salida? Mar necesita 300 dólares para una reparación del carro. Su cuñada le dice que empeñe su cadena de oro: «te dan el dinero en diez minutos y no revisan tu crédito». Empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda. Pide los cargos por escrito, guarda tu boleta y anota la fecha límite. Recuerda: Pide los cargos por escrito. Guarda tu boleta. Anota la fecha límite. Tu paso de esta semana: Anota en tu plan tres salidas para una urgencia antes de empeñar: tu fondo, un plan de pago y una cooperativa de crédito. Nos escuchamos en la próxima lección.
+
 ## Módulo 4. Protege tu dinero, tu identidad y tu familia
 
 ### M4 U01 · ¿Por qué alguien insiste en que actúe ahora mismo?
@@ -846,9 +888,9 @@ Tu paso de esta semana: Completa tu lista de cinco controles y tu plan si pierde
 Lección: [por definir]
 ```
 
-**Audio** (127 palabras, unos 53 segundos)
+**Audio** (126 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué protege mis cuentas además de una contraseña? Alex usaba la misma contraseña para todo. Una tienda en línea sufrió un robo de datos y, con esa contraseña, alguien entró a su correo y de ahí intentó entrar a su banco. En esta lección aprenderás a proteger tus cuentas con pasos sencillos. Protege primero tu correo y tu número de teléfono. Recuerda: Tu correo y tu teléfono son la llave de todo. Una contraseña distinta para cada cuenta importante. Nunca compartas códigos ni instales apps que te pida un desconocido. Tu paso de esta semana: Completa tu lista de cinco controles y tu plan si pierdes el teléfono. El curso revisa tu plan, nunca tus contraseñas. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué protege mis cuentas además de una contraseña? Alex usaba la misma contraseña para todo. Una tienda en línea sufrió un robo de datos. Con esa contraseña, alguien entró a su correo y de ahí intentó entrar a su banco. En esta lección aprenderás a proteger tus cuentas con pasos sencillos. Protege primero tu correo y tu número de teléfono. Recuerda: Tu correo y tu teléfono son la llave de todo. Una contraseña distinta para cada cuenta importante. Nunca compartas códigos ni instales apps que te pida un desconocido. Tu paso de esta semana: Completa tu lista de cinco controles y tu plan si pierdes el teléfono. El curso revisa tu plan, nunca tus contraseñas. Nos escuchamos en la próxima lección.
 
 ### M4 U04 · ¿Qué hago si ya compartí datos o veo algo extraño?
 
@@ -1018,6 +1060,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: ¿Cómo sé si mi plan de protección funciona? Rosa tenía su plan escrito en una hoja: contactos, documentos, reserva. Un día perdió su teléfono y se dio cuenta de que no recordaba la contraseña de su correo. La hoja se veía completa, pero no funcionaba. En esta lección probarás tu plan antes de necesitarlo. Un plan que solo funciona para una emergencia necesita ajustes. Recuerda: Prueba tu plan con una situación inventada. Arregla lo que no funcionó. Revisa tu plan cuando cambie tu vida. Tu paso de esta semana: Entrega tu expediente del Módulo 4: cinco riesgos prioritarios, comparación de dos coberturas, protocolo de incidentes, índice de tu carpeta de continuidad y plan de preparación familiar, sin datos sensibles. Se evalúa tu razonamiento, no la compra de productos. Resuelve también el caso integrador E4 al final del manual. Nos escuchamos en la próxima lección.
 
+### M4 U12 · ¿Cómo aseguro que la manutención llegue a mis hijos?
+
+**WhatsApp**
+
+```
+*M4 U12 · ¿Cómo aseguro que la manutención llegue a mis hijos?*
+La manutención es un derecho de tus hijos. La agencia de tu estado ayuda a pedirla y a registrar los pagos. Quien paga debe hacerlo con comprobante.
+
+• Es un derecho de tus hijos.
+• La agencia de tu estado ayuda.
+• Paga siempre con comprobante.
+
+Tu paso de esta semana: Si pagas o recibes manutención, junta los comprobantes de este año en una carpeta o en fotos.
+
+Lección: [por definir]
+```
+
+**Audio** (125 palabras, unos 52 segundos)
+
+Hola. Hoy hablamos de esto: ¿Cómo aseguro que la manutención llegue a mis hijos? Daniela cría sola a su hijo en San Diego. El papá le da «cuando puede», en efectivo. A Daniela le da miedo pedir más porque cree que, por su situación migratoria, no puede ir a una oficina del gobierno. La manutención es un derecho de tus hijos. La agencia de tu estado ayuda a pedirla y a registrar los pagos. Quien paga debe hacerlo con comprobante. Recuerda: Es un derecho de tus hijos. La agencia de tu estado ayuda. Paga siempre con comprobante. Tu paso de esta semana: Si pagas o recibes manutención, junta los comprobantes de este año en una carpeta o en fotos. Nos escuchamos en la próxima lección.
+
 ## Módulo 5. Construye patrimonio y prepara tu futuro
 
 ### M5 U01 · ¿Cómo convierto un deseo en una meta?
@@ -1173,7 +1236,7 @@ Hola. Hoy hablamos de esto: ¿Qué pasa con lo que ahorré en México? Rosa trab
 
 ```
 *M5 U08 · ¿Qué pasa con mi familia si algo me pasa?*
-Si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar.
+Si te preocupa tu situación migratoria, busca orientación sobre un plan de preparación familiar. Te puede orientar un abogado o un representante acreditado por el DOJ.
 
 • Actualiza beneficiarios en cada cuenta.
 • Haz un plan para tus hijos.
@@ -1184,9 +1247,9 @@ Tu paso de esta semana: Llena tu lista de documentos, actualiza un beneficiario 
 Lección: [por definir]
 ```
 
-**Audio** (127 palabras, unos 53 segundos)
+**Audio** (129 palabras, unos 54 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué pasa con mi familia si algo me pasa? Rubén tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo. Si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar. Recuerda: Actualiza beneficiarios en cada cuenta. Haz un plan para tus hijos. Dile a alguien de confianza dónde están tus documentos. Tu paso de esta semana: Llena tu lista de documentos, actualiza un beneficiario esta semana y habla con la persona que cuidaría a tus hijos. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué pasa con mi familia si algo me pasa? Rubén tiene dos hijos en Stockton. Una noche piensa: si algo me pasa, ¿quién los cuida? ¿Quién sabe dónde está mi dinero? No tiene nada escrito. En esta lección prepararás lo básico, paso a paso, sin miedo. Si te preocupa tu situación migratoria, busca orientación sobre un plan de preparación familiar. Te puede orientar un abogado o un representante acreditado por el DOJ. Recuerda: Actualiza beneficiarios en cada cuenta. Haz un plan para tus hijos. Dile a alguien de confianza dónde están tus documentos. Tu paso de esta semana: Llena tu lista de documentos, actualiza un beneficiario esta semana y habla con la persona que cuidaría a tus hijos. Nos escuchamos en la próxima lección.
 
 ### M5 U09 · ¿Cómo hago un plan cuando el ingreso cambia cada mes?
 
@@ -1257,7 +1320,7 @@ Hola. Hoy hablamos de esto: ¿Cuál es mi plan financiero? Llegaste al final del
 
 ```
 *M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?*
-En Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
+En Estados Unidos, los beneficiarios POD y TOD y la escritura de traspaso evitan la corte. Heredar no paga impuesto federal, salvo herencias enormes. Lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
 
 • POD, TOD y escritura de traspaso.
 • Formulario 3520 si heredas del extranjero.
@@ -1270,7 +1333,7 @@ Lección: [por definir]
 
 **Audio** (162 palabras, unos 68 segundos)
 
-Hola. Hoy hablamos de esto: ¿Qué pasa si heredo o dejo algo entre dos países? La mamá de Alex tiene una casa en Michoacán sin testamento. Alex vive en Los Ángeles y un compañero le dijo que si la hereda «el IRS le cobra 40%». Rosa tiene una cuenta en Fresno y quiere que sea para sus nietos. En esta lección verás qué es cierto y qué preparar. En Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta. Recuerda: POD, TOD y escritura de traspaso. Formulario 3520 si heredas del extranjero. En México: sin ISR, pero escriturar cuesta. Tu paso de esta semana: Haz tu mapa entre dos países y revisa los beneficiarios de tus cuentas aquí. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Qué pasa si heredo o dejo algo entre dos países? La mamá de Alex tiene una casa en Michoacán sin testamento. Alex vive en Los Ángeles y un compañero le dijo que si la hereda «el IRS le cobra 40%». Rosa tiene una cuenta en Fresno y quiere que sea para sus nietos. En esta lección verás qué es cierto y qué preparar. En Estados Unidos, los beneficiarios POD y TOD y la escritura de traspaso evitan la corte. Heredar no paga impuesto federal, salvo herencias enormes. Lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta. Recuerda: POD, TOD y escritura de traspaso. Formulario 3520 si heredas del extranjero. En México: sin ISR, pero escriturar cuesta. Tu paso de esta semana: Haz tu mapa entre dos países y revisa los beneficiarios de tus cuentas aquí. Nos escuchamos en la próxima lección.
 
 ## Recordatorios mensuales del compromiso
 

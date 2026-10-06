@@ -7,28 +7,28 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | A1 Dinero y monedas | 20 | M2 U13, M1 U02, M2 U09, M2 U12, M2 U06, M2 U01 |
 | OCDE adultos (2016) | A2 Ingreso | 20 | M1 U05, M1 U13, M5 U09, M1 U10, M1 U11, M4 U05 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M5 U04, M5 U05, M1 U06, M1 U02, M1 U03, M1 U12 |
-| OCDE adultos (2016) | A4 Registros y contratos | 7 | M1 U05, M2 U03, M4 U10, M5 U08, M2 U12, M4 U08 |
+| OCDE adultos (2016) | A4 Registros y contratos | 7 | M1 U05, M2 U03, M4 U10, M5 U08, M4 U12, M2 U12 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U08, M5 U09, M3 U01 |
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M5 U01, M4 U06, M2 U06, M5 U10, M2 U04, M1 U08 |
-| OCDE adultos (2016) | B3 Ahorro | 17 | M2 U12, M5 U07, M5 U02, M4 U06, M1 U02, M1 U14 |
+| OCDE adultos (2016) | B3 Ahorro | 17 | M5 U07, M2 U12, M5 U02, M4 U06, M1 U02, M1 U14 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M5 U02, M5 U03, M2 U02 |
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M5 U01, M2 U12, M5 U11, M5 U12, M4 U06, M1 U08 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M5 U07, M5 U06, M5 U03, M1 U05, M5 U08, M5 U11 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M3 U01, M1 U11, M3 U09, M3 U02, M3 U04, M3 U03 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M3 U06, M3 U08, M2 U10, M3 U02, M3 U07, M3 U03 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M3 U08, M4 U09, M2 U03, M3 U09, M5 U02, M4 U06 |
-| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M4 U07, M4 U05, M4 U08, M1 U05, M4 U09, M5 U05 |
+| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M4 U07, M4 U05, M4 U12, M4 U08, M1 U05, M4 U09 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M5 U02 |
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U05, M4 U08, M2 U02, M2 U09, M2 U01 |
-| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M2 U09, M2 U07, M1 U08, M3 U06 |
-| OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M5 U06, M4 U02, M5 U03 |
+| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M2 U09, M2 U07, M1 U08, M3 U06, M4 U12 |
+| OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M5 U06, M4 U02, M5 U03, M5 U02 |
 | OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U02, M2 U04, M5 U03, M2 U01, M2 U13, M4 U03 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M4 U04, M4 U01, M4 U02 |
-| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M1 U09, M5 U12, M1 U12, M2 U02, M2 U03, M1 U14 |
+| OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M1 U09, M5 U12, M1 U12, M1 U14, M2 U02, M2 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M5 U11, M2 U07 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M5 U02, M1 U02 |
 | IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M1 U14, M2 U08, M5 U11, M3 U04, M3 U10, M5 U03 |
-| IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M5 U03, M4 U02 |
+| IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M5 U03, M4 U02, M5 U02 |
 | IOSCO/OCDE inversionistas (2019) | I4 Dar seguimiento a sus inversiones | 8 | M5 U02 |
 | IOSCO/OCDE inversionistas (2019) | I5 Derechos y obligaciones de quien invierte | 8 | M5 U04, M2 U09, M2 U05, M4 U08, M5 U03, M2 U01 |
 | IOSCO/OCDE inversionistas (2019) | I6 Sesgos al invertir | 6 | M1 U01 |
@@ -141,7 +141,7 @@ Temas cubiertos: 29 de 29.
 
 ## A4 · Registros y contratos
 
-**Lecciones:** M1 U05 ¿Por qué me depositan menos de lo que gané?; M2 U03 ¿Qué identificación me sirve para trámites financieros?; M4 U10 ¿Qué pasa con mi familia y mi dinero si no puedo estar?; M5 U08 ¿Qué pasa con mi familia si algo me pasa?; M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?; M4 U08 ¿Este documento médico me está pidiendo pagar?
+**Lecciones:** M1 U05 ¿Por qué me depositan menos de lo que gané?; M2 U03 ¿Qué identificación me sirve para trámites financieros?; M4 U10 ¿Qué pasa con mi familia y mi dinero si no puedo estar?; M5 U08 ¿Qué pasa con mi familia si algo me pasa?; M4 U12 ¿Cómo aseguro que la manutención llegue a mis hijos?; M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?
 
 *Conocimiento*
 
@@ -220,7 +220,7 @@ Temas cubiertos: 29 de 29.
 
 ## B3 · Ahorro
 
-**Lecciones:** M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?; M5 U07 ¿Qué pasa con lo que ahorré en México?; M5 U02 ¿Tener más dinero significa que mi inversión ganó?; M4 U06 ¿Para qué sirve separar un poco de dinero?; M1 U02 ¿Por qué el mismo dinero ya no alcanza?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
+**Lecciones:** M5 U07 ¿Qué pasa con lo que ahorré en México?; M2 U12 ¿Cómo ahorro para algo que se pagará en pesos?; M5 U02 ¿Tener más dinero significa que mi inversión ganó?; M4 U06 ¿Para qué sirve separar un poco de dinero?; M1 U02 ¿Por qué el mismo dinero ya no alcanza?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
 
 *Conocimiento*
 
@@ -437,7 +437,7 @@ Temas cubiertos: 29 de 29.
 
 ## C2 · Redes de protección y seguros
 
-**Lecciones:** M4 U07 ¿Tener seguro significa que ya no pagaré nada?; M4 U05 ¿Hablar de dinero es lo mismo que controlar a alguien?; M4 U08 ¿Este documento médico me está pidiendo pagar?; M1 U05 ¿Por qué me depositan menos de lo que gané?; M4 U09 ¿Cómo pago lo indispensable si no puedo trabajar unos días?; M5 U05 ¿El precio anunciado es todo lo que cuesta?
+**Lecciones:** M4 U07 ¿Tener seguro significa que ya no pagaré nada?; M4 U05 ¿Hablar de dinero es lo mismo que controlar a alguien?; M4 U12 ¿Cómo aseguro que la manutención llegue a mis hijos?; M4 U08 ¿Este documento médico me está pidiendo pagar?; M1 U05 ¿Por qué me depositan menos de lo que gané?; M4 U09 ¿Cómo pago lo indispensable si no puedo trabajar unos días?
 
 *Conocimiento*
 
@@ -506,7 +506,7 @@ Temas cubiertos: 29 de 29.
 
 ## D2 · Derechos y obligaciones
 
-**Lecciones:** M5 U04 ¿Rentar o comprar? ¿Qué derechos tengo como inquilino?; M2 U09 ¿Qué reviso antes de enviar y qué hago si algo falla?; M2 U07 ¿Cuánto puedo enviar y cuándo?; M1 U08 ¿Cómo decido para qué usar mi dinero?; M3 U06 ¿Por cuál deuda empiezo?
+**Lecciones:** M5 U04 ¿Rentar o comprar? ¿Qué derechos tengo como inquilino?; M2 U09 ¿Qué reviso antes de enviar y qué hago si algo falla?; M2 U07 ¿Cuánto puedo enviar y cuándo?; M1 U08 ¿Cómo decido para qué usar mi dinero?; M3 U06 ¿Por cuál deuda empiezo?; M4 U12 ¿Cómo aseguro que la manutención llegue a mis hijos?
 
 *Conocimiento*
 
@@ -527,7 +527,7 @@ Temas cubiertos: 29 de 29.
 
 ## D3 · Educación, información y asesoría
 
-**Lecciones:** M5 U06 ¿De qué viviré cuando trabaje menos o deje de trabajar?; M4 U02 ¿Quién puede ayudarme de verdad con un trámite migratorio?; M5 U03 ¿Abrir una cuenta significa que ya invertí?
+**Lecciones:** M5 U06 ¿De qué viviré cuando trabaje menos o deje de trabajar?; M4 U02 ¿Quién puede ayudarme de verdad con un trámite migratorio?; M5 U03 ¿Abrir una cuenta significa que ya invertí?; M5 U02 ¿Tener más dinero significa que mi inversión ganó?
 
 *Conocimiento*
 
@@ -606,7 +606,7 @@ Temas cubiertos: 29 de 29.
 
 ## D6 · Impuestos y gasto público
 
-**Lecciones:** M1 U09 ¿Presentar impuestos significa que me devolverán dinero?; M5 U12 ¿Qué pasa si heredo o dejo algo entre dos países?; M1 U12 ¿Cómo elijo a alguien que me ayude con impuestos?; M2 U02 ¿Una app de dinero es siempre un banco?; M2 U03 ¿Qué identificación me sirve para trámites financieros?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
+**Lecciones:** M1 U09 ¿Presentar impuestos significa que me devolverán dinero?; M5 U12 ¿Qué pasa si heredo o dejo algo entre dos países?; M1 U12 ¿Cómo elijo a alguien que me ayude con impuestos?; M1 U14 ¿Cómo convierto lo aprendido en algo que sí puedo hacer?; M2 U02 ¿Una app de dinero es siempre un banco?; M2 U03 ¿Qué identificación me sirve para trámites financieros?
 
 *Conocimiento*
 
@@ -699,7 +699,7 @@ Temas cubiertos: 29 de 29.
 
 ## I3 · Comprar y vender inversiones
 
-**Lecciones:** M5 U03 ¿Abrir una cuenta significa que ya invertí?; M4 U02 ¿Quién puede ayudarme de verdad con un trámite migratorio?
+**Lecciones:** M5 U03 ¿Abrir una cuenta significa que ya invertí?; M4 U02 ¿Quién puede ayudarme de verdad con un trámite migratorio?; M5 U02 ¿Tener más dinero significa que mi inversión ganó?
 
 *Conocimiento*
 

@@ -15,8 +15,8 @@ def txt(en, es_, en_):
     return en_ if en else es_
 
 
-def zips(raiz, carpeta, nombre, leeme):
-    """Divide en partes: la 1 sin H5P; las demás con grupos de módulos de H5P de hasta LIM bytes."""
+def grupos_h5p(raiz):
+    """Agrupa los módulos de H5P en partes de hasta LIM bytes."""
     h5p_dirs = sorted(glob.glob(os.path.join(raiz, "04_Moodle", "2_h5p", "M*")), key=lambda p: int(os.path.basename(p)[1:]))
     grupos, cur, tam = [], [], 0
     for d in h5p_dirs:
@@ -24,6 +24,12 @@ def zips(raiz, carpeta, nombre, leeme):
         if cur and tam + s > LIM: grupos.append(cur); cur, tam = [], 0
         cur.append(os.path.basename(d)); tam += s
     if cur: grupos.append(cur)
+    return grupos
+
+
+def zips(raiz, carpeta, nombre, leeme):
+    """Divide en partes: la 1 sin H5P; las demás con grupos de módulos de H5P de hasta LIM bytes."""
+    grupos = grupos_h5p(raiz)
     partes = [lambda rel: "04_Moodle/2_h5p/" not in rel] + [lambda rel, g=g: any(rel.startswith(f"04_Moodle/2_h5p/{m}/") for m in g) for g in grupos]
     if sum(os.path.getsize(os.path.join(r, f)) for r, _, fs in os.walk(raiz) for f in fs) < LIM + 4 * 1048576:
         partes = [lambda rel: True]
@@ -127,8 +133,8 @@ def construir(D, CFG):
     for b in ("Bienvenida", "Cierre"):
         K.copiar(os.path.join(M, b, f"{b}_libro_Moodle.zip"), os.path.join(mo, L))
         if os.path.isdir(os.path.join(M, b, "vista_previa")): shutil.copytree(os.path.join(M, b, "vista_previa"), os.path.join(mo, Vp, b))
-    for g in ("Guia_de_contacto_y_comunidad.html", "Contact_and_community_guide.html"):
-        if os.path.exists(os.path.join(M, "Bienvenida", g)): os.makedirs(os.path.join(mo, Gu), exist_ok=True); shutil.copy(os.path.join(M, "Bienvenida", g), os.path.join(mo, Gu))
+    for gc in ("Guia_de_contacto_y_comunidad.html", "Contact_and_community_guide.html"):
+        if os.path.exists(os.path.join(M, "Bienvenida", gc)): os.makedirs(os.path.join(mo, Gu), exist_ok=True); shutil.copy(os.path.join(M, "Bienvenida", gc), os.path.join(mo, Gu))
     if os.path.exists(os.path.join(M, "diagnostica.gift.txt")):
         os.makedirs(os.path.join(mo, Pr), exist_ok=True); shutil.copy(os.path.join(M, "diagnostica.gift.txt"), os.path.join(mo, Pr))
     elif os.path.exists(os.path.join(D, "estandares", "07_diagnostica.gift.txt")):
@@ -155,9 +161,8 @@ def construir(D, CFG):
     leeme = txt(en, "00_LEEME.txt", "00_README.txt")
     # primero calcula partes para el texto del LEEME
     open(os.path.join(raiz, leeme), "w").write("")
-    h5p_total = sum(os.path.getsize(f) for f in glob.glob(os.path.join(mo, "2_h5p", "*", "*.h5p")))
     tot = sum(os.path.getsize(os.path.join(r, f)) for r, _, fs in os.walk(raiz) for f in fs)
-    n_est = 1 if tot < LIM + 4 * 1048576 else 1 + max(1, -(-h5p_total // LIM))
+    n_est = 1 if tot < LIM + 4 * 1048576 else 1 + len(grupos_h5p(raiz))
     open(os.path.join(raiz, leeme), "w").write(leeme_txt(en, tit, CFG["subtitulo"], CFG["intro"], est, n_est, F["lista"], F.get("notas", []), leeme))
     for old in glob.glob(os.path.join(ENT, F["zip"] + "*.zip")): os.remove(old)
     n = zips(raiz, F["nombre"], F["zip"], leeme)
