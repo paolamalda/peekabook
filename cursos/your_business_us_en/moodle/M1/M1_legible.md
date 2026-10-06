@@ -138,7 +138,7 @@ This week, write down all your sales and keep every business receipt, even small
 
 ### Learn more
 
-- **Plan your business** (SBA · English and Spanish): https://www.sba.gov | What to look for: "plan your business".
+- **Plan your business** (SBA · English and Spanish): https://www.sba.gov — **What to look for:** "plan your business".
 
 ### Key words
 
@@ -292,8 +292,8 @@ This week, choose your business account and link your payment apps to it.
 
 ### Learn more
 
-- **Deposit insurance** (FDIC · English and Spanish): https://www.fdic.gov | What to look for: "deposit insurance".
-- **Bank accounts** (CFPB · English): https://www.consumerfinance.gov | What to look for: "checking accounts".
+- **Deposit insurance** (FDIC · English and Spanish): https://www.fdic.gov — **What to look for:** "deposit insurance".
+- **Bank accounts** (CFPB · English): https://www.consumerfinance.gov — **What to look for:** "checking accounts".
 
 ### Key words
 
@@ -450,7 +450,7 @@ Figure out your average profit, open an account for taxes and set your salary an
 
 ### Learn more
 
-- **Self-employment tax** (IRS · English and Spanish): https://www.irs.gov | What to look for: "self-employment tax".
+- **Self-employment tax** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "self-employment tax".
 
 ### Key words
 
@@ -608,7 +608,7 @@ Choose your tool, create a receipts folder and write down your sales, expenses a
 
 ### Learn more
 
-- **Recordkeeping for small businesses** (IRS · English): https://www.irs.gov | What to look for: "recordkeeping".
+- **Recordkeeping for small businesses** (IRS · English): https://www.irs.gov — **What to look for:** "recordkeeping".
 
 ### Key words
 
@@ -751,7 +751,7 @@ Separate your tax account and, if you bet, set a cap that comes only from your s
 ### Learn more
 
 - **Gambling help** (National Council on Problem Gambling · English and Spanish): 1-800-GAMBLER.
-- **Gambling income** (IRS · English): https://www.irs.gov | What to look for: "gambling income and losses".
+- **Gambling income** (IRS · English): https://www.irs.gov — **What to look for:** "gambling income and losses".
 
 ### Key words
 
@@ -899,8 +899,8 @@ List your skills and check that your business account and payments are in your n
 
 ### Learn more
 
-- **National Domestic Violence Hotline** (English and Spanish): 1-800-799-7233 · https://www.thehotline.org.
-- **Economic abuse** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to look for: "economic abuse".
+- **National Domestic Violence Hotline** (English and Spanish): https://www.thehotline.org — **What to look for:** how to call or chat in English or Spanish, any time and confidentially; phone 1-800-799-7233.
+- **Economic abuse** (CFPB · English and Spanish): https://www.consumerfinance.gov — **What to look for:** "economic abuse".
 
 ### Key words
 

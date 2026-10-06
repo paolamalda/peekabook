@@ -886,9 +886,9 @@ Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus c
 
 ### Para saber más
 
-- **Obligaciones fiscales** (SAT · español): https://www.sat.gob.mx.
-- **Estadísticas y precios** (INEGI · español): https://www.inegi.org.mx.
-- **Capacitación para negocios** (Nacional Financiera · español): https://www.nafin.com.
+- **Obligaciones fiscales** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** tu régimen y qué declaraciones te tocan; todo trámite en el portal es sin costo.
+- **Estadísticas y precios** (INEGI · español): https://www.inegi.org.mx — **Qué buscar:** la inflación del último año para comparar si tu ingreso alcanza lo mismo.
+- **Capacitación para negocios** (Nacional Financiera · español): https://www.nafin.com — **Qué buscar:** los cursos para negocios sin costo y sus fechas.
 
 ### Palabras clave
 

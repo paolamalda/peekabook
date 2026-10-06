@@ -26,7 +26,7 @@ Tienes derecho a información clara (costos y CAT), a un contrato, a reclamar y 
 
 #### Verifica antes de confiar
 
-Antes de abrir una cuenta o pedir un crédito, busca la institución en el SIPRES de la CONDUSEF: te dice si existe, qué tipo de institución es y quién la vigila.
+Antes de abrir una cuenta o pedir un crédito, busca la institución en el SIPRES de la CONDUSEF. Te dice si existe, qué tipo de institución es y quién la vigila.
 
 
 
@@ -34,7 +34,7 @@ Antes de abrir una cuenta o pedir un crédito, busca la institución en el SIPRE
 
 Valeria reclamó por escrito en su app y guardó el folio. Como no le respondieron en el plazo, presentó su queja en la CONDUSEF y le devolvieron la comisión.
 
-> **Idea clave:** conoce quién es quién: los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende; reclama primero con folio y, si no te resuelven, acude a la CONDUSEF.
+> **Idea clave:** conoce quién es quién. Los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende. Reclama primero con folio; si no te resuelven, acude a la CONDUSEF.
 
 
 
@@ -521,13 +521,13 @@ Naomi ayudó a su abuela a juntar sus papeles en una carpeta y encontró las esc
 
 #### Si tu familia está en dos países
 
-Si tus papás viven en Estados Unidos y heredan una casa en México, también deben saber las reglas de allá: por ejemplo, avisar al IRS si una herencia del extranjero pasa de 100,000 dólares. Que lo pregunten a una persona experta.
+Si tus papás viven en Estados Unidos y heredan una casa en México, también deben conocer las reglas de allá. Por ejemplo, deben avisar al IRS si una herencia del extranjero pasa de 100,000 dólares. Que lo pregunten a una persona experta.
 
 
 
 #### Cuando los abuelos hablan de «pasar la casa»
 
-A veces los abuelos pasan la casa a sus hijos o nietos en vida, pero conservan el derecho a vivir ahí hasta que fallecen: se llama **usufructo**. Lo importante es que se haga por escrito ante notario, no de palabra.
+A veces los abuelos pasan la casa a sus hijos o nietos en vida, pero conservan el derecho a vivir ahí hasta que fallecen. Se llama **usufructo**. Lo importante es que se haga por escrito ante notario, no de palabra.
 
 
 

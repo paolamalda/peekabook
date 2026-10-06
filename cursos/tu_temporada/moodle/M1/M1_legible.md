@@ -136,7 +136,7 @@ Llena la tabla comparativa y pregunta en el Servicio Nacional de Empleo de tu es
 
 - **PTAT** (STPS · español): https://www.gob.mx/stps — **Qué buscar:** «Programa de Trabajadores Agrícolas Temporales México-Canadá».
 - **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Contrato de trabajo para trabajadores agrícolas temporales mexicanos en Canadá 2026».
-- **Ofertas H-2A** (DOL · inglés y español): https://seasonaljobs.dol.gov
+- **Ofertas H-2A** (DOL · inglés y español): https://seasonaljobs.dol.gov — **Qué buscar:** las ofertas de trabajo vigentes con salario, horas y vivienda.
 
 ### Palabras clave
 
@@ -286,9 +286,9 @@ Llena la tabla de verificación de tu oferta antes de dar cualquier dato o diner
 
 ### Para saber más
 
-- **Servicio Nacional de Empleo** (STPS · español): https://www.empleo.gob.mx
-- **Ofertas H-2A** (DOL · inglés y español): https://seasonaljobs.dol.gov
-- **Agencias de colocación registradas** (STPS · español): https://www.gob.mx/stps
+- **Servicio Nacional de Empleo** (STPS · español): https://www.empleo.gob.mx — **Qué buscar:** las vacantes de tu estado y los programas de trabajo temporal en el extranjero.
+- **Ofertas H-2A** (DOL · inglés y español): https://seasonaljobs.dol.gov — **Qué buscar:** las ofertas de trabajo vigentes con salario, horas y vivienda.
+- **Agencias de colocación registradas** (STPS · español): https://www.gob.mx/stps — **Qué buscar:** si la agencia que te ofrece trabajo está registrada.
 
 ### Palabras clave
 
@@ -434,7 +434,7 @@ Antes de firmar, anota pago, horas, vivienda y descuentos de tu contrato.
 ### Para saber más
 
 - **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Contrato de trabajo para trabajadores agrícolas temporales mexicanos 2026».
-- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a — **Qué buscar:** tus derechos de pago, vivienda, transporte y cómo reportar abusos.
 
 ### Palabras clave
 

@@ -336,6 +336,93 @@ def paso_apoyo():
           "Frequently asked questions" if EN else "Preguntas frecuentes")
 
 
+def paso_fondo():
+    """Genera la guía «Para ir a fondo»: por parte y lección, los enlaces oficiales (con Qué buscar) y las fuentes, sin repetir."""
+    F = os.path.join(D, "fondo"); shutil.rmtree(F, ignore_errors=True); os.makedirs(F)
+    if EN:
+        intro = """# How to go deeper
+
+## Who this guide is for
+
+The lessons give you the essentials. This guide is for you if you want to read the original sources, check the rules or prepare questions for an expert. You don't need it to finish the course.
+
+## How to use it
+
+1. Find the part and the lesson you're interested in.
+2. Open the official links and follow "What to look for."
+3. Check the sources: the laws, rules and documents we used to write the lesson.
+4. Write down your questions and take them to the right institution.
+
+## How to spot a source you can trust
+
+- The site is official: it ends in .gov (U.S.) or gob.mx (Mexico), or it belongs to the institution named.
+- It has a date. Rules, amounts and rates change every year: look for the current version.
+- It doesn't ask you to pay or to give personal data just to get information.
+- If a site or a person promises sure results, be careful.
+
+## When to ask an expert
+
+When your case has many details: taxes, inheritances, debts in court or contracts. First look for no-cost guidance at the public institutions in this guide, before paying anyone. This program doesn't give legal or tax advice: it helps you understand and ask better questions.
+"""
+        lead_i, lead_m = "For people who want to know more: official sources, rules and documents for each topic.", "Official links and sources for each lesson in this part."
+        h_rec, h_fue, cab = "To read and check", "Sources for this lesson", "Go deeper"
+    else:
+        intro = """# Cómo ir a fondo
+
+## Para quién es esta guía
+
+Las lecciones te dan lo esencial. Esta guía es para ti si quieres leer las fuentes originales, revisar las reglas o preparar preguntas para una persona experta. No la necesitas para terminar el curso.
+
+## Cómo usarla
+
+1. Busca la parte y la lección que te interesa.
+2. Abre los enlaces oficiales y sigue «Qué buscar».
+3. Revisa las fuentes: son las leyes, reglas y documentos que usamos para escribir la lección.
+4. Anota tus preguntas y llévalas a la institución que corresponda.
+
+## Cómo reconocer una fuente confiable
+
+- El sitio es oficial: termina en gob.mx (México) o .gov (EE. UU.), o es de la institución que se nombra.
+- Tiene fecha. Las reglas, los montos y las tasas cambian cada año: busca la versión vigente.
+- No te pide pagar ni dar datos personales para informarte.
+- Si un sitio o una persona te promete resultados seguros, desconfía.
+
+## Cuándo pedir ayuda a una persona experta
+
+Cuando tu caso tiene muchos detalles: impuestos, herencias, deudas en juicio o contratos. Antes de pagarle a alguien, busca orientación sin costo en las instituciones públicas de esta guía. Este programa no da asesoría legal ni fiscal: te ayuda a entender y a preguntar mejor.
+"""
+        lead_i, lead_m = "Para quien quiere saber más: fuentes oficiales, reglas y documentos de cada tema.", "Enlaces oficiales y fuentes de cada lección de esta parte."
+        h_rec, h_fue, cab = "Para leer y revisar", "Fuentes de la lección", "Para ir a fondo"
+    open(os.path.join(F, "01-como-ir-a-fondo.md"), "w").write(intro)
+    leads, vistos = {"01": lead_i}, set()
+    def enlaza(t):
+        dom = lambda u: re.sub(r"^www[.]", "", u.split("://", 1)[1].split("/", 1)[0])
+        return re.sub(r"(?<!\()https?://[^\s|)]+?(?=[.,;]?(?:\s|$|\|))", lambda m: "[" + dom(m.group(0)) + "](" + m.group(0) + ")", t)
+    for i, (mod, titulo) in enumerate(MODS.items(), 2):
+        num = f"{i:02d}"; leads[num] = lead_m
+        nombre = CFG.get("nombres", {}).get(mod, {}).get("titulo") or re.sub(r"^(Módulo|Module) \d+\. ", "", titulo)
+        out = [f"# {nombre}", ""]
+        for code, title, les in lecciones(mod):
+            rec = re.search(r"(?m)^== recursos\n(.*?)(?=^== |\Z)", les, re.S)
+            fue = re.search(r"(?m)^== fuentes\n(.*?)(?=^== |\Z)", les, re.S)
+            items = []
+            for l in (rec.group(1).splitlines() if rec else []):
+                l = l.strip()
+                if not l.startswith("- "): continue
+                u = re.search(r"https?://[^\s|]+", l)
+                k = u.group(0).rstrip(".,/").lower() if u else l
+                if k in vistos: continue
+                l = re.sub(r"\s*\|\s*(Qué buscar|What to look for):\s*", lambda m: "  \n  **" + m.group(1) + ":** ", l)
+                vistos.add(k); items.append(enlaza(l))
+            f = re.sub(r"\[[SR]\d+\]\s*", "", " ".join(x.strip() for x in fue.group(1).splitlines() if x.strip())) if fue else ""
+            if not items and not f: continue
+            out += [f"## {title}", ""]
+            if items: out += [f"**{h_rec}**", ""] + items + [""]
+            if f: out += [f"**{h_fue}:** {f.strip()}", ""]
+        open(os.path.join(F, f"{num}-{mod.lower()}.md"), "w").write("\n".join(out) + "\n")
+    libro(F, os.path.join(OUT, "Fondo"), "Fondo_libro_Moodle.zip", "fondo", cab, leads, {"01": "fa-compass"}, "")
+
+
 def paso_comunidad():
     if not CFG.get("comunidad"): return
     icons = {"01": "fa-users", "02": "fa-shield", "03": "fa-comments", "04": "fa-calendar", "05": "fa-video-camera", "06": "fa-handshake-o"}
@@ -550,12 +637,12 @@ def paso_herramientas():
     import extras; n, h = extras.hojas(D, CFG, EN); print("herramientas:", n, h)
 
 
-PASOS = {"bienvenida": paso_bienvenida, "whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "comunidad": paso_comunidad,
+PASOS = {"bienvenida": paso_bienvenida, "whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "fondo": paso_fondo, "comunidad": paso_comunidad,
          "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo, "ocde": paso_ocde}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "bienvenida", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
+    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "fondo", "bienvenida", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

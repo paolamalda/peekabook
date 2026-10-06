@@ -33,7 +33,7 @@ Con un fondo y cuidado habría perdido mucho menos.
 
 #### Un caso en un minuto
 
-Santi ahora no carga todo junto, anota los celulares que recibe, tiene un fondo del negocio y guarda los equipos de clientes en un lugar seguro. Pagó a sus clientes poco a poco y recuperó su confianza.
+Ahora Santi no carga todo junto y anota los celulares que recibe. Tiene un fondo del negocio y guarda los equipos de clientes en un lugar seguro. Pagó a sus clientes poco a poco y recuperó su confianza.
 
 > **Idea clave:** identifica qué puede salir mal y prepárate: evita, reduce, guarda un fondo o asegúrate.
 
@@ -171,7 +171,7 @@ Si estudias en una preparatoria o universidad **pública**, tienes derecho al se
 3. Revisa en 30 a 60 días que ya aparezcas vigente.
 4. Regístrate en tu Unidad de Medicina Familiar.
 
-> **Dato vigente:** el Seguro de Salud para Estudiantes del IMSS es para estudiantes de escuelas públicas de nivel medio superior, superior y posgrado, no tiene costo y está vigente mientras estudies; la escuela te da de alta con tu NSS. Consultado el 30 de septiembre de 2026 a través del IMSS.
+> **Dato vigente:** el Seguro de Salud para Estudiantes del IMSS es para estudiantes de escuelas públicas de nivel medio superior, superior y posgrado. No tiene costo y está vigente mientras estudies. La escuela te da de alta con tu NSS. Consultado el 30 de septiembre de 2026 a través del IMSS.
 
 
 
@@ -188,7 +188,7 @@ Si estudias en una preparatoria o universidad **pública**, tienes derecho al se
 
 Emilio sacó su NSS en la app en 10 minutos y lo entregó en la dirección de su prepa. Dos meses después ya tenía su clínica. Su hermana también lo activó.
 
-> **Idea clave:** si estudias en una escuela pública tienes seguro de salud del IMSS sin costo; saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
+> **Idea clave:** si estudias en una escuela pública, tienes seguro de salud del IMSS sin costo. Saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
 
 
 
@@ -224,7 +224,7 @@ Emilio sacó su NSS en la app en 10 minutos y lo entregó en la dirección de su
 
 #### Tu familia
 
-Si en tu casa alguien no tiene seguridad social, cuéntales que existen los centros de salud y el Seguro de Salud para la Familia del IMSS, que se paga por persona al año.
+Si en tu casa alguien no tiene seguridad social, cuéntales de dos opciones. Los centros de salud y el Seguro de Salud para la Familia del IMSS, que se paga por persona al año.
 
 
 
@@ -326,11 +326,11 @@ Una cuenta mula es una cuenta que alguien presta para mover dinero de fraudes. Q
 | «Ganaste un sorteo» | Te piden pagar para cobrar. | Engaño. |
 | Amenazas en línea | Te piden dinero o fotos. | No pagues; pide ayuda. |
 
-> **Dato vigente:** la CONDUSEF advierte que prestar tu cuenta para recibir y mover dinero de terceros puede considerarse delito (operaciones con recursos de procedencia ilícita, con penas de 5 a 15 años de prisión) y que reclutan jóvenes con ofertas de «trabajo desde casa». Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** la CONDUSEF advierte que prestar tu cuenta para recibir y mover dinero de otros puede ser delito. Se llama operaciones con recursos de procedencia ilícita, con penas de 5 a 15 años de prisión. Reclutan jóvenes con ofertas de «trabajo desde casa». Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 #### Si alguien te amenaza en línea
 
-Si alguien te pide dinero o fotos, o amenaza con publicar algo tuyo: no pagues ni mandes nada, guarda capturas, bloquea, cuéntale a un adulto de confianza y denuncia en el 088 o con la policía cibernética de tu estado. No es tu culpa y hay ayuda.
+Si alguien te pide dinero o fotos, o amenaza con publicar algo tuyo, no pagues ni mandes nada. Guarda capturas, bloquea y cuéntale a un adulto de confianza. Denuncia en el 088 o con la policía cibernética de tu estado. No es tu culpa y hay ayuda.
 
 
 
@@ -479,7 +479,7 @@ Una contraseña fuerte es larga: una frase de varias palabras que recuerdes, con
 
 #### Un caso en un minuto
 
-Naomi cambió la contraseña de su correo y su banco por frases largas distintas, activó la verificación en dos pasos y revisó qué apps tenían acceso a su cuenta.
+Naomi cambió la contraseña de su correo y de su banco por frases largas distintas. Activó la verificación en dos pasos y revisó qué apps tenían acceso a su cuenta.
 
 > **Idea clave:** usa contraseñas largas y distintas en tus cuentas importantes y activa la verificación en dos pasos; nunca compartas códigos.
 

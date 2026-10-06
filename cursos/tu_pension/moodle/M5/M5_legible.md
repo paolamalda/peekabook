@@ -133,7 +133,7 @@ Si te ofrecen un préstamo, escribe las cuatro preguntas y no firmes hasta tener
 ### Para saber más
 
 - **Préstamos a pensionados** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «préstamos a pensionados» y «entidades financieras con convenio».
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 
 ### Palabras clave
 

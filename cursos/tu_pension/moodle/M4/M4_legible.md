@@ -286,9 +286,10 @@ Llena tu lista de ayuda con los teléfonos y guárdala junto a tu ficha de emerg
 
 ### Para saber más
 
-- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx | 55 5340 0999.
+- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** cómo presentar una queja contra un banco o financiera y qué papeles tener a la mano; teléfono 55 5340 0999.
 - **INAPAM** (Gobierno de México · español): https://www.gob.mx/inapam — **Qué buscar:** «asesoría jurídica».
-- **Reporte de crédito especial:** https://www.burodecredito.com.mx y https://www.circulodecredito.com.mx
+- **Reporte de crédito especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** cómo pedir tu reporte sin costo una vez al año y cómo levantar una aclaración.
+- **Reporte de crédito especial** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** cómo pedir tu reporte sin costo una vez al año y cómo levantar una aclaración.
 
 ### Palabras clave
 

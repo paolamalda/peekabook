@@ -131,7 +131,7 @@ Pregunta en tu trabajo si tienes seguro de vida y revisa tus beneficiarios.
 ### Para saber más
 
 - **Seguros de vida** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de vida».
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 
 ### Palabras clave
 
@@ -277,7 +277,7 @@ Revisa qué servicio de salud te corresponde y anota tus chequeos del año.
 ### Para saber más
 
 - **Vigencia de derechos** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «vigencia de derechos».
-- **IMSS-Bienestar** (Gobierno de México · español): https://www.gob.mx/imss-bienestar
+- **IMSS-Bienestar** (Gobierno de México · español): https://www.gob.mx/imss-bienestar — **Qué buscar:** tu unidad médica más cercana y qué servicios dan sin costo.
 
 ### Palabras clave
 

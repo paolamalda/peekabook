@@ -825,8 +825,8 @@ Guarda en tu celular los sitios oficiales que consultarás antes de creer una no
 
 ### Para saber más
 
-- **Avisos oficiales** (SAT · español): https://www.sat.gob.mx.
-- **Tasa de referencia e inflación** (Banco de México · español): https://www.banxico.org.mx.
+- **Avisos oficiales** (SAT · español): https://www.sat.gob.mx — **Qué buscar:** los avisos sobre fraudes que usan el nombre del SAT.
+- **Tasa de referencia e inflación** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** la inflación anual más reciente y la tasa de interés de referencia.
 - **Alertas** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «alertas».
 
 ### Palabras clave

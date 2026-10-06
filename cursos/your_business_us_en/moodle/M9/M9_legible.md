@@ -140,9 +140,9 @@ Create your ssa.gov account, check your estimate and set a monthly retirement co
 
 ### Learn more
 
-- **my Social Security** (SSA · English and Spanish): https://www.ssa.gov | What to look for: "my Social Security".
-- **Retirement plans for self-employed people** (IRS · English): https://www.irs.gov | What to look for: "retirement plans for self-employed".
-- **CalSavers** (English and Spanish): https://www.calsavers.com | What to look for: "self-employed".
+- **my Social Security** (SSA · English and Spanish): https://www.ssa.gov — **What to look for:** "my Social Security".
+- **Retirement plans for self-employed people** (IRS · English): https://www.irs.gov — **What to look for:** "retirement plans for self-employed".
+- **CalSavers** (English and Spanish): https://www.calsavers.com — **What to look for:** "self-employed".
 
 ### Key words
 
@@ -292,8 +292,8 @@ Put together your business folder and tell someone you trust where it is.
 
 ### Learn more
 
-- **Closing a business** (IRS · English): https://www.irs.gov | What to look for: "closing a business".
-- **Dissolving an LLC** (California Secretary of State · English): https://bizfileonline.sos.ca.gov | What to look for: "dissolution".
+- **Closing a business** (IRS · English): https://www.irs.gov — **What to look for:** "closing a business".
+- **Dissolving an LLC** (California Secretary of State · English): https://bizfileonline.sos.ca.gov — **What to look for:** "dissolution".
 
 ### Key words
 
@@ -457,7 +457,7 @@ Fill in your one-page plan and set the date of your first review.
 
 ### Learn more
 
-- **No-cost advice** (SBA · English): https://www.sba.gov | What to look for: "SBDC" and "SCORE".
+- **No-cost advice** (SBA · English): https://www.sba.gov — **What to look for:** "SBDC" and "SCORE".
 
 ### Key words
 
@@ -618,9 +618,9 @@ Check whether your accounts have a POD or TOD beneficiary and list what you own 
 
 ### Learn more
 
-- **Gifts and inheritances from abroad** (IRS · English): https://www.irs.gov | What to look for: "Form 3520" and "gifts from foreign person".
-- **Small estates and transfer on death deeds** (California Courts · English and Spanish): https://selfhelp.courts.ca.gov | What to look for: "small estate" and "transfer on death deed".
-- **Consular notary services** (Mexican Ministry of Foreign Affairs · Spanish): https://www.gob.mx/sre | What to look for: "testamento en consulado".
+- **Gifts and inheritances from abroad** (IRS · English): https://www.irs.gov — **What to look for:** "Form 3520" and "gifts from foreign person".
+- **Small estates and transfer on death deeds** (California Courts · English and Spanish): https://selfhelp.courts.ca.gov — **What to look for:** "small estate" and "transfer on death deed".
+- **Consular notary services** (Mexican Ministry of Foreign Affairs · Spanish): https://www.gob.mx/sre — **What to look for:** "testamento en consulado".
 
 ### Key words
 

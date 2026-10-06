@@ -136,7 +136,7 @@ Revisa tu vivienda con la tabla y guarda tu pasaporte contigo.
 
 ### Para saber más
 
-- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a — **Qué buscar:** tus derechos de pago, vivienda, transporte y cómo reportar abusos.
 - **Derechos de trabajadores temporales en Canadá** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Trabajadores extranjeros temporales: sus derechos están protegidos».
 
 ### Palabras clave
@@ -284,7 +284,7 @@ Llena tu ficha de salud al llegar.
 
 ### Para saber más
 
-- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a — **Qué buscar:** tus derechos de pago, vivienda, transporte y cómo reportar abusos.
 - **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Contrato de trabajo para trabajadores agrícolas temporales mexicanos».
 
 ### Palabras clave
@@ -435,7 +435,7 @@ Llena tu lista de ayuda y guárdala en papel en tu cartera.
 
 ### Para saber más
 
-- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx
+- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** el consulado más cercano y su teléfono de protección.
 - **Línea contra la trata en EE. UU.:** 1-888-373-7888.
 - **División de Horas y Salarios** (DOL · español): 1-866-487-9243.
 

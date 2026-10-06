@@ -132,7 +132,7 @@ Si tienes un adelanto activo, escribe cuánto pagarás en total y cuánto te des
 ### Para saber más
 
 - **Créditos** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «CAT».
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 
 ### Palabras clave
 

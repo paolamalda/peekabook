@@ -136,8 +136,8 @@ Llena tu lista de salida una semana antes de regresar.
 
 ### Para saber más
 
-- **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca
-- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Contrato PTAT 2026** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** tu contrato de la temporada: salario, horas, descuentos y vivienda.
+- **Protecciones H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a — **Qué buscar:** tus derechos de pago, vivienda, transporte y cómo reportar abusos.
 
 ### Palabras clave
 

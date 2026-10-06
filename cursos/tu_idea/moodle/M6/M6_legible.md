@@ -41,7 +41,7 @@ El CAT sirve para comparar créditos. Mientras más bajo, más barato. Todas las
 
 Santi vio que pagaría casi 9,000 de más. Juntó 800 al mes con sus reparaciones y compró la laptop de contado en 15 meses. Mientras, practicó en la computadora de la biblioteca.
 
-> **Idea clave:** un crédito siempre cuesta más que el precio; compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
+> **Idea clave:** un crédito siempre cuesta más que el precio. Compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
 
 
 
@@ -76,7 +76,7 @@ Santi vio que pagaría casi 9,000 de más. Juntó 800 al mes con sus reparacione
 
 #### Cuándo sí puede servir
 
-Un crédito puede ayudar si lo que compras te hace ganar más de lo que cuesta, si puedes pagar todas las cuotas sin problema y si comparaste el CAT. Aun así, siendo menor de edad no puedes firmarlo: se necesita a un adulto.
+Un crédito puede ayudar en tres casos. Si lo que compras te hace ganar más de lo que cuesta. Si puedes pagar todas las cuotas sin problema. Y si comparaste el CAT. Aun así, siendo menor de edad no puedes firmarlo: se necesita a un adulto.
 
 
 
@@ -369,7 +369,7 @@ Santi le dijo a su amigo: «No puedo firmar una deuda que no podría pagar». Le
 | Paga el total cada mes | Sin intereses y buen historial |
 | Revisa tu reporte cada año | Sin costo en Buró y Círculo de Crédito |
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no a referencias personales. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** las reglas de la CONDUSEF solo permiten a los despachos de cobranza cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -513,7 +513,7 @@ Emilio encontró una escuela pública con un técnico parecido y una beca. Valer
 | Capacitación y apoyo con IMSS a partir de 18 años sin estudio ni trabajo | Jóvenes Construyendo el Futuro |
 | Concursos de emprendimiento | Tu escuela, tu estado y universidades |
 
-> **Dato vigente:** Jóvenes Construyendo el Futuro da en 2026 un apoyo mensual de 9,582.47 pesos y seguro del IMSS por hasta 12 meses a jóvenes de 18 a 29 años que no estudian ni trabajan, mientras se capacitan en un centro de trabajo. Consultado el 30 de septiembre de 2026 a través de la STPS.
+> **Dato vigente:** en 2026, Jóvenes Construyendo el Futuro da un apoyo mensual de 9,582.47 pesos y seguro del IMSS por hasta 12 meses. Es para jóvenes de 18 a 29 años que no estudian ni trabajan, mientras se capacitan en un centro de trabajo. Consultado el 30 de septiembre de 2026 a través de la STPS.
 
 
 
@@ -613,7 +613,7 @@ STPS · Programas para el Bienestar · Instituto Mexicano de la Juventud, consul
 
 #### Tu sueldo tiene protección
 
-Si trabajas con contrato, la ley limita lo que te pueden descontar por un adelanto: hasta **30% de lo que ganas arriba del salario mínimo** por pago. Y si eres menor de edad, tu jornada y tu pago también tienen reglas especiales (M9 U02).
+Si trabajas con contrato, la ley limita lo que te pueden descontar por un adelanto. El tope es **30% de lo que ganas arriba del salario mínimo** por pago. Si eres menor de edad, tu jornada y tu pago también tienen reglas especiales (M9 U02).
 
 > **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
 

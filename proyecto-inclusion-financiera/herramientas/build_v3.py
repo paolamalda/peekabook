@@ -46,7 +46,7 @@ def legible(text, mod):
             name, body = sec.split("\n", 1)
             out += [f"### {names.get(name.strip(), name.strip())}", ""]
             if name.strip() in ("recursos",):
-                out += [l.replace(" | Qué buscar:", " — **Qué buscar:**") for l in body.strip().splitlines()] + [""]
+                out += [l.replace(" | Qué buscar:", " — **Qué buscar:**").replace(" | What to look for:", " — **What to look for:**") for l in body.strip().splitlines()] + [""]
                 continue
             if name.strip() in ("palabras", "fuentes"):
                 out += [body.strip(), ""]

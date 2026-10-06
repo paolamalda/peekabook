@@ -279,7 +279,7 @@ Revisa qué cobertura tienes hoy y elige cómo completarla.
 ### Para saber más
 
 - **IMSS para estudiantes** (IMSS · español): https://www.imss.gob.mx — **Qué buscar:** «estudiantes».
-- **IMSS-Bienestar** (Gobierno de México · español): https://www.gob.mx/imss-bienestar
+- **IMSS-Bienestar** (Gobierno de México · español): https://www.gob.mx/imss-bienestar — **Qué buscar:** tu unidad médica más cercana y qué servicios dan sin costo.
 
 ### Palabras clave
 
@@ -424,7 +424,7 @@ Localiza tu Afore, consulta tus semanas y decide una aportación mensual.
 ### Para saber más
 
 - **AforeMóvil** (CONSAR · español): https://www.gob.mx/consar — **Qué buscar:** «AforeMóvil».
-- **Semanas cotizadas** (IMSS · español): https://serviciosdigitales.imss.gob.mx
+- **Semanas cotizadas** (IMSS · español): https://serviciosdigitales.imss.gob.mx — **Qué buscar:** tu constancia de semanas cotizadas, que se descarga sin costo.
 
 ### Palabras clave
 

@@ -138,7 +138,7 @@ Llena la tabla de lo que cuestan tus hijos al mes.
 ### Para saber más
 
 - **Defensoría pública** (Poder Judicial de tu estado) — **Qué buscar:** «defensoría pública familiar».
-- **Procuraduría de Protección de Niñas, Niños y Adolescentes** (DIF · español): https://www.gob.mx/difnacional
+- **Procuraduría de Protección de Niñas, Niños y Adolescentes** (DIF · español): https://www.gob.mx/difnacional — **Qué buscar:** la procuraduría de tu estado y cómo pedir orientación.
 
 ### Palabras clave
 

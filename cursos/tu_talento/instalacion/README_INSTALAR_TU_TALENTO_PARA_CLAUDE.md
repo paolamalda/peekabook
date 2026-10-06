@@ -120,6 +120,8 @@ En cada sección de módulo:
 
 En la sección 12, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos).
 
+Debajo, crea el libro **`Para ir a fondo`** con la misma configuración e importa `1_libros/Fondo_libro_Moodle.zip` (12 capítulos: «Cómo ir a fondo» y uno por parte). Descripción: "Opcional. Para quien quiere leer las fuentes oficiales, las reglas y los documentos de cada tema." **Finalización: ninguna** (es opcional y no cuenta para terminar el curso).
+
 En la misma sección 12, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas; además: tus ingresos de 12 meses y tu fondo de sequía, tus bienes y quién los recibe. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
 
 ## 5. Glosario

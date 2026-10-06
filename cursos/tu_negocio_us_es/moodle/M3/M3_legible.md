@@ -612,7 +612,7 @@ Anota el costo de tus cinco productos más vendidos y vuelve a revisarlo en tres
 
 ### Para saber más
 
-- **Índice de precios al consumidor** (BLS · inglés): https://www.bls.gov/cpi.
+- **Índice de precios al consumidor** (BLS · inglés): https://www.bls.gov/cpi — **Qué buscar:** cuánto subieron los precios en el último año.
 - **Política monetaria** (Reserva Federal · inglés): https://www.federalreserve.gov — **Qué buscar:** «inflation target».
 
 ### Palabras clave

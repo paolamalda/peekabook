@@ -149,7 +149,7 @@ Write down how much you take in cards each month and compare at least two option
 
 ### Learn more
 
-- **Payment apps** (CFPB · English): https://www.consumerfinance.gov | What to look for: "payment apps".
+- **Payment apps** (CFPB · English): https://www.consumerfinance.gov — **What to look for:** "payment apps".
 
 ### Key words
 
@@ -301,7 +301,7 @@ Turn on payment-received alerts and two-step verification in your app and your b
 
 ### Learn more
 
-- **Payment app scams** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "payment apps" and "scams".
+- **Payment app scams** (FTC · English and Spanish): https://consumer.ftc.gov — **What to look for:** "payment apps" and "scams".
 
 ### Key words
 
@@ -444,8 +444,8 @@ Write your anti-scam plan on a card and put it where you take payments.
 
 ### Learn more
 
-- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov.
-- **Internet crime** (FBI IC3 · English): https://www.ic3.gov | What to look for: "file a complaint".
+- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov — **What to look for:** how to report and what to do next for each type of scam.
+- **Internet crime** (FBI IC3 · English): https://www.ic3.gov — **What to look for:** "file a complaint".
 
 ### Key words
 

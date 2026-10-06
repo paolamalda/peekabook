@@ -768,7 +768,7 @@ Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, ins
 - **REPEP** (Profeco · español): https://repep.profeco.gob.mx — **Qué buscar:** «inscribir número».
 - **REUS** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «REUS».
 - **Reporte de crédito y bloqueo** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** reporte sin costo y «Bloqueo Buró».
-- **Líneas con tu CURP** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx.
+- **Líneas con tu CURP** (Comisión Reguladora de Telecomunicaciones · español): https://portal.crt.gob.mx — **Qué buscar:** qué líneas están a tu nombre y cómo desvincular las que no reconoces.
 
 ### Palabras clave
 
@@ -1203,7 +1203,7 @@ Anota quién depende de ti, calcula tu suma asegurada y revisa tus beneficiarios
 
 - **Seguros de vida** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de vida».
 - **Previsión funeraria** (Profeco · español): https://www.gob.mx/profeco — **Qué buscar:** «servicios funerarios» y «contratos de adhesión».
-- **Aseguradoras autorizadas** (CNSF · español): https://www.gob.mx/cnsf.
+- **Aseguradoras autorizadas** (CNSF · español): https://www.gob.mx/cnsf — **Qué buscar:** si la aseguradora está autorizada antes de contratar.
 
 ### Palabras clave
 

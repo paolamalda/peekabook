@@ -1333,7 +1333,7 @@ Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si po
 ### Para saber más
 
 - **Aval y obligado solidario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «aval» y «obligado solidario».
-- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx.
+- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx — **Qué buscar:** si el despacho está registrado y cómo quejarte si te amenazan o cobran a terceros.
 
 ### Palabras clave
 

@@ -134,8 +134,8 @@ Write down your business's current form and the risk that worries you; check you
 
 ### Learn more
 
-- **Choose a business structure** (SBA · English): https://www.sba.gov | What to look for: "business structure".
-- **LLCs in California** (Secretary of State · English): https://bizfileonline.sos.ca.gov | What to look for: "LLC".
+- **Choose a business structure** (SBA · English): https://www.sba.gov — **What to look for:** "business structure".
+- **LLCs in California** (Secretary of State · English): https://bizfileonline.sos.ca.gov — **What to look for:** "LLC".
 
 ### Key words
 
@@ -290,9 +290,9 @@ Look up in CalGold (or your state's office) which licenses your type of business
 
 ### Learn more
 
-- **Apply for an EIN** (IRS · English and Spanish): https://www.irs.gov | What to look for: "employer identification number".
-- **ITIN** (IRS · English and Spanish): https://www.irs.gov | What to look for: "ITIN Form W-7".
-- **Permits in California** (CalGold · English): https://www.calgold.ca.gov | What to look for: your city and type of business.
+- **Apply for an EIN** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "employer identification number".
+- **ITIN** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "ITIN Form W-7".
+- **Permits in California** (CalGold · English): https://www.calgold.ca.gov — **What to look for:** your city and type of business.
 
 ### Key words
 
@@ -450,8 +450,8 @@ Open an account for taxes and decide what percentage of each profit you'll set a
 
 ### Learn more
 
-- **Self-employment tax** (IRS · English and Spanish): https://www.irs.gov | What to look for: "self-employment tax".
-- **No-cost VITA help** (IRS · English and Spanish): https://www.irs.gov | What to look for: "VITA".
+- **Self-employment tax** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "self-employment tax".
+- **No-cost VITA help** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "VITA".
 
 ### Key words
 
@@ -599,8 +599,8 @@ Put the four estimated payment dates on your calendar and request your IP PIN at
 
 ### Learn more
 
-- **Estimated taxes** (IRS · English and Spanish): https://www.irs.gov | What to look for: "estimated taxes 1040-ES".
-- **Tax scams** (IRS · English and Spanish): https://www.irs.gov | What to look for: "scams".
+- **Estimated taxes** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "estimated taxes 1040-ES".
+- **Tax scams** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "scams".
 
 ### Key words
 
@@ -756,7 +756,7 @@ Check whether your sales are taxable in your state and, if so, get your permit.
 
 ### Learn more
 
-- **Seller's permit and rates** (CDTFA · English and Spanish): https://www.cdtfa.ca.gov | What to look for: "seller's permit" and "tax rates".
+- **Seller's permit and rates** (CDTFA · English and Spanish): https://www.cdtfa.ca.gov — **What to look for:** "seller's permit" and "tax rates".
 
 ### Key words
 

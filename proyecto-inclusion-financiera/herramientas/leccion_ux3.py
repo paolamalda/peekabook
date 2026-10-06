@@ -167,7 +167,7 @@ def lesson_pages(block, num, total, next_title=None, en=False):
     if "ponlo" in pr:
         q, a = re.split(r"(?m)^respuesta:\s*", pr["ponlo"])
         ponlo = md(q) + f'<details><summary>Ver respuesta</summary><div class="a">{md(a)}</div></details>'
-    recs = re.findall(r"(?m)^- \*\*(.+?)\*\* \((.+?)\):\s*(\S+)\s*\|\s*Qué buscar:\s*(.+)$", secs.get("recursos", ""))
+    recs = re.findall(r"(?m)^- \*\*(.+?)\*\* \((.+?)\):\s*(\S+)\s*\|\s*(?:Qué buscar|What to look for):\s*(.+)$", secs.get("recursos", ""))
     res = "".join(f'<a class="r" href="{u}" target="_blank" rel="noopener"><i class="fa fa-external-link" style="color:{C["rosa"]};margin-top:4px"></i>'
                   f'<div><div class="nm">{n}</div><div class="org">{o}</div><div class="qb"><i class="fa fa-search" style="color:{C["rosa"]}"></i> <b>Qué buscar:</b> {html.escape(qb)}</div></div></a>'
                   for n, o, u, qb in recs)

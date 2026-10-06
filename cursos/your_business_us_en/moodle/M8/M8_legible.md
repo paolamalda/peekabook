@@ -142,9 +142,9 @@ If you're thinking of hiring, decide whether it would be an employee or a contra
 
 ### Learn more
 
-- **Employee or contractor** (DIR · English): https://www.dir.ca.gov | What to look for: "ABC test".
-- **Employers** (EDD · English): https://edd.ca.gov | What to look for: "employer registration".
-- **Minimum wage** (DIR · English): https://www.dir.ca.gov | What to look for: "minimum wage".
+- **Employee or contractor** (DIR · English): https://www.dir.ca.gov — **What to look for:** "ABC test".
+- **Employers** (EDD · English): https://edd.ca.gov — **What to look for:** "employer registration".
+- **Minimum wage** (DIR · English): https://www.dir.ca.gov — **What to look for:** "minimum wage".
 
 ### Key words
 
@@ -293,7 +293,7 @@ Figure out how much you keep per product on each channel where you sell.
 
 ### Learn more
 
-- **Form 1099-K** (IRS · English and Spanish): https://www.irs.gov | What to look for: "Form 1099-K".
+- **Form 1099-K** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** "Form 1099-K".
 
 ### Key words
 
@@ -450,7 +450,7 @@ Fill in your dashboard with last month's numbers and choose one decision for thi
 
 ### Learn more
 
-- **No-cost business advice** (SBA · English): https://www.sba.gov | What to look for: "Small Business Development Centers" (SBDC) and SCORE.
+- **No-cost business advice** (SBA · English): https://www.sba.gov — **What to look for:** "Small Business Development Centers" (SBDC) and SCORE.
 
 ### Key words
 
@@ -743,8 +743,8 @@ Fill in your one-page business plan and book a no-cost appointment with an SBDC 
 
 ### Learn more
 
-- **Business counseling** (SBA · English and Spanish): https://www.sba.gov | What to look for: "SBDC", "Women's Business Center" and "SCORE".
-- **Certified CDFIs** (CDFI Fund · English): https://www.cdfifund.gov.
+- **Business counseling** (SBA · English and Spanish): https://www.sba.gov — **What to look for:** "SBDC", "Women's Business Center" and "SCORE".
+- **Certified CDFIs** (CDFI Fund · English): https://www.cdfifund.gov — **What to look for:** the list of certified community lenders in your state.
 
 ### Key words
 
@@ -884,9 +884,9 @@ Set aside 15 minutes a week to check competition, official notices and your cost
 
 ### Learn more
 
-- **Small business taxes** (IRS · English and Spanish): https://www.irs.gov.
-- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi.
-- **Training** (SBA · English and Spanish): https://www.sba.gov.
+- **Small business taxes** (IRS · English and Spanish): https://www.irs.gov — **What to look for:** which forms you file as an owner and the payment dates.
+- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi — **What to look for:** how much prices went up in the last year.
+- **Training** (SBA · English and Spanish): https://www.sba.gov — **What to look for:** business help centers near you (SBDC, SCORE) and their no-cost workshops.
 
 ### Key words
 
@@ -1039,7 +1039,7 @@ Write your advances policy in four rules and check what your state requires to d
 
 ### Learn more
 
-- **Wages and deductions** (U.S. Department of Labor · English and Spanish): https://www.dol.gov/agencies/whd | What to search: "deductions from pay."
+- **Wages and deductions** (U.S. Department of Labor · English and Spanish): https://www.dol.gov/agencies/whd — **What to look for:** "deductions from pay."
 - **Your state** (your state's labor department) | What to search: "wage deductions" and your state's name.
 
 ### Key words

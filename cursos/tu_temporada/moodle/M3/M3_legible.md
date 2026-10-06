@@ -138,7 +138,7 @@ Lleva tu libreta toda una semana y compárala con tu talón.
 
 ### Para saber más
 
-- **Derechos de pago H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a
+- **Derechos de pago H-2A** (DOL · español): https://www.dol.gov/agencies/whd/agriculture/h2a — **Qué buscar:** la garantía de 3/4 de las horas y cómo se calcula tu pago por pieza.
 - **Derechos de trabajadores temporales en Canadá** (Gobierno de Canadá · español): https://www.canada.ca — **Qué buscar:** «Trabajadores extranjeros temporales: sus derechos están protegidos».
 
 ### Palabras clave
@@ -282,7 +282,7 @@ Anota la tarifa de tu contrato y guárdala con tu libreta.
 
 ### Para saber más
 
-- **División de Horas y Salarios** (DOL · español): https://www.dol.gov/agencies/whd/contact | 1-866-487-9243.
+- **División de Horas y Salarios** (DOL · español): https://www.dol.gov/agencies/whd/contact — **Qué buscar:** cómo poner una queja en español; no te preguntan tu situación migratoria; teléfono 1-866-487-9243.
 - **Consulados de México en Canadá** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** «Programa de Trabajadores Agrícolas Temporales».
 
 ### Palabras clave
@@ -429,8 +429,8 @@ Pregunta en tu trabajo por depósito directo o una cuenta y sus comisiones.
 
 ### Para saber más
 
-- **Cuentas en EE. UU.** (Consumer Financial Protection Bureau · español): https://www.consumerfinance.gov/es
-- **Cuentas en Canadá** (Agencia del Consumidor en Materia Financiera de Canadá · inglés y francés): https://www.canada.ca/en/financial-consumer-agency.html
+- **Cuentas en EE. UU.** (Consumer Financial Protection Bureau · español): https://www.consumerfinance.gov/es — **Qué buscar:** cómo elegir una cuenta y qué comisiones revisar antes de abrirla.
+- **Cuentas en Canadá** (Agencia del Consumidor en Materia Financiera de Canadá · inglés y francés): https://www.canada.ca/en/financial-consumer-agency.html — **Qué buscar:** las cuentas básicas de bajo costo y qué documentos piden.
 
 ### Palabras clave
 

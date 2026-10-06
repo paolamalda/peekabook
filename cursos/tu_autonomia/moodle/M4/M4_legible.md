@@ -426,7 +426,7 @@ Si te faltan pocos años para los 65, escribe cómo usarás el nuevo monto.
 
 ### Para saber más
 
-- **Pensión para el Bienestar de las Personas Adultas Mayores** (Secretaría de Bienestar · español): https://programasparaelbienestar.gob.mx
+- **Pensión para el Bienestar de las Personas Adultas Mayores** (Secretaría de Bienestar · español): https://programasparaelbienestar.gob.mx — **Qué buscar:** los requisitos, el monto vigente y dónde registrarte según tu edad.
 
 ### Palabras clave
 

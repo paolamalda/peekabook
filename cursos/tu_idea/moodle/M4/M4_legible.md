@@ -185,7 +185,7 @@ Primero le regresan a Toño lo que puso, poco a poco.
 
 #### Un caso en un minuto
 
-Emilio y Toño escribieron su acuerdo en un documento compartido: primero regresan a Toño sus 1,500 con una parte de la ganancia, y luego reparten mitad y mitad. Si alguien se sale, se lleva su parte de lo que haya.
+Emilio y Toño escribieron su acuerdo en un documento compartido. Primero le regresan a Toño sus 1,500 con una parte de la ganancia. Luego reparten mitad y mitad. Si alguien se sale, se lleva su parte de lo que haya.
 
 > **Idea clave:** si emprendes con amigos, escriban antes quién pone qué, cómo se reparte y qué pasa si alguien se sale.
 
@@ -478,7 +478,7 @@ Formalizarte es registrarte en el SAT con tu RFC, elegir un régimen de impuesto
 
 #### Siendo menor de edad
 
-Mientras seas menor, un negocio pequeño con tus compañeros o vecinos no necesita trámites complicados, pero sí reglas básicas: higiene si vendes comida, no vender productos prohibidos para menores y el permiso de tu escuela si vendes ahí. Para trámites, un adulto te acompaña.
+Mientras seas menor, un negocio pequeño con tus compañeros o vecinos no necesita trámites complicados. Pero sí reglas básicas: higiene si vendes comida y no vender productos prohibidos para menores. Si vendes en tu escuela, pide permiso. Para trámites, un adulto te acompaña.
 
 
 
@@ -486,7 +486,7 @@ Mientras seas menor, un negocio pequeño con tus compañeros o vecinos no necesi
 
 Santi tramitó su RFC con su CURP en el sitio del SAT, eligió el RESICO y aprendió a emitir su factura desde la app. Firmó con la tienda y ahora tiene un cliente fijo.
 
-> **Idea clave:** a los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar; mientras eres menor, cuida higiene, reglas de tu escuela y pide acompañamiento.
+> **Idea clave:** a los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar. Mientras eres menor, cuida la higiene y las reglas de tu escuela, y pide acompañamiento.
 
 
 

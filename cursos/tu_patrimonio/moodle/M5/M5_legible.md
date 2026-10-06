@@ -913,8 +913,8 @@ Pide tu reporte sin costo en una de las dos sociedades y anota la fecha en tu ca
 
 ### Para saber más
 
-- **Reporte de crédito especial** (Buró de Crédito · español): https://www.burodecredito.com.mx.
-- **Reporte de crédito especial** (Círculo de Crédito · español): https://www.circulodecredito.com.mx.
+- **Reporte de crédito especial** (Buró de Crédito · español): https://www.burodecredito.com.mx — **Qué buscar:** cómo pedir tu reporte sin costo una vez al año y cómo levantar una aclaración.
+- **Reporte de crédito especial** (Círculo de Crédito · español): https://www.circulodecredito.com.mx — **Qué buscar:** cómo pedir tu reporte sin costo una vez al año y cómo levantar una aclaración.
 - **Historial crediticio** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «historial crediticio» y «plazos de eliminación».
 
 ### Palabras clave
@@ -1075,7 +1075,7 @@ Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si po
 ### Para saber más
 
 - **Aval y obligado solidario** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «aval» y «obligado solidario».
-- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx.
+- **Quejas contra despachos de cobranza** (CONDUSEF, REDECO · español): https://redeco.condusef.gob.mx — **Qué buscar:** si el despacho está registrado y cómo quejarte si te amenazan o cobran a terceros.
 
 ### Palabras clave
 

@@ -134,8 +134,8 @@ Guarda el teléfono del CONAPRED y de CONDUSEF y la tabla «Si me trataron mal»
 
 ### Para saber más
 
-- **Quejas por discriminación** (CONAPRED · español): https://www.conapred.org.mx | 800 543 0033.
-- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx | 55 5340 0999.
+- **Quejas por discriminación** (CONAPRED · español): https://www.conapred.org.mx — **Qué buscar:** cómo presentar una queja y qué datos del hecho anotar; teléfono 800 543 0033.
+- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** cómo presentar una queja contra un banco o financiera y qué papeles tener a la mano; teléfono 55 5340 0999.
 
 ### Palabras clave
 
@@ -283,7 +283,7 @@ Si tienes algún cobro que no entiendes, haz tu reclamación con folio esta sema
 
 ### Para saber más
 
-- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx | 55 5340 0999.
+- **Reclamaciones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** cómo presentar una queja contra un banco o financiera y qué papeles tener a la mano; teléfono 55 5340 0999.
 
 ### Palabras clave
 

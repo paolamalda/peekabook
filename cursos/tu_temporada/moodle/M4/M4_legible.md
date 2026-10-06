@@ -135,7 +135,7 @@ Compara cuántos pesos llegan: con PROFECO desde EE. UU. o preguntando a dos o t
 
 ### Para saber más
 
-- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx
+- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx — **Qué buscar:** compara cuánto recibe tu familia con cada empresa, no solo la comisión.
 
 ### Palabras clave
 
@@ -426,7 +426,7 @@ Abre o define una cuenta tuya en México solo para el ahorro de la temporada.
 
 ### Para saber más
 
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 - **Declarar dinero al cruzar** (CBP · español): https://www.cbp.gov — **Qué buscar:** «declarar dinero».
 - **Declarar dinero en Canadá** (Agencia de Servicios Fronterizos de Canadá · inglés y francés): https://www.cbsa-asfc.gc.ca — **Qué buscar:** «currency reporting».
 

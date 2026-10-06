@@ -744,7 +744,7 @@ Llena tu plan de negocio en una hoja y agenda una cita sin costo con un SBDC o S
 ### Para saber más
 
 - **Asesoría para negocios** (SBA · inglés y español): https://www.sba.gov — **Qué buscar:** «SBDC», «Women's Business Center» y «SCORE».
-- **CDFI certificadas** (CDFI Fund · inglés): https://www.cdfifund.gov.
+- **CDFI certificadas** (CDFI Fund · inglés): https://www.cdfifund.gov — **Qué buscar:** la lista de instituciones financieras comunitarias certificadas de tu estado.
 
 ### Palabras clave
 
@@ -884,9 +884,9 @@ Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus c
 
 ### Para saber más
 
-- **Impuestos de pequeños negocios** (IRS · inglés y español): https://www.irs.gov/es.
-- **Índice de precios** (BLS · inglés): https://www.bls.gov/cpi.
-- **Capacitación** (SBA · inglés y español): https://www.sba.gov.
+- **Impuestos de pequeños negocios** (IRS · inglés y español): https://www.irs.gov/es — **Qué buscar:** qué formularios te tocan como dueño y las fechas de pago.
+- **Índice de precios** (BLS · inglés): https://www.bls.gov/cpi — **Qué buscar:** cuánto subieron los precios en el último año.
+- **Capacitación** (SBA · inglés y español): https://www.sba.gov — **Qué buscar:** los centros de apoyo para negocios cerca de ti (SBDC, SCORE) y sus talleres sin costo.
 
 ### Palabras clave
 

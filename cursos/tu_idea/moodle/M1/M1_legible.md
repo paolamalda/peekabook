@@ -10,7 +10,7 @@
 
 #### Tres cosas que puedes hacer con el dinero
 
-Puedes **gastarlo** (se va), **guardarlo** (se queda quieto y con el tiempo compra menos) o **ponerlo a trabajar**: en una idea que genere más dinero, en aprender algo que te haga ganar más o en una inversión. Guardar es la base; crear es el siguiente paso.
+Con tu dinero puedes hacer tres cosas. **Gastarlo**: se va. **Guardarlo**: se queda quieto y con el tiempo compra menos. O **ponerlo a trabajar**: en una idea que genere más dinero, en aprender algo que te haga ganar más o en una inversión. Guardar es la base; crear es el siguiente paso.
 
 
 
@@ -217,7 +217,7 @@ Emilio vio que Santi gana casi el doble por hora con una habilidad. Se inscribi�
 | Sin trabajo nocturno ni peligroso | Protege tu salud |
 | Tu escuela va primero | El trabajo no debe impedirte estudiar |
 
-> **Dato vigente:** la Ley Federal del Trabajo permite trabajar a partir de los 15 años, con jornada máxima de 6 horas diarias para menores de 18, sin trabajo nocturno ni en actividades peligrosas. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la STPS.
+> **Dato vigente:** la Ley Federal del Trabajo permite trabajar a partir de los 15 años. Si tienes menos de 18, la jornada máxima es de 6 horas diarias, sin trabajo nocturno ni actividades peligrosas. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la STPS.
 
 
 
@@ -337,7 +337,7 @@ En un año: 9,504, casi tres pares de tenis.
 
 Naomi puso una regla: si algo le gusta, lo guarda en su lista 7 días. Si lo sigue queriendo y le alcanza, lo compra. La mitad de las cosas ya no las quiso.
 
-> **Idea clave:** si alguien gana cuando compras, su opinión no es neutral; espera antes de comprar y decide tú, no la presión ni el «solo hoy».
+> **Idea clave:** si alguien gana cuando compras, su opinión no es neutral. Espera antes de comprar y decide tú, no la presión ni el «solo hoy».
 
 
 
@@ -482,7 +482,7 @@ Un presupuesto es tu mapa: cuánto te entra al mes y a dónde va. Sin mapa, el d
 - Le entra al mes: **4,550**
 Aparta 10% para guardar (455) y 20% para crear (910).
 
-> **Dato vigente:** la Beca Benito Juárez para estudiantes de preparatoria pública da 1,900 pesos cada dos meses, en cinco depósitos al año, en una tarjeta del Banco del Bienestar. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
+> **Dato vigente:** la Beca Benito Juárez para estudiantes de preparatoria pública da 1,900 pesos cada dos meses. Son cinco depósitos al año, en una tarjeta del Banco del Bienestar. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
 
 
 #### Un caso en un minuto

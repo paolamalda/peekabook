@@ -132,9 +132,9 @@ Check your health insurance options and write down the date of the next open enr
 
 ### Learn more
 
-- **Covered California** (English and Spanish): https://www.coveredca.com | What to look for: "self-employed".
-- **Medi-Cal** (DHCS · English): https://www.dhcs.ca.gov | What to look for: "Medi-Cal".
-- **Health insurance marketplace** (HealthCare.gov · English): https://www.healthcare.gov.
+- **Covered California** (English and Spanish): https://www.coveredca.com — **What to look for:** "self-employed".
+- **Medi-Cal** (DHCS · English): https://www.dhcs.ca.gov — **What to look for:** "Medi-Cal".
+- **Health insurance marketplace** (HealthCare.gov · English): https://www.healthcare.gov — **What to look for:** enrollment dates and whether you qualify for help with the monthly cost.
 
 ### Key words
 
@@ -287,8 +287,8 @@ Fill in your risk table and get quotes on at least two policies for what you cou
 
 ### Learn more
 
-- **Business insurance** (SBA · English): https://www.sba.gov | What to look for: "business insurance".
-- **Check agents** (California Department of Insurance · English and Spanish): https://www.insurance.ca.gov | What to look for: "check a license".
+- **Business insurance** (SBA · English): https://www.sba.gov — **What to look for:** "business insurance".
+- **Check agents** (California Department of Insurance · English and Spanish): https://www.insurance.ca.gov — **What to look for:** "check a license".
 
 ### Key words
 
@@ -436,9 +436,9 @@ Turn on two-step verification on your email and write your anti-scam plan.
 
 ### Learn more
 
-- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov.
-- **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov.
-- **California businesses** (Secretary of State · English): https://bizfileonline.sos.ca.gov | What to look for: your business.
+- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov — **What to look for:** how to report and what to do next for each type of scam.
+- **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov — **What to look for:** the step-by-step plan for what was stolen, and sample letters.
+- **California businesses** (Secretary of State · English): https://bizfileonline.sos.ca.gov — **What to look for:** your business.
 
 ### Key words
 
@@ -592,8 +592,8 @@ Search your business name at the USPTO and in your state's registry.
 
 ### Learn more
 
-- **Trademark search** (USPTO · English): https://www.uspto.gov | What to look for: "trademark search".
-- **California trademarks** (Secretary of State · English): https://www.sos.ca.gov | What to look for: "trademarks".
+- **Trademark search** (USPTO · English): https://www.uspto.gov — **What to look for:** "trademark search".
+- **California trademarks** (Secretary of State · English): https://www.sos.ca.gov — **What to look for:** "trademarks".
 
 ### Key words
 
@@ -753,10 +753,10 @@ This week freeze your credit at all three bureaus, check your reports and regist
 
 ### Learn more
 
-- **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov.
-- **Credit freezes and fraud alerts** (FTC · English): https://consumer.ftc.gov | What to look for: "credit freeze".
-- **No-cost credit reports** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
-- **Do Not Call Registry** (FTC · English and Spanish): https://www.donotcall.gov.
+- **Identity theft** (FTC · English and Spanish): https://www.identitytheft.gov — **What to look for:** the step-by-step plan for what was stolen, and sample letters.
+- **Credit freezes and fraud alerts** (FTC · English): https://consumer.ftc.gov — **What to look for:** "credit freeze".
+- **No-cost credit reports** (AnnualCreditReport.com · English): https://www.annualcreditreport.com — **What to look for:** the official site to get your no-cost reports from the three agencies.
+- **Do Not Call Registry** (FTC · English and Spanish): https://www.donotcall.gov — **What to look for:** how to add your number and report calls that keep coming.
 
 ### Key words
 
@@ -897,8 +897,8 @@ This week agree on a code word with your family and post your only payment metho
 
 ### Learn more
 
-- **Voice cloning scams** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "voice cloning".
-- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov.
+- **Voice cloning scams** (FTC · English and Spanish): https://consumer.ftc.gov — **What to look for:** "voice cloning".
+- **Report fraud** (FTC · English and Spanish): https://reportfraud.ftc.gov — **What to look for:** how to report and what to do next for each type of scam.
 
 ### Key words
 
@@ -1039,9 +1039,9 @@ This week take photos of your equipment and inventory, back them up and ask what
 
 ### Learn more
 
-- **Disaster assistance** (FEMA · English and Spanish): https://www.disasterassistance.gov.
-- **Disaster loans** (SBA · English): https://www.sba.gov | What to look for: "disaster assistance".
-- **Disaster tax relief** (IRS · English): https://www.irs.gov | What to look for: "disaster relief".
+- **Disaster assistance** (FEMA · English and Spanish): https://www.disasterassistance.gov — **What to look for:** whether your area has a disaster declaration and how to apply.
+- **Disaster loans** (SBA · English): https://www.sba.gov — **What to look for:** "disaster assistance".
+- **Disaster tax relief** (IRS · English): https://www.irs.gov — **What to look for:** "disaster relief".
 
 ### Key words
 

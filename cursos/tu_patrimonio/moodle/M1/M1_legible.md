@@ -785,7 +785,7 @@ Haz tu tabla de pagos que se repiten y no agregues uno nuevo hasta terminar uno.
 
 ### Para saber más
 
-- **Quién es quién en los precios** (Profeco · español): https://www.gob.mx/profeco.
+- **Quién es quién en los precios** (Profeco · español): https://www.gob.mx/profeco — **Qué buscar:** compara precios de productos básicos en tu ciudad.
 - **Meses sin intereses** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «meses sin intereses».
 
 ### Palabras clave

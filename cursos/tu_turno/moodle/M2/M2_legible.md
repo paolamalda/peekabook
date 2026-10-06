@@ -874,7 +874,7 @@ Si ya tienes tu fondo de emergencia, entra a Cetesdirecto desde el sitio oficial
 
 ### Para saber más
 
-- **Cetesdirecto** (Gobierno de México · español): https://www.cetesdirecto.com.
+- **Cetesdirecto** (Gobierno de México · español): https://www.cetesdirecto.com — **Qué buscar:** cómo abrir tu cuenta desde 100 pesos sin intermediarios.
 - **Padrón de entidades** (CNBV · español): https://www.gob.mx/cnbv — **Qué buscar:** «padrón de entidades supervisadas».
 - **Inversiones** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «invertir» y «fraudes de inversión».
 

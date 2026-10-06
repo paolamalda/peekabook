@@ -2477,8 +2477,8 @@ If you pay or receive child support, gather this year's receipts in a folder or 
 
 ### Learn more
 
-- **Child support** (Administration for Children and Families · English and Spanish): https://www.acf.hhs.gov/css | What to search: "state child support agency."
-- **Your consulate** (SRE · Spanish): https://consulmex.sre.gob.mx | What to search: "protección" and "pensión alimenticia."
+- **Child support** (Administration for Children and Families · English and Spanish): https://www.acf.hhs.gov/css — **What to look for:** "state child support agency."
+- **Your consulate** (SRE · Spanish): https://consulmex.sre.gob.mx — **What to look for:** "protección" and "pensión alimenticia."
 
 ### Key words
 

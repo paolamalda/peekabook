@@ -130,7 +130,7 @@ Platica con quien te manda dinero para que lo mande directo a tu cuenta.
 
 ### Para saber más
 
-- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx
+- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx — **Qué buscar:** compara cuánto recibe tu familia con cada empresa, no solo la comisión.
 
 ### Palabras clave
 

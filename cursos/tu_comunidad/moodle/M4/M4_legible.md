@@ -279,7 +279,7 @@ Platiquen en su grupo dónde guardan el dinero y si necesitan una cuenta con dos
 
 ### Para saber más
 
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 - **Ahorro en grupo** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «grupos de ahorro».
 
 ### Palabras clave

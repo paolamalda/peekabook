@@ -137,7 +137,7 @@ If you're thinking of borrowing, fill in the table with an expected and a cautio
 
 ### Learn more
 
-- **Business loans** (SBA · English): https://www.sba.gov | What to look for: "loans".
+- **Business loans** (SBA · English): https://www.sba.gov — **What to look for:** "loans".
 
 ### Key words
 
@@ -287,9 +287,9 @@ Look for a credit union or CDFI in your area and ask what they offer small busin
 
 ### Learn more
 
-- **Microloans** (SBA · English): https://www.sba.gov | What to look for: "microloans".
-- **Check a license** (DFPI · English): https://dfpi.ca.gov | What to look for: "search licensees".
-- **CDFIs** (CDFI Fund · English): https://www.cdfifund.gov | What to look for: "CDFI locator".
+- **Microloans** (SBA · English): https://www.sba.gov — **What to look for:** "microloans".
+- **Check a license** (DFPI · English): https://dfpi.ca.gov — **What to look for:** "search licensees".
+- **CDFIs** (CDFI Fund · English): https://www.cdfifund.gov — **What to look for:** "CDFI locator".
 
 ### Key words
 
@@ -450,8 +450,8 @@ If you have a credit offer, ask for the APR and total repayment in writing and f
 
 ### Learn more
 
-- **Small business lending** (CFPB · English): https://www.consumerfinance.gov | What to look for: "small business lending".
-- **Commercial financing disclosures** (DFPI · English): https://dfpi.ca.gov | What to look for: "commercial financing disclosures".
+- **Small business lending** (CFPB · English): https://www.consumerfinance.gov — **What to look for:** "small business lending".
+- **Commercial financing disclosures** (DFPI · English): https://dfpi.ca.gov — **What to look for:** "commercial financing disclosures".
 
 ### Key words
 
@@ -601,8 +601,8 @@ List the debts you used for the business and make a plan to pay them off.
 
 ### Learn more
 
-- **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "cosigning a loan".
-- **No-cost credit report** (AnnualCreditReport.com · English): https://www.annualcreditreport.com.
+- **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov — **What to look for:** "cosigning a loan".
+- **No-cost credit report** (AnnualCreditReport.com · English): https://www.annualcreditreport.com — **What to look for:** the official site to get your no-cost reports from the three agencies.
 
 ### Key words
 
@@ -761,8 +761,8 @@ Before signing for someone or for your business, ask what role you have and deci
 
 ### Learn more
 
-- **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov | What to look for: "cosigning a loan".
-- **Debt collection and complaints** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to look for: "debt collection" and "submit a complaint".
+- **Cosigning a loan** (FTC · English and Spanish): https://consumer.ftc.gov — **What to look for:** "cosigning a loan".
+- **Debt collection and complaints** (CFPB · English and Spanish): https://www.consumerfinance.gov — **What to look for:** "debt collection" and "submit a complaint".
 
 ### Key words
 

@@ -428,7 +428,7 @@ Guarda el teléfono de la PROFEDET y empieza tu carpeta de capturas.
 
 ### Para saber más
 
-- **PROFEDET** (Gobierno de México · español): https://www.gob.mx/profedet | 800 911 7877.
+- **PROFEDET** (Gobierno de México · español): https://www.gob.mx/profedet — **Qué buscar:** cómo pedir asesoría laboral sin costo por teléfono o en línea; teléfono 800 911 7877.
 - **Centros de Conciliación Laboral** de tu estado — **Qué buscar:** «centro de conciliación laboral» y tu estado.
 
 ### Palabras clave

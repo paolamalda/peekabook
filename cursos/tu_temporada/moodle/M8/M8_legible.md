@@ -132,7 +132,7 @@ Localiza tu Afore, decide cuánto aportarás cada mes de temporada y guarda tus 
 
 ### Para saber más
 
-- **AforeMóvil** (CONSAR · español): https://www.gob.mx/consar
+- **AforeMóvil** (CONSAR · español): https://www.gob.mx/consar — **Qué buscar:** cómo descargar la app, ver tu Afore y hacer aportaciones voluntarias.
 - **Convenio de seguridad social México-Canadá** (Gobierno de Canadá · inglés y francés): https://www.canada.ca — **Qué buscar:** «Agreement on Social Security Mexico».
 
 ### Palabras clave

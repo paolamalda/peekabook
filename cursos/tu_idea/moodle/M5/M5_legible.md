@@ -34,7 +34,7 @@ Con 700 a la semana que gana, aparta 350 cada semana.
 
 Naomi puso un apartado en su app llamado «Tableta para dibujar: 5,000 en 8 meses». Cada vez que le llega dinero, aparta primero 625. Ya lleva la mitad.
 
-> **Idea clave:** ponle nombre, monto y fecha a tu meta, divide entre el tiempo y aparta el mismo día que recibes dinero; empieza por un pequeño fondo para imprevistos.
+> **Idea clave:** ponle nombre, monto y fecha a tu meta. Divide entre el tiempo y aparta el mismo día que recibes dinero. Empieza por un pequeño fondo para imprevistos.
 
 
 
@@ -335,7 +335,7 @@ Cetesdirecto es la plataforma del gobierno para invertir en bonos desde 100 peso
 
 #### Un caso en un minuto
 
-Valeria dejó 2,000 en su negocio (su inversión de mayor riesgo) y, con su mamá, abrió una cuenta de Cetesdirecto a nombre de ella para invertir 1,000 a su favor. Cuando cumpla 18 abrirá la suya.
+Valeria dejó 2,000 en su negocio, su inversión de mayor riesgo. Con su mamá, abrió una cuenta de Cetesdirecto a nombre de ella para invertir 1,000 a su favor. Cuando cumpla 18 abrirá la suya.
 
 > **Idea clave:** a más rendimiento, más riesgo; reparte tu dinero, invierte solo en instituciones reguladas y desconfía de ganancias «seguras y altísimas».
 
@@ -474,7 +474,7 @@ Las criptomonedas suben y bajan muchísimo en días. No están respaldadas por u
 
 #### «Hazte rico rápido»
 
-Videos con autos y dinero, cursos caros para «vivir del trading», grupos que prometen señales seguras o que pagan por invitar amigos: casi siempre ganan ellos con tu dinero. Si ganas por meter gente, es una pirámide.
+Cuidado con videos con autos y dinero, cursos caros para «vivir del trading» y grupos que prometen señales seguras o pagan por invitar amigos. Casi siempre ganan ellos con tu dinero. Si ganas por meter gente, es una pirámide.
 
 
 

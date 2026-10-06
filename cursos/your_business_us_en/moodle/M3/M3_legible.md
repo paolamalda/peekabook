@@ -144,7 +144,7 @@ Build your calendar for the next four weeks and mark the risky weeks.
 
 ### Learn more
 
-- **Manage your finances** (SBA · English): https://www.sba.gov | What to look for: "manage your finances" and "cash flow".
+- **Manage your finances** (SBA · English): https://www.sba.gov — **What to look for:** "manage your finances" and "cash flow".
 
 ### Key words
 
@@ -299,7 +299,7 @@ Write your customer credit rules and list who owes you today.
 
 ### Learn more
 
-- **Small claims** (California Courts · English and Spanish): https://www.courts.ca.gov | What to look for: "small claims".
+- **Small claims** (California Courts · English and Spanish): https://www.courts.ca.gov — **What to look for:** "small claims".
 
 ### Key words
 
@@ -455,7 +455,7 @@ Set your reserve goal and the percentage of each sale you'll set aside starting 
 
 ### Learn more
 
-- **Savings and deposit insurance** (FDIC · English): https://www.fdic.gov | What to look for: "deposit insurance".
+- **Savings and deposit insurance** (FDIC · English): https://www.fdic.gov — **What to look for:** "deposit insurance".
 
 ### Key words
 
@@ -612,8 +612,8 @@ Write down the cost of your five best-selling items and check it again in three 
 
 ### Learn more
 
-- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi.
-- **Monetary policy** (Federal Reserve · English): https://www.federalreserve.gov | What to look for: "inflation target".
+- **Consumer Price Index** (BLS · English): https://www.bls.gov/cpi — **What to look for:** how much prices went up in the last year.
+- **Monetary policy** (Federal Reserve · English): https://www.federalreserve.gov — **What to look for:** "inflation target".
 
 ### Key words
 

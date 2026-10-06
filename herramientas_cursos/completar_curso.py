@@ -219,7 +219,7 @@ def escribir_apoyo(D, cfg, lecs, en, forzar):
             nom, inst, resto = mm.groups()
             inst = re.split(r"\s*·\s*", inst)[0]
             if inst == "Desarrolla Talento": continue
-            url, _, busca = resto.partition("| Qué buscar:")
+            url, _, busca = resto.replace("| What to look for:", "| Qué buscar:").partition("| Qué buscar:")
             key = (nom.lower(), inst.lower())
             if key in R: R[key][3].append(cod); continue
             R[key] = [nom, inst, url.strip().rstrip("."), [cod], busca.strip().rstrip(".")]

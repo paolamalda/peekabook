@@ -129,7 +129,7 @@ Revisen juntos, tú y quien te manda dinero, el comparador de PROFECO con su ciu
 
 ### Para saber más
 
-- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx
+- **Quién es Quién en el Envío de Dinero** (PROFECO · español): https://qqed.profeco.gob.mx — **Qué buscar:** compara cuánto recibe tu familia con cada empresa, no solo la comisión.
 
 ### Palabras clave
 

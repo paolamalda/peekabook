@@ -35,7 +35,7 @@ Estudiar en una escuela pública con beca y seguir reparando le permite las dos 
 
 Santi eligió una carrera técnica en programación en una escuela pública, pidió una beca y sigue con sus reparaciones los sábados. Su meta: poner un servicio de reparación y desarrollo de apps.
 
-> **Idea clave:** estudiar, trabajar y emprender se pueden combinar; compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
+> **Idea clave:** estudiar, trabajar y emprender se pueden combinar. Compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
 
 
 
@@ -72,7 +72,7 @@ Santi eligió una carrera técnica en programación en una escuela pública, pid
 
 #### Si ni estudias ni trabajas a los 18
 
-Jóvenes Construyendo el Futuro te capacita en un centro de trabajo con apoyo mensual y seguro del IMSS por hasta 12 meses, de los 18 a los 29 años.
+Jóvenes Construyendo el Futuro te capacita en un centro de trabajo, de los 18 a los 29 años. Te da apoyo mensual y seguro del IMSS por hasta 12 meses.
 
 
 
@@ -176,7 +176,7 @@ Puede parecer que ganas más, pero pierdes seguro médico, incapacidades, semana
 
 #### Tu Afore desde joven
 
-Cuando tengas trabajo formal, se abre tu Afore. Revisa cuál es, nombra beneficiarios y, si puedes, aporta un poco más: por el interés compuesto, lo que pones a los 18 vale mucho más a los 60.
+Cuando tengas trabajo formal, se abre tu Afore. Revisa cuál es, nombra beneficiarios y, si puedes, aporta un poco más. Por el interés compuesto, lo que pones a los 18 vale mucho más a los 60.
 
 > **Dato vigente:** el salario mínimo general 2026 es de 315.04 pesos diarios; con el salario mínimo no se retiene ISR. Consultado el 30 de septiembre de 2026 a través de la CONASAMI y la Ley del ISR.
 
@@ -223,7 +223,7 @@ Emilio comparó: la tienda formal le daba IMSS, aguinaldo y Afore. Eligió el tr
 
 #### Si algo no está bien
 
-Si no te pagan, te despiden sin razón o te piden trabajar horas sin pago, pide orientación sin costo en la PROFEDET o en la procuraduría del trabajo de tu estado.
+Si no te pagan, te despiden sin razón o te piden trabajar horas sin pago, pide orientación sin costo. Puedes ir a la PROFEDET o a la procuraduría del trabajo de tu estado.
 
 
 

@@ -98,6 +98,8 @@ In each module section:
 
 In section {sec_sup}, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
+Below it, create the book **`Go deeper`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` ({nm + 1} chapters: "How to go deeper" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
+
 In the same section {sec_sup}, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal{herr}. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
 ## 5. Glossary

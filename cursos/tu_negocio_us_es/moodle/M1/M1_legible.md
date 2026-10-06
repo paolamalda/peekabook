@@ -899,7 +899,7 @@ Haz la lista de tus habilidades y revisa que tu cuenta y tus cobros del negocio 
 
 ### Para saber más
 
-- **Línea Nacional sobre la Violencia Doméstica** (inglés y español): 1-800-799-7233 · https://espanol.thehotline.org.
+- **Línea Nacional sobre la Violencia Doméstica** (inglés y español): https://espanol.thehotline.org — **Qué buscar:** cómo hablar o chatear en español, a cualquier hora y de forma confidencial; teléfono 1-800-799-7233.
 - **Abuso económico** (CFPB · español e inglés): https://www.consumerfinance.gov — **Qué buscar:** «abuso económico».
 
 ### Palabras clave

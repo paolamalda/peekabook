@@ -134,7 +134,7 @@ Revisa tus opciones de seguro médico y apunta la fecha de la próxima inscripci
 
 - **Covered California** (español): https://www.coveredca.com/espanol — **Qué buscar:** «trabajadores por cuenta propia».
 - **Medi-Cal** (DHCS · español): https://www.dhcs.ca.gov — **Qué buscar:** «Medi-Cal».
-- **Mercado de seguros** (HealthCare.gov · español): https://www.cuidadodesalud.gov.
+- **Mercado de seguros** (HealthCare.gov · español): https://www.cuidadodesalud.gov — **Qué buscar:** las fechas de inscripción y si calificas para ayuda con la cuota mensual.
 
 ### Palabras clave
 
@@ -436,8 +436,8 @@ Activa la autenticación en dos pasos en tu correo y escribe tu protocolo contra
 
 ### Para saber más
 
-- **Reporta un fraude** (FTC · español): https://reportefraude.ftc.gov.
-- **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov.
+- **Reporta un fraude** (FTC · español): https://reportefraude.ftc.gov — **Qué buscar:** cómo reportar en español y qué hacer después según el tipo de fraude.
+- **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov — **Qué buscar:** el plan de pasos según lo que robaron y las cartas modelo.
 - **Negocios de California** (Secretary of State · inglés): https://bizfileonline.sos.ca.gov — **Qué buscar:** tu negocio.
 
 ### Palabras clave
@@ -753,10 +753,10 @@ Esta semana congela tu crédito en las tres agencias, revisa tus reportes y regi
 
 ### Para saber más
 
-- **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov.
+- **Robo de identidad** (FTC · español): https://www.robodeidentidad.gov — **Qué buscar:** el plan de pasos según lo que robaron y las cartas modelo.
 - **Congelamiento y alertas de fraude** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «congelamiento de crédito».
-- **Reportes de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
-- **Registro No Llame** (FTC · español): https://www.donotcall.gov/es.
+- **Reportes de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com — **Qué buscar:** el sitio oficial para pedir tus reportes sin costo de las tres agencias.
+- **Registro No Llame** (FTC · español): https://www.donotcall.gov/es — **Qué buscar:** cómo inscribir tu número y reportar llamadas que siguen.
 
 ### Palabras clave
 
@@ -898,7 +898,7 @@ Esta semana acuerda una palabra clave con tu familia y escribe en tus redes cuá
 ### Para saber más
 
 - **Estafas con voz clonada** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «clonación de voz».
-- **Reporta un fraude** (FTC · español): https://reportefraude.ftc.gov.
+- **Reporta un fraude** (FTC · español): https://reportefraude.ftc.gov — **Qué buscar:** cómo reportar en español y qué hacer después según el tipo de fraude.
 
 ### Palabras clave
 
@@ -1039,7 +1039,7 @@ Esta semana toma fotos de tu equipo e inventario, respáldalas y pregunta qué c
 
 ### Para saber más
 
-- **Asistencia por desastre** (FEMA · español): https://www.disasterassistance.gov/es.
+- **Asistencia por desastre** (FEMA · español): https://www.disasterassistance.gov/es — **Qué buscar:** si tu zona tiene una declaración de desastre y cómo pedir ayuda.
 - **Préstamos por desastre** (SBA · español): https://www.sba.gov/es — **Qué buscar:** «asistencia por desastre».
 - **Alivio tributario por desastre** (IRS · español): https://www.irs.gov/es — **Qué buscar:** «alivio por desastre».
 

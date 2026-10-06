@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Encontrar ideas de negocio a partir de problemas reales de las personas a tu alrededor y de lo que sabes hacer.
 
-**Para empezar:** Santi quería «poner un negocio», pero no sabía de qué. Un día notó que en su salón a tres compañeros se les rompió la pantalla del celular en una semana y nadie sabía dónde repararla barato. En esta lección buscarás tu idea.
+**Para empezar:** Santi quería «poner un negocio», pero no sabía de qué. Un día notó algo en su salón: a tres compañeros se les rompió la pantalla del celular en una semana. Nadie sabía dónde repararla barato. En esta lección buscarás tu idea.
 
 ### Lo esencial (5 minutos)
 
@@ -336,7 +336,7 @@ Si lo vende a 30, gana 11 por postre.
 
 Valeria calculó su costo de 19, vio que en la escuela venden postres parecidos a 35 y subió su precio a 33. Con las mismas ventas ahora gana 14 por postre.
 
-> **Idea clave:** calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia; vender mucho no sirve si no ganas.
+> **Idea clave:** calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia. Vender mucho no sirve si no ganas.
 
 
 
@@ -486,7 +486,7 @@ Un cliente contento vuelve y te recomienda. Cumple lo que prometes, responde rá
 
 Naomi puso en su perfil: «Pedidos por mensaje, pago por transferencia, entregas en la plaza con mi mamá». No fió a nadie. Tres clientes volvieron el mes siguiente.
 
-> **Idea clave:** vende con buena foto y precio claro, cobra antes o al entregar, entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
+> **Idea clave:** vende con buena foto y precio claro, y cobra antes o al entregar. Entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
 
 
 
@@ -636,7 +636,7 @@ Desde la reparación 31, gana.
 
 Santi abrió un apartado en su app solo para el negocio. Cada viernes se paga 300 de sueldo y lo demás lo usa para piezas. En 5 semanas recuperó sus herramientas.
 
-> **Idea clave:** calcula cuántas ventas necesitas para recuperar lo invertido y separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
+> **Idea clave:** calcula cuántas ventas necesitas para recuperar lo invertido. Separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
 
 
 

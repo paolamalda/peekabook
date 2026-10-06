@@ -129,8 +129,8 @@ Guarda tu W-2 y pregunta en el consulado dónde orientarte sin costo.
 
 ### Para saber más
 
-- **Trabajadores agrícolas extranjeros** (IRS · inglés): https://www.irs.gov/individuals/international-taxpayers/foreign-agricultural-workers
-- **IRS en español:** https://www.irs.gov/es
+- **Trabajadores agrícolas extranjeros** (IRS · inglés): https://www.irs.gov/individuals/international-taxpayers/foreign-agricultural-workers — **Qué buscar:** qué impuestos te retienen con la visa H-2A y cómo declarar.
+- **IRS en español** (IRS · español): https://www.irs.gov/es — **Qué buscar:** las guías en español y cómo pedir una copia de tus declaraciones.
 
 ### Palabras clave
 
@@ -274,7 +274,7 @@ Guarda tu T4 y tu SIN y pregunta en el consulado dónde declarar sin costo.
 ### Para saber más
 
 - **Impuestos para trabajadores temporales** (Agencia de Ingresos de Canadá · inglés y francés): https://www.canada.ca/en/revenue-agency.html — **Qué buscar:** «seasonal agricultural workers».
-- **Consulados de México en Canadá** (SRE · español): https://consulmex.sre.gob.mx
+- **Consulados de México en Canadá** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** el consulado de tu provincia y su teléfono de protección.
 
 ### Palabras clave
 

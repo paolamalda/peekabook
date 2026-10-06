@@ -134,8 +134,8 @@ Llena la tabla de tus bienes y averigua a nombre de quién está cada uno.
 
 ### Para saber más
 
-- **Registro Agrario Nacional** (RAN · español): https://www.gob.mx/ran
-- **Defensoría pública** (Instituto Federal de Defensoría Pública · español): https://www.ifdp.cjf.gob.mx
+- **Registro Agrario Nacional** (RAN · español): https://www.gob.mx/ran — **Qué buscar:** cómo consultar a nombre de quién está la parcela y los trámites del ejido.
+- **Defensoría pública** (Instituto Federal de Defensoría Pública · español): https://www.ifdp.cjf.gob.mx — **Qué buscar:** la oficina más cercana y en qué casos te asesoran sin costo.
 
 ### Palabras clave
 
@@ -284,7 +284,7 @@ Llena tu tabla de herencia y marca qué harás primero.
 ### Para saber más
 
 - **Mes del testamento** (Gobierno de México · español): https://www.gob.mx — **Qué buscar:** «mes del testamento».
-- **Lista de sucesión** (RAN · español): https://www.gob.mx/ran
+- **Lista de sucesión** (RAN · español): https://www.gob.mx/ran — **Qué buscar:** cómo registrar o cambiar tu lista de sucesión de la parcela.
 
 ### Palabras clave
 

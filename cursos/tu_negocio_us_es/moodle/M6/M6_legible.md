@@ -604,7 +604,7 @@ Haz una lista de las deudas que usaste para el negocio y un plan para pagarlas.
 ### Para saber más
 
 - **Cofirmar un préstamo** (FTC · español): https://consumidor.ftc.gov — **Qué buscar:** «cofirmar un préstamo».
-- **Reporte de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com.
+- **Reporte de crédito sin costo** (AnnualCreditReport.com · inglés): https://www.annualcreditreport.com — **Qué buscar:** el sitio oficial para pedir tus reportes sin costo de las tres agencias.
 
 ### Palabras clave
 

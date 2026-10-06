@@ -141,7 +141,7 @@ List your monthly costs, split them into fixed and variable and figure out the c
 
 ### Learn more
 
-- **Calculate your startup costs** (SBA · English): https://www.sba.gov | What to look for: "calculate your startup costs".
+- **Calculate your startup costs** (SBA · English): https://www.sba.gov — **What to look for:** "calculate your startup costs".
 
 ### Key words
 
@@ -293,7 +293,7 @@ Check the price of your main product: does it cover your cost and leave a margin
 
 ### Learn more
 
-- **Pricing** (SBA · English): https://www.sba.gov | What to look for: "pricing".
+- **Pricing** (SBA · English): https://www.sba.gov — **What to look for:** "pricing".
 
 ### Key words
 
@@ -446,7 +446,7 @@ Calculate your break-even point and write your daily sales target where you can 
 
 ### Learn more
 
-- **Break-even point** (SBA · English): https://www.sba.gov | What to look for: "break-even point".
+- **Break-even point** (SBA · English): https://www.sba.gov — **What to look for:** "break-even point".
 
 ### Key words
 
@@ -601,7 +601,7 @@ This week, write down what you throw out or don't sell and decide what to stop b
 
 ### Learn more
 
-- **Cost of goods sold** (IRS · English): https://www.irs.gov | What to look for: "cost of goods sold".
+- **Cost of goods sold** (IRS · English): https://www.irs.gov — **What to look for:** "cost of goods sold".
 
 ### Key words
 

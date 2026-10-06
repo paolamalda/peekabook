@@ -923,9 +923,9 @@ Busca tu escritura, tu último recibo de predial y el seguro de tu crédito, y g
 
 ### Para saber más
 
-- **Saldo y trámites de vivienda** (Infonavit · español): https://micuenta.infonavit.org.mx.
-- **Vivienda para trabajadores del Estado** (Fovissste · español): https://www.gob.mx/fovissste.
-- **Notarías y escrituras** (Colegio Nacional del Notariado Mexicano · español): https://www.notariadomexicano.org.mx.
+- **Saldo y trámites de vivienda** (Infonavit · español): https://micuenta.infonavit.org.mx — **Qué buscar:** tu saldo, tus puntos y si ya puedes precalificar para un crédito.
+- **Vivienda para trabajadores del Estado** (Fovissste · español): https://www.gob.mx/fovissste — **Qué buscar:** tu saldo y los tipos de crédito para trabajadores del Estado.
+- **Notarías y escrituras** (Colegio Nacional del Notariado Mexicano · español): https://www.notariadomexicano.org.mx — **Qué buscar:** el colegio de notarios de tu estado y los programas de escrituración a bajo costo.
 
 ### Palabras clave
 

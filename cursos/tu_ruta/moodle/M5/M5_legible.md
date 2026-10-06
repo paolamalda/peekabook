@@ -282,7 +282,7 @@ Revisa tu póliza actual y lo que cubre tu plataforma.
 ### Para saber más
 
 - **Seguros de auto** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de auto».
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 
 ### Palabras clave
 

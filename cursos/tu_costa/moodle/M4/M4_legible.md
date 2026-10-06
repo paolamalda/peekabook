@@ -276,7 +276,7 @@ Si piensas asegurar tu casa, pide dos cotizaciones con las cuatro preguntas resp
 ### Para saber más
 
 - **Seguros de vivienda** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «seguro de casa habitación».
-- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES
+- **SIPRES** (CONDUSEF · español): https://webapps.condusef.gob.mx/SIPRES — **Qué buscar:** escribe el nombre de la institución y revisa que aparezca como autorizada y para qué productos.
 
 ### Palabras clave
 

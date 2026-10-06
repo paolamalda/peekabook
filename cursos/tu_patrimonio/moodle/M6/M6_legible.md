@@ -920,7 +920,7 @@ Guarda en tu carpeta los sitios oficiales que consultarás antes de creer una no
 
 ### Para saber más
 
-- **Política monetaria e inflación** (Banco de México · español): https://www.banxico.org.mx.
+- **Política monetaria e inflación** (Banco de México · español): https://www.banxico.org.mx — **Qué buscar:** la inflación anual más reciente y la tasa de interés de referencia.
 - **Alertas y orientación** (CONDUSEF · español): https://www.condusef.gob.mx — **Qué buscar:** «alertas».
 
 ### Palabras clave

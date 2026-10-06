@@ -2355,8 +2355,8 @@ If you use an advance app, review last month's transactions and add up everythin
 
 ### Learn more
 
-- **Payday loans and advances** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to search: "payday loans."
-- **Nonprofit credit counseling** (NFCC · English and Spanish): https://www.nfcc.org | What to search: "credit counseling."
+- **Payday loans and advances** (CFPB · English and Spanish): https://www.consumerfinance.gov — **What to look for:** "payday loans."
+- **Nonprofit credit counseling** (NFCC · English and Spanish): https://www.nfcc.org — **What to look for:** "credit counseling."
 
 ### Key words
 
@@ -2513,7 +2513,7 @@ Write three options in your plan for an emergency before pawning: your fund, a p
 
 ### Learn more
 
-- **Consumer protection** (CFPB · English and Spanish): https://www.consumerfinance.gov | What to search: "small-dollar loans."
+- **Consumer protection** (CFPB · English and Spanish): https://www.consumerfinance.gov — **What to look for:** "small-dollar loans."
 - **Your state's licenses** (your state's financial regulator · English) | What to search: "pawnbroker license" and your state's name.
 
 ### Key words
