@@ -5,8 +5,8 @@ Three surveys with the same core questions to measure change: **start** (before 
 | Survey | File | Questions |
 |---|---|---|
 | Start | `survey_start.xml` | 22 |
-| Final | `survey_final.xml` | 24 |
-| Follow-up | `survey_follow_up.xml` | 20 |
+| Final | `survey_final.xml` | 26 |
+| Follow-up | `survey_follow_up.xml` | 22 |
 
 ## Financial well-being index
 
@@ -182,6 +182,16 @@ Average of the points from P1 to P8 (0 to 100). 0 to 39: at risk · 40 to 79: fr
 - 10
 
 **F4.** What was most useful and what would you improve? (optional)
+- Open answer
+
+## Use of programs and guidance (final and follow-up)
+
+**U1.** Did you use any government program or no-cost guidance service you saw in the course?
+- Yes
+- Not yet, but I plan to
+- No
+
+**U2.** Which one or ones? (optional; don't write personal data)
 - Open answer
 
 ## Privacy

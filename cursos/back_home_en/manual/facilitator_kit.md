@@ -19,6 +19,25 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - 089 (anonymous reports, including extortion)
 - 911 (emergencies and violence)
 
+## How to refer people
+
+Your role is to point people to the right place, not to solve the case. Listen, don't ask for personal data, don't recommend brands or people, and suggest always asking for a case number.
+
+| If the person has… | Refer to |
+|---|---|
+| Wrong charges, a loan, a card, insurance or the Afore | CONDUSEF · 55 5340 0999 |
+| A purchase, a service, a pawnshop or a contract | PROFECO · 55 5568 8722 |
+| A dismissal, unpaid wages, IMSS or Infonavit | PROFEDET · 800 911 7877 |
+| A problem with the SAT | PRODECON · 55 1205 9000 |
+| Fraud, extortion or threats | 088 (Guardia Nacional) · 089 (anonymous report) · 911 if in danger |
+| Violence at home, including economic violence | Women's Line 079, option 1 · LIBRE Centers · 911 if in danger |
+| Needs a lawyer and can't pay | The state public defender's office |
+| Emotional crisis | Línea de la Vida · 800 911 2000 |
+| Looking for government support | The course's «Programs and support» book |
+| Wants to know if a lender is authorized | CONDUSEF's SIPRES |
+
+If it's urgent or someone is in danger, 911 first. If you don't know where to refer, write down the question without personal data and check with the coordinators.
+
 ## Module 1. Your papers
 
 **Outcome:** Your list of papers in order: repatriation record, CURP, birth certificate, INE and your children's papers.

@@ -19,6 +19,25 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - National Domestic Violence Hotline: 1-800-799-7233
 - 911 (emergencies)
 
+## Cómo canalizar
+
+Tu papel es orientar a dónde acudir, no resolver el caso. Escucha, no pidas datos personales, no recomiendes marcas ni personas, y sugiere pedir siempre un número de folio.
+
+| Si la persona tiene… | Canaliza a |
+|---|---|
+| Un problema con un banco, tarjeta, préstamo, cobrador o envío de dinero | CFPB · 855-411-2372 |
+| Ayuda con impuestos | VITA · 800-906-9887 |
+| Ayuda local con comida, renta o recibos | 211 |
+| Un fraude o robo de identidad | ReporteFraude.ftc.gov · RobodeIdentidad.gov |
+| Salarios no pagados o abuso en el trabajo | Departamento del Trabajo, División de Horas y Salarios · 1-866-487-9243 · y el consulado de México |
+| Detención, un accidente grave o cualquier emergencia | Consulado de México · CIAM 1 (520) 623-7874 |
+| Dudas migratorias | Solo un abogado o un representante acreditado por el Departamento de Justicia; nunca un «notario» |
+| Violencia en casa | Línea Nacional sobre la Violencia Doméstica · 1-800-799-7233 · 911 si hay peligro |
+| Crisis emocional | 988 (llamada o mensaje) |
+| Ayuda legal sin costo | LawHelp.org |
+
+Si el caso es urgente o hay peligro, primero el 911. Si no sabes a dónde canalizar, anota la duda sin datos personales y consúltala con la coordinación.
+
 ## Módulo 1. Tu negocio y tu casa: dinero separado
 
 **Resultado:** Tu dinero del negocio separado del de tu casa, tu sueldo fijo y tus registros al día.

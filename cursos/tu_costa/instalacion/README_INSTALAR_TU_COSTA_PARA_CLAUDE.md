@@ -172,7 +172,7 @@ Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con
 Esta sección va **aparte**: nada del curso depende de ella.
 
 1. Agrega una sección **al final** del curso llamada `Programas y apoyos` (descripción: "Programas de gobierno y servicios públicos que pueden servirte. Información revisada; confírmala en el sitio oficial."). Elige un ícono de «ayuda» para su mosaico.
-2. Crea el libro `Programas y apoyos` con la misma configuración e importa `1_libros/Programas_libro_Moodle.zip` (14 capítulos).
+2. Crea el libro `Programas y apoyos` con la misma configuración e importa `1_libros/Programas_libro_Moodle.zip` (15 capítulos).
 3. **Finalización: ninguna.** No lo incluyas en la finalización del curso ni en las restricciones de otras actividades, y no le des puntos.
 4. **Para quitarla:** oculta la sección (ojo > Ocultar) o bórrala. El resto del curso sigue igual.
 5. Si llega un paquete nuevo de este libro, reemplaza solo este libro.

@@ -5,8 +5,8 @@ Tres encuestas con las mismas preguntas base para medir el cambio: **inicio** (a
 | Encuesta | Archivo | Preguntas |
 |---|---|---|
 | Inicio | `encuesta_inicio.xml` | 23 |
-| Final | `encuesta_final.xml` | 26 |
-| Seguimiento | `encuesta_seguimiento.xml` | 22 |
+| Final | `encuesta_final.xml` | 28 |
+| Seguimiento | `encuesta_seguimiento.xml` | 24 |
 
 ## Índice de bienestar financiero
 
@@ -184,6 +184,16 @@ Promedio de los puntos de P1 a P8 (0 a 100). De 0 a 39: en riesgo · de 40 a 79:
 - 10
 
 **F4.** ¿Qué fue lo más útil y qué mejorarías? (opcional)
+- Respuesta abierta
+
+## Uso de programas y orientaciones (final y seguimiento)
+
+**U1.** ¿Usaste algún programa de gobierno u orientación sin costo de los que viste en el curso?
+- Sí
+- Todavía no, pero lo voy a hacer
+- No
+
+**U2.** ¿Cuál o cuáles? (opcional; no escribas datos personales)
 - Respuesta abierta
 
 ## Privacidad

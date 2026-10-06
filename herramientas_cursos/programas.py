@@ -53,3 +53,17 @@ Esta sección va **aparte**: nada del curso depende de ella.
 5. Si llega un paquete nuevo de este libro, reemplaza solo este libro.
 
 """
+
+
+def fechas(curso, en, hoy=None):
+    """Fechas del calendario que siguen vigentes (hasta >= hoy) para un curso, en orden."""
+    hoy = hoy or datetime.date.today()
+    F = json.load(open(os.path.join(RAIZ, "programas", "fechas.json"), encoding="utf-8"))["fechas"]
+    L = "en" if en else "es"
+    return sorted([f for f in F if curso in f["cursos"] and f.get(L) and datetime.date.fromisoformat(f["hasta"]) >= hoy], key=lambda f: f["desde"])
+
+
+def rango(f, en):
+    a, b = f["desde"], f["hasta"]
+    if a == b: return fecha(a, en)
+    return (f"{fecha(a, True)} to {fecha(b, True)}" if en else f"Del {fecha(a, False)} al {fecha(b, False)}")

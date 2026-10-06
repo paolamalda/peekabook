@@ -18,6 +18,26 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - 088 de la Guardia Nacional (fraudes y delitos en línea)
 - 911 (emergencias y violencia)
 
+## Cómo canalizar
+
+Tu papel es orientar a dónde acudir, no resolver el caso. Escucha, no pidas datos personales, no recomiendes marcas ni personas, y sugiere pedir siempre un número de folio.
+
+| Si la persona tiene… | Canaliza a |
+|---|---|
+| Un cobro indebido, un crédito, una tarjeta, un seguro o la Afore | CONDUSEF · 55 5340 0999 |
+| Una compra, un servicio, una casa de empeño o un contrato | PROFECO · 55 5568 8722 |
+| Un despido, salarios no pagados, IMSS o Infonavit | PROFEDET · 800 911 7877 |
+| Un problema con el SAT | PRODECON · 55 1205 9000 |
+| Fraude, extorsión o amenazas | 088 (Guardia Nacional) · 089 (denuncia anónima) · 911 si hay peligro |
+| Violencia en casa, también económica | Línea de las Mujeres 079, opción 1 · Centros LIBRE · 911 si hay peligro |
+| Tierras ejidales o comunales | Procuraduría Agraria |
+| Necesita un abogado y no puede pagarlo | Defensoría pública de su estado |
+| Crisis emocional | Línea de la Vida · 800 911 2000 |
+| Busca un apoyo de gobierno | El libro «Programas y apoyos» del curso |
+| Quiere saber si una financiera está autorizada | SIPRES de la CONDUSEF |
+
+Si el caso es urgente o hay peligro, primero el 911. Si no sabes a dónde canalizar, anota la duda sin datos personales y consúltala con la coordinación.
+
 ## Módulo 1. Tu pensión y tu mes
 
 **Resultado:** Tu pensión repartida en el bimestre, con lo básico primero.

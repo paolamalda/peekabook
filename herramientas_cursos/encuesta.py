@@ -98,7 +98,11 @@ def items(v, negocio=False):
          ("F3", "programa", T("Del 0 al 10, ¿qué tanto recomendarías el programa a alguien cercano?", "From 0 to 10, how likely are you to recommend the program to someone close to you?"),
           [(None, str(i)) for i in range(11)]),
          ("F4", "programa", T("¿Qué fue lo más útil y qué mejorarías? (opcional)", "What was most useful and what would you improve? (optional)"), [])]
-    return S, E, H, D, F
+    U = [("U1", "apoyos", T("¿Usaste algún programa de gobierno u orientación sin costo de los que viste en el curso?",
+                            "Did you use any government program or no-cost guidance service you saw in the course?"),
+          [(None, T("Sí", "Yes")), (None, T("Todavía no, pero lo voy a hacer", "Not yet, but I plan to")), (None, T("No", "No"))]),
+         ("U2", "apoyos", T("¿Cuál o cuáles? (opcional; no escribas datos personales)", "Which one or ones? (optional; don't write personal data)"), [])]
+    return S, E, H, D, F, U
 
 
 def moodle_xml(lista):
@@ -121,12 +125,12 @@ def moodle_xml(lista):
 
 def generar(dest, variante, negocio, titulo):
     en = variante in ("us_en", "mx_en")
-    S, E, H, D, F = items(variante, negocio)
-    todas = S + E + H + D + F
+    S, E, H, D, F, U = items(variante, negocio)
+    todas = S + E + H + D + F + U
     largo = [(i, len(t)) for i, _, t, ops in todas for t in [t] + [o for _, o in ops] if len(t) >= 255]
     assert not largo, largo
     os.makedirs(dest, exist_ok=True)
-    enc = {("inicio", "start"): S + E + H + D, ("final", "final"): S + E + H + F, ("seguimiento", "follow_up"): S + E + H}
+    enc = {("inicio", "start"): S + E + H + D, ("final", "final"): S + E + H + F + U, ("seguimiento", "follow_up"): S + E + H + U}
     nombres = {}
     for (es_, en_), lst in enc.items():
         base = ("survey_" + en_) if en else ("encuesta_" + es_)
@@ -143,7 +147,8 @@ def generar(dest, variante, negocio, titulo):
           T("Promedio de los puntos de P1 a P8 (0 a 100). De 0 a 39: en riesgo · de 40 a 79: en equilibrio frágil · de 80 a 100: con bienestar. Subíndices: gastar (P1, P2), ahorrar (P3, P4), deber (P5, P6) y planear (P7, P8). Las preguntas E son señales de estrés y no suman puntos.",
             "Average of the points from P1 to P8 (0 to 100). 0 to 39: at risk · 40 to 79: fragile balance · 80 to 100: well. Sub-scores: spend (P1, P2), save (P3, P4), borrow (P5, P6) and plan (P7, P8). E questions are stress signals and don't add points."), ""]
     for grupo, lst in ((T("Salud financiera (con puntaje)", "Financial health (scored)"), S), (T("Señales de estrés", "Stress signals"), E), (T("Hábitos", "Habits"), H),
-                       (T("Perfil (opcional, solo en inicio)", "Profile (optional, start only)"), D), (T("Evaluación del programa (solo en la final)", "Program evaluation (final only)"), F)):
+                       (T("Perfil (opcional, solo en inicio)", "Profile (optional, start only)"), D), (T("Evaluación del programa (solo en la final)", "Program evaluation (final only)"), F),
+                       (T("Uso de programas y orientaciones (final y seguimiento)", "Use of programs and guidance (final and follow-up)"), U)):
         L += [f"## {grupo}", ""]
         for iid, dim, txt, ops in lst:
             L.append(f"**{iid}.** {txt}")
@@ -156,4 +161,4 @@ def generar(dest, variante, negocio, titulo):
     json.dump({"variante": variante, "puntaje": {i: {o: p for p, o in ops} for i, _, _, ops in S},
                "subindices": {"gastar": ["P1", "P2"], "ahorrar": ["P3", "P4"], "deber": ["P5", "P6"], "planear": ["P7", "P8"]}},
               open(os.path.join(dest, "puntaje.json"), "w"), ensure_ascii=False, indent=1)
-    return len(S + E + H + D), len(S + E + H + F), len(S + E + H)
+    return len(S + E + H + D), len(S + E + H + F + U), len(S + E + H + U)

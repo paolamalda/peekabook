@@ -32,6 +32,37 @@
    "recurso": {
     "es": "- **CONDUSEF** (Gobierno de México · español): https://www.condusef.gob.mx | Qué buscar: cómo presentar una queja y los teléfonos de atención.",
     "en": "- **CONDUSEF** (Government of Mexico · Spanish): https://www.condusef.gob.mx | What to look for: how to file a complaint and the help lines."
+   },
+   "para_quien": {
+    "es": "Si tienes un problema con un banco, una compra, tu trabajo, el SAT o tu tierra",
+    "en": "If you have a problem with a bank, a purchase, your job, the SAT or your land"
+   }
+  },
+  {
+   "id": "orientaciones_us",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 12,
+   "titulo": {
+    "es": "Dónde te orientan sin costo en Estados Unidos",
+    "en": "Where to get no-cost help in the U.S."
+   },
+   "texto": {
+    "es": "Si tienes un problema y no sabes a quién llamar, estas opciones te orientan sin costo y en español:\n\n- **211:** llama o manda un mensaje al 211 para encontrar ayuda local con comida, renta, servicios, salud o asesoría legal.\n- **VITA:** preparación de impuestos sin costo para personas con ingresos bajos o medios. Encuentra un sitio al 800-906-9887.\n- **CFPB:** quejas contra bancos, tarjetas, préstamos, cobradores o envíos de dinero. 855-411-2372.\n- **Ayuda legal sin costo:** en LawHelp.org encuentras organizaciones de tu estado.\n\nPara temas migratorios, acude solo a abogados o a representantes acreditados por el Departamento de Justicia. Nunca a un «notario».",
+    "en": "If you have a problem and don't know who to call, these options help at no cost, in English and Spanish:\n\n- **211:** call or text 211 to find local help with food, rent, utilities, health or legal advice.\n- **VITA:** no-cost tax preparation for people with low or moderate income. Find a site at 800-906-9887.\n- **CFPB:** complaints about banks, cards, loans, debt collectors or money transfers. 855-411-2372.\n- **Free legal help:** LawHelp.org lists organizations in your state.\n\nFor immigration matters, go only to attorneys or representatives accredited by the Department of Justice. Never to a \"notario.\" "
+   },
+   "recurso": {
+    "es": "- **211** (United Way · inglés y español): https://www.211.org | Qué buscar: escribe tu código postal para ver la ayuda cerca de ti.",
+    "en": "- **211** (United Way · English and Spanish): https://www.211.org | What to look for: type your ZIP code to see help near you."
+   },
+   "para_quien": {
+    "es": "Si necesitas ayuda local, con impuestos, con una queja o legal en EE. UU.",
+    "en": "If you need local help, tax help, to file a complaint or legal help in the U.S."
    }
   },
   {
@@ -55,6 +86,10 @@
    "recurso": {
     "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: tu consulado y su área de protección.",
     "en": "- **Mexican consulates** (SRE · Spanish): https://consulmex.sre.gob.mx | What to look for: your consulate and its protection area."
+   },
+   "para_quien": {
+    "es": "Si estás en EE. UU. y tienes un problema serio",
+    "en": "If you're in the U.S. and have a serious problem"
    }
   },
   {
@@ -74,6 +109,10 @@
    },
    "recurso": {
     "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: el consulado más cercano a tu trabajo y su teléfono de protección.",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si trabajas en EE. UU. con visa H-2A",
     "en": ""
    }
   },
@@ -95,6 +134,10 @@
    "recurso": {
     "es": "- **Servicio Nacional de Empleo** (STPS · español): https://www.empleo.gob.mx | Qué buscar: PTAT, movilidad laboral externa y la oficina de tu estado.",
     "en": ""
+   },
+   "para_quien": {
+    "es": "Si quieres trabajar una temporada en el campo de Canadá u otro país",
+    "en": ""
    }
   },
   {
@@ -114,6 +157,10 @@
    },
    "recurso": {
     "es": "- **Tus derechos como trabajador temporal** (Gobierno de Canadá · inglés y francés): https://www.canada.ca/en/employment-social-development/services/foreign-workers/protected-rights.html | Qué buscar: tus derechos y la forma de reporte en línea.",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si trabajas en Canadá y tu empleador abusa",
     "en": ""
    }
   },
@@ -138,6 +185,10 @@
    "recurso": {
     "es": "- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | Qué buscar: qué temas atiende y cómo pedir una cita en tu consulado.",
     "en": "- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | What to look for: the topics they cover and how to make an appointment at your consulate."
+   },
+   "para_quien": {
+    "es": "Si quieres asesoría financiera, de salud o de estudios en tu consulado",
+    "en": "If you want financial, health or education guidance at your consulate"
    }
   },
   {
@@ -162,6 +213,10 @@
    "recurso": {
     "es": "- **Tarjeta FINABIEN Paisano** (FINABIEN · español): https://www.gob.mx/finabien | Qué buscar: «Tarjeta FINABIEN Paisano», requisitos y consulados donde la entregan.",
     "en": "- **FINABIEN Paisano card** (FINABIEN · Spanish): https://www.gob.mx/finabien | What to look for: «Tarjeta FINABIEN Paisano», requirements and consulates that issue it."
+   },
+   "para_quien": {
+    "es": "Si mandas dinero de EE. UU. a México",
+    "en": "If you send money from the U.S. to Mexico"
    }
   },
   {
@@ -187,6 +242,10 @@
    "recurso": {
     "es": "- **México te Abraza** (SEGOB · español): https://portales.segob.gob.mx/es/PoliticaMigratoria/Mexico-te-abraza | Qué buscar: los servicios y los puntos de atención.",
     "en": "- **México te Abraza** (SEGOB · Spanish): https://portales.segob.gob.mx/es/PoliticaMigratoria/Mexico-te-abraza | What to look for: «servicios» (services) and the care points."
+   },
+   "para_quien": {
+    "es": "Si te regresan de EE. UU. a México",
+    "en": "If you're sent back from the U.S. to Mexico"
    }
   },
   {
@@ -220,6 +279,10 @@
    "recurso": {
     "es": "- **Programas para el Bienestar** (Gobierno de México · español): https://programasparaelbienestar.gob.mx | Qué buscar: requisitos, fechas de registro y calendario de pagos.",
     "en": "- **Programas para el Bienestar** (Government of Mexico · Spanish): https://programasparaelbienestar.gob.mx | What to look for: requirements, registration dates and payment calendar."
+   },
+   "para_quien": {
+    "es": "Si tú o alguien de tu familia tiene 60 años o más, o una discapacidad",
+    "en": "If you or someone in your family is 60 or older, or has a disability"
    }
   },
   {
@@ -253,6 +316,10 @@
    "recurso": {
     "es": "- **Becas para el Bienestar** (Gobierno de México · español): https://www.gob.mx/becasbenitojuarez | Qué buscar: la beca de tu nivel, requisitos y fechas de registro.",
     "en": "- **Becas para el Bienestar** (Government of Mexico · Spanish): https://www.gob.mx/becasbenitojuarez | What to look for: the scholarship for each grade level, requirements and registration dates."
+   },
+   "para_quien": {
+    "es": "Si en tu casa hay estudiantes de escuela pública",
+    "en": "If there are public-school students in your home"
    }
   },
   {
@@ -281,6 +348,10 @@
    "recurso": {
     "es": "- **Jóvenes Construyendo el Futuro** (STPS · español): https://jovenesconstruyendoelfuturo.stps.gob.mx | Qué buscar: requisitos, centros de trabajo en tu zona y cómo registrarte.",
     "en": "- **Jóvenes Construyendo el Futuro** (STPS · Spanish): https://jovenesconstruyendoelfuturo.stps.gob.mx | What to look for: requirements, workplaces near you and how to sign up."
+   },
+   "para_quien": {
+    "es": "Si tienes de 18 a 29 años y no estudias ni trabajas",
+    "en": "If you're 18 to 29 and not studying or working"
    }
   },
   {
@@ -314,6 +385,10 @@
    "recurso": {
     "es": "- **Vivienda para el Bienestar** (CONAVI · español): https://www.gob.mx/conavi | Qué buscar: si tu municipio participa, requisitos y módulos de registro.",
     "en": "- **Vivienda para el Bienestar** (CONAVI · Spanish): https://www.gob.mx/conavi | What to look for: whether your municipality takes part, requirements and registration offices."
+   },
+   "para_quien": {
+    "es": "Si no tienes casa propia ni crédito de vivienda",
+    "en": "If you don't own a home or have a housing loan"
    }
   },
   {
@@ -337,6 +412,44 @@
    "recurso": {
     "es": "- **Recibos de nómina** (SAT · español): https://www.sat.gob.mx | Qué buscar: «verificar CFDI de nómina» para revisar tus recibos.",
     "en": ""
+   },
+   "para_quien": {
+    "es": "Si trabajas con nómina y ganas poco",
+    "en": ""
+   }
+  },
+  {
+   "id": "madres",
+   "cursos": [
+    "tu_trabajo_hogar",
+    "tu_turno",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_patrimonio",
+    "tu_negocio_mx",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_regreso",
+    "back_home_en",
+    "tu_idea"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Apoyo para madres y padres que trabajan",
+    "en": "Support for working mothers and fathers"
+   },
+   "texto": {
+    "es": "El **Programa para el Bienestar de Niñas y Niños, Hijos de Madres Trabajadoras** apoya a mamás, papás solos y tutores que trabajan, estudian o buscan empleo y **no tienen guardería** del IMSS o el ISSSTE.\n\n- **1,650 pesos cada dos meses** por cada niña o niño de 0 a 4 años.\n- Hasta **3,720 pesos** cada dos meses si la niña o el niño tiene discapacidad, de 0 a 6 años.\n- Hasta tres menores por hogar.\n\nLleva tu identificación, tu CURP y la de cada menor, sus actas de nacimiento y un comprobante de domicilio. El registro es sin costo.\n\n> **Dato vigente:** montos de 2026; desde este año también pueden registrarse padres solos y tutores. Consultado el 6 de octubre de 2026 a través de Programas para el Bienestar y medios nacionales.",
+    "en": "The **Program for the Well-being of Children of Working Mothers** supports mothers, single fathers and guardians who work, study or are looking for work and **don't have childcare** through IMSS or ISSSTE.\n\n- **1,650 pesos every two months** for each child aged 0 to 4.\n- Up to **3,720 pesos** every two months if the child has a disability, ages 0 to 6.\n- Up to three children per household.\n\nBring your ID, your CURP and each child's, their birth certificates and proof of address. Registration is at no cost.\n\n> **Current fact:** 2026 amounts; starting this year, single fathers and guardians can also register. Accessed October 6, 2026 through Programas para el Bienestar and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Madres Trabajadoras** (Gobierno de México · español): https://www.programasparaelbienestar.gob.mx/programas/mujeres/programa-de-madres-trabajadoras/ | Qué buscar: requisitos, documentos y fechas de registro.",
+    "en": "- **Madres Trabajadoras** (Government of Mexico · Spanish): https://www.programasparaelbienestar.gob.mx/programas/mujeres/programa-de-madres-trabajadoras/ | What to look for: requirements, documents and registration dates."
+   },
+   "para_quien": {
+    "es": "Si cuidas a niñas o niños pequeños y trabajas, estudias o buscas empleo",
+    "en": "If you care for young children and work, study or look for work"
    }
   },
   {
@@ -370,6 +483,10 @@
    "recurso": {
     "es": "- **Secretaría de las Mujeres** (Gobierno de México · español): https://www.gob.mx/mujeres | Qué buscar: el Centro LIBRE más cercano y la Línea de las Mujeres.",
     "en": "- **Women's Ministry** (Government of Mexico · Spanish): https://www.gob.mx/mujeres | What to look for: the nearest LIBRE Center and the Women's Line."
+   },
+   "para_quien": {
+    "es": "Si eres mujer y necesitas apoyo, orientación legal o capacitación",
+    "en": "If you're a woman and need support, legal guidance or training"
    }
   },
   {
@@ -390,6 +507,10 @@
    },
    "recurso": {
     "es": "- **Programas del INPI** (Gobierno de México · español): https://www.gob.mx/inpi | Qué buscar: los programas del año, sus reglas de operación y el Centro Coordinador de tu región.",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si eres de un pueblo indígena o afromexicano",
     "en": ""
    }
   },
@@ -412,6 +533,10 @@
    },
    "recurso": {
     "es": "- **FINABIEN** (Gobierno de México · español): https://www.gob.mx/finabien | Qué buscar: «ApoyArte», los requisitos y las fechas de registro en tu región.",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si eres artesana indígena o afromexicana",
     "en": ""
    }
   },
@@ -439,6 +564,10 @@
    "recurso": {
     "es": "- **INAES** (Gobierno de México · español): https://www.gob.mx/inaes | Qué buscar: las convocatorias abiertas y sus requisitos.",
     "en": ""
+   },
+   "para_quien": {
+    "es": "Si trabajas en grupo, cooperativa o caja de ahorro",
+    "en": ""
    }
   },
   {
@@ -462,6 +591,10 @@
    "recurso": {
     "es": "- **Producción para el Bienestar** (Gobierno de México · español): https://programasparaelbienestar.gob.mx/produccion-para-el-bienestar/ | Qué buscar: montos por cultivo y hectáreas, y cómo registrarte.",
     "en": ""
+   },
+   "para_quien": {
+    "es": "Si siembras",
+    "en": ""
    }
   },
   {
@@ -481,6 +614,10 @@
    },
    "recurso": {
     "es": "- **Bienpesca** (Gobierno de México · español): https://programasparaelbienestar.gob.mx/bienpesca/ | Qué buscar: requisitos, fechas de pago y renovación de tarjeta.",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si pescas o crías peces y mariscos",
     "en": ""
    }
   },
@@ -509,6 +646,10 @@
    "recurso": {
     "es": "- **Banco del Bienestar** (Gobierno de México · español): https://www.gob.mx/bancodelbienestar | Qué buscar: la sucursal más cercana y los requisitos para abrir una cuenta.",
     "en": "- **Banco del Bienestar** (Government of Mexico · Spanish): https://www.gob.mx/bancodelbienestar | What to look for: the nearest branch and what you need to open an account."
+   },
+   "para_quien": {
+    "es": "Si quieres una cuenta sin comisiones o recibes un apoyo del gobierno",
+    "en": "If you want an account with no fees or receive government support"
    }
   },
   {
@@ -533,6 +674,10 @@
    "recurso": {
     "es": "- **Equipaje y franquicia** (Aduanas de México · español): https://www.anam.gob.mx/equipaje-y-franquicia/ | Qué buscar: qué puedes llevar y cuánto es la franquicia.",
     "en": "- **Baggage and allowance** (Mexican Customs · Spanish): https://www.anam.gob.mx/equipaje-y-franquicia/ | What to look for: what you can bring and the allowance amount."
+   },
+   "para_quien": {
+    "es": "Si viajas a México en vacaciones",
+    "en": "If you travel to Mexico on holidays"
    }
   },
   {
@@ -570,6 +715,10 @@
    "recurso": {
     "es": "- **SNEF** (CONDUSEF · español): https://eduweb.condusef.gob.mx/snef/index.html | Qué buscar: el programa de actividades y la entrada a la plataforma en línea.",
     "en": "- **SNEF** (CONDUSEF · Spanish): https://eduweb.condusef.gob.mx/snef/index.html | What to look for: the schedule of activities and the link to the online platform."
+   },
+   "para_quien": {
+    "es": "Si quieres talleres de educación financiera sin costo",
+    "en": "If you want no-cost financial education workshops"
    }
   }
  ]

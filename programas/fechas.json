@@ -1,0 +1,110 @@
+{
+ "nota": "Fechas del calendario del módulo extra. Cada fecha sale sola al día siguiente de 'hasta'.",
+ "fechas": [
+  {
+   "desde": "2026-10-15",
+   "hasta": "2026-10-18",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada",
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "es": "**SNEF 2026** en la Ciudad de México, sin costo. Su plataforma en línea sigue abierta hasta el 31 de marzo de 2027.",
+   "en": "**SNEF 2026** in Mexico City, at no cost. Its online platform stays open until March 31, 2027."
+  },
+  {
+   "desde": "2026-11-20",
+   "hasta": "2026-11-20",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "es": "**Termina «Directo a México»**, el servicio de envíos del Banco de México. Si lo usabas, elige otra forma de enviar y compara cuánto recibe tu familia.",
+   "en": "**«Directo a México» ends**, the Bank of Mexico's transfer service. If you used it, choose another way to send and compare how much your family receives."
+  },
+  {
+   "desde": "2026-11-25",
+   "hasta": "2027-01-08",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en",
+    "tu_temporada"
+   ],
+   "es": "**Héroes Paisanos, invierno:** por tierra puedes llevar mercancía de hasta 500 dólares sin pagar impuestos.",
+   "en": "**Héroes Paisanos, winter:** by land you can bring up to 500 dollars in goods tax-free."
+  },
+  {
+   "desde": "2027-04-01",
+   "hasta": "2027-04-30",
+   "cursos": [
+    "tu_talento",
+    "tu_negocio_mx",
+    "tu_patrimonio",
+    "tu_idea",
+    "tu_ruta",
+    "tu_turno",
+    "tu_trabajo_hogar"
+   ],
+   "es": "**Declaración anual** de personas físicas ante el SAT. Es sin costo en el portal del SAT; no necesitas gestores.",
+   "en": ""
+  },
+  {
+   "desde": "2027-01-26",
+   "hasta": "2027-04-15",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en",
+    "tu_temporada"
+   ],
+   "es": "**Temporada de impuestos en EE. UU.:** la fecha límite es el 15 de abril de 2027. Busca ayuda sin costo en VITA.",
+   "en": "**U.S. tax season:** the deadline is April 15, 2027. Look for no-cost help at VITA."
+  },
+  {
+   "desde": "2027-03-31",
+   "hasta": "2027-03-31",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada",
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "es": "**Cierra la plataforma en línea de la SNEF 2026.**",
+   "en": "**The SNEF 2026 online platform closes.**"
+  }
+ ]
+}

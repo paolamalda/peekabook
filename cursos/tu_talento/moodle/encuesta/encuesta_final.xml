@@ -315,5 +315,25 @@
                <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
                <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
           </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID><![CDATA[27]]></ITEMID>
+               <ITEMTEXT><![CDATA[¿Usaste algún programa de gobierno u orientación sin costo de los que viste en el curso?]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[U1]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Sí
+|Todavía no, pero lo voy a hacer
+|No]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="textarea" REQUIRED="0">
+               <ITEMID><![CDATA[28]]></ITEMID>
+               <ITEMTEXT><![CDATA[¿Cuál o cuáles? (opcional; no escribas datos personales)]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[U2]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[60|4]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
      </ITEMS>
 </FEEDBACK>

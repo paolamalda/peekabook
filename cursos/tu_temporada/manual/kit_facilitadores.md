@@ -18,6 +18,26 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - 088 de la Guardia Nacional (fraudes y delitos en línea)
 - 911 (emergencias y violencia)
 
+## Cómo canalizar
+
+Tu papel es orientar a dónde acudir, no resolver el caso. Escucha, no pidas datos personales, no recomiendes marcas ni personas, y sugiere pedir siempre un número de folio.
+
+| Si la persona tiene… | Canaliza a |
+|---|---|
+| Un cobro indebido, un crédito, una tarjeta, un seguro o la Afore | CONDUSEF · 55 5340 0999 |
+| Una compra, un servicio, una casa de empeño o un contrato | PROFECO · 55 5568 8722 |
+| Un despido, salarios no pagados, IMSS o Infonavit | PROFEDET · 800 911 7877 |
+| Un problema con el SAT | PRODECON · 55 1205 9000 |
+| Fraude, extorsión o amenazas | 088 (Guardia Nacional) · 089 (denuncia anónima) · 911 si hay peligro |
+| Violencia en casa, también económica | Línea de las Mujeres 079, opción 1 · Centros LIBRE · 911 si hay peligro |
+| Tierras ejidales o comunales | Procuraduría Agraria |
+| Necesita un abogado y no puede pagarlo | Defensoría pública de su estado |
+| Crisis emocional | Línea de la Vida · 800 911 2000 |
+| Busca un apoyo de gobierno | El libro «Programas y apoyos» del curso |
+| Quiere saber si una financiera está autorizada | SIPRES de la CONDUSEF |
+
+Si el caso es urgente o hay peligro, primero el 911. Si no sabes a dónde canalizar, anota la duda sin datos personales y consúltala con la coordinación.
+
 ## Módulo 1. Antes de firmar: dos caminos y cero fraudes
 
 **Resultado:** El camino correcto para ti, tu contrato revisado y ningún pago a reclutadores.
@@ -37,7 +57,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M1 U01 · Dos caminos: Canadá y Estados Unidos: al PTAT entras sin costo por el Servicio Nacional de Empleo; en la H-2A el empleador paga el reclutamiento. Nadie debe cobrarte por tu lugar.
 - M1 U02 · Reclutadores falsos: si te cobran por el lugar o el trámite, es fraude; verifica la oferta antes de dar un peso.
-- M1 U03 · Lee tu contrato: lee pago, horas, vivienda y descuentos; en la H-2A te garantizan 3/4 de las horas y en el PTAT al menos 240 horas en 6 semanas.
+- M1 U03 · Lee tu contrato: lee pago, horas, vivienda y descuentos. En la H-2A te garantizan 3/4 de las horas. En el PTAT, al menos 240 horas en 6 semanas.
 
 **Casos**
 
@@ -100,7 +120,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M3 U01 · Tu talón de pago: compara tu talón con tu propia libreta de horas y piezas, y pregunta cualquier descuento que no entiendas.
-- M3 U02 · ¿Te pagan lo correcto?: te deben pagar al menos lo del contrato; si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
+- M3 U02 · ¿Te pagan lo correcto?: te deben pagar al menos lo del contrato. Si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
 - M3 U03 · Cobrar sin perder en comisiones: cambiar cheques en tiendas cuesta mucho en la temporada; pregunta por depósito directo o una cuenta.
 
 **Casos**
@@ -164,7 +184,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M5 U01 · Impuestos en Estados Unidos con visa H-2A: con la H-2A no pagas Seguro Social y la retención federal es voluntaria; guarda tu W-2 y revisa si te toca declarar.
-- M5 U02 · Impuestos en Canadá con el PTAT: en Canadá te descuentan impuesto, CPP y EI; presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
+- M5 U02 · Impuestos en Canadá con el PTAT: en Canadá te descuentan impuesto, CPP y EI. Presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
 - M5 U03 · Tu carpeta de papeles: guarda contratos, talones y formas de impuestos de cada temporada en una carpeta, con copia en tu correo.
 
 **Casos**
@@ -259,7 +279,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M8 U01 · Tu retiro: Canadá, Estados Unidos y México: en Canadá cotizas al CPP y se puede sumar con México; con la H-2A no cotizas allá, así que aporta a tu Afore.
+- M8 U01 · Tu retiro: Canadá, Estados Unidos y México: en Canadá cotizas al CPP y se puede sumar con México. Con la H-2A no cotizas allá, así que aporta a tu Afore.
 - M8 U02 · Un proyecto que produce: combina metas de comodidad con una que produzca ingreso, y pruébala en pequeño antes de invertir todo.
 - M8 U03 · Tu plan de temporada en una página: junta todo en una página con una acción y una fecha, y revísalo antes de irte y al regresar.
 

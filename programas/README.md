@@ -16,3 +16,13 @@ Los programas de gobierno y los servicios públicos **no van dentro de las lecci
 ## Para quitar un programa
 
 Bórralo de `programas.json` (o quita el curso de su lista) y regenera el libro.
+
+## Calendario de fechas
+
+`fechas.json` guarda las fechas que conviene saber (eventos, plazos, operativos). Cada una aparece en el capítulo «Fechas que conviene saber» del libro extra y **desaparece sola** al día siguiente de su fecha `hasta`.
+
+## Verificación y avisos
+
+- `python3 herramientas_cursos/verificacion.py` genera `proyecto-inclusion-financiera/entregables/verificacion_datos.md` (y `.csv`): todos los datos vigentes de las lecciones, los programas y las fechas, con su fecha de consulta, la fecha límite para revisarlos y una casilla para marcar «confirmado».
+- Al revisar un curso (`curso.py … verificar`) aparece un aviso si alguna lección tiene datos con más de 6 meses sin revisarse.
+- `python3 herramientas_cursos/vencimientos.py 30` lista lo que vence en los próximos 30 días. Una tarea automática lo corre el día 1 de cada mes y manda el resumen.

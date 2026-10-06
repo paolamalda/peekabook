@@ -76,6 +76,49 @@ def guiones(D, CFG, lecciones, EN):
 
 
 # ---------------------------------------------------------------------------
+CANALIZA = {
+ "mx": [("Un cobro indebido, un crédito, una tarjeta, un seguro o la Afore", "CONDUSEF · 55 5340 0999"),
+        ("Una compra, un servicio, una casa de empeño o un contrato", "PROFECO · 55 5568 8722"),
+        ("Un despido, salarios no pagados, IMSS o Infonavit", "PROFEDET · 800 911 7877"),
+        ("Un problema con el SAT", "PRODECON · 55 1205 9000"),
+        ("Fraude, extorsión o amenazas", "088 (Guardia Nacional) · 089 (denuncia anónima) · 911 si hay peligro"),
+        ("Violencia en casa, también económica", "Línea de las Mujeres 079, opción 1 · Centros LIBRE · 911 si hay peligro"),
+        ("Tierras ejidales o comunales", "Procuraduría Agraria"),
+        ("Necesita un abogado y no puede pagarlo", "Defensoría pública de su estado"),
+        ("Crisis emocional", "Línea de la Vida · 800 911 2000"),
+        ("Busca un apoyo de gobierno", "El libro «Programas y apoyos» del curso"),
+        ("Quiere saber si una financiera está autorizada", "SIPRES de la CONDUSEF")],
+ "mx_en": [("Wrong charges, a loan, a card, insurance or the Afore", "CONDUSEF · 55 5340 0999"),
+           ("A purchase, a service, a pawnshop or a contract", "PROFECO · 55 5568 8722"),
+           ("A dismissal, unpaid wages, IMSS or Infonavit", "PROFEDET · 800 911 7877"),
+           ("A problem with the SAT", "PRODECON · 55 1205 9000"),
+           ("Fraud, extortion or threats", "088 (Guardia Nacional) · 089 (anonymous report) · 911 if in danger"),
+           ("Violence at home, including economic violence", "Women's Line 079, option 1 · LIBRE Centers · 911 if in danger"),
+           ("Needs a lawyer and can't pay", "The state public defender's office"),
+           ("Emotional crisis", "Línea de la Vida · 800 911 2000"),
+           ("Looking for government support", "The course's «Programs and support» book"),
+           ("Wants to know if a lender is authorized", "CONDUSEF's SIPRES")],
+ "us_es": [("Un problema con un banco, tarjeta, préstamo, cobrador o envío de dinero", "CFPB · 855-411-2372"),
+        ("Ayuda con impuestos", "VITA · 800-906-9887"),
+        ("Ayuda local con comida, renta o recibos", "211"),
+        ("Un fraude o robo de identidad", "ReporteFraude.ftc.gov · RobodeIdentidad.gov"),
+        ("Salarios no pagados o abuso en el trabajo", "Departamento del Trabajo, División de Horas y Salarios · 1-866-487-9243 · y el consulado de México"),
+        ("Detención, un accidente grave o cualquier emergencia", "Consulado de México · CIAM 1 (520) 623-7874"),
+        ("Dudas migratorias", "Solo un abogado o un representante acreditado por el Departamento de Justicia; nunca un «notario»"),
+        ("Violencia en casa", "Línea Nacional sobre la Violencia Doméstica · 1-800-799-7233 · 911 si hay peligro"),
+        ("Crisis emocional", "988 (llamada o mensaje)"),
+        ("Ayuda legal sin costo", "LawHelp.org")],
+ "us": [("A problem with a bank, card, loan, debt collector or money transfer", "CFPB · 855-411-2372"),
+        ("Help with taxes", "VITA · 800-906-9887"),
+        ("Local help with food, rent or bills", "211"),
+        ("A scam or identity theft", "ReportFraud.ftc.gov · IdentityTheft.gov"),
+        ("Unpaid wages or abuse at work", "U.S. Department of Labor, Wage and Hour Division · 1-866-487-9243 · and the Mexican consulate"),
+        ("Detention, a serious accident or any emergency abroad (Mexican nationals)", "Mexican consulate · CIAM 1 (520) 623-7874"),
+        ("Immigration questions", "Only an attorney or a DOJ-accredited representative; never a «notario»"),
+        ("Violence at home", "National Domestic Violence Hotline · 1-800-799-7233 · 911 if in danger"),
+        ("Emotional crisis", "988 (call or text)"),
+        ("Free legal help", "LawHelp.org")]}
+
 AYUDA = {"mx": ["Línea de la Vida: 800 911 2000 (salud mental y adicciones, las 24 horas)", "CONDUSEF: 55 5340 0999 (bancos, créditos, seguros)",
                 "088 de la Guardia Nacional (fraudes y delitos en línea)", "911 (emergencias y violencia)"],
          "mx_en": ["Línea de la Vida: 800 911 2000 (mental health and addictions, 24 hours, Spanish)", "CONDUSEF: 55 5340 0999 (banks, credit, insurance)",
@@ -98,6 +141,13 @@ def kit(D, CFG, lecciones, EN):
          T("Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar comida o medicinas, que pidió a prestamistas o apps para gastos básicos, que la amenazan por una deuda o que no duerme por el dinero. Habla en privado, sin presionar, y comparte estas opciones:",
            "Watch for someone who misses sessions often, withdraws, mentions skipping food or medicine, borrowing from lenders or apps for basic expenses, threats over a debt, or not sleeping because of money. Talk privately, without pressure, and share these options:"), ""]
     L += [f"- {x}" for x in AYUDA[pais]] + [""]
+    L += [T("## Cómo canalizar", "## How to refer people"), "",
+          T("Tu papel es orientar a dónde acudir, no resolver el caso. Escucha, no pidas datos personales, no recomiendes marcas ni personas, y sugiere pedir siempre un número de folio.",
+            "Your role is to point people to the right place, not to solve the case. Listen, don't ask for personal data, don't recommend brands or people, and suggest always asking for a case number."), "",
+          f"| {T('Si la persona tiene…', 'If the person has…')} | {T('Canaliza a', 'Refer to')} |", "|---|---|"]
+    L += [f"| {a} | {b} |" for a, b in CANALIZA[("us" if EN else "us_es") if pais == "us" else pais]]
+    L += ["", T("Si el caso es urgente o hay peligro, primero el 911. Si no sabes a dónde canalizar, anota la duda sin datos personales y consúltala con la coordinación.",
+                "If it's urgent or someone is in danger, 911 first. If you don't know where to refer, write down the question without personal data and check with the coordinators."), ""]
     for mod, titulo in CFG["modulos"].items():
         les = [(c, t, partes(b)) for c, t, b in lecciones(mod)]
         casos = [(c, x) for c, t, p in les for x in p["casos"][:1]][:3]

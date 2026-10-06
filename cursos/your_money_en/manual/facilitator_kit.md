@@ -19,6 +19,25 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - National Domestic Violence Hotline: 1-800-799-7233
 - 911 (emergencies)
 
+## How to refer people
+
+Your role is to point people to the right place, not to solve the case. Listen, don't ask for personal data, don't recommend brands or people, and suggest always asking for a case number.
+
+| If the person has… | Refer to |
+|---|---|
+| A problem with a bank, card, loan, debt collector or money transfer | CFPB · 855-411-2372 |
+| Help with taxes | VITA · 800-906-9887 |
+| Local help with food, rent or bills | 211 |
+| A scam or identity theft | ReportFraud.ftc.gov · IdentityTheft.gov |
+| Unpaid wages or abuse at work | U.S. Department of Labor, Wage and Hour Division · 1-866-487-9243 · and the Mexican consulate |
+| Detention, a serious accident or any emergency abroad (Mexican nationals) | Mexican consulate · CIAM 1 (520) 623-7874 |
+| Immigration questions | Only an attorney or a DOJ-accredited representative; never a «notario» |
+| Violence at home | National Domestic Violence Hotline · 1-800-799-7233 · 911 if in danger |
+| Emotional crisis | 988 (call or text) |
+| Free legal help | LawHelp.org |
+
+If it's urgent or someone is in danger, 911 first. If you don't know where to refer, write down the question without personal data and check with the coordinators.
+
 ## Module 1. Understand your money and organize your finances
 
 **Outcome:** An 8-week money calendar, a budget that also works in a tough month, a tax folder and a 90-day plan.

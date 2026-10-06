@@ -16,7 +16,7 @@ def catalogo():
         cfg = json.load(open(f, encoding="utf-8"))
         v, neg = cfg.get("encuesta"), cfg.get("negocio", False)
         if not v: continue
-        S, E, H, D, F = encuesta.items(v, neg)
+        S, E, H, D, F, U = encuesta.items(v, neg)
         it = [{"id": i, "dim": d, "txt": t, "ops": [{"p": p, "o": o} for p, o in ops]} for i, d, t, ops in S + E + H + D + F]
         cat[c] = {"titulo": cfg["titulo"], "en": v == "us_en", "items": it}
     return cat

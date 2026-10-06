@@ -459,7 +459,20 @@ Información revisada al {PG.fecha(rev, False)}. Los programas cambian: confirma
         mas, revt, cab, lead = "Para saber más", "Revisado el", "Programas y apoyos", "Programas de gobierno y servicios públicos. Extra y opcional."
     open(os.path.join(F, "01-sobre-esta-seccion.md"), "w").write(intro)
     leads = {"01": lead}
-    for i, p in enumerate(ok, 2):
+    curso = os.path.basename(os.path.normpath(D))
+    # ¿Cuál es para mí? (sin pedir ni guardar datos: solo una tabla para ubicarse)
+    if EN:
+        cual = ["# Which one is for me?", "", "Find your situation and go to that chapter. Nothing you choose here is saved.", "", "| If… | Go to |", "|---|---|"]
+    else:
+        cual = ["# ¿Cuál es para mí?", "", "Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.", "", "| Si… | Ve a |", "|---|---|"]
+    def sit(p):
+        t = p.get("para_quien", {}).get(L) or p["titulo"][L]
+        t = re.sub(r"^(Si|If) ", "", t)
+        return t[:1].upper() + t[1:]
+    cual += [f"| {sit(p)} | {p['titulo'][L]} |" for p in ok]
+    open(os.path.join(F, "02-cual-es-para-mi.md"), "w").write("\n".join(cual) + "\n")
+    leads["02"] = lead
+    for i, p in enumerate(ok, 3):
         num = f"{i:02d}"; leads[num] = lead
         rec = p.get("recurso", {}).get(L, "")
         rec = re.sub(r"(https?://[^\s|]+)", lambda m: "[" + re.sub(r"^www[.]", "", m.group(1).split("://", 1)[1].split("/", 1)[0]) + "](" + m.group(1) + ")", rec)
@@ -467,7 +480,14 @@ Información revisada al {PG.fecha(rev, False)}. Los programas cambian: confirma
         body = f"# {p['titulo'][L]}\n\n{p['texto'][L]}\n"
         if rec: body += f"\n## {mas}\n\n{rec}\n\n*{revt} {PG.fecha(p['revisado'], EN)}.*\n"
         open(os.path.join(F, f"{num}-{p['id']}.md"), "w").write(body)
-    libro(F, O, "Programas_libro_Moodle.zip", "programas", cab, leads, {"01": "fa-life-ring"}, "")
+    fe = PG.fechas(curso, EN)
+    if fe:
+        num = f"{len(ok) + 3:02d}"; leads[num] = lead
+        t = ("# Dates to keep in mind" if EN else "# Fechas que conviene saber")
+        txt = [t, "", ("Each date disappears on its own once it has passed." if EN else "Cada fecha desaparece sola cuando ya pasó."), ""]
+        txt += [f"- **{PG.rango(f, EN)}:** {f['en' if EN else 'es']}" for f in fe]
+        open(os.path.join(F, f"{num}-fechas.md"), "w").write("\n".join(txt) + "\n")
+    libro(F, O, "Programas_libro_Moodle.zip", "programas", cab, leads, {"01": "fa-life-ring", "02": "fa-compass"}, "")
 
 
 def paso_comunidad():
@@ -584,6 +604,9 @@ def paso_verificar():
     if extra: probs.append(f"CASOS sin lección: {sorted(extra)}")
     print(f"{tot} lecciones · {nq} preguntas · posiciones {pos} · correcta más larga: H5P {largo_h5p}/{tot*3}, quiz {largo_q}/{nq} · correcta más corta en H5P: {corto_h5p}/{tot*3}")
     print("problemas:", probs or "ninguno")
+    import verificacion as VER
+    viejos = VER.vencidos(D)
+    if viejos: print(f"AVISO datos por revisar (más de {VER.MESES_VIGENCIA} meses o sin fecha): {len(viejos)} · " + ", ".join(sorted({c for c, *_ in viejos})))
     return probs
 
 
