@@ -2052,6 +2052,14 @@ If you're Mexican, your children can also register their Mexican nationality at 
 
 
 
+#### If you arrive in Mexico: México te Abraza
+
+If you're sent back to Mexico, the Mexican government's **México te Abraza** program receives you at the border or the airport. It helps you at no cost with transport to your state, your CURP and birth certificate, IMSS and jobs. It also gives you the Tarjeta Bienestar Paisano, a card with 2,000 pesos for your first expenses.
+
+Keep the record the INM gives you when you arrive: you'll need it for your paperwork.
+
+
+
 #### Cases
 
 

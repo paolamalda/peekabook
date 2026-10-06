@@ -2052,6 +2052,14 @@ Si tú eres mexicano, tus hijos también pueden registrar su nacionalidad mexica
 
 
 
+#### Si llegas a México: México te Abraza
+
+Si te regresan a México, el programa **México te Abraza** del gobierno mexicano te recibe en la frontera o en el aeropuerto. Te ayuda sin costo con traslado a tu estado, CURP y acta, IMSS, empleo y la Tarjeta Bienestar Paisano, con 2,000 pesos para tus primeros gastos.
+
+Guarda la constancia que te da el INM al llegar: la vas a necesitar para tus trámites.
+
+
+
 #### Casos
 
 
