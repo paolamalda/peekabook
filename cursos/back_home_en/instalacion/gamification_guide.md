@@ -11,7 +11,7 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 | One book per lesson (with the practice embedded) | 24 | View |
 | Quiz "Module N self-assessment" | 1 per part (8) | Passing grade of 70% |
 
-**Self-assessments:** use the bank of 72 three-option questions with feedback, in categories *Back Home v0.1/M1* to *M8*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
+**Self-assessments:** use the bank of 72 three-option questions with feedback, in categories *Back Home v1.0/M1* to *M8*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
 
 ## 2. Level Up: levels and points
 

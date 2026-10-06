@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Regreso v0.1/M1
+$CATEGORY: $course$/Tu Regreso v1.0/M1
 
 ::M1 U01 P1::¿Qué papel te da el INM al regresarte? {
 	=La Constancia de Recepción de Mexicanos Repatriados #¡Correcto! Es tu identificación temporal.
@@ -54,7 +54,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M1
 	=Pides inscripción mientras se regulariza #¡Correcto! La escuela no debe esperar.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M2
+$CATEGORY: $course$/Tu Regreso v1.0/M2
 
 ::M2 U01 P1::¿Qué es la Tarjeta Bienestar Paisano? {
 	=Un apoyo único de 2,000 pesos #¡Correcto! Es una sola vez.
@@ -110,7 +110,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M2
 	=A CONDUSEF #¡Correcto! Defiende a usuarios.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M3
+$CATEGORY: $course$/Tu Regreso v1.0/M3
 
 ::M3 U01 P1::Tenías buen crédito en Texas. ¿Cómo apareces en México? {
 	=Sin historial #¡Correcto! Empiezas de cero.
@@ -166,7 +166,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M3
 	=Cuánto pagarás en total #¡Correcto! El total.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M4
+$CATEGORY: $course$/Tu Regreso v1.0/M4
 
 ::M4 U01 P1::Te deben una semana de sueldo en EE. UU. ¿Qué haces? {
 	=Lo pides por depósito o cheque #¡Correcto! Es tuyo.
@@ -222,7 +222,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M4
 	~400 #No es la mejor opción. Unos 10 años.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M5
+$CATEGORY: $course$/Tu Regreso v1.0/M5
 
 ::M5 U01 P1::Trabajaste en México con IMSS en 2005. ¿Tienes Afore? {
 	=Probablemente sí #¡Correcto! Si cotizaste, la tienes.
@@ -278,7 +278,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M5
 	=Servicio médico y semanas #¡Correcto! Servicio médico y semanas.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M6
+$CATEGORY: $course$/Tu Regreso v1.0/M6
 
 ::M6 U01 P1::¿Para cuánto tiempo planeas al regresar? {
 	~Una semana #No es la mejor opción. Los primeros meses.
@@ -334,7 +334,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M6
 	=Apoyos o becas a los que tengan derecho #¡Correcto! Puede haber apoyos.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M7
+$CATEGORY: $course$/Tu Regreso v1.0/M7
 
 ::M7 U01 P1::¿Cómo presentas tu experiencia? {
 	~«Le hago a todo» #No es la mejor opción. Concreto.
@@ -390,7 +390,7 @@ $CATEGORY: $course$/Tu Regreso v0.1/M7
 	=Para saber si ganas o pierdes #¡Correcto! Para ver si ganas.
 }
 
-$CATEGORY: $course$/Tu Regreso v0.1/M8
+$CATEGORY: $course$/Tu Regreso v1.0/M8
 
 ::M8 U01 P1::Te cobran por tramitar tu INE. ¿Qué es? {
 	=Un gestor falso #¡Correcto! Es sin costo.

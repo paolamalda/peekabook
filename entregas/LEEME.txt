@@ -39,12 +39,19 @@ ORDEN SUGERIDO (piloto primero)
 
    1. Tu Dinero, Tu Familia, Tu Futuro (español) ............ Tu_Dinero_ES_v4.0
    2. Your Money, Your Family, Your Future (inglés) ......... Your_Money_EN_v4.0
+   3. Cursos para migrantes: Tu Regreso, Back Home, Tu Temporada, Tu Negocio EE. UU. y Your Business.
    Los demás cursos se agregan a esta carpeta conforme se generan (ver LISTA DE PAQUETES abajo).
+   Las comunidades (Comunidad_…) son cursos aparte: se crean con su propio README después de su curso.
 
 LISTA DE PAQUETES DE ESTA CARPETA
 
    Tu_Dinero_ES_v4.0 (4 partes)          Tu Dinero, Tu Familia, Tu Futuro · migrantes en California · español
    Your_Money_EN_v4.0 (4 partes)         Your Money, Your Family, Your Future · inglés
+   Tu_Regreso_v1.0 (1 zip)               Tu Regreso, Tu Dinero, Tu Futuro · personas que regresan a México · español
+   Back_Home_v1.0 (1 zip)                Back Home, Your Money, Your Future · inglés
+   Tu_Temporada_v1.0 (1 zip)             Tu Temporada · jornaleros temporales (PTAT Canadá y H-2A EE. UU.)
+   Tu_Negocio_US_ES_v2.0 (3 partes)      Tu Negocio · EE. UU. · español  + Comunidad_Tu_Negocio_US_ES_v2.0
+   Your_Business_US_EN_v2.0 (3 partes)   Your Business · U.S. · inglés  + Your_Business_Community_US_EN_v2.0
 
 Cada curso trae: libros por lección con la práctica H5P incrustada, Bienvenida y Cierre, Materiales de apoyo,
 «Para ir a fondo» (opcional), sección extra «Programas y apoyos» (se puede ocultar o borrar sin afectar el curso),

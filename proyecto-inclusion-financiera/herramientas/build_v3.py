@@ -96,6 +96,9 @@ def glosario(text, name):
     terms = {}
     for k, v in re.findall(r"\{\{([^|}]+)\|([^}]+)\}\}", text):
         terms.setdefault(k.strip()[0].upper() + k.strip()[1:], v.strip())
+    # también las «palabras» de cada lección (- *Término:* definición), para cursos sin definiciones emergentes
+    for k, v in re.findall(r"(?m)^- \*([^*:]+):\*\s*(.+)$", text):
+        terms.setdefault(k.strip()[0].upper() + k.strip()[1:], v.strip())
     x = ['<?xml version="1.0" encoding="UTF-8"?>', f'<GLOSSARY><INFO><NAME>{html.escape(name)}</NAME><INTRO>Significado de los términos del curso, en palabras sencillas.</INTRO><INTROFORMAT>1</INTROFORMAT><ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES><DISPLAYFORMAT>dictionary</DISPLAYFORMAT><SHOWSPECIAL>1</SHOWSPECIAL><SHOWALPHABET>1</SHOWALPHABET><SHOWALL>1</SHOWALL><ALLOWCOMMENTS>0</ALLOWCOMMENTS><USEDYNALINK>0</USEDYNALINK><DEFAULTAPPROVAL>1</DEFAULTAPPROVAL><GLOBALGLOSSARY>0</GLOBALGLOSSARY><ENTBYPAGE>20</ENTBYPAGE><ENTRIES>']
     for k in sorted(terms, key=str.lower):
         x.append(f'<ENTRY><CONCEPT>{html.escape(k)}</CONCEPT><DEFINITION>{html.escape(terms[k])}</DEFINITION><FORMAT>1</FORMAT><USEDYNALINK>0</USEDYNALINK><CASESENSITIVE>0</CASESENSITIVE><FULLMATCH>1</FULLMATCH><TEACHERENTRY>1</TEACHERENTRY></ENTRY>')

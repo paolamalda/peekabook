@@ -132,9 +132,9 @@ In section 10, create the glossary `Course key words` and import `3_glossary/Glo
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN v1.3/M1* to *M9* are created, with 135 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/question_bank_ybmf_us_en.gift.txt`. Categories *Your Business US EN v2.0/M1* to *M9* are created, with 135 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
-3. Add **all** questions from *Your Business US EN v1.3/MN*, 10 per page:
+3. Add **all** questions from *Your Business US EN v2.0/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|

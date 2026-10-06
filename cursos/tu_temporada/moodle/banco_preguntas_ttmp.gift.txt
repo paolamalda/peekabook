@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Temporada v0.1/M1
+$CATEGORY: $course$/Tu Temporada v1.0/M1
 
 ::M1 U01 P1::¿Dónde te registras para el PTAT a Canadá? {
 	~Con un reclutador privado que cobra cuota #No es la mejor opción. SNE.
@@ -54,7 +54,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M1
 	~En ninguno #No es la mejor opción. Español.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M2
+$CATEGORY: $course$/Tu Temporada v1.0/M2
 
 ::M2 U01 P1::Pides 10,000 al 10% mensual. ¿Cuánto pagas de interés al mes? {
 	~100 #No es la mejor opción. 10% de 10,000.
@@ -110,7 +110,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M2
 	=Cada semana #¡Correcto! Cada semana.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M3
+$CATEGORY: $course$/Tu Temporada v1.0/M3
 
 ::M3 U01 P1::¿Qué trae tu talón de pago? {
 	~Solo tu nombre, la fecha y el empleador #No es la mejor opción. Los tres.
@@ -166,7 +166,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M3
 	~Lo prestas a compañeros que te lo pidan #No es la mejor opción. Mándalo.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M4
+$CATEGORY: $course$/Tu Temporada v1.0/M4
 
 ::M4 U01 P1::¿Qué comparas entre empresas de envío? {
 	~El color del anuncio #No es la mejor opción. Lo que llega.
@@ -222,7 +222,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M4
 	=Desconfías y verificas #¡Correcto! Desconfía.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M5
+$CATEGORY: $course$/Tu Temporada v1.0/M5
 
 ::M5 U01 P1::¿El salario H-2A paga Seguro Social de EE. UU.? {
 	~Sí, el doble #No es la mejor opción. No.
@@ -278,7 +278,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M5
 	~Le mandas una foto de tu tarjeta #No es la mejor opción. Protégelo.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M6
+$CATEGORY: $course$/Tu Temporada v1.0/M6
 
 ::M6 U01 P1::¿Quién guarda tu pasaporte? {
 	~El encargado #No es la mejor opción. Tú.
@@ -334,7 +334,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M6
 	=El enlace del PTAT en el consulado #¡Correcto! Enlace.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M7
+$CATEGORY: $course$/Tu Temporada v1.0/M7
 
 ::M7 U01 P1::¿Hasta cuándo es el regreso en el PTAT? {
 	=Al 15 de diciembre #¡Correcto! 15 de diciembre.
@@ -390,7 +390,7 @@ $CATEGORY: $course$/Tu Temporada v0.1/M7
 	~El reclutador que te contrata #No es la mejor opción. En familia.
 }
 
-$CATEGORY: $course$/Tu Temporada v0.1/M8
+$CATEGORY: $course$/Tu Temporada v1.0/M8
 
 ::M8 U01 P1::¿Qué es el CPP? {
 	~Una multa por faltar al trabajo #No es la mejor opción. CPP.

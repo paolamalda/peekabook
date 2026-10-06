@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Back Home v0.1/M1
+$CATEGORY: $course$/Back Home v1.0/M1
 
 ::M1 U01 P1::What paper does the INM give you when you're sent back? {
 	=The Record of Reception of Repatriated Mexicans #Correct! It's your temporary ID.
@@ -54,7 +54,7 @@ $CATEGORY: $course$/Back Home v0.1/M1
 	=Ask for enrollment while it's sorted out #Correct! School should not wait.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M2
+$CATEGORY: $course$/Back Home v1.0/M2
 
 ::M2 U01 P1::What is the Tarjeta Bienestar Paisano? {
 	=A one-time support of 2,000 pesos #Correct! It's only once.
@@ -110,7 +110,7 @@ $CATEGORY: $course$/Back Home v0.1/M2
 	=To CONDUSEF #Correct! It defends users.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M3
+$CATEGORY: $course$/Back Home v1.0/M3
 
 ::M3 U01 P1::You had good credit in Texas. How do you show up in Mexico? {
 	=With no history #Correct! You start from zero.
@@ -166,7 +166,7 @@ $CATEGORY: $course$/Back Home v0.1/M3
 	=How much you'll pay in total #Correct! The total.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M4
+$CATEGORY: $course$/Back Home v1.0/M4
 
 ::M4 U01 P1::You're owed a week's wages in the U.S. What do you do? {
 	=Ask for it by deposit or check #Correct! It's yours.
@@ -222,7 +222,7 @@ $CATEGORY: $course$/Back Home v0.1/M4
 	~400 #Not the best option. About 10 years.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M5
+$CATEGORY: $course$/Back Home v1.0/M5
 
 ::M5 U01 P1::You worked in Mexico with IMSS in 2005. Do you have an Afore? {
 	=Probably yes #Correct! If you contributed, you have one.
@@ -278,7 +278,7 @@ $CATEGORY: $course$/Back Home v0.1/M5
 	=Medical care and weeks #Correct! Medical care and weeks.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M6
+$CATEGORY: $course$/Back Home v1.0/M6
 
 ::M6 U01 P1::How far ahead do you plan when you return? {
 	~One week #Not the best option. The first months.
@@ -334,7 +334,7 @@ $CATEGORY: $course$/Back Home v0.1/M6
 	=Support or scholarships they're entitled to #Correct! There may be support.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M7
+$CATEGORY: $course$/Back Home v1.0/M7
 
 ::M7 U01 P1::How do you present your experience? {
 	~«I do a bit of everything» #Not the best option. Specific.
@@ -390,7 +390,7 @@ $CATEGORY: $course$/Back Home v0.1/M7
 	=To know whether you're making or losing money #Correct! To see if you profit.
 }
 
-$CATEGORY: $course$/Back Home v0.1/M8
+$CATEGORY: $course$/Back Home v1.0/M8
 
 ::M8 U01 P1::Someone charges you to process your INE. What is it? {
 	=A fake fixer #Correct! It has no cost.

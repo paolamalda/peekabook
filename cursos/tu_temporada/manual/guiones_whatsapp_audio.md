@@ -52,7 +52,7 @@ Hola. Hoy hablamos de esto: Reclutadores falsos. Un señor del pueblo vecino le 
 
 ```
 *M1 U03 · Lee tu contrato*
-Lee pago, horas, vivienda y descuentos; en la H-2A te garantizan 3/4 de las horas y en el PTAT al menos 240 horas en 6 semanas.
+Lee pago, horas, vivienda y descuentos. En la H-2A te garantizan 3/4 de las horas. En el PTAT, al menos 240 horas en 6 semanas.
 
 • Pago, horas, vivienda, descuentos.
 • H-2A: 3/4 de las horas.
@@ -63,9 +63,9 @@ Tu paso de esta semana: Antes de firmar, anota pago, horas, vivienda y descuento
 Lección: [por definir]
 ```
 
-**Audio** (116 palabras, unos 48 segundos)
+**Audio** (115 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Lee tu contrato. Don Efrén firmó su primer contrato sin leerlo. Ese año hubo pocas horas por la lluvia y le pagaron muy poco. No sabía que tenía una garantía. Rosaura, en Canadá, tampoco sabía cuántas horas mínimas le tocaban. En esta lección revisarás tu contrato. Lee pago, horas, vivienda y descuentos; en la H-2A te garantizan 3/4 de las horas y en el PTAT al menos 240 horas en 6 semanas. Recuerda: Pago, horas, vivienda, descuentos. H-2A: 3/4 de las horas. PTAT: 240 horas en 6 semanas. Tu paso de esta semana: Antes de firmar, anota pago, horas, vivienda y descuentos de tu contrato. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Lee tu contrato. Don Efrén firmó su primer contrato sin leerlo. Ese año hubo pocas horas por la lluvia y le pagaron muy poco. No sabía que tenía una garantía. Rosaura, en Canadá, tampoco sabía cuántas horas mínimas le tocaban. En esta lección revisarás tu contrato. Lee pago, horas, vivienda y descuentos. En la H-2A te garantizan 3/4 de las horas. En el PTAT, al menos 240 horas en 6 semanas. Recuerda: Pago, horas, vivienda, descuentos. H-2A: 3/4 de las horas. PTAT: 240 horas en 6 semanas. Tu paso de esta semana: Antes de firmar, anota pago, horas, vivienda y descuentos de tu contrato. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Antes de irte: la casa en orden
 
@@ -161,7 +161,7 @@ Hola. Hoy hablamos de esto: Tu talón de pago. Juan Carlos cobra cada semana, pe
 
 ```
 *M3 U02 · ¿Te pagan lo correcto?*
-Te deben pagar al menos lo del contrato; si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
+Te deben pagar al menos lo del contrato. Si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
 
 • El contrato manda.
 • Reclama con tu libreta.
@@ -174,7 +174,7 @@ Lección: [por definir]
 
 **Audio** (106 palabras, unos 44 segundos)
 
-Hola. Hoy hablamos de esto: ¿Te pagan lo correcto? Don Efrén notó que este año su salario por hora en EE. UU. bajó. Rosaura quiere saber si en Ontario le pagan lo que dice su contrato. En esta lección verán cómo se fija el salario en cada país. Te deben pagar al menos lo del contrato; si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo. Recuerda: El contrato manda. Reclama con tu libreta. Consulado y autoridad laboral. Tu paso de esta semana: Anota la tarifa de tu contrato y guárdala con tu libreta. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Te pagan lo correcto? Don Efrén notó que este año su salario por hora en EE. UU. bajó. Rosaura quiere saber si en Ontario le pagan lo que dice su contrato. En esta lección verán cómo se fija el salario en cada país. Te deben pagar al menos lo del contrato. Si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo. Recuerda: El contrato manda. Reclama con tu libreta. Consulado y autoridad laboral. Tu paso de esta semana: Anota la tarifa de tu contrato y guárdala con tu libreta. Nos escuchamos en la próxima lección.
 
 ### M3 U03 · Cobrar sin perder en comisiones
 
@@ -291,7 +291,7 @@ Hola. Hoy hablamos de esto: Impuestos en Estados Unidos con visa H-2A. Juan Carl
 
 ```
 *M5 U02 · Impuestos en Canadá con el PTAT*
-En Canadá te descuentan impuesto, CPP y EI; presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
+En Canadá te descuentan impuesto, CPP y EI. Presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
 
 • Impuesto, CPP, EI.
 • Presenta tu declaración.
@@ -304,7 +304,7 @@ Lección: [por definir]
 
 **Audio** (108 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Impuestos en Canadá con el PTAT. Rosaura ve que cada semana le descuentan impuesto, CPP y EI. Nunca ha presentado su declaración en Canadá porque «ya me lo quitaron». Una compañera recibió un reembolso. En esta lección verás por qué. En Canadá te descuentan impuesto, CPP y EI; presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión. Recuerda: Impuesto, CPP, EI. Presenta tu declaración. Guarda tu T4 y tu SIN. Tu paso de esta semana: Guarda tu T4 y tu SIN y pregunta en el consulado dónde declarar sin costo. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Impuestos en Canadá con el PTAT. Rosaura ve que cada semana le descuentan impuesto, CPP y EI. Nunca ha presentado su declaración en Canadá porque «ya me lo quitaron». Una compañera recibió un reembolso. En esta lección verás por qué. En Canadá te descuentan impuesto, CPP y EI. Presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión. Recuerda: Impuesto, CPP, EI. Presenta tu declaración. Guarda tu T4 y tu SIN. Tu paso de esta semana: Guarda tu T4 y tu SIN y pregunta en el consulado dónde declarar sin costo. Nos escuchamos en la próxima lección.
 
 ### M5 U03 · Tu carpeta de papeles
 
@@ -465,7 +465,7 @@ Hola. Hoy hablamos de esto: ¿Otra temporada? Juan Carlos regresó y no sabe si 
 
 ```
 *M8 U01 · Tu retiro: Canadá, Estados Unidos y México*
-En Canadá cotizas al CPP y se puede sumar con México; con la H-2A no cotizas allá, así que aporta a tu Afore.
+En Canadá cotizas al CPP y se puede sumar con México. Con la H-2A no cotizas allá, así que aporta a tu Afore.
 
 • Canadá: CPP y convenio.
 • EE. UU.: sin Seguro Social.
@@ -478,7 +478,7 @@ Lección: [por definir]
 
 **Audio** (116 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Tu retiro: Canadá, Estados Unidos y México. Rosaura lleva seis temporadas en Canadá y Don Efrén ocho en Estados Unidos. Los dos creen que «eso no cuenta para nada en la vejez». En esta lección verán que para Rosaura sí cuenta, y qué puede hacer Don Efrén. En Canadá cotizas al CPP y se puede sumar con México; con la H-2A no cotizas allá, así que aporta a tu Afore. Recuerda: Canadá: CPP y convenio. EE. UU.: sin Seguro Social. México: Afore. Tu paso de esta semana: Localiza tu Afore, decide cuánto aportarás cada mes de temporada y guarda tus T4 si vas a Canadá. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu retiro: Canadá, Estados Unidos y México. Rosaura lleva seis temporadas en Canadá y Don Efrén ocho en Estados Unidos. Los dos creen que «eso no cuenta para nada en la vejez». En esta lección verán que para Rosaura sí cuenta, y qué puede hacer Don Efrén. En Canadá cotizas al CPP y se puede sumar con México. Con la H-2A no cotizas allá, así que aporta a tu Afore. Recuerda: Canadá: CPP y convenio. EE. UU.: sin Seguro Social. México: Afore. Tu paso de esta semana: Localiza tu Afore, decide cuánto aportarás cada mes de temporada y guarda tus T4 si vas a Canadá. Nos escuchamos en la próxima lección.
 
 ### M8 U02 · Un proyecto que produce
 
