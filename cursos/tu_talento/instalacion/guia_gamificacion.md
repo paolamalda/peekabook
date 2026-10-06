@@ -1,6 +1,6 @@
 # Guía de actividades, puntos, insignias y constancia · Tu Talento, Tu Marca, Tu Futuro
 
-Esta guía es para Moodle 3.10 con Level Up (block_xp) 3.15.2 y el complemento Certificado personalizado (mod_customcert).
+Esta guía es para Moodle 4.5 con Level Up (block_xp) y el complemento Certificado personalizado (mod_customcert).
 
 El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificación perfecta. Nunca se muestra el nombre de nadie en una tabla.
 
@@ -49,7 +49,7 @@ Completar todo el curso da unos 2,600 puntos:
 
 ## 3. Insignias
 
-*Administración del curso > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca. Los nombres llevan el curso para que no se repitan en la plataforma: úsalos tal cual.
+*Más > Insignias > Agregar una nueva insignia*. Imágenes en `5_insignias/`. Emisor: Desarrolla Talento. Vencimiento: nunca. Los nombres llevan el curso para que no se repitan en la plataforma: úsalos tal cual.
 
 | Imagen | Insignia | Criterio (finalización de actividad, con aprobación) | Descripción |
 |---|---|---|---|
@@ -66,7 +66,7 @@ Al terminar, **activa** cada insignia.
 
 ## 4. Finalización del curso
 
-*Administración del curso > Finalización del curso*: condición de finalización de actividades con **todas** las 11 autoevaluaciones. Opcional: los 11 libros.
+*Más > Finalización del curso*: condición de finalización de actividades con **todas** las 11 autoevaluaciones. Opcional: los 11 libros.
 
 ## 5. Constancia de conclusión (Certificado personalizado)
 

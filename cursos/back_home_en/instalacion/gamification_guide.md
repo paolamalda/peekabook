@@ -1,6 +1,6 @@
 # Activities, points, badges and certificate guide · Back Home, Your Money, Your Future
 
-This guide is for Moodle 3.10 with Level Up (block_xp) 3.15.2 and the Custom certificate plugin (mod_customcert).
+This guide is for Moodle 4.5 with Level Up (block_xp) and the Custom certificate plugin (mod_customcert).
 
 The goal is to motivate without competing. Points reward progress, not perfect scores. Nobody's name is ever shown in a table.
 
@@ -49,7 +49,7 @@ Completing the whole course gives about 1,000 points:
 
 ## 3. Badges
 
-*Course administration > Badges > Add a new badge*. Images in `5_badges/`. Issuer: Desarrolla Talento. Expiry: never. Names include the course so they're unique on the platform: use them exactly.
+*More > Badges > Add a new badge*. Images in `5_badges/`. Issuer: Desarrolla Talento. Expiry: never. Names include the course so they're unique on the platform: use them exactly.
 
 | Image | Badge | Criterion (activity completion, with passing grade) | Description |
 |---|---|---|---|
@@ -66,7 +66,7 @@ When done, **enable** each badge.
 
 ## 4. Course completion
 
-*Course administration > Course completion*: activity completion condition with **all** 8 self-assessments. Optional: the 8 books.
+*More > Course completion*: activity completion condition with **all** 8 self-assessments. Optional: the 8 books.
 
 ## 5. Certificate of completion (Custom certificate)
 

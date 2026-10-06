@@ -101,7 +101,7 @@ def construir(D, CFG):
     I = os.path.join(D, "instalacion")
     readme = os.path.basename(glob.glob(os.path.join(I, "README_*.md"))[0])
     G = [f"# {tit}: " + txt(en, "guía de implementación", "implementation guide"),
-         txt(en, "Para el equipo que monta y opera el curso en Moodle 3.10.", "For the team that sets up and runs the course in Moodle 3.10."),
+         txt(en, "Para el equipo que monta y opera el curso en Moodle 4.5.", "For the team that sets up and runs the course in Moodle 4.5."),
          f"# {txt(en, 'Parte', 'Part')} 1. " + txt(en, "Instalación en Moodle, paso a paso", "Installation in Moodle, step by step") +
          f"\n\n{txt(en, 'El mismo archivo está en', 'The same file is in')} `04_Moodle/{readme}`.\n\n" + K.shift(K.sin_titulo(C.leer(os.path.join(I, readme)))),
          f"# {txt(en, 'Parte', 'Part')} 2. " + txt(en, "Actividades, puntos, insignias y constancia", "Activities, points, badges and certificate") +

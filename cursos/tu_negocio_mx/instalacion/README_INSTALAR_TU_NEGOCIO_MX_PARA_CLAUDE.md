@@ -1,6 +1,6 @@
-# Instrucciones para Claude: instalar "Tu Negocio, Tu Dinero, Tu Futuro" (Moodle 3.10)
+# Instrucciones para Claude: instalar "Tu Negocio, Tu Dinero, Tu Futuro" (Moodle 4.5)
 
-Vas a crear el curso **Tu Negocio, Tu Dinero, Tu Futuro** en academia.desarrollatalento.com. El sitio usa Moodle 3.10, el tema Boost, Level Up 3.15.2 y el complemento **Certificado personalizado** (mod_customcert).
+Vas a crear el curso **Tu Negocio, Tu Dinero, Tu Futuro** en academia.desarrollatalento.com. El sitio usa Moodle 4.5, el tema Boost, Level Up (block_xp) y el complemento **Certificado personalizado** (mod_customcert).
 
 Si en el sitio existen otros cursos, **no los toques.**
 
@@ -14,6 +14,32 @@ Reglas:
 - No cambies la configuración del sitio.
 - No toques otros cursos.
 - Si algo no coincide con estas instrucciones, detente y pregunta.
+
+## En Moodle 4.5: dónde está cada cosa
+
+El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscalo así:
+
+| Para | En Moodle 4.5 |
+|---|---|
+| Editar el curso | Interruptor **Modo de edición**, arriba a la derecha |
+| Configuración, participantes, insignias, banco de preguntas, banco de contenido, finalización | Menú del curso (pestañas bajo el título): *Configuración*, *Participantes* y *Más* > *Banco de preguntas*, *Banco de contenido*, *Insignias*, *Finalización del curso* |
+| Métodos de inscripción | *Participantes* > selector de arriba > *Métodos de inscripción* |
+| Importar capítulos de un libro | Dentro del libro, menú de acciones (⋮ o *Más*) > *Importar capítulo* |
+| Importar entradas del glosario | Dentro del glosario, selector o menú de acciones > *Importar entradas* |
+| Importar preguntas de una encuesta (Retroalimentación) | Dentro de la actividad, pestaña *Preguntas* > menú > *Importar preguntas* |
+| Ver como estudiante | Menú de tu usuario (arriba a la derecha) > *Cambiar rol a…* > *Estudiante* |
+| Finalización de una actividad | En su configuración, sección *Condiciones de finalización* |
+
+**Para ahorrar horas** (el curso tiene muchas piezas):
+
+1. **Finalización predeterminada antes de crear los libros:** *Más > Finalización del curso* > selector > *Finalización de actividad predeterminada*. Para **Libro**: "Ver". Para **Cuestionario**: "Recibir una calificación aprobatoria". Así cada libro nuevo ya nace con su finalización.
+2. **Edición masiva:** en modo de edición, *Edición masiva* (arriba a la derecha) permite mover, mostrar u ocultar varias actividades a la vez.
+3. **Trabaja por etapas y reporta en cada una:** primero la sección General (Bienvenida, foro, «Mi meta», encuesta de inicio, «Tu punto de partida») y la Parte 1 completa. Detente, toma capturas y reporta a la persona antes de seguir con las demás partes.
+4. Si una opción de estas instrucciones no existe con ese nombre en 4.5, usa la equivalente y anótala en el reporte.
+
+**Mosaicos (Tiles) en 4.5:** si *Usar submosaicos para las actividades* o *Mostrar progreso* no aparecen en la configuración del curso, pueden estar desactivados para todo el sitio; no cambies la configuración del sitio: repórtalo.
+
+**Level Up en 4.5:** las versiones nuevas agrupan las reglas en *Level Up > Puntos*. Si existe la regla de **finalización de actividad**, úsala con 25 puntos en lugar del evento. La *Clasificación* puede llamarse *Tabla de posiciones*.
 
 ## 0. Antes de empezar
 

@@ -240,6 +240,8 @@ If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG[
 - Do not ask for real data to pass.
 - Do not tie badges or the certificate to buying services or products.
 """
+    from moodle45 import adaptar
+    readme, guide = adaptar(readme, guide, en=True)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)
     for f in os.listdir(os.path.join(D, "instalacion")):
         if f.startswith("README_INSTALL"): os.remove(os.path.join(D, "instalacion", f))

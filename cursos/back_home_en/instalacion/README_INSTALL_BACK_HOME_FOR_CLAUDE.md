@@ -1,6 +1,6 @@
-# Instructions for Claude: install "Back Home, Your Money, Your Future" (Moodle 3.10)
+# Instructions for Claude: install "Back Home, Your Money, Your Future" (Moodle 4.5)
 
-You will create the course **Back Home, Your Money, Your Future** on academia.desarrollatalento.com. The site runs Moodle 3.10, the Boost theme, Level Up 3.15.2 and the **Custom certificate** plugin (mod_customcert).
+You will create the course **Back Home, Your Money, Your Future** on academia.desarrollatalento.com. The site runs Moodle 4.5, the Boost theme, Level Up (block_xp) and the **Custom certificate** plugin (mod_customcert).
 
 If other courses exist on the site, **do not touch them.**
 
@@ -14,6 +14,32 @@ Rules:
 - Do not change site settings.
 - Do not touch other courses.
 - If anything does not match these instructions, stop and ask.
+
+## In Moodle 4.5: where everything is
+
+The site runs **Moodle 4.5**. Where these instructions name a menu, look for it like this:
+
+| To | In Moodle 4.5 |
+|---|---|
+| Edit the course | **Edit mode** toggle, top right |
+| Settings, participants, badges, question bank, content bank, completion | Course menu (tabs under the title): *Settings*, *Participants* and *More* > *Question bank*, *Content bank*, *Badges*, *Course completion* |
+| Enrolment methods | *Participants* > selector at the top > *Enrolment methods* |
+| Import chapters into a book | Inside the book, actions menu (⋮ or *More*) > *Import chapter* |
+| Import glossary entries | Inside the glossary, selector or actions menu > *Import entries* |
+| Import questions into a survey (Feedback) | Inside the activity, *Questions* tab > menu > *Import questions* |
+| View as a student | Your user menu (top right) > *Switch role to…* > *Student* |
+| Activity completion | In its settings, *Completion conditions* section |
+
+**To save hours** (the course has many pieces):
+
+1. **Default completion before creating the books:** *More > Course completion* > selector > *Default activity completion*. For **Book**: "View". For **Quiz**: "Receive a passing grade". Every new book then starts with its completion set.
+2. **Bulk edit:** in edit mode, *Bulk edit* (top right) lets you move, show or hide several activities at once.
+3. **Work in stages and report at each one:** first the General section (Welcome, forum, "My goal", start survey, "Your starting point") and all of Part 1. Stop, take screenshots and report to the person before continuing with the other parts.
+4. If an option in these instructions has a different name in 4.5, use the equivalent and note it in the report.
+
+**Tiles in 4.5:** if *Use sub-tiles for activities* or *Show progress* don't appear in the course settings, they may be turned off for the whole site; don't change site settings: report it.
+
+**Level Up in 4.5:** newer versions group the rules under *Level Up > Points*. If there is an **activity completion** rule, use it with 25 points instead of the event. *Ladder* may be called *Leaderboard*.
 
 ## 0. Before you start
 
