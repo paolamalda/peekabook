@@ -2,7 +2,7 @@
 
 Your consulate has no-cost services for you and your family:
 
-- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** private guidance on your budget, savings, credit, debts, U.S. taxes, sending money and your Afore or IMSS in Mexico. Also if you want to invest in a project or buy property.
+- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** private guidance on your budget, savings, credit and debts. Also on U.S. taxes, sending money and your Afore or IMSS in Mexico. Also if you want to invest in a project or buy property.
 - **Health Window (Ventanilla de Salud):** health information and where to get care.
 - **Education Window (Ventanilla de Orientación Educativa):** to finish elementary or middle school, learn English or keep studying.
 - **Mobile consulates:** the consulate visits faraway cities to do paperwork.

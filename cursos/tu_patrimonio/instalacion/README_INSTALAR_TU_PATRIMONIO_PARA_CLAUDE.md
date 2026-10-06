@@ -177,6 +177,16 @@ Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con
 
 Este curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe "[por definir]" y repórtalo).
 
+## Sección extra: Programas y apoyos
+
+Esta sección va **aparte**: nada del curso depende de ella.
+
+1. Agrega una sección **al final** del curso llamada `Programas y apoyos` (descripción: "Programas de gobierno y servicios públicos que pueden servirte. Información revisada; confírmala en el sitio oficial."). Elige un ícono de «ayuda» para su mosaico.
+2. Crea el libro `Programas y apoyos` con la misma configuración e importa `1_libros/Programas_libro_Moodle.zip` (4 capítulos).
+3. **Finalización: ninguna.** No lo incluyas en la finalización del curso ni en las restricciones de otras actividades, y no le des puntos.
+4. **Para quitarla:** oculta la sección (ojo > Ocultar) o bórrala. El resto del curso sigue igual.
+5. Si llega un paquete nuevo de este libro, reemplaza solo este libro.
+
 ## 11. Revisión final (con rol de estudiante)
 
 - La portada muestra un mosaico por parte con su porcentaje; dentro de cada parte, un submosaico por lección sin claves técnicas.

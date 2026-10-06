@@ -2,7 +2,7 @@
 
 En tu consulado hay espacios sin costo para ti y tu familia:
 
-- **Ventanilla de Asesoría Financiera:** orientación privada sobre presupuesto, ahorro, crédito, deudas, impuestos en EE. UU., envíos de dinero y tu Afore o el IMSS en México. También si quieres invertir en un proyecto o comprar una propiedad.
+- **Ventanilla de Asesoría Financiera:** orientación privada sobre presupuesto, ahorro, crédito y deudas. También sobre impuestos en EE. UU., envíos de dinero y tu Afore o el IMSS en México. También si quieres invertir en un proyecto o comprar una propiedad.
 - **Ventanilla de Salud:** información de salud y dónde atenderte.
 - **Ventanilla de Orientación Educativa:** para terminar la primaria o la secundaria, aprender inglés o seguir estudiando.
 - **Consulados móviles:** el consulado visita ciudades lejanas para hacer trámites.

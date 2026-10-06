@@ -40,8 +40,8 @@
     "en": "Consulate windows and your community"
    },
    "texto": {
-    "es": "En tu consulado hay espacios sin costo para ti y tu familia:\n\n- **Ventanilla de Asesoría Financiera:** orientación privada sobre presupuesto, ahorro, crédito, deudas, impuestos en EE. UU., envíos de dinero y tu Afore o el IMSS en México. También si quieres invertir en un proyecto o comprar una propiedad.\n- **Ventanilla de Salud:** información de salud y dónde atenderte.\n- **Ventanilla de Orientación Educativa:** para terminar la primaria o la secundaria, aprender inglés o seguir estudiando.\n- **Consulados móviles:** el consulado visita ciudades lejanas para hacer trámites.\n\nEstos espacios también te acercan a tu comunidad. Ahí te enteras de talleres, ferias y organizaciones de paisanos de tu región. Sigue las redes oficiales de tu consulado y desconfía de páginas que cobran por citas.\n\n> **Dato vigente:** hay 55 Ventanillas de Asesoría Financiera: 50 en Estados Unidos, 2 en Canadá, 2 en Alemania y 1 en Francia. Consultado el 6 de octubre de 2026 a través del Instituto de los Mexicanos en el Exterior (IME) y los consulados de México.",
-    "en": "Your consulate has no-cost services for you and your family:\n\n- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** private guidance on your budget, savings, credit, debts, U.S. taxes, sending money and your Afore or IMSS in Mexico. Also if you want to invest in a project or buy property.\n- **Health Window (Ventanilla de Salud):** health information and where to get care.\n- **Education Window (Ventanilla de Orientación Educativa):** to finish elementary or middle school, learn English or keep studying.\n- **Mobile consulates:** the consulate visits faraway cities to do paperwork.\n\nThese services also bring you closer to your community. There you hear about workshops, fairs and hometown associations from your region. Follow your consulate's official social media and be wary of pages that charge for appointments.\n\n> **Current fact:** there are 55 Financial Advisory Windows: 50 in the United States, 2 in Canada, 2 in Germany and 1 in France. Accessed October 6, 2026 through the Institute for Mexicans Abroad (IME) and Mexican consulates."
+    "es": "En tu consulado hay espacios sin costo para ti y tu familia:\n\n- **Ventanilla de Asesoría Financiera:** orientación privada sobre presupuesto, ahorro, crédito y deudas. También sobre impuestos en EE. UU., envíos de dinero y tu Afore o el IMSS en México. También si quieres invertir en un proyecto o comprar una propiedad.\n- **Ventanilla de Salud:** información de salud y dónde atenderte.\n- **Ventanilla de Orientación Educativa:** para terminar la primaria o la secundaria, aprender inglés o seguir estudiando.\n- **Consulados móviles:** el consulado visita ciudades lejanas para hacer trámites.\n\nEstos espacios también te acercan a tu comunidad. Ahí te enteras de talleres, ferias y organizaciones de paisanos de tu región. Sigue las redes oficiales de tu consulado y desconfía de páginas que cobran por citas.\n\n> **Dato vigente:** hay 55 Ventanillas de Asesoría Financiera: 50 en Estados Unidos, 2 en Canadá, 2 en Alemania y 1 en Francia. Consultado el 6 de octubre de 2026 a través del Instituto de los Mexicanos en el Exterior (IME) y los consulados de México.",
+    "en": "Your consulate has no-cost services for you and your family:\n\n- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** private guidance on your budget, savings, credit and debts. Also on U.S. taxes, sending money and your Afore or IMSS in Mexico. Also if you want to invest in a project or buy property.\n- **Health Window (Ventanilla de Salud):** health information and where to get care.\n- **Education Window (Ventanilla de Orientación Educativa):** to finish elementary or middle school, learn English or keep studying.\n- **Mobile consulates:** the consulate visits faraway cities to do paperwork.\n\nThese services also bring you closer to your community. There you hear about workshops, fairs and hometown associations from your region. Follow your consulate's official social media and be wary of pages that charge for appointments.\n\n> **Current fact:** there are 55 Financial Advisory Windows: 50 in the United States, 2 in Canada, 2 in Germany and 1 in France. Accessed October 6, 2026 through the Institute for Mexicans Abroad (IME) and Mexican consulates."
    },
    "recurso": {
     "es": "- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | Qué buscar: qué temas atiende y cómo pedir una cita en tu consulado.",
@@ -111,6 +111,157 @@
    },
    "recurso": {
     "es": "- **Programas del INPI** (Gobierno de México · español): https://www.gob.mx/inpi | Qué buscar: los programas del año, sus reglas de operación y el Centro Coordinador de tu región.",
+    "en": ""
+   }
+  },
+  {
+   "id": "banco_bienestar",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Banco del Bienestar",
+    "en": "Banco del Bienestar"
+   },
+   "texto": {
+    "es": "El **Banco del Bienestar** es un banco del gobierno. Ahí se depositan muchas pensiones, becas y apoyos, y también puedes abrir tu propia cuenta de ahorro:\n\n- se abre con **50 pesos**;\n- **no cobra** apertura ni manejo de cuenta, y no pide saldo mínimo;\n- tiene sucursales y cajeros también en comunidades rurales;\n- con su app consultas tu saldo y tus movimientos, y en 2026 agrega transferencias sin comisión.\n\nLlévate tu identificación y tu CURP. Nadie del banco te pide tu NIP ni tus códigos por teléfono.\n\n> **Dato vigente:** la cuenta de ahorro del Banco del Bienestar se abre con 50 pesos, sin comisión de apertura ni de manejo. Consultado el 6 de octubre de 2026 a través de medios nacionales; confirma en una sucursal o en el sitio oficial.",
+    "en": "**Banco del Bienestar** is a government bank. Many pensions, scholarships and support payments are deposited there, and you can also open your own savings account:\n\n- you open it with **50 pesos**;\n- it **doesn't charge** to open or keep the account, and there's no minimum balance;\n- it has branches and ATMs in rural communities too;\n- its app shows your balance and transactions, and in 2026 it adds transfers with no fee.\n\nBring your ID and your CURP. Nobody from the bank will ask for your PIN or codes by phone.\n\n> **Current fact:** a Banco del Bienestar savings account opens with 50 pesos, with no opening or maintenance fee. Accessed October 6, 2026 through national news outlets; confirm at a branch or on the official site."
+   },
+   "recurso": {
+    "es": "- **Banco del Bienestar** (Gobierno de México · español): https://www.gob.mx/bancodelbienestar | Qué buscar: la sucursal más cercana y los requisitos para abrir una cuenta.",
+    "en": "- **Banco del Bienestar** (Government of Mexico · Spanish): https://www.gob.mx/bancodelbienestar | What to look for: the nearest branch and what you need to open an account."
+   }
+  },
+  {
+   "id": "snef",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada",
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 5,
+   "titulo": {
+    "es": "Semana Nacional de Educación Financiera",
+    "en": "National Financial Education Week (SNEF)"
+   },
+   "texto": {
+    "es": "Cada año, la CONDUSEF organiza la **Semana Nacional de Educación Financiera (SNEF)**, con talleres, pláticas y juegos sobre ahorro, crédito, seguros y cómo evitar fraudes. **No tiene costo.** Puedes ir en persona o entrar a su plataforma en línea desde cualquier lugar, también desde Estados Unidos.\n\n> **Dato vigente:** la SNEF 2026 es del 15 al 18 de octubre en el Monumento a la Revolución, Ciudad de México, de 9:00 a 17:00. Su plataforma en línea está abierta del 15 de octubre de 2026 al 31 de marzo de 2027. Consultado el 6 de octubre de 2026 a través de la CONDUSEF.",
+    "en": "Every year, CONDUSEF holds Mexico's **National Financial Education Week (SNEF)**, with workshops, talks and games about saving, credit, insurance and avoiding scams. **It's at no cost.** You can go in person or use its online platform from anywhere, including the United States.\n\n> **Current fact:** SNEF 2026 runs October 15 to 18 at the Monumento a la Revolución, Mexico City, from 9:00 to 17:00. Its online platform is open from October 15, 2026 to March 31, 2027. Accessed October 6, 2026 through CONDUSEF."
+   },
+   "recurso": {
+    "es": "- **SNEF** (CONDUSEF · español): https://eduweb.condusef.gob.mx/snef/index.html | Qué buscar: el programa de actividades y la entrada a la plataforma en línea.",
+    "en": "- **SNEF** (CONDUSEF · Spanish): https://eduweb.condusef.gob.mx/snef/index.html | What to look for: the schedule of activities and the link to the online platform."
+   }
+  },
+  {
+   "id": "mujeres",
+   "cursos": [
+    "tu_autonomia",
+    "tu_trabajo_hogar",
+    "tu_patrimonio",
+    "tu_turno",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_pension",
+    "tu_regreso",
+    "back_home_en",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_ruta",
+    "tu_talento",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Secretaría de las Mujeres: Centros LIBRE y Línea 079",
+    "en": "Women's Ministry: LIBRE Centers and Line 079"
+   },
+   "texto": {
+    "es": "La **Secretaría de las Mujeres** (antes Inmujeres) tiene dos apoyos sin costo:\n\n- **Centros LIBRE:** espacios en tu municipio con acompañamiento emocional, orientación legal y capacitación para que tengas tu propio ingreso. Hay más de mil en los 32 estados.\n- **Línea de las Mujeres 079, opción 1:** orientación legal y apoyo emocional las 24 horas, y te canalizan de inmediato si lo necesitas.\n\nPuedes acudir aunque no sepas si lo que vives es violencia. Si estás en peligro, llama al 911.\n\n> **Dato vigente:** en 2026 hay 1,001 Centros LIBRE en los 32 estados, en 40% de los municipios del país. Consultado el 6 de octubre de 2026 a través de la Secretaría de las Mujeres y medios nacionales.",
+    "en": "Mexico's **Women's Ministry** (Secretaría de las Mujeres, formerly Inmujeres) offers two kinds of support at no cost:\n\n- **LIBRE Centers:** places in your municipality with emotional support, legal guidance and training so you can have your own income. There are more than a thousand in all 32 states.\n- **Women's Line 079, option 1:** legal guidance and emotional support 24 hours a day, with immediate referral if you need it.\n\nYou can go even if you're not sure what you're living through is violence. If you're in danger, call 911.\n\n> **Current fact:** in 2026 there are 1,001 LIBRE Centers in all 32 states, in 40% of the country's municipalities. Accessed October 6, 2026 through the Women's Ministry and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Secretaría de las Mujeres** (Gobierno de México · español): https://www.gob.mx/mujeres | Qué buscar: el Centro LIBRE más cercano y la Línea de las Mujeres.",
+    "en": "- **Women's Ministry** (Government of Mexico · Spanish): https://www.gob.mx/mujeres | What to look for: the nearest LIBRE Center and the Women's Line."
+   }
+  },
+  {
+   "id": "inaes",
+   "cursos": [
+    "tu_negocio_mx",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_autonomia",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_regreso"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "INAES: apoyos para grupos y cooperativas",
+    "en": ""
+   },
+   "texto": {
+    "es": "El **Instituto Nacional de la Economía Social (INAES)** apoya a quienes trabajan juntos. Por ejemplo, grupos de **al menos 5 personas**, cooperativas y cajas de ahorro del sector social.\n\n- **Proyectos productivos:** apoyo para empezar o hacer crecer un negocio en grupo.\n- **Cajas de ahorro y crédito del sector social:** apoyo para fortalecerlas y capacitar a quienes las manejan.\n\nLos apoyos salen por **convocatoria**: revisa si hay una abierta y sus fechas. Inscribirte no tiene costo. Desconfía de quien te cobre por «meterte» al programa o te pida una parte del apoyo.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **INAES** (Gobierno de México · español): https://www.gob.mx/inaes | Qué buscar: las convocatorias abiertas y sus requisitos.",
+    "en": ""
+   }
+  },
+  {
+   "id": "credito_palabra",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_autonomia"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Crédito a la palabra para artesanas (ApoyArte)",
+    "en": ""
+   },
+   "texto": {
+    "es": "**ApoyArte** es un crédito a la palabra de la Financiera para el Bienestar (FINABIEN) para **mujeres artesanas indígenas y afromexicanas**. La única garantía es tu palabra: no pide aval ni mucho papeleo, y no hay intermediarios.\n\n- Créditos de **10,000, 20,000 o 30,000 pesos, sin intereses**.\n- Con el de 30,000 pesos tienes **3 meses de gracia y 15 meses para pagar**.\n- El registro se abre por regiones: pregunta en FINABIEN si ya llegó a la tuya.\n\nAunque no tenga intereses, es un préstamo: haz tu plan de pagos antes de pedirlo.\n\n> **Dato vigente:** en 2026 FINABIEN sigue entregando créditos ApoyArte en estados como Oaxaca, Puebla, Nayarit y Michoacán. Consultado el 6 de octubre de 2026 a través de FINABIEN y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **FINABIEN** (Gobierno de México · español): https://www.gob.mx/finabien | Qué buscar: «ApoyArte», los requisitos y las fechas de registro en tu región.",
     "en": ""
    }
   }
