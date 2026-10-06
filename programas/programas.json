@@ -117,19 +117,13 @@
   {
    "id": "banco_bienestar",
    "cursos": [
-    "tu_patrimonio",
-    "tu_talento",
-    "tu_turno",
-    "tu_trabajo_hogar",
     "tu_idea",
-    "tu_negocio_mx",
     "tu_regreso",
     "back_home_en",
     "tu_pension",
     "tu_costa",
     "tu_comunidad",
     "tu_autonomia",
-    "tu_ruta",
     "tu_temporada"
    ],
    "revisado": "2026-10-06",
