@@ -5,6 +5,7 @@ Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.
 | Si… | Ve a |
 |---|---|
 | Tienes un problema con un banco, una compra, tu trabajo, el SAT o tu tierra | Dónde te orientan sin costo |
+| Buscas apoyos de tu estado, tu municipio o tu alcaldía | Apoyos de tu estado y tu municipio |
 | Tú o alguien de tu familia tiene 60 años o más, o una discapacidad | Pensiones para el Bienestar |
 | En tu casa hay estudiantes de escuela pública | Becas para estudiantes |
 | Tienes de 18 a 29 años y no estudias ni trabajas | Jóvenes Construyendo el Futuro |

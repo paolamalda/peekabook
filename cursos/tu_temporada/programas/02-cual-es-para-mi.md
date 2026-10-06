@@ -5,6 +5,7 @@ Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.
 | Si… | Ve a |
 |---|---|
 | Tienes un problema con un banco, una compra, tu trabajo, el SAT o tu tierra | Dónde te orientan sin costo |
+| Buscas apoyos de tu estado, tu municipio o tu alcaldía | Apoyos de tu estado y tu municipio |
 | Trabajas en EE. UU. con visa H-2A | Si estás en Estados Unidos con la H-2A |
 | Quieres trabajar una temporada en el campo de Canadá u otro país | Trabajo temporal con el Servicio Nacional de Empleo |
 | Trabajas en Canadá y tu empleador abusa | En Canadá: si tu empleador abusa |

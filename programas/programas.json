@@ -66,6 +66,44 @@
    }
   },
   {
+   "id": "estatales",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 12,
+   "titulo": {
+    "es": "Apoyos de tu estado y tu municipio",
+    "en": "Support from your state and municipality"
+   },
+   "texto": {
+    "es": "Además de los programas federales, **tu estado y tu municipio** (o tu alcaldía, si vives en la Ciudad de México) tienen sus propios apoyos: para mujeres, jóvenes, personas mayores, emprendimiento, desempleo, vivienda o el campo. Cambian cada año y muchos abren registro solo unas semanas, por eso aquí no los describimos uno por uno: te decimos dónde buscarlos.\n\n**Dónde buscar**\n\n- En el **sitio oficial de tu estado** (tabla de abajo): busca la secretaría de bienestar o de desarrollo social, el DIF, el instituto de las mujeres y el servicio de empleo.\n- En tu **municipio o alcaldía:** pregunta en la presidencia municipal, en el DIF municipal o en la oficina de atención ciudadana. Muchos avisan en sus redes oficiales.\n\n**Qué preguntar antes de registrarte**\n\n- ¿Es un apoyo que no se devuelve o un préstamo que hay que pagar?\n- ¿Cuáles son los requisitos y las fechas de registro?\n- ¿Cuánto recibo en total y cada cuándo?\n\n**Señales de fraude:** que te cobren por inscribirte, que aparezca un gestor que «te consigue» el apoyo o que te pidan una parte de lo que recibes. Los registros oficiales no tienen costo.\n\n| Estado | Sitio oficial |\n|---|---|\n| Aguascalientes | [aguascalientes.gob.mx](https://www.aguascalientes.gob.mx) |\n| Baja California | [bajacalifornia.gob.mx](https://www.bajacalifornia.gob.mx) |\n| Baja California Sur | [bcs.gob.mx](https://www.bcs.gob.mx) |\n| Campeche | [campeche.gob.mx](https://www.campeche.gob.mx) |\n| Chiapas | [chiapas.gob.mx](https://www.chiapas.gob.mx) |\n| Chihuahua | [chihuahua.gob.mx](https://www.chihuahua.gob.mx) |\n| Ciudad de México | [cdmx.gob.mx](https://www.cdmx.gob.mx) |\n| Coahuila | [coahuila.gob.mx](https://www.coahuila.gob.mx) |\n| Colima | [col.gob.mx](https://www.col.gob.mx) |\n| Durango | [durango.gob.mx](https://www.durango.gob.mx) |\n| Estado de México | [edomex.gob.mx](https://www.edomex.gob.mx) |\n| Guanajuato | [guanajuato.gob.mx](https://www.guanajuato.gob.mx) |\n| Guerrero | [guerrero.gob.mx](https://www.guerrero.gob.mx) |\n| Hidalgo | [hidalgo.gob.mx](https://www.hidalgo.gob.mx) |\n| Jalisco | [jalisco.gob.mx](https://www.jalisco.gob.mx) |\n| Michoacán | [michoacan.gob.mx](https://www.michoacan.gob.mx) |\n| Morelos | [morelos.gob.mx](https://www.morelos.gob.mx) |\n| Nayarit | [nayarit.gob.mx](https://www.nayarit.gob.mx) |\n| Nuevo León | [nl.gob.mx](https://www.nl.gob.mx) |\n| Oaxaca | [oaxaca.gob.mx](https://www.oaxaca.gob.mx) |\n| Puebla | [puebla.gob.mx](https://www.puebla.gob.mx) |\n| Querétaro | [queretaro.gob.mx](https://www.queretaro.gob.mx) |\n| Quintana Roo | [qroo.gob.mx](https://www.qroo.gob.mx) |\n| San Luis Potosí | [slp.gob.mx](https://www.slp.gob.mx) |\n| Sinaloa | [sinaloa.gob.mx](https://www.sinaloa.gob.mx) |\n| Sonora | [sonora.gob.mx](https://www.sonora.gob.mx) |\n| Tabasco | [tabasco.gob.mx](https://www.tabasco.gob.mx) |\n| Tamaulipas | [tamaulipas.gob.mx](https://www.tamaulipas.gob.mx) |\n| Tlaxcala | [tlaxcala.gob.mx](https://www.tlaxcala.gob.mx) |\n| Veracruz | [veracruz.gob.mx](https://www.veracruz.gob.mx) |\n| Yucatán | [yucatan.gob.mx](https://www.yucatan.gob.mx) |\n| Zacatecas | [zacatecas.gob.mx](https://www.zacatecas.gob.mx) |",
+    "en": "Besides federal programs, **your state and your municipality** (or your alcaldía, if you live in Mexico City) have their own support: for women, young people, older adults, small businesses, unemployment, housing or farming. They change every year and many open registration for only a few weeks, so we don't describe them one by one here: we tell you where to look.\n\n**Where to look**\n\n- On your **state's official site** (table below): look for the welfare or social development ministry, the DIF, the women's institute and the employment service.\n- In your **municipality or alcaldía:** ask at the town hall, the municipal DIF or the citizen service office. Many post updates on their official social media.\n\n**What to ask before you register**\n\n- Is it support you don't pay back, or a loan you have to repay?\n- What are the requirements and registration dates?\n- How much do I get in total, and how often?\n\n**Scam warning signs:** being charged to sign up, a fixer who offers to \"get\" you the support, or being asked for part of what you receive. Official registrations are at no cost.\n\n| State | Official site |\n|---|---|\n| Aguascalientes | [aguascalientes.gob.mx](https://www.aguascalientes.gob.mx) |\n| Baja California | [bajacalifornia.gob.mx](https://www.bajacalifornia.gob.mx) |\n| Baja California Sur | [bcs.gob.mx](https://www.bcs.gob.mx) |\n| Campeche | [campeche.gob.mx](https://www.campeche.gob.mx) |\n| Chiapas | [chiapas.gob.mx](https://www.chiapas.gob.mx) |\n| Chihuahua | [chihuahua.gob.mx](https://www.chihuahua.gob.mx) |\n| Ciudad de México | [cdmx.gob.mx](https://www.cdmx.gob.mx) |\n| Coahuila | [coahuila.gob.mx](https://www.coahuila.gob.mx) |\n| Colima | [col.gob.mx](https://www.col.gob.mx) |\n| Durango | [durango.gob.mx](https://www.durango.gob.mx) |\n| Estado de México | [edomex.gob.mx](https://www.edomex.gob.mx) |\n| Guanajuato | [guanajuato.gob.mx](https://www.guanajuato.gob.mx) |\n| Guerrero | [guerrero.gob.mx](https://www.guerrero.gob.mx) |\n| Hidalgo | [hidalgo.gob.mx](https://www.hidalgo.gob.mx) |\n| Jalisco | [jalisco.gob.mx](https://www.jalisco.gob.mx) |\n| Michoacán | [michoacan.gob.mx](https://www.michoacan.gob.mx) |\n| Morelos | [morelos.gob.mx](https://www.morelos.gob.mx) |\n| Nayarit | [nayarit.gob.mx](https://www.nayarit.gob.mx) |\n| Nuevo León | [nl.gob.mx](https://www.nl.gob.mx) |\n| Oaxaca | [oaxaca.gob.mx](https://www.oaxaca.gob.mx) |\n| Puebla | [puebla.gob.mx](https://www.puebla.gob.mx) |\n| Querétaro | [queretaro.gob.mx](https://www.queretaro.gob.mx) |\n| Quintana Roo | [qroo.gob.mx](https://www.qroo.gob.mx) |\n| San Luis Potosí | [slp.gob.mx](https://www.slp.gob.mx) |\n| Sinaloa | [sinaloa.gob.mx](https://www.sinaloa.gob.mx) |\n| Sonora | [sonora.gob.mx](https://www.sonora.gob.mx) |\n| Tabasco | [tabasco.gob.mx](https://www.tabasco.gob.mx) |\n| Tamaulipas | [tamaulipas.gob.mx](https://www.tamaulipas.gob.mx) |\n| Tlaxcala | [tlaxcala.gob.mx](https://www.tlaxcala.gob.mx) |\n| Veracruz | [veracruz.gob.mx](https://www.veracruz.gob.mx) |\n| Yucatán | [yucatan.gob.mx](https://www.yucatan.gob.mx) |\n| Zacatecas | [zacatecas.gob.mx](https://www.zacatecas.gob.mx) |"
+   },
+   "recurso": {
+    "es": "",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Buscas apoyos de tu estado, tu municipio o tu alcaldía",
+    "en": "You're looking for support from your state, municipality or alcaldía"
+   },
+   "nota_verificacion": "Confirmar una vez al año que los 32 enlaces sigan funcionando."
+  },
+  {
    "id": "consulado",
    "cursos": [
     "tu_dinero_es",

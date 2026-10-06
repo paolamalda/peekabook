@@ -478,7 +478,8 @@ Información revisada al {PG.fecha(rev, False)}. Los programas cambian: confirma
         rec = re.sub(r"(https?://[^\s|]+)", lambda m: "[" + re.sub(r"^www[.]", "", m.group(1).split("://", 1)[1].split("/", 1)[0]) + "](" + m.group(1) + ")", rec)
         rec = re.sub(r"\s*\|\s*(Qué buscar|What to look for):\s*", lambda m: "  \n  **" + m.group(1) + ":** ", rec)
         body = f"# {p['titulo'][L]}\n\n{p['texto'][L]}\n"
-        if rec: body += f"\n## {mas}\n\n{rec}\n\n*{revt} {PG.fecha(p['revisado'], EN)}.*\n"
+        if rec: body += f"\n## {mas}\n\n{rec}\n"
+        body += f"\n*{revt} {PG.fecha(p['revisado'], EN)}.*\n"
         open(os.path.join(F, f"{num}-{p['id']}.md"), "w").write(body)
     fe = PG.fechas(curso, EN)
     if fe:

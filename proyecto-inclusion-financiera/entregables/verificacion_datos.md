@@ -5,7 +5,7 @@ Generada el 6 de octubre de 2026. Cada dato se revisa en su fuente oficial y se 
 | Tipo | Total | Vigentes | Por revisar o vencidos |
 |---|---|---|---|
 | Datos en lecciones | 202 | 202 | 0 |
-| Programas (módulo extra) | 24 | 24 | 0 |
+| Programas (módulo extra) | 25 | 25 | 0 |
 | Fechas (módulo extra) | 6 | 6 | 0 |
 
 ## Cómo usar esta lista
@@ -20,6 +20,7 @@ Generada el 6 de octubre de 2026. Cada dato se revisa en su fuente oficial y se 
 |---|---|---|---|---|---|---|
 | [ ] | tu_patrimonio, tu_talento, tu_turno, tu_trabajo_hogar, tu_idea, tu_negocio_mx, tu_regreso, back_home_en, tu_pension, tu_costa, tu_comunidad, tu_autonomia, tu_ruta, tu_temporada | orientaciones | Dónde te orientan sin costo | 2026-10-06 | 2027-10-06 | vigente |
 | [ ] | tu_dinero_es, your_money_en, tu_negocio_us_es, your_business_us_en | orientaciones_us | Dónde te orientan sin costo en Estados Unidos | 2026-10-06 | 2027-10-06 | vigente |
+| [ ] | tu_patrimonio, tu_talento, tu_turno, tu_trabajo_hogar, tu_idea, tu_negocio_mx, tu_regreso, back_home_en, tu_pension, tu_costa, tu_comunidad, tu_autonomia, tu_ruta, tu_temporada | estatales | Apoyos de tu estado y tu municipio | 2026-10-06 | 2027-10-06 | vigente |
 | [ ] | tu_dinero_es, your_money_en, tu_negocio_us_es, your_business_us_en | consulado | Tu consulado te protege | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_temporada | consulado_h2a | Si estás en Estados Unidos con la H-2A | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_temporada | sne_movilidad | Trabajo temporal con el Servicio Nacional de Empleo | 2026-10-06 | 2027-04-06 | vigente |
