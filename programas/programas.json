@@ -528,6 +528,40 @@
    }
   },
   {
+   "id": "creditos_mujeres",
+   "cursos": [
+    "tu_autonomia",
+    "tu_negocio_mx",
+    "tu_patrimonio",
+    "tu_trabajo_hogar",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_regreso",
+    "back_home_en",
+    "tu_talento",
+    "tu_ruta",
+    "tu_turno"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Créditos a la palabra para mujeres (FINABIEN)",
+    "en": "Word-of-honor loans for women (FINABIEN)"
+   },
+   "para_quien": {
+    "es": "Si eres mujer y quieres empezar o hacer crecer un negocio",
+    "en": "If you're a woman and want to start or grow a business"
+   },
+   "texto": {
+    "es": "La **Financiera para el Bienestar (FINABIEN)** da créditos **sin intereses y sin aval** para mujeres. Hay tres modalidades:\n\n- **Autoempleo para Mujeres:** 10,000 pesos para tu actividad o negocio, a pagar en 11 meses, con un mes de gracia.\n- **Colectivos solidarios:** para grupos de al menos 5 mujeres, de 50,000 a 300,000 pesos para un proyecto en común.\n- **Crédito Libertad Mujer:** para mujeres que vivieron violencia y quieren tener su propio ingreso. En la mayoría de los lugares va de 10,000 a 30,000 pesos; en algunos estados, con convenio, puede ser mayor. Puedes preguntar por él en un Centro LIBRE.\n\nNormalmente piden identificación, CURP, comprobante de domicilio y una foto de tu negocio o actividad. **No están en todos los estados al mismo tiempo:** abren por convenio con cada estado. El registro es sin costo.\n\nAunque no cobre intereses, es un préstamo: haz tu plan de pagos antes de pedirlo y no lo uses para gastos de la casa.\n\n> **Dato vigente:** en 2026 hay registro en estados como Michoacán, Morelos, Estado de México, Querétaro y Tlaxcala. Consultado el 6 de octubre de 2026 a través de FINABIEN, gobiernos estatales y medios nacionales.",
+    "en": "**Financiera para el Bienestar (FINABIEN)** offers **interest-free loans with no cosigner** for women. There are three types:\n\n- **Self-employment for Women:** 10,000 pesos for your activity or business, paid over 11 months, with one month of grace.\n- **Solidarity groups:** for groups of at least 5 women, from 50,000 to 300,000 pesos for a shared project.\n- **Crédito Libertad Mujer:** for women who have lived through violence and want their own income. In most places it's 10,000 to 30,000 pesos; in some states, by agreement, it can be more. You can ask about it at a LIBRE Center.\n\nThey usually ask for ID, CURP, proof of address and a photo of your business or activity. **They're not open in every state at the same time:** each opens by agreement with the state. Registration is at no cost.\n\nEven with no interest, it's a loan: make your payment plan before you apply, and don't use it for household expenses.\n\n> **Current fact:** in 2026 registration is open in states such as Michoacán, Morelos, the State of Mexico, Querétaro and Tlaxcala. Accessed October 6, 2026 through FINABIEN, state governments and national news outlets."
+   },
+   "recurso": {
+    "es": "- **FINABIEN** (Gobierno de México · español): https://www.gob.mx/finabien | Qué buscar: «crédito a la palabra», «colectivos solidarios» o «Libertad Mujer» y si ya hay registro en tu estado.",
+    "en": "- **FINABIEN** (Government of Mexico · Spanish): https://www.gob.mx/finabien | What to look for: «crédito a la palabra», «colectivos solidarios» or «Libertad Mujer» and whether your state has registration open."
+   }
+  },
+  {
    "id": "inpi",
    "cursos": [
     "tu_comunidad",
@@ -636,6 +670,61 @@
    }
   },
   {
+   "id": "precio_justo",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_temporada",
+    "tu_regreso"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Vender tu cosecha a un precio justo",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si siembras maíz, frijol, café, cacao, miel u otros alimentos y quieres vender a precio justo",
+    "en": ""
+   },
+   "texto": {
+    "es": "Hay dos programas del gobierno para que quien siembra no malbarate su cosecha:\n\n- **Acopio para el Bienestar:** Alimentación para el Bienestar compra **maíz y frijol a pequeños productores** a un precio de acopio, en centros de acopio de todo el país.\n- **Comercio Justo:** programa nuevo en 2026 para ayudar a vender a precio justo trigo, arroz, maíz, café, frijol, cacao, miel y hortalizas.\n\nPregunta en el centro de acopio o en la oficina de Agricultura de tu región. Averigua qué compran, a qué precio, en qué fechas y qué papeles piden. Desconfía de intermediarios que te cobren por «meterte» al programa.\n\n> **Dato vigente:** en 2026 Acopio para el Bienestar planea comprar a casi 55 mil pequeños productores de maíz y frijol en 480 centros de acopio. Consultado el 6 de octubre de 2026 a través de las reglas de operación 2026 y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Precios de garantía y acopio** (Programas para el Bienestar · español): https://programasparaelbienestar.gob.mx/precios-de-garantia/ | Qué buscar: qué granos compran, el precio vigente y el centro de acopio más cercano.",
+    "en": ""
+   }
+  },
+  {
+   "id": "cosechando",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_temporada",
+    "tu_regreso",
+    "tu_negocio_mx"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Cosechando Soberanía: crédito para el campo, la pesca y tortillerías",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si produces alimentos, pescas o tienes una tortillería y necesitas crédito",
+    "en": ""
+   },
+   "texto": {
+    "es": "**Cosechando Soberanía** es un programa de la Secretaría de Agricultura que da **crédito con tasa preferencial** a pequeños y medianos productores, con seguro y garantía.\n\n- **Tasa de hasta 8.5% anual.**\n- Para sembrar maíz blanco, trigo, sorgo, frijol, cebolla, tomate, chile o producir miel.\n- También para producir leche, comprar motores de pesca o equipar una tortillería.\n- Montos de 30,000 a 1,300,000 pesos, según el producto y el proyecto.\n\nNecesitas estar en el padrón de productores de la Secretaría de Agricultura y tomar las capacitaciones del programa. Antes de firmar, pregunta el **costo total** del crédito y el calendario de pagos.\n\n> **Dato vigente:** en 2026 el programa sigue entregando créditos con tasa de hasta 8.5% anual. Consultado el 6 de octubre de 2026 a través de la Secretaría de Agricultura y medios especializados.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Cosechando Soberanía** (Secretaría de Agricultura · español): https://www.gob.mx/agricultura | Qué buscar: «Cosechando Soberanía», requisitos y dónde solicitarlo en tu estado.",
+    "en": ""
+   }
+  },
+  {
    "id": "bienpesca",
    "cursos": [
     "tu_costa"
@@ -656,6 +745,35 @@
    },
    "para_quien": {
     "es": "Si pescas o crías peces y mariscos",
+    "en": ""
+   }
+  },
+  {
+   "id": "plan_lazaro_cardenas",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_temporada",
+    "tu_regreso",
+    "tu_pension",
+    "tu_autonomia"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Plan Regional Lázaro Cárdenas y cuenca del Balsas",
+    "en": ""
+   },
+   "para_quien": {
+    "es": "Si vives en la cuenca del río Balsas (Michoacán, Guerrero, Oaxaca, Puebla, Morelos, Estado de México, Jalisco o Tlaxcala)",
+    "en": ""
+   },
+   "texto": {
+    "es": "El **Programa Regional General Lázaro Cárdenas del Río 2026–2030** coordina obras y programas federales en **726 municipios de la cuenca del río Balsas**. Abarca Estado de México, Guerrero, Jalisco, Michoacán, Morelos, Oaxaca, Puebla y Tlaxcala. Se relaciona con el plan **Balsas–Pacífico Sur** y con el **Proyecto Cuenca Balsas**, para comunidades rurales.\n\nNo es un apoyo al que te inscribes: es un plan para llevar caminos, agua, salud, educación, vivienda y financiamiento a la región. Si vives ahí, te conviene saber que los programas de bienestar y de producción pueden llegar con prioridad.\n\nPregunta en tu municipio qué obras y programas llegan a tu comunidad. Nadie debe cobrarte por «incluirte» en el plan.\n\n> **Dato vigente:** el programa se publicó en el Diario Oficial el 18 de mayo de 2026. Consultado el 6 de octubre de 2026 a través del Diario Oficial de la Federación y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Programa Regional Lázaro Cárdenas del Río** (Diario Oficial · español): https://sidof.segob.gob.mx/notas/docFuente/5787696 | Qué buscar: si tu municipio está en el programa y qué acciones incluye.",
     "en": ""
    }
   },

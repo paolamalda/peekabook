@@ -13,5 +13,6 @@ Find your situation and go to that chapter. Nothing you choose here is saved.
 | You don't own a home or have a housing loan | Vivienda para el Bienestar (housing subsidy) |
 | You care for young children and work, study or look for work | Support for working mothers and fathers |
 | You're a woman and need support, legal guidance or training | Women's Ministry: LIBRE Centers and Line 079 |
+| You're a woman and want to start or grow a business | Word-of-honor loans for women (FINABIEN) |
 | You want an account with no fees or receive government support | Banco del Bienestar |
 | You want no-cost financial education workshops | National Financial Education Week (SNEF) |

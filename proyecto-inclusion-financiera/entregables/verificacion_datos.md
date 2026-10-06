@@ -5,7 +5,7 @@ Generada el 6 de octubre de 2026. Cada dato se revisa en su fuente oficial y se 
 | Tipo | Total | Vigentes | Por revisar o vencidos |
 |---|---|---|---|
 | Datos en lecciones | 202 | 202 | 0 |
-| Programas (módulo extra) | 25 | 25 | 0 |
+| Programas (módulo extra) | 29 | 29 | 0 |
 | Fechas (módulo extra) | 6 | 6 | 0 |
 
 ## Cómo usar esta lista
@@ -35,11 +35,15 @@ Generada el 6 de octubre de 2026. Cada dato se revisa en su fuente oficial y se 
 | [ ] | tu_turno, tu_trabajo_hogar, tu_ruta, tu_idea | subsidio_empleo | Subsidio para el empleo en tu nómina | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_trabajo_hogar, tu_turno, tu_autonomia, tu_ruta, tu_patrimonio, tu_negocio_mx, tu_comunidad, tu_costa, tu_regreso, back_home_en, tu_idea | madres | Apoyo para madres y padres que trabajan | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_autonomia, tu_trabajo_hogar, tu_patrimonio, tu_turno, tu_comunidad, tu_costa, tu_pension, tu_regreso, back_home_en, tu_idea, tu_negocio_mx, tu_ruta, tu_talento, tu_temporada | mujeres | Secretaría de las Mujeres: Centros LIBRE y Línea 079 | 2026-10-06 | 2027-04-06 | vigente |
+| [ ] | tu_autonomia, tu_negocio_mx, tu_patrimonio, tu_trabajo_hogar, tu_comunidad, tu_costa, tu_regreso, back_home_en, tu_talento, tu_ruta, tu_turno | creditos_mujeres | Créditos a la palabra para mujeres (FINABIEN) | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_comunidad, tu_costa | inpi | El INPI: programas para pueblos indígenas y afromexicanos | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_comunidad, tu_costa, tu_autonomia | credito_palabra | Crédito a la palabra para artesanas (ApoyArte) | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_negocio_mx, tu_comunidad, tu_costa, tu_autonomia, tu_trabajo_hogar, tu_idea, tu_regreso | inaes | INAES: apoyos para grupos y cooperativas | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_comunidad, tu_costa, tu_temporada, tu_regreso | campo | Apoyos para el campo | 2026-10-06 | 2027-04-06 | vigente |
+| [ ] | tu_comunidad, tu_costa, tu_temporada, tu_regreso | precio_justo | Vender tu cosecha a un precio justo | 2026-10-06 | 2027-04-06 | vigente |
+| [ ] | tu_comunidad, tu_costa, tu_temporada, tu_regreso, tu_negocio_mx | cosechando | Cosechando Soberanía: crédito para el campo, la pesca y tortillerías | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_costa | bienpesca | Bienpesca: apoyo para pescadores | 2026-10-06 | 2027-04-06 | vigente |
+| [ ] | tu_comunidad, tu_costa, tu_temporada, tu_regreso, tu_pension, tu_autonomia | plan_lazaro_cardenas | Plan Regional Lázaro Cárdenas y cuenca del Balsas | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_idea, tu_regreso, back_home_en, tu_pension, tu_costa, tu_comunidad, tu_autonomia, tu_temporada | banco_bienestar | Banco del Bienestar | 2026-10-06 | 2027-04-06 | vigente |
 | [ ] | tu_dinero_es, your_money_en, tu_negocio_us_es, your_business_us_en, tu_temporada | paisano | Si viajas a México: Héroes Paisanos | 2026-10-06 | 2027-01-06 | vigente |
 | [ ] | tu_patrimonio, tu_talento, tu_turno, tu_trabajo_hogar, tu_idea, tu_negocio_mx, tu_regreso, back_home_en, tu_pension, tu_costa, tu_comunidad, tu_autonomia, tu_ruta, tu_temporada, tu_dinero_es, your_money_en, tu_negocio_us_es, your_business_us_en | snef | Semana Nacional de Educación Financiera | 2026-10-06 | 2027-03-06 | vigente |

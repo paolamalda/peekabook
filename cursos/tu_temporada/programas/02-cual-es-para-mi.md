@@ -16,6 +16,9 @@ Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.
 | No tienes casa propia ni crédito de vivienda | Vivienda para el Bienestar (subsidio) |
 | Eres mujer y necesitas apoyo, orientación legal o capacitación | Secretaría de las Mujeres: Centros LIBRE y Línea 079 |
 | Siembras | Apoyos para el campo |
+| Siembras maíz, frijol, café, cacao, miel u otros alimentos y quieres vender a precio justo | Vender tu cosecha a un precio justo |
+| Produces alimentos, pescas o tienes una tortillería y necesitas crédito | Cosechando Soberanía: crédito para el campo, la pesca y tortillerías |
+| Vives en la cuenca del río Balsas (Michoacán, Guerrero, Oaxaca, Puebla, Morelos, Estado de México, Jalisco o Tlaxcala) | Plan Regional Lázaro Cárdenas y cuenca del Balsas |
 | Quieres una cuenta sin comisiones o recibes un apoyo del gobierno | Banco del Bienestar |
 | Viajas a México en vacaciones | Si viajas a México: Héroes Paisanos |
 | Quieres talleres de educación financiera sin costo | Semana Nacional de Educación Financiera |

@@ -10,5 +10,6 @@ Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.
 | En tu casa hay estudiantes de escuela pública | Becas para estudiantes |
 | No tienes casa propia ni crédito de vivienda | Vivienda para el Bienestar (subsidio) |
 | Eres mujer y necesitas apoyo, orientación legal o capacitación | Secretaría de las Mujeres: Centros LIBRE y Línea 079 |
+| Vives en la cuenca del río Balsas (Michoacán, Guerrero, Oaxaca, Puebla, Morelos, Estado de México, Jalisco o Tlaxcala) | Plan Regional Lázaro Cárdenas y cuenca del Balsas |
 | Quieres una cuenta sin comisiones o recibes un apoyo del gobierno | Banco del Bienestar |
 | Quieres talleres de educación financiera sin costo | Semana Nacional de Educación Financiera |

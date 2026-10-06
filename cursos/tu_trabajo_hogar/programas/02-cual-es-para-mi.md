@@ -13,5 +13,6 @@ Busca tu situación y ve a ese capítulo. Nada de lo que elijas aquí se guarda.
 | Trabajas con nómina y ganas poco | Subsidio para el empleo en tu nómina |
 | Cuidas a niñas o niños pequeños y trabajas, estudias o buscas empleo | Apoyo para madres y padres que trabajan |
 | Eres mujer y necesitas apoyo, orientación legal o capacitación | Secretaría de las Mujeres: Centros LIBRE y Línea 079 |
+| Eres mujer y quieres empezar o hacer crecer un negocio | Créditos a la palabra para mujeres (FINABIEN) |
 | Trabajas en grupo, cooperativa o caja de ahorro | INAES: apoyos para grupos y cooperativas |
 | Quieres talleres de educación financiera sin costo | Semana Nacional de Educación Financiera |
