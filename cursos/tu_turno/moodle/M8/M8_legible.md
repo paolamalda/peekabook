@@ -334,7 +334,7 @@ Karla llenó su plan y le tomó una foto. Cada día de pago lo revisa en cinco m
 
 Escribe una meta con nombre («fondo para la escuela de mi hija»), cuánto apartarás y cada cuándo. Díselo a alguien de confianza que te pregunte cómo vas. Aparta el ahorro el mismo día de pago, antes de gastar, y pon un recordatorio mensual en tu celular con el nombre de tu meta.
 
-> **Idea clave:** tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+> **Idea clave:** tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 
 
@@ -373,7 +373,7 @@ Escribe una meta con nombre («fondo para la escuela de mi hija»), cuánto apar
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar el dinero de forma automática, antes de verlo, también ayuda: no tienes que decidir cada vez.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar el dinero antes de verlo también ayuda: no tienes que decidir cada vez.
 
 
 

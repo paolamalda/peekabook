@@ -10,7 +10,7 @@
 
 #### Para quién es
 
-Las personas pensionadas por la Ley del Seguro Social de 1973 pueden pedir préstamos que se descuentan de su pensión del IMSS, solo con entidades financieras que tengan **convenio vigente** con el IMSS.
+Las personas pensionadas por la Ley del Seguro Social de 1973 pueden pedir préstamos que se descuentan de su pensión del IMSS. Solo con entidades financieras que tengan **convenio vigente** con el IMSS.
 
 
 

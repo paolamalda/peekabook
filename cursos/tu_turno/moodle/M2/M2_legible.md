@@ -12,7 +12,7 @@
 
 Por ley, los bancos deben ofrecer una cuenta básica: sin comisión por abrirla, por manejo, ni por retiros y consultas en sus propios cajeros. Tiene un límite de depósitos al mes.
 
-> **Dato vigente:** los bancos deben ofrecer una cuenta básica sin comisiones de apertura, manejo, retiros y consultas en sus cajeros; la de nivel 2 permite depósitos de hasta unos 26,000 pesos al mes. Consultado el 29 de septiembre de 2026 a través de Banxico y la Ley de Instituciones de Crédito (art. 48 Bis 2).
+> **Dato vigente:** los bancos deben ofrecer una cuenta básica sin comisiones de apertura, manejo, retiros ni consultas en sus cajeros. La de nivel 2 permite depósitos de hasta unos 26,000 pesos al mes. Consultado el 29 de septiembre de 2026 a través de Banxico y la Ley de Instituciones de Crédito (art. 48 Bis 2).
 
 
 
@@ -603,7 +603,7 @@ Con el interés compuesto, tu ahorro gana intereses sobre los intereses. Con el 
 
 Don Chuy pasó su fondo de emergencia del cajón a una opción protegida y con rendimiento (M7 U01). Ahora su dinero gana algo cada mes en lugar de perder valor, y sigue disponible si lo necesita.
 
-> **Idea clave:** el dinero en efectivo pierde valor con la inflación; busca que tu ahorro gane al menos lo que suben los precios y paga pronto las deudas, que crecen con interés compuesto.
+> **Idea clave:** el dinero en efectivo pierde valor con la inflación. Busca que tu ahorro gane al menos lo que suben los precios. Y paga pronto las deudas, que crecen con interés compuesto.
 
 
 
@@ -763,7 +763,7 @@ Los Cetes son préstamos que le haces al gobierno federal a un plazo, y él te p
 
 Ramiro ya tenía su fondo. Abrió Cetesdirecto y programó 500 cada quincena a Cetes con reinversión. No metió su dinero en la criptomoneda porque no podía explicar cómo ganaba ni quién la respaldaba.
 
-> **Idea clave:** invierte solo después de tu fondo y tus deudas caras, en lo que puedas explicar, con una meta y un plazo, y poco a poco.
+> **Idea clave:** invierte solo después de tener tu fondo y pagar tus deudas caras. Hazlo poco a poco, con una meta y un plazo, en lo que puedas explicar.
 
 
 
@@ -794,7 +794,7 @@ Diversificar reduce el golpe si una inversión baja. Con poco dinero, empezar en
 
 #### Invertir cada quincena
 
-Poner la misma cantidad cada quincena, sin importar si suben o bajan las tasas, te ayuda a ser constante y a no decidir con prisa o con miedo.
+Poner la misma cantidad cada quincena, suban o bajen las tasas, te ayuda a ser constante. Así no decides con prisa ni con miedo.
 
 
 
@@ -808,7 +808,7 @@ Cada mes, revisa tu estado de cuenta en Cetesdirecto: cuánto pusiste, cuánto g
 
 El miedo te hace vender cuando algo baja; la emoción, comprar cuando «todos» compran. Decide con tu meta y tu plazo, no con lo que dicen en el grupo.
 
-> **Antes de actuar, verifica:** que la institución esté autorizada en el padrón de la CNBV y que el sitio sea el oficial; en Cetesdirecto nadie te pide pagar para abrir tu cuenta.
+> **Antes de actuar, verifica:** que la institución esté autorizada en el padrón de la CNBV y que el sitio sea el oficial. En Cetesdirecto nadie te pide pagar para abrir tu cuenta.
 
 
 

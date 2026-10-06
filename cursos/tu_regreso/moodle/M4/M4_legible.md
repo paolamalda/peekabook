@@ -174,7 +174,7 @@ Si trabajaste con nómina en EE. UU., te quitaron impuestos de cada pago. Al pre
 
 #### El reembolso puede llegar a México
 
-El IRS no deposita en cuentas de México, pero puede mandar un cheque por correo a tu dirección o a la de alguien de confianza en EE. UU. Generalmente tienes hasta tres años para reclamar un reembolso.
+El IRS no deposita en cuentas de México. Pero puede mandar un cheque por correo a tu dirección o a la de alguien de confianza en EE. UU. Generalmente tienes hasta tres años para reclamar un reembolso.
 
 
 

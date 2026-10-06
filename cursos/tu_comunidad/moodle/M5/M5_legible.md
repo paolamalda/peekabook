@@ -10,7 +10,7 @@
 
 #### Nadie te pide números por teléfono
 
-El banco y los programas del gobierno **nunca** te piden por teléfono los números de tu tarjeta, tu NIP ni códigos que te lleguen por mensaje.
+El banco y los programas del gobierno **nunca** te piden por teléfono los números de tu tarjeta ni tu NIP. Tampoco los códigos que te lleguen por mensaje.
 
 
 

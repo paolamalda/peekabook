@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Sumar cuánto das cada mes a hijas, nietas, esposo y otras personas, y decidir un monto fijo que puedas sostener sin quedarte sin nada.
 
-**Para empezar:** Doña Tere paga la escuela de su nieta Ximena, le da a su hija Rosa para la renta cuando no le alcanza y cubre el gas porque su esposo casi no tiene trabajo. Nunca lo ha sumado. Este mes se quedó sin para sus pasajes. En esta lección verás cuánto das.
+**Para empezar:** Doña Tere paga la escuela de su nieta Ximena y le da a su hija Rosa para la renta cuando no le alcanza. También cubre el gas, porque su esposo casi no tiene trabajo. Nunca lo ha sumado. Este mes se quedó sin para sus pasajes. En esta lección verás cuánto das.
 
 ### Lo esencial (5 minutos)
 
@@ -319,7 +319,7 @@ CONDUSEF · Instituto Federal de Defensoría Pública, consultados el 30 de sept
 
 Cuando alguien pide un crédito le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** las reglas de la CONDUSEF solo permiten a los despachos de cobranza cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales ni amenazar a familiares. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -449,7 +449,7 @@ CONDUSEF, reglas de despachos de cobranza y REDECO, consultado el 30 de septiemb
 
 **Lo que lograrás:** Reconocer el estrés por dinero, decir que no sin romper la relación y tener una plática de dinero en familia de 20 minutos.
 
-**Para empezar:** Mari no duerme bien. Su mamá, su hermano y su hijo le piden dinero y ella siente que si dice que no es mala hija, mala hermana y mala madre. En esta lección verás cómo decir que no sin culpa.
+**Para empezar:** Mari no duerme bien. Su mamá, su hermano y su hijo le piden dinero. Ella siente que, si dice que no, es mala hija, mala hermana y mala madre. En esta lección verás cómo decir que no sin culpa.
 
 ### Lo esencial (5 minutos)
 
@@ -627,7 +627,7 @@ Si vives violencia, llama al 911 o acude al Centro de Justicia para las Mujeres 
 
 Chayo abrió una cuenta a su nombre y guarda ahí una parte de lo que cobra. Revisó su historial de crédito y reclamó el crédito que no pidió. Buscó orientación en el Centro de Justicia para las Mujeres.
 
-> **Idea clave:** tener una cuenta, documentos y un fondo a tu nombre es tu derecho; si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
+> **Idea clave:** tener una cuenta, documentos y un fondo a tu nombre es tu derecho. Si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
 
 
 
@@ -767,9 +767,9 @@ La pensión alimenticia no es un favor del papá: es un derecho de sus hijas e h
 
 #### Si no la paga
 
-Quien deja de pagar una pensión fijada por un juez durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**, y no puede sacar licencia de manejo ni pasaporte. Aunque el papá viva en otro estado, se puede pedir.
+Quien deja de pagar durante 60 días una pensión fijada por un juez puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**. Entonces no puede sacar licencia de manejo ni pasaporte. Aunque el papá viva en otro estado, se puede pedir.
 
-> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte; en agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
+> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte. En agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
 
 
 
@@ -777,7 +777,7 @@ Quien deja de pagar una pensión fijada por un juez durante 60 días puede queda
 
 Rosa fue con Doña Tere al DIF de su municipio. Les explicaron los papeles que necesitan: actas de nacimiento de las niñas y una lista de sus gastos del mes. Con eso pidieron un convenio y el pago llega por depósito.
 
-> **Idea clave:** la pensión es un derecho de las niñas; pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos.
+> **Idea clave:** la pensión es un derecho de las niñas. Pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos.
 
 
 

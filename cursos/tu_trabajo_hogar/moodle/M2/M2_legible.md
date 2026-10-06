@@ -32,7 +32,7 @@ Chayo trabaja en una casa un día a la semana (52 días al año) y cobra 600.
 - Días de aguinaldo que le toca en esa casa: **2.1**
 Unos 1,280 pesos (2.1 por 600).
 
-> **Dato vigente:** Ley Federal del Trabajo, capítulo XIII (personas trabajadoras del hogar, artículos 331 a 343), aguinaldo de 15 días (artículo 87) y vacaciones de 12 días desde el primer año con prima de 25% (artículos 76 y 80). Consultado el 30 de septiembre de 2026 a través de la PROFEDET y el Diario Oficial de la Federación.
+> **Dato vigente:** Ley Federal del Trabajo, capítulo XIII (personas trabajadoras del hogar, artículos 331 a 343). Aguinaldo de 15 días (artículo 87). Vacaciones de 12 días desde el primer año, con prima de 25% (artículos 76 y 80). Consultado el 30 de septiembre de 2026 a través de la PROFEDET y el Diario Oficial de la Federación.
 
 
 #### Un caso en un minuto
@@ -490,7 +490,7 @@ Todos los bancos deben ofrecer una cuenta básica: no cobra por tenerla abierta 
 
 Chayo abrió una cuenta básica y pidió a tres de sus casas que le paguen por transferencia. Ahora solo carga el efectivo de una casa y tiene registro de todos sus pagos.
 
-> **Idea clave:** cobrar por transferencia es más seguro y deja prueba de tu pago; para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
+> **Idea clave:** cobrar por transferencia es más seguro y deja prueba de tu pago. Para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
 
 
 

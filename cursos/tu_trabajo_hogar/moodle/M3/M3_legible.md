@@ -514,7 +514,7 @@ Con la inflación, lo que hoy compras con 100 pesos el próximo año cuesta más
 
 #### Metas largas
 
-Para metas de más de un año, como la prepa o la universidad de un hijo, busca opciones que paguen rendimiento en instituciones reguladas, como Cetesdirecto. Compara antes y nunca en quien te promete ganancias muy altas.
+Para metas de más de un año, como la prepa o la universidad de un hijo, busca opciones que paguen rendimiento. Que sean de instituciones reguladas, como Cetesdirecto. Compara antes y nunca confíes en quien te promete ganancias muy altas.
 
 
 

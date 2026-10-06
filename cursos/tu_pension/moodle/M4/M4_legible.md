@@ -10,7 +10,7 @@
 
 #### Cuando el abuso viene de casa
 
-CONDUSEF reporta que las afectaciones a personas mayores vienen sobre todo de familiares y personas cercanas que tienen acceso a sus tarjetas o teléfonos; después, de empleados desleales, y en tercer lugar de la delincuencia organizada. No es raro y no es tu culpa.
+La CONDUSEF reporta que las afectaciones a personas mayores vienen sobre todo de familiares y personas cercanas con acceso a sus tarjetas o teléfonos. Después vienen empleados desleales y, en tercer lugar, la delincuencia organizada. No es raro y no es tu culpa.
 
 
 

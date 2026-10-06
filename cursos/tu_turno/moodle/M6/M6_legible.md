@@ -10,7 +10,7 @@
 
 #### La regla de oro
 
-Si te llaman o escriben pidiendo un código, tu NIP, una contraseña o dinero: **cuelga y verifica tú**, llamando al número de atrás de tu tarjeta. Tu banco nunca te pide códigos.
+Si te piden un código, tu NIP, una contraseña o dinero: **cuelga y verifica tú**. Llama al número de atrás de tu tarjeta. Tu banco nunca te pide códigos.
 
 
 
@@ -599,7 +599,7 @@ El robo de identidad pasa cuando alguien usa tu INE, tu CURP o tu firma para ped
 | Bloqueo en Buró | Nadie consulta tu historial sin ti. | Frena créditos a tu nombre. |
 | Líneas con tu CURP | Consulta qué celulares están a tu nombre. | Sin costo. |
 
-> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas no tiene costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular. El plazo final es el 31 de diciembre de 2026. En portal.crt.gob.mx puedes ver qué líneas están a tu nombre y desvincular las que no son tuyas, sin costo. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 #### Que dejen de llamarte
 
@@ -613,7 +613,7 @@ Hay dos registros sin costo. En el REPEP de Profeco inscribes tu celular para qu
 
 Beto pidió su reporte sin costo y encontró el crédito que no pidió. Reclamó por escrito a la financiera y al Buró, presentó denuncia y activó el bloqueo. Luego inscribió su celular en el REPEP y el REUS. Las llamadas bajaron en un mes.
 
-> **Idea clave:** revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS; si una llamada sigue después, casi seguro es fraude.
+> **Idea clave:** revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS. Si una llamada sigue después, casi seguro es fraude.
 
 
 
@@ -648,7 +648,7 @@ Beto pidió su reporte sin costo y encontró el crédito que no pidió. Reclamó
 
 #### Lo que no cubren los registros
 
-El REPEP y el REUS no frenan la cobranza de deudas reales, las llamadas de partidos, encuestas o beneficencia, ni los fraudes: quien estafa no respeta registros. Si alguien te llama «del banco» después de registrarte, cuelga y llama tú al número de tu tarjeta.
+El REPEP y el REUS no frenan la cobranza de deudas reales ni las llamadas de partidos, encuestas o beneficencia. Tampoco los fraudes: quien estafa no respeta registros. Si alguien te llama «del banco» después de registrarte, cuelga y llama tú al número de tu tarjeta.
 
 
 
@@ -656,7 +656,7 @@ El REPEP y el REUS no frenan la cobranza de deudas reales, las llamadas de parti
 
 Entrega copias solo a empresas que puedas verificar, nunca fotos de tu INE por WhatsApp a reclutadores desconocidos, y pregunta para qué usarán tus datos. Si una «agencia» te pide pagar o dar datos bancarios antes de contratarte, es fraude.
 
-> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS y de Buró de Crédito en sus sitios oficiales; hay páginas falsas que cobran por inscribirte.
+> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS y de Buró de Crédito en sus sitios oficiales. Hay páginas falsas que cobran por inscribirte.
 
 
 
@@ -750,7 +750,7 @@ Profeco · CONDUSEF · Buró de Crédito · Comisión Reguladora de Telecomunica
 
 #### Qué es una voz clonada
 
-Con unos segundos de tu voz tomados de redes sociales o de una llamada, la inteligencia artificial puede imitar a un familiar pidiendo dinero con urgencia. También hay videos falsos de artistas o políticos que «recomiendan» inversiones.
+La inteligencia artificial puede imitar a un familiar pidiendo dinero con urgencia. Le bastan unos segundos de tu voz, tomados de redes sociales o de una llamada. También hay videos falsos de artistas o políticos que «recomiendan» inversiones.
 
 
 
@@ -792,7 +792,7 @@ Don Chuy colgó y marcó al celular de su hijo, que contestó desde la escuela. 
 
 #### Menos voz y datos en redes
 
-Pon privadas tus redes, evita publicar audios y videos con tu voz y la de tus hijos, y no digas en redes dónde trabajas ni tus horarios de turno. Entre menos datos, menos creíble es el engaño.
+Pon privadas tus redes y evita publicar audios y videos con tu voz y la de tus hijos. No digas en redes dónde trabajas ni tus horarios de turno. Entre menos datos, menos creíble es el engaño.
 
 
 

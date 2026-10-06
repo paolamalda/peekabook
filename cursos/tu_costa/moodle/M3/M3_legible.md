@@ -10,7 +10,7 @@
 
 #### El año no es parejo
 
-En la costa el ingreso sube y baja: la pesca depende de la temporada y del clima, la cosecha llega una o dos veces al año y el turismo tiene meses llenos y meses vacíos.
+En la costa el ingreso sube y baja. La pesca depende de la temporada y del clima. La cosecha llega una o dos veces al año. Y el turismo tiene meses llenos y meses vacíos.
 
 
 

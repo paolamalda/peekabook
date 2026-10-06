@@ -183,7 +183,7 @@ Una casa o agencia seria no te pide depósito para contratarte. Desconfía de su
 
 Chayo registró a su hija en el sitio oficial sin pagar a nadie. Mari no depositó y preguntó en la oficina del Servicio Nacional de Empleo: la oferta era falsa.
 
-> **Idea clave:** los registros a programas no tienen costo y nadie serio te pide depósito para darte trabajo; verifica en sitios que terminan en gob.mx.
+> **Idea clave:** los registros a programas no tienen costo, y nadie serio te pide depósito para darte trabajo. Verifica en sitios que terminan en gob.mx.
 
 
 
@@ -475,7 +475,7 @@ Con una copia de tu INE, tu CURP y tu comprobante de domicilio alguien puede sac
 
 #### Que no te llamen
 
-Registra tu número en el REPEP de la PROFECO para que no te llamen empresas con publicidad, y en el REUS de la CONDUSEF para que no te llamen bancos y financieras. Los dos no tienen costo.
+Registra tu número en el REPEP de la PROFECO para que no te llamen empresas con publicidad. Y en el REUS de la CONDUSEF, para que no te llamen bancos y financieras. Los dos no tienen costo.
 
 
 
@@ -483,7 +483,7 @@ Registra tu número en el REPEP de la PROFECO para que no te llamen empresas con
 
 Doña Tere revisó su reporte de crédito, reclamó el celular que no compró y denunció el robo de identidad. Mari registró su número en el REPEP y el REUS y dejaron de llamarle.
 
-> **Idea clave:** entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS; si usan tu identidad, reclama y denuncia.
+> **Idea clave:** entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS. Si usan tu identidad, reclama y denuncia.
 
 
 

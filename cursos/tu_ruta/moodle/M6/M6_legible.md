@@ -159,7 +159,7 @@ IMSS, seguro de riesgos de trabajo; consultado el 5 de octubre de 2026.
 
 #### Qué cubre
 
-El fondo de emergencia es para cuando no puedes trabajar: tu enfermedad o la de tu familia, una falla del vehículo, una desactivación o una semana muy mala.
+El fondo de emergencia es para cuando no puedes trabajar. Por ejemplo, si te enfermas tú o alguien de tu familia, si falla el vehículo, si te desactivan o si tienes una semana muy mala.
 
 
 

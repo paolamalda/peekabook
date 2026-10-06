@@ -147,7 +147,7 @@ Secretaría de Bienestar, Reglas de Operación de la Pensión para el Bienestar 
 
 **Lo que lograrás:** Ordenar los gastos del mes poniendo primero comida, medicinas, casa y transporte.
 
-**Para empezar:** Don Toño cobra su pensión del IMSS y siempre le pagan primero los compromisos: el abono del refrigerador, la cooperación de la fiesta, el préstamo del sobrino. Las medicinas quedan al final. En esta lección verás otro orden.
+**Para empezar:** Don Toño cobra su pensión del IMSS y siempre paga primero los compromisos. El abono del refrigerador, la cooperación de la fiesta, el préstamo del sobrino. Las medicinas quedan al final. En esta lección verás otro orden.
 
 ### Lo esencial (5 minutos)
 

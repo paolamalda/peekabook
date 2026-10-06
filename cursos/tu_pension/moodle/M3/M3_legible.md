@@ -201,7 +201,7 @@ Don Toño no abrió la liga. Preguntó en el módulo del Bienestar: no había ni
 
 #### El «hijo con número nuevo»
 
-Si alguien dice ser tu hijo con un número nuevo y pide dinero, llama al número de siempre de tu hijo antes de hacer cualquier cosa.
+Si alguien dice ser tu hijo con un número nuevo y pide dinero, no hagas nada todavía. Primero llama al número de siempre de tu hijo.
 
 
 

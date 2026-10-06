@@ -10,7 +10,7 @@
 
 #### Qué te da el IMSS
 
-Si la casa te inscribe, tienes seguridad social: médico y hospital para ti y tu familia, pago de incapacidades si te enfermas o te accidentas, guardería, semanas para tu pensión y ahorro en tu Afore.
+Si la casa te inscribe, tienes seguridad social. Te da médico y hospital para ti y tu familia, y pago de incapacidades si te enfermas o te accidentas. También guardería, semanas para tu pensión y ahorro en tu Afore.
 
 
 
@@ -25,9 +25,9 @@ Si la casa te inscribe, tienes seguridad social: médico y hospital para ti y tu
 
 #### Si trabajas en varias casas
 
-En el esquema de personas trabajadoras del hogar del IMSS, cada casa puede inscribirte y pagar por los días y el salario que trabajas con ella. No tiene que ser una sola casa.
+En el esquema de personas trabajadoras del hogar del IMSS, cada casa puede inscribirte. Paga por los días y el salario que trabajas con ella. No tiene que ser una sola casa.
 
-> **Dato vigente:** el IMSS permite que cada persona empleadora inscriba a la trabajadora del hogar y pague sus cuotas de forma individual, según los días laborados y el salario, en línea o en la App IMSS Digital. Consultado el 30 de septiembre de 2026 a través del IMSS (esquema de Personas Trabajadoras del Hogar).
+> **Dato vigente:** el IMSS permite que cada persona empleadora inscriba a la trabajadora del hogar y pague sus cuotas por separado. Se paga según los días trabajados y el salario, en línea o en la App IMSS Digital. Consultado el 30 de septiembre de 2026 a través del IMSS (esquema de Personas Trabajadoras del Hogar).
 
 
 
@@ -35,7 +35,7 @@ En el esquema de personas trabajadoras del hogar del IMSS, cada casa puede inscr
 
 Mari y la señora vieron juntas la calculadora de cuotas del IMSS. La señora la inscribió. Tres meses después Mari se fracturó la muñeca: la atendieron y le pagaron su incapacidad.
 
-> **Idea clave:** si una casa te inscribe al IMSS ganas médico, incapacidades, guardería y semanas para tu pensión; cada casa puede inscribirte por los días que trabajas con ella.
+> **Idea clave:** si una casa te inscribe al IMSS, ganas médico, incapacidades, guardería y semanas para tu pensión. Cada casa puede inscribirte por los días que trabajas con ella.
 
 
 
@@ -177,7 +177,7 @@ El Seguro de Salud para la Familia (también llamado Modalidad 33) es para quien
 | 70 a 79 | 20,650 |
 | 80 o más | 21,300 |
 
-> **Dato vigente:** cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) por persona según la edad, vigentes desde el 1 de marzo de 2026. Consultado el 30 de septiembre de 2026 a través de medios nacionales que citan las tablas del IMSS; confirma en tu clínica o en el IMSS antes de pagar.
+> **Dato vigente:** las cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) son por persona y según la edad. Están vigentes desde el 1 de marzo de 2026. Consultado el 30 de septiembre de 2026 a través de medios nacionales que citan las tablas del IMSS; confirma en tu clínica o en el IMSS antes de pagar.
 
 
 
@@ -200,7 +200,7 @@ El IMSS también tiene un esquema para quien trabaja por su cuenta (Modalidad 10
 
 Chayo sacó cuentas: inscribir a su mamá (19,800) y a su hija (9,300) cuesta 29,100 al año, unos 2,425 al mes. Empezó con su mamá, que es quien más lo necesita, y aparta cada semana para pagar la cuota. Para su hija usa los servicios de IMSS-Bienestar (M6 U03).
 
-> **Idea clave:** si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia por persona y edad; da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
+> **Idea clave:** si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia, por persona y edad. Da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
 
 
 
@@ -342,7 +342,7 @@ Si no tienes IMSS, ISSSTE ni otra seguridad social, puedes atenderte en los cent
 
 Doña Tere fue a su centro de salud con su CURP. Le hicieron un chequeo y le encontraron la presión alta a tiempo. Ahora lleva su control sin costo y no ha perdido días de trabajo.
 
-> **Idea clave:** sin seguridad social puedes atenderte sin costo en el centro de salud; un chequeo al año te ayuda a no perder días de trabajo.
+> **Idea clave:** sin seguridad social, puedes atenderte sin costo en el centro de salud. Un chequeo al año te ayuda a no perder días de trabajo.
 
 
 
@@ -520,7 +520,7 @@ Chayo ya no mezcla limpiadores y lleva sus guantes. Doña Tere acordó con las f
 
 #### Si el accidente fue por trabajar
 
-Si te accidentas trabajando y la casa te tiene inscrita al IMSS, es un riesgo de trabajo y el IMSS lo atiende y paga la incapacidad. Si no te tiene inscrita, pide orientación en la PROFEDET.
+Si te accidentas trabajando y la casa te tiene inscrita al IMSS, es un riesgo de trabajo. El IMSS lo atiende y paga la incapacidad. Si no te tiene inscrita, pide orientación en la PROFEDET.
 
 
 
@@ -631,9 +631,9 @@ Mucho menos que endeudarse de golpe.
 
 #### Un caso en un minuto
 
-Doña Tere comparó dos planes, verificó que la funeraria estuviera registrada en la PROFECO y puso a su hija Rosa como beneficiaria de su seguro de vida del banco.
+Doña Tere comparó dos planes y verificó que la funeraria estuviera registrada en la PROFECO. Puso a su hija Rosa como beneficiaria de su seguro de vida del banco.
 
-> **Idea clave:** un seguro chico o un plan funerario evita que tu familia se endeude; verifica la empresa y nombra a tus beneficiarios con nombre completo.
+> **Idea clave:** un seguro chico o un plan funerario evita que tu familia se endeude. Verifica la empresa y nombra a tus beneficiarios con nombre completo.
 
 
 

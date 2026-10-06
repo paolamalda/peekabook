@@ -324,7 +324,7 @@ Ask how much you'll pay **in total** and over how long. If you borrow 5,000 and 
 
 Lupita deleted the app before accepting. She asked her comadre to wait two weeks and used part of her savings circle (tanda). If she ever needs credit, she'll compare the total cost.
 
-> **Key idea:** before borrowing, ask how much you'll pay in total; if they won't tell you or they ask for your contacts, don't sign.
+> **Key idea:** before borrowing, ask how much you'll pay in total. If they won't tell you, or they ask for your contacts, don't sign.
 
 
 

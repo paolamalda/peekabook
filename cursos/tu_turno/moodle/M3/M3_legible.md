@@ -320,7 +320,7 @@ CONDUSEF · Profeco, consultados el 29 de septiembre de 2026.
 
 El préstamo gota a gota es un préstamo rápido, sin requisitos, con pagos diarios o semanales e intereses altísimos. Si te atrasas, los cobradores amenazan y extorsionan.
 
-> **Dato vigente:** autoridades y la CONDUSEF alertan sobre préstamos informales «gota a gota» con intereses de hasta 20% diario o semanal, cobrados con amenazas y extorsión; recomiendan pedir crédito solo a instituciones registradas en el SIPRES. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF y medios nacionales.
+> **Dato vigente:** autoridades y la CONDUSEF alertan sobre préstamos informales «gota a gota». Cobran intereses de hasta 20% diario o semanal, con amenazas y extorsión. Recomiendan pedir crédito solo a instituciones registradas en el SIPRES. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF y medios nacionales.
 
 
 
@@ -376,7 +376,7 @@ No pidas otro préstamo para pagarlo. Guarda evidencia de pagos y de amenazas. S
 
 #### Otras salidas
 
-Hablar con tu empleador sobre un adelanto, pedir prestado a un familiar con un acuerdo claro, vender algo que no usas o ajustar tu presupuesto suelen costar mucho menos.
+Hay opciones que suelen costar mucho menos. Pedir un adelanto a tu empleador, pedir prestado a un familiar con un acuerdo claro, vender algo que no usas o ajustar tu presupuesto.
 
 
 
@@ -672,7 +672,7 @@ Hay apps y páginas de apuestas que no tienen permiso para operar en México. Si
 
 El juego compulsivo es un problema de salud, no de falta de voluntad. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan sin costo. Contarle a alguien de confianza es el primer paso.
 
-> **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
+> **Antes de actuar, verifica:** que el sitio esté en la lista de permisionarios de la Secretaría de Gobernación. Hazlo antes de registrar tus datos o tu tarjeta.
 
 
 
@@ -772,9 +772,9 @@ Secretaría de Gobernación · Secretaría de Salud · Centros de Integración J
 
 #### El tope de los adelantos de la empresa
 
-Si la empresa te adelanta dinero, la Ley Federal del Trabajo (artículo 110) pone un límite: lo que te descuenten cada quincena no puede pasar de **30% de lo que ganas arriba del salario mínimo**, y el total del adelanto no puede ser mayor a un mes de tu salario. Pide siempre por escrito cuánto te adelantaron y cuánto te descontarán.
+Si la empresa te adelanta dinero, la Ley Federal del Trabajo (artículo 110) pone un límite. Lo que te descuenten cada quincena no puede pasar de **30% de lo que ganas arriba del salario mínimo**. Y el adelanto no puede ser mayor a un mes de tu salario. Pide siempre por escrito cuánto te adelantaron y cuánto te descontarán.
 
-> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo; el salario mínimo no se puede embargar (artículo 112). Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos del patrón a 30% del excedente del salario mínimo. El salario mínimo no se puede embargar (artículo 112). Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo.
 
 
 
@@ -788,7 +788,7 @@ El banco ve tu nómina y te ofrece dinero rápido. Se lo cobra directo de tu cue
 
 Beto iba a aceptar 10,000 del banco a 24 quincenas de 690: pagaría 16,560. Preguntó en recursos humanos por el FONACOT: su empresa sí está afiliada y el pago total salía más bajo. Comparó los dos totales antes de firmar y eligió el que le dejaba más quincena libre.
 
-> **Idea clave:** un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito.
+> **Idea clave:** un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito.
 
 
 
@@ -939,9 +939,9 @@ Le prestaron 60% del avalúo, pero para recuperarlo necesita 30% más de lo que 
 
 #### Antes de dejar tu prenda
 
-Verifica que la casa de empeño esté en el **Registro Público de Casas de Empeño de la PROFECO** y que su contrato esté registrado. Pide que te den por escrito el avalúo, el monto del préstamo, el costo total, la fecha límite y lo que pasa si venden tu prenda.
+Verifica que la casa de empeño esté en el **Registro Público de Casas de Empeño de la PROFECO** y que su contrato esté registrado. Pide por escrito el avalúo, el monto del préstamo y el costo total. También la fecha límite y lo que pasa si venden tu prenda.
 
-> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO, con un contrato de adhesión registrado, y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
+> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO. Deben tener un contrato de adhesión registrado y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
 
 
 

@@ -10,7 +10,7 @@
 
 #### Lo que sí tienes que cubrir
 
-**Estados Unidos · H-2A:** el empleador paga reclutamiento, vivienda y traslados (o te los reembolsa). **Canadá · PTAT:** el empleador paga el avión y puede descontarte hasta la mitad durante la temporada. **En los dos países**, lo que normalmente cubres tú antes de irte: trámites y traslados a la ciudad donde se hacen, la cuota de la visa en la H-2A (que te reembolsan) y tus primeros gastos personales.
+**Estados Unidos · H-2A:** el empleador paga reclutamiento, vivienda y traslados (o te los reembolsa). **Canadá · PTAT:** el empleador paga el avión y puede descontarte hasta la mitad durante la temporada. **En los dos países** sueles cubrir tú algunos gastos antes de irte. Son los trámites y el traslado a la ciudad donde se hacen, la cuota de la visa en la H-2A (que te reembolsan) y tus primeros gastos personales.
 
 
 
@@ -166,7 +166,7 @@ DOL, costos a cargo del empleador en el programa H-2A; CONDUSEF; consultados el 
 
 #### Si hacen falta trámites
 
-Si alguien tiene que hacer trámites por ti (banco, escuela, programas), un poder limitado a esos trámites y con fecha de término es más seguro que uno amplio.
+Alguien puede tener que hacer trámites por ti (banco, escuela, programas). Para eso, es más seguro un poder limitado a esos trámites y con fecha de término que uno amplio.
 
 
 

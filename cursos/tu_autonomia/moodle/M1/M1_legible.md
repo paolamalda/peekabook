@@ -155,7 +155,7 @@ INEGI y CNBV, ENIF 2024; CONDUSEF; consultados el 5 de octubre de 2026.
 
 #### Lo que no está a tu nombre, no lo puedes probar
 
-Si aportaste a una casa, un terreno, un auto o un negocio y no estás en los papeles, te cuesta mucho demostrar que también es tuyo.
+Quizá aportaste a una casa, un terreno, un auto o un negocio y no estás en los papeles. Así te cuesta mucho demostrar que también es tuyo.
 
 
 

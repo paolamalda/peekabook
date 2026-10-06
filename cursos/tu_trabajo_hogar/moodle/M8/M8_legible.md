@@ -16,7 +16,7 @@
 | Adultos Mayores | De 65 años en adelante. | 6,400 cada dos meses. |
 | Nadie cobra por inscribirte | El registro no tiene costo. | Cuidado con gestores. |
 
-> **Dato vigente:** en 2026 la Pensión Mujeres Bienestar da 3,100 pesos bimestrales a mujeres de 60 a 64 años, y la Pensión para el Bienestar de las Personas Adultas Mayores, 6,400 pesos bimestrales a partir de los 65 años; se depositan en la tarjeta del Banco del Bienestar. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
+> **Dato vigente:** en 2026, la Pensión Mujeres Bienestar da 3,100 pesos cada dos meses a mujeres de 60 a 64 años. La Pensión para el Bienestar de las Personas Adultas Mayores da 6,400 pesos cada dos meses a partir de los 65 años. Se depositan en la tarjeta del Banco del Bienestar. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
 
 #### ¿Alcanza la pensión?
 
@@ -167,7 +167,7 @@ Si alguna vez trabajaste con IMSS, tienes una Afore con tu dinero. Puedes buscar
 | Beneficiarios | Nombra a quién recibe si faltas. | Actualízalos. |
 | Gestores | Nadie cobra por darte tu Afore. | Sin costo. |
 
-> **Dato vigente:** las aportaciones voluntarias a la Afore se pueden hacer desde 50 pesos con tu CURP en tiendas como 7-Eleven, Círculo K, Bodega Aurrera y Walmart, en Telecomm, en el Banco del Bienestar y en la app AforeMóvil. Consultado el 30 de septiembre de 2026 a través de la CONSAR.
+> **Dato vigente:** puedes hacer aportaciones voluntarias a la Afore desde 50 pesos, con tu CURP. Se hacen en tiendas como 7-Eleven, Círculo K, Bodega Aurrera y Walmart, en Telecomm, en el Banco del Bienestar y en la app AforeMóvil. Consultado el 30 de septiembre de 2026 a través de la CONSAR.
 
 #### El ahorro de Chayo
 
@@ -311,7 +311,7 @@ CONSAR, consultado el 30 de septiembre de 2026.
 | Beca Rita Cetina | Educación básica pública. | Revisa montos por nivel. |
 | Coyotes | Nadie cobra por registrar. | Registro oficial. |
 
-> **Dato vigente:** en 2026 la Beca Benito Juárez da 1,900 pesos bimestrales a estudiantes de preparatoria pública, en cinco depósitos al año, en su tarjeta del Banco del Bienestar; la Beca Rita Cetina es para educación básica pública y sus montos cambian por nivel. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
+> **Dato vigente:** en 2026, la Beca Benito Juárez da 1,900 pesos cada dos meses a estudiantes de preparatoria pública. Son cinco depósitos al año, en su tarjeta del Banco del Bienestar. La Beca Rita Cetina es para educación básica pública y sus montos cambian por nivel. Consultado el 30 de septiembre de 2026 a través de Programas para el Bienestar.
 
 #### La beca de Yaretzi
 
@@ -621,9 +621,9 @@ Un testamento evita juicios largos y peleas. En septiembre, Mes del Testamento, 
 
 #### Un caso en un minuto
 
-Doña Tere pidió orientación para regularizar la casa y fue al Registro Agrario Nacional a ver quién aparece en la lista de sucesión de la parcela. En septiembre hizo su testamento y nombró a Rosa como tutora de Ximena.
+Doña Tere pidió orientación para regularizar la casa. Fue al Registro Agrario Nacional a ver quién aparece en la lista de sucesión de la parcela. En septiembre hizo su testamento y nombró a Rosa como tutora de Ximena.
 
-> **Idea clave:** revisa a nombre de quién están tu casa y tu tierra; regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
+> **Idea clave:** revisa a nombre de quién están tu casa y tu tierra. Regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
 
 
 
@@ -659,7 +659,7 @@ Doña Tere pidió orientación para regularizar la casa y fue al Registro Agrari
 
 #### Si vives en unión libre
 
-Tu pareja en unión libre puede heredar si cumple lo que pide la ley de tu estado, como cierto tiempo viviendo juntos o tener hijos en común. Un testamento lo deja claro.
+Tu pareja en unión libre puede heredar si cumple lo que pide la ley de tu estado. Por ejemplo, cierto tiempo viviendo juntos o tener hijos en común. Un testamento lo deja claro.
 
 
 
@@ -762,7 +762,7 @@ Secretaría de Gobernación · Registro Agrario Nacional · INSUS · Ley Agraria
 
 Las deudas se pagan con lo que dejó la persona. Si no alcanza, la familia **no** paga con su propio dinero. La excepción: quien firmó como aval u obligado solidario (M4 U03). Algunos créditos tienen un seguro que paga la deuda si la persona fallece: pregúntalo.
 
-> **Dato vigente:** los ingresos por herencia están exentos de ISR (Ley del ISR, artículo 93, fracción XXII); si el monto pasa de 500,000 pesos, quien presenta declaración anual debe informarlo. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
+> **Dato vigente:** los ingresos por herencia no pagan ISR (Ley del ISR, artículo 93, fracción XXII). Si el monto pasa de 500,000 pesos, quien presenta declaración anual debe informarlo. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
 
 
 
@@ -776,7 +776,7 @@ Hablar de lo que pasará cuando faltes no es de mala suerte: evita peleas. Di d�
 
 Mari no pagó las deudas de su papá: no había firmado como aval. Su hermano preguntó en una notaría: no pagan ISR por heredar la casa, solo los gastos de escriturar. Juntaron para hacerlo.
 
-> **Idea clave:** heredar no paga ISR y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval; escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
+> **Idea clave:** heredar no paga ISR, y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval. Escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
 
 
 

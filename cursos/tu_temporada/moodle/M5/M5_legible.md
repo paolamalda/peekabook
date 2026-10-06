@@ -176,7 +176,7 @@ Necesitas tu número de seguro social canadiense (SIN) y la forma **T4** que te 
 
 Rosaura pidió ayuda en una organización que le recomendó el consulado. Presentó sus dos últimas declaraciones con sus T4 y le regresaron una parte de lo retenido.
 
-> **Idea clave:** en Canadá te descuentan impuesto, CPP y EI; presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
+> **Idea clave:** en Canadá te descuentan impuesto, CPP y EI. Presenta tu declaración con tu T4 y tu SIN: puede haber reembolso y cuidas tu pensión.
 
 
 

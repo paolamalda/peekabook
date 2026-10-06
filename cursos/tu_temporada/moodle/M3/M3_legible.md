@@ -25,7 +25,7 @@ Con cada pago, el empleador debe darte un estado de pago con tus horas, lo que g
 
 #### Los descuentos de cada país
 
-**Canadá · PTAT:** impuesto sobre la renta, Plan de Pensiones de Canadá (CPP), Seguro de Empleo (EI) y los que permita tu contrato (parte del avión; vivienda solo en Columbia Británica). **Estados Unidos · H-2A:** normalmente no hay retención de Seguro Social; otros descuentos deben estar permitidos y en tu contrato.
+**Canadá · PTAT:** impuesto sobre la renta, Plan de Pensiones de Canadá (CPP) y Seguro de Empleo (EI). También los que permita tu contrato: parte del avión, y vivienda solo en Columbia Británica. **Estados Unidos · H-2A:** normalmente no hay retención de Seguro Social. Otros descuentos deben estar permitidos y en tu contrato.
 
 
 
@@ -72,7 +72,7 @@ Juan Carlos anotó una semana: 52 horas. El talón decía 46. Preguntó con su l
 
 #### Pago por pieza
 
-Si te pagan por pieza, en la H-2A tu pago de la semana no debe ser menor que tus horas por el salario por hora del contrato. Revisa en tu contrato cómo aplica en tu caso.
+Si te pagan por pieza en la H-2A, revisa tu pago de la semana. No debe ser menor que tus horas por el salario por hora del contrato. Revisa en tu contrato cómo aplica en tu caso.
 
 
 
@@ -176,7 +176,7 @@ DOL, Wage and Hour Division; Gobierno de Canadá, contrato SAWP-México 2026; co
 
 #### Si te pagan menos
 
-Habla primero con el encargado con tu libreta y tu talón. Si no se corrige: en **Canadá · PTAT**, el consulado de México tiene personal de enlace del PTAT; en **Estados Unidos · H-2A**, la División de Horas y Salarios del Departamento del Trabajo: 1-866-487-9243, y el consulado.
+Habla primero con el encargado con tu libreta y tu talón. Si no se corrige, pide apoyo. En **Canadá · PTAT**, el consulado de México tiene personal de enlace del PTAT. En **Estados Unidos · H-2A**, llama a la División de Horas y Salarios del Departamento del Trabajo (1-866-487-9243) y al consulado.
 
 
 
@@ -184,7 +184,7 @@ Habla primero con el encargado con tu libreta y tu talón. Si no se corrige: en 
 
 Don Efrén revisó su contrato: el salario bajó por el nuevo nivel en su estado y estaba escrito. Rosaura vio que le pagaban menos horas extra de las acordadas y lo resolvió con el enlace del consulado.
 
-> **Idea clave:** te deben pagar al menos lo del contrato; si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
+> **Idea clave:** te deben pagar al menos lo del contrato. Si no, reclama con tu libreta y pide apoyo al consulado o al Departamento del Trabajo.
 
 
 

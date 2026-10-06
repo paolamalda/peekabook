@@ -306,7 +306,7 @@ Secretaría de Bienestar; Secretaría de las Mujeres, Línea 079; consultados el
 
 #### El cambio es automático
 
-Al cumplir 65 años, las beneficiarias de Mujeres Bienestar pasan **en automático** a la Pensión para el Bienestar de las Personas Adultas Mayores, en la misma tarjeta. No hay que registrarse desde cero.
+Al cumplir 65 años, las beneficiarias de Mujeres Bienestar pasan **en automático** a la Pensión para el Bienestar de las Personas Adultas Mayores. Siguen con la misma tarjeta. No hay que registrarse desde cero.
 
 
 

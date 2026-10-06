@@ -32,7 +32,7 @@ Con tu CURP puedes localizar o abrir tu Afore y hacer aportaciones voluntarias d
 
 Rosaura guardó sus T4: sus años de CPP podrán sumar. Don Efrén abrió su Afore y aporta 500 pesos de cada mes de temporada.
 
-> **Idea clave:** en Canadá cotizas al CPP y se puede sumar con México; con la H-2A no cotizas allá, así que aporta a tu Afore.
+> **Idea clave:** en Canadá cotizas al CPP y se puede sumar con México. Con la H-2A no cotizas allá, así que aporta a tu Afore.
 
 
 
@@ -324,7 +324,7 @@ Revisa tu plan antes de irte y al regresar. Cada temporada cambia algo.
 
 #### Un caso en un minuto
 
-Rosaura escribió: confirmar su registro en el Servicio Nacional de Empleo (enero), acordar el plan de remesas (antes de irse), presentar su declaración en Canadá (abril). Lo revisa antes de cada temporada.
+Rosaura escribió tres pasos. Confirmar su registro en el Servicio Nacional de Empleo (enero). Acordar el plan de remesas (antes de irse). Presentar su declaración en Canadá (abril). Lo revisa antes de cada temporada.
 
 > **Idea clave:** junta todo en una página con una acción y una fecha, y revísalo antes de irte y al regresar.
 

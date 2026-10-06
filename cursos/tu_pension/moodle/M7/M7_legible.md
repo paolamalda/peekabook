@@ -10,7 +10,7 @@
 
 #### Para qué sirve
 
-El testamento dice a quién le dejas tus bienes. Sin testamento, la familia tiene que hacer un trámite largo para que un juez o un notario decida quién hereda, y eso cuesta tiempo y dinero.
+El testamento dice a quién le dejas tus bienes. Sin testamento, la familia hace un trámite largo para que un juez o un notario decida quién hereda. Eso cuesta tiempo y dinero.
 
 
 

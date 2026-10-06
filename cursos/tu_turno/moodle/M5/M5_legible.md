@@ -153,7 +153,7 @@ Buró de Crédito · CONDUSEF, consultados el 29 de septiembre de 2026.
 
 #### Sin costo una vez al año
 
-Puedes pedir un reporte de crédito sin costo una vez al año en Buró de Crédito y otro en Círculo de Crédito, en sus sitios oficiales.
+Puedes pedir un reporte de crédito sin costo una vez al año en Buró de Crédito. Y otro en Círculo de Crédito, en sus sitios oficiales.
 
 > **Dato vigente:** Buró de Crédito y Círculo de Crédito entregan un reporte sin costo una vez al año, en sus sitios oficiales. Consultado el 29 de septiembre de 2026 a través de sus sitios y la CONDUSEF.
 
@@ -435,7 +435,7 @@ CONDUSEF · Buró de Crédito, consultados el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
 
-**Para empezar:** Un compañero le pide a Beto que sea su aval para un préstamo de nómina, y a Karla la pusieron de referencia en una tarjeta sin preguntarle. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
+**Para empezar:** Un compañero le pide a Beto que sea su aval para un préstamo de nómina. A Karla la pusieron de referencia en una tarjeta sin preguntarle. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
 
 ### Lo esencial (5 minutos)
 
@@ -458,7 +458,7 @@ CONDUSEF · Buró de Crédito, consultados el 29 de septiembre de 2026.
 
 Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** según las reglas de la CONDUSEF, los despachos de cobranza solo pueden cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 

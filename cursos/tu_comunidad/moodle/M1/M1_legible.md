@@ -147,7 +147,7 @@ Secretaría de Bienestar, trámites sin costo y sin intermediarios; consultado e
 
 **Lo que lograrás:** Identificar a quién avisar si alguien te cobra por tu apoyo o se queda con una parte.
 
-**Para empezar:** En la comunidad de Rosa, una persona dice que «tiene palancas» y cobra 300 pesos a cada familia para que sigan recibiendo la beca de sus hijos. Si no pagan, dice que los dan de baja. En esta lección verás qué hacer.
+**Para empezar:** En la comunidad de Rosa, una persona dice que «tiene palancas». Cobra 300 pesos a cada familia para que sigan recibiendo la beca de sus hijos. Si no pagan, dice que los dan de baja. En esta lección verás qué hacer.
 
 ### Lo esencial (5 minutos)
 

@@ -68,7 +68,7 @@ Chayo hizo su lista y se dio cuenta de que cocina muy bien. Ofreció a dos de su
 
 #### Tus hijas y nietas también
 
-Cuando platicas en casa de lo que sabes hacer y de lo que quieres lograr, les enseñas que el trabajo vale y que se puede crecer.
+Cuando platicas en casa de lo que sabes hacer y de lo que quieres lograr, les enseñas algo. Que el trabajo vale y que se puede crecer.
 
 
 
@@ -335,7 +335,7 @@ Por 5 horas: 74 por hora.
 
 Mari usa la app dos días a la semana para conseguir clientas nuevas. A las que le gustan su trabajo les ofrece seguir directo, sin romper las reglas de la app. Así sube lo que le queda por hora.
 
-> **Idea clave:** compara por lo que te queda por hora después de comisiones y pasajes; una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
+> **Idea clave:** compara por lo que te queda por hora después de comisiones y pasajes. Una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
 
 
 
@@ -483,7 +483,7 @@ Escribe una meta con nombre («fondo para la prepa de Yaretzi»), cuánto aparta
 
 Doña Tere llenó su plan y le tomó una foto. Su compromiso: «Fondo de un mes para mi tranquilidad, 100 cada día que trabajo». Su hija Rosa es su testigo. En seis meses terminó con la prestamista y juntó su fondo.
 
-> **Idea clave:** tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+> **Idea clave:** tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 
 
@@ -525,7 +525,7 @@ Doña Tere llenó su plan y le tomó una foto. Su compromiso: «Fondo de un mes 
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar el dinero antes de verlo también ayuda: no tienes que decidir cada vez.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar el dinero antes de verlo también ayuda: no tienes que decidir cada vez.
 
 
 

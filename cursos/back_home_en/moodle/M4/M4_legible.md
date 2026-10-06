@@ -174,7 +174,7 @@ If you worked on payroll in the U.S., taxes were taken out of every paycheck. Wh
 
 #### The refund can reach Mexico
 
-The IRS doesn't deposit into Mexican accounts, but it can mail a check to your address or to someone you trust in the U.S. You generally have up to three years to claim a refund.
+The IRS doesn't deposit into Mexican accounts. But it can mail a check to your address or to someone you trust in the U.S. You generally have up to three years to claim a refund.
 
 
 

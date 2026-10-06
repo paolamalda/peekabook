@@ -37,7 +37,7 @@ Paga 1,450 a la semana entre todas.
 
 Doña Tere escribió su lista por primera vez. Le asustó el total, pero vio que la prestamista le cobra más que todas y decidió empezar por ahí (M5 U04).
 
-> **Idea clave:** escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran; lo que ves, lo puedes arreglar.
+> **Idea clave:** escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran. Lo que ves, lo puedes arreglar.
 
 
 
@@ -337,7 +337,7 @@ Por 2,000 prestados en menos de un mes: 20% al mes, casi 240% al año.
 
 Doña Tere juntó con su fondo y su familia lo que faltaba, pagó y no volvió a pedir. Cuando la amenazaron, anotó los datos y denunció al 088.
 
-> **Idea clave:** nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos; si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
+> **Idea clave:** nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos. Si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
 
 
 
@@ -492,7 +492,7 @@ En cinco semanas termina con ella y esos 700 pasan a la tienda.
 
 Doña Tere usó la avalancha: primero la prestamista, que le cobra 20% al mes. Habló con la tienda y le quitaron recargos por pagar a tiempo. En 5 meses bajó su deuda a la mitad.
 
-> **Idea clave:** paga lo mínimo en todas, pon el extra en una sola y, al terminarla, pasa ese pago a la siguiente; no tomes deudas nuevas mientras sales.
+> **Idea clave:** paga lo mínimo en todas y pon el extra en una sola. Al terminarla, pasa ese pago a la siguiente. No tomes deudas nuevas mientras sales.
 
 
 
@@ -774,9 +774,9 @@ Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 30 de sept
 
 #### Lo que dice la ley
 
-La Ley Federal del Trabajo también protege a las trabajadoras del hogar. Si te adelantan dinero, el descuento de cada pago **no puede pasar de 30% de lo que ganas arriba del salario mínimo**, y el total del adelanto no puede ser mayor a un mes de salario. Tu salario mínimo no se puede embargar.
+La Ley Federal del Trabajo también protege a las trabajadoras del hogar. Si te adelantan dinero, el descuento de cada pago **no puede pasar de 30% de lo que ganas arriba del salario mínimo**. El total del adelanto no puede ser mayor a un mes de salario. Tu salario mínimo no se puede embargar.
 
-> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos a 30% del excedente del salario mínimo; en 2026 el salario mínimo de las trabajadoras del hogar es de 342.47 pesos diarios. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la CONASAMI.
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo limita los descuentos por anticipos. El tope es 30% de lo que se gana arriba del salario mínimo. En 2026, el salario mínimo de las trabajadoras del hogar es de 342.47 pesos diarios. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la CONASAMI.
 
 
 
@@ -940,9 +940,9 @@ Recibió 2,000, pero para recuperarlo necesita casi 500 más.
 
 #### Antes de dejar tu prenda
 
-Busca la casa en el **Registro Público de Casas de Empeño de la PROFECO** y pide por escrito el avalúo, el préstamo, el costo total y la fecha límite. Tómale foto a tu boleta.
+Busca la casa en el **Registro Público de Casas de Empeño de la PROFECO**. Pide por escrito el avalúo, el préstamo, el costo total y la fecha límite. Tómale foto a tu boleta.
 
-> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO, con un contrato de adhesión registrado, y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
+> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO. Deben tener un contrato de adhesión registrado y renovar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
 
 
 

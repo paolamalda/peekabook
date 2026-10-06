@@ -10,7 +10,7 @@
 
 #### Quién es un gestor falso
 
-Es alguien que te cobra por algo que es sin costo o que tú puedes hacer solo, y que a veces se queda con tus papeles o tus datos. Se para afuera de oficinas y centros de atención, o te busca por redes.
+Es alguien que te cobra por algo que es sin costo o que tú puedes hacer solo. A veces se queda con tus papeles o tus datos. Se para afuera de oficinas y centros de atención, o te busca por redes.
 
 
 

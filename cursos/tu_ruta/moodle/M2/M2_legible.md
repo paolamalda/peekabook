@@ -10,7 +10,7 @@
 
 #### La reforma
 
-Desde el 22 de junio de 2025, la Ley Federal del Trabajo reconoce el trabajo en plataformas digitales. Quien genera al menos un salario mínimo mensual de ingreso neto en una misma plataforma es **persona trabajadora de plataforma**, con derechos laborales y seguridad social.
+Desde el 22 de junio de 2025, la Ley Federal del Trabajo reconoce el trabajo en plataformas digitales. Hay quien genera al menos un salario mínimo mensual de ingreso neto en una misma plataforma. Esa persona es **persona trabajadora de plataforma**, con derechos laborales y seguridad social.
 
 
 

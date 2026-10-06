@@ -10,7 +10,7 @@
 
 #### The repatriation record
 
-If you were sent back from the United States, the National Migration Institute (INM) gave you a **Record of Reception of Repatriated Mexicans** (Constancia de Recepción de Mexicanos Repatriados). It works as a temporary ID for your first steps: CURP, birth certificate, health services, jobs and support from México te Abraza.
+If you were sent back from the United States, the National Migration Institute (INM) gave you a **Record of Reception of Repatriated Mexicans** (Constancia de Recepción de Mexicanos Repatriados). It works as a temporary ID for your first steps. Use it for your CURP, birth certificate, health services, jobs and support from México te Abraza.
 
 
 
@@ -160,7 +160,7 @@ SEGOB, México te Abraza; INM, Record of Reception of Repatriated Mexicans; chec
 
 #### The birth certificate
 
-You can get a certified copy of your birth certificate at gob.mx/actas with your CURP, pay online or at a bank, and print it. It's worth the same as the one from the Civil Registry. The cost depends on the state.
+You can get a certified copy of your birth certificate at gob.mx/actas with your CURP. Pay online or at a bank, and print it. It's worth the same as the one from the Civil Registry. The cost depends on the state.
 
 
 
@@ -182,7 +182,7 @@ The INE voter ID is the ID people ask for most. Applying for it has no cost. Bri
 
 Chayo's husband got his birth certificate online, asked the municipality for a proof of residence and went to the INE office. Two weeks later he had his ID and opened his account.
 
-> **Key idea:** with your birth certificate and proof of address you get your INE at no cost; it's the ID that opens a bank account.
+> **Key idea:** with your birth certificate and proof of address, you get your INE at no cost. It's the ID that opens a bank account.
 
 
 

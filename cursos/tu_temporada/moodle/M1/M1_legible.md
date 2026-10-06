@@ -335,7 +335,7 @@ En los dos programas tienes derecho a tu contrato en español. Pide una copia y 
 
 Ahora Don Efrén anota las horas totales de su contrato y una temporada lluviosa reclamó la garantía. Rosaura revisó su contrato: el avión se lo descuentan hasta la mitad y la vivienda en Ontario no se descuenta.
 
-> **Idea clave:** lee pago, horas, vivienda y descuentos; en la H-2A te garantizan 3/4 de las horas y en el PTAT al menos 240 horas en 6 semanas.
+> **Idea clave:** lee pago, horas, vivienda y descuentos. En la H-2A te garantizan 3/4 de las horas. En el PTAT, al menos 240 horas en 6 semanas.
 
 
 
