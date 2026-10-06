@@ -423,6 +423,53 @@ Cuando tu caso tiene muchos detalles: impuestos, herencias, deudas en juicio o c
     libro(F, os.path.join(OUT, "Fondo"), "Fondo_libro_Moodle.zip", "fondo", cab, leads, {"01": "fa-compass"}, "")
 
 
+def paso_programas():
+    """Módulo extra «Programas y apoyos»: aparte del curso, se oculta o se quita sin afectar nada. Solo programas vigentes."""
+    import programas as PG
+    F = os.path.join(D, "programas"); O = os.path.join(OUT, "Programas")
+    shutil.rmtree(F, ignore_errors=True); shutil.rmtree(O, ignore_errors=True)
+    ok, venc = PG.vigentes(os.path.basename(os.path.normpath(D)), EN)
+    for p in venc: print(f"  AVISO: «{p['id']}» venció sin revisión ({p['revisado']}); queda fuera del libro.")
+    if not ok: print("sin programas vigentes: no hay módulo extra"); return
+    L = "en" if EN else "es"; os.makedirs(F)
+    rev = max(p["revisado"] for p in ok)
+    if EN:
+        intro = f"""# About this section
+
+## An extra section
+
+This section is **extra**: it doesn't count toward finishing the course. It brings together government programs and public services that may help you.
+
+## Check before you act
+
+Information reviewed on {PG.fecha(rev, True)}. Programs change: confirm on the official site before doing any paperwork. No government program charges you to sign up.
+"""
+        mas, revt, cab, lead = "Learn more", "Reviewed on", "Programs and support", "Government programs and public services. Extra and optional."
+    else:
+        intro = f"""# Sobre esta sección
+
+## Una sección extra
+
+Esta sección es **extra**: no cuenta para terminar el curso. Reúne programas de gobierno y servicios públicos que pueden servirte.
+
+## Confirma antes de actuar
+
+Información revisada al {PG.fecha(rev, False)}. Los programas cambian: confirma en el sitio oficial antes de hacer un trámite. Ningún programa de gobierno te cobra por inscribirte.
+"""
+        mas, revt, cab, lead = "Para saber más", "Revisado el", "Programas y apoyos", "Programas de gobierno y servicios públicos. Extra y opcional."
+    open(os.path.join(F, "01-sobre-esta-seccion.md"), "w").write(intro)
+    leads = {"01": lead}
+    for i, p in enumerate(ok, 2):
+        num = f"{i:02d}"; leads[num] = lead
+        rec = p.get("recurso", {}).get(L, "")
+        rec = re.sub(r"(https?://[^\s|]+)", lambda m: "[" + re.sub(r"^www[.]", "", m.group(1).split("://", 1)[1].split("/", 1)[0]) + "](" + m.group(1) + ")", rec)
+        rec = re.sub(r"\s*\|\s*(Qué buscar|What to look for):\s*", lambda m: "  \n  **" + m.group(1) + ":** ", rec)
+        body = f"# {p['titulo'][L]}\n\n{p['texto'][L]}\n"
+        if rec: body += f"\n## {mas}\n\n{rec}\n\n*{revt} {PG.fecha(p['revisado'], EN)}.*\n"
+        open(os.path.join(F, f"{num}-{p['id']}.md"), "w").write(body)
+    libro(F, O, "Programas_libro_Moodle.zip", "programas", cab, leads, {"01": "fa-life-ring"}, "")
+
+
 def paso_comunidad():
     if not CFG.get("comunidad"): return
     icons = {"01": "fa-users", "02": "fa-shield", "03": "fa-comments", "04": "fa-calendar", "05": "fa-video-camera", "06": "fa-handshake-o"}
@@ -637,12 +684,12 @@ def paso_herramientas():
     import extras; n, h = extras.hojas(D, CFG, EN); print("herramientas:", n, h)
 
 
-PASOS = {"bienvenida": paso_bienvenida, "whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "fondo": paso_fondo, "comunidad": paso_comunidad,
+PASOS = {"bienvenida": paso_bienvenida, "whatsapp": paso_whatsapp, "kit": paso_kit, "herramientas": paso_herramientas, "instalacion": paso_instalacion, "glosario": paso_glosario, "libros": paso_libros, "h5p": paso_h5p, "banco": paso_banco, "apoyo": paso_apoyo, "fondo": paso_fondo, "programas": paso_programas, "comunidad": paso_comunidad,
          "insignias": paso_insignias, "verificar": paso_verificar, "constancia": paso_constancia, "encuesta": paso_encuesta, "catalogo": paso_catalogo, "ocde": paso_ocde}
 
 if __name__ == "__main__":
     pedidos = sys.argv[2:] or ["todo"]
-    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "fondo", "bienvenida", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
+    if "todo" in pedidos: pedidos = [p for p in pedidos if p != "todo" and p != "carpeta"] + ["verificar", "instalacion", "glosario", "libros", "h5p", "banco", "apoyo", "fondo", "programas", "bienvenida", "comunidad", "insignias", "constancia", "encuesta", "catalogo", "ocde", "whatsapp", "kit", "herramientas"] + (["carpeta"] if "carpeta" in pedidos else [])
     for p in pedidos:
         if p == "carpeta":
             import carpeta; carpeta.construir(D, CFG)

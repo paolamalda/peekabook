@@ -2817,16 +2817,6 @@ Si algo cambió, ajusta el paso que corresponde. Un plan que se revisa es un pla
 
 
 
-#### Asesoría financiera sin costo en tu consulado
-
-Los consulados de México en Estados Unidos tienen una **Ventanilla de Asesoría Financiera**. Te orientan sin costo y en privado sobre tu presupuesto, tu ahorro, tu crédito y tus deudas.
-
-También sobre tus impuestos en EE. UU., las formas seguras y baratas de enviar dinero, y tu Afore o el IMSS en México. Y te informan si quieres invertir en un proyecto o comprar una propiedad en México o en EE. UU.
-
-> **Dato vigente:** hay 55 Ventanillas de Asesoría Financiera: 50 en Estados Unidos, 2 en Canadá, 2 en Alemania y 1 en Francia. Consultado el 6 de octubre de 2026 a través del Instituto de los Mexicanos en el Exterior (IME) y los consulados de México.
-
-
-
 #### Casos
 
 
@@ -2893,7 +2883,6 @@ Entrega tu expediente del Módulo 2: mapa de instituciones, comparación de cuen
 - **Guías para recién llegados** (CFPB · español e inglés): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/ — **Qué buscar:** la guía para enviar dinero al extranjero y la de cuentas de banco.
 - **Cuentas certificadas Bank On** (CFE Fund · inglés y español): https://joinbankon.org — **Qué buscar:** cuentas sin cuota cerca de ti para recibir tu sueldo y enviar desde ahí.
 - **Tus derechos en remesas** (CFPB · inglés y español): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/ — **Qué buscar:** qué debe decir tu recibo para poder reclamar.
-- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera — **Qué buscar:** qué temas atiende y cómo pedir una cita en tu consulado.
 
 ### Palabras clave
 

@@ -162,6 +162,16 @@ Restrict the follow-ups by date: 30 and 90 days after the cohort's end date ("[T
 
 Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with `5_badges/`; each name includes the course so it's unique on the platform), 4 (completion with the 5 self-assessments) and 5 (certificate with the standard template and the data in `6_certificate/certificate.md`). If Level Up or Custom certificate does not exist, do not install it: skip that step and report it.
 
+## Extra section: Programs and support
+
+This section is **separate**: nothing in the course depends on it.
+
+1. Add a section **at the end** of the course called `Programs and support` (description: "Government programs and public services that may help you. Reviewed information; confirm it on the official site."). Pick a "help" icon for its tile.
+2. Create the book `Programs and support` with the same settings and import `1_books/Programas_libro_Moodle.zip` (4 chapters).
+3. **Completion: none.** Don't add it to course completion or to any other activity's restrictions, and don't give it points.
+4. **To remove it:** hide the section (eye icon > Hide) or delete it. The rest of the course stays the same.
+5. If you get a new package for this book, replace only this book.
+
 ## 10. Final review (as a student)
 
 - The home page shows one tile per part with its percentage; inside each part, one sub-tile per lesson with no technical codes.

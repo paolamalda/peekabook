@@ -2817,16 +2817,6 @@ If something changed, adjust that step. A plan that gets reviewed is a plan that
 
 
 
-#### No-cost financial advice at your consulate
-
-Mexican consulates in the United States have a **Financial Advisory Window** (Ventanilla de Asesoría Financiera). They guide you at no cost and in private on your budget, savings, credit and debts.
-
-Also on your U.S. taxes, safe and cheap ways to send money, and your Afore or IMSS in Mexico. And they inform you if you want to invest in a project or buy property in Mexico or the U.S.
-
-> **Current fact:** there are 55 Financial Advisory Windows: 50 in the United States, 2 in Canada, 2 in Germany and 1 in France. Accessed October 6, 2026 through the Institute for Mexicans Abroad (IME) and Mexican consulates.
-
-
-
 #### Cases
 
 
@@ -2893,7 +2883,6 @@ Turn in your Module 2 file: map of institutions, account comparison, three trans
 - **Newcomer's guides to managing money** (CFPB · English and Spanish): https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/ — **What to look for:** the guide to sending money abroad and the guide to bank accounts.
 - **Bank On certified accounts** (CFE Fund · English and Spanish): https://joinbankon.org — **What to look for:** no-fee accounts near you to receive your pay and send from there.
 - **Your rights on remittances** (CFPB · English and Spanish): https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/ — **What to look for:** what your receipt must say so you can complain.
-- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera — **What to look for:** the topics they cover and how to make an appointment at your consulate.
 
 ### Key words
 

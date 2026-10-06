@@ -1,0 +1,118 @@
+{
+ "nota": "Programas de gobierno: van en el módulo extra «Programas y apoyos», nunca en las lecciones. Cada uno se oculta solo si pasa su vigencia sin revisarse (revisado + vigencia_meses). Al revisar uno, actualiza 'revisado' y su texto.",
+ "programas": [
+  {
+   "id": "consulado",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Tu consulado te protege",
+    "en": "Your consulate protects you"
+   },
+   "texto": {
+    "es": "El consulado de México no es solo para el pasaporte o la matrícula. Su área de **protección** te orienta y te acompaña sin costo si:\n\n- te detienen a ti o a alguien de tu familia;\n- no te pagan tu trabajo, te tratan mal en el trabajo o te accidentas trabajando;\n- vives violencia en casa;\n- te estafa un «notario» o alguien que se hace pasar por abogado;\n- tienes un problema con la custodia de tus hijos;\n- fallece un familiar y necesitas apoyo para el traslado;\n- buscas a un familiar del que no sabes nada.\n\nSi no sabes a qué consulado ir, llama al **CIAM** (Centro de Información y Asistencia a Personas Mexicanas): **1 (520) 623-7874**, las 24 horas, todos los días. El consulado también puede ponerte en contacto con abogados que colaboran con él.",
+    "en": "The Mexican consulate isn't only for passports or the matrícula. Its **protection** team helps you at no cost if:\n\n- you or someone in your family is detained;\n- you aren't paid for your work, you're treated badly at work or you get hurt on the job;\n- you live with violence at home;\n- a \"notario\" or someone pretending to be a lawyer scams you;\n- you have a problem with your children's custody;\n- a relative dies and you need help to take them home;\n- you're looking for a relative you haven't heard from.\n\nIf you don't know which consulate to go to, call **CIAM** (Information and Assistance Center for Mexicans): **1 (520) 623-7874**, 24 hours a day, every day. The consulate can also put you in touch with lawyers who work with it."
+   },
+   "recurso": {
+    "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: tu consulado y su área de protección.",
+    "en": "- **Mexican consulates** (SRE · Spanish): https://consulmex.sre.gob.mx | What to look for: your consulate and its protection area."
+   }
+  },
+  {
+   "id": "ventanillas",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Ventanillas del consulado y tu comunidad",
+    "en": "Consulate windows and your community"
+   },
+   "texto": {
+    "es": "En tu consulado hay espacios sin costo para ti y tu familia:\n\n- **Ventanilla de Asesoría Financiera:** orientación privada sobre presupuesto, ahorro, crédito, deudas, impuestos en EE. UU., envíos de dinero y tu Afore o el IMSS en México. También si quieres invertir en un proyecto o comprar una propiedad.\n- **Ventanilla de Salud:** información de salud y dónde atenderte.\n- **Ventanilla de Orientación Educativa:** para terminar la primaria o la secundaria, aprender inglés o seguir estudiando.\n- **Consulados móviles:** el consulado visita ciudades lejanas para hacer trámites.\n\nEstos espacios también te acercan a tu comunidad. Ahí te enteras de talleres, ferias y organizaciones de paisanos de tu región. Sigue las redes oficiales de tu consulado y desconfía de páginas que cobran por citas.\n\n> **Dato vigente:** hay 55 Ventanillas de Asesoría Financiera: 50 en Estados Unidos, 2 en Canadá, 2 en Alemania y 1 en Francia. Consultado el 6 de octubre de 2026 a través del Instituto de los Mexicanos en el Exterior (IME) y los consulados de México.",
+    "en": "Your consulate has no-cost services for you and your family:\n\n- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** private guidance on your budget, savings, credit, debts, U.S. taxes, sending money and your Afore or IMSS in Mexico. Also if you want to invest in a project or buy property.\n- **Health Window (Ventanilla de Salud):** health information and where to get care.\n- **Education Window (Ventanilla de Orientación Educativa):** to finish elementary or middle school, learn English or keep studying.\n- **Mobile consulates:** the consulate visits faraway cities to do paperwork.\n\nThese services also bring you closer to your community. There you hear about workshops, fairs and hometown associations from your region. Follow your consulate's official social media and be wary of pages that charge for appointments.\n\n> **Current fact:** there are 55 Financial Advisory Windows: 50 in the United States, 2 in Canada, 2 in Germany and 1 in France. Accessed October 6, 2026 through the Institute for Mexicans Abroad (IME) and Mexican consulates."
+   },
+   "recurso": {
+    "es": "- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | Qué buscar: qué temas atiende y cómo pedir una cita en tu consulado.",
+    "en": "- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | What to look for: the topics they cover and how to make an appointment at your consulate."
+   }
+  },
+  {
+   "id": "consulado_h2a",
+   "cursos": [
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Si estás en Estados Unidos con la H-2A",
+    "en": "If you're in the U.S. on an H-2A visa"
+   },
+   "texto": {
+    "es": "Con la visa H-2A, el consulado de México más cercano te orienta sin costo. Acude si no te pagan lo del contrato, si sufres abuso o si te accidentas. Si no sabes a cuál llamar, marca al **CIAM**: **1 (520) 623-7874**, las 24 horas. Guarda ese número en tu celular antes de irte.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: el consulado más cercano a tu trabajo y su teléfono de protección.",
+    "en": ""
+   }
+  },
+  {
+   "id": "mexico_te_abraza",
+   "cursos": [
+    "tu_regreso",
+    "back_home_en",
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "México te Abraza: si regresas a México",
+    "en": "México te Abraza: if you return to Mexico"
+   },
+   "texto": {
+    "es": "**México te Abraza** es el programa del Gobierno de México para recibir a las personas repatriadas de Estados Unidos. Participan más de 30 dependencias. En los centros de atención y puntos de llegada de la frontera y de algunos aeropuertos te pueden ayudar con:\n\n- **comida, hospedaje y traslado** a tu estado;\n- tu **CURP y tu acta de nacimiento**;\n- **afiliación al IMSS** para que te atiendan;\n- la **Tarjeta Bienestar Paisano**, con un apoyo de 2,000 pesos para traslado y primeros gastos;\n- **empleo**, con el Servicio Nacional de Empleo;\n- **atención psicológica y orientación legal**.\n\nTodos estos servicios **no tienen costo**. Guarda la constancia que te da el INM al llegar: la vas a necesitar para tus trámites. Si regresaste por tu cuenta, pregunta en la oficina de atención a migrantes de tu estado qué apoyos te corresponden.\n\n> **Dato vigente:** México te Abraza sigue en 2026. Del 20 de enero de 2025 al 13 de agosto de 2026 recibió a 271,193 personas repatriadas. Entregó 180,042 Tarjetas Bienestar Paisano, hizo 98,698 afiliaciones al IMSS y 138,669 trámites de CURP y actas, y vinculó a 18,644 personas con un empleo formal. Consultado el 6 de octubre de 2026 a través de la Secretaría de Gobernación y medios nacionales.",
+    "en": "**México te Abraza** (\"Mexico Embraces You\") is the Mexican government's program to receive people sent back from the United States. More than 30 government agencies take part. At the care centers and arrival points on the border and at some airports, they can help you with:\n\n- **food, a place to stay and transport** to your state;\n- your **CURP and birth certificate**;\n- **IMSS enrollment** so you can get medical care;\n- the **Tarjeta Bienestar Paisano**, a card with 2,000 pesos for travel and first expenses;\n- **jobs**, through the National Employment Service;\n- **counseling and legal guidance**.\n\nAll these services are **at no cost**. Keep the record the INM gives you when you arrive: you'll need it for your paperwork. If you came back on your own, ask your state's office for migrants which support applies to you.\n\n> **Current fact:** México te Abraza continues in 2026. From January 20, 2025 to August 13, 2026 it received 271,193 people sent back from the U.S. It gave out 180,042 Bienestar Paisano cards, made 98,698 IMSS enrollments and 138,669 CURP and birth certificate procedures, and connected 18,644 people with a formal job. Accessed October 6, 2026 through Mexico's Ministry of the Interior (SEGOB) and national news outlets."
+   },
+   "recurso": {
+    "es": "- **México te Abraza** (SEGOB · español): https://portales.segob.gob.mx/es/PoliticaMigratoria/Mexico-te-abraza | Qué buscar: los servicios y los puntos de atención.",
+    "en": "- **México te Abraza** (SEGOB · Spanish): https://portales.segob.gob.mx/es/PoliticaMigratoria/Mexico-te-abraza | What to look for: «servicios» (services) and the care points."
+   }
+  },
+  {
+   "id": "inpi",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "El INPI: programas para pueblos indígenas y afromexicanos",
+    "en": ""
+   },
+   "texto": {
+    "es": "El **Instituto Nacional de los Pueblos Indígenas (INPI)** es la institución del gobierno federal para los pueblos indígenas y afromexicanos. Algunos de sus programas:\n\n- **Casas y Comedores de la Niñez Indígena:** hospedaje y comida para que niñas, niños y jóvenes sigan estudiando.\n- **Apoyos para estudiantes** de educación superior, para que terminen su carrera.\n- **Programa para el Bienestar Integral de los Pueblos Indígenas:** proyectos que la comunidad decide en asamblea.\n- **Fondo para obras de la comunidad (FAISPIAM):** la asamblea decide qué obras son prioridad.\n\nLos programas del INPI no tienen costo. Nadie debe cobrarte por inscribirte ni pedirte una parte del apoyo. Pregunta en el Centro Coordinador de Pueblos Indígenas de tu región.\n\n> **Dato vigente:** en 2026 el INPI sigue con sus programas para pueblos indígenas y afromexicanos, con reglas de operación publicadas para el año. Consultado el 6 de octubre de 2026 a través del INPI y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Programas del INPI** (Gobierno de México · español): https://www.gob.mx/inpi | Qué buscar: los programas del año, sus reglas de operación y el Centro Coordinador de tu región.",
+    "en": ""
+   }
+  }
+ ]
+}

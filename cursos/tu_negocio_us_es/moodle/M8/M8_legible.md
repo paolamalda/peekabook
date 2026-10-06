@@ -822,14 +822,6 @@ Detecta qué te falta saber (impuestos, ventas en línea, costos) y busca capaci
 
 
 
-#### Tu consulado también apoya tu negocio
-
-La **Ventanilla de Asesoría Financiera** de los consulados de México te orienta sin costo sobre ahorro, crédito e impuestos en EE. UU. También te ayuda a pensar cómo invertir en un proyecto productivo, aquí o en México. El consulado también organiza ferias y talleres donde conoces a otras personas de tu comunidad que emprenden.
-
-Si tienes un problema serio, como un fraude, un abuso o un accidente, su área de protección te orienta. Llama al **CIAM**: **1 (520) 623-7874**, las 24 horas.
-
-
-
 #### Casos
 
 
@@ -895,8 +887,6 @@ Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus c
 - **Impuestos de pequeños negocios** (IRS · inglés y español): https://www.irs.gov/es — **Qué buscar:** qué formularios te tocan como dueño y las fechas de pago.
 - **Índice de precios** (BLS · inglés): https://www.bls.gov/cpi — **Qué buscar:** cuánto subieron los precios en el último año.
 - **Capacitación** (SBA · inglés y español): https://www.sba.gov — **Qué buscar:** los centros de apoyo para negocios cerca de ti (SBDC, SCORE) y sus talleres sin costo.
-- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera — **Qué buscar:** qué temas atiende y cómo pedir una cita en tu consulado.
-- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** tu consulado, su área de protección y sus ventanillas de salud, educación y finanzas.
 
 ### Palabras clave
 

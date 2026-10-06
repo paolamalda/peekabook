@@ -167,6 +167,16 @@ Restringe los seguimientos por fecha: 30 y 90 días después de la fecha de fin 
 
 Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con `5_insignias/`; cada nombre lleva el curso para que sea único en la plataforma), 4 (finalización con las 8 autoevaluaciones) y 5 (constancia con la plantilla estándar y los datos de `6_constancia/constancia.md`). Si Level Up o Certificado personalizado no existen, no los instales: sáltate ese paso y repórtalo.
 
+## Sección extra: Programas y apoyos
+
+Esta sección va **aparte**: nada del curso depende de ella.
+
+1. Agrega una sección **al final** del curso llamada `Programas y apoyos` (descripción: "Programas de gobierno y servicios públicos que pueden servirte. Información revisada; confírmala en el sitio oficial."). Elige un ícono de «ayuda» para su mosaico.
+2. Crea el libro `Programas y apoyos` con la misma configuración e importa `1_libros/Programas_libro_Moodle.zip` (2 capítulos).
+3. **Finalización: ninguna.** No lo incluyas en la finalización del curso ni en las restricciones de otras actividades, y no le des puntos.
+4. **Para quitarla:** oculta la sección (ojo > Ocultar) o bórrala. El resto del curso sigue igual.
+5. Si llega un paquete nuevo de este libro, reemplaza solo este libro.
+
 ## 10. Revisión final (con rol de estudiante)
 
 - La portada muestra un mosaico por parte con su porcentaje; dentro de cada parte, un submosaico por lección sin claves técnicas.

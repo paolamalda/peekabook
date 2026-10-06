@@ -220,12 +220,6 @@ Compara lo que ganarías (horas por salario, menos descuentos) con lo que dejas 
 
 
 
-#### Si estás en Estados Unidos: tu consulado
-
-Con la visa H-2A, el consulado de México más cercano te orienta sin costo. Acude si no te pagan lo del contrato, si sufres abuso o si te accidentas. Si no sabes a cuál llamar, marca al **CIAM**: **1 (520) 623-7874**, las 24 horas. Guarda ese número en tu celular antes de irte.
-
-
-
 #### Casos
 
 
@@ -290,7 +284,6 @@ Anota la tarifa de tu contrato y guárdala con tu libreta.
 
 - **División de Horas y Salarios** (DOL · español): https://www.dol.gov/agencies/whd/contact — **Qué buscar:** cómo poner una queja en español; no te preguntan tu situación migratoria; teléfono 1-866-487-9243.
 - **Consulados de México en Canadá** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** «Programa de Trabajadores Agrícolas Temporales».
-- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** el consulado más cercano a tu trabajo y su teléfono de protección.
 
 ### Palabras clave
 

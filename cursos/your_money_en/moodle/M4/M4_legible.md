@@ -282,22 +282,6 @@ Before paying, she looked up the name with the State Bar and on the DOJ list. It
 
 
 
-#### Your consulate also protects you
-
-The Mexican consulate isn't only for passports or the matrícula. Its **protection** team helps you at no cost if:
-
-- you or someone in your family is detained;
-- you aren't paid for your work, you're treated badly at work or you get hurt on the job;
-- you live with violence at home;
-- a "notario" or someone pretending to be a lawyer scams you;
-- you have a problem with your children's custody;
-- a relative dies and you need help to take them home;
-- you're looking for a relative you haven't heard from.
-
-If you don't know which consulate to go to, call **CIAM** (Information and Assistance Center for Mexicans): **1 (520) 623-7874**, 24 hours a day, every day. The consulate can also put you in touch with lawyers who work with it.
-
-
-
 #### Check your understanding
 
 1. Can a notary public give you immigration advice?
@@ -371,19 +355,6 @@ In California, immigration consultants must give you a written contract in your 
 
 
 
-#### Close to your community
-
-Your consulate has no-cost services for you and your family:
-
-- **Financial Advisory Window (Ventanilla de Asesoría Financiera):** guidance on saving, credit, debts, taxes and sending money.
-- **Health Window (Ventanilla de Salud):** health information and where to get care.
-- **Education Window (Ventanilla de Orientación Educativa):** to finish elementary or middle school, learn English or keep studying.
-- **Mobile consulates:** the consulate visits faraway cities to do paperwork.
-
-These services also bring you closer to your community. There you hear about workshops, fairs and hometown associations from your region. Follow your consulate's official social media and be wary of pages that charge for appointments.
-
-
-
 #### Cases
 
 
@@ -451,8 +422,6 @@ Save the contact information of an organization with accredited representatives 
 - **Attorney search** (State Bar of California · English and Spanish): https://www.calbar.ca.gov — **What to look for:** "Attorney Search" to confirm an attorney has an active license.
 - **How to avoid immigration scams** (FTC · English and Spanish): https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help — **What to look for:** the list of fraud signs and where to get real help.
 - **Resources for immigrant communities** (California Attorney General · English and Spanish): https://oag.ca.gov/immigrant — **What to look for:** how to report a fraudulent notario or consultant in California.
-- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera — **What to look for:** the topics they cover and how to make an appointment at your consulate.
-- **Mexican consulates** (SRE · Spanish): https://consulmex.sre.gob.mx — **What to look for:** your consulate, its protection area and its health, education and finance windows.
 
 ### Key words
 
@@ -2080,14 +2049,6 @@ Review the whole plan every six months or when something changes: a move, a new 
 Your children born in the U.S. are citizens and have the right to a U.S. passport. Having one can make travel and paperwork easier.
 
 If you're Mexican, your children can also register their Mexican nationality at the consulate. Ask through MiConsulado which documents you need.
-
-
-
-#### If you arrive in Mexico: México te Abraza
-
-If you're sent back to Mexico, the Mexican government's **México te Abraza** program receives you at the border or the airport. It helps you at no cost with transport to your state, your CURP and birth certificate, IMSS and jobs. It also gives you the Tarjeta Bienestar Paisano, a card with 2,000 pesos for your first expenses.
-
-Keep the record the INM gives you when you arrive: you'll need it for your paperwork.
 
 
 

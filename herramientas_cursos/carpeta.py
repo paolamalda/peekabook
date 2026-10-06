@@ -130,6 +130,9 @@ def construir(D, CFG):
         K.copiar(os.path.join(M, "h5p", f"{m}_U*.h5p"), os.path.join(mo, "2_h5p", m))
         shutil.copytree(os.path.join(M, m, "vista_previa"), os.path.join(mo, Vp, m))
     K.copiar(os.path.join(M, "Apoyo", "Apoyo_libro_Moodle.zip"), os.path.join(mo, L))
+    if os.path.exists(os.path.join(M, "Programas", "Programas_libro_Moodle.zip")):
+        K.copiar(os.path.join(M, "Programas", "Programas_libro_Moodle.zip"), os.path.join(mo, L))
+        shutil.copytree(os.path.join(M, "Programas", "vista_previa"), os.path.join(mo, Vp, "Programas"), dirs_exist_ok=True)
     if os.path.exists(os.path.join(M, "Fondo", "Fondo_libro_Moodle.zip")):
         K.copiar(os.path.join(M, "Fondo", "Fondo_libro_Moodle.zip"), os.path.join(mo, L))
         shutil.copytree(os.path.join(M, "Fondo", "vista_previa"), os.path.join(mo, Vp, "Fondo"), dirs_exist_ok=True)

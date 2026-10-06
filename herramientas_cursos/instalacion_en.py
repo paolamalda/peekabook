@@ -311,6 +311,9 @@ If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG[
 - Do not tie badges or the certificate to buying services or products.
 """
     if CFG.get("ux") == 3: readme, guide = ux3(readme, guide, CFG, MODS, n, tot, nm, sec_eval, cat)
+    import programas as _PG
+    _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), True)
+    if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)
     from moodle45 import adaptar
     readme, guide = adaptar(readme, guide, en=True)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)

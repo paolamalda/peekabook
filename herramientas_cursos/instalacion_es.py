@@ -309,6 +309,9 @@ Si Certificado personalizado no está instalado, la insignia **{CFG["insignias"]
 - No ligar insignias ni constancia a contratar servicios o productos.
 """
     if CFG.get("ux") == 3: readme, guia = ux3(readme, guia, CFG, MODS, n, tot, nm, sec_eval, cat)
+    import programas as _PG
+    _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), False)
+    if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)
     from moodle45 import adaptar
     readme, guia = adaptar(readme, guia, en=False)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)
