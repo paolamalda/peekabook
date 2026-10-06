@@ -13,14 +13,14 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B3 Ahorro | 17 | M1 U04, M3 U02, M8 U02, M3 U01, M3 U04, M8 U01 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M3 U04, M8 U02 |
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M8 U05, M9 U04, M3 U04, M3 U03 |
-| OCDE adultos (2016) | B6 Retiro | 13 | M8 U02, M8 U01, M8 U04, M6 U01, M6 U02 |
-| OCDE adultos (2016) | B7 Crédito | 33 | M5 U02, M4 U03, M5 U05, M5 U03, M5 U04, M8 U06 |
+| OCDE adultos (2016) | B6 Retiro | 13 | M8 U02, M8 U01, M8 U04, M4 U06, M6 U01, M6 U02 |
+| OCDE adultos (2016) | B7 Crédito | 33 | M5 U02, M4 U03, M5 U05, M5 U03, M5 U04, M5 U06 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M5 U04, M8 U06, M5 U01, M5 U03, M3 U01, M4 U02 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M3 U02, M3 U01 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M6 U02, M6 U01, M6 U05, M8 U04, M6 U03 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M3 U02, M3 U04 |
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M5 U05, M2 U04, M4 U03, M7 U04 |
-| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M4 U03, M2 U01, M5 U04, M8 U06, M8 U05 |
+| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M4 U03, M2 U01, M5 U04, M4 U06, M8 U06, M5 U07 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M2 U03, M7 U02, M4 U02 |
 | OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U04, M8 U04, M9 U03, M3 U02, M5 U02, M6 U02 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M7 U01, M7 U02, M5 U03 |
@@ -302,7 +302,7 @@ Temas cubiertos: 22 de 22.
 
 ## B6 · Retiro
 
-**Lecciones:** M8 U02 Tu Afore: encuéntrala y ahórrale desde 50 pesos; M8 U01 Tus pensiones del Bienestar; M8 U04 Sin juicio: beneficiarias en todo lo que tienes; M6 U01 Cuando la casa te inscribe al IMSS; M6 U02 IMSS por tu cuenta: inscríbete tú y paga tu cuota
+**Lecciones:** M8 U02 Tu Afore: encuéntrala y ahórrale desde 50 pesos; M8 U01 Tus pensiones del Bienestar; M8 U04 Sin juicio: beneficiarias en todo lo que tienes; M4 U06 Pensión alimenticia: lo que les toca a tus hijos y nietas; M6 U01 Cuando la casa te inscribe al IMSS; M6 U02 IMSS por tu cuenta: inscríbete tú y paga tu cuota
 
 *Conocimiento*
 
@@ -328,7 +328,7 @@ Temas cubiertos: 22 de 22.
 
 ## B7 · Crédito
 
-**Lecciones:** M5 U02 Lo que de verdad cuesta un préstamo; M4 U03 Aval, obligado solidario y referencia: ¿qué firmas?; M5 U05 Tu historial de crédito sin miedo; M5 U03 Prestamistas, «gota a gota» y apps que amenazan; M5 U04 Tu plan para salir de deudas; M8 U06 Heredar sin sustos: deudas, impuestos y la plática en familia
+**Lecciones:** M5 U02 Lo que de verdad cuesta un préstamo; M4 U03 Aval, obligado solidario y referencia: ¿qué firmas?; M5 U05 Tu historial de crédito sin miedo; M5 U03 Prestamistas, «gota a gota» y apps que amenazan; M5 U04 Tu plan para salir de deudas; M5 U06 Adelantos de la patrona y préstamo de nómina
 
 *Conocimiento*
 
@@ -499,7 +499,7 @@ Temas cubiertos: 22 de 22.
 
 ## D2 · Derechos y obligaciones
 
-**Lecciones:** M4 U03 Aval, obligado solidario y referencia: ¿qué firmas?; M2 U01 Tus derechos: lo que la ley dice de tu trabajo; M5 U04 Tu plan para salir de deudas; M8 U06 Heredar sin sustos: deudas, impuestos y la plática en familia; M8 U05 Tu casa, tu tierra y tu testamento
+**Lecciones:** M4 U03 Aval, obligado solidario y referencia: ¿qué firmas?; M2 U01 Tus derechos: lo que la ley dice de tu trabajo; M5 U04 Tu plan para salir de deudas; M4 U06 Pensión alimenticia: lo que les toca a tus hijos y nietas; M8 U06 Heredar sin sustos: deudas, impuestos y la plática en familia; M5 U07 Empeñar sin perder tu prenda
 
 *Conocimiento*
 

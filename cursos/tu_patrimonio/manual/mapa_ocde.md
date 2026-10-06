@@ -15,7 +15,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M10 U01, M10 U07, M11 U03, M10 U02, M1 U01, M8 U06 |
 | OCDE adultos (2016) | B6 Retiro | 13 | M7 U05, M7 U04, M7 U02, M7 U03, M5 U08, M7 U06 |
 | OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U08, M5 U05, M5 U07, M4 U06, M10 U04 |
-| OCDE adultos (2016) | B8 Deudas | 15 | M1 U01, M10 U04, M4 U06, M6 U02, M5 U04, M5 U05 |
+| OCDE adultos (2016) | B8 Deudas | 15 | M1 U01, M10 U04, M4 U06, M5 U07, M6 U02, M5 U04 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M8 U06, M6 U01, M10 U08, M10 U03, M8 U05, M5 U03 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M8 U07, M8 U01, M5 U03, M8 U04, M10 U02, M7 U03 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M6 U01, M6 U03, M6 U05, M6 U02, M2 U03 |
@@ -381,7 +381,7 @@ Temas cubiertos: 29 de 29.
 
 ## B8 · Deudas
 
-**Lecciones:** M1 U01 ¿Qué tengo y dónde está?; M10 U04 Ayudar a los hijos sin descuidar tu futuro; M4 U06 Robo de identidad; M6 U02 Qué hay en el menú; M5 U04 Ahorro con Cetes y BONDDIA; M5 U05 Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses
+**Lecciones:** M1 U01 ¿Qué tengo y dónde está?; M10 U04 Ayudar a los hijos sin descuidar tu futuro; M4 U06 Robo de identidad; M5 U07 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M6 U02 Qué hay en el menú; M5 U04 Ahorro con Cetes y BONDDIA
 
 *Conocimiento*
 

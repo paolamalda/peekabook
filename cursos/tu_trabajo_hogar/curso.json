@@ -297,5 +297,44 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Lo que ganas",
+   "descripcion": "Lo que te entra por día o por quincena, y un plan."
+  },
+  "M2": {
+   "titulo": "Tu trabajo vale",
+   "descripcion": "Tus derechos y cómo acordar tus condiciones."
+  },
+  "M3": {
+   "titulo": "Tandas y ahorro",
+   "descripcion": "Ahorrar con reglas claras."
+  },
+  "M4": {
+   "titulo": "Ayudar sin hundirte",
+   "descripcion": "Apoyar a otras personas sin quedarte sin nada."
+  },
+  "M5": {
+   "titulo": "Deudas: salir y no volver",
+   "descripcion": "Cuánto cuesta lo que debes y cómo salir."
+  },
+  "M6": {
+   "titulo": "Tu salud y tu protección",
+   "descripcion": "IMSS, seguros y qué hacer si te accidentas."
+  },
+  "M7": {
+   "titulo": "Fraudes y tu celular",
+   "descripcion": "Cómo cuidar tu dinero y tus datos."
+  },
+  "M8": {
+   "titulo": "Tu vejez y tu familia",
+   "descripcion": "Tu pensión, tus apoyos y lo que dejas."
+  },
+  "M9": {
+   "titulo": "Crecer y tu plan",
+   "descripcion": "Aprender más, ganar mejor y tu plan en una hoja."
+  }
  }
 }

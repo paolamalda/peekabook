@@ -54,10 +54,14 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Nombre | Tu Negocio, Tu Dinero, Tu Futuro |
 | Nombre corto | TNDF-MX |
 | Visibilidad | **Mostrar** |
-| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. 11 secciones |
+| Formato | **Mosaicos** (Tiles). 11 secciones |
 | Seguimiento de finalización | Sí |
 
-**Formato Mosaicos (si existe):** en la configuración del curso, *Mostrar progreso en los mosaicos*: **como porcentaje**; un ícono por módulo acorde a su tema; la sección General arriba de los mosaicos. Si Mosaicos no existe, usa Temas con "Mostrar una sección por página".
+**Formato Mosaicos:**
+- *Mostrar progreso en los mosaicos*: **como porcentaje**.
+- **Usar submosaicos para las actividades: Sí** (cada lección se ve como un mosaico dentro de su parte).
+- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.
+- Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 
 **Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.
 
@@ -66,15 +70,15 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Sección | Nombre | Descripción |
 |---|---|---|
 | General | Bienvenida | Libro «Bienvenida», foro "Dudas y comentarios", encuesta de inicio, «Tu punto de partida» y «Mi meta» |
-| 1 | Módulo 1. Tu negocio y tu casa: dinero separado | Contenido de `1_libros/M1_resumen.html` |
-| 2 | Módulo 2. Costos y precio | `M2_resumen.html` |
-| 3 | Módulo 3. Flujo de efectivo | `M3_resumen.html` |
-| 4 | Módulo 4. Cobrar y vender sin perder | `M4_resumen.html` |
-| 5 | Módulo 5. Formalízate sin miedo | `M5_resumen.html` |
-| 6 | Módulo 6. Crédito para tu negocio | `M6_resumen.html` |
-| 7 | Módulo 7. Protege tu negocio | `M7_resumen.html` |
-| 8 | Módulo 8. Crecer con orden | `M8_resumen.html` |
-| 9 | Módulo 9. Tu futuro | `M9_resumen.html` |
+| 1 | Dinero separado | Contenido de `1_libros/M1_resumen.html` |
+| 2 | Costos y precio | `M2_resumen.html` |
+| 3 | Flujo de efectivo | `M3_resumen.html` |
+| 4 | Cobrar y vender sin perder | `M4_resumen.html` |
+| 5 | Formalízate sin miedo | `M5_resumen.html` |
+| 6 | Crédito para tu negocio | `M6_resumen.html` |
+| 7 | Protege tu negocio | `M7_resumen.html` |
+| 8 | Crecer con orden | `M8_resumen.html` |
+| 9 | Tu futuro | `M9_resumen.html` |
 | 10 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
 | 11 | Cierre y constancia | "Lo que lograste, tu constancia y hasta pronto." |
 
@@ -92,25 +96,26 @@ Son lo primero y lo último que ve la persona: no los omitas.
 5. **Sección 11, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.
 6. **Guía para imprimir o compartir:** `7_guias/Guia_de_contacto_y_comunidad.html`. Ábrela en el navegador > Imprimir > Guardar como PDF, y compártela en la sesión presencial o por WhatsApp.
 
-## 3. Libros de lecciones
+## 3. Lecciones: un libro por lección
 
-En cada sección de módulo:
+La estructura completa (nombres, orden, archivos y minutos) está en `estructura_moodle.json`. En cada sección, por cada lección y en orden:
 
-1. Crea un libro: nombre `Lecciones del Módulo N`, formato de capítulo "Nada", finalización "Ver".
-2. Menú del libro > **Importar capítulo** > `1_libros/MN_libro_Moodle.zip`, tipo "Cada archivo HTML representa un capítulo".
-3. Comprueba que cada lección tenga su portada primero y 3 subcapítulos sangrados.
+1. Crea un **Libro** con el nombre de la lección **tal cual** (la pregunta, sin claves como «M1 U01»). Formato de capítulo "Nada"; estilo de navegación "Texto".
+2. Menú del libro > **Importar capítulo** > el zip de la lección (`1_libros/MN/NN_MN_UYY.zip`), tipo "Cada archivo HTML representa un capítulo". Deben quedar 4 capítulos: Empieza, Lo esencial, Profundiza, Practica.
+3. **Finalización:** "Ver".
+4. **Restringir acceso:** la lección anterior debe estar completa (la primera de cada parte, sin restricción; la primera de la parte 2 en adelante pide la última de la parte anterior). Muestra la lección bloqueada en gris, no oculta.
 
-| Módulo | Capítulos | Páginas |
+| Parte | Lecciones | Carpeta |
 |---|---|---|
-| M1 | 6 | 24 |
-| M2 | 4 | 16 |
-| M3 | 4 | 16 |
-| M4 | 3 | 12 |
-| M5 | 5 | 20 |
-| M6 | 5 | 20 |
-| M7 | 8 | 32 |
-| M8 | 7 | 28 |
-| M9 | 4 | 16 |
+| Dinero separado | 6 | `1_libros/M1/` |
+| Costos y precio | 4 | `1_libros/M2/` |
+| Flujo de efectivo | 4 | `1_libros/M3/` |
+| Cobrar y vender sin perder | 3 | `1_libros/M4/` |
+| Formalízate sin miedo | 5 | `1_libros/M5/` |
+| Crédito para tu negocio | 5 | `1_libros/M6/` |
+| Protege tu negocio | 8 | `1_libros/M7/` |
+| Crecer con orden | 7 | `1_libros/M8/` |
+| Tu futuro | 4 | `1_libros/M9/` |
 
 ## 4. Libro de apoyo
 
@@ -134,19 +139,18 @@ En la sección 10, crea el glosario `Palabras clave del curso` e importa `3_glos
 |---|---|---|---|---|---|---|---|---|
 | 18 | 12 | 12 | 9 | 15 | 15 | 24 | 21 | 12 |
 
-## 7. Actividades H5P (46)
+## 7. Práctica dentro de cada lección (46 H5P)
 
-Archivos en `2_h5p/MN/`, en orden. En cada sección, **después del libro** y en orden de lección:
+La práctica **no** va como actividad aparte en la sección: va incrustada en el capítulo «Practica» de su libro.
 
-1. *Agregar actividad > Actividad H5P*.
-2. Nombre: `MN UYY · ¿Qué harías?`.
-3. Sube `MN_UYY_que_harias.h5p`.
-4. Opciones: descarga no, incrustar no, derechos de autor sí.
-5. Calificación: seguimiento sí, "calificación más alta". Finalización: "El estudiante debe recibir una calificación".
+1. *Banco de contenido* del curso > **Subir** los 46 archivos de `2_h5p/MN/` (`MN_UYY_practica.h5p`).
+2. Abre el capítulo «Practica» de cada libro en modo edición. Verás un recuadro rosa con el texto `[[H5P MN_UYY_practica.h5p]]`.
+3. Borra **todo el recuadro** y en su lugar inserta el H5P con el botón **Insertar H5P** del editor, eligiendo ese archivo del banco de contenido.
+4. Guarda y comprueba con *Cambiar rol a > Estudiante* que se vean las situaciones y preguntas, una por pantalla.
 
-**Orden final de cada sección:** libro, H5P en orden, autoevaluación.
+**Nota:** la práctica incrustada no registra calificación. El avance de cada lección se marca al verla, y la calificación del módulo sale de la autoevaluación.
 
-**Comprueba:** abre 3 actividades al azar con *Cambiar rol a > Estudiante*. Debes ver 3 casos, 3 opciones por caso y la calificación al terminar.
+**Orden final de cada sección:** las lecciones en orden y al final la autoevaluación (restringida a completar la última lección de la parte).
 
 ## 8. Encuestas del programa
 
@@ -171,13 +175,15 @@ Pregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`TN
 
 ## 11. Revisión final (con rol de estudiante)
 
-- M1 U01: portada primero, dos botones de ruta, términos en color con su significado y recuadros "Dato vigente" o "Antes de actuar, verifica".
-- Una H5P por módulo abre, muestra 3 casos y registra calificación.
+- La portada muestra un mosaico por parte con su porcentaje; dentro de cada parte, un submosaico por lección sin claves técnicas.
+- La primera lección: capítulos Empieza, Lo esencial, Profundiza y Practica; «Cuidado con estos errores» al final de Lo esencial; la práctica incrustada funciona.
+- La segunda lección aparece bloqueada hasta ver la primera.
+- No hay ranking ni tabla de posiciones visible.
 - Una autoevaluación muestra 3 opciones por pregunta.
 - El libro de apoyo muestra "Ver la clave" en los casos integradores y las preguntas frecuentes desplegables.
 
 ## 12. Reporte para la persona
 
-Enlace del curso; páginas por libro; H5P por módulo; preguntas por autoevaluación; encuestas creadas; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de la portada en mosaicos, una H5P, una autoevaluación y la vista previa de la constancia.
+Enlace del curso; libros por parte; H5P incrustadas; preguntas por autoevaluación; encuestas creadas; insignias activas; configuración de Level Up; estado de la constancia; lo que no pudiste hacer y por qué; capturas de la portada en mosaicos, una H5P, una autoevaluación y la vista previa de la constancia.
 
 El curso queda **visible**, con inscripción por clave. Para la ficha del catálogo usa `tarjeta_catalogo.md`.

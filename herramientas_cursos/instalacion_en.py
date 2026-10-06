@@ -1,5 +1,73 @@
 # Generates instalacion/README_INSTALL_<X>_FOR_CLAUDE.md and instalacion/gamification_guide.md (English) from curso.json.
 import os
+import re
+
+
+def ux3(readme, guide, CFG, MODS, n, tot, nm, sec_eval, cat):
+    """UX3 format: tiles with sub-tiles, one book per lesson with the practice embedded, no leaderboard."""
+    NAMES = {m: CFG.get("nombres", {}).get(m, {}).get("titulo", t) for m, t in MODS.items()}
+    def rep(a, b, s):
+        assert a in s, a[:60]
+        return s.replace(a, b)
+    readme = rep("| Format | **Tiles** if installed; otherwise Topics. " + str(sec_eval) + " sections |",
+                 "| Format | **Tiles**. " + str(sec_eval) + " sections |", readme)
+    readme = re.sub(r"\*\*Tiles format \(if available\):\*\*.*\n", """**Tiles format:**
+- *Show progress on tiles*: **as a percentage**.
+- **Use sub-tiles for activities: Yes** (each lesson shows as a tile inside its part).
+- One icon per part that fits its topic; the General section above the tiles.
+- Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
+""", readme)
+    for i, m in enumerate(MODS, 1):
+        readme = readme.replace(f"| {i} | {MODS[m]} |", f"| {i} | {NAMES[m]} |")
+    rows = "\n".join(f"| {NAMES[m]} | {n[m]} | `1_books/{m}/` |" for m in MODS)
+    readme = re.sub(r"## 3\. Lesson books\n.*?(?=\n## 4\.)", f"""## 3. Lessons: one book per lesson
+
+The full structure (names, order, files and minutes) is in `estructura_moodle.json`. In each section, for each lesson and in order:
+
+1. Create a **Book** with the lesson name **exactly as written** (the question, without codes like "M1 U01"). Chapter formatting "None"; navigation style "Text".
+2. Book menu > **Import chapter** > the lesson zip (`1_books/MN/NN_MN_UYY.zip`), type "Each HTML file represents one chapter". There should be 4 chapters: Start, The essentials, Go deeper, Practice.
+3. **Completion:** "View".
+4. **Restrict access:** the previous lesson must be complete (the first lesson of each part has no restriction; the first lesson of part 2 onward requires the last lesson of the previous part). Show the locked lesson greyed out, not hidden.
+
+| Part | Lessons | Folder |
+|---|---|---|
+{rows}
+""", readme, flags=re.S)
+    readme = re.sub(r"## 7\. H5P activities \(\d+\)\n.*?(?=\n## 8\.)", f"""## 7. Practice inside each lesson ({tot} H5P)
+
+The practice does **not** go as a separate activity in the section: it is embedded in the "Practice" chapter of its book.
+
+1. Course *Content bank* > **Upload** the {tot} files from `2_h5p/MN/` (`MN_UYY_practica.h5p`).
+2. Open the "Practice" chapter of each book in edit mode. You'll see a pink box with the text `[[H5P MN_UYY_practica.h5p]]`.
+3. Delete **the whole box** and in its place insert the H5P with the editor's **Insert H5P** button, choosing that file from the content bank.
+4. Save and check with *Switch role to > Student* that the situations and questions show, one per screen.
+
+**Note:** embedded practice doesn't record a grade. Each lesson's progress is marked when it's viewed, and the module grade comes from the self-assessment.
+
+**Final order of each section:** the lessons in order and the self-assessment at the end (restricted to completing the last lesson of the part).
+""", readme, flags=re.S)
+    readme = rep("- M1 U01: cover page first, two path buttons, colored terms with their meaning and \"Current fact\" or \"Before you act, check\" boxes.\n- One H5P per module opens, shows 3 cases and records a grade.",
+                 "- The home page shows one tile per part with its percentage; inside each part, one sub-tile per lesson with no technical codes.\n- The first lesson: chapters Start, The essentials, Go deeper and Practice; \"Watch out for these mistakes\" at the end of The essentials; the embedded practice works.\n- The second lesson shows as locked until the first is viewed.\n- No leaderboard or ladder is visible.", readme)
+    readme = readme.replace("pages per book; H5P per module;", "books per part; embedded H5P;")
+    pts = (tot + nm) * 25
+    guide = re.sub(r"## 1\. What each module has\n.*?(?=\n\*\*Self-assessments)", f"""## 1. What each part has
+
+| Activity | How many | Completion |
+|---|---|---|
+| One book per lesson (with the practice embedded) | {tot} | View |
+| Quiz "Module N self-assessment" | 1 per part ({nm}) | Passing grade of 70% |
+""", guide, flags=re.S)
+    guide = re.sub(r"Completing the whole course gives about .*?\| \*\*Total\*\* \|[^\n]*\n", f"""Completing the whole course gives about {pts:,} points:
+
+| Activities | How many | Points |
+|---|---|---|
+| Lessons | {tot} | {tot * 25:,} |
+| Self-assessments | {nm} | {nm * 25:,} |
+| **Total** | {tot + nm} | **{pts:,}** |
+""", guide, flags=re.S)
+    guide = rep("**Ladder:** anonymity on; show only nearby neighbors or turn it off.",
+                "**Ladder (leaderboard): off.** In *Level Up > Ladder* choose not to show it, and remove or hide the leaderboard block. Each person sees only their own points, level and badges.", guide)
+    return readme, guide
 
 
 def generar(D, CFG, lecciones):
@@ -98,7 +166,7 @@ In each module section:
 
 In section {sec_sup}, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
-Below it, create the book **`Go deeper`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` ({nm + 1} chapters: "How to go deeper" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
+Below it, create the book **`Further reading`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` ({nm + 1} chapters: "How to use further reading" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
 
 In the same section {sec_sup}, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal{herr}. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
@@ -242,6 +310,7 @@ If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG[
 - Do not ask for real data to pass.
 - Do not tie badges or the certificate to buying services or products.
 """
+    if CFG.get("ux") == 3: readme, guide = ux3(readme, guide, CFG, MODS, n, tot, nm, sec_eval, cat)
     from moodle45 import adaptar
     readme, guide = adaptar(readme, guide, en=True)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)

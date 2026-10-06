@@ -1,0 +1,1039 @@
+{
+ "curso": "Tu Talento, Tu Marca, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu dinero real",
+   "orden": 1,
+   "resumen": "<p>Cómo organizarte cuando tus ingresos suben y bajan.</p><p><strong>Al terminar tendrás:</strong> tu ganancia real por proyecto, tu sueldo fijo personal y tu fondo de sequía.</p><p><strong>7 lecciones</strong> de 10 a 15 minutos · unas 1 a 2 horas en total.</p>",
+   "minutos": [
+    70,
+    105
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Todo lo que cobro por una producción es mi ganancia real?",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Cómo me pago un sueldo si no tengo sueldo fijo?",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Cuánto necesito en mi fondo de sequía?",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿Dónde guardo mi fondo de sequía?",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Vestuario, imagen y estilismo: ¿gasto necesario o fuga?",
+     "zip": "lecciones/05_M1_U05.zip",
+     "h5p": "h5p/M1_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "La productora paga a 60 o 90 días: ¿cómo organizo mi flujo?",
+     "zip": "lecciones/06_M1_U06.zip",
+     "h5p": "h5p/M1_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Meses sin llamados: estrés, rechazo y dinero",
+     "zip": "lecciones/07_M1_U07.zip",
+     "h5p": "h5p/M1_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U07"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu carrera como negocio",
+   "orden": 2,
+   "resumen": "<p>Tu régimen fiscal y tus impuestos.</p><p><strong>Al terminar tendrás:</strong> tu expediente fiscal y tu calendario de obligaciones.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿RESICO, Asimilados o Actividad Empresarial?",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El IVA: el dinero que cobras pero no es tuyo",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Qué gastos de mi carrera sí puedo deducir, y en qué régimen?",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Facturar, declarar y no atrasarte con el SAT",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Deducciones personales y tu declaración anual",
+     "zip": "lecciones/05_M2_U05.zip",
+     "h5p": "h5p/M2_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Contratos y regalías",
+   "orden": 3,
+   "resumen": "<p>Lo que firmas, quién te representa y cómo cobras.</p><p><strong>Al terminar tendrás:</strong> tu lista de revisión de contratos y tu mapa de regalías.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Lo que revisas antes de firmar un llamado o una exclusividad",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Derechos de imagen y voz: qué cedes y por cuánto tiempo",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Mánagers y agencias: comisiones y cuentas claras",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "ANDA, ANDI y las organizaciones del medio: ¿quién hace qué?",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Cómo cobro mis regalías y reviso mis pagos",
+     "zip": "lecciones/05_M3_U05.zip",
+     "h5p": "h5p/M3_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Cuando la productora no paga",
+     "zip": "lecciones/06_M3_U06.zip",
+     "h5p": "h5p/M3_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "El sistema financiero",
+   "orden": 4,
+   "resumen": "<p>Quién es quién en el sistema financiero mexicano.</p><p><strong>Al terminar tendrás:</strong> tu mapa de instituciones y cómo verificarlas.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Quién es quién en el sistema financiero?",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Bancos, bancos digitales y otras entidades: ¿cuál es cuál?",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Cómo verifico una institución antes de contratar?",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tus derechos como usuario",
+     "zip": "lecciones/04_M4_U04.zip",
+     "h5p": "h5p/M4_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Noticias, rumores y cambios: ajusta tu plan sin pánico",
+     "zip": "lecciones/05_M4_U05.zip",
+     "h5p": "h5p/M4_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Compara y elige",
+   "orden": 5,
+   "resumen": "<p>Cómo elegir instituciones y productos.</p><p><strong>Al terminar tendrás:</strong> tu comparativo de institución, cuenta, ahorro, seguro y crédito.</p><p><strong>8 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2 horas en total.</p>",
+   "minutos": [
+    80,
+    120
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Primero elige la institución",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Elige tu cuenta",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Elige dónde ahorrar e invertir",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Elige un seguro",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Elige un crédito: los números",
+     "zip": "lecciones/05_M5_U05.zip",
+     "h5p": "h5p/M5_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Elige un crédito: el tipo correcto para cada uso",
+     "zip": "lecciones/06_M5_U06.zip",
+     "h5p": "h5p/M5_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Lee el contrato antes de firmar",
+     "zip": "lecciones/07_M5_U07.zip",
+     "h5p": "h5p/M5_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Aval, obligado solidario, fiador y referencia: ¿qué firmas?",
+     "zip": "lecciones/08_M5_U08.zip",
+     "h5p": "h5p/M5_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U08"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "El crédito es deuda",
+   "orden": 6,
+   "resumen": "<p>Cómo funciona el crédito y cuánto cuesta de verdad.</p><p><strong>Al terminar tendrás:</strong> tu inventario de deudas y tu límite de endeudamiento.</p><p><strong>8 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2 horas en total.</p>",
+   "minutos": [
+    80,
+    120
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu línea de crédito no es tu ingreso",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Pago mínimo, pago para no generar intereses y fechas clave",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Meses sin intereses: cuándo ayudan y cuándo te atrapan",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu inventario de deudas",
+     "zip": "lecciones/04_M6_U04.zip",
+     "h5p": "h5p/M6_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "¿Cuánta deuda aguanta un ingreso variable?",
+     "zip": "lecciones/05_M6_U05.zip",
+     "h5p": "h5p/M6_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "No uses la tarjeta para vivir la sequía",
+     "zip": "lecciones/06_M6_U06.zip",
+     "h5p": "h5p/M6_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Adelantos de pago y préstamo de nómina en meses de llamados",
+     "zip": "lecciones/07_M6_U07.zip",
+     "h5p": "h5p/M6_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Empeñar tu equipo: la herramienta que no debes perder",
+     "zip": "lecciones/08_M6_U08.zip",
+     "h5p": "h5p/M6_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U08"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Buró y Círculo de Crédito",
+   "orden": 7,
+   "resumen": "<p>Tu historial, tu reporte y cómo cuidarlo.</p><p><strong>Al terminar tendrás:</strong> tu reporte revisado y tu plan para mejorarlo.</p><p><strong>10 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2.5 horas en total.</p>",
+   "minutos": [
+    100,
+    150
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Qué son el Buró y el Círculo de Crédito?",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Buró y Círculo: ¿en qué se parecen y en qué no?",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Pide tus reportes sin costo: dos al año",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Lee tu reporte",
+     "zip": "lecciones/04_M7_U04.zip",
+     "h5p": "h5p/M7_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Tu score: qué lo sube y qué lo baja",
+     "zip": "lecciones/05_M7_U05.zip",
+     "h5p": "h5p/M7_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "¿Cuánto tiempo se queda un atraso?",
+     "zip": "lecciones/06_M7_U06.zip",
+     "h5p": "h5p/M7_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Si hay un error: reclama paso a paso",
+     "zip": "lecciones/07_M7_U07.zip",
+     "h5p": "h5p/M7_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Protege tu historial: bloqueo y alertas",
+     "zip": "lecciones/08_M7_U08.zip",
+     "h5p": "h5p/M7_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Despachos que \"limpian tu Buró\": fraude",
+     "zip": "lecciones/09_M7_U09.zip",
+     "h5p": "h5p/M7_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "Cómo mejorar tu historial paso a paso",
+     "zip": "lecciones/10_M7_U10.zip",
+     "h5p": "h5p/M7_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U10"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Sal de deudas",
+   "orden": 8,
+   "resumen": "<p>Un plan para pagar y no volver a caer.</p><p><strong>Al terminar tendrás:</strong> tu plan de pago con ingreso variable.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Elige tu método: avalancha o bola de nieve",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Negociar con el banco: reestructura, convenio o quita",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "¿Consolidar deudas me conviene?",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Cobranza: tus derechos",
+     "zip": "lecciones/04_M8_U04.zip",
+     "h5p": "h5p/M8_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Tu plan de salida con ingreso variable",
+     "zip": "lecciones/05_M8_U05.zip",
+     "h5p": "h5p/M8_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Apuestas en línea: el pago gordo no es para apostar",
+     "zip": "lecciones/06_M8_U06.zip",
+     "h5p": "h5p/M8_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M9",
+   "seccion": "Que no te engañen",
+   "orden": 9,
+   "resumen": "<p>Fraudes y robo de identidad.</p><p><strong>Al terminar tendrás:</strong> tu protocolo de prevención y tu plan de respuesta si te pasa.</p><p><strong>10 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2.5 horas en total.</p>",
+   "minutos": [
+    100,
+    150
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Cómo piensa quien te quiere estafar",
+     "zip": "lecciones/01_M9_U01.zip",
+     "h5p": "h5p/M9_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Falsos castings, productoras y agencias que cobran",
+     "zip": "lecciones/02_M9_U02.zip",
+     "h5p": "h5p/M9_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Llamadas, mensajes y páginas falsas",
+     "zip": "lecciones/03_M9_U03.zip",
+     "h5p": "h5p/M9_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Robo de identidad: cuando usan tu nombre",
+     "zip": "lecciones/04_M9_U04.zip",
+     "h5p": "h5p/M9_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Tus redes y tu teléfono: robo de cuentas y de línea",
+     "zip": "lecciones/05_M9_U05.zip",
+     "h5p": "h5p/M9_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Apps de préstamo \"montadeudas\" y préstamos con depósito previo",
+     "zip": "lecciones/06_M9_U06.zip",
+     "h5p": "h5p/M9_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Inversiones milagro y \"yo te manejo tu dinero\"",
+     "zip": "lecciones/07_M9_U07.zip",
+     "h5p": "h5p/M9_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Que dejen de llamarte: REPEP, REUS y tu línea",
+     "zip": "lecciones/08_M9_U08.zip",
+     "h5p": "h5p/M9_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Si ya te pasó: tu plan de respuesta",
+     "zip": "lecciones/09_M9_U09.zip",
+     "h5p": "h5p/M9_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes",
+     "zip": "lecciones/10_M9_U10.zip",
+     "h5p": "h5p/M9_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U10"
+    }
+   ]
+  },
+  {
+   "modulo": "M10",
+   "seccion": "Protección y prevención",
+   "orden": 10,
+   "resumen": "<p>Seguridad social, seguros y lo que pasa si faltas.</p><p><strong>Al terminar tendrás:</strong> tu plan de salud, seguros, marca y documentos para tu familia.</p><p><strong>8 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2 horas en total.</p>",
+   "minutos": [
+    80,
+    120
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Sin seguro de empresa: el Seguro de Gastos Médicos Mayores",
+     "zip": "lecciones/01_M10_U01.zip",
+     "h5p": "h5p/M10_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "IMSS Modalidad 10: seguridad social para independientes",
+     "zip": "lecciones/02_M10_U02.zip",
+     "h5p": "h5p/M10_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Si no puedes trabajar: incapacidad, invalidez y accidentes",
+     "zip": "lecciones/03_M10_U03.zip",
+     "h5p": "h5p/M10_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Seguro de vida y beneficiarios",
+     "zip": "lecciones/04_M10_U04.zip",
+     "h5p": "h5p/M10_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Protege tu nombre y tu marca",
+     "zip": "lecciones/05_M10_U05.zip",
+     "h5p": "h5p/M10_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Testamento y documentos para tu familia",
+     "zip": "lecciones/06_M10_U06.zip",
+     "h5p": "h5p/M10_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Si llega un sismo o una inundación: tu equipo y tu trabajo",
+     "zip": "lecciones/07_M10_U07.zip",
+     "h5p": "h5p/M10_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos",
+     "zip": "lecciones/08_M10_U08.zip",
+     "h5p": "h5p/M10_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M10 U08"
+    }
+   ]
+  },
+  {
+   "modulo": "M11",
+   "seccion": "Tu futuro",
+   "orden": 11,
+   "resumen": "<p>Retiro, inversión y tu plan.</p><p><strong>Al terminar tendrás:</strong> tu plan de retiro, tu reparto del &quot;pago gordo&quot; y tu plan de una página.</p><p><strong>9 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2 horas en total.</p>",
+   "minutos": [
+    90,
+    135
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Llegó un pago gordo: repártelo antes de gastarlo",
+     "zip": "lecciones/01_M11_U01.zip",
+     "h5p": "h5p/M11_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu AFORE: encuéntrala y súmale",
+     "zip": "lecciones/02_M11_U02.zip",
+     "h5p": "h5p/M11_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Modalidad 40: si cotizaste antes de julio de 1997",
+     "zip": "lecciones/03_M11_U03.zip",
+     "h5p": "h5p/M11_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Plan Personal de Retiro (PPR) y aportaciones deducibles",
+     "zip": "lecciones/04_M11_U04.zip",
+     "h5p": "h5p/M11_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Invertir a largo plazo sin especular",
+     "zip": "lecciones/05_M11_U05.zip",
+     "h5p": "h5p/M11_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Vivienda: rentar, comprar o esperar",
+     "zip": "lecciones/06_M11_U06.zip",
+     "h5p": "h5p/M11_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Ingresos fuera de cámara",
+     "zip": "lecciones/07_M11_U07.zip",
+     "h5p": "h5p/M11_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Tu carrera larga",
+     "zip": "lecciones/08_M11_U08.zip",
+     "h5p": "h5p/M11_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Tu plan de una página",
+     "zip": "lecciones/09_M11_U09.zip",
+     "h5p": "h5p/M11_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M11 U09"
+    }
+   ]
+  }
+ ]
+}

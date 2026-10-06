@@ -131,8 +131,8 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M3 U08 · Can signing to help someone leave me with a debt?: a family promise doesn't change the contract. If the contract says you're responsible, you're responsible.
 - M3 U09 · Does a tanda help me build credit?: don't put money you need for the basics into a tanda.
 - M3 U10 · What's my next step with credit?: asking for help in time is a skill, not a failure.
-- M3 U11 · Is a paycheck advance money at no cost?: an advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first.
-- M3 U12 · Is pawning a good way out?: pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline.
+- M3 U11 · Is a paycheck advance money at no cost?: an advance isn't extra money: it's your own pay, earlier. Add up a year of tips and fees, and ask your employer first.
+- M3 U12 · Is pawning a good way out?: pawning doesn't affect your credit, but it's expensive and you can lose your item. Get the fees in writing, keep your ticket and note the deadline.
 
 **Cases**
 
@@ -173,7 +173,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M4 U09 · How do I pay for the essentials if I can't work for a few days?: don't count help that isn't confirmed. A payment from insurance or the government is only a resource once it's confirmed.
 - M4 U10 · What happens to my family and my money if I can't be there?: this course doesn't give immigration or legal advice. For your options, go to an attorney or an accredited representative (M4 U02).
 - M4 U11 · How do I know if my protection plan works?: a plan that only works for one emergency needs adjustments.
-- M4 U12 · How do I make sure child support reaches my kids?: child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof.
+- M4 U12 · How do I make sure child support reaches my kids?: child support is your children's right. Your state agency helps request it and record payments. The paying parent must pay with proof.
 
 **Cases**
 
@@ -214,7 +214,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M5 U09 · How do I plan when my income changes every month?: in the good months, prepare for the bad months.
 - M5 U10 · How do I formalize my business?: start simple and grow when your business can pay for it.
 - M5 U11 · What's my financial plan?: it's not about doing everything. It's about taking the next step, with a named goal, a witness and a reminder.
-- M5 U12 · What happens if I inherit or leave something across two countries?: in the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
+- M5 U12 · What happens if I inherit or leave something across two countries?: in the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court. Inheriting pays no federal tax, except on huge estates. Foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
 
 **Cases**
 

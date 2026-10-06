@@ -791,7 +791,7 @@ Hi. Today's topic: What's my next step with credit? Rubén has no history. Andr�
 
 ```
 *M3 U11 · Is a paycheck advance money at no cost?*
-An advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first.
+An advance isn't extra money: it's your own pay, earlier. Add up a year of tips and fees, and ask your employer first.
 
 • Ask your employer first.
 • Add up the yearly cost.
@@ -804,7 +804,7 @@ Lesson: [to be defined]
 
 **Audio** (117 words, about 49 seconds)
 
-Hi. Today's topic: Is a paycheck advance money at no cost? Rubén is 200 dollars short for rent and gets paid in four days. An app offers to advance it "with no interest," with a "suggested tip" of 8 dollars and 4 more to get it instantly. His friend recommends a payday loan. An advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first. Remember: Ask your employer first. Add up the yearly cost. Avoid payday loans. Your step this week: If you use an advance app, review last month's transactions and add up everything it charged you. Talk to you in the next lesson.
+Hi. Today's topic: Is a paycheck advance money at no cost? Rubén is 200 dollars short for rent and gets paid in four days. An app offers to advance it "with no interest," with a "suggested tip" of 8 dollars and 4 more to get it instantly. His friend recommends a payday loan. An advance isn't extra money: it's your own pay, earlier. Add up a year of tips and fees, and ask your employer first. Remember: Ask your employer first. Add up the yearly cost. Avoid payday loans. Your step this week: If you use an advance app, review last month's transactions and add up everything it charged you. Talk to you in the next lesson.
 
 ### M3 U12 · Is pawning a good way out?
 
@@ -812,7 +812,7 @@ Hi. Today's topic: Is a paycheck advance money at no cost? Rubén is 200 dollars
 
 ```
 *M3 U12 · Is pawning a good way out?*
-Pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline.
+Pawning doesn't affect your credit, but it's expensive and you can lose your item. Get the fees in writing, keep your ticket and note the deadline.
 
 • Get the fees in writing.
 • Keep your ticket.
@@ -825,7 +825,7 @@ Lesson: [to be defined]
 
 **Audio** (108 words, about 45 seconds)
 
-Hi. Today's topic: Is pawning a good way out? Mar needs 300 dollars for a car repair. Her sister-in-law tells her to pawn her gold chain: "they give you the money in ten minutes and don't check your credit." Pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline. Remember: Get the fees in writing. Keep your ticket. Note the deadline. Your step this week: Write three options in your plan for an emergency before pawning: your fund, a payment plan and a credit union. Talk to you in the next lesson.
+Hi. Today's topic: Is pawning a good way out? Mar needs 300 dollars for a car repair. Her sister-in-law tells her to pawn her gold chain: "they give you the money in ten minutes and don't check your credit." Pawning doesn't affect your credit, but it's expensive and you can lose your item. Get the fees in writing, keep your ticket and note the deadline. Remember: Get the fees in writing. Keep your ticket. Note the deadline. Your step this week: Write three options in your plan for an emergency before pawning: your fund, a payment plan and a credit union. Talk to you in the next lesson.
 
 ## Module 4. Protect your money, your identity and your family
 
@@ -888,9 +888,9 @@ Your step this week: Complete your list of five protections and your plan if you
 Lesson: [to be defined]
 ```
 
-**Audio** (123 words, about 51 seconds)
+**Audio** (122 words, about 51 seconds)
 
-Hi. Today's topic: What protects my accounts besides a password? Alex used the same password for everything. An online store had a data breach and, with that password, someone got into Alex's email and from there tried to get into the bank. In this lesson you'll learn to protect your accounts with simple steps. Protect your email and your phone number first. Remember: Your email and your phone are the key to everything. A different password for each important account. Never share codes or install apps a stranger asks for. Your step this week: Complete your list of five protections and your plan if you lose your phone. The course reviews your plan, never your passwords. Talk to you in the next lesson.
+Hi. Today's topic: What protects my accounts besides a password? Alex used the same password for everything. An online store had a data breach. With that password, someone got into Alex's email and from there tried to get into the bank. In this lesson you'll learn to protect your accounts with simple steps. Protect your email and your phone number first. Remember: Your email and your phone are the key to everything. A different password for each important account. Never share codes or install apps a stranger asks for. Your step this week: Complete your list of five protections and your plan if you lose your phone. The course reviews your plan, never your passwords. Talk to you in the next lesson.
 
 ### M4 U04 · What do I do if I already shared information or see something strange?
 
@@ -1066,7 +1066,7 @@ Hi. Today's topic: How do I know if my protection plan works? Rosa had her plan 
 
 ```
 *M4 U12 · How do I make sure child support reaches my kids?*
-Child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof.
+Child support is your children's right. Your state agency helps request it and record payments. The paying parent must pay with proof.
 
 • It's your children's right.
 • Your state agency helps.
@@ -1077,9 +1077,9 @@ Your step this week: If you pay or receive child support, gather this year's rec
 Lesson: [to be defined]
 ```
 
-**Audio** (115 words, about 48 seconds)
+**Audio** (114 words, about 48 seconds)
 
-Hi. Today's topic: How do I make sure child support reaches my kids? Daniela is raising her son alone in San Diego. His father gives "when he can," in cash. Daniela is afraid to ask for more because she thinks her immigration status keeps her from going to a government office. Child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof. Remember: It's your children's right. Your state agency helps. Always pay with proof. Your step this week: If you pay or receive child support, gather this year's receipts in a folder or in photos. Talk to you in the next lesson.
+Hi. Today's topic: How do I make sure child support reaches my kids? Daniela is raising her son alone in San Diego. His father gives "when he can," in cash. Daniela is afraid to ask for more because she thinks her immigration status keeps her from going to a government office. Child support is your children's right. Your state agency helps request it and record payments. The paying parent must pay with proof. Remember: It's your children's right. Your state agency helps. Always pay with proof. Your step this week: If you pay or receive child support, gather this year's receipts in a folder or in photos. Talk to you in the next lesson.
 
 ## Module 5. Build wealth and prepare your future
 
@@ -1320,7 +1320,7 @@ Hi. Today's topic: What's my financial plan? You've reached the end of the progr
 
 ```
 *M5 U12 · What happens if I inherit or leave something across two countries?*
-In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
+In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court. Inheriting pays no federal tax, except on huge estates. Foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
 
 • POD, TOD and transfer on death deed.
 • Form 3520 if you inherit from abroad.
@@ -1331,9 +1331,9 @@ Your step this week: Make your two-country map and check the beneficiaries on yo
 Lesson: [to be defined]
 ```
 
-**Audio** (164 words, about 68 seconds)
+**Audio** (163 words, about 68 seconds)
 
-Hi. Today's topic: What happens if I inherit or leave something across two countries? Alex's mom has a house in Michoacán and no will. Alex lives in Los Angeles, and a coworker told him that if he inherits it "the IRS charges 40%." Rosa has an account in Fresno and wants it to go to her grandchildren. In this lesson you'll see what's true and what to prepare. In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money. Remember: POD, TOD and transfer on death deed. Form 3520 if you inherit from abroad. In Mexico: no ISR, but the title transfer costs money. Your step this week: Make your two-country map and check the beneficiaries on your accounts here. Talk to you in the next lesson.
+Hi. Today's topic: What happens if I inherit or leave something across two countries? Alex's mom has a house in Michoacán and no will. Alex lives in Los Angeles, and a coworker told him that if he inherits it "the IRS charges 40%." Rosa has an account in Fresno and wants it to go to her grandchildren. In this lesson you'll see what's true and what to prepare. In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court. Inheriting pays no federal tax, except on huge estates. Foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money. Remember: POD, TOD and transfer on death deed. Form 3520 if you inherit from abroad. In Mexico: no ISR, but the title transfer costs money. Your step this week: Make your two-country map and check the beneficiaries on your accounts here. Talk to you in the next lesson.
 
 ## Monthly commitment reminders
 

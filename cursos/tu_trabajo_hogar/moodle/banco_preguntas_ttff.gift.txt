@@ -330,6 +330,24 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M4
 	~Solo el celular #No es la mejor opción. Es tu derecho.
 }
 
+::M4 U06 P1::¿Qué cubre la pensión alimenticia? {
+	~Solo la comida de cada día #No es la mejor opción. Todo lo que necesitan.
+	~Solo la escuela y los uniformes #No es la mejor opción. Todo lo que necesitan.
+	=Comida, casa, salud y escuela #¡Correcto! Todo lo que necesitan.
+}
+
+::M4 U06 P2::¿Dónde se orienta Rosa sin costo? {
+	=En el DIF o la defensoría pública #¡Correcto! Orientación sin costo.
+	~Con un gestor que cobra por adelantado #No es la mejor opción. Orientación sin costo.
+	~En una app de préstamos #No es la mejor opción. Orientación sin costo.
+}
+
+::M4 U06 P3::¿Qué pasa si el papá no paga una pensión fijada durante 60 días? {
+	~Nada #No es la mejor opción. Registro Nacional de Obligaciones Alimentarias.
+	=Lo pueden inscribir como deudor y no saca licencia ni pasaporte #¡Correcto! Registro Nacional de Obligaciones Alimentarias.
+	~Le perdonan la deuda #No es la mejor opción. Registro Nacional de Obligaciones Alimentarias.
+}
+
 $CATEGORY: $course$/Tu Trabajo v1.0/M5
 
 ::M5 U01 P1::Debes 4,000, 2,500 y 1,500. ¿Cuánto debes en total? {
@@ -420,6 +438,42 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M5
 	~Un servicio oficial #No es la mejor opción. Nadie lo borra pagando.
 	=Un fraude #¡Correcto! Nadie lo borra pagando.
 	~Un trámite del banco #No es la mejor opción. Nadie lo borra pagando.
+}
+
+::M5 U06 P1::¿Qué es mejor para pagar un adelanto? {
+	~Lo que se vaya pudiendo #No es la mejor opción. Así sabes cuánto falta.
+	=Un descuento fijo con fecha de término #¡Correcto! Así sabes cuánto falta.
+	~Todo en un solo pago #No es la mejor opción. Así sabes cuánto falta.
+}
+
+::M5 U06 P2::¿Cuál es el tope de descuento por un adelanto? {
+	=30% de lo que ganas arriba del mínimo #¡Correcto! Artículo 110 de la Ley Federal del Trabajo.
+	~Tu pago completo #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+	~Lo que decida la patrona #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+}
+
+::M5 U06 P3::¿Qué pasa con un adelanto si dejas de trabajar en esa casa? {
+	~Se olvida #No es la mejor opción. Es lo que quedaba pendiente.
+	~Te cobran el doble #No es la mejor opción. Es lo que quedaba pendiente.
+	=Se descuenta de tu finiquito #¡Correcto! Es lo que quedaba pendiente.
+}
+
+::M5 U07 P1::¿Qué es la demasía? {
+	=Lo que sobra si venden tu prenda en más de lo que debías #¡Correcto! Es tuya.
+	~Un cobro extra #No es la mejor opción. Es tuya.
+	~El interés del mes #No es la mejor opción. Es tuya.
+}
+
+::M5 U07 P2::¿Dónde verificas una casa de empeño? {
+	~En sus anuncios #No es la mejor opción. Así tienes a quién reclamar.
+	~En redes sociales #No es la mejor opción. Así tienes a quién reclamar.
+	=En el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
+}
+
+::M5 U07 P3::No juntas para recuperar tu prenda a tiempo. ¿Qué puedes hacer? {
+	~Nada #No es la mejor opción. No pierdes la prenda.
+	=Refrendar\: pagar los intereses para alargar el plazo #¡Correcto! No pierdes la prenda.
+	~Esperar a que te llamen #No es la mejor opción. No pierdes la prenda.
 }
 
 $CATEGORY: $course$/Tu Trabajo v1.0/M6

@@ -5,7 +5,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | Marco | Tema | Competencias | Lecciones |
 |---|---|---|---|
 | OCDE jóvenes (2015) | J-A1 Dinero | 13 | M8 U03, M2 U02, M2 U03, M5 U02 |
-| OCDE jóvenes (2015) | J-A2 Ingreso | 13 | M6 U04, M8 U02, M9 U01, M1 U02, M1 U04, M4 U01 |
+| OCDE jóvenes (2015) | J-A2 Ingreso | 13 | M6 U04, M6 U05, M8 U02, M9 U01, M1 U02, M1 U04 |
 | OCDE jóvenes (2015) | J-A3 Pagos y compras | 21 | M1 U03, M3 U03, M2 U03, M6 U02, M2 U04, M8 U02 |
 | OCDE jóvenes (2015) | J-A4 Precios | 6 | M1 U03, M3 U03, M2 U03, M6 U02, M2 U04, M8 U02 |
 | OCDE jóvenes (2015) | J-A5 Registros y contratos | 10 | M9 U02, M2 U04, M9 U03, M2 U02, M8 U04 |
@@ -56,7 +56,7 @@ Temas cubiertos: 21 de 21.
 
 ## J-A2 · Ingreso
 
-**Lecciones:** M6 U04 Pagar tus estudios o tu idea: antes que un préstamo; M8 U02 Impuestos: de dónde salen tu escuela y tu beca; M9 U01 Estudiar, trabajar o emprender: decide con números; M1 U02 ¿De dónde sale el dinero? Tus fuentes de ingreso; M1 U04 Tu presupuesto: mesada, beca y lo que ganas; M4 U01 Reinvertir: que tu ganancia trabaje
+**Lecciones:** M6 U04 Pagar tus estudios o tu idea: antes que un préstamo; M6 U05 Adelantos de sueldo y préstamos de nómina en tu primer trabajo; M8 U02 Impuestos: de dónde salen tu escuela y tu beca; M9 U01 Estudiar, trabajar o emprender: decide con números; M1 U02 ¿De dónde sale el dinero? Tus fuentes de ingreso; M1 U04 Tu presupuesto: mesada, beca y lo que ganas
 
 *Conocimiento*
 

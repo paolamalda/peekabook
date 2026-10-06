@@ -110,10 +110,12 @@ Plain-language definitions of the course words, grouped by module.
 - **Average ticket:** what each customer spends on average per purchase: sales divided by number of sales.
 - **Business plan:** a summary of what you sell, to whom, what you earn and what you need.
 - **Dashboard:** a table with the business's key numbers each month.
+- **Deduction authorization:** the employee's written permission to deduct from their pay.
 - **Financial stress:** constant worry about money that affects your sleep, health or relationships.
 - **Gross payments:** the total collected before subtracting fees, refunds and costs.
 - **Independent contractor:** a person who has their own business, decides how to do the work and works for several clients.
 - **Mentor:** an experienced person who advises you at no cost.
+- **Pay advance:** part of the wage paid early and deducted later.
 - **Payroll taxes:** taxes the employer withholds and pays for its employees.
 - **Platform:** a site or app that connects sellers and buyers and charges a fee.
 - **Reputation:** what your customers and neighbors think of your business.

@@ -31,7 +31,7 @@ Hi. Today's topic: Your repatriation record and your CURP: the first two papers.
 
 ```
 *M1 U02 · Your birth certificate and your INE*
-With your birth certificate and proof of address you get your INE at no cost; it's the ID that opens a bank account.
+With your birth certificate and proof of address, you get your INE at no cost. It's the ID that opens a bank account.
 
 • Birth certificate at gob.mx/actas.
 • INE at no cost.
@@ -44,7 +44,7 @@ Lesson: [to be defined]
 
 **Audio** (116 words, about 48 seconds)
 
-Hi. Today's topic: Your birth certificate and your INE. Chayo went with her husband to the bank to open an account. They asked for an INE. He only had his Texas driver's license. They went home without an account. In this lesson you'll see how to avoid that. With your birth certificate and proof of address you get your INE at no cost; it's the ID that opens a bank account. Remember: Birth certificate at gob.mx/actas. INE at no cost. Proof of address: ask about options. Your step this week: Get your birth certificate online and call or ask the nearest INE office which proof of address they accept. Talk to you in the next lesson.
+Hi. Today's topic: Your birth certificate and your INE. Chayo went with her husband to the bank to open an account. They asked for an INE. He only had his Texas driver's license. They went home without an account. In this lesson you'll see how to avoid that. With your birth certificate and proof of address, you get your INE at no cost. It's the ID that opens a bank account. Remember: Birth certificate at gob.mx/actas. INE at no cost. Proof of address: ask about options. Your step this week: Get your birth certificate online and call or ask the nearest INE office which proof of address they accept. Talk to you in the next lesson.
 
 ### M1 U03 · Papers for your children born in the United States
 
@@ -182,7 +182,7 @@ Hi. Today's topic: Start small and pay on time. Memo wants a credit card «to ha
 
 ```
 *M3 U03 · «No credit check» loans and apps that overcharge*
-Before borrowing, ask how much you'll pay in total; if they won't tell you or they ask for your contacts, don't sign.
+Before borrowing, ask how much you'll pay in total. If they won't tell you, or they ask for your contacts, don't sign.
 
 • Ask for the total.
 • Don't give your contacts.
@@ -195,7 +195,7 @@ Lesson: [to be defined]
 
 **Audio** (114 words, about 48 seconds)
 
-Hi. Today's topic: «No credit check» loans and apps that overcharge. Lupita needs 5,000 pesos for her children's school uniforms. An app promises her the money in 10 minutes, «no credit check, no paperwork». In a week she owes 7,800. In this lesson you'll see how it happens. Before borrowing, ask how much you'll pay in total; if they won't tell you or they ask for your contacts, don't sign. Remember: Ask for the total. Don't give your contacts. Check with CONDUSEF. Your step this week: Write three ways to get urgent money without expensive loans: savings, selling something, support, more time from the person you owe. Talk to you in the next lesson.
+Hi. Today's topic: «No credit check» loans and apps that overcharge. Lupita needs 5,000 pesos for her children's school uniforms. An app promises her the money in 10 minutes, «no credit check, no paperwork». In a week she owes 7,800. In this lesson you'll see how it happens. Before borrowing, ask how much you'll pay in total. If they won't tell you, or they ask for your contacts, don't sign. Remember: Ask for the total. Don't give your contacts. Check with CONDUSEF. Your step this week: Write three ways to get urgent money without expensive loans: savings, selling something, support, more time from the person you owe. Talk to you in the next lesson.
 
 ## Module 4. What you left in the United States
 

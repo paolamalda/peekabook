@@ -115,7 +115,7 @@ Hola. Hoy hablamos de esto: Apuestas en línea: el dinero del negocio no se jueg
 
 ```
 *M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre*
-Tus habilidades son el capital de tu negocio; ten tu cuenta, tus cobros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+Tus habilidades son el capital de tu negocio. Ten tu cuenta, tus cobros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 • Tus habilidades cuentan.
 • Cuenta y cobros a tu nombre.
@@ -126,9 +126,9 @@ Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y
 Lección: [por definir]
 ```
 
-**Audio** (136 palabras, unos 57 segundos)
+**Audio** (135 palabras, unos 56 segundos)
 
-Hola. Hoy hablamos de esto: Tu negocio, tus decisiones: tu dinero a tu nombre. Lupita cocina todos los días, pero su pareja cobra los pedidos en su propia app y decide en qué se gasta. Cuando ella quiso comprar una olla industrial, él dijo que no había dinero. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre. Tus habilidades son el capital de tu negocio; ten tu cuenta, tus cobros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda. Recuerda: Tus habilidades cuentan. Cuenta y cobros a tu nombre. Control del dinero = pide ayuda. Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y tus cobros del negocio estén a tu nombre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu negocio, tus decisiones: tu dinero a tu nombre. Lupita cocina todos los días, pero su pareja cobra los pedidos en su propia app y decide en qué se gasta. Cuando ella quiso comprar una olla industrial, él dijo que no había dinero. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre. Tus habilidades son el capital de tu negocio. Ten tu cuenta, tus cobros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda. Recuerda: Tus habilidades cuentan. Cuenta y cobros a tu nombre. Control del dinero = pide ayuda. Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y tus cobros del negocio estén a tu nombre. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Costos y precio
 
@@ -159,7 +159,7 @@ Hola. Hoy hablamos de esto: Costos fijos y variables. Daniela compra material pa
 
 ```
 *M2 U02 · ¿Cuánto cobrar?*
-Tu costo es el piso; el margen es lo que te permite crecer y pagar impuestos; la competencia y el valor te dicen hasta dónde subir.
+Tu costo es el piso. El margen es lo que te permite crecer y pagar impuestos. La competencia y el valor te dicen hasta dónde subir.
 
 • Costo = piso.
 • Margen = crecimiento.
@@ -172,7 +172,7 @@ Lección: [por definir]
 
 **Audio** (103 palabras, unos 43 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuánto cobrar? Javier cobra lo mismo que otros pintores de su barrio porque «así se cobra». Pero él tiene seguro, camioneta y herramienta nueva. En esta lección verás cómo poner tu propio precio. Tu costo es el piso; el margen es lo que te permite crecer y pagar impuestos; la competencia y el valor te dicen hasta dónde subir. Recuerda: Costo = piso. Margen = crecimiento. Competencia y valor = techo. Tu paso de esta semana: Revisa el precio de tu producto principal: ¿cubre tu costo y deja margen? Ajusta si no. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuánto cobrar? Javier cobra lo mismo que otros pintores de su barrio porque «así se cobra». Pero él tiene seguro, camioneta y herramienta nueva. En esta lección verás cómo poner tu propio precio. Tu costo es el piso. El margen es lo que te permite crecer y pagar impuestos. La competencia y el valor te dicen hasta dónde subir. Recuerda: Costo = piso. Margen = crecimiento. Competencia y valor = techo. Tu paso de esta semana: Revisa el precio de tu producto principal: ¿cubre tu costo y deja margen? Ajusta si no. Nos escuchamos en la próxima lección.
 
 ### M2 U03 · Tu punto de equilibrio
 
@@ -396,7 +396,7 @@ Hola. Hoy hablamos de esto: ¿Dueño único, LLC u otra forma? A Javier le dijer
 
 ```
 *M5 U02 · Números y permisos: EIN, ITIN y licencias*
-El EIN y el seller's permit no tienen costo en los sitios oficiales; revisa en tu ciudad y tu condado qué licencias pide tu giro.
+El EIN y el seller's permit no tienen costo en los sitios oficiales. Revisa en tu ciudad y tu condado qué licencias pide tu giro.
 
 • EIN sin costo en irs.gov.
 • Seller's permit sin costo.
@@ -409,7 +409,7 @@ Lección: [por definir]
 
 **Audio** (118 palabras, unos 49 segundos)
 
-Hola. Hoy hablamos de esto: Números y permisos: EIN, ITIN y licencias. Lupita quiere vender tamales en un mercado y le piden «licencia, permiso de salud y seller's permit». No sabe por dónde empezar ni si puede con su ITIN. En esta lección verás los números y permisos más comunes. El EIN y el seller's permit no tienen costo en los sitios oficiales; revisa en tu ciudad y tu condado qué licencias pide tu giro. Recuerda: EIN sin costo en irs.gov. Seller's permit sin costo. Licencias según ciudad y giro. Tu paso de esta semana: Busca en CalGold (o la oficina de tu estado) qué licencias pide tu giro en tu ciudad. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Números y permisos: EIN, ITIN y licencias. Lupita quiere vender tamales en un mercado y le piden «licencia, permiso de salud y seller's permit». No sabe por dónde empezar ni si puede con su ITIN. En esta lección verás los números y permisos más comunes. El EIN y el seller's permit no tienen costo en los sitios oficiales. Revisa en tu ciudad y tu condado qué licencias pide tu giro. Recuerda: EIN sin costo en irs.gov. Seller's permit sin costo. Licencias según ciudad y giro. Tu paso de esta semana: Busca en CalGold (o la oficina de tu estado) qué licencias pide tu giro en tu ciudad. Nos escuchamos en la próxima lección.
 
 ### M5 U03 · Tus impuestos federales como dueño
 
@@ -417,7 +417,7 @@ Hola. Hoy hablamos de esto: Números y permisos: EIN, ITIN y licencias. Lupita q
 
 ```
 *M5 U03 · Tus impuestos federales como dueño*
-Como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta; aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
+Como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta. Aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
 
 • 15.3% por cuenta propia.
 • Más impuesto sobre la renta.
@@ -430,7 +430,7 @@ Lección: [por definir]
 
 **Audio** (108 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Tus impuestos federales como dueño. Daniela ganó $14,000 limpios en su primer año vendiendo joyería. En abril descubrió que debía más de $2,000 al IRS y no había apartado nada. En esta lección verás por qué y cómo prepararte. Como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta; aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos. Recuerda: 15.3% por cuenta propia. Más impuesto sobre la renta. Deducciones con recibos. Tu paso de esta semana: Abre una cuenta para impuestos y define qué porcentaje de cada ganancia apartarás. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tus impuestos federales como dueño. Daniela ganó $14,000 limpios en su primer año vendiendo joyería. En abril descubrió que debía más de $2,000 al IRS y no había apartado nada. En esta lección verás por qué y cómo prepararte. Como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta. Aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos. Recuerda: 15.3% por cuenta propia. Más impuesto sobre la renta. Deducciones con recibos. Tu paso de esta semana: Abre una cuenta para impuestos y define qué porcentaje de cada ganancia apartarás. Nos escuchamos en la próxima lección.
 
 ### M5 U04 · Pagos trimestrales y formularios 1099
 
@@ -438,7 +438,7 @@ Hola. Hoy hablamos de esto: Tus impuestos federales como dueño. Daniela ganó $
 
 ```
 *M5 U04 · Pagos trimestrales y formularios 1099*
-Paga tus impuestos cada trimestre y declara todo tu ingreso; el IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
+Paga tus impuestos cada trimestre y declara todo tu ingreso. El IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
 
 • Abril, junio, septiembre y enero.
 • Todo ingreso se declara.
@@ -451,7 +451,7 @@ Lección: [por definir]
 
 **Audio** (120 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: Pagos trimestrales y formularios 1099. Javier recibió un formulario 1099 de un contratista y no sabía qué era. Además, le llamaron «del IRS» diciendo que lo arrestarían si no pagaba con tarjetas de regalo. En esta lección verás tu calendario y cómo cuidarte. Paga tus impuestos cada trimestre y declara todo tu ingreso; el IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono. Recuerda: Abril, junio, septiembre y enero. Todo ingreso se declara. El IRS no pide tarjetas de regalo. Tu paso de esta semana: Anota las cuatro fechas de pagos estimados en tu calendario y solicita tu IP PIN en irs.gov. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Pagos trimestrales y formularios 1099. Javier recibió un formulario 1099 de un contratista y no sabía qué era. Además, le llamaron «del IRS» diciendo que lo arrestarían si no pagaba con tarjetas de regalo. En esta lección verás tu calendario y cómo cuidarte. Paga tus impuestos cada trimestre y declara todo tu ingreso. El IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono. Recuerda: Abril, junio, septiembre y enero. Todo ingreso se declara. El IRS no pide tarjetas de regalo. Tu paso de esta semana: Anota las cuatro fechas de pagos estimados en tu calendario y solicita tu IP PIN en irs.gov. Nos escuchamos en la próxima lección.
 
 ### M5 U05 · El impuesto sobre ventas (sales tax)
 
@@ -579,7 +579,7 @@ Lección: [por definir]
 
 **Audio** (146 palabras, unos 61 segundos)
 
-Hola. Hoy hablamos de esto: Cofirmante, garante, usuario autorizado y referencia: ¿qué firmas? El hijo de Don Ramón le pide que sea cofirmante de un auto, el banco le pide a Daniela una garantía personal para el préstamo de su LLC y a Javier lo llamó un cobrador por la deuda de un compañero. En esta lección verás qué implica cada papel. Cofirmante y garante pagan si la otra persona o el negocio no paga; una referencia solo da sus datos. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Cofirmante y garante: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien o por tu negocio, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Cofirmante, garante, usuario autorizado y referencia: ¿qué firmas? El hijo de Don Ramón le pide que sea cofirmante de un auto. El banco le pide a Daniela una garantía personal para el préstamo de su LLC. Y a Javier lo llamó un cobrador por la deuda de un compañero. En esta lección verás qué implica cada papel. Cofirmante y garante pagan si la otra persona o el negocio no paga; una referencia solo da sus datos. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Cofirmante y garante: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien o por tu negocio, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
 ## Módulo 7. Protege tu negocio
 
@@ -589,7 +589,7 @@ Hola. Hoy hablamos de esto: Cofirmante, garante, usuario autorizado y referencia
 
 ```
 *M7 U01 · Tu salud si trabajas por tu cuenta*
-Si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias; una emergencia sin seguro puede costarte tu negocio.
+Si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias. Una emergencia sin seguro puede costarte tu negocio.
 
 • Mercado de seguros cada año.
 • Medi-Cal según ingreso.
@@ -602,7 +602,7 @@ Lección: [por definir]
 
 **Audio** (105 palabras, unos 44 segundos)
 
-Hola. Hoy hablamos de esto: Tu salud si trabajas por tu cuenta. Javier se lastimó la espalda cargando una escalera y estuvo dos semanas sin trabajar. No tenía seguro médico y pagó la consulta de urgencias de su bolsa. En esta lección verás tus opciones. Si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias; una emergencia sin seguro puede costarte tu negocio. Recuerda: Mercado de seguros cada año. Medi-Cal según ingreso. Clínicas comunitarias. Tu paso de esta semana: Revisa tus opciones de seguro médico y apunta la fecha de la próxima inscripción abierta. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu salud si trabajas por tu cuenta. Javier se lastimó la espalda cargando una escalera y estuvo dos semanas sin trabajar. No tenía seguro médico y pagó la consulta de urgencias de su bolsa. En esta lección verás tus opciones. Si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias. Una emergencia sin seguro puede costarte tu negocio. Recuerda: Mercado de seguros cada año. Medi-Cal según ingreso. Clínicas comunitarias. Tu paso de esta semana: Revisa tus opciones de seguro médico y apunta la fecha de la próxima inscripción abierta. Nos escuchamos en la próxima lección.
 
 ### M7 U02 · Seguros para tu negocio
 
@@ -822,7 +822,7 @@ Hola. Hoy hablamos de esto: Estrés, negocio y familia. Lupita cocina de lunes a
 
 ```
 *M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo*
-Tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros y asesoría sin costo, pide financiamiento en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+Tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y asesoría sin costo, y pide financiamiento en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 
 • Una hoja, siete preguntas.
 • Dos minutos, cinco partes.
@@ -835,7 +835,7 @@ Lección: [por definir]
 
 **Audio** (128 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de negocio en una hoja y cómo presentarlo. Daniela quiere un microcrédito para comprar inventario de temporada y le piden «un plan de negocio y una presentación corta». Nunca ha hecho uno. En esta lección armarás el tuyo. Tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros y asesoría sin costo, pide financiamiento en fuentes verificadas y, si te dicen que no, pregunta qué mejorar. Recuerda: Una hoja, siete preguntas. Dos minutos, cinco partes. Asesoría sin costo; nadie cobra por «garantizar» un préstamo. Tu paso de esta semana: Llena tu plan de negocio en una hoja y agenda una cita sin costo con un SBDC o SCORE. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de negocio en una hoja y cómo presentarlo. Daniela quiere un microcrédito para comprar inventario de temporada y le piden «un plan de negocio y una presentación corta». Nunca ha hecho uno. En esta lección armarás el tuyo. Tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y asesoría sin costo, y pide financiamiento en fuentes verificadas. Si te dicen que no, pregunta qué mejorar. Recuerda: Una hoja, siete preguntas. Dos minutos, cinco partes. Asesoría sin costo; nadie cobra por «garantizar» un préstamo. Tu paso de esta semana: Llena tu plan de negocio en una hoja y agenda una cita sin costo con un SBDC o SCORE. Nos escuchamos en la próxima lección.
 
 ### M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley
 
@@ -857,6 +857,27 @@ Lección: [por definir]
 **Audio** (110 palabras, unos 46 segundos)
 
 Hola. Hoy hablamos de esto: Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley. Llegaron dos food trucks nuevos a la calle de Don Ramón, subió el permiso de salud del condado y cambió una regla del IRS. Don Ramón se enteró de todo tarde. En esta lección verás cómo estar al tanto sin agobiarte. Vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo. Recuerda: Cuatro cosas que vigilar. Fuentes oficiales. 15 minutos a la semana. Tu paso de esta semana: Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus costos. Nos escuchamos en la próxima lección.
+
+### M8 U07 · Adelantos y préstamos a tus empleados
+
+**WhatsApp**
+
+```
+*M8 U07 · Adelantos y préstamos a tus empleados*
+Un adelanto a tu equipo sale de tu flujo. Ponlo por escrito, con autorización firmada, sin dejar el pago por debajo del mínimo y con un fondo al mes.
+
+• Por escrito y firmado.
+• El pago no baja del mínimo.
+• Un fondo al mes para adelantos.
+
+Tu paso de esta semana: Escribe tu política de adelantos en cuatro reglas y revisa en tu estado qué pide para descontar del pago.
+
+Lección: [por definir]
+```
+
+**Audio** (123 palabras, unos 51 segundos)
+
+Hola. Hoy hablamos de esto: Adelantos y préstamos a tus empleados. Don Ramón tiene dos ayudantes en su food truck. Les adelanta dinero «cuando lo necesitan» y luego les descuenta lo que se acuerda. Uno de ellos le reclamó que un cheque le llegó casi en ceros. Un adelanto a tu equipo sale de tu flujo. Ponlo por escrito, con autorización firmada, sin dejar el pago por debajo del mínimo y con un fondo al mes. Recuerda: Por escrito y firmado. El pago no baja del mínimo. Un fondo al mes para adelantos. Tu paso de esta semana: Escribe tu política de adelantos en cuatro reglas y revisa en tu estado qué pide para descontar del pago. Nos escuchamos en la próxima lección.
 
 ## Módulo 9. Tu futuro
 
@@ -908,7 +929,7 @@ Hola. Hoy hablamos de esto: Si el negocio cambia o si faltas. Lupita se enfermó
 
 ```
 *M9 U03 · Tu plan de una página*
-Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+Tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 • Una hoja.
 • Donde la veas.
@@ -921,7 +942,7 @@ Lección: [por definir]
 
 **Audio** (98 palabras, unos 41 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de una página. Daniela aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su mesa de trabajo. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de una página. Daniela aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su mesa de trabajo. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
 
 ### M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
 
@@ -929,7 +950,7 @@ Hola. Hoy hablamos de esto: Tu plan de una página. Daniela aprendió mucho, per
 
 ```
 *M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos*
-Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520.
+Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte. Heredar no paga impuesto federal, salvo herencias enormes. Una herencia grande del extranjero se reporta con el Formulario 3520.
 
 • POD y TOD en tus cuentas.
 • Escritura de traspaso para la casa.
@@ -940,9 +961,9 @@ Tu paso de esta semana: Revisa si tus cuentas tienen beneficiario POD o TOD y ha
 Lección: [por definir]
 ```
 
-**Audio** (162 palabras, unos 68 segundos)
+**Audio** (161 palabras, unos 67 segundos)
 
-Hola. Hoy hablamos de esto: Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos. Don Ramón tiene su food truck, una cuenta del negocio, una casa en Sacramento y un terreno en Michoacán. Su hija cree que si él falta «el IRS se queda con la mitad» y que la casa tendrá que pasar por años de corte. En esta lección verás qué es cierto y qué preparar. Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520. Recuerda: POD y TOD en tus cuentas. Escritura de traspaso para la casa. Formulario 3520 si heredas del extranjero. Tu paso de esta semana: Revisa si tus cuentas tienen beneficiario POD o TOD y haz tu lista de lo que tienes en México. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos. Don Ramón tiene su food truck, una cuenta del negocio, una casa en Sacramento y un terreno en Michoacán. Su hija cree que si él falta «el IRS se queda con la mitad» y que la casa tendrá que pasar por años de corte. En esta lección verás qué es cierto y qué preparar. Con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte. Heredar no paga impuesto federal, salvo herencias enormes. Una herencia grande del extranjero se reporta con el Formulario 3520. Recuerda: POD y TOD en tus cuentas. Escritura de traspaso para la casa. Formulario 3520 si heredas del extranjero. Tu paso de esta semana: Revisa si tus cuentas tienen beneficiario POD o TOD y haz tu lista de lo que tienes en México. Nos escuchamos en la próxima lección.
 
 ## Recordatorios mensuales del compromiso
 

@@ -281,5 +281,52 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu dinero real",
+   "descripcion": "Cómo organizarte cuando tus ingresos suben y bajan."
+  },
+  "M2": {
+   "titulo": "Tu carrera como negocio",
+   "descripcion": "Tu régimen fiscal y tus impuestos."
+  },
+  "M3": {
+   "titulo": "Contratos y regalías",
+   "descripcion": "Lo que firmas, quién te representa y cómo cobras."
+  },
+  "M4": {
+   "titulo": "El sistema financiero",
+   "descripcion": "Quién es quién en el sistema financiero mexicano."
+  },
+  "M5": {
+   "titulo": "Compara y elige",
+   "descripcion": "Cómo elegir instituciones y productos."
+  },
+  "M6": {
+   "titulo": "El crédito es deuda",
+   "descripcion": "Cómo funciona el crédito y cuánto cuesta de verdad."
+  },
+  "M7": {
+   "titulo": "Buró y Círculo de Crédito",
+   "descripcion": "Tu historial, tu reporte y cómo cuidarlo."
+  },
+  "M8": {
+   "titulo": "Sal de deudas",
+   "descripcion": "Un plan para pagar y no volver a caer."
+  },
+  "M9": {
+   "titulo": "Que no te engañen",
+   "descripcion": "Fraudes y robo de identidad."
+  },
+  "M10": {
+   "titulo": "Protección y prevención",
+   "descripcion": "Seguridad social, seguros y lo que pasa si faltas."
+  },
+  "M11": {
+   "titulo": "Tu futuro",
+   "descripcion": "Retiro, inversión y tu plan."
+  }
  }
 }

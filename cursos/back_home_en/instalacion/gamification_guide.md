@@ -4,15 +4,12 @@ This guide is for Moodle 4.5 with Level Up (block_xp) and the Custom certificate
 
 The goal is to motivate without competing. Points reward progress, not perfect scores. Nobody's name is ever shown in a table.
 
-## 1. What each module has
+## 1. What each part has
 
 | Activity | How many | Completion |
 |---|---|---|
-| Book "Module N lessons" | 1 per module (8) | View |
-| H5P activity "MN UYY · What would you do?" | 1 per lesson (24) | Receive a grade |
-| Quiz "Module N self-assessment" | 1 per module (8) | Passing grade of 70% |
-
-**Each H5P activity:** no download button, copyright button on, embed off; attempt tracking with "Highest grade"; completion "Student must receive a grade".
+| One book per lesson (with the practice embedded) | 24 | View |
+| Quiz "Module N self-assessment" | 1 per part (8) | Passing grade of 70% |
 
 **Self-assessments:** use the bank of 72 three-option questions with feedback, in categories *Back Home v0.1/M1* to *M8*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
 
@@ -25,14 +22,13 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 3. **For posting in the forum:** 5 points, event "Post created" (`\mod_forum\event\post_created`).
 4. Keep cheat guard on.
 
-Completing the whole course gives about 1,000 points:
+Completing the whole course gives about 800 points:
 
 | Activities | How many | Points |
 |---|---|---|
-| H5P activities | 24 | 600 |
-| Books | 8 | 200 |
+| Lessons | 24 | 600 |
 | Self-assessments | 8 | 200 |
-| **Total** | 40 | **1,000** |
+| **Total** | 32 | **800** |
 
 **Levels** (6 levels, no automatic algorithm):
 
@@ -45,7 +41,7 @@ Completing the whole course gives about 1,000 points:
 | 5 | Planning ahead | 450 | During Module 7 |
 | 6 | I made it | 550 | During Module 8 |
 
-**Ladder:** anonymity on; show only nearby neighbors or turn it off.
+**Ladder (leaderboard): off.** In *Level Up > Ladder* choose not to show it, and remove or hide the leaderboard block. Each person sees only their own points, level and badges.
 
 ## 3. Badges
 

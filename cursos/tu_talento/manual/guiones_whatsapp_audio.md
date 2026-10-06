@@ -363,7 +363,7 @@ Lección: [por definir]
 
 **Audio** (117 palabras, unos 49 segundos)
 
-Hola. Hoy hablamos de esto: Cómo cobro mis regalías y reviso mis pagos. A Renata le escribe un "gestor" que promete recuperar regalías atrasadas de un video musical en el que bailó, a cambio de 30% y copia de su INE. Ella no sabe si le toca algo ni cómo se cobra. En esta lección aprenderás el camino oficial. Pregunta primero en la sociedad de gestión colectiva. No necesitas intermediarios que te cobren por adelantado. Recuerda: Afíliate y registra tu trabajo. Revisa tus liquidaciones. Nada de gestores que cobran por adelantado. Tu paso de esta semana: Llama o escribe a tu sociedad de gestión colectiva y pregunta si tienes pagos pendientes. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Cómo cobro mis regalías y reviso mis pagos. A Renata le escribe un "gestor" que promete recuperar regalías atrasadas de un video musical en el que bailó. A cambio pide 30% y copia de su INE. Ella no sabe si le toca algo ni cómo se cobra. En esta lección aprenderás el camino oficial. Pregunta primero en la sociedad de gestión colectiva. No necesitas intermediarios que te cobren por adelantado. Recuerda: Afíliate y registra tu trabajo. Revisa tus liquidaciones. Nada de gestores que cobran por adelantado. Tu paso de esta semana: Llama o escribe a tu sociedad de gestión colectiva y pregunta si tienes pagos pendientes. Nos escuchamos en la próxima lección.
 
 ### M3 U06 · Cuando la productora no paga
 
@@ -478,7 +478,7 @@ Hola. Hoy hablamos de esto: Tus derechos como usuario. A Valeria le cobraron un 
 
 ```
 *M4 U05 · Noticias, rumores y cambios: ajusta tu plan sin pánico*
-Confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia algo que te aplica.
+Confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia algo que te aplica.
 
 • Fuente oficial y fecha.
 • Ni miedo ni manada.
@@ -491,7 +491,7 @@ Lección: [por definir]
 
 **Audio** (126 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Noticias, rumores y cambios: ajusta tu plan sin pánico. En el grupo de WhatsApp del elenco circula que «el SAT va a congelar las cuentas de quienes facturan» y que una criptomoneda «que recomienda un famoso» va a subir. Toño no sabe qué creer. En esta lección verás cómo responder con calma. Confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia algo que te aplica. Recuerda: Fuente oficial y fecha. Ni miedo ni manada. Ajusta una parte a la vez. Tu paso de esta semana: Guarda en tu celular los sitios oficiales que consultarás antes de creer una noticia sobre tu dinero. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Noticias, rumores y cambios: ajusta tu plan sin pánico. En el grupo de WhatsApp del elenco circula que «el SAT va a congelar las cuentas de quienes facturan». También, que una criptomoneda «que recomienda un famoso» va a subir. Toño no sabe qué creer. En esta lección verás cómo responder con calma. Confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia algo que te aplica. Recuerda: Fuente oficial y fecha. Ni miedo ni manada. Ajusta una parte a la vez. Tu paso de esta semana: Guarda en tu celular los sitios oficiales que consultarás antes de creer una noticia sobre tu dinero. Nos escuchamos en la próxima lección.
 
 ## Módulo 5. Compara y elige: instituciones y productos
 
@@ -659,9 +659,9 @@ Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apar
 Lección: [por definir]
 ```
 
-**Audio** (144 palabras, unos 60 segundos)
+**Audio** (143 palabras, unos 60 segundos)
 
-Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? Un compañero de la obra le pide a Gael que sea su aval para rentar un foro, y a Valeria la puso de referencia en su tarjeta una amiga del medio. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? Un compañero de la obra le pide a Gael que sea su aval para rentar un foro. A Valeria, una amiga del medio la puso de referencia en su tarjeta. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
 ## Módulo 6. El crédito es deuda
 
@@ -745,9 +745,9 @@ Tu paso de esta semana: Pide tus reportes sin costo en Buró y Círculo y compá
 Lección: [por definir]
 ```
 
-**Audio** (113 palabras, unos 47 segundos)
+**Audio** (114 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Tu inventario de deudas. Toño no sabe cuánto debe. Tiene una tarjeta, un préstamo de nómina de cuando trabajaba en la disquera, un crédito de una tienda de música y un préstamo que le hizo su hermano. Cada vez que le preguntan dice "como 80,000". En esta lección harás tu inventario de deudas. Tu inventario convierte el miedo en números con los que puedes trabajar. Recuerda: Anota todas, incluidas las familiares. Saldo, costo, pago, fecha y atraso. Confirma con tus reportes de crédito. Tu paso de esta semana: Pide tus reportes sin costo en Buró y Círculo y compáralos con tu inventario. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu inventario de deudas. Toño no sabe cuánto debe. Tiene una tarjeta, un préstamo de nómina de cuando trabajaba en la disquera y un crédito de una tienda de música. También, un préstamo que le hizo su hermano. Cada vez que le preguntan dice "como 80,000". En esta lección harás tu inventario de deudas. Tu inventario convierte el miedo en números con los que puedes trabajar. Recuerda: Anota todas, incluidas las familiares. Saldo, costo, pago, fecha y atraso. Confirma con tus reportes de crédito. Tu paso de esta semana: Pide tus reportes sin costo en Buró y Círculo y compáralos con tu inventario. Nos escuchamos en la próxima lección.
 
 ### M6 U05 · ¿Cuánta deuda aguanta un ingreso variable?
 
@@ -790,6 +790,48 @@ Lección: [por definir]
 **Audio** (124 palabras, unos 52 segundos)
 
 Hola. Hoy hablamos de esto: No uses la tarjeta para vivir la sequía. Gael pagó la renta y el súper de cuatro meses sin llamados con la tarjeta. Pensaba que al llegar la siguiente serie lo pagaría todo. La serie llegó tarde y pagó menos de lo esperado. Hoy debe 60,000. En esta lección aprenderás qué hacer en lugar de financiar la sequía con crédito. En la sequía, primero tu fondo, luego recortes e ingresos puente. El crédito es el último recurso. Recuerda: La sequía se prepara, no se financia. Fondo, recortes, ingreso puente. Crédito solo para emergencias reales. Tu paso de esta semana: Escribe tres ideas de ingreso puente que puedas activar en tu próxima temporada baja. Nos escuchamos en la próxima lección.
+
+### M6 U07 · Adelantos de pago y préstamo de nómina en meses de llamados
+
+**WhatsApp**
+
+```
+*M6 U07 · Adelantos de pago y préstamo de nómina en meses de llamados*
+Un préstamo de nómina no termina con tu proyecto. Compara los pagos con la duración de tu contrato y usa primero tu fondo de sequía.
+
+• El préstamo dura más que el proyecto.
+• Adelanto por escrito.
+• Primero, tu fondo de sequía.
+
+Tu paso de esta semana: Antes de aceptar cualquier préstamo o adelanto, llena la tabla «Antes de aceptar» con tu contrato actual.
+
+Lección: [por definir]
+```
+
+**Audio** (121 palabras, unos 50 segundos)
+
+Hola. Hoy hablamos de esto: Adelantos de pago y préstamo de nómina en meses de llamados. Gael cobra como asimilado en una serie. Producción le ofrece adelantarle el pago de dos capítulos, y su banco le manda un mensaje: «Tienes 60,000 de préstamo de nómina preaprobado». En tres meses termina la temporada. Un préstamo de nómina no termina con tu proyecto. Compara los pagos con la duración de tu contrato y usa primero tu fondo de sequía. Recuerda: El préstamo dura más que el proyecto. Adelanto por escrito. Primero, tu fondo de sequía. Tu paso de esta semana: Antes de aceptar cualquier préstamo o adelanto, llena la tabla «Antes de aceptar» con tu contrato actual. Nos escuchamos en la próxima lección.
+
+### M6 U08 · Empeñar tu equipo: la herramienta que no debes perder
+
+**WhatsApp**
+
+```
+*M6 U08 · Empeñar tu equipo: la herramienta que no debes perder*
+Tu equipo es tu ingreso. Si tienes que empeñar, que sea algo que no uses para trabajar, en una casa registrada y con la fecha anotada.
+
+• Tu equipo no se empeña.
+• Casa registrada en la PROFECO.
+• Fecha anotada y boleta guardada.
+
+Tu paso de esta semana: Haz tu lista de equipo que nunca empeñarías, con número de serie y foto de la factura.
+
+Lección: [por definir]
+```
+
+**Audio** (122 palabras, unos 51 segundos)
+
+Hola. Hoy hablamos de esto: Empeñar tu equipo: la herramienta que no debes perder. Toño necesitaba 12,000 para pagar la renta del estudio. Empeñó su micrófono principal. Dos semanas después le salió una sesión grande y tuvo que rentar uno: pagó el empeño, la renta del micrófono y casi pierde la sesión. Tu equipo es tu ingreso. Si tienes que empeñar, que sea algo que no uses para trabajar, en una casa registrada y con la fecha anotada. Recuerda: Tu equipo no se empeña. Casa registrada en la PROFECO. Fecha anotada y boleta guardada. Tu paso de esta semana: Haz tu lista de equipo que nunca empeñarías, con número de serie y foto de la factura. Nos escuchamos en la próxima lección.
 
 ## Módulo 7. Buró y Círculo de Crédito
 
@@ -1116,7 +1158,7 @@ Hola. Hoy hablamos de esto: Tu plan de salida con ingreso variable. Valeria quie
 
 ```
 *M8 U06 · Apuestas en línea: el pago gordo no es para apostar*
-El fondo de sequía, los impuestos y el crédito nunca son para apostar; si apuestas para recuperar o con crédito, ya es un problema.
+El fondo de sequía, los impuestos y el crédito nunca son para apostar. Si apuestas para recuperar o con crédito, ya es un problema.
 
 • Nunca del fondo ni de impuestos.
 • Nunca con crédito.
@@ -1129,7 +1171,7 @@ Lección: [por definir]
 
 **Audio** (125 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Apuestas en línea: el pago gordo no es para apostar. Toño empezó con 100 pesos en los partidos entre sesiones de grabación. Un mes metió 8,000 de su fondo de sequía «para recuperar» lo perdido y se atrasó con su tarjeta. En esta lección verás cómo proteger tu dinero. El fondo de sequía, los impuestos y el crédito nunca son para apostar; si apuestas para recuperar o con crédito, ya es un problema. Recuerda: Nunca del fondo ni de impuestos. Nunca con crédito. Tope, pausa y ayuda. Tu paso de esta semana: Pon tu fondo de sequía en una cuenta aparte sin tarjeta y, si apuestas, fija un tope solo de tu gasto libre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Apuestas en línea: el pago gordo no es para apostar. Toño empezó con 100 pesos en los partidos entre sesiones de grabación. Un mes metió 8,000 de su fondo de sequía «para recuperar» lo perdido y se atrasó con su tarjeta. En esta lección verás cómo proteger tu dinero. El fondo de sequía, los impuestos y el crédito nunca son para apostar. Si apuestas para recuperar o con crédito, ya es un problema. Recuerda: Nunca del fondo ni de impuestos. Nunca con crédito. Tope, pausa y ayuda. Tu paso de esta semana: Pon tu fondo de sequía en una cuenta aparte sin tarjeta y, si apuestas, fija un tope solo de tu gasto libre. Nos escuchamos en la próxima lección.
 
 ## Módulo 9. No caigas: fraudes y robo de identidad
 
@@ -1328,7 +1370,7 @@ Hola. Hoy hablamos de esto: Si ya te pasó: tu plan de respuesta. Toño se dio c
 
 ```
 *M9 U10 · Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes*
-Una voz o una cara conocida ya no son prueba; confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
+Una voz o una cara conocida ya no son prueba. Confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
 
 • La voz puede ser falsa.
 • Confirma por otro lado.
@@ -1341,7 +1383,7 @@ Lección: [por definir]
 
 **Audio** (135 palabras, unos 56 segundos)
 
-Hola. Hoy hablamos de esto: Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes. A Valeria le avisan sus seguidores que circula un video de ella «recomendando» una plataforma de inversión. Nunca lo grabó: alguien usó inteligencia artificial con su cara y su voz. En esta lección verás cómo prevenir y responder. Una voz o una cara conocida ya no son prueba; confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos. Recuerda: La voz puede ser falsa. Confirma por otro lado. Tu voz y tu cara, por contrato. Tu paso de esta semana: Acuerda una palabra clave con tu familia y tu mánager, y revisa las cláusulas de voz e imagen de tu próximo contrato. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes. A Valeria le avisan sus seguidores que circula un video de ella «recomendando» una plataforma de inversión. Nunca lo grabó: alguien usó inteligencia artificial con su cara y su voz. En esta lección verás cómo prevenir y responder. Una voz o una cara conocida ya no son prueba. Confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos. Recuerda: La voz puede ser falsa. Confirma por otro lado. Tu voz y tu cara, por contrato. Tu paso de esta semana: Acuerda una palabra clave con tu familia y tu mánager, y revisa las cláusulas de voz e imagen de tu próximo contrato. Nos escuchamos en la próxima lección.
 
 ## Módulo 10. Protección y prevención
 
@@ -1477,7 +1519,7 @@ Hola. Hoy hablamos de esto: Testamento y documentos para tu familia. Un colega d
 
 ```
 *M10 U07 · Si llega un sismo o una inundación: tu equipo y tu trabajo*
-Respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado.
+Ten respaldo en la nube y fotos y facturas del equipo. Suma un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú y no pagues por adelantado.
 
 • Respaldo semanal.
 • Fotos y facturas.
@@ -1488,9 +1530,9 @@ Tu paso de esta semana: Esta semana respalda tus proyectos en la nube, toma foto
 Lección: [por definir]
 ```
 
-**Audio** (124 palabras, unos 52 segundos)
+**Audio** (129 palabras, unos 54 segundos)
 
-Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu equipo y tu trabajo. Una inundación llegó al estudio de Toño. Perdió consolas, micrófonos y los discos con proyectos de clientes. No tenía seguro ni respaldo. En esta lección verás cómo prepararte. Respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado. Recuerda: Respaldo semanal. Fotos y facturas. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana respalda tus proyectos en la nube, toma fotos de tu equipo con sus números de serie y pregunta si tu seguro lo cubre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu equipo y tu trabajo. Una inundación llegó al estudio de Toño. Perdió consolas, micrófonos y los discos con proyectos de clientes. No tenía seguro ni respaldo. En esta lección verás cómo prepararte. Ten respaldo en la nube y fotos y facturas del equipo. Suma un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú y no pagues por adelantado. Recuerda: Respaldo semanal. Fotos y facturas. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana respalda tus proyectos en la nube, toma fotos de tu equipo con sus números de serie y pregunta si tu seguro lo cubre. Nos escuchamos en la próxima lección.
 
 ### M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos
 
@@ -1498,7 +1540,7 @@ Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu equipo y tu 
 
 ```
 *M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos*
-Tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
+Tus derechos y regalías se heredan. Regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
 
 • Tus derechos se heredan.
 • Beneficiarios en tu sociedad de gestión.
@@ -1511,7 +1553,7 @@ Lección: [por definir]
 
 **Audio** (139 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos. Toño tiene canciones registradas y cobra regalías por su trabajo de sesión. Valeria recibe regalías por campañas y por su voz en una canción. Ninguno sabe quién cobraría esas regalías si faltaran ni si su familia pagaría impuestos. En esta lección lo verás. Tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí. Recuerda: Tus derechos se heredan. Beneficiarios en tu sociedad de gestión. Heredar sin ISR; cobrar regalías sí paga. Tu paso de esta semana: Haz tu mapa de regalías y pregunta en tu sociedad de gestión cómo designar beneficiarios. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos. Toño tiene canciones registradas y cobra regalías por su trabajo de sesión. Valeria recibe regalías por campañas y por su voz en una canción. Ninguno sabe quién cobraría esas regalías si faltaran ni si su familia pagaría impuestos. En esta lección lo verás. Tus derechos y regalías se heredan. Regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí. Recuerda: Tus derechos se heredan. Beneficiarios en tu sociedad de gestión. Heredar sin ISR; cobrar regalías sí paga. Tu paso de esta semana: Haz tu mapa de regalías y pregunta en tu sociedad de gestión cómo designar beneficiarios. Nos escuchamos en la próxima lección.
 
 ## Módulo 11. Tu futuro
 

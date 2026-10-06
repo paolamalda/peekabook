@@ -40,7 +40,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M1 U03 · Los gastos del turno que no ves: multiplica tus gastos pequeños por 15 turnos y decide cuáles valen la pena.
 - M1 U04 · Aparta primero: aparta el día de pago, aunque sea poco; lo que esperas a que sobre, no sobra.
 - M1 U05 · Dinero y estrés: cómo hablarlo en casa: el dinero se habla con números y en un momento fijo, no a la salida del turno ni en medio de un pleito.
-- M1 U06 · Compra inteligente: precio por unidad, publicidad y pagos chiquitos: compara el precio por unidad, suma el costo total de los abonos y las suscripciones, y espera un día antes de comprar lo que no planeaste.
+- M1 U06 · Compra inteligente: precio por unidad, publicidad y pagos chiquitos: compara el precio por unidad y suma el costo total de abonos y suscripciones. Si no planeaste una compra, espera un día antes de hacerla.
 
 **Casos**
 
@@ -74,8 +74,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M2 U02 · Cobrar y pagar sin perder dinero: transfiere revisando el nombre, guarda tu comprobante y carga poco efectivo en el turno.
 - M2 U03 · Quién te protege y dónde reclamar: reclama por escrito con folio; si no te resuelven, la CONDUSEF te ayuda sin costo.
 - M2 U04 · ¿A quién le crees? Información confiable y cambios que te afectan: confirma en la fuente oficial antes de creer o reenviar, y cuando cambie la economía, ajusta tu plan con calma.
-- M2 U05 · El dinero pierde valor: inflación e interés compuesto: el dinero en efectivo pierde valor con la inflación; busca que tu ahorro gane al menos lo que suben los precios y paga pronto las deudas, que crecen con interés compuesto.
-- M2 U06 · Tu dinero a trabajar: primeros pasos para invertir: invierte solo después de tu fondo y tus deudas caras, en lo que puedas explicar, con una meta y un plazo, y poco a poco.
+- M2 U05 · El dinero pierde valor: inflación e interés compuesto: el dinero en efectivo pierde valor con la inflación. Busca que tu ahorro gane al menos lo que suben los precios. Y paga pronto las deudas, que crecen con interés compuesto.
+- M2 U06 · Tu dinero a trabajar: primeros pasos para invertir: invierte solo después de tener tu fondo y pagar tus deudas caras. Hazlo poco a poco, con una meta y un plazo, en lo que puedas explicar.
 
 **Casos**
 
@@ -110,6 +110,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M3 U03 · Prestamistas y «gota a gota»: un préstamo sin contrato, con pagos diarios y cobro con amenazas es una trampa; busca otra salida.
 - M3 U04 · Tu plan para salir de deudas: todo lo extra a una deuda, lo mínimo a las demás y ningún préstamo nuevo.
 - M3 U05 · Apuestas en línea: cuando el juego se vuelve deuda: apostar para recuperar lo perdido y apostar con crédito son las dos señales de que el juego ya es un problema.
+- M3 U06 · Préstamo de nómina, FONACOT y adelantos: lo que te descuentan: un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito.
+- M3 U07 · Empeñar sin perder tu prenda: empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta.
 
 **Casos**
 
@@ -208,7 +210,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M6 U02 · Apps «montadeudas»: si una app de préstamos pide tus contactos y fotos, no la instales; si ya caíste, no pagues la extorsión y denuncia.
 - M6 U03 · Extorsión telefónica: cuelga, localiza a tu familiar por otro medio y denuncia; nunca pagues por miedo.
 - M6 U04 · Si ya te pasó: qué hacer: bloquea, reclama con folio, CONDUSEF, 088 y denuncia; sin vergüenza.
-- M6 U05 · Tu identidad y que dejen de llamarte: revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS; si una llamada sigue después, casi seguro es fraude.
+- M6 U05 · Tu identidad y que dejen de llamarte: revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS. Si una llamada sigue después, casi seguro es fraude.
 - M6 U06 · Voces y videos falsos con inteligencia artificial: si una voz conocida te pide dinero con urgencia, cuelga y llama tú; si no dice la palabra clave, no es tu familiar.
 
 **Casos**
@@ -243,9 +245,11 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M7 U02 · Tu salud y la de tu familia: estar preparado: prepara hoy a dónde ir, tus documentos y un dinero para salud.
 - M7 U03 · Seguro de vida, gastos funerarios y beneficiarios: con poco puedes proteger a tu familia; revisa tus seguros y deja claros tus beneficiarios.
 - M7 U04 · Si llega un desastre: sismo, inundación o incendio: documentos a salvo, dinero en una cuenta y un plan familiar: así te recuperas más rápido.
-- M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú: si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo.
-- M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento: nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio.
-- M7 U07 · Tu casa, tu tierra y lo que se hereda: revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval.
+- M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú: si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS, según su edad. O llevarle al centro de salud, sin costo. Pregunta antes qué cubre y desde cuándo.
+- M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento: nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento. Así tu familia recibe lo tuyo sin juicio.
+- M7 U07 · Tu casa, tu tierra y lo que se hereda: revisa a nombre de quién están tu casa y tu tierra. Heredar no paga ISR, pero escriturar sí cuesta. Tu familia no paga tus deudas con su dinero, salvo quien firmó como aval.
+- M7 U08 · Tu dinero, tu decisión: violencia económica en casa: decidir juntos no es entregar todo; tu sueldo, tu cuenta y tus documentos son tuyos, y hay ayuda sin costo para orientarte.
+- M7 U09 · Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos: la pensión es un derecho de tus hijos, no un favor. Quien la recibe puede pedirla con orientación sin costo. Quien la paga debe hacerlo con comprobante.
 
 **Casos**
 
@@ -277,7 +281,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M8 U01 · Ahorro para el retiro por tu cuenta: con 50 o 100 pesos por quincena en tu AFORE, empiezas tu retiro hoy.
 - M8 U02 · Un ingreso extra en tus días de descanso: calcula tu ganancia por hora, empieza sin deudas y cuida tu descanso.
-- M8 U03 · Tu plan de una página: tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+- M8 U03 · Tu plan de una página: tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 **Casos**
 

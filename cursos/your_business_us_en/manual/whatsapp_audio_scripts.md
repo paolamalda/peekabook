@@ -31,7 +31,7 @@ Hi. Today's topic: Is your business making money or just selling? Lupita sells t
 
 ```
 *M1 U02 · Keep business money separate from home money*
-Separate the money and pay yourself a salary; you'll know whether your business makes money and your expenses will be ready for taxes.
+Separate the money and pay yourself a salary. You'll know whether your business makes money, and your expenses will be ready for taxes.
 
 • Two pockets: business and home.
 • Every payment goes into the business.
@@ -44,7 +44,7 @@ Lesson: [to be defined]
 
 **Audio** (110 words, about 46 seconds)
 
-Hi. Today's topic: Keep business money separate from home money. Lupita gets paid by Zelle and in cash into the same account where her part-time paycheck lands. She pays rent and ingredients from there. In this lesson you'll see how to separate without making it complicated. Separate the money and pay yourself a salary; you'll know whether your business makes money and your expenses will be ready for taxes. Remember: Two pockets: business and home. Every payment goes into the business. Only your salary goes home. Your step this week: This week, choose your business account and link your payment apps to it. Talk to you in the next lesson.
+Hi. Today's topic: Keep business money separate from home money. Lupita gets paid by Zelle and in cash into the same account where her part-time paycheck lands. She pays rent and ingredients from there. In this lesson you'll see how to separate without making it complicated. Separate the money and pay yourself a salary. You'll know whether your business makes money, and your expenses will be ready for taxes. Remember: Two pockets: business and home. Every payment goes into the business. Only your salary goes home. Your step this week: This week, choose your business account and link your payment apps to it. Talk to you in the next lesson.
 
 ### M1 U03 · Pay yourself a salary
 
@@ -115,7 +115,7 @@ Hi. Today's topic: Online betting: business money isn't for gambling. Javier sta
 
 ```
 *M1 U06 · Your business, your decisions: your money in your name*
-Your skills are your business's capital; keep your account, your payments and your decisions in your name, and if someone controls your money, get help.
+Your skills are your business's capital. Keep your account, your payments and your decisions in your name. If someone controls your money, get help.
 
 • Your skills count.
 • Account and payments in your name.
@@ -126,9 +126,9 @@ Your step this week: List your skills and check that your business account and p
 Lesson: [to be defined]
 ```
 
-**Audio** (129 words, about 54 seconds)
+**Audio** (128 words, about 53 seconds)
 
-Hi. Today's topic: Your business, your decisions: your money in your name. Lupita cooks every day, but her partner collects the orders in his own app and decides how the money is spent. When she wanted to buy an industrial pot, he said there was no money. In this lesson you'll see how to keep your decisions and your money in your name. Your skills are your business's capital; keep your account, your payments and your decisions in your name, and if someone controls your money, get help. Remember: Your skills count. Account and payments in your name. Controlled money = get help. Your step this week: List your skills and check that your business account and payments are in your name. Talk to you in the next lesson.
+Hi. Today's topic: Your business, your decisions: your money in your name. Lupita cooks every day, but her partner collects the orders in his own app and decides how the money is spent. When she wanted to buy an industrial pot, he said there was no money. In this lesson you'll see how to keep your decisions and your money in your name. Your skills are your business's capital. Keep your account, your payments and your decisions in your name. If someone controls your money, get help. Remember: Your skills count. Account and payments in your name. Controlled money = get help. Your step this week: List your skills and check that your business account and payments are in your name. Talk to you in the next lesson.
 
 ## Module 2. Costs and price
 
@@ -323,7 +323,7 @@ Lesson: [to be defined]
 
 **Audio** (107 words, about 45 seconds)
 
-Hi. Today's topic: Cash, card, apps or payment link. Don Ramón's customers want to pay by card and with apps. He's offered a "at no cost" card reader, but he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare. Compare the total monthly cost with your real sales, not just the percentage. Remember: Compare total cost. Ask about deposits and chargebacks. Fees are a business cost. Your step this week: Write down how much you take in cards each month and compare at least two options with your numbers. Talk to you in the next lesson.
+Hi. Today's topic: Cash, card, apps or payment link. Don Ramón's customers want to pay by card and with apps. He's offered a card reader "at no cost." But he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare. Compare the total monthly cost with your real sales, not just the percentage. Remember: Compare total cost. Ask about deposits and chargebacks. Fees are a business cost. Your step this week: Write down how much you take in cards each month and compare at least two options with your numbers. Talk to you in the next lesson.
 
 ### M4 U02 · Safe app and transfer payments
 
@@ -407,9 +407,9 @@ Your step this week: Look up in CalGold (or your state's office) which licenses 
 Lesson: [to be defined]
 ```
 
-**Audio** (121 words, about 50 seconds)
+**Audio** (120 words, about 50 seconds)
 
-Hi. Today's topic: Numbers and permits: EIN, ITIN and licenses. Lupita wants to sell tamales at a market and they ask for her "license, health permit and seller's permit." She doesn't know where to start or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits. The EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs. Remember: No-cost EIN at irs.gov. Seller's permit at no cost. Licenses by city and trade. Your step this week: Look up in CalGold (or your state's office) which licenses your type of business needs in your city. Talk to you in the next lesson.
+Hi. Today's topic: Numbers and permits: EIN, ITIN and licenses. Lupita wants to sell tamales at a market. They ask for her "license, health permit and seller's permit." She doesn't know where to start, or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits. The EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs. Remember: No-cost EIN at irs.gov. Seller's permit at no cost. Licenses by city and trade. Your step this week: Look up in CalGold (or your state's office) which licenses your type of business needs in your city. Talk to you in the next lesson.
 
 ### M5 U03 · Your federal taxes as an owner
 
@@ -417,7 +417,7 @@ Hi. Today's topic: Numbers and permits: EIN, ITIN and licenses. Lupita wants to 
 
 ```
 *M5 U03 · Your federal taxes as an owner*
-As an owner you pay 15.3% for Social Security and Medicare, plus income tax; set aside 25% to 30% of your profit and deduct your expenses with receipts.
+As an owner you pay 15.3% for Social Security and Medicare, plus income tax. Set aside 25% to 30% of your profit and deduct your expenses with receipts.
 
 • 15.3% self-employment tax.
 • Plus income tax.
@@ -430,7 +430,7 @@ Lesson: [to be defined]
 
 **Audio** (111 words, about 46 seconds)
 
-Hi. Today's topic: Your federal taxes as an owner. Daniela made $14,000 in profit in her first year selling jewelry. In April she found out she owed the IRS more than $2,000 and hadn't set anything aside. In this lesson you'll see why and how to prepare. As an owner you pay 15.3% for Social Security and Medicare, plus income tax; set aside 25% to 30% of your profit and deduct your expenses with receipts. Remember: 15.3% self-employment tax. Plus income tax. Deductions with receipts. Your step this week: Open an account for taxes and decide what percentage of each profit you'll set aside. Talk to you in the next lesson.
+Hi. Today's topic: Your federal taxes as an owner. Daniela made $14,000 in profit in her first year selling jewelry. In April she found out she owed the IRS more than $2,000 and hadn't set anything aside. In this lesson you'll see why and how to prepare. As an owner you pay 15.3% for Social Security and Medicare, plus income tax. Set aside 25% to 30% of your profit and deduct your expenses with receipts. Remember: 15.3% self-employment tax. Plus income tax. Deductions with receipts. Your step this week: Open an account for taxes and decide what percentage of each profit you'll set aside. Talk to you in the next lesson.
 
 ### M5 U04 · Quarterly payments and 1099 forms
 
@@ -535,9 +535,9 @@ Your step this week: If you have a credit offer, ask for the APR and total repay
 Lesson: [to be defined]
 ```
 
-**Audio** (107 words, about 45 seconds)
+**Audio** (111 words, about 46 seconds)
 
-Hi. Today's topic: The total cost: APR, fees and guarantees. Don Ramón is offered two options for $10,000: a 12-month credit union loan at 14% APR, and an advance with a "factor of 1.35." They sound similar, but they're not. In this lesson you'll see how to compare them. Compare APR and total repayment, not the daily payment or how fast you get the money. Remember: Lower APR, cheaper. Total repayment. Ask about fees and guarantees. Your step this week: If you have a credit offer, ask for the APR and total repayment in writing and fill in the table. Talk to you in the next lesson.
+Hi. Today's topic: The total cost: APR, fees and guarantees. Don Ramón is offered two options for $10,000. One is a 12-month credit union loan at 14% APR. The other is an advance with a "factor of 1.35." They sound similar, but they're not. In this lesson you'll see how to compare them. Compare APR and total repayment, not the daily payment or how fast you get the money. Remember: Lower APR, cheaper. Total repayment. Ask about fees and guarantees. Your step this week: If you have a credit offer, ask for the APR and total repayment in writing and fill in the table. Talk to you in the next lesson.
 
 ### M6 U04 · Don't mix debts, and be careful about cosigning
 
@@ -579,7 +579,7 @@ Lesson: [to be defined]
 
 **Audio** (138 words, about 58 seconds)
 
-Hi. Today's topic: Cosigner, guarantor, authorized user and reference: what are you signing? Don Ramón's son asks him to cosign a car loan, the bank asks Daniela for a personal guarantee on her LLC's loan, and a collector called Javier about a coworker's debt. In this lesson you'll see what each role means. Cosigners and guarantors pay if the other person or the business doesn't; a reference only gives their details. Read what you're signing and sign only if you could pay that debt. Remember: Cosigner and guarantor: pay if the other doesn't. Reference: details only; you're not charged. Sign only if you could pay. Your step this week: Before signing for someone or for your business, ask what role you have and decide only if you could pay that debt. Talk to you in the next lesson.
+Hi. Today's topic: Cosigner, guarantor, authorized user and reference: what are you signing? Don Ramón's son asks him to cosign a car loan. The bank asks Daniela for a personal guarantee on her LLC's loan. And a collector called Javier about a coworker's debt. In this lesson you'll see what each role means. Cosigners and guarantors pay if the other person or the business doesn't; a reference only gives their details. Read what you're signing and sign only if you could pay that debt. Remember: Cosigner and guarantor: pay if the other doesn't. Reference: details only; you're not charged. Sign only if you could pay. Your step this week: Before signing for someone or for your business, ask what role you have and decide only if you could pay that debt. Talk to you in the next lesson.
 
 ## Module 7. Protect your business
 
@@ -705,9 +705,9 @@ Your step this week: This week agree on a code word with your family and post yo
 Lesson: [to be defined]
 ```
 
-**Audio** (111 words, about 46 seconds)
+**Audio** (112 words, about 47 seconds)
 
-Hi. Today's topic: AI scams: fake voices, videos and messages. Don Ramón got a call from "his meat supplier," in the supplier's own voice, asking him to pay the invoice to a new account by Zelle. It was a cloned voice. In this lesson you'll see how to spot it. A familiar voice or face is no longer proof; confirm any request for money through a channel you choose. Remember: The voice may be fake. Confirm another way. Code word. Your step this week: This week agree on a code word with your family and post your only payment method on your social media. Talk to you in the next lesson.
+Hi. Today's topic: AI scams: fake voices, videos and messages. Don Ramón got a call from "his meat supplier," in the supplier's own voice. He was asked to pay the invoice to a new account by Zelle. It was a cloned voice. In this lesson you'll see how to spot it. A familiar voice or face is no longer proof; confirm any request for money through a channel you choose. Remember: The voice may be fake. Confirm another way. Code word. Your step this week: This week agree on a code word with your family and post your only payment method on your social media. Talk to you in the next lesson.
 
 ### M7 U07 · If disaster strikes: your business ready
 
@@ -751,7 +751,7 @@ Lesson: [to be defined]
 
 **Audio** (107 words, about 45 seconds)
 
-Hi. Today's topic: Hiring help. Lupita can't keep up with weekend orders anymore. She wants her neighbor to help and to pay her $15 an hour in cash "as a contractor." In this lesson you'll see why that can get her in trouble. Classify your help correctly, pay at least minimum wage and figure the real cost before hiring. Remember: Employee or contractor: it isn't chosen for convenience. Minimum wage. Real cost with taxes and insurance. Your step this week: If you're thinking of hiring, decide whether it would be an employee or a contractor and figure the real cost. Talk to you in the next lesson.
+Hi. Today's topic: Hiring help. Lupita can't keep up with weekend orders anymore. She wants her neighbor to help, and to pay her $15 an hour in cash "as a contractor." In this lesson you'll see why that can get her in trouble. Classify your help correctly, pay at least minimum wage and figure the real cost before hiring. Remember: Employee or contractor: it isn't chosen for convenience. Minimum wage. Real cost with taxes and insurance. Your step this week: If you're thinking of hiring, decide whether it would be an employee or a contractor and figure the real cost. Talk to you in the next lesson.
 
 ### M8 U02 · Selling online and on platforms
 
@@ -822,7 +822,7 @@ Hi. Today's topic: Stress, business and family. Lupita cooks Monday to Sunday, a
 
 ```
 *M8 U05 · Your one-page business plan and how to pitch it*
-Your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve.
+Your plan fits on one page and your pitch in two minutes. Use numbers from your records and no-cost advice, and seek financing from verified sources. If you hear no, ask what to improve.
 
 • One page, seven questions.
 • Two minutes, five parts.
@@ -835,7 +835,7 @@ Lesson: [to be defined]
 
 **Audio** (121 words, about 50 seconds)
 
-Hi. Today's topic: Your one-page business plan and how to pitch it. Daniela wants a microloan to buy seasonal inventory, and they ask for "a business plan and a short pitch." She has never made one. In this lesson you'll build yours. Your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve. Remember: One page, seven questions. Two minutes, five parts. No-cost advice; no one charges to "guarantee" a loan. Your step this week: Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE. Talk to you in the next lesson.
+Hi. Today's topic: Your one-page business plan and how to pitch it. Daniela wants a microloan to buy seasonal inventory, and they ask for "a business plan and a short pitch." She has never made one. In this lesson you'll build yours. Your plan fits on one page and your pitch in two minutes. Use numbers from your records and no-cost advice, and seek financing from verified sources. If you hear no, ask what to improve. Remember: One page, seven questions. Two minutes, five parts. No-cost advice; no one charges to "guarantee" a loan. Your step this week: Fill in your one-page business plan and book a no-cost appointment with an SBDC or SCORE. Talk to you in the next lesson.
 
 ### M8 U06 · Your business and its surroundings: competition, economy, community and rule changes
 
@@ -858,6 +858,27 @@ Lesson: [to be defined]
 
 Hi. Today's topic: Your business and its surroundings: competition, economy, community and rule changes. Two new food trucks arrived on Don Ramón's street, the county health permit went up and an IRS rule changed. Don Ramón found out late about all of it. In this lesson you'll see how to stay informed without getting overwhelmed. Watch competition, the economy, laws and your community through reliable sources, and adjust your plan in time. Remember: Four things to watch. Official sources. 15 minutes a week. Your step this week: Set aside 15 minutes a week to check competition, official notices and your costs. Talk to you in the next lesson.
 
+### M8 U07 · Pay advances and loans to your employees
+
+**WhatsApp**
+
+```
+*M8 U07 · Pay advances and loans to your employees*
+An advance to your team comes out of your cash flow. Put it in writing and get a signed authorization. Don't let pay drop below minimum wage, and keep a monthly fund.
+
+• In writing and signed.
+• Pay doesn't drop below minimum.
+• A monthly fund for advances.
+
+Your step this week: Write your advances policy in four rules and check what your state requires to deduct from pay.
+
+Lesson: [to be defined]
+```
+
+**Audio** (119 words, about 50 seconds)
+
+Hi. Today's topic: Pay advances and loans to your employees. Don Ramón has two helpers on his food truck. He advances them money "when they need it" and then deducts whatever he remembers. One of them complained that a check arrived almost at zero. An advance to your team comes out of your cash flow. Put it in writing and get a signed authorization. Don't let pay drop below minimum wage, and keep a monthly fund. Remember: In writing and signed. Pay doesn't drop below minimum. A monthly fund for advances. Your step this week: Write your advances policy in four rules and check what your state requires to deduct from pay. Talk to you in the next lesson.
+
 ## Module 9. Your future
 
 ### M9 U01 · Your retirement when you work for yourself
@@ -879,7 +900,7 @@ Lesson: [to be defined]
 
 **Audio** (101 words, about 42 seconds)
 
-Hi. Today's topic: Your retirement when you work for yourself. Don Ramón is 60. He thinks "the food truck is his retirement," but he doesn't know how much he'd get from Social Security or whether it's enough. In this lesson you'll see your options. Keep your retirement separate from your business; check your Social Security and put something into a retirement account every month. Remember: Retirement separate from the business. Check ssa.gov. A fixed contribution every month. Your step this week: Create your ssa.gov account, check your estimate and set a monthly retirement contribution. Talk to you in the next lesson.
+Hi. Today's topic: Your retirement when you work for yourself. Don Ramón is 60. He thinks "the food truck is his retirement." But he doesn't know how much he'd get from Social Security or whether it's enough. In this lesson you'll see your options. Keep your retirement separate from your business; check your Social Security and put something into a retirement account every month. Remember: Retirement separate from the business. Check ssa.gov. A fixed contribution every month. Your step this week: Create your ssa.gov account, check your estimate and set a monthly retirement contribution. Talk to you in the next lesson.
 
 ### M9 U02 · If the business changes or you're not there
 
@@ -898,9 +919,9 @@ Your step this week: Put together your business folder and tell someone you trus
 Lesson: [to be defined]
 ```
 
-**Audio** (106 words, about 44 seconds)
+**Audio** (105 words, about 44 seconds)
 
-Hi. Today's topic: If the business changes or you're not there. Lupita was sick for three weeks and her daughter didn't know which supplier to pay, where the accounts were or how to collect on orders. In this lesson you'll see how to prepare your business for changes. Put in one folder what someone would need to keep your business running, or to close it, without you. Remember: Pause, close or hand over in an orderly way. Business folder. Never written passwords. Your step this week: Put together your business folder and tell someone you trust where it is. Talk to you in the next lesson.
+Hi. Today's topic: If the business changes or you're not there. Lupita was sick for three weeks. Her daughter didn't know which supplier to pay, where the accounts were or how to collect on orders. In this lesson you'll see how to prepare your business for changes. Put in one folder what someone would need to keep your business running, or to close it, without you. Remember: Pause, close or hand over in an orderly way. Business folder. Never written passwords. Your step this week: Put together your business folder and tell someone you trust where it is. Talk to you in the next lesson.
 
 ### M9 U03 · Your one-page plan
 
@@ -908,7 +929,7 @@ Hi. Today's topic: If the business changes or you're not there. Lupita was sick 
 
 ```
 *M9 U03 · Your one-page plan*
-Your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
+Your plan fits on one page. Review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
 
 • One page.
 • Where you can see it.
@@ -921,7 +942,7 @@ Lesson: [to be defined]
 
 **Audio** (98 words, about 41 seconds)
 
-Hi. Today's topic: Your one-page plan. Daniela learned a lot, but it's in scattered notes. She wants one page she can pin next to her worktable. In this lesson you'll put together your one-page plan. Your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder. Remember: One page. Where you can see it. Quarterly review. Your step this week: Fill in your one-page plan and set the date of your first review. Talk to you in the next lesson.
+Hi. Today's topic: Your one-page plan. Daniela learned a lot, but it's in scattered notes. She wants one page she can pin next to her worktable. In this lesson you'll put together your one-page plan. Your plan fits on one page. Review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder. Remember: One page. Where you can see it. Quarterly review. Your step this week: Fill in your one-page plan and set the date of your first review. Talk to you in the next lesson.
 
 ### M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes
 
@@ -929,7 +950,7 @@ Hi. Today's topic: Your one-page plan. Daniela learned a lot, but it's in scatte
 
 ```
 *M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes*
-With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
+With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court. Inheriting pays no federal tax, except for huge estates. A large foreign inheritance is reported on Form 3520.
 
 • POD and TOD on your accounts.
 • Transfer on death deed for your home.
@@ -940,9 +961,9 @@ Your step this week: Check whether your accounts have a POD or TOD beneficiary a
 Lesson: [to be defined]
 ```
 
-**Audio** (153 words, about 64 seconds)
+**Audio** (152 words, about 63 seconds)
 
-Hi. Today's topic: If you're not there: beneficiary accounts, your home, digital access and taxes. Don Ramón has his food truck, a business account, a house in Sacramento and land in Michoacán. His daughter believes that if he dies "the IRS takes half" and the house will spend years in court. In this lesson you'll see what's true and what to prepare. With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520. Remember: POD and TOD on your accounts. Transfer on death deed for your home. Form 3520 if you inherit from abroad. Your step this week: Check whether your accounts have a POD or TOD beneficiary and list what you own in Mexico. Talk to you in the next lesson.
+Hi. Today's topic: If you're not there: beneficiary accounts, your home, digital access and taxes. Don Ramón has his food truck, a business account, a house in Sacramento and land in Michoacán. His daughter believes that if he dies "the IRS takes half" and the house will spend years in court. In this lesson you'll see what's true and what to prepare. With beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court. Inheriting pays no federal tax, except for huge estates. A large foreign inheritance is reported on Form 3520. Remember: POD and TOD on your accounts. Transfer on death deed for your home. Form 3520 if you inherit from abroad. Your step this week: Check whether your accounts have a POD or TOD beneficiary and list what you own in Mexico. Talk to you in the next lesson.
 
 ## Monthly commitment reminders
 

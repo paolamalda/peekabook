@@ -39,14 +39,18 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Abono:** pago parcial de una deuda.
 - **Autoexclusión:** opción para bloquear tu propia cuenta de apuestas por un tiempo.
 - **Avalancha:** método para pagar primero la deuda más cara.
+- **Avalúo:** el valor que la casa de empeño le pone a tu prenda.
 - **Bola de nieve:** método para pagar primero la deuda más chica.
 - **CAT:** Costo Anual Total: lo que cuesta un crédito al año, con intereses y comisiones.
+- **Demasía:** lo que sobra si venden tu prenda en más de lo que debías; es tuya.
 - **Deuda:** dinero que debes pagar.
 - **Empeño:** préstamo en el que dejas algo de valor como garantía.
 - **Juego compulsivo:** cuando no puedes dejar de apostar aunque te cause problemas.
 - **Precio de contado:** lo que cuesta si pagas todo de una vez.
+- **Préstamo de nómina:** crédito del banco donde cobras que se paga con descuentos de tu depósito.
 - **Préstamo gota a gota:** préstamo informal de pagos diarios con intereses muy altos, cobrado con amenazas.
 - **Reestructura:** cambio de condiciones de una deuda para poder pagarla.
+- **Refrendo:** pago de intereses para alargar el plazo de un empeño.
 - **Saldo:** lo que debes hoy.
 - **Usura:** cobrar intereses abusivos.
 
@@ -94,6 +98,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 - **Aplazamiento de pagos:** permiso del banco para pagar después sin recargos en una emergencia.
 - **Beneficiario:** persona que recibe el dinero de un seguro o una cuenta si tú faltas.
+- **Deudor alimentario moroso:** quien deja de pagar una pensión fijada por un juez durante 60 días o más.
 - **Escriturar:** pasar legalmente una casa o terreno a tu nombre ante notario.
 - **Fondo de emergencia:** dinero apartado solo para imprevistos.
 - **Herencia:** bienes y derechos que recibe una persona cuando otra fallece.
@@ -101,10 +106,13 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Lista de sucesión:** lista en la que la persona ejidataria nombra quién hereda sus derechos; se registra en el Registro Agrario Nacional.
 - **Medicamento genérico:** medicina con la misma sustancia que la de marca, que suele costar menos.
 - **Mochila de emergencia:** bolsa con documentos, dinero y artículos básicos para salir rápido.
+- **Pensión alimenticia:** dinero para cubrir comida, casa, salud y escuela de los hijos.
 - **Póliza:** contrato de un seguro.
 - **Seguro de Salud para la Familia:** seguro voluntario del IMSS que da servicio médico a quien no tiene seguridad social; se paga una cuota al año por persona según su edad.
 - **Testamento:** documento ante notario en el que dices quién recibe tus bienes y quién cuida a tus hijos menores.
 - **Tutor:** persona que cuida a un menor de edad y sus intereses.
+- **Violencia económica:** controlar o limitar el dinero de otra persona.
+- **Violencia patrimonial:** dañar, quitar o esconder bienes o documentos de otra persona.
 
 ## Tu futuro
 

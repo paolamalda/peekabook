@@ -72,7 +72,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M2 U01 · Tus derechos: lo que la ley dice de tu trabajo: tus derechos existen aunque no tengas contrato; conocerlos te ayuda a platicarlos con calma y con números.
 - M2 U02 · ¿Cuánto cobrar? Tu tarifa: calcula lo que te queda después del camino y cobra aparte las tareas extra; pide ajuste cada año.
 - M2 U03 · Acuerdos claros y qué hacer si no te pagan: pon tus acuerdos por escrito, aunque sea por mensaje, y guarda las pruebas de tus pagos.
-- M2 U04 · Cobrar sin perder: tu cuenta y las transferencias: cobrar por transferencia es más seguro y deja prueba de tu pago; para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
+- M2 U04 · Cobrar sin perder: tu cuenta y las transferencias: cobrar por transferencia es más seguro y deja prueba de tu pago. Para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
 
 **Casos**
 
@@ -139,7 +139,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M4 U02 · Prestar a la familia sin perder: presta solo lo que tienes y podrías perder, por escrito y con fechas; nunca te endeudes para prestar.
 - M4 U03 · Aval, obligado solidario y referencia: ¿qué firmas?: aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Firma solo si podrías pagar esa deuda completa.
 - M4 U04 · Decir que no sin culpa y hablar de dinero en casa: decir que no a una petición no es decir que no a la persona; reconoce, pon tu límite y ofrece otra ayuda.
-- M4 U05 · Tu dinero a tu nombre: autonomía y violencia económica: tener una cuenta, documentos y un fondo a tu nombre es tu derecho; si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
+- M4 U05 · Tu dinero a tu nombre: autonomía y violencia económica: tener una cuenta, documentos y un fondo a tu nombre es tu derecho. Si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
+- M4 U06 · Pensión alimenticia: lo que les toca a tus hijos y nietas: la pensión es un derecho de las niñas. Pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos.
 
 **Casos**
 
@@ -169,11 +170,13 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M5 U01 · ¿Cuánto debes en total?: escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran; lo que ves, lo puedes arreglar.
+- M5 U01 · ¿Cuánto debes en total?: escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran. Lo que ves, lo puedes arreglar.
 - M5 U02 · Lo que de verdad cuesta un préstamo: compara préstamos por el total que pagarás y por el CAT, no por el pago semanal.
-- M5 U03 · Prestamistas, «gota a gota» y apps que amenazan: nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos; si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
-- M5 U04 · Tu plan para salir de deudas: paga lo mínimo en todas, pon el extra en una sola y, al terminarla, pasa ese pago a la siguiente; no tomes deudas nuevas mientras sales.
+- M5 U03 · Prestamistas, «gota a gota» y apps que amenazan: nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos. Si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
+- M5 U04 · Tu plan para salir de deudas: paga lo mínimo en todas y pon el extra en una sola. Al terminarla, pasa ese pago a la siguiente. No tomes deudas nuevas mientras sales.
 - M5 U05 · Tu historial de crédito sin miedo: estar en Buró no es malo; revisa tu reporte cada año sin costo y paga a tiempo para construir buen historial.
+- M5 U06 · Adelantos de la patrona y préstamo de nómina: un adelanto es una deuda con quien te contrata; ponlo por escrito, con descuento fijo y fecha de término.
+- M5 U07 · Empeñar sin perder tu prenda: empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta.
 
 **Casos**
 
@@ -203,11 +206,11 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M6 U01 · Cuando la casa te inscribe al IMSS: si una casa te inscribe al IMSS ganas médico, incapacidades, guardería y semanas para tu pensión; cada casa puede inscribirte por los días que trabajas con ella.
-- M6 U02 · IMSS por tu cuenta: inscríbete tú y paga tu cuota: si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia por persona y edad; da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
-- M6 U03 · Sin seguridad social: IMSS-Bienestar y tu prevención: sin seguridad social puedes atenderte sin costo en el centro de salud; un chequeo al año te ayuda a no perder días de trabajo.
+- M6 U01 · Cuando la casa te inscribe al IMSS: si una casa te inscribe al IMSS, ganas médico, incapacidades, guardería y semanas para tu pensión. Cada casa puede inscribirte por los días que trabajas con ella.
+- M6 U02 · IMSS por tu cuenta: inscríbete tú y paga tu cuota: si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia, por persona y edad. Da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
+- M6 U03 · Sin seguridad social: IMSS-Bienestar y tu prevención: sin seguridad social, puedes atenderte sin costo en el centro de salud. Un chequeo al año te ayuda a no perder días de trabajo.
 - M6 U04 · Cuida tu cuerpo, cuida tu ingreso: no mezcles químicos, usa guantes y escalera firme; si no hay condiciones seguras, dilo antes de hacerlo.
-- M6 U05 · Seguros chiquitos: vida y gastos funerarios: un seguro chico o un plan funerario evita que tu familia se endeude; verifica la empresa y nombra a tus beneficiarios con nombre completo.
+- M6 U05 · Seguros chiquitos: vida y gastos funerarios: un seguro chico o un plan funerario evita que tu familia se endeude. Verifica la empresa y nombra a tus beneficiarios con nombre completo.
 
 **Casos**
 
@@ -238,9 +241,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M7 U01 · «Mamá, estoy en problemas»: llamadas y mensajes falsos: si te piden dinero con prisa y miedo, cuelga y llama tú a la persona o al banco, al número que ya tienes.
-- M7 U02 · Falsos apoyos, falsos trabajos y cobros por trámites: los registros a programas no tienen costo y nadie serio te pide depósito para darte trabajo; verifica en sitios que terminan en gob.mx.
+- M7 U02 · Falsos apoyos, falsos trabajos y cobros por trámites: los registros a programas no tienen costo, y nadie serio te pide depósito para darte trabajo. Verifica en sitios que terminan en gob.mx.
 - M7 U03 · Tu celular con candado: NIP en tu celular, verificación en dos pasos y alertas del banco; si lo pierdes, bloquea todo el mismo día.
-- M7 U04 · Tus datos, tu identidad y los registros para que no te molesten: entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS; si usan tu identidad, reclama y denuncia.
+- M7 U04 · Tus datos, tu identidad y los registros para que no te molesten: entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS. Si usan tu identidad, reclama y denuncia.
 
 **Casos**
 
@@ -274,8 +277,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U02 · Tu Afore: encuéntrala y ahórrale desde 50 pesos: busca tu Afore con tu CURP; aunque cobres por día puedes ahorrar en ella desde 50 pesos en tiendas y nombrar a tus beneficiarias.
 - M8 U03 · Las becas de tus hijas y nietas, sin coyotes: las becas universales no necesitan coyotes; regístralas en el sitio oficial y acuerden en familia para qué se usa el dinero.
 - M8 U04 · Sin juicio: beneficiarias en todo lo que tienes: nombra beneficiarias en tu cuenta, tu Afore, tus seguros y tu contrato; así tu familia recibe tu dinero sin juicio.
-- M8 U05 · Tu casa, tu tierra y tu testamento: revisa a nombre de quién están tu casa y tu tierra; regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
-- M8 U06 · Heredar sin sustos: deudas, impuestos y la plática en familia: heredar no paga ISR y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval; escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
+- M8 U05 · Tu casa, tu tierra y tu testamento: revisa a nombre de quién están tu casa y tu tierra. Regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
+- M8 U06 · Heredar sin sustos: deudas, impuestos y la plática en familia: heredar no paga ISR, y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval. Escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
 
 **Casos**
 
@@ -307,8 +310,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M9 U01 · De sobrevivir a crecer: lo que ya sabes vale: lo que ya sabes hacer vale dinero; crecer es encontrar qué valoran las familias y cobrarlo aparte, poco a poco.
 - M9 U02 · Ofrece servicios extra y consigue clientas: ponle precio a tu servicio restando productos y pasajes, pide recomendaciones a tus casas y cuida tu descanso.
-- M9 U03 · Apps y agencias de limpieza: ¿cuánto te queda?: compara por lo que te queda por hora después de comisiones y pasajes; una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
-- M9 U04 · Tu plan de una página y tu compromiso: tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+- M9 U03 · Apps y agencias de limpieza: ¿cuánto te queda?: compara por lo que te queda por hora después de comisiones y pasajes. Una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
+- M9 U04 · Tu plan de una página y tu compromiso: tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 **Casos**
 

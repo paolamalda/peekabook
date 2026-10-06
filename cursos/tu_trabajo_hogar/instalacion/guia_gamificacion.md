@@ -4,15 +4,12 @@ Esta guía es para Moodle 4.5 con Level Up (block_xp) y el complemento Certifica
 
 El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificación perfecta. Nunca se muestra el nombre de nadie en una tabla.
 
-## 1. Qué hay en cada módulo
+## 1. Qué hay en cada parte
 
 | Actividad | Cuántas | Finalización |
 |---|---|---|
-| Libro "Lecciones del Módulo N" | 1 por módulo (9) | Ver |
-| Actividad H5P "MN UYY · ¿Qué harías?" | 1 por lección (45) | Recibir calificación |
-| Cuestionario "Autoevaluación del Módulo N" | 1 por módulo (9) | Calificación aprobatoria de 70% |
-
-**Configuración de cada actividad H5P:** sin botón de descarga, con botón de derechos de autor e incrustar desactivado; seguimiento de intentos con "Calificación más alta"; finalización "El estudiante debe recibir una calificación".
+| Libro por lección (con la práctica incrustada) | 45 | Ver |
+| Cuestionario "Autoevaluación del Módulo N" | 1 por parte (9) | Calificación aprobatoria de 70% |
 
 **Las autoevaluaciones:** usan el banco de 135 preguntas con tres opciones y retroalimentación, en las categorías *Tu Trabajo v1.0/M1* a *M9*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
 
@@ -25,14 +22,13 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 3. **Por participar en el foro:** 5 puntos, con el evento "Mensaje creado" (`\mod_forum\event\post_created`).
 4. Deja activada la protección contra trampas.
 
-Completar todo el curso da unos 1,575 puntos:
+Completar todo el curso da unos 1,350 puntos:
 
 | Actividades | Cuántas | Puntos |
 |---|---|---|
-| Actividades H5P | 45 | 1,125 |
-| Libros | 9 | 225 |
+| Lecciones | 45 | 1,125 |
 | Autoevaluaciones | 9 | 225 |
-| **Total** | 63 | **1,575** |
+| **Total** | 54 | **1,350** |
 
 **Niveles** (6 niveles, sin algoritmo automático):
 
@@ -45,7 +41,7 @@ Completar todo el curso da unos 1,575 puntos:
 | 5 | Protegida | 800 | Durante el Módulo 7 |
 | 6 | Con futuro | 1,000 | Durante el Módulo 9 |
 
-**Clasificación:** anonimato activado; mostrar solo vecinos cercanos o desactivarla.
+**Clasificación (ranking): desactivada.** En *Level Up > Clasificación* elige no mostrarla, y quita o esconde el bloque de tabla de posiciones. Cada persona ve solo sus puntos, su nivel y sus insignias.
 
 ## 3. Insignias
 

@@ -676,6 +676,42 @@ $CATEGORY: $course$/Tu Talento v1.4/M6
 	=Hablas con tus acreedores #¡Correcto! Negociar antes evita atrasos.
 }
 
+::M6 U07 P1::¿Qué pasa con un préstamo de nómina cuando termina tu proyecto? {
+	~Se cancela solo #No es la mejor opción. Se cobra de lo que tengas o se reporta al Buró.
+	=La deuda sigue #¡Correcto! Se cobra de lo que tengas o se reporta al Buró.
+	~Lo paga la producción #No es la mejor opción. Se cobra de lo que tengas o se reporta al Buró.
+}
+
+::M6 U07 P2::¿Qué usas primero en un mes sin llamados? {
+	=Tu fondo de sequía #¡Correcto! No cobra intereses.
+	~Un préstamo preaprobado #No es la mejor opción. No cobra intereses.
+	~Una app de adelanto #No es la mejor opción. No cobra intereses.
+}
+
+::M6 U07 P3::Una app cobra 90 por adelantar cada quincena. ¿Cuánto pagas al año? {
+	~1,080 #No es la mejor opción. 90 × 24 quincenas.
+	~90 #No es la mejor opción. 90 × 24 quincenas.
+	=2,160 #¡Correcto! 90 × 24 quincenas.
+}
+
+::M6 U08 P1::¿Qué es lo último que empeñas? {
+	=Tu equipo de trabajo #¡Correcto! Sin equipo no hay ingreso.
+	~Un reloj que no usas #No es la mejor opción. Sin equipo no hay ingreso.
+	~Una joya #No es la mejor opción. Sin equipo no hay ingreso.
+}
+
+::M6 U08 P2::¿Qué es refrendar? {
+	~Vender tu prenda #No es la mejor opción. Así no pierdes la prenda.
+	=Pagar los intereses para alargar el plazo #¡Correcto! Así no pierdes la prenda.
+	~Pedir más dinero #No es la mejor opción. Así no pierdes la prenda.
+}
+
+::M6 U08 P3::¿Dónde verificas una casa de empeño? {
+	~En redes sociales #No es la mejor opción. Así tienes a quién reclamar.
+	~En sus anuncios #No es la mejor opción. Así tienes a quién reclamar.
+	=En el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
+}
+
 $CATEGORY: $course$/Tu Talento v1.4/M7
 
 ::M7 U01 P1::¿Qué hace el Buró de Crédito? {

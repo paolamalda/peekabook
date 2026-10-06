@@ -39,7 +39,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M1 U02 · ¿Cuánto cuesta vivir en mi casa, al mes y al año?: el gasto real de tu casa incluye lo que pagas una vez al año; divídelo entre 12 y apártalo cada mes.
 - M1 U03 · Mi dinero, nuestro dinero: hablar de dinero en familia no es desconfianza; es tranquilidad para las dos personas.
 - M1 U04 · Tu carpeta de documentos: una carpeta ordenada y una persona que sabe dónde está ahorran semanas de angustia a tu familia.
-- M1 U05 · Compra inteligente: el súper, las ofertas y los pagos a plazos: compra con lista, compara por unidad, suma todos tus pagos a plazos antes de uno nuevo y espera un día ante el «solo hoy».
+- M1 U05 · Compra inteligente: el súper, las ofertas y los pagos a plazos: compra con lista y compara por unidad. Antes de un pago a plazos nuevo, suma todos los que ya tienes. Ante el «solo hoy», espera un día.
 
 **Casos**
 
@@ -180,7 +180,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M5 U05 · Tu tarjeta de crédito: pago mínimo, pago para no generar intereses y meses sin intereses: paga el total para no generar intereses antes de la fecha límite; el mínimo solo evita el atraso.
 - M5 U06 · Tu historial de crédito: Buró, Círculo y ser aval: revisa tu reporte sin costo cada año, reclama errores sin costo y firma como aval solo si podrías pagar esa deuda.
 - M5 U07 · Aval, obligado solidario, fiador y referencia: ¿qué firmas?: aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda.
-- M5 U08 · Préstamos de nómina y a cuenta de tu pensión: un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo.
+- M5 U08 · Préstamos de nómina y a cuenta de tu pensión: un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar y trata solo con financieras del listado oficial. Nunca pagues para que te «liberen» un préstamo.
 - M5 U09 · Empeñar sin perder tus joyas: empeñar sirve para una urgencia corta; compara en casas registradas, guarda tu boleta y anota la fecha límite.
 
 **Casos**
@@ -216,7 +216,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M6 U03 · Lee tu estado de cuenta de inversión: diez minutos al mes con tu estado de cuenta te dicen qué tienes, qué pasó y cuánto te cobran.
 - M6 U04 · Tu asesor: verifica, pregunta y compara: verifica, pregunta cómo le pagan y compara por escrito antes de mover tu dinero.
 - M6 U05 · Inversiones milagro y «yo te lo manejo»: rendimiento alto garantizado, pagos por invitar o alguien que «te lo maneja» sin registro son señales de fraude.
-- M6 U06 · Noticias, rumores y cambios: ajusta tu plan sin pánico: confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
+- M6 U06 · Noticias, rumores y cambios: ajusta tu plan sin pánico: confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
 
 **Casos**
 
@@ -250,7 +250,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M7 U02 · Tu AFORE y tus semanas cotizadas: localiza tu AFORE, revisa tu saldo y actualiza tus beneficiarios; no tiene costo.
 - M7 U03 · Modalidad 40: ¿puedes y te conviene?: la Modalidad 40 no es para todas; confirma tus requisitos en el IMSS y decide con números, sin gestores.
 - M7 U04 · Pensión de viudez y pensiones del Bienestar: ten listos los documentos de viudez y registra a tiempo las pensiones del Bienestar; ambos trámites no tienen costo.
-- M7 U05 · Si tú o tu pareja trabajaron para el gobierno: ISSSTE: averigua el régimen, los años de servicio y quién aparece como beneficiaria; con eso sabes qué pensión esperar y qué te tocaría a ti.
+- M7 U05 · Si tú o tu pareja trabajaron para el gobierno: ISSSTE: averigua el régimen, los años de servicio y quién aparece como beneficiaria. Con eso sabes qué pensión esperar y qué te tocaría a ti.
 - M7 U06 · ¿Cuánto necesito para mi retiro?: calcula tu gasto, tus pensiones y la diferencia; así sabes cuánto ahorro necesitas.
 
 **Casos**
@@ -286,8 +286,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U03 · Compara y lee tu póliza: compara con el mismo perfil y revisa exclusiones y periodos de espera, no solo el precio.
 - M8 U04 · Seguro de vida y gastos funerarios: un seguro de vida es para proteger a quien depende de ti; revisa si todavía lo necesitas y mantén tus beneficiarios al día.
 - M8 U05 · Casa y auto: lo básico: revisa al renovar: valor real, responsabilidad civil y riesgos de tu zona.
-- M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado: documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
-- M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10: si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
+- M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado: ten copia digital de tus documentos, fotos del antes, un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
+- M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10: si no tienes IMSS, puedes pagarlo tú. El Seguro de Salud para la Familia da solo servicio médico, por una cuota anual según tu edad. La Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
 
 **Casos**
 
@@ -357,8 +357,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M10 U06 · Tu casa: escrituras, predial y crédito en orden: escritura inscrita, liberación de hipoteca al terminar, predial al día y el seguro del crédito localizable; tu subcuenta de vivienda no se pierde.
 - M10 U07 · Si no hay testamento: unión libre, tierra ejidal y el trámite sucesorio: sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
 - M10 U08 · Heredar o dar en vida: impuestos, costos y riesgos: heredar y donar entre padres e hijos no paga ISR, pero escriturar sí cuesta; dar en vida significa que ya no es tuya. Pregunta en una notaría antes de decidir.
-- M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos: tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
-- M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar: si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
+- M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos: tu dinero y tus bienes también son tuyos. Conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+- M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar: si un juez fijó la pensión, solo un juez la cambia. Guarda tus comprobantes y pide orientación sin costo si no se paga completa.
 
 **Casos**
 
@@ -390,7 +390,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M11 U01 · Decidir con calma: tus reglas: 72 horas, segunda opinión y cinco preguntas por escrito antes de firmar.
 - M11 U02 · Presión familiar y control del dinero: tu dinero es tuyo; si alguien te lo controla, recupera el acceso y busca apoyo.
-- M11 U03 · Tu plan de una página: tu plan de una página resume tu carpeta y te dice qué revisar cada año; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+- M11 U03 · Tu plan de una página: tu plan de una página resume tu carpeta y te dice qué revisar cada año. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 **Casos**
 

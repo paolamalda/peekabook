@@ -54,11 +54,15 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Full name | Your Money, Your Family, Your Future |
 | Short name | TDTF-CA-EN |
 | Visibility | **Show** |
-| Format | **Tiles** if installed; otherwise Topics. 7 sections |
+| Format | **Tiles**. 7 sections |
 | Completion tracking | Yes |
 | Force language | English |
 
-**Tiles format (if available):** in course settings, *Show progress on tiles*: **as a percentage**; one icon per module that fits its topic; the General section above the tiles. If Tiles doesn't exist, use Topics with "Show one section per page."
+**Tiles format:**
+- *Show progress on tiles*: **as a percentage**.
+- **Use sub-tiles for activities: Yes** (each lesson shows as a tile inside its part).
+- One icon per part that fits its topic; the General section above the tiles.
+- Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 
 **Enrolment:** *Enrolment methods* > enable **Self enrolment** with the **enrolment key** the person gives you (if you don't have it, leave "[TBD]" and report it). Turn off guest access.
 
@@ -67,11 +71,11 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Section | Name | Description |
 |---|---|---|
 | General | Welcome | «Welcome» book, "Questions and comments" forum, start survey, «Your starting point» and «My goal» |
-| 1 | Module 1. Understand your money and organize your finances | Content of `1_books/M1_resumen.html` |
-| 2 | Module 2. Understand the financial system and plan your remittances | `M2_resumen.html` |
-| 3 | Module 3. Build your credit and manage your debts | `M3_resumen.html` |
-| 4 | Module 4. Protect your money, your identity and your family | `M4_resumen.html` |
-| 5 | Module 5. Build wealth and prepare your future | `M5_resumen.html` |
+| 1 | Your money in order | Content of `1_books/M1_resumen.html` |
+| 2 | Banks and sending money home | `M2_resumen.html` |
+| 3 | Credit without surprises | `M3_resumen.html` |
+| 4 | Protect what's yours | `M4_resumen.html` |
+| 5 | Your future | `M5_resumen.html` |
 | 6 | Support materials | "Cases, practice, glossary and where to get help." |
 | 7 | Closing and certificate | "What you achieved, your certificate and see you soon." |
 
@@ -89,27 +93,28 @@ They are the first and last thing each person sees: don't skip them.
 5. **Section 7, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
 6. **Guide to print or share:** `7_guides/Contact_and_community_guide.html`. Open it in a browser > Print > Save as PDF, and share it in the in-person session or by WhatsApp.
 
-## 3. Lesson books
+## 3. Lessons: one book per lesson
 
-In each module section:
+The full structure (names, order, files and minutes) is in `estructura_moodle.json`. In each section, for each lesson and in order:
 
-1. Create a book: name `Module N lessons`, chapter formatting "None", completion "View".
-2. Book menu > **Import chapter** > `1_books/MN_libro_Moodle.zip`, type "Each HTML file represents one chapter".
-3. Check that each lesson has its cover page first and 3 indented subchapters.
+1. Create a **Book** with the lesson name **exactly as written** (the question, without codes like "M1 U01"). Chapter formatting "None"; navigation style "Text".
+2. Book menu > **Import chapter** > the lesson zip (`1_books/MN/NN_MN_UYY.zip`), type "Each HTML file represents one chapter". There should be 4 chapters: Start, The essentials, Go deeper, Practice.
+3. **Completion:** "View".
+4. **Restrict access:** the previous lesson must be complete (the first lesson of each part has no restriction; the first lesson of part 2 onward requires the last lesson of the previous part). Show the locked lesson greyed out, not hidden.
 
-| Module | Chapters | Pages |
+| Part | Lessons | Folder |
 |---|---|---|
-| M1 | 14 | 56 |
-| M2 | 13 | 52 |
-| M3 | 12 | 48 |
-| M4 | 12 | 48 |
-| M5 | 12 | 48 |
+| Your money in order | 14 | `1_books/M1/` |
+| Banks and sending money home | 13 | `1_books/M2/` |
+| Credit without surprises | 12 | `1_books/M3/` |
+| Protect what's yours | 12 | `1_books/M4/` |
+| Your future | 12 | `1_books/M5/` |
 
 ## 4. Support book
 
 In section 6, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
-Below it, create the book **`Go deeper`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` (6 chapters: "How to go deeper" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
+Below it, create the book **`Further reading`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` (6 chapters: "How to use further reading" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
 
 In the same section 6, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; plus: the cost of each transfer, your assets and who receives them. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
@@ -127,19 +132,18 @@ In section 6, create the glossary `Course key words` and import `3_glossary/Glos
 |---|---|---|---|---|
 | 42 | 39 | 36 | 36 | 36 |
 
-## 7. H5P activities (63)
+## 7. Practice inside each lesson (63 H5P)
 
-Files in `2_h5p/MN/`, in order. In each section, **after the book** and in lesson order:
+The practice does **not** go as a separate activity in the section: it is embedded in the "Practice" chapter of its book.
 
-1. *Add an activity > H5P*.
-2. Name: `MN UYY · What would you do?`.
-3. Upload `MN_UYY_what_would_you_do.h5p`.
-4. Options: download no, embed no, copyright yes.
-5. Grade: tracking yes, "highest grade". Completion: "Student must receive a grade".
+1. Course *Content bank* > **Upload** the 63 files from `2_h5p/MN/` (`MN_UYY_practica.h5p`).
+2. Open the "Practice" chapter of each book in edit mode. You'll see a pink box with the text `[[H5P MN_UYY_practica.h5p]]`.
+3. Delete **the whole box** and in its place insert the H5P with the editor's **Insert H5P** button, choosing that file from the content bank.
+4. Save and check with *Switch role to > Student* that the situations and questions show, one per screen.
 
-**Final order of each section:** book, H5P in order, self-assessment.
+**Note:** embedded practice doesn't record a grade. Each lesson's progress is marked when it's viewed, and the module grade comes from the self-assessment.
 
-**Check:** open 3 random activities with *Switch role to > Student*. You should see 3 cases, 3 options per case and the grade at the end.
+**Final order of each section:** the lessons in order and the self-assessment at the end (restricted to completing the last lesson of the part).
 
 ## 8. Program surveys
 
@@ -160,13 +164,15 @@ Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with
 
 ## 10. Final review (as a student)
 
-- M1 U01: cover page first, two path buttons, colored terms with their meaning and "Current fact" or "Before you act, check" boxes.
-- One H5P per module opens, shows 3 cases and records a grade.
+- The home page shows one tile per part with its percentage; inside each part, one sub-tile per lesson with no technical codes.
+- The first lesson: chapters Start, The essentials, Go deeper and Practice; "Watch out for these mistakes" at the end of The essentials; the embedded practice works.
+- The second lesson shows as locked until the first is viewed.
+- No leaderboard or ladder is visible.
 - One self-assessment shows 3 options per question.
 - The support book shows "See the key" in the case studies and collapsible frequently asked questions.
 
 ## 11. Report for the person
 
-Course link; pages per book; H5P per module; questions per self-assessment; surveys created; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of the tiles home page, an H5P, a self-assessment and the certificate preview.
+Course link; books per part; embedded H5P; questions per self-assessment; surveys created; active badges; Level Up settings; certificate status; what you could not do and why; screenshots of the tiles home page, an H5P, a self-assessment and the certificate preview.
 
 The course stays **visible**, with enrolment by key. For the catalog listing, use `catalog_card.md`.

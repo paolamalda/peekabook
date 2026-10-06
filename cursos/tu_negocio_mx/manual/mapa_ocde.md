@@ -5,10 +5,10 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | Marco | Tema | Competencias | Lecciones |
 |---|---|---|---|
 | OCDE negocios (2018) | N-A1 Pagos y depósitos del negocio | 10 | M4 U01, M4 U02, M1 U05 |
-| OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U03, M6 U05, M1 U06, M6 U02 |
+| OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U03, M6 U05, M6 U02, M1 U06 |
 | OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M7 U04, M5 U01, M5 U02, M9 U04, M1 U04, M1 U06 |
 | OCDE negocios (2018) | N-B2 Registros y contabilidad | 13 | M1 U04, M1 U01, M1 U06, M7 U07, M1 U03, M3 U02 |
-| OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M6 U05, M1 U02, M3 U01, M2 U04, M2 U03, M4 U02 |
+| OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M6 U05, M1 U02, M3 U01, M2 U04, M8 U07, M2 U03 |
 | OCDE negocios (2018) | N-B4 Planear más allá del corto plazo | 15 | M3 U04, M2 U02, M8 U01, M8 U05, M6 U01, M8 U06 |
 | OCDE negocios (2018) | N-C1 Riesgos y seguros personales de quien emprende | 4 | M7 U01, M9 U01, M7 U08, M8 U01 |
 | OCDE negocios (2018) | N-C2 Riesgos y seguros del negocio | 13 | M1 U05, M6 U04, M7 U02, M7 U07 |
@@ -16,7 +16,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE negocios (2018) | N-D2 Protección financiera del negocio | 10 | M4 U03, M7 U03, M7 U06, M7 U08, M8 U05, M6 U02 |
 | OCDE negocios (2018) | N-D3 Información, educación y asesoría | 7 | M8 U05, M8 U06, M5 U05 |
 | OCDE adultos (2016) | A1 Dinero y monedas | 20 | M4 U02, M3 U04, M3 U01, M4 U01, M1 U02 |
-| OCDE adultos (2016) | A2 Ingreso | 20 | M1 U03, M8 U05, M1 U06, M8 U01, M1 U02, M7 U01 |
+| OCDE adultos (2016) | A2 Ingreso | 20 | M1 U03, M8 U07, M8 U05, M1 U06, M8 U01, M1 U02 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M2 U02, M3 U04, M2 U04, M8 U06, M9 U03, M5 U04 |
 | OCDE adultos (2016) | A4 Registros y contratos | 7 | M9 U02, M9 U03, M6 U05, M7 U08 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U02, M1 U03 |
@@ -30,10 +30,10 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M7 U07, M1 U05, M6 U04, M7 U02, M3 U03 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M7 U01, M7 U08, M7 U02, M7 U07, M8 U01, M3 U03 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M9 U01, M6 U01 |
-| OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M6 U02, M7 U05, M6 U05 |
+| OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M6 U02, M6 U05, M7 U05 |
 | OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M6 U05, M6 U04, M8 U01 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M8 U06, M7 U01, M8 U05 |
-| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M4 U02, M1 U06, M6 U03, M7 U05, M1 U02, M7 U01 |
+| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M4 U02, M1 U06, M6 U03, M7 U05, M1 U02, M9 U01 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M7 U03, M4 U03, M7 U06, M7 U08, M8 U05, M6 U02 |
 | OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M5 U04, M8 U02, M9 U04, M5 U01, M5 U05, M7 U05 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M8 U06 |
@@ -65,7 +65,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-A2 · Financiar el negocio
 
-**Lecciones:** M8 U05 Tu plan de negocio en una hoja y cómo presentarlo; M6 U01 ¿Necesitas crédito?; M6 U03 El costo total: CAT, comisiones y garantías; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M6 U02 Opciones de crédito y cómo verificarlas
+**Lecciones:** M8 U05 Tu plan de negocio en una hoja y cómo presentarlo; M6 U01 ¿Necesitas crédito?; M6 U03 El costo total: CAT, comisiones y garantías; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M6 U02 Opciones de crédito y cómo verificarlas; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre
 
 *Conocimiento*
 
@@ -156,7 +156,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-B3 · Finanzas de corto plazo
 
-**Lecciones:** M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M1 U02 Separa el dinero del negocio y de tu casa; M3 U01 Ganar no es tener efectivo; M2 U04 Inventario y merma; M2 U03 Tu punto de equilibrio; M4 U02 Cobros con CoDi, QR y transferencias seguras
+**Lecciones:** M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M1 U02 Separa el dinero del negocio y de tu casa; M3 U01 Ganar no es tener efectivo; M2 U04 Inventario y merma; M8 U07 Adelantos y préstamos a tus empleados; M2 U03 Tu punto de equilibrio
 
 *Conocimiento*
 
@@ -353,7 +353,7 @@ Temas cubiertos: 33 de 33.
 
 ## A2 · Ingreso
 
-**Lecciones:** M1 U03 Págate un sueldo; M8 U05 Tu plan de negocio en una hoja y cómo presentarlo; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M8 U01 Contratar ayuda; M1 U02 Separa el dinero del negocio y de tu casa; M7 U01 IMSS para personas independientes (Modalidad 10)
+**Lecciones:** M1 U03 Págate un sueldo; M8 U07 Adelantos y préstamos a tus empleados; M8 U05 Tu plan de negocio en una hoja y cómo presentarlo; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M8 U01 Contratar ayuda; M1 U02 Separa el dinero del negocio y de tu casa
 
 *Conocimiento*
 
@@ -763,7 +763,7 @@ Temas cubiertos: 33 de 33.
 
 ## D1 · Regulación y protección al usuario
 
-**Lecciones:** M6 U02 Opciones de crédito y cómo verificarlas; M7 U05 Tu identidad y la de tu negocio; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?
+**Lecciones:** M6 U02 Opciones de crédito y cómo verificarlas; M6 U05 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M7 U05 Tu identidad y la de tu negocio
 
 *Conocimiento*
 
@@ -835,7 +835,7 @@ Temas cubiertos: 33 de 33.
 
 ## D4 · Productos y servicios financieros
 
-**Lecciones:** M4 U02 Cobros con CoDi, QR y transferencias seguras; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M6 U03 El costo total: CAT, comisiones y garantías; M7 U05 Tu identidad y la de tu negocio; M1 U02 Separa el dinero del negocio y de tu casa; M7 U01 IMSS para personas independientes (Modalidad 10)
+**Lecciones:** M4 U02 Cobros con CoDi, QR y transferencias seguras; M1 U06 Tu negocio, tus decisiones: tu dinero a tu nombre; M6 U03 El costo total: CAT, comisiones y garantías; M7 U05 Tu identidad y la de tu negocio; M1 U02 Separa el dinero del negocio y de tu casa; M9 U01 Tu retiro si trabajas por tu cuenta
 
 *Conocimiento*
 

@@ -752,6 +752,24 @@ $CATEGORY: $course$/Tu Negocio MX v1.3/M8
 	=En el INEGI #¡Correcto! Fuente oficial.
 }
 
+::M8 U07 P1::¿Puedes cobrar intereses por un adelanto de sueldo? {
+	~Sí, 10% #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+	~Sí, si lo firman #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+	=No #¡Correcto! Artículo 110 de la Ley Federal del Trabajo.
+}
+
+::M8 U07 P2::¿Cuál es el tope para descontar un adelanto? {
+	=30% de lo que gana arriba del mínimo #¡Correcto! Su mínimo no se toca.
+	~Todo el sueldo #No es la mejor opción. Su mínimo no se toca.
+	~Lo que decidas #No es la mejor opción. Su mínimo no se toca.
+}
+
+::M8 U07 P3::¿Cómo proteges tu flujo? {
+	~Das todo lo que te piden #No es la mejor opción. Así no te falta para surtir.
+	=Fijas un fondo al mes para adelantos #¡Correcto! Así no te falta para surtir.
+	~Pides prestado para adelantar #No es la mejor opción. Así no te falta para surtir.
+}
+
 $CATEGORY: $course$/Tu Negocio MX v1.3/M9
 
 ::M9 U01 P1::¿Dónde localizas tu AFORE? {

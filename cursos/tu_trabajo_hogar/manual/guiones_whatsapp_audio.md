@@ -180,7 +180,7 @@ Hola. Hoy hablamos de esto: Acuerdos claros y qué hacer si no te pagan. A Doña
 
 ```
 *M2 U04 · Cobrar sin perder: tu cuenta y las transferencias*
-Cobrar por transferencia es más seguro y deja prueba de tu pago; para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
+Cobrar por transferencia es más seguro y deja prueba de tu pago. Para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos.
 
 • Cuenta básica sin comisiones.
 • Transferencia deja prueba.
@@ -193,7 +193,7 @@ Lección: [por definir]
 
 **Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Cobrar sin perder: tu cuenta y las transferencias. Chayo cobra en efectivo en cuatro casas y lleva el dinero en la bolsa en el camión. Una vez se lo robaron. En esta lección verás cómo cobrar más seguro. Cobrar por transferencia es más seguro y deja prueba de tu pago; para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos. Recuerda: Cuenta básica sin comisiones. Transferencia deja prueba. Nunca des tu NIP ni códigos. Tu paso de esta semana: Pregunta a cada casa si puede pagarte por transferencia y anota cuáles sí. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Cobrar sin perder: tu cuenta y las transferencias. Chayo cobra en efectivo en cuatro casas y lleva el dinero en la bolsa en el camión. Una vez se lo robaron. En esta lección verás cómo cobrar más seguro. Cobrar por transferencia es más seguro y deja prueba de tu pago. Para recibir solo das tu CLABE o tu número, nunca tu NIP ni códigos. Recuerda: Cuenta básica sin comisiones. Transferencia deja prueba. Nunca des tu NIP ni códigos. Tu paso de esta semana: Pregunta a cada casa si puede pagarte por transferencia y anota cuáles sí. Nos escuchamos en la próxima lección.
 
 ## Módulo 3. Tandas y ahorro
 
@@ -300,9 +300,9 @@ Tu paso de esta semana: Llena tu mapa de apoyo y decide el monto fijo que puedes
 Lección: [por definir]
 ```
 
-**Audio** (119 palabras, unos 50 segundos)
+**Audio** (120 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuánto das a tu familia? Doña Tere paga la escuela de su nieta Ximena, le da a su hija Rosa para la renta cuando no le alcanza y cubre el gas porque su esposo casi no tiene trabajo. Nunca lo ha sumado. Este mes se quedó sin para sus pasajes. En esta lección verás cuánto das. Ponle monto a lo que das cada mes; saber cuánto das te permite seguir ayudando sin quedarte sin nada. Recuerda: Suma lo que das. Ponle monto fijo. Lo urgente sale del fondo. Tu paso de esta semana: Llena tu mapa de apoyo y decide el monto fijo que puedes dar cada mes. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuánto das a tu familia? Doña Tere paga la escuela de su nieta Ximena y le da a su hija Rosa para la renta cuando no le alcanza. También cubre el gas, porque su esposo casi no tiene trabajo. Nunca lo ha sumado. Este mes se quedó sin para sus pasajes. En esta lección verás cuánto das. Ponle monto a lo que das cada mes; saber cuánto das te permite seguir ayudando sin quedarte sin nada. Recuerda: Suma lo que das. Ponle monto fijo. Lo urgente sale del fondo. Tu paso de esta semana: Llena tu mapa de apoyo y decide el monto fijo que puedes dar cada mes. Nos escuchamos en la próxima lección.
 
 ### M4 U02 · Prestar a la familia sin perder
 
@@ -363,9 +363,9 @@ Tu paso de esta semana: Elige un día de este mes para tu plática de dinero de 
 Lección: [por definir]
 ```
 
-**Audio** (118 palabras, unos 49 segundos)
+**Audio** (117 palabras, unos 49 segundos)
 
-Hola. Hoy hablamos de esto: Decir que no sin culpa y hablar de dinero en casa. Mari no duerme bien. Su mamá, su hermano y su hijo le piden dinero y ella siente que si dice que no es mala hija, mala hermana y mala madre. En esta lección verás cómo decir que no sin culpa. Decir que no a una petición no es decir que no a la persona; reconoce, pon tu límite y ofrece otra ayuda. Recuerda: El estrés se nota. Reconoce, límite, otra ayuda. Plática de 20 minutos al mes. Tu paso de esta semana: Elige un día de este mes para tu plática de dinero de 20 minutos. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Decir que no sin culpa y hablar de dinero en casa. Mari no duerme bien. Su mamá, su hermano y su hijo le piden dinero. Ella siente que, si dice que no, es mala hija, mala hermana y mala madre. En esta lección verás cómo decir que no sin culpa. Decir que no a una petición no es decir que no a la persona; reconoce, pon tu límite y ofrece otra ayuda. Recuerda: El estrés se nota. Reconoce, límite, otra ayuda. Plática de 20 minutos al mes. Tu paso de esta semana: Elige un día de este mes para tu plática de dinero de 20 minutos. Nos escuchamos en la próxima lección.
 
 ### M4 U05 · Tu dinero a tu nombre: autonomía y violencia económica
 
@@ -373,7 +373,7 @@ Hola. Hoy hablamos de esto: Decir que no sin culpa y hablar de dinero en casa. M
 
 ```
 *M4 U05 · Tu dinero a tu nombre: autonomía y violencia económica*
-Tener una cuenta, documentos y un fondo a tu nombre es tu derecho; si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
+Tener una cuenta, documentos y un fondo a tu nombre es tu derecho. Si alguien controla tu dinero para dominarte, es violencia y hay ayuda.
 
 • Cuenta y documentos a tu nombre.
 • Nunca prestes tu INE.
@@ -386,7 +386,28 @@ Lección: [por definir]
 
 **Audio** (125 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Tu dinero a tu nombre: autonomía y violencia económica. A Chayo su esposo le pide cada viernes todo lo que cobró «para administrarlo». Si ella quiere algo, tiene que pedírselo. Él sacó un crédito con la credencial de ella. En esta lección verás qué es la violencia económica. Tener una cuenta, documentos y un fondo a tu nombre es tu derecho; si alguien controla tu dinero para dominarte, es violencia y hay ayuda. Recuerda: Cuenta y documentos a tu nombre. Nunca prestes tu INE. Hay ayuda sin costo. Tu paso de esta semana: Guarda tus documentos en un lugar seguro, con copia en tu celular, y decide cuánto vas a guardar a tu nombre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu dinero a tu nombre: autonomía y violencia económica. A Chayo su esposo le pide cada viernes todo lo que cobró «para administrarlo». Si ella quiere algo, tiene que pedírselo. Él sacó un crédito con la credencial de ella. En esta lección verás qué es la violencia económica. Tener una cuenta, documentos y un fondo a tu nombre es tu derecho. Si alguien controla tu dinero para dominarte, es violencia y hay ayuda. Recuerda: Cuenta y documentos a tu nombre. Nunca prestes tu INE. Hay ayuda sin costo. Tu paso de esta semana: Guarda tus documentos en un lugar seguro, con copia en tu celular, y decide cuánto vas a guardar a tu nombre. Nos escuchamos en la próxima lección.
+
+### M4 U06 · Pensión alimenticia: lo que les toca a tus hijos y nietas
+
+**WhatsApp**
+
+```
+*M4 U06 · Pensión alimenticia: lo que les toca a tus hijos y nietas*
+La pensión es un derecho de las niñas. Pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos.
+
+• Es un derecho de las niñas.
+• Orientación sin costo en el DIF o la defensoría.
+• Lleva una lista de sus gastos.
+
+Tu paso de esta semana: Haz la lista de gastos de tus hijas, hijos o nietas de un mes y guárdala; te sirve para pedir o revisar una pensión.
+
+Lección: [por definir]
+```
+
+**Audio** (137 palabras, unos 57 segundos)
+
+Hola. Hoy hablamos de esto: Pensión alimenticia: lo que les toca a tus hijos y nietas. Rosa, la hija de Doña Tere, cría sola a sus hijas. El papá «manda cuando se acuerda» y Doña Tere termina pagando uniformes y consultas con lo que gana limpiando. Nadie les ha dicho que eso tiene solución. La pensión es un derecho de las niñas. Pide orientación sin costo en el DIF o la defensoría pública, y lleva una lista de sus gastos. Recuerda: Es un derecho de las niñas. Orientación sin costo en el DIF o la defensoría. Lleva una lista de sus gastos. Tu paso de esta semana: Haz la lista de gastos de tus hijas, hijos o nietas de un mes y guárdala; te sirve para pedir o revisar una pensión. Nos escuchamos en la próxima lección.
 
 ## Módulo 5. Deudas: salir y no volver
 
@@ -396,7 +417,7 @@ Hola. Hoy hablamos de esto: Tu dinero a tu nombre: autonomía y violencia econó
 
 ```
 *M5 U01 · ¿Cuánto debes en total?*
-Escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran; lo que ves, lo puedes arreglar.
+Escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran. Lo que ves, lo puedes arreglar.
 
 • Escríbelas todas.
 • Incluye tandas y conocidos.
@@ -409,7 +430,7 @@ Lección: [por definir]
 
 **Audio** (115 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: ¿Cuánto debes en total? Doña Tere debe en la tienda de abonos, a una prestamista del barrio, a su comadre y en la tanda donde cobró primero. Cada semana paga un poco a cada una y nunca sabe cuánto debe en total. En esta lección harás tu lista. Escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran; lo que ves, lo puedes arreglar. Recuerda: Escríbelas todas. Incluye tandas y conocidos. El total te da el tamaño real. Tu paso de esta semana: Haz hoy tu lista de deudas con todas, incluidas tandas y conocidos. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: ¿Cuánto debes en total? Doña Tere debe en la tienda de abonos, a una prestamista del barrio, a su comadre y en la tanda donde cobró primero. Cada semana paga un poco a cada una y nunca sabe cuánto debe en total. En esta lección harás tu lista. Escribe todas tus deudas en una hoja, con lo que debes, lo que pagas y lo que te cobran. Lo que ves, lo puedes arreglar. Recuerda: Escríbelas todas. Incluye tandas y conocidos. El total te da el tamaño real. Tu paso de esta semana: Haz hoy tu lista de deudas con todas, incluidas tandas y conocidos. Nos escuchamos en la próxima lección.
 
 ### M5 U02 · Lo que de verdad cuesta un préstamo
 
@@ -438,7 +459,7 @@ Hola. Hoy hablamos de esto: Lo que de verdad cuesta un préstamo. A Chayo le pre
 
 ```
 *M5 U03 · Prestamistas, «gota a gota» y apps que amenazan*
-Nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos; si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
+Nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos. Si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas.
 
 • Cobro diario: peligro.
 • Contactos: montadeuda.
@@ -451,7 +472,7 @@ Lección: [por definir]
 
 **Audio** (112 palabras, unos 47 segundos)
 
-Hola. Hoy hablamos de esto: Prestamistas, «gota a gota» y apps que amenazan. A Doña Tere le prestaron 2,000 «gota a gota»: 100 diarios durante 24 días. Un día no pagó y el cobrador llegó a la casa donde trabaja. En esta lección verás cómo salir. Nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos; si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas. Recuerda: Cobro diario: peligro. Contactos: montadeuda. Verifica en el SIPRES. Tu paso de esta semana: Revisa las apps de tu celular y quita el acceso a contactos a las que no lo necesiten. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Prestamistas, «gota a gota» y apps que amenazan. A Doña Tere le prestaron 2,000 «gota a gota»: 100 diarios durante 24 días. Un día no pagó y el cobrador llegó a la casa donde trabaja. En esta lección verás cómo salir. Nunca pidas a prestamistas gota a gota ni a apps que piden tus contactos. Si ya caíste, no pidas otro préstamo para pagar y denuncia las amenazas. Recuerda: Cobro diario: peligro. Contactos: montadeuda. Verifica en el SIPRES. Tu paso de esta semana: Revisa las apps de tu celular y quita el acceso a contactos a las que no lo necesiten. Nos escuchamos en la próxima lección.
 
 ### M5 U04 · Tu plan para salir de deudas
 
@@ -459,7 +480,7 @@ Hola. Hoy hablamos de esto: Prestamistas, «gota a gota» y apps que amenazan. A
 
 ```
 *M5 U04 · Tu plan para salir de deudas*
-Paga lo mínimo en todas, pon el extra en una sola y, al terminarla, pasa ese pago a la siguiente; no tomes deudas nuevas mientras sales.
+Paga lo mínimo en todas y pon el extra en una sola. Al terminarla, pasa ese pago a la siguiente. No tomes deudas nuevas mientras sales.
 
 • Mínimo en todas.
 • Extra a una sola.
@@ -472,7 +493,7 @@ Lección: [por definir]
 
 **Audio** (100 palabras, unos 42 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan para salir de deudas. Con su lista en la mano, Doña Tere tiene 12,400 de deuda y paga 1,450 a la semana. No sabe por cuál empezar. En esta lección harás tu plan. Paga lo mínimo en todas, pon el extra en una sola y, al terminarla, pasa ese pago a la siguiente; no tomes deudas nuevas mientras sales. Recuerda: Mínimo en todas. Extra a una sola. Sin deudas nuevas. Tu paso de esta semana: Elige avalancha o bola de nieve y escribe tu orden de deudas. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan para salir de deudas. Con su lista en la mano, Doña Tere tiene 12,400 de deuda y paga 1,450 a la semana. No sabe por cuál empezar. En esta lección harás tu plan. Paga lo mínimo en todas y pon el extra en una sola. Al terminarla, pasa ese pago a la siguiente. No tomes deudas nuevas mientras sales. Recuerda: Mínimo en todas. Extra a una sola. Sin deudas nuevas. Tu paso de esta semana: Elige avalancha o bola de nieve y escribe tu orden de deudas. Nos escuchamos en la próxima lección.
 
 ### M5 U05 · Tu historial de crédito sin miedo
 
@@ -495,6 +516,48 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Tu historial de crédito sin miedo. Mari quiere un crédito para arreglar su casa y le dijeron que «está en Buró». Tiene miedo de preguntar. En esta lección verás qué es y cómo revisarlo. Estar en Buró no es malo; revisa tu reporte cada año sin costo y paga a tiempo para construir buen historial. Recuerda: Buró no es lista negra. Reporte sin costo cada año. Nadie lo «limpia» pagando. Tu paso de esta semana: Pide tu reporte de crédito sin costo este mes y revísalo. Nos escuchamos en la próxima lección.
 
+### M5 U06 · Adelantos de la patrona y préstamo de nómina
+
+**WhatsApp**
+
+```
+*M5 U06 · Adelantos de la patrona y préstamo de nómina*
+Un adelanto es una deuda con quien te contrata; ponlo por escrito, con descuento fijo y fecha de término.
+
+• Adelanto por escrito.
+• Descuento fijo y con tope.
+• Tacha cada pago.
+
+Tu paso de esta semana: Si tienes un adelanto, manda hoy un mensaje con lo acordado: cuánto te dieron, cuánto te descuentan y cuántos pagos faltan.
+
+Lección: [por definir]
+```
+
+**Audio** (114 palabras, unos 48 segundos)
+
+Hola. Hoy hablamos de esto: Adelantos de la patrona y préstamo de nómina. Mari le pidió a su patrona 4,000 de adelanto para la inscripción de su hijo. La señora le dijo que sí, pero ahora le descuenta «lo que se va pudiendo» y Mari ya no sabe cuánto le falta. Un adelanto es una deuda con quien te contrata; ponlo por escrito, con descuento fijo y fecha de término. Recuerda: Adelanto por escrito. Descuento fijo y con tope. Tacha cada pago. Tu paso de esta semana: Si tienes un adelanto, manda hoy un mensaje con lo acordado: cuánto te dieron, cuánto te descuentan y cuántos pagos faltan. Nos escuchamos en la próxima lección.
+
+### M5 U07 · Empeñar sin perder tu prenda
+
+**WhatsApp**
+
+```
+*M5 U07 · Empeñar sin perder tu prenda*
+Empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta.
+
+• Te prestan solo una parte del avalúo.
+• Anota la fecha y guarda la boleta.
+• Verifica el registro en la PROFECO.
+
+Tu paso de esta semana: Si tienes algo empeñado, busca la boleta, anota la fecha límite y calcula cuánto apartar por semana para recuperarlo.
+
+Lección: [por definir]
+```
+
+**Audio** (114 palabras, unos 48 segundos)
+
+Hola. Hoy hablamos de esto: Empeñar sin perder tu prenda. Doña Tere empeñó el anillo de su mamá para pagar la luz. Le prestaron 2,000 y firmó sin leer. Ya pasó un mes y no sabe cuánto debe ni cuándo se lo venden. Empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta. Recuerda: Te prestan solo una parte del avalúo. Anota la fecha y guarda la boleta. Verifica el registro en la PROFECO. Tu paso de esta semana: Si tienes algo empeñado, busca la boleta, anota la fecha límite y calcula cuánto apartar por semana para recuperarlo. Nos escuchamos en la próxima lección.
+
 ## Módulo 6. Tu salud y tu protección
 
 ### M6 U01 · Cuando la casa te inscribe al IMSS
@@ -503,7 +566,7 @@ Hola. Hoy hablamos de esto: Tu historial de crédito sin miedo. Mari quiere un c
 
 ```
 *M6 U01 · Cuando la casa te inscribe al IMSS*
-Si una casa te inscribe al IMSS ganas médico, incapacidades, guardería y semanas para tu pensión; cada casa puede inscribirte por los días que trabajas con ella.
+Si una casa te inscribe al IMSS, ganas médico, incapacidades, guardería y semanas para tu pensión. Cada casa puede inscribirte por los días que trabajas con ella.
 
 • Médico, incapacidades, guardería, pensión.
 • Cada casa puede inscribirte.
@@ -516,7 +579,7 @@ Lección: [por definir]
 
 **Audio** (111 palabras, unos 46 segundos)
 
-Hola. Hoy hablamos de esto: Cuando la casa te inscribe al IMSS. La señora con quien trabaja Mari le dijo: «Te puedo inscribir al IMSS, pero no sé cómo y no sé si te conviene». Mari tampoco sabe qué ganaría. En esta lección lo verás. Si una casa te inscribe al IMSS ganas médico, incapacidades, guardería y semanas para tu pensión; cada casa puede inscribirte por los días que trabajas con ella. Recuerda: Médico, incapacidades, guardería, pensión. Cada casa puede inscribirte. Se calcula por días y salario. Tu paso de esta semana: Consulta tu NSS con tu CURP y elige una casa con quien platicarlo. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Cuando la casa te inscribe al IMSS. La señora con quien trabaja Mari le dijo: «Te puedo inscribir al IMSS, pero no sé cómo y no sé si te conviene». Mari tampoco sabe qué ganaría. En esta lección lo verás. Si una casa te inscribe al IMSS, ganas médico, incapacidades, guardería y semanas para tu pensión. Cada casa puede inscribirte por los días que trabajas con ella. Recuerda: Médico, incapacidades, guardería, pensión. Cada casa puede inscribirte. Se calcula por días y salario. Tu paso de esta semana: Consulta tu NSS con tu CURP y elige una casa con quien platicarlo. Nos escuchamos en la próxima lección.
 
 ### M6 U02 · IMSS por tu cuenta: inscríbete tú y paga tu cuota
 
@@ -524,7 +587,7 @@ Hola. Hoy hablamos de esto: Cuando la casa te inscribe al IMSS. La señora con q
 
 ```
 *M6 U02 · IMSS por tu cuenta: inscríbete tú y paga tu cuota*
-Si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia por persona y edad; da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
+Si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia, por persona y edad. Da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo.
 
 • Cuota al año por persona y edad.
 • Solo salud.
@@ -537,7 +600,7 @@ Lección: [por definir]
 
 **Audio** (128 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: IMSS por tu cuenta: inscríbete tú y paga tu cuota. Ninguna de las casas de Chayo la inscribe. Su mamá, de 62 años, necesita médico seguido y su hija es chica. Chayo escuchó que se puede «pagar el IMSS por tu cuenta». En esta lección verás cómo. Si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia por persona y edad; da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo. Recuerda: Cuota al año por persona y edad. Solo salud. Pregunta periodos de espera. Tu paso de esta semana: Calcula la cuota de las personas de tu familia que no tienen seguridad social y decide por quién empezar. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: IMSS por tu cuenta: inscríbete tú y paga tu cuota. Ninguna de las casas de Chayo la inscribe. Su mamá, de 62 años, necesita médico seguido y su hija es chica. Chayo escuchó que se puede «pagar el IMSS por tu cuenta». En esta lección verás cómo. Si nadie te inscribe, puedes pagar tú el Seguro de Salud para la Familia, por persona y edad. Da médico, pero no incapacidades ni pensión. Pregunta antes qué cubre y desde cuándo. Recuerda: Cuota al año por persona y edad. Solo salud. Pregunta periodos de espera. Tu paso de esta semana: Calcula la cuota de las personas de tu familia que no tienen seguridad social y decide por quién empezar. Nos escuchamos en la próxima lección.
 
 ### M6 U03 · Sin seguridad social: IMSS-Bienestar y tu prevención
 
@@ -545,7 +608,7 @@ Hola. Hoy hablamos de esto: IMSS por tu cuenta: inscríbete tú y paga tu cuota.
 
 ```
 *M6 U03 · Sin seguridad social: IMSS-Bienestar y tu prevención*
-Sin seguridad social puedes atenderte sin costo en el centro de salud; un chequeo al año te ayuda a no perder días de trabajo.
+Sin seguridad social, puedes atenderte sin costo en el centro de salud. Un chequeo al año te ayuda a no perder días de trabajo.
 
 • Centro de salud sin costo.
 • CURP e INE.
@@ -558,7 +621,7 @@ Lección: [por definir]
 
 **Audio** (101 palabras, unos 42 segundos)
 
-Hola. Hoy hablamos de esto: Sin seguridad social: IMSS-Bienestar y tu prevención. Doña Tere no tiene IMSS. Cuando se enferma va a la farmacia de la esquina y pierde días de trabajo. Nunca se ha hecho un chequeo. En esta lección verás dónde atenderte. Sin seguridad social puedes atenderte sin costo en el centro de salud; un chequeo al año te ayuda a no perder días de trabajo. Recuerda: Centro de salud sin costo. CURP e INE. Chequeo cada año. Tu paso de esta semana: Agenda un chequeo en tu centro de salud este mes. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Sin seguridad social: IMSS-Bienestar y tu prevención. Doña Tere no tiene IMSS. Cuando se enferma va a la farmacia de la esquina y pierde días de trabajo. Nunca se ha hecho un chequeo. En esta lección verás dónde atenderte. Sin seguridad social, puedes atenderte sin costo en el centro de salud. Un chequeo al año te ayuda a no perder días de trabajo. Recuerda: Centro de salud sin costo. CURP e INE. Chequeo cada año. Tu paso de esta semana: Agenda un chequeo en tu centro de salud este mes. Nos escuchamos en la próxima lección.
 
 ### M6 U04 · Cuida tu cuerpo, cuida tu ingreso
 
@@ -587,7 +650,7 @@ Hola. Hoy hablamos de esto: Cuida tu cuerpo, cuida tu ingreso. Chayo mezcló clo
 
 ```
 *M6 U05 · Seguros chiquitos: vida y gastos funerarios*
-Un seguro chico o un plan funerario evita que tu familia se endeude; verifica la empresa y nombra a tus beneficiarios con nombre completo.
+Un seguro chico o un plan funerario evita que tu familia se endeude. Verifica la empresa y nombra a tus beneficiarios con nombre completo.
 
 • Lee qué cubre.
 • Verifica la empresa.
@@ -600,7 +663,7 @@ Lección: [por definir]
 
 **Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Seguros chiquitos: vida y gastos funerarios. Cuando murió su mamá, Doña Tere pidió prestado 25,000 para el funeral. Todavía lo está pagando. Ahora piensa: «Si me pasa algo, no quiero que mi hija se endeude». En esta lección verás tus opciones. Un seguro chico o un plan funerario evita que tu familia se endeude; verifica la empresa y nombra a tus beneficiarios con nombre completo. Recuerda: Lee qué cubre. Verifica la empresa. Nombra beneficiarios. Tu paso de esta semana: Pregunta en tu banco si tu cuenta tiene seguro de vida y revisa quién es tu beneficiaria. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Seguros chiquitos: vida y gastos funerarios. Cuando murió su mamá, Doña Tere pidió prestado 25,000 para el funeral. Todavía lo está pagando. Ahora piensa: «Si me pasa algo, no quiero que mi hija se endeude». En esta lección verás tus opciones. Un seguro chico o un plan funerario evita que tu familia se endeude. Verifica la empresa y nombra a tus beneficiarios con nombre completo. Recuerda: Lee qué cubre. Verifica la empresa. Nombra beneficiarios. Tu paso de esta semana: Pregunta en tu banco si tu cuenta tiene seguro de vida y revisa quién es tu beneficiaria. Nos escuchamos en la próxima lección.
 
 ## Módulo 7. Fraudes y tu celular
 
@@ -631,7 +694,7 @@ Hola. Hoy hablamos de esto: «Mamá, estoy en problemas»: llamadas y mensajes f
 
 ```
 *M7 U02 · Falsos apoyos, falsos trabajos y cobros por trámites*
-Los registros a programas no tienen costo y nadie serio te pide depósito para darte trabajo; verifica en sitios que terminan en gob.mx.
+Los registros a programas no tienen costo, y nadie serio te pide depósito para darte trabajo. Verifica en sitios que terminan en gob.mx.
 
 • Los registros no se cobran.
 • Trabajo serio no pide depósito.
@@ -644,7 +707,7 @@ Lección: [por definir]
 
 **Audio** (123 palabras, unos 51 segundos)
 
-Hola. Hoy hablamos de esto: Falsos apoyos, falsos trabajos y cobros por trámites. Una señora le ofreció a Chayo «apurar» el registro de la beca de su hija por 300 pesos. A Mari le llegó una oferta de trabajo de planta en Canadá: solo tenía que depositar 4,500 para la visa. En esta lección verás estos engaños. Los registros a programas no tienen costo y nadie serio te pide depósito para darte trabajo; verifica en sitios que terminan en gob.mx. Recuerda: Los registros no se cobran. Trabajo serio no pide depósito. Verifica en gob.mx. Tu paso de esta semana: Guarda en tu celular los sitios oficiales de Programas para el Bienestar y del Servicio Nacional de Empleo. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Falsos apoyos, falsos trabajos y cobros por trámites. Una señora le ofreció a Chayo «apurar» el registro de la beca de su hija por 300 pesos. A Mari le llegó una oferta de trabajo de planta en Canadá: solo tenía que depositar 4,500 para la visa. En esta lección verás estos engaños. Los registros a programas no tienen costo, y nadie serio te pide depósito para darte trabajo. Verifica en sitios que terminan en gob.mx. Recuerda: Los registros no se cobran. Trabajo serio no pide depósito. Verifica en gob.mx. Tu paso de esta semana: Guarda en tu celular los sitios oficiales de Programas para el Bienestar y del Servicio Nacional de Empleo. Nos escuchamos en la próxima lección.
 
 ### M7 U03 · Tu celular con candado
 
@@ -673,7 +736,7 @@ Hola. Hoy hablamos de esto: Tu celular con candado. Chayo presta su celular a su
 
 ```
 *M7 U04 · Tus datos, tu identidad y los registros para que no te molesten*
-Entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS; si usan tu identidad, reclama y denuncia.
+Entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS. Si usan tu identidad, reclama y denuncia.
 
 • Copia con leyenda.
 • Rompe tus papeles.
@@ -686,7 +749,7 @@ Lección: [por definir]
 
 **Audio** (120 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: Tus datos, tu identidad y los registros para que no te molesten. A Mari le llegan llamadas de bancos y tiendas todo el día. Y a Doña Tere le cobran un celular que nunca compró: alguien usó una copia de su INE que dejó en una tienda. En esta lección cuidarás tus datos. Entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS; si usan tu identidad, reclama y denuncia. Recuerda: Copia con leyenda. Rompe tus papeles. REPEP y REUS sin costo. Tu paso de esta semana: Registra tu número en el REPEP y en el REUS esta semana. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tus datos, tu identidad y los registros para que no te molesten. A Mari le llegan llamadas de bancos y tiendas todo el día. Y a Doña Tere le cobran un celular que nunca compró: alguien usó una copia de su INE que dejó en una tienda. En esta lección cuidarás tus datos. Entrega copias de tu INE con leyenda, rompe tus papeles y registra tu número en el REPEP y el REUS. Si usan tu identidad, reclama y denuncia. Recuerda: Copia con leyenda. Rompe tus papeles. REPEP y REUS sin costo. Tu paso de esta semana: Registra tu número en el REPEP y en el REUS esta semana. Nos escuchamos en la próxima lección.
 
 ## Módulo 8. Tu vejez y tus nietas
 
@@ -780,7 +843,7 @@ Hola. Hoy hablamos de esto: Sin juicio: beneficiarias en todo lo que tienes. Cua
 
 ```
 *M8 U05 · Tu casa, tu tierra y tu testamento*
-Revisa a nombre de quién están tu casa y tu tierra; regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
+Revisa a nombre de quién están tu casa y tu tierra. Regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento.
 
 • Revisa papeles de casa y tierra.
 • Lista de sucesión si es ejidal.
@@ -793,7 +856,7 @@ Lección: [por definir]
 
 **Audio** (131 palabras, unos 55 segundos)
 
-Hola. Hoy hablamos de esto: Tu casa, tu tierra y tu testamento. Doña Tere vive desde hace 30 años en una casa que era de su suegra. Nunca se escrituró. En su pueblo tiene una parcela ejidal que era de su papá. Si ella falta, no sabe qué pasaría con ninguna. En esta lección verás qué hacer. Revisa a nombre de quién están tu casa y tu tierra; regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento. Recuerda: Revisa papeles de casa y tierra. Lista de sucesión si es ejidal. Testamento en septiembre. Tu paso de esta semana: Anota a nombre de quién están tu casa y tu tierra, y aparta para tu testamento de septiembre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu casa, tu tierra y tu testamento. Doña Tere vive desde hace 30 años en una casa que era de su suegra. Nunca se escrituró. En su pueblo tiene una parcela ejidal que era de su papá. Si ella falta, no sabe qué pasaría con ninguna. En esta lección verás qué hacer. Revisa a nombre de quién están tu casa y tu tierra. Regulariza lo que no tenga papeles, registra tu lista de sucesión si es ejidal y haz tu testamento. Recuerda: Revisa papeles de casa y tierra. Lista de sucesión si es ejidal. Testamento en septiembre. Tu paso de esta semana: Anota a nombre de quién están tu casa y tu tierra, y aparta para tu testamento de septiembre. Nos escuchamos en la próxima lección.
 
 ### M8 U06 · Heredar sin sustos: deudas, impuestos y la plática en familia
 
@@ -801,7 +864,7 @@ Hola. Hoy hablamos de esto: Tu casa, tu tierra y tu testamento. Doña Tere vive 
 
 ```
 *M8 U06 · Heredar sin sustos: deudas, impuestos y la plática en familia*
-Heredar no paga ISR y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval; escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
+Heredar no paga ISR, y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval. Escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente.
 
 • Heredar no paga ISR.
 • Escriturar sí cuesta.
@@ -814,7 +877,7 @@ Lección: [por definir]
 
 **Audio** (136 palabras, unos 57 segundos)
 
-Hola. Hoy hablamos de esto: Heredar sin sustos: deudas, impuestos y la plática en familia. Cuando murió el papá de Mari, un despacho le dijo que ella tenía que pagar sus deudas. Y su hermano no quiere pasar la casa a su nombre porque «hay que pagar 30% de impuestos». En esta lección verás qué es cierto. Heredar no paga ISR y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval; escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente. Recuerda: Heredar no paga ISR. Escriturar sí cuesta. La familia no paga las deudas, salvo el aval. Tu paso de esta semana: Haz una plática en familia de 20 minutos: dónde está tu carpeta, quiénes son tus beneficiarias y si ya tienes testamento. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Heredar sin sustos: deudas, impuestos y la plática en familia. Cuando murió el papá de Mari, un despacho le dijo que ella tenía que pagar sus deudas. Y su hermano no quiere pasar la casa a su nombre porque «hay que pagar 30% de impuestos». En esta lección verás qué es cierto. Heredar no paga ISR, y tu familia no paga tus deudas con su dinero, salvo quien firmó como aval. Escriturar a tu nombre sí cuesta, y conviene no dejarlo pendiente. Recuerda: Heredar no paga ISR. Escriturar sí cuesta. La familia no paga las deudas, salvo el aval. Tu paso de esta semana: Haz una plática en familia de 20 minutos: dónde está tu carpeta, quiénes son tus beneficiarias y si ya tienes testamento. Nos escuchamos en la próxima lección.
 
 ## Módulo 9. Crecer y tu plan
 
@@ -866,7 +929,7 @@ Hola. Hoy hablamos de esto: Ofrece servicios extra y consigue clientas. Chayo qu
 
 ```
 *M9 U03 · Apps y agencias de limpieza: ¿cuánto te queda?*
-Compara por lo que te queda por hora después de comisiones y pasajes; una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
+Compara por lo que te queda por hora después de comisiones y pasajes. Una app puede ayudarte a empezar, pero revisa sus reglas y su comisión.
 
 • Lo que te queda, no lo que paga la clienta.
 • Pregunta la comisión.
@@ -879,7 +942,7 @@ Lección: [por definir]
 
 **Audio** (119 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: Apps y agencias de limpieza: ¿cuánto te queda? A Mari le ofrecen trabajar por una app de limpieza: «Te llegan clientas todos los días». La app se queda con una parte de lo que paga cada clienta. En esta lección sacarás cuentas. Compara por lo que te queda por hora después de comisiones y pasajes; una app puede ayudarte a empezar, pero revisa sus reglas y su comisión. Recuerda: Lo que te queda, no lo que paga la clienta. Pregunta la comisión. Revisa las reglas. Tu paso de esta semana: Si usas o piensas usar una app, pregunta su comisión y calcula lo que te queda por hora. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Apps y agencias de limpieza: ¿cuánto te queda? A Mari le ofrecen trabajar por una app de limpieza: «Te llegan clientas todos los días». La app se queda con una parte de lo que paga cada clienta. En esta lección sacarás cuentas. Compara por lo que te queda por hora después de comisiones y pasajes. Una app puede ayudarte a empezar, pero revisa sus reglas y su comisión. Recuerda: Lo que te queda, no lo que paga la clienta. Pregunta la comisión. Revisa las reglas. Tu paso de esta semana: Si usas o piensas usar una app, pregunta su comisión y calcula lo que te queda por hora. Nos escuchamos en la próxima lección.
 
 ### M9 U04 · Tu plan de una página y tu compromiso
 
@@ -887,7 +950,7 @@ Hola. Hoy hablamos de esto: Apps y agencias de limpieza: ¿cuánto te queda? A M
 
 ```
 *M9 U04 · Tu plan de una página y tu compromiso*
-Tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+Tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 • Tu plan en una hoja.
 • Meta con nombre, testigo y recordatorio.
@@ -900,7 +963,7 @@ Lección: [por definir]
 
 **Audio** (116 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de una página y tu compromiso. Doña Tere ya tiene su lista de deudas, su fondo, sus beneficiarias y su Afore, pero en papelitos sueltos. Quiere verlo todo junto. En esta lección harás tu plan de una página. Tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Tu plan en una hoja. Meta con nombre, testigo y recordatorio. Sin datos sensibles. Tu paso de esta semana: Llena tu plan de una página, escribe tu compromiso con nombre, monto y testigo, y pon tu recordatorio mensual. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de una página y tu compromiso. Doña Tere ya tiene su lista de deudas, su fondo, sus beneficiarias y su Afore, pero en papelitos sueltos. Quiere verlo todo junto. En esta lección harás tu plan de una página. Tu plan en una hoja, revisado cada semana, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Tu plan en una hoja. Meta con nombre, testigo y recordatorio. Sin datos sensibles. Tu paso de esta semana: Llena tu plan de una página, escribe tu compromiso con nombre, monto y testigo, y pon tu recordatorio mensual. Nos escuchamos en la próxima lección.
 
 ## Recordatorios mensuales del compromiso
 

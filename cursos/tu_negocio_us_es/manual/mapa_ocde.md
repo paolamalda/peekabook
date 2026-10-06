@@ -6,7 +6,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 |---|---|---|---|
 | OCDE negocios (2018) | N-A1 Pagos y depósitos del negocio | 10 | M4 U01, M1 U05 |
 | OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U03, M6 U02, M7 U07, M6 U05 |
-| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M5 U02, M7 U04, M5 U03, M5 U05, M5 U01, M9 U04 |
+| OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M5 U02, M7 U04, M5 U05, M5 U03, M5 U01, M9 U04 |
 | OCDE negocios (2018) | N-B2 Registros y contabilidad | 13 | M1 U01, M1 U04, M1 U06, M7 U07, M5 U03, M1 U03 |
 | OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M1 U02, M3 U01, M6 U05, M2 U04, M2 U03, M3 U02 |
 | OCDE negocios (2018) | N-B4 Planear más allá del corto plazo | 15 | M3 U04, M2 U02, M8 U01, M8 U05, M6 U01, M8 U06 |
@@ -102,7 +102,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-B1 · Registro, impuestos y obligaciones legales
 
-**Lecciones:** M5 U02 Números y permisos: EIN, ITIN y licencias; M7 U04 Tu marca y tu nombre; M5 U03 Tus impuestos federales como dueño; M5 U05 El impuesto sobre ventas (sales tax); M5 U01 ¿Dueño único, LLC u otra forma?; M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
+**Lecciones:** M5 U02 Números y permisos: EIN, ITIN y licencias; M7 U04 Tu marca y tu nombre; M5 U05 El impuesto sobre ventas (sales tax); M5 U03 Tus impuestos federales como dueño; M5 U01 ¿Dueño único, LLC u otra forma?; M9 U04 Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos
 
 *Conocimiento*
 

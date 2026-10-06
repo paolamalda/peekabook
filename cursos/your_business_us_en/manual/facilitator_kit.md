@@ -37,11 +37,11 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 **Key ideas**
 
 - M1 U01 · Is your business making money or just selling?: don't measure your business by what you sell, but by what you keep after paying everything.
-- M1 U02 · Keep business money separate from home money: separate the money and pay yourself a salary; you'll know whether your business makes money and your expenses will be ready for taxes.
+- M1 U02 · Keep business money separate from home money: separate the money and pay yourself a salary. You'll know whether your business makes money, and your expenses will be ready for taxes.
 - M1 U03 · Pay yourself a salary: taxes first, then reserve, then your fixed salary; that way neither your home nor the IRS catches you off guard.
 - M1 U04 · Records in 10 minutes a day: write things down every day, keep receipts and check every week; without records there are no decisions and no correct tax return.
 - M1 U05 · Online betting: business money isn't for gambling: business money and tax money are never for betting; chasing losses or betting on credit means it's already a problem.
-- M1 U06 · Your business, your decisions: your money in your name: your skills are your business's capital; keep your account, your payments and your decisions in your name, and if someone controls your money, get help.
+- M1 U06 · Your business, your decisions: your money in your name: your skills are your business's capital. Keep your account, your payments and your decisions in your name. If someone controls your money, get help.
 
 **Cases**
 
@@ -171,7 +171,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 
 - M5 U01 · Sole proprietor, LLC or something else?: an LLC protects, but it costs; compare it with your risk and your insurance, and do the paperwork on official sites.
 - M5 U02 · Numbers and permits: EIN, ITIN and licenses: the EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs.
-- M5 U03 · Your federal taxes as an owner: as an owner you pay 15.3% for Social Security and Medicare, plus income tax; set aside 25% to 30% of your profit and deduct your expenses with receipts.
+- M5 U03 · Your federal taxes as an owner: as an owner you pay 15.3% for Social Security and Medicare, plus income tax. Set aside 25% to 30% of your profit and deduct your expenses with receipts.
 - M5 U04 · Quarterly payments and 1099 forms: pay your taxes every quarter and report all your income; the IRS never demands gift cards or threatens arrest by phone.
 - M5 U05 · Sales tax: sales tax belongs to the state, not you; find out which sales are taxable, charge it separately and set it aside.
 
@@ -277,8 +277,9 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 - M8 U02 · Selling online and on platforms: set your price by channel, with all fees and shipping, and report everything you sell.
 - M8 U03 · Your monthly numbers: five numbers a month tell you what to improve: sales, margin, profit, cash and average ticket.
 - M8 U04 · Stress, business and family: your business needs you to be well; set hours, one day off and a weekly money talk lower the stress.
-- M8 U05 · Your one-page business plan and how to pitch it: your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve.
+- M8 U05 · Your one-page business plan and how to pitch it: your plan fits on one page and your pitch in two minutes. Use numbers from your records and no-cost advice, and seek financing from verified sources. If you hear no, ask what to improve.
 - M8 U06 · Your business and its surroundings: competition, economy, community and rule changes: watch competition, the economy, laws and your community through reliable sources, and adjust your plan in time.
+- M8 U07 · Pay advances and loans to your employees: an advance to your team comes out of your cash flow. Put it in writing and get a signed authorization. Don't let pay drop below minimum wage, and keep a monthly fund.
 
 **Cases**
 
@@ -310,8 +311,8 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 
 - M9 U01 · Your retirement when you work for yourself: keep your retirement separate from your business; check your Social Security and put something into a retirement account every month.
 - M9 U02 · If the business changes or you're not there: put in one folder what someone would need to keep your business running, or to close it, without you.
-- M9 U03 · Your one-page plan: your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
-- M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes: with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
+- M9 U03 · Your one-page plan: your plan fits on one page. Review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
+- M9 U04 · If you're not there: beneficiary accounts, your home, digital access and taxes: with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court. Inheriting pays no federal tax, except for huge estates. A large foreign inheritance is reported on Form 3520.
 
 **Cases**
 

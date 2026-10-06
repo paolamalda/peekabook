@@ -43,20 +43,25 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Apoyo fijo:** lo que decides dar cada mes a tu familia, con monto.
 - **Autonomía económica:** poder decidir sobre tu propio dinero.
 - **Aval:** persona que firma el pagaré y paga si quien pidió no paga.
+- **Convenio:** acuerdo por escrito entre los padres que aprueba un juez.
 - **Defensoría pública:** servicio de abogados sin costo que da el gobierno.
 - **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tu familia.
 - **Interés:** lo que pagas por usar dinero prestado.
 - **Obligado solidario:** persona que responde por todo el crédito como si lo hubiera pedido.
+- **Pensión alimenticia:** dinero para cubrir comida, casa, salud y escuela de las hijas e hijos.
 - **Referencia personal:** persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no firma ni se obliga a pagar.
 - **Violencia económica:** cuando otra persona controla, retiene o usa tu dinero o tus bienes para dominarte.
 
 ## Deudas: salir y no volver
 
+- **Adelanto:** parte de tu pago que te dan antes y luego te descuentan.
 - **App montadeudas:** app de préstamo sin registro que usa tus contactos y fotos para amenazarte y cobrarte de más.
 - **Avalancha:** pagar primero la deuda más cara.
+- **Avalúo:** el valor que la casa de empeño le pone a tu prenda.
 - **Bola de nieve:** pagar primero la deuda más chica.
 - **Buró de Crédito:** empresa que guarda tu historial de cómo pagas tus créditos.
 - **CAT:** Costo Anual Total: porcentaje que incluye intereses y comisiones de un crédito en un año.
+- **Demasía:** lo que sobra si venden tu prenda en más de lo que debías; es tuya.
 - **Gota a gota:** préstamo informal con cobro diario, intereses altísimos y cobranza con amenazas.
 - **Historial de crédito:** registro de tus créditos y de cómo los pagaste.
 - **Refrendo:** pago para alargar el plazo de un empeño sin perder la prenda.

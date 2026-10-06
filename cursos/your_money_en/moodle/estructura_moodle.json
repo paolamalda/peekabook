@@ -1,0 +1,758 @@
+{
+ "curso": "Your Money, Your Family, Your Future",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Your money in order",
+   "orden": 1,
+   "resumen": "<p>What comes in, what goes out and a plan for the month.</p><p><strong>Al terminar tendrás:</strong> an 8-week money calendar, a budget that also works in a tough month, a tax folder and a 90-day plan.</p><p><strong>14 lecciones</strong> de 10 a 15 minutos · unas 2.5 a 3.5 horas en total.</p>",
+   "minutos": [
+    140,
+    210
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Is all the money I receive money I earned?",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Why doesn't the same money go as far anymore?",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "What do I need to take care of first?",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Is getting paid every week the same as getting paid every month?",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Why is my deposit smaller than what I earned?",
+     "zip": "lecciones/05_M1_U05.zip",
+     "h5p": "h5p/M1_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Can a small purchase add up to a lot?",
+     "zip": "lecciones/06_M1_U06.zip",
+     "h5p": "h5p/M1_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Why am I short on money if I earn enough this month?",
+     "zip": "lecciones/07_M1_U07.zip",
+     "h5p": "h5p/M1_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "How do I decide what to use my money for?",
+     "zip": "lecciones/08_M1_U08.zip",
+     "h5p": "h5p/M1_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Does filing taxes mean I'll get money back?",
+     "zip": "lecciones/09_M1_U09.zip",
+     "h5p": "h5p/M1_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "Is everything I earn on my own for spending?",
+     "zip": "lecciones/10_M1_U10.zip",
+     "h5p": "h5p/M1_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "What tax benefits are there if I file with an ITIN?",
+     "zip": "lecciones/11_M1_U11.zip",
+     "h5p": "h5p/M1_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "How do I choose someone to help me with taxes?",
+     "zip": "lecciones/12_M1_U12.zip",
+     "h5p": "h5p/M1_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U12"
+    },
+    {
+     "orden": 13,
+     "nombre_actividad": "What should I know before I apply for public benefits?",
+     "zip": "lecciones/13_M1_U13.zip",
+     "h5p": "h5p/M1_U13_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U13"
+    },
+    {
+     "orden": 14,
+     "nombre_actividad": "How do I turn what I learned into something I can actually do?",
+     "zip": "lecciones/14_M1_U14.zip",
+     "h5p": "h5p/M1_U14_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U14"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Banks and sending money home",
+   "orden": 2,
+   "resumen": "<p>Where to keep your money and how to send more for less.</p><p><strong>Al terminar tendrás:</strong> a map of institutions, accounts compared by how you use money, three comparable remittance quotes, a sending calendar and a family agreement.</p><p><strong>13 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    130,
+    195
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Who takes care of my money and who provides the service?",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Is a money app always a bank?",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "What ID works for financial paperwork?",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "What do I need to open an account, and how much does it cost to keep it?",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Is all the balance I see available to spend?",
+     "zip": "lecciones/05_M2_U05.zip",
+     "h5p": "h5p/M2_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "How do I support my family without deciding at the last minute?",
+     "zip": "lecciones/06_M2_U06.zip",
+     "h5p": "h5p/M2_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "How much can I send, and when?",
+     "zip": "lecciones/07_M2_U07.zip",
+     "h5p": "h5p/M2_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Does \"no fee\" always mean more money arrives?",
+     "zip": "lecciones/08_M2_U08.zip",
+     "h5p": "h5p/M2_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "What do I check before sending, and what do I do if something goes wrong?",
+     "zip": "lecciones/09_M2_U09.zip",
+     "h5p": "h5p/M2_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "What happens when I borrow to send money?",
+     "zip": "lecciones/10_M2_U10.zip",
+     "h5p": "h5p/M2_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "How do I say how much I can help without promising too much?",
+     "zip": "lecciones/11_M2_U11.zip",
+     "h5p": "h5p/M2_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "How do I save for something that will be paid in pesos?",
+     "zip": "lecciones/12_M2_U12.zip",
+     "h5p": "h5p/M2_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U12"
+    },
+    {
+     "orden": 13,
+     "nombre_actividad": "How do I bring my account and my remittances into one plan?",
+     "zip": "lecciones/13_M2_U13.zip",
+     "h5p": "h5p/M2_U13_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U13"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Credit without surprises",
+   "orden": 3,
+   "resumen": "<p>Your history, your debts and how to get out of them.</p><p><strong>Al terminar tendrás:</strong> your credit path, a reviewed report, two financing options compared, a debt inventory with a strategy and a payment calendar.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "If they lend me money, does that mean I can pay it back?",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "How do I know what information is used about my debts?",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "How do I start if I have no credit history?",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Does improving my credit mean erasing everything?",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Why can a small payment end up costing more?",
+     "zip": "lecciones/05_M3_U05.zip",
+     "h5p": "h5p/M3_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Which debt do I start with?",
+     "zip": "lecciones/06_M3_U06.zip",
+     "h5p": "h5p/M3_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "What do I do if I know I won't be able to pay?",
+     "zip": "lecciones/07_M3_U07.zip",
+     "h5p": "h5p/M3_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Can signing to help someone leave me with a debt?",
+     "zip": "lecciones/08_M3_U08.zip",
+     "h5p": "h5p/M3_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Does a tanda help me build credit?",
+     "zip": "lecciones/09_M3_U09.zip",
+     "h5p": "h5p/M3_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "What's my next step with credit?",
+     "zip": "lecciones/10_M3_U10.zip",
+     "h5p": "h5p/M3_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "Is a paycheck advance money at no cost?",
+     "zip": "lecciones/11_M3_U11.zip",
+     "h5p": "h5p/M3_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "Is pawning a good way out?",
+     "zip": "lecciones/12_M3_U12.zip",
+     "h5p": "h5p/M3_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U12"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Protect what's yours",
+   "orden": 4,
+   "resumen": "<p>Scams, insurance and a plan for your family.</p><p><strong>Al terminar tendrás:</strong> your pause rule, a fraud response protocol, a review of your coverage, a staged reserve and your family preparedness plan.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Why is someone pushing me to act right now?",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Who can really help me with an immigration case?",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "What protects my accounts besides a password?",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "What do I do if I already shared information or see something strange?",
+     "zip": "lecciones/04_M4_U04.zip",
+     "h5p": "h5p/M4_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Is talking about money the same as controlling someone?",
+     "zip": "lecciones/05_M4_U05.zip",
+     "h5p": "h5p/M4_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "What is setting aside a little money for?",
+     "zip": "lecciones/06_M4_U06.zip",
+     "h5p": "h5p/M4_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Does having insurance mean I won't pay anything?",
+     "zip": "lecciones/07_M4_U07.zip",
+     "h5p": "h5p/M4_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Is this medical document asking me to pay?",
+     "zip": "lecciones/08_M4_U08.zip",
+     "h5p": "h5p/M4_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "How do I pay for the essentials if I can't work for a few days?",
+     "zip": "lecciones/09_M4_U09.zip",
+     "h5p": "h5p/M4_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "What happens to my family and my money if I can't be there?",
+     "zip": "lecciones/10_M4_U10.zip",
+     "h5p": "h5p/M4_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "How do I know if my protection plan works?",
+     "zip": "lecciones/11_M4_U11.zip",
+     "h5p": "h5p/M4_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "How do I make sure child support reaches my kids?",
+     "zip": "lecciones/12_M4_U12.zip",
+     "h5p": "h5p/M4_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U12"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Your future",
+   "orden": 5,
+   "resumen": "<p>Goals, savings, housing and retirement.</p><p><strong>Al terminar tendrás:</strong> your goals with amount, date and priority; savings, investment, housing and retirement decisions with full costs; your binational map; and an integrated financial plan.</p><p><strong>12 lecciones</strong> de 10 a 15 minutos · unas 2 a 3 horas en total.</p>",
+   "minutos": [
+    120,
+    180
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "How do I turn a wish into a goal?",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Does having more money mean my investment made money?",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Does opening an account mean I already invested?",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Rent or buy? What rights do I have as a tenant?",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Is the advertised price all it costs?",
+     "zip": "lecciones/05_M5_U05.zip",
+     "h5p": "h5p/M5_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "What will I live on when I work less or stop working?",
+     "zip": "lecciones/06_M5_U06.zip",
+     "h5p": "h5p/M5_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "What happens to what I saved in Mexico?",
+     "zip": "lecciones/07_M5_U07.zip",
+     "h5p": "h5p/M5_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "What happens to my family if something happens to me?",
+     "zip": "lecciones/08_M5_U08.zip",
+     "h5p": "h5p/M5_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "How do I plan when my income changes every month?",
+     "zip": "lecciones/09_M5_U09.zip",
+     "h5p": "h5p/M5_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U09"
+    },
+    {
+     "orden": 10,
+     "nombre_actividad": "How do I formalize my business?",
+     "zip": "lecciones/10_M5_U10.zip",
+     "h5p": "h5p/M5_U10_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U10"
+    },
+    {
+     "orden": 11,
+     "nombre_actividad": "What's my financial plan?",
+     "zip": "lecciones/11_M5_U11.zip",
+     "h5p": "h5p/M5_U11_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U11"
+    },
+    {
+     "orden": 12,
+     "nombre_actividad": "What happens if I inherit or leave something across two countries?",
+     "zip": "lecciones/12_M5_U12.zip",
+     "h5p": "h5p/M5_U12_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U12"
+    }
+   ]
+  }
+ ]
+}

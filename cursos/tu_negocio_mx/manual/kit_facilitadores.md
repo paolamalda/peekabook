@@ -40,7 +40,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M1 U03 · Págate un sueldo: un sueldo fijo protege a tu casa de los altibajos del negocio y protege al negocio de tus gastos.
 - M1 U04 · Registros en 10 minutos al día: anota cada día y haz un corte cada semana; sin registros no hay decisiones.
 - M1 U05 · Apuestas en línea: el dinero del negocio no se juega: el dinero del negocio no se juega; si apuestas para recuperar o con crédito, ya es un problema.
-- M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre: tus habilidades son el capital de tu negocio; ten tu cuenta, tus registros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+- M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre: tus habilidades son el capital de tu negocio. Ten tu cuenta, tus registros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 **Casos**
 
@@ -240,10 +240,10 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M7 U02 · Seguros para tu negocio: identifica lo que no podrías reponer y asegúralo; lee exclusiones y deducible antes de firmar.
 - M7 U03 · Fraudes a negocios: ninguna autoridad cobra por teléfono ni pide depósitos para evitar clausuras; cuelga, verifica y denuncia.
 - M7 U04 · Tu marca y tu nombre: busca en MarcaNET antes de invertir en un nombre y regístralo cuando empiece a vender.
-- M7 U05 · Tu identidad y la de tu negocio: tus datos personales son los de tu negocio: revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
+- M7 U05 · Tu identidad y la de tu negocio: tus datos personales son los de tu negocio. Revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
 - M7 U06 · Fraudes con inteligencia artificial: voces, videos y mensajes falsos: una voz o una cara conocidas ya no son prueba; confirma cualquier pedido de dinero por un medio que tú elijas.
 - M7 U07 · Si llega un desastre: tu negocio preparado: respaldo, fotos, seguro con las coberturas correctas y reserva en cuenta: con eso tu negocio vuelve a abrir más rápido.
-- M7 U08 · Si faltas: seguro de vida y gastos funerarios: si alguien depende de ti, un seguro temporal con la suma correcta y beneficiarios al día protege a tu familia y a tu negocio.
+- M7 U08 · Si faltas: seguro de vida y gastos funerarios: si alguien depende de ti, un seguro temporal protege a tu familia y a tu negocio. Que tenga la suma correcta y beneficiarios al día.
 
 **Casos**
 
@@ -277,8 +277,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U02 · Vender en línea y en plataformas: registra tu RFC en la plataforma y calcula tu precio con comisión, envío y retenciones.
 - M8 U03 · Tus números del mes: cinco números al mes te dicen qué mejorar: ventas, margen, ganancia, flujo y ticket promedio.
 - M8 U04 · Estrés, negocio y familia: tu negocio necesita que estés bien; un horario, un día de descanso y una plática de dinero semanal bajan el estrés.
-- M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo: tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros, pide apoyo en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+- M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo: tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y pide apoyo en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 - M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley: vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo.
+- M8 U07 · Adelantos y préstamos a tus empleados: un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo. Ponlo por escrito, con tope y con un fondo al mes.
 
 **Casos**
 
@@ -310,7 +311,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M9 U01 · Tu retiro si trabajas por tu cuenta: separa tu retiro de tu negocio; localiza tu AFORE y aporta algo fijo cada mes.
 - M9 U02 · Si el negocio cambia o si faltas: deja en una carpeta lo que alguien necesitaría para seguir o cerrar tu negocio sin ti.
-- M9 U03 · Tu plan de una página: tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+- M9 U03 · Tu plan de una página: tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 - M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia: tu sucesión va más allá del testamento: beneficiarios, lista de sucesión si hay tierra ejidal, acuerdos con socios y accesos digitales. Heredar no paga ISR, pero escriturar sí cuesta, y el RFC no se hereda.
 
 **Casos**

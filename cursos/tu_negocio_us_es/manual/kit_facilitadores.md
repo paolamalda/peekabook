@@ -41,7 +41,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M1 U03 · Págate un sueldo: primero impuestos, luego reserva, luego tu sueldo fijo; así ni tu casa ni el IRS te sorprenden.
 - M1 U04 · Registros en 10 minutos al día: anota cada día, guarda recibos y haz un corte cada semana; sin registros no hay decisiones ni declaración correcta.
 - M1 U05 · Apuestas en línea: el dinero del negocio no se juega: el dinero del negocio y el de impuestos no se juegan; apostar para recuperar o con crédito ya es un problema.
-- M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre: tus habilidades son el capital de tu negocio; ten tu cuenta, tus cobros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+- M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre: tus habilidades son el capital de tu negocio. Ten tu cuenta, tus cobros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 **Casos**
 
@@ -72,7 +72,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M2 U01 · Costos fijos y variables: suma a cada producto lo que gastas en él y la parte que le toca de tus costos fijos.
-- M2 U02 · ¿Cuánto cobrar?: tu costo es el piso; el margen es lo que te permite crecer y pagar impuestos; la competencia y el valor te dicen hasta dónde subir.
+- M2 U02 · ¿Cuánto cobrar?: tu costo es el piso. El margen es lo que te permite crecer y pagar impuestos. La competencia y el valor te dicen hasta dónde subir.
 - M2 U03 · Tu punto de equilibrio: conoce tu venta mínima de cada día; es tu meta para no perder.
 - M2 U04 · Inventario y merma: compra lo que rota, mide lo que tiras y no dejes tu dinero parado.
 
@@ -170,9 +170,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M5 U01 · ¿Dueño único, LLC u otra forma?: la LLC protege, pero cuesta; compara con tu riesgo y tu seguro, y haz los trámites en los sitios oficiales.
-- M5 U02 · Números y permisos: EIN, ITIN y licencias: el EIN y el seller's permit no tienen costo en los sitios oficiales; revisa en tu ciudad y tu condado qué licencias pide tu giro.
-- M5 U03 · Tus impuestos federales como dueño: como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta; aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
-- M5 U04 · Pagos trimestrales y formularios 1099: paga tus impuestos cada trimestre y declara todo tu ingreso; el IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
+- M5 U02 · Números y permisos: EIN, ITIN y licencias: el EIN y el seller's permit no tienen costo en los sitios oficiales. Revisa en tu ciudad y tu condado qué licencias pide tu giro.
+- M5 U03 · Tus impuestos federales como dueño: como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta. Aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
+- M5 U04 · Pagos trimestrales y formularios 1099: paga tus impuestos cada trimestre y declara todo tu ingreso. El IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
 - M5 U05 · El impuesto sobre ventas (sales tax): el sales tax es del estado, no tuyo; averigua qué ventas lo llevan, cóbralo aparte y sepáralo.
 
 **Casos**
@@ -237,7 +237,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M7 U01 · Tu salud si trabajas por tu cuenta: si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias; una emergencia sin seguro puede costarte tu negocio.
+- M7 U01 · Tu salud si trabajas por tu cuenta: si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias. Una emergencia sin seguro puede costarte tu negocio.
 - M7 U02 · Seguros para tu negocio: asegura lo que no podrías reponer y lo que tus clientes te piden; tu seguro personal casi nunca cubre el negocio.
 - M7 U03 · Fraudes a negocios: ninguna autoridad cobra por teléfono ni pide pagos inmediatos con tarjetas de regalo; verifica en el sitio oficial antes de pagar cualquier carta.
 - M7 U04 · Tu marca y tu nombre: busca en la USPTO antes de invertir en un nombre y regístralo cuando empiece a vender fuera de tu zona.
@@ -277,8 +277,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U02 · Vender en línea y en plataformas: calcula tu precio por canal, con todas las comisiones y el envío, y declara todo lo que vendes.
 - M8 U03 · Tus números del mes: cinco números al mes te dicen qué mejorar: ventas, margen, ganancia, efectivo y ticket promedio.
 - M8 U04 · Estrés, negocio y familia: tu negocio necesita que estés bien; un horario, un día de descanso y una plática de dinero semanal bajan el estrés.
-- M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo: tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros y asesoría sin costo, pide financiamiento en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+- M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo: tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y asesoría sin costo, y pide financiamiento en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 - M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley: vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo.
+- M8 U07 · Adelantos y préstamos a tus empleados: un adelanto a tu equipo sale de tu flujo. Ponlo por escrito, con autorización firmada, sin dejar el pago por debajo del mínimo y con un fondo al mes.
 
 **Casos**
 
@@ -310,8 +311,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M9 U01 · Tu retiro si trabajas por tu cuenta: separa tu retiro de tu negocio; revisa tu Seguro Social y aporta algo fijo cada mes a una cuenta de retiro.
 - M9 U02 · Si el negocio cambia o si faltas: deja en una carpeta lo que alguien necesitaría para seguir o cerrar tu negocio sin ti.
-- M9 U03 · Tu plan de una página: tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
-- M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos: con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520.
+- M9 U03 · Tu plan de una página: tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+- M9 U04 · Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos: con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte. Heredar no paga impuesto federal, salvo herencias enormes. Una herencia grande del extranjero se reporta con el Formulario 3520.
 
 **Casos**
 

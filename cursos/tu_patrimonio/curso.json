@@ -290,5 +290,52 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu dinero hoy",
+   "descripcion": "Un mapa de lo que entra, lo que sale y lo que tienes."
+  },
+  "M2": {
+   "titulo": "El sistema financiero",
+   "descripcion": "Bancos, instituciones y cómo verificar a quién le confías tu dinero."
+  },
+  "M3": {
+   "titulo": "El celular sin miedo",
+   "descripcion": "Banca en el celular, pagos y cuidados básicos."
+  },
+  "M4": {
+   "titulo": "Que no te pase",
+   "descripcion": "Fraudes comunes y cómo reconocerlos a tiempo."
+  },
+  "M5": {
+   "titulo": "Tus cuentas y tu ahorro",
+   "descripcion": "Dónde guardar tu dinero y cómo está protegido."
+  },
+  "M6": {
+   "titulo": "Tus inversiones",
+   "descripcion": "Opciones para que tu ahorro crezca, con sus riesgos."
+  },
+  "M7": {
+   "titulo": "Pensión y retiro",
+   "descripcion": "Tu Afore, tu pensión y lo que te toca."
+  },
+  "M8": {
+   "titulo": "Salud y seguros",
+   "descripcion": "Cómo proteger tu salud y lo que tienes."
+  },
+  "M9": {
+   "titulo": "Impuestos sin miedo",
+   "descripcion": "Lo que necesitas saber de impuestos."
+  },
+  "M10": {
+   "titulo": "Patrimonio y familia",
+   "descripcion": "Tu casa, tu testamento y lo que dejas a los tuyos."
+  },
+  "M11": {
+   "titulo": "Tu plan",
+   "descripcion": "Decidir con calma y poner todo en una hoja."
+  }
  }
 }

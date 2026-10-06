@@ -4,15 +4,12 @@ This guide is for Moodle 4.5 with Level Up (block_xp) and the Custom certificate
 
 The goal is to motivate without competing. Points reward progress, not perfect scores. Nobody's name is ever shown in a table.
 
-## 1. What each module has
+## 1. What each part has
 
 | Activity | How many | Completion |
 |---|---|---|
-| Book "Module N lessons" | 1 per module (5) | View |
-| H5P activity "MN UYY · What would you do?" | 1 per lesson (63) | Receive a grade |
-| Quiz "Module N self-assessment" | 1 per module (5) | Passing grade of 70% |
-
-**Each H5P activity:** no download button, copyright button on, embed off; attempt tracking with "Highest grade"; completion "Student must receive a grade".
+| One book per lesson (with the practice embedded) | 63 | View |
+| Quiz "Module N self-assessment" | 1 per part (5) | Passing grade of 70% |
 
 **Self-assessments:** use the bank of 189 three-option questions with feedback, in categories *Your Money v3.4/M1* to *M5*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
 
@@ -25,14 +22,13 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 3. **For posting in the forum:** 5 points, event "Post created" (`\mod_forum\event\post_created`).
 4. Keep cheat guard on.
 
-Completing the whole course gives about 1,825 points:
+Completing the whole course gives about 1,700 points:
 
 | Activities | How many | Points |
 |---|---|---|
-| H5P activities | 63 | 1,575 |
-| Books | 5 | 125 |
+| Lessons | 63 | 1,575 |
 | Self-assessments | 5 | 125 |
-| **Total** | 73 | **1,825** |
+| **Total** | 68 | **1,700** |
 
 **Levels** (6 levels, no automatic algorithm):
 
@@ -45,7 +41,7 @@ Completing the whole course gives about 1,825 points:
 | 5 | Protecting my family | 1,150 | During Module 4 |
 | 6 | Building my future | 1,500 | During Module 5 |
 
-**Ladder:** anonymity on; show only nearby neighbors or turn it off.
+**Ladder (leaderboard): off.** In *Level Up > Ladder* choose not to show it, and remove or hide the leaderboard block. Each person sees only their own points, level and badges.
 
 ## 3. Badges
 

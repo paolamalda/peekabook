@@ -1,0 +1,608 @@
+{
+ "curso": "Tu Negocio, Tu Dinero, Tu Futuro · EE. UU.",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Dinero separado",
+   "orden": 1,
+   "resumen": "<p>Tu negocio y tu casa, cada uno con su dinero.</p><p><strong>Al terminar tendrás:</strong> tu dinero del negocio separado del de tu casa, tu sueldo fijo y tus registros al día.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Tu negocio gana o solo vende?",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Separa el dinero del negocio y de tu casa",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Págate un sueldo",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Registros en 10 minutos al día",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Apuestas en línea: el dinero del negocio no se juega",
+     "zip": "lecciones/05_M1_U05.zip",
+     "h5p": "h5p/M1_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Tu negocio, tus decisiones: tu dinero a tu nombre",
+     "zip": "lecciones/06_M1_U06.zip",
+     "h5p": "h5p/M1_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Costos y precio",
+   "orden": 2,
+   "resumen": "<p>Cuánto te cuesta lo que vendes y cuánto cobrar.</p><p><strong>Al terminar tendrás:</strong> tus costos calculados, tu precio con margen y tu punto de equilibrio.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Costos fijos y variables",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿Cuánto cobrar?",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu punto de equilibrio",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Inventario y merma",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Flujo de efectivo",
+   "orden": 3,
+   "resumen": "<p>Que no te falte dinero para operar.</p><p><strong>Al terminar tendrás:</strong> tu calendario de entradas y salidas, tu política de fiado y tu reserva para temporada baja.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Ganar no es tener efectivo",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Crédito a clientes, facturas y cobranza",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu reserva y las temporadas bajas",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Inflación, tasas e interés compuesto en tu negocio",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Cobrar y vender sin perder",
+   "orden": 4,
+   "resumen": "<p>Formas de cobro, ventas en línea y fraudes.</p><p><strong>Al terminar tendrás:</strong> tus formas de cobro comparadas y tu protocolo contra fraudes al vender.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Efectivo, tarjeta, apps o link de pago",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Cobros por apps y transferencias seguras",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Fraudes al vender",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Formalízate e impuestos",
+   "orden": 5,
+   "resumen": "<p>Tus permisos, tu registro y tus impuestos.</p><p><strong>Al terminar tendrás:</strong> tu estructura, tus números fiscales, tus permisos, tus pagos estimados y tu sales tax en orden.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Dueño único, LLC u otra forma?",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Números y permisos: EIN, ITIN y licencias",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tus impuestos federales como dueño",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Pagos trimestrales y formularios 1099",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "El impuesto sobre ventas (sales tax)",
+     "zip": "lecciones/05_M5_U05.zip",
+     "h5p": "h5p/M5_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Crédito para tu negocio",
+   "orden": 6,
+   "resumen": "<p>Opciones de crédito y cómo verificarlas.</p><p><strong>Al terminar tendrás:</strong> saber si necesitas crédito, cuánto cuesta y cómo no mezclarlo con tus deudas personales.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Necesitas crédito?",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Opciones de crédito y cómo verificarlas",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "El costo total: APR, cuotas y garantías",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "No mezcles deudas y cuida con ser cofirmante",
+     "zip": "lecciones/04_M6_U04.zip",
+     "h5p": "h5p/M6_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Cofirmante, garante, usuario autorizado y referencia: ¿qué firmas?",
+     "zip": "lecciones/05_M6_U05.zip",
+     "h5p": "h5p/M6_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Protege tu negocio",
+   "orden": 7,
+   "resumen": "<p>Seguros, salud, fraudes y tus datos.</p><p><strong>Al terminar tendrás:</strong> tu seguro médico, tus seguros del negocio, tu marca y tu protección contra fraudes.</p><p><strong>7 lecciones</strong> de 10 a 15 minutos · unas 1 a 2 horas en total.</p>",
+   "minutos": [
+    70,
+    105
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu salud si trabajas por tu cuenta",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Seguros para tu negocio",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Fraudes a negocios",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu marca y tu nombre",
+     "zip": "lecciones/04_M7_U04.zip",
+     "h5p": "h5p/M7_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Robo de identidad y llamadas no deseadas",
+     "zip": "lecciones/05_M7_U05.zip",
+     "h5p": "h5p/M7_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Fraudes con inteligencia artificial: voces, videos y mensajes falsos",
+     "zip": "lecciones/06_M7_U06.zip",
+     "h5p": "h5p/M7_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Si llega un desastre: tu negocio preparado",
+     "zip": "lecciones/07_M7_U07.zip",
+     "h5p": "h5p/M7_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U07"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Crecer con orden",
+   "orden": 8,
+   "resumen": "<p>Contratar, invertir y crecer sin perder el control.</p><p><strong>Al terminar tendrás:</strong> tus reglas para contratar, vender en línea y medir cómo va tu negocio.</p><p><strong>7 lecciones</strong> de 10 a 15 minutos · unas 1 a 2 horas en total.</p>",
+   "minutos": [
+    70,
+    105
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Contratar ayuda",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Vender en línea y en plataformas",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tus números del mes",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Estrés, negocio y familia",
+     "zip": "lecciones/04_M8_U04.zip",
+     "h5p": "h5p/M8_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Tu plan de negocio en una hoja y cómo presentarlo",
+     "zip": "lecciones/05_M8_U05.zip",
+     "h5p": "h5p/M8_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley",
+     "zip": "lecciones/06_M8_U06.zip",
+     "h5p": "h5p/M8_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Adelantos y préstamos a tus empleados",
+     "zip": "lecciones/07_M8_U07.zip",
+     "h5p": "h5p/M8_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U07"
+    }
+   ]
+  },
+  {
+   "modulo": "M9",
+   "seccion": "Tu futuro",
+   "orden": 9,
+   "resumen": "<p>Tu retiro, tu herencia y tu plan.</p><p><strong>Al terminar tendrás:</strong> tu Seguro Social revisado, tu cuenta de retiro, tu plan si el negocio cambia y tu plan de una página.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu retiro si trabajas por tu cuenta",
+     "zip": "lecciones/01_M9_U01.zip",
+     "h5p": "h5p/M9_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Si el negocio cambia o si faltas",
+     "zip": "lecciones/02_M9_U02.zip",
+     "h5p": "h5p/M9_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de una página",
+     "zip": "lecciones/03_M9_U03.zip",
+     "h5p": "h5p/M9_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Si faltas: cuentas con beneficiario, tu casa, lo digital y los impuestos",
+     "zip": "lecciones/04_M9_U04.zip",
+     "h5p": "h5p/M9_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U04"
+    }
+   ]
+  }
+ ]
+}

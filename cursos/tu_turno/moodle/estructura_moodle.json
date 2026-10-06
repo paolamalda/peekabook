@@ -1,0 +1,585 @@
+{
+ "curso": "Tu Turno, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu quincena rinde",
+   "orden": 1,
+   "resumen": "<p>Un plan para tu quincena y tus turnos extra.</p><p><strong>Al terminar tendrás:</strong> tu presupuesto de quincena con turnos 24 por 24 y tu ahorro apartado primero.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Cuánto entra de verdad?",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu presupuesto de turno",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Los gastos del turno que no ves",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Aparta primero",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Dinero y estrés: cómo hablarlo en casa",
+     "zip": "lecciones/05_M1_U05.zip",
+     "h5p": "h5p/M1_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Compra inteligente: precio por unidad, publicidad y pagos chiquitos",
+     "zip": "lecciones/06_M1_U06.zip",
+     "h5p": "h5p/M1_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu cuenta y tu dinero",
+   "orden": 2,
+   "resumen": "<p>Tu cuenta de nómina y cómo sacarle provecho.</p><p><strong>Al terminar tendrás:</strong> una cuenta sin comisiones y la forma de cobrar, pagar y reclamar sin riesgos.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Una cuenta sin comisiones",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Cobrar y pagar sin perder dinero",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Quién te protege y dónde reclamar",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "¿A quién le crees? Información confiable y cambios que te afectan",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "El dinero pierde valor: inflación e interés compuesto",
+     "zip": "lecciones/05_M2_U05.zip",
+     "h5p": "h5p/M2_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Tu dinero a trabajar: primeros pasos para invertir",
+     "zip": "lecciones/06_M2_U06.zip",
+     "h5p": "h5p/M2_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "Tus deudas claras",
+   "orden": 3,
+   "resumen": "<p>Cuánto debes, cuánto cuesta y cómo salir.</p><p><strong>Al terminar tendrás:</strong> tu lista de deudas, lo que te cuesta cada una y tu plan para salir.</p><p><strong>7 lecciones</strong> de 10 a 15 minutos · unas 1 a 2 horas en total.</p>",
+   "minutos": [
+    70,
+    105
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "¿Cuánto debes en total?",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Lo que de verdad cuesta un préstamo",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Prestamistas y «gota a gota»",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu plan para salir de deudas",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Apuestas en línea: cuando el juego se vuelve deuda",
+     "zip": "lecciones/05_M3_U05.zip",
+     "h5p": "h5p/M3_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Préstamo de nómina, FONACOT y adelantos: lo que te descuentan",
+     "zip": "lecciones/06_M3_U06.zip",
+     "h5p": "h5p/M3_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Empeñar sin perder tu prenda",
+     "zip": "lecciones/07_M3_U07.zip",
+     "h5p": "h5p/M3_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U07"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Tandas y ahorro en grupo",
+   "orden": 4,
+   "resumen": "<p>Ahorrar con otras personas, con reglas claras.</p><p><strong>Al terminar tendrás:</strong> tus reglas para una tanda más segura o tu propio ahorro.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tandas: cómo funcionan y qué puede salir mal",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu tanda con reglas o tu propio ahorro",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu casa: Infonavit y el crédito de 100 puntos",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Buró de Crédito sin miedo",
+   "orden": 5,
+   "resumen": "<p>Tu historial y cómo cuidarlo.</p><p><strong>Al terminar tendrás:</strong> tu reporte de crédito revisado y cómo mejorar tu historial.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Qué es el Buró de Crédito",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu reporte sin costo y cómo reclamar",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Cómo mejorar tu historial",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Aval, obligado solidario, fiador y referencia: ¿qué firmas?",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Que no te extorsionen",
+   "orden": 6,
+   "resumen": "<p>Fraudes, extorsiones y cómo protegerte.</p><p><strong>Al terminar tendrás:</strong> tu protocolo contra fraudes, apps montadeudas y extorsión.</p><p><strong>6 lecciones</strong> de 10 a 15 minutos · unas 1 a 1.5 horas en total.</p>",
+   "minutos": [
+    60,
+    90
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Llamadas y mensajes falsos",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Apps «montadeudas»",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Extorsión telefónica",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Si ya te pasó: qué hacer",
+     "zip": "lecciones/04_M6_U04.zip",
+     "h5p": "h5p/M6_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Tu identidad y que dejen de llamarte",
+     "zip": "lecciones/05_M6_U05.zip",
+     "h5p": "h5p/M6_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Voces y videos falsos con inteligencia artificial",
+     "zip": "lecciones/06_M6_U06.zip",
+     "h5p": "h5p/M6_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U06"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Tu familia y los imprevistos",
+   "orden": 7,
+   "resumen": "<p>Salud, seguros, herencia y lo que pasa si faltas.</p><p><strong>Al terminar tendrás:</strong> tu fondo de emergencia y tu protección para la familia.</p><p><strong>9 lecciones</strong> de 10 a 15 minutos · unas 1.5 a 2 horas en total.</p>",
+   "minutos": [
+    90,
+    135
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu fondo de emergencia, de poco a poco",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu salud y la de tu familia: estar preparado",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Seguro de vida, gastos funerarios y beneficiarios",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Si llega un desastre: sismo, inundación o incendio",
+     "zip": "lecciones/04_M7_U04.zip",
+     "h5p": "h5p/M7_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Salud para tu familia: el seguro del IMSS que pagas tú",
+     "zip": "lecciones/05_M7_U05.zip",
+     "h5p": "h5p/M7_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U05"
+    },
+    {
+     "orden": 6,
+     "nombre_actividad": "Que tu familia no quede atorada: beneficiarios y testamento",
+     "zip": "lecciones/06_M7_U06.zip",
+     "h5p": "h5p/M7_U06_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U06"
+    },
+    {
+     "orden": 7,
+     "nombre_actividad": "Tu casa, tu tierra y lo que se hereda",
+     "zip": "lecciones/07_M7_U07.zip",
+     "h5p": "h5p/M7_U07_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U07"
+    },
+    {
+     "orden": 8,
+     "nombre_actividad": "Tu dinero, tu decisión: violencia económica en casa",
+     "zip": "lecciones/08_M7_U08.zip",
+     "h5p": "h5p/M7_U08_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U08"
+    },
+    {
+     "orden": 9,
+     "nombre_actividad": "Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos",
+     "zip": "lecciones/09_M7_U09.zip",
+     "h5p": "h5p/M7_U09_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U09"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "Tu futuro",
+   "orden": 8,
+   "resumen": "<p>Tu Afore, tu vivienda y tu plan.</p><p><strong>Al terminar tendrás:</strong> tu ahorro para el retiro, tu ingreso extra y tu plan de una página.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Ahorro para el retiro por tu cuenta",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Un ingreso extra en tus días de descanso",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de una página",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    }
+   ]
+  }
+ ]
+}

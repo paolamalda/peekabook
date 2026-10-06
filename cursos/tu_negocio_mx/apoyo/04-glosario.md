@@ -111,6 +111,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Crecer con orden
 
+- **Anticipo de salario:** parte del sueldo que se paga antes y luego se descuenta, sin intereses.
 - **CFDI de retenciones:** comprobante de lo que te retuvieron.
 - **Entorno:** lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.
 - **Estrés financiero:** preocupación constante por el dinero que afecta tu sueño, tu salud o tus relaciones.

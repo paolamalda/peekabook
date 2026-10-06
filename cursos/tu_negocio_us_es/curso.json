@@ -294,5 +294,44 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Dinero separado",
+   "descripcion": "Tu negocio y tu casa, cada uno con su dinero."
+  },
+  "M2": {
+   "titulo": "Costos y precio",
+   "descripcion": "Cuánto te cuesta lo que vendes y cuánto cobrar."
+  },
+  "M3": {
+   "titulo": "Flujo de efectivo",
+   "descripcion": "Que no te falte dinero para operar."
+  },
+  "M4": {
+   "titulo": "Cobrar y vender sin perder",
+   "descripcion": "Formas de cobro, ventas en línea y fraudes."
+  },
+  "M5": {
+   "titulo": "Formalízate e impuestos",
+   "descripcion": "Tus permisos, tu registro y tus impuestos."
+  },
+  "M6": {
+   "titulo": "Crédito para tu negocio",
+   "descripcion": "Opciones de crédito y cómo verificarlas."
+  },
+  "M7": {
+   "titulo": "Protege tu negocio",
+   "descripcion": "Seguros, salud, fraudes y tus datos."
+  },
+  "M8": {
+   "titulo": "Crecer con orden",
+   "descripcion": "Contratar, invertir y crecer sin perder el control."
+  },
+  "M9": {
+   "titulo": "Tu futuro",
+   "descripcion": "Tu retiro, tu herencia y tu plan."
+  }
  }
 }

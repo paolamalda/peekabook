@@ -300,5 +300,45 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
- }
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Separate money",
+   "descripcion": "Your business and your home, each with its own money."
+  },
+  "M2": {
+   "titulo": "Costs and price",
+   "descripcion": "What it costs you to make what you sell, and what to charge."
+  },
+  "M3": {
+   "titulo": "Cash flow",
+   "descripcion": "Never run short of money to operate."
+  },
+  "M4": {
+   "titulo": "Get paid and sell without losing",
+   "descripcion": "Ways to get paid, online sales and scams."
+  },
+  "M5": {
+   "titulo": "Formalize and taxes",
+   "descripcion": "Your permits, your registration and your taxes."
+  },
+  "M6": {
+   "titulo": "Credit for your business",
+   "descripcion": "Credit options and how to check them."
+  },
+  "M7": {
+   "titulo": "Protect your business",
+   "descripcion": "Insurance, health, scams and your data."
+  },
+  "M8": {
+   "titulo": "Grow in an orderly way",
+   "descripcion": "Hiring, investing and growing without losing control."
+  },
+  "M9": {
+   "titulo": "Your future",
+   "descripcion": "Your retirement, your inheritance and your plan."
+  }
+ },
+ "objetivo_general": "separate their business money from their household money, calculate their costs and set prices with a profit, manage their cash flow, get paid and sell without losing, formalize their business and meet their tax obligations in the United States, evaluate the real cost of business credit, protect their business, grow in an orderly way and plan their retirement"
 }

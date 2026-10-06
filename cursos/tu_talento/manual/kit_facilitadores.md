@@ -144,7 +144,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M4 U02 · Bancos, bancos digitales y otras entidades: ¿cuál es cuál?: busca el nombre legal en tu contrato, no el nombre comercial.
 - M4 U03 · ¿Cómo verifico una institución antes de contratar?: si no aparece en el SIPRES, no contrates.
 - M4 U04 · Tus derechos como usuario: reclama por escrito y con folio. Si no te resuelven, CONDUSEF te ayuda sin costo.
-- M4 U05 · Noticias, rumores y cambios: ajusta tu plan sin pánico: confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia algo que te aplica.
+- M4 U05 · Noticias, rumores y cambios: ajusta tu plan sin pánico: confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia algo que te aplica.
 
 **Casos**
 
@@ -217,6 +217,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M6 U04 · Tu inventario de deudas: tu inventario convierte el miedo en números con los que puedes trabajar.
 - M6 U05 · ¿Cuánta deuda aguanta un ingreso variable?: si la deuda solo cabe en tus meses buenos, no cabe.
 - M6 U06 · No uses la tarjeta para vivir la sequía: en la sequía, primero tu fondo, luego recortes e ingresos puente. El crédito es el último recurso.
+- M6 U07 · Adelantos de pago y préstamo de nómina en meses de llamados: un préstamo de nómina no termina con tu proyecto. Compara los pagos con la duración de tu contrato y usa primero tu fondo de sequía.
+- M6 U08 · Empeñar tu equipo: la herramienta que no debes perder: tu equipo es tu ingreso. Si tienes que empeñar, que sea algo que no uses para trabajar, en una casa registrada y con la fecha anotada.
 
 **Casos**
 
@@ -290,7 +292,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M8 U03 · ¿Consolidar deudas me conviene?: un pago más bajo no significa pagar menos. Compara el total.
 - M8 U04 · Cobranza: tus derechos: deber no le da derecho a nadie a amenazarte.
 - M8 U05 · Tu plan de salida con ingreso variable: un pago base fijo y extras en meses buenos te sacan de deudas aunque tu ingreso cambie.
-- M8 U06 · Apuestas en línea: el pago gordo no es para apostar: el fondo de sequía, los impuestos y el crédito nunca son para apostar; si apuestas para recuperar o con crédito, ya es un problema.
+- M8 U06 · Apuestas en línea: el pago gordo no es para apostar: el fondo de sequía, los impuestos y el crédito nunca son para apostar. Si apuestas para recuperar o con crédito, ya es un problema.
 
 **Casos**
 
@@ -329,7 +331,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M9 U07 · Inversiones milagro y "yo te manejo tu dinero": rendimiento alto garantizado + sin autorización = no inviertas.
 - M9 U08 · Que dejen de llamarte: REPEP, REUS y tu línea: inscribirte no tiene costo y te protege; si después siguen llamando, guarda la evidencia y denuncia.
 - M9 U09 · Si ya te pasó: tu plan de respuesta: bloquear, reclamar por escrito, reportar y denunciar. Guarda todo.
-- M9 U10 · Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes: una voz o una cara conocida ya no son prueba; confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
+- M9 U10 · Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes: una voz o una cara conocida ya no son prueba. Confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
 
 **Casos**
 
@@ -365,8 +367,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M10 U04 · Seguro de vida y beneficiarios: un seguro sin beneficiarios actualizados puede no llegar a quien quieres.
 - M10 U05 · Protege tu nombre y tu marca: registra tu nombre antes de que otra persona lo haga.
 - M10 U06 · Testamento y documentos para tu familia: hacer tu testamento es un acto de cuidado, no de pesimismo.
-- M10 U07 · Si llega un sismo o una inundación: tu equipo y tu trabajo: respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado.
-- M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos: tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
+- M10 U07 · Si llega un sismo o una inundación: tu equipo y tu trabajo: ten respaldo en la nube y fotos y facturas del equipo. Suma un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú y no pagues por adelantado.
+- M10 U08 · Tus regalías cuando faltes: derechos, sociedades de gestión e impuestos: tus derechos y regalías se heredan. Regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
 
 **Casos**
 

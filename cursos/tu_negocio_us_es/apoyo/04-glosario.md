@@ -107,6 +107,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Crecer con orden
 
+- **Adelanto de pago:** parte del sueldo que se paga antes y luego se descuenta.
+- **Autorización de descuento:** permiso por escrito del empleado para descontar de su pago.
 - **Cobros brutos:** total cobrado antes de restar comisiones, devoluciones y costos.
 - **Contratista independiente:** persona que tiene su propio negocio, decide cómo hace el trabajo y trabaja para varios clientes.
 - **Entorno:** lo que pasa alrededor de tu negocio y lo afecta: competencia, economía, leyes y comunidad.

@@ -257,5 +257,40 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu quincena rinde",
+   "descripcion": "Un plan para tu quincena y tus turnos extra."
+  },
+  "M2": {
+   "titulo": "Tu cuenta y tu dinero",
+   "descripcion": "Tu cuenta de nómina y cómo sacarle provecho."
+  },
+  "M3": {
+   "titulo": "Tus deudas claras",
+   "descripcion": "Cuánto debes, cuánto cuesta y cómo salir."
+  },
+  "M4": {
+   "titulo": "Tandas y ahorro en grupo",
+   "descripcion": "Ahorrar con otras personas, con reglas claras."
+  },
+  "M5": {
+   "titulo": "Buró de Crédito sin miedo",
+   "descripcion": "Tu historial y cómo cuidarlo."
+  },
+  "M6": {
+   "titulo": "Que no te extorsionen",
+   "descripcion": "Fraudes, extorsiones y cómo protegerte."
+  },
+  "M7": {
+   "titulo": "Tu familia y los imprevistos",
+   "descripcion": "Salud, seguros, herencia y lo que pasa si faltas."
+  },
+  "M8": {
+   "titulo": "Tu futuro",
+   "descripcion": "Tu Afore, tu vivienda y tu plan."
+  }
  }
 }

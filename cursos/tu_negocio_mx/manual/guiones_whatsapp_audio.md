@@ -115,7 +115,7 @@ Hola. Hoy hablamos de esto: Apuestas en línea: el dinero del negocio no se jueg
 
 ```
 *M1 U06 · Tu negocio, tus decisiones: tu dinero a tu nombre*
-Tus habilidades son el capital de tu negocio; ten tu cuenta, tus registros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+Tus habilidades son el capital de tu negocio. Ten tu cuenta, tus registros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 • Tus habilidades cuentan.
 • Cuenta y registros a tu nombre.
@@ -126,9 +126,9 @@ Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y
 Lección: [por definir]
 ```
 
-**Audio** (139 palabras, unos 58 segundos)
+**Audio** (138 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Tu negocio, tus decisiones: tu dinero a tu nombre. Rosa trabaja doce horas en su fonda, pero su pareja guarda el dinero del cajón y decide en qué se gasta. Cuando ella quiso comprar una estufa nueva para el negocio, él le dijo que no había. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre. Tus habilidades son el capital de tu negocio; ten tu cuenta, tus registros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda. Recuerda: Tus habilidades cuentan. Cuenta y registros a tu nombre. Control del dinero = pide ayuda. Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y tus registros del negocio estén a tu nombre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu negocio, tus decisiones: tu dinero a tu nombre. Rosa trabaja doce horas en su fonda, pero su pareja guarda el dinero del cajón y decide en qué se gasta. Cuando ella quiso comprar una estufa nueva para el negocio, él le dijo que no había. En esta lección verás cómo tener tus decisiones y tu dinero a tu nombre. Tus habilidades son el capital de tu negocio. Ten tu cuenta, tus registros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda. Recuerda: Tus habilidades cuentan. Cuenta y registros a tu nombre. Control del dinero = pide ayuda. Tu paso de esta semana: Haz la lista de tus habilidades y revisa que tu cuenta y tus registros del negocio estén a tu nombre. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Costos y precio
 
@@ -579,7 +579,7 @@ Lección: [por definir]
 
 **Audio** (144 palabras, unos 60 segundos)
 
-Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? El sobrino de Don Pepe le insiste en que sea su aval, un proveedor le pide a Mariana un obligado solidario para darle crédito, y a Rosa la llamó un despacho por la deuda de una clienta. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? El sobrino de Don Pepe le insiste en que sea su aval. Un proveedor le pide a Mariana un obligado solidario para darle crédito. Y a Rosa la llamó un despacho por la deuda de una clienta. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
 ## Módulo 7. Protege tu negocio
 
@@ -673,7 +673,7 @@ Hola. Hoy hablamos de esto: Tu marca y tu nombre. Mariana vende con el nombre «
 
 ```
 *M7 U05 · Tu identidad y la de tu negocio*
-Tus datos personales son los de tu negocio: revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
+Tus datos personales son los de tu negocio. Revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
 
 • Reporte de crédito cada año.
 • Dos pasos en WhatsApp, redes y correo.
@@ -686,7 +686,7 @@ Lección: [por definir]
 
 **Audio** (148 palabras, unos 62 segundos)
 
-Hola. Hoy hablamos de esto: Tu identidad y la de tu negocio. A Mariana le robaron su cuenta de WhatsApp del negocio: alguien pidió dinero «prestado» a sus clientas en su nombre. Y a Toño le llegó un aviso por un crédito de 25,000 pesos que nunca pidió. En esta lección verás cómo cuidar tu identidad y la de tu negocio. Tus datos personales son los de tu negocio: revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS. Recuerda: Reporte de crédito cada año. Dos pasos en WhatsApp, redes y correo. REPEP y REUS sin costo. Tu paso de esta semana: Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, inscribe tus números en el REPEP y el REUS y pide tu reporte de crédito. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu identidad y la de tu negocio. A Mariana le robaron su cuenta de WhatsApp del negocio: alguien pidió dinero «prestado» a sus clientas en su nombre. Y a Toño le llegó un aviso por un crédito de 25,000 pesos que nunca pidió. En esta lección verás cómo cuidar tu identidad y la de tu negocio. Tus datos personales son los de tu negocio. Revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS. Recuerda: Reporte de crédito cada año. Dos pasos en WhatsApp, redes y correo. REPEP y REUS sin costo. Tu paso de esta semana: Esta semana activa la verificación en dos pasos en tu WhatsApp y tus redes, inscribe tus números en el REPEP y el REUS y pide tu reporte de crédito. Nos escuchamos en la próxima lección.
 
 ### M7 U06 · Fraudes con inteligencia artificial: voces, videos y mensajes falsos
 
@@ -705,9 +705,9 @@ Tu paso de esta semana: Esta semana acuerda una palabra clave con tu familia y e
 Lección: [por definir]
 ```
 
-**Audio** (115 palabras, unos 48 segundos)
+**Audio** (114 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Fraudes con inteligencia artificial: voces, videos y mensajes falsos. A Rosa le llamó «su proveedor de carne», con su misma voz, para pedirle que pagara el pedido a una cuenta nueva «porque cambiaron de banco». Era una voz clonada. En esta lección verás cómo detectarlo. Una voz o una cara conocidas ya no son prueba; confirma cualquier pedido de dinero por un medio que tú elijas. Recuerda: La voz puede ser falsa. Confirma por otro medio. Palabra clave. Tu paso de esta semana: Esta semana acuerda una palabra clave con tu familia y escribe en tus redes cuál es tu única cuenta de cobro. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Fraudes con inteligencia artificial: voces, videos y mensajes falsos. A Rosa le llamó «su proveedor de carne», con su misma voz. Le pidió pagar el pedido a una cuenta nueva «porque cambiaron de banco». Era una voz clonada. En esta lección verás cómo detectarlo. Una voz o una cara conocidas ya no son prueba; confirma cualquier pedido de dinero por un medio que tú elijas. Recuerda: La voz puede ser falsa. Confirma por otro medio. Palabra clave. Tu paso de esta semana: Esta semana acuerda una palabra clave con tu familia y escribe en tus redes cuál es tu única cuenta de cobro. Nos escuchamos en la próxima lección.
 
 ### M7 U07 · Si llega un desastre: tu negocio preparado
 
@@ -736,7 +736,7 @@ Hola. Hoy hablamos de esto: Si llega un desastre: tu negocio preparado. Una inun
 
 ```
 *M7 U08 · Si faltas: seguro de vida y gastos funerarios*
-Si alguien depende de ti, un seguro temporal con la suma correcta y beneficiarios al día protege a tu familia y a tu negocio.
+Si alguien depende de ti, un seguro temporal protege a tu familia y a tu negocio. Que tenga la suma correcta y beneficiarios al día.
 
 • ¿Quién depende de ti?
 • Seguro temporal suele bastar.
@@ -747,9 +747,9 @@ Tu paso de esta semana: Anota quién depende de ti, calcula tu suma asegurada y 
 Lección: [por definir]
 ```
 
-**Audio** (106 palabras, unos 44 segundos)
+**Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Si faltas: seguro de vida y gastos funerarios. Rosa es quien sostiene su casa con la fonda. Si ella faltara, su hija no podría pagar la renta ni las deudas del negocio. En esta lección verás cómo proteger a tu familia. Si alguien depende de ti, un seguro temporal con la suma correcta y beneficiarios al día protege a tu familia y a tu negocio. Recuerda: ¿Quién depende de ti?. Seguro temporal suele bastar. Beneficiarios al día. Tu paso de esta semana: Anota quién depende de ti, calcula tu suma asegurada y revisa tus beneficiarios. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si faltas: seguro de vida y gastos funerarios. Rosa es quien sostiene su casa con la fonda. Si ella faltara, su hija no podría pagar la renta ni las deudas del negocio. En esta lección verás cómo proteger a tu familia. Si alguien depende de ti, un seguro temporal protege a tu familia y a tu negocio. Que tenga la suma correcta y beneficiarios al día. Recuerda: ¿Quién depende de ti?. Seguro temporal suele bastar. Beneficiarios al día. Tu paso de esta semana: Anota quién depende de ti, calcula tu suma asegurada y revisa tus beneficiarios. Nos escuchamos en la próxima lección.
 
 ## Módulo 8. Crecer con orden
 
@@ -843,7 +843,7 @@ Hola. Hoy hablamos de esto: Estrés, negocio y familia. Toño trabaja de lunes a
 
 ```
 *M8 U05 · Tu plan de negocio en una hoja y cómo presentarlo*
-Tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros, pide apoyo en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+Tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y pide apoyo en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 
 • Una hoja, siete preguntas.
 • Dos minutos, cinco partes.
@@ -856,7 +856,7 @@ Lección: [por definir]
 
 **Audio** (124 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de negocio en una hoja y cómo presentarlo. Mariana quiere entrar a un programa de apoyo para emprendedoras y le piden «un plan de negocio y una presentación de dos minutos». Nunca ha hecho uno. En esta lección armarás el tuyo. Tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros, pide apoyo en fuentes verificadas y, si te dicen que no, pregunta qué mejorar. Recuerda: Una hoja, siete preguntas. Dos minutos, cinco partes. Apoyo verificado; nadie cobra por inscribirte. Tu paso de esta semana: Llena tu plan de negocio en una hoja y ensaya tu presentación de dos minutos con alguien de confianza. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de negocio en una hoja y cómo presentarlo. Mariana quiere entrar a un programa de apoyo para emprendedoras y le piden «un plan de negocio y una presentación de dos minutos». Nunca ha hecho uno. En esta lección armarás el tuyo. Tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y pide apoyo en fuentes verificadas. Si te dicen que no, pregunta qué mejorar. Recuerda: Una hoja, siete preguntas. Dos minutos, cinco partes. Apoyo verificado; nadie cobra por inscribirte. Tu paso de esta semana: Llena tu plan de negocio en una hoja y ensaya tu presentación de dos minutos con alguien de confianza. Nos escuchamos en la próxima lección.
 
 ### M8 U06 · Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley
 
@@ -878,6 +878,27 @@ Lección: [por definir]
 **Audio** (108 palabras, unos 45 segundos)
 
 Hola. Hoy hablamos de esto: Tu negocio y su entorno: competencia, economía, comunidad y cambios de ley. Abrieron una tienda de conveniencia a dos cuadras de la de Don Pepe, subió la luz y cambió una regla del SAT. Don Pepe se enteró de todo tarde. En esta lección verás cómo estar al tanto sin agobiarte. Vigila competencia, economía, leyes y comunidad en fuentes confiables, y ajusta tu plan a tiempo. Recuerda: Cuatro cosas que vigilar. Fuentes oficiales. 15 minutos a la semana. Tu paso de esta semana: Aparta 15 minutos a la semana para revisar competencia, avisos oficiales y tus costos. Nos escuchamos en la próxima lección.
+
+### M8 U07 · Adelantos y préstamos a tus empleados
+
+**WhatsApp**
+
+```
+*M8 U07 · Adelantos y préstamos a tus empleados*
+Un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo. Ponlo por escrito, con tope y con un fondo al mes.
+
+• Por escrito y firmado.
+• Sin intereses y con tope.
+• Un fondo al mes para adelantos.
+
+Tu paso de esta semana: Escribe tu política de adelantos en cuatro reglas y compártela con tu equipo.
+
+Lección: [por definir]
+```
+
+**Audio** (120 palabras, unos 50 segundos)
+
+Hola. Hoy hablamos de esto: Adelantos y préstamos a tus empleados. En la fonda de Rosa, las dos ayudantes le piden adelantos casi cada semana. Rosa dice que sí a todo «porque son como de la familia». Pero ya no sabe cuánto le debe cada una, y un lunes no le alcanzó para surtir. Un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo. Ponlo por escrito, con tope y con un fondo al mes. Recuerda: Por escrito y firmado. Sin intereses y con tope. Un fondo al mes para adelantos. Tu paso de esta semana: Escribe tu política de adelantos en cuatro reglas y compártela con tu equipo. Nos escuchamos en la próxima lección.
 
 ## Módulo 9. Tu futuro
 
@@ -929,7 +950,7 @@ Hola. Hoy hablamos de esto: Si el negocio cambia o si faltas. Rosa se enfermó d
 
 ```
 *M9 U03 · Tu plan de una página*
-Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+Tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 • Una hoja.
 • Donde la veas.
@@ -942,7 +963,7 @@ Lección: [por definir]
 
 **Audio** (96 palabras, unos 40 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de una página. Mariana aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su computadora. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de una página. Mariana aprendió mucho, pero lo tiene en notas sueltas. Quiere una hoja que pueda pegar junto a su computadora. En esta lección armarás tu plan de una página. Tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio. Recuerda: Una hoja. Donde la veas. Revisión trimestral. Tu paso de esta semana: Llena tu plan de una página y pon la fecha de tu primera revisión. Nos escuchamos en la próxima lección.
 
 ### M9 U04 · Si faltas: tu casa, tus socios, lo digital y los impuestos de la herencia
 

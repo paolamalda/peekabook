@@ -68,6 +68,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## Crédito sin trampas
 
+- **Adelanto de sueldo:** recibir antes parte de tu pago, que luego te descuentan.
 - **Aval:** persona que firma y paga si quien pidió el crédito no paga.
 - **Beca:** apoyo para estudiar que no se paga.
 - **CAT:** Costo Anual Total: porcentaje que incluye intereses y comisiones de un crédito en un año.
@@ -78,6 +79,7 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Intereses:** lo que cuesta usar dinero prestado.
 - **Pago mínimo:** lo menos que puedes pagar sin atrasarte; la deuda casi no baja.
 - **Pago para no generar intereses:** pagar todo lo que gastaste en el periodo.
+- **Préstamo de nómina:** crédito del banco donde cobras que se paga con descuentos de tu sueldo.
 - **Referencia personal:** persona que solo da sus datos para confirmar que conoce a quien pide un crédito; no firma ni se obliga a pagar.
 
 ## Riesgos, protección y fraudes

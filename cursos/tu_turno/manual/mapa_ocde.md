@@ -4,25 +4,25 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 
 | Marco | Tema | Competencias | Lecciones |
 |---|---|---|---|
-| OCDE adultos (2016) | A1 Dinero y monedas | 20 | M2 U05, M2 U02, M7 U04, M1 U04, M4 U02 |
-| OCDE adultos (2016) | A2 Ingreso | 20 | M4 U03, M1 U01, M8 U02, M1 U05 |
+| OCDE adultos (2016) | A1 Dinero y monedas | 20 | M2 U05, M2 U02, M7 U04, M1 U04, M4 U02, M7 U09 |
+| OCDE adultos (2016) | A2 Ingreso | 20 | M1 U01, M4 U03, M8 U02, M1 U05, M3 U06, M7 U08 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M1 U06, M2 U04, M3 U02, M2 U05, M6 U05, M1 U03 |
-| OCDE adultos (2016) | A4 Registros y contratos | 7 | M7 U02, M2 U02, M7 U04, M5 U02, M1 U01, M3 U03 |
+| OCDE adultos (2016) | A4 Registros y contratos | 7 | M7 U02, M2 U02, M7 U04, M7 U09, M5 U02, M1 U01 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U02, M8 U03, M1 U01, M2 U04 |
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M1 U02, M1 U03, M7 U01 |
 | OCDE adultos (2016) | B3 Ahorro | 17 | M4 U02, M2 U05, M2 U06, M8 U01, M1 U04, M4 U03 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M2 U06, M7 U04 |
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M7 U06, M7 U01, M8 U03, M7 U07, M2 U06 |
-| OCDE adultos (2016) | B6 Retiro | 13 | M8 U01, M7 U06, M8 U03, M2 U01 |
-| OCDE adultos (2016) | B7 Crédito | 33 | M5 U04, M3 U02, M6 U05, M5 U01, M5 U02, M3 U03 |
+| OCDE adultos (2016) | B6 Retiro | 13 | M8 U01, M7 U06, M7 U09, M8 U03, M2 U01 |
+| OCDE adultos (2016) | B7 Crédito | 33 | M5 U04, M3 U06, M3 U02, M6 U05, M5 U01, M5 U02 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M3 U04, M3 U01, M2 U05, M4 U01, M7 U07, M8 U03 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M7 U04, M2 U06, M4 U01, M3 U05, M7 U01 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M7 U05, M7 U03, M7 U01, M2 U06, M7 U06, M7 U04 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M2 U06 |
-| OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U03, M5 U02, M6 U04, M6 U05, M2 U04, M3 U03 |
-| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M3 U04, M7 U07 |
+| OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U03, M5 U02, M6 U04, M6 U05, M5 U04, M2 U04 |
+| OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | M5 U04, M3 U04, M3 U07, M7 U07, M7 U09 |
 | OCDE adultos (2016) | D3 Educación, información y asesoría | 13 | M2 U04, M4 U03 |
-| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U01, M4 U02, M7 U06, M2 U03, M6 U01, M8 U01 |
+| OCDE adultos (2016) | D4 Productos y servicios financieros | 16 | M2 U01, M3 U06, M4 U02, M7 U06, M2 U03, M6 U01 |
 | OCDE adultos (2016) | D5 Fraudes y estafas | 11 | M6 U02, M6 U03, M6 U06, M6 U04, M7 U04, M6 U05 |
 | OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M7 U07, M6 U05, M1 U01, M1 U03 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M2 U04 |
@@ -38,7 +38,7 @@ Temas cubiertos: 29 de 29.
 
 ## A1 · Dinero y monedas
 
-**Lecciones:** M2 U05 El dinero pierde valor: inflación e interés compuesto; M2 U02 Cobrar y pagar sin perder dinero; M7 U04 Si llega un desastre: sismo, inundación o incendio; M1 U04 Aparta primero; M4 U02 Tu tanda con reglas o tu propio ahorro
+**Lecciones:** M2 U05 El dinero pierde valor: inflación e interés compuesto; M2 U02 Cobrar y pagar sin perder dinero; M7 U04 Si llega un desastre: sismo, inundación o incendio; M1 U04 Aparta primero; M4 U02 Tu tanda con reglas o tu propio ahorro; M7 U09 Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos
 
 *Conocimiento*
 
@@ -71,7 +71,7 @@ Temas cubiertos: 29 de 29.
 
 ## A2 · Ingreso
 
-**Lecciones:** M4 U03 Tu casa: Infonavit y el crédito de 100 puntos; M1 U01 ¿Cuánto entra de verdad?; M8 U02 Un ingreso extra en tus días de descanso; M1 U05 Dinero y estrés: cómo hablarlo en casa
+**Lecciones:** M1 U01 ¿Cuánto entra de verdad?; M4 U03 Tu casa: Infonavit y el crédito de 100 puntos; M8 U02 Un ingreso extra en tus días de descanso; M1 U05 Dinero y estrés: cómo hablarlo en casa; M3 U06 Préstamo de nómina, FONACOT y adelantos: lo que te descuentan; M7 U08 Tu dinero, tu decisión: violencia económica en casa
 
 *Conocimiento*
 
@@ -141,7 +141,7 @@ Temas cubiertos: 29 de 29.
 
 ## A4 · Registros y contratos
 
-**Lecciones:** M7 U02 Tu salud y la de tu familia: estar preparado; M2 U02 Cobrar y pagar sin perder dinero; M7 U04 Si llega un desastre: sismo, inundación o incendio; M5 U02 Tu reporte sin costo y cómo reclamar; M1 U01 ¿Cuánto entra de verdad?; M3 U03 Prestamistas y «gota a gota»
+**Lecciones:** M7 U02 Tu salud y la de tu familia: estar preparado; M2 U02 Cobrar y pagar sin perder dinero; M7 U04 Si llega un desastre: sismo, inundación o incendio; M7 U09 Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos; M5 U02 Tu reporte sin costo y cómo reclamar; M1 U01 ¿Cuánto entra de verdad?
 
 *Conocimiento*
 
@@ -309,7 +309,7 @@ Temas cubiertos: 29 de 29.
 
 ## B6 · Retiro
 
-**Lecciones:** M8 U01 Ahorro para el retiro por tu cuenta; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M8 U03 Tu plan de una página; M2 U01 Una cuenta sin comisiones
+**Lecciones:** M8 U01 Ahorro para el retiro por tu cuenta; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M7 U09 Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos; M8 U03 Tu plan de una página; M2 U01 Una cuenta sin comisiones
 
 *Conocimiento*
 
@@ -335,7 +335,7 @@ Temas cubiertos: 29 de 29.
 
 ## B7 · Crédito
 
-**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U02 Lo que de verdad cuesta un préstamo; M6 U05 Tu identidad y que dejen de llamarte; M5 U01 Qué es el Buró de Crédito; M5 U02 Tu reporte sin costo y cómo reclamar; M3 U03 Prestamistas y «gota a gota»
+**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U06 Préstamo de nómina, FONACOT y adelantos: lo que te descuentan; M3 U02 Lo que de verdad cuesta un préstamo; M6 U05 Tu identidad y que dejen de llamarte; M5 U01 Qué es el Buró de Crédito; M5 U02 Tu reporte sin costo y cómo reclamar
 
 *Conocimiento*
 
@@ -481,7 +481,7 @@ Temas cubiertos: 29 de 29.
 
 ## D1 · Regulación y protección al usuario
 
-**Lecciones:** M2 U03 Quién te protege y dónde reclamar; M5 U02 Tu reporte sin costo y cómo reclamar; M6 U04 Si ya te pasó: qué hacer; M6 U05 Tu identidad y que dejen de llamarte; M2 U04 ¿A quién le crees? Información confiable y cambios que te afectan; M3 U03 Prestamistas y «gota a gota»
+**Lecciones:** M2 U03 Quién te protege y dónde reclamar; M5 U02 Tu reporte sin costo y cómo reclamar; M6 U04 Si ya te pasó: qué hacer; M6 U05 Tu identidad y que dejen de llamarte; M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M2 U04 ¿A quién le crees? Información confiable y cambios que te afectan
 
 *Conocimiento*
 
@@ -506,7 +506,7 @@ Temas cubiertos: 29 de 29.
 
 ## D2 · Derechos y obligaciones
 
-**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U04 Tu plan para salir de deudas; M7 U07 Tu casa, tu tierra y lo que se hereda
+**Lecciones:** M5 U04 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M3 U04 Tu plan para salir de deudas; M3 U07 Empeñar sin perder tu prenda; M7 U07 Tu casa, tu tierra y lo que se hereda; M7 U09 Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos
 
 *Conocimiento*
 
@@ -553,7 +553,7 @@ Temas cubiertos: 29 de 29.
 
 ## D4 · Productos y servicios financieros
 
-**Lecciones:** M2 U01 Una cuenta sin comisiones; M4 U02 Tu tanda con reglas o tu propio ahorro; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M2 U03 Quién te protege y dónde reclamar; M6 U01 Llamadas y mensajes falsos; M8 U01 Ahorro para el retiro por tu cuenta
+**Lecciones:** M2 U01 Una cuenta sin comisiones; M3 U06 Préstamo de nómina, FONACOT y adelantos: lo que te descuentan; M4 U02 Tu tanda con reglas o tu propio ahorro; M7 U06 Que tu familia no quede atorada: beneficiarios y testamento; M2 U03 Quién te protege y dónde reclamar; M6 U01 Llamadas y mensajes falsos
 
 *Conocimiento*
 

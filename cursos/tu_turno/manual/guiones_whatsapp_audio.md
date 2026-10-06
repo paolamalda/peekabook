@@ -115,7 +115,7 @@ Hola. Hoy hablamos de esto: Dinero y estrés: cómo hablarlo en casa. Don Chuy l
 
 ```
 *M1 U06 · Compra inteligente: precio por unidad, publicidad y pagos chiquitos*
-Compara el precio por unidad, suma el costo total de los abonos y las suscripciones, y espera un día antes de comprar lo que no planeaste.
+Compara el precio por unidad y suma el costo total de abonos y suscripciones. Si no planeaste una compra, espera un día antes de hacerla.
 
 • Precio por unidad.
 • Costo total de los abonos.
@@ -126,9 +126,9 @@ Tu paso de esta semana: Haz la lista de tus pagos que se repiten y cancela al me
 Lección: [por definir]
 ```
 
-**Audio** (127 palabras, unos 53 segundos)
+**Audio** (126 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Compra inteligente: precio por unidad, publicidad y pagos chiquitos. Beto vio en redes unos audífonos «a solo 99 a la semana». Los pidió en abonos y además paga tres plataformas de video que casi no usa. Al final del mes no sabe por qué no le alcanza. En esta lección aprenderás a ver el precio completo. Compara el precio por unidad, suma el costo total de los abonos y las suscripciones, y espera un día antes de comprar lo que no planeaste. Recuerda: Precio por unidad. Costo total de los abonos. Espera un día. Tu paso de esta semana: Haz la lista de tus pagos que se repiten y cancela al menos uno que no uses. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Compra inteligente: precio por unidad, publicidad y pagos chiquitos. Beto vio en redes unos audífonos «a solo 99 a la semana». Los pidió en abonos y además paga tres plataformas de video que casi no usa. Al final del mes no sabe por qué no le alcanza. En esta lección aprenderás a ver el precio completo. Compara el precio por unidad y suma el costo total de abonos y suscripciones. Si no planeaste una compra, espera un día antes de hacerla. Recuerda: Precio por unidad. Costo total de los abonos. Espera un día. Tu paso de esta semana: Haz la lista de tus pagos que se repiten y cancela al menos uno que no uses. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Tu cuenta y tu dinero
 
@@ -222,7 +222,7 @@ Hola. Hoy hablamos de esto: ¿A quién le crees? Información confiable y cambio
 
 ```
 *M2 U05 · El dinero pierde valor: inflación e interés compuesto*
-El dinero en efectivo pierde valor con la inflación; busca que tu ahorro gane al menos lo que suben los precios y paga pronto las deudas, que crecen con interés compuesto.
+El dinero en efectivo pierde valor con la inflación. Busca que tu ahorro gane al menos lo que suben los precios. Y paga pronto las deudas, que crecen con interés compuesto.
 
 • Los precios suben: tu efectivo pierde valor.
 • Tasa real = interés menos inflación.
@@ -235,7 +235,7 @@ Lección: [por definir]
 
 **Audio** (131 palabras, unos 55 segundos)
 
-Hola. Hoy hablamos de esto: El dinero pierde valor: inflación e interés compuesto. Don Chuy guarda 10,000 pesos en un cajón desde hace tres años «para una emergencia». Hoy con ese dinero compra menos que cuando lo guardó. En esta lección verás por qué y qué hacer. El dinero en efectivo pierde valor con la inflación; busca que tu ahorro gane al menos lo que suben los precios y paga pronto las deudas, que crecen con interés compuesto. Recuerda: Los precios suben: tu efectivo pierde valor. Tasa real = interés menos inflación. El interés compuesto ayuda al ahorro y castiga a la deuda. Tu paso de esta semana: Revisa cuánto paga el lugar donde guardas tu ahorro y compáralo con la inflación del último año. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: El dinero pierde valor: inflación e interés compuesto. Don Chuy guarda 10,000 pesos en un cajón desde hace tres años «para una emergencia». Hoy con ese dinero compra menos que cuando lo guardó. En esta lección verás por qué y qué hacer. El dinero en efectivo pierde valor con la inflación. Busca que tu ahorro gane al menos lo que suben los precios. Y paga pronto las deudas, que crecen con interés compuesto. Recuerda: Los precios suben: tu efectivo pierde valor. Tasa real = interés menos inflación. El interés compuesto ayuda al ahorro y castiga a la deuda. Tu paso de esta semana: Revisa cuánto paga el lugar donde guardas tu ahorro y compáralo con la inflación del último año. Nos escuchamos en la próxima lección.
 
 ### M2 U06 · Tu dinero a trabajar: primeros pasos para invertir
 
@@ -243,7 +243,7 @@ Hola. Hoy hablamos de esto: El dinero pierde valor: inflación e interés compue
 
 ```
 *M2 U06 · Tu dinero a trabajar: primeros pasos para invertir*
-Invierte solo después de tu fondo y tus deudas caras, en lo que puedas explicar, con una meta y un plazo, y poco a poco.
+Invierte solo después de tener tu fondo y pagar tus deudas caras. Hazlo poco a poco, con una meta y un plazo, en lo que puedas explicar.
 
 • Primero fondo y deudas caras.
 • Riesgo y rendimiento van juntos.
@@ -254,9 +254,9 @@ Tu paso de esta semana: Si ya tienes tu fondo de emergencia, entra a Cetesdirect
 Lección: [por definir]
 ```
 
-**Audio** (127 palabras, unos 53 segundos)
+**Audio** (129 palabras, unos 54 segundos)
 
-Hola. Hoy hablamos de esto: Tu dinero a trabajar: primeros pasos para invertir. A Ramiro le sobran 500 pesos cada quincena desde que terminó su deuda. Un compañero le dice que meta todo a una criptomoneda «que va a subir». Ramiro no sabe por dónde empezar. En esta lección verás los primeros pasos. Invierte solo después de tu fondo y tus deudas caras, en lo que puedas explicar, con una meta y un plazo, y poco a poco. Recuerda: Primero fondo y deudas caras. Riesgo y rendimiento van juntos. Poco a poco y con regularidad. Tu paso de esta semana: Si ya tienes tu fondo de emergencia, entra a Cetesdirecto desde el sitio oficial y conoce cómo funciona antes de invertir. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu dinero a trabajar: primeros pasos para invertir. A Ramiro le sobran 500 pesos cada quincena desde que terminó su deuda. Un compañero le dice que meta todo a una criptomoneda «que va a subir». Ramiro no sabe por dónde empezar. En esta lección verás los primeros pasos. Invierte solo después de tener tu fondo y pagar tus deudas caras. Hazlo poco a poco, con una meta y un plazo, en lo que puedas explicar. Recuerda: Primero fondo y deudas caras. Riesgo y rendimiento van juntos. Poco a poco y con regularidad. Tu paso de esta semana: Si ya tienes tu fondo de emergencia, entra a Cetesdirecto desde el sitio oficial y conoce cómo funciona antes de invertir. Nos escuchamos en la próxima lección.
 
 ## Módulo 3. Tus deudas claras
 
@@ -364,6 +364,48 @@ Lección: [por definir]
 **Audio** (128 palabras, unos 53 segundos)
 
 Hola. Hoy hablamos de esto: Apuestas en línea: cuando el juego se vuelve deuda. Beto empezó apostando 50 pesos a los partidos en sus horas muertas del turno. Tres meses después debe 9,000 en una app de préstamos que usó para «recuperar» lo que perdió. En esta lección verás cómo pasa y cómo frenarlo. Apostar para recuperar lo perdido y apostar con crédito son las dos señales de que el juego ya es un problema. Recuerda: La casa siempre gana. Nunca con crédito. Límite, pausa y ayuda. Tu paso de esta semana: Si apuestas, fija un tope al mes que salga de tus gustos y activa los límites de la app; si ya es un problema, habla hoy con alguien de confianza. Nos escuchamos en la próxima lección.
+
+### M3 U06 · Préstamo de nómina, FONACOT y adelantos: lo que te descuentan
+
+**WhatsApp**
+
+```
+*M3 U06 · Préstamo de nómina, FONACOT y adelantos: lo que te descuentan*
+Un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito.
+
+• Adelanto con tope y por escrito.
+• Préstamo de nómina: compara el total.
+• FONACOT solo si tu empresa está afiliada.
+
+Tu paso de esta semana: Revisa tu recibo de esta quincena: anota si tienes algún descuento por adelanto o préstamo, cuánto es y cuántas quincenas faltan.
+
+Lección: [por definir]
+```
+
+**Audio** (133 palabras, unos 55 segundos)
+
+Hola. Hoy hablamos de esto: Préstamo de nómina, FONACOT y adelantos: lo que te descuentan. A Beto el banco donde le depositan le ofrece «dinero ya, sin papeles, se descuenta solo». Ramiro prefiere pedirle un adelanto al supervisor. Y Karla escuchó del FONACOT. Los tres se descuentan de la quincena, pero no cuestan lo mismo. Un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar, cuida que te quede para lo básico y pide todo por escrito. Recuerda: Adelanto con tope y por escrito. Préstamo de nómina: compara el total. FONACOT solo si tu empresa está afiliada. Tu paso de esta semana: Revisa tu recibo de esta quincena: anota si tienes algún descuento por adelanto o préstamo, cuánto es y cuántas quincenas faltan. Nos escuchamos en la próxima lección.
+
+### M3 U07 · Empeñar sin perder tu prenda
+
+**WhatsApp**
+
+```
+*M3 U07 · Empeñar sin perder tu prenda*
+Empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta.
+
+• Te prestan solo una parte del avalúo.
+• Anota la fecha límite y guarda la boleta.
+• Verifica el registro en la PROFECO.
+
+Tu paso de esta semana: Si tienes algo empeñado, busca tu boleta, anota la fecha límite en tu celular y calcula cuánto apartar cada quincena para recuperarlo.
+
+Lección: [por definir]
+```
+
+**Audio** (118 palabras, unos 49 segundos)
+
+Hola. Hoy hablamos de esto: Empeñar sin perder tu prenda. Don Chuy llevó su anillo de bodas a empeñar: se lo valuaron en 6,000 y le prestaron 3,600. Firmó sin leer. Hoy no sabe cuándo vence ni cuánto tiene que pagar para recuperarlo. Empeñar sirve para una urgencia corta; revisa que la casa esté registrada, anota la fecha límite y guarda tu boleta. Recuerda: Te prestan solo una parte del avalúo. Anota la fecha límite y guarda la boleta. Verifica el registro en la PROFECO. Tu paso de esta semana: Si tienes algo empeñado, busca tu boleta, anota la fecha límite en tu celular y calcula cuánto apartar cada quincena para recuperarlo. Nos escuchamos en la próxima lección.
 
 ## Módulo 4. Tandas y ahorro en grupo
 
@@ -512,9 +554,9 @@ Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apar
 Lección: [por definir]
 ```
 
-**Audio** (140 palabras, unos 58 segundos)
+**Audio** (139 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? Un compañero le pide a Beto que sea su aval para un préstamo de nómina, y a Karla la pusieron de referencia en una tarjeta sin preguntarle. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? Un compañero le pide a Beto que sea su aval para un préstamo de nómina. A Karla la pusieron de referencia en una tarjeta sin preguntarle. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
 ## Módulo 6. Que no te extorsionen
 
@@ -608,7 +650,7 @@ Hola. Hoy hablamos de esto: Si ya te pasó: qué hacer. Don Chuy dio su NIP a al
 
 ```
 *M6 U05 · Tu identidad y que dejen de llamarte*
-Revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS; si una llamada sigue después, casi seguro es fraude.
+Revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS. Si una llamada sigue después, casi seguro es fraude.
 
 • Copias de INE con leyenda.
 • Reporte sin costo cada año.
@@ -621,7 +663,7 @@ Lección: [por definir]
 
 **Audio** (140 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Tu identidad y que dejen de llamarte. A Beto le llegó una llamada de cobranza por un crédito de 8,000 pesos que nunca pidió. Hace meses dejó copia de su INE en tres agencias de seguridad cuando buscaba trabajo. Además, entre turno y turno le llaman diario para ofrecerle préstamos. En esta lección verás cómo protegerte de las dos cosas. Revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS; si una llamada sigue después, casi seguro es fraude. Recuerda: Copias de INE con leyenda. Reporte sin costo cada año. REPEP y REUS sin costo. Tu paso de esta semana: Esta semana inscribe tu celular en el REPEP y el REUS y pide tu reporte de crédito sin costo. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu identidad y que dejen de llamarte. A Beto le llegó una llamada de cobranza por un crédito de 8,000 pesos que nunca pidió. Hace meses dejó copia de su INE en tres agencias de seguridad cuando buscaba trabajo. Además, entre turno y turno le llaman diario para ofrecerle préstamos. En esta lección verás cómo protegerte de las dos cosas. Revisa tu reporte cada año, marca tus copias de INE y registra tu número en el REPEP y el REUS. Si una llamada sigue después, casi seguro es fraude. Recuerda: Copias de INE con leyenda. Reporte sin costo cada año. REPEP y REUS sin costo. Tu paso de esta semana: Esta semana inscribe tu celular en el REPEP y el REUS y pide tu reporte de crédito sin costo. Nos escuchamos en la próxima lección.
 
 ### M6 U06 · Voces y videos falsos con inteligencia artificial
 
@@ -736,7 +778,7 @@ Hola. Hoy hablamos de esto: Si llega un desastre: sismo, inundación o incendio.
 
 ```
 *M7 U05 · Salud para tu familia: el seguro del IMSS que pagas tú*
-Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo.
+Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS, según su edad. O llevarle al centro de salud, sin costo. Pregunta antes qué cubre y desde cuándo.
 
 • Cuota al año por persona y edad.
 • Solo salud.
@@ -747,9 +789,9 @@ Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y c
 Lección: [por definir]
 ```
 
-**Audio** (125 palabras, unos 52 segundos)
+**Audio** (126 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Salud para tu familia: el seguro del IMSS que pagas tú. La mamá de Don Chuy tiene 67 años, diabetes y no tiene seguridad social. Cada mes él paga consultas y medicinas en farmacias privadas: unos 1,800 pesos. En esta lección verás otras opciones. Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS por edad o llevarle al centro de salud sin costo; pregunta antes qué cubre y desde cuándo. Recuerda: Cuota al año por persona y edad. Solo salud. Centro de salud sin costo. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Salud para tu familia: el seguro del IMSS que pagas tú. La mamá de Don Chuy tiene 67 años, diabetes y no tiene seguridad social. Cada mes él paga consultas y medicinas en farmacias privadas: unos 1,800 pesos. En esta lección verás otras opciones. Si alguien de tu familia no tiene seguridad social, puedes pagarle el Seguro de Salud para la Familia del IMSS, según su edad. O llevarle al centro de salud, sin costo. Pregunta antes qué cubre y desde cuándo. Recuerda: Cuota al año por persona y edad. Solo salud. Centro de salud sin costo. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota. Nos escuchamos en la próxima lección.
 
 ### M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento
 
@@ -757,7 +799,7 @@ Hola. Hoy hablamos de esto: Salud para tu familia: el seguro del IMSS que pagas 
 
 ```
 *M7 U06 · Que tu familia no quede atorada: beneficiarios y testamento*
-Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio.
+Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento. Así tu familia recibe lo tuyo sin juicio.
 
 • Beneficiarios en todo.
 • Testamento en septiembre.
@@ -770,7 +812,7 @@ Lección: [por definir]
 
 **Audio** (112 palabras, unos 47 segundos)
 
-Hola. Hoy hablamos de esto: Que tu familia no quede atorada: beneficiarios y testamento. Un compañero de Ramiro falleció. Su cuenta, su Afore y los pagos pendientes de la empresa quedaron «atorados» un año. Su pareja vivía con él en unión libre y tuvo que ir a juicio. En esta lección verás cómo evitarlo. Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento; así tu familia recibe lo tuyo sin juicio. Recuerda: Beneficiarios en todo. Testamento en septiembre. Tutor para tus hijos. Tu paso de esta semana: Llena tu lista y corrige esta semana los beneficiarios que falten. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Que tu familia no quede atorada: beneficiarios y testamento. Un compañero de Ramiro falleció. Su cuenta, su Afore y los pagos pendientes de la empresa quedaron «atorados» un año. Su pareja vivía con él en unión libre y tuvo que ir a juicio. En esta lección verás cómo evitarlo. Nombra beneficiarios en tu cuenta, tu Afore, tus seguros y con tu empresa, y haz tu testamento. Así tu familia recibe lo tuyo sin juicio. Recuerda: Beneficiarios en todo. Testamento en septiembre. Tutor para tus hijos. Tu paso de esta semana: Llena tu lista y corrige esta semana los beneficiarios que falten. Nos escuchamos en la próxima lección.
 
 ### M7 U07 · Tu casa, tu tierra y lo que se hereda
 
@@ -778,7 +820,7 @@ Hola. Hoy hablamos de esto: Que tu familia no quede atorada: beneficiarios y tes
 
 ```
 *M7 U07 · Tu casa, tu tierra y lo que se hereda*
-Revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval.
+Revisa a nombre de quién están tu casa y tu tierra. Heredar no paga ISR, pero escriturar sí cuesta. Tu familia no paga tus deudas con su dinero, salvo quien firmó como aval.
 
 • Revisa los papeles de la casa.
 • Heredar no paga ISR; escriturar sí cuesta.
@@ -789,9 +831,51 @@ Tu paso de esta semana: Revisa a nombre de quién están tu casa o tu terreno y 
 Lección: [por definir]
 ```
 
-**Audio** (141 palabras, unos 59 segundos)
+**Audio** (140 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Tu casa, tu tierra y lo que se hereda. Don Chuy vive en la casa que era de sus papás, pero sigue a nombre de su papá, que ya falleció. Su hermano dice que para pasarla a su nombre «hay que pagar 30% de impuestos». En esta lección verás qué es cierto. Revisa a nombre de quién están tu casa y tu tierra; heredar no paga ISR, pero escriturar sí cuesta, y tu familia no paga tus deudas con su dinero salvo quien firmó como aval. Recuerda: Revisa los papeles de la casa. Heredar no paga ISR; escriturar sí cuesta. Deudas: solo con lo que dejó, salvo el aval. Tu paso de esta semana: Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles faltan. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu casa, tu tierra y lo que se hereda. Don Chuy vive en la casa que era de sus papás, pero sigue a nombre de su papá, que ya falleció. Su hermano dice que para pasarla a su nombre «hay que pagar 30% de impuestos». En esta lección verás qué es cierto. Revisa a nombre de quién están tu casa y tu tierra. Heredar no paga ISR, pero escriturar sí cuesta. Tu familia no paga tus deudas con su dinero, salvo quien firmó como aval. Recuerda: Revisa los papeles de la casa. Heredar no paga ISR; escriturar sí cuesta. Deudas: solo con lo que dejó, salvo el aval. Tu paso de esta semana: Revisa a nombre de quién están tu casa o tu terreno y anota qué papeles faltan. Nos escuchamos en la próxima lección.
+
+### M7 U08 · Tu dinero, tu decisión: violencia económica en casa
+
+**WhatsApp**
+
+```
+*M7 U08 · Tu dinero, tu decisión: violencia económica en casa*
+Decidir juntos no es entregar todo; tu sueldo, tu cuenta y tus documentos son tuyos, y hay ayuda sin costo para orientarte.
+
+• Tu sueldo, a tu cuenta.
+• Tus papeles, en lugar seguro.
+• 079, opción 1; emergencia, 911.
+
+Tu paso de esta semana: Revisa tres cosas esta semana: que tu sueldo llegue a una cuenta tuya, dónde están tus documentos y quién conoce tus contraseñas.
+
+Lección: [por definir]
+```
+
+**Audio** (119 palabras, unos 50 segundos)
+
+Hola. Hoy hablamos de esto: Tu dinero, tu decisión: violencia económica en casa. Karla le da toda su quincena a su pareja «porque él administra». Si quiere comprar algo para su hija, tiene que pedir permiso y explicar cada peso. Ella piensa que así son todas las parejas. Decidir juntos no es entregar todo; tu sueldo, tu cuenta y tus documentos son tuyos, y hay ayuda sin costo para orientarte. Recuerda: Tu sueldo, a tu cuenta. Tus papeles, en lugar seguro. 079, opción 1; emergencia, 911. Tu paso de esta semana: Revisa tres cosas esta semana: que tu sueldo llegue a una cuenta tuya, dónde están tus documentos y quién conoce tus contraseñas. Nos escuchamos en la próxima lección.
+
+### M7 U09 · Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos
+
+**WhatsApp**
+
+```
+*M7 U09 · Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos*
+La pensión es un derecho de tus hijos, no un favor. Quien la recibe puede pedirla con orientación sin costo. Quien la paga debe hacerlo con comprobante.
+
+• Es un derecho de tus hijos.
+• Acuerdo ante juez o juzgado familiar.
+• Paga con comprobante.
+
+Tu paso de esta semana: Si pagas o recibes pensión, junta los comprobantes de este año en una carpeta o en fotos en tu celular.
+
+Lección: [por definir]
+```
+
+**Audio** (124 palabras, unos 52 segundos)
+
+Hola. Hoy hablamos de esto: Pensión alimenticia: pedirla, pagarla y que llegue a tus hijos. Karla cría sola a su hija y el papá «da cuando puede». Don Chuy le da a la mamá de su hijo menor 1,500 en efectivo cada quincena, sin recibo. Los dos tienen algo pendiente. La pensión es un derecho de tus hijos, no un favor. Quien la recibe puede pedirla con orientación sin costo. Quien la paga debe hacerlo con comprobante. Recuerda: Es un derecho de tus hijos. Acuerdo ante juez o juzgado familiar. Paga con comprobante. Tu paso de esta semana: Si pagas o recibes pensión, junta los comprobantes de este año en una carpeta o en fotos en tu celular. Nos escuchamos en la próxima lección.
 
 ## Módulo 8. Tu futuro
 
@@ -843,7 +927,7 @@ Hola. Hoy hablamos de esto: Un ingreso extra en tus días de descanso. Ramiro qu
 
 ```
 *M8 U03 · Tu plan de una página*
-Tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+Tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 • Cinco partes en una hoja.
 • Meta con nombre, testigo y recordatorio.
@@ -856,7 +940,7 @@ Lección: [por definir]
 
 **Audio** (113 palabras, unos 47 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de una página. Karla ya tiene su presupuesto, su lista de deudas, su fondo y su AFORE, pero en notas sueltas del celular. Quiere verlo todo junto. En esta lección harás tu plan de una página. Tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Cinco partes en una hoja. Meta con nombre, testigo y recordatorio. Sin datos sensibles. Tu paso de esta semana: Llena tu plan de una página y tómale una foto para revisarlo cada día de pago. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de una página. Karla ya tiene su presupuesto, su lista de deudas, su fondo y su AFORE, pero en notas sueltas del celular. Quiere verlo todo junto. En esta lección harás tu plan de una página. Tu plan en una hoja, revisado cada día de pago, te dice dónde estás y qué sigue. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Cinco partes en una hoja. Meta con nombre, testigo y recordatorio. Sin datos sensibles. Tu paso de esta semana: Llena tu plan de una página y tómale una foto para revisarlo cada día de pago. Nos escuchamos en la próxima lección.
 
 ## Recordatorios mensuales del compromiso
 

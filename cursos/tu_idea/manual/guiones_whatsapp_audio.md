@@ -52,7 +52,7 @@ Hola. Hoy hablamos de esto: ¿De dónde sale el dinero? Tus fuentes de ingreso. 
 
 ```
 *M1 U03 · Influencers, antojos y presión: quién decide tus compras*
-Si alguien gana cuando compras, su opinión no es neutral; espera antes de comprar y decide tú, no la presión ni el «solo hoy».
+Si alguien gana cuando compras, su opinión no es neutral. Espera antes de comprar y decide tú, no la presión ni el «solo hoy».
 
 • Te venden emociones.
 • Quien gana cuando compras no es neutral.
@@ -65,7 +65,7 @@ Lección: [por definir]
 
 **Audio** (127 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: Influencers, antojos y presión: quién decide tus compras. Naomi vio a una influencer con unos tenis «que todo mundo trae». Con el código de descuento «solo hoy» costaban 1,900. Los compró con el dinero que le mandan sus papás. A la semana, ya había otros de moda. En esta lección verás quién decide tus compras. Si alguien gana cuando compras, su opinión no es neutral; espera antes de comprar y decide tú, no la presión ni el «solo hoy». Recuerda: Te venden emociones. Quien gana cuando compras no es neutral. Espera 7 días. Tu paso de esta semana: Crea tu lista de 7 días en el celular y anota ahí la próxima cosa que quieras comprar. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Influencers, antojos y presión: quién decide tus compras. Naomi vio a una influencer con unos tenis «que todo mundo trae». Con el código de descuento «solo hoy» costaban 1,900. Los compró con el dinero que le mandan sus papás. A la semana, ya había otros de moda. En esta lección verás quién decide tus compras. Si alguien gana cuando compras, su opinión no es neutral. Espera antes de comprar y decide tú, no la presión ni el «solo hoy». Recuerda: Te venden emociones. Quien gana cuando compras no es neutral. Espera 7 días. Tu paso de esta semana: Crea tu lista de 7 días en el celular y anota ahí la próxima cosa que quieras comprar. Nos escuchamos en la próxima lección.
 
 ### M1 U04 · Tu presupuesto: mesada, beca y lo que ganas
 
@@ -138,7 +138,7 @@ Hola. Hoy hablamos de esto: Pagar y cobrar con el celular. Santi cobra sus repar
 
 ```
 *M2 U03 · Compras en línea y dinero de otro país*
-En compras en otra moneda calcula el total en pesos con comisiones y envío; compra en sitios seguros y nunca pagues con depósitos a personas.
+En compras en otra moneda, calcula el total en pesos con comisiones y envío. Compra en sitios seguros y nunca pagues con depósitos a personas.
 
 • El tipo de cambio cambia diario.
 • Calcula el total en pesos.
@@ -151,7 +151,7 @@ Lección: [por definir]
 
 **Audio** (128 palabras, unos 53 segundos)
 
-Hola. Hoy hablamos de esto: Compras en línea y dinero de otro país. Naomi compró una sudadera en una tienda extranjera: decía 25 dólares. En su estado de cuenta vio que le cobraron casi 500 pesos. Y cuando sus papás le mandan dólares, no entiende por qué le llegan distintos pesos cada mes. En esta lección lo verás. En compras en otra moneda calcula el total en pesos con comisiones y envío; compra en sitios seguros y nunca pagues con depósitos a personas. Recuerda: El tipo de cambio cambia diario. Calcula el total en pesos. Sitios seguros, nunca depósitos a personas. Tu paso de esta semana: En tu próxima compra en línea, calcula el total en pesos con envío antes de pagar. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Compras en línea y dinero de otro país. Naomi compró una sudadera en una tienda extranjera: decía 25 dólares. En su estado de cuenta vio que le cobraron casi 500 pesos. Y cuando sus papás le mandan dólares, no entiende por qué le llegan distintos pesos cada mes. En esta lección lo verás. En compras en otra moneda, calcula el total en pesos con comisiones y envío. Compra en sitios seguros y nunca pagues con depósitos a personas. Recuerda: El tipo de cambio cambia diario. Calcula el total en pesos. Sitios seguros, nunca depósitos a personas. Tu paso de esta semana: En tu próxima compra en línea, calcula el total en pesos con envío antes de pagar. Nos escuchamos en la próxima lección.
 
 ### M2 U04 · Las letras chiquitas: términos, suscripciones y contratos
 
@@ -159,7 +159,7 @@ Hola. Hoy hablamos de esto: Compras en línea y dinero de otro país. Naomi comp
 
 ```
 *M2 U04 · Las letras chiquitas: términos, suscripciones y contratos*
-Aceptar es firmar; antes de dar clic revisa costo, cuándo cobra y cómo cancelas, y pon un recordatorio antes de que termine una prueba sin costo.
+Aceptar es firmar. Antes de dar clic, revisa el costo, cuándo cobra y cómo cancelas. Pon un recordatorio antes de que termine una prueba sin costo.
 
 • Aceptar es firmar.
 • Costo, cobro y cancelación.
@@ -172,7 +172,7 @@ Lección: [por definir]
 
 **Audio** (110 palabras, unos 46 segundos)
 
-Hola. Hoy hablamos de esto: Las letras chiquitas: términos, suscripciones y contratos. Emilio aceptó una «prueba sin costo» de una app de música. A los 7 días empezó a cobrarle 139 al mes. Lleva cuatro meses pagando algo que no usa. En esta lección verás las letras chiquitas. Aceptar es firmar; antes de dar clic revisa costo, cuándo cobra y cómo cancelas, y pon un recordatorio antes de que termine una prueba sin costo. Recuerda: Aceptar es firmar. Costo, cobro y cancelación. Recordatorio antes del cobro. Tu paso de esta semana: Revisa tus cobros del último mes y cancela una suscripción que no uses. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Las letras chiquitas: términos, suscripciones y contratos. Emilio aceptó una «prueba sin costo» de una app de música. A los 7 días empezó a cobrarle 139 al mes. Lleva cuatro meses pagando algo que no usa. En esta lección verás las letras chiquitas. Aceptar es firmar. Antes de dar clic, revisa el costo, cuándo cobra y cómo cancelas. Pon un recordatorio antes de que termine una prueba sin costo. Recuerda: Aceptar es firmar. Costo, cobro y cancelación. Recordatorio antes del cobro. Tu paso de esta semana: Revisa tus cobros del último mes y cancela una suscripción que no uses. Nos escuchamos en la próxima lección.
 
 ## Módulo 3. Crea: de la idea a tu primera venta
 
@@ -193,9 +193,9 @@ Tu paso de esta semana: Empieza tu lista de 10 problemas esta semana.
 Lección: [por definir]
 ```
 
-**Audio** (107 palabras, unos 45 segundos)
+**Audio** (106 palabras, unos 44 segundos)
 
-Hola. Hoy hablamos de esto: Encuentra un problema que valga la pena resolver. Santi quería «poner un negocio», pero no sabía de qué. Un día notó que en su salón a tres compañeros se les rompió la pantalla del celular en una semana y nadie sabía dónde repararla barato. En esta lección buscarás tu idea. Una buena idea une lo que sabes hacer con un problema real por el que alguien pagaría. Recuerda: Busca problemas reales. Une lo que sabes con lo que se necesita. Pregunta si pagarían. Tu paso de esta semana: Empieza tu lista de 10 problemas esta semana. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Encuentra un problema que valga la pena resolver. Santi quería «poner un negocio», pero no sabía de qué. Un día notó algo en su salón: a tres compañeros se les rompió la pantalla del celular en una semana. Nadie sabía dónde repararla barato. En esta lección buscarás tu idea. Una buena idea une lo que sabes hacer con un problema real por el que alguien pagaría. Recuerda: Busca problemas reales. Une lo que sabes con lo que se necesita. Pregunta si pagarían. Tu paso de esta semana: Empieza tu lista de 10 problemas esta semana. Nos escuchamos en la próxima lección.
 
 ### M3 U02 · Prueba tu idea con poco dinero
 
@@ -224,7 +224,7 @@ Hola. Hoy hablamos de esto: Prueba tu idea con poco dinero. Emilio quería vende
 
 ```
 *M3 U03 · Costo, precio y ganancia*
-Calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia; vender mucho no sirve si no ganas.
+Calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia. Vender mucho no sirve si no ganas.
 
 • Vender no es ganar.
 • Cuenta todos los costos.
@@ -237,7 +237,7 @@ Lección: [por definir]
 
 **Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Costo, precio y ganancia. Valeria vendió 60 postres a 30 en un mes: 1,800. Se sintió rica. Cuando sumó ingredientes, empaques y el gas de su mamá, solo le quedaron 660. En esta lección aprenderás a calcular tu precio. Calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia; vender mucho no sirve si no ganas. Recuerda: Vender no es ganar. Cuenta todos los costos. Precio con ganancia. Tu paso de esta semana: Llena tu tabla de costo por pieza y revisa si tu precio te deja ganancia. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Costo, precio y ganancia. Valeria vendió 60 postres a 30 en un mes: 1,800. Se sintió rica. Cuando sumó ingredientes, empaques y el gas de su mamá, solo le quedaron 660. En esta lección aprenderás a calcular tu precio. Calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia. Vender mucho no sirve si no ganas. Recuerda: Vender no es ganar. Cuenta todos los costos. Precio con ganancia. Tu paso de esta semana: Llena tu tabla de costo por pieza y revisa si tu precio te deja ganancia. Nos escuchamos en la próxima lección.
 
 ### M3 U04 · Tus primeras ventas: redes, cobro y clientes
 
@@ -245,7 +245,7 @@ Hola. Hoy hablamos de esto: Costo, precio y ganancia. Valeria vendió 60 postres
 
 ```
 *M3 U04 · Tus primeras ventas: redes, cobro y clientes*
-Vende con buena foto y precio claro, cobra antes o al entregar, entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
+Vende con buena foto y precio claro, y cobra antes o al entregar. Entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
 
 • Foto y precio claros.
 • Cobra antes o al entregar.
@@ -256,9 +256,9 @@ Tu paso de esta semana: Prepara tus mensajes listos: precio, tiempos, forma de p
 Lección: [por definir]
 ```
 
-**Audio** (114 palabras, unos 48 segundos)
+**Audio** (115 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Tus primeras ventas: redes, cobro y clientes. Naomi publicó sus dibujos en redes y le escribieron 12 personas. Una le pidió su dirección para «pasar por el pedido» y otra le pidió que le fiara. En esta lección verás cómo vender con seguridad. Vende con buena foto y precio claro, cobra antes o al entregar, entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan. Recuerda: Foto y precio claros. Cobra antes o al entregar. Entrega segura con un adulto. Tu paso de esta semana: Prepara tus mensajes listos: precio, tiempos, forma de pago y lugar de entrega. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tus primeras ventas: redes, cobro y clientes. Naomi publicó sus dibujos en redes y le escribieron 12 personas. Una le pidió su dirección para «pasar por el pedido» y otra le pidió que le fiara. En esta lección verás cómo vender con seguridad. Vende con buena foto y precio claro, y cobra antes o al entregar. Entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan. Recuerda: Foto y precio claros. Cobra antes o al entregar. Entrega segura con un adulto. Tu paso de esta semana: Prepara tus mensajes listos: precio, tiempos, forma de pago y lugar de entrega. Nos escuchamos en la próxima lección.
 
 ### M3 U05 · Punto de equilibrio y el dinero del negocio aparte
 
@@ -266,7 +266,7 @@ Hola. Hoy hablamos de esto: Tus primeras ventas: redes, cobro y clientes. Naomi 
 
 ```
 *M3 U05 · Punto de equilibrio y el dinero del negocio aparte*
-Calcula cuántas ventas necesitas para recuperar lo invertido y separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
+Calcula cuántas ventas necesitas para recuperar lo invertido. Separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
 
 • Inversión entre ganancia por pieza.
 • Negocio aparte.
@@ -277,9 +277,9 @@ Tu paso de esta semana: Calcula tu punto de equilibrio y abre un sobre o apartad
 Lección: [por definir]
 ```
 
-**Audio** (115 palabras, unos 48 segundos)
+**Audio** (114 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Punto de equilibrio y el dinero del negocio aparte. Santi compró herramientas por 1,800 para reparar celulares. Gana 60 por cada reparación. No sabe cuándo recuperará lo que invirtió, y usa el mismo dinero para sus salidas y para comprar piezas. En esta lección lo ordenarás. Calcula cuántas ventas necesitas para recuperar lo invertido y separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea. Recuerda: Inversión entre ganancia por pieza. Negocio aparte. Sueldo fijo para ti. Tu paso de esta semana: Calcula tu punto de equilibrio y abre un sobre o apartado solo para tu negocio. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Punto de equilibrio y el dinero del negocio aparte. Santi compró herramientas por 1,800 para reparar celulares. Gana 60 por cada reparación. No sabe cuándo recuperará lo que invirtió, y usa el mismo dinero para sus salidas y para comprar piezas. En esta lección lo ordenarás. Calcula cuántas ventas necesitas para recuperar lo invertido. Separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea. Recuerda: Inversión entre ganancia por pieza. Negocio aparte. Sueldo fijo para ti. Tu paso de esta semana: Calcula tu punto de equilibrio y abre un sobre o apartado solo para tu negocio. Nos escuchamos en la próxima lección.
 
 ## Módulo 4. Haz crecer lo que empezaste
 
@@ -352,7 +352,7 @@ Hola. Hoy hablamos de esto: Tu marca, tu reputación y tus datos en línea. Naom
 
 ```
 *M4 U04 · Crecer en serio: RFC, permisos e impuestos cuando toque*
-A los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar; mientras eres menor, cuida higiene, reglas de tu escuela y pide acompañamiento.
+A los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar. Mientras eres menor, cuida la higiene y las reglas de tu escuela, y pide acompañamiento.
 
 • RFC a los 18, sin costo.
 • RESICO para empezar.
@@ -363,9 +363,9 @@ Tu paso de esta semana: Si ya tienes 18 y vendes a empresas, revisa en el SAT c�
 Lección: [por definir]
 ```
 
-**Audio** (130 palabras, unos 54 segundos)
+**Audio** (133 palabras, unos 55 segundos)
 
-Hola. Hoy hablamos de esto: Crecer en serio: RFC, permisos e impuestos cuando toque. A Santi, ya de 18, una tienda le pide factura para contratarlo a reparar los celulares de sus empleados. Nunca ha tramitado su RFC y cree que «le van a quitar todo en impuestos». En esta lección verás qué implica formalizarse. A los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar; mientras eres menor, cuida higiene, reglas de tu escuela y pide acompañamiento. Recuerda: RFC a los 18, sin costo. RESICO para empezar. Menor: reglas básicas y un adulto. Tu paso de esta semana: Si ya tienes 18 y vendes a empresas, revisa en el SAT cómo tramitar tu RFC con tu CURP. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Crecer en serio: RFC, permisos e impuestos cuando toque. A Santi, ya de 18, una tienda le pide factura para contratarlo a reparar los celulares de sus empleados. Nunca ha tramitado su RFC y cree que «le van a quitar todo en impuestos». En esta lección verás qué implica formalizarse. A los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar. Mientras eres menor, cuida la higiene y las reglas de tu escuela, y pide acompañamiento. Recuerda: RFC a los 18, sin costo. RESICO para empezar. Menor: reglas básicas y un adulto. Tu paso de esta semana: Si ya tienes 18 y vendes a empresas, revisa en el SAT cómo tramitar tu RFC con tu CURP. Nos escuchamos en la próxima lección.
 
 ## Módulo 5. Pon tu dinero a trabajar
 
@@ -375,7 +375,7 @@ Hola. Hoy hablamos de esto: Crecer en serio: RFC, permisos e impuestos cuando to
 
 ```
 *M5 U01 · Ahorra con propósito*
-Ponle nombre, monto y fecha a tu meta, divide entre el tiempo y aparta el mismo día que recibes dinero; empieza por un pequeño fondo para imprevistos.
+Ponle nombre, monto y fecha a tu meta. Divide entre el tiempo y aparta el mismo día que recibes dinero. Empieza por un pequeño fondo para imprevistos.
 
 • Qué, cuánto y cuándo.
 • Fondo primero.
@@ -388,7 +388,7 @@ Lección: [por definir]
 
 **Audio** (108 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Ahorra con propósito. Naomi «ahorra», pero cada vez que junta algo se lo gasta en lo primero que ve. Emilio quiere una moto de 28,000 y no sabe cuánto tiempo le tomaría. En esta lección le pondrás propósito a tu ahorro. Ponle nombre, monto y fecha a tu meta, divide entre el tiempo y aparta el mismo día que recibes dinero; empieza por un pequeño fondo para imprevistos. Recuerda: Qué, cuánto y cuándo. Fondo primero. Aparta el día que recibes. Tu paso de esta semana: Escribe tu meta con nombre, monto y fecha, y crea su apartado. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Ahorra con propósito. Naomi «ahorra», pero cada vez que junta algo se lo gasta en lo primero que ve. Emilio quiere una moto de 28,000 y no sabe cuánto tiempo le tomaría. En esta lección le pondrás propósito a tu ahorro. Ponle nombre, monto y fecha a tu meta. Divide entre el tiempo y aparta el mismo día que recibes dinero. Empieza por un pequeño fondo para imprevistos. Recuerda: Qué, cuánto y cuándo. Fondo primero. Aparta el día que recibes. Tu paso de esta semana: Escribe tu meta con nombre, monto y fecha, y crea su apartado. Nos escuchamos en la próxima lección.
 
 ### M5 U02 · El interés compuesto y tu mejor aliado: el tiempo
 
@@ -461,7 +461,7 @@ Hola. Hoy hablamos de esto: Cripto, trading, «hazte rico» y apuestas: invertir
 
 ```
 *M6 U01 · Qué es el crédito y cuánto cuesta de verdad*
-Un crédito siempre cuesta más que el precio; compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
+Un crédito siempre cuesta más que el precio. Compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
 
 • El crédito cuesta.
 • Total y CAT.
@@ -474,7 +474,7 @@ Lección: [por definir]
 
 **Audio** (109 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Qué es el crédito y cuánto cuesta de verdad. Santi quiere una laptop de 12,000 para aprender diseño. En la tienda le dicen: «Llévatela hoy, pagas 399 a la semana». No sabe si le conviene. En esta lección lo calcularás. Un crédito siempre cuesta más que el precio; compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer. Recuerda: El crédito cuesta. Total y CAT. Para crecer, no para gustos. Tu paso de esta semana: La próxima vez que veas «paga poquito a la semana», calcula el total. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Qué es el crédito y cuánto cuesta de verdad. Santi quiere una laptop de 12,000 para aprender diseño. En la tienda le dicen: «Llévatela hoy, pagas 399 a la semana». No sabe si le conviene. En esta lección lo calcularás. Un crédito siempre cuesta más que el precio. Compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer. Recuerda: El crédito cuesta. Total y CAT. Para crecer, no para gustos. Tu paso de esta semana: La próxima vez que veas «paga poquito a la semana», calcula el total. Nos escuchamos en la próxima lección.
 
 ### M6 U02 · Tarjeta de crédito, meses sin intereses y «compra ahora, paga después»
 
@@ -539,6 +539,27 @@ Lección: [por definir]
 
 Hola. Hoy hablamos de esto: Pagar tus estudios o tu idea: antes que un préstamo. Emilio quiere estudiar un técnico en diseño que cuesta 18,000 al año. Una app le ofrece prestárselo «en 5 minutos». Valeria quiere 5,000 para crecer su negocio. En esta lección verás qué buscar antes de pedir prestado. Antes de pedir prestado busca becas, concursos y apoyos; si necesitas un crédito, que sea regulado, comparado y con un adulto. Recuerda: Becas y concursos primero. Crece con lo que ganas. Crédito regulado y comparado. Tu paso de esta semana: Busca una beca o un concurso para jóvenes en tu estado y anota la fecha límite. Nos escuchamos en la próxima lección.
 
+### M6 U05 · Adelantos de sueldo y préstamos de nómina en tu primer trabajo
+
+**WhatsApp**
+
+```
+*M6 U05 · Adelantos de sueldo y préstamos de nómina en tu primer trabajo*
+Un adelanto no es dinero extra, es tu mismo sueldo antes; las apps cobran cada vez y suman mucho en un año.
+
+• No es dinero extra.
+• Las apps cobran cada vez.
+• Primero, tu apartado.
+
+Tu paso de esta semana: Elige algo que quieras comprar y calcula cuántas semanas necesitas apartando una cantidad fija, sin adelantos.
+
+Lección: [por definir]
+```
+
+**Audio** (114 palabras, unos 48 segundos)
+
+Hola. Hoy hablamos de esto: Adelantos de sueldo y préstamos de nómina en tu primer trabajo. Emilio quiere unos tenis de 1,800. En la taquería le ofrecen adelantarle la semana, y una app le promete «tu sueldo antes, sin intereses», con una comisión de 49 pesos. Él piensa: «Total, es mi dinero». Un adelanto no es dinero extra, es tu mismo sueldo antes; las apps cobran cada vez y suman mucho en un año. Recuerda: No es dinero extra. Las apps cobran cada vez. Primero, tu apartado. Tu paso de esta semana: Elige algo que quieras comprar y calcula cuántas semanas necesitas apartando una cantidad fija, sin adelantos. Nos escuchamos en la próxima lección.
+
 ## Módulo 7. Riesgos, protección y fraudes
 
 ### M7 U01 · Identifica tus riesgos antes de que pasen
@@ -568,7 +589,7 @@ Hola. Hoy hablamos de esto: Identifica tus riesgos antes de que pasen. A Santi l
 
 ```
 *M7 U02 · Tu seguro de estudiante y otros seguros*
-Si estudias en una escuela pública tienes seguro de salud del IMSS sin costo; saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
+Si estudias en una escuela pública, tienes seguro de salud del IMSS sin costo. Saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
 
 • Escuela pública: seguro sin costo.
 • NSS a tu escuela.
@@ -581,7 +602,7 @@ Lección: [por definir]
 
 **Audio** (111 palabras, unos 46 segundos)
 
-Hola. Hoy hablamos de esto: Tu seguro de estudiante y otros seguros. Emilio se lastimó el tobillo jugando futbol. Su familia pagó 2,800 en un consultorio privado. Nadie sabía que, por estudiar en una prepa pública, tenía seguro del IMSS sin costo. En esta lección lo activarás. Si estudias en una escuela pública tienes seguro de salud del IMSS sin costo; saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica. Recuerda: Escuela pública: seguro sin costo. NSS a tu escuela. Regístrate en tu clínica. Tu paso de esta semana: Consulta tu NSS con tu CURP y entrégalo en tu escuela esta semana. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu seguro de estudiante y otros seguros. Emilio se lastimó el tobillo jugando futbol. Su familia pagó 2,800 en un consultorio privado. Nadie sabía que, por estudiar en una prepa pública, tenía seguro del IMSS sin costo. En esta lección lo activarás. Si estudias en una escuela pública, tienes seguro de salud del IMSS sin costo. Saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica. Recuerda: Escuela pública: seguro sin costo. NSS a tu escuela. Regístrate en tu clínica. Tu paso de esta semana: Consulta tu NSS con tu CURP y entrégalo en tu escuela esta semana. Nos escuchamos en la próxima lección.
 
 ### M7 U03 · Fraudes que buscan jóvenes: cuentas mula, falsos empleos y amenazas
 
@@ -633,7 +654,7 @@ Hola. Hoy hablamos de esto: Tu identidad digital y tus contraseñas. Naomi usa l
 
 ```
 *M8 U01 · Quién es quién en el sistema financiero y quién te protege*
-Conoce quién es quién: los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende; reclama primero con folio y, si no te resuelven, acude a la CONDUSEF.
+Conoce quién es quién. Los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende. Reclama primero con folio; si no te resuelven, acude a la CONDUSEF.
 
 • Bancos, autoridades y defensores.
 • Reclama con folio.
@@ -644,9 +665,9 @@ Tu paso de esta semana: Guarda en tu celular el número y el sitio de la CONDUSE
 Lección: [por definir]
 ```
 
-**Audio** (115 palabras, unos 48 segundos)
+**Audio** (114 palabras, unos 48 segundos)
 
-Hola. Hoy hablamos de esto: Quién es quién en el sistema financiero y quién te protege. A Valeria su app le cobró una comisión que no reconoce. Llamó y nadie le resolvió. No sabe a quién más acudir. En esta lección conocerás quién te protege. Conoce quién es quién: los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende; reclama primero con folio y, si no te resuelven, acude a la CONDUSEF. Recuerda: Bancos, autoridades y defensores. Reclama con folio. Verifica en el SIPRES. Tu paso de esta semana: Guarda en tu celular el número y el sitio de la CONDUSEF y de la PROFECO. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Quién es quién en el sistema financiero y quién te protege. A Valeria su app le cobró una comisión que no reconoce. Llamó y nadie le resolvió. No sabe a quién más acudir. En esta lección conocerás quién te protege. Conoce quién es quién. Los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende. Reclama primero con folio; si no te resuelven, acude a la CONDUSEF. Recuerda: Bancos, autoridades y defensores. Reclama con folio. Verifica en el SIPRES. Tu paso de esta semana: Guarda en tu celular el número y el sitio de la CONDUSEF y de la PROFECO. Nos escuchamos en la próxima lección.
 
 ### M8 U02 · Impuestos: de dónde salen tu escuela y tu beca
 
@@ -719,7 +740,7 @@ Hola. Hoy hablamos de esto: Tu familia y el dinero: ayudar, sus papeles y lo que
 
 ```
 *M9 U01 · Estudiar, trabajar o emprender: decide con números*
-Estudiar, trabajar y emprender se pueden combinar; compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
+Estudiar, trabajar y emprender se pueden combinar. Compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
 
 • Estudiar es invertir en ti.
 • Busca becas y escuelas públicas.
@@ -732,7 +753,7 @@ Lección: [por definir]
 
 **Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Estudiar, trabajar o emprender: decide con números. Santi termina la prepa este año. Su tío le dice: «Ponte a trabajar ya, estudiar no deja». Su maestra le dice que estudie programación. Él quiere seguir con su negocio de reparaciones. En esta lección decidirá con números. Estudiar, trabajar y emprender se pueden combinar; compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite. Recuerda: Estudiar es invertir en ti. Busca becas y escuelas públicas. Combina caminos. Tu paso de esta semana: Llena la tabla con dos caminos que te interesen. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Estudiar, trabajar o emprender: decide con números. Santi termina la prepa este año. Su tío le dice: «Ponte a trabajar ya, estudiar no deja». Su maestra le dice que estudie programación. Él quiere seguir con su negocio de reparaciones. En esta lección decidirá con números. Estudiar, trabajar y emprender se pueden combinar. Compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite. Recuerda: Estudiar es invertir en ti. Busca becas y escuelas públicas. Combina caminos. Tu paso de esta semana: Llena la tabla con dos caminos que te interesen. Nos escuchamos en la próxima lección.
 
 ### M9 U02 · Tu primer trabajo formal: contrato, recibo, IMSS y Afore
 

@@ -114,7 +114,9 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 
 ## El crédito es deuda
 
+- **Adelanto:** pago que recibes antes de la fecha acordada, a cuenta de lo que vas a ganar.
 - **Atraso:** pago que no hiciste a tiempo.
+- **Avalúo:** el valor que la casa de empeño le pone a tu prenda.
 - **Capacidad de pago:** lo que puedes pagar sin ponerte en riesgo.
 - **Deuda:** dinero que debes pagar.
 - **Disponible:** cuánto más te pueden prestar hoy.
@@ -132,6 +134,8 @@ Definiciones en lenguaje sencillo de las palabras del curso, agrupadas por módu
 - **Pago mínimo:** lo menos que puedes pagar para no atrasarte.
 - **Pago para no generar intereses:** lo que evita intereses del periodo.
 - **Precio de contado:** precio pagando todo de una vez.
+- **Préstamo de nómina:** crédito que se paga con descuentos de tus depósitos de nómina.
+- **Refrendo:** pago de intereses para alargar el plazo de un empeño.
 - **Saldo:** lo que debes hoy.
 
 ## Buró y Círculo de Crédito

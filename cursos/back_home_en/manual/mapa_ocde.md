@@ -17,7 +17,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | B7 Crédito | 33 | M3 U01, M3 U03, M1 U02, M3 U02, M5 U01, M8 U03 |
 | OCDE adultos (2016) | B8 Deudas | 15 | Pendiente |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M7 U03 |
-| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M5 U03, M5 U02, M7 U02 |
+| OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M5 U03, M5 U02, M7 U02, M1 U01 |
 | OCDE adultos (2016) | C3 Equilibrar riesgo y rendimiento | 7 | M4 U02, M6 U02, M8 U02, M2 U01, M6 U01, M8 U03 |
 | OCDE adultos (2016) | D1 Regulación y protección al usuario | 12 | M2 U02 |
 | OCDE adultos (2016) | D2 Derechos y obligaciones | 8 | Pendiente |
@@ -430,7 +430,7 @@ Temas cubiertos: 17 de 22.
 
 ## C2 · Redes de protección y seguros
 
-**Lecciones:** M5 U03 Save for retirement even if you're self-employed; M5 U02 Your contribution weeks; M7 U02 Compare offers: wages and benefits
+**Lecciones:** M5 U03 Save for retirement even if you're self-employed; M5 U02 Your contribution weeks; M7 U02 Compare offers: wages and benefits; M1 U01 Your repatriation record and your CURP: the first two papers
 
 *Conocimiento*
 

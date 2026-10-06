@@ -734,6 +734,24 @@ $CATEGORY: $course$/Tu Negocio US ES v1.3/M8
 	=En la BLS #¡Correcto! Fuente oficial.
 }
 
+::M8 U07 P1::¿Qué pides antes de descontar un adelanto? {
+	~Nada #No es la mejor opción. Muchos estados la exigen.
+	=Autorización por escrito #¡Correcto! Muchos estados la exigen.
+	~Un aval #No es la mejor opción. Muchos estados la exigen.
+}
+
+::M8 U07 P2::¿El descuento puede dejar el pago por debajo del mínimo? {
+	~Sí, si lo acuerdan #No es la mejor opción. El mínimo se respeta.
+	~Sí, una vez #No es la mejor opción. El mínimo se respeta.
+	=No #¡Correcto! El mínimo se respeta.
+}
+
+::M8 U07 P3::¿Cómo proteges tu flujo? {
+	=Fijas un fondo al mes para adelantos #¡Correcto! Así no te falta para surtir.
+	~Das todo lo que te piden #No es la mejor opción. Así no te falta para surtir.
+	~Pides prestado para adelantar #No es la mejor opción. Así no te falta para surtir.
+}
+
 $CATEGORY: $course$/Tu Negocio US ES v1.3/M9
 
 ::M9 U01 P1::¿Dónde revisas tu historial del Seguro Social? {

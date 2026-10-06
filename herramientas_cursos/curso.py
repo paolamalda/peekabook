@@ -106,15 +106,15 @@ def vista_previa_ux3(les, folder):
     for k, L in enumerate(les, 1):
         for j, (fn, tt, b) in enumerate(L["pages"]):
             name = f"{k:02d}_{fn}"
-            toc = "".join(f'<a href="{k:02d}_{f2}" class="{"on" if f2 == fn else ""}">{t2}</a>' for f2, t2, _ in L["pages"])
-            prev_l = f'<a href="{k - 1:02d}_01_empieza.html">← Lección anterior</a>' if k > 1 else "<span></span>"
-            next_l = f'<a href="{k + 1:02d}_01_empieza.html">Lección siguiente →</a>' if k < len(les) else "<span></span>"
-            body = b.replace('href="0', f'href="{k:02d}_0')
+            toc = "".join(f'<a href="{k:02d}_{f2}" class="{"on" if f2 == fn else ""}">{tr3(t2)}</a>' for f2, t2, _ in L["pages"])
+            prev_l = f'<a href="{k - 1:02d}_01_empieza.html">' + ("← Previous lesson" if EN else "← Lección anterior") + '</a>' if k > 1 else "<span></span>"
+            next_l = f'<a href="{k + 1:02d}_01_empieza.html">' + ("Next lesson →" if EN else "Lección siguiente →") + '</a>' if k < len(les) else "<span></span>"
+            body = tr3(b).replace('href="0', f'href="{k:02d}_0')
             open(os.path.join(folder, name), "w").write(
-                f'<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-                f'<title>{html.escape(L["title"])} · {tt}</title><link rel="stylesheet" href="assets/fa.css">'
+                f'<!DOCTYPE html><html lang="{"en" if EN else "es"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+                f'<title>{html.escape(L["title"])} · {tr3(tt)}</title><link rel="stylesheet" href="assets/fa.css">'
                 f'<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">'
-                f'<style>{css}</style></head><body><div class="w"><nav class="toc"><small>VISTA PREVIA · lección {k} de {len(les)}</small>'
+                f'<style>{css}</style></head><body><div class="w"><nav class="toc"><small>{"PREVIEW · lesson" if EN else "VISTA PREVIA · lección"} {k} {"of" if EN else "de"} {len(les)}</small>'
                 f'<p style="font-weight:800;color:#061F40;margin:8px 0">{html.escape(L["title"])}</p>{toc}</nav>'
                 f'<div class="main"><div class="lista">{prev_l}{next_l}</div>{body}</div></div></body></html>')
     open(os.path.join(folder, "ABRIR_AQUI.html"), "w").write('<meta http-equiv="refresh" content="0; url=01_01_empieza.html">')
@@ -365,7 +365,7 @@ The lessons give you the essentials. This guide is for you if you want to read t
 When your case has many details: taxes, inheritances, debts in court or contracts. First look for no-cost guidance at the public institutions in this guide, before paying anyone. This program doesn't give legal or tax advice: it helps you understand and ask better questions.
 """
         lead_i, lead_m = "For people who want to know more: official sources, rules and documents for each topic.", "Official links and sources for each lesson in this part."
-        h_rec, h_fue, cab = "To read and check", "Sources for this lesson", "Go deeper"
+        h_rec, h_fue, cab = "To read and check", "Sources for this lesson", "Further reading"
     else:
         intro = """# Cómo ir a fondo
 

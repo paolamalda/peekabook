@@ -734,6 +734,24 @@ $CATEGORY: $course$/Your Business US EN v1.3/M8
 	=At the BLS #Correct! Official source.
 }
 
+::M8 U07 P1::What do you ask for before deducting an advance? {
+	~Nothing #Not the best option. Many states require it.
+	=Written authorization #Correct! Many states require it.
+	~A cosigner #Not the best option. Many states require it.
+}
+
+::M8 U07 P2::Can the deduction leave pay below minimum wage? {
+	~Yes, if you both agree #Not the best option. Minimum wage is protected.
+	~Yes, once #Not the best option. Minimum wage is protected.
+	=No #Correct! Minimum wage is protected.
+}
+
+::M8 U07 P3::How do you protect your cash flow? {
+	=Set a monthly fund for advances #Correct! So you aren't short for supplies.
+	~Give whatever is asked #Not the best option. So you aren't short for supplies.
+	~Borrow to advance pay #Not the best option. So you aren't short for supplies.
+}
+
 $CATEGORY: $course$/Your Business US EN v1.3/M9
 
 ::M9 U01 P1::Where do you check your Social Security record? {

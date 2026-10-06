@@ -8,7 +8,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE negocios (2018) | N-A2 Financiar el negocio | 24 | M8 U05, M6 U01, M6 U02, M7 U07, M1 U06 |
 | OCDE negocios (2018) | N-B1 Registro, impuestos y obligaciones legales | 15 | M5 U02, M5 U01, M7 U04, M5 U03, M6 U05, M7 U05 |
 | OCDE negocios (2018) | N-B2 Registros y contabilidad | 13 | M1 U01, M1 U04, M3 U01, M1 U06, M7 U07, M5 U03 |
-| OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M1 U02, M3 U01, M2 U04, M2 U03, M9 U03, M8 U04 |
+| OCDE negocios (2018) | N-B3 Finanzas de corto plazo | 17 | M1 U02, M3 U01, M2 U04, M2 U03, M8 U07, M9 U03 |
 | OCDE negocios (2018) | N-B4 Planear más allá del corto plazo | 15 | M6 U01, M8 U05, M3 U04 |
 | OCDE negocios (2018) | N-C1 Riesgos y seguros personales de quien emprende | 4 | M9 U01, M7 U01, M9 U03 |
 | OCDE negocios (2018) | N-C2 Riesgos y seguros del negocio | 13 | M7 U07, M6 U04, M1 U05, M3 U03, M7 U02 |
@@ -156,7 +156,7 @@ Temas cubiertos: 33 de 33.
 
 ## N-B3 · Finanzas de corto plazo
 
-**Lecciones:** M1 U02 Keep business money separate from home money; M3 U01 Profit isn't cash; M2 U04 Inventory and waste; M2 U03 Your break-even point; M9 U03 Your one-page plan; M8 U04 Stress, business and family
+**Lecciones:** M1 U02 Keep business money separate from home money; M3 U01 Profit isn't cash; M2 U04 Inventory and waste; M2 U03 Your break-even point; M8 U07 Pay advances and loans to your employees; M9 U03 Your one-page plan
 
 *Conocimiento*
 

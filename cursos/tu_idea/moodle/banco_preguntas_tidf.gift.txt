@@ -460,6 +460,24 @@ $CATEGORY: $course$/Tu Idea v1.0/M6
 	=Un acuerdo por escrito #¡Correcto! Evita pleitos.
 }
 
+::M6 U05 P1::¿Qué es un adelanto de sueldo? {
+	~Un regalo del trabajo #No es la mejor opción. Luego te lo descuentan.
+	=Tu mismo sueldo, antes #¡Correcto! Luego te lo descuentan.
+	~Un bono #No es la mejor opción. Luego te lo descuentan.
+}
+
+::M6 U05 P2::35 pesos de comisión cada semana. ¿Cuánto es al año? {
+	=1,820 #¡Correcto! 35 × 52.
+	~420 #No es la mejor opción. 35 × 52.
+	~35 #No es la mejor opción. 35 × 52.
+}
+
+::M6 U05 P3::¿Qué preguntas antes de un préstamo de nómina? {
+	~Si es rápido #No es la mejor opción. Así sabes cuánto cuesta.
+	~Si te dan más #No es la mejor opción. Así sabes cuánto cuesta.
+	=El total a pagar y cuántos meses te descuentan #¡Correcto! Así sabes cuánto cuesta.
+}
+
 $CATEGORY: $course$/Tu Idea v1.0/M7
 
 ::M7 U01 P1::¿Qué es transferir un riesgo? {

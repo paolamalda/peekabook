@@ -7,14 +7,14 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | A1 Dinero y monedas | 20 | M5 U02, M1 U04, M5 U01, M5 U03 |
 | OCDE adultos (2016) | A2 Ingreso | 20 | M1 U02, M6 U01, M11 U07, M10 U03, M8 U05, M6 U05 |
 | OCDE adultos (2016) | A3 Pagos, precios y compras | 24 | M11 U06, M9 U08, M6 U03, M4 U05, M1 U07, M2 U02 |
-| OCDE adultos (2016) | A4 Registros y contratos | 7 | M10 U06, M1 U01, M3 U06, M5 U07, M9 U10, M10 U07 |
+| OCDE adultos (2016) | A4 Registros y contratos | 7 | M10 U06, M5 U07, M1 U01, M3 U06, M9 U10, M10 U07 |
 | OCDE adultos (2016) | B1 Presupuesto | 15 | M1 U02, M1 U03 |
 | OCDE adultos (2016) | B2 Administrar ingresos y gastos | 18 | M5 U06, M1 U01, M1 U02, M1 U05 |
-| OCDE adultos (2016) | B3 Ahorro | 17 | M5 U03, M4 U02, M11 U04, M11 U06 |
+| OCDE adultos (2016) | B3 Ahorro | 17 | M5 U03, M4 U02, M11 U02, M11 U04, M11 U06 |
 | OCDE adultos (2016) | B4 Invertir | 21 | M11 U05, M5 U03, M9 U07, M11 U07, M1 U04 |
 | OCDE adultos (2016) | B5 Planear a largo plazo y construir patrimonio | 12 | M10 U06, M11 U09, M11 U05, M1 U03, M5 U03, M10 U08 |
-| OCDE adultos (2016) | B6 Retiro | 13 | M11 U02, M11 U03, M11 U04, M10 U04, M11 U01, M5 U02 |
-| OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U05, M5 U08, M7 U08, M7 U01, M6 U01 |
+| OCDE adultos (2016) | B6 Retiro | 13 | M11 U02, M11 U03, M11 U04, M11 U01, M10 U04, M5 U02 |
+| OCDE adultos (2016) | B7 Crédito | 33 | M5 U06, M5 U05, M5 U08, M7 U08, M7 U01, M6 U07 |
 | OCDE adultos (2016) | B8 Deudas | 15 | M7 U06, M8 U01, M8 U02, M8 U04, M6 U04, M6 U05 |
 | OCDE adultos (2016) | C1 Identificar riesgos | 15 | M10 U07, M8 U06, M10 U03, M11 U05, M6 U05 |
 | OCDE adultos (2016) | C2 Redes de protección y seguros | 11 | M10 U01, M5 U04, M10 U04, M10 U02, M5 U07, M11 U03 |
@@ -27,7 +27,7 @@ Cruce de todas las competencias de los marcos de la OCDE aplicables con las lecc
 | OCDE adultos (2016) | D6 Impuestos y gasto público | 9 | M2 U02, M1 U01, M2 U04, M2 U01, M10 U08, M11 U01 |
 | OCDE adultos (2016) | D7 Influencias externas | 6 | M4 U05 |
 | IOSCO/OCDE inversionistas (2019) | I1 Principios básicos de inversión | 18 | M11 U05, M11 U07, M5 U03 |
-| IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M1 U04, M3 U03, M5 U02, M5 U03, M11 U05, M1 U03 |
+| IOSCO/OCDE inversionistas (2019) | I2 Características de los productos de inversión | 8 | M1 U04, M3 U03, M5 U03, M5 U02, M11 U05, M1 U03 |
 | IOSCO/OCDE inversionistas (2019) | I3 Comprar y vender inversiones | 11 | M11 U05, M9 U03, M1 U06 |
 | IOSCO/OCDE inversionistas (2019) | I4 Dar seguimiento a sus inversiones | 8 | M11 U05 |
 | IOSCO/OCDE inversionistas (2019) | I5 Derechos y obligaciones de quien invierte | 8 | M4 U04, M10 U08, M7 U07, M9 U04, M9 U07, M9 U09 |
@@ -141,7 +141,7 @@ Temas cubiertos: 29 de 29.
 
 ## A4 · Registros y contratos
 
-**Lecciones:** M10 U06 Testamento y documentos para tu familia; M1 U01 ¿Todo lo que cobro por una producción es mi ganancia real?; M3 U06 Cuando la productora no paga; M5 U07 Lee el contrato antes de firmar; M9 U10 Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes; M10 U07 Si llega un sismo o una inundación: tu equipo y tu trabajo
+**Lecciones:** M10 U06 Testamento y documentos para tu familia; M5 U07 Lee el contrato antes de firmar; M1 U01 ¿Todo lo que cobro por una producción es mi ganancia real?; M3 U06 Cuando la productora no paga; M9 U10 Tu voz y tu cara con inteligencia artificial: deepfakes y fraudes; M10 U07 Si llega un sismo o una inundación: tu equipo y tu trabajo
 
 *Conocimiento*
 
@@ -220,7 +220,7 @@ Temas cubiertos: 29 de 29.
 
 ## B3 · Ahorro
 
-**Lecciones:** M5 U03 Elige dónde ahorrar e invertir; M4 U02 Bancos, bancos digitales y otras entidades: ¿cuál es cuál?; M11 U04 Plan Personal de Retiro (PPR) y aportaciones deducibles; M11 U06 Vivienda: rentar, comprar o esperar
+**Lecciones:** M5 U03 Elige dónde ahorrar e invertir; M4 U02 Bancos, bancos digitales y otras entidades: ¿cuál es cuál?; M11 U02 Tu AFORE: encuéntrala y súmale; M11 U04 Plan Personal de Retiro (PPR) y aportaciones deducibles; M11 U06 Vivienda: rentar, comprar o esperar
 
 *Conocimiento*
 
@@ -309,7 +309,7 @@ Temas cubiertos: 29 de 29.
 
 ## B6 · Retiro
 
-**Lecciones:** M11 U02 Tu AFORE: encuéntrala y súmale; M11 U03 Modalidad 40: si cotizaste antes de julio de 1997; M11 U04 Plan Personal de Retiro (PPR) y aportaciones deducibles; M10 U04 Seguro de vida y beneficiarios; M11 U01 Llegó un pago gordo: repártelo antes de gastarlo; M5 U02 Elige tu cuenta
+**Lecciones:** M11 U02 Tu AFORE: encuéntrala y súmale; M11 U03 Modalidad 40: si cotizaste antes de julio de 1997; M11 U04 Plan Personal de Retiro (PPR) y aportaciones deducibles; M11 U01 Llegó un pago gordo: repártelo antes de gastarlo; M10 U04 Seguro de vida y beneficiarios; M5 U02 Elige tu cuenta
 
 *Conocimiento*
 
@@ -335,7 +335,7 @@ Temas cubiertos: 29 de 29.
 
 ## B7 · Crédito
 
-**Lecciones:** M5 U06 Elige un crédito: el tipo correcto para cada uso; M5 U05 Elige un crédito: los números; M5 U08 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M7 U08 Protege tu historial: bloqueo y alertas; M7 U01 ¿Qué son el Buró y el Círculo de Crédito?; M6 U01 Tu línea de crédito no es tu ingreso
+**Lecciones:** M5 U06 Elige un crédito: el tipo correcto para cada uso; M5 U05 Elige un crédito: los números; M5 U08 Aval, obligado solidario, fiador y referencia: ¿qué firmas?; M7 U08 Protege tu historial: bloqueo y alertas; M7 U01 ¿Qué son el Buró y el Círculo de Crédito?; M6 U07 Adelantos de pago y préstamo de nómina en meses de llamados
 
 *Conocimiento*
 
@@ -678,7 +678,7 @@ Temas cubiertos: 29 de 29.
 
 ## I2 · Características de los productos de inversión
 
-**Lecciones:** M1 U04 ¿Dónde guardo mi fondo de sequía?; M3 U03 Mánagers y agencias: comisiones y cuentas claras; M5 U02 Elige tu cuenta; M5 U03 Elige dónde ahorrar e invertir; M11 U05 Invertir a largo plazo sin especular; M1 U03 ¿Cuánto necesito en mi fondo de sequía?
+**Lecciones:** M1 U04 ¿Dónde guardo mi fondo de sequía?; M3 U03 Mánagers y agencias: comisiones y cuentas claras; M5 U03 Elige dónde ahorrar e invertir; M5 U02 Elige tu cuenta; M11 U05 Invertir a largo plazo sin especular; M1 U03 ¿Cuánto necesito en mi fondo de sequía?
 
 *Conocimiento*
 

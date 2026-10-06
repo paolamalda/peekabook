@@ -231,5 +231,29 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
- }
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Your money in order",
+   "descripcion": "What comes in, what goes out and a plan for the month."
+  },
+  "M2": {
+   "titulo": "Banks and sending money home",
+   "descripcion": "Where to keep your money and how to send more for less."
+  },
+  "M3": {
+   "titulo": "Credit without surprises",
+   "descripcion": "Your history, your debts and how to get out of them."
+  },
+  "M4": {
+   "titulo": "Protect what's yours",
+   "descripcion": "Scams, insurance and a plan for your family."
+  },
+  "M5": {
+   "titulo": "Your future",
+   "descripcion": "Goals, savings, housing and retirement."
+  }
+ },
+ "objetivo_general": "make informed decisions to organize their money and taxes, use the financial system and send remittances at a lower cost, build credit and get out of debt, protect their money, their identity and their family, and plan their assets and retirement in the United States and in Mexico"
 }

@@ -1,0 +1,520 @@
+{
+ "curso": "Tu Idea, Tu Dinero, Tu Futuro",
+ "partes": [
+  {
+   "modulo": "M1",
+   "seccion": "Tu mente y tu dinero",
+   "orden": 1,
+   "resumen": "<p>Cómo decides con tu dinero y por qué.</p><p><strong>Al terminar tendrás:</strong> tu forma de pensar el dinero: crear y no solo guardar, tus fuentes de ingreso y tu presupuesto.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Mente que crea: el dinero no es solo para guardarlo",
+     "zip": "lecciones/01_M1_U01.zip",
+     "h5p": "h5p/M1_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "¿De dónde sale el dinero? Tus fuentes de ingreso",
+     "zip": "lecciones/02_M1_U02.zip",
+     "h5p": "h5p/M1_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Influencers, antojos y presión: quién decide tus compras",
+     "zip": "lecciones/03_M1_U03.zip",
+     "h5p": "h5p/M1_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu presupuesto: mesada, beca y lo que ganas",
+     "zip": "lecciones/04_M1_U04.zip",
+     "h5p": "h5p/M1_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M1 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M2",
+   "seccion": "Tu cuenta y el dinero digital",
+   "orden": 2,
+   "resumen": "<p>Tu primera cuenta, pagos y apps.</p><p><strong>Al terminar tendrás:</strong> una cuenta a tu medida, pagos digitales seguros, compras en línea y en otra moneda, y lo que firmas cuando aceptas términos.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Tu primera cuenta",
+     "zip": "lecciones/01_M2_U01.zip",
+     "h5p": "h5p/M2_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Pagar y cobrar con el celular",
+     "zip": "lecciones/02_M2_U02.zip",
+     "h5p": "h5p/M2_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Compras en línea y dinero de otro país",
+     "zip": "lecciones/03_M2_U03.zip",
+     "h5p": "h5p/M2_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Las letras chiquitas: términos, suscripciones y contratos",
+     "zip": "lecciones/04_M2_U04.zip",
+     "h5p": "h5p/M2_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M2 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M3",
+   "seccion": "De la idea a tu primera venta",
+   "orden": 3,
+   "resumen": "<p>Crea algo que la gente quiera comprar.</p><p><strong>Al terminar tendrás:</strong> una idea probada con poco dinero, su costo, su precio, su ganancia y tus primeras ventas.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Encuentra un problema que valga la pena resolver",
+     "zip": "lecciones/01_M3_U01.zip",
+     "h5p": "h5p/M3_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Prueba tu idea con poco dinero",
+     "zip": "lecciones/02_M3_U02.zip",
+     "h5p": "h5p/M3_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Costo, precio y ganancia",
+     "zip": "lecciones/03_M3_U03.zip",
+     "h5p": "h5p/M3_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tus primeras ventas: redes, cobro y clientes",
+     "zip": "lecciones/04_M3_U04.zip",
+     "h5p": "h5p/M3_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Punto de equilibrio y el dinero del negocio aparte",
+     "zip": "lecciones/05_M3_U05.zip",
+     "h5p": "h5p/M3_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M3 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M4",
+   "seccion": "Haz crecer lo que empezaste",
+   "orden": 4,
+   "resumen": "<p>Precio, clientes y orden en tu proyecto.</p><p><strong>Al terminar tendrás:</strong> tu plan para reinvertir, trabajar con socios, cuidar tu marca y formalizarte cuando toque.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Reinvertir: que tu ganancia trabaje",
+     "zip": "lecciones/01_M4_U01.zip",
+     "h5p": "h5p/M4_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Socios y equipo: acuerdos claros entre amigos",
+     "zip": "lecciones/02_M4_U02.zip",
+     "h5p": "h5p/M4_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu marca, tu reputación y tus datos en línea",
+     "zip": "lecciones/03_M4_U03.zip",
+     "h5p": "h5p/M4_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Crecer en serio: RFC, permisos e impuestos cuando toque",
+     "zip": "lecciones/04_M4_U04.zip",
+     "h5p": "h5p/M4_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M4 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M5",
+   "seccion": "Pon tu dinero a trabajar",
+   "orden": 5,
+   "resumen": "<p>Ahorro e inversión para empezar.</p><p><strong>Al terminar tendrás:</strong> tu ahorro con propósito, el interés compuesto de tu lado y cómo distinguir invertir de apostar.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Ahorra con propósito",
+     "zip": "lecciones/01_M5_U01.zip",
+     "h5p": "h5p/M5_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "El interés compuesto y tu mejor aliado: el tiempo",
+     "zip": "lecciones/02_M5_U02.zip",
+     "h5p": "h5p/M5_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Invertir: riesgo, rendimiento y no poner todo junto",
+     "zip": "lecciones/03_M5_U03.zip",
+     "h5p": "h5p/M5_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Cripto, trading, «hazte rico» y apuestas: invertir no es apostar",
+     "zip": "lecciones/04_M5_U04.zip",
+     "h5p": "h5p/M5_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M5 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M6",
+   "seccion": "Crédito sin trampas",
+   "orden": 6,
+   "resumen": "<p>Cómo funciona el crédito y cómo evitar deudas caras.</p><p><strong>Al terminar tendrás:</strong> saber cuánto cuesta un crédito, usar una tarjeta sin endeudarte y cuidar tu historial.</p><p><strong>5 lecciones</strong> de 10 a 15 minutos · 50 a 75 minutos en total.</p>",
+   "minutos": [
+    50,
+    75
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Qué es el crédito y cuánto cuesta de verdad",
+     "zip": "lecciones/01_M6_U01.zip",
+     "h5p": "h5p/M6_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tarjeta de crédito, meses sin intereses y «compra ahora, paga después»",
+     "zip": "lecciones/02_M6_U02.zip",
+     "h5p": "h5p/M6_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu historial desde joven y lo que nunca firmas por otros",
+     "zip": "lecciones/03_M6_U03.zip",
+     "h5p": "h5p/M6_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Pagar tus estudios o tu idea: antes que un préstamo",
+     "zip": "lecciones/04_M6_U04.zip",
+     "h5p": "h5p/M6_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U04"
+    },
+    {
+     "orden": 5,
+     "nombre_actividad": "Adelantos de sueldo y préstamos de nómina en tu primer trabajo",
+     "zip": "lecciones/05_M6_U05.zip",
+     "h5p": "h5p/M6_U05_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M6 U05"
+    }
+   ]
+  },
+  {
+   "modulo": "M7",
+   "seccion": "Riesgos, protección y fraudes",
+   "orden": 7,
+   "resumen": "<p>Cuida tu dinero, tus datos y tu proyecto.</p><p><strong>Al terminar tendrás:</strong> tus riesgos identificados, tu seguro de estudiante activo y tu protección contra fraudes y cuentas mula.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Identifica tus riesgos antes de que pasen",
+     "zip": "lecciones/01_M7_U01.zip",
+     "h5p": "h5p/M7_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu seguro de estudiante y otros seguros",
+     "zip": "lecciones/02_M7_U02.zip",
+     "h5p": "h5p/M7_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Fraudes que buscan jóvenes: cuentas mula, falsos empleos y amenazas",
+     "zip": "lecciones/03_M7_U03.zip",
+     "h5p": "h5p/M7_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu identidad digital y tus contraseñas",
+     "zip": "lecciones/04_M7_U04.zip",
+     "h5p": "h5p/M7_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M7 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M8",
+   "seccion": "La economía y tu familia",
+   "orden": 8,
+   "resumen": "<p>Cómo funciona la economía y cómo te afecta.</p><p><strong>Al terminar tendrás:</strong> quién te protege, para qué sirven los impuestos, cómo te afecta la economía y cómo apoyar a tu familia con sus papeles.</p><p><strong>4 lecciones</strong> de 10 a 15 minutos · 40 a 60 minutos en total.</p>",
+   "minutos": [
+    40,
+    60
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Quién es quién en el sistema financiero y quién te protege",
+     "zip": "lecciones/01_M8_U01.zip",
+     "h5p": "h5p/M8_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Impuestos: de dónde salen tu escuela y tu beca",
+     "zip": "lecciones/02_M8_U02.zip",
+     "h5p": "h5p/M8_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Economía, noticias y rumores: lo que cambia tu dinero",
+     "zip": "lecciones/03_M8_U03.zip",
+     "h5p": "h5p/M8_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U03"
+    },
+    {
+     "orden": 4,
+     "nombre_actividad": "Tu familia y el dinero: ayudar, sus papeles y lo que se hereda",
+     "zip": "lecciones/04_M8_U04.zip",
+     "h5p": "h5p/M8_U04_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M8 U04"
+    }
+   ]
+  },
+  {
+   "modulo": "M9",
+   "seccion": "Tu futuro y tu plan",
+   "orden": 9,
+   "resumen": "<p>Tus metas y tu plan en una hoja.</p><p><strong>Al terminar tendrás:</strong> tu camino de estudio, trabajo o negocio con números, tus derechos en tu primer trabajo y tu plan de una página.</p><p><strong>3 lecciones</strong> de 10 a 15 minutos · 30 a 45 minutos en total.</p>",
+   "minutos": [
+    30,
+    45
+   ],
+   "lecciones": [
+    {
+     "orden": 1,
+     "nombre_actividad": "Estudiar, trabajar o emprender: decide con números",
+     "zip": "lecciones/01_M9_U01.zip",
+     "h5p": "h5p/M9_U01_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U01"
+    },
+    {
+     "orden": 2,
+     "nombre_actividad": "Tu primer trabajo formal: contrato, recibo, IMSS y Afore",
+     "zip": "lecciones/02_M9_U02.zip",
+     "h5p": "h5p/M9_U02_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U02"
+    },
+    {
+     "orden": 3,
+     "nombre_actividad": "Tu plan de una página y tu compromiso",
+     "zip": "lecciones/03_M9_U03.zip",
+     "h5p": "h5p/M9_U03_practica.h5p",
+     "minutos": [
+      10,
+      15
+     ],
+     "clave_interna": "M9 U03"
+    }
+   ]
+  }
+ ]
+}

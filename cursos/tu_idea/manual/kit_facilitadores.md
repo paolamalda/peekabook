@@ -37,7 +37,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M1 U01 · Mente que crea: el dinero no es solo para guardarlo: guardar te protege, pero crear te hace crecer; aparta una base para emergencias y pon una parte a trabajar en algo que genere.
 - M1 U02 · ¿De dónde sale el dinero? Tus fuentes de ingreso: hay varias formas de ganar dinero; tu hora vale más cuando aprendes una habilidad que otras personas necesitan.
-- M1 U03 · Influencers, antojos y presión: quién decide tus compras: si alguien gana cuando compras, su opinión no es neutral; espera antes de comprar y decide tú, no la presión ni el «solo hoy».
+- M1 U03 · Influencers, antojos y presión: quién decide tus compras: si alguien gana cuando compras, su opinión no es neutral. Espera antes de comprar y decide tú, no la presión ni el «solo hoy».
 - M1 U04 · Tu presupuesto: mesada, beca y lo que ganas: anota lo que te entra y reparte el mismo día que cobras: guardar y crear primero, gastar con lo que queda.
 
 **Casos**
@@ -70,8 +70,8 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M2 U01 · Tu primera cuenta: siendo menor puedes tener cuenta con un adulto; busca una sin comisiones, protegida por el IPAB, y empieza con tarjeta de débito.
 - M2 U02 · Pagar y cobrar con el celular: cobra por transferencia o QR, revisa en tu app que el dinero llegó antes de entregar y verifica el nombre antes de enviar.
-- M2 U03 · Compras en línea y dinero de otro país: en compras en otra moneda calcula el total en pesos con comisiones y envío; compra en sitios seguros y nunca pagues con depósitos a personas.
-- M2 U04 · Las letras chiquitas: términos, suscripciones y contratos: aceptar es firmar; antes de dar clic revisa costo, cuándo cobra y cómo cancelas, y pon un recordatorio antes de que termine una prueba sin costo.
+- M2 U03 · Compras en línea y dinero de otro país: en compras en otra moneda, calcula el total en pesos con comisiones y envío. Compra en sitios seguros y nunca pagues con depósitos a personas.
+- M2 U04 · Las letras chiquitas: términos, suscripciones y contratos: aceptar es firmar. Antes de dar clic, revisa el costo, cuándo cobra y cómo cancelas. Pon un recordatorio antes de que termine una prueba sin costo.
 
 **Casos**
 
@@ -103,9 +103,9 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 - M3 U01 · Encuentra un problema que valga la pena resolver: una buena idea une lo que sabes hacer con un problema real por el que alguien pagaría.
 - M3 U02 · Prueba tu idea con poco dinero: prueba tu idea con poco dinero (preguntar, pocas piezas o por pedido) antes de invertir en grande.
-- M3 U03 · Costo, precio y ganancia: calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia; vender mucho no sirve si no ganas.
-- M3 U04 · Tus primeras ventas: redes, cobro y clientes: vende con buena foto y precio claro, cobra antes o al entregar, entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
-- M3 U05 · Punto de equilibrio y el dinero del negocio aparte: calcula cuántas ventas necesitas para recuperar lo invertido y separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
+- M3 U03 · Costo, precio y ganancia: calcula el costo de cada pieza con todo lo que usas y pon un precio que deje ganancia. Vender mucho no sirve si no ganas.
+- M3 U04 · Tus primeras ventas: redes, cobro y clientes: vende con buena foto y precio claro, y cobra antes o al entregar. Entrega en lugares públicos con un adulto y cuida a tus clientes para que vuelvan.
+- M3 U05 · Punto de equilibrio y el dinero del negocio aparte: calcula cuántas ventas necesitas para recuperar lo invertido. Separa el dinero del negocio: te pagas un sueldo fijo y lo demás hace crecer tu idea.
 
 **Casos**
 
@@ -138,7 +138,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 - M4 U01 · Reinvertir: que tu ganancia trabaje: reparte tu ganancia en sueldo, reinversión y reserva; reinvertir es lo que hace crecer tu idea sin deudas.
 - M4 U02 · Socios y equipo: acuerdos claros entre amigos: si emprendes con amigos, escriban antes quién pone qué, cómo se reparte y qué pasa si alguien se sale.
 - M4 U03 · Tu marca, tu reputación y tus datos en línea: separa tu cuenta personal de la del negocio, responde con respeto y nunca publiques datos tuyos ni de tus clientes.
-- M4 U04 · Crecer en serio: RFC, permisos e impuestos cuando toque: a los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar; mientras eres menor, cuida higiene, reglas de tu escuela y pide acompañamiento.
+- M4 U04 · Crecer en serio: RFC, permisos e impuestos cuando toque: a los 18 puedes tramitar tu RFC sin costo, elegir un régimen como el RESICO y facturar. Mientras eres menor, cuida la higiene y las reglas de tu escuela, y pide acompañamiento.
 
 **Casos**
 
@@ -168,7 +168,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M5 U01 · Ahorra con propósito: ponle nombre, monto y fecha a tu meta, divide entre el tiempo y aparta el mismo día que recibes dinero; empieza por un pequeño fondo para imprevistos.
+- M5 U01 · Ahorra con propósito: ponle nombre, monto y fecha a tu meta. Divide entre el tiempo y aparta el mismo día que recibes dinero. Empieza por un pequeño fondo para imprevistos.
 - M5 U02 · El interés compuesto y tu mejor aliado: el tiempo: el interés compuesto necesita tiempo; empezar joven, aunque sea con poco, vale más que empezar tarde con mucho. Revisa siempre el rendimiento después de la inflación.
 - M5 U03 · Invertir: riesgo, rendimiento y no poner todo junto: a más rendimiento, más riesgo; reparte tu dinero, invierte solo en instituciones reguladas y desconfía de ganancias «seguras y altísimas».
 - M5 U04 · Cripto, trading, «hazte rico» y apuestas: invertir no es apostar: invertir es a largo plazo en algo que produce valor; especular y apostar pueden hacerte perder rápido. Las apuestas están prohibidas para menores y los «hazte rico rápido» ganan con tu dinero.
@@ -201,10 +201,11 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M6 U01 · Qué es el crédito y cuánto cuesta de verdad: un crédito siempre cuesta más que el precio; compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
+- M6 U01 · Qué es el crédito y cuánto cuesta de verdad: un crédito siempre cuesta más que el precio. Compara el total y el CAT, y úsalo solo para algo que puedas pagar y que te ayude a crecer.
 - M6 U02 · Tarjeta de crédito, meses sin intereses y «compra ahora, paga después»: con tarjeta de crédito paga el total del mes; el pago mínimo alarga la deuda. Meses sin intereses y «paga después» comprometen tu dinero futuro y cobran si te atrasas.
 - M6 U03 · Tu historial desde joven y lo que nunca firmas por otros: tu historial se construye pagando a tiempo; ser aval u obligado solidario es aceptar la deuda de otra persona. Ser referencia solo es dar tus datos.
 - M6 U04 · Pagar tus estudios o tu idea: antes que un préstamo: antes de pedir prestado busca becas, concursos y apoyos; si necesitas un crédito, que sea regulado, comparado y con un adulto.
+- M6 U05 · Adelantos de sueldo y préstamos de nómina en tu primer trabajo: un adelanto no es dinero extra, es tu mismo sueldo antes; las apps cobran cada vez y suman mucho en un año.
 
 **Casos**
 
@@ -235,7 +236,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 **Ideas clave**
 
 - M7 U01 · Identifica tus riesgos antes de que pasen: identifica qué puede salir mal y prepárate: evita, reduce, guarda un fondo o asegúrate.
-- M7 U02 · Tu seguro de estudiante y otros seguros: si estudias en una escuela pública tienes seguro de salud del IMSS sin costo; saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
+- M7 U02 · Tu seguro de estudiante y otros seguros: si estudias en una escuela pública, tienes seguro de salud del IMSS sin costo. Saca tu NSS, entrégalo en tu escuela y regístrate en tu clínica.
 - M7 U03 · Fraudes que buscan jóvenes: cuentas mula, falsos empleos y amenazas: nunca prestes tu cuenta ni tu tarjeta; ningún trabajo real te pide pagar ni mover depósitos ajenos. Si te amenazan en línea, no pagues, guarda pruebas y pide ayuda.
 - M7 U04 · Tu identidad digital y tus contraseñas: usa contraseñas largas y distintas en tus cuentas importantes y activa la verificación en dos pasos; nunca compartas códigos.
 
@@ -267,7 +268,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M8 U01 · Quién es quién en el sistema financiero y quién te protege: conoce quién es quién: los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende; reclama primero con folio y, si no te resuelven, acude a la CONDUSEF.
+- M8 U01 · Quién es quién en el sistema financiero y quién te protege: conoce quién es quién. Los bancos te dan servicios, las autoridades los vigilan y la CONDUSEF te defiende. Reclama primero con folio; si no te resuelven, acude a la CONDUSEF.
 - M8 U02 · Impuestos: de dónde salen tu escuela y tu beca: todos pagamos impuestos, aunque sea en lo que compramos; con ellos se pagan escuelas, becas y hospitales. Pagarlos y vigilar cómo se usan es parte de ser ciudadano.
 - M8 U03 · Economía, noticias y rumores: lo que cambia tu dinero: inflación, tasas y tipo de cambio afectan tu dinero; revisa las cifras en fuentes oficiales y ajusta tu plan sin pánico.
 - M8 U04 · Tu familia y el dinero: ayudar, sus papeles y lo que se hereda: ayuda en casa con números claros; propón una carpeta familiar, beneficiarios y testamento. Heredar no paga ISR, pero escriturar sí cuesta.
@@ -300,7 +301,7 @@ Pon atención si alguien falta seguido, se aísla, menciona que dejó de comprar
 
 **Ideas clave**
 
-- M9 U01 · Estudiar, trabajar o emprender: decide con números: estudiar, trabajar y emprender se pueden combinar; compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
+- M9 U01 · Estudiar, trabajar o emprender: decide con números: estudiar, trabajar y emprender se pueden combinar. Compara costos, becas e ingresos futuros, y elige algo que te guste y que la gente necesite.
 - M9 U02 · Tu primer trabajo formal: contrato, recibo, IMSS y Afore: un trabajo formal te da contrato, IMSS, Afore y prestaciones; «sin papeles» parece más, pero pierdes protección y ahorro para tu futuro.
 - M9 U03 · Tu plan de una página y tu compromiso: tu plan en una hoja te dice dónde estás y qué sigue; un compromiso con nombre, testigo y recordatorio te ayuda a crecer.
 

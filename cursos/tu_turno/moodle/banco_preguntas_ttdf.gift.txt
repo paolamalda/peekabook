@@ -310,6 +310,42 @@ $CATEGORY: $course$/Tu Turno v1.3/M3
 	~Que el bono sea grande #No es la mejor opción. Sin permiso no hay a quién reclamar.
 }
 
+::M3 U06 P1::¿Cuál es el tope para descontarte un adelanto de la empresa? {
+	~Todo tu pago de la quincena, si así lo pide la empresa #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+	=30% de lo que ganas arriba del mínimo #¡Correcto! Artículo 110 de la Ley Federal del Trabajo.
+	~La mitad de lo que ganas cada quincena #No es la mejor opción. Artículo 110 de la Ley Federal del Trabajo.
+}
+
+::M3 U06 P2::¿Qué comparas entre dos préstamos de nómina? {
+	~Cuál llega más rápido #No es la mejor opción. El pago chico puede esconder un total alto.
+	~Cuál tiene el pago más chico #No es la mejor opción. El pago chico puede esconder un total alto.
+	=El total a pagar y el CAT #¡Correcto! El pago chico puede esconder un total alto.
+}
+
+::M3 U06 P3::¿Quién da el crédito FONACOT? {
+	=Una institución del gobierno, si tu empresa está afiliada #¡Correcto! Se descuenta por nómina.
+	~Cualquier app #No es la mejor opción. Se descuenta por nómina.
+	~La tienda de la esquina #No es la mejor opción. Se descuenta por nómina.
+}
+
+::M3 U07 P1::¿Qué pasa si no pagas ni refrendas a tiempo? {
+	=La casa vende tu prenda #¡Correcto! Por eso anotas la fecha.
+	~Te dan más plazo sin costo #No es la mejor opción. Por eso anotas la fecha.
+	~Te la regresan igual #No es la mejor opción. Por eso anotas la fecha.
+}
+
+::M3 U07 P2::¿Qué es la demasía? {
+	~Un cobro extra de la casa #No es la mejor opción. Es tuya y la puedes reclamar.
+	=Lo que sobra si venden tu prenda en más de lo que debías #¡Correcto! Es tuya y la puedes reclamar.
+	~El interés del mes #No es la mejor opción. Es tuya y la puedes reclamar.
+}
+
+::M3 U07 P3::¿Qué revisas antes de empeñar? {
+	~Que el local esté cerca de tu casa o de tu trabajo #No es la mejor opción. Así tienes a quién reclamar.
+	~Que te presten el valor completo #No es la mejor opción. Así tienes a quién reclamar.
+	=Que esté en el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
+}
+
 $CATEGORY: $course$/Tu Turno v1.3/M4
 
 ::M4 U01 P1::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
@@ -676,6 +712,42 @@ $CATEGORY: $course$/Tu Turno v1.3/M7
 	~Con un recibo de luz #No es la mejor opción. Se registra en el RAN.
 	=Con la lista de sucesión #¡Correcto! Se registra en el RAN.
 	~Con una carta escrita a mano por el ejidatario #No es la mejor opción. Se registra en el RAN.
+}
+
+::M7 U08 P1::¿Cuál es una señal de violencia económica? {
+	~Hacer juntos el presupuesto #No es la mejor opción. Es control del dinero.
+	=Que te quiten tu tarjeta y te den «lo que te toca» #¡Correcto! Es control del dinero.
+	~Ahorrar para una meta en común #No es la mejor opción. Es control del dinero.
+}
+
+::M7 U08 P2::¿Qué número da orientación a mujeres las 24 horas? {
+	=079, opción 1 #¡Correcto! Orientación jurídica y psicológica.
+	~800 de tu banco #No es la mejor opción. Orientación jurídica y psicológica.
+	~El de la tienda de la colonia #No es la mejor opción. Orientación jurídica y psicológica.
+}
+
+::M7 U08 P3::Tu pareja te pide un crédito a tu nombre para ella. ¿Qué pasa si lo firmas? {
+	~La deuda queda a nombre de ella #No es la mejor opción. Lo que firmas es tuyo.
+	~Nadie la paga #No es la mejor opción. Lo que firmas es tuyo.
+	=La deuda es tuya #¡Correcto! Lo que firmas es tuyo.
+}
+
+::M7 U09 P1::¿De quién es el derecho a la pensión alimenticia? {
+	~De la mamá o el papá que la recibe #No es la mejor opción. Es para su comida, casa, salud y escuela.
+	=De los hijos #¡Correcto! Es para su comida, casa, salud y escuela.
+	~Del juez que la fija #No es la mejor opción. Es para su comida, casa, salud y escuela.
+}
+
+::M7 U09 P2::¿Qué puede pasar si no pagas una pensión fijada durante 60 días? {
+	~Nada, si después pagas #No es la mejor opción. Registro Nacional de Obligaciones Alimentarias.
+	~Te bajan el monto #No es la mejor opción. Registro Nacional de Obligaciones Alimentarias.
+	=Te inscriben en un registro y no puedes sacar licencia ni pasaporte #¡Correcto! Registro Nacional de Obligaciones Alimentarias.
+}
+
+::M7 U09 P3::Te bajó el ingreso. ¿Qué haces? {
+	=Pides al juez que revise el monto #¡Correcto! La deuda sigue mientras no se revise.
+	~Dejas de pagar #No es la mejor opción. La deuda sigue mientras no se revise.
+	~Pagas cuando puedas #No es la mejor opción. La deuda sigue mientras no se revise.
 }
 
 $CATEGORY: $course$/Tu Turno v1.3/M8

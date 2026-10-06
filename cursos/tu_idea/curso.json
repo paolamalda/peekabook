@@ -268,5 +268,44 @@
  },
  "contacto": {
   "correo": "hola@desarrollatalento.com"
+ },
+ "ux": 3,
+ "nombres": {
+  "M1": {
+   "titulo": "Tu mente y tu dinero",
+   "descripcion": "Cómo decides con tu dinero y por qué."
+  },
+  "M2": {
+   "titulo": "Tu cuenta y el dinero digital",
+   "descripcion": "Tu primera cuenta, pagos y apps."
+  },
+  "M3": {
+   "titulo": "De la idea a tu primera venta",
+   "descripcion": "Crea algo que la gente quiera comprar."
+  },
+  "M4": {
+   "titulo": "Haz crecer lo que empezaste",
+   "descripcion": "Precio, clientes y orden en tu proyecto."
+  },
+  "M5": {
+   "titulo": "Pon tu dinero a trabajar",
+   "descripcion": "Ahorro e inversión para empezar."
+  },
+  "M6": {
+   "titulo": "Crédito sin trampas",
+   "descripcion": "Cómo funciona el crédito y cómo evitar deudas caras."
+  },
+  "M7": {
+   "titulo": "Riesgos, protección y fraudes",
+   "descripcion": "Cuida tu dinero, tus datos y tu proyecto."
+  },
+  "M8": {
+   "titulo": "La economía y tu familia",
+   "descripcion": "Cómo funciona la economía y cómo te afecta."
+  },
+  "M9": {
+   "titulo": "Tu futuro y tu plan",
+   "descripcion": "Tus metas y tu plan en una hoja."
+  }
  }
 }

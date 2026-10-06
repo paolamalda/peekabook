@@ -94,7 +94,7 @@ Hola. Hoy hablamos de esto: Tu carpeta de documentos. Cuando murió su esposo, L
 
 ```
 *M1 U05 · Compra inteligente: el súper, las ofertas y los pagos a plazos*
-Compra con lista, compara por unidad, suma todos tus pagos a plazos antes de uno nuevo y espera un día ante el «solo hoy».
+Compra con lista y compara por unidad. Antes de un pago a plazos nuevo, suma todos los que ya tienes. Ante el «solo hoy», espera un día.
 
 • Lista y precio por unidad.
 • Suma tus pagos a plazos.
@@ -105,9 +105,9 @@ Tu paso de esta semana: Haz tu tabla de pagos que se repiten y no agregues uno n
 Lección: [por definir]
 ```
 
-**Audio** (123 palabras, unos 51 segundos)
+**Audio** (126 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Compra inteligente: el súper, las ofertas y los pagos a plazos. Elena compró una lavadora «a 18 meses sin intereses» porque la oferta terminaba ese día. Ahora suma ese pago a otros tres de la tienda departamental y a las plataformas de sus hijos. En esta lección aprenderás a ver el precio completo. Compra con lista, compara por unidad, suma todos tus pagos a plazos antes de uno nuevo y espera un día ante el «solo hoy». Recuerda: Lista y precio por unidad. Suma tus pagos a plazos. Espera un día. Tu paso de esta semana: Haz tu tabla de pagos que se repiten y no agregues uno nuevo hasta terminar uno. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Compra inteligente: el súper, las ofertas y los pagos a plazos. Elena compró una lavadora «a 18 meses sin intereses» porque la oferta terminaba ese día. Ahora suma ese pago a otros tres de la tienda departamental y a las plataformas de sus hijos. En esta lección aprenderás a ver el precio completo. Compra con lista y compara por unidad. Antes de un pago a plazos nuevo, suma todos los que ya tienes. Ante el «solo hoy», espera un día. Recuerda: Lista y precio por unidad. Suma tus pagos a plazos. Espera un día. Tu paso de esta semana: Haz tu tabla de pagos que se repiten y no agregues uno nuevo hasta terminar uno. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Conoce el sistema financiero
 
@@ -491,9 +491,9 @@ Tu paso de esta semana: Llena la tabla de revisión con tus cuentas y decide cu�
 Lección: [por definir]
 ```
 
-**Audio** (106 palabras, unos 44 segundos)
+**Audio** (107 palabras, unos 45 segundos)
 
-Hola. Hoy hablamos de esto: Elige y revisa tus cuentas. Carmen tiene cinco cuentas en tres bancos: la de nómina vieja de Arturo, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas. Menos cuentas, cada una con propósito, sin comisiones y con beneficiarios al día. Recuerda: Cada cuenta con propósito. Revisa comisiones y GAT. Cierra por escrito las que no usas. Tu paso de esta semana: Llena la tabla de revisión con tus cuentas y decide cuáles cierras. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Elige y revisa tus cuentas. Carmen tiene cinco cuentas en tres bancos. Son la de nómina vieja de Arturo, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas. Menos cuentas, cada una con propósito, sin comisiones y con beneficiarios al día. Recuerda: Cada cuenta con propósito. Revisa comisiones y GAT. Cierra por escrito las que no usas. Tu paso de esta semana: Llena la tabla de revisión con tus cuentas y decide cuáles cierras. Nos escuchamos en la próxima lección.
 
 ### M5 U02 · El seguro del IPAB: hasta cuánto te protege
 
@@ -617,9 +617,9 @@ Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apar
 Lección: [por definir]
 ```
 
-**Audio** (141 palabras, unos 59 segundos)
+**Audio** (140 palabras, unos 58 segundos)
 
-Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento, y la hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qué firmas? El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento. La hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel. Aval, obligado solidario y fiador pagan si la otra persona no paga; una referencia solo da sus datos y no le pueden cobrar. Lee qué firmas y hazlo solo si podrías pagar esa deuda. Recuerda: Aval, obligado solidario y fiador: pagan si el otro no paga. Referencia: solo datos; no te cobran. Firma solo si podrías pagar. Tu paso de esta semana: Antes de firmar por alguien, pregunta en qué papel apareces y decide solo si podrías pagar esa deuda. Nos escuchamos en la próxima lección.
 
 ### M5 U08 · Préstamos de nómina y a cuenta de tu pensión
 
@@ -627,7 +627,7 @@ Hola. Hoy hablamos de esto: Aval, obligado solidario, fiador y referencia: ¿qu�
 
 ```
 *M5 U08 · Préstamos de nómina y a cuenta de tu pensión*
-Un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo.
+Un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar y trata solo con financieras del listado oficial. Nunca pagues para que te «liberen» un préstamo.
 
 • Tope de 30% de la pensión.
 • Solo financieras del listado oficial.
@@ -638,9 +638,9 @@ Tu paso de esta semana: Si tienes un préstamo de nómina o de pensión, anota c
 Lección: [por definir]
 ```
 
-**Audio** (135 palabras, unos 56 segundos)
+**Audio** (134 palabras, unos 56 segundos)
 
-Hola. Hoy hablamos de esto: Préstamos de nómina y a cuenta de tu pensión. A Lucía la llaman casi a diario: «Por ser pensionada, tiene un préstamo preaprobado; solo mándenos su INE y su estado de cuenta». Y a Raúl, el esposo de Maru, le ofrecen un crédito que se descuenta de su quincena de maestro. Un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo. Recuerda: Tope de 30% de la pensión. Solo financieras del listado oficial. Nunca pagues por adelantado. Tu paso de esta semana: Si tienes un préstamo de nómina o de pensión, anota cuánto te descuentan, cuántos pagos faltan y el total que pagarás. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Préstamos de nómina y a cuenta de tu pensión. A Lucía la llaman casi a diario: «Por ser pensionada, tiene un préstamo preaprobado; solo mándenos su INE y su estado de cuenta». Y a Raúl, el esposo de Maru, le ofrecen un crédito que se descuenta de su quincena de maestro. Un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar y trata solo con financieras del listado oficial. Nunca pagues para que te «liberen» un préstamo. Recuerda: Tope de 30% de la pensión. Solo financieras del listado oficial. Nunca pagues por adelantado. Tu paso de esta semana: Si tienes un préstamo de nómina o de pensión, anota cuánto te descuentan, cuántos pagos faltan y el total que pagarás. Nos escuchamos en la próxima lección.
 
 ### M5 U09 · Empeñar sin perder tus joyas
 
@@ -768,7 +768,7 @@ Lección: [por definir]
 
 **Audio** (120 palabras, unos 50 segundos)
 
-Hola. Hoy hablamos de esto: Inversiones milagro y «yo te lo manejo». En el grupo de amigas del club, una conocida cuenta que invirtió en «un negocio de divisas» que paga 5% mensual y que ya recuperó lo invertido. Carmen tiene ahorros quietos y le da pena preguntar si es seguro. En esta lección verás las señales. Rendimiento alto garantizado, pagos por invitar o alguien que «te lo maneja» sin registro son señales de fraude. Recuerda: Garantizado y alto = alerta. Pagos por invitar = pirámide. Nadie maneja tu dinero sin registro. Tu paso de esta semana: Si alguien te ofrece una inversión, usa la tabla «antes de decir que sí» antes de responder. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Inversiones milagro y «yo te lo manejo». En el grupo de amigas del club, una conocida cuenta que invirtió en «un negocio de divisas» que paga 5% mensual. Dice que ya recuperó lo invertido. Carmen tiene ahorros quietos y le da pena preguntar si es seguro. En esta lección verás las señales. Rendimiento alto garantizado, pagos por invitar o alguien que «te lo maneja» sin registro son señales de fraude. Recuerda: Garantizado y alto = alerta. Pagos por invitar = pirámide. Nadie maneja tu dinero sin registro. Tu paso de esta semana: Si alguien te ofrece una inversión, usa la tabla «antes de decir que sí» antes de responder. Nos escuchamos en la próxima lección.
 
 ### M6 U06 · Noticias, rumores y cambios: ajusta tu plan sin pánico
 
@@ -776,7 +776,7 @@ Hola. Hoy hablamos de esto: Inversiones milagro y «yo te lo manejo». En el gru
 
 ```
 *M6 U06 · Noticias, rumores y cambios: ajusta tu plan sin pánico*
-Confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
+Confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
 
 • Fuente oficial y fecha.
 • Ni miedo ni manada.
@@ -789,7 +789,7 @@ Lección: [por definir]
 
 **Audio** (136 palabras, unos 57 segundos)
 
-Hola. Hoy hablamos de esto: Noticias, rumores y cambios: ajusta tu plan sin pánico. Una noche, en el grupo de la familia de Lucía, circula que «van a quitar las pensiones» y que «las inversiones se van a desplomar». Su cuñado ya sacó todo de Cetes. Lucía no sabe si hacer lo mismo. En esta lección verás cómo responder con calma. Confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica. Recuerda: Fuente oficial y fecha. Ni miedo ni manada. Ajusta una parte a la vez. Tu paso de esta semana: Guarda en tu carpeta los sitios oficiales que consultarás antes de creer una noticia sobre tu dinero. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Noticias, rumores y cambios: ajusta tu plan sin pánico. Una noche, en el grupo de la familia de Lucía, circula que «van a quitar las pensiones» y que «las inversiones se van a desplomar». Su cuñado ya sacó todo de Cetes. Lucía no sabe si hacer lo mismo. En esta lección verás cómo responder con calma. Confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica. Recuerda: Fuente oficial y fecha. Ni miedo ni manada. Ajusta una parte a la vez. Tu paso de esta semana: Guarda en tu carpeta los sitios oficiales que consultarás antes de creer una noticia sobre tu dinero. Nos escuchamos en la próxima lección.
 
 ## Módulo 7. Pensión y retiro
 
@@ -883,7 +883,7 @@ Hola. Hoy hablamos de esto: Pensión de viudez y pensiones del Bienestar. Cuando
 
 ```
 *M7 U05 · Si tú o tu pareja trabajaron para el gobierno: ISSSTE*
-Averigua el régimen, los años de servicio y quién aparece como beneficiaria; con eso sabes qué pensión esperar y qué te tocaría a ti.
+Averigua el régimen, los años de servicio y quién aparece como beneficiaria. Con eso sabes qué pensión esperar y qué te tocaría a ti.
 
 • Primero, el régimen.
 • Hoja única de servicios.
@@ -896,7 +896,7 @@ Lección: [por definir]
 
 **Audio** (136 palabras, unos 57 segundos)
 
-Hola. Hoy hablamos de esto: Si tú o tu pareja trabajaron para el gobierno: ISSSTE. Raúl, el esposo de Maru, es maestro y trabajó 31 años en escuelas públicas federales. Maru no sabe si él «está en el régimen viejo o en el de AFORE», ni qué le tocaría a ella si él faltara. En esta lección verás cómo averiguarlo sin gestores. Averigua el régimen, los años de servicio y quién aparece como beneficiaria; con eso sabes qué pensión esperar y qué te tocaría a ti. Recuerda: Primero, el régimen. Hoja única de servicios. Viudez: 100% en el régimen anterior. Tu paso de esta semana: Pregunta a tu pareja (o revisa tú) en qué régimen del ISSSTE está, pide la hoja única de servicios y confirma quién aparece como beneficiaria. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si tú o tu pareja trabajaron para el gobierno: ISSSTE. Raúl, el esposo de Maru, es maestro y trabajó 31 años en escuelas públicas federales. Maru no sabe si él «está en el régimen viejo o en el de AFORE», ni qué le tocaría a ella si él faltara. En esta lección verás cómo averiguarlo sin gestores. Averigua el régimen, los años de servicio y quién aparece como beneficiaria. Con eso sabes qué pensión esperar y qué te tocaría a ti. Recuerda: Primero, el régimen. Hoja única de servicios. Viudez: 100% en el régimen anterior. Tu paso de esta semana: Pregunta a tu pareja (o revisa tú) en qué régimen del ISSSTE está, pide la hoja única de servicios y confirma quién aparece como beneficiaria. Nos escuchamos en la próxima lección.
 
 ### M7 U06 · ¿Cuánto necesito para mi retiro?
 
@@ -1032,7 +1032,7 @@ Hola. Hoy hablamos de esto: Casa y auto: lo básico. El seguro del auto de Carme
 
 ```
 *M8 U06 · Si llega un sismo o una inundación: tu patrimonio preparado*
-Documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
+Ten copia digital de tus documentos, fotos del antes, un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
 
 • Copia digital de todo.
 • Fotos del antes y del después.
@@ -1043,9 +1043,9 @@ Tu paso de esta semana: Esta semana toma fotos de tu casa y tus cosas, guarda co
 Lección: [por definir]
 ```
 
-**Audio** (144 palabras, unos 60 segundos)
+**Audio** (147 palabras, unos 61 segundos)
 
-Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu patrimonio preparado. Después de un sismo, la casa de Carmen tuvo grietas. No encontraba la póliza, no sabía si cubría sismo y un «perito» tocó a la puerta ofreciendo arreglar todo si le pagaba por adelantado. En esta lección verás cómo prepararte. Documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado. Recuerda: Copia digital de todo. Fotos del antes y del después. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana toma fotos de tu casa y tus cosas, guarda copia digital de tus escrituras y pólizas y revisa si tu seguro cubre sismo o inundación. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu patrimonio preparado. Después de un sismo, la casa de Carmen tuvo grietas. No encontraba la póliza, no sabía si cubría sismo y un «perito» tocó a la puerta ofreciendo arreglar todo si le pagaba por adelantado. En esta lección verás cómo prepararte. Ten copia digital de tus documentos, fotos del antes, un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú por el número oficial y no pagues por adelantado. Recuerda: Copia digital de todo. Fotos del antes y del después. Reporta tú; no pagues por adelantado. Tu paso de esta semana: Esta semana toma fotos de tu casa y tus cosas, guarda copia digital de tus escrituras y pólizas y revisa si tu seguro cubre sismo o inundación. Nos escuchamos en la próxima lección.
 
 ### M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10
 
@@ -1053,7 +1053,7 @@ Hola. Hoy hablamos de esto: Si llega un sismo o una inundación: tu patrimonio p
 
 ```
 *M8 U07 · IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10*
-Si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
+Si no tienes IMSS, puedes pagarlo tú. El Seguro de Salud para la Familia da solo servicio médico, por una cuota anual según tu edad. La Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
 
 • Seguro familiar: salud, por edad.
 • Modalidad 10: salud, incapacidades y pensión.
@@ -1064,9 +1064,9 @@ Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y c
 Lección: [por definir]
 ```
 
-**Audio** (140 palabras, unos 58 segundos)
+**Audio** (141 palabras, unos 59 segundos)
 
-Hola. Hoy hablamos de esto: IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10. A Elena le subió 30% su seguro de gastos médicos. Maru vende por catálogo y no tiene servicio médico. Las dos escucharon que «se puede pagar el IMSS por tu cuenta». En esta lección verás cómo. Si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre. Recuerda: Seguro familiar: salud, por edad. Modalidad 10: salud, incapacidades y pensión. Compara con tu seguro privado. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota en la tabla. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: IMSS por tu cuenta: Seguro de Salud para la Familia y Modalidad 10. A Elena le subió 30% su seguro de gastos médicos. Maru vende por catálogo y no tiene servicio médico. Las dos escucharon que «se puede pagar el IMSS por tu cuenta». En esta lección verás cómo. Si no tienes IMSS, puedes pagarlo tú. El Seguro de Salud para la Familia da solo servicio médico, por una cuota anual según tu edad. La Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre. Recuerda: Seguro familiar: salud, por edad. Modalidad 10: salud, incapacidades y pensión. Compara con tu seguro privado. Tu paso de esta semana: Anota quién en tu familia no tiene seguridad social y calcula su cuota en la tabla. Nos escuchamos en la próxima lección.
 
 ## Módulo 9. Impuestos sin miedo
 
@@ -1175,7 +1175,7 @@ Lección: [por definir]
 
 **Audio** (102 palabras, unos 42 segundos)
 
-Hola. Hoy hablamos de esto: Beneficiarios: cuentas, seguros y AFORE. Cuando Carmen revisó sus cuentas, descubrió que su beneficiario en una era su hermano, con quien ya no habla, y en su seguro de vida, su mamá, que falleció. En esta lección pondrás al día a tus beneficiarios. Revisa tus beneficiarios en cuentas, seguros y AFORE; que coincidan con tu testamento y con tu vida de hoy. Recuerda: Cuentas, seguros, AFORE e inversiones. Con porcentajes claros. Complementan al testamento. Tu paso de esta semana: Llena la tabla de beneficiarios y actualiza al menos uno este mes. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Beneficiarios: cuentas, seguros y AFORE. Cuando Carmen revisó sus cuentas, descubrió algo. En una, su beneficiario era su hermano, con quien ya no habla. En su seguro de vida era su mamá, que falleció. En esta lección pondrás al día a tus beneficiarios. Revisa tus beneficiarios en cuentas, seguros y AFORE; que coincidan con tu testamento y con tu vida de hoy. Recuerda: Cuentas, seguros, AFORE e inversiones. Con porcentajes claros. Complementan al testamento. Tu paso de esta semana: Llena la tabla de beneficiarios y actualiza al menos uno este mes. Nos escuchamos en la próxima lección.
 
 ### M10 U03 · Poder notarial y quién decide si tú no puedes
 
@@ -1236,9 +1236,9 @@ Tu paso de esta semana: Guarda en tu carpeta la lista de «lo urgente» de esta 
 Lección: [por definir]
 ```
 
-**Audio** (124 palabras, unos 52 segundos)
+**Audio** (122 palabras, unos 51 segundos)
 
-Hola. Hoy hablamos de esto: Viudez o separación: los primeros 90 días. En las semanas después de la muerte de su esposo, a Lucía le llegaron ofertas: un asesor que quería «reacomodar» sus inversiones, un familiar que pedía dinero prestado y un agente que le ofrecía un seguro. Ella estaba en duelo y no podía pensar. En esta lección verás cómo protegerte en esos días. En los primeros 90 días, atiende lo urgente y pon en pausa las decisiones grandes. Recuerda: Pausa en lo grande. Lo urgente primero. La presión es una señal para esperar. Tu paso de esta semana: Guarda en tu carpeta la lista de «lo urgente» de esta lección por si algún día la necesitas. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Viudez o separación: los primeros 90 días. En las semanas después de la muerte de su esposo, a Lucía le llegaron ofertas. Un asesor quería «reacomodar» sus inversiones, un familiar le pedía dinero prestado y un agente le ofrecía un seguro. Ella estaba en duelo y no podía pensar. En esta lección verás cómo protegerte en esos días. En los primeros 90 días, atiende lo urgente y pon en pausa las decisiones grandes. Recuerda: Pausa en lo grande. Lo urgente primero. La presión es una señal para esperar. Tu paso de esta semana: Guarda en tu carpeta la lista de «lo urgente» de esta lección por si algún día la necesitas. Nos escuchamos en la próxima lección.
 
 ### M10 U06 · Tu casa: escrituras, predial y crédito en orden
 
@@ -1309,7 +1309,7 @@ Hola. Hoy hablamos de esto: Heredar o dar en vida: impuestos, costos y riesgos. 
 
 ```
 *M10 U09 · Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos*
-Tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+Tu dinero y tus bienes también son tuyos. Conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
 
 • Conoce tu régimen matrimonial.
 • Algo a tu nombre.
@@ -1322,7 +1322,7 @@ Lección: [por definir]
 
 **Audio** (124 palabras, unos 52 segundos)
 
-Hola. Hoy hablamos de esto: Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos. Arturo siempre manejó todo. Cuando Carmen pidió ver el estado de cuenta, él le dijo que «no le iba a entender». Hace poco Carmen supo que Arturo quiere vender el terreno que compraron juntos, sin decirle. Tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo. Recuerda: Conoce tu régimen matrimonial. Algo a tu nombre. No firmes sin entender. Tu paso de esta semana: Revisa esta semana: tu acta de matrimonio y régimen, dónde están tus escrituras y si tienes una cuenta a tu nombre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Violencia económica y patrimonial: tu dinero y tus bienes también son tuyos. Arturo siempre manejó todo. Cuando Carmen pidió ver el estado de cuenta, él le dijo que «no le iba a entender». Hace poco Carmen supo que Arturo quiere vender el terreno que compraron juntos, sin decirle. Tu dinero y tus bienes también son tuyos. Conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo. Recuerda: Conoce tu régimen matrimonial. Algo a tu nombre. No firmes sin entender. Tu paso de esta semana: Revisa esta semana: tu acta de matrimonio y régimen, dónde están tus escrituras y si tienes una cuenta a tu nombre. Nos escuchamos en la próxima lección.
 
 ### M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar
 
@@ -1330,7 +1330,7 @@ Hola. Hoy hablamos de esto: Violencia económica y patrimonial: tu dinero y tus 
 
 ```
 *M10 U10 · Pensión alimenticia: pedirla, cuidarla y hacerla durar*
-Si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
+Si un juez fijó la pensión, solo un juez la cambia. Guarda tus comprobantes y pide orientación sin costo si no se paga completa.
 
 • Solo un juez la cambia.
 • Guarda tus comprobantes.
@@ -1343,7 +1343,7 @@ Lección: [por definir]
 
 **Audio** (117 palabras, unos 49 segundos)
 
-Hola. Hoy hablamos de esto: Pensión alimenticia: pedirla, cuidarla y hacerla durar. Elena se divorció hace dos años. Su exesposo pagaba la pensión de sus dos hijos, pero desde hace cuatro meses deposita la mitad «porque le bajó el trabajo». Elena no sabe si puede hacer algo. Si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa. Recuerda: Solo un juez la cambia. Guarda tus comprobantes. Lo atrasado se puede reclamar. Tu paso de esta semana: Junta en una carpeta o en fotos los comprobantes de pensión de este año y anota cuánto falta, si falta algo. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Pensión alimenticia: pedirla, cuidarla y hacerla durar. Elena se divorció hace dos años. Su exesposo pagaba la pensión de sus dos hijos, pero desde hace cuatro meses deposita la mitad «porque le bajó el trabajo». Elena no sabe si puede hacer algo. Si un juez fijó la pensión, solo un juez la cambia. Guarda tus comprobantes y pide orientación sin costo si no se paga completa. Recuerda: Solo un juez la cambia. Guarda tus comprobantes. Lo atrasado se puede reclamar. Tu paso de esta semana: Junta en una carpeta o en fotos los comprobantes de pensión de este año y anota cuánto falta, si falta algo. Nos escuchamos en la próxima lección.
 
 ## Módulo 11. Decidir con calma y tu plan
 
@@ -1395,7 +1395,7 @@ Hola. Hoy hablamos de esto: Presión familiar y control del dinero. Desde que en
 
 ```
 *M11 U03 · Tu plan de una página*
-Tu plan de una página resume tu carpeta y te dice qué revisar cada año; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+Tu plan de una página resume tu carpeta y te dice qué revisar cada año. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 • Seis partes en una hoja.
 • Fechas para revisar.
@@ -1408,7 +1408,7 @@ Lección: [por definir]
 
 **Audio** (122 palabras, unos 51 segundos)
 
-Hola. Hoy hablamos de esto: Tu plan de una página. Carmen tiene su inventario, sus candados en la app, su fondo de emergencia, su cálculo de retiro y su testamento. Pero están en hojas distintas. Quiere verlo todo junto y saber qué revisar cada año. En esta lección harás tu plan de una página. Tu plan de una página resume tu carpeta y te dice qué revisar cada año; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Seis partes en una hoja. Fechas para revisar. Sin números de cuenta. Tu paso de esta semana: Llena tu plan de una página, ponlo al frente de tu carpeta y agenda su revisión en septiembre. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Tu plan de una página. Carmen tiene su inventario, sus candados en la app, su fondo de emergencia, su cálculo de retiro y su testamento. Pero están en hojas distintas. Quiere verlo todo junto y saber qué revisar cada año. En esta lección harás tu plan de una página. Tu plan de una página resume tu carpeta y te dice qué revisar cada año. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo. Recuerda: Seis partes en una hoja. Fechas para revisar. Sin números de cuenta. Tu paso de esta semana: Llena tu plan de una página, ponlo al frente de tu carpeta y agenda su revisión en septiembre. Nos escuchamos en la próxima lección.
 
 ## Recordatorios mensuales del compromiso
 

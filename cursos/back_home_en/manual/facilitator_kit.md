@@ -37,7 +37,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 **Key ideas**
 
 - M1 U01 · Your repatriation record and your CURP: the first two papers: keep your repatriation record and get your CURP first; they open all the other doors.
-- M1 U02 · Your birth certificate and your INE: with your birth certificate and proof of address you get your INE at no cost; it's the ID that opens a bank account.
+- M1 U02 · Your birth certificate and your INE: with your birth certificate and proof of address, you get your INE at no cost. It's the ID that opens a bank account.
 - M1 U03 · Papers for your children born in the United States: register your children in Mexico so they have a birth certificate and a CURP; school should not wait for those papers.
 
 **Cases**
@@ -102,7 +102,7 @@ Watch for someone who misses sessions often, withdraws, mentions skipping food o
 
 - M3 U01 · Your U.S. credit history doesn't count here: in Mexico you start with no history; check your report at no cost to see that no one used your name.
 - M3 U02 · Start small and pay on time: a small credit, low use and full payment on time build your history.
-- M3 U03 · «No credit check» loans and apps that overcharge: before borrowing, ask how much you'll pay in total; if they won't tell you or they ask for your contacts, don't sign.
+- M3 U03 · «No credit check» loans and apps that overcharge: before borrowing, ask how much you'll pay in total. If they won't tell you, or they ask for your contacts, don't sign.
 
 **Cases**
 
