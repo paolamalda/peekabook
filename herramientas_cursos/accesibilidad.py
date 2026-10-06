@@ -51,7 +51,7 @@ def prosa(sec):
 
 
 def frases(p):
-    return [f for f in re.split(r"(?<=[.!?:;])\s+(?=[A-ZÁÉÍÓÚÑ¿¡«\d])", p) if f.strip()]
+    return [f for f in re.split(r"(?:(?<=[.!?:;])|(?<=[.!?][\"»”’]))\s+(?=[A-ZÁÉÍÓÚÑ¿¡«\"“\d])", p) if f.strip()]
 
 
 def palabras(t):
