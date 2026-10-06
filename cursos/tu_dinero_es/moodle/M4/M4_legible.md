@@ -282,6 +282,22 @@ Antes de pagar, buscó su nombre en el State Bar y en la lista del DOJ. No apare
 
 
 
+#### Tu consulado también te protege
+
+El consulado de México no es solo para el pasaporte o la matrícula. Su área de **protección** te orienta y te acompaña sin costo si:
+
+- te detienen a ti o a alguien de tu familia;
+- no te pagan tu trabajo, sufres abuso laboral o te accidentas trabajando;
+- vives violencia en casa;
+- te estafa un «notario» o alguien que se hace pasar por abogado;
+- tienes un problema con la custodia de tus hijos;
+- fallece un familiar y necesitas apoyo para el traslado;
+- buscas a un familiar del que no sabes nada.
+
+Si no sabes a qué consulado ir, llama al **CIAM** (Centro de Información y Asistencia a Personas Mexicanas): **1 (520) 623-7874**, las 24 horas, todos los días. El consulado también puede ponerte en contacto con abogados que colaboran con él.
+
+
+
 #### Comprueba lo que entendiste
 
 1. ¿Un notary public puede darte asesoría migratoria?
@@ -355,6 +371,19 @@ En California, los consultores de inmigración deben darte un contrato por escri
 
 
 
+#### Cerca de tu comunidad
+
+En tu consulado hay espacios sin costo para ti y tu familia:
+
+- **Ventanilla de Asesoría Financiera:** orientación sobre ahorro, crédito, deudas, impuestos y envíos de dinero.
+- **Ventanilla de Salud:** información de salud y dónde atenderte.
+- **Ventanilla de Orientación Educativa:** para terminar la primaria o la secundaria, aprender inglés o seguir estudiando.
+- **Consulados móviles:** el consulado visita ciudades lejanas para hacer trámites.
+
+Estos espacios también te acercan a tu comunidad. Ahí te enteras de talleres, ferias y organizaciones de paisanos de tu región. Sigue las redes oficiales de tu consulado y desconfía de páginas que cobran por citas.
+
+
+
 #### Casos
 
 
@@ -422,6 +451,8 @@ Guarda el contacto de una organización con representantes acreditados o un serv
 - **Buscar abogado** (State Bar de California · español e inglés): https://www.calbar.ca.gov — **Qué buscar:** "Attorney Search" para confirmar que un abogado tiene licencia activa.
 - **Cómo evitar estafas de inmigración** (FTC · inglés y español): https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help — **Qué buscar:** la lista de señales de fraude y dónde obtener ayuda real.
 - **Recursos para comunidades inmigrantes** (Procuraduría General de California · español e inglés): https://oag.ca.gov/immigrant — **Qué buscar:** cómo reportar a un notario o consultor fraudulento en California.
+- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera — **Qué buscar:** qué temas atiende y cómo pedir una cita en tu consulado.
+- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx — **Qué buscar:** tu consulado, su área de protección y sus ventanillas de salud, educación y finanzas.
 
 ### Palabras clave
 

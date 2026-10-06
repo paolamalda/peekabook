@@ -16,21 +16,21 @@ Versión 1 · 5 de octubre de 2026 · 702 lecciones de 18 cursos · generada con
 |---|---|---|---|---|---|---|---|---|---|---|
 | Back Home, Your Money, Your Future | 24 | 79.8 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 122 |
 | Tu Autonomía, Tu Dinero, Tu Futuro | 24 | 78.7 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 97 |
-| Tu Comunidad, Tu Dinero, Tu Futuro | 14 | 81.1 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 |
-| Tu Costa, Tu Dinero, Tu Futuro | 16 | 80.4 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 106 |
+| Tu Comunidad, Tu Dinero, Tu Futuro | 14 | 80.5 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 |
+| Tu Costa, Tu Dinero, Tu Futuro | 16 | 79.9 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 106 |
 | Tu Dinero, Tu Familia, Tu Futuro | 63 | 74.4 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 252 |
 | Tu Idea, Tu Dinero, Tu Futuro | 37 | 78.1 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 122 |
 | Tu Negocio, Tu Dinero, Tu Futuro | 46 | 77.9 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 120 |
-| Tu Negocio, Tu Dinero, Tu Futuro · EE. UU. | 45 | 76.2 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 141 |
+| Tu Negocio, Tu Dinero, Tu Futuro · EE. UU. | 45 | 76.1 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 141 |
 | Tu Patrimonio, Tu Tranquilidad, Tu Futuro | 66 | 75.0 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132 |
 | Tu Pensión, Tu Tranquilidad, Tu Futuro | 16 | 83.1 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 104 |
 | Tu Regreso, Tu Dinero, Tu Futuro | 24 | 80.1 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 110 |
 | Tu Ruta, Tu Dinero, Tu Futuro | 24 | 82.2 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 92 |
 | Tu Talento, Tu Marca, Tu Futuro | 82 | 74.3 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 139 |
-| Tu Temporada, Tu Dinero, Tu Futuro | 24 | 78.5 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 106 |
+| Tu Temporada, Tu Dinero, Tu Futuro | 24 | 78.6 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 106 |
 | Tu Trabajo, Tu Familia, Tu Futuro | 45 | 81.9 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 126 |
 | Tu Turno, Tu Dinero, Tu Futuro | 44 | 80.2 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 112 |
-| Your Business, Your Money, Your Future · U.S. | 45 | 74.0 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 142 |
+| Your Business, Your Money, Your Future · U.S. | 45 | 73.9 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 142 |
 | Your Money, Your Family, Your Future | 63 | 77.1 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 264 |
 
 **Total:** 0 de 702 lecciones quedan en «algo difícil» o más difícil; 0 frases largas; 0 párrafos largos; 0 lecciones con siglas sin explicar; 0 direcciones sueltas en la lectura; 0 enlaces genéricos; 0 recursos sin «Qué buscar».
