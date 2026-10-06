@@ -31,6 +31,7 @@ def silabas(w, en):
 
 def limpia(t):
     t = re.sub(r"\{\{([^|}]+)\|[^}]*\}\}", r"\1", t)
+    t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)
     t = re.sub(r"\*\*|__|\*", "", t)
     return t
 
@@ -40,7 +41,7 @@ def prosa(sec):
     pars, cur = [], []
     for ln in sec.splitlines():
         s = ln.strip()
-        if not s or re.match(r"^(---|\||\* fa-|\?|=|[-+×÷] ?\d|###|[0-9]+\.\s.*\|\|)", s):
+        if not s or re.match(r"^(---|\||\* fa-|\?|=|[-+×÷] ?\d|###|[0-9]+\.\s.*\|\||\* [^|]+\|.*\|)", s):
             if cur: pars.append(" ".join(cur)); cur = []
             continue
         if s.startswith("- "): s = s[2:]
