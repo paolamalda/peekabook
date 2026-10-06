@@ -63,7 +63,7 @@ S = {  # sigla: (español, inglés)
  "NEC": ("Formulario 1099-NEC: reporta pagos a personas que trabajan por su cuenta.", "Form 1099-NEC: reports payments to self-employed people."),
  "LSS": ("Ley del Seguro Social.", "Ley del Seguro Social, Mexico's social security law."),
  "PRLV": ("Pagaré con Rendimiento Liquidable al Vencimiento: inversión bancaria a plazo fijo.", "A Mexican fixed-term bank investment that pays at maturity."),
- "SIC": ("Sociedad de Información Crediticia, como Buró de Crédito o Círculo de Crédito.", "A Mexican credit bureau, such as Buró de Crédito or Círculo de Crédito."),
+ "SIC": ("Sistema Internacional de Cotizaciones: acciones y fondos extranjeros que se compran en la bolsa mexicana.", "Sistema Internacional de Cotizaciones: foreign stocks and funds bought on the Mexican exchange."),
  "ANDA": ("Asociación Nacional de Actores.", "Asociación Nacional de Actores, Mexico's actors' union."),
  "BONDDIA": ("Fondo de Cetesdirecto que puedes retirar cualquier día hábil.", "A Cetesdirecto fund you can withdraw from any business day."),
  "CFDI": ("Comprobante Fiscal Digital por Internet: la factura electrónica del SAT.", "Comprobante Fiscal Digital por Internet: SAT's electronic invoice."),
