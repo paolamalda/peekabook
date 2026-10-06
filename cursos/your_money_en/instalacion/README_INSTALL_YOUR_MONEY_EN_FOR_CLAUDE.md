@@ -167,7 +167,7 @@ Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with
 This section is **separate**: nothing in the course depends on it.
 
 1. Add a section **at the end** of the course called `Programs and support` (description: "Government programs and public services that may help you. Reviewed information; confirm it on the official site."). Pick a "help" icon for its tile.
-2. Create the book `Programs and support` with the same settings and import `1_books/Programas_libro_Moodle.zip` (5 chapters).
+2. Create the book `Programs and support` with the same settings and import `1_books/Programas_libro_Moodle.zip` (6 chapters).
 3. **Completion: none.** Don't add it to course completion or to any other activity's restrictions, and don't give it points.
 4. **To remove it:** hide the section (eye icon > Hide) or delete it. The rest of the course stays the same.
 5. If you get a new package for this book, replace only this book.

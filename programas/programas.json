@@ -2,6 +2,39 @@
  "nota": "Programas de gobierno: van en el módulo extra «Programas y apoyos», nunca en las lecciones. Cada uno se oculta solo si pasa su vigencia sin revisarse (revisado + vigencia_meses). Al revisar uno, actualiza 'revisado' y su texto.",
  "programas": [
   {
+   "id": "orientaciones",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 12,
+   "titulo": {
+    "es": "Dónde te orientan sin costo",
+    "en": "Where to get no-cost guidance"
+   },
+   "texto": {
+    "es": "Si tienes un problema, estas instituciones te orientan sin costo y no necesitas abogado para preguntar:\n\n- **CONDUSEF:** problemas con bancos, tarjetas, créditos, seguros o tu Afore. 55 5340 0999.\n- **PROFECO:** compras, servicios, casas de empeño y contratos. 55 5568 8722.\n- **PROFEDET:** despidos, salarios, IMSS e Infonavit. 800 911 7877.\n- **PRODECON:** problemas con el SAT. 55 1205 9000.\n- **Defensoría pública:** si necesitas un abogado y no puedes pagarlo.\n- **Procuraduría Agraria:** dudas de tierras ejidales y comunales.\n\nPide siempre un número de folio y guárdalo.",
+    "en": "If you have a problem, these institutions guide you at no cost, and you don't need a lawyer to ask:\n\n- **CONDUSEF:** problems with banks, cards, loans, insurance or your Afore. 55 5340 0999.\n- **PROFECO:** purchases, services, pawnshops and contracts. 55 5568 8722.\n- **PROFEDET:** dismissals, wages, IMSS and Infonavit. 800 911 7877.\n- **PRODECON:** problems with the SAT. 55 1205 9000.\n- **Public defender's office:** if you need a lawyer and can't pay for one.\n- **Procuraduría Agraria:** questions about ejido and communal land.\n\nAlways ask for a case number and keep it."
+   },
+   "recurso": {
+    "es": "- **CONDUSEF** (Gobierno de México · español): https://www.condusef.gob.mx | Qué buscar: cómo presentar una queja y los teléfonos de atención.",
+    "en": "- **CONDUSEF** (Government of Mexico · Spanish): https://www.condusef.gob.mx | What to look for: how to file a complaint and the help lines."
+   }
+  },
+  {
    "id": "consulado",
    "cursos": [
     "tu_dinero_es",
@@ -26,6 +59,26 @@
    }
   },
   {
+   "id": "consulado_h2a",
+   "cursos": [
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Si estás en Estados Unidos con la H-2A",
+    "en": "If you're in the U.S. on an H-2A visa"
+   },
+   "texto": {
+    "es": "Con la visa H-2A, el consulado de México más cercano te orienta sin costo. Acude si no te pagan lo del contrato, si sufres abuso o si te accidentas. Si no sabes a cuál llamar, marca al **CIAM**: **1 (520) 623-7874**, las 24 horas. Guarda ese número en tu celular antes de irte.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: el consulado más cercano a tu trabajo y su teléfono de protección.",
+    "en": ""
+   }
+  },
+  {
    "id": "ventanillas",
    "cursos": [
     "tu_dinero_es",
@@ -46,26 +99,6 @@
    "recurso": {
     "es": "- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | Qué buscar: qué temas atiende y cómo pedir una cita en tu consulado.",
     "en": "- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | What to look for: the topics they cover and how to make an appointment at your consulate."
-   }
-  },
-  {
-   "id": "consulado_h2a",
-   "cursos": [
-    "tu_temporada"
-   ],
-   "revisado": "2026-10-06",
-   "vigencia_meses": 6,
-   "titulo": {
-    "es": "Si estás en Estados Unidos con la H-2A",
-    "en": "If you're in the U.S. on an H-2A visa"
-   },
-   "texto": {
-    "es": "Con la visa H-2A, el consulado de México más cercano te orienta sin costo. Acude si no te pagan lo del contrato, si sufres abuso o si te accidentas. Si no sabes a cuál llamar, marca al **CIAM**: **1 (520) 623-7874**, las 24 horas. Guarda ese número en tu celular antes de irte.",
-    "en": ""
-   },
-   "recurso": {
-    "es": "- **Consulados de México** (SRE · español): https://consulmex.sre.gob.mx | Qué buscar: el consulado más cercano a tu trabajo y su teléfono de protección.",
-    "en": ""
    }
   },
   {
@@ -94,6 +127,189 @@
    }
   },
   {
+   "id": "pensiones",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Pensiones para el Bienestar",
+    "en": "Bienestar pensions"
+   },
+   "texto": {
+    "es": "Si tú o alguien de tu familia cumple la edad o la condición, puede recibir una de estas pensiones. Se depositan cada dos meses en una tarjeta del Banco del Bienestar:\n\n- **Mujeres Bienestar:** mujeres de 60 a 64 años, 3,100 pesos.\n- **Personas Adultas Mayores:** desde los 65 años, 6,400 pesos.\n- **Personas con Discapacidad:** 3,300 pesos. En 24 estados es de 0 a 64 años; en los demás, de 0 a 29 años.\n\nEl registro abre por periodos: pregunta en los Servidores de la Nación o en el módulo de tu municipio. Es sin costo y nadie puede pedirte una parte de tu pensión.\n\n> **Dato vigente:** montos de 2026; el último registro nacional para adultos mayores y Mujeres Bienestar fue del 22 al 28 de junio de 2026. Consultado el 6 de octubre de 2026 a través de Programas para el Bienestar y medios nacionales.",
+    "en": "If you or someone in your family meets the age or condition, they can receive one of these pensions. They're paid every two months to a Banco del Bienestar card:\n\n- **Mujeres Bienestar:** women aged 60 to 64, 3,100 pesos.\n- **Older Adults:** from age 65, 6,400 pesos.\n- **People with Disabilities:** 3,300 pesos. In 24 states it covers ages 0 to 64; in the rest, ages 0 to 29.\n\nRegistration opens in periods: ask the Servidores de la Nación or your municipality's office. It's at no cost, and nobody can ask you for part of your pension.\n\n> **Current fact:** 2026 amounts; the last national registration for older adults and Mujeres Bienestar was June 22 to 28, 2026. Accessed October 6, 2026 through Programas para el Bienestar and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Programas para el Bienestar** (Gobierno de México · español): https://programasparaelbienestar.gob.mx | Qué buscar: requisitos, fechas de registro y calendario de pagos.",
+    "en": "- **Programas para el Bienestar** (Government of Mexico · Spanish): https://programasparaelbienestar.gob.mx | What to look for: requirements, registration dates and payment calendar."
+   }
+  },
+  {
+   "id": "becas",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Becas para estudiantes",
+    "en": "Student scholarships"
+   },
+   "texto": {
+    "es": "Si en tu casa hay estudiantes de escuela pública, revisa estas becas:\n\n- **Beca Rita Cetina:** para estudiantes de educación básica. Los montos cambian según el nivel.\n- **Beca Benito Juárez:** para estudiantes de preparatoria, 1,900 pesos cada dos meses.\n\nSe depositan en una tarjeta del Banco del Bienestar. El registro es sin costo y se hace en línea o en la escuela, en las fechas de cada convocatoria.\n\n> **Dato vigente:** en 2026, la Beca Benito Juárez da 1,900 pesos cada dos meses, cinco veces al año. Consultado el 6 de octubre de 2026 a través de Programas para el Bienestar.",
+    "en": "If there are public-school students in your home, check these scholarships:\n\n- **Beca Rita Cetina:** for elementary and middle school students. Amounts change by grade level.\n- **Beca Benito Juárez:** for high school students, 1,900 pesos every two months.\n\nThey're paid to a Banco del Bienestar card. Registration is at no cost, online or at school, on the dates of each call.\n\n> **Current fact:** in 2026, the Beca Benito Juárez pays 1,900 pesos every two months, five times a year. Accessed October 6, 2026 through Programas para el Bienestar."
+   },
+   "recurso": {
+    "es": "- **Becas para el Bienestar** (Gobierno de México · español): https://www.gob.mx/becasbenitojuarez | Qué buscar: la beca de tu nivel, requisitos y fechas de registro.",
+    "en": "- **Becas para el Bienestar** (Government of Mexico · Spanish): https://www.gob.mx/becasbenitojuarez | What to look for: the scholarship for each grade level, requirements and registration dates."
+   }
+  },
+  {
+   "id": "jovenes",
+   "cursos": [
+    "tu_idea",
+    "tu_regreso",
+    "back_home_en",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_temporada",
+    "tu_trabajo_hogar",
+    "tu_turno",
+    "tu_ruta"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Jóvenes Construyendo el Futuro",
+    "en": "Jóvenes Construyendo el Futuro"
+   },
+   "texto": {
+    "es": "Si tienes de 18 a 29 años y no estudias ni trabajas, puedes capacitarte en un centro de trabajo con **Jóvenes Construyendo el Futuro**. Recibes un apoyo mensual y seguro médico del IMSS mientras aprendes un oficio.\n\nEl registro es en línea y sin costo. Desconfía de quien te cobre por darte un lugar.\n\n> **Dato vigente:** en 2026 el apoyo es de 9,582.47 pesos al mes. Abrió un nuevo periodo de vinculación el 1 de octubre de 2026. Consultado el 6 de octubre de 2026 a través de medios nacionales.",
+    "en": "If you're 18 to 29 and not studying or working, you can train at a workplace with **Jóvenes Construyendo el Futuro**. You get a monthly payment and IMSS health coverage while you learn a trade.\n\nRegistration is online and at no cost. Be wary of anyone who charges you for a spot.\n\n> **Current fact:** in 2026 the payment is 9,582.47 pesos a month. A new placement period opened on October 1, 2026. Accessed October 6, 2026 through national news outlets."
+   },
+   "recurso": {
+    "es": "- **Jóvenes Construyendo el Futuro** (STPS · español): https://jovenesconstruyendoelfuturo.stps.gob.mx | Qué buscar: requisitos, centros de trabajo en tu zona y cómo registrarte.",
+    "en": "- **Jóvenes Construyendo el Futuro** (STPS · Spanish): https://jovenesconstruyendoelfuturo.stps.gob.mx | What to look for: requirements, workplaces near you and how to sign up."
+   }
+  },
+  {
+   "id": "vivienda",
+   "cursos": [
+    "tu_patrimonio",
+    "tu_talento",
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_regreso",
+    "back_home_en",
+    "tu_pension",
+    "tu_costa",
+    "tu_comunidad",
+    "tu_autonomia",
+    "tu_ruta",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Vivienda para el Bienestar (subsidio)",
+    "en": "Vivienda para el Bienestar (housing subsidy)"
+   },
+   "texto": {
+    "es": "**Vivienda para el Bienestar**, de la CONAVI, es un subsidio para tener una vivienda. Pueden registrarse personas mayores de 18 años que:\n\n- no tienen casa propia;\n- no tienen un crédito de vivienda activo (Infonavit, Fovissste u otro);\n- ganan menos de 17,800 pesos al mes.\n\nTienen prioridad las mujeres jefas de familia, las personas mayores, con discapacidad, indígenas y afromexicanas. Lleva tu identificación, CURP, comprobante de domicilio y de ingresos. El registro es presencial y sin costo: **no necesitas gestores**, y cualquier cobro es irregular.\n\n> **Dato vigente:** en 2026 la convocatoria está abierta en 26 estados. Consultado el 6 de octubre de 2026 a través de la CONAVI y medios nacionales.",
+    "en": "**Vivienda para el Bienestar**, from CONAVI, is a subsidy to get a home. People over 18 can register if they:\n\n- don't own a home;\n- don't have an active housing loan (Infonavit, Fovissste or other);\n- earn less than 17,800 pesos a month.\n\nPriority goes to women heads of household, older adults, people with disabilities, and Indigenous and Afro-Mexican people. Bring your ID, CURP, proof of address and proof of income. Registration is in person and at no cost: **you don't need a fixer**, and any charge is irregular.\n\n> **Current fact:** in 2026 the call is open in 26 states. Accessed October 6, 2026 through CONAVI and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Vivienda para el Bienestar** (CONAVI · español): https://www.gob.mx/conavi | Qué buscar: si tu municipio participa, requisitos y módulos de registro.",
+    "en": "- **Vivienda para el Bienestar** (CONAVI · Spanish): https://www.gob.mx/conavi | What to look for: whether your municipality takes part, requirements and registration offices."
+   }
+  },
+  {
+   "id": "subsidio_empleo",
+   "cursos": [
+    "tu_turno",
+    "tu_trabajo_hogar",
+    "tu_ruta",
+    "tu_idea"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Subsidio para el empleo en tu nómina",
+    "en": ""
+   },
+   "texto": {
+    "es": "Si trabajas con nómina y ganas poco, el **subsidio para el empleo** reduce el impuesto que te descuentan. No tienes que registrarte: lo aplica tu patrón en tu recibo de nómina. Revisa que aparezca.\n\n> **Dato vigente:** en 2026 el subsidio es de 535.65 pesos al mes para quien gana hasta 11,492.66 pesos al mes. Consultado el 6 de octubre de 2026 a través de medios especializados que citan el decreto publicado en el DOF.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Recibos de nómina** (SAT · español): https://www.sat.gob.mx | Qué buscar: «verificar CFDI de nómina» para revisar tus recibos.",
+    "en": ""
+   }
+  },
+  {
+   "id": "mujeres",
+   "cursos": [
+    "tu_autonomia",
+    "tu_trabajo_hogar",
+    "tu_patrimonio",
+    "tu_turno",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_pension",
+    "tu_regreso",
+    "back_home_en",
+    "tu_idea",
+    "tu_negocio_mx",
+    "tu_ruta",
+    "tu_talento",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Secretaría de las Mujeres: Centros LIBRE y Línea 079",
+    "en": "Women's Ministry: LIBRE Centers and Line 079"
+   },
+   "texto": {
+    "es": "La **Secretaría de las Mujeres** (antes Inmujeres) tiene dos apoyos sin costo:\n\n- **Centros LIBRE:** espacios en tu municipio con acompañamiento emocional, orientación legal y capacitación para que tengas tu propio ingreso. Hay más de mil en los 32 estados.\n- **Línea de las Mujeres 079, opción 1:** orientación legal y apoyo emocional las 24 horas, y te canalizan de inmediato si lo necesitas.\n\nPuedes acudir aunque no sepas si lo que vives es violencia. Si estás en peligro, llama al 911.\n\n> **Dato vigente:** en 2026 hay 1,001 Centros LIBRE en los 32 estados, en 40% de los municipios del país. Consultado el 6 de octubre de 2026 a través de la Secretaría de las Mujeres y medios nacionales.",
+    "en": "Mexico's **Women's Ministry** (Secretaría de las Mujeres, formerly Inmujeres) offers two kinds of support at no cost:\n\n- **LIBRE Centers:** places in your municipality with emotional support, legal guidance and training so you can have your own income. There are more than a thousand in all 32 states.\n- **Women's Line 079, option 1:** legal guidance and emotional support 24 hours a day, with immediate referral if you need it.\n\nYou can go even if you're not sure what you're living through is violence. If you're in danger, call 911.\n\n> **Current fact:** in 2026 there are 1,001 LIBRE Centers in all 32 states, in 40% of the country's municipalities. Accessed October 6, 2026 through the Women's Ministry and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Secretaría de las Mujeres** (Gobierno de México · español): https://www.gob.mx/mujeres | Qué buscar: el Centro LIBRE más cercano y la Línea de las Mujeres.",
+    "en": "- **Women's Ministry** (Government of Mexico · Spanish): https://www.gob.mx/mujeres | What to look for: the nearest LIBRE Center and the Women's Line."
+   }
+  },
+  {
    "id": "inpi",
    "cursos": [
     "tu_comunidad",
@@ -111,6 +327,97 @@
    },
    "recurso": {
     "es": "- **Programas del INPI** (Gobierno de México · español): https://www.gob.mx/inpi | Qué buscar: los programas del año, sus reglas de operación y el Centro Coordinador de tu región.",
+    "en": ""
+   }
+  },
+  {
+   "id": "credito_palabra",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_autonomia"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Crédito a la palabra para artesanas (ApoyArte)",
+    "en": ""
+   },
+   "texto": {
+    "es": "**ApoyArte** es un crédito a la palabra de la Financiera para el Bienestar (FINABIEN) para **mujeres artesanas indígenas y afromexicanas**. La única garantía es tu palabra: no pide aval ni mucho papeleo, y no hay intermediarios.\n\n- Créditos de **10,000, 20,000 o 30,000 pesos, sin intereses**.\n- Con el de 30,000 pesos tienes **3 meses de gracia y 15 meses para pagar**.\n- El registro se abre por regiones: pregunta en FINABIEN si ya llegó a la tuya.\n\nAunque no tenga intereses, es un préstamo: haz tu plan de pagos antes de pedirlo.\n\n> **Dato vigente:** en 2026 FINABIEN sigue entregando créditos ApoyArte en estados como Oaxaca, Puebla, Nayarit y Michoacán. Consultado el 6 de octubre de 2026 a través de FINABIEN y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **FINABIEN** (Gobierno de México · español): https://www.gob.mx/finabien | Qué buscar: «ApoyArte», los requisitos y las fechas de registro en tu región.",
+    "en": ""
+   }
+  },
+  {
+   "id": "inaes",
+   "cursos": [
+    "tu_negocio_mx",
+    "tu_comunidad",
+    "tu_costa",
+    "tu_autonomia",
+    "tu_trabajo_hogar",
+    "tu_idea",
+    "tu_regreso"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "INAES: apoyos para grupos y cooperativas",
+    "en": ""
+   },
+   "texto": {
+    "es": "El **Instituto Nacional de la Economía Social (INAES)** apoya a quienes trabajan juntos. Por ejemplo, grupos de **al menos 5 personas**, cooperativas y cajas de ahorro del sector social.\n\n- **Proyectos productivos:** apoyo para empezar o hacer crecer un negocio en grupo.\n- **Cajas de ahorro y crédito del sector social:** apoyo para fortalecerlas y capacitar a quienes las manejan.\n\nLos apoyos salen por **convocatoria**: revisa si hay una abierta y sus fechas. Inscribirte no tiene costo. Desconfía de quien te cobre por «meterte» al programa o te pida una parte del apoyo.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **INAES** (Gobierno de México · español): https://www.gob.mx/inaes | Qué buscar: las convocatorias abiertas y sus requisitos.",
+    "en": ""
+   }
+  },
+  {
+   "id": "campo",
+   "cursos": [
+    "tu_comunidad",
+    "tu_costa",
+    "tu_temporada",
+    "tu_regreso"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Apoyos para el campo",
+    "en": ""
+   },
+   "texto": {
+    "es": "Si siembras, revisa estos programas. No puedes estar en los dos a la vez:\n\n- **Producción para el Bienestar:** un apoyo al año para quien siembra cultivos como maíz, frijol, café, cacao o miel. Va de 7,300 a 24,000 pesos, según el cultivo y las hectáreas.\n- **Sembrando Vida:** un apoyo mensual para sembrar árboles frutales y maderables junto con tus cultivos. Incluye plantas, herramientas y acompañamiento técnico.\n\n> **Dato vigente:** en 2026 Producción para el Bienestar da de 7,300 a 24,000 pesos al año, y Sembrando Vida 6,450 pesos al mes. Consultado el 6 de octubre de 2026 a través de Programas para el Bienestar y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Producción para el Bienestar** (Gobierno de México · español): https://programasparaelbienestar.gob.mx/produccion-para-el-bienestar/ | Qué buscar: montos por cultivo y hectáreas, y cómo registrarte.",
+    "en": ""
+   }
+  },
+  {
+   "id": "bienpesca",
+   "cursos": [
+    "tu_costa"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Bienpesca: apoyo para pescadores",
+    "en": ""
+   },
+   "texto": {
+    "es": "**Bienpesca** da un apoyo una vez al año a personas que pescan o crían peces y mariscos. Para recibirlo necesitas estar en el Padrón de Productores de Pesca y Acuacultura y tener tu permiso o concesión vigente.\n\nEl apoyo llega a tu tarjeta del Banco del Bienestar. Si te piden renovar la tarjeta, hazlo en las fechas oficiales.\n\n> **Dato vigente:** en 2026 Bienpesca da 8,000 pesos al año a más de 190 mil personas. Consultado el 6 de octubre de 2026 a través de Programas para el Bienestar y medios nacionales.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Bienpesca** (Gobierno de México · español): https://programasparaelbienestar.gob.mx/bienpesca/ | Qué buscar: requisitos, fechas de pago y renovación de tarjeta.",
     "en": ""
    }
   },
@@ -139,6 +446,30 @@
    "recurso": {
     "es": "- **Banco del Bienestar** (Gobierno de México · español): https://www.gob.mx/bancodelbienestar | Qué buscar: la sucursal más cercana y los requisitos para abrir una cuenta.",
     "en": "- **Banco del Bienestar** (Government of Mexico · Spanish): https://www.gob.mx/bancodelbienestar | What to look for: the nearest branch and what you need to open an account."
+   }
+  },
+  {
+   "id": "paisano",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 3,
+   "titulo": {
+    "es": "Si viajas a México: Héroes Paisanos",
+    "en": "If you travel to Mexico: Héroes Paisanos"
+   },
+   "texto": {
+    "es": "El programa **Héroes Paisanos** te orienta y te protege cuando viajas a México en temporadas de vacaciones. Durante esos periodos, por tierra puedes llevar mercancía de hasta 500 dólares sin pagar impuestos, además de tus cosas personales. Si viajan juntos en el mismo vehículo, las franquicias de la familia se pueden sumar.\n\nSi una autoridad te pide dinero, no pagues: repórtalo en los módulos del programa.\n\n> **Dato vigente:** el operativo de invierno es del 25 de noviembre de 2026 al 8 de enero de 2027. Consultado el 6 de octubre de 2026 a través de la Agencia Nacional de Aduanas de México y medios.",
+    "en": "The **Héroes Paisanos** program guides and protects you when you travel to Mexico during holiday seasons. During those periods, by land you can bring up to 500 dollars in goods without paying taxes, besides your personal items. If your family travels together in the same vehicle, your allowances can be combined.\n\nIf an official asks you for money, don't pay: report it at the program's help stations.\n\n> **Current fact:** the winter period runs from November 25, 2026 to January 8, 2027. Accessed October 6, 2026 through Mexico's National Customs Agency and news outlets."
+   },
+   "recurso": {
+    "es": "- **Equipaje y franquicia** (Aduanas de México · español): https://www.anam.gob.mx/equipaje-y-franquicia/ | Qué buscar: qué puedes llevar y cuánto es la franquicia.",
+    "en": "- **Baggage and allowance** (Mexican Customs · Spanish): https://www.anam.gob.mx/equipaje-y-franquicia/ | What to look for: what you can bring and the allowance amount."
    }
   },
   {
@@ -176,87 +507,6 @@
    "recurso": {
     "es": "- **SNEF** (CONDUSEF · español): https://eduweb.condusef.gob.mx/snef/index.html | Qué buscar: el programa de actividades y la entrada a la plataforma en línea.",
     "en": "- **SNEF** (CONDUSEF · Spanish): https://eduweb.condusef.gob.mx/snef/index.html | What to look for: the schedule of activities and the link to the online platform."
-   }
-  },
-  {
-   "id": "mujeres",
-   "cursos": [
-    "tu_autonomia",
-    "tu_trabajo_hogar",
-    "tu_patrimonio",
-    "tu_turno",
-    "tu_comunidad",
-    "tu_costa",
-    "tu_pension",
-    "tu_regreso",
-    "back_home_en",
-    "tu_idea",
-    "tu_negocio_mx",
-    "tu_ruta",
-    "tu_talento",
-    "tu_temporada"
-   ],
-   "revisado": "2026-10-06",
-   "vigencia_meses": 6,
-   "titulo": {
-    "es": "Secretaría de las Mujeres: Centros LIBRE y Línea 079",
-    "en": "Women's Ministry: LIBRE Centers and Line 079"
-   },
-   "texto": {
-    "es": "La **Secretaría de las Mujeres** (antes Inmujeres) tiene dos apoyos sin costo:\n\n- **Centros LIBRE:** espacios en tu municipio con acompañamiento emocional, orientación legal y capacitación para que tengas tu propio ingreso. Hay más de mil en los 32 estados.\n- **Línea de las Mujeres 079, opción 1:** orientación legal y apoyo emocional las 24 horas, y te canalizan de inmediato si lo necesitas.\n\nPuedes acudir aunque no sepas si lo que vives es violencia. Si estás en peligro, llama al 911.\n\n> **Dato vigente:** en 2026 hay 1,001 Centros LIBRE en los 32 estados, en 40% de los municipios del país. Consultado el 6 de octubre de 2026 a través de la Secretaría de las Mujeres y medios nacionales.",
-    "en": "Mexico's **Women's Ministry** (Secretaría de las Mujeres, formerly Inmujeres) offers two kinds of support at no cost:\n\n- **LIBRE Centers:** places in your municipality with emotional support, legal guidance and training so you can have your own income. There are more than a thousand in all 32 states.\n- **Women's Line 079, option 1:** legal guidance and emotional support 24 hours a day, with immediate referral if you need it.\n\nYou can go even if you're not sure what you're living through is violence. If you're in danger, call 911.\n\n> **Current fact:** in 2026 there are 1,001 LIBRE Centers in all 32 states, in 40% of the country's municipalities. Accessed October 6, 2026 through the Women's Ministry and national news outlets."
-   },
-   "recurso": {
-    "es": "- **Secretaría de las Mujeres** (Gobierno de México · español): https://www.gob.mx/mujeres | Qué buscar: el Centro LIBRE más cercano y la Línea de las Mujeres.",
-    "en": "- **Women's Ministry** (Government of Mexico · Spanish): https://www.gob.mx/mujeres | What to look for: the nearest LIBRE Center and the Women's Line."
-   }
-  },
-  {
-   "id": "inaes",
-   "cursos": [
-    "tu_negocio_mx",
-    "tu_comunidad",
-    "tu_costa",
-    "tu_autonomia",
-    "tu_trabajo_hogar",
-    "tu_idea",
-    "tu_regreso"
-   ],
-   "revisado": "2026-10-06",
-   "vigencia_meses": 6,
-   "titulo": {
-    "es": "INAES: apoyos para grupos y cooperativas",
-    "en": ""
-   },
-   "texto": {
-    "es": "El **Instituto Nacional de la Economía Social (INAES)** apoya a quienes trabajan juntos. Por ejemplo, grupos de **al menos 5 personas**, cooperativas y cajas de ahorro del sector social.\n\n- **Proyectos productivos:** apoyo para empezar o hacer crecer un negocio en grupo.\n- **Cajas de ahorro y crédito del sector social:** apoyo para fortalecerlas y capacitar a quienes las manejan.\n\nLos apoyos salen por **convocatoria**: revisa si hay una abierta y sus fechas. Inscribirte no tiene costo. Desconfía de quien te cobre por «meterte» al programa o te pida una parte del apoyo.",
-    "en": ""
-   },
-   "recurso": {
-    "es": "- **INAES** (Gobierno de México · español): https://www.gob.mx/inaes | Qué buscar: las convocatorias abiertas y sus requisitos.",
-    "en": ""
-   }
-  },
-  {
-   "id": "credito_palabra",
-   "cursos": [
-    "tu_comunidad",
-    "tu_costa",
-    "tu_autonomia"
-   ],
-   "revisado": "2026-10-06",
-   "vigencia_meses": 6,
-   "titulo": {
-    "es": "Crédito a la palabra para artesanas (ApoyArte)",
-    "en": ""
-   },
-   "texto": {
-    "es": "**ApoyArte** es un crédito a la palabra de la Financiera para el Bienestar (FINABIEN) para **mujeres artesanas indígenas y afromexicanas**. La única garantía es tu palabra: no pide aval ni mucho papeleo, y no hay intermediarios.\n\n- Créditos de **10,000, 20,000 o 30,000 pesos, sin intereses**.\n- Con el de 30,000 pesos tienes **3 meses de gracia y 15 meses para pagar**.\n- El registro se abre por regiones: pregunta en FINABIEN si ya llegó a la tuya.\n\nAunque no tenga intereses, es un préstamo: haz tu plan de pagos antes de pedirlo.\n\n> **Dato vigente:** en 2026 FINABIEN sigue entregando créditos ApoyArte en estados como Oaxaca, Puebla, Nayarit y Michoacán. Consultado el 6 de octubre de 2026 a través de FINABIEN y medios nacionales.",
-    "en": ""
-   },
-   "recurso": {
-    "es": "- **FINABIEN** (Gobierno de México · español): https://www.gob.mx/finabien | Qué buscar: «ApoyArte», los requisitos y las fechas de registro en tu región.",
-    "en": ""
    }
   }
  ]
