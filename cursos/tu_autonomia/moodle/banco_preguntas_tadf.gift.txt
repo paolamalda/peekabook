@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Autonomía v0.1/M1
+$CATEGORY: $course$/Tu Autonomía v1.0/M1
 
 ::M1 U01 P1::¿Qué te da una cuenta a tu nombre? {
 	~Que tu pareja vea tus gastos #No es la mejor opción. Tú decides.
@@ -54,7 +54,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M1
 	~A gritos, cuando ya no aguantas #No es la mejor opción. Con números.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M2
+$CATEGORY: $course$/Tu Autonomía v1.0/M2
 
 ::M2 U01 P1::¿Cuidar a tus papás es trabajo? {
 	~Solo si te pagan por hacerlo #No es la mejor opción. Es trabajo.
@@ -110,7 +110,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M2
 	~Que decida uno solo #No es la mejor opción. Por escrito.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M3
+$CATEGORY: $course$/Tu Autonomía v1.0/M3
 
 ::M3 U01 P1::¿Cuál es la brecha de Afore entre hombres y mujeres? {
 	~2 puntos, casi nada #No es la mejor opción. 51.4 menos 34.2.
@@ -166,7 +166,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M3
 	~Aportar solo al final #No es la mejor opción. El tiempo ayuda.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M4
+$CATEGORY: $course$/Tu Autonomía v1.0/M4
 
 ::M4 U01 P1::¿Quién puede recibir la Pensión Mujeres Bienestar? {
 	~Solo mujeres que nunca trabajaron #No es la mejor opción. 60 a 64.
@@ -222,7 +222,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M4
 	~Pagas #No es la mejor opción. Es sin costo.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M5
+$CATEGORY: $course$/Tu Autonomía v1.0/M5
 
 ::M5 U01 P1::¿Qué porcentaje de mujeres tiene algún seguro? {
 	~50% #No es la mejor opción. 18.3%.
@@ -278,7 +278,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M5
 	~Nada, se queda igual #No es la mejor opción. Las tres preguntas.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M6
+$CATEGORY: $course$/Tu Autonomía v1.0/M6
 
 ::M6 U01 P1::Tu pareja vende un bien de los dos sin decirte. ¿Qué es? {
 	~Un regalo de vez en cuando #No es la mejor opción. Es patrimonial.
@@ -334,7 +334,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M6
 	~Todo en un día, para quitártelo de encima #No es la mejor opción. Paso a paso.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M7
+$CATEGORY: $course$/Tu Autonomía v1.0/M7
 
 ::M7 U01 P1::¿Qué cubre la pensión alimenticia? {
 	~Solo ropa #No es la mejor opción. Todo eso.
@@ -390,7 +390,7 @@ $CATEGORY: $course$/Tu Autonomía v0.1/M7
 	~Solo los tickets del súper de cada semana #No es la mejor opción. Comprobantes.
 }
 
-$CATEGORY: $course$/Tu Autonomía v0.1/M8
+$CATEGORY: $course$/Tu Autonomía v1.0/M8
 
 ::M8 U01 P1::¿El estrés por dinero afecta la salud? {
 	~Solo a los hombres #No es la mejor opción. Sí.

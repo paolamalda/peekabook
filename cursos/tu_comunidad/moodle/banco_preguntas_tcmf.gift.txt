@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Comunidad v0.1/M1
+$CATEGORY: $course$/Tu Comunidad v1.0/M1
 
 ::M1 U01 P1::¿Cuánto cuesta registrarte a un Programa para el Bienestar? {
 	=Nada #¡Correcto! Es sin costo.
@@ -36,7 +36,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M1
 	=Avisar juntas #¡Correcto! Juntas pesa más.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M2
+$CATEGORY: $course$/Tu Comunidad v1.0/M2
 
 ::M2 U01 P1::¿Por qué una cuenta a tu nombre? {
 	=Para que decidas tú sobre tu dinero #¡Correcto! Tú decides.
@@ -74,7 +74,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M2
 	=Pides que te expliquen, con alguien de confianza #¡Correcto! Tienes derecho.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M3
+$CATEGORY: $course$/Tu Comunidad v1.0/M3
 
 ::M3 U01 P1::¿Cuál es la forma más segura de recibir dinero? {
 	~Con un conocido #No es la mejor opción. Directo.
@@ -112,7 +112,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M3
 	=Llamas de inmediato al banco #¡Correcto! De inmediato.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M4
+$CATEGORY: $course$/Tu Comunidad v1.0/M4
 
 ::M4 U01 P1::¿Cuándo se acuerda qué pasa si alguien no paga? {
 	=Antes de empezar #¡Correcto! Antes.
@@ -150,7 +150,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M4
 	=En cada asamblea #¡Correcto! En cada asamblea.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M5
+$CATEGORY: $course$/Tu Comunidad v1.0/M5
 
 ::M5 U01 P1::Te piden los números de tu tarjeta por teléfono. ¿Qué haces? {
 	=Cuelgas #¡Correcto! Nunca los des.
@@ -188,7 +188,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M5
 	~A nadie #No es la mejor opción. CONDUSEF.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M6
+$CATEGORY: $course$/Tu Comunidad v1.0/M6
 
 ::M6 U01 P1::¿Qué es la lista de sucesión? {
 	=La lista de quién hereda tus derechos ejidales #¡Correcto! Quién hereda.
@@ -226,7 +226,7 @@ $CATEGORY: $course$/Tu Comunidad v0.1/M6
 	=Preguntas en tu banco #¡Correcto! Pregunta.
 }
 
-$CATEGORY: $course$/Tu Comunidad v0.1/M7
+$CATEGORY: $course$/Tu Comunidad v1.0/M7
 
 ::M7 U01 P1::¿Cuál NO es una forma de prepararse? {
 	~Ahorro propio #No es la mejor opción. Eso es deuda.

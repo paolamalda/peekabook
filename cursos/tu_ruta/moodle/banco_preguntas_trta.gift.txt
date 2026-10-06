@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Ruta v0.1/M1
+$CATEGORY: $course$/Tu Ruta v1.0/M1
 
 ::M1 U01 P1::¿Qué es tu ingreso real? {
 	~Lo que te dan de propina los clientes #No es la mejor opción. El real.
@@ -54,7 +54,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M1
 	~De la app #No es la mejor opción. El colchón.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M2
+$CATEGORY: $course$/Tu Ruta v1.0/M2
 
 ::M2 U01 P1::¿Desde cuándo está vigente la reforma de plataformas? {
 	=Desde el 22 de junio de 2025 #¡Correcto! Junio de 2025.
@@ -110,7 +110,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M2
 	=Capturas con fechas #¡Correcto! Capturas.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M3
+$CATEGORY: $course$/Tu Ruta v1.0/M3
 
 ::M3 U01 P1::¿Con qué consultas tu vigencia en el IMSS? {
 	~Con la placa #No es la mejor opción. CURP.
@@ -166,7 +166,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M3
 	~No se puede #No es la mejor opción. Desde 50.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M4
+$CATEGORY: $course$/Tu Ruta v1.0/M4
 
 ::M4 U01 P1::¿Cuánto IVA te retienen con RFC? {
 	=8% #¡Correcto! 8%.
@@ -222,7 +222,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M4
 	=Abril #¡Correcto! Abril.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M5
+$CATEGORY: $course$/Tu Ruta v1.0/M5
 
 ::M5 U01 P1::Gastas 7,800 al año en mantenimiento. ¿Cuánto apartas por semana? {
 	~78 #No es la mejor opción. 7,800 entre 52.
@@ -278,7 +278,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M5
 	~Con la renta de tu casa #No es la mejor opción. Contado.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M6
+$CATEGORY: $course$/Tu Ruta v1.0/M6
 
 ::M6 U01 P1::Te accidentas conectado. ¿Qué te cubre el IMSS? {
 	=Riesgo de trabajo #¡Correcto! Riesgo de trabajo.
@@ -334,7 +334,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M6
 	=A la Línea de la Vida #¡Correcto! 800 911 2000.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M7
+$CATEGORY: $course$/Tu Ruta v1.0/M7
 
 ::M7 U01 P1::Te prestan 2,000 y pagas 2,300. ¿Cuánto cuesta? {
 	~Nada #No es la mejor opción. 2,300 menos 2,000.
@@ -390,7 +390,7 @@ $CATEGORY: $course$/Tu Ruta v0.1/M7
 	~Abres otra cuenta con otro nombre #No es la mejor opción. Reporta.
 }
 
-$CATEGORY: $course$/Tu Ruta v0.1/M8
+$CATEGORY: $course$/Tu Ruta v1.0/M8
 
 ::M8 U01 P1::¿Cuándo conviene empezar a ahorrar para el retiro? {
 	=Lo antes posible #¡Correcto! Pronto.

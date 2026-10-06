@@ -52,6 +52,11 @@ LISTA DE PAQUETES DE ESTA CARPETA
    Tu_Temporada_v1.0 (1 zip)             Tu Temporada · jornaleros temporales (PTAT Canadá y H-2A EE. UU.)
    Tu_Negocio_US_ES_v2.0 (3 partes)      Tu Negocio · EE. UU. · español  + Comunidad_Tu_Negocio_US_ES_v2.0
    Your_Business_US_EN_v2.0 (3 partes)   Your Business · U.S. · inglés  + Your_Business_Community_US_EN_v2.0
+   Tu_Comunidad_v1.0 (1 zip)             Tu Comunidad · pueblos indígenas
+   Tu_Costa_v1.0 (1 zip)                 Tu Costa · comunidades de la costa y afromexicanas
+   Tu_Autonomia_v1.0 (1 zip)             Tu Autonomía · mujeres
+   Tu_Pension_v1.0 (1 zip)               Tu Pensión, Tu Tranquilidad, Tu Futuro · personas mayores
+   Tu_Ruta_v1.0 (1 zip)                  Tu Ruta · repartidores y conductores de apps
 
 Cada curso trae: libros por lección con la práctica H5P incrustada, Bienvenida y Cierre, Materiales de apoyo,
 «Para ir a fondo» (opcional), sección extra «Programas y apoyos» (se puede ocultar o borrar sin afectar el curso),

@@ -42,9 +42,9 @@ Tu paso de esta semana: Llena tu hoja del mes con lo que gastas en lo básico.
 Lección: [por definir]
 ```
 
-**Audio** (86 palabras, unos 36 segundos)
+**Audio** (85 palabras, unos 35 segundos)
 
-Hola. Hoy hablamos de esto: Lo básico primero. Don Toño cobra su pensión del IMSS y siempre le pagan primero los compromisos: el abono del refrigerador, la cooperación de la fiesta, el préstamo del sobrino. Las medicinas quedan al final. En esta lección verás otro orden. Cubre primero comida, medicinas, casa y transporte; lo demás va después. Recuerda: Comida. Medicinas. Casa y transporte. Tu paso de esta semana: Llena tu hoja del mes con lo que gastas en lo básico. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Lo básico primero. Don Toño cobra su pensión del IMSS y siempre paga primero los compromisos. El abono del refrigerador, la cooperación de la fiesta, el préstamo del sobrino. Las medicinas quedan al final. En esta lección verás otro orden. Cubre primero comida, medicinas, casa y transporte; lo demás va después. Recuerda: Comida. Medicinas. Casa y transporte. Tu paso de esta semana: Llena tu hoja del mes con lo que gastas en lo básico. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Tu tarjeta y el cajero, sin riesgos
 

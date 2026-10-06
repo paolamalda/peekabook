@@ -42,9 +42,9 @@ Tu paso de esta semana: Guarda el número 800 639 4264 y compártelo con tu comu
 Lección: [por definir]
 ```
 
-**Audio** (103 palabras, unos 43 segundos)
+**Audio** (102 palabras, unos 42 segundos)
 
-Hola. Hoy hablamos de esto: Si alguien se queda con tu dinero. En la comunidad de Rosa, una persona dice que «tiene palancas» y cobra 300 pesos a cada familia para que sigan recibiendo la beca de sus hijos. Si no pagan, dice que los dan de baja. En esta lección verás qué hacer. Si alguien te cobra por tu apoyo, no pagues y avisa a la Línea de Bienestar, 800 639 4264. Recuerda: No pagues. Línea de Bienestar. Avisen juntas. Tu paso de esta semana: Guarda el número 800 639 4264 y compártelo con tu comunidad. Nos escuchamos en la próxima lección.
+Hola. Hoy hablamos de esto: Si alguien se queda con tu dinero. En la comunidad de Rosa, una persona dice que «tiene palancas». Cobra 300 pesos a cada familia para que sigan recibiendo la beca de sus hijos. Si no pagan, dice que los dan de baja. En esta lección verás qué hacer. Si alguien te cobra por tu apoyo, no pagues y avisa a la Línea de Bienestar, 800 639 4264. Recuerda: No pagues. Línea de Bienestar. Avisen juntas. Tu paso de esta semana: Guarda el número 800 639 4264 y compártelo con tu comunidad. Nos escuchamos en la próxima lección.
 
 ## Módulo 2. Tu cuenta a tu nombre
 

@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Costa v0.1/M1
+$CATEGORY: $course$/Tu Costa v1.0/M1
 
 ::M1 U01 P1::¿Cuándo termina la temporada de huracanes en el Pacífico? {
 	=El 30 de noviembre #¡Correcto! 30 de noviembre.
@@ -36,7 +36,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M1
 	~Nunca #No es la mejor opción. Antes.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M2
+$CATEGORY: $course$/Tu Costa v1.0/M2
 
 ::M2 U01 P1::¿Dónde guardas tus originales? {
 	~En un cajón bajo de madera #No es la mejor opción. Protegidos del agua.
@@ -74,7 +74,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M2
 	=Lo haces tú\: es sin costo #¡Correcto! Sin costo.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M3
+$CATEGORY: $course$/Tu Costa v1.0/M3
 
 ::M3 U01 P1::¿Qué es un mes bajo? {
 	=Un mes en que entra menos de lo que gastas #¡Correcto! Entra menos.
@@ -112,7 +112,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M3
 	~Que nadie sepa el orden #No es la mejor opción. Reglas y confianza.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M4
+$CATEGORY: $course$/Tu Costa v1.0/M4
 
 ::M4 U01 P1::¿Cuál es un uso correcto del fondo? {
 	=Una reparación urgente #¡Correcto! Es emergencia.
@@ -150,7 +150,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M4
 	~A ningún lado #No es la mejor opción. CONDUSEF.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M5
+$CATEGORY: $course$/Tu Costa v1.0/M5
 
 ::M5 U01 P1::Te adelantan dinero si les vendes más barato. ¿Qué es? {
 	~Un regalo #No es la mejor opción. Se paga con producto.
@@ -188,7 +188,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M5
 	~Pides otro crédito para pagar este #No es la mejor opción. Ajusta o espera.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M6
+$CATEGORY: $course$/Tu Costa v1.0/M6
 
 ::M6 U01 P1::Te niegan un servicio por tu forma de hablar. ¿Qué es? {
 	=Discriminación #¡Correcto! Es discriminación.
@@ -226,7 +226,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M6
 	~Solo tu INE, porque ellos tienen todo lo demás #No es la mejor opción. Tus pruebas.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M7
+$CATEGORY: $course$/Tu Costa v1.0/M7
 
 ::M7 U01 P1::¿Qué comparas entre empresas de envío? {
 	=Los pesos que llegan #¡Correcto! Lo que llega.
@@ -264,7 +264,7 @@ $CATEGORY: $course$/Tu Costa v0.1/M7
 	~Con nadie #No es la mejor opción. Con quien la manda.
 }
 
-$CATEGORY: $course$/Tu Costa v0.1/M8
+$CATEGORY: $course$/Tu Costa v1.0/M8
 
 ::M8 U01 P1::¿Qué papel comprueba una propiedad privada? {
 	=La escritura registrada #¡Correcto! La escritura.

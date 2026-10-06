@@ -127,9 +127,9 @@ En la sección 8, crea el glosario `Palabras clave del curso` e importa `3_glosa
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tcmf.gift.txt`. Se crean *Tu Comunidad v0.1/M1* a *M7*, con 42 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tcmf.gift.txt`. Se crean *Tu Comunidad v1.0/M1* a *M7*, con 42 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Comunidad v0.1/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Comunidad v1.0/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 |
 |---|---|---|---|---|---|---|

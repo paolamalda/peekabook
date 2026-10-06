@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Pensión v0.1/M1
+$CATEGORY: $course$/Tu Pensión v1.0/M1
 
 ::M1 U01 P1::¿Cada cuándo llega la Pensión Bienestar? {
 	=Cada dos meses #¡Correcto! Es bimestral.
@@ -36,7 +36,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M1
 	~Para nada #No es la mejor opción. Para saber cuánto necesitas.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M2
+$CATEGORY: $course$/Tu Pensión v1.0/M2
 
 ::M2 U01 P1::¿Con quién compartes tu NIP? {
 	=Con nadie #¡Correcto! Es tuyo.
@@ -74,7 +74,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M2
 	~Esperas un rato a que la máquina la devuelva sola #No es la mejor opción. Bloqueo inmediato.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M3
+$CATEGORY: $course$/Tu Pensión v1.0/M3
 
 ::M3 U01 P1::Te llaman «del banco» y piden tu NIP. ¿Qué haces? {
 	~Lo das #No es la mejor opción. Nadie pide el NIP.
@@ -112,7 +112,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M3
 	=Llamas a tu banco y avisas a tu familia #¡Correcto! Actúas rápido.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M4
+$CATEGORY: $course$/Tu Pensión v1.0/M4
 
 ::M4 U01 P1::¿Cuál es una señal de abuso patrimonial? {
 	=Te faltan retiros que no hiciste #¡Correcto! Alguien usa tu dinero.
@@ -150,7 +150,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M4
 	=Llamas al 911 y buscas orientación #¡Correcto! Es peligro.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M5
+$CATEGORY: $course$/Tu Pensión v1.0/M5
 
 ::M5 U01 P1::¿Cuál es el tope de descuento a tu pensión del IMSS? {
 	=30% #¡Correcto! 30%.
@@ -188,7 +188,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M5
 	=Tu compañía para buscar otra opción #¡Correcto! Ayudar sin firmar.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M6
+$CATEGORY: $course$/Tu Pensión v1.0/M6
 
 ::M6 U01 P1::¿Qué poder conviene para un solo trámite? {
 	~Uno general para todo, así no vuelves a la notaría #No es la mejor opción. Limitado.
@@ -226,7 +226,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M6
 	=No se lo das #¡Correcto! El NIP es tuyo.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M7
+$CATEGORY: $course$/Tu Pensión v1.0/M7
 
 ::M7 U01 P1::¿Para qué sirve el testamento? {
 	=Para decir a quién dejas tus bienes #¡Correcto! Tus bienes.
@@ -264,7 +264,7 @@ $CATEGORY: $course$/Tu Pensión v0.1/M7
 	~Nada #No es la mejor opción. Los papeles.
 }
 
-$CATEGORY: $course$/Tu Pensión v0.1/M8
+$CATEGORY: $course$/Tu Pensión v1.0/M8
 
 ::M8 U01 P1::¿Para qué es el guardadito de salud? {
 	=Solo para salud #¡Correcto! Solo salud.
