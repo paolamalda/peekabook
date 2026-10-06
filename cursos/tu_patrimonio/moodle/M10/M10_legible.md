@@ -164,7 +164,7 @@ Secretaría de Gobernación · CONDUSEF, consultados el 29 de septiembre de 2026
 
 **Lo que lograrás:** Revisar y actualizar los beneficiarios de tus cuentas, seguros y AFORE, y saber sus límites y su relación con el testamento.
 
-**Para empezar:** Cuando Carmen revisó sus cuentas, descubrió que su beneficiario en una era su hermano, con quien ya no habla, y en su seguro de vida, su mamá, que falleció. En esta lección pondrás al día a tus beneficiarios.
+**Para empezar:** Cuando Carmen revisó sus cuentas, descubrió algo. En una, su beneficiario era su hermano, con quien ya no habla. En su seguro de vida era su mamá, que falleció. En esta lección pondrás al día a tus beneficiarios.
 
 ### Lo esencial (5 minutos)
 
@@ -185,7 +185,7 @@ Un beneficiario recibe el dinero de una cuenta, un seguro o tu AFORE cuando falt
 
 #### Tiene límites
 
-En las cuentas bancarias la ley pone límites a lo que se entrega directamente a los beneficiarios; lo que pase de ese límite puede requerir el trámite de herencia. Por eso el testamento y los beneficiarios se complementan.
+En las cuentas bancarias, la ley pone un límite a lo que se entrega directamente a los beneficiarios. Lo que pase de ese límite puede requerir el trámite de herencia. Por eso el testamento y los beneficiarios se complementan.
 
 
 
@@ -342,7 +342,7 @@ Un poder notarial autoriza a una persona de tu confianza a hacer trámites por t
 
 #### Si no puedes decidir
 
-Además del poder, en varios estados puedes firmar una voluntad anticipada sobre tu atención médica y, en algunos, designar a quien sería tu tutor si lo necesitaras. Pregunta en tu notaría.
+Además del poder, en varios estados puedes firmar una voluntad anticipada sobre tu atención médica. En algunos también puedes nombrar a quien sería tu tutor si lo necesitaras. Pregunta en tu notaría.
 
 
 
@@ -635,7 +635,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Decidir qué hacer primero después de enviudar o separarte, qué no firmar con prisa y a quién acudir.
 
-**Para empezar:** En las semanas después de la muerte de su esposo, a Lucía le llegaron ofertas: un asesor que quería «reacomodar» sus inversiones, un familiar que pedía dinero prestado y un agente que le ofrecía un seguro. Ella estaba en duelo y no podía pensar. En esta lección verás cómo protegerte en esos días.
+**Para empezar:** En las semanas después de la muerte de su esposo, a Lucía le llegaron ofertas. Un asesor quería «reacomodar» sus inversiones, un familiar le pedía dinero prestado y un agente le ofrecía un seguro. Ella estaba en duelo y no podía pensar. En esta lección verás cómo protegerte en esos días.
 
 ### Lo esencial (5 minutos)
 
@@ -810,13 +810,13 @@ CONDUSEF · IMSS · Gobierno de México, consultados el 29 de septiembre de 2026
 
 #### El seguro de tu crédito
 
-Los créditos de Infonavit, Fovissste y bancos suelen incluir un seguro de daños a la vivienda y uno de vida: si quien tiene el crédito fallece, la deuda se cubre. Guarda tu póliza o constancia; tu familia la necesitará para reclamar.
+Los créditos de Infonavit, Fovissste y bancos suelen incluir un seguro de daños a la vivienda y uno de vida. Si quien tiene el crédito fallece, la deuda se cubre. Guarda tu póliza o constancia: tu familia la necesitará para reclamar.
 
 
 
 #### Tu subcuenta de vivienda
 
-Si nunca usaste tu crédito, el saldo de tu subcuenta de vivienda no se pierde: al pensionarte se te entrega o se suma a tu pensión, según tu régimen. Consulta tu saldo en Mi Cuenta Infonavit o en el Fovissste.
+Si nunca usaste tu crédito, el saldo de tu subcuenta de vivienda no se pierde. Al pensionarte se te entrega o se suma a tu pensión, según tu régimen. Consulta tu saldo en Mi Cuenta Infonavit o en el Fovissste.
 
 
 
@@ -849,7 +849,7 @@ Maru pidió a Infonavit la carta de cancelación de hipoteca y la llevó a la no
 
 #### Fraudes con casas y terrenos
 
-Casas «recuperadas» o embargadas que se venden baratas y sin papeles, terrenos ejidales que se venden como si fueran propiedad privada y «gestores» que prometen escriturar rápido si pagas por adelantado. Antes de pagar, pide un certificado de libertad de gravamen y consulta con una notaría.
+Cuidado con tres engaños. Casas «recuperadas» o embargadas que se venden baratas y sin papeles. Terrenos ejidales que se venden como si fueran propiedad privada. Y «gestores» que prometen escriturar rápido si pagas por adelantado. Antes de pagar, pide un certificado de libertad de gravamen y consulta con una notaría.
 
 
 
@@ -857,7 +857,7 @@ Casas «recuperadas» o embargadas que se venden baratas y sin papeles, terrenos
 
 Muchos municipios dan descuento si pagas el año completo en enero o febrero, y algunos tienen descuentos para personas adultas mayores o jubiladas. Pregunta en tu municipio y guarda cada recibo.
 
-> **Antes de actuar, verifica:** cualquier compra, venta o trámite de tu casa con una notaría y en el Registro Público de la Propiedad; nunca pagues por adelantado a un gestor.
+> **Antes de actuar, verifica:** cualquier compra, venta o trámite de tu casa con una notaría y en el Registro Público de la Propiedad. Nunca pagues por adelantado a un gestor.
 
 
 
@@ -958,7 +958,7 @@ Infonavit · Fovissste · Colegio Nacional del Notariado Mexicano, consultados e
 
 #### Ante notario, si hay acuerdo
 
-Si toda la familia está de acuerdo y no hay menores de edad en conflicto, muchas veces el trámite se hace ante notario, más rápido que un juicio. Si no hay acuerdo, se va a juicio.
+Si toda la familia está de acuerdo y no hay menores de edad en conflicto, muchas veces el trámite se hace ante notario. Es más rápido que un juicio. Si no hay acuerdo, se va a juicio.
 
 
 
@@ -970,7 +970,7 @@ Los derechos ejidales se heredan con la lista de sucesión depositada en el Regi
 
 #### Un caso en un minuto
 
-La familia del hermano de Lucía pidió asesoría: la pareja pudo demostrar los años de vida en común, la parcela tenía lista de sucesión a nombre de su hijo mayor y la casa se tramitó ante notario porque todos se pusieron de acuerdo. Lucía hizo su testamento ese mismo septiembre.
+La familia del hermano de Lucía pidió asesoría. La pareja pudo demostrar los años de vida en común. La parcela tenía lista de sucesión a nombre de su hijo mayor. La casa se tramitó ante notario porque todos se pusieron de acuerdo. Lucía hizo su testamento ese mismo septiembre.
 
 > **Idea clave:** sin testamento, la ley decide y el trámite tarda y cuesta; la pareja en unión libre y la tierra ejidal tienen reglas propias. Tu testamento y tu lista de sucesión evitan pleitos.
 
@@ -1106,7 +1106,7 @@ Ley Agraria (artículos 17 y 18) · Registro Agrario Nacional · Secretaría de 
 | Donar entre padres e hijos | Exento de ISR. | Pero cuesta escriturar. |
 | «Vender por un peso» | Puede generar impuestos y riesgos. | Pregunta antes. |
 
-> **Dato vigente:** las herencias y los donativos entre cónyuges y entre padres e hijos están exentos de ISR (Ley del ISR, artículo 93, fracciones XXII y XXIII); quien presenta declaración anual debe informarlos si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
+> **Dato vigente:** las herencias y los donativos entre cónyuges y entre padres e hijos no pagan ISR (Ley del ISR, artículo 93, fracciones XXII y XXIII). Quien presenta declaración anual debe informarlos si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
 
 #### Dar en vida: pros y riesgos
 
@@ -1116,7 +1116,7 @@ Donar o vender en vida adelanta el trámite, pero **ya no es tuya**: si hay un c
 
 #### Si después se vende lo heredado
 
-Si tu hija vende la casa heredada, puede pagar ISR sobre la ganancia; se calcula con lo que pagaste tú y la fecha en que la compraste. Si ella vive ahí, puede aplicar la exención por casa habitación, con límites.
+Si tu hija vende la casa heredada, puede pagar ISR sobre la ganancia. Se calcula con lo que pagaste tú y la fecha en que la compraste. Si ella vive ahí, puede aplicar la exención por casa habitación, con límites.
 
 
 
@@ -1262,7 +1262,7 @@ Ley del ISR (artículo 93) · SAT · Secretaría de Gobernación, consultados el
 
 La ley la llama **violencia económica** (controlar o limitar tu dinero) y **violencia patrimonial** (quitar, dañar, esconder o vender tus bienes o documentos). También pasa entre hijos y padres mayores. Hablar de dinero en pareja no es desconfianza: es cuidar lo que construyeron juntos.
 
-> **Dato vigente:** la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia define la violencia patrimonial y la económica (artículo 6, fracciones III y IV); la Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
+> **Dato vigente:** la ley reconoce la violencia patrimonial y la económica. Lo dice la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (artículo 6, fracciones III y IV). La Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
 
 
 
@@ -1278,7 +1278,7 @@ La ley la llama **violencia económica** (controlar o limitar tu dinero) y **vio
 
 Carmen pidió una copia de la escritura del terreno en el Registro Público: aparece a nombre de los dos. Sin su firma, Arturo no puede venderlo. Llamó al 079 para orientarse y abrió una cuenta a su nombre.
 
-> **Idea clave:** tu dinero y tus bienes también son tuyos; conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
+> **Idea clave:** tu dinero y tus bienes también son tuyos. Conoce tu régimen matrimonial, ten documentos y una cuenta a tu nombre, y no firmes nada sin entenderlo.
 
 
 
@@ -1426,9 +1426,9 @@ Si la pensión la fijó un juez, **quien paga no puede bajarla por su cuenta**. 
 
 #### Si no se paga
 
-Quien deja de pagar durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**; con eso no puede sacar licencia de manejo ni pasaporte. El juez también puede ordenar que se descuente directo de su nómina.
+Quien deja de pagar durante 60 días puede quedar inscrito en el **Registro Nacional de Obligaciones Alimentarias**. Con eso no puede sacar licencia de manejo ni pasaporte. El juez también puede ordenar que se descuente directo de su nómina.
 
-> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte; en agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
+> **Dato vigente:** desde 2023, las personas inscritas como deudoras alimentarias morosas no pueden obtener licencia de manejo ni pasaporte. En agosto de 2026 la SRE presentó un anteproyecto para revisar el registro antes de tramitar el pasaporte. Consultado el 30 de septiembre de 2026 a través de medios nacionales.
 
 
 
@@ -1436,7 +1436,7 @@ Quien deja de pagar durante 60 días puede quedar inscrito en el **Registro Naci
 
 Elena juntó los comprobantes de depósito de los últimos seis meses y fue a la defensoría pública. Le explicaron que puede pedir el pago de lo atrasado y el descuento por nómina. Mientras, ajustó su presupuesto y usa la pensión solo para los gastos de sus hijos.
 
-> **Idea clave:** si un juez fijó la pensión, solo un juez la cambia; guarda tus comprobantes y pide orientación sin costo si no se paga completa.
+> **Idea clave:** si un juez fijó la pensión, solo un juez la cambia. Guarda tus comprobantes y pide orientación sin costo si no se paga completa.
 
 
 

@@ -83,7 +83,7 @@ Tu contraseña del SAT y tu e.firma son como tu firma autógrafa. No las compart
 
 El SAT atiende con cita y por teléfono. PRODECON orienta sin costo y te defiende ante el SAT si tienes un problema. En la comunidad del curso también hay sesiones de dudas.
 
-> **Antes de actuar, verifica:** los requisitos y citas en el sitio oficial del SAT (sat.gob.mx); desconfía de páginas o personas que cobran por sacarte el RFC.
+> **Antes de actuar, verifica:** los requisitos y citas en el sitio oficial del SAT (sat.gob.mx). Desconfía de páginas o personas que cobran por sacarte el RFC.
 
 
 
@@ -174,9 +174,11 @@ SAT · PRODECON, consultados el 29 de septiembre de 2026.
 
 #### Qué es
 
-El RESICO para personas físicas es un régimen del SAT en el que pagas ISR con una tasa baja **sobre lo que cobras** (sin IVA), sin restar gastos.
+El RESICO para personas físicas es un régimen del SAT. En él pagas ISR con una tasa baja **sobre lo que cobras** (sin IVA), sin restar gastos.
 
-> **Dato vigente:** en RESICO de personas físicas, la tasa mensual va de 1% a 2.5% según lo que cobras en el mes: hasta 25,000, 1%; hasta 50,000, 1.1%; hasta 83,333.33, 1.5%; hasta 208,333.33, 2%; y más, hasta 3.5 millones al año, 2.5%. Si facturas a una empresa (persona moral), te retiene 1.25%. Sin cambios de tasa en 2026. Consultado el 29 de septiembre de 2026 a través del SAT y la Ley del ISR (arts. 113-E y 113-J).
+> **Dato vigente:** en RESICO de personas físicas, la tasa mensual va de 1% a 2.5% según lo que cobras en el mes. Hasta 25,000, 1%; hasta 50,000, 1.1%; hasta 83,333.33, 1.5%; hasta 208,333.33, 2%.
+>
+> Más que eso, hasta 3.5 millones al año, 2.5%. Si facturas a una empresa (persona moral), te retiene 1.25%. Sin cambios de tasa en 2026. Consultado el 29 de septiembre de 2026 a través del SAT y la Ley del ISR (arts. 113-E y 113-J).
 
 
 
@@ -237,7 +239,7 @@ Toño gasta en material 40% de lo que cobra. Aun así, en RESICO paga 1% sobre s
 
 #### Declaración anual
 
-La ley pide declaración anual, pero la Resolución Miscelánea Fiscal libera de presentarla a quien estuvo en RESICO todo el año, presentó todos sus pagos mensuales, no rebasó 3.5 millones y no tuvo otros ingresos. Revisa tu caso cada año.
+La ley pide declaración anual. Pero la Resolución Miscelánea Fiscal libera de presentarla a quien cumple cuatro condiciones. Estuvo en RESICO todo el año, presentó todos sus pagos mensuales, no rebasó 3.5 millones y no tuvo otros ingresos. Revisa tu caso cada año.
 
 > **Dato vigente:** la regla 3.13.7 de la Resolución Miscelánea Fiscal 2026 exime de la declaración anual a quien cumple esas condiciones. Consultado el 29 de septiembre de 2026 a través del SAT.
 
@@ -387,19 +389,19 @@ Toño pidió a la constructora su constancia de situación fiscal y copió los d
 
 #### La factura global
 
-Las ventas a clientes que no piden factura se reportan en una factura global a «público en general», con la periodicidad que te corresponda (diaria, semanal, quincenal, mensual o bimestral según tu régimen). Así tus ingresos quedan completos.
+Las ventas a clientes que no piden factura se reportan en una factura global a «público en general». Se hace con la periodicidad que te corresponda: diaria, semanal, quincenal, mensual o bimestral, según tu régimen. Así tus ingresos quedan completos.
 
 
 
 #### Cancelar una factura
 
-Puedes cancelar una factura con error y emitir otra. En muchos casos el cliente debe aceptar la cancelación, y hay plazos: se puede cancelar a más tardar en el mes en que debes presentar la declaración anual del año en que la emitiste. Cancela pronto y avisa a tu cliente.
+Puedes cancelar una factura con error y emitir otra. En muchos casos el cliente debe aceptar la cancelación, y hay plazos. Se puede cancelar a más tardar en el mes en que presentas la declaración anual del año en que la emitiste. Cancela pronto y avisa a tu cliente.
 
 
 
 #### Cuidado con facturas falsas
 
-Nunca compres facturas para «bajar impuestos» ni vendas tu RFC para que otros facturen: el SAT publica listas de contribuyentes con operaciones simuladas y las consecuencias son graves.
+Nunca compres facturas para «bajar impuestos» ni vendas tu RFC para que otros facturen. El SAT publica listas de contribuyentes con operaciones simuladas y las consecuencias son graves.
 
 > **Antes de actuar, verifica:** las reglas de factura global y cancelación en el sitio del SAT; cambian con la Resolución Miscelánea de cada año.
 
@@ -555,7 +557,7 @@ Para acreditar IVA necesitas factura a tu RFC y que el gasto sea del negocio. Pi
 
 Las plataformas digitales retienen IVA a quien vende por ellas (M8 U02). Esa retención se resta de tu IVA a pagar.
 
-> **Antes de actuar, verifica:** la tasa de IVA de tus productos y servicios con el SAT o con un contador; algunos alimentos y servicios tienen reglas especiales.
+> **Antes de actuar, verifica:** la tasa de IVA de tus productos y servicios con el SAT o con un contador. Algunos alimentos y servicios tienen reglas especiales.
 
 
 

@@ -233,7 +233,7 @@ Nobody else: not notarios, not "helpers," not social media "advisors."
 
 #### A "notario" in the U.S. is not a lawyer
 
-In many Latin American countries, a notario is a legal professional. In the U.S., a **notary public** only certifies signatures.
+In much of Latin America, a notario is a kind of lawyer. In the U.S., a **notary public** only certifies signatures.
 
 In California it's illegal to advertise as a "notario" to offer immigration services.
 
@@ -250,9 +250,9 @@ In California it's illegal to advertise as a "notario" to offer immigration serv
 
 #### Watch out for "express asylum"
 
-Be wary of anyone who promises a fast work permit by filing an asylum application, even if you don't qualify.
+Watch out if someone promises you a fast work permit with an asylum request, even if you don't qualify.
 
-Filing a false application with USCIS is a serious crime and can put you into deportation proceedings that can't be undone.
+A false request to USCIS is a serious crime. It can lead to a deportation case that can't be undone.
 
 > **Key idea:** always confirm your case with a licensed attorney or a DOJ-accredited representative.
 
@@ -268,7 +268,7 @@ Filing a false application with USCIS is a serious crime and can put you into de
 
 #### A case in one minute
 
-Rosa wanted to help her granddaughter with an application and found an "advisor" on social media who charged 800 dollars.
+Rosa wanted to help her granddaughter with some papers. On social media she found an "advisor" who charged 800 dollars.
 
 Before paying, she looked up the name with the State Bar and on the DOJ list. It wasn't on either. She called a recognized organization in Fresno and got a no-cost appointment.
 
@@ -317,7 +317,7 @@ People who call, write or visit saying they're from ICE, USCIS, the IRS or the p
 - ask you to pay with gift cards, cryptocurrency, wire transfers or apps;
 - threaten to arrest you if you hang up.
 
-Government agencies **don't** ask for payments like that. Hang up and check the official website.
+The government **doesn't** ask you to pay like that. Hang up and check the official website.
 
 
 

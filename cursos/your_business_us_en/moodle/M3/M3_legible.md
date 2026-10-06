@@ -10,7 +10,7 @@
 
 #### What cash flow is
 
-Cash flow is the money that really comes in and goes out, and **when**. You can have a profit on paper and not have cash to pay this week, because you get paid late or because you bought a lot at once.
+Cash flow is the money that really comes in and goes out, and **when**. You can have a profit on paper and still not have cash to pay this week. It happens when you get paid late or buy a lot at once.
 
 
 
@@ -78,7 +78,7 @@ Ask for a deposit on big jobs, in writing. If a customer pays in 30 days, ask yo
 
 #### Expensive credit to plug holes
 
-If your calendar shows a gap, don't plug it with credit card cash advances, payday loans or advances on future sales (merchant cash advances): their cost eats your profit (M6).
+If your calendar shows a gap, don't plug it with expensive debt. That includes credit card cash advances, payday loans and advances on future sales (merchant cash advances). Their cost eats your profit (M6).
 
 
 
@@ -227,7 +227,7 @@ Lupita now asks for a 50% deposit on party orders and the rest at delivery. She 
 
 #### If they don't pay
 
-First, remind them in writing. Then send a formal letter with a deadline. For small amounts, your county's small claims court is an option without a lawyer; in California the limit for individuals is $12,500 (check with the court). If you work in construction in California, look into a mechanics lien early: it has strict deadlines.
+First, remind them in writing. Then send a formal letter with a deadline. For small amounts, your county's small claims court is an option without a lawyer. In California the limit for individuals is $12,500 (check with the court). If you work in construction in California, look into a mechanics lien early: it has strict deadlines.
 
 
 
@@ -480,7 +480,7 @@ FDIC · NCUA, accessed September 29, 2026.
 
 With inflation, your supplies, rent and gas go up. If your prices stay the same, your margin shrinks even if you sell the same amount.
 
-> **Current fact:** the Federal Reserve's long-run inflation goal is 2% a year; the Bureau of Labor Statistics (BLS) publishes the Consumer Price Index (CPI) every month. Accessed September 30, 2026 through the Federal Reserve and the BLS.
+> **Current fact:** the Federal Reserve's long-run inflation goal is 2% a year. The Bureau of Labor Statistics (BLS) publishes the Consumer Price Index (CPI) every month. Accessed September 30, 2026 through the Federal Reserve and the BLS.
 
 
 

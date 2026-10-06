@@ -177,7 +177,7 @@ El Seguro de Salud para la Familia (también llamado Modalidad 33) es para quien
 | 70 a 79 | 20,650 |
 | 80 o más | 21,300 |
 
-> **Dato vigente:** las cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) son por persona y según la edad. Están vigentes desde el 1 de marzo de 2026. Consultado el 30 de septiembre de 2026 a través de medios nacionales que citan las tablas del IMSS; confirma en tu clínica o en el IMSS antes de pagar.
+> **Dato vigente:** las cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) son por persona y según la edad. Están vigentes desde el 1 de marzo de 2026. Consultado el 30 de septiembre de 2026 a través de medios nacionales que citan las tablas del IMSS. Confirma en tu clínica o en el IMSS antes de pagar.
 
 
 
@@ -192,7 +192,9 @@ El Seguro de Salud para la Familia (también llamado Modalidad 33) es para quien
 
 #### Personas trabajadoras independientes
 
-El IMSS también tiene un esquema para quien trabaja por su cuenta (Modalidad 10), con médico, incapacidades, semanas para la pensión y Afore. La cuota se paga cada mes según el ingreso que registras; con un salario mínimo ronda 2,500 al mes. Como el trabajo del hogar es trabajo para una casa, **pregunta en el IMSS si puedes inscribirte así** cuando trabajas por días en varias casas.
+El IMSS también tiene un esquema para quien trabaja por su cuenta (Modalidad 10), con médico, incapacidades, semanas para la pensión y Afore. La cuota se paga cada mes según el ingreso que registras; con un salario mínimo ronda 2,500 al mes.
+
+Como el trabajo del hogar es trabajo para una casa, **pregunta en el IMSS si puedes inscribirte así** cuando trabajas por días en varias casas.
 
 
 

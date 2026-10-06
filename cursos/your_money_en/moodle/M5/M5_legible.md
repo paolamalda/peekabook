@@ -751,7 +751,9 @@ Compare at least two options and check the total cost.
 
 #### Homebuying assistance programs
 
-In California there are programs that help first-time buyers with the down payment and closing costs. Some are state programs, like those of the California Housing Finance Agency (**CalHFA**), and some are local. CalHFA programs require citizenship or an immigration status recognized by federal law. So, with only an ITIN, you can't use CalHFA today. Some local programs have different rules; ask each one directly.
+In California there are programs that help first-time buyers with the down payment and closing costs. Some are state programs, like those of the California Housing Finance Agency (**CalHFA**), and some are local.
+
+CalHFA programs require citizenship or an immigration status recognized by federal law. So, with only an ITIN, you can't use CalHFA today. Some local programs have different rules; ask each one directly.
 
 > **Current fact:** CalHFA's Dream For All mortgage requires each borrower to be a citizen or a "qualified alien" under federal law. In 2024, AB 1840, a bill to open the program to people with an ITIN, was vetoed. Accessed October 6, 2026 through CalHFA and California news outlets.
 

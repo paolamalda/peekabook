@@ -339,7 +339,7 @@ Tu plan de una página no reemplaza tu carpeta: la resume. Te dice en un minuto 
 
 #### Fechas para revisar
 
-Anota cuándo revisas cada cosa: tu carpeta en septiembre, tu reporte de crédito una vez al año, tu seguro antes de renovar y tu declaración en abril.
+Anota cuándo revisas cada cosa. Tu carpeta, en septiembre. Tu reporte de crédito, una vez al año. Tu seguro, antes de renovar. Tu declaración, en abril.
 
 
 
@@ -353,7 +353,7 @@ Carmen llenó su plan en una tarde. Lo guardó al frente de su carpeta y le dio 
 
 Escribe una meta con nombre («mi fondo de un año de gastos»), cuánto apartarás y cada cuándo. Cuéntaselo a tu persona de confianza para que te pregunte cómo vas. Programa el ahorro automático el día que recibes tu dinero y un recordatorio mensual con el nombre de tu meta.
 
-> **Idea clave:** tu plan de una página resume tu carpeta y te dice qué revisar cada año; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
+> **Idea clave:** tu plan de una página resume tu carpeta y te dice qué revisar cada año. Un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
 
 

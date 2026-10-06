@@ -183,7 +183,7 @@ El negocio y tu casa son dos bolsas distintas. Si mezclas, nunca sabrás si tu n
 | Mezclados | Todo en una cuenta. | No sabes si ganas. |
 | Cobros a tu app personal | Se pierden entre tus gastos. | Usa una cuenta del negocio. |
 
-> **Dato vigente:** el FDIC asegura los depósitos en bancos hasta $250,000 por persona, por banco y por tipo de cuenta; el NCUA protege lo mismo en cooperativas de crédito (credit unions). Consultado el 29 de septiembre de 2026 a través de FDIC y NCUA.
+> **Dato vigente:** el FDIC asegura los depósitos en bancos hasta $250,000 por persona, por banco y por tipo de cuenta. El NCUA protege lo mismo en cooperativas de crédito (credit unions). Consultado el 29 de septiembre de 2026 a través de FDIC y NCUA.
 
 #### Un caso en un minuto
 
@@ -536,7 +536,7 @@ Daniela hizo una hoja con fecha, concepto, entra y sale, y una carpeta digital p
 
 Si usas tu auto para el negocio, anota fecha, destino, motivo y millas de cada viaje. Puedes deducir con la tarifa estándar por milla del IRS (M5 U03). Sin registro, no hay deducción.
 
-> **Dato vigente:** la tarifa estándar del IRS para uso de negocio es de 72.5 centavos por milla de enero a junio de 2026 y de 76 centavos por milla desde el 1 de julio de 2026. Consultado el 29 de septiembre de 2026 a través del IRS (Notice 2026-10 e Internal Revenue Bulletin 2026-29).
+> **Dato vigente:** la tarifa estándar del IRS para uso de negocio es de 72.5 centavos por milla de enero a junio de 2026. Desde el 1 de julio de 2026 es de 76 centavos por milla. Consultado el 29 de septiembre de 2026 a través del IRS (Notice 2026-10 e Internal Revenue Bulletin 2026-29).
 
 
 
@@ -645,7 +645,7 @@ Las apps de apuestas, casinos en línea y «casinos de sorteo» están a un toqu
 | Crédito para apostar | Tarjeta o adelantos. | Deuda segura. |
 | Tope y cuenta personal | Solo de tu sueldo, con límite. | Control. |
 
-> **Dato vigente:** en California las apuestas deportivas en línea no son legales, y desde el 1 de enero de 2026 también están prohibidos los «casinos de sorteo» en línea (sweepstakes casinos) por la ley AB 831. Las reglas cambian por estado. Consultado el 29 de septiembre de 2026 a través de fuentes legales y medios especializados.
+> **Dato vigente:** en California las apuestas deportivas en línea no son legales. Desde el 1 de enero de 2026 también están prohibidos los «casinos de sorteo» en línea (sweepstakes casinos), por la ley AB 831. Las reglas cambian por estado. Consultado el 29 de septiembre de 2026 a través de fuentes legales y medios especializados.
 
 #### Un caso en un minuto
 
@@ -684,7 +684,7 @@ Las ganancias de apuestas son ingreso para el IRS aunque no recibas un formulari
 
 El juego compulsivo es un problema de salud. La línea nacional 1-800-GAMBLER atiende sin costo las 24 horas. En California también hay tratamiento sin costo para residentes.
 
-> **Antes de actuar, verifica:** las reglas de tu estado; lo que es legal en un estado puede no serlo en otro, y los sitios sin licencia no te protegen si no te pagan.
+> **Antes de actuar, verifica:** las reglas de tu estado. Lo que es legal en un estado puede no serlo en otro. Los sitios sin licencia no te protegen si no te pagan.
 
 
 
@@ -800,7 +800,7 @@ Si alguien te quita tu ingreso, te impide trabajar, te exige cuentas de cada dó
 
 Lupita abrió una cuenta del negocio a su nombre en una cooperativa de crédito con su ITIN y ligó ahí su app de cobros. Con sus registros mostró que la olla se pagaba sola en tres meses. Ahora ella decide las compras del negocio, y lo de la casa lo acuerdan juntos.
 
-> **Idea clave:** tus habilidades son el capital de tu negocio; ten tu cuenta, tus cobros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+> **Idea clave:** tus habilidades son el capital de tu negocio. Ten tu cuenta, tus cobros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 
 
@@ -831,7 +831,7 @@ Acuerden qué es del negocio y qué es de la casa, con números en la mano. Tu s
 
 #### Dónde pedir ayuda
 
-La Línea Nacional sobre la Violencia Doméstica atiende sin costo, las 24 horas y en español: llama al 1-800-799-7233 o envía un texto con la palabra START al 88788. En una emergencia, llama al 911.
+La Línea Nacional sobre la Violencia Doméstica atiende sin costo, las 24 horas y en español. Llama al 1-800-799-7233 o envía un texto con la palabra START al 88788. En una emergencia, llama al 911.
 
 > **Antes de actuar, verifica:** que tu cuenta, tu EIN o ITIN y tus contratos estén a tu nombre y que nadie más tenga tus contraseñas.
 

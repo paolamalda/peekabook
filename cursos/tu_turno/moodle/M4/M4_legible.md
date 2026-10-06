@@ -324,7 +324,9 @@ Si tu empresa te da de alta en el IMSS, también aporta el 5% de tu salario a tu
 | Cuánto te prestan | Según tu salario y edad. | Simulador oficial. |
 | Coyotes | Cobran por «ayudarte». | El trámite no tiene costo. |
 
-> **Dato vigente:** Infonavit tiene un modelo de 100 puntos. Pueden precalificar con 100 puntos, en lugar de 1,080, quienes ganan entre uno y dos salarios mínimos, cotizan seis meses seguidos o más y no tienen vivienda propia. La tasa es fija y va de 3.69% a 10.45% anual según el salario. Consultado el 29 de septiembre de 2026 a través de Infonavit y medios especializados.
+> **Dato vigente:** Infonavit tiene un modelo de 100 puntos. Pueden precalificar con 100 puntos, en lugar de 1,080, quienes cumplen tres cosas. Ganan entre uno y dos salarios mínimos, cotizan seis meses seguidos o más y no tienen vivienda propia.
+>
+> La tasa es fija y va de 3.69% a 10.45% anual según el salario. Consultado el 29 de septiembre de 2026 a través de Infonavit y medios especializados.
 
 #### Un caso en un minuto
 

@@ -62,13 +62,13 @@ Lupita vio que su vecina sería empleada: trabajaría en su cocina, con su horar
 
 #### Si tienes empleados
 
-Necesitas un EIN, registrarte con la agencia de empleo de tu estado (en California, el EDD), retener y pagar impuestos de nómina, tener compensación al trabajador y verificar la elegibilidad de empleo de cada persona con el Formulario I-9. Un servicio de nómina o un contador puede hacerlo por ti.
+Necesitas un EIN y registrarte con la agencia de empleo de tu estado (en California, el EDD). Debes retener y pagar impuestos de nómina y tener compensación al trabajador. También debes verificar la elegibilidad de empleo de cada persona con el Formulario I-9. Un servicio de nómina o un contador puede hacerlo por ti.
 
 
 
 #### Contratistas de verdad
 
-Si contratas a otro negocio para un trabajo puntual (un diseño, una reparación), pide su W-9 y, si le pagas $2,000 o más en el año, envíale un 1099-NEC.
+Si contratas a otro negocio para un trabajo puntual (un diseño, una reparación), pide su W-9. Si le pagas $2,000 o más en el año, envíale un 1099-NEC.
 
 
 
@@ -76,7 +76,7 @@ Si contratas a otro negocio para un trabajo puntual (un diseño, una reparación
 
 Hay reglas especiales para hijos menores de un dueño único y para cónyuges. Si tu familia ayuda de forma regular, revisa las reglas con un preparador de impuestos.
 
-> **Antes de actuar, verifica:** la clasificación y tus obligaciones como empleador con el EDD, el DIR y el IRS; las reglas cambian por estado y ciudad.
+> **Antes de actuar, verifica:** la clasificación y tus obligaciones como empleador con el EDD, el DIR y el IRS. Las reglas cambian por estado y ciudad.
 
 
 
@@ -518,7 +518,7 @@ Lupita puso horario de pedidos de 8 a 18 horas y una respuesta automática. Los 
 
 #### Si el estrés no baja
 
-Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, llama o escribe al 988: la Línea de Crisis y Suicidio atiende sin costo las 24 horas, también en español.
+Si llevas semanas sin dormir, sientes que no hay salida o piensas en hacerte daño, llama o escribe al 988. La Línea de Crisis y Suicidio atiende sin costo las 24 horas, también en español.
 
 
 
@@ -636,7 +636,7 @@ Publica tu horario de pedidos y elige tu día de descanso.
 
 #### Apoyo sin costo
 
-La SBA tiene centros de desarrollo de pequeños negocios (SBDC), centros de negocios para mujeres y el programa SCORE de mentores voluntarios, con asesoría sin costo y muchas veces en español. Te ayudan a armar tu plan y a buscar financiamiento, incluidos microcréditos de organizaciones comunitarias (CDFI).
+La SBA tiene centros de desarrollo de pequeños negocios (SBDC) y centros de negocios para mujeres. También el programa SCORE de mentores voluntarios. Dan asesoría sin costo y muchas veces en español. Te ayudan a armar tu plan y a buscar financiamiento, incluidos microcréditos de organizaciones comunitarias (CDFI).
 
 
 
@@ -644,7 +644,7 @@ La SBA tiene centros de desarrollo de pequeños negocios (SBDC), centros de nego
 
 Daniela pidió una cita sin costo con un SBDC. Con su asesora llenó su hoja con los números de sus registros y ensayó su presentación. Consiguió un microcrédito con una CDFI y un calendario de pagos que cabía en su flujo.
 
-> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros y asesoría sin costo, pide financiamiento en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y asesoría sin costo, y pide financiamiento en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 
 
 
@@ -918,7 +918,7 @@ IRS · BLS · Reserva Federal · SBA, consultados el 30 de septiembre de 2026.
 
 #### Las reglas de los descuentos
 
-En EE. UU., un descuento del pago no debe dejar a la persona por debajo del salario mínimo, y muchos estados, como California, piden **autorización por escrito** del empleado para cada descuento. Antes de adelantar, pregunta en la oficina de trabajo de tu estado qué exige.
+En EE. UU., un descuento del pago no debe dejar a la persona por debajo del salario mínimo. Muchos estados, como California, piden **autorización por escrito** del empleado para cada descuento. Antes de adelantar, pregunta en la oficina de trabajo de tu estado qué exige.
 
 > **Antes de actuar, verifica:** las reglas de descuentos del pago en el departamento de trabajo de tu estado; cambian de un estado a otro. Consultado el 30 de septiembre de 2026 a través del Departamento de Trabajo de EE. UU.
 
@@ -934,7 +934,7 @@ Decide cuánto puedes adelantar al mes sin afectar tus compras y tus pagos, por 
 
 Don Ramón hizo un acuerdo por escrito para cada adelanto, con el descuento fijo por cheque y la firma de su ayudante. Ahora nadie recibe un cheque en ceros y él sabe cuánto le deben.
 
-> **Idea clave:** un adelanto a tu equipo sale de tu flujo; ponlo por escrito, con autorización firmada, sin dejar el pago por debajo del mínimo y con un fondo al mes.
+> **Idea clave:** un adelanto a tu equipo sale de tu flujo. Ponlo por escrito, con autorización firmada, sin dejar el pago por debajo del mínimo y con un fondo al mes.
 
 
 

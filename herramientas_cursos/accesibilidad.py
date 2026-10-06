@@ -10,7 +10,7 @@ FRASE_LARGA, PARRAFO_LARGO = 25, 60
 VOC = "aeiouáéíóúüy"
 
 # Siglas que se dan por conocidas en México y EE. UU., o que son nombres propios de instituciones que se presentan en la lección
-SIGLAS_COMUNES = {"III", "XVI", "XVIII", "XXIX", "XXII", "XXIII", "START", "GAMBLER", "IMSS", "ISSSTE", "INE", "CURP", "RFC", "SAT", "NIP", "PIN", "CLABE", "SPEI", "CAT", "IVA", "ISR", "UMA", "EE", "UU", "USA",
+SIGLAS_COMUNES = {"III", "BANCO", "XVI", "XVIII", "XXIX", "XXII", "XXIII", "START", "GAMBLER", "IMSS", "ISSSTE", "INE", "CURP", "RFC", "SAT", "NIP", "PIN", "CLABE", "SPEI", "CAT", "IVA", "ISR", "UMA", "EE", "UU", "USA",
                   "OK", "PDF", "SMS", "APP", "ID", "IRS", "SSN", "ITIN", "TV", "DIF", "INAPAM", "CDMX", "CONDUSEF", "PROFECO", "SIPRES",
                   "CONSAR", "AFORE", "INFONAVIT", "FONACOT", "MX", "US", "U", "S", "M", "W", "DC", "QR", "IA", "AI", "LLC", "FDIC", "NCUA",
                   "CFPB", "FTC", "ATM", "ACH", "EIN", "CPA", "HUD", "PTAT", "SIN", "CPP", "EI", "H", "A", "K", "CRA", "RAN", "SNE", "STPS",
@@ -41,10 +41,13 @@ def prosa(sec):
     pars, cur = [], []
     for ln in sec.splitlines():
         s = ln.strip()
-        if not s or re.match(r"^(---|\||\* fa-|\?|=|[-+×÷] ?\d|###|[0-9]+\.\s.*\|\||\* [^|]+\|.*\|)", s):
+        if not s or s == ">" or re.match(r"^(---|\||\* fa-|\?|=|[-+×÷] ?\d|###|[0-9]+\.\s.*\|\||\* [^|]+\|.*\|)", s):
             if cur: pars.append(" ".join(cur)); cur = []
             continue
-        if s.startswith("- "): s = s[2:]
+        if re.match(r"^(- |\d+\. )", s):
+            # cada elemento de lista se lee aparte: es su propio párrafo
+            if cur: pars.append(" ".join(cur)); cur = []
+            s = re.sub(r"^(- |\d+\. )", "", s)
         if s.startswith("> "): s = s[2:]
         cur.append(s)
     if cur: pars.append(" ".join(cur))

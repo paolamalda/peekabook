@@ -10,7 +10,7 @@
 
 #### The repatriation record
 
-If you were sent back from the United States, the National Migration Institute (INM) gave you a **Record of Reception of Repatriated Mexicans** (Constancia de Recepción de Mexicanos Repatriados). It works as a temporary ID for your first steps. Use it for your CURP, birth certificate, health services, jobs and support from México te Abraza.
+If you were sent back from the United States, the National Migration Institute (INM) gave you a paper. It's the **Record of Reception of Repatriated Mexicans** (Constancia de Recepción de Mexicanos Repatriados). It works as a temporary ID for your first steps. Use it for your CURP, birth certificate, health services, jobs and support from México te Abraza.
 
 
 

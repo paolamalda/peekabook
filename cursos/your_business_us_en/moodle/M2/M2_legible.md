@@ -165,7 +165,7 @@ SBA, accessed September 29, 2026.
 
 #### Three ways to look at your price
 
-Check your price from three sides: **your cost** (the floor, never charge less), **the competition** (what others charge for something similar) and **the value to your customer** (speed, quality, guarantee, insurance).
+Check your price from three sides. **Your cost**: the floor, never charge less. **The competition**: what others charge for something similar. **The value to your customer**: speed, quality, guarantee and insurance.
 
 
 

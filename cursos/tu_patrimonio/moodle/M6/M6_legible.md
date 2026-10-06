@@ -188,7 +188,7 @@ Diversificar es no poner todo en una sola cosa. Un fondo de inversión diversifi
 
 #### Un caso en un minuto
 
-Carmen preguntó a su casa de bolsa: el «PRLV» era un pagaré, el «fondo de deuda» invertía en bonos y el «SIC» eran acciones de empresas extranjeras. Ahora sabe qué partes pueden bajar.
+Carmen preguntó a su casa de bolsa. El «PRLV» era un pagaré. El «fondo de deuda» invertía en bonos. El «SIC» eran acciones de empresas extranjeras. Ahora sabe qué partes pueden bajar.
 
 > **Idea clave:** saber en qué grupo está cada inversión te dice cuánto riesgo tiene y si la protege el IPAB.
 
@@ -635,7 +635,7 @@ CNBV, consultado el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Reconocer pirámides, rendimientos garantizados, criptomonedas «seguras» y a conocidos o familiares que ofrecen manejar tu dinero sin autorización.
 
-**Para empezar:** En el grupo de amigas del club, una conocida cuenta que invirtió en «un negocio de divisas» que paga 5% mensual y que ya recuperó lo invertido. Carmen tiene ahorros quietos y le da pena preguntar si es seguro. En esta lección verás las señales.
+**Para empezar:** En el grupo de amigas del club, una conocida cuenta que invirtió en «un negocio de divisas» que paga 5% mensual. Dice que ya recuperó lo invertido. Carmen tiene ahorros quietos y le da pena preguntar si es seguro. En esta lección verás las señales.
 
 ### Lo esencial (5 minutos)
 
@@ -815,7 +815,7 @@ Hay cambios reales que te afectan: suben los precios, cambian las tasas, se refo
 
 Lucía buscó el aviso en el sitio del IMSS y de la CONDUSEF: no había ningún cambio en su pensión de viudez. Dejó sus Cetes, que eran para una meta de dos años. Cuando subieron los precios del gas, ajustó su presupuesto del mes.
 
-> **Idea clave:** confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
+> **Idea clave:** confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia tu meta, tu plazo o una regla que te aplica.
 
 
 
@@ -846,7 +846,7 @@ Todas las personas tenemos atajos mentales: sentimos más una pérdida que una g
 
 #### Quién influye en la economía
 
-El Banco de México fija la tasa de interés de referencia para cuidar la inflación; la Secretaría de Hacienda y el Congreso deciden impuestos y apoyos; el IMSS y el ISSSTE aplican las leyes de pensiones. Sus sitios publican los cambios oficiales.
+Cada institución tiene su papel. El Banco de México fija la tasa de interés de referencia para cuidar la inflación. La Secretaría de Hacienda y el Congreso deciden impuestos y apoyos. El IMSS y el ISSSTE aplican las leyes de pensiones. Sus sitios publican los cambios oficiales.
 
 
 
@@ -854,7 +854,7 @@ El Banco de México fija la tasa de interés de referencia para cuidar la inflac
 
 Revisa una vez al año lo que aprendiste en este curso y comparte con tus hijos y nietos lo que ya sabes. Una conversación en familia también cuida el bienestar financiero de todos.
 
-> **Antes de actuar, verifica:** cualquier cambio en tu pensión, tus impuestos o tus apoyos en el sitio oficial del IMSS, el ISSSTE, el SAT o la Secretaría de Bienestar.
+> **Antes de actuar, verifica:** cualquier cambio en tu pensión, tus impuestos o tus apoyos. Hazlo en el sitio oficial del IMSS, el ISSSTE, el SAT o la Secretaría de Bienestar.
 
 
 

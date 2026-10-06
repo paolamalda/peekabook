@@ -898,7 +898,9 @@ CONSAR · CONDUSEF · Secretaría de Gobernación · Ley Federal del Trabajo (ar
 
 #### Impuestos y deudas al heredar
 
-Recibir una herencia **no paga ISR** en México. Si pasa de 500,000 pesos y presentas declaración anual, hay que informarla. Lo que sí cuesta es pasar la casa a tu nombre: impuesto estatal por adquirir el inmueble, notario y registro. Las deudas de quien fallece se pagan con lo que deja. La familia no las paga con su dinero, salvo quien firmó como aval u obligado solidario.
+Recibir una herencia **no paga ISR** en México. Si pasa de 500,000 pesos y presentas declaración anual, hay que informarla. Lo que sí cuesta es pasar la casa a tu nombre: impuesto estatal por adquirir el inmueble, notario y registro.
+
+Las deudas de quien fallece se pagan con lo que deja. La familia no las paga con su dinero, salvo quien firmó como aval u obligado solidario.
 
 > **Dato vigente:** los ingresos por herencia están exentos de ISR (Ley del ISR, artículo 93, fracción XXII). Quien presenta declaración anual debe informarlos si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
 
@@ -1047,7 +1049,7 @@ Ley del ISR (artículo 93) · SAT · Registro Agrario Nacional · INSUS · CONDU
 
 La ley la llama **violencia económica** (controlar o limitar tu dinero) y **violencia patrimonial** (dañar, quitar o esconder tus bienes o documentos). Le puede pasar a mujeres y a hombres. No es «ser ordenado con el dinero»: una pareja que se organiza decide junta y los dos saben cuánto entra y cuánto sale.
 
-> **Dato vigente:** la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia define la violencia patrimonial y la económica (artículo 6, fracciones III y IV). La Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
+> **Dato vigente:** la ley reconoce la violencia patrimonial y la económica. Lo dice la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (artículo 6, fracciones III y IV). La Línea de las Mujeres 079, opción 1, da orientación jurídica y psicológica las 24 horas. Consultado el 30 de septiembre de 2026 a través de la Secretaría de las Mujeres.
 
 
 

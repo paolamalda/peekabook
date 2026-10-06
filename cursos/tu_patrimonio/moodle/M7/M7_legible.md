@@ -25,7 +25,7 @@ Tu retiro puede venir de varias fuentes: una pensión por tu propio trabajo, una
 
 #### Ley 73 y Ley 97
 
-Si empezaste a cotizar en el IMSS **antes del 1 de julio de 1997**, tu pensión puede calcularse con la Ley 73, que suele depender de tus semanas y tu salario de los últimos años. Si empezaste después, aplica la Ley 97, y tu pensión depende de lo ahorrado en tu AFORE.
+Si empezaste a cotizar en el IMSS **antes del 1 de julio de 1997**, tu pensión puede calcularse con la Ley 73. Con esa ley, la pensión suele depender de tus semanas y de tu salario de los últimos años. Si empezaste después, aplica la Ley 97: tu pensión depende de lo ahorrado en tu AFORE.
 
 
 
@@ -78,7 +78,7 @@ Puedes consultar tus semanas en el sitio del IMSS con tu CURP y NSS. Si trabajas
 
 Conoce qué pensión tiene o tendrá tu pareja y si tú apareces como beneficiaria. Eso define tu posible pensión de viudez (M7 U04).
 
-> **Antes de actuar, verifica:** las reglas de pensión son técnicas; antes de tomar una decisión grande, confirma tu caso en el IMSS, el ISSSTE o con un asesor en pensiones que no te cobre por adelantado.
+> **Antes de actuar, verifica:** las reglas de pensión son técnicas. Antes de tomar una decisión grande, confirma tu caso en el IMSS o el ISSSTE. Si buscas un asesor en pensiones, que no te cobre por adelantado.
 
 
 
@@ -327,7 +327,7 @@ CONSAR · IMSS, consultados el 29 de septiembre de 2026.
 
 #### Qué es
 
-La Modalidad 40 es la continuación voluntaria en el régimen del IMSS: pagas tú las cuotas para sumar semanas y mejorar el salario con el que se calcula tu pensión. Sirve sobre todo a quienes cotizaron **antes de julio de 1997** (Ley 73).
+La Modalidad 40 es la continuación voluntaria en el régimen del IMSS. Pagas tú las cuotas para sumar semanas y mejorar el salario con el que se calcula tu pensión. Sirve sobre todo a quienes cotizaron **antes de julio de 1997** (Ley 73).
 
 
 
@@ -340,7 +340,7 @@ La Modalidad 40 es la continuación voluntaria en el régimen del IMSS: pagas t�
 | Tus plazos | Conservación de derechos. | Si pasó mucho tiempo, puede que no. |
 | El costo | 14.438% del salario que registres en 2026. | Sube cada año. |
 
-> **Dato vigente:** la Modalidad 40 requiere al menos 52 semanas cotizadas en los últimos cinco años al darse de baja, dentro de los plazos de conservación de derechos; la cuota es de 14.438% del salario registrado en 2026 y sube hasta 18.8% en 2030. Consultado el 29 de septiembre de 2026 a través del IMSS (LSS art. 218) y medios especializados.
+> **Dato vigente:** la Modalidad 40 pide al menos 52 semanas cotizadas en los últimos cinco años antes de la baja, dentro de los plazos para conservar derechos. En 2026 la cuota es de 14.438% del salario registrado y sube hasta 18.8% en 2030. Consultado el 29 de septiembre de 2026 a través del IMSS (LSS art. 218) y medios especializados.
 
 #### Con números
 
@@ -499,11 +499,11 @@ Si tu pareja tenía pensión del IMSS o cumplía requisitos, puedes tener derech
 | Pago | En la Tarjeta del Bienestar. | Cada dos meses. |
 | Sin costo | Nadie cobra por registrarte. | Solo módulos oficiales. |
 
-> **Dato vigente:** en 2026, la Pensión Mujeres Bienestar entrega 3,100 pesos bimestrales a mujeres de 60 a 64 años y la Pensión para Adultos Mayores, 6,400 pesos bimestrales a personas de 65 o más. Consultado el 29 de septiembre de 2026 a través de Programas para el Bienestar.
+> **Dato vigente:** en 2026, la Pensión Mujeres Bienestar entrega 3,100 pesos cada dos meses a mujeres de 60 a 64 años. La Pensión para Adultos Mayores entrega 6,400 pesos cada dos meses a personas de 65 años o más. Consultado el 29 de septiembre de 2026 a través de Programas para el Bienestar.
 
 #### Los documentos
 
-Para la viudez suelen pedir actas de matrimonio (o prueba de concubinato), de defunción y de nacimiento, identificación, CURP y los datos del IMSS de tu pareja. Tenerlos en tu carpeta acelera el trámite.
+Para la viudez suelen pedir actas de matrimonio (o prueba de concubinato), de defunción y de nacimiento. También identificación, CURP y los datos del IMSS de tu pareja. Tenerlos en tu carpeta acelera el trámite.
 
 
 
@@ -548,7 +548,7 @@ Lucía reunió sus documentos en su carpeta. Al cumplir 65, se registró en el m
 
 #### ¿Se pueden juntar?
 
-Las pensiones del Bienestar son programas sociales y, por regla general, puedes recibirlas además de otras pensiones. La compatibilidad entre dos pensiones del IMSS (por ejemplo, una propia y una de viudez) depende de las reglas de cada una; confírmala en el IMSS.
+Las pensiones del Bienestar son programas sociales y, por regla general, puedes recibirlas además de otras pensiones. Recibir dos pensiones del IMSS (por ejemplo, una propia y una de viudez) depende de las reglas de cada una. Confírmalo en el IMSS.
 
 
 
@@ -646,7 +646,9 @@ IMSS · Programas para el Bienestar, consultados el 29 de septiembre de 2026.
 
 #### Dos regímenes
 
-Quien trabajaba para el gobierno cuando cambió la ley del ISSSTE en 2007 eligió entre dos caminos. El régimen del décimo transitorio (el Instituto paga la pensión según años de servicio y sueldo) o las cuentas individuales (la pensión sale del ahorro en una AFORE, con un bono de pensión por los años anteriores). Quien entró a trabajar después de 2007 está en cuentas individuales.
+Quien trabajaba para el gobierno cuando cambió la ley del ISSSTE en 2007 eligió entre dos caminos. Uno es el régimen del décimo transitorio: el Instituto paga la pensión según años de servicio y sueldo.
+
+El otro son las cuentas individuales: la pensión sale del ahorro en una AFORE, con un bono por los años anteriores. Quien entró a trabajar después de 2007 está en cuentas individuales.
 
 
 
@@ -659,13 +661,15 @@ Quien trabajaba para el gobierno cuando cambió la ley del ISSSTE en 2007 eligi�
 | Hoja única de servicios | Documento que resume sus años y sueldos. | Se pide en su dependencia. |
 | Gestor que «acelera» | Los trámites del ISSSTE no tienen costo. | No pagues por adelantado. |
 
-> **Dato vigente:** en el régimen del décimo transitorio, en 2026 y 2027 las mujeres pueden jubilarse a los 56 años con 28 años de servicio y los hombres a los 58 con 30 años; la edad baja de forma gradual hasta 53 y 55 años en 2034. Consultado el 29 de septiembre de 2026 a través del decreto publicado en el DOF el 24 de junio de 2025 y medios especializados.
+> **Dato vigente:** en el régimen del décimo transitorio, en 2026 y 2027 las mujeres pueden jubilarse a los 56 años con 28 años de servicio. Los hombres, a los 58 con 30 años. La edad baja poco a poco hasta 53 y 55 años en 2034. Consultado el 29 de septiembre de 2026 a través del decreto publicado en el DOF el 24 de junio de 2025 y medios especializados.
 
 #### Pensión de viudez del ISSSTE
 
-Si tu pareja era pensionada del ISSSTE o trabajaba y cumplía los requisitos, puedes tener derecho a pensión de viudez. En el régimen anterior equivale al 100% de la pensión que recibía o que le habría correspondido; si hay hijos con derecho, el monto se reparte entre la familia. En cuentas individuales se paga con su ahorro y un seguro de sobrevivencia.
+Si tu pareja era pensionada del ISSSTE, o trabajaba y cumplía los requisitos, puedes tener derecho a pensión de viudez. En el régimen anterior equivale al 100% de la pensión que recibía o que le habría correspondido.
 
-> **Dato vigente:** la pensión por viudez del ISSSTE equivale al 100% de la pensión que recibía la persona pensionada o que le habría correspondido; si la persona trabajadora falleció por causas ajenas al trabajo, necesitaba al menos 3 años de cotización. Consultado el 29 de septiembre de 2026 a través del ISSSTE (gob.mx/issste) y medios especializados.
+Si hay hijos con derecho, el monto se reparte entre la familia. En cuentas individuales se paga con su ahorro y un seguro de sobrevivencia.
+
+> **Dato vigente:** la pensión por viudez del ISSSTE equivale al 100% de la pensión que recibía la persona pensionada o que le habría correspondido. Si la persona trabajadora murió por causas ajenas al trabajo, necesitaba al menos 3 años de cotización. Consultado el 29 de septiembre de 2026 a través del ISSSTE (gob.mx/issste) y medios especializados.
 
 
 
@@ -673,7 +677,7 @@ Si tu pareja era pensionada del ISSSTE o trabajaba y cumplía los requisitos, pu
 
 Maru le pidió a Raúl revisar juntos su hoja única de servicios. Raúl está en el décimo transitorio, tiene 31 años de servicio y 59 de edad: ya cumple los requisitos de 2026. También confirmaron que Maru aparece como su esposa en el registro del ISSSTE.
 
-> **Idea clave:** averigua el régimen, los años de servicio y quién aparece como beneficiaria; con eso sabes qué pensión esperar y qué te tocaría a ti.
+> **Idea clave:** averigua el régimen, los años de servicio y quién aparece como beneficiaria. Con eso sabes qué pensión esperar y qué te tocaría a ti.
 
 
 
@@ -722,7 +726,7 @@ Si tú también tienes pensión (del IMSS o del ISSSTE), pregunta en el ISSSTE s
 
 #### Cuando llegue el momento
 
-Para el trámite de viudez suelen pedirse: acta de defunción, acta de matrimonio (o prueba de concubinato), identificación, CURP, comprobante de domicilio y documentos de la pensión o del empleo de tu pareja. Tenerlos en tu carpeta (M1 U04) te ahorra meses.
+Para el trámite de viudez suelen pedirse: acta de defunción, acta de matrimonio (o prueba de concubinato), identificación, CURP y comprobante de domicilio. También documentos de la pensión o del empleo de tu pareja. Tenerlos en tu carpeta (M1 U04) te ahorra meses.
 
 > **Antes de actuar, verifica:** tu régimen, tus requisitos y tus montos directamente en el ISSSTE; las reglas cambian con decretos y dependen de cada caso.
 
@@ -882,7 +886,7 @@ Una forma sencilla: multiplica la diferencia anual por los años que quieres cub
 
 #### Otros recursos
 
-Rentas de un inmueble, la venta de una casa grande para vivir en una más pequeña o un trabajo de medio tiempo pueden cubrir parte de la diferencia. Evalúalos con calma y con tu familia.
+Hay otras formas de cubrir parte de la diferencia. Por ejemplo, rentar un inmueble, cambiarte a una casa más pequeña o trabajar medio tiempo. Evalúalas con calma y con tu familia.
 
 > **Antes de actuar, verifica:** tus montos de pensión en tus resoluciones o estimaciones oficiales, no en cálculos de terceros.
 

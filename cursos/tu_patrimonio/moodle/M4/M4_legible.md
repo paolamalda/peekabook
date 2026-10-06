@@ -78,7 +78,7 @@ Muchos fraudes piden que no le cuentes a nadie. Es para que nadie te diga «eso 
 
 Los fraudes funcionan con personas preparadas porque juegan con emociones, no con conocimientos. Reconocer el truco no depende de saber de finanzas, sino de parar y verificar.
 
-> **Dato vigente:** durante 2025, la CONDUSEF registró 72,873 asuntos relacionados con un posible fraude; en enero a marzo de 2026, el 37.4% de las reclamaciones que recibió se relacionaron con un posible fraude. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** durante 2025, la CONDUSEF registró 72,873 asuntos relacionados con un posible fraude. De enero a marzo de 2026, el 37.4% de las reclamaciones que recibió se relacionaron con un posible fraude. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -390,7 +390,7 @@ En WhatsApp también llegan mensajes falsos, incluso desde cuentas con la foto d
 
 Borra el mensaje sin contestar. Puedes reportarlo a tu banco y bloquear el número. Si abriste el enlace y escribiste datos, sigue tu plan de respuesta (M4 U08).
 
-> **Antes de actuar, verifica:** el SAT no te pide datos bancarios por mensaje ni te manda enlaces para devoluciones; todo se consulta en su sitio oficial.
+> **Antes de actuar, verifica:** el SAT no te pide datos bancarios por mensaje ni te manda enlaces para devoluciones. Todo se consulta en su sitio oficial.
 
 
 
@@ -810,7 +810,7 @@ El robo de identidad ocurre cuando alguien usa tus datos para pedir créditos, a
 
 #### Protecciones
 
-Pide tu reporte de crédito sin costo una vez al año, consulta las líneas de celular registradas con tu CURP y, si te preocupa, activa el bloqueo de tu historial en Buró de Crédito para que nadie pueda consultarlo sin ti.
+Pide tu reporte de crédito sin costo una vez al año. Consulta las líneas de celular registradas con tu CURP. Si te preocupa, activa el bloqueo de tu historial en Buró de Crédito para que nadie pueda consultarlo sin ti.
 
 
 
@@ -857,7 +857,7 @@ Carmen pidió su reporte sin costo y encontró la tarjeta que no tramitó. Recla
 
 En 2026 cada línea de celular se vincula con la CURP de su titular. Puedes consultar en cada compañía qué líneas están a tu nombre y pedir que desvinculen las que no son tuyas. Es sin costo.
 
-> **Dato vigente:** registro obligatorio de líneas móviles con CURP en 2026, con plazo final el 31 de diciembre de 2026; la consulta y la desvinculación no tienen costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** en 2026 es obligatorio registrar las líneas móviles con la CURP, con plazo final el 31 de diciembre de 2026. La consulta y la desvinculación no tienen costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 
 
@@ -865,7 +865,7 @@ En 2026 cada línea de celular se vincula con la CURP de su titular. Puedes cons
 
 Rompe antes de tirar estados de cuenta, cartas del banco y copias de identificaciones. No compartas fotos de tu INE ni de tus tarjetas por mensaje.
 
-> **Antes de actuar, verifica:** el reporte sin costo solo se pide en los sitios oficiales de Buró de Crédito y Círculo de Crédito, nunca con gestores.
+> **Antes de actuar, verifica:** el reporte sin costo solo se pide en los sitios oficiales de Buró de Crédito y Círculo de Crédito. Nunca con gestores.
 
 
 

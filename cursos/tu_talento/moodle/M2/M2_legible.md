@@ -40,7 +40,7 @@ Elegirlo bien depende de cuánto ganas, cuánto gastas para trabajar y cómo te 
 
 #### Asimilados y RESICO no siempre se pueden combinar
 
-Si cobras honorarios como asimilado a salarios porque así lo pediste por escrito, o porque le trabajas principalmente a un solo cliente, la ley te excluye de RESICO.
+La ley te excluye de RESICO si cobras honorarios como asimilado a salarios. Pasa si así lo pediste por escrito o si le trabajas principalmente a un solo cliente.
 
 Esta combinación es común en el medio. Llévala a tu contador antes de tu siguiente contrato.
 
@@ -219,7 +219,7 @@ De esos 58,000, 8,000 son del SAT.
 
 #### Lo que puedes restar: el IVA acreditable
 
-El IVA que tú pagas en gastos de tu trabajo, con factura a tu nombre y pagados con transferencia o tarjeta, puede restarse del IVA que cobraste. Se llama **IVA acreditable**.
+El IVA que pagas en gastos de tu trabajo puede restarse del IVA que cobraste. Para eso, la factura debe estar a tu nombre y el pago debe ser con transferencia o tarjeta. Se llama **IVA acreditable**.
 
 Si compraste un micrófono de 11,600 (con 1,600 de IVA), podrías entregar 8,000 − 1,600 = 6,400. Tu contador confirma qué gastos califican.
 
@@ -441,7 +441,7 @@ Desde entonces, pide factura en el momento y paga con tarjeta de débito.
 
 #### Equipo que se deduce en varios años
 
-Una laptop, un instrumento caro o una cámara no se deducen de golpe: se deducen poco a poco, según un porcentaje anual que marca la ley. Tu contador lo calcula.
+Una laptop, un instrumento caro o una cámara no se deducen de golpe. Se deducen poco a poco, según un porcentaje anual que marca la ley. Tu contador lo calcula.
 
 Guarda la factura mientras uses el equipo y al menos cinco años después.
 
@@ -637,7 +637,7 @@ Respóndela a tiempo. Si la ignoras, puede convertirse en un requerimiento forma
 
 #### PRODECON: tu defensoría sin costo
 
-La **PRODECON** te orienta sin costo, te ayuda a entender lo que te pide el SAT y puede presentar quejas si crees que el SAT te trata de forma incorrecta.
+La **PRODECON** te orienta sin costo y te ayuda a entender lo que te pide el SAT. También puede presentar quejas si crees que el SAT te trata de forma incorrecta.
 
 > **Dato vigente:** servicios sin costo de asesoría y quejas de PRODECON. Consultado el 29 de septiembre de 2026 a través de su sitio oficial.
 
@@ -740,7 +740,7 @@ SAT, buzón tributario y CFDI 4.0 · PRODECON, consultados el 29 de septiembre d
 
 #### Deducciones personales: gastos de tu vida que te regresan dinero
 
-Además de los gastos de trabajo, la ley permite restar algunos gastos personales en tu **declaración anual**: los médicos, los hospitalarios, las primas de seguros de gastos médicos, los intereses reales de tu crédito hipotecario, tus aportaciones a un plan de retiro y algunas colegiaturas.
+Además de los gastos de trabajo, la ley permite restar algunos gastos personales en tu **declaración anual**. Por ejemplo: médicos y hospitales, primas de seguros de gastos médicos e intereses reales de tu crédito hipotecario. También tus aportaciones a un plan de retiro y algunas colegiaturas.
 
 
 
@@ -807,9 +807,9 @@ Le salió saldo a favor y pidió la devolución. Llegó a su cuenta en unas sema
 
 El total de deducciones personales no puede pasar de la cantidad menor entre 5 UMA anuales y 15% de tus ingresos del año. Con la UMA de 2026 (117.31 pesos diarios; 42,794.64 al año), 5 UMA anuales son 213,973.20 pesos.
 
-No cuentan dentro de ese tope: los donativos, las colegiaturas, los gastos médicos por incapacidad o discapacidad de 50% o más, y las aportaciones voluntarias al retiro y PPR, que tienen su propio límite (M11 U04).
+Algunas deducciones no cuentan dentro de ese tope: los donativos, las colegiaturas y los gastos médicos por incapacidad o discapacidad de 50% o más. Las aportaciones voluntarias al retiro y el PPR tienen su propio límite (M11 U04).
 
-> **Dato vigente:** tope global de deducciones personales del artículo 151 de la LISR y UMA 2026 publicada por el INEGI en el DOF el 9 de enero de 2026 (vigente del 1 de febrero de 2026 al 31 de enero de 2027). Consultado el 29 de septiembre de 2026 a través del SAT, el INEGI y el DOF. Los topes cambian cada año con la UMA.
+> **Dato vigente:** tope global de deducciones personales del artículo 151 de la LISR. UMA 2026 publicada por el INEGI en el DOF el 9 de enero de 2026, vigente del 1 de febrero de 2026 al 31 de enero de 2027. Consultado el 29 de septiembre de 2026 a través del SAT, el INEGI y el DOF. Los topes cambian cada año con la UMA.
 
 
 
@@ -823,9 +823,9 @@ Verifica que la CLABE sea correcta: si no coincide con tu RFC, la devolución se
 
 #### ¿Tengo que presentar anual?
 
-Depende de tus ingresos y régimen. Por ejemplo, quienes están en Actividad Empresarial la presentan cada abril. Quienes solo tienen sueldos con un patrón y no rebasan cierto monto a veces no tienen que presentarla, pero pueden hacerlo para pedir su saldo a favor.
+Depende de tus ingresos y régimen. Por ejemplo, quienes están en Actividad Empresarial la presentan cada abril. Quienes solo tienen sueldo con un patrón y no rebasan cierto monto a veces no tienen que presentarla. Aun así, pueden hacerlo para pedir su saldo a favor.
 
-En RESICO, la ley (artículo 113-G) la pide, pero la Resolución Miscelánea Fiscal (regla 3.13.7) libera de presentarla a quien estuvo en RESICO todo el año, presentó todos sus pagos mensuales, no rebasó 3.5 millones y no tuvo ingresos de otro tipo. Si faltó algún pago mensual o tuviste otros ingresos, la anual es obligatoria.
+En RESICO, la ley (artículo 113-G) pide la declaración anual. Pero la Resolución Miscelánea Fiscal (regla 3.13.7) libera de presentarla a quien cumple cuatro condiciones. Estuvo en RESICO todo el año, presentó todos sus pagos mensuales, no rebasó 3.5 millones y no tuvo ingresos de otro tipo. Si faltó algún pago mensual o tuviste otros ingresos, la anual es obligatoria.
 
 > **Dato vigente:** regla 3.13.7 de la Resolución Miscelánea Fiscal 2026 (DOF 28 de diciembre de 2025) y artículo 113-G de la LISR. Consultado el 29 de septiembre de 2026 a través del SAT. La RMF se publica cada año: revisa la del ejercicio que declaras.
 

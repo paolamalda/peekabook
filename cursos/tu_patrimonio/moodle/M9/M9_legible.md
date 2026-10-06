@@ -182,7 +182,7 @@ Una retención es un impuesto que tu banco, casa de bolsa o pagador descuenta y 
 | Constancia | Documento anual con lo retenido. | Guárdala. |
 | En tu declaración | Lo retenido se resta de tu impuesto. | Puede darte saldo a favor. |
 
-> **Dato vigente:** en 2026, la tasa de retención anual por intereses es de 0.90% sobre el capital (0.50% en 2025); las pensiones están exentas hasta 15 UMA, es decir, 53,493.30 pesos al mes. Consultado el 29 de septiembre de 2026 a través de la Ley de Ingresos de la Federación 2026, la LISR (art. 93-IV) y el INEGI (UMA 2026).
+> **Dato vigente:** en 2026, la tasa de retención anual por intereses es de 0.90% sobre el capital (0.50% en 2025). Las pensiones no pagan ISR hasta 15 UMA, es decir, 53,493.30 pesos al mes. Consultado el 29 de septiembre de 2026 a través de la Ley de Ingresos de la Federación 2026, la LISR (art. 93-IV) y el INEGI (UMA 2026).
 
 #### Un ejemplo
 

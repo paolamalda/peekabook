@@ -17,7 +17,7 @@
 | Terminal | Cobras con tarjeta. | Comisión por cobro. |
 | Link de pago | Cobras a distancia. | Comisión; revisa contracargos. |
 
-> **Dato vigente:** las terminales y los links de pago cobran comúnmente entre 2.0% y 3.6% más IVA por cada cobro con tarjeta, según el proveedor y el tipo de tarjeta; algunos cobran renta mensual o piden una venta mínima. Consultado el 29 de septiembre de 2026 a través de comparativos de mercado y CONDUSEF.
+> **Dato vigente:** las terminales y los links de pago cobran por lo común entre 2.0% y 3.6% más IVA por cada cobro con tarjeta. Depende del proveedor y del tipo de tarjeta. Algunos cobran renta mensual o piden una venta mínima. Consultado el 29 de septiembre de 2026 a través de comparativos de mercado y CONDUSEF.
 
 #### Lo que cuesta cobrar con tarjeta
 
@@ -173,7 +173,7 @@ CONDUSEF · Banco de México, consultados el 29 de septiembre de 2026.
 
 #### Cobrar por transferencia o QR
 
-Con una transferencia SPEI o un código QR (como CoDi o el de tu banco), el dinero llega a tu cuenta en segundos, casi siempre sin comisión. Pero **la captura del cliente no es prueba de pago**.
+Con una transferencia SPEI o un código QR (como CoDi o el de tu banco), el dinero llega a tu cuenta en segundos. Casi siempre es sin comisión. Pero **la captura del cliente no es prueba de pago**.
 
 
 
@@ -184,7 +184,7 @@ Con una transferencia SPEI o un código QR (como CoDi o el de tu banco), el dine
 3. Si tienes duda, consulta el CEP en el sitio de Banxico.
 4. Solo entonces entrega.
 
-> **Dato vigente:** el CEP se descarga en el sitio de Banco de México con fecha, clave de rastreo o referencia, banco emisor, banco receptor, cuenta y monto; confirma que la transferencia SPEI se liquidó. Consultado el 29 de septiembre de 2026 a través de Banco de México.
+> **Dato vigente:** el CEP se descarga en el sitio de Banco de México. Pide fecha, clave de rastreo o referencia, banco emisor, banco receptor, cuenta y monto. Confirma que la transferencia SPEI se liquidó. Consultado el 29 de septiembre de 2026 a través de Banco de México.
 
 
 
@@ -378,7 +378,7 @@ Si cobras con tarjeta y el titular desconoce la compra, su banco puede regresarl
 
 Guarda capturas, mensajes y números. Reporta a tu banco o proveedor de pagos, reclama por escrito y guarda el folio. Si hubo engaño, denuncia ante la fiscalía y al 088. Avisa a otros vendedores en la comunidad, sin datos personales.
 
-> **Antes de actuar, verifica:** cualquier cambio de datos de pago de un proveedor por un medio que tú elijas, y nunca con el número o enlace que venga en el mismo mensaje.
+> **Antes de actuar, verifica:** cualquier cambio de datos de pago de un proveedor, por un medio que tú elijas. Nunca uses el número o enlace que venga en el mismo mensaje.
 
 
 

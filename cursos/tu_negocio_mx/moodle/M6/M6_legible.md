@@ -178,7 +178,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 #### Un caso en un minuto
 
-Rosa buscó la «financiera» del mensaje en el SIPRES: no existía. Borró el mensaje. Luego preguntó en su banco por un crédito para negocio y comparó el costo con el de su proveedor de insumos, que le daba 15 días sin intereses.
+Rosa buscó la «financiera» del mensaje en el SIPRES: no existía. Borró el mensaje. Luego preguntó en su banco por un crédito para negocio. Comparó el costo con el de su proveedor de insumos, que le daba 15 días sin intereses.
 
 > **Idea clave:** verifica en CONDUSEF y la CNBV; quien te pide dinero por adelantado para darte un crédito es un fraude.
 
@@ -614,7 +614,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
 
-**Para empezar:** El sobrino de Don Pepe le insiste en que sea su aval, un proveedor le pide a Mariana un obligado solidario para darle crédito, y a Rosa la llamó un despacho por la deuda de una clienta. En esta lección verás qué implica cada papel.
+**Para empezar:** El sobrino de Don Pepe le insiste en que sea su aval. Un proveedor le pide a Mariana un obligado solidario para darle crédito. Y a Rosa la llamó un despacho por la deuda de una clienta. En esta lección verás qué implica cada papel.
 
 ### Lo esencial (5 minutos)
 
@@ -637,7 +637,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** las reglas de la CONDUSEF solo permiten a los despachos de cobranza cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 

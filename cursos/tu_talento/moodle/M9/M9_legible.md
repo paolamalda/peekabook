@@ -257,7 +257,7 @@ Nunca vayas sola o solo a un casting en un lugar desconocido. Avisa a alguien d�
 
 #### Si ya pagaste
 
-Guarda pruebas, pide a tu banco revisar el cargo si pagaste con tarjeta, denuncia ante la fiscalía o al 088 y avisa en tu comunidad sin exponer tus datos. Si diste tu INE, protege tu historial (M7 U08).
+Guarda pruebas. Si pagaste con tarjeta, pide a tu banco revisar el cargo. Denuncia ante la fiscalía o al 088 y avisa en tu comunidad sin exponer tus datos. Si diste tu INE, protege tu historial (M7 U08).
 
 > **Dato vigente:** el 088 recibe reportes de fraudes y delitos en línea las 24 horas. Consultado el 29 de septiembre de 2026 a través de la Guardia Nacional.
 
@@ -944,7 +944,7 @@ En la configuración de tu celular revisa qué apps tienen acceso a tus contacto
 
 #### Si de verdad necesitas dinero
 
-Antes de una app, revisa tu fondo de sequía, habla con tus acreedores, pide un adelanto por escrito a un cliente o compara créditos registrados (M5 U05 y M6 U06).
+Antes de una app, revisa otras opciones. Usa tu fondo de sequía, habla con tus acreedores o pide a un cliente un adelanto por escrito. También puedes comparar créditos registrados (M5 U05 y M6 U06).
 
 > **Dato vigente:** CONDUSEF y las autoridades recomiendan verificar en el SIPRES, no pagar extorsiones y reportar al 088; teléfono de CONDUSEF 55 5340 0999. Consultado el 29 de septiembre de 2026 a través de CONDUSEF, la Guardia Nacional y medios informativos.
 
@@ -1286,7 +1286,7 @@ Al mes recibía muchas menos llamadas. Una tienda siguió llamando, así que pre
 
 En 2026 cada celular se vincula con la CURP de su titular. Consulta en cada compañía qué líneas están a tu nombre; si una no es tuya, pide que la desvinculen.
 
-> **Dato vigente:** registro de líneas móviles con CURP desde el 9 de enero de 2026, escalonado por terminación, con plazo final el 31 de diciembre de 2026; sin registro, la línea se suspende salvo emergencias. Consulta y desvinculación sin costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** el registro de líneas móviles con CURP empezó el 9 de enero de 2026, por terminación del número, con plazo final el 31 de diciembre de 2026. Sin registro, la línea se suspende salvo para emergencias. La consulta y la desvinculación son sin costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 
 
@@ -1450,7 +1450,7 @@ El banco revisó y le devolvió los cargos.
 
 #### Avisa sin exponerte
 
-Si el fraude usó tu nombre o tus redes, avisa a tus contactos y a tu comunidad, pero sin publicar tus datos, números de cuenta ni capturas con información personal.
+Si el fraude usó tu nombre o tus redes, avisa a tus contactos y a tu comunidad. Hazlo sin publicar tus datos, números de cuenta ni capturas con información personal.
 
 
 
@@ -1553,7 +1553,7 @@ CONDUSEF · Guardia Nacional CERT-MX, consultados el 29 de septiembre de 2026.
 
 #### Qué pueden imitar
 
-Con unos segundos de audio o algunas fotos, la inteligencia artificial puede imitar la voz de un familiar o de tu mánager, crear videos falsos de artistas «recomendando» inversiones o productos, y escribir mensajes idénticos a los de una productora o tu banco.
+Con unos segundos de audio o algunas fotos, la inteligencia artificial puede imitar la voz de un familiar o de tu mánager. También puede crear videos falsos de artistas «recomendando» inversiones o productos. Y puede escribir mensajes idénticos a los de una productora o tu banco.
 
 
 
@@ -1570,7 +1570,7 @@ Con unos segundos de audio o algunas fotos, la inteligencia artificial puede imi
 
 Valeria guardó capturas y enlaces, reportó el video en la red social, publicó un aviso sin datos personales y denunció al 088. Ahora sus contratos dicen que no pueden crear su voz ni su imagen con IA sin su permiso por escrito y pago aparte.
 
-> **Idea clave:** una voz o una cara conocida ya no son prueba; confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
+> **Idea clave:** una voz o una cara conocida ya no son prueba. Confirma todo pedido de dinero por un canal que tú eliges y protege tu voz y tu imagen en tus contratos.
 
 
 
@@ -1603,7 +1603,7 @@ Antes de firmar doblaje, publicidad o locución, revisa si te piden ceder tu voz
 
 Guarda capturas, enlaces y fechas; reporta en la plataforma; publica tu único canal oficial; denuncia al 088 o a la policía cibernética de tu estado. Si alguien perdió dinero, oriéntalo a su banco y a CONDUSEF (M9 U09).
 
-> **Antes de actuar, verifica:** cualquier pedido de dinero, cambio de cuenta o inversión «recomendada» por un canal que tú eliges, y las cláusulas de voz e imagen antes de firmar.
+> **Antes de actuar, verifica:** cualquier pedido de dinero, cambio de cuenta o inversión «recomendada», por un canal que tú eliges. Antes de firmar, revisa las cláusulas de voz e imagen.
 
 
 

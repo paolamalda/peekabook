@@ -298,7 +298,7 @@ Las dos cuentas pueden estar en el mismo banco o en bancos distintos. Lo importa
 
 Si te pagan por nómina (asimilados), tienes derecho a elegir en qué banco recibirla con la portabilidad de nómina (M5 U02).
 
-> **Dato adicional:** la cuenta concentradora puede ser una cuenta de inversión a la vista que genere rendimiento, siempre que puedas sacar tu dinero el mismo día o al siguiente (M1 U04).
+> **Dato adicional:** la cuenta concentradora puede ser una cuenta de inversión a la vista que genere rendimiento. La condición es que puedas sacar tu dinero el mismo día o al siguiente (M1 U04).
 
 
 
@@ -597,7 +597,9 @@ Muchos bancos, incluidos bancos digitales, pagan rendimiento en cuentas a la vis
 
 Lo importante es que sea un **banco** autorizado por la CNBV. Tus depósitos en un banco los protege el **IPAB** hasta 400,000 UDIS por persona y por banco.
 
-> **Dato vigente:** al 29 de septiembre de 2026, Revolut y Nu México cuentan con autorización de la CNBV para operar como bancos (Nu inició operaciones como banco en julio de 2026), según la CNBV y los comunicados de cada institución. Antes de depositar, confírmalo en el padrón de la CNBV y en el sitio oficial de la institución, y revisa que tu contrato diga "Institución de Banca Múltiple".
+> **Dato vigente:** al 29 de septiembre de 2026, Revolut y Nu México tienen autorización de la CNBV para operar como bancos. Nu inició operaciones como banco en julio de 2026, según la CNBV y los comunicados de cada institución.
+>
+> Antes de depositar, confírmalo en el padrón de la CNBV y en el sitio oficial de la institución. Revisa también que tu contrato diga "Institución de Banca Múltiple".
 
 
 

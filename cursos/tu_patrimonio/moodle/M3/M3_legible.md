@@ -10,7 +10,7 @@
 
 #### Qué puedes hacer
 
-Con la app de tu banco puedes ver tu saldo y movimientos, pagar servicios, transferir, apagar tu tarjeta si la pierdes y recibir avisos de cada cargo. Verlo todo al momento te ayuda a detectar fraudes rápido.
+Con la app de tu banco puedes ver tu saldo y movimientos, pagar servicios y transferir. También puedes apagar tu tarjeta si la pierdes y recibir avisos de cada cargo. Verlo todo al momento te ayuda a detectar fraudes rápido.
 
 
 
@@ -332,7 +332,7 @@ Activa en tu app los avisos de cada cargo, retiro y transferencia. Si ves uno qu
 
 Desde enero de 2026, cada persona puede fijar el Monto Transaccional del Usuario (MTU). Si no lo fijas, el banco aplica uno de 1,500 UDIS, unos 12,800 pesos. Pon el que de verdad usas: si nunca transfieres más de 5,000, fija 5,000.
 
-> **Dato vigente:** el MTU es obligatorio desde el 1 de enero de 2026; si no lo configuras, el banco aplica un límite de 1,500 UDIS (unos 12,800 pesos) y puedes cambiarlo en cualquier momento. Consultado el 29 de septiembre de 2026 a través de la CNBV y medios nacionales.
+> **Dato vigente:** el MTU es obligatorio desde el 1 de enero de 2026. Si no lo configuras, el banco aplica un límite de 1,500 UDIS (unos 12,800 pesos). Puedes cambiarlo en cualquier momento. Consultado el 29 de septiembre de 2026 a través de la CNBV y medios nacionales.
 
 
 
@@ -393,7 +393,7 @@ Si un día necesitas transferir más de tu límite, lo subes tú desde la app, h
 
 Usa la tarjeta digital o una tarjeta con límite bajo. Compra solo en sitios que conoces, escribiendo tú la dirección, no desde enlaces de mensajes.
 
-> **Antes de actuar, verifica:** los nombres de las opciones cambian en cada app; si no las encuentras, pide ayuda en la sucursal o en el número oficial.
+> **Antes de actuar, verifica:** los nombres de las opciones cambian en cada app. Si no las encuentras, pide ayuda en la sucursal o en el número oficial.
 
 
 
@@ -538,7 +538,7 @@ Llama de inmediato al número oficial de tu banco y presenta una reclamación. E
 
 #### Cambios de cuenta por mensaje
 
-Si una persona o empresa te avisa por mensaje o correo que «cambió su cuenta», confirma por teléfono, con un número que ya tenías, antes de pagar. Es un fraude común.
+¿Una persona o empresa te avisa por mensaje o correo que «cambió su cuenta»? Antes de pagar, confirma por teléfono, con un número que ya tenías. Es un fraude común.
 
 
 

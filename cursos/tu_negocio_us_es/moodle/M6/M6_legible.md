@@ -167,7 +167,9 @@ SBA, consultado el 29 de septiembre de 2026.
 | Micropréstamos de la SBA | A través de intermediarios; todos los dueños deben ser ciudadanos. | Hasta $50,000. |
 | Adelantos de efectivo sobre ventas (MCA) | Cobran diario; muy caros. | Evítalos. |
 
-> **Dato vigente:** el programa de micropréstamos de la SBA ofrece préstamos de hasta $50,000 a través de organizaciones intermediarias sin fines de lucro, que suelen dar también asesoría. Desde el 1 de abril de 2026, todos los dueños del negocio deben ser ciudadanos o nacionales de EE. UU.; quien tiene ITIN, green card o visa puede buscar CDFI que prestan con sus propios fondos. Consultado el 30 de septiembre de 2026 a través de la SBA (aviso de política 5000-877232).
+> **Dato vigente:** el programa de micropréstamos de la SBA ofrece préstamos de hasta $50,000. Los da a través de organizaciones sin fines de lucro, que suelen dar también asesoría.
+>
+> Desde el 1 de abril de 2026, todos los dueños del negocio deben ser ciudadanos o nacionales de EE. UU. Quien tiene ITIN, green card o visa puede buscar CDFI que prestan con sus propios fondos. Consultado el 30 de septiembre de 2026 a través de la SBA (aviso de política 5000-877232).
 
 #### Verifica antes de pedir
 
@@ -619,7 +621,7 @@ FTC · CFPB, consultados el 29 de septiembre de 2026.
 
 **Lo que lograrás:** Distinguir cofirmante, garante, usuario autorizado y referencia, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona o por tu negocio.
 
-**Para empezar:** El hijo de Don Ramón le pide que sea cofirmante de un auto, el banco le pide a Daniela una garantía personal para el préstamo de su LLC y a Javier lo llamó un cobrador por la deuda de un compañero. En esta lección verás qué implica cada papel.
+**Para empezar:** El hijo de Don Ramón le pide que sea cofirmante de un auto. El banco le pide a Daniela una garantía personal para el préstamo de su LLC. Y a Javier lo llamó un cobrador por la deuda de un compañero. En esta lección verás qué implica cada papel.
 
 ### Lo esencial (5 minutos)
 
@@ -642,7 +644,7 @@ Aunque tengas una LLC, muchos prestamistas piden una garantía personal. Si la f
 
 Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias. Ser referencia no te obliga a pagar nada. Si no firmaste el préstamo, esa deuda no es tuya.
 
-> **Dato vigente:** la ley federal de cobranza (FDCPA) solo permite que un cobrador contacte a otras personas para averiguar dónde localizarte, y le prohíbe decirles que tienes una deuda. Un cofirmante sí puede tener que pagar el total, más cargos por atraso o de cobranza. Consultado el 30 de septiembre de 2026 a través de la CFPB y la FTC.
+> **Dato vigente:** la ley federal de cobranza (FDCPA) solo permite que un cobrador contacte a otras personas para averiguar dónde localizarte. Le prohíbe decirles que tienes una deuda. Un cofirmante sí puede tener que pagar el total, más cargos por atraso o de cobranza. Consultado el 30 de septiembre de 2026 a través de la CFPB y la FTC.
 
 
 

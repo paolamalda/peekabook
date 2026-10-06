@@ -164,7 +164,7 @@ CONDUSEF, consultado el 29 de septiembre de 2026.
 
 #### Tres miradas para tu precio
 
-Tu precio se revisa desde tres lados: **tu costo** (el piso, nunca cobres menos), **la competencia** (qué cobran otros por algo parecido) y **el valor para tu cliente** (qué problema le resuelves, rapidez, calidad, garantía).
+Tu precio se revisa desde tres lados. **Tu costo**: es el piso, nunca cobres menos. **La competencia**: qué cobran otros por algo parecido. **El valor para tu cliente**: qué problema le resuelves, rapidez, calidad y garantía.
 
 
 

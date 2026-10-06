@@ -210,7 +210,7 @@ Pide que se prohíba, o que cualquier uso con inteligencia artificial requiera t
 
 #### Un caso en un minuto
 
-En su siguiente contrato de doblaje, Gael agregó una cláusula: "No se podrá usar la voz del artista para crear contenido con inteligencia artificial sin su autorización por escrito y un pago adicional".
+En su siguiente contrato de doblaje, Gael agregó una cláusula. Dice: "No se podrá usar la voz del artista para crear contenido con inteligencia artificial sin su autorización por escrito y un pago adicional".
 
 La empresa aceptó. Gael guardó el contrato firmado en su carpeta.
 
@@ -384,7 +384,7 @@ Si la comisión se calcula sobre 46,400 (con IVA), pagarías 9,280: 1,280 de má
 
 #### Un caso en un minuto
 
-Valeria habló con su mánager y firmaron un contrato nuevo: comisión de 20% sobre el honorario sin IVA, gastos solo con autorización y factura, y pagos directos a Valeria. El mánager le factura su comisión.
+Valeria habló con su mánager y firmaron un contrato nuevo. Acordaron una comisión de 20% sobre el honorario sin IVA, gastos solo con autorización y factura, y pagos directos a Valeria. El mánager le factura su comisión.
 
 Ahora sabe exactamente cuánto cobra por cada campaña.
 
@@ -604,9 +604,9 @@ Sigue en la ANDA para sus condiciones de trabajo.
 
 #### Servicios para agremiados de la ANDA
 
-La ANDA tiene clínicas con consulta de medicina general para sus agremiados, con una cuota de recuperación, y el servicio médico completo aplica a miembros activos al corriente en sus cuotas y a miembros honorarios. En años recientes suspendió servicios a beneficiarios por problemas económicos.
+La ANDA tiene clínicas con consulta de medicina general para sus agremiados, con una cuota de recuperación. El servicio médico completo aplica a miembros activos al corriente en sus cuotas y a miembros honorarios. En años recientes suspendió servicios a beneficiarios por problemas económicos.
 
-En septiembre de 2026, el IMSS y la ANDA firmaron un convenio para que trabajadores independientes de actuación, doblaje, canto, danza, música, conducción y modelaje se incorporen voluntariamente al Seguro Social, con sus beneficiarios (M10 U02).
+En septiembre de 2026, el IMSS y la ANDA firmaron un convenio. Permite que trabajadores independientes de actuación, doblaje, canto, danza, música, conducción y modelaje se incorporen voluntariamente al Seguro Social, con sus beneficiarios (M10 U02).
 
 > **Dato vigente:** servicios médicos de la ANDA (cuota de consulta de 250 pesos para agremiados, según medios) y convenio IMSS-ANDA publicado el 20 de septiembre de 2026. Consultado el 29 de septiembre de 2026 a través de la ANDA, el IMSS y medios informativos. Confirma requisitos y costos directamente con la ANDA.
 
@@ -707,7 +707,7 @@ INDAUTOR, sociedades de gestión colectiva · ANDA, "Regalías y su relación co
 
 **Lo que lograrás:** Afiliarte a la sociedad que te corresponde, registrar tus obras o interpretaciones, revisar tus liquidaciones y declarar esos ingresos.
 
-**Para empezar:** A Renata le escribe un "gestor" que promete recuperar regalías atrasadas de un video musical en el que bailó, a cambio de 30% y copia de su INE. Ella no sabe si le toca algo ni cómo se cobra. En esta lección aprenderás el camino oficial.
+**Para empezar:** A Renata le escribe un "gestor" que promete recuperar regalías atrasadas de un video musical en el que bailó. A cambio pide 30% y copia de su INE. Ella no sabe si le toca algo ni cómo se cobra. En esta lección aprenderás el camino oficial.
 
 ### Lo esencial (5 minutos)
 
@@ -736,7 +736,7 @@ Las sociedades de gestión colectiva son la vía oficial. Si alguien te pide din
 
 #### Un caso en un minuto
 
-Renata no le mandó su INE al gestor. Llamó a la ANDI, le explicaron que como bailarina en un video su caso dependía de su participación y de su contrato, y le dijeron qué documentos necesitaba para revisarlo.
+Renata no le mandó su INE al gestor. Llamó a la ANDI y le explicaron que, como bailarina en un video, su caso dependía de su participación y de su contrato. Le dijeron qué documentos necesitaba para revisarlo.
 
 No pagó nada a nadie.
 
@@ -765,7 +765,7 @@ No pagó nada a nadie.
 
 #### Tu liquidación
 
-Una liquidación de regalías debe decir qué obra o producción generó el pago, qué uso se hizo, de qué periodo es y cuánto se descontó por administración.
+Una liquidación de regalías debe decir qué obra o producción generó el pago y qué uso se hizo. También de qué periodo es y cuánto se descontó por administración.
 
 Guarda todas. Te sirven para tus impuestos y para detectar errores.
 
@@ -781,8 +781,8 @@ Si tu trabajo se transmite en otros países, las sociedades mexicanas suelen ten
 
 Las regalías son ingresos y se declaran. Para **autores** (por ejemplo, compositores) hay dos beneficios con reglas:
 
-- **ISR:** exención de hasta 20 UMA anuales por ciertos ingresos, como la reproducción en serie de grabaciones de sus obras musicales o la publicación de obras escritas, si se cumplen los requisitos (artículo 93, fracción XXIX, de la LISR).
-- **IVA:** exención cuando el autor transmite temporalmente sus derechos patrimoniales u otorga licencias sobre obras inscritas en el Registro Público del Derecho de Autor (artículo 15, fracción XVI, de la Ley del IVA).
+- **ISR:** exención de hasta 20 UMA anuales por ciertos ingresos, si se cumplen los requisitos. Por ejemplo, la reproducción en serie de grabaciones de sus obras musicales o la publicación de obras escritas (artículo 93, fracción XXIX, de la LISR).
+- **IVA:** exención cuando el autor transmite temporalmente sus derechos patrimoniales u otorga licencias. Aplica a obras inscritas en el Registro Público del Derecho de Autor (artículo 15, fracción XVI, de la Ley del IVA).
 
 Para **intérpretes** (actores, músicos ejecutantes), estos beneficios no aplican de la misma forma. Lleva tus liquidaciones a tu contador.
 
@@ -941,7 +941,7 @@ La productora le pagó la mitad y firmó un compromiso por el resto. Desde enton
 
 #### Un correo de reclamo
 
-Incluye: tu nombre, el proyecto, las fechas en que trabajaste, el monto, la fecha en que debían pagar, tu factura si la entregaste y un plazo para pagar (por ejemplo, 10 días hábiles).
+Incluye tu nombre, el proyecto, las fechas en que trabajaste y el monto. Agrega la fecha en que debían pagar, tu factura si la entregaste y un plazo para pagar (por ejemplo, 10 días hábiles).
 
 Escribe con respeto. Tu objetivo es cobrar, no pelear.
 

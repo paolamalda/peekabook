@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Figure out the real cost of hiring, tell the difference between an employee and an independent contractor, and know your basic obligations.
 
-**To start:** Lupita can't keep up with weekend orders anymore. She wants her neighbor to help and to pay her $15 an hour in cash "as a contractor." In this lesson you'll see why that can get her in trouble.
+**To start:** Lupita can't keep up with weekend orders anymore. She wants her neighbor to help, and to pay her $15 an hour in cash "as a contractor." In this lesson you'll see why that can get her in trouble.
 
 ### The essentials (5 minutes)
 
@@ -62,13 +62,13 @@ Lupita saw her neighbor would be an employee: working in her kitchen, on her sch
 
 #### If you have employees
 
-You need an EIN, to register with your state's employment agency (in California, the EDD), withhold and pay payroll taxes, carry workers' comp and verify each person's employment eligibility with Form I-9. A payroll service or accountant can do it for you.
+You need an EIN and to register with your state's employment agency (in California, the EDD). You must withhold and pay payroll taxes and carry workers' comp. You also verify each person's employment eligibility with Form I-9. A payroll service or accountant can do it for you.
 
 
 
 #### Real contractors
 
-If you hire another business for a one-time job (a design, a repair), ask for their W-9 and, if you pay them $2,000 or more in the year, send them a 1099-NEC.
+If you hire another business for a one-time job (a design, a repair), ask for their W-9. If you pay them $2,000 or more in the year, send them a 1099-NEC.
 
 
 
@@ -518,7 +518,7 @@ Lupita set order hours from 8 to 6 and an automatic reply. She takes Mondays off
 
 #### If the stress doesn't go down
 
-If you haven't slept for weeks, feel there's no way out or think about hurting yourself, call or text 988: the Suicide & Crisis Lifeline costs nothing, 24 hours a day, in English and Spanish.
+If you haven't slept for weeks, feel there's no way out or think about hurting yourself, call or text 988. The Suicide & Crisis Lifeline costs nothing and is open 24 hours a day, in English and Spanish.
 
 
 
@@ -644,7 +644,7 @@ The SBA has Small Business Development Centers (SBDCs), Women's Business Centers
 
 Daniela booked a no-cost appointment with an SBDC. With her advisor she filled in her page using her records and practiced her pitch. She got a microloan from a CDFI with a payment schedule that fit her cash flow.
 
-> **Key idea:** your plan fits on one page and your pitch in two minutes; with numbers from your records and no-cost advice, seek financing from verified sources, and if you hear no, ask what to improve.
+> **Key idea:** your plan fits on one page and your pitch in two minutes. Use numbers from your records and no-cost advice, and seek financing from verified sources. If you hear no, ask what to improve.
 
 
 
@@ -918,7 +918,7 @@ IRS · BLS · Federal Reserve · SBA, accessed September 30, 2026.
 
 #### Deduction rules
 
-In the U.S., a paycheck deduction must not leave the worker below minimum wage, and many states, like California, require the employee's **written authorization** for each deduction. Before advancing, ask your state's labor office what it requires.
+In the U.S., a paycheck deduction must not leave the worker below minimum wage. Many states, like California, require the employee's **written authorization** for each deduction. Before advancing, ask your state's labor office what it requires.
 
 > **Before you act, check:** paycheck deduction rules with your state's labor department; they vary by state. Accessed September 30, 2026 through the U.S. Department of Labor.
 
@@ -934,7 +934,7 @@ Decide how much you can advance each month without hurting your purchases and bi
 
 Don Ramón wrote an agreement for each advance, with a fixed deduction per check and his helper's signature. Now nobody gets a check at zero and he knows how much he's owed.
 
-> **Key idea:** an advance to your team comes out of your cash flow; put it in writing, get a signed authorization, don't let pay drop below minimum wage and keep a monthly fund.
+> **Key idea:** an advance to your team comes out of your cash flow. Put it in writing and get a signed authorization. Don't let pay drop below minimum wage, and keep a monthly fund.
 
 
 

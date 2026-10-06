@@ -84,7 +84,7 @@ La prima sube con la edad y con los padecimientos que ya tienes. Contratar joven
 
 #### Exclusiones frecuentes
 
-Padecimientos que ya tenías antes de contratar, ciertos deportes o actividades de riesgo, tratamientos estéticos y algunos padecimientos en su primer año o dos (periodos de espera).
+Lo que no suelen cubrir: padecimientos que ya tenías antes de contratar y ciertos deportes o actividades de riesgo. Tampoco tratamientos estéticos ni algunos padecimientos en su primer año o dos (periodos de espera).
 
 Para el medio artístico, revisa en especial lesiones en ensayos, funciones, acrobacias y giras.
 
@@ -258,11 +258,13 @@ Tus incapacidades y tu futura pensión se calculan con el ingreso registrado. Re
 
 #### Servicios de la ANDA para agremiados
 
-**Convenio IMSS-ANDA (septiembre de 2026):** trabajadores independientes de actuación, doblaje, canto, danza, música, conducción y modelaje pueden incorporarse voluntariamente al Seguro Social a través de la ANDA, con los cinco seguros del régimen obligatorio y cobertura para cónyuge o concubino e hijos menores de 16 años. Si eres agremiado, pregunta en la ANDA cómo inscribirte.
+**Convenio IMSS-ANDA (septiembre de 2026):** personas independientes de actuación, doblaje, canto, danza, música, conducción y modelaje pueden afiliarse al Seguro Social. Lo hacen de forma voluntaria a través de la ANDA.
+
+Tienen los cinco seguros del régimen obligatorio. La cobertura incluye a su cónyuge o concubino y a sus hijos menores de 16 años. Si eres agremiado, pregunta en la ANDA cómo inscribirte.
 
 **Cuánto cuesta la Modalidad 10 en 2026:** eliges el salario con que cotizas, entre un salario mínimo (9,582.47 pesos al mes) y 25 UMA (89,155.50 pesos al mes). Con el mínimo, la cuota ronda los 2,500 pesos al mes. Paga antes del día 20 para tener cobertura el mes siguiente. Si quieres aportar a Infonavit, se agrega 5% de tu salario registrado.
 
-> **Dato vigente:** convenio IMSS-ANDA publicado el 20 de septiembre de 2026; rangos de salario de la Modalidad 10 con UMA 2026 y salario mínimo 2026; cuotas estimadas por medios informativos. Consultado el 29 de septiembre de 2026 a través del IMSS y medios informativos. Calcula tu cuota exacta en la calculadora oficial del IMSS.
+> **Dato vigente:** convenio IMSS-ANDA publicado el 20 de septiembre de 2026. Rangos de salario de la Modalidad 10 con UMA y salario mínimo 2026; cuotas estimadas por medios informativos. Consultado el 29 de septiembre de 2026 a través del IMSS y medios informativos. Calcula tu cuota exacta en la calculadora oficial del IMSS.
 
 
 
@@ -421,7 +423,9 @@ Renata tenía Modalidad 10 y recibió incapacidad del IMSS. Con su fondo cubrió
 
 #### Seguros para voz, manos o cuerpo
 
-En otros países existen seguros de incapacidad para artistas con coberturas reforzadas de voz, oído, vista o manos. En México no encontramos un producto estándar de "seguro de voz" para personas: lo más común es combinar un **seguro de accidentes personales**, un **seguro de gastos médicos** y las **incapacidades del IMSS**. Las pólizas a la medida existen para producciones y giras, y se cotizan con aseguradoras o agentes autorizados.
+En otros países existen seguros de incapacidad para artistas, con coberturas reforzadas de voz, oído, vista o manos. En México no encontramos un producto estándar de "seguro de voz" para personas.
+
+Lo más común es combinar un **seguro de accidentes personales**, un **seguro de gastos médicos** y las **incapacidades del IMSS**. Hay pólizas a la medida para producciones y giras, que se cotizan con aseguradoras o agentes autorizados.
 
 > **Dato vigente:** búsqueda de productos de seguros para artistas en México y el extranjero. Consultado el 29 de septiembre de 2026 a través de CONDUSEF, la CNSF y aseguradoras. Si te ofrecen una póliza especial, verifica a la aseguradora en la CNSF y lee la definición de incapacidad.
 
@@ -435,7 +439,7 @@ Calentamiento, técnica vocal, descanso, revisiones médicas y equipo de protecc
 
 #### Invalidez
 
-Si una enfermedad o accidente te impide trabajar de forma permanente, el seguro de invalidez del IMSS (si cotizas) puede darte una pensión, según las semanas cotizadas y las reglas vigentes.
+Si una enfermedad o accidente te impide trabajar de forma permanente, el seguro de invalidez del IMSS puede darte una pensión si cotizas. Depende de tus semanas cotizadas y de las reglas vigentes.
 
 
 
@@ -938,13 +942,13 @@ Tus redes y tu correo tienen valor para tu familia y tu carrera. Revisa las opci
 
 Revisa tu testamento y tus beneficiarios cuando cambie tu vida: pareja, hijos, un bien importante, nuevos derechos.
 
-> **Dato vigente:** en el Mes del Testamento 2026 (su edición 24) las notarías participantes de las 32 entidades reducen hasta 50% sus honorarios; el precio promedio empieza alrededor de 2,750 pesos, contra 5,000 a 10,000 fuera de la campaña. Necesitas identificación oficial vigente. Consultado el 29 de septiembre de 2026 a través de la Secretaría de Gobernación y medios informativos. Revisa la tarifa de tu estado.
+> **Dato vigente:** en el Mes del Testamento 2026 (su edición 24), las notarías participantes de las 32 entidades reducen hasta 50% sus honorarios. El precio promedio empieza alrededor de 2,750 pesos, contra 5,000 a 10,000 fuera de la campaña. Necesitas identificación oficial vigente. Consultado el 29 de septiembre de 2026 a través de la Secretaría de Gobernación y medios informativos. Revisa la tarifa de tu estado.
 
 
 
 #### Dar en vida y seguir usándolo: el usufructo
 
-Si quieres pasar tu casa o tu estudio a tus hijos en vida pero seguir usándolo o rentándolo, existe la **donación con reserva de usufructo**: ellos quedan como dueños y tú conservas el uso hasta que fallezcas. Se hace ante notario, escriturar cuesta y ya no puedes vender sin su firma. Compáralo con el testamento, que puedes cambiar cuando quieras.
+¿Quieres pasar tu casa o tu estudio a tus hijos en vida, pero seguir usándolo o rentándolo? Existe la **donación con reserva de usufructo**: ellos quedan como dueños y tú conservas el uso hasta que fallezcas. Se hace ante notario y escriturar cuesta. Después ya no puedes vender sin su firma. Compáralo con el testamento, que puedes cambiar cuando quieras.
 
 
 
@@ -1051,7 +1055,7 @@ Secretaría de Gobernación, Mes del Testamento · CONDUSEF · Ley Federal del D
 4. Avisa a tus clientes y productoras con fechas realistas.
 5. Guarda notas de lo que gastes en lo urgente.
 
-> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió; si no te responde, puedes reclamar sin costo en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar. Cuentan desde que recibe todos los documentos e información que te pidió. Si no te responde, puedes reclamar sin costo en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -1059,7 +1063,7 @@ Secretaría de Gobernación, Mes del Testamento · CONDUSEF · Ley Federal del D
 
 Toño recuperó sus proyectos porque, después de otro susto, empezó a respaldar en la nube cada semana. Contrató un seguro de equipo, guardó facturas y fotos con números de serie y separó su fondo de sequía en una cuenta. Avisó a sus clientes y reprogramó entregas.
 
-> **Idea clave:** respaldo en la nube, fotos y facturas del equipo, seguro con el riesgo de tu zona y fondo en una cuenta; después del siniestro, reporta tú y no pagues por adelantado.
+> **Idea clave:** ten respaldo en la nube y fotos y facturas del equipo. Suma un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú y no pagues por adelantado.
 
 
 
@@ -1195,7 +1199,7 @@ Los derechos patrimoniales de autor sobre tus canciones, textos o coreografías 
 | Testamento | Menciona tus derechos y regalías. | Ante notario. |
 | Carpeta de contratos | Disqueras, plataformas, campañas. | Quién te paga y cómo. |
 
-> **Dato vigente:** en México, los derechos patrimoniales de autor duran la vida del autor y 100 años después de su muerte (Ley Federal del Derecho de Autor, artículo 29); recibir una herencia está exento de ISR (Ley del ISR, artículo 93, fracción XXII). Consultado el 30 de septiembre de 2026 a través de INDAUTOR y el SAT.
+> **Dato vigente:** en México, los derechos patrimoniales de autor duran toda la vida del autor y 100 años más (Ley Federal del Derecho de Autor, artículo 29). Recibir una herencia no paga ISR (Ley del ISR, artículo 93, fracción XXII). Consultado el 30 de septiembre de 2026 a través de INDAUTOR y el SAT.
 
 #### Impuestos: heredar contra cobrar
 
@@ -1207,7 +1211,7 @@ Heredar los derechos **no paga ISR**. Pero las regalías que tu familia cobre de
 
 Toño registró sus canciones en INDAUTOR, preguntó en su sociedad de gestión cómo designar beneficiarios y mencionó sus derechos en su testamento. Armó una carpeta con sus contratos y la lista de quién le paga. Valeria hizo lo mismo con sus contratos de campañas.
 
-> **Idea clave:** tus derechos y regalías se heredan; regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
+> **Idea clave:** tus derechos y regalías se heredan. Regístralos, nombra beneficiarios en tu sociedad de gestión, menciónalos en tu testamento y deja tus contratos en una carpeta. Heredar no paga ISR, pero las regalías que se cobren después sí.
 
 
 

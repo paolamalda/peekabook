@@ -170,7 +170,7 @@ CNBV · CONDUSEF · Banxico, consultados el 29 de septiembre de 2026.
 
 #### Cada institución hace algo distinto
 
-El nombre del lugar donde está tu dinero dice mucho de lo que puedes esperar: si está protegido, si puede subir o bajar y cuándo lo puedes sacar.
+El nombre del lugar donde está tu dinero dice mucho de lo que puedes esperar. Te dice si está protegido, si puede subir o bajar y cuándo lo puedes sacar.
 
 
 
@@ -329,7 +329,7 @@ CNBV · IPAB · CONSAR · CNSF, consultados el 29 de septiembre de 2026.
 
 #### Tres consultas sin costo
 
-Antes de confiar tu dinero, verifica tres cosas: que la institución **existe**, que está **autorizada** para lo que te ofrece y **cómo trata** a sus clientes.
+Antes de confiar tu dinero, verifica tres cosas. Que la institución **existe**. Que está **autorizada** para lo que te ofrece. Y **cómo trata** a sus clientes.
 
 
 
@@ -396,7 +396,7 @@ Los fraudes usan nombres casi iguales a los de instituciones reales, con una let
 
 Si te ofrece la inversión una persona, pregunta para qué institución trabaja y confirma con la institución, por su teléfono oficial, que esa persona existe. Los asesores en inversiones deben estar en el registro de la CNBV (módulo 6).
 
-> **Antes de actuar, verifica:** nunca deposites a la cuenta personal de un asesor o promotor; el dinero va a una cuenta a nombre de la institución.
+> **Antes de actuar, verifica:** nunca deposites a la cuenta personal de un asesor o promotor. El dinero va a una cuenta a nombre de la institución.
 
 
 

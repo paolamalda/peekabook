@@ -78,7 +78,7 @@ Pide depósito en trabajos grandes y por escrito. Si un cliente paga a 30 días,
 
 #### Crédito caro para tapar huecos
 
-Si el calendario muestra un hueco, no lo tapes con adelantos de efectivo de tu tarjeta, préstamos de día de pago (payday) o adelantos sobre ventas futuras (merchant cash advance): su costo se come tu ganancia (M6).
+Si el calendario muestra un hueco, no lo tapes con deudas caras. Por ejemplo, adelantos de efectivo de tu tarjeta, préstamos de día de pago (payday) o adelantos sobre ventas futuras (merchant cash advance). Su costo se come tu ganancia (M6).
 
 
 
@@ -227,7 +227,7 @@ Lupita ahora pide 50% de depósito en pedidos de fiesta y el resto al entregar. 
 
 #### Si no te pagan
 
-Primero recuerda por escrito. Después, una carta formal con fecha límite. Para montos pequeños, la corte de reclamos menores (small claims court) de tu condado es una opción sin abogado; en California el límite para personas es de $12,500 (revísalo en la corte). Si trabajas en construcción en California, investiga el «mechanics lien» con tiempo: tiene plazos estrictos.
+Primero recuerda por escrito. Después, manda una carta formal con fecha límite. Para montos pequeños, la corte de reclamos menores (small claims court) de tu condado es una opción sin abogado. En California el límite para personas es de $12,500 (revísalo en la corte). Si trabajas en construcción en California, investiga a tiempo el «mechanics lien»: tiene plazos estrictos.
 
 
 
@@ -480,7 +480,7 @@ FDIC · NCUA, consultados el 29 de septiembre de 2026.
 
 Con la inflación, tus insumos, la renta y el gas suben. Si tus precios se quedan igual, tu margen se achica aunque vendas lo mismo.
 
-> **Dato vigente:** la meta de inflación de la Reserva Federal es de 2% anual a largo plazo; la Oficina de Estadísticas Laborales (BLS) publica cada mes el índice de precios al consumidor (CPI). Consultado el 30 de septiembre de 2026 a través de la Reserva Federal y la BLS.
+> **Dato vigente:** la meta de inflación de la Reserva Federal es de 2% anual a largo plazo. La Oficina de Estadísticas Laborales (BLS) publica cada mes el índice de precios al consumidor (CPI). Consultado el 30 de septiembre de 2026 a través de la Reserva Federal y la BLS.
 
 
 

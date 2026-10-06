@@ -78,7 +78,7 @@ Pide anticipo en trabajos grandes (30% a 50% es común). Si un cliente paga a 30
 
 #### Crédito caro para tapar huecos
 
-Si el calendario muestra un hueco, no lo tapes con préstamos rápidos de apps o «gota a gota»: su costo se come tu ganancia y el cobro puede ser agresivo. Revisa primero anticipos, plazos y tu reserva (M3 U03).
+Si el calendario muestra un hueco, no lo tapes con préstamos rápidos de apps o «gota a gota». Su costo se come tu ganancia y el cobro puede ser agresivo. Revisa primero anticipos, plazos y tu reserva (M3 U03).
 
 
 
@@ -228,7 +228,7 @@ Rosa hizo una libreta de fiado con límite de 300 por persona y 2,000 en total. 
 
 #### Crédito a empresas
 
-Si vendes a empresas, como Toño, pon por escrito el plazo de pago (por ejemplo, 15 o 30 días), pide anticipo y entrega factura a tiempo: muchas empresas no pagan sin factura correcta. Si una empresa se atrasa, recuerda por escrito antes de seguir trabajando.
+Si vendes a empresas, como Toño, pon por escrito el plazo de pago (por ejemplo, 15 o 30 días). Pide anticipo y entrega factura a tiempo: muchas empresas no pagan sin factura correcta. Si una empresa se atrasa, recuérdale por escrito antes de seguir trabajando.
 
 
 
@@ -482,7 +482,7 @@ Cetesdirecto · IPAB, consultados el 29 de septiembre de 2026.
 
 Con la inflación, tus insumos, la renta y el gas suben. Si tus precios se quedan igual, tu margen se achica aunque vendas lo mismo.
 
-> **Dato vigente:** la meta de inflación del Banco de México es de 3% anual, con un margen de un punto hacia arriba o hacia abajo; la inflación de cada mes la publica el INEGI. Consultado el 30 de septiembre de 2026 a través del Banco de México y el INEGI.
+> **Dato vigente:** la meta de inflación del Banco de México es de 3% anual, con un margen de un punto hacia arriba o hacia abajo. La inflación de cada mes la publica el INEGI. Consultado el 30 de septiembre de 2026 a través del Banco de México y el INEGI.
 
 
 

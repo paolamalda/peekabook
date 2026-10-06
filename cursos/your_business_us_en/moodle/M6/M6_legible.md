@@ -167,7 +167,7 @@ SBA, accessed September 29, 2026.
 | SBA microloans | Through intermediaries; all owners must be citizens. | Up to $50,000. |
 | Merchant cash advances (MCA) | Daily payments; very expensive. | Avoid them. |
 
-> **Current fact:** the SBA microloan program offers loans of up to $50,000 through nonprofit intermediary organizations, which often also provide coaching. Since April 1, 2026, all business owners must be U.S. citizens or nationals; people with an ITIN, green card or visa can look for CDFIs that lend their own funds. Accessed September 30, 2026 through the SBA (policy notice 5000-877232).
+> **Current fact:** the SBA microloan program offers loans of up to $50,000 through nonprofit organizations, which often also provide coaching. Since April 1, 2026, all business owners must be U.S. citizens or nationals. People with an ITIN, green card or visa can look for CDFIs that lend their own funds. Accessed September 30, 2026 through the SBA (policy notice 5000-877232).
 
 #### Check before you apply
 
@@ -307,7 +307,7 @@ SBA · DFPI · CDFI Fund, accessed September 29, 2026.
 
 **What you will be able to do:** Compare credit by its total cost, understand APR and "factor rate," and review the guarantees.
 
-**To start:** Don Ramón is offered two options for $10,000: a 12-month credit union loan at 14% APR, and an advance with a "factor of 1.35." They sound similar, but they're not. In this lesson you'll see how to compare them.
+**To start:** Don Ramón is offered two options for $10,000. One is a 12-month credit union loan at 14% APR. The other is an advance with a "factor of 1.35." They sound similar, but they're not. In this lesson you'll see how to compare them.
 
 ### The essentials (5 minutes)
 
@@ -619,7 +619,7 @@ FTC · CFPB, accessed September 29, 2026.
 
 **What you will be able to do:** Tell apart cosigner, guarantor, authorized user and reference, know what you can be charged in each case and decide before signing for another person or for your business.
 
-**To start:** Don Ramón's son asks him to cosign a car loan, the bank asks Daniela for a personal guarantee on her LLC's loan, and a collector called Javier about a coworker's debt. In this lesson you'll see what each role means.
+**To start:** Don Ramón's son asks him to cosign a car loan. The bank asks Daniela for a personal guarantee on her LLC's loan. And a collector called Javier about a coworker's debt. In this lesson you'll see what each role means.
 
 ### The essentials (5 minutes)
 
@@ -642,13 +642,13 @@ Even with an LLC, many lenders ask for a personal guarantee. If you sign it, the
 
 When someone applies for a card, a loan or a rental, they're asked for references. Being a reference doesn't obligate you to pay anything. If you didn't sign the loan, the debt isn't yours.
 
-> **Current fact:** the federal Fair Debt Collection Practices Act (FDCPA) only lets a collector contact other people to find out how to locate you, and forbids telling them you owe a debt. A cosigner may have to pay the full amount, plus late fees or collection costs. Accessed September 30, 2026 through the CFPB and the FTC.
+> **Current fact:** the federal Fair Debt Collection Practices Act (FDCPA) only lets a collector contact other people to find out how to locate you. It forbids telling them you owe a debt. A cosigner may have to pay the full amount, plus late fees or collection costs. Accessed September 30, 2026 through the CFPB and the FTC.
 
 
 
 #### A case in one minute
 
-Don Ramón read that as a cosigner he'd owe the whole car if his son stopped paying, and that it would show on his report. He chose to help his son save a bigger down payment instead. Javier learned that, as a reference, he can't be charged anything.
+Don Ramón read that, as a cosigner, he'd owe the whole car if his son stopped paying. It would also show on his report. He chose to help his son save a bigger down payment instead. Javier learned that, as a reference, he can't be charged anything.
 
 > **Key idea:** cosigners and guarantors pay if the other person or the business doesn't; a reference only gives their details. Read what you're signing and sign only if you could pay that debt.
 

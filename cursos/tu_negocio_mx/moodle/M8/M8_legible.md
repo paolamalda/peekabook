@@ -10,9 +10,11 @@
 
 #### El sueldo no es todo
 
-Contratar a una persona cuesta más que su sueldo: hay prestaciones que marca la ley (aguinaldo, vacaciones y prima vacacional, días de descanso) y, si está registrada, cuotas del IMSS e impuestos sobre nómina de tu estado.
+Contratar a una persona cuesta más que su sueldo. Hay prestaciones que marca la ley: aguinaldo, vacaciones y prima vacacional, y días de descanso. Si está registrada, también hay cuotas del IMSS e impuesto sobre nómina de tu estado.
 
-> **Dato vigente:** el salario mínimo general en 2026 es de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 en la zona libre de la frontera norte. Nadie puede recibir menos por una jornada completa. Si pagas exactamente el mínimo, no retienes ISR (Ley del ISR, artículo 96) y tú pagas también la cuota del trabajador al IMSS (Ley del Seguro Social, artículo 36). Consultado el 29 de septiembre de 2026 a través de CONASAMI, la Ley del ISR y la Ley del Seguro Social.
+> **Dato vigente:** el salario mínimo general en 2026 es de 315.04 pesos diarios (9,582.47 al mes) y de 440.87 en la zona libre de la frontera norte. Nadie puede recibir menos por una jornada completa. Si pagas exactamente el mínimo, no retienes ISR (Ley del ISR, artículo 96).
+>
+> Además, tú pagas también la cuota del trabajador al IMSS (Ley del Seguro Social, artículo 36). Consultado el 29 de septiembre de 2026 a través de CONASAMI, la Ley del ISR y la Ley del Seguro Social.
 
 
 
@@ -76,7 +78,7 @@ Un contrato por escrito, el alta en el IMSS y los recibos de nómina te protegen
 
 Si solo necesitas ayuda puntual (un diseño, una reparación), puedes contratar un servicio por proyecto con factura. No confundas: si la persona trabaja para ti con horario y de forma subordinada, es una relación laboral.
 
-> **Antes de actuar, verifica:** tus obligaciones como patrón con el IMSS, el SAT y tu estado; las cuotas y el impuesto sobre nómina cambian cada año.
+> **Antes de actuar, verifica:** tus obligaciones como patrón con el IMSS, el SAT y tu estado. Las cuotas y el impuesto sobre nómina cambian cada año.
 
 
 
@@ -644,7 +646,7 @@ Hay programas de gobierno federal, estatal y municipal, incubadoras de universid
 
 Mariana llenó su hoja con los números de sus registros y practicó su presentación con su hermana. En el programa le dieron capacitación y asesoría. Aunque no le dieron dinero la primera vez, le dijeron qué mejorar para la siguiente convocatoria.
 
-> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos; con números de tus registros, pide apoyo en fuentes verificadas y, si te dicen que no, pregunta qué mejorar.
+> **Idea clave:** tu plan cabe en una hoja y tu presentación en dos minutos. Usa números de tus registros y pide apoyo en fuentes verificadas. Si te dicen que no, pregunta qué mejorar.
 
 
 
@@ -677,7 +679,7 @@ Las plataformas de fondeo colectivo (crowdfunding) reúnen dinero de muchas pers
 
 Nadie debe cobrarte por inscribirte a un programa de gobierno ni pedirte un depósito para «liberar» un crédito o un apoyo. Consulta las convocatorias en los sitios oficiales.
 
-> **Antes de actuar, verifica:** que el programa esté en un sitio oficial (gob.mx o del gobierno de tu estado) y que la plataforma de fondeo esté en el padrón de la CNBV.
+> **Antes de actuar, verifica:** que el programa esté en un sitio oficial (gob.mx o del gobierno de tu estado). Revisa también que la plataforma de fondeo esté en el padrón de la CNBV.
 
 
 
@@ -816,7 +818,7 @@ Tu negocio da empleo, compra a proveedores locales y comparte la calle con tus v
 
 #### Aprender sin parar
 
-Detecta qué te falta saber (impuestos, ventas en línea, costos) y busca capacitación sin costo o de bajo costo: programas de gobierno, universidades, cámaras y asociaciones. Si tienes personal, compárteles lo que aprendes.
+Detecta qué te falta saber: impuestos, ventas en línea, costos. Busca capacitación sin costo o de bajo costo en programas de gobierno, universidades, cámaras y asociaciones. Si tienes personal, compárteles lo que aprendes.
 
 > **Antes de actuar, verifica:** cualquier cambio de ley o de trámite en el sitio oficial y, si te afecta, pregúntale a tu contador.
 
@@ -903,7 +905,7 @@ SAT · INEGI · Banco de México · Nacional Financiera, consultados el 30 de se
 
 **Lo que lograrás:** Poner reglas claras para adelantar sueldo o prestar a quien trabaja contigo, respetar el tope de descuento de la ley y cuidar el flujo de tu negocio.
 
-**Para empezar:** En la fonda de Rosa, las dos ayudantes le piden adelantos casi cada semana. Rosa dice que sí a todo «porque son como de la familia», pero ya no sabe cuánto le debe cada una y un lunes no le alcanzó para surtir.
+**Para empezar:** En la fonda de Rosa, las dos ayudantes le piden adelantos casi cada semana. Rosa dice que sí a todo «porque son como de la familia». Pero ya no sabe cuánto le debe cada una, y un lunes no le alcanzó para surtir.
 
 ### Lo esencial (5 minutos)
 
@@ -918,9 +920,9 @@ SAT · INEGI · Banco de México · Nacional Financiera, consultados el 30 de se
 
 #### Lo que dice la ley
 
-Si descuentas un adelanto del sueldo, la Ley Federal del Trabajo pone límites: el descuento de cada pago **no puede pasar de 30% de lo que la persona gana arriba del salario mínimo**, el adelanto no puede ser mayor a un mes de sueldo y **no se cobran intereses**. El salario mínimo no se puede descontar.
+Si descuentas un adelanto del sueldo, la Ley Federal del Trabajo pone límites. El descuento de cada pago **no puede pasar de 30% de lo que la persona gana arriba del salario mínimo**. El adelanto no puede ser mayor a un mes de sueldo y **no se cobran intereses**. El salario mínimo no se puede descontar.
 
-> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo permite descontar anticipos de salario con un tope de 30% del excedente del salario mínimo, sin intereses; el salario mínimo general en 2026 es de 315.04 pesos diarios. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la CONASAMI.
+> **Dato vigente:** el artículo 110 de la Ley Federal del Trabajo permite descontar anticipos de salario sin intereses. El tope es 30% de lo que se gana arriba del salario mínimo. El salario mínimo general en 2026 es de 315.04 pesos diarios. Consultado el 30 de septiembre de 2026 a través de la Ley Federal del Trabajo y la CONASAMI.
 
 
 
@@ -934,7 +936,7 @@ Decide cuánto puedes adelantar al mes sin afectar tus compras y tus pagos, por 
 
 Rosa hizo una hoja por ayudante: cuánto les adelantó, cuánto descuenta por semana y cuánto falta. Puso un fondo de 1,500 al mes para adelantos y una regla: uno a la vez. Ya no le falta para surtir.
 
-> **Idea clave:** un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo; ponlo por escrito, con tope y con un fondo al mes.
+> **Idea clave:** un adelanto a tu equipo es un préstamo sin intereses que sale de tu flujo. Ponlo por escrito, con tope y con un fondo al mes.
 
 
 

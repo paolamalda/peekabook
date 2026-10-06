@@ -418,7 +418,7 @@ Algunos plazos no te dejan sacar el dinero antes, o te cobran por hacerlo. Si pu
 
 #### ¿Y la bolsa?
 
-Invertir en acciones o fondos puede tener sentido para metas de largo plazo, con dinero que no necesitarás pronto y a través de intermediarios autorizados por la CNBV (M11 U05). No es para tu fondo de sequía.
+Invertir en acciones o fondos puede tener sentido para metas de largo plazo. Usa dinero que no necesitarás pronto y hazlo con intermediarios autorizados por la CNBV (M11 U05). No es para tu fondo de sequía.
 
 
 
@@ -878,7 +878,7 @@ Banco de México, CAT · CONDUSEF, simuladores, consultados el 29 de septiembre 
 
 #### Cuándo no pedir crédito
 
-Si vas a pagar gastos del día a día (renta, comida, servicios) con crédito porque no te alcanza, el crédito no resuelve el problema: lo hace más grande.
+¿Vas a pagar gastos del día a día (renta, comida, servicios) con crédito porque no te alcanza? El crédito no resuelve el problema: lo hace más grande.
 
 En ese caso, usa tu fondo de sequía, recorta gastos o habla con tus acreedores (M8).
 
@@ -886,7 +886,7 @@ En ese caso, usa tu fondo de sequía, recorta gastos o habla con tus acreedores 
 
 #### Un caso en un minuto
 
-Renata dejó de usar la tarjeta para la renta. Pagó el celular a MSI que ya tenía y, para el curso, esperó a juntar la mitad y pidió un crédito simple pequeño con CAT más bajo que el de su tarjeta.
+Renata dejó de usar la tarjeta para la renta. Pagó el celular a MSI que ya tenía. Para el curso, esperó a juntar la mitad y pidió un crédito simple pequeño, con CAT más bajo que el de su tarjeta.
 
 > **Idea clave:** el tipo de crédito debe corresponder al uso y al tiempo en que lo pagarás.
 
@@ -913,7 +913,7 @@ Renata dejó de usar la tarjeta para la renta. Pagó el celular a MSI que ya ten
 
 #### Un crédito para pagar otro
 
-Pedir un préstamo para pagar tu tarjeta solo mueve la deuda. Solo tiene sentido si el nuevo crédito es mucho más barato, si cierras o dejas de usar la tarjeta y si el pago cabe en tu mes bajo (M8 U03).
+Pedir un préstamo para pagar tu tarjeta solo mueve la deuda. Tiene sentido solo con tres condiciones. Que el nuevo crédito sea mucho más barato. Que cierres o dejes de usar la tarjeta. Y que el pago quepa en tu mes bajo (M8 U03).
 
 
 
@@ -1101,9 +1101,9 @@ Firmar en pantalla vale igual que en papel. Pide que te envíen copia del contra
 
 #### Pagar antes
 
-Tienes derecho a hacer pagos anticipados, y la institución debe informarte si los aplica a reducir el plazo o el monto de los pagos; muchas veces puedes elegir.
+Tienes derecho a hacer pagos anticipados. La institución debe informarte si los aplica a reducir el plazo o el monto de los pagos; muchas veces puedes elegir.
 
-Una comisión por pago anticipado solo se puede cobrar si está pactada en tu contrato y registrada ante las autoridades. En créditos hipotecarios para vivienda está prohibida, salvo que al contratar te hayan dado a elegir entre un producto con esa comisión y otro sin ella.
+Una comisión por pago anticipado solo se puede cobrar si está pactada en tu contrato y registrada ante las autoridades. En créditos hipotecarios para vivienda está prohibida. La excepción es que, al contratar, te hayan dado a elegir entre un producto con esa comisión y otro sin ella.
 
 > **Dato vigente:** Ley para la Transparencia y Ordenamiento de los Servicios Financieros, Circular 22/2010 del Banco de México (modificada por la Circular 8/2016) y Registro de Comisiones de CONDUSEF. Consultado el 29 de septiembre de 2026 a través del Banco de México y CONDUSEF. Revisa en tu carátula si tu crédito tiene comisión por pago anticipado.
 
@@ -1190,7 +1190,7 @@ CONDUSEF · Ley para la Transparencia y Ordenamiento de los Servicios Financiero
 
 **Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
 
-**Para empezar:** Un compañero de la obra le pide a Gael que sea su aval para rentar un foro, y a Valeria la puso de referencia en su tarjeta una amiga del medio. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
+**Para empezar:** Un compañero de la obra le pide a Gael que sea su aval para rentar un foro. A Valeria, una amiga del medio la puso de referencia en su tarjeta. Ninguno sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
 
 ### Lo esencial (5 minutos)
 
@@ -1213,7 +1213,7 @@ CONDUSEF · Ley para la Transparencia y Ordenamiento de los Servicios Financiero
 
 Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** las reglas de la CONDUSEF solo permiten a los despachos de cobranza cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 

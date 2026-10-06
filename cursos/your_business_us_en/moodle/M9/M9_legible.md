@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Learn how to save for retirement when you're self-employed: Social Security, IRAs, SEP IRAs and Solo 401(k)s.
 
-**To start:** Don Ramón is 60. He thinks "the food truck is his retirement," but he doesn't know how much he'd get from Social Security or whether it's enough. In this lesson you'll see your options.
+**To start:** Don Ramón is 60. He thinks "the food truck is his retirement." But he doesn't know how much he'd get from Social Security or whether it's enough. In this lesson you'll see your options.
 
 ### The essentials (5 minutes)
 
@@ -31,7 +31,7 @@ The self-employment tax you pay (M5 U03) counts toward your Social Security. To 
 | Solo 401(k) | For owners with no employees. | $24,500 as the employee plus the business's contribution, maximum $72,000. |
 | Only the business | Depends on your health. | Risky. |
 
-> **Current fact:** for 2026, the IRA contribution limit is $7,500 ($8,600 at age 50 or older); a SEP IRA allows up to 25% of compensation and a maximum of $72,000; and a Solo 401(k) allows $24,500 as the employee and $72,000 in total, not counting age-based catch-up contributions. Accessed September 29, 2026 through the IRS.
+> **Current fact:** for 2026, the IRA contribution limit is $7,500 ($8,600 at age 50 or older). A SEP IRA allows up to 25% of compensation and a maximum of $72,000. A Solo 401(k) allows $24,500 as the employee and $72,000 in total, not counting age-based catch-up contributions. Accessed September 29, 2026 through the IRS.
 
 #### A case in one minute
 
@@ -62,7 +62,7 @@ Don Ramón checked his account at ssa.gov: he has 52 credits and an estimate of 
 
 #### Tax advantages
 
-Contributions to a traditional IRA, SEP or Solo 401(k) can lower your taxes today; with a Roth you pay taxes today and withdraw without taxes in retirement, if you follow the rules. Withdrawing before age 59½ usually carries a penalty. Ask your preparer which one fits you.
+Contributions to a traditional IRA, SEP or Solo 401(k) can lower your taxes today. With a Roth you pay taxes today and withdraw without taxes in retirement, if you follow the rules. Withdrawing before age 59½ usually carries a penalty. Ask your preparer which one fits you.
 
 
 
@@ -160,7 +160,7 @@ SSA · IRS · CalSavers, accessed September 29, 2026.
 
 **What you will be able to do:** Prepare to close, pause or hand over your business, and leave your information in order in case you're not there.
 
-**To start:** Lupita was sick for three weeks and her daughter didn't know which supplier to pay, where the accounts were or how to collect on orders. In this lesson you'll see how to prepare your business for changes.
+**To start:** Lupita was sick for three weeks. Her daughter didn't know which supplier to pay, where the accounts were or how to collect on orders. In this lesson you'll see how to prepare your business for changes.
 
 ### The essentials (5 minutes)
 
@@ -212,7 +212,7 @@ Lupita put together a folder with suppliers, accounts, payment dates and her pre
 
 #### Closing properly
 
-File your last return and mark it as final if it applies, cancel your seller's permit and licenses and, if you have an LLC, formally dissolve it: in California, if you don't, the $800 minimum tax keeps running every year.
+File your last return and mark it as final, if it applies. Cancel your seller's permit and licenses. If you have an LLC, formally dissolve it: in California, if you don't, the $800 minimum tax keeps running every year.
 
 
 
@@ -226,7 +226,7 @@ If a relative will continue the business, agree in writing on when, under what c
 
 The business's equipment, inventory and money are part of your estate. A will or living trust and up-to-date beneficiaries on accounts, IRAs and insurance spare your family long proceedings. There cost nothing or low-cost legal clinics.
 
-> **Before you act, check:** the steps to close with the IRS, your state and your city, and talk to an attorney about a will or transfer.
+> **Before you act, check:** the steps to close with the IRS, your state and your city. Talk to an attorney about a will or transfer.
 
 
 
@@ -354,7 +354,7 @@ Daniela filled in her page in one afternoon. Two things were missing: her retire
 
 Choose one goal for the quarter with a name ("two-month reserve for winter"), how much you'll set aside and how often. Tell someone you trust or your community group. Set up an automatic transfer on the day you get paid and a monthly reminder with your goal's name.
 
-> **Key idea:** your plan fits on one page; review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
+> **Key idea:** your plan fits on one page. Review it every three months, improve one thing at a time and keep your commitment with a name, a witness and a reminder.
 
 
 
@@ -498,15 +498,17 @@ Heirs **don't pay federal tax** for receiving an inheritance. The federal estate
 
 #### If you own something in Mexico
 
-Receiving an inheritance in Mexico pays no income tax (ISR), but putting land or a house in your name does cost money (state tax and notary). If your heirs live in the U.S. and receive a foreign inheritance of more than 100,000 dollars, they must report it to the IRS on Form 3520, even though they owe no tax; the penalty for not filing can reach 25% of the value. Mexican consulates offer notary services, including wills.
+Receiving an inheritance in Mexico pays no income tax (ISR). But putting land or a house in your name does cost money: state tax and notary. If your heirs live in the U.S. and receive a foreign inheritance of more than 100,000 dollars, they must report it to the IRS.
+
+They use Form 3520, even though they owe no tax. The penalty for not filing can reach 25% of the value. Mexican consulates offer notary services, including wills.
 
 
 
 #### A case in one minute
 
-Don Ramón named his daughter as POD beneficiary on his accounts, reviewed a transfer on death deed for his home with a lawyer, made a will at the consulate for the land in Michoacán and wrote down who can access the business accounts.
+Don Ramón named his daughter as POD beneficiary on his accounts. He reviewed a transfer on death deed for his home with a lawyer. He made a will at the consulate for the land in Michoacán. And he wrote down who can access the business accounts.
 
-> **Key idea:** with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court; inheriting pays no federal tax except for huge estates, but a large foreign inheritance is reported on Form 3520.
+> **Key idea:** with beneficiaries on your accounts, a transfer on death deed for your home and a will or living trust, your family avoids court. Inheriting pays no federal tax, except for huge estates. A large foreign inheritance is reported on Form 3520.
 
 
 
@@ -550,7 +552,7 @@ If what you leave is small, California has a small estate affidavit that avoids 
 
 #### Your home in Mexico: usufruct
 
-If you own a house or land in Mexico and want to pass it to your children while you're alive but keep using it, Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
+Maybe you own a house or land in Mexico and want to pass it to your children while you're alive, but keep using it. Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
 
 
 

@@ -19,13 +19,13 @@
 
 #### When to enroll
 
-The marketplace has an open enrollment period every year (in fall and winter). Outside that period, you can only enroll if you have a qualifying life event, such as losing other coverage or moving. In California, Covered California and Medi-Cal offer help in Spanish and English.
+Each year the marketplace opens for sign-up in fall and winter. At other times, you can only sign up after a big change, like losing other coverage or moving. In California, Covered California and Medi-Cal help you in Spanish and English.
 
 
 
 #### A case in one minute
 
-Javier checked Covered California with his estimated business income. He qualified for help with the premium and chose a plan with low-cost visits. He also keeps a small reserve for his deductible.
+Javier checked Covered California with what he thinks his business will earn. He got help with the monthly cost and chose a plan with cheap visits. He also keeps some money set aside for his deductible.
 
 > **Key idea:** if you work for yourself, check the marketplace, Medi-Cal and community clinics; an emergency without insurance can cost you your business.
 
@@ -52,19 +52,19 @@ Javier checked Covered California with his estimated business income. He qualifi
 
 #### Health insurance and your taxes
 
-If you're self-employed and pay for your own health insurance, in many cases you can deduct the premiums on your return. If you get help with the premium, it's adjusted at tax time based on your actual income: report changes on time.
+If you work for yourself and pay for your own health plan, you can often deduct what you pay on your tax return. If you get help with the monthly cost, it's checked at tax time against what you really earned. Report changes on time.
 
 
 
 #### If you can't work
 
-As an owner you don't get employer disability pay. Your reserve (M3 U03) and, if you can afford it, disability or accident insurance protect your income. In California, sole proprietors can voluntarily join state disability insurance (EDD Elective Coverage); check costs and requirements.
+As an owner, no employer pays you when you're sick or hurt. Your reserve (M3 U03) protects your income. If you can pay for it, so does insurance for illness or accidents. In California, sole proprietors can voluntarily join state disability insurance (EDD Elective Coverage); check costs and requirements.
 
 
 
 #### Information and immigration status
 
-Eligibility rules for health programs depend on your situation. Talk with a certified Covered California enroller or a community clinic; the information you give for health coverage has privacy protections.
+Who can get each health program depends on your case. Talk with a certified Covered California helper or a local clinic. What you tell them to get health coverage is kept private by law.
 
 > **Before you act, check:** eligibility and costs with Covered California (or your state's marketplace) and Medi-Cal; they change every year.
 
@@ -331,7 +331,7 @@ SBA · California Department of Insurance, accessed September 29, 2026.
 
 #### A case in one minute
 
-Daniela read the fine print: "This is not a government document." On the Secretary of State's site she saw that her Statement of Information costs $20 and she had already filed it. She threw the letter away and warned the community.
+Daniela read the fine print: "This is not a government document." On the Secretary of State's site she saw that her Statement of Information costs $20. She had already filed it. She threw the letter away and warned the community.
 
 > **Key idea:** no authority collects by phone or demands immediate payment with gift cards; check the official site before paying any letter.
 
@@ -364,13 +364,13 @@ Many scams start when someone gets into your email. Use different passwords, two
 
 #### Extortion
 
-If someone threatens you to collect "protection" or calls saying they have a relative, hang up, reach your relative another way and call 911 or local police. Don't share your hours or photos of your cash register on social media.
+If someone threatens you to collect "protection" or calls saying they have a relative, hang up. Reach your relative another way and call 911 or local police. Don't share your hours or photos of your cash register on social media.
 
 
 
 #### Business identity theft
 
-Check your record with the Secretary of State from time to time: if someone changes your LLC's details, they could get credit in your name. Report identity theft at IdentityTheft.gov.
+Check your record with the Secretary of State from time to time. If someone changes your LLC's details, they could get credit in your name. Report identity theft at IdentityTheft.gov.
 
 
 
@@ -472,7 +472,7 @@ Registering your trademark with the USPTO gives you nationwide rights for certai
 3. File the application online and pay the fee.
 4. Respond on time to USPTO requests.
 
-> **Current fact:** the USPTO base trademark application fee is $350 per class; extra charges may apply if the description isn't from the ID Manual or information is missing. Accessed September 29, 2026 through the USPTO (fees in effect since January 18, 2025).
+> **Current fact:** the USPTO base trademark application fee is $350 per class. Extra charges may apply if the description isn't from the ID Manual or information is missing. Accessed September 29, 2026 through the USPTO (fees in effect since January 18, 2025).
 
 
 
@@ -617,7 +617,7 @@ USPTO · California Secretary of State, accessed September 29, 2026.
 
 #### What identity theft is
 
-Identity theft happens when someone uses your SSN or ITIN, your name or your documents to open cards, take out loans or file a tax return in your name. As a business owner, your personal information is on many forms: protect it.
+Identity theft happens when someone uses your SSN or ITIN, your name or your documents. With them, they open cards, take out loans or file a tax return in your name. As a business owner, your personal information is on many forms: protect it.
 
 
 
@@ -630,13 +630,13 @@ Identity theft happens when someone uses your SSN or ITIN, your name or your doc
 | Your credit reports | At no cost every week at AnnualCreditReport.com. | Check what you don't recognize. |
 | IRS IP PIN | Nobody files with your number (M5 U04). | At no cost. |
 
-> **Current fact:** freezing and unfreezing your credit costs nothing at Equifax, Experian and TransUnion (you must ask all three); an initial fraud alert costs nothing, lasts one year and you only need to ask one bureau; and you can see your reports no-cost every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
+> **Current fact:** freezing and unfreezing your credit costs nothing at Equifax, Experian and TransUnion; you must ask all three. An initial fraud alert costs nothing, lasts one year and you only need to ask one bureau. You can see your reports at no cost every week at AnnualCreditReport.com. Accessed September 29, 2026 through the FTC.
 
 #### Stop the calls
 
 Register your number on the National Do Not Call Registry at donotcall.gov. It costs nothing and never expires. After you register, sales calls that keep coming are usually illegal or scams.
 
-> **Current fact:** the National Do Not Call Registry costs nothing, your number shows up the next day, companies have up to 31 days to stop calling and your registration never expires. Accessed September 29, 2026 through the FTC (donotcall.gov).
+> **Current fact:** the National Do Not Call Registry costs nothing and your registration never expires. Your number shows up the next day, and companies have up to 31 days to stop calling. Accessed September 29, 2026 through the FTC (donotcall.gov).
 
 
 
@@ -679,7 +679,7 @@ Don Ramón pulled his reports, found the fake card, reported it at IdentityTheft
 
 #### If you have an ITIN
 
-If you have a credit history under an ITIN, ask each bureau how to request a freeze or alert with your ITIN; some requests need extra documents. The IRS IP PIN is also available to people who file with an ITIN.
+If you have a credit history under an ITIN, ask each bureau how to request a freeze or alert with your ITIN. Some requests need extra documents. The IRS IP PIN is also available to people who file with an ITIN.
 
 
 
@@ -687,7 +687,7 @@ If you have a credit history under an ITIN, ask each bureau how to request a fre
 
 The Do Not Call Registry doesn't stop debt collection calls, surveys, charities, political calls or companies you already do business with. It doesn't stop scammers either. Your phone carrier offers no-cost tools to block suspicious calls; use them.
 
-> **Before you act, check:** that you're on donotcall.gov, AnnualCreditReport.com or IdentityTheft.gov; some sites imitate these names and charge for what's at no cost.
+> **Before you act, check:** that you're on donotcall.gov, AnnualCreditReport.com or IdentityTheft.gov. Some sites imitate these names and charge for what's at no cost.
 
 
 
@@ -775,13 +775,13 @@ FTC · IRS, accessed September 29, 2026.
 
 **What you will be able to do:** Recognize scams that use voices, videos or messages made with artificial intelligence against your business and family, and protect yourself with simple rules.
 
-**To start:** Don Ramón got a call from "his meat supplier," in the supplier's own voice, asking him to pay the invoice to a new account by Zelle. It was a cloned voice. In this lesson you'll see how to spot it.
+**To start:** Don Ramón got a call from "his meat supplier," in the supplier's own voice. He was asked to pay the invoice to a new account by Zelle. It was a cloned voice. In this lesson you'll see how to spot it.
 
 ### The essentials (5 minutes)
 
 #### What they can imitate
 
-With a few seconds of audio or some photos from your social media, artificial intelligence can imitate the voice of a relative, supplier or customer; create fake videos of celebrities "recommending" investments; or write emails identical to your bank's or the IRS's.
+With a few seconds of audio or some photos from your social media, artificial intelligence can imitate someone you know. It can sound like a relative, supplier or customer. It can also create fake videos of celebrities "recommending" investments. And it can write emails identical to your bank's or the IRS's.
 
 
 
@@ -932,7 +932,7 @@ FTC, accessed September 29, 2026.
 
 In declared disaster areas, FEMA offers assistance to individuals and the SBA offers low-interest loans to households and businesses. The IRS usually gives extra time to file and pay taxes.
 
-> **Current fact:** SBA disaster loans go up to $500,000 to repair a primary residence, $100,000 for personal property and $2 million for businesses (physical damage or working capital); the rate is no more than 4% if you can't get credit elsewhere. Accessed September 29, 2026 through the SBA.
+> **Current fact:** SBA disaster loans go up to $500,000 to repair a primary residence and $100,000 for personal property. For businesses, up to $2 million for physical damage or working capital. The rate is no more than 4% if you can't get credit elsewhere. Accessed September 29, 2026 through the SBA.
 
 
 

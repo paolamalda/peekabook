@@ -751,7 +751,9 @@ Compara con al menos dos opciones y revisa el costo total.
 
 #### Programas de ayuda para comprar
 
-En California hay programas que ayudan con el enganche y los costos de cierre a quienes compran por primera vez. Hay programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales. Los de CalHFA piden ciudadanía o un estatus migratorio que reconoce la ley federal. Por eso, con solo ITIN, hoy no se puede usar CalHFA. Algunos programas locales tienen otras reglas; pregunta directamente a cada uno.
+En California hay programas que ayudan con el enganche y los costos de cierre a quienes compran por primera vez. Hay programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales.
+
+Los de CalHFA piden ciudadanía o un estatus migratorio que reconoce la ley federal. Por eso, con solo ITIN, hoy no se puede usar CalHFA. Algunos programas locales tienen otras reglas; pregunta directamente a cada uno.
 
 > **Dato vigente:** la hipoteca de Dream For All de CalHFA pide que cada comprador sea ciudadano o «qualified alien» según la ley federal. En 2024 se vetó la ley AB 1840, que buscaba abrir el programa a personas con ITIN. Consultado el 6 de octubre de 2026 a través de CalHFA y medios de California.
 

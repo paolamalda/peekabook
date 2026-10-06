@@ -17,7 +17,7 @@
 | Lector de tarjetas | Cobras con tarjeta. | Comisión por cobro. |
 | Link de pago o factura en línea | Cobras a distancia. | Comisión; revisa contracargos. |
 
-> **Dato vigente:** los procesadores de pago cobran comúnmente entre 2.6% y 3.5% por cobro con tarjeta, más una cuota fija de unos centavos por transacción; los cobros a distancia suelen costar más que los presenciales. Consultado el 29 de septiembre de 2026 a través de las tarifas publicadas de procesadores de pago.
+> **Dato vigente:** los procesadores de pago cobran por lo común entre 2.6% y 3.5% por cobro con tarjeta, más una cuota fija de unos centavos por transacción. Los cobros a distancia suelen costar más que los presenciales. Consultado el 29 de septiembre de 2026 a través de las tarifas publicadas de procesadores de pago.
 
 #### Lo que cuesta cobrar con tarjeta
 
@@ -172,7 +172,7 @@ CFPB · tarifas publicadas de procesadores de pago, consultados el 29 de septiem
 
 #### La captura no es prueba
 
-Las apps de pago y las transferencias llegan rápido, pero **la captura del cliente no es prueba de pago**: se puede falsificar o mostrar un pago «pendiente» que nunca llega.
+Las apps de pago y las transferencias llegan rápido, pero **la captura del cliente no es prueba de pago**. Se puede falsificar o mostrar un pago «pendiente» que nunca llega.
 
 
 
@@ -223,7 +223,7 @@ Daniela activó las alertas de su app y de su banco. Ahora solo entrega cuando v
 
 #### El código de verificación
 
-Si alguien te pide el código que te llegó por mensaje «para verificar que eres real» o «para mandarte el pago», es un fraude: con ese código entran a tu cuenta o crean una a tu nombre.
+Es fraude si alguien te pide el código que te llegó por mensaje «para verificar que eres real» o «para mandarte el pago». Con ese código entran a tu cuenta o crean una a tu nombre.
 
 
 
@@ -378,7 +378,7 @@ Si cobras con tarjeta y el titular desconoce la compra, su banco puede regresarl
 
 Guarda capturas, mensajes y números. Avisa a tu banco o procesador de pagos. Reporta en ReportFraud.ftc.gov y, si hubo pérdidas por internet, en el IC3 del FBI (ic3.gov). Avisa a otros negocios en la comunidad, sin datos personales.
 
-> **Antes de actuar, verifica:** cualquier cambio de datos de pago de un proveedor llamando al número que ya tenías, nunca con el número o enlace que venga en el mismo mensaje.
+> **Antes de actuar, verifica:** cualquier cambio de datos de pago de un proveedor, llamando al número que ya tenías. Nunca uses el número o enlace que venga en el mismo mensaje.
 
 
 

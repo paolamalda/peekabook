@@ -82,7 +82,7 @@ Tu póliza tiene una red de hospitales y un tabulador de honorarios médicos. Si
 
 Pide a la aseguradora la **programación de cirugía**: te confirma qué cubre, en qué hospital y cuánto pagarás. Evitas sorpresas.
 
-> **Antes de actuar, verifica:** todos estos datos están en la carátula y las condiciones generales de tu póliza; pide a tu agente que te los explique por escrito.
+> **Antes de actuar, verifica:** todos estos datos están en la carátula y en las condiciones generales de tu póliza. Pide a tu agente que te los explique por escrito.
 
 
 
@@ -173,7 +173,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 #### Por qué sube
 
-La prima sube por tu edad, por la inflación médica (los hospitales y medicinas suben más que otros precios) y, a veces, por cómo usa el seguro el grupo de personas de tu edad.
+La prima sube por tres razones. Por tu edad. Por la inflación médica: hospitales y medicinas suben más que otros precios. Y, a veces, por cómo usa el seguro el grupo de personas de tu edad.
 
 
 
@@ -238,7 +238,7 @@ Antes de cancelar, pide a la nueva aseguradora por escrito si te reconoce la ant
 
 #### Si ya no puedes pagarlo
 
-Si el seguro ya no cabe en tu gasto, revisa otras opciones: la Modalidad 10 del IMSS si trabajas por tu cuenta, los servicios del IMSS o ISSSTE si ya los tienes, o un seguro con suma asegurada menor. Lo peor es quedarte sin ninguna protección.
+Si el seguro ya no cabe en tu gasto, revisa otras opciones. Si trabajas por tu cuenta, la Modalidad 10 del IMSS. Si ya tienes IMSS o ISSSTE, sus servicios. O un seguro con suma asegurada menor. Lo peor es quedarte sin ninguna protección.
 
 > **Antes de actuar, verifica:** cualquier cambio en tu póliza por escrito, con la fecha en que aplica.
 
@@ -718,7 +718,7 @@ El crédito suele incluir un seguro de daños y de vida. Revisa qué cubre y si 
 
 #### En un siniestro
 
-Llama a la aseguradora por su número oficial, toma fotos, no admitas culpa en un choque antes de que llegue el ajustador y guarda el número de reporte.
+Llama a la aseguradora por su número oficial y toma fotos. En un choque, no admitas culpa antes de que llegue el ajustador. Guarda el número de reporte.
 
 > **Antes de actuar, verifica:** tu póliza vigente en el auto y el número de la aseguradora en tu carpeta.
 
@@ -825,7 +825,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 4. Guarda notas y recibos de lo que gastes en lo urgente.
 5. Contrata reparaciones solo después de la revisión del ajustador.
 
-> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar después de recibir todos los documentos e información que te pidió. Si no te responde o no estás de acuerdo, puedes reclamar sin costo en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** la Ley sobre el Contrato de Seguro da a la aseguradora 30 días para pagar. Cuentan desde que recibe todos los documentos e información que te pidió. Si no te responde o no estás de acuerdo, puedes reclamar sin costo en la CONDUSEF. Consultado el 29 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -833,7 +833,7 @@ CONDUSEF · CNSF, consultados el 29 de septiembre de 2026.
 
 Carmen tenía copia digital de su póliza en el correo y encontró que sí cubría sismo. Tomó fotos, reportó por el número oficial y no pagó nada al «perito». El ajustador de la aseguradora revisó la casa y su reclamo siguió su curso.
 
-> **Idea clave:** documentos en copia digital, fotos del antes, seguro con el riesgo de tu zona y un fondo en una cuenta; después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
+> **Idea clave:** ten copia digital de tus documentos, fotos del antes, un seguro con el riesgo de tu zona y un fondo en una cuenta. Después del siniestro, reporta tú por el número oficial y no pagues por adelantado.
 
 
 
@@ -864,9 +864,9 @@ Aparecen falsos peritos, falsos funcionarios que cobran por «inscribirte» en a
 
 #### Tu persona de confianza
 
-Dile a tu persona de confianza dónde están tus documentos y tu póliza, y acuerden un punto de encuentro y un mensaje para avisarse que están bien. Si vives sola o solo, que alguien tenga copia de tus documentos.
+Dile a tu persona de confianza dónde están tus documentos y tu póliza. Acuerden un punto de encuentro y un mensaje para avisarse que están bien. Si vives sola o solo, que alguien tenga copia de tus documentos.
 
-> **Antes de actuar, verifica:** si tu seguro de casa cubre sismo e inundación, el número de siniestros de tu aseguradora y que tus documentos tengan copia digital.
+> **Antes de actuar, verifica:** si tu seguro de casa cubre sismo e inundación. Ten a la mano el número de siniestros de tu aseguradora y revisa que tus documentos tengan copia digital.
 
 
 
@@ -976,7 +976,7 @@ CONDUSEF · Ley sobre el Contrato de Seguro · Coordinación Nacional de Protecc
 | 70 a 79 | 20,650 |
 | 80 o más | 21,300 |
 
-> **Dato vigente:** cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) vigentes desde el 1 de marzo de 2026; en la Modalidad 10 se cotiza de un salario mínimo a 25 UMA y con el mínimo la cuota ronda 2,500 pesos al mes. Consultado el 30 de septiembre de 2026 a través del IMSS y medios nacionales; confirma en el IMSS antes de pagar.
+> **Dato vigente:** las cuotas anuales del Seguro de Salud para la Familia (Modalidad 33) están vigentes desde el 1 de marzo de 2026. En la Modalidad 10 se cotiza de un salario mínimo a 25 UMA. Con el mínimo, la cuota ronda 2,500 pesos al mes. Consultado el 30 de septiembre de 2026 a través del IMSS y medios nacionales; confirma en el IMSS antes de pagar.
 
 
 
@@ -988,9 +988,9 @@ El IMSS pagado por tu cuenta cuesta menos que muchos seguros de gastos médicos 
 
 #### Un caso en un minuto
 
-Maru se inscribió como persona trabajadora independiente: tiene médico, incapacidades y suma semanas a su pensión. Elena inscribió a sus hijos adolescentes en el Seguro de Salud para la Familia y subió el deducible de su seguro privado para bajar la prima.
+Maru se inscribió como persona trabajadora independiente: tiene médico, incapacidades y suma semanas a su pensión. Elena inscribió a sus hijos adolescentes en el Seguro de Salud para la Familia. También subió el deducible de su seguro privado para bajar la prima.
 
-> **Idea clave:** si no tienes IMSS puedes pagarlo tú: el Seguro de Salud para la Familia da solo servicio médico por una cuota anual por edad; la Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
+> **Idea clave:** si no tienes IMSS, puedes pagarlo tú. El Seguro de Salud para la Familia da solo servicio médico, por una cuota anual según tu edad. La Modalidad 10 da además incapacidades y pensión. Compara con tu seguro privado y pregunta antes qué cubre.
 
 
 
@@ -1026,7 +1026,7 @@ Maru se inscribió como persona trabajadora independiente: tiene médico, incapa
 
 #### Para tus papás
 
-Si tus papás no tienen seguridad social, el Seguro de Salud para la Familia puede ser una opción; para personas mayores también existen el IMSS-Bienestar y los centros de salud sin costo.
+Si tus papás no tienen seguridad social, el Seguro de Salud para la Familia puede ser una opción. Para personas mayores también existen el IMSS-Bienestar y los centros de salud sin costo.
 
 
 

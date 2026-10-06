@@ -31,7 +31,7 @@ El impuesto por cuenta propia que pagas (M5 U03) cuenta para tu Seguro Social. P
 | Solo 401(k) | Para dueños sin empleados. | $24,500 como empleado más aportación del negocio, máximo $72,000. |
 | Solo el negocio | Depende de tu salud. | Riesgoso. |
 
-> **Dato vigente:** para 2026, el límite de aportación a una IRA es de $7,500 ($8,600 con 50 años o más); a una SEP IRA, hasta 25% de la compensación y un máximo de $72,000; y a un Solo 401(k), $24,500 como empleado y un total de $72,000, sin contar aportaciones adicionales por edad. Consultado el 29 de septiembre de 2026 a través del IRS.
+> **Dato vigente:** para 2026, el límite de aportación a una IRA es de $7,500 ($8,600 con 50 años o más). A una SEP IRA, hasta 25% de la compensación y un máximo de $72,000. A un Solo 401(k), $24,500 como empleado y un total de $72,000, sin contar aportaciones adicionales por edad. Consultado el 29 de septiembre de 2026 a través del IRS.
 
 #### Un caso en un minuto
 
@@ -62,7 +62,7 @@ Don Ramón revisó su cuenta en ssa.gov: tiene 52 créditos y un estimado de $1,
 
 #### Ventajas fiscales
 
-Las aportaciones a una IRA tradicional, SEP o Solo 401(k) pueden bajar tus impuestos de hoy; en una Roth pagas impuestos hoy y retiras sin impuestos en el retiro, si cumples las reglas. Retirar antes de los 59 años y medio suele tener multa. Pregunta a tu preparador cuál te conviene.
+Las aportaciones a una IRA tradicional, SEP o Solo 401(k) pueden bajar tus impuestos de hoy. En una Roth pagas impuestos hoy y retiras sin impuestos en el retiro, si cumples las reglas. Retirar antes de los 59 años y medio suele tener multa. Pregunta a tu preparador cuál te conviene.
 
 
 
@@ -212,7 +212,7 @@ Lupita armó una carpeta con proveedores, cuentas, fechas de pago y el contacto 
 
 #### Cerrar bien
 
-Presenta tu última declaración y marca que es la final si aplica, cancela tu seller's permit, tus licencias y, si tienes una LLC, disuélvela formalmente: en California, si no la disuelves, el impuesto mínimo de $800 sigue corriendo cada año.
+Presenta tu última declaración y marca que es la final, si aplica. Cancela tu seller's permit y tus licencias. Si tienes una LLC, disuélvela formalmente: en California, si no la disuelves, el impuesto mínimo de $800 sigue corriendo cada año.
 
 
 
@@ -354,7 +354,7 @@ Daniela llenó su hoja en una tarde. Le faltaban dos cosas: su cuenta de retiro 
 
 Escoge una meta del trimestre con nombre («reserva de dos meses para el invierno»), cuánto apartarás y cada cuándo. Cuéntasela a alguien de confianza o a tu grupo de la comunidad. Programa una transferencia automática el día que cobras y un recordatorio mensual con el nombre de tu meta.
 
-> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+> **Idea clave:** tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 
 
@@ -391,7 +391,7 @@ Comparte tu plan con alguien de confianza o en la comunidad (sin datos personale
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
@@ -490,7 +490,7 @@ SBA, consultado el 29 de septiembre de 2026 · Innovations for Poverty Action y 
 
 #### Impuestos al heredar
 
-Quien hereda **no paga impuesto federal** por recibir la herencia. El impuesto federal sobre herencias (estate tax) solo aplica a herencias de más de 15 millones de dólares por persona en 2026, y California no tiene impuesto a la herencia. Si tus herederos venden lo heredado, la ganancia se calcula desde el valor que tenía cuando falleciste, lo que suele bajar el impuesto.
+Quien hereda **no paga impuesto federal** por recibir la herencia. El impuesto federal sobre herencias (estate tax) solo aplica a herencias de más de 15 millones de dólares por persona en 2026. California no tiene impuesto a la herencia. Si tus herederos venden lo heredado, la ganancia se calcula desde el valor que tenía cuando falleciste, y eso suele bajar el impuesto.
 
 > **Dato vigente:** el impuesto federal sobre herencias aplica solo a patrimonios de más de 15 millones de dólares por persona en 2026; California no cobra impuesto a la herencia. Consultado el 30 de septiembre de 2026 a través del IRS y medios especializados.
 
@@ -498,15 +498,17 @@ Quien hereda **no paga impuesto federal** por recibir la herencia. El impuesto f
 
 #### Si tienes algo en México
 
-Recibir una herencia en México no paga ISR, pero escriturar un terreno o casa sí cuesta (impuesto estatal y notario). Si tus herederos viven en Estados Unidos y reciben una herencia del extranjero de más de 100,000 dólares, deben avisarle al IRS con el Formulario 3520, aunque no paguen impuesto; la multa por no hacerlo puede llegar a 25% del valor. Los consulados de México ofrecen servicios notariales, entre ellos el testamento.
+Recibir una herencia en México no paga ISR, pero escriturar un terreno o casa sí cuesta: impuesto estatal y notario. Si tus herederos viven en Estados Unidos y reciben una herencia del extranjero de más de 100,000 dólares, deben avisarle al IRS.
+
+Lo hacen con el Formulario 3520, aunque no paguen impuesto. La multa por no hacerlo puede llegar a 25% del valor. Los consulados de México ofrecen servicios notariales, entre ellos el testamento.
 
 
 
 #### Un caso en un minuto
 
-Don Ramón puso a su hija como beneficiaria (POD) de sus cuentas, revisó con un abogado la escritura de traspaso al fallecer para su casa, hizo su testamento en el consulado para el terreno de Michoacán y dejó por escrito quién puede entrar a las cuentas del negocio.
+Don Ramón puso a su hija como beneficiaria (POD) de sus cuentas. Revisó con un abogado la escritura de traspaso al fallecer para su casa. Hizo su testamento en el consulado para el terreno de Michoacán. Y dejó por escrito quién puede entrar a las cuentas del negocio.
 
-> **Idea clave:** con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte; heredar no paga impuesto federal salvo herencias enormes, pero una herencia grande del extranjero se reporta con el Formulario 3520.
+> **Idea clave:** con beneficiarios en tus cuentas, una escritura de traspaso para tu casa y un testamento o fideicomiso, tu familia evita la corte. Heredar no paga impuesto federal, salvo herencias enormes. Una herencia grande del extranjero se reporta con el Formulario 3520.
 
 
 
@@ -550,7 +552,7 @@ Si lo que dejas es poco, en California existe una declaración jurada para heren
 
 #### Tu casa en México: el usufructo
 
-Si tienes casa o terreno en México y quieres pasarlos a tus hijos en vida sin dejar de usarlos, allá existe la donación con **reserva de usufructo**, ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
+¿Tienes casa o terreno en México y quieres pasarlos a tus hijos en vida sin dejar de usarlos? Allá existe la donación con **reserva de usufructo**. Se hace ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
 
 
 

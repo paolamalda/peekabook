@@ -356,7 +356,7 @@ CONSAR, AforeMóvil, e-SAR y SARTEL, consultados el 29 de septiembre de 2026.
 
 #### Para quién es
 
-La **Modalidad 40** es la continuación voluntaria en el régimen obligatorio del IMSS. Le interesa sobre todo a quienes empezaron a cotizar antes del 1 de julio de 1997 (Ley 73), porque su pensión se calcula con el salario de sus últimos años de cotización.
+La **Modalidad 40** es la continuación voluntaria en el régimen obligatorio del IMSS. Le interesa sobre todo a quienes empezaron a cotizar antes del 1 de julio de 1997 (Ley 73). Su pensión se calcula con el salario de sus últimos años de cotización.
 
 
 
@@ -380,7 +380,7 @@ Registrar un salario más alto cuesta más, pero puede mejorar tu pensión.
 
 Toño revisó su historial en el IMSS: cotizó más de 52 semanas en sus últimos cinco años y se dio de baja hace dos. Cumple los requisitos.
 
-Pidió asesoría sin costo en el IMSS para calcular cuánto mejoraría su pensión con distintos salarios y decidió cuánto podía pagar sin afectar su fondo de sequía.
+Pidió asesoría sin costo en el IMSS para calcular cuánto mejoraría su pensión con distintos salarios. Después decidió cuánto podía pagar sin afectar su fondo de sequía.
 
 > **Idea clave:** si cotizaste antes de 1997, la Modalidad 40 puede cambiar mucho tu pensión. Revísala a tiempo.
 
@@ -576,7 +576,9 @@ Gael preguntó a su contador. Como está en RESICO, el PPR no le daría deducci�
 
 Si retiras antes de la edad que marcan las reglas (en general, 65 años), pierdes el beneficio y te retienen impuestos. Solo pon en un PPR dinero que no necesitarás antes.
 
-> **Dato vigente:** tope de deducción del PPR y aportaciones complementarias: 10% de tus ingresos del año, sin pasar de 5 UMA anuales (213,973.20 pesos en 2026), fuera del tope global de deducciones personales. Si retiras antes de los 65 años (salvo invalidez o incapacidad), te retienen 20% y el retiro se acumula a tus ingresos (artículos 142, fracción XVIII, y 151, fracción V, de la LISR). Consultado el 29 de septiembre de 2026 a través del SAT y la LISR.
+> **Dato vigente:** el tope de deducción del PPR y de las aportaciones complementarias es 10% de tus ingresos del año. No puede pasar de 5 UMA anuales (213,973.20 pesos en 2026). Está fuera del tope global de deducciones personales.
+>
+> Si retiras antes de los 65 años (salvo invalidez o incapacidad), te retienen 20%. Además, el retiro se suma a tus ingresos (artículos 142, fracción XVIII, y 151, fracción V, de la LISR). Consultado el 29 de septiembre de 2026 a través del SAT y la LISR.
 
 
 
@@ -930,7 +932,7 @@ La mensualidad del crédito, más seguros, mantenimiento y predial, debe caber e
 
 Desde la reforma de diciembre de 2023, en la Modalidad 10 puedes elegir aportar a Infonavit: 5% del salario que registres. Esas aportaciones y tu historial te permiten solicitar un crédito Infonavit como trabajador independiente. El monto depende del ingreso que registres. También hay créditos bancarios y esquemas que combinan ambos.
 
-Gastos de escrituración: en general, entre 4% y 7% del valor de la vivienda (en algunos estados más), y la mayor parte es el impuesto sobre adquisición de inmuebles, no los honorarios del notario.
+Gastos de escrituración: en general, entre 4% y 7% del valor de la vivienda, y en algunos estados más. La mayor parte es el impuesto sobre adquisición de inmuebles, no los honorarios del notario.
 
 > **Dato vigente:** aportaciones a Infonavit en la Modalidad 10 y rangos de gastos de escrituración en 2026. Consultado el 29 de septiembre de 2026 a través del IMSS, Infonavit y medios informativos. El impuesto de adquisición cambia por estado: pide cotización a un notario.
 
@@ -1387,7 +1389,7 @@ Tu plan no tiene que ser perfecto. Tiene que ser claro, posible y tuyo.
 
 #### Un caso en un minuto
 
-Renata escribió su plan: esta semana, pedir sus reportes y activar el bloqueo; este mes, cerrar dos tarjetas de tienda; este año, bajar su deuda de 95,000 a 40,000.
+Renata escribió su plan. Esta semana: pedir sus reportes y activar el bloqueo. Este mes: cerrar dos tarjetas de tienda. Este año: bajar su deuda de 95,000 a 40,000.
 
 Lo pegó junto a su espejo y lo revisa cada tres meses.
 
@@ -1395,7 +1397,7 @@ Lo pegó junto a su espejo y lo revisa cada tres meses.
 
 #### Tu compromiso
 
-Ponle nombre a tu meta del año («fondo de sequía de cuatro meses»), decide cuánto apartas de cada pago y cuéntaselo a alguien de confianza o a tu grupo de la comunidad. Programa el apartado automático el día que cobras y un recordatorio mensual con el nombre de tu meta.
+Ponle nombre a tu meta del año, por ejemplo «fondo de sequía de cuatro meses». Decide cuánto apartas de cada pago y cuéntaselo a alguien de confianza o a tu grupo de la comunidad. Programa el apartado automático el día que cobras y un recordatorio mensual con el nombre de tu meta.
 
 > **Idea clave:** no se trata de hacerlo todo, sino de dar el siguiente paso; un compromiso con nombre, testigo y recordatorio te ayuda a cumplirlo.
 
@@ -1451,13 +1453,13 @@ Cada paso cuenta: pedir tus reportes, pagar una tarjeta, registrar tu nombre, in
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
 #### Tu plan cambia contigo
 
-Un proyecto grande, una sequía, una lesión o un cambio de etapa: cuando algo cambie, vuelve a la lección del tema y actualiza esa parte de tu plan.
+Un proyecto grande, una sequía, una lesión o un cambio de etapa pueden cambiar tu plan. Cuando algo cambie, vuelve a la lección del tema y actualiza esa parte.
 
 > **Dato adicional:** los datos de este programa se consultaron el 29 de septiembre de 2026. Antes de decidir, confirma siempre la información vigente en CONDUSEF, la CNBV, el SAT, el IMSS o el sitio oficial de la institución.
 

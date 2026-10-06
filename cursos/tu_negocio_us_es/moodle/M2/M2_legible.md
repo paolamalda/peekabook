@@ -165,7 +165,7 @@ SBA, consultado el 29 de septiembre de 2026.
 
 #### Tres miradas para tu precio
 
-Tu precio se revisa desde tres lados: **tu costo** (el piso, nunca cobres menos), **la competencia** (qué cobran otros por algo parecido) y **el valor para tu cliente** (rapidez, calidad, garantía, seguro).
+Tu precio se revisa desde tres lados. **Tu costo**: es el piso, nunca cobres menos. **La competencia**: qué cobran otros por algo parecido. **El valor para tu cliente**: rapidez, calidad, garantía y seguro.
 
 
 
@@ -190,7 +190,7 @@ Daniela vende en $25: su margen es de 44%. Tiene espacio para promociones sin pe
 
 Javier calculó su costo por hora en $32. Cobraba $35 y apenas le quedaba. Subió a $45 y en sus cotizaciones escribe que tiene seguro de responsabilidad civil y garantía de 30 días. Perdió un cliente, pero ganó más con los demás.
 
-> **Idea clave:** tu costo es el piso; el margen es lo que te permite crecer y pagar impuestos; la competencia y el valor te dicen hasta dónde subir.
+> **Idea clave:** tu costo es el piso. El margen es lo que te permite crecer y pagar impuestos. La competencia y el valor te dicen hasta dónde subir.
 
 
 

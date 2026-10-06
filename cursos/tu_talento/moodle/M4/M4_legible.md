@@ -79,7 +79,7 @@ Reportó el número en el portal de fraudes de CONDUSEF.
 
 #### Cómo reconocer una llamada falsa
 
-Una llamada "de CONDUSEF", "del SAT" o "del Banco de México" que te ofrece un préstamo, te pide datos o te pide depositar es un fraude.
+Es fraude una llamada "de CONDUSEF", "del SAT" o "del Banco de México" que te ofrece un préstamo, te pide datos o te pide depositar.
 
 Cuelga y busca tú el teléfono oficial en el sitio de la institución (M9 U03).
 
@@ -260,7 +260,7 @@ En el contrato, la carátula, el estado de cuenta o el aviso de privacidad. Busc
 
 Un banco digital es un banco igual que uno con sucursales, si está autorizado como tal. Algunas empresas conocidas empezaron como otro tipo de entidad y después obtuvieron licencia de banco.
 
-> **Dato vigente:** al 29 de septiembre de 2026, Nu México y Revolut cuentan con autorización de la CNBV como bancos, según la CNBV y los comunicados de cada institución. Antes de decidir, confírmalo en el padrón de la CNBV y en el sitio oficial de la institución.
+> **Dato vigente:** al 29 de septiembre de 2026, Nu México y Revolut tienen autorización de la CNBV como bancos. Así lo informan la CNBV y cada institución. Antes de decidir, confírmalo en el padrón de la CNBV y en el sitio oficial de la institución.
 
 
 
@@ -608,7 +608,7 @@ Tienes 10 días hábiles después de firmar un contrato de adhesión para cancel
 
 #### REUS: menos llamadas de venta
 
-Si te inscribes en el Registro Público de Usuarios (REUS) de CONDUSEF, las instituciones no deben usar tu información para ofrecerte productos por teléfono o mensaje. El paso a paso, junto con el REPEP de Profeco para la publicidad de tiendas y servicios, está en M9 U08.
+Puedes inscribirte en el Registro Público de Usuarios (REUS) de CONDUSEF. Así, las instituciones no deben usar tu información para ofrecerte productos por teléfono o mensaje. En M9 U08 está el paso a paso, junto con el REPEP de Profeco para la publicidad de tiendas y servicios.
 
 > **Dato vigente:** UNE, RECA y REUS de CONDUSEF. Consultado el 29 de septiembre de 2026 a través de su sitio oficial.
 
@@ -697,7 +697,7 @@ CONDUSEF · Ley de Protección y Defensa al Usuario de Servicios Financieros · 
 
 **Lo que lograrás:** Distinguir información confiable de rumores y publicidad, reconocer cuándo el miedo o «lo que hacen todos» decide por ti, y ajustar tu plan cuando cambian la economía, las tasas o las leyes.
 
-**Para empezar:** En el grupo de WhatsApp del elenco circula que «el SAT va a congelar las cuentas de quienes facturan» y que una criptomoneda «que recomienda un famoso» va a subir. Toño no sabe qué creer. En esta lección verás cómo responder con calma.
+**Para empezar:** En el grupo de WhatsApp del elenco circula que «el SAT va a congelar las cuentas de quienes facturan». También, que una criptomoneda «que recomienda un famoso» va a subir. Toño no sabe qué creer. En esta lección verás cómo responder con calma.
 
 ### Lo esencial (5 minutos)
 
@@ -720,7 +720,7 @@ Hay cambios reales que te afectan: suben los precios, cambian las tasas, se refo
 
 Toño buscó el aviso en el sitio del SAT: no existía ningún congelamiento. Le preguntó a su contador y siguió facturando igual. No compró la criptomoneda: no podía explicar cómo ganaba ni quién la respaldaba.
 
-> **Idea clave:** confirma en la fuente oficial, no decidas con miedo ni por lo que hacen todos, y ajusta tu plan solo si cambia algo que te aplica.
+> **Idea clave:** confirma en la fuente oficial y no decidas con miedo ni por lo que hacen todos. Ajusta tu plan solo si cambia algo que te aplica.
 
 
 
@@ -751,7 +751,7 @@ Sentimos más una pérdida que una ganancia igual, creemos más lo que vemos seg
 
 #### Quién influye en la economía
 
-El Banco de México fija la tasa de interés de referencia para cuidar la inflación; la Secretaría de Hacienda y el Congreso deciden impuestos y apoyos; el SAT y el IMSS aplican las reglas. Sus sitios publican los cambios oficiales.
+Cada institución tiene su papel. El Banco de México fija la tasa de interés de referencia para cuidar la inflación. La Secretaría de Hacienda y el Congreso deciden impuestos y apoyos. El SAT y el IMSS aplican las reglas. Sus sitios publican los cambios oficiales.
 
 
 

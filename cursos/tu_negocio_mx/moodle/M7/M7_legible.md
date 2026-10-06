@@ -23,11 +23,11 @@ La Modalidad 10 permite a las personas trabajadoras independientes inscribirse a
 | Retiro | Ahorro en tu AFORE y semanas cotizadas. | Para tu pensión. |
 | Vivienda (opcional) | Aportar 5% a Infonavit. | Acceso a crédito. |
 
-> **Dato vigente:** en la Modalidad 10 se cotiza con un ingreso de un salario mínimo (9,582.47 pesos al mes en 2026) hasta 25 UMA; la cuota mínima ronda 2,500 pesos al mes y la aportación a Infonavit (5%) es opcional. La cuota exacta se calcula en la calculadora del IMSS. Consultado el 29 de septiembre de 2026 a través del IMSS y medios especializados.
+> **Dato vigente:** en la Modalidad 10 se cotiza con un ingreso desde un salario mínimo (9,582.47 pesos al mes en 2026) hasta 25 UMA. La cuota mínima ronda 2,500 pesos al mes y la aportación a Infonavit (5%) es opcional. La cuota exacta se calcula en la calculadora del IMSS. Consultado el 29 de septiembre de 2026 a través del IMSS y medios especializados.
 
 #### Cómo inscribirte
 
-En el sitio del IMSS para personas trabajadoras independientes: registras tus datos, eliges tu ingreso, la calculadora te da la cuota y pagas mensual, semestral o anual.
+Se hace en el sitio del IMSS para personas trabajadoras independientes. Registras tus datos y eliges tu ingreso. La calculadora te da la cuota y pagas mensual, semestral o anual.
 
 
 
@@ -72,7 +72,9 @@ La 10 es para quien trabaja por su cuenta hoy y da servicio médico. La 40 es pa
 
 #### Para tu familia: Seguro de Salud para la Familia
 
-Si tu pareja, tus hijos o tus papás no tienen seguridad social, el IMSS tiene el Seguro de Salud para la Familia: solo servicio médico, con una cuota al año por persona según su edad (en 2026, de 9,300 para menores de 20 a 21,300 para mayores de 80; por ejemplo, 13,800 de 40 a 49 años). Tiene periodos de espera y algunas enfermedades previas no se cubren al inicio: pregunta antes de pagar.
+Si tu pareja, tus hijos o tus papás no tienen seguridad social, el IMSS tiene el Seguro de Salud para la Familia. Da solo servicio médico, con una cuota al año por persona según su edad.
+
+En 2026 va de 9,300 para menores de 20 a 21,300 para mayores de 80; por ejemplo, 13,800 de 40 a 49 años. Tiene periodos de espera y algunas enfermedades previas no se cubren al inicio. Pregunta antes de pagar.
 
 
 
@@ -640,7 +642,7 @@ Si trabajas por tu cuenta, tu INE, tu CURP, tu RFC y tu e.firma **son** los dato
 | Verificación en dos pasos | En WhatsApp, redes y correo del negocio. | Evita el robo de cuentas. |
 | Facturas a tu nombre | Revísalas en el portal del SAT. | Detecta facturas falsas. |
 
-> **Dato vigente:** en 2026 cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026; consultar qué líneas están a tu nombre y desvincular las que no son tuyas no tiene costo en portal.crt.gob.mx. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
+> **Dato vigente:** en 2026, cada línea de celular se vincula con la CURP de su titular, con plazo final el 31 de diciembre de 2026. En portal.crt.gob.mx puedes consultar qué líneas están a tu nombre y desvincular las que no son tuyas, sin costo. Consultado el 29 de septiembre de 2026 a través de la Comisión Reguladora de Telecomunicaciones.
 
 #### Que dejen de llamarte
 
@@ -654,7 +656,7 @@ Inscribe tu celular en el REPEP de Profeco para frenar publicidad, y en el REUS 
 
 Mariana recuperó su WhatsApp con el código de su número, activó la verificación en dos pasos y avisó a sus clientas por sus redes. Toño pidió su reporte, encontró el crédito, reclamó por escrito a la financiera y al Buró, denunció y activó el bloqueo.
 
-> **Idea clave:** tus datos personales son los de tu negocio: revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
+> **Idea clave:** tus datos personales son los de tu negocio. Revisa tu reporte y tus facturas, usa candados en tus cuentas y registra tus números en el REPEP y el REUS.
 
 
 
@@ -695,9 +697,9 @@ El robo de cuentas de WhatsApp empieza casi siempre con un mensaje: «te llegó 
 
 #### Lo que no cubren los registros
 
-El REPEP y el REUS no frenan la cobranza de deudas reales, las encuestas o las llamadas de partidos, ni los fraudes: quien estafa no respeta registros. Si alguien te llama «del SAT» o «del banco», cuelga y verifica tú (M7 U03).
+El REPEP y el REUS no frenan la cobranza de deudas reales, las encuestas, las llamadas de partidos ni los fraudes. Quien estafa no respeta registros. Si alguien te llama «del SAT» o «del banco», cuelga y verifica tú (M7 U03).
 
-> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS, de Buró de Crédito y del SAT en sus sitios oficiales; hay páginas falsas que cobran por inscribirte o por «desbloquear» tu RFC.
+> **Antes de actuar, verifica:** los números oficiales del REPEP, del REUS, de Buró de Crédito y del SAT, en sus sitios oficiales. Hay páginas falsas que cobran por inscribirte o por «desbloquear» tu RFC.
 
 
 
@@ -785,13 +787,13 @@ Profeco · CONDUSEF · Buró de Crédito · SAT · Comisión Reguladora de Telec
 
 **Lo que lograrás:** Reconocer los fraudes que usan voces, videos o mensajes hechos con inteligencia artificial contra tu negocio y tu familia, y protegerte con reglas simples.
 
-**Para empezar:** A Rosa le llamó «su proveedor de carne», con su misma voz, para pedirle que pagara el pedido a una cuenta nueva «porque cambiaron de banco». Era una voz clonada. En esta lección verás cómo detectarlo.
+**Para empezar:** A Rosa le llamó «su proveedor de carne», con su misma voz. Le pidió pagar el pedido a una cuenta nueva «porque cambiaron de banco». Era una voz clonada. En esta lección verás cómo detectarlo.
 
 ### Lo esencial (5 minutos)
 
 #### Qué pueden imitar
 
-Con unos segundos de audio o unas fotos de tus redes, la inteligencia artificial puede imitar la voz de un familiar, de un proveedor o de un cliente, crear videos falsos de famosos que «recomiendan» inversiones o escribir mensajes idénticos a los de tu banco.
+La inteligencia artificial puede imitar la voz de un familiar, un proveedor o un cliente. Le bastan unos segundos de audio o unas fotos de tus redes. También puede crear videos falsos de famosos que «recomiendan» inversiones. Y puede escribir mensajes idénticos a los de tu banco.
 
 
 
@@ -833,13 +835,13 @@ Rosa colgó y marcó al número de su proveedor que tenía guardado. No habían 
 
 #### Menos material para copiar
 
-Evita publicar audios largos con tu voz en redes del negocio, pon privadas tus cuentas personales y no publiques horarios de depósito ni fotos de tu caja. Entre menos datos, menos creíble es el engaño.
+Evita publicar audios largos con tu voz en las redes del negocio y pon privadas tus cuentas personales. No publiques horarios de depósito ni fotos de tu caja. Entre menos datos, menos creíble es el engaño.
 
 
 
 #### Tus clientes también son blanco
 
-Si alguien se hace pasar por tu negocio para pedir pagos, avisa en tus redes oficiales cuál es tu única cuenta de cobro y que nunca pides pagos a cuentas de personas.
+Si alguien se hace pasar por tu negocio para pedir pagos, avisa en tus redes oficiales. Di cuál es tu única cuenta de cobro y que nunca pides pagos a cuentas de personas.
 
 > **Antes de actuar, verifica:** cualquier pedido de dinero, cambio de cuenta o inversión «recomendada» por un medio que tú elijas.
 
@@ -950,7 +952,7 @@ CONDUSEF · Guardia Nacional, consultados el 29 de septiembre de 2026.
 
 #### Un caso en un minuto
 
-Don Pepe ahora respalda en su celular las fotos del inventario y la lista de fiado cada semana, y contrató un paquete para pequeño comercio que incluye inundación. Su reserva está en una cuenta. Sabe a quién llamar primero.
+Ahora Don Pepe respalda cada semana en su celular las fotos del inventario y la lista de fiado. Contrató un paquete para pequeño comercio que incluye inundación. Su reserva está en una cuenta. Sabe a quién llamar primero.
 
 > **Idea clave:** respaldo, fotos, seguro con las coberturas correctas y reserva en cuenta: con eso tu negocio vuelve a abrir más rápido.
 
@@ -1100,7 +1102,7 @@ Si otras personas viven de tu negocio o de tu ingreso, un seguro de vida les da 
 
 Rosa cotizó un seguro temporal a 10 años por 400,000 pesos, con su hija como beneficiaria. Le cuesta menos que un día de ventas al mes. También revisó su contrato de previsión funeraria en Profeco.
 
-> **Idea clave:** si alguien depende de ti, un seguro temporal con la suma correcta y beneficiarios al día protege a tu familia y a tu negocio.
+> **Idea clave:** si alguien depende de ti, un seguro temporal protege a tu familia y a tu negocio. Que tenga la suma correcta y beneficiarios al día.
 
 
 
@@ -1133,7 +1135,7 @@ Designa beneficiarios por nombre y porcentaje, y actualízalos cuando cambie tu 
 
 Revisa que la aseguradora esté autorizada por la CNSF y que el contrato de previsión funeraria esté registrado en Profeco. Pide las exclusiones por escrito y no pagues años por adelantado a vendedores de puerta en puerta.
 
-> **Antes de actuar, verifica:** la aseguradora en la CNSF, el contrato funerario en el Registro Público de Contratos de Adhesión de Profeco y la póliza completa antes de pagar.
+> **Antes de actuar, verifica:** la aseguradora en la CNSF y el contrato funerario en el Registro Público de Contratos de Adhesión de Profeco. Lee la póliza completa antes de pagar.
 
 
 

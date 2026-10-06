@@ -19,9 +19,9 @@
 
 #### The key question
 
-An LLC can protect your home and savings if the business has debts or lawsuits, but it costs money every year and requires keeping everything separate. For many new businesses, being a sole proprietor with good insurance is enough at first.
+An LLC can protect your home and savings if the business has debts or lawsuits. But it costs money every year and requires keeping everything separate. For many new businesses, being a sole proprietor with good insurance is enough at first.
 
-> **Current fact:** in California, an LLC pays an $800 minimum annual tax to the Franchise Tax Board, even with no income, until it is formally dissolved; it also files a Statement of Information every two years with the Secretary of State. Accessed September 29, 2026 through the California Franchise Tax Board and Secretary of State.
+> **Current fact:** in California, an LLC pays an $800 minimum annual tax to the Franchise Tax Board, even with no income, until it is formally dissolved. It also files a Statement of Information every two years with the Secretary of State. Accessed September 29, 2026 through the California Franchise Tax Board and Secretary of State.
 
 
 
@@ -54,7 +54,7 @@ Javier did the math: an LLC would cost him at least $800 a year in California. H
 
 #### Business name (DBA)
 
-If as a sole proprietor you use a name different from your own ("Tamales Lupita"), in California you register a Fictitious Business Name (DBA) with your county. It isn't a company: it only registers the name.
+Maybe as a sole proprietor you use a name different from your own ("Tamales Lupita"). In California you register that name with your county as a Fictitious Business Name (DBA). It isn't a company: it only registers the name.
 
 
 
@@ -68,7 +68,7 @@ Use a bank account only for the LLC, sign contracts in the LLC's name and don't 
 
 Many websites charge to form an LLC or get an EIN, things you can do yourself on official sites. Letters that imitate the government also arrive charging for "certificates" or "annual reports." Always check the sender.
 
-> **Before you act, check:** your state's rules and costs on the Secretary of State's site; if you have questions, talk to an accountant or a no-cost SBA center (SBDC).
+> **Before you act, check:** your state's rules and costs on the Secretary of State's site. If you have questions, talk to an accountant or a no-cost SBA center (SBDC).
 
 
 
@@ -153,7 +153,7 @@ SBA · California Franchise Tax Board · California Secretary of State, accessed
 
 **What you will be able to do:** Know which tax number to use, how to get a no-cost EIN and which licenses and permits your business may need.
 
-**To start:** Lupita wants to sell tamales at a market and they ask for her "license, health permit and seller's permit." She doesn't know where to start or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits.
+**To start:** Lupita wants to sell tamales at a market. They ask for her "license, health permit and seller's permit." She doesn't know where to start, or whether she can do it with her ITIN. In this lesson you'll see the most common numbers and permits.
 
 ### The essentials (5 minutes)
 
@@ -168,7 +168,7 @@ SBA · California Franchise Tax Board · California Secretary of State, accessed
 
 #### The EIN
 
-An EIN identifies your business. You need it if you have employees or certain kinds of LLC, and it's useful for opening accounts and giving to customers instead of your SSN. You get it no-cost on the IRS website; the person applying needs an SSN or ITIN.
+An EIN identifies your business. You need it if you have employees or certain kinds of LLC. It's also useful for opening accounts and giving to customers instead of your SSN. You get it at no cost on the IRS website; the person applying needs an SSN or ITIN.
 
 
 
@@ -179,13 +179,13 @@ An EIN identifies your business. You need it if you have employees or certain ki
 3. **Health permit** from the county if you sell food (for example, a Cottage Food Operation or a food truck permit).
 4. **Professional license** if your trade requires one (for example, the CSLB for construction).
 
-> **Current fact:** in California, construction or repair jobs over $1,000 in total (labor and materials), or that require a permit, need a Contractors State License Board (CSLB) license. Accessed September 29, 2026 through the CSLB (AB 2622, effective January 1, 2025).
+> **Current fact:** in California, construction or repair jobs over $1,000 in total need a Contractors State License Board (CSLB) license. Labor and materials count, and jobs that require a permit need it too. Accessed September 29, 2026 through the CSLB (AB 2622, effective January 1, 2025).
 
 
 
 #### A case in one minute
 
-Lupita got her EIN no-cost at irs.gov with her ITIN, requested her seller's permit from the CDTFA at no cost and registered as a Cottage Food Operation with her county health department. Now she can sell at the market.
+Lupita got her EIN at no cost at irs.gov with her ITIN. She requested her seller's permit from the CDTFA, also at no cost. And she registered as a Cottage Food Operation with her county health department. Now she can sell at the market.
 
 > **Key idea:** the EIN and the seller's permit cost nothing on official sites; check with your city and county which licenses your trade needs.
 
@@ -338,7 +338,7 @@ Depending on her total income, she may also owe income tax.
 
 Daniela didn't know that as an owner she pays the full Social Security and Medicare. This year she sets aside 25% of each profit in a separate account and keeps her receipts to deduct materials, shipping and fees.
 
-> **Key idea:** as an owner you pay 15.3% for Social Security and Medicare, plus income tax; set aside 25% to 30% of your profit and deduct your expenses with receipts.
+> **Key idea:** as an owner you pay 15.3% for Social Security and Medicare, plus income tax. Set aside 25% to 30% of your profit and deduct your expenses with receipts.
 
 
 
@@ -521,13 +521,13 @@ Javier understood that the 1099-NEC only reports what he already earned. Now he 
 
 #### How much to pay each quarter
 
-A practical approach: take what you set aside (25% to 30% of the quarter's profit) and pay it through IRS Direct Pay or your IRS online account. Your tax preparer can calculate it more precisely with Form 1040-ES. In California, the FTB also expects estimated payments of state tax.
+A practical approach: take what you set aside, 25% to 30% of the quarter's profit. Pay it through IRS Direct Pay or your IRS online account. Your tax preparer can calculate it more precisely with Form 1040-ES. In California, the FTB also expects estimated payments of state tax.
 
 
 
 #### Fake "IRS" scams
 
-The IRS usually contacts you first by mail. It doesn't call to demand immediate payment, doesn't ask for gift cards, crypto or transfers to people, and doesn't threaten you with police. If in doubt, go to irs.gov yourself or call the official number.
+The IRS usually contacts you first by mail. It doesn't call to demand immediate payment, and it doesn't ask for gift cards, crypto or transfers to people. It doesn't threaten you with police. If in doubt, go to irs.gov yourself or call the official number.
 
 
 
@@ -690,7 +690,7 @@ The CDTFA assigns you a filing frequency (yearly, quarterly or monthly) based on
 
 If you sell at fairs or temporary events, you may need a temporary permit or to report sales for the event location. Ask the organizer and the CDTFA.
 
-> **Before you act, check:** which products are taxable and your city's rate on the CDTFA's site (or your state's); food rules are special.
+> **Before you act, check:** which products are taxable and your city's rate, on the CDTFA's site or your state's. Food rules are special.
 
 
 

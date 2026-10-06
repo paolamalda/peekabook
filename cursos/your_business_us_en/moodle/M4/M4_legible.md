@@ -4,7 +4,7 @@
 
 **What you will be able to do:** Compare ways to get paid by cost, speed, protection and security, and choose the ones that suit your business.
 
-**To start:** Don Ramón's customers want to pay by card and with apps. He's offered a "at no cost" card reader, but he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare.
+**To start:** Don Ramón's customers want to pay by card and with apps. He's offered a card reader "at no cost." But he doesn't know what he'll be charged or when he'll get the deposits. In this lesson you'll see how to compare.
 
 ### The essentials (5 minutes)
 
@@ -17,7 +17,7 @@
 | Card reader | You take cards. | Fee per payment. |
 | Payment link or online invoice | You get paid remotely. | Fee; check chargebacks. |
 
-> **Current fact:** payment processors commonly charge between 2.6% and 3.5% per card payment, plus a flat fee of a few cents per transaction; remote payments usually cost more than in-person ones. Accessed September 29, 2026 through processors' published rates.
+> **Current fact:** payment processors commonly charge between 2.6% and 3.5% per card payment, plus a flat fee of a few cents per transaction. Remote payments usually cost more than in-person ones. Accessed September 29, 2026 through processors' published rates.
 
 #### What taking cards costs
 
@@ -172,7 +172,7 @@ CFPB · processors' published rates, accessed September 29, 2026.
 
 #### A screenshot isn't proof
 
-Payment apps and transfers arrive fast, but **the customer's screenshot is not proof of payment**: it can be faked or show a "pending" payment that never arrives.
+Payment apps and transfers arrive fast, but **the customer's screenshot is not proof of payment**. It can be faked, or it can show a "pending" payment that never arrives.
 
 
 
@@ -223,13 +223,13 @@ Daniela turned on alerts in her app and her bank. Now she ships only when she se
 
 #### The verification code
 
-If someone asks for the code you got by text "to verify you're real" or "to send you the payment," it's a scam: with that code they get into your account or open one in your name.
+It's a scam if someone asks for the code you got by text "to verify you're real" or "to send you the payment." With that code they get into your account or open one in your name.
 
 
 
 #### Fake "pending payment" emails
 
-Some emails imitate payment apps and say the payment is "on hold" until you pay for a "business account upgrade." Real apps don't work that way: always check inside the app.
+Some emails imitate payment apps and say the payment is "on hold." They ask you to pay for a "business account upgrade" to release it. Real apps don't work that way: always check inside the app.
 
 
 
@@ -378,7 +378,7 @@ If you take a card and the cardholder doesn't recognize the purchase, their bank
 
 Save screenshots, messages and numbers. Tell your bank or payment processor. Report it at ReportFraud.ftc.gov and, if you lost money online, at the FBI's IC3 (ic3.gov). Warn other businesses in the community, without personal data.
 
-> **Before you act, check:** any change to a supplier's payment details by calling the number you already had, never the number or link in the same message.
+> **Before you act, check:** any change to a supplier's payment details by calling the number you already had. Never use the number or link in the same message.
 
 
 

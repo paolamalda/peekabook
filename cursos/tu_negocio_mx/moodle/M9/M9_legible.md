@@ -63,7 +63,7 @@ Don Pepe localizó su AFORE: tenía 85,000 de sus años de empleado. Ahora aport
 
 Un Plan Personal de Retiro (PPR) puede ser deducible en la declaración anual, con límites. Pero si estás en RESICO, esa deducción no aplica a tus ingresos del régimen. Compara comisiones y rendimiento antes de elegir.
 
-> **Dato vigente:** las aportaciones a PPR y las complementarias de retiro son deducibles hasta 10% de los ingresos acumulables, con un máximo de 5 UMA anuales (213,973.20 pesos en 2026), en el régimen general; no aplican a los ingresos de RESICO. Consultado el 29 de septiembre de 2026 a través de la Ley del ISR (arts. 151-V y 185).
+> **Dato vigente:** en el régimen general, las aportaciones a PPR y las complementarias de retiro son deducibles hasta 10% de los ingresos acumulables. El máximo es 5 UMA anuales (213,973.20 pesos en 2026). No aplican a los ingresos de RESICO. Consultado el 29 de septiembre de 2026 a través de la Ley del ISR (arts. 151-V y 185).
 
 
 
@@ -354,7 +354,7 @@ Mariana llenó su hoja en una tarde. Descubrió que le faltaban dos cosas: regis
 
 Escoge una meta del trimestre con nombre («reserva de dos meses para la temporada baja»), cuánto apartarás y cada cuándo. Cuéntasela a alguien de confianza o a tu grupo de la comunidad. Programa el apartado automático el día que cobras y un recordatorio mensual con el nombre de tu meta.
 
-> **Idea clave:** tu plan cabe en una hoja; revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
+> **Idea clave:** tu plan cabe en una hoja. Revísalo cada tres meses, mejora una cosa a la vez y cumple tu compromiso con nombre, testigo y recordatorio.
 
 
 
@@ -391,7 +391,7 @@ Comparte tu plan con alguien de confianza o en la comunidad (sin datos personale
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
@@ -490,21 +490,23 @@ CONDUSEF, consultado el 29 de septiembre de 2026 · Innovations for Poverty Acti
 
 #### Impuestos y deudas al heredar
 
-Recibir una herencia **no paga ISR** en México; si pasa de 500,000 pesos y presentas declaración anual, se informa. Pasar la casa o el local a nombre de tus herederos sí cuesta (impuesto estatal, notario y registro). Las deudas del negocio se pagan con lo que dejas; tu familia no las paga con su dinero, salvo quien firmó como aval u obligado solidario.
+Recibir una herencia **no paga ISR** en México. Si pasa de 500,000 pesos y presentas declaración anual, se informa. Pasar la casa o el local a nombre de tus herederos sí cuesta: impuesto estatal, notario y registro.
 
-> **Dato vigente:** los ingresos por herencia están exentos de ISR (Ley del ISR, artículo 93, fracción XXII); se informan en la declaración anual si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
+Las deudas del negocio se pagan con lo que dejas. Tu familia no las paga con su dinero, salvo quien firmó como aval u obligado solidario.
+
+> **Dato vigente:** los ingresos por herencia no pagan ISR (Ley del ISR, artículo 93, fracción XXII). Se informan en la declaración anual si pasan de 500,000 pesos. Consultado el 30 de septiembre de 2026 a través del SAT y medios nacionales.
 
 
 
 #### El RFC y la e.firma no se heredan
 
-La e.firma y el RFC son personales. Si faltas, tu familia debe presentar el aviso de defunción ante el SAT y cerrar tus obligaciones fiscales; quien siga el negocio necesita su propio RFC. Deja escrito quién es tu contador y dónde están tus declaraciones.
+La e.firma y el RFC son personales. Si faltas, tu familia debe presentar el aviso de defunción ante el SAT y cerrar tus obligaciones fiscales. Quien siga el negocio necesita su propio RFC. Deja escrito quién es tu contador y dónde están tus declaraciones.
 
 
 
 #### Un caso en un minuto
 
-Don Pepe nombró beneficiarios, hizo su testamento en septiembre, revisó en el RAN la lista de sucesión de su parcela y dejó en su carpeta quién es su contador. Su hija abrió su propio RFC para seguir con la tienda cuando llegue el momento.
+Don Pepe nombró beneficiarios e hizo su testamento en septiembre. Revisó en el RAN la lista de sucesión de su parcela y dejó en su carpeta quién es su contador. Su hija abrió su propio RFC para seguir con la tienda cuando llegue el momento.
 
 > **Idea clave:** tu sucesión va más allá del testamento: beneficiarios, lista de sucesión si hay tierra ejidal, acuerdos con socios y accesos digitales. Heredar no paga ISR, pero escriturar sí cuesta, y el RFC no se hereda.
 
@@ -551,7 +553,9 @@ Si tus herederos venden el local o la casa, puede haber ISR sobre la ganancia; s
 
 #### Pasar el local o la casa en vida: el usufructo
 
-Si quieres que tu local o tu casa pase a tus hijos pero seguir usándolo o cobrando la renta, puedes donar con **reserva de usufructo** ante notario: ellos quedan como dueños y tú conservas el uso hasta que fallezcas. Entre padres e hijos la donación no paga ISR, pero escriturar sí cuesta y ya no puedes vender sin su firma. Compáralo con el testamento.
+¿Quieres que tu local o tu casa pase a tus hijos, pero seguir usándolo o cobrando la renta? Puedes donar con **reserva de usufructo** ante notario: ellos quedan como dueños y tú conservas el uso hasta que fallezcas.
+
+Entre padres e hijos, la donación no paga ISR. Pero escriturar sí cuesta y ya no puedes vender sin su firma. Compáralo con el testamento.
 
 
 

@@ -540,7 +540,9 @@ Rubén, with no history in any country, started with a 200 secured card and aske
 
 If you pay rent every month, you're already doing something that can count toward your history.
 
-In California, since 2025, a law (AB 2747) requires many landlords to offer tenants an option. They can report their on-time rent payments to at least one credit agency. It applies to buildings with more than 15 units and to some companies that own several properties. Only on-time payments are reported, if you ask. The landlord may charge you their cost, up to 10 dollars a month.
+In California, since 2025, a law (AB 2747) requires many landlords to offer tenants an option. They can report their on-time rent payments to at least one credit agency.
+
+It applies to buildings with more than 15 units and to some companies that own several properties. Only on-time payments are reported, if you ask. The landlord may charge you their cost, up to 10 dollars a month.
 
 Ask your landlord whether they offer this service and whether it has a cost.
 
@@ -1406,7 +1408,9 @@ Ask about the options, the fees, the effect on your report and how the agreement
 
 In California, the time a creditor has to sue you over a credit card debt or a written contract is usually **4 years**. It's called the statute of limitations.
 
-If a collector contacts you about a very old debt, check the date first. In California, paying a debt that is already time-barred doesn't revive the right to sue you. But **signing a new written promise to pay can**. The collector must tell you in writing if the debt is too old to sue over. Get guidance before you promise anything.
+If a collector contacts you about a very old debt, check the date first. In California, paying a debt that is already time-barred doesn't revive the right to sue you.
+
+But **signing a new written promise to pay can**. The collector must tell you in writing if the debt is too old to sue over. Get guidance before you promise anything.
 
 > **Good to know:** in California, debt collectors must be licensed by the DFPI, and there are special rules for debts sold to other companies. If a collector isn't licensed, report it.
 
@@ -1643,7 +1647,9 @@ Federal law requires many lenders to give you a cosigner notice before you sign.
 
 #### A reference isn't a cosigner
 
-When someone applies for a card, a loan or a rental, they're asked for references: names and phone numbers of people who know them. Being a reference doesn't obligate you to pay. The federal Fair Debt Collection Practices Act (FDCPA) only lets a collector ask you how to locate that person. They can't tell you that person owes a debt, and they can't charge you. If they pressure you, write down the details and submit a complaint to the CFPB.
+When someone applies for a card, a loan or a rental, they're asked for references: names and phone numbers of people who know them. Being a reference doesn't obligate you to pay.
+
+The federal Fair Debt Collection Practices Act (FDCPA) only lets a collector ask you how to locate that person. They can't tell you that person owes a debt, and they can't charge you. If they pressure you, write down the details and submit a complaint to the CFPB.
 
 
 

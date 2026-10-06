@@ -685,7 +685,7 @@ Algunas apps de apuestas no tienen permiso para operar en México. Si ganas, pue
 
 El juego compulsivo es un problema de salud. Los Centros de Integración Juvenil y la Línea de la Vida (800 911 2000) orientan sin costo. Separar el dinero y cortar caja cada día (M1 U02 y U04) también protege al negocio.
 
-> **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación antes de registrar tus datos o tu tarjeta.
+> **Antes de actuar, verifica:** que el sitio aparezca en la lista de permisionarios de la Secretaría de Gobernación. Hazlo antes de registrar tus datos o tu tarjeta.
 
 
 
@@ -802,7 +802,7 @@ Si alguien te quita tu ingreso, te impide trabajar, te exige cuentas de cada pes
 
 Rosa abrió una cuenta del negocio a su nombre y empezó a depositar ahí las ventas. Con sus registros le mostró a su pareja que la estufa se pagaba sola en cuatro meses. Ahora ella decide las compras del negocio, y lo que es de la casa lo acuerdan juntos.
 
-> **Idea clave:** tus habilidades son el capital de tu negocio; ten tu cuenta, tus registros y tus decisiones a tu nombre, y si alguien controla tu dinero, pide ayuda.
+> **Idea clave:** tus habilidades son el capital de tu negocio. Ten tu cuenta, tus registros y tus decisiones a tu nombre. Si alguien controla tu dinero, pide ayuda.
 
 
 

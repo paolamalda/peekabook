@@ -10,7 +10,9 @@
 
 #### Lo que sí tienes que cubrir
 
-**Estados Unidos · H-2A:** el empleador paga reclutamiento, vivienda y traslados (o te los reembolsa). **Canadá · PTAT:** el empleador paga el avión y puede descontarte hasta la mitad durante la temporada. **En los dos países** sueles cubrir tú algunos gastos antes de irte. Son los trámites y el traslado a la ciudad donde se hacen, la cuota de la visa en la H-2A (que te reembolsan) y tus primeros gastos personales.
+**Estados Unidos · H-2A:** el empleador paga reclutamiento, vivienda y traslados (o te los reembolsa). **Canadá · PTAT:** el empleador paga el avión y puede descontarte hasta la mitad durante la temporada. **En los dos países** sueles cubrir tú algunos gastos antes de irte.
+
+Son los trámites y el traslado a la ciudad donde se hacen, y tus primeros gastos personales. En la H-2A, también la cuota de la visa, que te reembolsan.
 
 
 

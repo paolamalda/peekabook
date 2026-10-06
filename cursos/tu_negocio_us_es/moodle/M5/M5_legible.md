@@ -19,9 +19,9 @@
 
 #### La pregunta clave
 
-Una LLC puede proteger tu casa y tus ahorros si el negocio tiene deudas o demandas, pero cuesta dinero cada año y exige mantener todo separado. Para muchos negocios que empiezan, ser dueño único con buen seguro es suficiente al inicio.
+Una LLC puede proteger tu casa y tus ahorros si el negocio tiene deudas o demandas. Pero cuesta dinero cada año y exige mantener todo separado. Para muchos negocios que empiezan, ser dueño único con buen seguro es suficiente al inicio.
 
-> **Dato vigente:** en California, una LLC paga un impuesto mínimo anual de $800 al Franchise Tax Board, aunque no tenga ingresos, hasta que se disuelve formalmente; también presenta una declaración de información cada dos años ante el Secretary of State. Consultado el 29 de septiembre de 2026 a través del Franchise Tax Board y el Secretary of State de California.
+> **Dato vigente:** en California, una LLC paga un impuesto mínimo anual de $800 al Franchise Tax Board, aunque no tenga ingresos, hasta que se disuelve formalmente. También presenta una declaración de información cada dos años ante el Secretary of State. Consultado el 29 de septiembre de 2026 a través del Franchise Tax Board y el Secretary of State de California.
 
 
 
@@ -54,7 +54,7 @@ Javier hizo cuentas: la LLC le costaría al menos $800 al año en California. De
 
 #### Nombre comercial (DBA)
 
-Si como dueño único usas un nombre distinto al tuyo («Tamales Lupita»), en California registras un nombre comercial ficticio (Fictitious Business Name o DBA) en tu condado. No es una empresa: solo registra el nombre.
+Si como dueño único usas un nombre distinto al tuyo («Tamales Lupita»), en California registras un nombre comercial ficticio en tu condado. Se llama Fictitious Business Name o DBA. No es una empresa: solo registra el nombre.
 
 
 
@@ -68,7 +68,7 @@ Usa una cuenta bancaria solo de la LLC, firma contratos a nombre de la LLC y no 
 
 Muchos sitios cobran por abrir una LLC o sacar un EIN, trámites que puedes hacer tú en los sitios oficiales. También llegan cartas que imitan al gobierno cobrando por «certificados» o «reportes anuales». Revisa siempre el remitente.
 
-> **Antes de actuar, verifica:** las reglas y costos de tu estado en el sitio del Secretary of State; si tienes dudas, consulta a un contador o a un centro sin costo de la SBA (SBDC).
+> **Antes de actuar, verifica:** las reglas y costos de tu estado en el sitio del Secretary of State. Si tienes dudas, consulta a un contador o a un centro sin costo de la SBA (SBDC).
 
 
 
@@ -168,7 +168,7 @@ SBA · Franchise Tax Board · California Secretary of State, consultados el 29 d
 
 #### El EIN
 
-El EIN identifica a tu negocio. Lo necesitas si tienes empleados o una LLC con ciertas características, y es útil para abrir cuentas y dar a clientes en lugar de tu SSN. Se tramita sin costo en el sitio del IRS; quien lo solicita debe tener SSN o ITIN.
+El EIN identifica a tu negocio. Lo necesitas si tienes empleados o una LLC con ciertas características. También sirve para abrir cuentas y dar a clientes en lugar de tu SSN. Se tramita sin costo en el sitio del IRS; quien lo solicita debe tener SSN o ITIN.
 
 
 
@@ -179,15 +179,15 @@ El EIN identifica a tu negocio. Lo necesitas si tienes empleados o una LLC con c
 3. **Permiso de salud** del condado si vendes comida (por ejemplo, operación de comida casera o Cottage Food, o permiso para food truck).
 4. **Licencia profesional** si tu oficio la pide (por ejemplo, la CSLB para construcción).
 
-> **Dato vigente:** en California, los trabajos de construcción o reparación de más de $1,000 en total (mano de obra y materiales), o que requieren permiso, necesitan licencia de la Contractors State License Board (CSLB). Consultado el 29 de septiembre de 2026 a través de la CSLB (AB 2622, vigente desde el 1 de enero de 2025).
+> **Dato vigente:** en California, los trabajos de construcción o reparación de más de $1,000 en total necesitan licencia. Se suman mano de obra y materiales; también la necesitan los trabajos que requieren permiso. La da la Contractors State License Board (CSLB). Consultado el 29 de septiembre de 2026 a través de la CSLB (AB 2622, vigente desde el 1 de enero de 2025).
 
 
 
 #### Un caso en un minuto
 
-Lupita sacó su EIN sin costo en irs.gov con su ITIN, pidió su seller's permit al CDTFA sin costo y se registró como operación de comida casera en el departamento de salud de su condado. Ahora puede vender en el mercado.
+Lupita sacó su EIN sin costo en irs.gov con su ITIN. Pidió su seller's permit al CDTFA, también sin costo. Y se registró como operación de comida casera en el departamento de salud de su condado. Ahora puede vender en el mercado.
 
-> **Idea clave:** el EIN y el seller's permit no tienen costo en los sitios oficiales; revisa en tu ciudad y tu condado qué licencias pide tu giro.
+> **Idea clave:** el EIN y el seller's permit no tienen costo en los sitios oficiales. Revisa en tu ciudad y tu condado qué licencias pide tu giro.
 
 
 
@@ -218,7 +218,7 @@ El ITIN es un número del IRS para quien debe declarar impuestos y no puede tene
 
 #### Tu situación migratoria
 
-Este curso no da asesoría migratoria. Si tienes dudas sobre cómo tu situación afecta tu negocio, consulta a un abogado de inmigración o a una organización acreditada por el Departamento de Justicia. Desconfía de «notarios» que ofrecen trámites migratorios.
+Este curso no da asesoría migratoria. Si tienes dudas sobre cómo tu situación afecta tu negocio, consulta a un abogado de inmigración. También puedes ir a una organización acreditada por el Departamento de Justicia. Desconfía de «notarios» que ofrecen trámites migratorios.
 
 
 
@@ -323,7 +323,9 @@ IRS · CDTFA · CSLB · CalGold, consultados el 29 de septiembre de 2026.
 | Deducciones del negocio | Gastos ordinarios y necesarios. | Bajan tu ganancia. |
 | Deducción de 20% (QBI) | Sobre la ganancia del negocio, con límites. | Baja tu impuesto sobre la renta. |
 
-> **Dato vigente:** el impuesto sobre el trabajo por cuenta propia es de 15.3% (12.4% Seguro Social y 2.9% Medicare) sobre el 92.35% de tu ganancia neta; se paga si ganas $400 o más. La parte de Seguro Social se aplica hasta $184,500 en 2026. La deducción de 20% por ingreso calificado de negocio (QBI) quedó permanente desde 2026. Consultado el 29 de septiembre de 2026 a través del IRS y la ley One Big Beautiful Bill Act.
+> **Dato vigente:** el impuesto sobre el trabajo por cuenta propia es de 15.3%: 12.4% de Seguro Social y 2.9% de Medicare. Se calcula sobre el 92.35% de tu ganancia neta y se paga si ganas $400 o más.
+>
+> La parte de Seguro Social se aplica hasta $184,500 en 2026. La deducción de 20% por ingreso calificado de negocio (QBI) quedó permanente desde 2026. Consultado el 29 de septiembre de 2026 a través del IRS y la ley One Big Beautiful Bill Act.
 
 #### El impuesto por cuenta propia de Daniela
 
@@ -338,7 +340,7 @@ Además, según su ingreso total, puede deber impuesto sobre la renta.
 
 Daniela no sabía que, como dueña, paga el Seguro Social y el Medicare completos. Este año aparta 25% de cada ganancia en una cuenta aparte y lleva sus recibos para deducir material, envíos y comisiones.
 
-> **Idea clave:** como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta; aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
+> **Idea clave:** como dueño pagas 15.3% de Seguro Social y Medicare, más impuesto sobre la renta. Aparta 25% a 30% de tu ganancia y deduce tus gastos con recibos.
 
 
 
@@ -376,7 +378,7 @@ Daniela no sabía que, como dueña, paga el Seguro Social y el Medicare completo
 
 #### El Schedule C
 
-Como dueño único, reportas ventas y gastos en el Schedule C de tu declaración (Formulario 1040) y calculas el impuesto por cuenta propia en el Schedule SE. La mitad del impuesto por cuenta propia se resta de tu ingreso.
+Como dueño único, reportas ventas y gastos en el Schedule C de tu declaración (Formulario 1040). El impuesto por cuenta propia lo calculas en el Schedule SE. La mitad de ese impuesto se resta de tu ingreso.
 
 
 
@@ -477,7 +479,7 @@ IRS · One Big Beautiful Bill Act (2025), consultados el 29 de septiembre de 202
 
 Como nadie te retiene impuestos, el IRS espera que pagues durante el año con pagos estimados si calculas que deberás $1,000 o más. Si no, puedes pagar multas.
 
-> **Dato vigente:** las fechas de pagos estimados para el año fiscal 2026 son el 15 de abril, el 15 de junio y el 15 de septiembre de 2026, y el 15 de enero de 2027. Consultado el 29 de septiembre de 2026 a través del IRS (Formulario 1040-ES).
+> **Dato vigente:** las fechas de pagos estimados para el año fiscal 2026 son el 15 de abril, el 15 de junio y el 15 de septiembre de 2026. La última es el 15 de enero de 2027. Consultado el 29 de septiembre de 2026 a través del IRS (Formulario 1040-ES).
 
 
 
@@ -496,7 +498,7 @@ Como nadie te retiene impuestos, el IRS espera que pagues durante el año con pa
 
 Javier entendió que el 1099-NEC solo reporta lo que ya ganó. Ahora paga cada trimestre en IRS Direct Pay con lo que aparta. La llamada «del IRS» era un fraude: el IRS no llama para exigir tarjetas de regalo.
 
-> **Idea clave:** paga tus impuestos cada trimestre y declara todo tu ingreso; el IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
+> **Idea clave:** paga tus impuestos cada trimestre y declara todo tu ingreso. El IRS nunca te exige pagar con tarjetas de regalo ni te amenaza con arresto por teléfono.
 
 
 
@@ -521,7 +523,7 @@ Javier entendió que el 1099-NEC solo reporta lo que ya ganó. Ahora paga cada t
 
 #### Cuánto pagar cada trimestre
 
-Una forma práctica: toma lo que apartaste (25% a 30% de tu ganancia del trimestre) y págalo en IRS Direct Pay o en tu cuenta en línea del IRS. Tu preparador de impuestos puede calcularlo mejor con el formulario 1040-ES. En California, el FTB también pide pagos estimados del impuesto estatal.
+Una forma práctica: toma lo que apartaste, 25% a 30% de tu ganancia del trimestre. Págalo en IRS Direct Pay o en tu cuenta en línea del IRS. Tu preparador de impuestos puede calcularlo mejor con el formulario 1040-ES. En California, el FTB también pide pagos estimados del impuesto estatal.
 
 
 
@@ -676,7 +678,7 @@ Lupita consultó al CDTFA: su comida caliente en el mercado lleva impuesto; los 
 
 #### Si vendes en plataformas
 
-En la mayoría de los estados, las plataformas grandes de comercio en línea cobran y entregan el sales tax por ti en las ventas que pasan por ellas (se les llama «facilitadores de mercado»). Tus ventas directas por tu página o redes siguen siendo tu responsabilidad.
+En la mayoría de los estados, las plataformas grandes de comercio en línea cobran y entregan el sales tax por ti. Lo hacen en las ventas que pasan por ellas; se les llama «facilitadores de mercado». Tus ventas directas por tu página o redes siguen siendo tu responsabilidad.
 
 
 
@@ -690,7 +692,7 @@ El CDTFA te asigna una frecuencia (anual, trimestral o mensual) según cuánto v
 
 Si vendes en ferias o eventos temporales, puedes necesitar un permiso temporal o reportar las ventas del lugar del evento. Pregunta al organizador y al CDTFA.
 
-> **Antes de actuar, verifica:** qué productos llevan impuesto y la tasa de tu ciudad en el sitio del CDTFA (o de tu estado); las reglas de comida son especiales.
+> **Antes de actuar, verifica:** qué productos llevan impuesto y la tasa de tu ciudad, en el sitio del CDTFA o de tu estado. Las reglas de comida son especiales.
 
 
 

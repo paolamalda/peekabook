@@ -540,7 +540,9 @@ Rubén, sin historial en ningún país, empezó con una tarjeta garantizada de 2
 
 Si pagas renta cada mes, ya haces algo que puede contar para tu historial.
 
-En California, desde 2025, una ley (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos una opción. Pueden reportar sus pagos puntuales de renta a al menos una agencia de crédito. Aplica a edificios de más de 15 unidades y a algunas empresas dueñas de varias propiedades. Solo se reportan pagos a tiempo, si tú lo pides. El arrendador puede cobrarte lo que le cuesta, hasta 10 dólares al mes.
+En California, desde 2025, una ley (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos una opción. Pueden reportar sus pagos puntuales de renta a al menos una agencia de crédito.
+
+Aplica a edificios de más de 15 unidades y a algunas empresas dueñas de varias propiedades. Solo se reportan pagos a tiempo, si tú lo pides. El arrendador puede cobrarte lo que le cuesta, hasta 10 dólares al mes.
 
 Pregunta a tu arrendador si ofrece este servicio y si tiene algún costo.
 
@@ -1643,7 +1645,9 @@ La ley federal obliga a muchos prestamistas a darte un aviso para cofirmantes an
 
 #### Referencia no es cofirmante
 
-Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia no te obliga a pagar. La ley federal de cobranza (FDCPA) solo permite que un cobrador te pregunte cómo localizar a esa persona. No puede decirte que tiene una deuda ni cobrarte. Si te presiona, anota los datos y preséntalo ante la CFPB.
+Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia no te obliga a pagar.
+
+La ley federal de cobranza (FDCPA) solo permite que un cobrador te pregunte cómo localizar a esa persona. No puede decirte que tiene una deuda ni cobrarte. Si te presiona, anota los datos y preséntalo ante la CFPB.
 
 
 

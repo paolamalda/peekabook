@@ -189,7 +189,7 @@ Your business and your home are two different pockets. If you mix them, you'll n
 
 Lupita opened a second checking account at a credit union, with no monthly fee, and linked her payment app to it. Now she knows how much she sells each week.
 
-> **Key idea:** separate the money and pay yourself a salary; you'll know whether your business makes money and your expenses will be ready for taxes.
+> **Key idea:** separate the money and pay yourself a salary. You'll know whether your business makes money, and your expenses will be ready for taxes.
 
 
 
@@ -366,7 +366,7 @@ Lupita transfers $225 every Monday from the business account to hers. She keeps 
 
 #### If you are a sole proprietor
 
-As a sole proprietor, your "salary" is not a business expense for the IRS: you pay taxes on all the profit, whether you take it out or not. That's why setting taxes aside is so important. If you have an LLC or another structure, the rules may change (M5 U01).
+As a sole proprietor, your "salary" is not a business expense for the IRS. You pay taxes on all the profit, whether you take it out or not. That's why setting taxes aside is so important. If you have an LLC or another structure, the rules may change (M5 U01).
 
 
 
@@ -684,7 +684,7 @@ Gambling winnings are income for the IRS even if you don't get a form. One more 
 
 Compulsive gambling is a health problem. The national helpline 1-800-GAMBLER costs nothing and available 24 hours a day. California also offers no-cost treatment for residents.
 
-> **Before you act, check:** your state's rules; what's legal in one state may not be in another, and unlicensed sites don't protect you if they don't pay.
+> **Before you act, check:** your state's rules. What's legal in one state may not be in another. Unlicensed sites don't protect you if they don't pay.
 
 
 
@@ -800,7 +800,7 @@ If someone takes your income, keeps you from working, demands an account of ever
 
 Lupita opened a business account in her name at a credit union with her ITIN and linked her payment app to it. Her records showed the pot would pay for itself in three months. Now she decides the business purchases, and household spending is agreed together.
 
-> **Key idea:** your skills are your business's capital; keep your account, your payments and your decisions in your name, and if someone controls your money, get help.
+> **Key idea:** your skills are your business's capital. Keep your account, your payments and your decisions in your name. If someone controls your money, get help.
 
 
 
@@ -833,7 +833,7 @@ Agree on what belongs to the business and what belongs to the household, with nu
 
 The National Domestic Violence Hotline costs nothing, 24 hours a day, in English and Spanish: call 1-800-799-7233 or text START to 88788. In an emergency, call 911.
 
-> **Before you act, check:** that your account, your EIN or ITIN and your contracts are in your name and that no one else has your passwords.
+> **Before you act, check:** that your account, your EIN or ITIN and your contracts are in your name. Make sure no one else has your passwords.
 
 
 

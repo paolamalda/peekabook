@@ -4,7 +4,7 @@
 
 **Lo que lograrás:** Revisar tus cuentas bancarias: para qué sirve cada una, cuánto te cuesta, cuánto te paga (GAT) y cerrar las que no usas.
 
-**Para empezar:** Carmen tiene cinco cuentas en tres bancos: la de nómina vieja de Arturo, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas.
+**Para empezar:** Carmen tiene cinco cuentas en tres bancos. Son la de nómina vieja de Arturo, una de ahorro de hace años, la de la casa, la suya y una en dólares. Dos cobran comisión y ninguna le paga casi nada. En esta lección ordenarás tus cuentas.
 
 ### Lo esencial (5 minutos)
 
@@ -76,7 +76,7 @@ Retira el saldo, cancela domiciliaciones, pide la cancelación por escrito y gua
 
 Si una cuenta pasa años sin movimientos, el banco puede traspasar el dinero a una cuenta global y, con el tiempo, al gobierno. Revisa tus cuentas olvidadas y reactívalas o ciérralas.
 
-> **Antes de actuar, verifica:** las comisiones y la GAT de cada cuenta están en tu contrato y en el sitio del banco; compáralas en los simuladores de CONDUSEF.
+> **Antes de actuar, verifica:** las comisiones y la GAT de cada cuenta están en tu contrato y en el sitio del banco. Compáralas en los simuladores de CONDUSEF.
 
 
 
@@ -688,7 +688,7 @@ Carmen dejó de usar la tarjeta, pagó más del mínimo cada mes y en ocho meses
 
 #### Pon candados
 
-Activa alertas por cada compra, pon un límite en la app y domicilia el pago para no generar intereses si tienes el dinero en tu cuenta (M3 U03).
+Activa alertas por cada compra y pon un límite en la app. Si tienes el dinero en tu cuenta, domicilia el pago para no generar intereses (M3 U03).
 
 
 
@@ -696,7 +696,7 @@ Activa alertas por cada compra, pon un límite en la app y domicilia el pago par
 
 Si das una tarjeta adicional a un hijo o hija, todo lo que gaste se suma a tu deuda y a tu historial. Pon un límite bajo o no la des.
 
-> **Dato vigente:** el Banco de México fija reglas para el pago mínimo de las tarjetas de crédito, y tu estado de cuenta debe mostrar el pago mínimo, el pago para no generar intereses y cuánto tardarías en liquidar si pagas solo el mínimo. Consultado el 30 de septiembre de 2026 a través del Banco de México y CONDUSEF.
+> **Dato vigente:** el Banco de México fija reglas para el pago mínimo de las tarjetas de crédito. Tu estado de cuenta debe mostrar el pago mínimo y el pago para no generar intereses. También cuánto tardarías en liquidar si pagas solo el mínimo. Consultado el 30 de septiembre de 2026 a través del Banco de México y CONDUSEF.
 
 > **Antes de actuar, verifica:** en tu estado de cuenta el pago para no generar intereses y la fecha límite de pago.
 
@@ -791,7 +791,7 @@ Banco de México · CONDUSEF, consultados el 30 de septiembre de 2026.
 
 Las sociedades de información crediticia reciben de bancos y tiendas cómo pagas. Los otorgantes lo consultan para decidir si te prestan y a qué costo. Estar en el Buró no es malo: lo que importa es cómo pagas.
 
-> **Dato vigente:** puedes pedir tu reporte especial sin costo una vez cada 12 meses en Buró de Crédito y en Círculo de Crédito (Ley para Regular las Sociedades de Información Crediticia, artículo 40). Consultado el 30 de septiembre de 2026 a través de sus sitios oficiales y CONDUSEF.
+> **Dato vigente:** puedes pedir tu reporte especial sin costo una vez cada 12 meses en Buró de Crédito y en Círculo de Crédito. Así lo dice la Ley para Regular las Sociedades de Información Crediticia, artículo 40. Consultado el 30 de septiembre de 2026 a través de sus sitios oficiales y CONDUSEF.
 
 
 
@@ -839,7 +839,7 @@ Lucía pidió su reporte sin costo y encontró el crédito de su sobrino con atr
 
 #### Nadie «limpia» tu historial
 
-Los despachos que cobran por «borrar tu Buró» son fraude: la información correcta se queda el tiempo que marca la ley, y las reclamaciones las haces tú, sin costo.
+Los despachos que cobran por «borrar tu Buró» son fraude. La información correcta se queda el tiempo que marca la ley, y las reclamaciones las haces tú, sin costo.
 
 
 
@@ -847,7 +847,7 @@ Los despachos que cobran por «borrar tu Buró» son fraude: la información cor
 
 Los atrasos se eliminan después de un plazo que depende del monto de la deuda. Consulta la guía de CONDUSEF sobre plazos.
 
-> **Antes de actuar, verifica:** que estás en el sitio oficial de Buró de Crédito o Círculo de Crédito; nadie te llama para cobrarte por tu reporte.
+> **Antes de actuar, verifica:** que estás en el sitio oficial de Buró de Crédito o Círculo de Crédito. Nadie te llama para cobrarte por tu reporte.
 
 
 
@@ -932,7 +932,7 @@ Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 30 de sept
 
 **Lo que lograrás:** Distinguir aval, obligado solidario, fiador, garantía y referencia personal, saber qué te pueden cobrar en cada caso y decidir antes de firmar por otra persona.
 
-**Para empezar:** El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento, y la hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
+**Para empezar:** El sobrino de Lucía le pide que firme como obligada solidaria para rentar un departamento. La hija de Elena la puso de referencia en su primera tarjeta. Ninguna sabe qué le pueden cobrar. En esta lección verás qué implica cada papel.
 
 ### Lo esencial (5 minutos)
 
@@ -955,7 +955,7 @@ Buró de Crédito · Círculo de Crédito · CONDUSEF, consultados el 30 de sept
 
 Cuando alguien pide una tarjeta o un préstamo, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia personal no te obliga a pagar nada. Si no firmaste como aval, obligado solidario o fiador, esa deuda no es tuya.
 
-> **Dato vigente:** las reglas de la CONDUSEF para despachos de cobranza solo les permiten cobrar al deudor, a sus avales y a sus obligados solidarios; no pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
+> **Dato vigente:** las reglas de la CONDUSEF solo permiten a los despachos de cobranza cobrar al deudor, a sus avales y a sus obligados solidarios. No pueden cobrar a referencias personales ni amenazar a familiares o compañeros de trabajo. Las quejas se presentan en el REDECO. Consultado el 30 de septiembre de 2026 a través de la CONDUSEF.
 
 
 
@@ -1109,9 +1109,9 @@ CONDUSEF (disposiciones para despachos de cobranza y REDECO), consultados el 30 
 
 #### El tope y el seguro
 
-Si recibes pensión del IMSS por la Ley 73, el descuento mensual de un préstamo a cuenta de tu pensión **no puede pasar de 30%** de tu pensión. Estos préstamos incluyen un seguro: si la persona fallece, la deuda se cancela y no pasa a la familia.
+Si tu pensión del IMSS es de la Ley 73, el descuento de un préstamo a cuenta de tu pensión **no puede pasar de 30%** de ella. Estos préstamos incluyen un seguro. Si la persona fallece, la deuda se cancela y no pasa a la familia.
 
-> **Dato vigente:** los préstamos a cuenta de pensión del IMSS son para pensionados de la Ley del Seguro Social de 1973, con descuento de hasta 30% de la pensión y seguro de liberación de adeudo por fallecimiento; las financieras deben tener convenio con el IMSS. Consultado el 30 de septiembre de 2026 a través del IMSS y medios nacionales.
+> **Dato vigente:** los préstamos a cuenta de pensión del IMSS son para pensionados de la Ley del Seguro Social de 1973. El descuento es de hasta 30% de la pensión e incluyen un seguro que cancela la deuda por fallecimiento. Las financieras deben tener convenio con el IMSS. Consultado el 30 de septiembre de 2026 a través del IMSS y medios nacionales.
 
 
 
@@ -1125,7 +1125,7 @@ Solo trata con financieras que aparezcan en el **listado oficial del IMSS** (o e
 
 Lucía colgó. Revisó el listado de financieras con convenio en la página del IMSS y comparó dos: la que más le prestaba cobraba 35,000 más en total. Pidió menos y eligió el pago que le dejaba vivir tranquila.
 
-> **Idea clave:** un préstamo que se descuenta solo sigue siendo deuda; compara el total a pagar, trata solo con financieras en el listado oficial y nunca pagues para que te «liberen» un préstamo.
+> **Idea clave:** un préstamo que se descuenta solo sigue siendo deuda. Compara el total a pagar y trata solo con financieras del listado oficial. Nunca pagues para que te «liberen» un préstamo.
 
 
 
@@ -1169,7 +1169,7 @@ Te ofrecerán «renovar» para darte dinero nuevo. Con eso vuelves a empezar y p
 
 #### Si un familiar te pide que lo saques
 
-Si un hijo o un sobrino te pide que saques un préstamo a cuenta de tu pensión para él, la deuda es tuya y se descuenta de tu pensión aunque él no pague.
+Si un hijo o un sobrino te pide que saques un préstamo a cuenta de tu pensión para él, la deuda es tuya. Se descuenta de tu pensión aunque él no pague.
 
 
 
@@ -1278,9 +1278,9 @@ Por eso el empeño conviene solo para una urgencia corta.
 
 #### Antes de empeñar
 
-Busca la casa en el **Registro Público de Casas de Empeño de la PROFECO**, compara el avalúo y el costo en dos casas, y pide todo por escrito. Guarda tu boleta.
+Busca la casa en el **Registro Público de Casas de Empeño de la PROFECO**. Compara el avalúo y el costo en dos casas, y pide todo por escrito. Guarda tu boleta.
 
-> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO, con un contrato de adhesión registrado, y refrendar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
+> **Dato vigente:** todas las casas de empeño deben estar inscritas en el Registro Público de Casas de Empeño (RPCE) de la PROFECO. Deben tener un contrato de adhesión registrado y renovar su registro cada año. Consultado el 30 de septiembre de 2026 a través de la PROFECO.
 
 
 

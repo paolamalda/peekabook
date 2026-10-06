@@ -27,7 +27,7 @@ El mercado de seguros tiene un periodo de inscripción abierta cada año (en oto
 
 Javier revisó Covered California con su ingreso estimado del negocio. Calificó para ayuda con la prima y eligió un plan con consultas a bajo costo. También aparta una pequeña reserva para su deducible.
 
-> **Idea clave:** si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias; una emergencia sin seguro puede costarte tu negocio.
+> **Idea clave:** si trabajas por tu cuenta, revisa el mercado de seguros, Medi-Cal y las clínicas comunitarias. Una emergencia sin seguro puede costarte tu negocio.
 
 
 
@@ -364,13 +364,13 @@ Muchos fraudes empiezan cuando alguien entra a tu correo. Usa contraseñas disti
 
 #### Extorsión
 
-Si alguien te amenaza para cobrarte «protección» o te llama diciendo que tiene a un familiar, cuelga, localiza a tu familiar por otro medio y llama al 911 o a la policía local. No compartas horarios ni fotos de tu caja en redes.
+Si alguien te amenaza para cobrarte «protección» o te llama diciendo que tiene a un familiar, cuelga. Localiza a tu familiar por otro medio y llama al 911 o a la policía local. No compartas horarios ni fotos de tu caja en redes.
 
 
 
 #### Robo de identidad del negocio
 
-Revisa tu registro en el Secretary of State de vez en cuando: si alguien cambia los datos de tu LLC, puede pedir crédito a tu nombre. Reporta el robo de identidad en IdentityTheft.gov.
+Revisa tu registro en el Secretary of State de vez en cuando. Si alguien cambia los datos de tu LLC, puede pedir crédito a tu nombre. Reporta el robo de identidad en IdentityTheft.gov.
 
 
 
@@ -472,7 +472,7 @@ Registrar tu marca en la USPTO te da derechos en todo el país para ciertos prod
 3. Presenta la solicitud en línea y paga la tarifa.
 4. Responde a tiempo los requerimientos de la USPTO.
 
-> **Dato vigente:** la solicitud base de marca en la USPTO cuesta $350 por clase; puede haber cargos adicionales si la descripción no es del catálogo o falta información. Consultado el 29 de septiembre de 2026 a través de la USPTO (tarifas vigentes desde el 18 de enero de 2025).
+> **Dato vigente:** la solicitud base de marca en la USPTO cuesta $350 por clase. Puede haber cargos adicionales si la descripción no es del catálogo o falta información. Consultado el 29 de septiembre de 2026 a través de la USPTO (tarifas vigentes desde el 18 de enero de 2025).
 
 
 
@@ -617,7 +617,7 @@ USPTO · California Secretary of State, consultados el 29 de septiembre de 2026.
 
 #### Qué es el robo de identidad
 
-El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus documentos para abrir tarjetas, pedir préstamos o presentar una declaración de impuestos a tu nombre. Como dueño de negocio, tus datos personales están en muchos formularios: cuídalos.
+El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus documentos. Con ellos abre tarjetas, pide préstamos o presenta una declaración de impuestos a tu nombre. Como dueño de negocio, tus datos personales están en muchos formularios: cuídalos.
 
 
 
@@ -630,13 +630,13 @@ El robo de identidad ocurre cuando alguien usa tu SSN o ITIN, tu nombre o tus do
 | Tus reportes de crédito | Sin costo cada semana en AnnualCreditReport.com. | Revisa lo que no reconoces. |
 | IP PIN del IRS | Nadie declara con tu número (M5 U04). | Sin costo. |
 
-> **Dato vigente:** congelar y descongelar tu crédito no tiene costo en Equifax, Experian y TransUnion (hay que pedirlo en las tres); una alerta de fraude inicial no tiene costo, dura un año y basta pedirla en una agencia; y puedes ver tus reportes sin costo cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
+> **Dato vigente:** congelar y descongelar tu crédito no tiene costo en Equifax, Experian y TransUnion; hay que pedirlo en las tres. Una alerta de fraude inicial no tiene costo, dura un año y basta pedirla en una agencia. Puedes ver tus reportes sin costo cada semana en AnnualCreditReport.com. Consultado el 29 de septiembre de 2026 a través de la FTC.
 
 #### Que dejen de llamarte
 
 Registra tu número en el Registro Nacional No Llame en donotcall.gov. Es sin costo y no vence. Después de registrarte, las llamadas de ventas que siguen llegando suelen ser ilegales o estafas.
 
-> **Dato vigente:** el Registro Nacional No Llame (National Do Not Call Registry) no tiene costo, el número aparece al día siguiente, las empresas tienen hasta 31 días para dejar de llamar y el registro no vence. Consultado el 29 de septiembre de 2026 a través de la FTC (donotcall.gov).
+> **Dato vigente:** el Registro Nacional No Llame (National Do Not Call Registry) no tiene costo y el registro no vence. Tu número aparece al día siguiente y las empresas tienen hasta 31 días para dejar de llamar. Consultado el 29 de septiembre de 2026 a través de la FTC (donotcall.gov).
 
 
 
@@ -679,7 +679,7 @@ Don Ramón pidió sus reportes, encontró la tarjeta falsa, la reportó en Ident
 
 #### Si tienes ITIN
 
-Si tienes historial de crédito con ITIN, pregunta a cada agencia cómo pedir el congelamiento o la alerta con tu ITIN; algunos trámites piden documentos adicionales. El IP PIN del IRS también está disponible para quien declara con ITIN.
+Si tienes historial de crédito con ITIN, pregunta a cada agencia cómo pedir el congelamiento o la alerta con tu ITIN. Algunos trámites piden documentos adicionales. El IP PIN del IRS también está disponible para quien declara con ITIN.
 
 
 
@@ -687,7 +687,7 @@ Si tienes historial de crédito con ITIN, pregunta a cada agencia cómo pedir el
 
 El Registro No Llame no frena llamadas de cobranza, encuestas, organizaciones benéficas, políticas ni de empresas con las que ya tienes relación. Tampoco frena a los estafadores. Tu compañía de teléfono ofrece herramientas sin costo para bloquear llamadas sospechosas; úsalas.
 
-> **Antes de actuar, verifica:** que estás en donotcall.gov, AnnualCreditReport.com o IdentityTheft.gov; hay sitios que imitan estos nombres y cobran por lo que no tiene costo.
+> **Antes de actuar, verifica:** que estás en donotcall.gov, AnnualCreditReport.com o IdentityTheft.gov. Hay sitios que imitan estos nombres y cobran por lo que no tiene costo.
 
 
 
@@ -781,7 +781,7 @@ FTC · IRS, consultados el 29 de septiembre de 2026.
 
 #### Qué pueden imitar
 
-Con unos segundos de audio o unas fotos de tus redes, la inteligencia artificial puede imitar la voz de un familiar, un proveedor o un cliente; crear videos falsos de famosos que «recomiendan» inversiones; o escribir correos idénticos a los de tu banco o del IRS.
+Con unos segundos de audio o unas fotos de tus redes, la inteligencia artificial puede imitar la voz de alguien cercano. Puede ser un familiar, un proveedor o un cliente. También puede crear videos falsos de famosos que «recomiendan» inversiones. Y puede escribir correos idénticos a los de tu banco o del IRS.
 
 
 
@@ -932,7 +932,7 @@ FTC, consultado el 29 de septiembre de 2026.
 
 En zonas declaradas como desastre, FEMA ofrece asistencia a personas y la SBA ofrece préstamos a bajo interés a hogares y negocios. El IRS suele dar más tiempo para declarar y pagar impuestos.
 
-> **Dato vigente:** los préstamos por desastre de la SBA llegan hasta $500,000 para reparar la vivienda principal, $100,000 para bienes personales y $2 millones para negocios (daños físicos o capital de trabajo); la tasa no pasa de 4% si no consigues crédito en otro lado. Consultado el 29 de septiembre de 2026 a través de la SBA.
+> **Dato vigente:** los préstamos por desastre de la SBA llegan hasta $500,000 para reparar la vivienda principal y $100,000 para bienes personales. Para negocios, hasta $2 millones por daños físicos o capital de trabajo. La tasa no pasa de 4% si no consigues crédito en otro lado. Consultado el 29 de septiembre de 2026 a través de la SBA.
 
 
 
@@ -973,7 +973,7 @@ Cuando el gobierno declara una zona de desastre, el IRS suele posponer las fecha
 
 Aparecen falsos inspectores de FEMA, contratistas que cobran por adelantado y colectas falsas. FEMA no cobra por ayudarte ni te pide pagos para inscribirte. En California, verifica la licencia del contratista en la CSLB.
 
-> **Antes de actuar, verifica:** qué cubre tu póliza (inundación, terremoto, interrupción del negocio) y pide las ayudas solo en DisasterAssistance.gov, sba.gov e irs.gov.
+> **Antes de actuar, verifica:** qué cubre tu póliza: inundación, terremoto, interrupción del negocio. Pide las ayudas solo en DisasterAssistance.gov, sba.gov e irs.gov.
 
 
 

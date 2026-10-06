@@ -10,7 +10,9 @@
 
 #### Por día o por quincena
 
-Si trabajas **de entrada por salida**, cobras por día y cada día puede ser una casa distinta. Lo que te entra depende de cuántos días trabajas. Si trabajas **de planta**, cobras por semana o por quincena y tu ingreso es más parejo. En los dos casos, lo que importa para tus cuentas es lo que **de verdad te entra** en el mes.
+Si trabajas **de entrada por salida**, cobras por día y cada día puede ser una casa distinta. Lo que te entra depende de cuántos días trabajas.
+
+Si trabajas **de planta**, cobras por semana o por quincena y tu ingreso es más parejo. En los dos casos, lo que importa para tus cuentas es lo que **de verdad te entra** en el mes.
 
 
 

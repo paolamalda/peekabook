@@ -33,7 +33,7 @@ En tu inventario **no** van números completos de tarjeta, NIP, contraseñas ni 
 
 #### Un caso en un minuto
 
-Carmen se sentó con Arturo un domingo. Con los estados de cuenta a la mano, llenaron una tabla: dos cuentas de banco, un fondo en una casa de bolsa, el seguro de gastos médicos y el departamento.
+Carmen se sentó con Arturo un domingo, con los estados de cuenta a la mano. Llenaron una tabla con todo: dos cuentas de banco, un fondo en una casa de bolsa, el seguro de gastos médicos y el departamento.
 
 Descubrieron una cuenta vieja que nadie usaba y que cobraba comisión cada mes.
 
@@ -85,7 +85,7 @@ Anota el titular de cada cosa. Importa porque, si el titular falta, lo que sigue
 - Pólizas y recibos de seguros.
 - El reporte de crédito, que muestra créditos y tarjetas a tu nombre.
 
-> **Antes de actuar, verifica:** si encuentras una cuenta o inversión que no reconoces, llama al número oficial de la institución, no al que venga en un papel viejo o en un mensaje.
+> **Antes de actuar, verifica:** si encuentras una cuenta o inversión que no reconoces, llama al número oficial de la institución. No uses el que venga en un papel viejo o en un mensaje.
 
 
 
@@ -403,7 +403,7 @@ Carmen le propuso a Arturo una «cita de dinero» al mes. Empezaron con el inven
 
 #### Si la conversación no es posible
 
-Si tu pareja se niega siempre a hablar de dinero, te quita el acceso a tus cuentas o controla todo lo que gastas, puede tratarse de control económico. En el módulo 11 verás cómo reconocerlo y dónde pedir apoyo.
+Puede ser control económico. Por ejemplo, si tu pareja se niega siempre a hablar de dinero, te quita el acceso a tus cuentas o controla lo que gastas. En el módulo 11 verás cómo reconocerlo y dónde pedir apoyo.
 
 
 
@@ -676,7 +676,7 @@ Antes de comprar a plazos, suma todos tus pagos que ya corren. Un pago nuevo es 
 
 Elena hizo una lista de todos sus pagos a plazos: 4,300 al mes. Decidió no comprar nada nuevo a plazos hasta terminar dos. Canceló una plataforma que nadie veía y compra el súper con lista.
 
-> **Idea clave:** compra con lista, compara por unidad, suma todos tus pagos a plazos antes de uno nuevo y espera un día ante el «solo hoy».
+> **Idea clave:** compra con lista y compara por unidad. Antes de un pago a plazos nuevo, suma todos los que ya tienes. Ante el «solo hoy», espera un día.
 
 
 
@@ -719,7 +719,7 @@ Un auto, una mascota o un aparato traen gastos después: mantenimiento, seguro, 
 | | | | |
 | | | | |
 
-> **Antes de actuar, verifica:** el precio de contado, el número de pagos y el total; en «Quién es quién en los precios» de Profeco puedes comparar.
+> **Antes de actuar, verifica:** el precio de contado, el número de pagos y el total. Puedes comparar en «Quién es quién en los precios» de Profeco.
 
 
 
