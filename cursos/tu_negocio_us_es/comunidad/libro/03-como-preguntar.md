@@ -23,7 +23,7 @@ Una pregunta clara recibe una respuesta útil más rápido.
 **Qué haces:** (una o dos líneas)
 **Dónde:** (ciudad o «en línea»)
 **Qué aprendiste del curso que ya aplicas:** (una línea)
-**Cómo encontrarte:** (tus redes o página pública del negocio)
+**Cómo encontrarte:** (página o redes del negocio; sin teléfono personal ni domicilio)
 
 ## Responder a otras personas
 

@@ -232,7 +232,7 @@ A company can give you services through an app without being a bank. Another can
 
 #### Deposit insurance
 
-At a bank insured by the **FDIC**, your money is protected up to **250,000 dollars** per person, per bank, per type of account, if the bank fails.
+At a bank insured by the **FDIC**, your money is protected if the bank fails. The protection goes up to **250,000 dollars** per person, per bank and per type of account.
 
 At credit unions, the equivalent protection comes from the **NCUA**.
 
@@ -260,7 +260,7 @@ That insurance does **not** protect you from scams or from the failure of an app
 
 Imagine you lost your phone and rent is due tomorrow. Can you get your money out?
 
-If the app is your only way in, you need a plan B: a physical card, a branch, a help line or a safe way to recover your account.
+If the app is your only way in, you need a plan B. It can be a physical card, a branch, a help line or a safe way to recover your account.
 
 > **Key idea:** compare by how you use your money, not by the company's label.
 
@@ -313,7 +313,7 @@ Ask three things:
 
 Look for the answers in the app's terms and check the bank on BankFind. If the app doesn't say which bank holds your money, that's a sign to be careful.
 
-> **Good to know:** when a company in the middle between the app and the bank fails, customers can take months to get their money back, even if the bank is insured. That's why it's wise not to keep all your money in one place.
+> **Good to know:** sometimes the company in the middle between the app and the bank fails. Then customers can take months to get their money back, even if the bank is insured. That's why it's wise not to keep all your money in one place.
 
 
 
@@ -547,7 +547,7 @@ Be wary of anyone who sells appointments or promises "faster" paperwork. Officia
 
 Ask for the reason.
 
-If it's because of a report on your banking history, for example from **ChexSystems**, you have the right to know which company issued it and to ask for a no-cost copy. If there's a mistake, you can dispute it.
+It may be because of a report on your banking history, for example from **ChexSystems**. You have the right to know which company issued it and to ask for a copy at no cost. If there's a mistake, you can dispute it.
 
 
 
@@ -563,7 +563,7 @@ Don't send photos of your ID by message to strangers or post them on social medi
 
 Many institutions ask for proof of address. Electric, water or gas bills, a lease or a letter from your bank work.
 
-If the utilities aren't in your name, ask what other options they accept: sometimes a letter from the person you live with, along with their bill, or official mail in your name.
+If the utilities aren't in your name, ask what other options they accept. Sometimes a letter from the person you live with works, along with their bill. Official mail in your name may also work.
 
 
 
@@ -772,7 +772,7 @@ A second account helps keep personal and business money apart, but it doesn't cr
 
 Using a personal account to receive business payments may be limited by the contract. Ask first.
 
-> **Good to know:** according to the FDIC, one of the most common reasons people don't have a bank account is that fees are high or unpredictable. Bank On accounts were created to solve that.
+> **Good to know:** according to the FDIC, a common reason people don't have a bank account is high or unpredictable fees. Bank On accounts were created to solve that.
 
 
 
@@ -912,7 +912,7 @@ A check you already see in your balance can be returned later. A scheduled trans
 
 If someone uses your account or card **without your permission**, the law protects you if you report it quickly.
 
-But if **you** send money by Zelle or an app to someone who tricked you, the rules don't require the bank to give it back.
+But if **you** send money by Zelle or an app to someone who tricked you, the rules are different. They don't require the bank to give it back.
 
 > **Key idea:** treat instant payment apps as if they were cash. Only send to people you know and trust.
 
@@ -980,7 +980,7 @@ If you get your statement and see unauthorized charges, report them within 60 da
 
 Reconciling means comparing your record with the bank's. Mark known, pending, duplicate and unknown charges.
 
-If the account doesn't add up, look for the difference: it may be a fee, a duplicate charge or a payment you don't recognize.
+If the account doesn't add up, look for the difference. It may be a fee, a duplicate charge or a payment you don't recognize.
 
 
 
@@ -1147,7 +1147,7 @@ Thinking in pesos, or the country's currency, helps you compare better and not c
 
 Every month, Rubén's mom texted him asking for a different amount. Rubén sent what he could at the moment, and sometimes he was short on rent.
 
-They talked on a video call. They agreed on 200 dollars on the 15th for food, and that his mom would let him know a month ahead if a school expense for his sister was coming.
+They talked on a video call and agreed on 200 dollars on the 15th for food. His mom would let him know a month ahead if a school expense for his sister was coming.
 
 Now Rubén has it on his calendar and his mom knows what she can count on each month.
 
@@ -1182,7 +1182,7 @@ Now Rubén has it on his calendar and his mom knows what she can count on each m
 
 #### Think about the person receiving
 
-Think about how your family receives the money: what documents they have, whether they have a bank account or a cell phone, how far the pickup point is, its hours and how safe the way there is.
+Think about how your family receives the money. What documents they have, and whether they have a bank account or a cell phone. How far the pickup point is, its hours and how safe the way there is.
 
 An app you use easily can be hard for an older person.
 
@@ -1361,7 +1361,7 @@ When you get paid again, do the math again. Don't count today money that arrives
 
 If the result is negative, don't turn it into zero: you have a shortfall.
 
-Your options: send part now and part later, change the date, ask another relative to chip in, pay a verifiable bill directly or look for local help.
+You have several options. Send part now and part later, or change the date. Ask another relative to chip in. Pay a verifiable bill directly or look for local help.
 
 
 
@@ -1439,7 +1439,7 @@ Don't make a permanent commitment based on a bonus or an unusual month.
 
 Agree on what information will lead you to review the amount: for example, if your hours are cut or your rent changes.
 
-> **Good to know:** months with three paychecks, if you're paid every two weeks, are good for sending ahead a foreseeable expense, like the start of school. Not for raising your regular amount.
+> **Good to know:** if you're paid every two weeks, some months have three paychecks. They're good for sending ahead a foreseeable expense, like the start of school. Not for raising your regular amount.
 
 
 
@@ -1473,7 +1473,7 @@ Let them know in time and go back to the usual amount when you recover.
 
 Add your sends to your Module 1 money calendar, with their date and amount.
 
-That way you can see at a glance if rent and a send fall in the same week, and you can move one of them before it becomes a problem.
+That way you can see at a glance if rent and a transfer fall in the same week. You can move one of them before it becomes a problem.
 
 Review the calendar each time your work hours or your family's needs change.
 
@@ -1674,7 +1674,7 @@ The reference is for comparing. You'll almost never be able to exchange at exact
 
 #### Sending directly to an account in Mexico
 
-If you open a debit account with no fees here and send directly to your family's bank account in Mexico, or to their Financiera para el Bienestar account:
+Open a debit account with no fees here. From it, send directly to your family's bank account in Mexico or to their Financiera para el Bienestar account. That way:
 
 - you avoid the 1% cash tax;
 - you often pay a lower fee;
@@ -1868,7 +1868,7 @@ He kept both receipts in case of any question.
 
 #### What to confirm before you pay
 
-The recipient's exact name, country, currency, amount they'll receive, total cost, availability date, where and how it's picked up, what ID the recipient needs and what happens if the name doesn't match.
+Confirm the recipient's exact name, the country, the currency and the amount they'll receive. Also the total cost, the availability date and where and how it's picked up. Ask what ID the recipient needs and what happens if the name doesn't match.
 
 A name with one different letter can keep your family from picking up the money.
 
@@ -2067,7 +2067,7 @@ That way you still owe the same and you've already spent money on the fee. If yo
 
 Daniela's sister needed 400 dollars for medicine. Daniela only had 250 left over.
 
-Instead of taking a quick loan, she sent 250 that day and suggested her sister ask the pharmacy whether she could pay the rest the next week. The pharmacy agreed.
+Instead of taking a quick loan, she sent 250 that day. She suggested her sister ask the pharmacy whether she could pay the rest the next week. The pharmacy agreed.
 
 The next week, Daniela sent the 150 that was missing, without owing anyone anything.
 
@@ -2260,7 +2260,7 @@ That sentence says what you can do, what's missing and when you'll know more.
 
 #### The family agreement
 
-A **family agreement** is what you and your family understand and accept about the support: how much, when, what for and what to do in an emergency.
+A **family agreement** is what you and your family understand and accept about the support. It covers how much, when, what for and what to do in an emergency.
 
 It doesn't have to be a formal document. It can be a message you both keep.
 
@@ -2372,7 +2372,7 @@ If you see one or more of these signs, stop and verify.
 
 #### When several relatives ask
 
-If you get requests from several relatives, it helps to have a single family agreement: how much you give in total, to whom, what for and when.
+If you get requests from several relatives, it helps to have a single family agreement. It says how much you give in total, to whom, what for and when.
 
 That way nobody feels they get less than someone else, and you don't overcommit. Review it together once or twice a year.
 
@@ -2593,7 +2593,7 @@ While you save for your goal in Mexico, keep the money separate from your day-to
 
 Send it when it will be used, not before. That way the money isn't spent on something else there and isn't lost if the plan changes.
 
-If you decide to send it little by little, ask that it be kept in an account in the right person's name and that they share the progress of the work with you.
+If you decide to send it little by little, ask that it be kept in an account in the right person's name. Ask them to share the progress of the work with you.
 
 
 
@@ -2727,7 +2727,7 @@ With the new path, Alex saves fees and the 1% tax.
 
 #### A case in one minute
 
-Daniela drew her path: she's paid by the hour into her account, gets cake orders paid by Zelle and in cash, and she used to send money to her sister paying with a credit card.
+Daniela drew her path. She's paid by the hour into her account and gets cake orders paid by Zelle and in cash. She used to send money to her sister by paying with a credit card.
 
 She found out her card charged each transfer as a cash advance. Now she sends from her debit account and deposits the cash from orders once a week.
 
@@ -2785,7 +2785,7 @@ Mark which part of your plan depends on each condition and have an alternative.
 
 #### The person receiving can save too
 
-If your family receives money in a bank account or a Financiera para el Bienestar account, they can leave part of it saved there and not have to take it all out at once.
+If your family receives money in a bank account or a Financiera para el Bienestar account, they can leave part of it saved there. That way they don't have to take it all out at once.
 
 Ask together which account works best for them based on where they live and what documents they have.
 
@@ -2801,7 +2801,7 @@ Update it when fees, the way you get paid or your family's needs change.
 
 #### What you achieved in this module
 
-Now you know who holds your money, which account works for you, how much you can send, how to compare remittances, how to complain and how to protect yourself from fake emergencies.
+Now you know who holds your money, which account works for you and how much you can send. You know how to compare remittances, how to complain and how to protect yourself from fake emergencies.
 
 In Module 3 you'll learn to build your credit and manage your debts.
 

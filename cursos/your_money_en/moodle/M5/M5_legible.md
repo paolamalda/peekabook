@@ -120,7 +120,7 @@ A negative net worth describes a situation, not a person's worth. Many people st
 
 Separating your goals by time frame helps you decide where to keep the money for each one.
 
-> **Good to know:** according to Federal Reserve research, people who write down their goals and set money aside automatically save more than those who decide each month.
+> **Good to know:** according to Federal Reserve research, people who write down their goals and set money aside automatically save more. Those who decide each month save less.
 
 
 
@@ -130,7 +130,7 @@ If your goal is in Mexico, like your mom's roof, the exchange rate can change th
 
 If today 20,000 pesos equal about 1,100 dollars, in a year it could be more or less. Review your goal every three months and adjust what you set aside.
 
-A simple way to protect yourself is to set aside a little more than you calculate, for example 10%, to cover changes in the exchange rate and the cost of sending money (M2 U08).
+A simple way to protect yourself is to set aside a little more than you calculate, for example 10%. That covers changes in the exchange rate and in the cost of sending money (M2 U08).
 
 
 
@@ -270,7 +270,7 @@ Rosa asks: "And if it goes down?" It could drop 20% and leave her with 800. Sinc
 | Do I have expensive debts? | Paying off a card at 25% "earns" more than almost any investment. | Pay the expensive debt first. |
 
 If you answer all three well, you can start investing with a little, calmly.
-> **Before you act, check:** who manages the investment, how much it charges in total, how you get your money out and whether it's registered with the SEC or FINRA.
+> **Before you act, check:** who manages the investment, how much it charges in total and how you get your money out. Also check whether it's registered with the SEC or FINRA.
 
 #### Check your understanding
 
@@ -538,7 +538,7 @@ SIPC protection covers certain cases if the brokerage firm fails, but it does **
 - Payments only in cryptocurrency or to personal accounts.
 - "Invite your friends and earn more."
 
-> **Good to know:** cryptocurrency investment scams were among the ones that cost people in the U.S. the most money in recent years, according to the FTC.
+> **Good to know:** according to the FTC, cryptocurrency investment scams have cost people in the U.S. some of the most money in recent years.
 
 
 
@@ -751,17 +751,19 @@ Compare at least two options and check the total cost.
 
 #### Homebuying assistance programs
 
-In California there are state programs, like those of the California Housing Finance Agency (**CalHFA**), and local programs that help first-time buyers with the down payment and closing costs. Each program has its own requirements, and some may ask for documents an ITIN doesn't meet; ask the program directly.
+In California there are programs that help first-time buyers with the down payment and closing costs. Some are state programs, like those of the California Housing Finance Agency (**CalHFA**), and some are local. CalHFA programs require citizenship or an immigration status recognized by federal law. So, with only an ITIN, you can't use CalHFA today. Some local programs have different rules; ask each one directly.
 
-A **HUD-certified housing counselor** can help you at no cost or at low cost to review which programs apply to your case, whether you qualify for a mortgage with an ITIN and how much you need to save.
+> **Current fact:** CalHFA's Dream For All mortgage requires each borrower to be a citizen or a "qualified alien" under federal law. In 2024, AB 1840, a bill to open the program to people with an ITIN, was vetoed. Accessed October 6, 2026 through CalHFA and California news outlets.
 
-> **Good to know:** the counselor can also help if you already own a home and fall behind on the mortgage, so you don't lose it.
+A **HUD-certified housing counselor** can help you at no cost or at low cost. They review with you which programs apply and whether you qualify for a mortgage with an ITIN. They also help you see how much you need to save.
+
+> **Good to know:** the counselor can also help if you already own a home and fall behind on the mortgage. That way you don't lose it.
 
 
 
 #### Reporting rent to your credit history
 
-Some landlords and services report your rent payments to the credit agencies. In California, owners of buildings with more than 15 units and some companies that own several properties must offer that option to their tenants (AB 2747); they may charge you up to 10 dollars a month.
+Some landlords and services report your rent payments to the credit agencies. In California, owners of buildings with more than 15 units and some companies that own several properties must offer that option (AB 2747). They may charge you up to 10 dollars a month.
 
 If you pay on time, this can help you build a credit history for a future mortgage (M3 U03).
 
@@ -845,7 +847,7 @@ Keep your lease and your receipts. If you want to buy, make an appointment with 
 
 ### Sources
 
-[R44] California, tenants' rights guide · [R22] CFPB, housing counselors · AB 12 (deposits, 2024) · AB 2747 (rent reporting) · CalHFA.
+[R44] California, tenants' rights guide · [R22] CFPB, housing counselors · AB 12 (deposits, 2024) · AB 2747 (rent reporting) · CalHFA · AB 1840 (veto, 2024).
 
 ---
 
@@ -1406,7 +1408,7 @@ Some accounts allow a partial withdrawal for unemployment. Doing it reduces your
 
 Before withdrawing, ask how many weeks you'd lose and whether it's worth it.
 
-> **Good to know:** according to CONSAR, millions of AFORE accounts don't have updated information. If you don't know which one you're in, your account may be at the Banco de México as an "unassigned account," and it can be recovered.
+> **Good to know:** according to CONSAR, millions of AFORE accounts don't have updated information. If you don't know which one you're in, your account may be at the Banco de México as an "unassigned account." It can be recovered.
 
 
 
@@ -1553,13 +1555,13 @@ He updated the beneficiaries on his account and his insurance, and told his sist
 
 #### Talk with your family
 
-Having documents isn't enough if nobody knows they exist. Sit down with the person who would take care of your children and explain where your papers are, what accounts you have and who to call.
+Having documents isn't enough if nobody knows they exist. Sit down with the person who would take care of your children. Explain where your papers are, what accounts you have and who to call.
 
 If your children are older, explain the plan in simple words. Knowing there's a plan gives them peace of mind.
 
 Put the phone numbers of your consulate, your children's school and their doctor in your folder.
 
-> **Before you act, check:** that the form is the official one from the California courts and that the person who will care for your children agrees to do it.
+> **Before you act, check:** that the form is the official one from the California courts. Also confirm that the person who will care for your children agrees to do it.
 
 
 
@@ -1614,7 +1616,7 @@ Tell a trusted person where it is. You can use a sealed envelope or a folder at 
 
 A U.S. will may not be enough for property in Mexico. Ask a notario in Mexico.
 
-In September, Mexico's "Mes del Testamento" (Will Month) offers discounts of up to 50% on notary fees in every state; the price depends on the state.
+In September, Mexico's "Mes del Testamento" (Will Month) offers discounts of up to 50% on notary fees. It applies in every state, and the price depends on the state.
 
 > **Good to know:** the Mexican Consulate offers guidance and sometimes events with notarios for procedures like powers of attorney and wills. Ask at your consulate.
 
@@ -1748,7 +1750,7 @@ For example, 500 to your reserve and 300 to a goal.
 
 #### Smooth out your income
 
-Some people "pay themselves a salary": everything that comes in goes to one account, and each week they move the same amount to their spending account.
+Some people "pay themselves a salary." Everything that comes in goes to one account, and each week they move the same amount to their spending account.
 
 That way the good months cover the bad ones.
 
@@ -1853,7 +1855,7 @@ Many jobs have seasons: construction slows with the rains, farm work changes wit
 
 Mark your good and bad months from the last year on a calendar. That way you know when to set money aside and how much you'll need.
 
-If your low season lasts three months and your essential expenses are 1,800, your reserve goal for that season is 5,400 minus what you do earn in those months.
+Say your low season lasts three months and your essential expenses are 1,800. Your reserve goal for that season is 5,400, minus what you do earn in those months.
 
 
 
@@ -1979,9 +1981,9 @@ If she charges without counting her costs, she thinks she makes twice as much.
 
 #### Sole proprietorship or LLC
 
-Many people start as a **sole proprietorship**: it's the simplest, can be done with an ITIN and you only need your local license and, if you use another name, a business name registration.
+Many people start as a **sole proprietorship**. It's the simplest and can be done with an ITIN. You only need your local license and, if you use another name, a business name registration.
 
-An **LLC** protects your personal property from certain business debts, but in California it costs at least **800 dollars a year** in minimum tax, even if you don't make money.
+An **LLC** protects your personal property from certain business debts. But in California it costs at least **800 dollars a year** in minimum tax, even if you don't make money.
 
 
 
@@ -2046,7 +2048,7 @@ Some banks require it to open the business account under that name.
 
 #### Homemade food
 
-In California there are permits to sell certain foods made at home, like cakes and cookies, and some counties allow small home kitchens with more types of food.
+In California there are permits to sell certain foods made at home, like cakes and cookies. Some counties allow small home kitchens with more types of food.
 
 Ask your county health department which permit applies to what you sell.
 
@@ -2072,7 +2074,7 @@ Compare the total cost and avoid cash advances that take a percentage of your da
 
 #### Getting paid with apps and cards
 
-If you get paid through payment apps, use a business account. Payment apps send you and the IRS a Form 1099-K when you receive more than 20,000 dollars in more than 200 payments for goods or services in a year. Even if you don't get one, that income must be reported.
+If you get paid through payment apps, use a business account. Payment apps send you and the IRS a Form 1099-K if you receive more than 20,000 dollars in a year. It must be in more than 200 payments for goods or services. Even if you don't get one, that income must be reported.
 
 That doesn't mean you pay more taxes, but it does mean the IRS knows about that income. That's why you keep your record of sales and expenses.
 
@@ -2233,7 +2235,7 @@ Your plan brings all of this together on one page. From each module, choose only
 
 #### Your first step, today
 
-Choose one action you can do today in less than 15 minutes: check your balance, set aside 10 dollars or save the phone number of a VITA center.
+Choose one action you can do today in less than 15 minutes. Check your balance, set aside 10 dollars or save the phone number of a VITA center.
 
 Doing something small today helps you keep going tomorrow. The plan grows with every step.
 
@@ -2285,7 +2287,7 @@ You don't have to do it alone.
 - Verify before investing or paying.
 - If something sounds too good, ask first.
 
-> **Good to know:** according to the FDIC, people who have an account and a savings plan are more likely to handle an emergency without going into debt.
+> **Good to know:** according to the FDIC, people who have an account and a savings plan are more likely to handle an emergency without debt.
 
 
 
@@ -2317,7 +2319,7 @@ Studies in several countries found that naming a goal, committing to someone and
 
 #### When rules or the economy change
 
-Immigration laws, remittance taxes, public programs, interest rates and prices change. Confirm each change with the official source (IRS, USCIS, your county, the CFPB), not social media, and adjust one part of your plan at a time. If a change touches your immigration status, talk to an attorney or an accredited representative.
+Immigration laws, remittance taxes, public programs, interest rates and prices change. Confirm each change with the official source, not social media: the IRS, USCIS, your county or the CFPB. Adjust one part of your plan at a time. If a change touches your immigration status, talk to an attorney or an accredited representative.
 
 
 
@@ -2325,7 +2327,7 @@ Immigration laws, remittance taxes, public programs, interest rates and prices c
 
 Your plan will change with your life. You can go back to any lesson in this program whenever you need it.
 
-If something changes, like a new job, a child or a move, look for the lesson on that topic and update that part of your plan.
+Something may change, like a new job, a child or a move. When it does, look for the lesson on that topic and update that part of your plan.
 
 
 
@@ -2433,9 +2435,9 @@ What you own in the U.S. follows the rules here; what you own in Mexico follows 
 
 Heirs **don't pay federal tax** for receiving an inheritance. The federal estate tax only applies to estates over 15 million dollars per person in 2026, and California has no inheritance tax.
 
-If you inherit something from abroad, like a house in Mexico, worth more than 100,000 dollars, you must report it to the IRS on **Form 3520**, even though you owe no tax. The penalty for not filing can reach 25% of the value.
+If you inherit something from abroad worth more than 100,000 dollars, like a house in Mexico, you must report it to the IRS. You use **Form 3520**, even though you owe no tax. The penalty for not filing can reach 25% of the value.
 
-> **Current fact:** the federal estate tax only applies to estates over 15 million dollars per person in 2026; inheritances and gifts from foreign persons over 100,000 dollars are reported on Form 3520. Accessed September 30, 2026 through the IRS and specialized media.
+> **Current fact:** the federal estate tax only applies to estates over 15 million dollars per person in 2026. Inheritances and gifts from foreign persons over 100,000 dollars are reported on Form 3520. Accessed September 30, 2026 through the IRS and specialized media.
 
 
 
@@ -2449,7 +2451,7 @@ In Mexico, receiving an inheritance **pays no income tax (ISR)**, but putting th
 
 Alex talked with his mom: she'll make her will with a notary in Michoacán. Alex learned he won't pay 40%; if the house is worth more than 100,000 dollars, he'll just file Form 3520. Rosa named her grandchildren as POD beneficiaries on her account, with her daughter as guardian.
 
-> **Key idea:** in the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
+> **Key idea:** in the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court. Inheriting pays no federal tax, except on huge estates. Foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money.
 
 
 
@@ -2487,7 +2489,7 @@ Alex talked with his mom: she'll make her will with a notary in Michoacán. Alex
 
 #### If you sell what you inherit
 
-In the U.S., if you sell something you inherited, the gain is measured from its value when the person died, which usually lowers the tax. In Mexico, selling an inherited house may pay ISR on the gain; if you live there, the home exemption may apply.
+In the U.S., if you sell something you inherited, the gain is measured from its value when the person died. That usually lowers the tax. In Mexico, selling an inherited house may pay ISR on the gain; if you live there, the home exemption may apply.
 
 
 
@@ -2501,7 +2503,7 @@ Nobody needs to charge you thousands of dollars to "fix" an inheritance in Mexic
 
 #### Your home in Mexico: usufruct
 
-If you own a house or land in Mexico and want to pass it to your children while you're alive but keep using it, Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
+Maybe you own a house or land in Mexico and want to pass it to your children while you're alive, but keep using it. Mexico has a gift with **reserved usufruct** (usufructo), done before a notary. In the U.S., a similar tool is a life estate. Ask your consulate before you sign.
 
 
 

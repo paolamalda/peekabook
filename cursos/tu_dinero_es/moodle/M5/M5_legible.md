@@ -44,7 +44,7 @@ Tienes que cambiar montos, plazos o prioridades. Es mejor avanzar en una meta qu
 
 #### Un caso en un minuto
 
-Rubén tiene 150 libres al mes. Sus metas: curso de inglés de 600 en 12 meses (50 al mes), techo de su mamá de 1,200 en 12 meses (100 al mes) y auto de 3,000 en 24 meses (125 al mes). Suman 275.
+Rubén tiene 150 libres al mes. Sus metas son tres. Curso de inglés de 600 en 12 meses (50 al mes). Techo de su mamá de 1,200 en 12 meses (100 al mes). Auto de 3,000 en 24 meses (125 al mes). Suman 275.
 
 Decide empezar con el curso y el techo (150) y dejar el auto para cuando termine el curso.
 
@@ -120,7 +120,7 @@ Un patrimonio negativo describe una situación, no el valor de una persona. Much
 
 Separar tus metas por plazo te ayuda a decidir dónde guardar el dinero de cada una.
 
-> **Dato adicional:** según estudios de la Reserva Federal, las personas que escriben sus metas y apartan dinero de forma automática ahorran más que quienes deciden cada mes.
+> **Dato adicional:** según estudios de la Reserva Federal, ahorra más quien escribe sus metas y aparta dinero de forma automática. Ahorra menos quien decide cada mes.
 
 
 
@@ -130,7 +130,7 @@ Si tu meta está en México, como el techo de tu mamá, el tipo de cambio puede 
 
 Si hoy 20,000 pesos equivalen a unos 1,100 dólares, en un año podrían ser más o menos. Revisa tu meta cada tres meses y ajusta lo que apartas.
 
-Una forma sencilla de protegerte es apartar un poco más de lo que calculas, por ejemplo 10%, para cubrir cambios en el tipo de cambio y en el costo de enviar dinero (M2 U08).
+Una forma sencilla de protegerte es apartar un poco más de lo que calculas, por ejemplo 10%. Así cubres cambios en el tipo de cambio y en el costo de enviar dinero (M2 U08).
 
 
 
@@ -751,9 +751,11 @@ Compara con al menos dos opciones y revisa el costo total.
 
 #### Programas de ayuda para comprar
 
-En California existen programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales que ayudan con el enganche y los costos de cierre para quienes compran por primera vez. Cada programa tiene sus propios requisitos, y algunos pueden pedir documentos que el ITIN no cumple; pregunta directamente al programa.
+En California hay programas que ayudan con el enganche y los costos de cierre a quienes compran por primera vez. Hay programas estatales, como los de la Agencia de Financiamiento de Vivienda de California (**CalHFA**), y programas locales. Los de CalHFA piden ciudadanía o un estatus migratorio que reconoce la ley federal. Por eso, con solo ITIN, hoy no se puede usar CalHFA. Algunos programas locales tienen otras reglas; pregunta directamente a cada uno.
 
-Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo costo a revisar qué programas aplican a tu caso, si calificas para una hipoteca con ITIN y cuánto necesitas ahorrar.
+> **Dato vigente:** la hipoteca de Dream For All de CalHFA pide que cada comprador sea ciudadano o «qualified alien» según la ley federal. En 2024 se vetó la ley AB 1840, que buscaba abrir el programa a personas con ITIN. Consultado el 6 de octubre de 2026 a través de CalHFA y medios de California.
+
+Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo costo. Revisa contigo qué programas aplican a tu caso, si calificas para una hipoteca con ITIN y cuánto necesitas ahorrar.
 
 > **Dato adicional:** el consejero también puede ayudarte si ya tienes casa y te atrasas con la hipoteca, para evitar perderla.
 
@@ -761,7 +763,7 @@ Un **consejero de vivienda certificado por HUD** te ayuda sin costo o a bajo cos
 
 #### Reporte de renta a tu historial
 
-Algunos dueños y servicios reportan tus pagos de renta a las agencias de crédito. En California, los dueños de edificios de más de 15 unidades y algunas empresas dueñas de varias propiedades deben ofrecer esa opción a sus inquilinos (AB 2747); pueden cobrarte hasta 10 dólares al mes.
+Algunos dueños y servicios reportan tus pagos de renta a las agencias de crédito. En California deben ofrecer esa opción los dueños de edificios de más de 15 unidades y algunas empresas dueñas de varias propiedades (AB 2747). Pueden cobrarte hasta 10 dólares al mes.
 
 Si pagas a tiempo, esto puede ayudarte a construir historial de crédito para una futura hipoteca (M3 U03).
 
@@ -845,7 +847,7 @@ Guarda tu contrato y tus recibos. Si quieres comprar, agenda una cita con un con
 
 ### Fuentes
 
-[R44] California, guía de derechos de inquilinos · [R22] CFPB, consejeros de vivienda · AB 12 (depósitos, 2024) · AB 2747 (reporte de renta) · CalHFA.
+[R44] California, guía de derechos de inquilinos · [R22] CFPB, consejeros de vivienda · AB 12 (depósitos, 2024) · AB 2747 (reporte de renta) · CalHFA · AB 1840 (veto, 2024).
 
 ---
 
@@ -974,7 +976,7 @@ Pide una revisión de un mecánico de confianza antes de comprar un auto usado.
 
 Los colegios comunitarios de California tienen programas de bajo costo y algunas ayudas para estudiantes, incluidos algunos que no dependen de la situación migratoria.
 
-> **Dato adicional:** en California, los estudiantes que cumplen ciertos requisitos de estudios en el estado pueden pagar la colegiatura estatal (AB 540) aunque no tengan estatus migratorio regular. Pregunta en la oficina de admisiones.
+> **Dato adicional:** en California, algunos estudiantes pueden pagar la colegiatura estatal (AB 540) aunque no tengan estatus migratorio regular. Deben cumplir ciertos requisitos de estudios en el estado. Pregunta en la oficina de admisiones.
 
 
 
@@ -1527,7 +1529,7 @@ No necesitas tener mucho dinero para hacerlo.
 
 #### Un plan para tus hijos
 
-En California, la **declaración jurada de autorización del cuidador** permite que un adulto de confianza inscriba a tus hijos en la escuela y autorice atención médica.
+En California existe la **declaración jurada de autorización del cuidador**. Con ella, un adulto de confianza puede inscribir a tus hijos en la escuela y autorizar atención médica.
 
 No te quita la custodia. Puedes cancelarla cuando quieras.
 
@@ -1547,7 +1549,7 @@ Rubén habló con su hermana, que acepta cuidar a sus hijos. Llenó el formulari
 
 Actualizó beneficiarios en su cuenta y en su seguro, y le dijo a su hermana dónde está su carpeta familiar.
 
-> **Idea clave:** si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar.
+> **Idea clave:** si te preocupa tu situación migratoria, busca orientación sobre un plan de preparación familiar. Te puede orientar un abogado o un representante acreditado por el DOJ.
 
 
 
@@ -1559,7 +1561,7 @@ Si tus hijos son mayores, explícales el plan con palabras sencillas. Saber que 
 
 Pon en tu carpeta los teléfonos de tu consulado, de la escuela y del médico de tus hijos.
 
-> **Antes de actuar, verifica:** que el formulario sea el oficial de las cortes de California y que la persona que cuidará a tus hijos acepte hacerlo.
+> **Antes de actuar, verifica:** que el formulario sea el oficial de las cortes de California. Confirma también que la persona que cuidará a tus hijos acepte hacerlo.
 
 
 
@@ -1614,7 +1616,7 @@ Dile a una persona de confianza dónde está. Puedes usar un sobre cerrado o una
 
 Un testamento en EE. UU. puede no ser suficiente para bienes en México. Pregunta a un notario en México.
 
-En septiembre, el "Mes del Testamento" en México ofrece descuentos de hasta 50% en los honorarios de las notarías, en todos los estados; el precio cambia según el estado.
+En septiembre, el "Mes del Testamento" en México ofrece descuentos de hasta 50% en los honorarios de las notarías. Aplica en todos los estados y el precio cambia según el estado.
 
 > **Dato adicional:** el Consulado de México ofrece orientación y a veces jornadas con notarios para trámites como poderes y testamentos. Pregunta en tu consulado.
 
@@ -1748,7 +1750,7 @@ Por ejemplo, 500 a tu reserva y 300 a una meta.
 
 #### Suaviza tu ingreso
 
-Algunas personas se "pagan un sueldo": todo lo que entra va a una cuenta y cada semana pasan la misma cantidad a la cuenta de gastos.
+Algunas personas se "pagan un sueldo". Todo lo que entra va a una cuenta, y cada semana pasan la misma cantidad a la cuenta de gastos.
 
 Así los meses buenos cubren a los malos.
 
@@ -1853,7 +1855,7 @@ Muchos trabajos tienen temporadas: construcción baja con lluvias, el campo camb
 
 Marca en un calendario tus meses buenos y malos del último año. Así sabes cuándo apartar y cuánto necesitarás.
 
-Si tu temporada baja dura tres meses y tus gastos esenciales son 1,800, tu meta de reserva para esa temporada es 5,400 menos lo que sí ganes en esos meses.
+Supón que tu temporada baja dura tres meses y tus gastos esenciales son 1,800. Tu meta de reserva para esa temporada es 5,400, menos lo que sí ganes en esos meses.
 
 
 
@@ -1979,9 +1981,9 @@ Si cobra sin contar sus costos, cree que gana el doble.
 
 #### Empresa individual o LLC
 
-Muchas personas empiezan como **empresa individual**: es lo más sencillo, se puede con ITIN y solo necesitas tu licencia local y, si usas otro nombre, un registro de nombre comercial.
+Muchas personas empiezan como **empresa individual**. Es lo más sencillo y se puede con ITIN. Solo necesitas tu licencia local y, si usas otro nombre, un registro de nombre comercial.
 
-Una **LLC** protege tus bienes personales de ciertas deudas del negocio, pero en California cuesta al menos **800 dólares al año** en impuesto mínimo, aunque no ganes.
+Una **LLC** protege tus bienes personales de ciertas deudas del negocio. Pero en California cuesta al menos **800 dólares al año** en impuesto mínimo, aunque no ganes.
 
 
 
@@ -2046,7 +2048,7 @@ Algunos bancos lo piden para abrir la cuenta del negocio con ese nombre.
 
 #### Comida hecha en casa
 
-En California hay permisos para vender ciertos alimentos hechos en casa, como pasteles y galletas, y algunos condados permiten pequeñas cocinas en casa con más tipos de comida.
+En California hay permisos para vender ciertos alimentos hechos en casa, como pasteles y galletas. Algunos condados permiten pequeñas cocinas en casa con más tipos de comida.
 
 Pregunta al departamento de salud de tu condado qué permiso aplica a lo que vendes.
 
@@ -2072,7 +2074,7 @@ Compara el costo total y evita los adelantos de efectivo que cobran un porcentaj
 
 #### Cobrar con apps y tarjeta
 
-Si cobras con apps de pago, usa una cuenta de negocio. Las apps de pago envían a la persona y al IRS un formulario 1099-K cuando recibes más de 20,000 dólares en más de 200 pagos por bienes o servicios en el año. Aunque no te llegue, ese ingreso se declara.
+Si cobras con apps de pago, usa una cuenta de negocio. Las apps envían a la persona y al IRS un formulario 1099-K si recibes más de 20,000 dólares en el año. Debe ser en más de 200 pagos por bienes o servicios. Aunque no te llegue, ese ingreso se declara.
 
 Eso no significa que pagues más impuestos, pero sí que el IRS sabe de esos ingresos. Por eso lleva tu registro de ventas y gastos.
 
@@ -2273,7 +2275,7 @@ Hacer algo pequeño hoy te ayuda a seguir mañana. El plan crece con cada paso.
 
 #### Tu red de apoyo
 
-Guarda los contactos de ayuda sin costo que conociste en el programa: centros VITA, consejeros de vivienda, consejería de crédito sin fines de lucro, tu consulado, abogados o representantes acreditados.
+Guarda los contactos de ayuda sin costo que conociste en el programa. Por ejemplo, centros VITA, consejeros de vivienda y consejería de crédito sin fines de lucro. También tu consulado y abogados o representantes acreditados.
 
 No tienes que hacerlo solo.
 
@@ -2311,13 +2313,13 @@ Si hay hijos mayores, inclúyelos en metas sencillas, como ahorrar para algo de 
 
 #### Por qué funciona
 
-Estudios en varios países encontraron que ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual con esa meta ayuda a ahorrar más. Apartar de forma automática, antes de ver el dinero, también ayuda.
+Estudios en varios países encontraron que tres cosas ayudan a ahorrar más: ponerle nombre a una meta, comprometerse con alguien y recibir un recordatorio mensual. Apartar de forma automática, antes de ver el dinero, también ayuda.
 
 
 
 #### Cuando cambian las reglas o la economía
 
-Leyes de migración, impuestos a remesas, programas públicos, tasas de interés y precios cambian. Confirma cada cambio en la fuente oficial (IRS, USCIS, tu condado, la CFPB), no en redes, y ajusta una parte de tu plan a la vez. Si un cambio toca tu situación migratoria, consulta a un abogado o a un representante acreditado.
+Leyes de migración, impuestos a remesas, programas públicos, tasas de interés y precios cambian. Confirma cada cambio en la fuente oficial, no en redes: IRS, USCIS, tu condado o la CFPB. Ajusta una parte de tu plan a la vez. Si un cambio toca tu situación migratoria, consulta a un abogado o a un representante acreditado.
 
 
 
@@ -2431,11 +2433,11 @@ Lo que tienes en Estados Unidos sigue las reglas de aquí; lo que tienes en Méx
 
 #### Impuestos al heredar en Estados Unidos
 
-Quien hereda **no paga impuesto federal** por recibir la herencia. El impuesto federal sobre herencias solo aplica a patrimonios de más de 15 millones de dólares por persona en 2026, y California no tiene impuesto a la herencia.
+Quien hereda **no paga impuesto federal** por recibir la herencia. El impuesto federal sobre herencias solo aplica a patrimonios de más de 15 millones de dólares por persona en 2026. California no tiene impuesto a la herencia.
 
-Si heredas algo del extranjero, como una casa en México, y vale más de 100,000 dólares, debes avisarle al IRS con el **Formulario 3520**, aunque no pagues impuesto. La multa por no presentarlo puede llegar a 25% del valor.
+Si heredas algo del extranjero de más de 100,000 dólares, como una casa en México, debes avisarle al IRS. Se hace con el **Formulario 3520**, aunque no pagues impuesto. La multa por no presentarlo puede llegar a 25% del valor.
 
-> **Dato vigente:** el impuesto federal sobre herencias aplica solo a patrimonios de más de 15 millones de dólares por persona en 2026; las herencias y regalos de personas extranjeras de más de 100,000 dólares se reportan en el Formulario 3520. Consultado el 30 de septiembre de 2026 a través del IRS y medios especializados.
+> **Dato vigente:** el impuesto federal sobre herencias aplica solo a patrimonios de más de 15 millones de dólares por persona en 2026. Las herencias y regalos de personas extranjeras de más de 100,000 dólares se reportan en el Formulario 3520. Consultado el 30 de septiembre de 2026 a través del IRS y medios especializados.
 
 
 
@@ -2449,7 +2451,7 @@ En México, recibir una herencia **no paga ISR**, pero pasar la casa a tu nombre
 
 Alex habló con su mamá: ella hará su testamento con un notario en Michoacán. Alex supo que no pagará 40%; si la casa vale más de 100,000 dólares, solo presentará el Formulario 3520. Rosa nombró a sus nietos como beneficiarios POD de su cuenta con su hija como tutora.
 
-> **Idea clave:** en Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
+> **Idea clave:** en Estados Unidos, los beneficiarios POD y TOD y la escritura de traspaso evitan la corte. Heredar no paga impuesto federal, salvo herencias enormes. Lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta.
 
 
 
@@ -2501,7 +2503,7 @@ Nadie necesita cobrarte miles de dólares por «arreglar» una herencia en Méxi
 
 #### Tu casa en México: el usufructo
 
-Si tienes casa o terreno en México y quieres pasarlos a tus hijos en vida sin dejar de usarlos, allá existe la donación con **reserva de usufructo**, ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
+¿Tienes casa o terreno en México y quieres pasarlos a tus hijos en vida, sin dejar de usarlos? Allá existe la donación con **reserva de usufructo**, ante notario. En EE. UU. una figura parecida es el «life estate». Pregunta en tu consulado antes de firmar.
 
 
 

@@ -23,7 +23,7 @@ A clear question gets a useful answer faster.
 **What you do:** (one or two lines)
 **Where:** (city or "online")
 **Something from the course you already apply:** (one line)
-**Where to find you:** (your public social media or business page)
+**Where to find you:** (the business page or social media; no personal phone or home address)
 
 ## Answering others
 

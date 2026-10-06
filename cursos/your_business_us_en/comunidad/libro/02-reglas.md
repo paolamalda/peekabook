@@ -24,7 +24,14 @@ These rules protect your information and everyone else's.
 
 ## Introduce your business
 
-One post a month per person: what you do, where and how to reach you through your public channels. No misleading prices, no financial offers and no one's personal data.
+This forum is for making your business known, not you. Rules:
+
+- **One post a month** per person.
+- **The business only:** what you sell, the area you serve and where to find it (the business page or social media).
+- **No personal data:** no personal phone, home address, ID numbers or account or card details.
+- **No financial products:** no loans, investments, savings circles or money offers.
+- **No misleading prices** and no one else's data.
+- **Reviewed by Desarrolla Talento:** we remove what doesn't follow the rules and let you know privately.
 
 ## If something looks like a scam
 

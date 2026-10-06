@@ -113,7 +113,7 @@ The money shows as available in your account, but the check bounces days later. 
 
 Many scams happen on Marketplace, WhatsApp groups or ads.
 
-If you buy from a stranger, prefer seeing the item in person, in a public place, or paying with a credit card, which has more protection.
+If you buy from a stranger, prefer seeing the item in person, in a public place. Or pay with a credit card, which has more protection.
 
 > **Good to know:** according to the FTC, people in the U.S. reported fraud losses of more than 10 billion dollars in a single year. Reporting, even if you didn't lose money, helps stop scammers.
 
@@ -129,7 +129,7 @@ Report at **ReportFraud.ftc.gov**. If you lost money, also tell your bank right 
 
 Older people and young people who just arrived are often targets of scams.
 
-Talk with your family about the most common scams and agree on a simple rule: nobody pays or gives codes without first checking with another family member.
+Talk with your family about the most common scams and agree on a simple rule. Nobody pays or gives codes without first checking with another family member.
 
 
 
@@ -439,7 +439,7 @@ Save the contact information of an organization with accredited representatives 
 
 **What you will be able to do:** Protect your access, your devices and the way you recover your accounts.
 
-**To start:** Alex used the same password for everything. An online store had a data breach and, with that password, someone got into Alex's email and from there tried to get into the bank. In this lesson you'll learn to protect your accounts with simple steps.
+**To start:** Alex used the same password for everything. An online store had a data breach. With that password, someone got into Alex's email and from there tried to get into the bank. In this lesson you'll learn to protect your accounts with simple steps.
 
 ### The essentials (5 minutes)
 
@@ -951,7 +951,7 @@ The friend doesn't judge or tell them what to do. She shares the national hotlin
 
 #### Older people and financial abuse
 
-Older people or people who depend on care can also suffer financial abuse: relatives who use their money without permission, caregivers who ask to "borrow," or strangers who win their trust.
+Older people or people who depend on care can also suffer financial abuse. For example, relatives who use their money without permission, caregivers who ask to "borrow," or strangers who win their trust.
 
 Helping manage someone's money requires their permission and limits. Having access doesn't give you the right to use it for yourself.
 
@@ -1196,7 +1196,7 @@ That way, the same savings lasts longer.
 
 After using it, write down how much you used and what for. Decide how much you'll set aside each week to refill it and how long it will take.
 
-> **Good to know:** in California, CalSavers is a state retirement savings program; some people also use it to save little by little, although its purpose is retirement. For emergencies, the best option is a savings account you can use with no penalty.
+> **Good to know:** in California, CalSavers is a state retirement savings program. Some people also use it to save little by little, although its purpose is retirement. For emergencies, the best option is a savings account you can use with no penalty.
 
 
 
@@ -1546,9 +1546,9 @@ First of all: **never delay urgent care out of fear of the cost**. Your health c
 
 #### Protection against surprise bills
 
-If you go to an emergency room, federal law (the **No Surprises Act**) prohibits charging you excessive "out-of-network" rates for doctors you didn't choose.
+If you go to an emergency room, federal law (the **No Surprises Act**) protects you. It prohibits charging you excessive "out-of-network" rates for doctors you didn't choose.
 
-And if you don't have insurance, you have the right to ask for a written **Good Faith Estimate** of the total cost before scheduled care.
+And if you don't have insurance, you have the right to ask for a written **Good Faith Estimate**. It shows the total cost before scheduled care.
 
 
 
@@ -1611,7 +1611,7 @@ In California, a law in effect since 2025 generally prohibits reporting medical 
 
 Even so, don't ignore a bill: ask for financial assistance or an no-interest payment plan.
 
-> **Good to know:** if the Good Faith Estimate says 1,000 and you're charged 400 or more above it, you can start a federal dispute within 120 days of the bill.
+> **Good to know:** if the Good Faith Estimate says 1,000 and you're charged 400 or more above it, you can start a federal dispute. You have 120 days from the bill.
 
 
 
@@ -1762,7 +1762,7 @@ In a fire, an evacuation or an accident, follow the emergency instructions. Then
 
 #### A case in one minute
 
-After the fire, Rosa packed a backpack with copies of her documents in a sealed bag, a contact list on paper, medicine for three days and 100 dollars in small bills.
+After the fire, Rosa packed a backpack. She put copies of her documents in a sealed bag, a contact list on paper, medicine for three days and 100 dollars in small bills.
 
 She keeps it by the door and told her daughter where it is.
 
@@ -2204,7 +2204,7 @@ She wrote her contacts on paper, asked her daughter to help her update her recov
 
 Prioritize the risks that can affect your housing, your income, your health or your safety.
 
-Don't try to buy every insurance. Identify the gaps and decide what you can prevent, what you can cover with savings, what you can transfer to an insurance policy and what you need to handle with support.
+Don't try to buy every insurance. Identify the gaps and decide what you can prevent and what you can cover with savings. Then decide what you can transfer to an insurance policy and what you need to handle with support.
 
 
 
@@ -2239,7 +2239,7 @@ Set a reminder on your calendar to do a drill once a year.
 
 #### What you achieved in this module
 
-Now you know how to recognize scams, verify who can help you with immigration matters, protect your accounts, respond to fraud, recognize financial abuse, build savings, understand your insurance and your medical bills, and prepare your family.
+Now you know how to recognize scams, verify who can help you with immigration matters and protect your accounts. You can respond to fraud and recognize financial abuse. You can also build savings, understand your insurance and your medical bills, and prepare your family.
 
 
 
@@ -2352,7 +2352,7 @@ Ready.gov · FTC, IdentityTheft.gov.
 
 #### How to request it
 
-Your state's child support agency can help establish paternity, set an amount with the state formula and collect it, often with a deduction straight from the other parent's wages. In general they serve parents regardless of immigration status; ask what documents they need.
+Your state's child support agency can help establish paternity. It can also set an amount with the state formula and collect it, often with a deduction straight from the other parent's wages. In general they serve parents regardless of immigration status. Ask what documents they need.
 
 
 
@@ -2366,7 +2366,7 @@ Pay through the agency or wage withholding and keep proof. Cash or "side" paymen
 
 Daniela called her county's agency. They asked for her son's birth certificate and information about his father. Now the payment arrives through the agency every month and is recorded.
 
-> **Key idea:** child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof.
+> **Key idea:** child support is your children's right. Your state agency helps request it and record payments. The paying parent must pay with proof.
 
 
 

@@ -24,7 +24,14 @@ Estas reglas protegen tu información y la de todas las personas.
 
 ## Presenta tu negocio
 
-Una publicación al mes por persona: qué haces, dónde y cómo contactarte por tus canales públicos. Sin precios engañosos, sin ofertas financieras y sin datos personales de nadie.
+Este foro es para dar a conocer tu negocio, no a ti. Reglas:
+
+- **Una publicación al mes** por persona.
+- **Solo el negocio:** qué vendes, en qué zona trabajas y dónde encontrarlo (página o redes del negocio).
+- **Sin datos personales:** nada de teléfono personal, domicilio, identificaciones ni datos de cuentas o tarjetas.
+- **Sin productos financieros:** nada de préstamos, inversiones, tandas ni ofertas de dinero.
+- **Sin precios engañosos** ni datos de otras personas.
+- **Revisado por Desarrolla Talento:** quitamos lo que no cumpla y te avisamos en privado.
 
 ## Si algo te parece fraude
 

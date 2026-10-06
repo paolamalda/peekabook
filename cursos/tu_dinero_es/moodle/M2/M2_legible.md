@@ -232,7 +232,7 @@ Una empresa puede darte servicios con una app sin ser banco. Otra puede ser una 
 
 #### El seguro de depósitos
 
-En un banco asegurado por la **FDIC**, tu dinero está protegido hasta **250,000 dólares** por persona, por banco y por tipo de cuenta, si el banco quiebra.
+En un banco asegurado por la **FDIC**, tu dinero está protegido si el banco quiebra. La protección llega hasta **250,000 dólares** por persona, por banco y por tipo de cuenta.
 
 En las cooperativas, la protección equivalente es de la **NCUA**.
 
@@ -260,7 +260,7 @@ Ese seguro **no** protege contra estafas ni contra la quiebra de una app que no 
 
 Imagina que perdiste tu teléfono y mañana debes pagar la renta. ¿Puedes sacar tu dinero?
 
-Si tu único acceso es la app, necesitas un plan B: una tarjeta física, una sucursal, un teléfono de ayuda o una forma segura de recuperar tu cuenta.
+Si tu único acceso es la app, necesitas un plan B. Puede ser una tarjeta física, una sucursal, un teléfono de ayuda o una forma segura de recuperar tu cuenta.
 
 > **Idea clave:** compara por cómo usas el dinero, no por la etiqueta de la empresa.
 
@@ -313,7 +313,7 @@ Pregunta tres cosas:
 
 Busca las respuestas en los términos de la app y verifica al banco en BankFind. Si la app no dice qué banco guarda tu dinero, es una señal para tener cuidado.
 
-> **Dato adicional:** cuando una empresa intermediaria entre la app y el banco quiebra, los clientes pueden tardar meses en recuperar su dinero aunque el banco esté asegurado. Por eso conviene no tener todo tu dinero en un solo lugar.
+> **Dato adicional:** a veces quiebra la empresa intermediaria entre la app y el banco. Entonces los clientes pueden tardar meses en recuperar su dinero, aunque el banco esté asegurado. Por eso conviene no tener todo tu dinero en un solo lugar.
 
 
 
@@ -547,7 +547,7 @@ Desconfía de quien vende citas o promete trámites "más rápidos". Las citas o
 
 Pide la razón del rechazo.
 
-Si se debe a un reporte de tu historial bancario, por ejemplo de **ChexSystems**, tienes derecho a saber qué empresa lo emitió y a pedir una copia sin costo. Si hay un error, puedes disputarlo.
+Si se debe a un reporte de tu historial bancario, por ejemplo de **ChexSystems**, tienes derecho a saber qué empresa lo emitió. También a pedir una copia sin costo. Si hay un error, puedes disputarlo.
 
 
 
@@ -563,7 +563,7 @@ No mandes fotos de tu identificación por mensajes a desconocidos ni las publiqu
 
 Muchas instituciones piden un comprobante de domicilio. Sirven recibos de luz, agua o gas, un contrato de renta o una carta del banco.
 
-Si los servicios no están a tu nombre, pregunta qué otras opciones aceptan: a veces una carta de la persona con quien vives, con su recibo, o correo oficial a tu nombre.
+Si los servicios no están a tu nombre, pregunta qué otras opciones aceptan. A veces sirve una carta de la persona con quien vives, con su recibo, o correo oficial a tu nombre.
 
 
 
@@ -772,7 +772,7 @@ Una segunda cuenta ayuda a separar lo personal del negocio, pero no crea una emp
 
 Usar una cuenta personal para recibir pagos del negocio puede estar limitado por el contrato. Pregunta antes.
 
-> **Dato adicional:** según la FDIC, una de las razones más comunes por las que las personas no tienen cuenta de banco es que las cuotas son altas o impredecibles. Las cuentas Bank On se crearon para resolver eso.
+> **Dato adicional:** según la FDIC, una razón común para no tener cuenta de banco son las cuotas altas o impredecibles. Las cuentas Bank On se crearon para resolver eso.
 
 
 
@@ -1182,7 +1182,7 @@ Ahora Rubén lo tiene en su calendario y su mamá sabe con qué cuenta cada mes.
 
 #### Considera a quien recibe
 
-Piensa en cómo recibe tu familia: qué documentos tiene, si tiene cuenta de banco o celular, qué tan lejos está el punto de cobro, en qué horario y qué tan seguro es el camino.
+Piensa en cómo recibe tu familia. Qué documentos tiene y si tiene cuenta de banco o celular. Qué tan lejos está el punto de cobro, en qué horario abre y qué tan seguro es el camino.
 
 Una app que tú usas fácilmente puede ser difícil para una persona mayor.
 
@@ -1361,7 +1361,7 @@ Cuando vuelvas a cobrar, haz la cuenta otra vez. No sumes hoy un dinero que lleg
 
 Si el resultado es negativo, no lo conviertas en cero: tienes un faltante.
 
-Tus opciones: enviar una parte ahora y otra después, cambiar la fecha, pedir que otro familiar aporte, pagar directo una factura verificable o buscar ayuda local.
+Tienes varias opciones. Enviar una parte ahora y otra después, o cambiar la fecha. Pedir que otro familiar aporte. Pagar directo una factura verificable o buscar ayuda local.
 
 
 
@@ -1473,7 +1473,7 @@ Avisa con tiempo y retoma el monto habitual cuando te recuperes.
 
 Agrega tus envíos a tu calendario de dinero del Módulo 1, con su fecha y su monto.
 
-Así ves de un vistazo si una semana se junta la renta con un envío, y puedes mover uno de los dos antes de que sea un problema.
+Así ves de un vistazo si en una semana se juntan la renta y un envío. Puedes mover uno de los dos antes de que sea un problema.
 
 Revisa el calendario cada vez que cambien tus horas de trabajo o las necesidades de tu familia.
 
@@ -1674,7 +1674,7 @@ La referencia sirve para comparar. Casi nunca podrás cambiar exactamente a esa 
 
 #### Enviar directo a una cuenta en México
 
-Si abres una cuenta de débito sin comisión aquí y envías directo a la cuenta de banco de tu familia en México, o a su cuenta en la Financiera para el Bienestar:
+Abre una cuenta de débito sin comisión aquí. Desde ella, envía directo a la cuenta de banco de tu familia en México o a su cuenta en la Financiera para el Bienestar. Así:
 
 - evitas el impuesto de 1% por efectivo;
 - muchas veces pagas menos comisión;
@@ -1868,7 +1868,7 @@ Guardó los dos recibos por si había cualquier duda.
 
 #### Qué confirmar antes de pagar
 
-Nombre exacto del destinatario, país, moneda, monto que recibirá, costo total, fecha de disponibilidad, dónde y cómo se cobra, qué identificación necesita quien recibe y qué pasa si el nombre no coincide.
+Confirma el nombre exacto del destinatario, el país, la moneda y el monto que recibirá. También el costo total, la fecha de disponibilidad y dónde y cómo se cobra. Pregunta qué identificación necesita quien recibe y qué pasa si el nombre no coincide.
 
 Un nombre con una letra distinta puede impedir que tu familia cobre.
 
@@ -2067,7 +2067,7 @@ Así sigues debiendo lo mismo y ya gastaste en el costo. Si lo repites, pagas y 
 
 La hermana de Daniela necesitaba 400 dólares para una medicina. Daniela solo tenía 250 libres.
 
-En lugar de pedir un préstamo rápido, mandó 250 ese día y le propuso a su hermana preguntar en la farmacia si podía pagar el resto la semana siguiente. La farmacia aceptó.
+En lugar de pedir un préstamo rápido, mandó 250 ese día. Le propuso a su hermana preguntar en la farmacia si podía pagar el resto la semana siguiente. La farmacia aceptó.
 
 La semana siguiente, Daniela mandó los 150 que faltaban, sin deber nada a nadie.
 
@@ -2260,7 +2260,7 @@ Esa frase dice lo que sí puedes, lo que falta y cuándo sabrás más.
 
 #### El acuerdo familiar
 
-Un **acuerdo familiar** es lo que tú y tu familia entienden y aceptan sobre el apoyo: cuánto, cuándo, para qué y qué hacer en una emergencia.
+Un **acuerdo familiar** es lo que tú y tu familia entienden y aceptan sobre el apoyo. Incluye cuánto, cuándo, para qué y qué hacer en una emergencia.
 
 No tiene que ser un papel formal. Puede ser un mensaje que los dos guarden.
 
@@ -2589,11 +2589,11 @@ Antes de pagar, pide la escritura, verifica en el Registro Público de la Propie
 
 #### Dónde guardar el dinero de la meta
 
-Mientras ahorras para tu meta en México, guarda el dinero separado de tu cuenta del día a día, por ejemplo en una cuenta de ahorro asegurada.
+Mientras ahorras para tu meta en México, guarda el dinero separado de tu cuenta del día a día. Por ejemplo, en una cuenta de ahorro asegurada.
 
 Envíalo cuando se vaya a usar, no antes. Así el dinero no se gasta en otra cosa allá ni se pierde si cambia el plan.
 
-Si decides enviar poco a poco, pide que quede en una cuenta a nombre de quien corresponde y que te compartan los avances de la obra.
+Si decides enviar poco a poco, pide que el dinero quede en una cuenta a nombre de quien corresponde. Y que te compartan los avances de la obra.
 
 
 
@@ -2727,7 +2727,7 @@ Con el recorrido nuevo, Alex ahorra comisiones y el impuesto de 1%.
 
 #### Un caso en un minuto
 
-Daniela dibujó su recorrido: cobra por horas en su cuenta, recibe pedidos por Zelle y en efectivo, y enviaba a su hermana pagando con tarjeta de crédito.
+Daniela dibujó su recorrido. Cobra por horas en su cuenta y recibe pedidos por Zelle y en efectivo. Enviaba a su hermana pagando con tarjeta de crédito.
 
 Descubrió que su tarjeta cobraba cada envío como adelanto de efectivo. Ahora envía desde su cuenta de débito y deposita el efectivo de los pedidos una vez por semana.
 
@@ -2785,7 +2785,7 @@ Marca qué parte de tu plan depende de cada condición y ten una alternativa.
 
 #### Quien recibe también puede ahorrar
 
-Si tu familia recibe en una cuenta de banco o de la Financiera para el Bienestar, puede dejar una parte ahorrada ahí y no tener que cobrar todo de una vez.
+Si tu familia recibe en una cuenta de banco o de la Financiera para el Bienestar, puede dejar una parte ahorrada ahí. Así no tiene que cobrar todo de una vez.
 
 Pregunten juntos qué cuenta les conviene según dónde viven y qué documentos tienen.
 

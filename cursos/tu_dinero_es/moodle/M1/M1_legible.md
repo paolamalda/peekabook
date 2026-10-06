@@ -315,7 +315,7 @@ Su renta subió 8% y el transporte 10%. Aunque su sueldo no bajó, le quedan 68 
 
 Rubén no está gastando de más. Sus precios subieron y su ingreso no. Saberlo le ayuda a pedir un aumento con datos o a buscar dónde ajustar.
 
-> **Antes de actuar, verifica:** en cualquier oferta de crédito, busca si la tasa es anual o mensual, si es simple o compuesta, y qué cargos incluye.
+> **Antes de actuar, verifica:** en cualquier oferta de crédito, busca si la tasa es anual o mensual y si es simple o compuesta. Revisa también qué cargos incluye.
 
 
 
@@ -858,7 +858,7 @@ Lo que queda es lo que puedes usar para tu hogar.
 
 **Efectivo:** guardarlo fuera del banco no cambia lo que representa. Separa el dinero del negocio, del hogar y de impuestos.
 
-> **Dato adicional:** guardar los comprobantes de tus compras de trabajo y tu bitácora diaria te protege al declarar impuestos: son la prueba de tus ingresos y tus gastos.
+> **Dato adicional:** guarda los comprobantes de tus compras de trabajo y tu bitácora diaria. Te protegen al declarar impuestos: son la prueba de tus ingresos y tus gastos.
 
 
 
@@ -1115,7 +1115,7 @@ Si te lastimas en el trabajo, lo que aplica es el seguro de compensación del tr
 
 #### Pago de horas extra en California
 
-En California, por lo general, se paga tiempo y medio por las horas después de 8 en un día o de 40 en una semana, y doble tiempo en algunos casos.
+En California, por lo general, se paga tiempo y medio por las horas después de 8 en un día o de 40 en una semana. En algunos casos se paga doble tiempo.
 
 Hay excepciones según el tipo de trabajo. Si tus horas extra no aparecen en tu recibo, pregunta y guarda tu registro.
 
@@ -1263,7 +1263,7 @@ Cancelar tu tarjeta no siempre detiene el cobro, y puede generar una deuda con l
 
 #### Un caso en un minuto
 
-Mar revisa su estado de cuenta con un marcador. Encuentra tres cosas: dos apps de video, una comisión de 3.50 por usar un cajero de otro banco cuatro veces y pedidos de comida a domicilio que suman 140 al mes.
+Mar revisa su estado de cuenta con un marcador y encuentra tres cosas. Dos apps de video. Una comisión de 3.50 por usar un cajero de otro banco, cuatro veces. Y pedidos de comida a domicilio que suman 140 al mes.
 
 Cancela una app, usa cajeros de su banco y decide pedir comida solo los viernes. Libera cerca de 90 al mes sin dejar de disfrutar nada que le importe.
 
@@ -1321,7 +1321,7 @@ Ese dinero solo se vuelve ahorro si decides a dónde va. Si no, se gasta en otra
 
 Divide el precio entre la cantidad que realmente vas a usar.
 
-Un paquete grande puede ser más barato por pieza, pero una peor opción si se echa a perder o si te deja sin dinero para otra necesidad.
+Un paquete grande puede ser más barato por pieza. Pero puede ser peor opción si se echa a perder o si te deja sin dinero para otra necesidad.
 
 
 
@@ -1745,7 +1745,7 @@ Para cada ajuste escribe qué harás y por cuánto tiempo. Por ejemplo: "reduzco
 
 Rubén gana 2,600 al mes. Su renta es 750, comida 400, transporte 130, teléfono 60 y le envía 300 a su mamá. Suma 1,640 y le quedan 960.
 
-Parece mucho, pero no ha contado la ropa de trabajo, las salidas ni los gastos que no son mensuales, como el registro del auto de su compañero que él ayuda a pagar.
+Parece mucho, pero no ha contado la ropa de trabajo ni las salidas. Tampoco los gastos que no son mensuales, como el registro del auto de su compañero, que él ayuda a pagar.
 
 Con todo anotado, decide: 200 para reserva, 150 para gastos personales, 100 para gastos que no son mensuales y el resto para una meta de estudio.
 
@@ -1840,7 +1840,7 @@ Puede servir como punto de partida, pero en ciudades con renta alta casi nadie p
 
 #### Herramientas para tu presupuesto
 
-Puedes hacer tu presupuesto en una libreta, en una hoja de cálculo del teléfono o con la app de tu banco, que muchas veces clasifica tus gastos sola.
+Puedes hacer tu presupuesto en una libreta, en una hoja de cálculo del teléfono o con la app de tu banco. Muchas veces la app clasifica tus gastos sola.
 
 Lo importante no es la herramienta, sino revisarlo cada mes y ajustarlo cuando cambie tu vida.
 
@@ -2784,7 +2784,7 @@ Guárdalo al menos tres años. Te servirá si llega un aviso o si necesitas comp
 
 Si tu caso es sencillo, VITA o un preparador registrado pueden ayudarte.
 
-Si tienes un negocio con empleados, bienes en otro país, declaraciones atrasadas de varios años o un aviso del IRS que no entiendes, conviene un agente inscrito (EA), un contador (CPA) o un abogado de impuestos.
+A veces conviene un agente inscrito (EA), un contador (CPA) o un abogado de impuestos. Por ejemplo, si tienes un negocio con empleados, bienes en otro país, declaraciones atrasadas de varios años o un aviso del IRS que no entiendes.
 
 
 
@@ -3146,7 +3146,7 @@ No mantengas una aportación de ahorro imposible para que el plan "se vea bien".
 
 #### Un caso en un minuto
 
-Daniela escribió su plan de 90 días con solo tres acciones: anotar sus cobros cada noche, separar sobres para hogar, negocio e impuestos, y pedir cita en VITA en enero.
+Daniela escribió su plan de 90 días con solo tres acciones. Anotar sus cobros cada noche. Separar sobres para hogar, negocio e impuestos. Y pedir cita en VITA en enero.
 
 A los 30 días revisó su avance. Cumplió dos acciones y la tercera todavía no tocaba. Le dio tanta tranquilidad ver su dinero en orden que agregó una acción nueva: apartar 10 dólares por pedido para su reserva.
 

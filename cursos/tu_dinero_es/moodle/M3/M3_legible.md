@@ -540,7 +540,7 @@ Rubén, sin historial en ningún país, empezó con una tarjeta garantizada de 2
 
 Si pagas renta cada mes, ya haces algo que puede contar para tu historial.
 
-En California, desde 2025 una ley (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos la opción de reportar sus pagos puntuales de renta a al menos una agencia de crédito. Aplica a edificios de más de 15 unidades y a algunas empresas dueñas de varias propiedades. Solo se reportan pagos a tiempo, si tú lo pides; el arrendador puede cobrarte lo que le cuesta, hasta 10 dólares al mes.
+En California, desde 2025, una ley (AB 2747) pide que muchos arrendadores ofrezcan a sus inquilinos una opción. Pueden reportar sus pagos puntuales de renta a al menos una agencia de crédito. Aplica a edificios de más de 15 unidades y a algunas empresas dueñas de varias propiedades. Solo se reportan pagos a tiempo, si tú lo pides. El arrendador puede cobrarte lo que le cuesta, hasta 10 dólares al mes.
 
 Pregunta a tu arrendador si ofrece este servicio y si tiene algún costo.
 
@@ -1141,7 +1141,7 @@ Si el resultado fuera negativo, ninguna estrategia de pagos extra alcanza: neces
 
 #### Primero lo que pone en riesgo lo básico
 
-A veces la tasa no es lo más importante. Atiende primero una deuda que pone en riesgo tu vivienda, el auto que usas para trabajar, un servicio básico o que ya está en la corte.
+A veces la tasa no es lo más importante. Atiende primero una deuda que pone en riesgo tu vivienda, el auto que usas para trabajar o un servicio básico. También la que ya está en la corte.
 
 > **Idea clave:** la mejor estrategia es la que puedes sostener. Las dos funcionan si pagas todos los mínimos a tiempo.
 
@@ -1425,7 +1425,7 @@ Si un cobrador te contacta por una deuda muy vieja, verifica primero la fecha. E
 
 #### Dónde conseguir ayuda legal
 
-El State Bar de California tiene una lista de servicios de ayuda legal sin costo o de bajo costo y de servicios de referencia de abogados certificados.
+El State Bar de California tiene una lista de servicios de ayuda legal sin costo o de bajo costo. También tiene servicios de referencia de abogados certificados.
 
 En muchas cortes de California hay centros de autoayuda sin costo que te explican cómo responder a una demanda.
 
@@ -1445,7 +1445,7 @@ Guarda una copia y anota cada pago que hagas.
 
 #### Tus derechos frente a los cobradores
 
-Los cobradores de deudas no pueden llamarte antes de las 8 de la mañana ni después de las 9 de la noche, ni al trabajo si les dices que no puedes recibir llamadas ahí.
+Los cobradores de deudas no pueden llamarte antes de las 8 de la mañana ni después de las 9 de la noche. Tampoco al trabajo, si les dices que no puedes recibir llamadas ahí.
 
 Puedes pedirles por escrito que dejen de contactarte. Eso no borra la deuda, pero detiene las llamadas.
 
@@ -1625,7 +1625,7 @@ El prestamista acepta dar el préstamo porque tú también respondes. Esto signi
 
 La ley federal obliga a muchos prestamistas a darte un aviso para cofirmantes antes de firmar. La FTC explica tus riesgos en [Cofirmar un préstamo: preguntas frecuentes](https://consumer.ftc.gov/articles/cosigning-loan-faqs) (en inglés).
 
-> **Dato adicional:** en California, la ley pide que el aviso para cofirmantes («Notice to Cosigner») se entregue en inglés y en otros idiomas, entre ellos el español. Si no te lo dieron, pídelo antes de firmar.
+> **Dato adicional:** en California, la ley pide que te entreguen el aviso para cofirmantes («Notice to Cosigner»). Debe estar en inglés y en otros idiomas, entre ellos el español. Si no te lo dieron, pídelo antes de firmar.
 
 
 
@@ -1643,7 +1643,7 @@ La ley federal obliga a muchos prestamistas a darte un aviso para cofirmantes an
 
 #### Referencia no es cofirmante
 
-Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia no te obliga a pagar. Por la ley federal de cobranza (FDCPA), un cobrador solo puede preguntarte cómo localizar a esa persona y no puede decirte que tiene una deuda ni cobrarte. Si te presiona, anota los datos y preséntalo ante la CFPB.
+Cuando alguien pide una tarjeta, un préstamo o una renta, le piden referencias: nombre y teléfono de personas que lo conocen. Ser referencia no te obliga a pagar. La ley federal de cobranza (FDCPA) solo permite que un cobrador te pregunte cómo localizar a esa persona. No puede decirte que tiene una deuda ni cobrarte. Si te presiona, anota los datos y preséntalo ante la CFPB.
 
 
 
@@ -1704,7 +1704,7 @@ A veces, por necesidad, algunas familias abren cuentas de luz, teléfono o créd
 
 Eso puede dañar el historial de crédito del menor antes de que cumpla 18 años, y le causará problemas cuando quiera rentar o estudiar.
 
-Si descubres que alguien abrió cuentas con los datos de un menor, puedes **congelar su crédito sin costo** en las tres agencias y reportarlo en IdentityTheft.gov.
+Si descubres que alguien abrió cuentas con los datos de un menor, puedes **congelar su crédito sin costo** en las tres agencias. Repórtalo también en IdentityTheft.gov.
 
 
 
@@ -2119,7 +2119,7 @@ En el Módulo 4 aprenderás a proteger tu dinero, tu identidad y a tu familia: e
 
 #### Lo que lograste en este módulo
 
-Ahora sabes distinguir aprobación de capacidad de pago, leer tu reporte, crear historial sin endeudarte, reconocer estafas de reparación, comparar préstamos por costo total, ordenar tus deudas, negociar y protegerte de cobradores, firmar con cuidado y hacer que tu tanda cuente.
+Ahora sabes distinguir aprobación de capacidad de pago, leer tu reporte y crear historial sin endeudarte. Sabes reconocer estafas de reparación y comparar préstamos por costo total. También ordenar tus deudas, negociar, protegerte de cobradores, firmar con cuidado y hacer que tu tanda cuente.
 
 
 
@@ -2399,7 +2399,7 @@ No revisan tu crédito y, si no pagas, **no te persiguen ni te reportan**: pierd
 
 Mar comparó: el taller le aceptaba pagar la reparación en dos partes sin cargo. Así no empeñó su cadena. Guardó la idea del empeño solo para una urgencia en la que no tenga otra opción.
 
-> **Idea clave:** empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda; pide los cargos por escrito, guarda tu boleta y anota la fecha límite.
+> **Idea clave:** empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda. Pide los cargos por escrito, guarda tu boleta y anota la fecha límite.
 
 
 

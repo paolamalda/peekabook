@@ -540,7 +540,7 @@ Rubén, with no history in any country, started with a 200 secured card and aske
 
 If you pay rent every month, you're already doing something that can count toward your history.
 
-In California, since 2025 a law (AB 2747) requires many landlords to offer tenants the option of reporting their on-time rent payments to at least one credit agency. It applies to buildings with more than 15 units and to some companies that own several properties. Only on-time payments are reported, if you ask; the landlord may charge you their cost, up to 10 dollars a month.
+In California, since 2025, a law (AB 2747) requires many landlords to offer tenants an option. They can report their on-time rent payments to at least one credit agency. It applies to buildings with more than 15 units and to some companies that own several properties. Only on-time payments are reported, if you ask. The landlord may charge you their cost, up to 10 dollars a month.
 
 Ask your landlord whether they offer this service and whether it has a cost.
 
@@ -1141,7 +1141,7 @@ If the result were negative, no extra-payment strategy would be enough: you need
 
 #### First, what puts the basics at risk
 
-Sometimes the rate isn't what matters most. First take care of a debt that puts your housing, the car you use for work or a basic utility at risk, or that is already in court.
+Sometimes the rate isn't what matters most. First take care of a debt that puts your housing, the car you use for work or a basic utility at risk. Also one that is already in court.
 
 > **Key idea:** the best strategy is the one you can keep up. Both work if you pay all the minimums on time.
 
@@ -1406,7 +1406,7 @@ Ask about the options, the fees, the effect on your report and how the agreement
 
 In California, the time a creditor has to sue you over a credit card debt or a written contract is usually **4 years**. It's called the statute of limitations.
 
-If a collector contacts you about a very old debt, check the date first. In California, paying a debt that is already time-barred doesn't revive the right to sue you, but **signing a new written promise to pay can**. The collector must tell you in writing if the debt is too old to sue over. Get guidance before you promise anything.
+If a collector contacts you about a very old debt, check the date first. In California, paying a debt that is already time-barred doesn't revive the right to sue you. But **signing a new written promise to pay can**. The collector must tell you in writing if the debt is too old to sue over. Get guidance before you promise anything.
 
 > **Good to know:** in California, debt collectors must be licensed by the DFPI, and there are special rules for debts sold to other companies. If a collector isn't licensed, report it.
 
@@ -1445,7 +1445,7 @@ Keep a copy and write down each payment you make.
 
 #### Your rights with debt collectors
 
-Debt collectors can't call you before 8 in the morning or after 9 at night, or at work if you tell them you can't take calls there.
+Debt collectors can't call you before 8 in the morning or after 9 at night. They also can't call you at work if you tell them you can't take calls there.
 
 You can ask them in writing to stop contacting you. That doesn't erase the debt, but it stops the calls.
 
@@ -1643,7 +1643,7 @@ Federal law requires many lenders to give you a cosigner notice before you sign.
 
 #### A reference isn't a cosigner
 
-When someone applies for a card, a loan or a rental, they're asked for references: names and phone numbers of people who know them. Being a reference doesn't obligate you to pay. Under the federal Fair Debt Collection Practices Act (FDCPA), a collector may only ask you how to locate that person, can't tell you they owe a debt and can't charge you. If they pressure you, write down the details and submit a complaint to the CFPB.
+When someone applies for a card, a loan or a rental, they're asked for references: names and phone numbers of people who know them. Being a reference doesn't obligate you to pay. The federal Fair Debt Collection Practices Act (FDCPA) only lets a collector ask you how to locate that person. They can't tell you that person owes a debt, and they can't charge you. If they pressure you, write down the details and submit a complaint to the CFPB.
 
 
 
@@ -1704,7 +1704,7 @@ Sometimes, out of need, some families open electric, phone or credit accounts us
 
 That can damage the child's credit history before they turn 18, and will cause them problems when they want to rent or study.
 
-If you find out someone opened accounts with a minor's information, you can **freeze their credit at no cost** at all three agencies and report it at IdentityTheft.gov.
+If you find out someone opened accounts with a minor's information, you can **freeze their credit at no cost** at all three agencies. Report it at IdentityTheft.gov too.
 
 
 
@@ -2119,7 +2119,7 @@ In Module 4 you'll learn to protect your money, your identity and your family: s
 
 #### What you achieved in this module
 
-Now you know how to tell approval from ability to pay, read your report, build a history without going into debt, recognize repair scams, compare loans by total cost, organize your debts, negotiate and protect yourself from collectors, sign carefully and make your tanda count.
+Now you know how to tell approval from ability to pay, read your report and build a history without going into debt. You can recognize repair scams and compare loans by total cost. You can also organize your debts, negotiate, protect yourself from collectors, sign carefully and make your tanda count.
 
 
 
@@ -2241,7 +2241,7 @@ A payday loan charges fees that, over a year, often top 300%, and it's due in fu
 
 Rubén asked at work: his employer advances up to half of what he's already earned, at no cost, once a month. He got the 200 there and started setting aside 20 dollars per check for his fund so he won't need it again.
 
-> **Key idea:** an advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first.
+> **Key idea:** an advance isn't extra money: it's your own pay, earlier. Add up a year of tips and fees, and ask your employer first.
 
 
 
@@ -2399,7 +2399,7 @@ They don't check your credit and, if you don't pay, **they don't chase or report
 
 Mar compared: the shop would let her pay for the repair in two parts at no charge. So she didn't pawn her chain. She keeps pawning only for an emergency with no other option.
 
-> **Key idea:** pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline.
+> **Key idea:** pawning doesn't affect your credit, but it's expensive and you can lose your item. Get the fees in writing, keep your ticket and note the deadline.
 
 
 

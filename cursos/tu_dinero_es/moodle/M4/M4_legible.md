@@ -129,7 +129,7 @@ Reporta en **ReporteFraude.ftc.gov**, en español. Si perdiste dinero, avisa tam
 
 Las personas mayores y los jóvenes que acaban de llegar suelen ser blanco de estafas.
 
-Platica con tu familia sobre las estafas más comunes y acuerden una regla sencilla: nadie paga ni da códigos sin antes consultarlo con otra persona de la familia.
+Platica con tu familia sobre las estafas más comunes y acuerden una regla sencilla. Nadie paga ni da códigos sin antes consultarlo con otra persona de la familia.
 
 
 
@@ -439,7 +439,7 @@ Guarda el contacto de una organización con representantes acreditados o un serv
 
 **Lo que lograrás:** Proteger tu acceso, tus dispositivos y tu forma de recuperar tus cuentas.
 
-**Para empezar:** Alex usaba la misma contraseña para todo. Una tienda en línea sufrió un robo de datos y, con esa contraseña, alguien entró a su correo y de ahí intentó entrar a su banco. En esta lección aprenderás a proteger tus cuentas con pasos sencillos.
+**Para empezar:** Alex usaba la misma contraseña para todo. Una tienda en línea sufrió un robo de datos. Con esa contraseña, alguien entró a su correo y de ahí intentó entrar a su banco. En esta lección aprenderás a proteger tus cuentas con pasos sencillos.
 
 ### Lo esencial (5 minutos)
 
@@ -547,7 +547,7 @@ Si usas una computadora en una biblioteca o un teléfono de otra persona:
 
 Ten siempre una lista de contactos importantes fuera del teléfono.
 
-> **Dato adicional:** activar la verificación en dos pasos bloquea la gran mayoría de los intentos automáticos de robo de cuentas, según empresas de tecnología como Google y Microsoft.
+> **Dato adicional:** activar la verificación en dos pasos bloquea la gran mayoría de los intentos automáticos de robo de cuentas. Así lo reportan empresas de tecnología como Google y Microsoft.
 
 
 
@@ -951,11 +951,11 @@ La amiga no la juzga ni le dice qué hacer. Le comparte el número de la línea 
 
 #### Personas mayores y abuso económico
 
-Las personas mayores o que dependen de cuidados también pueden sufrir abuso económico: familiares que usan su dinero sin permiso, cuidadores que piden "prestado" o desconocidos que se ganan su confianza.
+Las personas mayores o que dependen de cuidados también pueden sufrir abuso económico. Por ejemplo, familiares que usan su dinero sin permiso, cuidadores que piden "prestado" o desconocidos que se ganan su confianza.
 
 Ayudar a administrar el dinero de alguien requiere su permiso y límites. Tener acceso no da derecho a usarlo para uno mismo.
 
-> **Dato adicional:** en California, los Servicios de Protección para Adultos (APS) de cada condado reciben reportes de abuso económico a personas mayores o dependientes, las 24 horas.
+> **Dato adicional:** en California, los Servicios de Protección para Adultos (APS) de cada condado reciben reportes las 24 horas. Atienden el abuso económico a personas mayores o dependientes.
 
 
 
@@ -1196,7 +1196,7 @@ Así, la misma reserva te dura más.
 
 Después de usarla, anota cuánto usaste y para qué. Decide cuánto apartarás cada semana para reponerla y en cuánto tiempo.
 
-> **Dato adicional:** en California, CalSavers es un programa estatal de ahorro para el retiro; algunas personas lo usan también para ahorrar poco a poco, aunque su propósito es el retiro. Para emergencias, lo mejor es una cuenta de ahorro que puedas usar sin penalidad.
+> **Dato adicional:** en California, CalSavers es un programa estatal de ahorro para el retiro. Algunas personas lo usan también para ahorrar poco a poco, aunque su propósito es el retiro. Para emergencias, lo mejor es una cuenta de ahorro que puedas usar sin penalidad.
 
 
 
@@ -1546,7 +1546,7 @@ Antes que nada: **nunca retrases una atención urgente por miedo al costo**. Pri
 
 #### Protección contra facturas sorpresa
 
-Si vas a una sala de urgencias, la ley federal (**No Surprises Act**) prohíbe que te cobren tarifas excesivas "fuera de red" por médicos que no elegiste.
+Si vas a una sala de urgencias, la ley federal (**No Surprises Act**) te protege. Prohíbe que te cobren tarifas excesivas "fuera de red" por médicos que no elegiste.
 
 Y si no tienes seguro, tienes derecho a pedir una **Estimación de Buena Fe** por escrito del costo total antes de una atención programada.
 
@@ -1554,7 +1554,7 @@ Y si no tienes seguro, tienes derecho a pedir una **Estimación de Buena Fe** po
 
 #### Pide ayuda financiera antes de pagar
 
-Los hospitales de California deben tener una política de **asistencia financiera** y ofrecer atención sin costo o con descuento a personas con ingresos bajos y medios que califiquen.
+Los hospitales de California deben tener una política de **asistencia financiera**. Deben ofrecer atención sin costo o con descuento a personas con ingresos bajos y medios que califiquen.
 
 Pregunta **antes** de pagar o de pasar la cuenta a una tarjeta de crédito.
 
@@ -1611,7 +1611,7 @@ En California, una ley vigente desde 2025 prohíbe, en general, reportar deudas 
 
 Aun así, no ignores una factura: pide ayuda financiera o un plan de pagos sin intereses.
 
-> **Dato adicional:** si la Estimación de Buena Fe dice 1,000 y te cobran 400 o más por encima, puedes iniciar una disputa federal dentro de los 120 días siguientes a la factura.
+> **Dato adicional:** si la Estimación de Buena Fe dice 1,000 y te cobran 400 o más por encima, puedes iniciar una disputa federal. Tienes 120 días desde la factura.
 
 
 
@@ -1762,7 +1762,7 @@ Ante un incendio, una evacuación o un accidente, sigue las indicaciones de emer
 
 #### Un caso en un minuto
 
-Después del incendio, Rosa preparó una mochila con copias de sus documentos en una bolsa sellada, una lista de contactos en papel, medicinas para tres días y 100 dólares en billetes pequeños.
+Después del incendio, Rosa preparó una mochila. Puso copias de sus documentos en una bolsa sellada, una lista de contactos en papel, medicinas para tres días y 100 dólares en billetes pequeños.
 
 La guarda junto a la puerta y le dijo a su hija dónde está.
 
@@ -2204,7 +2204,7 @@ Escribió sus contactos en papel, pidió a su hija que la ayudara a actualizar s
 
 Prioriza los riesgos que pueden afectar tu vivienda, tu ingreso, tu salud o tu seguridad.
 
-No intentes contratar todos los seguros. Identifica las brechas y decide qué puedes prevenir, qué puedes cubrir con una reserva, qué puedes transferir a un seguro y qué necesitas atender con apoyo.
+No intentes contratar todos los seguros. Identifica las brechas y decide qué puedes prevenir y qué puedes cubrir con una reserva. Después, qué puedes transferir a un seguro y qué necesitas atender con apoyo.
 
 
 
@@ -2239,7 +2239,7 @@ Pon una alerta en tu calendario para hacer un simulacro una vez al año.
 
 #### Lo que lograste en este módulo
 
-Ahora sabes reconocer estafas, verificar quién puede ayudarte con trámites, proteger tus cuentas, responder a un fraude, reconocer el abuso económico, construir reservas, entender tus seguros y tus facturas médicas, y preparar a tu familia.
+Ahora sabes reconocer estafas, verificar quién puede ayudarte con trámites y proteger tus cuentas. Sabes responder a un fraude y reconocer el abuso económico. También construir reservas, entender tus seguros y tus facturas médicas, y preparar a tu familia.
 
 
 
@@ -2352,7 +2352,7 @@ Ready.gov · FTC, IdentityTheft.gov.
 
 #### Cómo se pide
 
-La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la paternidad, fijar un monto con la fórmula del estado y cobrarlo, muchas veces con descuento directo del salario del otro padre. En general atienden a madres y padres sin importar su situación migratoria; pregunta qué documentos piden.
+La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la paternidad. También a fijar un monto con la fórmula del estado y a cobrarlo, muchas veces con descuento directo del salario del otro padre. En general atienden a madres y padres sin importar su situación migratoria. Pregunta qué documentos piden.
 
 
 
@@ -2366,7 +2366,7 @@ Paga a través de la agencia o con descuento del salario, y guarda comprobantes.
 
 Daniela llamó a la agencia de su condado. Le pidieron el acta de nacimiento de su hijo y datos del papá. Ahora el pago llega por la agencia cada mes y queda registrado.
 
-> **Idea clave:** la manutención es un derecho de tus hijos; la agencia de tu estado ayuda a pedirla y registrar los pagos, y quien paga debe hacerlo con comprobante.
+> **Idea clave:** la manutención es un derecho de tus hijos. La agencia de tu estado ayuda a pedirla y a registrar los pagos. Quien paga debe hacerlo con comprobante.
 
 
 

@@ -16,12 +16,11 @@ Las fuentes de esta revisión son secundarias (sitios de despachos, medios y tex
 | 4 | M5 (ahorro en México) | Modalidades del IMSS para quien vive fuera (K09) | **Confirmado** | Modalidad 40: se puede pagar desde el extranjero; requisitos: 52 semanas en los 5 años anteriores a la baja y no más de 5 años desde ella. Modalidad 33: cubre a la familia en México y a la persona cuando está allá; cuota anual por edad. La Modalidad 10 ya no se menciona en esa lección. |
 | 5 | M5 (testamento) | «Mes del Testamento» en septiembre | **Confirmado** | Edición 2026 con descuentos de hasta 50% en honorarios notariales en las 32 entidades; el precio cambia por estado. |
 | 6 | M5 (cobrar con apps) | Umbral del formulario 1099-K | **Confirmado** | Más de 20,000 dólares **y** más de 200 pagos al año (umbral restablecido en 2025). Se agregó que el ingreso se declara aunque no llegue el formulario. |
-| 7 | M5 (programas para comprar casa) | ¿Qué programas de CalHFA aceptan ITIN? (K08) | **Sigue pendiente** | No hay confirmación pública clara. La lección ya no muestra la marca y dice: «algunos pueden pedir documentos que el ITIN no cumple; pregunta directamente al programa», y remite a un consejero de vivienda certificado por HUD. Confirmar con CalHFA o con un consejero HUD. |
+| 7 | M5 (programas para comprar casa) | ¿Qué programas de CalHFA aceptan ITIN? (K08) | **Confirmado** | Ninguno acepta solo ITIN. La hipoteca de Dream For All pide que cada comprador sea ciudadano o «qualified alien» (8 U.S.C. § 1641). La ley AB 1840, que abría el programa a personas con ITIN, se vetó en septiembre de 2024; no encontramos cambios en 2025 ni 2026. La lección lo dice así y deja las hipotecas con ITIN como opción de cooperativas y CDFI, sin marcas. |
 | 8 | Fuentes de M3 y M5 | Referencias con marca | **Actualizado** | Se agregaron las leyes citadas (AB 2747, Código Civil 1954.07, Código de Procedimientos Civiles 360, Código Civil 1788.14). |
 
 ## Lo que sigue pendiente fuera de esta lista
 
-- **K08** CalHFA e hipotecas con ITIN (punto 7).
 - **K11** Redacción sobre carga pública y Medi-Cal para adultos sin residencia legal (cambios 2026), M1 U13 de Tu Dinero y Your Money: no tenía marca, pero está en la lista de revisión legal.
 - **Revisión legal** de los puntos 1 a 3 antes del piloto en California.
 
@@ -33,4 +32,4 @@ Las fuentes de esta revisión son secundarias (sitios de despachos, medios y tex
 - IMSS Modalidad 40 y 33: Univision, «Cómo afiliarse al IMSS desde Estados Unidos»; Expansión, «Modalidad 33 del IMSS» (10 de diciembre de 2025).
 - Mes del Testamento 2026: Infobae (17 y 22 de septiembre de 2026); El Informador (4 de septiembre de 2026).
 - Formulario 1099-K: TaxAct, «What to Know About the New 1099-K Reporting Threshold»; Sovos, «IRS Updates Form 1099-K: 2026 Reporting Threshold».
-- CalHFA: comunicado del 16 de enero de 2026 y página de MyHome (sin dato sobre ITIN).
+- CalHFA: comunicado del 16 de enero de 2026, página de MyHome, requisitos de la hipoteca Dream For All (Conventional) y boletín 2024-03; análisis del Senado de California sobre AB 1840; mensaje de veto del gobernador (6 de septiembre de 2024); KQED y CBS Sacramento.

@@ -56,7 +56,7 @@ Take a closer look at a deposit if:
 - it's a transfer from another account of yours;
 - your statement says *refund*, *reversal* or *credit adjustment*.
 
-> **Before you act, check:** if you don't recognize a deposit, mark it "to be cleared up" and don't spend it until you know what it is.
+> **Before you act, check:** if you don't recognize a deposit, mark it "to be cleared up." Don't spend it until you know what it is.
 
 
 
@@ -120,7 +120,7 @@ A **debit** card pays with your deposit. A **credit** card pays with a loan.
 
 An app can show you several balances on the same screen. Before you use it, find out who holds your money. You can check whether a bank is insured on [FDIC BankFind](https://banks.data.fdic.gov/bankfind-suite/) and whether a credit union is insured on [NCUA](https://mapping.ncua.gov).
 
-> **Good to know:** in the U.S., money at an FDIC-insured bank is protected up to 250,000 dollars per person, per bank, per type of account. At insured credit unions, the NCUA gives the same protection.
+> **Good to know:** in the U.S., money at an FDIC-insured bank is protected up to 250,000 dollars. The limit is per person, per bank and per type of account. At insured credit unions, the NCUA gives the same protection.
 
 
 
@@ -416,7 +416,7 @@ If your pay hasn't gone up and prices have, you have an argument with numbers.
 
 Calculate how much inflation went up since your last raise and how much your main expenses went up. For example: "Since my last raise, two years ago, prices have gone up about 7%."
 
-Ask for a conversation, bring your numbers and talk about your work: how long you've been there, what new responsibilities you have and what results you deliver.
+Ask for a conversation, bring your numbers and talk about your work. Mention how long you've been there, what new responsibilities you have and what results you deliver.
 
 If there's no raise, ask about other options: more hours, a different schedule or training.
 
@@ -858,7 +858,7 @@ What's left is what you can use for your home.
 
 **Cash:** keeping it outside the bank doesn't change what it is. Keep business, household and tax money separate.
 
-> **Good to know:** keeping the receipts for your work purchases and your daily log protects you when you file taxes: they're the proof of your income and your expenses.
+> **Good to know:** keep the receipts for your work purchases and your daily log. They protect you when you file taxes: they're the proof of your income and your expenses.
 
 
 
@@ -1115,7 +1115,7 @@ If you get hurt at work, what applies is workers' compensation insurance, which 
 
 #### Overtime pay in California
 
-In California, in general, you get time and a half for hours after 8 in a day or 40 in a week, and double time in some cases.
+In California, in general, you get time and a half for hours after 8 in a day or 40 in a week. In some cases you get double time.
 
 There are exceptions depending on the type of job. If your overtime doesn't show up on your pay stub, ask and keep your record.
 
@@ -1229,7 +1229,7 @@ A small expense that repeats is often called a **latte factor**. That doesn't ma
 
 #### Track before you judge
 
-Before you decide to cut an expense, write down four things: how much it costs, how often it happens, what it does for you and whether you can change it.
+Before you decide to cut an expense, write down four things. How much it costs. How often it happens. What it does for you. And whether you can change it.
 
 The size of an expense doesn't tell you whether it's necessary. A coffee with a friend may be your only break of the week.
 
@@ -1263,7 +1263,7 @@ Canceling your card doesn't always stop the charge, and it can leave you owing t
 
 #### A case in one minute
 
-Mar goes over her statement with a highlighter. She finds three things: two video apps, a 3.50 fee for using another bank's ATM four times and food delivery orders that add up to 140 a month.
+Mar goes over her statement with a highlighter and finds three things. Two video apps. A 3.50 fee for using another bank's ATM, four times. And food delivery orders that add up to 140 a month.
 
 She cancels one app, uses her own bank's ATMs and decides to order food only on Fridays. She frees up about 90 a month without giving up anything that matters to her.
 
@@ -1745,7 +1745,7 @@ For each adjustment, write what you'll do and for how long. For example: "I cut 
 
 Rubén earns 2,600 a month. His rent is 750, food 400, transportation 130, phone 60, and he sends 300 to his mom. That adds up to 1,640 and leaves him 960.
 
-It looks like a lot, but he hasn't counted work clothes, going out or expenses that aren't monthly, like his roommate's car registration that he helps pay.
+It looks like a lot, but he hasn't counted work clothes or going out. Nor expenses that aren't monthly, like his roommate's car registration, which he helps pay.
 
 With everything written down, he decides: 200 for savings, 150 for personal spending, 100 for non-monthly expenses and the rest for a study goal.
 
@@ -1824,7 +1824,7 @@ An emergency fund is money for surprises, like an illness or losing work hours.
 
 Start with a small goal, for example one week of basic expenses. Keep it apart from your day-to-day money.
 
-> **Good to know:** according to Federal Reserve surveys, many families in the U.S. couldn't cover a surprise 400-dollar expense with cash or its equivalent. Starting small already puts you ahead.
+> **Good to know:** according to Federal Reserve surveys, many families in the U.S. couldn't cover a surprise 400-dollar expense with cash. Starting small already puts you ahead.
 
 
 
@@ -1840,7 +1840,7 @@ Use it as a reference, not as a test. What matters is that your plan is realisti
 
 #### Tools for your budget
 
-You can make your budget in a notebook, in a spreadsheet on your phone or with your bank's app, which often sorts your expenses on its own.
+You can make your budget in a notebook, in a spreadsheet on your phone or with your bank's app. The app often sorts your expenses on its own.
 
 What matters isn't the tool, but reviewing it every month and adjusting it when your life changes.
 
@@ -2313,7 +2313,7 @@ You'll see it in detail in M5 U10. For now, keep good records: they're the basis
 
 #### Keep your accounts separate
 
-Having an account just for your business makes everything easier: you see how much comes in, how much you spend and how much you earn, without mixing it with your personal life.
+Having an account just for your business makes everything easier. You see how much comes in, how much you spend and how much you earn. And you don't mix it with your personal life.
 
 You don't need a business account with a fee. A second personal account with no fees can work at first.
 
@@ -2784,7 +2784,7 @@ Keep it for at least three years. It will help if a notice arrives or if you nee
 
 If your case is simple, VITA or a registered preparer can help you.
 
-If you have a business with employees, property in another country, several years of late returns or an IRS notice you don't understand, it's worth going to an enrolled agent (EA), an accountant (CPA) or a tax attorney.
+Sometimes it's worth going to an enrolled agent (EA), an accountant (CPA) or a tax attorney. For example, if you have a business with employees or property in another country. Also if you have several years of late returns or an IRS notice you don't understand.
 
 
 
@@ -3146,9 +3146,9 @@ Don't keep an impossible savings amount just so the plan "looks good."
 
 #### A case in one minute
 
-Daniela wrote her 90-day plan with only three actions: write down her payments every night, set up envelopes for home, business and taxes, and make a VITA appointment in January.
+Daniela wrote her 90-day plan with only three actions. Write down her payments every night. Set up envelopes for home, business and taxes. And make a VITA appointment in January.
 
-After 30 days she checked her progress. She had done two actions and the third wasn't due yet. Seeing her money in order gave her so much peace of mind that she added a new action: set aside 10 dollars per order for her savings cushion.
+After 30 days she checked her progress. She had done two actions, and the third wasn't due yet. Seeing her money in order gave her peace of mind. So she added a new action: set aside 10 dollars per order for her savings cushion.
 
 
 
