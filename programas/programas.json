@@ -40,8 +40,7 @@
     "tu_dinero_es",
     "your_money_en",
     "tu_negocio_us_es",
-    "your_business_us_en",
-    "tu_temporada"
+    "your_business_us_en"
    ],
    "revisado": "2026-10-06",
    "vigencia_meses": 6,
@@ -79,6 +78,46 @@
    }
   },
   {
+   "id": "sne_movilidad",
+   "cursos": [
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Trabajo temporal con el Servicio Nacional de Empleo",
+    "en": ""
+   },
+   "texto": {
+    "es": "El **Servicio Nacional de Empleo (SNE)** es la vía oficial y **sin costo** para trabajar temporalmente en el campo fuera de México:\n\n- **PTAT (Canadá):** recluta, selecciona y coloca a personas con experiencia agrícola con empleadores canadienses.\n- **Mecanismo de Movilidad Laboral Externa:** coloca a jornaleros agrícolas con empleadores de otros países.\n\nNadie debe cobrarte por un lugar en estos programas. Si alguien te pide dinero por «meterte», es fraude. Infórmate en la oficina del SNE de tu estado, al 800 841 2020 o por WhatsApp al 55 7335 6824, de lunes a viernes de 8:00 a 18:00.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Servicio Nacional de Empleo** (STPS · español): https://www.empleo.gob.mx | Qué buscar: PTAT, movilidad laboral externa y la oficina de tu estado.",
+    "en": ""
+   }
+  },
+  {
+   "id": "canada_denuncia",
+   "cursos": [
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "En Canadá: si tu empleador abusa",
+    "en": ""
+   },
+   "texto": {
+    "es": "Si trabajas en Canadá y tu empleador no te paga lo acordado, te pone en peligro o te maltrata, puedes reportarlo a **Service Canada** al **1-866-602-9448**. También hay una forma de reporte en línea.\n\n- El reporte es **confidencial**: no tienes que dar tu nombre y no le dicen a tu empleador quién reportó.\n- Tu empleador **no puede castigarte ni hacer que te regresen** por reportarlo.\n- Te atienden en español y en muchos otros idiomas.\n\nAvisa también al personal de enlace del PTAT en el consulado de México.\n\n> **Dato vigente:** la línea de Service Canada para personas trabajadoras temporales extranjeras es 1-866-602-9448. Consultado el 6 de octubre de 2026 a través del Gobierno de Canadá.",
+    "en": ""
+   },
+   "recurso": {
+    "es": "- **Tus derechos como trabajador temporal** (Gobierno de Canadá · inglés y francés): https://www.canada.ca/en/employment-social-development/services/foreign-workers/protected-rights.html | Qué buscar: tus derechos y la forma de reporte en línea.",
+    "en": ""
+   }
+  },
+  {
    "id": "ventanillas",
    "cursos": [
     "tu_dinero_es",
@@ -99,6 +138,30 @@
    "recurso": {
     "es": "- **Ventanilla de Asesoría Financiera** (IME · español): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | Qué buscar: qué temas atiende y cómo pedir una cita en tu consulado.",
     "en": "- **Financial Advisory Window** (IME · Spanish): https://www.gob.mx/ime/acciones-y-programas/ventanilla-de-asesoria-financiera | What to look for: the topics they cover and how to make an appointment at your consulate."
+   }
+  },
+  {
+   "id": "finabien_paisano",
+   "cursos": [
+    "tu_dinero_es",
+    "your_money_en",
+    "tu_negocio_us_es",
+    "your_business_us_en",
+    "tu_temporada"
+   ],
+   "revisado": "2026-10-06",
+   "vigencia_meses": 6,
+   "titulo": {
+    "es": "Tarjeta FINABIEN Paisano para enviar dinero",
+    "en": "FINABIEN Paisano card to send money"
+   },
+   "texto": {
+    "es": "La **Tarjeta FINABIEN Paisano** es del gobierno de México y sirve para mandar dinero desde Estados Unidos a México con una comisión baja. La tramitas sin costo con una identificación oficial vigente, en los consulados de México.\n\n- Comisión de **2.99 dólares** por envío, de 100 a 2,500 dólares.\n- Hasta 2,500 dólares al día y 10,000 al mes.\n- Como el envío es electrónico, **no pagas el impuesto de 1%** que se cobra a los envíos en efectivo.\n\nCompara siempre cuánto recibe tu familia en pesos, no solo la comisión.\n\n> **Dato vigente:** comisión y límites de 2026. Consultado el 6 de octubre de 2026 a través de FINABIEN y medios nacionales.",
+    "en": "The **FINABIEN Paisano card** is from the Mexican government and lets you send money from the United States to Mexico for a low fee. You get it at no cost at Mexican consulates, with a valid official ID.\n\n- A fee of **2.99 dollars** per transfer, from 100 to 2,500 dollars.\n- Up to 2,500 dollars a day and 10,000 a month.\n- Because the transfer is electronic, **you don't pay the 1% tax** charged on cash transfers.\n\nAlways compare how many pesos your family receives, not just the fee.\n\n> **Current fact:** 2026 fee and limits. Accessed October 6, 2026 through FINABIEN and national news outlets."
+   },
+   "recurso": {
+    "es": "- **Tarjeta FINABIEN Paisano** (FINABIEN · español): https://www.gob.mx/finabien | Qué buscar: «Tarjeta FINABIEN Paisano», requisitos y consulados donde la entregan.",
+    "en": "- **FINABIEN Paisano card** (FINABIEN · Spanish): https://www.gob.mx/finabien | What to look for: «Tarjeta FINABIEN Paisano», requirements and consulates that issue it."
    }
   },
   {
