@@ -1,8 +1,8 @@
 {
  "sigla": "TADF",
  "titulo": "Tu Autonomía, Tu Dinero, Tu Futuro",
- "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
- "version": "0.1",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para mujeres adultas: dinero y documentos a su nombre, un presupuesto que cuenta el trabajo de cuidados, Afore y retiro, Pensión Mujeres Bienestar, seguros, violencia económica, pensión alimenticia y estrés financiero. 8 módulos y 24 lecciones cortas en línea, con dos círculos presenciales. No es un curso de emprendimiento.",
  "publico": "Mujeres adultas de cualquier edad y ocupación, con o sin ingreso propio.",
@@ -288,10 +288,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Autonomia_Tu_Dinero_Tu_Futuro_ES",
-  "zip": "Tu_Autonomia_v0.1",
-  "manual": "Manual_del_programa_TADF_v0.1",
-  "contenido": "Contenido_completo_TADF_v0.1",
-  "guia": "Guia_implementacion_TADF_v0.1",
+  "zip": "Tu_Autonomia_v1.0",
+  "manual": "Manual_del_programa_TADF_v1.0",
+  "contenido": "Contenido_completo_TADF_v1.0",
+  "guia": "Guia_implementacion_TADF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

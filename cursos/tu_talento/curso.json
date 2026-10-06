@@ -1,8 +1,8 @@
 {
  "sigla": "TTMF",
  "titulo": "Tu Talento, Tu Marca, Tu Futuro",
- "subtitulo": "Versión 1.4 · Desarrolla Talento · Septiembre de 2026",
- "version": "1.4",
+ "subtitulo": "Versión 2.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "2.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para personas que trabajan en el entretenimiento en México: 11 módulos, con el crédito como eje.",
  "categoria": "Tu Talento",
@@ -107,7 +107,7 @@
  "comunidad": {
   "titulo": "Comunidad Tu Talento",
   "subtitulo": "Versión 1.3 · Desarrolla Talento · Septiembre de 2026",
-  "version": "1.3",
+  "version": "2.0",
   "intro": "Complemento del curso Tu Talento, Tu Marca, Tu Futuro: espacio en Moodle aparte, para avisos, dudas por tema, alertas de fraude, logros, sesión mensual y un foro separado de referencias comerciales. Se complementa con un canal de WhatsApp.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -119,7 +119,7 @@
   },
   "carpeta": {
    "nombre": "Comunidad_Tu_Talento",
-   "zip": "Comunidad_Tu_Talento_v1.3",
+   "zip": "Comunidad_Tu_Talento_v2.0",
    "descripciones": [
     "Manual del profesor (arranque, rutina, sesión en vivo, respuestas, bitácora y textos listos) y manual de la comunidad (propósito, espacios, canal y moderación).",
     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
@@ -142,10 +142,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Talento_Tu_Marca_Tu_Futuro",
-  "zip": "Tu_Talento_v1.4",
-  "manual": "Manual_del_programa_TTMF_v1.4",
-  "contenido": "Contenido_completo_TTMF_v1.4",
-  "guia": "Guia_implementacion_TTMF_v1.4",
+  "zip": "Tu_Talento_v2.0",
+  "manual": "Manual_del_programa_TTMF_v2.0",
+  "contenido": "Contenido_completo_TTMF_v2.0",
+  "guia": "Guia_implementacion_TTMF_v2.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes, comunidad, fuentes y datos verificados.",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

@@ -1,8 +1,8 @@
 {
  "sigla": "TCDF",
  "titulo": "Tu Costa, Tu Dinero, Tu Futuro",
- "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
- "version": "0.1",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para comunidades afromexicanas de la Costa Chica de Guerrero y Oaxaca: proteger lo que se tiene ante huracanes, ordenar el ingreso de temporada, usar crédito con cuidado, reclamar un trato injusto y cuidar el patrimonio. 8 módulos y 16 lecciones cortas para sesiones presenciales.",
  "publico": "Personas y familias afromexicanas de la Costa Chica que viven de la pesca, el campo, el comercio o el turismo.",
@@ -272,10 +272,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Costa_Tu_Dinero_Tu_Futuro_ES",
-  "zip": "Tu_Costa_v0.1",
-  "manual": "Manual_del_programa_TCDF_v0.1",
-  "contenido": "Contenido_completo_TCDF_v0.1",
-  "guia": "Guia_implementacion_TCDF_v0.1",
+  "zip": "Tu_Costa_v1.0",
+  "manual": "Manual_del_programa_TCDF_v1.0",
+  "contenido": "Contenido_completo_TCDF_v1.0",
+  "guia": "Guia_implementacion_TCDF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

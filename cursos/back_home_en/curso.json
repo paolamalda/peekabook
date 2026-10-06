@@ -1,8 +1,8 @@
 {
  "sigla": "TRDF",
  "titulo": "Back Home, Your Money, Your Future",
- "subtitulo": "Content draft · Desarrolla Talento · October 2026",
- "version": "0.1",
+ "subtitulo": "Version 1.0 · Desarrolla Talento · October 2026",
+ "version": "1.0",
  "lang": "en",
  "intro": "Financial well-being program for people returning from the United States to Mexico, whether deported or by their own decision: 8 modules and 24 short lessons. Hybrid format: one in-person kickoff session and the rest online. Also available in Spanish and as a bilingual group.",
  "publico": "Mexican people returning from the United States, and their families, who prefer English or are more comfortable in English (for example, people who grew up in the U.S.).",
@@ -310,10 +310,10 @@
  },
  "carpeta": {
   "nombre": "Back_Home_Your_Money_Your_Future_EN",
-  "zip": "Back_Home_v0.1",
-  "manual": "Program_manual_TRDF_EN_v0.1",
-  "contenido": "Full_content_TRDF_EN_v0.1",
-  "guia": "Implementation_guide_TRDF_EN_v0.1",
+  "zip": "Back_Home_v1.0",
+  "manual": "Program_manual_TRDF_EN_v1.0",
+  "contenido": "Full_content_TRDF_EN_v1.0",
+  "guia": "Implementation_guide_TRDF_EN_v1.0",
   "descripciones": [
    "Program manual: audience, rules, modules and lessons, characters and verified facts.",
    "Full content: lessons, support book, H5P and question bank (.docx and .md).",

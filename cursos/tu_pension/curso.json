@@ -1,8 +1,8 @@
 {
  "sigla": "TPPF",
  "titulo": "Tu Pensión, Tu Tranquilidad, Tu Futuro",
- "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
- "version": "0.1",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para personas adultas mayores: proteger la pensión, evitar fraudes y abusos, y dejar todo en orden. 8 módulos y 16 lecciones cortas, pensadas para sesiones presenciales con letra grande y acompañante de confianza.",
  "publico": "Personas de 60 años y más, con Pensión Bienestar, pensión del IMSS o del ISSSTE, o sin pensión; pueden asistir con un acompañante de confianza.",
@@ -273,10 +273,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Pension_Tu_Tranquilidad_Tu_Futuro_ES",
-  "zip": "Tu_Pension_v0.1",
-  "manual": "Manual_del_programa_TPPF_v0.1",
-  "contenido": "Contenido_completo_TPPF_v0.1",
-  "guia": "Guia_implementacion_TPPF_v0.1",
+  "zip": "Tu_Pension_v1.0",
+  "manual": "Manual_del_programa_TPPF_v1.0",
+  "contenido": "Contenido_completo_TPPF_v1.0",
+  "guia": "Guia_implementacion_TPPF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

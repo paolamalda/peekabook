@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Your Money v3.4/M1
+$CATEGORY: $course$/Your Money v4.0/M1
 
 ::M1 U01 P1::Someone lends you 300 dollars. How does your net worth change? {
 	~It goes up 300 #Not the best option. You have 300 more, but you owe 300.
@@ -252,7 +252,7 @@ $CATEGORY: $course$/Your Money v3.4/M1
 	=Not necessarily; adjust the plan #Correct! The plan adapts to your reality.
 }
 
-$CATEGORY: $course$/Your Money v3.4/M2
+$CATEGORY: $course$/Your Money v4.0/M2
 
 ::M2 U01 P1::Can you open an account at the central bank? {
 	~Yes #Not the best option. It doesn't serve individuals.
@@ -488,7 +488,7 @@ $CATEGORY: $course$/Your Money v3.4/M2
 	~Yes, if it lasts more than a month #Not the best option. Compare the later price.
 }
 
-$CATEGORY: $course$/Your Money v3.4/M3
+$CATEGORY: $course$/Your Money v4.0/M3
 
 ::M3 U01 P1::Does a good score guarantee you can pay? {
 	=No #Correct! The score doesn't make the payment.
@@ -706,7 +706,7 @@ $CATEGORY: $course$/Your Money v3.4/M3
 	~An extra loan #Not the best option. So you know what you'll pay.
 }
 
-$CATEGORY: $course$/Your Money v3.4/M4
+$CATEGORY: $course$/Your Money v4.0/M4
 
 ::M4 U01 P1::Which number do you call to verify? {
 	~The one in the message #Not the best option. The one in the message may be fake.
@@ -924,7 +924,7 @@ $CATEGORY: $course$/Your Money v3.4/M4
 	=Request a modification #Correct! The debt continues until it's changed.
 }
 
-$CATEGORY: $course$/Your Money v3.4/M5
+$CATEGORY: $course$/Your Money v4.0/M5
 
 ::M5 U01 P1::Assets 12,000 and debts 8,500. Net worth? {
 	~20,500 #Not the best option. 12,000 − 8,500.

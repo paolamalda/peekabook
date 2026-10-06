@@ -1,8 +1,8 @@
 {
  "sigla": "TCMF",
  "titulo": "Tu Comunidad, Tu Dinero, Tu Futuro",
- "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
- "version": "0.1",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero diseñado para pueblos indígenas: cobrar apoyos y remesas sin intermediarios, una cuenta a nombre de cada mujer, ahorro en grupo con reglas, protección contra fraudes, la tierra y la familia. 7 módulos y 14 lecciones cortas en español, para sesiones presenciales con intérprete o facilitadora bilingüe.",
  "publico": "Personas y familias de pueblos indígenas, sobre todo mujeres, en comunidades rurales; con intérprete en la lengua de la región.",
@@ -273,10 +273,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Comunidad_Tu_Dinero_Tu_Futuro_ES",
-  "zip": "Tu_Comunidad_v0.1",
-  "manual": "Manual_del_programa_TCMF_v0.1",
-  "contenido": "Contenido_completo_TCMF_v0.1",
-  "guia": "Guia_implementacion_TCMF_v0.1",
+  "zip": "Tu_Comunidad_v1.0",
+  "manual": "Manual_del_programa_TCMF_v1.0",
+  "contenido": "Contenido_completo_TCMF_v1.0",
+  "guia": "Guia_implementacion_TCMF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

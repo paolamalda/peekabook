@@ -124,9 +124,9 @@ In section 6, create the glossary `Course key words` and import `3_glossary/Glos
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v3.4/M1* to *M5* are created, with 189 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v4.0/M1* to *M5* are created, with 189 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
-3. Add **all** questions from *Your Money v3.4/MN*, 10 per page:
+3. Add **all** questions from *Your Money v4.0/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 |
 |---|---|---|---|---|

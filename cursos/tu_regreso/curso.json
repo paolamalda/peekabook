@@ -1,8 +1,8 @@
 {
  "sigla": "TRDF",
  "titulo": "Tu Regreso, Tu Dinero, Tu Futuro",
- "subtitulo": "Borrador de contenido · Desarrolla Talento · Octubre de 2026",
- "version": "0.1",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para personas que regresan de Estados Unidos a México, por deportación o por decisión propia: 8 módulos y 24 lecciones cortas. Formato híbrido: una sesión presencial de arranque y el resto en línea.",
  "publico": "Personas mexicanas que regresan de Estados Unidos y sus familias.",
@@ -281,10 +281,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Regreso_Tu_Dinero_Tu_Futuro_ES",
-  "zip": "Tu_Regreso_v0.1",
-  "manual": "Manual_del_programa_TRDF_v0.1",
-  "contenido": "Contenido_completo_TRDF_v0.1",
-  "guia": "Guia_implementacion_TRDF_v0.1",
+  "zip": "Tu_Regreso_v1.0",
+  "manual": "Manual_del_programa_TRDF_v1.0",
+  "contenido": "Contenido_completo_TRDF_v1.0",
+  "guia": "Guia_implementacion_TRDF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes y datos verificados.",
    "Contenido completo: lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

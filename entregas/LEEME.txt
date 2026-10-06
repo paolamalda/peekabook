@@ -1,63 +1,58 @@
-PROGRAMAS DE BIENESTAR FINANCIERO · Desarrolla Talento · 30 de septiembre de 2026
+PROGRAMAS DE BIENESTAR FINANCIERO · Desarrolla Talento · Octubre de 2026
+Instalación nueva en Moodle 4.5 (academia.desarrollatalento.com)
 
-A. ¿EL CURSO YA ESTÁ INSTALADO EN MOODLE? Usa la carpeta actualizaciones/
-   Cada zip trae solo lo que cambió, un README para Claude y LISTA_DE_CAMBIOS.txt. No reinstala nada:
-   se conservan actividades, intentos, calificaciones, insignias y puntos.
+Esta carpeta trae los paquetes para INSTALAR DESDE CERO. Las actualizaciones de versiones anteriores ya
+no se usan: están en archivo_versiones_anteriores/.
 
-   Tu_Turno_actualizacion_v1.2_a_v1.3                  Tu Turno, Tu Dinero, Tu Futuro
-   Tu_Patrimonio_actualizacion_v1.2_a_v1.3             Tu Patrimonio, Tu Tranquilidad, Tu Futuro
-   Tu_Negocio_MX_actualizacion_v1.2_a_v1.3             Tu Negocio · México
-   Tu_Negocio_US_ES_actualizacion_v1.2_a_v1.3          Tu Negocio · EE. UU. (español)
-   Your_Business_US_EN_update_v1.2_to_v1.3             Your Business · U.S. (inglés)
-   Tu_Talento_actualizacion_v1.3_a_v1.4                Tu Talento, Tu Marca, Tu Futuro
-   Tu_Dinero_ES_actualizacion_v3.3_a_v3.4              Tu Dinero, Tu Familia, Tu Futuro (español)
-   Your_Money_EN_update_v3.3_to_v3.4                   Your Money, Your Family, Your Future (inglés)
-   Comunidad_*_actualizacion_v1.2_a_v1.3 y
-   Your_Business_Community_US_EN_update_v1.2_to_v1.3   comunidades (5)
+-------------------------------------------------------------------------------------------
+INSTRUCCIONES PARA CLAUDE (con navegador y la sesión de administración abierta)
+-------------------------------------------------------------------------------------------
 
-   Esta ronda agrega: sucesión completa (beneficiarios, testamento, sin testamento, unión libre, tierra
-   ejidal, dar en vida, usufructo), impuestos a la herencia (México y EE. UU.) e IMSS voluntario
-   (Seguro de Salud para la Familia y Modalidad 10) donde aplica.
+PASO 0. BORRAR LOS CURSOS ACTUALES DE LA CATEGORÍA «DESARROLLA TALENTO» (una sola vez, antes de instalar)
 
-   ¿El curso sigue en una versión anterior (por ejemplo 1.1)? Aplica primero el paquete de
-   archivo_versiones_anteriores/actualizaciones y después el de esta carpeta, en orden.
+Los cursos que hay hoy en esa categoría son versiones de prueba: nunca se abrieron al público.
+La persona responsable autorizó borrarlos para instalar estas versiones nuevas.
 
-   Cada actualización de curso incluye una sección «Ajustes de plataforma (una sola vez)»: categoría de
-   preguntas con versión, insignias con el nombre del curso, constancia con la plantilla estándar, curso
-   visible con clave, mosaicos con porcentaje de avance, encuestas y tarjeta de catálogo. También agrega las
-   herramientas en Excel. La carpeta «9_para_el_equipo» (kit para facilitadores, guiones de WhatsApp y audio,
-   mapa OCDE) no se sube a Moodle.
+1. Ve a Administración del sitio > Cursos > Gestionar cursos y categorías > categoría «Desarrolla Talento»
+   (y sus subcategorías, si las hay).
+2. Haz una lista de TODOS los cursos: nombre, nombre corto y cuántas personas con rol de estudiante tiene cada uno.
+3. Muéstrale la lista a la persona y ESPERA SU CONFIRMACIÓN antes de borrar. Si algún curso tiene estudiantes,
+   señálalo aparte.
+4. Con la confirmación, borra solo esos cursos. NO borres la categoría, usuarios, la portada del sitio, páginas
+   del sitio (como el aviso de privacidad) ni nada fuera de esa categoría. No cambies la configuración del sitio.
+5. Reporta qué borraste.
 
-B. ¿CURSO NUEVO EN OTRA PLATAFORMA O DESDE CERO? Usa las carpetas completas de esta carpeta.
-   Estructura: 00_LEEME · 01_Manual · 02_Contenido · 03_Guia · 04_Moodle (con el README para Claude).
-   Si un curso viene en varias partes, descomprímelas todas en el mismo lugar.
+PASO 1. ANTES DE INSTALAR
 
-   Tu_Turno_v1.3 (3 partes)              Tu_Patrimonio_v1.3 (3 partes)       Comunidad_Tu_Patrimonio_v1.3
-   Tu_Negocio_MX_v1.3 (3 partes)         Comunidad_Tu_Negocio_MX_v1.3
-   Tu_Negocio_US_ES_v1.3 (3 partes)      Comunidad_Tu_Negocio_US_ES_v1.3
-   Your_Business_US_EN_v1.3 (3 partes)   Your_Business_Community_US_EN_v1.3
-   Tu_Talento_v1.4 (4 partes)            Comunidad_Tu_Talento_v1.3
-   Tu_Dinero_ES_v3.4 (3 partes)          Your_Money_EN_v3.4 (3 partes)
+- El sitio ya tiene los complementos Mosaicos (Tiles), Level Up y Certificado personalizado.
+- La primera actividad H5P debe subirla la cuenta de administración (instala las librerías H5P).
 
-   CURSOS NUEVOS (versión 1.0; se instalan completos):
-   Tu_Trabajo_v1.0 (3 partes)            Comunidad_Tu_Trabajo_v1.0
-       Tu Trabajo, Tu Familia, Tu Futuro: trabajadoras del hogar en México (pago por día o por semana/quincena,
-       tandas, deudas por ayudar a la familia, IMSS para trabajadoras del hogar, sucesión).
-   Tu_Idea_v1.0 (3 partes)               Comunidad_Tu_Idea_v1.0
-       Tu Idea, Tu Dinero, Tu Futuro: jóvenes de preparatoria, enfoque en crecer y emprender (primer negocio, precio, ganancia,
-       ingresos por internet, cuidado con cuentas mula).
+PASO 2. INSTALAR CADA CURSO
 
-   En 03_Guia van también el kit para facilitadores (una sesión de 60 minutos por módulo) y los guiones de
-   WhatsApp y audio con recordatorios mensuales. En 04_Moodle/10_herramientas va el Excel descargable
-   (presupuesto, deudas, fondo de emergencia y meta; en cursos de negocio, además costo y precio, punto de
-   equilibrio y flujo de 8 semanas). En 01_Manual va el mapa de competencias OCDE.
+1. Descomprime TODAS las partes de un curso en la misma carpeta (parte1de4, parte2de4…): se juntan solas.
+2. Abre 00_LEEME.txt (00_README.txt en inglés) de esa carpeta.
+3. Sigue el instructivo 04_Moodle/README_INSTALAR_…_PARA_CLAUDE.md (README_INSTALL_…_FOR_CLAUDE.md en inglés).
+   Está escrito para Moodle 4.5 y trae una tabla de dónde está cada menú.
+4. Trabaja por etapas: General + Parte 1, reporta con capturas, y luego las demás partes.
 
-C. OTRAS PIEZAS
-   tablero/                     tablero de resultados de las encuestas (se abre en el navegador; ver LEEME_tablero.txt)
-   ../proyecto-inclusion-financiera/entregables/matriz/Matriz_comparativa_v1.xlsx
-                                matriz de productos: EE. UU. (personas y negocios) y México (personas y negocios,
-                                sin SOFIPO, SOCAP ni SOFOM)
-   archivo_versiones_anteriores/  entregas previas, solo como historial; no se usan.
+ORDEN SUGERIDO (piloto primero)
 
-Para regenerar un curso completo:    python3 herramientas_cursos/curso.py cursos/<curso> todo carpeta
-Para regenerar el tablero:           python3 herramientas_cursos/tablero.py
+   1. Tu Dinero, Tu Familia, Tu Futuro (español) ............ Tu_Dinero_ES_v4.0
+   2. Your Money, Your Family, Your Future (inglés) ......... Your_Money_EN_v4.0
+   Los demás cursos se agregan a esta carpeta conforme se generan (ver LISTA DE PAQUETES abajo).
+
+LISTA DE PAQUETES DE ESTA CARPETA
+
+   Tu_Dinero_ES_v4.0 (4 partes)          Tu Dinero, Tu Familia, Tu Futuro · migrantes en California · español
+   Your_Money_EN_v4.0 (4 partes)         Your Money, Your Family, Your Future · inglés
+
+Cada curso trae: libros por lección con la práctica H5P incrustada, Bienvenida y Cierre, Materiales de apoyo,
+«Para ir a fondo» (opcional), sección extra «Programas y apoyos» (se puede ocultar o borrar sin afectar el curso),
+glosario, banco de preguntas, insignias, constancia, encuestas, herramientas en Excel, kit para facilitadores y
+vista previa local.
+
+A TENER EN CUENTA
+
+- Nunca se piden datos personales. No se recomiendan marcas ni instituciones financieras: se enseña a verificar.
+- Los datos con fecha están en proyecto-inclusion-financiera/entregables/verificacion_datos.md: conviene
+  confirmarlos antes de abrir los cursos al público.
