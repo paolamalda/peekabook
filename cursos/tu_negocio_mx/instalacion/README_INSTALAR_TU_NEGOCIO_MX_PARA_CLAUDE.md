@@ -131,9 +131,9 @@ En la sección 10, crea el glosario `Palabras clave del curso` e importa `3_glos
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tndf_mx.gift.txt`. Se crean *Tu Negocio MX v1.3/M1* a *M9*, con 138 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_tndf_mx.gift.txt`. Se crean *Tu Negocio MX v2.0/M1* a *M9*, con 138 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Negocio MX v1.3/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Negocio MX v2.0/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 |
 |---|---|---|---|---|---|---|---|---|

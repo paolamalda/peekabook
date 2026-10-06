@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Turno v1.3/M1
+$CATEGORY: $course$/Tu Turno v2.0/M1
 
 ::M1 U01 P1::¿Con qué cifra haces tu presupuesto? {
 	~Con tu salario antes de descuentos, porque es lo que ganas #No es la mejor opción. Es el dinero real.
@@ -108,7 +108,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M1
 	~Pides prestado para aprovechar #No es la mejor opción. La prisa es una técnica de venta.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M2
+$CATEGORY: $course$/Tu Turno v2.0/M2
 
 ::M2 U01 P1::¿Qué es la cuenta básica? {
 	~Una cuenta con comisiones bajas pero con tarjeta de crédito #No es la mejor opción. Es tu derecho.
@@ -218,7 +218,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M2
 	=Repartir tu dinero en distintas inversiones #¡Correcto! Así no dependes de una sola.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M3
+$CATEGORY: $course$/Tu Turno v2.0/M3
 
 ::M3 U01 P1::¿Qué va en tu lista de deudas? {
 	=Todas tus deudas, incluidas las de personas #¡Correcto! Todas cuentan.
@@ -346,7 +346,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M3
 	=Que esté en el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M4
+$CATEGORY: $course$/Tu Turno v2.0/M4
 
 ::M4 U01 P1::Tanda de 8 personas con 400 cada quincena. ¿Cuánto cobra cada una? {
 	=3,200 #¡Correcto! 400 por 8.
@@ -402,7 +402,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M4
 	~Lo que opine el vendedor #No es la mejor opción. Tu presupuesto manda.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M5
+$CATEGORY: $course$/Tu Turno v2.0/M5
 
 ::M5 U01 P1::¿Qué es el Buró de Crédito? {
 	~Una lista negra de personas que no pagan sus deudas #No es la mejor opción. Guarda lo bueno y lo malo.
@@ -476,7 +476,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M5
 	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M6
+$CATEGORY: $course$/Tu Turno v2.0/M6
 
 ::M6 U01 P1::Te piden el código que te llegó «para cancelar un cargo». ¿Qué haces? {
 	~Lo das si la persona sabe tu nombre completo #No es la mejor opción. El banco no pide códigos.
@@ -586,7 +586,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M6
 	=Casi seguro un video falso y un fraude #¡Correcto! Nadie duplica dinero.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M7
+$CATEGORY: $course$/Tu Turno v2.0/M7
 
 ::M7 U01 P1::¿Dónde guardas tu fondo? {
 	~En una tanda con tus compañeros #No es la mejor opción. Seguro y disponible.
@@ -750,7 +750,7 @@ $CATEGORY: $course$/Tu Turno v1.3/M7
 	~Pagas cuando puedas #No es la mejor opción. La deuda sigue mientras no se revise.
 }
 
-$CATEGORY: $course$/Tu Turno v1.3/M8
+$CATEGORY: $course$/Tu Turno v2.0/M8
 
 ::M8 U01 P1::¿Desde cuánto puedes aportar a tu AFORE en tiendas? {
 	=50 pesos #¡Correcto! Desde 50.

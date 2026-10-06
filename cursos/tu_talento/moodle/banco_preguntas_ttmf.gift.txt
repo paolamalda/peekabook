@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Talento v1.4/M1
+$CATEGORY: $course$/Tu Talento v2.0/M1
 
 ::M1 U01 P1::Te ofrecen 40,000 por un personaje. ¿Con qué número decides si te alcanza para un compromiso nuevo? {
 	=Lo que queda después de comisión, impuestos y gastos #¡Correcto! Tu ganancia real es la que paga tu vida.
@@ -126,7 +126,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M1
 	~A una app de préstamos #No es la mejor opción. Ayuda sin costo las 24 horas.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M2
+$CATEGORY: $course$/Tu Talento v2.0/M2
 
 ::M2 U01 P1::En RESICO cobras 40,000 en el mes. ¿Qué tasa de ISR aplica? {
 	=1.1% #¡Correcto! Hasta 50,000 al mes es 1.1%.
@@ -218,7 +218,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M2
 	~Te la mandan en efectivo #No es la mejor opción. La cuenta debe ser tuya.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M3
+$CATEGORY: $course$/Tu Talento v2.0/M3
 
 ::M3 U01 P1::¿Qué frase te da menos control sobre tu trabajo? {
 	~Redes sociales en México por un año #No es la mejor opción. Pueden usarlo siempre y en cualquier medio.
@@ -328,7 +328,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M3
 	~Que te pague en efectivo sin factura #No es la mejor opción. Reduce el riesgo de no cobrar.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M4
+$CATEGORY: $course$/Tu Talento v2.0/M4
 
 ::M4 U01 P1::¿Qué autoridad protege tus depósitos en bancos? {
 	~Profeco #No es la mejor opción. El IPAB protege depósitos bancarios.
@@ -420,7 +420,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M4
 	~El SAT #No es la mejor opción. Para cuidar la inflación.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M5
+$CATEGORY: $course$/Tu Talento v2.0/M5
 
 ::M5 U01 P1::¿Qué eliges primero? {
 	=La institución #¡Correcto! Primero con quién.
@@ -566,7 +566,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M5
 	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M6
+$CATEGORY: $course$/Tu Talento v2.0/M6
 
 ::M6 U01 P1::Tu línea es 40,000 y debes 15,000. ¿Cuánto dinero tuyo hay ahí? {
 	~25,000 #No es la mejor opción. El disponible es crédito, no dinero tuyo.
@@ -712,7 +712,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M6
 	=En el registro de la PROFECO #¡Correcto! Así tienes a quién reclamar.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M7
+$CATEGORY: $course$/Tu Talento v2.0/M7
 
 ::M7 U01 P1::¿Qué hace el Buró de Crédito? {
 	~Presta dinero #No es la mejor opción. Es una base de datos.
@@ -894,7 +894,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M7
 	=Cada seis meses #¡Correcto! Alternando Buró y Círculo, sin costo.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M8
+$CATEGORY: $course$/Tu Talento v2.0/M8
 
 ::M8 U01 P1::Con la avalancha, ¿qué deuda pagas primero? {
 	=La de mayor costo #¡Correcto! Pagas menos intereses.
@@ -1004,7 +1004,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M8
 	~A quien te preste para seguir #No es la mejor opción. Sin costo, las 24 horas.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M9
+$CATEGORY: $course$/Tu Talento v2.0/M9
 
 ::M9 U01 P1::Te piden el código que te llegó por mensaje "para cancelar un cargo". ¿Qué haces? {
 	~Lo das para cancelar rápido #No es la mejor opción. La regla de oro.
@@ -1186,7 +1186,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M9
 	~Publicas tus datos para demostrar que eres tú #No es la mejor opción. Evidencia, reporte y aviso.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M10
+$CATEGORY: $course$/Tu Talento v2.0/M10
 
 ::M10 U01 P1::Gasto de 100,000, deducible de 10,000 y coaseguro de 10%. ¿Cuánto pagas tú? {
 	=19,000 #¡Correcto! 10,000 + 10% de 90,000.
@@ -1332,7 +1332,7 @@ $CATEGORY: $course$/Tu Talento v1.4/M10
 	=Pagan impuestos al cobrarlas #¡Correcto! Son ingresos de quien las cobra.
 }
 
-$CATEGORY: $course$/Tu Talento v1.4/M11
+$CATEGORY: $course$/Tu Talento v2.0/M11
 
 ::M11 U01 P1::¿Qué apartas primero de un pago gordo? {
 	=Impuestos #¡Correcto! El IVA y el ISR no son tuyos.

@@ -11,7 +11,7 @@ El objetivo es motivar sin competir. Los puntos premian avanzar, no la calificac
 | Libro por lección (con la práctica incrustada) | 46 | Ver |
 | Cuestionario "Autoevaluación del Módulo N" | 1 por parte (9) | Calificación aprobatoria de 70% |
 
-**Las autoevaluaciones:** usan el banco de 138 preguntas con tres opciones y retroalimentación, en las categorías *Tu Negocio MX v1.3/M1* a *M9*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
+**Las autoevaluaciones:** usan el banco de 138 preguntas con tres opciones y retroalimentación, en las categorías *Tu Negocio MX v2.0/M1* a *M9*. Calificación aprobatoria de 70%, intentos ilimitados, respuestas en orden aleatorio y revisión con respuesta correcta y retroalimentación al terminar.
 
 ## 2. Level Up: niveles y puntos
 

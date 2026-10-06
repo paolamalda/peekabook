@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Trabajo v1.0/M1
+$CATEGORY: $course$/Tu Trabajo v2.0/M1
 
 ::M1 U01 P1::Cobras 600 por día y trabajas 15 días. ¿Cuánto te entra en el mes? {
 	=9,000 #¡Correcto! 600 por 15.
@@ -90,7 +90,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M1
 	=El de 1 litro #¡Correcto! 42 contra 45 por litro.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M2
+$CATEGORY: $course$/Tu Trabajo v2.0/M2
 
 ::M2 U01 P1::¿Cuántos días de aguinaldo te tocan como mínimo si trabajas todo el año? {
 	~30 #No es la mejor opción. Artículo 87 de la ley.
@@ -164,7 +164,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M2
 	~A la policía de tránsito #No es la mejor opción. Protege a usuarios.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M3
+$CATEGORY: $course$/Tu Trabajo v2.0/M3
 
 ::M3 U01 P1::Tanda de 8 personas con 250 cada semana. ¿Cuánto cobra cada una? {
 	~250 #No es la mejor opción. 250 por 8.
@@ -238,7 +238,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M3
 	~Se queda igual #No es la mejor opción. Los precios suben.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M4
+$CATEGORY: $course$/Tu Trabajo v2.0/M4
 
 ::M4 U01 P1::Das 600 a tu hija y 400 a tu mamá cada quincena. ¿Cuánto das al mes? {
 	~1,000 #No es la mejor opción. 1,000 por dos quincenas.
@@ -348,7 +348,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M4
 	~Le perdonan la deuda #No es la mejor opción. Registro Nacional de Obligaciones Alimentarias.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M5
+$CATEGORY: $course$/Tu Trabajo v2.0/M5
 
 ::M5 U01 P1::Debes 4,000, 2,500 y 1,500. ¿Cuánto debes en total? {
 	~6,500 #No es la mejor opción. Suma de las tres.
@@ -476,7 +476,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M5
 	~Esperar a que te llamen #No es la mejor opción. No pierdes la prenda.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M6
+$CATEGORY: $course$/Tu Trabajo v2.0/M6
 
 ::M6 U01 P1::¿Qué te da el IMSS si la casa te inscribe? {
 	~Solo medicinas #No es la mejor opción. Son los seguros del régimen.
@@ -568,7 +568,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M6
 	~15,000 #No es la mejor opción. 150 por 12.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M7
+$CATEGORY: $course$/Tu Trabajo v2.0/M7
 
 ::M7 U01 P1::¿Qué es lo primero que haces ante una llamada que pide dinero urgente? {
 	~Depositas rápido para ayudar a tu familiar #No es la mejor opción. La regla de oro.
@@ -642,7 +642,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M7
 	~Lo que cobre el gestor #No es la mejor opción. Es sin costo.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M8
+$CATEGORY: $course$/Tu Trabajo v2.0/M8
 
 ::M8 U01 P1::¿Cuánto da al año la Pensión Mujeres Bienestar en 2026? {
 	=18,600 #¡Correcto! 3,100 por 6 bimestres.
@@ -752,7 +752,7 @@ $CATEGORY: $course$/Tu Trabajo v1.0/M8
 	=Escriturar\: impuesto estatal, notario y registro #¡Correcto! Son los gastos de pasarla a tu nombre.
 }
 
-$CATEGORY: $course$/Tu Trabajo v1.0/M9
+$CATEGORY: $course$/Tu Trabajo v2.0/M9
 
 ::M9 U01 P1::¿Qué es pensar en crecer? {
 	~Aguantar hasta que las cosas mejoren solas #No es la mejor opción. Es la idea.
