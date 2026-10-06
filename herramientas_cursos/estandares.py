@@ -177,7 +177,7 @@ def curso(D, inicio):
         v = o.split()[0]
         area, nivel = AREA.get(v, ("cognoscitiva", "comprensión"))
         return (f"Al terminar la lección, la persona participante será capaz de {o[:1].lower() + o[1:]}, a partir de un caso de la vida diaria "
-                f"y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate».", area, nivel)
+                f"y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa».", area, nivel)
     s = cab("Objetivos de aprendizaje")
     s += ("Redactados con los cinco elementos del EC0217: **persona** (la persona participante), **conducta** (verbo observable), **contenido**, "
           "**condición** (a partir de un caso y los ejercicios) y **nivel** (aciertos o aprobación). El texto amable que ve la persona en cada lección "
@@ -203,7 +203,7 @@ def curso(D, inicio):
 1. **Inicio del curso:** un mosaico por módulo con su porcentaje de avance y el botón para seguir donde te quedaste.
 2. **Dentro de un módulo:** un mosaico por lección. Cada lección se abre al terminar la anterior y muestra si está terminada, en curso o pendiente.
 """ + PASO3 + """
-4. **Practica:** la actividad «¿Qué harías?» y «Pruébate» (una pantalla a la vez), el ejercicio con tus números y tu compromiso.
+4. **Practica:** la actividad «¿Qué harías?» y «Repasa» (una pantalla a la vez), el ejercicio con tus números y tu compromiso.
 5. **Al final de cada módulo:** la autoevaluación. Al aprobar todas y responder la encuesta final se libera la constancia.
 
 (Agregar capturas de pantalla de cada punto al instalar el curso.)
@@ -224,7 +224,7 @@ Curso en línea, asíncrono y a tu ritmo, en lecciones cortas. Cada lección emp
 """
     s += (f"## Forma de evaluación\n\n| Elemento | Momento | Peso en la calificación final | Criterio |\n|---|---|---|---|\n"
           f"| Evaluación diagnóstica | Inicio | 0% (no cuenta) | Conocer el punto de partida |\n"
-          f"| Práctica de cada lección («¿Qué harías?», «Pruébate», ejercicio y compromiso) | Durante | 0% (formativa) | Retroalimentación inmediata; intentos ilimitados |\n")
+          f"| Práctica de cada lección («¿Qué harías?», «Repasa», ejercicio y compromiso) | Durante | 0% (formativa) | Retroalimentación inmediata; intentos ilimitados |\n")
     for i, m in enumerate(MODS, 1):
         s += f"| Autoevaluación del módulo {i} | Al terminar el módulo | {100 / nm:.4g}% | 70% o más para aprobar |\n"
     s += "| Encuesta final y de satisfacción | Al terminar | 0% | Requisito para la constancia |\n\n"
@@ -263,7 +263,7 @@ Curso en línea, asíncrono y a tu ritmo, en lecciones cortas. Cada lección emp
         s += f"## Módulo {i}. {nombres[m]}\n\n**Objetivo específico de la unidad:** {particular(m)}\n\n**Periodo sugerido:** semana{'s' if a != b else ''} {a}{'–' + str(b) if a != b else ''} · **Tiempo estimado:** {h(mins[m][0])} a {h(mins[m][1])} horas.\n\n"
         s += "| # | Actividad | Instrucciones | Recursos | Participación | Evaluación |\n|---|---|---|---|---|---|\n"
         for k, l in enumerate(les[m], 1):
-            s += (f"| {k} | {l['title']} | {INSTR} En «Practica», resuelve «¿Qué harías?» y «Pruébate», "
+            s += (f"| {k} | {l['title']} | {INSTR} En «Practica», resuelve «¿Qué harías?» y «Repasa», "
                   f"haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva"
                   f"{', herramienta descargable' if 'hoja' in l['plan'].lower() or 'tabla' in l['plan'].lower() else ''} | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |\n")
         s += (f"| {len(les[m]) + 1} | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |\n"

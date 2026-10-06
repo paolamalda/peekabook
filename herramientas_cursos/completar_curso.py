@@ -14,7 +14,7 @@ SPEC = {
  "tu_regreso": dict(corto="TRDF-MX-ES", encuesta="mx", hojas=[], idiomas="Español (también en inglés y en grupo bilingüe)",
    desc=["Tus papeles, una cuenta a tu nombre, crédito desde cero, lo que dejaste en Estados Unidos, tu Afore y tus primeros 90 días.",
          "Lecciones cortas con casos de personas que regresan a Michoacán, Guanajuato, Puebla y Oaxaca."]),
- "your_return_en": dict(corto="TRDF-MX-EN", encuesta="mx_en", hojas=[], idiomas="English (also in Spanish and as a bilingual group)",
+ "back_home_en": dict(corto="TRDF-MX-EN", encuesta="mx_en", hojas=[], idiomas="English (also in Spanish and as a bilingual group)",
    desc=["Your papers, an account in your name, credit from scratch, what you left in the U.S., your Afore and your first 90 days.",
          "Short lessons with cases of people returning to Michoacán, Guanajuato, Puebla and Oaxaca."]),
  "tu_pension": dict(corto="TPPF-MX", encuesta="mx", hojas=["pension"], idiomas="Español",

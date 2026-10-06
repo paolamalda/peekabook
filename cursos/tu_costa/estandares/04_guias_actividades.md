@@ -10,8 +10,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Antes de la temporada: tu plan de dinero | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Después del huracán: sin prisas ni préstamos caros | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Antes de la temporada: tu plan de dinero | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Después del huracán: sin prisas ni préstamos caros | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 1 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -25,8 +25,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Tus papeles en una bolsa | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Si perdiste tus papeles | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Tus papeles en una bolsa | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Si perdiste tus papeles | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 2 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -40,8 +40,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Tu calendario de ingresos | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Aparta en la temporada buena | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Tu calendario de ingresos | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Aparta en la temporada buena | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 3 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -55,8 +55,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Tu fondo de emergencia | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | ¿Asegurar tu casa? | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Tu fondo de emergencia | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | ¿Asegurar tu casa? | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 4 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -70,8 +70,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | El adelanto del comprador | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Compara el costo total de un crédito | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | El adelanto del comprador | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Compara el costo total de un crédito | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 5 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -85,8 +85,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Tienes derecho a un trato digno | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Reclama con folio | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Tienes derecho a un trato digno | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Reclama con folio | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 6 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -100,8 +100,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Compara cómo te mandan el dinero | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Un plan para la remesa | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Compara cómo te mandan el dinero | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Un plan para la remesa | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 7 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 
@@ -115,8 +115,8 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 
 | # | Actividad | Instrucciones | Recursos | Participación | Evaluación |
 |---|---|---|---|---|---|
-| 1 | Los papeles de tu casa y tu terreno | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
-| 2 | Que tu familia no pelee por lo tuyo | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Pruébate», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 1 | Los papeles de tu casa y tu terreno | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
+| 2 | Que tu familia no pelee por lo tuyo | Lee «Empieza» y «Lo esencial» (y «Profundiza» si eliges la ruta completa). En «Practica», resuelve «¿Qué harías?» y «Repasa», haz el ejercicio con tus números y escribe tu compromiso. | Libro de la lección, video, práctica interactiva, herramienta descargable | Individual | Formativa: retroalimentación inmediata; se marca completa al ver la lección |
 | 3 | Comparte tu compromiso | En el foro de la comunidad, comparte un paso que darás esta semana, sin montos ni datos personales, y comenta el de otra persona. | Foro «Comunidad» | Colaborativa | Participación (no se califica) |
 | 4 | Autoevaluación del módulo 8 | Responde las preguntas de todas las lecciones del módulo. Puedes intentarlo las veces que quieras. | Cuestionario en la plataforma | Individual | Sumativa: 12.5% de la calificación final; aprobado con 70% |
 

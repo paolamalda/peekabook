@@ -16,9 +16,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Lo que entra no es lo que ganas | Al terminar la lección, la persona participante será capaz de calcular su ingreso real restando gasolina, mantenimiento y datos a lo que le paga la app, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Cuánto ganas por hora | Al terminar la lección, la persona participante será capaz de calcular su ganancia por hora para decidir en qué horarios y zonas conviene trabajar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Un sueldo fijo en un trabajo variable | Al terminar la lección, la persona participante será capaz de darse un «sueldo» fijo semanal y guardar lo que sobra en semanas buenas para las malas, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
+| Lo que entra no es lo que ganas | Al terminar la lección, la persona participante será capaz de calcular su ingreso real restando gasolina, mantenimiento y datos a lo que le paga la app, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Cuánto ganas por hora | Al terminar la lección, la persona participante será capaz de calcular su ganancia por hora para decidir en qué horarios y zonas conviene trabajar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Un sueldo fijo en un trabajo variable | Al terminar la lección, la persona participante será capaz de darse un «sueldo» fijo semanal y guardar lo que sobra en semanas buenas para las malas, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 
 ### 2. Tus derechos con la reforma
 
@@ -26,9 +26,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| ¿Eres persona trabajadora de plataforma? | Al terminar la lección, la persona participante será capaz de comprobar si con la reforma le corresponde ser persona trabajadora de plataforma y cómo se calcula su ingreso neto, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Aguinaldo, vacaciones y reparto de utilidades | Al terminar la lección, la persona participante será capaz de identificar las prestaciones proporcionales que le corresponden como persona trabajadora de plataforma, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Desactivaciones y cómo reclamar | Al terminar la lección, la persona participante será capaz de decidir qué hacer si la app le desactiva o le paga mal, y a dónde acudir, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | evaluación |
+| ¿Eres persona trabajadora de plataforma? | Al terminar la lección, la persona participante será capaz de comprobar si con la reforma le corresponde ser persona trabajadora de plataforma y cómo se calcula su ingreso neto, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Aguinaldo, vacaciones y reparto de utilidades | Al terminar la lección, la persona participante será capaz de identificar las prestaciones proporcionales que le corresponden como persona trabajadora de plataforma, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Desactivaciones y cómo reclamar | Al terminar la lección, la persona participante será capaz de decidir qué hacer si la app le desactiva o le paga mal, y a dónde acudir, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | evaluación |
 
 ### 3. Tu IMSS, tu Afore y tu Infonavit
 
@@ -36,9 +36,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Lo que te da el IMSS completo | Al terminar la lección, la persona participante será capaz de identificar qué le da el IMSS si es persona trabajadora de plataforma y cómo comprobar que está dado de alta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Si no llegas al umbral | Al terminar la lección, la persona participante será capaz de identificar qué protección tiene si no llega al umbral y cómo completarla, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Tu Afore y tus semanas | Al terminar la lección, la persona participante será capaz de localizar su Afore y entender cómo las semanas cotizadas por la plataforma le acercan a una pensión, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
+| Lo que te da el IMSS completo | Al terminar la lección, la persona participante será capaz de identificar qué le da el IMSS si es persona trabajadora de plataforma y cómo comprobar que está dado de alta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Si no llegas al umbral | Al terminar la lección, la persona participante será capaz de identificar qué protección tiene si no llega al umbral y cómo completarla, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Tu Afore y tus semanas | Al terminar la lección, la persona participante será capaz de localizar su Afore y entender cómo las semanas cotizadas por la plataforma le acercan a una pensión, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 
 ### 4. Tus impuestos
 
@@ -46,9 +46,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Lo que la app retiene de impuestos | Al terminar la lección, la persona participante será capaz de explicar las retenciones de ISR e IVA que hace la plataforma y por qué conviene tener RFC, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Tu RFC y tu e.firma | Al terminar la lección, la persona participante será capaz de darse de alta en el RFC en el régimen de plataformas tecnológicas y tener sus accesos en orden, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Al corriente con el SAT | Al terminar la lección, la persona participante será capaz de identificar qué revisar cada año para estar al corriente con el SAT con sus ingresos de apps, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Lo que la app retiene de impuestos | Al terminar la lección, la persona participante será capaz de explicar las retenciones de ISR e IVA que hace la plataforma y por qué conviene tener RFC, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Tu RFC y tu e.firma | Al terminar la lección, la persona participante será capaz de darse de alta en el RFC en el régimen de plataformas tecnológicas y tener sus accesos en orden, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Al corriente con el SAT | Al terminar la lección, la persona participante será capaz de identificar qué revisar cada año para estar al corriente con el SAT con sus ingresos de apps, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 5. Tu vehículo
 
@@ -56,9 +56,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| El apartado del vehículo | Al terminar la lección, la persona participante será capaz de apartar cada semana para mantenimiento y reparaciones de su vehículo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| El seguro de tu vehículo | Al terminar la lección, la persona participante será capaz de identificar qué cubre un seguro de auto o moto, qué cubre la plataforma y qué preguntar antes de contratar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Comprar, financiar o rentar tu vehículo | Al terminar la lección, la persona participante será capaz de comparar el costo total de comprar a crédito, rentar o rentar con opción a compra, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | análisis |
+| El apartado del vehículo | Al terminar la lección, la persona participante será capaz de apartar cada semana para mantenimiento y reparaciones de su vehículo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| El seguro de tu vehículo | Al terminar la lección, la persona participante será capaz de identificar qué cubre un seguro de auto o moto, qué cubre la plataforma y qué preguntar antes de contratar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Comprar, financiar o rentar tu vehículo | Al terminar la lección, la persona participante será capaz de comparar el costo total de comprar a crédito, rentar o rentar con opción a compra, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | análisis |
 
 ### 6. Accidentes, salud y días sin trabajo
 
@@ -66,9 +66,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Si tienes un accidente en la ruta | Al terminar la lección, la persona participante será capaz de decidir qué hacer en las primeras horas después de un accidente trabajando y cómo usar la cobertura de riesgos de trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | evaluación |
-| Un fondo para los días sin trabajo | Al terminar la lección, la persona participante será capaz de juntar un fondo de emergencia para días sin trabajo por enfermedad, fallas o desactivación, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Cansancio, estrés y tu dinero | Al terminar la lección, la persona participante será capaz de reconocer cómo el cansancio y el estrés por dinero afectan su seguridad en la ruta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Si tienes un accidente en la ruta | Al terminar la lección, la persona participante será capaz de decidir qué hacer en las primeras horas después de un accidente trabajando y cómo usar la cobertura de riesgos de trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | evaluación |
+| Un fondo para los días sin trabajo | Al terminar la lección, la persona participante será capaz de juntar un fondo de emergencia para días sin trabajo por enfermedad, fallas o desactivación, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Cansancio, estrés y tu dinero | Al terminar la lección, la persona participante será capaz de reconocer cómo el cansancio y el estrés por dinero afectan su seguridad en la ruta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 7. Préstamos y fraudes en la ruta
 
@@ -76,9 +76,9 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Adelantos y préstamos dentro de la app | Al terminar la lección, la persona participante será capaz de calcular cuánto cuesta un adelanto o préstamo que se descuenta de lo que gana en la app, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Rentar o prestar tu cuenta | Al terminar la lección, la persona participante será capaz de identificar los riesgos de rentar, prestar o usar cuentas de otras personas en las apps, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Soporte falso y robo de cuentas | Al terminar la lección, la persona participante será capaz de reconocer mensajes y llamadas de soporte falso que buscan robar su cuenta o sus ganancias, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Adelantos y préstamos dentro de la app | Al terminar la lección, la persona participante será capaz de calcular cuánto cuesta un adelanto o préstamo que se descuenta de lo que gana en la app, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Rentar o prestar tu cuenta | Al terminar la lección, la persona participante será capaz de identificar los riesgos de rentar, prestar o usar cuentas de otras personas en las apps, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Soporte falso y robo de cuentas | Al terminar la lección, la persona participante será capaz de reconocer mensajes y llamadas de soporte falso que buscan robar su cuenta o sus ganancias, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 8. Tu futuro
 
@@ -86,7 +86,7 @@ Al terminar el programa, la persona participante será capaz de calcular su ingr
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tu retiro aunque trabajes con apps | Al terminar la lección, la persona participante será capaz de hacer un plan de ahorro para el retiro con aportaciones voluntarias, aunque su ingreso cambie, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| La app como escalón | Al terminar la lección, la persona participante será capaz de usar el trabajo en apps para juntar dinero hacia una meta: otro empleo, estudios o un negocio, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Tu plan de ruta en una página | Al terminar la lección, la persona participante será capaz de reunir en una página su ingreso, derechos, IMSS, impuestos, vehículo, protección y futuro, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| Tu retiro aunque trabajes con apps | Al terminar la lección, la persona participante será capaz de hacer un plan de ahorro para el retiro con aportaciones voluntarias, aunque su ingreso cambie, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| La app como escalón | Al terminar la lección, la persona participante será capaz de usar el trabajo en apps para juntar dinero hacia una meta: otro empleo, estudios o un negocio, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Tu plan de ruta en una página | Al terminar la lección, la persona participante será capaz de reunir en una página su ingreso, derechos, IMSS, impuestos, vehículo, protección y futuro, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 

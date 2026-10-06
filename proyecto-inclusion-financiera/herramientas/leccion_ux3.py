@@ -175,7 +175,7 @@ def lesson_pages(block, num, total, next_title=None, en=False):
     chips = "".join(f'<span><abbr class="term" tabindex="0" title="{html.escape(d, quote=True)}">{k}</abbr></span>' for k, d in pal)
     nxt = f'Sigue: <b>{html.escape(next_title)}</b>' if next_title else "Ya puedes hacer la autoevaluación del módulo."
     p3 = (ruta(3) + f'<div class="pagehead"><h3>Practica</h3></div>'
-          f'<div class="card2"><h4><i class="fa fa-hand-pointer-o" style="color:{C["rosa"]}"></i> ¿Qué harías? y Pruébate</h4>'
+          f'<div class="card2"><h4><i class="fa fa-hand-pointer-o" style="color:{C["rosa"]}"></i> ¿Qué harías? y Repasa</h4>'
           f'<p>Tres situaciones y tres preguntas, una por pantalla. Si fallas, puedes intentarlo de nuevo.</p>'
           f'<div class="practica-h5p"><p class="ph">[[H5P {h5p_nombre(code)}]]</p>'
           f'<p class="fuentes mb-0">Instalación: sustituye este recuadro por la actividad {h5p_nombre(code)} incrustada desde el banco de contenido.</p></div>'

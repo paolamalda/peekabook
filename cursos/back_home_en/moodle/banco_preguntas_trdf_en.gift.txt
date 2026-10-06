@@ -1,0 +1,447 @@
+$CATEGORY: $course$/Back Home v0.1/M1
+
+::M1 U01 P1::What paper does the INM give you when you're sent back? {
+	=The Record of Reception of Repatriated Mexicans #Correct! It's your temporary ID.
+	~A new INE voter ID, ready to vote #Not the best option. It's your temporary ID.
+	~Your birth certificate #Not the best option. It's your temporary ID.
+}
+
+::M1 U01 P2::What is the key to almost every process? {
+	~Your U.S. work badge #Not the best option. Almost everything asks for it.
+	=The CURP #Correct! Almost everything asks for it.
+	~The electric bill #Not the best option. Almost everything asks for it.
+}
+
+::M1 U01 P3::How much does it cost to print your CURP at gob.mx? {
+	~500 pesos #Not the best option. It has no cost.
+	~150 pesos #Not the best option. It has no cost.
+	=Nothing #Correct! It has no cost.
+}
+
+::M1 U02 P1::What do you need for the INE? {
+	~A valid U.S. passport #Not the best option. Those are the three requirements.
+	=Birth certificate, photo ID and proof of address #Correct! Those are the three requirements.
+	~A co-signer who owns a house and their proof of address #Not the best option. Those are the three requirements.
+}
+
+::M1 U02 P2::How much does the INE ID cost? {
+	=Nothing #Correct! It has no cost.
+	~300 pesos #Not the best option. It has no cost.
+	~It depends on the state #Not the best option. It has no cost.
+}
+
+::M1 U02 P3::You have no bills in your name. What do you do? {
+	~Wait until you own a house #Not the best option. There are options.
+	~Use any electric bill you find on the street, even if it isn't from your home #Not the best option. There are options.
+	=Ask if they accept a relative's bill, witnesses or a proof of residence #Correct! There are options.
+}
+
+::M1 U03 P1::Your child was born in the U.S. and you are Mexican. What is your child? {
+	~Only American #Not the best option. You register the birth.
+	=Also Mexican, if you register the birth #Correct! You register the birth.
+	~A foreigner until turning 18 and deciding #Not the best option. You register the birth.
+}
+
+::M1 U03 P2::What do you do before paying for an apostille or translation? {
+	=Ask whether your state requires it #Correct! Not every state asks for it.
+	~Pay for the most expensive apostille and translation to be safe #Not the best option. Not every state asks for it.
+	~Nothing, registering isn't needed #Not the best option. Not every state asks for it.
+}
+
+::M1 U03 P3::The school asks for a CURP and it's in process. What do you do? {
+	~Wait for the next school year #Not the best option. School should not wait.
+	~Enroll them next year, once they have their CURP #Not the best option. School should not wait.
+	=Ask for enrollment while it's sorted out #Correct! School should not wait.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M2
+
+::M2 U01 P1::What is the Tarjeta Bienestar Paisano? {
+	=A one-time support of 2,000 pesos #Correct! It's only once.
+	~A pension paid into your account every month #Not the best option. It's only once.
+	~A loan #Not the best option. It's only once.
+}
+
+::M2 U01 P2::Which card lets you receive money from the U.S.? {
+	~Neither #Not the best option. It's an account.
+	=The FINABIEN Paisano #Correct! It's an account.
+	~A department store card #Not the best option. It's an account.
+}
+
+::M2 U01 P3::Someone asks for your PIN «to activate» the card. What is it? {
+	~A normal step #Not the best option. No one asks for the PIN.
+	~A bank requirement #Not the best option. No one asks for the PIN.
+	=Fraud #Correct! No one asks for the PIN.
+}
+
+::M2 U02 P1::Which account do you ask for to avoid fees? {
+	~The gold card #Not the best option. No fees.
+	=The basic account #Correct! No fees.
+	~The investment account #Not the best option. No fees.
+}
+
+::M2 U02 P2::You're offered 4% a month. What do you do first? {
+	=Check the institution with CONDUSEF #Correct! Check first.
+	~Deposit everything, because 4% a month is a good return #Not the best option. Check first.
+	~Invite your family #Not the best option. Check first.
+}
+
+::M2 U02 P3::Where are the fees listed? {
+	~In the ad #Not the best option. The summary sheet lists them.
+	~In what the bank clerk tells you out loud #Not the best option. The summary sheet lists them.
+	=On the contract's summary sheet #Correct! The summary sheet lists them.
+}
+
+::M2 U03 P1::What do you give so someone can pay you? {
+	~Your PIN #Not the best option. Only the CLABE.
+	=Your CLABE #Correct! Only the CLABE.
+	~Your app password #Not the best option. Only the CLABE.
+}
+
+::M2 U03 P2::What do you ask for when you dispute at the bank? {
+	=A reference number #Correct! It's your proof.
+	~A discount #Not the best option. It's your proof.
+	~Nothing #Not the best option. It's your proof.
+}
+
+::M2 U03 P3::The bank doesn't solve it. Where do you go? {
+	~To the traffic police #Not the best option. It defends users.
+	~To another bank #Not the best option. It defends users.
+	=To CONDUSEF #Correct! It defends users.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M3
+
+::M3 U01 P1::You had good credit in Texas. How do you show up in Mexico? {
+	=With no history #Correct! You start from zero.
+	~With the same score #Not the best option. You start from zero.
+	~With bad credit #Not the best option. You start from zero.
+}
+
+::M3 U01 P2::How many times a year is your special report at no cost? {
+	~Never #Not the best option. Once every 12 months.
+	=Once #Correct! Once every 12 months.
+	~Every month #Not the best option. Once every 12 months.
+}
+
+::M3 U01 P3::A loan you never asked for shows up. What do you do? {
+	~Pay it to avoid problems #Not the best option. You dispute it.
+	=File a dispute #Correct! You dispute it.
+	~Nothing #Not the best option. You dispute it.
+}
+
+::M3 U02 P1::What builds your history best? {
+	~Many cards open at the same time #Not the best option. Small and on time.
+	=A small credit paid on time #Correct! Small and on time.
+	~Paying the minimum #Not the best option. Small and on time.
+}
+
+::M3 U02 P2::Your limit is 6,000. What's the most you should use? {
+	=2,000 #Correct! One third.
+	~6,000 #Not the best option. One third.
+	~4,500 #Not the best option. One third.
+}
+
+::M3 U02 P3::Which indicator compares the cost of two credits? {
+	~The card's color #Not the best option. It adds up interest and fees.
+	~The minimum payment #Not the best option. It adds up interest and fees.
+	=The CAT #Correct! It adds up interest and fees.
+}
+
+::M3 U03 P1::You borrow 3,000 and pay 4,500 in two weeks. How much does it cost you? {
+	~4,500 #Not the best option. 4,500 minus 3,000.
+	=1,500 #Correct! 4,500 minus 3,000.
+	~Nothing #Not the best option. 4,500 minus 3,000.
+}
+
+::M3 U03 P2::An app asks for your contacts. What do you do? {
+	=Deny it and don't use the app #Correct! It's to pressure you.
+	~Accept #Not the best option. It's to pressure you.
+	~Give only your family's numbers #Not the best option. It's to pressure you.
+}
+
+::M3 U03 P3::What must any loan tell you before you sign? {
+	~Only the weekly payment #Not the best option. The total.
+	~The collector's name and phone number #Not the best option. The total.
+	=How much you'll pay in total #Correct! The total.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M4
+
+::M4 U01 P1::You're owed a week's wages in the U.S. What do you do? {
+	=Ask for it by deposit or check #Correct! It's yours.
+	~Write it off #Not the best option. It's yours.
+	~Give your password to a fixer #Not the best option. It's yours.
+}
+
+::M4 U01 P2::What can happen to a forgotten account? {
+	~Nothing, it never changes #Not the best option. Unclaimed property.
+	=It charges fees and goes to the state #Correct! Unclaimed property.
+	~They close it and send you double #Not the best option. Unclaimed property.
+}
+
+::M4 U01 P3::Who can guide you if the boss doesn't pay? {
+	~A fixer in the town square who knows the bosses #Not the best option. The consulate guides you.
+	=The Mexican consulate #Correct! The consulate guides you.
+	~No one #Not the best option. The consulate guides you.
+}
+
+::M4 U02 P1::Which form does your employer give you with what you earned and what was withheld? {
+	=The W-2 #Correct! The W-2.
+	~The CURP #Not the best option. The W-2.
+	~The rent receipt #Not the best option. The W-2.
+}
+
+::M4 U02 P2::Does the IRS deposit into a Mexican account? {
+	~Yes, always #Not the best option. A mailed check.
+	~Only into a FINABIEN Paisano account #Not the best option. A mailed check.
+	=No; it mails a check #Correct! A mailed check.
+}
+
+::M4 U02 P3::Generally, how long do you have to claim a refund? {
+	~One month #Not the best option. About three years.
+	=About three years #Correct! About three years.
+	~Forever, there's no deadline #Not the best option. About three years.
+}
+
+::M4 U03 P1::Your 401(k) belongs to… {
+	~Your employer #Not the best option. It's yours.
+	=You #Correct! It's yours.
+	~The U.S. government #Not the best option. It's yours.
+}
+
+::M4 U03 P2::You withdraw your 401(k) at age 35. What normally happens? {
+	~You get a bonus for taking it out early #Not the best option. Before age 59½.
+	~Nothing #Not the best option. Before age 59½.
+	=You pay a penalty and withholding #Correct! Before age 59½.
+}
+
+::M4 U03 P3::How many credits are usually required for a U.S. Social Security pension? {
+	=40 #Correct! About 10 years.
+	~4 #Not the best option. About 10 years.
+	~400 #Not the best option. About 10 years.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M5
+
+::M5 U01 P1::You worked in Mexico with IMSS in 2005. Do you have an Afore? {
+	=Probably yes #Correct! If you contributed, you have one.
+	~No, it was erased #Not the best option. If you contributed, you have one.
+	~Only if you've lived in Mexico since then #Not the best option. If you contributed, you have one.
+}
+
+::M5 U01 P2::What do you use to locate your Afore? {
+	~Your U.S. driver's license #Not the best option. With the CURP.
+	=Your CURP #Correct! With the CURP.
+	~Your electricity bill #Not the best option. With the CURP.
+}
+
+::M5 U01 P3::What are beneficiaries? {
+	=The people who'd receive your savings if you pass away #Correct! The ones who receive it.
+	~The Afore's owners and directors #Not the best option. The ones who receive it.
+	~Your bosses #Not the best option. The ones who receive it.
+}
+
+::M5 U02 P1::You started contributing in 1990. Which law applies? {
+	~Ley 97 #Not the best option. Before July 1997.
+	=Ley 73 #Correct! Before July 1997.
+	~Neither #Not the best option. Before July 1997.
+}
+
+::M5 U02 P2::How many weeks does Ley 97 require in 2026? {
+	~500 #Not the best option. 875.
+	~1,250 #Not the best option. 875.
+	=875 #Correct! 875.
+}
+
+::M5 U02 P3::How many weeks does a full year of formal work add? {
+	=About 52 #Correct! About 52.
+	~12 #Not the best option. About 52.
+	~365, one per day of the year #Not the best option. About 52.
+}
+
+::M5 U03 P1::Where can you contribute to your Afore? {
+	~Only at the bank where your boss paid you #Not the best option. You have three ways.
+	=At a store, in the app or by automatic debit #Correct! You have three ways.
+	~Only when you retire #Not the best option. You have three ways.
+}
+
+::M5 U03 P2::You save 100 pesos a week in your Afore. How much in a year? {
+	~1,200 #Not the best option. 52 weeks times 100.
+	=5,200 #Correct! 52 weeks times 100.
+	~520 #Not the best option. 52 weeks times 100.
+}
+
+::M5 U03 P3::What does enrolling in IMSS as self-employed give you? {
+	~A loan #Not the best option. Medical care and weeks.
+	~A credit card with a limit based on your contribution #Not the best option. Medical care and weeks.
+	=Medical care and weeks #Correct! Medical care and weeks.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M6
+
+::M6 U01 P1::How far ahead do you plan when you return? {
+	~One week #Not the best option. The first months.
+	=90 days #Correct! The first months.
+	~One day #Not the best option. The first months.
+}
+
+::M6 U01 P2::You're promised a job «in a month». Do you count it? {
+	~Yes, all of it #Not the best option. Only what's certain.
+	~Half, in case they do hire you #Not the best option. Only what's certain.
+	=No, not until it's certain #Correct! Only what's certain.
+}
+
+::M6 U01 P3::How do you do your math? {
+	=In pesos with prices here #Correct! In pesos.
+	~In dollars #Not the best option. In pesos.
+	~With prices there, to compare better #Not the best option. In pesos.
+}
+
+::M6 U02 P1::People ask to borrow money when you arrive. What helps you? {
+	~Lending everything #Not the best option. Short and kind.
+	=A short, kind answer #Correct! Short and kind.
+	~Borrowing so you can lend to your family #Not the best option. Short and kind.
+}
+
+::M6 U02 P2::When do you decide how much to help? {
+	=Ahead of time, based on your 90 days #Correct! Ahead of time.
+	~When they ask, based on what each person needs #Not the best option. Ahead of time.
+	~Never #Not the best option. Ahead of time.
+}
+
+::M6 U02 P3::If you help with money, it's best to give it as… {
+	~A loan with interest #Not the best option. Without expecting it back.
+	~An advance #Not the best option. Without expecting it back.
+	=A gift you can afford #Correct! Without expecting it back.
+}
+
+::M6 U03 P1::The remittance ended. What do they do first? {
+	=A new budget with what comes in today #Correct! With real numbers.
+	~Take out a loan to keep spending as before #Not the best option. With real numbers.
+	~Keep going the same #Not the best option. With real numbers.
+}
+
+::M6 U03 P2::Which expense is protected? {
+	~Cable TV #Not the best option. It's basic.
+	=School #Correct! It's basic.
+	~The expensive phone plan #Not the best option. It's basic.
+}
+
+::M6 U03 P3::What else can they check? {
+	~Nothing #Not the best option. There may be support.
+	~Online betting to make up for the remittance #Not the best option. There may be support.
+	=Support or scholarships they're entitled to #Correct! There may be support.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M7
+
+::M7 U01 P1::How do you present your experience? {
+	~«I do a bit of everything» #Not the best option. Specific.
+	=Trade, years and proof #Correct! Specific.
+	~Only your name and the country where you worked #Not the best option. Specific.
+}
+
+::M7 U01 P2::Who has a job board for repatriated people? {
+	=The Servicio Nacional de Empleo #Correct! The SNE.
+	~A fixer #Not the best option. The SNE.
+	~No one #Not the best option. The SNE.
+}
+
+::M7 U01 P3::You speak English. What do you do? {
+	~Hide it #Not the best option. It's in high demand.
+	~Mention it only if they ask #Not the best option. It's in high demand.
+	=Put it first #Correct! It's in high demand.
+}
+
+::M7 U02 P1::What does an informal job NOT give you? {
+	~A wage #Not the best option. There are no benefits.
+	=IMSS and Afore #Correct! There are no benefits.
+	~Pay for the hours you work #Not the best option. There are no benefits.
+}
+
+::M7 U02 P2::You earn 300 pesos a day. What is your minimum aguinaldo? {
+	=4,500 #Correct! 15 days.
+	~300 #Not the best option. 15 days.
+	~9,000 #Not the best option. 15 days.
+}
+
+::M7 U02 P3::From when must you be registered with IMSS? {
+	=From day one #Correct! From the start.
+	~After three months, once you pass the trial period #Not the best option. From the start.
+	~After a year #Not the best option. From the start.
+}
+
+::M7 U03 P1::What do you do before investing your savings in a business? {
+	=Test it on a small scale #Correct! Test first.
+	~Take out a loan #Not the best option. Test first.
+	~Rent the biggest space #Not the best option. Test first.
+}
+
+::M7 U03 P2::A product costs you 25 and you sell it for 40. How much do you keep per piece? {
+	~65 #Not the best option. 40 minus 25.
+	=15 #Correct! 40 minus 25.
+	~40 #Not the best option. 40 minus 25.
+}
+
+::M7 U03 P3::Why keep business money separate? {
+	~Just because #Not the best option. To see if you profit.
+	~Because the law requires it of every business, even small ones #Not the best option. To see if you profit.
+	=To know whether you're making or losing money #Correct! To see if you profit.
+}
+
+$CATEGORY: $course$/Back Home v0.1/M8
+
+::M8 U01 P1::Someone charges you to process your INE. What is it? {
+	=A fake fixer #Correct! It has no cost.
+	~Normal #Not the best option. It has no cost.
+	~A legal express service #Not the best option. It has no cost.
+}
+
+::M8 U01 P2::Where do you verify whether someone is from the government? {
+	~By their vest #Not the best option. Ask inside.
+	=Inside the office #Correct! Ask inside.
+	~On their business card #Not the best option. Ask inside.
+}
+
+::M8 U01 P3::What do you leave for a procedure? {
+	~Your originals #Not the best option. Copies.
+	~Your PIN #Not the best option. Copies.
+	=Copies, and you show the original #Correct! Copies.
+}
+
+::M8 U02 P1::You get a call\: your relative is detained and they want money now. What do you do? {
+	=Hang up and call your relative yourself #Correct! Verify yourself.
+	~Deposit #Not the best option. Verify yourself.
+	~Give your information #Not the best option. Verify yourself.
+}
+
+::M8 U02 P2::A job asks you to pay for the uniform before starting. What is it? {
+	~Normal #Not the best option. You don't pay to work.
+	~A benefit the employer gives you to start #Not the best option. You don't pay to work.
+	=A sign of fraud #Correct! You don't pay to work.
+}
+
+::M8 U02 P3::What number do you call to report anonymously? {
+	~Only 911 #Not the best option. 089.
+	=089 #Correct! 089.
+	~The number that called you #Not the best option. 089.
+}
+
+::M8 U03 P1::What goes in each part of your plan? {
+	~Only what you've already done #Not the best option. Action and date.
+	=The next action and a date #Correct! Action and date.
+	~A drawing of how you see yourself in a year #Not the best option. Action and date.
+}
+
+::M8 U03 P2::How often do you review your plan? {
+	=Every month #Correct! Every month.
+	~Every five years #Not the best option. Every month.
+	~Never #Not the best option. Every month.
+}
+
+::M8 U03 P3::Which of these is a part of the plan? {
+	~Your social media #Not the best option. Papers.
+	=Your papers #Correct! Papers.
+	~Your vacation #Not the best option. Papers.
+}

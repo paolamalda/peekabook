@@ -164,8 +164,6 @@ def paginas(D, cfg):
     b1 = (f'<div class="hero"><span class="tag"><i class="fa fa-hand-peace-o"></i> {T("Bienvenida", "Welcome")}</span>'
           f'<h2>{T("Qué gusto que estés aquí", "We are so glad you are here")}</h2><p>{tit}</p></div>'
           f'<div class="quote">{e(B.get("conecta", cfg.get("intro", "")))}</div>')
-    if para:
-        b1 += f'<div class="note"><i class="fa fa-user-circle-o"></i> <b>{T("Este programa es para ti", "This program is for you")}:</b> {e(para)}</div>'
     b1 += f'<h3><i class="fa fa-map-signs" style="color:{RO}"></i> {T("Lo que vas a lograr", "What you will achieve")}</h3><div class="grid">'
     for i, m in enumerate(MODS, 1):
         b1 += (f'<div class="card{" rosa" if i % 2 == 0 else ""}"><div class="ic"><i class="fa {ic[m]}"></i></div><span class="num">{T("Parte", "Part")} {i}</span>'

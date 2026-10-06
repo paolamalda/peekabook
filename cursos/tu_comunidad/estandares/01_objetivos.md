@@ -16,8 +16,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tu apoyo es tuyo, completo | Al terminar la lección, la persona participante será capaz de cobrar sus apoyos completos, directo en su tarjeta, sin pagar a nadie, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Si alguien se queda con tu dinero | Al terminar la lección, la persona participante será capaz de identificar a quién avisar si alguien le cobra por su apoyo o se queda con una parte, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Tu apoyo es tuyo, completo | Al terminar la lección, la persona participante será capaz de cobrar sus apoyos completos, directo en su tarjeta, sin pagar a nadie, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Si alguien se queda con tu dinero | Al terminar la lección, la persona participante será capaz de identificar a quién avisar si alguien le cobra por su apoyo o se queda con una parte, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 2. Tu cuenta a tu nombre
 
@@ -25,8 +25,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| ¿Por qué una cuenta a tu nombre? | Al terminar la lección, la persona participante será capaz de explicar por qué conviene que cada mujer tenga una cuenta a su nombre, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Abrir y usar tu cuenta | Al terminar la lección, la persona participante será capaz de identificar qué llevar para abrir una cuenta básica y dónde usarla cerca de su comunidad, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| ¿Por qué una cuenta a tu nombre? | Al terminar la lección, la persona participante será capaz de explicar por qué conviene que cada mujer tenga una cuenta a su nombre, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Abrir y usar tu cuenta | Al terminar la lección, la persona participante será capaz de identificar qué llevar para abrir una cuenta básica y dónde usarla cerca de su comunidad, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 3. Recibir y enviar dinero sin perder
 
@@ -34,8 +34,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Recibir dinero sin perder | Al terminar la lección, la persona participante será capaz de recibir el dinero de su familia con menos comisión y directo a su cuenta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Mandar dinero a tu familia | Al terminar la lección, la persona participante será capaz de mandar dinero a un familiar en otra comunidad o ciudad de forma segura, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| Recibir dinero sin perder | Al terminar la lección, la persona participante será capaz de recibir el dinero de su familia con menos comisión y directo a su cuenta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Mandar dinero a tu familia | Al terminar la lección, la persona participante será capaz de mandar dinero a un familiar en otra comunidad o ciudad de forma segura, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 4. Ahorro en grupo con reglas claras
 
@@ -43,8 +43,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Reglas claras para ahorrar en grupo | Al terminar la lección, la persona participante será capaz de acordar y escribir las reglas de un grupo de ahorro o tanda, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | afectiva | valoración |
-| El dinero del grupo, seguro | Al terminar la lección, la persona participante será capaz de guardar el ahorro del grupo en un lugar seguro y no prestarlo a gente de fuera, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| Reglas claras para ahorrar en grupo | Al terminar la lección, la persona participante será capaz de acordar y escribir las reglas de un grupo de ahorro o tanda, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | afectiva | valoración |
+| El dinero del grupo, seguro | Al terminar la lección, la persona participante será capaz de guardar el ahorro del grupo en un lugar seguro y no prestarlo a gente de fuera, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 5. Fraudes por teléfono y apps de préstamo
 
@@ -52,8 +52,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Las llamadas que piden dinero | Al terminar la lección, la persona participante será capaz de reconocer las llamadas falsas y colgar antes de dar datos o dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Apps de préstamo que te persiguen | Al terminar la lección, la persona participante será capaz de reconocer las apps de préstamo abusivas y no instalarlas, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Las llamadas que piden dinero | Al terminar la lección, la persona participante será capaz de reconocer las llamadas falsas y colgar antes de dar datos o dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Apps de préstamo que te persiguen | Al terminar la lección, la persona participante será capaz de reconocer las apps de préstamo abusivas y no instalarlas, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 6. Tu tierra: lista de sucesión y beneficiarios
 
@@ -61,8 +61,8 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| La lista de sucesión de tu tierra | Al terminar la lección, la persona participante será capaz de hacer la lista de sucesión de sus derechos ejidales para que su familia no los pierda, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Beneficiarios de tu cuenta | Al terminar la lección, la persona participante será capaz de poner beneficiarios en su cuenta para que su familia reciba su dinero si falta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| La lista de sucesión de tu tierra | Al terminar la lección, la persona participante será capaz de hacer la lista de sucesión de sus derechos ejidales para que su familia no los pierda, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Beneficiarios de tu cuenta | Al terminar la lección, la persona participante será capaz de poner beneficiarios en su cuenta para que su familia reciba su dinero si falta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 7. Seguro de vida y gastos funerarios
 
@@ -70,6 +70,6 @@ Al terminar el programa, la persona participante será capaz de cobrar sus apoyo
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Que un funeral no endeude a tu familia | Al terminar la lección, la persona participante será capaz de prepararse para los gastos funerarios con ahorro o seguro, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | afectiva | organización |
-| Antes de contratar un seguro | Al terminar la lección, la persona participante será capaz de preguntar lo necesario antes de contratar un seguro de vida o funerario y verificar a quien lo vende, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
+| Que un funeral no endeude a tu familia | Al terminar la lección, la persona participante será capaz de prepararse para los gastos funerarios con ahorro o seguro, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | afectiva | organización |
+| Antes de contratar un seguro | Al terminar la lección, la persona participante será capaz de preguntar lo necesario antes de contratar un seguro de vida o funerario y verificar a quien lo vende, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 

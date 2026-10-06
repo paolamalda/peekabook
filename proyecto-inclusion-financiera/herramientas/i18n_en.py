@@ -30,3 +30,56 @@ def tr(s):
     for k in sorted(UI, key=len, reverse=True):
         s = s.replace(k, UI[k])
     return s
+
+# Formato UX3 (un libro por lección con cuatro capítulos): textos de la interfaz en inglés.
+UI_UX3 = {
+ "Las dos rutas terminan en la práctica. Puedes abrir Profundiza cuando quieras.": "Both paths end in practice. You can open Go deeper whenever you want.",
+ "Tres situaciones y tres preguntas, una por pantalla. Si fallas, puedes intentarlo de nuevo.": "Three situations and three questions, one per screen. If you miss, you can try again.",
+ "No compartas montos reales ni datos de tus cuentas: esto es solo para ti.": "Don't share real amounts or account details: this is just for you.",
+ "Ya puedes hacer la autoevaluación del módulo.": "You can now take the module self-assessment.",
+ "¿Por qué son esas las mejores respuestas?": "Why are those the best answers?",
+ "Lo más importante y la práctica.": "The most important points and the practice.",
+ "Suma más datos y explicaciones.": "Adds more facts and explanations.",
+ "Instalación: sustituye este recuadro por la actividad": "Installation: replace this box with the activity",
+ "incrustada desde el banco de contenido.": "embedded from the content bank.",
+ "(opcional)": "(optional)",
+ "Profundizar": "Go deeper",
+ "opcional": "optional",
+ "unos ": "about ",
+ "Lo esencial + Profundiza": "The essentials + Go deeper",
+ "Cuidado con estos errores": "Watch out for these mistakes",
+ "Otros errores frecuentes": "Other common mistakes",
+ "Comprueba lo que entendiste": "Check your understanding",
+ "¿Qué harías? y Repasa": "What would you do? and Review",
+ "Al terminar podrás": "When you finish, you'll be able to",
+ "Con tus números": "With your numbers",
+ "Tu compromiso": "Your commitment",
+ "Ir a practicar": "Go to practice",
+ "Volver a lo esencial": "Back to the essentials",
+ "¡Terminaste esta lección!": "You finished this lesson!",
+ "Ver respuesta": "See answer",
+ "Elige tu ruta": "Choose your path",
+ "Para recordar": "Remember",
+ "Para saber más": "Learn more",
+ "Palabras clave": "Key words",
+ "Qué buscar:": "What to look for:",
+ "Fuentes:": "Sources:",
+ "Sigue:": "Next:",
+ "Empieza": "Start",
+ "Lo esencial": "The essentials",
+ "Profundiza": "Go deeper",
+ "Practica": "Practice",
+ "Idea clave": "Key idea",
+ "Antes de actuar, verifica": "Before you act, check",
+ " minutos": " minutes",
+ "unas ": "about ",
+ " horas": " hours",
+}
+
+
+def tr_ux3(s):
+    import re as _re
+    s = _re.sub(r"Lección (\d+) de (\d+)", r"Lesson \1 of \2", s)
+    for k in sorted(UI_UX3, key=len, reverse=True):
+        s = s.replace(k, UI_UX3[k])
+    return tr(s)

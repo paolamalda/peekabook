@@ -19,7 +19,7 @@ sys.path.insert(0, HF)
 import build_v3 as B
 from leccion_ux2 import build, page, CSS, md, terms
 import leccion_ux3 as UX3
-from i18n_en import tr as tr_en
+from i18n_en import tr as tr_en, tr_ux3
 
 S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
 ENV = dict(os.environ, NODE_PATH=f"{S}/nodeenv/node_modules")
@@ -29,6 +29,7 @@ D = os.path.abspath(sys.argv[1])
 CFG = json.load(open(os.path.join(D, "curso.json"), encoding="utf-8"))
 EN = CFG.get("lang") == "en"
 tr = tr_en if EN else (lambda s: s)
+tr3 = tr_ux3 if EN else (lambda s: s)
 MODS = CFG["modulos"]  # {"M1": "Módulo 1. …"}
 OUT = os.path.join(D, "moodle")
 LEC = os.path.join(D, "lecciones")
@@ -131,8 +132,8 @@ def paso_libros_ux3():
         for k, L in enumerate(les, 1):
             zp = os.path.join(d, "lecciones", f"{k:02d}_{L['code'].replace(' ', '_')}.zip")
             with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as z:
-                for fn, tt, b in L["pages"]: z.writestr(fn, page(tt, b))
-            prev += [(f"{k:02d}_{fn}", (L["title"] if j == 0 else tt), b.replace('href="0', f'href="{k:02d}_0'))
+                for fn, tt, b in L["pages"]: z.writestr(fn, page(tr3(tt), tr3(b)))
+            prev += [(f"{k:02d}_{fn}", (L["title"] if j == 0 else tr3(tt)), tr3(b).replace('href="0', f'href="{k:02d}_0'))
                      for j, (fn, tt, b) in enumerate(L["pages"])]
         xml, n = B.glosario(text, ("Key words · " if EN else "Palabras clave · ") + mod)
         open(os.path.join(d, f"{mod}_glosario_Moodle.xml"), "w").write(tr(xml))

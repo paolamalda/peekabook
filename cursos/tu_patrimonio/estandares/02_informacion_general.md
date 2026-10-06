@@ -120,7 +120,7 @@ Programa de bienestar financiero para mujeres que administran su casa y su patri
 1. **Inicio del curso:** un mosaico por módulo con su porcentaje de avance y el botón para seguir donde te quedaste.
 2. **Dentro de un módulo:** un mosaico por lección. Cada lección se abre al terminar la anterior y muestra si está terminada, en curso o pendiente.
 3. **Dentro de una lección:** una portada con la situación y dos rutas: **rápida** (Lo esencial y Practica) o **completa** (agrega Profundiza). Cada parte es un capítulo del libro de la lección.
-4. **Practica:** la actividad «¿Qué harías?» y «Pruébate» (una pantalla a la vez), el ejercicio con tus números y tu compromiso.
+4. **Practica:** la actividad «¿Qué harías?» y «Repasa» (una pantalla a la vez), el ejercicio con tus números y tu compromiso.
 5. **Al final de cada módulo:** la autoevaluación. Al aprobar todas y responder la encuesta final se libera la constancia.
 
 (Agregar capturas de pantalla de cada punto al instalar el curso.)
@@ -147,7 +147,7 @@ Mujeres que administran su casa y su patrimonio en México.
 | Elemento | Momento | Peso en la calificación final | Criterio |
 |---|---|---|---|
 | Evaluación diagnóstica | Inicio | 0% (no cuenta) | Conocer el punto de partida |
-| Práctica de cada lección («¿Qué harías?», «Pruébate», ejercicio y compromiso) | Durante | 0% (formativa) | Retroalimentación inmediata; intentos ilimitados |
+| Práctica de cada lección («¿Qué harías?», «Repasa», ejercicio y compromiso) | Durante | 0% (formativa) | Retroalimentación inmediata; intentos ilimitados |
 | Autoevaluación del módulo 1 | Al terminar el módulo | 9.091% | 70% o más para aprobar |
 | Autoevaluación del módulo 2 | Al terminar el módulo | 9.091% | 70% o más para aprobar |
 | Autoevaluación del módulo 3 | Al terminar el módulo | 9.091% | 70% o más para aprobar |

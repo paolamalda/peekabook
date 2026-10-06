@@ -16,9 +16,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tu constancia y tu CURP: los dos primeros papeles | Al terminar la lección, la persona participante será capaz de explicar para qué sirve la constancia de repatriación y cómo sacar su CURP para empezar cualquier trámite, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Tu acta y tu INE | Al terminar la lección, la persona participante será capaz de sacar su acta de nacimiento y tramitar su credencial del INE, que le pedirán en el banco y en el trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Los papeles de tus hijos nacidos en Estados Unidos | Al terminar la lección, la persona participante será capaz de registrar en México a sus hijos nacidos en EE. UU. para que tengan CURP, escuela y servicios, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| Tu constancia y tu CURP: los dos primeros papeles | Al terminar la lección, la persona participante será capaz de explicar para qué sirve la constancia de repatriación y cómo sacar su CURP para empezar cualquier trámite, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Tu acta y tu INE | Al terminar la lección, la persona participante será capaz de sacar su acta de nacimiento y tramitar su credencial del INE, que le pedirán en el banco y en el trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Los papeles de tus hijos nacidos en Estados Unidos | Al terminar la lección, la persona participante será capaz de registrar en México a sus hijos nacidos en EE. UU. para que tengan CURP, escuela y servicios, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 2. Tu cuenta en México
 
@@ -26,9 +26,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tus tarjetas de regreso | Al terminar la lección, la persona participante será capaz de distinguir la Tarjeta Bienestar Paisano de la Tarjeta FINABIEN Paisano y usar bien los 2,000 pesos, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Elige una cuenta sin comisiones | Al terminar la lección, la persona participante será capaz de comparar cuentas básicas y elegir una a su nombre que no le cobre por tener su dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | análisis |
-| Cobrar, pagar y reclamar | Al terminar la lección, la persona participante será capaz de usar su cuenta para cobrar y pagar sin riesgos, y saber cómo reclamar un cargo que no hizo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
+| Tus tarjetas de regreso | Al terminar la lección, la persona participante será capaz de distinguir la Tarjeta Bienestar Paisano de la Tarjeta FINABIEN Paisano y usar bien los 2,000 pesos, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Elige una cuenta sin comisiones | Al terminar la lección, la persona participante será capaz de comparar cuentas básicas y elegir una a su nombre que no le cobre por tener su dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | análisis |
+| Cobrar, pagar y reclamar | Al terminar la lección, la persona participante será capaz de usar su cuenta para cobrar y pagar sin riesgos, y saber cómo reclamar un cargo que no hizo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
 
 ### 3. Crédito desde cero
 
@@ -36,9 +36,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tu historial de allá no cuenta aquí | Al terminar la lección, la persona participante será capaz de explicar que en México empieza sin historial de crédito y revisar su reporte sin costo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Empieza chico y paga a tiempo | Al terminar la lección, la persona participante será capaz de construir historial en México con un crédito pequeño que pueda pagar completo y a tiempo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Préstamos «sin buró» y apps que cobran de más | Al terminar la lección, la persona participante será capaz de reconocer los préstamos caros que buscan a quien no tiene historial y compararlos antes de firmar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
+| Tu historial de allá no cuenta aquí | Al terminar la lección, la persona participante será capaz de explicar que en México empieza sin historial de crédito y revisar su reporte sin costo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Empieza chico y paga a tiempo | Al terminar la lección, la persona participante será capaz de construir historial en México con un crédito pequeño que pueda pagar completo y a tiempo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Préstamos «sin buró» y apps que cobran de más | Al terminar la lección, la persona participante será capaz de reconocer los préstamos caros que buscan a quien no tiene historial y compararlos antes de firmar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
 
 ### 4. Lo que dejaste en Estados Unidos
 
@@ -46,9 +46,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Tu último pago y tu cuenta de allá | Al terminar la lección, la persona participante será capaz de recuperar el sueldo que le deben y decidir qué hacer con su cuenta de banco en EE. UU, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Tus impuestos de allá | Al terminar la lección, la persona participante será capaz de comprobar si le conviene presentar su declaración en EE. UU. para recuperar impuestos retenidos, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Tu retiro de allá: 401(k) y Seguro Social | Al terminar la lección, la persona participante será capaz de comprobar si dejó dinero de retiro en EE. UU. y a quién preguntar para no perderlo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
+| Tu último pago y tu cuenta de allá | Al terminar la lección, la persona participante será capaz de recuperar el sueldo que le deben y decidir qué hacer con su cuenta de banco en EE. UU, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Tus impuestos de allá | Al terminar la lección, la persona participante será capaz de comprobar si le conviene presentar su declaración en EE. UU. para recuperar impuestos retenidos, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Tu retiro de allá: 401(k) y Seguro Social | Al terminar la lección, la persona participante será capaz de comprobar si dejó dinero de retiro en EE. UU. y a quién preguntar para no perderlo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
 
 ### 5. Tu Afore, tu IMSS y tus semanas
 
@@ -56,9 +56,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| ¿Tienes Afore? Encuéntrala | Al terminar la lección, la persona participante será capaz de comprobar si tiene una cuenta de Afore de cuando trabajó en México y localizarla, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | aplicación |
-| Tus semanas cotizadas | Al terminar la lección, la persona participante será capaz de consultar sus semanas cotizadas en el IMSS y saber cuántas le faltan para una pensión, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
-| Ahorra para tu retiro aunque trabajes por tu cuenta | Al terminar la lección, la persona participante será capaz de hacer aportaciones voluntarias a su Afore y conocer cómo afiliarse al IMSS si trabaja por su cuenta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| ¿Tienes Afore? Encuéntrala | Al terminar la lección, la persona participante será capaz de comprobar si tiene una cuenta de Afore de cuando trabajó en México y localizarla, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | aplicación |
+| Tus semanas cotizadas | Al terminar la lección, la persona participante será capaz de consultar sus semanas cotizadas en el IMSS y saber cuántas le faltan para una pensión, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| Ahorra para tu retiro aunque trabajes por tu cuenta | Al terminar la lección, la persona participante será capaz de hacer aportaciones voluntarias a su Afore y conocer cómo afiliarse al IMSS si trabaja por su cuenta, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 6. Tus primeros 90 días
 
@@ -66,9 +66,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Piensa en pesos: tu presupuesto de regreso | Al terminar la lección, la persona participante será capaz de hacer un presupuesto en pesos para sus primeros 90 días, con lo que de verdad entra y sale, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Los compromisos de bienvenida | Al terminar la lección, la persona participante será capaz de poner límites amables a los gastos y préstamos que le piden al regresar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Cuando dejan de llegar las remesas | Al terminar la lección, la persona participante será capaz de reorganizar el gasto de la casa cuando el familiar que mandaba dinero regresa o deja de enviar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
+| Piensa en pesos: tu presupuesto de regreso | Al terminar la lección, la persona participante será capaz de hacer un presupuesto en pesos para sus primeros 90 días, con lo que de verdad entra y sale, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Los compromisos de bienvenida | Al terminar la lección, la persona participante será capaz de poner límites amables a los gastos y préstamos que le piden al regresar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Cuando dejan de llegar las remesas | Al terminar la lección, la persona participante será capaz de reorganizar el gasto de la casa cuando el familiar que mandaba dinero regresa o deja de enviar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 
 ### 7. Trabajo o negocio con lo que sabes hacer
 
@@ -76,9 +76,9 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Lo que sabes hacer vale | Al terminar la lección, la persona participante será capaz de hacer la lista de sus habilidades y saber cómo demostrarlas para conseguir trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
-| Compara ofertas: sueldo y prestaciones | Al terminar la lección, la persona participante será capaz de comparar un empleo formal y uno informal sumando lo que no se ve en el sueldo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | análisis |
-| Un negocio chico sin arriesgar tu ahorro | Al terminar la lección, la persona participante será capaz de probar una idea de negocio en pequeño antes de meter todo su dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | comprensión |
+| Lo que sabes hacer vale | Al terminar la lección, la persona participante será capaz de hacer la lista de sus habilidades y saber cómo demostrarlas para conseguir trabajo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
+| Compara ofertas: sueldo y prestaciones | Al terminar la lección, la persona participante será capaz de comparar un empleo formal y uno informal sumando lo que no se ve en el sueldo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | análisis |
+| Un negocio chico sin arriesgar tu ahorro | Al terminar la lección, la persona participante será capaz de probar una idea de negocio en pequeño antes de meter todo su dinero, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 
 ### 8. Que no te engañen al regresar
 
@@ -86,7 +86,7 @@ Al terminar el programa, la persona participante será capaz de organizar sus pa
 
 | Lección | Objetivo específico | Área | Nivel |
 |---|---|---|---|
-| Gestores falsos | Al terminar la lección, la persona participante será capaz de reconocer a quien cobra por trámites gratuitos o se queda con sus papeles, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Fraudes y extorsión al que regresa | Al terminar la lección, la persona participante será capaz de reconocer los fraudes y las extorsiones más comunes contra quien regresa y saber qué hacer, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | cognoscitiva | conocimiento |
-| Tu plan de regreso en una página | Al terminar la lección, la persona participante será capaz de reunir en una sola hoja sus papeles, su cuenta, su historial, lo que quedó allá, su retiro y su presupuesto, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Pruébate». | psicomotriz | manipulación |
+| Gestores falsos | Al terminar la lección, la persona participante será capaz de reconocer a quien cobra por trámites gratuitos o se queda con sus papeles, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Fraudes y extorsión al que regresa | Al terminar la lección, la persona participante será capaz de reconocer los fraudes y las extorsiones más comunes contra quien regresa y saber qué hacer, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | conocimiento |
+| Tu plan de regreso en una página | Al terminar la lección, la persona participante será capaz de reunir en una sola hoja sus papeles, su cuenta, su historial, lo que quedó allá, su retiro y su presupuesto, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
