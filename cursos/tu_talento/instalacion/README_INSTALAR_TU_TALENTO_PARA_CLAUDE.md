@@ -66,20 +66,20 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 | Mosaico | Ícono | Qué se ve |
 |---|---|---|
-| Tu dinero real | `money` | billetes |
+| Tu dinero real | `dollar` | signo de pesos |
 | Tu carrera como negocio | `briefcase` | portafolio |
 | Contratos y regalías | `handshake-o` | apretón de manos |
 | El sistema financiero | `university` | edificio de banco |
 | Compara y elige | `balance-scale` | balanza |
-| El crédito es deuda | `credit-card` | tarjeta |
+| El crédito es deuda | `id-card-o` | tarjeta |
 | Buró y Círculo de Crédito | `bar-chart` | gráfica de barras |
 | Sal de deudas | `unlock` | candado abierto |
 | Que no te engañen | `exclamation-triangle` | señal de alerta |
-| Protección y prevención | `shield` | escudo |
+| Protección y prevención | `umbrella` | paraguas de protección |
 | Tu futuro | `hourglass-half` | reloj de arena |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

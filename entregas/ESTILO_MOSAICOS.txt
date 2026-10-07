@@ -1,0 +1,142 @@
+ESTILO DE LOS MOSAICOS — Desarrolla Talento
+Para que los cursos en Moodle 4.5 (formato Mosaicos) se vean como la vista aproximada «Tu Dinero en mosaicos»:
+mosaicos blancos y cuadrados, borde gris fino, ícono azul marino grande al centro, título en negritas,
+número de la parte arriba a la izquierda y el porcentaje en una pastilla arriba a la derecha.
+No se usan fotos en los mosaicos.
+
+La persona responsable autoriza estos cambios de apariencia del sitio. No cambies nada más de la configuración del sitio.
+
+------------------------------------------------------------
+PASO 1. Quitar fotos de los mosaicos (si se subieron)
+------------------------------------------------------------
+En cada curso, modo de edición > en cada mosaico, menú ⋮ > Foto del mosaico > Eliminar. Deja solo el ícono.
+
+------------------------------------------------------------
+PASO 2. Configuración de cada curso (Configuración > Formato del curso)
+------------------------------------------------------------
+- Formato: Mosaicos.
+- Ícono de cada mosaico: el de la tabla del README del curso (sección «Íconos de los mosaicos»).
+- Mostrar progreso: Sí, como PORCENTAJE (no como fracción).
+- Usar submosaicos para las actividades: Sí.
+- Color del mosaico: azul marino #0A3161 (si el curso permite elegirlo; si no, lo pone el tema).
+- Nombres de sección: tal como vienen en el README (Parte 1 … Parte 5, Materiales de apoyo, Cierre y constancia,
+  Programas y apoyos). No agregues números al nombre: el número lo pone el estilo del paso 3.
+
+------------------------------------------------------------
+PASO 3. Estilo del tema (una sola vez para todo el sitio)
+------------------------------------------------------------
+Administración del sitio > Apariencia > Temas > Boost > pestaña «Configuración avanzada» > «SCSS en bruto» (Raw SCSS).
+Pega al FINAL lo que está entre las líneas de corte y guarda. Luego Administración del sitio > Desarrollo > Purgar todas las cachés.
+
+Antes de pegar: copia lo que ya haya en «SCSS en bruto» a un archivo de respaldo, para poder volver atrás.
+
+Los nombres de clase de Mosaicos cambian un poco entre versiones. Después de guardar, abre un curso con F12
+(herramientas del navegador), revisa un mosaico y, si alguna regla no aplica, ajusta el selector al nombre real.
+Anota en tu reporte qué selectores cambiaste.
+
+-------- cortar aquí --------
+/* Desarrolla Talento: mosaicos como la vista aproximada */
+$dt-navy: #0A3161;
+$dt-navy-deep: #061F40;
+$dt-navy-soft: #E5ECF6;
+$dt-magenta: #E4007C;
+$dt-line: #DFE5EF;
+
+body.format-tiles {
+  /* Página con fondo claro para que resalten los mosaicos blancos */
+  #page, #region-main { background: #F3F5FA; }
+
+  ul.tiles { counter-reset: dt-parte; }
+
+  ul.tiles li.tile,
+  ul.tiles .tile {
+    position: relative;
+    background: #FFFFFF !important;
+    background-image: none !important;
+    border: 1px solid $dt-line !important;
+    border-top: 1px solid $dt-line !important;   /* quita la barra azul de arriba */
+    border-radius: 6px !important;
+    box-shadow: none !important;
+    color: $dt-navy-deep !important;
+    text-align: center;
+    transition: border-color .15s, box-shadow .15s;
+
+    &:hover, &:focus-within {
+      border-color: $dt-navy !important;
+      box-shadow: 0 2px 0 $dt-navy !important;
+    }
+
+    /* Ícono: azul marino, grande y centrado (sin el pastel gris) */
+    .tileiconcontainer, .tile-icon { color: $dt-navy !important; background: transparent !important; }
+    .tileiconcontainer i, .tile-icon i, .tileiconcontainer .icon, .tile-icon .icon {
+      color: $dt-navy !important;
+      font-size: 56px !important;
+      width: auto !important; height: auto !important;
+    }
+
+    /* Título en negritas, azul oscuro */
+    .tile-text, .tile-textinner, .tile-textinner h3, .sectiontitle, h3 {
+      color: $dt-navy-deep !important;
+      font-weight: 800 !important;
+      font-size: 1.05rem;
+      line-height: 1.15;
+      background: transparent !important;
+    }
+
+    /* Porcentaje: pastilla arriba a la derecha */
+    .progress-indic, .tile-progress, .progressindic {
+      position: absolute; top: 8px; right: 8px;
+      background: $dt-navy-soft !important;
+      color: $dt-navy !important;
+      border: 0 !important;
+      border-radius: 99px;
+      padding: 2px 8px;
+      font-size: 12px; font-weight: 700;
+      width: auto !important; height: auto !important;
+    }
+    .progress-indic.complete, .progress-indic-complete {
+      background: $dt-navy !important; color: #FFFFFF !important;
+    }
+
+    /* Restricciones: candado en gris, sin cambiar el color del mosaico */
+    &.tile-restricted, &.restricted { opacity: .6; }
+  }
+
+  /* Número de la parte arriba a la izquierda (solo Partes 1 a 5) */
+  ul.tiles li.tile:nth-child(-n+5) {
+    counter-increment: dt-parte;
+    &::before {
+      content: counter(dt-parte);
+      position: absolute; top: 8px; left: 10px;
+      font-size: 12px; font-weight: 700; color: #56627A;
+    }
+  }
+
+  /* El mosaico extra «Programas y apoyos» (el último) con borde punteado y pastilla rosa */
+  ul.tiles li.tile:last-child {
+    border-style: dashed !important;
+    .progress-indic, .tile-progress, .progressindic { background: #FDE4F1 !important; color: $dt-magenta !important; }
+  }
+
+  /* Submosaicos (lecciones dentro de una parte): tarjetas blancas, la actual con borde magenta */
+  .subtiles .activity, ul.subtiles li {
+    background: #FFFFFF !important;
+    border: 1px solid $dt-line !important;
+    border-radius: 6px !important;
+    box-shadow: none !important;
+    .instancename, .activityname { color: $dt-navy-deep !important; font-weight: 700; }
+    .activityiconcontainer, .activityicon { background: transparent !important; color: $dt-navy !important; }
+  }
+}
+-------- cortar aquí --------
+
+------------------------------------------------------------
+PASO 4. Revisar y reportar
+------------------------------------------------------------
+- Abre Tu Dinero como estudiante (menú de usuario > Cambiar rol a… > Estudiante).
+- Toma 3 capturas: la página del curso con todos los mosaicos, una parte abierta (submosaicos) y la vista en celular
+  (F12 > modo dispositivo, ancho 390).
+- Compara con la vista aproximada: https://claude.ai/artifact/QZPZczaSKKxXUKNJiCBRmk
+- Reporta qué quedó igual, qué no y qué selectores tuviste que cambiar.
+
+Para volver atrás: borra el bloque pegado en «SCSS en bruto» (o pega el respaldo) y purga cachés.

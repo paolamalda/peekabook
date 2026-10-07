@@ -67,16 +67,16 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Mosaico | Ícono | Qué se ve |
 |---|---|---|
 | Tu pensión y tu mes | `calendar` | calendario |
-| Tu tarjeta y el cajero, sin riesgos | `credit-card` | tarjeta |
+| Tu tarjeta y el cajero, sin riesgos | `id-card-o` | tarjeta |
 | Llamadas, mensajes y «el nieto en apuros» | `phone` | teléfono |
 | Cuando el abuso viene de casa | `hand-paper-o` | mano de alto |
-| Préstamos a cuenta de tu pensión | `money` | billetes |
+| Préstamos a cuenta de tu pensión | `dollar` | signo de pesos |
 | Decidir con apoyo, sin perder el control | `handshake-o` | apretón de manos |
 | Testamento y beneficiarios | `file-text-o` | documento |
 | Tu salud y tus seguros | `heartbeat` | pulso |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

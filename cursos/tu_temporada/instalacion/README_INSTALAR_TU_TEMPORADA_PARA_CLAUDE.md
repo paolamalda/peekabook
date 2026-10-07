@@ -68,15 +68,15 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 |---|---|---|
 | Antes de firmar: dos caminos y cero fraudes | `pencil` | lápiz |
 | Antes de irte: la casa en orden | `home` | casa |
-| Tu pago allá | `money` | billetes |
+| Tu pago allá | `dollar` | signo de pesos |
 | Mandar dinero que rinda | `exchange` | flechas de intercambio |
 | Impuestos y papeles en Canadá y Estados Unidos | `file-text-o` | documento |
-| Tus derechos y tu seguridad | `shield` | escudo |
+| Tus derechos y tu seguridad | `umbrella` | paraguas de protección |
 | El regreso y los meses sin temporada | `calendar` | calendario |
 | Tu retiro y tu futuro en México | `hourglass-half` | reloj de arena |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

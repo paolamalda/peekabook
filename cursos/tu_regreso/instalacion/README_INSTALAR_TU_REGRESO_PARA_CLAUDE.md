@@ -68,15 +68,15 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 |---|---|---|
 | Tus papeles | `id-card` | credencial |
 | Tu cuenta en México | `university` | edificio de banco |
-| Crédito desde cero | `credit-card` | tarjeta |
+| Crédito desde cero | `id-card-o` | tarjeta |
 | Lo que dejaste en Estados Unidos | `plane` | avión |
 | Tu Afore, tu IMSS y tus semanas | `hourglass-half` | reloj de arena |
 | Tus primeros 90 días | `calendar` | calendario |
 | Trabajo o negocio con lo que sabes hacer | `briefcase` | portafolio |
-| Que no te engañen al regresar | `shield` | escudo |
+| Que no te engañen al regresar | `umbrella` | paraguas de protección |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

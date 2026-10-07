@@ -66,7 +66,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 | Mosaico | Ícono | Qué se ve |
 |---|---|---|
-| Tu dinero hoy | `money` | billetes |
+| Tu dinero hoy | `dollar` | signo de pesos |
 | El sistema financiero | `university` | edificio de banco |
 | El celular sin miedo | `mobile` | celular |
 | Que no te pase | `exclamation-triangle` | señal de alerta |
@@ -79,7 +79,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Tu plan | `list-alt` | lista |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

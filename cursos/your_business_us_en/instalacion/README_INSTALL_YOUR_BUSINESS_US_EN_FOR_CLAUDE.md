@@ -72,13 +72,13 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Cash flow | `line-chart` | gráfica de línea |
 | Get paid and sell without losing | `shopping-cart` | carrito |
 | Formalize and taxes | `file-text-o` | documento |
-| Credit for your business | `credit-card` | tarjeta |
-| Protect your business | `shield` | escudo |
+| Credit for your business | `id-card-o` | tarjeta |
+| Protect your business | `umbrella` | paraguas de protección |
 | Grow in an orderly way | `rocket` | cohete |
 | Your future | `hourglass-half` | reloj de arena |
 | Support materials | `book` | libro |
 | Closing and certificate | `flag-checkered` | bandera de meta |
-| Programs and support (extra) | `life-ring` | salvavidas |
+| Programs and support (extra) | `life-buoy` | salvavidas |
 
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 

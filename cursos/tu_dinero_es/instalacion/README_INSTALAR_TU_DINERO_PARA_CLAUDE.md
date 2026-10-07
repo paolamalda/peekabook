@@ -66,14 +66,14 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 | Mosaico | Ícono | Qué se ve |
 |---|---|---|
-| Tu dinero en orden | `money` | billetes |
+| Tu dinero en orden | `dollar` | signo de pesos |
 | Bancos y envíos a casa | `university` | edificio de banco |
-| Crédito sin sustos | `credit-card` | tarjeta |
-| Protege lo tuyo | `shield` | escudo |
+| Crédito sin sustos | `id-card-o` | tarjeta |
+| Protege lo tuyo | `umbrella` | paraguas de protección |
 | Tu futuro | `home` | casa |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

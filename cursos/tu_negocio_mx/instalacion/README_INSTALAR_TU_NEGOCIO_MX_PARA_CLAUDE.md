@@ -71,13 +71,13 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Flujo de efectivo | `line-chart` | gráfica de línea |
 | Cobrar y vender sin perder | `shopping-cart` | carrito |
 | Formalízate sin miedo | `file-text-o` | documento |
-| Crédito para tu negocio | `credit-card` | tarjeta |
-| Protege tu negocio | `shield` | escudo |
+| Crédito para tu negocio | `id-card-o` | tarjeta |
+| Protege tu negocio | `umbrella` | paraguas de protección |
 | Crecer con orden | `rocket` | cohete |
 | Tu futuro | `hourglass-half` | reloj de arena |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

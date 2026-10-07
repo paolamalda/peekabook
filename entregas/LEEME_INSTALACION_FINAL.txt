@@ -30,6 +30,7 @@ PASO 1. ANTES DE INSTALAR
 - Claves de inscripción: te las da la persona aparte (no van en los paquetes). Si no las tienes, pídelas antes de activar
   la autoinscripción.
 - Íconos de los mosaicos: cada instructivo trae la tabla con el ícono de cada mosaico.
+- Apariencia de los mosaicos: sigue ESTILO_MOSAICOS.txt (sin fotos; mosaicos blancos con ícono azul marino, como la vista aproximada).
 
 - El sitio ya tiene los complementos Mosaicos (Tiles), Level Up y Certificado personalizado.
 - La primera actividad H5P debe subirla la cuenta de administración (instala las librerías H5P).

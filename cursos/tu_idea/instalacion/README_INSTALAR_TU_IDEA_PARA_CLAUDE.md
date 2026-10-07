@@ -71,13 +71,13 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | De la idea a tu primera venta | `rocket` | cohete |
 | Haz crecer lo que empezaste | `line-chart` | gráfica de línea |
 | Pon tu dinero a trabajar | `percent` | porcentaje |
-| Crédito sin trampas | `credit-card` | tarjeta |
-| Riesgos, protección y fraudes | `shield` | escudo |
+| Crédito sin trampas | `id-card-o` | tarjeta |
+| Riesgos, protección y fraudes | `umbrella` | paraguas de protección |
 | La economía y tu familia | `globe` | globo terráqueo |
 | Tu futuro y tu plan | `compass` | brújula |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

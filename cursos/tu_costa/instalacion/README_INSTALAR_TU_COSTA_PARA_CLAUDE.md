@@ -69,14 +69,14 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Tu plan de dinero ante huracanes | `umbrella` | paraguas |
 | Tus documentos a salvo | `folder-open` | carpeta |
 | El ingreso de temporada, mes a mes | `calendar` | calendario |
-| Fondo de emergencia y seguro de vivienda | `shield` | escudo |
-| Crédito para tu actividad | `credit-card` | tarjeta |
+| Fondo de emergencia y seguro de vivienda | `umbrella` | paraguas de protección |
+| Crédito para tu actividad | `id-card-o` | tarjeta |
 | Tus derechos y cómo reclamar | `balance-scale` | balanza |
 | Remesas que rinden | `exchange` | flechas de intercambio |
 | Tu patrimonio y tu herencia | `home` | casa |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

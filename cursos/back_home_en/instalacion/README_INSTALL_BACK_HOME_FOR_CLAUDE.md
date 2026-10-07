@@ -69,15 +69,15 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 |---|---|---|
 | Your papers | `id-card` | credencial |
 | Your account in Mexico | `university` | edificio de banco |
-| Credit from scratch | `credit-card` | tarjeta |
+| Credit from scratch | `id-card-o` | tarjeta |
 | What you left in the United States | `plane` | avión |
 | Your Afore, your IMSS and your weeks | `hourglass-half` | reloj de arena |
 | Your first 90 days | `calendar` | calendario |
 | Work or a business with what you know how to do | `briefcase` | portafolio |
-| Don't get scammed when you return | `shield` | escudo |
+| Don't get scammed when you return | `umbrella` | paraguas de protección |
 | Support materials | `book` | libro |
 | Closing and certificate | `flag-checkered` | bandera de meta |
-| Programs and support (extra) | `life-ring` | salvavidas |
+| Programs and support (extra) | `life-buoy` | salvavidas |
 
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 

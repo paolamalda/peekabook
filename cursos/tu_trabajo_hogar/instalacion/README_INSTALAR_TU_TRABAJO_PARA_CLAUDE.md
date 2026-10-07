@@ -66,7 +66,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 | Mosaico | Ícono | Qué se ve |
 |---|---|---|
-| Lo que ganas | `money` | billetes |
+| Lo que ganas | `dollar` | signo de pesos |
 | Tu trabajo vale | `star` | estrella |
 | Tandas y ahorro | `users` | grupo de personas |
 | Ayudar sin hundirte | `handshake-o` | apretón de manos |
@@ -77,7 +77,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Crecer y tu plan | `line-chart` | gráfica de línea |
 | Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
-| Programas y apoyos (extra) | `life-ring` | salvavidas |
+| Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 

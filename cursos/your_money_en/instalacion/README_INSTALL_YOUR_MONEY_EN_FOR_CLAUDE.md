@@ -67,14 +67,14 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 
 | Tile | Icon | What it shows |
 |---|---|---|
-| Your money in order | `money` | billetes |
+| Your money in order | `dollar` | signo de pesos |
 | Banks and sending money home | `university` | edificio de banco |
-| Credit without surprises | `credit-card` | tarjeta |
-| Protect what's yours | `shield` | escudo |
+| Credit without surprises | `id-card-o` | tarjeta |
+| Protect what's yours | `umbrella` | paraguas de protección |
 | Your future | `home` | casa |
 | Support materials | `book` | libro |
 | Closing and certificate | `flag-checkered` | bandera de meta |
-| Programs and support (extra) | `life-ring` | salvavidas |
+| Programs and support (extra) | `life-buoy` | salvavidas |
 
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 
