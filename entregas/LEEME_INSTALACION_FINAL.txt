@@ -1,4 +1,5 @@
 PROGRAMAS DE BIENESTAR FINANCIERO · Desarrolla Talento · Octubre de 2026
+Este es el único LEEME general vigente (7 de octubre de 2026). Si tienes otro LEEME.txt suelto de días anteriores, bórralo.
 Instalación nueva en Moodle 4.5 (academia.desarrollatalento.com)
 
 Esta carpeta trae los paquetes para INSTALAR DESDE CERO. Las actualizaciones de versiones anteriores ya
@@ -29,7 +30,7 @@ PASO 1. ANTES DE INSTALAR
 
 PASO 2. INSTALAR CADA CURSO
 
-1. Descomprime TODAS las partes de un curso en la misma carpeta (parte1de4, parte2de4…): se juntan solas.
+1. Los zips llegan SIN descomprimir. Descomprime TODAS las partes de un curso en la misma carpeta (parte1de4, parte2de4…): se juntan solas.
 2. Abre 00_LEEME.txt (00_README.txt en inglés) de esa carpeta.
 3. Sigue el instructivo 04_Moodle/README_INSTALAR_…_PARA_CLAUDE.md (README_INSTALL_…_FOR_CLAUDE.md en inglés).
    Está escrito para Moodle 4.5 y trae una tabla de dónde está cada menú.
