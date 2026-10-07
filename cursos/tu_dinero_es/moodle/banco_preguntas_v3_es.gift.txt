@@ -222,10 +222,10 @@ $CATEGORY: $course$/Tu Dinero v1.0/M1
 	~Solo a la ciudadanía #No es la mejor opción. Solo a ciertos trámites.
 }
 
-::M1 U13 P2::Según la regla vigente, ¿CalFresh se considera para carga pública? {
-	=No #¡Correcto! No se considera.
-	~Sí #No es la mejor opción. No se considera.
-	~Sí, si lo usan los hijos #No es la mejor opción. No se considera.
+::M1 U13 P2::Desde el 18 de septiembre de 2026, ¿cómo se revisa la carga pública? {
+	=Caso por caso, con todo el caso junto #¡Correcto! Cada caso se revisa completo.
+	~Con una lista fija de apoyos que no cuentan #No es la mejor opción. Cada caso se revisa completo.
+	~Ya no se revisa #No es la mejor opción. Cada caso se revisa completo.
 }
 
 ::M1 U13 P3::¿Quién puede darte asesoría migratoria? {

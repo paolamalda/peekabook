@@ -11,7 +11,7 @@ const {
 
 const [, , out, title, subtitle, ...files] = process.argv;
 const PAGE_W = 12240, MARGIN = 1300, CONTENT_W = PAGE_W - 2 * MARGIN;
-const ACCENT = '1F5C4A', SOFT = 'EAF2EE', BORDER = 'B7C9C0';
+const ACCENT = '0A3161', SOFT = 'F5F7FB', BORDER = 'C9D3E3';
 
 function runs(text, base = {}) {
   const parts = [];
@@ -121,7 +121,7 @@ function convert(md) {
 const body = [];
 body.push(new Paragraph({ spacing: { before: 2400 }, children: [] }));
 body.push(new Paragraph({ alignment: AlignmentType.LEFT, children: [new TextRun({ text: title, bold: true, size: 52, color: ACCENT })] }));
-if (subtitle) body.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun({ text: subtitle, size: 28, color: '44544D' })] }));
+if (subtitle) body.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun({ text: subtitle, size: 28, color: '3A4660' })] }));
 body.push(new Paragraph({ children: [new PageBreak()] }));
 files.forEach((f, k) => {
   body.push(...convert(fs.readFileSync(f, 'utf8')));
@@ -136,9 +136,9 @@ const doc = new Document({
     default: { document: { run: { font: 'Calibri', size: 22 }, paragraph: { spacing: { after: 120, line: 300 } } } },
     paragraphStyles: [
       { id: 'Heading1', name: 'Heading 1', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 36, bold: true, color: ACCENT }, paragraph: { spacing: { before: 360, after: 200 }, outlineLevel: 0 } },
-      { id: 'Heading2', name: 'Heading 2', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 28, bold: true, color: '23433A' }, paragraph: { spacing: { before: 300, after: 140 }, outlineLevel: 1 } },
+      { id: 'Heading2', name: 'Heading 2', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 28, bold: true, color: '061F40' }, paragraph: { spacing: { before: 300, after: 140 }, outlineLevel: 1 } },
       { id: 'Heading3', name: 'Heading 3', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 24, bold: true, color: ACCENT }, paragraph: { spacing: { before: 220, after: 100 }, outlineLevel: 2 } },
-      { id: 'Heading4', name: 'Heading 4', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 22, bold: true, color: '44544D' }, paragraph: { spacing: { before: 160, after: 80 }, outlineLevel: 3 } },
+      { id: 'Heading4', name: 'Heading 4', basedOn: 'Normal', next: 'Normal', quickFormat: true, run: { size: 22, bold: true, color: '3A4660' }, paragraph: { spacing: { before: 160, after: 80 }, outlineLevel: 3 } },
     ],
   },
   numbering: {
@@ -154,7 +154,7 @@ const doc = new Document({
   },
   sections: [{
     properties: { page: { size: { width: PAGE_W, height: 15840 }, margin: { top: 1300, bottom: 1300, left: MARGIN, right: MARGIN } } },
-    footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [new TextRun({ children: [PageNumber.CURRENT], size: 18, color: '6B7A73' })] })] }) },
+    footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [new TextRun({ children: [PageNumber.CURRENT], size: 18, color: '5A6478' })] })] }) },
     children: body,
   }],
 });

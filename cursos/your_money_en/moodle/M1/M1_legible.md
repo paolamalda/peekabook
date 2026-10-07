@@ -2870,17 +2870,17 @@ Compare two services and one no-cost option. Write down what you confirmed and w
 
 ## M1 U13. What should I know before I apply for public benefits?
 
-**What you will be able to do:** Understand what "public charge" is, which benefits exist and where to confirm your case before you decide.
+**What you will be able to do:** Understand what "public charge" is, what changed in 2026 and why it helps to confirm your case with an authorized person before you apply for or stop a benefit.
 
-**To start:** Daniela needs help buying food for her son, but a neighbor told her that asking for any benefit could hurt her. She doesn't know if it's true. In this lesson you'll learn what the rule says and where to confirm your case without taking risks.
+**To start:** Daniela needs help buying food for her son, but a neighbor told her that asking for any benefit could hurt her. She doesn't know if it's true. In this lesson you'll learn what changed in the rule and where to confirm your case before you decide.
 
 ### The essentials (5 minutes)
 
 #### Decide with information, not rumors
 
-Many families don't apply for benefits they're entitled to, out of fear it will affect an immigration case. Others apply without knowing whether the rule applies to them.
+Many families don't apply for benefits out of fear it will affect an immigration case. Others apply without knowing how benefits are taken into account.
 
-Both problems have the same solution: reliable information about your case.
+Both problems have the same solution: reliable information about your case, before you decide.
 
 
 
@@ -2888,41 +2888,41 @@ Both problems have the same solution: reliable information about your case.
 
 **Public charge** is a review done in some immigration cases, mainly certain applications for permanent residency.
 
-It only applies to certain cases and only looks at certain benefits.
+It doesn't apply to every case or to every person.
 
 
 
-#### What the rule in effect since 2022 looks at
+#### What changed on September 18, 2026
 
 | Type | Description | What it means for you |
 |---|---|---|
-| It is considered | Cash assistance to maintain income (like SSI or CalWORKs cash aid) and long-term care paid by the government. | Get advice before applying. |
-| It is not considered | CalFresh, Medi-Cal (except long-term care), WIC, school meals, housing, tax credits like CalEITC. | You can apply without it counting. |
-| Your family's benefits | What other members receive, like citizen children, doesn't count as yours. | It isn't added to your case. |
+| The rule changed | The U.S. government canceled the 2022 rule. For applications filed on or after September 18, 2026, there is no longer a fixed list of benefits that "don't count." | Older guides may be out of date. |
+| Case by case | The immigration office looks at your whole case together: age, health, family, income, education and the benefits you receive from that date on. | No single benefit decides it. |
+| What you received before | For benefits received before September 18, 2026, only cash assistance and long-term care paid by the government are taken into account. | Keep your dates and records. |
 
 #### Three steps before you decide
 
-1. Identify what kind of help you need: food, health, housing or money.
-2. Find out who in your household might qualify.
-3. Confirm with a reliable source how the rule applies to your case.
+1. Identify what kind of help you need (food, health, housing or money) and for whom in your household.
+2. Find out whether you or someone in your family has, or will start, an immigration case.
+3. Before you apply for or stop a benefit, confirm your case with an immigration attorney or an accredited representative.
 
-> **Key idea:** rules can change. A proposal isn't a rule until it's published as final and takes effect.
+> **Key idea:** rules change. Always check the date of what you read and ask before you decide.
 
 
 
 #### A case in one minute
 
-Rosa lives in Fresno with her daughter and grandchildren. She stopped taking her grandchildren to WIC out of fear it would affect her. Her daughter shares what she learned: WIC isn't considered under the current public charge rule, and the grandchildren's benefits don't count as Rosa's.
+Rosa lives in Fresno with her daughter and grandchildren. She heard the rule changed and thought about no longer taking her grandchildren to WIC. Her daughter suggests she not decide based on a rumor.
 
-Rosa calls a community organization to confirm it. They tell her the same thing and recommend she check the rule every year in case it changes.
+Rosa makes an appointment at a legal aid organization and brings her questions in writing before changing anything.
 
-> **Before you act, check:** the current status of the rule and of each program with an attorney or an accredited representative.
+> **Before you act, check:** how the rule applies to your case, with an attorney or an accredited representative.
 
 
 
 #### Do it this week
 
-1. Write down what help your household needs.
+1. Write down what help your household needs and since when you've received it.
 2. Look for a legal aid organization or an accredited representative near you.
 3. Bring your questions in writing.
 
@@ -2933,15 +2933,15 @@ Rosa calls a community organization to confirm it. They tell her the same thing 
 1. Does public charge apply to all immigration cases?
 *Answer:* No. Only to certain cases, mainly some residency applications.
 
-2. Do benefits your citizen children receive count as yours?
-*Answer:* No. Under the current rule, they don't count as yours.
+2. Since September 18, 2026, is there a fixed list of benefits that "don't count"?
+*Answer:* No. Each case is reviewed as a whole, so it helps to ask before you apply for or stop a benefit.
 
 
 #### Remember
 
-- The rule only applies to certain cases and certain benefits.
-- CalFresh, WIC and tax credits aren't considered under the current rule.
-- Confirm your case with an attorney or an accredited representative.
+- The rule changed on September 18, 2026: each case is now reviewed as a whole.
+- What you received before that date is reviewed under the previous rule.
+- Before you apply for or stop a benefit, confirm your case with an attorney or an accredited representative.
 
 
 
@@ -2949,66 +2949,59 @@ Rosa calls a community organization to confirm it. They tell her the same thing 
 
 #### Who it doesn't apply to
 
-The rule doesn't apply to many cases and categories. For example, it doesn't apply to permanent residents applying for citizenship, or to refugees or asylees.
+Public charge doesn't apply to many cases and categories. For example, it doesn't apply to permanent residents applying for citizenship, or to refugees or asylees, among others.
 
-That's why the right question isn't "will applying for help affect me?" but "does the rule apply to my case?"
+That's why the first question is "does the rule apply to my case?"
 
 
 
 #### Health care in California
 
-In recent years Medi-Cal expanded coverage for people without regular immigration status. The 2025 state budget approved changes for adults, like pausing new enrollment starting in 2026, and other adjustments.
+Since January 1, 2026, adults 19 and older without regular immigration status can no longer enroll in full Medi-Cal for the first time. People who already have it can keep it if they renew on time. Children and pregnant people have different rules.
 
-Confirm the current rules before you decide. Children have different rules.
+Other changes are scheduled for adults, like no longer covering routine dental care (emergency dental stays) and a monthly fee. Their dates and amounts have already changed more than once: confirm them on the Medi-Cal (DHCS) website or with your county.
 
-> **Good to know:** even with changes to Medi-Cal, you have the right to receive medical care. Community health centers (called FQHCs) serve anyone regardless of immigration status and charge based on your income. You can find one at [findahealthcenter.hrsa.gov](https://findahealthcenter.hrsa.gov).
+> **Extra fact:** even with changes to Medi-Cal, you can get medical care. Community health centers (called FQHCs) serve anyone regardless of immigration status and charge based on your income. You can find one at [findahealthcenter.hrsa.gov](https://findahealthcenter.hrsa.gov).
 
 
 
 #### Where to confirm your case
 
-- An immigration attorney or an accredited representative of the Department of Justice (DOJ).
-- Organizations like *Protecting Immigrant Families*, with up-to-date materials.
-- Your county's social services office, for each program's requirements.
+- An immigration attorney or a Department of Justice (DOJ) accredited representative.
+- Organizations like *Protecting Immigrant Families*, which post alerts when the rule changes.
+- Your county social services office, for each program's requirements.
 
 
 
-#### Watch out for "paperwork helpers"
+#### Watch out for "notarios"
 
-Nobody who isn't an attorney or an accredited representative can give you immigration advice. A notary public can't do it (you'll see it in M4 U02).
+Only an attorney or an accredited representative can give you immigration advice. A notary public can't (you'll see this in M4 U02).
 
 This course doesn't give immigration advice either: it helps you ask the right questions.
 
 
 
-#### Common programs and how they're considered
+#### Your family's benefits
 
-| Program | Considered under the current rule? |
-|---|---|
-| CalFresh (food) | No |
-| WIC | No |
-| Medi-Cal | No, except long-term care |
-| School meals | No |
-| Tax credits (CalEITC, YCTC) | No |
-| SSI or cash assistance | Yes |
+In many families, citizen children receive benefits in their own right. The 2026 guidance doesn't explain in detail how benefits received by other household members are taken into account.
 
-This table sums up the rule in effect since 2022. Always check whether it has changed.
+Bring this question to your appointment: "Do the benefits my children receive count in my case?" Don't take away a benefit your family needs without asking first.
 
 
 
 #### How to ask without exposing yourself
 
-You can ask general questions without giving your name or your situation. For example: "Is this program considered for public charge?"
+You can ask general questions without giving your name or your situation. For example: "How is this program taken into account for public charge?"
 
 Legal aid organizations and accredited representatives keep what you tell them confidential.
 
 
 
-#### Check the rule every year
+#### Check the date of what you read
 
-The rules on public charge and on state programs can change.
+The public charge rule changed in 2019, in 2022 and in 2026. Many guides online still explain the 2022 rule.
 
-Set a reminder on your phone to check every year, or before you start an immigration case, whether anything changed. Legal aid organizations post notices when something changes.
+Before you decide, check the date of the information and ask whether it's still current. Legal aid organizations post alerts when something changes.
 
 
 
@@ -3017,78 +3010,79 @@ Set a reminder on your phone to check every year, or before you start an immigra
 
 **Case 1. Food for Daniela's son**
 
-Daniela's son was born in California. She was afraid to ask for help with food.
-- *What does a community organization explain to her?* That her son's benefits don't count as hers and that CalFresh isn't considered under the current rule.
-- *What does she do next?* She confirms her case with an accredited representative before she decides.
+Daniela's son was born in California. She's thinking about applying for food help and wants to start her residency application next year.
+- *What does she do before deciding?* She brings her questions to an accredited representative or a legal aid organization, because since 2026 each case is reviewed as a whole.
+- *What does she ask?* Whether the rule applies to her case and how the benefits she and her son would receive are taken into account.
 
 
 **Case 2. The neighbor's rumor**
 
-A neighbor tells Alex that "any benefit takes away your green card."
-- *What does Alex do?* Looks for a reliable source before deciding, like Protecting Immigrant Families or an accredited representative.
+A neighbor tells Alex that "any benefit will cost you your green card."
+- *What does Alex do?* Alex looks for a reliable, recently dated source before deciding, like an accredited representative or a legal aid organization.
 
 
 **Case 3. Mar's question**
 
-Mar needs medical care and doesn't know whether she can enroll in Medi-Cal this year.
-- *What options does she have while she confirms?* Go to a community health center that charges based on her income.
+Mar is 35, needs medical care and doesn't know if she can enroll in Medi-Cal this year.
+- *What options does she have while she confirms?* Going to a community health center that charges based on income.
 
 
 #### Common mistakes
 
 | Mistake | What happens | What to do |
 |---|---|---|
-| Deciding based on a rumor | You stop getting benefits you're entitled to | Confirm with a reliable source |
-| Asking a notario or "helper" for advice | You get false information and pay too much | Look for an attorney or an accredited representative |
-| Believing a proposal is already a rule | You decide with information that doesn't apply | Check whether the rule is final and in effect |
-| Not getting care out of fear | Your health gets worse | Use a community health center |
+| Deciding based on a rumor | You drop a benefit you need or take a risk without knowing it | Confirm with a reliable source |
+| Asking a notario or "gestor" for advice | You get false information and overpay | Find an attorney or an accredited representative |
+| Using a guide with an old date | You decide with a rule that already changed | Check the date and ask whether it's still current |
+| Skipping care out of fear | Your health gets worse | Use a community health center |
 
 ### Practice
 
 #### Interactive activity
 
-**What would you do? (H5P):** three situations from this lesson with Daniela, Alex and Mar. Choose the best decision in each one; if you miss, you can try again. It earns experience points.
+**What would you do? (H5P):** three situations from this lesson with Daniela, Alex and Mar. Choose the best decision in each; if you miss, you can try again. It earns experience points.
 
 
 
 #### Quiz
 
 1. Does the public charge rule apply to all immigration cases? a) Yes · b) No · c) Only to citizenship
-2. Under the current rule, is CalFresh considered for public charge? a) No · b) Yes · c) Yes, if the children use it
-3. Who can give you immigration advice? a) A notario · b) An immigration consultant with an office and ads · c) An attorney or a DOJ-accredited representative
-**Answers:** 1-b: only certain cases. 2-a: it isn't considered. 3-c: only they are authorized.
+2. Since September 18, 2026, how is public charge reviewed? a) Case by case, looking at the whole case · b) With a fixed list of benefits that don't count · c) It's no longer reviewed
+3. Who can give you immigration advice? a) A notary · b) An immigration consultant with an office and ads · c) An attorney or a DOJ-accredited representative
+**Answers:** 1-b: only certain cases. 2-a: each case is reviewed as a whole. 3-c: only they are authorized.
 
 
 
 #### Put it into practice
 
-Write three questions to bring to a legal aid organization before applying for a benefit for your family.
-**Answer:** Does the public charge rule apply to my case? Is this benefit considered? Do my children's benefits affect my case?
+Write three questions to bring to a legal aid organization before you apply for or stop a benefit for your family.
+**Answer:** Does the public charge rule apply to my case? How is this benefit taken into account since September 18, 2026? Do my children's benefits count in my case?
 
 
 
 #### Your plan
 
-Write down what help your household needs, who might qualify and where you'll confirm your case.
+Write down what help your household needs, who would receive it and where you'll confirm your case before deciding.
 
 
 
 ### Learn more
 
-- **Public charge: does it apply to me?** (Protecting Immigrant Families · English and Spanish): https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/ — **What to look for:** the guide that explains which benefits count and who the rule applies to.
-- **Medi-Cal** (California DHCS · English and Spanish): https://www.dhcs.ca.gov — **What to look for:** the eligibility section and the notices about changes for adults in 2026.
-- **Find a health center** (HRSA · English and Spanish): https://findahealthcenter.hrsa.gov — **What to look for:** type your ZIP code to see nearby clinics that charge based on your income.
+- **USCIS public charge guidance** (USCIS · English): https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination — **What to look for:** the September 18, 2026 date and how benefits received before and after are treated.
+- **Public charge** (Protecting Immigrant Families · English and Spanish): https://pifcoalition.org — **What to look for:** the latest alerts on the 2026 rule and the legal aid directory.
+- **Medi-Cal** (California DHCS · English and Spanish): https://www.dhcs.ca.gov — **What to look for:** notices about changes for adults without regular immigration status and their dates.
+- **Community health center finder** (HRSA · English and Spanish): https://findahealthcenter.hrsa.gov — **What to look for:** enter your ZIP code to see nearby clinics that charge based on income.
 
 ### Key words
 
-- *Public charge:* a review in certain immigration cases of dependence on government benefits.
+- *Public charge:* a review in certain immigration cases about possible dependence on government benefits.
 - *Accredited representative:* a person authorized by the DOJ to give immigration advice at a recognized organization.
 - *CalFresh:* food assistance in California.
 - *FQHC:* a community health center that serves people regardless of immigration status.
 
 ### Sources
 
-[R33] USCIS, public charge · [R34] Protecting Immigrant Families · [R35] DHCS, Medi-Cal · HRSA, health centers.
+[R33] USCIS, public charge (guidance of August 18, 2026; accessed October 7, 2026) · [R34] Protecting Immigrant Families · [R35] DHCS, Medi-Cal (accessed October 7, 2026) · HRSA, health centers.
 
 ---
 

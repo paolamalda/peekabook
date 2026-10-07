@@ -1,6 +1,6 @@
 # Calendario general de actividades (sugerido) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Curso a tu ritmo: las fechas son una guía de unas 2 horas por semana. Con fecha de inicio el 2 de noviembre de 2026:
 

@@ -88,6 +88,14 @@ def items(v, negocio=False):
                   T(["Menos de $2,500", "De $2,500 a $5,000", "De $5,000 a $8,000", "Más de $8,000", "Prefiero no decir"],
                     ["Less than $2,500", "$2,500 to $5,000", "$5,000 to $8,000", "More than $8,000", "Prefer not to say"]))
         D.append(("D2", "perfil", T("Ingreso aproximado de tu hogar al mes (opcional)", "Your household's approximate monthly income (optional)"), [(None, x) for x in rangos]))
+    # Origen de la persona (pedido de Marketing, 7 oct 2026): opcional, una sola respuesta, mismas opciones y orden en todos los cursos
+    D.append(("D3", "perfil", T("¿Cómo te enteraste de este programa? (opcional)", "How did you hear about this program? (optional)"),
+              [(None, x) for x in T(["Facebook", "Instagram", "TikTok", "Un mensaje de WhatsApp", "Me lo recomendó un familiar, amigo o conocido",
+                                     "Una organización o grupo de mi comunidad", "Un consulado", "Mi escuela", "Mi trabajo",
+                                     "Buscando en internet (Google u otro)", "El sitio desarrollatalento.com", "Otro"],
+                                    ["Facebook", "Instagram", "TikTok", "A WhatsApp message", "A family member, friend or acquaintance recommended it",
+                                     "An organization or group in my community", "A consulate", "My school", "My work",
+                                     "Searching online (Google or other)", "The desarrollatalento.com website", "Other"])]))
     F = [("F1", "programa", T("¿Qué tanto te ayudó el programa a manejar mejor tu dinero?", "How much did the program help you manage your money better?"),
           [(None, T("Mucho", "A lot")), (None, T("Algo", "Some")), (None, T("Poco", "A little")), (None, T("Nada", "Not at all"))]),
          ("F2", "programa", T("¿Qué hiciste gracias al programa? (puedes marcar varias)", "What did you do thanks to the program? (check all that apply)"),

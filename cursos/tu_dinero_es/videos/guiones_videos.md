@@ -94,7 +94,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 3 | 18–25 | Una lupa en grande; Antes de decidir si recortas un gasto, anota cuatro cosas: cuánto cuesta, cada cuánto ocurre, para qué te sirve y si puedes cambiarlo. | Antes de decidir si recortas un gasto, anota cuatro cosas: cuánto cuesta, cada cuánto ocurre, para… |
 | 4 | 25–32 | Una casa en grande; Renta, transporte, cuidado de los hijos y salud suelen ser la mayor parte del presupuesto. | Renta, transporte, cuidado de los hijos y salud suelen ser la mayor parte del presupuesto. |
 | 5 | 32–38 | ✕ magenta sobre la escena: Recortar solo los gastos pequeños → El ahorro es mínimo y te frustras. | ✕ Recortar solo los gastos pequeños |
-| 6 | 38–45 | Rubén lo resuelve: Mar revisa su estado de cuenta con un marcador. | Mar revisa su estado de cuenta con un marcador. |
+| 6 | 38–45 | Rubén lo resuelve: Mar revisa su estado de cuenta con un marcador y encuentra tres cosas. | Mar revisa su estado de cuenta con un marcador y encuentra tres cosas. |
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Ajusta donde el cambio es real y sostenible, no donde te hace sentir culpa. |
 
 ### M1 U07 · ¿Por qué me falta dinero si este mes gano suficiente?
@@ -154,7 +154,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 46–51 | ✓ azul marino grande y la idea clave. | Si nadie te retiene impuestos, aparta dinero de cada cobro desde el primer día. |
 
 ### M1 U11 · ¿Qué apoyos fiscales existen si declaro con ITIN?
-**Debe entenderse:** Conocer cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin costo para declarar. · **Personaje:** Mar
+**Debe entenderse:** Explicar cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin costo para declarar. · **Personaje:** Mar
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -165,7 +165,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 4 | 25–32 | Una lista que se va palomeando: Averigua si necesitas ITIN: si debes declarar y no puedes…; Revisa qué créditos existen para tu situación este año.; Busca ayuda sin costo y certificada para preparar tu…. | Tres pasos |
 | 5 | 32–38 | ✕ magenta sobre la escena: Creer que con ITIN no hay apoyos → Dejas dinero sin cobrar. | ✕ Creer que con ITIN no hay apoyos |
 | 6 | 38–45 | Mar lo resuelve: Rubén trabaja y declara con ITIN. | Rubén trabaja y declara con ITIN. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Conocer cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda sin… |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Explicar cómo se obtiene el ITIN, qué créditos pueden aplicar a tu hogar y dónde conseguir ayuda… |
 
 ### M1 U12 · ¿Cómo elijo a alguien que me ayude con impuestos?
 **Debe entenderse:** Comparar servicios de preparación de impuestos y reconocer prácticas peligrosas. · **Personaje:** Rubén
@@ -182,18 +182,18 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Nunca firmes algo que no has leído. Tú eres responsable de lo que dice tu declaración. |
 
 ### M1 U13 · ¿Qué debo saber antes de pedir un apoyo público?
-**Debe entenderse:** Entender qué es la "carga pública", qué apoyos existen y dónde confirmar tu caso antes de decidir. · **Personaje:** Daniela
+**Debe entenderse:** Explicar qué es la "carga pública", qué cambió en 2026 y por qué conviene confirmar tu caso con una persona autorizada antes de pedir o dejar un apoyo. · **Personaje:** Daniela
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
 | 0 | 0–3 | Fondo azul marino; un signo de pregunta y el título. | ¿Qué debo saber antes de pedir un apoyo público? |
 | 1 | 3–10 | Daniela en su día a día: Daniela necesita ayuda para comprar comida para su hijo, pero una vecina le dijo que pedir cualquier apoyo podía afectarla. | Daniela necesita ayuda para comprar comida para su hijo, pero una vecina le dijo que pedir cualquier apoyo podía… |
-| 2 | 10–17 | Un signo de pregunta en grande; Muchas familias no piden apoyos a los que tienen derecho por miedo a que les afecte en un trámite migratorio. | Muchas familias no piden apoyos a los que tienen derecho por miedo a que les afecte en un trámite… |
+| 2 | 10–17 | Un signo de pregunta en grande; Muchas familias no piden apoyos por miedo a que les afecte en un trámite migratorio. | Muchas familias no piden apoyos por miedo a que les afecte en un trámite migratorio. |
 | 3 | 17–24 | Una balanza en grande; La carga pública es una evaluación que se hace en algunos trámites migratorios, principalmente en ciertas solicitudes de residencia… | La carga pública es una evaluación que se hace en algunos trámites migratorios, principalmente en… |
-| 4 | 24–32 | Aparecen 3 tarjetas, una por una: Sí se considera, No se considera, Apoyos de tu familia. | Qué considera la regla vigente desde 2022 |
-| 5 | 32–38 | ✕ magenta sobre la escena: Decidir por un rumor → Dejas de recibir apoyos a los que tienes derecho. | ✕ Decidir por un rumor |
+| 4 | 24–32 | Aparecen 3 tarjetas, una por una: La regla cambió, Caso por caso, Lo que recibiste antes. | Qué cambió el 18 de septiembre de 2026 |
+| 5 | 32–38 | ✕ magenta sobre la escena: Decidir por un rumor → Dejas un apoyo que necesitas o te expones sin saberlo. | ✕ Decidir por un rumor |
 | 6 | 38–45 | Daniela lo resuelve: Rosa vive en Fresno con su hija y sus nietos. | Rosa vive en Fresno con su hija y sus nietos. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Las reglas pueden cambiar. Una propuesta no es regla hasta que se publica como final y entra en vigor. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Las reglas cambian. Revisa siempre la fecha de la información que lees y pregunta antes de decidir. |
 
 ### M1 U14 · ¿Cómo convierto lo aprendido en algo que sí puedo hacer?
 **Debe entenderse:** Armar un plan de 90 días con acciones concretas, fechas y una alternativa si algo cambia. · **Personaje:** Rubén
@@ -206,7 +206,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 3 | 17–25 | Aparecen 3 tarjetas, una por una: Acción, Fecha, Evidencia. | Una meta que se puede comprobar |
 | 4 | 25–32 | Una lista que se va palomeando: Elige un problema concreto, por ejemplo: "me falta dinero…; Escribe una acción pequeña y una fecha.; Guarda una muestra de lo que hiciste.. | Tres pasos |
 | 5 | 32–38 | ✕ magenta sobre la escena: Escribir metas sin fecha → Nunca empiezan. | ✕ Escribir metas sin fecha |
-| 6 | 38–45 | Rubén lo resuelve: Daniela escribió su plan de 90 días con solo tres acciones: anotar sus cobros cada noche, separar sobres para hogar, negocio e impuestos, y pedir cita en VITA… | Daniela escribió su plan de 90 días con solo tres acciones: anotar sus cobros cada noche, separar… |
+| 6 | 38–45 | Rubén lo resuelve: Daniela escribió su plan de 90 días con solo tres acciones. | Daniela escribió su plan de 90 días con solo tres acciones. |
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Un plan que se ajusta es un plan que funciona. |
 
 ## Bancos y envíos a casa
@@ -233,14 +233,14 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 0 | 0–3 | Fondo azul marino; un signo de pregunta y el título. | ¿Una app de dinero es siempre un banco? |
 | 1 | 3–10 | Daniela en su día a día: Daniela guarda sus ahorros en una app que le paga buenos intereses. | Daniela guarda sus ahorros en una app que le paga buenos intereses. |
 | 2 | 10–17 | Un signo de pregunta en grande; "Digital" describe cómo usas un servicio, no qué licencia tiene la empresa. | "Digital" describe cómo usas un servicio, no qué licencia tiene la empresa. |
-| 3 | 17–24 | Un escudo en grande; En un banco asegurado por la FDIC, tu dinero está protegido hasta 250,000 dólares por persona, por banco y por tipo de cuenta, si el banco… | En un banco asegurado por la FDIC, tu dinero está protegido hasta 250,000 dólares por persona, por… |
+| 3 | 17–24 | Un escudo en grande; En un banco asegurado por la FDIC, tu dinero está protegido si el banco quiebra. | En un banco asegurado por la FDIC, tu dinero está protegido si el banco quiebra. |
 | 4 | 24–32 | Aparecen 3 tarjetas, una por una: Depósitos en banco o cooperativa asegurados, Inversiones, Saldo en una app. | ¿Está asegurado? |
 | 5 | 32–38 | ✕ magenta sobre la escena: Creer que toda app es un banco → Tu dinero puede no estar asegurado. | ✕ Creer que toda app es un banco |
 | 6 | 38–45 | Daniela lo resuelve: Rubén cobra por nómina y casi todo lo paga con su teléfono. | Rubén cobra por nómina y casi todo lo paga con su teléfono. |
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Compara por cómo usas el dinero, no por la etiqueta de la empresa. |
 
 ### M2 U03 · ¿Qué identificación me sirve para trámites financieros?
-**Debe entenderse:** Conocer qué documentos suelen aceptar bancos, cooperativas y remesadoras, y cómo tramitar los que te faltan sin riesgos. · **Personaje:** Rubén
+**Debe entenderse:** Identificar qué documentos suelen aceptar bancos, cooperativas y remesadoras, y cómo tramitar los que te faltan sin riesgos. · **Personaje:** Rubén
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -360,7 +360,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 1 | 3–10 | Mar en su día a día: Mar recibió una llamada: era la voz de su sobrino, llorando, pidiendo 500 dólares por un accidente. | Mar recibió una llamada: era la voz de su sobrino, llorando, pidiendo 500 dólares por un accidente. |
 | 2 | 10–17 | Dos globos de conversación en grande; Puedes decir: "Puedo enviar 50 el viernes. | Puedes decir: "Puedo enviar 50 el viernes. |
 | 3 | 17–24 | Una lista que se va palomeando: Confirma el monto y la fecha que sí puedes.; Explica qué falta confirmar.; Acuerda cuándo volverán a hablar.. | Tres pasos para hablar de dinero |
-| 4 | 24–31 | Un apretón de manos en grande; Un acuerdo familiar es lo que tú y tu familia entienden y aceptan sobre el apoyo: cuánto, cuándo, para qué y qué hacer en una emergencia. | Un acuerdo familiar es lo que tú y tu familia entienden y aceptan sobre el apoyo: cuánto, cuándo… |
+| 4 | 24–31 | Un apretón de manos en grande; Un acuerdo familiar es lo que tú y tu familia entienden y aceptan sobre el apoyo. | Un acuerdo familiar es lo que tú y tu familia entienden y aceptan sobre el apoyo. |
 | 5 | 31–37 | ✕ magenta sobre la escena: Prometer lo que no es seguro → Te endeudas para cumplir. | ✕ Prometer lo que no es seguro |
 | 6 | 37–42 | ✓ azul marino grande y la idea clave. | La prisa y el secreto ("no le digas a nadie") son señales de estafa. |
 
@@ -389,7 +389,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 3 | 17–24 | Una lista que se va palomeando: Dibuja de dónde sale el dinero: tu cobro.; Escribe cada paso hasta que llega a tu familia.; Anota el costo, la fecha y el responsable de cada paso.. | Tres pasos para dibujarlo |
 | 4 | 24–31 | Una ilustración del tema en grande; - Una cuenta que no acepta tus documentos no es una opción lista. | - Una cuenta que no acepta tus documentos no es una opción lista. |
 | 5 | 31–37 | ✕ magenta sobre la escena: Comparar cada pieza por separado → Una pieza barata encarece el total. | ✕ Comparar cada pieza por separado |
-| 6 | 37–44 | Alex lo resuelve: Daniela dibujó su recorrido: cobra por horas en su cuenta, recibe pedidos por Zelle y en efectivo, y enviaba a su hermana pagando con tarjeta de crédito. | Daniela dibujó su recorrido: cobra por horas en su cuenta, recibe pedidos por Zelle y en efectivo… |
+| 6 | 37–44 | Alex lo resuelve: Daniela dibujó su recorrido. | Daniela dibujó su recorrido. |
 | 7 | 44–49 | ✓ azul marino grande y la idea clave. | Compara el recorrido completo del dinero, no cada pieza por separado. |
 
 ## Crédito sin sustos
@@ -548,7 +548,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Un adelanto no es dinero extra, es tu mismo pago antes; suma propinas y comisiones del año y pregunta primero a tu empleador. |
 
 ### M3 U12 · ¿Empeñar es una buena salida?
-**Debe entenderse:** Entender cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas. · **Personaje:** Mar
+**Debe entenderse:** Explicar cómo funciona una casa de empeño en EE. UU., cuánto cuesta y qué pasa si no pagas. · **Personaje:** Mar
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -559,7 +559,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 4 | 25–32 | Una balanza en grande; No revisan tu crédito y, si no pagas, no te persiguen ni te reportan: pierdes la prenda y ya. | No revisan tu crédito y, si no pagas, no te persiguen ni te reportan: pierdes la prenda y ya. |
 | 5 | 32–38 | ✕ magenta sobre la escena: Firmar sin preguntar los cargos → Pagas de más. | ✕ Firmar sin preguntar los cargos |
 | 6 | 38–45 | Mar lo resuelve: Mar comparó: el taller le aceptaba pagar la reparación en dos partes sin cargo. | Mar comparó: el taller le aceptaba pagar la reparación en dos partes sin cargo. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda; pide los cargos por escrito, guarda tu boleta y anota la fecha límite. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Empeñar no afecta tu crédito, pero es caro y puedes perder tu prenda. Pide los cargos por escrito, guarda tu boleta y anota la fecha límite. |
 
 ## Protege lo tuyo
 
@@ -685,7 +685,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 3 | 17–24 | Una lista que se va palomeando: Anota qué ingreso podría faltar.; Anota los gastos nuevos y los que siguen igual.; Revisa el dinero disponible y la ayuda que ya está…. | Tres cuentas rápidas |
 | 4 | 24–32 | Aparecen 4 tarjetas, una por una: Contactos, Documentos, Inventario, Forma de pagar. | Qué preparar |
 | 5 | 32–38 | ✕ magenta sobre la escena: Guardar todo solo en el teléfono → Pierdes el acceso a todo. | ✕ Guardar todo solo en el teléfono |
-| 6 | 38–45 | Rosa lo resuelve: Después del incendio, Rosa preparó una mochila con copias de sus documentos en una bolsa sellada, una lista de contactos en papel, medicinas para tres días y… | Después del incendio, Rosa preparó una mochila con copias de sus documentos en una bolsa sellada… |
+| 6 | 38–45 | Rosa lo resuelve: Después del incendio, Rosa preparó una mochila. | Después del incendio, Rosa preparó una mochila. |
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | No cuentes ayuda que no está confirmada. Un pago del seguro o del gobierno solo es un recurso cuando ya te lo confirmaron. |
 
 ### M4 U10 · ¿Qué pasa con mi familia y mi dinero si no puedo estar?
@@ -716,18 +716,18 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Un plan que solo funciona para una emergencia necesita ajustes. |
 
 ### M4 U12 · ¿Cómo aseguro que la manutención llegue a mis hijos?
-**Debe entenderse:** Saber qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México. · **Personaje:** Daniela
+**Debe entenderse:** Identificar qué es la manutención de los hijos (child support) en EE. UU., cómo pedirla a través de la agencia de tu estado, cómo pagarla con comprobante y qué hacer si el otro padre vive en México. · **Personaje:** Daniela
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
 | 0 | 0–3 | Fondo azul marino; tarjetas y el título. | ¿Cómo aseguro que la manutención llegue a mis hijos? |
 | 1 | 3–10 | Daniela en su día a día: Daniela cría sola a su hijo en San Diego. | Daniela cría sola a su hijo en San Diego. |
 | 2 | 10–18 | Aparecen 4 tarjetas, una por una: Es un derecho de tus hijos, Agencia de manutención de tu estado, Pago con comprobante, Si el otro padre vive en México. | Lo básico |
-| 3 | 18–25 | Una balanza en grande; La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la paternidad, fijar un monto con la fórmula… | La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la… |
+| 3 | 18–25 | Una balanza en grande; La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la paternidad. | La agencia de manutención de hijos de tu estado (child support) puede ayudarte a establecer la… |
 | 4 | 25–32 | Una ilustración del tema en grande; Paga a través de la agencia o con descuento del salario, y guarda comprobantes. | Paga a través de la agencia o con descuento del salario, y guarda comprobantes. |
 | 5 | 32–38 | ✕ magenta sobre la escena: Creer que no puedes pedirla → Tus hijos pierden su derecho. | ✕ Creer que no puedes pedirla |
 | 6 | 38–45 | Daniela lo resuelve: Daniela llamó a la agencia de su condado. | Daniela llamó a la agencia de su condado. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | La manutención es un derecho de tus hijos; la agencia de tu estado ayuda a pedirla y registrar los pagos, y quien paga debe hacerlo con comprobante. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | La manutención es un derecho de tus hijos. La agencia de tu estado ayuda a pedirla y a registrar los pagos. Quien paga debe hacerlo con comprobante. |
 
 ## Tu futuro
 
@@ -774,7 +774,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | Nadie puede garantizarte un rendimiento alto sin riesgo. |
 
 ### M5 U04 · ¿Rentar o comprar? ¿Qué derechos tengo como inquilino?
-**Debe entenderse:** Conocer tus derechos básicos como inquilino en California y los costos reales de comprar una vivienda, incluso con ITIN. · **Personaje:** Andrés
+**Debe entenderse:** Identificar tus derechos básicos como inquilino en California y los costos reales de comprar una vivienda, incluso con ITIN. · **Personaje:** Andrés
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -838,10 +838,10 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 1 | 3–10 | Rubén en su día a día: Rubén tiene dos hijos en Stockton. | Rubén tiene dos hijos en Stockton. |
 | 2 | 10–17 | Un corazón en grande; Preparar documentos es un acto de cuidado. | Preparar documentos es un acto de cuidado. |
 | 3 | 17–25 | Aparecen 4 tarjetas, una por una: Beneficiarios, Plan para tus hijos, Poder notarial, Carpeta familiar. | Lo básico |
-| 4 | 25–32 | Una ilustración del tema en grande; En California, la declaración jurada de autorización del cuidador permite que un adulto de confianza inscriba a tus hijos en la escuela y… | En California, la declaración jurada de autorización del cuidador permite que un adulto de… |
+| 4 | 25–32 | Una ilustración del tema en grande; En California existe la declaración jurada de autorización del cuidador. | En California existe la declaración jurada de autorización del cuidador. |
 | 5 | 32–38 | ✕ magenta sobre la escena: No tener nada escrito → Tu familia no sabe qué hacer. | ✕ No tener nada escrito |
 | 6 | 38–45 | Rubén lo resuelve: Rubén habló con su hermana, que acepta cuidar a sus hijos. | Rubén habló con su hermana, que acepta cuidar a sus hijos. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Si te preocupa tu situación migratoria, un abogado o un representante acreditado por el DOJ te puede orientar sobre un plan de preparación familiar. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | Si te preocupa tu situación migratoria, busca orientación sobre un plan de preparación familiar. Te puede orientar un abogado o un representante acreditado por el DOJ. |
 
 ### M5 U09 · ¿Cómo hago un plan cuando el ingreso cambia cada mes?
 **Debe entenderse:** Hacer un presupuesto base y un plan para meses buenos y malos cuando tu ingreso varía. · **Personaje:** Andrés
@@ -886,7 +886,7 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 7 | 45–50 | ✓ azul marino grande y la idea clave. | No se trata de hacerlo todo. Se trata de dar el siguiente paso, con una meta con nombre, un testigo y un recordatorio. |
 
 ### M5 U12 · ¿Qué pasa si heredo o dejo algo entre dos países?
-**Debe entenderse:** Saber cómo pasar tus cuentas y tu casa sin corte en Estados Unidos, qué impuestos hay (y cuáles no) al heredar aquí y en México, y qué avisar al IRS si heredas algo de México. · **Personaje:** Alex
+**Debe entenderse:** Explicar cómo pasar tus cuentas y tu casa sin corte en Estados Unidos, qué impuestos hay (y cuáles no) al heredar aquí y en México, y qué avisar al IRS si heredas algo de México. · **Personaje:** Alex
 
 | # | Seg. | Qué se ve | Texto en pantalla |
 |---|---|---|---|
@@ -897,4 +897,4 @@ Un video corto por lección: «Lo esencial» animado, con texto breve en pantall
 | 4 | 25–32 | Una balanza en grande; Quien hereda no paga impuesto federal por recibir la herencia. | Quien hereda no paga impuesto federal por recibir la herencia. |
 | 5 | 32–38 | ✕ magenta sobre la escena: Creer que heredar paga 40% → Miedo sin razón. | ✕ Creer que heredar paga 40% |
 | 6 | 38–45 | Alex lo resuelve: Alex habló con su mamá: ella hará su testamento con un notario en Michoacán. | Alex habló con su mamá: ella hará su testamento con un notario en Michoacán. |
-| 7 | 45–50 | ✓ azul marino grande y la idea clave. | En Estados Unidos, beneficiarios POD y TOD y la escritura de traspaso evitan la corte; heredar no paga impuesto federal salvo herencias enormes, pero lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta. |
+| 7 | 45–50 | ✓ azul marino grande y la idea clave. | En Estados Unidos, los beneficiarios POD y TOD y la escritura de traspaso evitan la corte. Heredar no paga impuesto federal, salvo herencias enormes. Lo heredado del extranjero de más de 100,000 dólares se reporta en el Formulario 3520. En México, heredar no paga ISR, pero escriturar sí cuesta. |

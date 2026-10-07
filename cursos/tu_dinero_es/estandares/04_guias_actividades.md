@@ -1,6 +1,6 @@
 # Guías de actividades de aprendizaje por módulo (EC0366) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 ## Módulo 1. Tu dinero en orden
 

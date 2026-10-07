@@ -63,8 +63,8 @@ CASOS = {
  ("Se niega: el reembolso debe llegar a su cuenta.", "Acepta, porque así el trámite es más rápido.", "Acepta, pero pide que le den recibo de la oficina."),
 ],
 "M1 U13": [
- ("Que los apoyos de su hijo no se cuentan como suyos.", "Que pedir comida siempre afecta a toda la familia.", "Que su hijo no tiene derecho a ningún apoyo público."),
- ("Busca una fuente confiable antes de decidir.", "Le cree y deja de pedir cualquier apoyo.", "Pregunta en un grupo de redes sociales qué hicieron otras personas."),
+ ("Llevar sus preguntas a un representante acreditado antes de decidir.", "Pedir el apoyo sin preguntar, porque la comida nunca cuenta.", "Dejar de pedir cualquier apoyo para su hijo por si acaso."),
+ ("Busca una fuente confiable y con fecha reciente antes de decidir.", "Le cree y deja de pedir cualquier apoyo.", "Pregunta en un grupo de redes sociales qué hicieron otras personas."),
  ("Un centro de salud comunitario que cobra según ingresos.", "Esperar a que empeore para ir directo a urgencias.", "No atenderse hasta que tenga un seguro médico propio."),
 ],
 "M1 U14": [

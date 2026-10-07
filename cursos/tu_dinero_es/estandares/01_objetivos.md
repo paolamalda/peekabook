@@ -1,6 +1,6 @@
 # Objetivos de aprendizaje · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Redactados con los cinco elementos del EC0217: **persona** (la persona participante), **conducta** (verbo observable), **contenido**, **condición** (a partir de un caso y los ejercicios) y **nivel** (aciertos o aprobación). El texto amable que ve la persona en cada lección es la versión corta del mismo objetivo.
 
@@ -28,7 +28,7 @@ Al terminar el programa, la persona participante será capaz de tomar decisiones
 | ¿Todo lo que cobro por mi cuenta es para gastar? | Al terminar la lección, la persona participante será capaz de organizar sus registros según su tipo de ingreso: salario, trabajo por su cuenta o ambos, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 | ¿Qué apoyos fiscales existen si declaro con ITIN? | Al terminar la lección, la persona participante será capaz de explicar cómo se obtiene el ITIN, qué créditos pueden aplicar a su hogar y dónde conseguir ayuda sin costo para declarar, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 | ¿Cómo elijo a alguien que me ayude con impuestos? | Al terminar la lección, la persona participante será capaz de comparar servicios de preparación de impuestos y reconocer prácticas peligrosas, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | análisis |
-| ¿Qué debo saber antes de pedir un apoyo público? | Al terminar la lección, la persona participante será capaz de explicar qué es la "carga pública", qué apoyos existen y dónde confirmar su caso antes de decidir, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
+| ¿Qué debo saber antes de pedir un apoyo público? | Al terminar la lección, la persona participante será capaz de explicar qué es la "carga pública", qué cambió en 2026 y por qué conviene confirmar su caso con una persona autorizada antes de pedir o dejar un apoyo, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | cognoscitiva | comprensión |
 | ¿Cómo convierto lo aprendido en algo que sí puedo hacer? | Al terminar la lección, la persona participante será capaz de armar un plan de 90 días con acciones concretas, fechas y una alternativa si algo cambia, a partir de un caso de la vida diaria y de los ejercicios de la lección, con al menos 2 de 3 respuestas correctas en «Repasa». | psicomotriz | manipulación |
 
 ### 2. Bancos y envíos a casa

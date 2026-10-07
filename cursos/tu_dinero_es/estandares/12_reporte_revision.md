@@ -1,6 +1,6 @@
 # Reporte de revisión del funcionamiento del curso en la plataforma (EC0366) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 | Dato | |
 |---|---|
@@ -28,7 +28,7 @@ Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2
 | Contenido | | | |
 | Funcionalidad en la plataforma | | | |
 
-## Enlaces externos del curso (96)
+## Enlaces externos del curso (97)
 
 Se prueban todos antes de liberar el curso y cada 6 meses (`python3 herramientas_cursos/estandares.py --enlaces cursos/<curso>`).
 
@@ -60,76 +60,77 @@ Se prueban todos antes de liberar el curso y cada 6 meses (`python3 herramientas
 | 24 | M1 | https://www.ctec.org | ☐ | |
 | 25 | M1 | https://irs.treasury.gov/rpo/rpo.jsf | ☐ | |
 | 26 | M1 | https://findahealthcenter.hrsa.gov | ☐ | |
-| 27 | M1 | https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/ | ☐ | |
-| 28 | M1 | https://www.dhcs.ca.gov | ☐ | |
-| 29 | M2 | https://www.consumerfinance.gov/es/enviar-una-queja/ | ☐ | |
-| 30 | M2 | https://dfpi.ca.gov | ☐ | |
-| 31 | M2 | https://www.fdic.gov/resources/deposit-insurance | ☐ | |
-| 32 | M2 | https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/ | ☐ | |
-| 33 | M2 | https://citas.sre.gob.mx | ☐ | |
-| 34 | M2 | https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf | ☐ | |
-| 35 | M2 | https://joinbankon.org | ☐ | |
-| 36 | M2 | https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/ | ☐ | |
-| 37 | M2 | https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/ | ☐ | |
-| 38 | M2 | https://www.condusef.gob.mx/?p=remesas | ☐ | |
-| 39 | M2 | https://remittanceprices.worldbank.org | ☐ | |
-| 40 | M2 | https://www.irs.gov | ☐ | |
-| 41 | M2 | https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/ | ☐ | |
-| 42 | M2 | https://www.nmlsconsumeraccess.org | ☐ | |
-| 43 | M2 | https://www.consumerfinance.gov/es/ | ☐ | |
-| 44 | M3 | https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | ☐ | |
-| 45 | M3 | https://www.consumerfinance.gov/consumer-tools/auto-loans/ | ☐ | |
-| 46 | M3 | https://www.annualcreditreport.com | ☐ | |
-| 47 | M3 | https://www.missionassetfund.org/lending-circles/ | ☐ | |
-| 48 | M3 | https://www.consumerfinance.gov/consumer-tools/debt-collection/ | ☐ | |
-| 49 | M3 | https://www.calbar.ca.gov | ☐ | |
-| 50 | M3 | https://selfhelp.courts.ca.gov | ☐ | |
-| 51 | M3 | https://consumer.ftc.gov/articles/cosigning-loan-faqs | ☐ | |
-| 52 | M3 | https://www.identitytheft.gov | ☐ | |
-| 53 | M3 | https://www.consumerfinance.gov/es | ☐ | |
-| 54 | M3 | https://www.nfcc.org | ☐ | |
-| 55 | M4 | https://consumer.ftc.gov/features/scams-against-immigrants | ☐ | |
-| 56 | M4 | https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city | ☐ | |
-| 57 | M4 | https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help | ☐ | |
-| 58 | M4 | https://oag.ca.gov/immigrant | ☐ | |
-| 59 | M4 | https://www.thehotline.org | ☐ | |
-| 60 | M4 | https://www.cdss.ca.gov/adult-protective-services | ☐ | |
-| 61 | M4 | https://www.insurance.ca.gov | ☐ | |
-| 62 | M4 | https://www.coveredca.com | ☐ | |
-| 63 | M4 | https://www.dmv.ca.gov | ☐ | |
-| 64 | M4 | https://hcai.ca.gov/affordability/hospital-fair-billing-program/ | ☐ | |
-| 65 | M4 | https://www.dmhc.ca.gov/FileaComplaint.aspx | ☐ | |
-| 66 | M4 | https://www.cms.gov/nosurprises | ☐ | |
-| 67 | M4 | https://www.ready.gov/es | ☐ | |
-| 68 | M4 | https://www.cslb.ca.gov | ☐ | |
-| 69 | M4 | https://courts.ca.gov/documents/caregiver.pdf | ☐ | |
-| 70 | M4 | https://www.acf.hhs.gov/css | ☐ | |
-| 71 | M4 | https://consulmex.sre.gob.mx | ☐ | |
-| 72 | M5 | https://www.investor.gov/informacion-en-espanol | ☐ | |
-| 73 | M5 | https://brokercheck.finra.org | ☐ | |
-| 74 | M5 | https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf | ☐ | |
-| 75 | M5 | https://www.consumerfinance.gov/find-a-housing-counselor/ | ☐ | |
-| 76 | M5 | https://www.consumerfinance.gov/owning-a-home/ | ☐ | |
-| 77 | M5 | https://www.calhfa.ca.gov | ☐ | |
-| 78 | M5 | https://studentaid.gov | ☐ | |
-| 79 | M5 | https://www.csac.ca.gov | ☐ | |
-| 80 | M5 | https://www.ssa.gov/myaccount/ | ☐ | |
-| 81 | M5 | https://www.calsavers.com | ☐ | |
-| 82 | M5 | https://www.investor.gov | ☐ | |
-| 83 | M5 | https://www.gob.mx/consar | ☐ | |
-| 84 | M5 | https://www.e-sar.com.mx | ☐ | |
-| 85 | M5 | https://www.gob.mx/curp/ | ☐ | |
-| 86 | M5 | https://www.ssa.gov/international/agreements_overview.html | ☐ | |
-| 87 | M5 | https://selfhelp.courts.ca.gov/guardianship/caregiver-affidavit | ☐ | |
-| 88 | M5 | https://oag.ca.gov/consumers/general/adv_hc_dir | ☐ | |
-| 89 | M5 | https://www.ilrc.org/family-preparedness-plan | ☐ | |
-| 90 | M5 | https://directorio.sre.gob.mx | ☐ | |
-| 91 | M5 | https://www.irs.gov/es/businesses/small-businesses-self-employed/self-employed-individuals-tax-center | ☐ | |
-| 92 | M5 | https://www.calgold.ca.gov | ☐ | |
-| 93 | M5 | https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html | ☐ | |
-| 94 | M5 | https://www.sba.gov/local-assistance | ☐ | |
-| 95 | M5 | https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx | ☐ | |
-| 96 | M5 | https://www.gob.mx/sre | ☐ | |
+| 27 | M1 | https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination | ☐ | |
+| 28 | M1 | https://pifcoalition.org | ☐ | |
+| 29 | M1 | https://www.dhcs.ca.gov | ☐ | |
+| 30 | M2 | https://www.consumerfinance.gov/es/enviar-una-queja/ | ☐ | |
+| 31 | M2 | https://dfpi.ca.gov | ☐ | |
+| 32 | M2 | https://www.fdic.gov/resources/deposit-insurance | ☐ | |
+| 33 | M2 | https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/assembly-bill-ab-60-driver-licenses/ | ☐ | |
+| 34 | M2 | https://citas.sre.gob.mx | ☐ | |
+| 35 | M2 | https://files.consumerfinance.gov/f/documents/cfpb_checklist_opening_bank_account_web.pdf | ☐ | |
+| 36 | M2 | https://joinbankon.org | ☐ | |
+| 37 | M2 | https://www.consumerfinance.gov/about-us/blog/the-newcomers-guides-to-managing-money/ | ☐ | |
+| 38 | M2 | https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/ | ☐ | |
+| 39 | M2 | https://www.condusef.gob.mx/?p=remesas | ☐ | |
+| 40 | M2 | https://remittanceprices.worldbank.org | ☐ | |
+| 41 | M2 | https://www.irs.gov | ☐ | |
+| 42 | M2 | https://dfpi.ca.gov/regulated-industries/money-transmitters/directory-of-money-transmitters/ | ☐ | |
+| 43 | M2 | https://www.nmlsconsumeraccess.org | ☐ | |
+| 44 | M2 | https://www.consumerfinance.gov/es/ | ☐ | |
+| 45 | M3 | https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/ | ☐ | |
+| 46 | M3 | https://www.consumerfinance.gov/consumer-tools/auto-loans/ | ☐ | |
+| 47 | M3 | https://www.annualcreditreport.com | ☐ | |
+| 48 | M3 | https://www.missionassetfund.org/lending-circles/ | ☐ | |
+| 49 | M3 | https://www.consumerfinance.gov/consumer-tools/debt-collection/ | ☐ | |
+| 50 | M3 | https://www.calbar.ca.gov | ☐ | |
+| 51 | M3 | https://selfhelp.courts.ca.gov | ☐ | |
+| 52 | M3 | https://consumer.ftc.gov/articles/cosigning-loan-faqs | ☐ | |
+| 53 | M3 | https://www.identitytheft.gov | ☐ | |
+| 54 | M3 | https://www.consumerfinance.gov/es | ☐ | |
+| 55 | M3 | https://www.nfcc.org | ☐ | |
+| 56 | M4 | https://consumer.ftc.gov/features/scams-against-immigrants | ☐ | |
+| 57 | M4 | https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city | ☐ | |
+| 58 | M4 | https://consumer.ftc.gov/articles/how-avoid-immigration-scams-and-get-real-help | ☐ | |
+| 59 | M4 | https://oag.ca.gov/immigrant | ☐ | |
+| 60 | M4 | https://www.thehotline.org | ☐ | |
+| 61 | M4 | https://www.cdss.ca.gov/adult-protective-services | ☐ | |
+| 62 | M4 | https://www.insurance.ca.gov | ☐ | |
+| 63 | M4 | https://www.coveredca.com | ☐ | |
+| 64 | M4 | https://www.dmv.ca.gov | ☐ | |
+| 65 | M4 | https://hcai.ca.gov/affordability/hospital-fair-billing-program/ | ☐ | |
+| 66 | M4 | https://www.dmhc.ca.gov/FileaComplaint.aspx | ☐ | |
+| 67 | M4 | https://www.cms.gov/nosurprises | ☐ | |
+| 68 | M4 | https://www.ready.gov/es | ☐ | |
+| 69 | M4 | https://www.cslb.ca.gov | ☐ | |
+| 70 | M4 | https://courts.ca.gov/documents/caregiver.pdf | ☐ | |
+| 71 | M4 | https://www.acf.hhs.gov/css | ☐ | |
+| 72 | M4 | https://consulmex.sre.gob.mx | ☐ | |
+| 73 | M5 | https://www.investor.gov/informacion-en-espanol | ☐ | |
+| 74 | M5 | https://brokercheck.finra.org | ☐ | |
+| 75 | M5 | https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf | ☐ | |
+| 76 | M5 | https://www.consumerfinance.gov/find-a-housing-counselor/ | ☐ | |
+| 77 | M5 | https://www.consumerfinance.gov/owning-a-home/ | ☐ | |
+| 78 | M5 | https://www.calhfa.ca.gov | ☐ | |
+| 79 | M5 | https://studentaid.gov | ☐ | |
+| 80 | M5 | https://www.csac.ca.gov | ☐ | |
+| 81 | M5 | https://www.ssa.gov/myaccount/ | ☐ | |
+| 82 | M5 | https://www.calsavers.com | ☐ | |
+| 83 | M5 | https://www.investor.gov | ☐ | |
+| 84 | M5 | https://www.gob.mx/consar | ☐ | |
+| 85 | M5 | https://www.e-sar.com.mx | ☐ | |
+| 86 | M5 | https://www.gob.mx/curp/ | ☐ | |
+| 87 | M5 | https://www.ssa.gov/international/agreements_overview.html | ☐ | |
+| 88 | M5 | https://selfhelp.courts.ca.gov/guardianship/caregiver-affidavit | ☐ | |
+| 89 | M5 | https://oag.ca.gov/consumers/general/adv_hc_dir | ☐ | |
+| 90 | M5 | https://www.ilrc.org/family-preparedness-plan | ☐ | |
+| 91 | M5 | https://directorio.sre.gob.mx | ☐ | |
+| 92 | M5 | https://www.irs.gov/es/businesses/small-businesses-self-employed/self-employed-individuals-tax-center | ☐ | |
+| 93 | M5 | https://www.calgold.ca.gov | ☐ | |
+| 94 | M5 | https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html | ☐ | |
+| 95 | M5 | https://www.sba.gov/local-assistance | ☐ | |
+| 96 | M5 | https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx | ☐ | |
+| 97 | M5 | https://www.gob.mx/sre | ☐ | |
 
 | Revisó | Firma |
 |---|---|

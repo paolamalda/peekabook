@@ -1,6 +1,6 @@
 # Encuesta de satisfacción (evaluación de reacción) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Anónima. Se responde al terminar, junto con la encuesta final. Escala: 1 = Totalmente en desacuerdo · 2 = En desacuerdo · 3 = Ni de acuerdo ni en desacuerdo · 4 = De acuerdo · 5 = Totalmente de acuerdo. El bloque de facilitación se omite en la versión 100% en línea.
 

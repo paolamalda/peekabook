@@ -12,7 +12,7 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 - **Characters:** the course characters, with the cast to be decided.
 - **EC0366 standard:** each video counts as multimedia material with title, topic development and images.
 
-## Module 1. Understand your money and organize your finances
+## Your money in order
 
 ### M1 U01 · Is all the money I receive money I earned?
 **Must be understood:** Tell apart the money you earn, the money you borrow, the money you only move and the money you get back. · **Character:** Alex
@@ -91,10 +91,10 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 0 | 0–3 | Navy background, topic icon and title. | Can a small purchase add up to a lot? |
 | 1 | 3–10 | Rubén in daily life: Rubén checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. | Rubén checked his statement and found a 12.99 charge from an app he tried "at no cost" eight months ago. |
 | 2 | 10–18 | Numbers appear one by one, with coins added or removed: 3 (Once) + 27 (Nine more times) = 30 (A month: 360 a year). | Small things that repeat |
-| 3 | 18–25 | Large icon; Before you decide to cut an expense, write down four things: how much it costs, how often it happens, what it does for you and whether you… | Before you decide to cut an expense, write down four things: how much it costs, how often it… |
+| 3 | 18–25 | Large icon; Before you decide to cut an expense, write down four things. | Before you decide to cut an expense, write down four things. |
 | 4 | 25–32 | Large icon; Rent, transportation, child care and health usually make up most of the budget. | Rent, transportation, child care and health usually make up most of the budget. |
 | 5 | 32–38 | Magenta ✕ over the scene: Cutting only small expenses → The savings are tiny and you get frustrated. | ✕ Cutting only small expenses |
-| 6 | 38–45 | Rubén solves it: Mar goes over her statement with a highlighter. | Mar goes over her statement with a highlighter. |
+| 6 | 38–45 | Rubén solves it: Mar goes over her statement with a highlighter and finds three things. | Mar goes over her statement with a highlighter and finds three things. |
 | 7 | 45–50 | Large navy ✓ and the key idea. | Adjust where the change is real and lasting, not where it makes you feel guilty. |
 
 ### M1 U07 · Why am I short on money if I earn enough this month?
@@ -182,18 +182,18 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 7 | 45–50 | Large navy ✓ and the key idea. | Never sign something you haven't read. You are responsible for what your return says. |
 
 ### M1 U13 · What should I know before I apply for public benefits?
-**Must be understood:** Understand what "public charge" is, which benefits exist and where to confirm your case before you decide. · **Character:** Daniela
+**Must be understood:** Understand what "public charge" is, what changed in 2026 and why it helps to confirm your case with an authorized person before you apply for or stop a benefit. · **Character:** Daniela
 
 | # | Sec. | What we see | On-screen text |
 |---|---|---|---|
 | 0 | 0–3 | Navy background, topic icon and title. | What should I know before I apply for public benefits? |
 | 1 | 3–10 | Daniela in daily life: Daniela needs help buying food for her son, but a neighbor told her that asking for any benefit could hurt her. | Daniela needs help buying food for her son, but a neighbor told her that asking for any benefit could hurt her. |
-| 2 | 10–17 | Large icon; Many families don't apply for benefits they're entitled to, out of fear it will affect an immigration case. | Many families don't apply for benefits they're entitled to, out of fear it will affect an… |
+| 2 | 10–17 | Large icon; Many families don't apply for benefits out of fear it will affect an immigration case. | Many families don't apply for benefits out of fear it will affect an immigration case. |
 | 3 | 17–24 | Large icon; Public charge is a review done in some immigration cases, mainly certain applications for permanent residency. | Public charge is a review done in some immigration cases, mainly certain applications for permanent… |
-| 4 | 24–32 | 3 cards appear one by one: It is considered, It is not considered, Your family's benefits. | What the rule in effect since 2022 looks at |
-| 5 | 32–38 | Magenta ✕ over the scene: Deciding based on a rumor → You stop getting benefits you're entitled to. | ✕ Deciding based on a rumor |
+| 4 | 24–32 | 3 cards appear one by one: The rule changed, Case by case, What you received before. | What changed on September 18, 2026 |
+| 5 | 32–38 | Magenta ✕ over the scene: Deciding based on a rumor → You drop a benefit you need or take a risk without knowing it. | ✕ Deciding based on a rumor |
 | 6 | 38–45 | Daniela solves it: Rosa lives in Fresno with her daughter and grandchildren. | Rosa lives in Fresno with her daughter and grandchildren. |
-| 7 | 45–50 | Large navy ✓ and the key idea. | Rules can change. A proposal isn't a rule until it's published as final and takes effect. |
+| 7 | 45–50 | Large navy ✓ and the key idea. | Rules change. Always check the date of what you read and ask before you decide. |
 
 ### M1 U14 · How do I turn what I learned into something I can actually do?
 **Must be understood:** Build a 90-day plan with specific actions, dates and a backup if something changes. · **Character:** Rubén
@@ -206,10 +206,10 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 3 | 17–25 | 3 cards appear one by one: Action, Date, Evidence. | A goal you can check |
 | 4 | 25–32 | A checklist being ticked: Choose one specific problem, for example: "I'm short on…; Write down one small action and a date.; Keep a sample of what you did.. | Three steps |
 | 5 | 32–38 | Magenta ✕ over the scene: Writing goals without dates → They never start. | ✕ Writing goals without dates |
-| 6 | 38–45 | Rubén solves it: Daniela wrote her 90-day plan with only three actions: write down her payments every night, set up envelopes for home, business and taxes, and make a VITA… | Daniela wrote her 90-day plan with only three actions: write down her payments every night, set up… |
+| 6 | 38–45 | Rubén solves it: Daniela wrote her 90-day plan with only three actions. | Daniela wrote her 90-day plan with only three actions. |
 | 7 | 45–50 | Large navy ✓ and the key idea. | A plan that adjusts is a plan that works. |
 
-## Module 2. Understand the financial system and plan your remittances
+## Banks and sending money home
 
 ### M2 U01 · Who takes care of my money and who provides the service?
 **Must be understood:** Tell apart what each institution does (bank, credit union, insurer, money transmitter, app) and who is responsible if there's a problem. · **Character:** Rubén
@@ -233,7 +233,7 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 0 | 0–3 | Navy background, topic icon and title. | Is a money app always a bank? |
 | 1 | 3–10 | Daniela in daily life: Daniela keeps her savings in an app that pays good interest. | Daniela keeps her savings in an app that pays good interest. |
 | 2 | 10–17 | Large icon; "Digital" describes how you use a service, not what license the company has. | "Digital" describes how you use a service, not what license the company has. |
-| 3 | 17–24 | Large icon; At a bank insured by the FDIC, your money is protected up to 250,000 dollars per person, per bank, per type of account, if the bank fails. | At a bank insured by the FDIC, your money is protected up to 250,000 dollars per person, per bank… |
+| 3 | 17–24 | Large icon; At a bank insured by the FDIC, your money is protected if the bank fails. | At a bank insured by the FDIC, your money is protected if the bank fails. |
 | 4 | 24–32 | 3 cards appear one by one: Deposits at an insured bank or credit union, Investments, Balance in an app. | Is it insured? |
 | 5 | 32–38 | Magenta ✕ over the scene: Believing every app is a bank → Your money may not be insured. | ✕ Believing every app is a bank |
 | 6 | 38–45 | Daniela solves it: Rubén gets paid through payroll and pays for almost everything with his phone. | Rubén gets paid through payroll and pays for almost everything with his phone. |
@@ -360,7 +360,7 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 1 | 3–10 | Mar in daily life: Mar got a call: it was her nephew's voice, crying, asking for 500 dollars after an accident. | Mar got a call: it was her nephew's voice, crying, asking for 500 dollars after an accident. |
 | 2 | 10–17 | Large icon; You can say: "I can send 50 on Friday. | You can say: "I can send 50 on Friday. |
 | 3 | 17–24 | A checklist being ticked: Confirm the amount and date you can commit to.; Explain what still needs to be confirmed.; Agree on when you'll talk again.. | Three steps to talk about money |
-| 4 | 24–31 | Large icon; A family agreement is what you and your family understand and accept about the support: how much, when, what for and what to do in an… | A family agreement is what you and your family understand and accept about the support: how much… |
+| 4 | 24–31 | Large icon; A family agreement is what you and your family understand and accept about the support. | A family agreement is what you and your family understand and accept about the support. |
 | 5 | 31–37 | Magenta ✕ over the scene: Promising what isn't certain → You go into debt to keep your word. | ✕ Promising what isn't certain |
 | 6 | 37–42 | Large navy ✓ and the key idea. | Rushing and secrecy ("don't tell anyone") are signs of a scam. |
 
@@ -389,10 +389,10 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 3 | 17–24 | A checklist being ticked: Draw where the money comes from: your paycheck.; Write each step until it reaches your family.; Note the cost, the date and who is responsible for each…. | Three steps to draw it |
 | 4 | 24–31 | Large icon; - An account that doesn't accept your documents isn't a ready option. | - An account that doesn't accept your documents isn't a ready option. |
 | 5 | 31–37 | Magenta ✕ over the scene: Comparing each piece separately → One cheap piece makes the total more expensive. | ✕ Comparing each piece separately |
-| 6 | 37–44 | Alex solves it: Daniela drew her path: she's paid by the hour into her account, gets cake orders paid by Zelle and in cash, and she used to send money to her sister paying… | Daniela drew her path: she's paid by the hour into her account, gets cake orders paid by Zelle and… |
+| 6 | 37–44 | Alex solves it: Daniela drew her path. | Daniela drew her path. |
 | 7 | 44–49 | Large navy ✓ and the key idea. | Compare the full path of the money, not each piece separately. |
 
-## Module 3. Build your credit and manage your debts
+## Credit without surprises
 
 ### M3 U01 · If they lend me money, does that mean I can pay it back?
 **Must be understood:** Tell apart being approved for a loan from your real ability to pay. · **Character:** Andrés
@@ -545,7 +545,7 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 4 | 25–32 | Large icon; A payday loan charges fees that, over a year, often top 300%, and it's due in full on your next check. | A payday loan charges fees that, over a year, often top 300%, and it's due in full on your next… |
 | 5 | 32–38 | Magenta ✕ over the scene: Thinking it costs nothing → You pay hundreds a year. | ✕ Thinking it costs nothing |
 | 6 | 38–45 | Rubén solves it: Rubén asked at work: his employer advances up to half of what he's already earned, at no cost, once a month. | Rubén asked at work: his employer advances up to half of what he's already earned, at no cost, once… |
-| 7 | 45–50 | Large navy ✓ and the key idea. | An advance isn't extra money, it's your own pay earlier; add up a year of tips and fees, and ask your employer first. |
+| 7 | 45–50 | Large navy ✓ and the key idea. | An advance isn't extra money: it's your own pay, earlier. Add up a year of tips and fees, and ask your employer first. |
 
 ### M3 U12 · Is pawning a good way out?
 **Must be understood:** Understand how a U.S. pawn shop works, what it costs and what happens if you don't pay. · **Character:** Mar
@@ -559,9 +559,9 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 4 | 25–32 | Large icon; They don't check your credit and, if you don't pay, they don't chase or report you: you just lose the item. | They don't check your credit and, if you don't pay, they don't chase or report you: you just lose… |
 | 5 | 32–38 | Magenta ✕ over the scene: Signing without asking the fees → You overpay. | ✕ Signing without asking the fees |
 | 6 | 38–45 | Mar solves it: Mar compared: the shop would let her pay for the repair in two parts at no charge. | Mar compared: the shop would let her pay for the repair in two parts at no charge. |
-| 7 | 45–50 | Large navy ✓ and the key idea. | Pawning doesn't affect your credit, but it's expensive and you can lose your item; get the fees in writing, keep your ticket and note the deadline. |
+| 7 | 45–50 | Large navy ✓ and the key idea. | Pawning doesn't affect your credit, but it's expensive and you can lose your item. Get the fees in writing, keep your ticket and note the deadline. |
 
-## Module 4. Protect your money, your identity and your family
+## Protect what's yours
 
 ### M4 U01 · Why is someone pushing me to act right now?
 **Must be understood:** Recognize how scams work and verify on your own before you act. · **Character:** Rosa
@@ -585,10 +585,10 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 0 | 0–3 | Navy background, topic icon and title. | Who can really help me with an immigration case? |
 | 1 | 3–10 | Mar in daily life: Mar's neighbor was offered a "work permit in three months" at an office with a "Notaria – Inmigración" sign. | Mar's neighbor was offered a "work permit in three months" at an office with a "Notaria – Inmigración" sign. |
 | 2 | 10–17 | Large icon; In the U.S., only these can give you advice about your immigration case: 1. | In the U.S., only these can give you advice about your immigration case: 1. |
-| 3 | 17–24 | Large icon; In many Latin American countries, a notario is a legal professional. | In many Latin American countries, a notario is a legal professional. |
+| 3 | 17–24 | Large icon; In much of Latin America, a notario is a kind of lawyer. | In much of Latin America, a notario is a kind of lawyer. |
 | 4 | 24–32 | 4 cards appear one by one: Licensed attorney, Accredited representative (DOJ), Immigration consultant, "Notario" or social media helper. | Who can do what |
 | 5 | 32–38 | Magenta ✕ over the scene: Trusting a "notario" or helper → You lose money and put your case at risk. | ✕ Trusting a "notario" or helper |
-| 6 | 38–45 | Mar solves it: Rosa wanted to help her granddaughter with an application and found an "advisor" on social media who charged 800 dollars. | Rosa wanted to help her granddaughter with an application and found an "advisor" on social media… |
+| 6 | 38–45 | Mar solves it: Rosa wanted to help her granddaughter with some papers. | Rosa wanted to help her granddaughter with some papers. |
 | 7 | 45–50 | Large navy ✓ and the key idea. | Always confirm your case with a licensed attorney or a DOJ-accredited representative. |
 
 ### M4 U03 · What protects my accounts besides a password?
@@ -685,7 +685,7 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 3 | 17–24 | A checklist being ticked: Write down which income could be missing.; Write down the new expenses and the ones that stay the same.; Check the money available and the help that's already…. | Three quick calculations |
 | 4 | 24–32 | 4 cards appear one by one: Contacts, Documents, Inventory, A way to pay. | What to prepare |
 | 5 | 32–38 | Magenta ✕ over the scene: Keeping everything only on your phone → You lose access to everything. | ✕ Keeping everything only on your phone |
-| 6 | 38–45 | Rosa solves it: After the fire, Rosa packed a backpack with copies of her documents in a sealed bag, a contact list on paper, medicine for three days and 100 dollars in small… | After the fire, Rosa packed a backpack with copies of her documents in a sealed bag, a contact list… |
+| 6 | 38–45 | Rosa solves it: After the fire, Rosa packed a backpack. | After the fire, Rosa packed a backpack. |
 | 7 | 45–50 | Large navy ✓ and the key idea. | Don't count help that isn't confirmed. A payment from insurance or the government is only a resource once it's confirmed. |
 
 ### M4 U10 · What happens to my family and my money if I can't be there?
@@ -723,13 +723,13 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 0 | 0–3 | Navy background, topic icon and title. | How do I make sure child support reaches my kids? |
 | 1 | 3–10 | Daniela in daily life: Daniela is raising her son alone in San Diego. | Daniela is raising her son alone in San Diego. |
 | 2 | 10–18 | 4 cards appear one by one: It's your children's right, Your state's child support agency, Payment with proof, If the other parent lives in Mexico. | The basics |
-| 3 | 18–25 | Large icon; Your state's child support agency can help establish paternity, set an amount with the state formula and collect it, often with a deduction… | Your state's child support agency can help establish paternity, set an amount with the state… |
+| 3 | 18–25 | Large icon; Your state's child support agency can help establish paternity. | Your state's child support agency can help establish paternity. |
 | 4 | 25–32 | Large icon; Pay through the agency or wage withholding and keep proof. | Pay through the agency or wage withholding and keep proof. |
 | 5 | 32–38 | Magenta ✕ over the scene: Thinking you can't request it → Your children lose their right. | ✕ Thinking you can't request it |
 | 6 | 38–45 | Daniela solves it: Daniela called her county's agency. | Daniela called her county's agency. |
-| 7 | 45–50 | Large navy ✓ and the key idea. | Child support is your children's right; your state agency helps request it and record payments, and the paying parent must pay with proof. |
+| 7 | 45–50 | Large navy ✓ and the key idea. | Child support is your children's right. Your state agency helps request it and record payments. The paying parent must pay with proof. |
 
-## Module 5. Build wealth and prepare your future
+## Your future
 
 ### M5 U01 · How do I turn a wish into a goal?
 **Must be understood:** Measure your net worth and set goals with an amount, a date and a priority, without counting the same money twice. · **Character:** Rubén
@@ -897,4 +897,4 @@ One short video per lesson: an animated «The essentials», with brief on-screen
 | 4 | 25–32 | Large icon; Heirs don't pay federal tax for receiving an inheritance. | Heirs don't pay federal tax for receiving an inheritance. |
 | 5 | 32–38 | Magenta ✕ over the scene: Believing inheriting pays 40% → Needless fear. | ✕ Believing inheriting pays 40% |
 | 6 | 38–45 | Alex solves it: Alex talked with his mom: she'll make her will with a notary in Michoacán. | Alex talked with his mom: she'll make her will with a notary in Michoacán. |
-| 7 | 45–50 | Large navy ✓ and the key idea. | In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court; inheriting pays no federal tax except on huge estates, but foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money. |
+| 7 | 45–50 | Large navy ✓ and the key idea. | In the U.S., POD and TOD beneficiaries and a transfer on death deed avoid court. Inheriting pays no federal tax, except on huge estates. Foreign inheritances over 100,000 dollars are reported on Form 3520. In Mexico, inheriting pays no ISR, but transferring the title does cost money. |

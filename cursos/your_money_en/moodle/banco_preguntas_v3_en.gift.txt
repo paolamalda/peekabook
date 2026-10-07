@@ -222,14 +222,14 @@ $CATEGORY: $course$/Your Money v1.0/M1
 	~Only to citizenship #Not the best option. Only certain cases.
 }
 
-::M1 U13 P2::Under the current rule, is CalFresh considered for public charge? {
-	=No #Correct! It isn't considered.
-	~Yes #Not the best option. It isn't considered.
-	~Yes, if the children use it #Not the best option. It isn't considered.
+::M1 U13 P2::Since September 18, 2026, how is public charge reviewed? {
+	=Case by case, looking at the whole case #Correct! Each case is reviewed as a whole.
+	~With a fixed list of benefits that don't count #Not the best option. Each case is reviewed as a whole.
+	~It's no longer reviewed #Not the best option. Each case is reviewed as a whole.
 }
 
 ::M1 U13 P3::Who can give you immigration advice? {
-	~A notario #Not the best option. Only they are authorized.
+	~A notary #Not the best option. Only they are authorized.
 	~An immigration consultant with an office and ads #Not the best option. Only they are authorized.
 	=An attorney or a DOJ-accredited representative #Correct! Only they are authorized.
 }

@@ -10,9 +10,9 @@ TD = os.path.dirname(H)
 ROOT = os.path.dirname(TD)
 TT = os.path.join(ROOT, "proyecto-entretenimiento")
 ENT = os.path.join(ROOT, "entregas")
-S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
+S = os.environ.get("DT_HERRAMIENTAS", "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad")  # carpeta con nodeenv/node_modules (docx)
 ENV = dict(os.environ, NODE_PATH=f"{S}/nodeenv/node_modules")
-TMP = "/tmp/carpetas"
+TMP = os.environ.get("DT_TMP_CARPETAS", "/tmp/carpetas")
 
 
 # ---------------------------------------------------------------------------

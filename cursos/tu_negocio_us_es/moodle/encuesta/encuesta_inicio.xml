@@ -285,5 +285,25 @@
                <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
                <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
           </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="0">
+               <ITEMID><![CDATA[25]]></ITEMID>
+               <ITEMTEXT><![CDATA[¿Cómo te enteraste de este programa? (opcional)]]></ITEMTEXT>
+               <ITEMLABEL><![CDATA[D3]]></ITEMLABEL>
+               <PRESENTATION><![CDATA[r>>>>>Facebook
+|Instagram
+|TikTok
+|Un mensaje de WhatsApp
+|Me lo recomendó un familiar, amigo o conocido
+|Una organización o grupo de mi comunidad
+|Un consulado
+|Mi escuela
+|Mi trabajo
+|Buscando en internet (Google u otro)
+|El sitio desarrollatalento.com
+|Otro]]></PRESENTATION>
+               <OPTIONS><![CDATA[h]]></OPTIONS>
+               <DEPENDITEM><![CDATA[0]]></DEPENDITEM>
+               <DEPENDVALUE><![CDATA[]]></DEPENDVALUE>
+          </ITEM>
      </ITEMS>
 </FEEDBACK>

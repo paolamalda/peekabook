@@ -4,7 +4,7 @@ Three surveys with the same core questions to measure change: **start** (before 
 
 | Survey | File | Questions |
 |---|---|---|
-| Start | `survey_start.xml` | 24 |
+| Start | `survey_start.xml` | 25 |
 | Final | `survey_final.xml` | 28 |
 | Follow-up | `survey_follow_up.xml` | 24 |
 
@@ -159,6 +159,20 @@ Average of the points from P1 to P8 (0 to 100). 0 to 39: at risk · 40 to 79: fr
 - $5,000 to $8,000
 - More than $8,000
 - Prefer not to say
+
+**D3.** How did you hear about this program? (optional)
+- Facebook
+- Instagram
+- TikTok
+- A WhatsApp message
+- A family member, friend or acquaintance recommended it
+- An organization or group in my community
+- A consulate
+- My school
+- My work
+- Searching online (Google or other)
+- The desarrollatalento.com website
+- Other
 
 ## Program evaluation (final only)
 

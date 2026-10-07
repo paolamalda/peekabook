@@ -18,7 +18,7 @@ Versión 1 · 5 de octubre de 2026 · 702 lecciones de 18 cursos · generada con
 | Tu Autonomía, Tu Dinero, Tu Futuro | 24 | 78.7 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 97 |
 | Tu Comunidad, Tu Dinero, Tu Futuro | 14 | 81.1 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 |
 | Tu Costa, Tu Dinero, Tu Futuro | 16 | 80.4 (muy fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 106 |
-| Tu Dinero, Tu Familia, Tu Futuro | 63 | 74.3 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 252 |
+| Tu Dinero, Tu Familia, Tu Futuro | 63 | 74.4 (bastante fácil) | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 252 |
 | Tu Idea, Tu Dinero, Tu Futuro | 37 | 78.1 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 122 |
 | Tu Negocio, Tu Dinero, Tu Futuro | 46 | 77.9 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 120 |
 | Tu Negocio, Tu Dinero, Tu Futuro · EE. UU. | 45 | 76.2 (bastante fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 141 |
@@ -33,7 +33,7 @@ Versión 1 · 5 de octubre de 2026 · 702 lecciones de 18 cursos · generada con
 | Your Business, Your Money, Your Future · U.S. | 45 | 74.0 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 142 |
 | Your Money, Your Family, Your Future | 63 | 77.1 (fácil) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 264 |
 
-**Total:** 0 de 702 lecciones quedan en «algo difícil» o más difícil; 0 frases largas; 0 párrafos largos; 0 lecciones con siglas sin explicar; 0 direcciones sueltas en la lectura; 0 enlaces genéricos; 0 recursos sin «Qué buscar».
+**Total:** 0 de 702 lecciones quedan en «algo difícil» o más difícil; 1 frases largas; 0 párrafos largos; 0 lecciones con siglas sin explicar; 0 direcciones sueltas en la lectura; 0 enlaces genéricos; 0 recursos sin «Qué buscar».
 
 ## Contraste de colores (WCAG 2.1 AA)
 
@@ -61,6 +61,7 @@ Las 40 con más problemas juntos (legibilidad baja, frases y párrafos largos, s
 
 | Curso | Lección | Título | Legibilidad | Frases largas | Párrafos largos | Siglas sin explicar | Frase más larga |
 |---|---|---|---|---|---|---|---|
+| tu_dinero_es | M1 U13 | ¿Qué debo saber antes de pedir un apoyo público? | 68.4 (bastante fácil) | 1 | 0 | — | Desde el 1 de enero de 2026, los adultos de 19 años o más sin estatus migratorio regular ya no pueden inscribirse por primera vez en Medi-Cal completo. |
 | back_home_en | M1 U01 | Your repatriation record and your CURP: the first two papers | 72.7 (fácil) | 0 | 0 | — |  |
 | back_home_en | M1 U02 | Your birth certificate and your INE | 82.0 (fácil) | 0 | 0 | — |  |
 | back_home_en | M1 U03 | Papers for your children born in the United States | 69.0 (normal) | 0 | 0 | — |  |
@@ -100,7 +101,6 @@ Las 40 con más problemas juntos (legibilidad baja, frases y párrafos largos, s
 | tu_autonomia | M5 U01 | Un seguro de vida también para ti | 73.6 (bastante fácil) | 0 | 0 | — |  |
 | tu_autonomia | M5 U02 | Tu salud, protegida | 65.6 (bastante fácil) | 0 | 0 | — |  |
 | tu_autonomia | M5 U03 | Revisa los seguros que ya pagas | 79.4 (bastante fácil) | 0 | 0 | — |  |
-| tu_autonomia | M6 U01 | Señales de violencia económica | 79.5 (bastante fácil) | 0 | 0 | — |  |
 
 ## Siglas sin explicar
 

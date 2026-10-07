@@ -13,6 +13,40 @@
 # Uso: python3 herramientas_cursos/curso.py cursos/<carpeta> [libros h5p banco apoyo comunidad insignias constancia encuesta catalogo ocde whatsapp kit herramientas verificar carpeta | todo]
 import re, os, sys, json, glob, html, zipfile, shutil, subprocess, importlib.util
 
+_rmtree = shutil.rmtree
+
+
+_makedirs = os.makedirs
+
+
+def _rmtree_espera(p, *a, **k):
+    """En Windows con OneDrive a veces no deja borrar carpetas vacías: se borran los archivos y la carpeta vacía se reutiliza."""
+    import time
+    for _ in range(10):
+        _rmtree(p, ignore_errors=True)
+        if not os.path.exists(p): return
+        time.sleep(0.1)
+
+
+def _makedirs_tolerante(p, mode=0o777, exist_ok=True):
+    _makedirs(p, mode, exist_ok=True)
+
+
+shutil.rmtree = _rmtree_espera
+os.makedirs = _makedirs_tolerante
+
+# En Windows, escribir texto sin newline pone \r\n; los archivos del repositorio van con \n como en Linux.
+import builtins
+_open = builtins.open
+
+
+def _open_lf(file, mode="r", *a, **k):
+    if "b" not in mode and any(c in mode for c in "wax") and len(a) < 3 and "newline" not in k: k["newline"] = "\n"
+    return _open(file, mode, *a, **k)
+
+
+builtins.open = _open_lf
+
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HF = os.path.join(RAIZ, "proyecto-inclusion-financiera", "herramientas")
 sys.path.insert(0, HF)
@@ -21,7 +55,7 @@ from leccion_ux2 import build, page, CSS, md, terms
 import leccion_ux3 as UX3
 from i18n_en import tr as tr_en, tr_ux3
 
-S = "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad"
+S = os.environ.get("DT_HERRAMIENTAS", "/tmp/claude-0/-home-user-peekabook/2b8c84d1-874b-559e-a5dd-06af4ddd1637/scratchpad")  # carpeta con nodeenv/node_modules (docx)
 ENV = dict(os.environ, NODE_PATH=f"{S}/nodeenv/node_modules")
 H5PLIB = "/tmp/h5plib"
 
@@ -96,7 +130,7 @@ def paso_libros():
 # ---------------------------------------------------------------------------
 def vista_previa_ux3(les, folder):
     """Vista previa local: cada lección con solo sus 4 capítulos; el índice aparece a un lado en pantallas grandes y no en el celular."""
-    shutil.rmtree(folder, ignore_errors=True); os.makedirs(folder)
+    shutil.rmtree(folder, ignore_errors=True); os.makedirs(folder, exist_ok=True)
     if os.path.isdir(B.ASSETS): shutil.copytree(B.ASSETS, os.path.join(folder, "assets"), dirs_exist_ok=True)
     css = ("body{margin:0;background:#F5F7FB;font-family:Figtree,system-ui,sans-serif}.w{display:flex;gap:24px;max-width:1200px;margin:0 auto;padding:16px}"
            ".toc{flex:0 0 260px;align-self:flex-start;position:sticky;top:12px;background:#fff;border:1px solid #E5E8F0;border-radius:16px;padding:16px}"
@@ -126,7 +160,7 @@ def paso_libros_ux3():
     manif = {"curso": CFG["titulo"], "partes": []}
     for i, mod in enumerate(MODS):
         text = leer(os.path.join(LEC, f"{mod}.md"))
-        d = os.path.join(OUT, mod); shutil.rmtree(d, ignore_errors=True); os.makedirs(os.path.join(d, "lecciones"))
+        d = os.path.join(OUT, mod); shutil.rmtree(d, ignore_errors=True); os.makedirs(os.path.join(d, "lecciones"), exist_ok=True)
         les = UX3.build(text)
         prev = []
         for k, L in enumerate(les, 1):
@@ -143,11 +177,17 @@ def paso_libros_ux3():
         titulo = nm.get("titulo", MODS[mod]); desc = nm.get("descripcion", "")
         lo, hi = sum(L["min"][0] for L in les), sum(L["min"][1] for L in les)
         h = lambda m: f"{round(m / 30) / 2:g}"
-        tiempo = f"unas {h(lo)} a {h(hi)} horas" if lo >= 60 else f"{lo} a {hi} minutos"
         res = CFG.get("resultados", {}).get(mod, "")
-        html_res = (f"<p>{html.escape(desc)}</p>" if desc else "") + \
-            (f"<p><strong>Al terminar tendrás:</strong> {html.escape(res[0].lower() + res[1:])}</p>" if res else "") + \
-            f"<p><strong>{len(les)} lecciones</strong> de 10 a 15 minutos · {tiempo} en total.</p>"
+        if EN:
+            tiempo = f"about {h(lo)} to {h(hi)} hours" if lo >= 60 else f"{lo} to {hi} minutes"
+            html_res = (f"<p>{html.escape(desc)}</p>" if desc else "") + \
+                (f"<p><strong>By the end you'll have:</strong> {html.escape(res[0].lower() + res[1:])}</p>" if res else "") + \
+                f"<p><strong>{len(les)} lessons</strong> of 10 to 15 minutes · {tiempo} in total.</p>"
+        else:
+            tiempo = f"unas {h(lo)} a {h(hi)} horas" if lo >= 60 else f"{lo} a {hi} minutos"
+            html_res = (f"<p>{html.escape(desc)}</p>" if desc else "") + \
+                (f"<p><strong>Al terminar tendrás:</strong> {html.escape(res[0].lower() + res[1:])}</p>" if res else "") + \
+                f"<p><strong>{len(les)} lecciones</strong> de 10 a 15 minutos · {tiempo} en total.</p>"
         open(os.path.join(d, f"{mod}_resumen.html"), "w").write(html_res)
         manif["partes"].append({"modulo": mod, "seccion": titulo, "orden": i + 1, "resumen": html_res, "minutos": [lo, hi],
                                 "lecciones": [{"orden": k, "nombre_actividad": L["title"], "zip": f"lecciones/{k:02d}_{L['code'].replace(' ', '_')}.zip",
@@ -193,7 +233,7 @@ def paso_h5p():
                      "solutionListQuestionNumber": "Pregunta :num" if not EN else "Question :num"})
         FB = ["Repasa Lo esencial e inténtalo otra vez.", "¡Muy bien! Ya sabes qué hacer."] if not EN else ["Review The essentials and try again.", "Great job! You know what to do."]
     CASOS = casos()
-    dest_dir = os.path.join(OUT, "h5p"); shutil.rmtree(dest_dir, ignore_errors=True); os.makedirs(dest_dir)
+    dest_dir = os.path.join(OUT, "h5p"); shutil.rmtree(dest_dir, ignore_errors=True); os.makedirs(dest_dir, exist_ok=True)
     n = 0
     for mod in MODS:
         for code, title, les in lecciones(mod):
@@ -338,7 +378,7 @@ def paso_apoyo():
 
 def paso_fondo():
     """Genera la guía «Para ir a fondo»: por parte y lección, los enlaces oficiales (con Qué buscar) y las fuentes, sin repetir."""
-    F = os.path.join(D, "fondo"); shutil.rmtree(F, ignore_errors=True); os.makedirs(F)
+    F = os.path.join(D, "fondo"); shutil.rmtree(F, ignore_errors=True); os.makedirs(F, exist_ok=True)
     if EN:
         intro = """# How to go deeper
 
@@ -553,7 +593,7 @@ def paso_insignias():
     OUTB = os.path.join(OUT, "insignias")
     shutil.rmtree(OUTB, ignore_errors=True); shutil.rmtree(os.path.join(OUT, "certificado"), ignore_errors=True)
     os.makedirs(OUTB)
-    tmp = "/tmp/badges_html_curso"; shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp)
+    tmp = "/tmp/badges_html_curso"; shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp, exist_ok=True)
     jobs = []
     for fn, tag, name, icon in CFG["insignias"]:
         p = f"{tmp}/{fn}.html"; open(p, "w").write(badge(tag, name, icon, tag == curso_tag))

@@ -62,8 +62,8 @@ CASOS = {
  ("She says no: the refund must go to her own account.", "She agrees, because that way it's faster.", "She agrees, but asks the office for a receipt."),
 ],
 "M1 U13": [
- ("That her son's benefits don't count as hers.", "That asking for food always affects the whole family.", "That her son isn't entitled to any public benefit."),
- ("Looks for a reliable source before deciding.", "Believes the neighbor and stops asking for any help.", "Asks in a social media group what other people did."),
+ ("Bring her questions to an accredited representative before deciding.", "Apply without asking, because food help never counts.", "Stop asking for any help for her son, just in case."),
+ ("Looks for a reliable, recently dated source before deciding.", "Believes the neighbor and stops asking for any help.", "Asks in a social media group what other people did."),
  ("A community health center that charges based on income.", "Wait until it gets worse and go straight to the ER.", "Not get care until she has her own health insurance."),
 ],
 "M1 U14": [

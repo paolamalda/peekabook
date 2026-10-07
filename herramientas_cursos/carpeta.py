@@ -7,7 +7,7 @@ import carpetas_cursos as K
 
 RAIZ = C.RAIZ
 ENT = os.path.join(RAIZ, "entregas")
-TMP = "/tmp/carpetas"
+TMP = os.environ.get("DT_TMP_CARPETAS", "/tmp/carpetas")
 LIM = 24 * 1048576  # tamaño máximo aproximado de las H5P por zip
 
 

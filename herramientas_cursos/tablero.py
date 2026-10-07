@@ -17,8 +17,8 @@ def catalogo():
         v, neg = cfg.get("encuesta"), cfg.get("negocio", False)
         if not v: continue
         S, E, H, D, F, U = encuesta.items(v, neg)
-        it = [{"id": i, "dim": d, "txt": t, "ops": [{"p": p, "o": o} for p, o in ops]} for i, d, t, ops in S + E + H + D + F]
-        cat[c] = {"titulo": cfg["titulo"], "en": v == "us_en", "items": it}
+        it = [{"id": i, "dim": d, "txt": t, "ops": [{"p": p, "o": o} for p, o in ops]} for i, d, t, ops in S + E + H + D + F + U]
+        cat[c] = {"titulo": cfg["titulo"], "en": v in ("us_en", "mx_en"), "items": it}
     return cat
 
 
@@ -139,7 +139,7 @@ function render(){
       h += `<div class="card ok"><b>Cambio de inicio a final:</b> ${b-a >= 0 ? "+" : ""}${(b-a).toFixed(1)} puntos en el índice promedio. <span class="mut">Las encuestas son anónimas: se comparan grupos, no personas; quienes contestan al final pueden ser distintas de quienes contestaron al inicio.</span></div>`;
   }
   // perfil (solo inicio)
-  if (A.inicio && !A.inicio.error){ for (const pid of ["D1","D2"]){ const it = A.inicio.items.find(i=>i.id===pid); if (!it) continue;
+  if (A.inicio && !A.inicio.error){ for (const pid of ["D1","D2","D3"]){ const it = A.inicio.items.find(i=>i.id===pid); if (!it) continue;
     const g = {}; A.inicio.R.forEach(r => { const o = r[pid]&&r[pid].length ? it.ops[r[pid][0]].o : "Sin respuesta"; (g[o] = g[o]||[]).push(r._idx); });
     let otros = []; const filas = [];
     for (const [o, v] of Object.entries(g)){ const vv = v.filter(x=>x!==null); if (vv.length >= MIN) filas.push([o, vv.length, prom(vv)]); else otros = otros.concat(vv); }

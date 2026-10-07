@@ -52,7 +52,7 @@ Version 3.0 · September 2026 · Matches course v3.4 in Moodle and its full cont
 | Geographic coverage | Federal core and state module. Pilot in California; then Texas, Illinois, New York and Florida |
 | Estimated duration | About 13 hours on the platform (5 to 10 minute lessons, activities and self-assessments), plus time for the integrative cases and the plan; to be adjusted with pilot data |
 | Structure | 5 modules, 63 lessons, 63 "What would you do?" H5P activities, 5 self-assessments (189 questions), 5 integrative cases and 22 calculation practices |
-| Certificate | A badge per module and a verifiable certificate of completion after passing the five self-assessments; not a license or official accreditation |
+| Certificate | A badge per module and a verifiable certificate of completion after passing the five self-assessments and submitting the Final survey; not a license or official accreditation |
 
 **Overall objective.** By the end, participants build, justify and adjust a plan that connects income, expenses, taxes, financial services, remittances, credit, protection and goals. They compare alternatives, recognize risks, verify information and seek the right help.
 
@@ -169,7 +169,7 @@ Six characters accompany the course: Alex and Mar, Rubén, Daniela, Rosa and And
 | Lesson quiz | 3 questions with 3 options on the *Practice* page, with answers | Self-check, not graded |
 | "What would you do?" H5P | 3 cases per lesson, graded, with retries | Lesson completion and points |
 | Module self-assessment | Bank of 177 questions with three options and feedback; 70% to pass, unlimited attempts | Module badge |
-| Course completion | All five self-assessments passed | Complete plan badge and certificate of completion |
+| Course completion | All five self-assessments passed | Complete plan badge; the certificate also requires the Final survey |
 
 #### Application assessment (with facilitation)
 
@@ -236,7 +236,7 @@ For operator use only. Not shown on the platform. Alternate items (11 and 12) ca
 | M1-09 | A preparer asks you to sign a blank return and promises a refund without reviewing. Safe response. | Do not sign; protect documents; verify credentials (PTIN, CTEC); look for an alternative. |
 | M1-10 | Turn "save more" into a verifiable action for a household with a deficit. | Record four weeks, identify the gap and review two supports or obligations by a date. |
 | M1-11 (alternate) | Can CalEITC be claimed with an ITIN? What does the federal EITC require? | Yes, CalEITC with an ITIN. The federal EITC requires a valid SSN. |
-| M1-12 (alternate) | Under the current public charge rule, are CalFresh and benefits for citizen children considered? | No. Mainly cash assistance and long-term institutional care are considered. Confirm with an attorney or accredited representative. |
+| M1-12 (alternate) | Since September 18, 2026, is there a fixed list of benefits that don't count for public charge? | No. Each case is reviewed as a whole; for benefits received before that date, only cash assistance and long-term care count. Confirm with an attorney or accredited representative. |
 
 #### Module 2
 
@@ -362,8 +362,8 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 #### Definitions
 
 - **Enrolled:** unique accepted ID. **Started:** completed the baseline or first activity. **Passed:** passed a module's self-assessment. **Graduated:** passed the whole program.
-- **T0** baseline; **T1** module or program close (say which); **D30, D90 and D180** from T1.
-- Windows: D30 between days 21 and 45; D90 between 75 and 105; D180 between 150 and 210. Keep the actual date.
+- **T0** start survey (required to open the first lesson); **T1** final survey (required for the certificate); **D30 and D90** follow-up surveys from the end of the cohort.
+- Windows: D30 opens on day 30 and closes on day 44; D90 opens on day 90 and closes on day 104. All four surveys are anonymous and share the same core questions.
 
 #### Learning and operations indicators
 
@@ -372,7 +372,7 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 | K01 | Unique reach | Enrolled and started IDs, separately | Report counts and period |
 | K02 | Module pass rate | Passed ÷ started × 100 | Set target after the pilot |
 | K03 | Program completion | Graduated ÷ started × 100 | Report time and dropouts |
-| K04 | Knowledge change | Mean T1 − T0 for complete pairs | Report points, n and dispersion |
+| K04 | Knowledge change | % correct per question in "Your starting point" vs. the same question on the first attempt of the self-assessment (Moodle statistics) | Report percentage points and n for each; these are groups, not pairs |
 | K05 | Calendar mastery | Reconciled calendar ÷ assessed | 80% in the pilot |
 | K06 | Tax preparation | Folders meeting the checklist ÷ assessed | 80% of fields, no critical confusion |
 | K07 | Product comparison | With source and critical fields ÷ assessed | 100% verified or marked "to be confirmed" |
@@ -385,31 +385,24 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 
 #### Application indicators
 
-| ID | Indicator | Evidence and window | Interpretation |
+| ID | Indicator | Source and timing | Interpretation |
 |---|---|---|---|
-| A01 | Calendar use | Record or template at D30 and D90 | Separate recorded use from self-report |
-| A02 | Compared decision | Dated sheet at D30 to D90 | Can end in not signing up |
-| A03 | Remittance plan applied | 4-week record at D30 and D90 | Sending less is not a better outcome |
-| A04 | Financed remittances | Financed ÷ total at T0 and D90 | Exclude periods without transfers |
-| A05 | Transfer cost | Comparable for the same budget at T0 and D90 | Control amount, channel, date and promotion |
-| A06 | Credit action | Reference number or checklist at D30 to D90 | Do not promise points |
-| A07 | Debt | Comparable balances and late payments T0 and D90 or D180 | Separate payments, new debt, interest and forgiveness |
-| A08 | Reserve | Months of coverage T0 and D90 or D180 | If expenses are zero or missing, do not calculate |
-| A09 | Protection | Checklist, consultation or policy review at D90 | Buying is not a success indicator |
-| A10 | Retirement | Verifiable step at D90 or D180 | Do not measure promised wealth |
-| A11 | Financial well-being | Official CFPB scale at T0 and D180 | Validated instrument, optional |
-| A12 | Usefulness and barriers | Private survey at D30 and D90 | Also publish criticism |
-| A13 | Family preparedness plan | Complete index at D90 | No sensitive data |
+| A01 | Financial well-being index (0–100) and sub-scores | Surveys T0, T1, D30, D90 (P1–P8) | Comparison of anonymous groups; report n at each stage |
+| A02 | Financial stress | E1–E5 at T0, T1, D30, D90 | % with frequent worry |
+| A03 | Habits | H1–H7 (+H8–H9 if applicable) at T0, T1, D30, D90 | Self-report |
+| A04 | Actions taken | F2 at T1 | % with at least one action |
+| A05 | Use of programs and no-cost guidance | U1–U2 at T1, D30, D90 | "Not yet" is reported separately |
+| A06 | Usefulness and recommendation | F1, F3 (net recommendation), F4 at T1 | Also publish criticism |
 
 #### Verifiability rules
 
-- Evidence levels: **V0** self-report; **V1** dated activity or record; **V2** document with sensitive data hidden or authorized professional review. Report the share at each level.
+- All application results are anonymous self-report and are reported as such.
 - For each value: definition, instrument version, period, numerator, denominator, missing data, source and person responsible.
 - No response is missing data, never zero or failure. Lack of resources to act is recorded as a barrier, not as lack of learning.
 - A before-and-after without a comparison group shows association, not causation.
-- Compare with national benchmarks: the CFPB scale and questions comparable with the FDIC National Survey of Unbanked and Underbanked Households and the FINRA National Financial Capability Study.
+- National context (without comparing groups by race or origin): ENIF (INEGI-CNBV), Banxico, FDIC and the Federal Reserve (SHED). Our own index is not the CFPB scale; scores are not compared with each other.
 
-**Fictional reporting example.** 50 started M2, 40 were assessed and 34 passed: 68% of those who started and 85% of those assessed. If 24 responded at D90 and 15 documented a comparison, report "15 of 24 respondents" and "follow-up coverage 24 of 50."
+**Fictional reporting example.** 50 started M2, 40 were assessed and 34 passed: 68% of those who started and 85% of those assessed. If 24 responded at D90 and 15 said they used a support program, report "15 of 24 respondents" and "follow-up participation 24 of 50."
 
 ---
 
@@ -417,7 +410,7 @@ Each "verify" cell is completed with an official source, date and reviewer befor
 
 **Badges.** Moodle awards a badge for passing each module's self-assessment, two special badges and the Complete plan badge at the end of the course. They are digital badges with criteria, issuer (Desarrolla Talento) and date.
 
-**Certificate of completion.** Issued with the Custom certificate plugin after passing the five self-assessments. It shows the person's name, the completion date and a verification code. Legend: the program's own educational recognition; it is not a professional license or official accreditation.
+**Certificate of completion.** Issued with the Custom certificate plugin after passing the five self-assessments and submitting the Final survey. It shows the person's name, the completion date and a verification code. Legend: the program's own educational recognition; it is not a professional license or official accreditation.
 
 **Rule.** Badges and the certificate are never conditioned on a review, purchase, referral or account opening.
 
@@ -431,17 +424,17 @@ SSN, ITIN, passport number, immigration status, passwords, full account or card 
 
 #### Minimum data dictionary
 
-random participant_id · cohort_id · language · state · start date · module_id · unit_id · instrument_version · assessment date · attempt · score · rubric_dimension · rubric_level · critical_error_resolved · evidence_level (V0, V1, V2) · completion_date · certificate_id · followup_anchor · followup_day · response_status · consent_version. Contact details are stored separately from responses.
+No separate participant database is created. Only these are used: (a) aggregate Moodle statistics (completion, self-assessments, Level Up by level); (b) anonymous survey responses, loaded into the Results dashboard in the browser and deleted afterward; (c) the aggregate summary the dashboard exports. No contact details are kept for follow-up: the 30- and 90-day reminders go out through Moodle.
 
 #### Consent and retention
 
-- Separate consents for follow-up, testimonials and any referral.
-- Proposed retention: identifiable follow-up data up to 12 months after D180; then deletion or anonymization. Validate with legal counsel before operating.
-- Aggregate reporting only; do not publish small identifiable groups.
+- Follow-up: anonymous surveys at 30 and 90 days after the cohort ends; no identifiable data is collected.
+- Aggregate reporting only (at least 5 responses per group).
+- Testimonials or referrals require a separate consent, reviewed by Legal.
 
 #### Follow-up survey
 
-1) What action did you try? 2) When? 3) What optional evidence can you record without sensitive data? 4) What changed? 5) What did not change or got worse? 6) What other event mattered? 7) What barrier did you face? 8) What help do you need? 9) Do you authorize follow-up contact? 10) Would you like to share a testimonial separately?
+It is the anonymous Moodle survey (`survey_follow_up.xml`): the same core well-being (P1–P8), stress (E1–E5) and habits (H1–H7) questions, plus use of programs and guidance (U1–U2). It does not ask for contact authorization. Testimonials go in a separate, optional, non-anonymous activity whose text comes from Legal.
 
 #### Responsibilities
 
@@ -458,7 +451,7 @@ Curriculum coordination (scope and versions) · subject review (finance, taxes, 
 | F05 | Case bank: origin, permission, anonymization, solution and limits |
 | F06 | Instruments: baseline, quizzes, closing bank, rubrics, keys and language versions |
 | F07 | Operations log: cohorts, progress, support, incidents, approvals and certificates |
-| F08 | Follow-up: consent, windows, questionnaires and missing-data report |
+| F08 | Follow-up: anonymous surveys at 30 and 90 days, windows and missing-data report |
 | F09 | Product matrix and directory with verification evidence |
 | F10 | Results report: method, population, numerators, denominators and limitations |
 | F11 | Privacy and incident response protocol |

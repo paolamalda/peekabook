@@ -1,6 +1,6 @@
 # Listas de cotejo de los productos de cada módulo · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto que la persona elabora en cada módulo. Se pueden usar datos de ejemplo: **nunca** se piden montos reales ni datos personales.
 
@@ -22,7 +22,7 @@ Sirven para revisar, en sesiones presenciales o por quien acompaña, el producto
 | 10 | Preparó carpetas de ingresos, gastos, salud, familia y avisos del IRS o del FTB; Si tiene bienes o ingresos en otro país, anotó esa pregunta para su preparador | ☐ | ☐ | |
 | 11 | Localizó la sede de VITA más cercana y anotó su horario, su idioma y los documentos que pide | ☐ | ☐ | |
 | 12 | Comparó dos servicios y una opción sin costo; anotó qué confirmó y qué falta | ☐ | ☐ | |
-| 13 | Anotó qué apoyo necesita su hogar, quién podría calificar y dónde confirmarás su caso | ☐ | ☐ | |
+| 13 | Anotó qué apoyo necesita su hogar, quién lo recibiría y dónde confirmarás su caso antes de decidir | ☐ | ☐ | |
 | 14 | Entregó su expediente del Módulo 1: diagnóstico, calendario de 8 semanas, presupuesto habitual y con menos ingreso, lista fiscal y tres acciones de 90 días; Se evalúa la coherencia y la capacidad de ajuste, no cuánto dinero tiene; resolvió también el caso integrador E1 al final del manual | ☐ | ☐ | |
 | 15 | El producto está completo y la persona puede explicar para qué le sirve | ☐ | ☐ | |
 

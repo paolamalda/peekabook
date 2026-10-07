@@ -55,7 +55,7 @@ Versión 3.0 · Septiembre de 2026 · Corresponde al curso v3.4 en Moodle y a su
 | Cobertura geográfica | Núcleo federal y módulo estatal. Piloto en California; después Texas, Illinois, Nueva York y Florida |
 | Duración estimada | Unas 13 horas en la plataforma (lecciones de 5 a 10 minutos, actividades y autoevaluaciones), más el tiempo de los casos integradores y el plan; se ajustará con datos del piloto |
 | Estructura | 5 módulos, 63 lecciones, 63 actividades H5P «¿Qué harías?», 5 autoevaluaciones (189 preguntas), 5 casos integradores y 22 prácticas de cálculo |
-| Constancia | Insignia por módulo y constancia de conclusión verificable al aprobar las cinco autoevaluaciones; no es licencia ni acreditación oficial |
+| Constancia | Insignia por módulo y constancia de conclusión verificable al aprobar las cinco autoevaluaciones y enviar la Encuesta final; no es licencia ni acreditación oficial |
 
 **Objetivo general.** Al terminar, la persona construye, justifica y ajusta un plan que conecta ingresos, gastos, impuestos, servicios financieros, remesas, crédito, protección y metas. Compara alternativas, reconoce riesgos, verifica información y pide la ayuda adecuada.
 
@@ -172,7 +172,7 @@ Seis personajes acompañan el curso: Alex y Mar, Rubén, Daniela, Rosa y Andrés
 | Quiz de lección | 3 preguntas con 3 opciones en la página *Practica*, con respuestas | Autocomprobación, sin calificación |
 | H5P «¿Qué harías?» | 3 casos por lección, con calificación y reintentos | Finalización de la lección y puntos |
 | Autoevaluación del módulo | Banco de 177 preguntas con tres opciones y retroalimentación; aprobatoria 70%, intentos ilimitados | Insignia del módulo |
-| Finalización del curso | Las cinco autoevaluaciones aprobadas | Insignia Plan completo y constancia de conclusión |
+| Finalización del curso | Las cinco autoevaluaciones aprobadas | Insignia Plan completo; la constancia, además, pide la Encuesta final |
 
 #### Evaluación de aplicación (con acompañamiento)
 
@@ -239,7 +239,7 @@ Uso exclusivo del operador. No se muestra en la plataforma. Los reactivos altern
 | M1-09 | Un preparador pide firmar una declaración en blanco y promete reembolso sin revisar. Respuesta segura. | No firmar; proteger documentos; verificar credenciales (PTIN, CTEC); buscar alternativa. |
 | M1-10 | Convierte "ahorrar más" en una acción comprobable para un hogar con déficit. | Registrar cuatro semanas, identificar la brecha y revisar dos apoyos u obligaciones con fecha. |
 | M1-11 (alterno) | ¿El CalEITC puede reclamarse con ITIN? ¿Qué exige el EITC federal? | Sí, el CalEITC con ITIN. El EITC federal exige SSN válido. |
-| M1-12 (alterno) | Según la regla vigente de carga pública, ¿se consideran CalFresh y los apoyos de hijos ciudadanos? | No. Se consideran principalmente la asistencia en efectivo y el cuidado institucional de largo plazo. Confirmar con abogado o representante acreditado. |
+| M1-12 (alterno) | Desde el 18 de septiembre de 2026, ¿hay una lista fija de apoyos que no cuentan para carga pública? | No. Cada caso se revisa completo; de lo recibido antes de esa fecha solo cuentan la asistencia en efectivo y el cuidado de largo plazo. Confirmar con abogado o representante acreditado. |
 
 #### Módulo 2
 
@@ -365,8 +365,8 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 #### Definiciones
 
 - **Inscrito:** identificador único aceptado. **Iniciado:** completó diagnóstico o primera actividad. **Aprobado:** aprobó la autoevaluación de un módulo. **Graduado:** aprobó todo el programa.
-- **T0** línea base; **T1** cierre del módulo o programa (indicar cuál); **D30, D90 y D180** desde T1.
-- Ventanas: D30 entre 21 y 45 días; D90 entre 75 y 105; D180 entre 150 y 210. Guardar la fecha real.
+- **T0** encuesta de inicio (obligatoria para abrir la primera lección); **T1** encuesta final (requisito de la constancia); **D30 y D90** encuestas de seguimiento desde el fin de la cohorte.
+- Ventanas: D30 se abre el día 30 y cierra el 44; D90 se abre el día 90 y cierra el 104. Las cuatro encuestas son anónimas y tienen las mismas preguntas base.
 
 #### Indicadores de aprendizaje y operación
 
@@ -375,7 +375,7 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 | K01 | Alcance único | Identificadores inscritos e iniciados, por separado | Reportar conteos y periodo |
 | K02 | Aprobación de módulo | Aprobados ÷ iniciados × 100 | Fijar meta después del piloto |
 | K03 | Finalización integral | Graduados ÷ iniciados × 100 | Reportar tiempos y abandonos |
-| K04 | Cambio en conocimiento | Promedio T1 − T0 en pares completos | Reportar puntos, n y dispersión |
+| K04 | Cambio en conocimiento | % de aciertos por pregunta en «Tu punto de partida» vs. la misma pregunta en el primer intento de la autoevaluación (estadísticas de Moodle) | Reportar puntos porcentuales y n de cada uno; son grupos, no pares |
 | K05 | Dominio del calendario | Concilian calendario ÷ evaluados | 80% en piloto |
 | K06 | Preparación fiscal | Expedientes que cumplen lista ÷ evaluados | 80% de campos, sin confusión crítica |
 | K07 | Comparación de productos | Con fuente y campos críticos ÷ evaluados | 100% verificados o marcados "por confirmar" |
@@ -388,31 +388,24 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 
 #### Indicadores de aplicación
 
-| ID | Indicador | Prueba y ventana | Interpretación |
+| ID | Indicador | Fuente y momento | Interpretación |
 |---|---|---|---|
-| A01 | Uso del calendario | Registro o plantilla en D30 y D90 | Separar uso registrado de autoinforme |
-| A02 | Decisión comparada | Ficha fechada en D30 a D90 | Puede terminar en no contratar |
-| A03 | Plan de remesas aplicado | Registro de 4 semanas en D30 y D90 | Enviar menos no es mejor resultado |
-| A04 | Remesas financiadas | Financiadas ÷ total en T0 y D90 | Excluir periodos sin envíos |
-| A05 | Costo de envío | Comparable para igual presupuesto en T0 y D90 | Controlar monto, canal, fecha y promoción |
-| A06 | Acción de crédito | Folio o lista en D30 a D90 | No prometer puntos |
-| A07 | Deuda | Saldos y atrasos comparables T0 y D90 o D180 | Separar pagos, nueva deuda, intereses y condonación |
-| A08 | Reserva | Meses de cobertura T0 y D90 o D180 | Si el gasto es cero o falta, no calcular |
-| A09 | Protección | Lista, consulta o revisión en D90 | Contratar no es indicador de éxito |
-| A10 | Retiro | Paso verificable en D90 o D180 | No medir riqueza prometida |
-| A11 | Bienestar financiero | Escala oficial del CFPB en T0 y D180 | Instrumento validado, opcional |
-| A12 | Utilidad y barreras | Encuesta privada D30 y D90 | Publicar también críticas |
-| A13 | Plan de preparación familiar | Índice completo en D90 | Sin datos sensibles |
+| A01 | Índice de bienestar financiero (0–100) y subíndices | Encuestas T0, T1, D30, D90 (P1–P8) | Comparación de grupos anónimos; reportar n de cada etapa |
+| A02 | Estrés financiero | E1–E5 en T0, T1, D30, D90 | % con preocupación frecuente |
+| A03 | Hábitos | H1–H7 (+H8–H9 si aplica) en T0, T1, D30, D90 | Autoinforme |
+| A04 | Acciones tomadas | F2 en T1 | % con al menos una acción |
+| A05 | Uso de programas y orientación sin costo | U1–U2 en T1, D30, D90 | «Todavía no» se reporta aparte |
+| A06 | Utilidad y recomendación | F1, F3 (recomendación neta), F4 en T1 | Publicar también críticas |
 
 #### Reglas de verificabilidad
 
-- Niveles de evidencia: **V0** autoinforme; **V1** actividad o registro fechado; **V2** documento con datos sensibles ocultos o revisión profesional autorizada. Reportar la proporción de cada nivel.
+- Todos los resultados de aplicación son autoinforme anónimo; se reportan como tal.
 - Para cada valor: definición, versión del instrumento, periodo, numerador, denominador, faltantes, fuente y responsable.
 - La falta de respuesta es un dato faltante, nunca cero ni fracaso. La falta de recursos para actuar se registra como barrera, no como falta de aprendizaje.
 - Un antes y después sin grupo de comparación muestra asociación, no causalidad.
-- Comparar con referentes nacionales: escala CFPB, preguntas comparables de la encuesta FDIC de hogares no bancarizados y del FINRA National Financial Capability Study.
+- Contexto nacional (sin comparar grupos por raza u origen): ENIF (INEGI-CNBV), Banxico, FDIC y Reserva Federal (SHED). El índice propio no es la escala del CFPB; no se comparan puntajes entre sí.
 
-**Ejemplo ficticio de reporte.** 50 iniciaron M2, 40 fueron evaluados y 34 aprobaron: 68% sobre iniciados y 85% sobre evaluados. Si 24 respondieron en D90 y 15 documentaron una comparación, se informa "15 de 24 respondientes" y "cobertura de seguimiento 24 de 50".
+**Ejemplo ficticio de reporte.** 50 iniciaron M2, 40 fueron evaluados y 34 aprobaron: 68% sobre iniciados y 85% sobre evaluados. Si 24 respondieron en D90 y 15 marcaron haber usado un programa de apoyo, se informa "15 de 24 respondientes" y "participación en el seguimiento 24 de 50".
 
 ---
 
@@ -420,7 +413,7 @@ Cada celda "verificar" se completa con fuente oficial, fecha y revisor antes del
 
 **Insignias.** Moodle entrega una insignia al aprobar la autoevaluación de cada módulo, dos insignias especiales y la insignia Plan completo al concluir el curso. Son insignias digitales con criterio, emisor (Desarrolla Talento) y fecha.
 
-**Constancia de conclusión.** Se emite con el complemento Certificado personalizado al aprobar las cinco autoevaluaciones. Lleva el nombre de la persona, la fecha de conclusión y un código de verificación. Leyenda: reconocimiento educativo propio del programa; no constituye licencia profesional ni acreditación oficial.
+**Constancia de conclusión.** Se emite con el complemento Certificado personalizado al aprobar las cinco autoevaluaciones y enviar la Encuesta final. Lleva el nombre de la persona, la fecha de conclusión y un código de verificación. Leyenda: reconocimiento educativo propio del programa; no constituye licencia profesional ni acreditación oficial.
 
 **Regla.** Nunca se condicionan las insignias ni la constancia a una reseña, compra, referido o apertura de cuenta.
 
@@ -434,17 +427,17 @@ SSN, ITIN, número de pasaporte, estatus migratorio, contraseñas, números comp
 
 #### Diccionario mínimo de datos
 
-participant_id aleatorio · cohort_id · idioma · estado · fecha de inicio · module_id · unit_id · instrument_version · fecha de evaluación · intento · score · rubric_dimension · rubric_level · critical_error_resolved · evidence_level (V0, V1, V2) · completion_date · certificate_id · followup_anchor · followup_day · response_status · consent_version. Los datos de contacto se guardan separados de las respuestas.
+No se crea una base propia de participantes. Se usan solo: (a) estadísticas agregadas de Moodle (finalización, autoevaluaciones, Level Up por nivel); (b) respuestas anónimas de las encuestas, cargadas en el Tablero de resultados en el navegador y borradas después; (c) el resumen agregado que exporta el Tablero. No se guardan datos de contacto para el seguimiento: los avisos de 30 y 90 días salen por Moodle.
 
 #### Consentimiento y retención
 
-- Consentimientos separados para seguimiento, testimonio y eventual referido.
-- Propuesta de retención: datos de seguimiento identificables hasta 12 meses después de D180; después, eliminación o anonimización. Validar con asesoría legal antes de operar.
-- Reportes solo agregados; no publicar grupos pequeños identificables.
+- Seguimiento: encuestas anónimas a los 30 y 90 días del fin de la cohorte; no se recaban datos identificables.
+- Reportes solo agregados (mínimo 5 respuestas por grupo).
+- Testimonios o referidos requieren consentimiento aparte, revisado por Legal.
 
 #### Encuesta de seguimiento
 
-1) ¿Qué acción intentaste? 2) ¿Cuándo? 3) ¿Qué evidencia opcional puedes registrar sin datos sensibles? 4) ¿Qué cambió? 5) ¿Qué no cambió o empeoró? 6) ¿Qué otro evento influyó? 7) ¿Qué barrera encontraste? 8) ¿Qué apoyo necesitas? 9) ¿Autorizas contacto de seguimiento? 10) ¿Deseas compartir un testimonio por separado?
+Es la encuesta anónima de Moodle (`encuesta_seguimiento.xml`): las mismas preguntas base de bienestar (P1–P8), estrés (E1–E5) y hábitos (H1–H7), más el uso de programas y orientación (U1–U2). No pide autorización de contacto. Los testimonios van en una actividad aparte, opcional y no anónima, cuyo texto es de Legal.
 
 #### Responsabilidades
 
@@ -461,7 +454,7 @@ Coordinación curricular (alcance y versiones) · revisión temática (finanzas,
 | F05 | Banco de casos: origen, permiso, anonimización, solución y límites |
 | F06 | Instrumentos: diagnóstico, quizzes, banco de cierre, rúbricas, claves y versiones lingüísticas |
 | F07 | Registro de operación: cohortes, avance, soporte, incidencias, aprobación y constancias |
-| F08 | Seguimiento: consentimiento, ventanas, cuestionarios y reporte de faltantes |
+| F08 | Seguimiento: encuestas anónimas a 30 y 90 días, ventanas y reporte de faltantes |
 | F09 | Matriz de productos y directorio con evidencias de verificación |
 | F10 | Informe de resultados: método, población, numeradores, denominadores y limitaciones |
 | F11 | Protocolo de privacidad y respuesta a incidentes |

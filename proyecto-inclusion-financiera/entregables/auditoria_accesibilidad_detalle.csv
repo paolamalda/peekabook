@@ -89,7 +89,7 @@ tu_dinero_es,M1 U09,¿Presentar impuestos significa que me devolverán dinero?,7
 tu_dinero_es,M1 U10,¿Todo lo que cobro por mi cuenta es para gastar?,72.0,bastante fácil,0,0,,0,0,0,286,
 tu_dinero_es,M1 U11,¿Qué apoyos fiscales existen si declaro con ITIN?,71.2,bastante fácil,0,0,,0,0,0,271,
 tu_dinero_es,M1 U12,¿Cómo elijo a alguien que me ayude con impuestos?,75.9,bastante fácil,0,0,,0,0,0,289,
-tu_dinero_es,M1 U13,¿Qué debo saber antes de pedir un apoyo público?,64.6,normal,0,0,,0,0,0,271,
+tu_dinero_es,M1 U13,¿Qué debo saber antes de pedir un apoyo público?,68.4,bastante fácil,1,0,,0,0,0,282,"Desde el 1 de enero de 2026, los adultos de 19 años o más sin estatus migratorio regular ya no pueden inscribirse por primera vez en Medi-Cal completo."
 tu_dinero_es,M1 U14,¿Cómo convierto lo aprendido en algo que sí puedo hacer?,75.9,bastante fácil,0,0,,0,0,0,283,
 tu_dinero_es,M2 U01,¿Quién cuida mi dinero y quién me presta el servicio?,74.4,bastante fácil,0,0,,0,0,0,294,
 tu_dinero_es,M2 U02,¿Una app de dinero es siempre un banco?,74.5,bastante fácil,0,0,,0,0,0,321,
@@ -650,7 +650,7 @@ your_money_en,M1 U09,Does filing taxes mean I'll get money back?,81.7,fácil,0,0
 your_money_en,M1 U10,Is everything I earn on my own for spending?,81.3,fácil,0,0,,0,0,0,319,
 your_money_en,M1 U11,What tax benefits are there if I file with an ITIN?,74.6,fácil,0,0,,0,0,0,300,
 your_money_en,M1 U12,How do I choose someone to help me with taxes?,76.7,fácil,0,0,,0,0,0,290,
-your_money_en,M1 U13,What should I know before I apply for public benefits?,61.8,normal,0,0,,0,0,0,274,
+your_money_en,M1 U13,What should I know before I apply for public benefits?,60.5,normal,0,0,,0,0,0,281,
 your_money_en,M1 U14,How do I turn what I learned into something I can actually do?,83.1,fácil,0,0,,0,0,0,308,
 your_money_en,M2 U01,Who takes care of my money and who provides the service?,75.0,fácil,0,0,,0,0,0,311,
 your_money_en,M2 U02,Is a money app always a bank?,81.3,fácil,0,0,,0,0,0,350,

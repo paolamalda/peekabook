@@ -1,6 +1,6 @@
 # Instrumentos de evaluación del aprendizaje (EC0217 y EC0366) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Cuestionarios de opción múltiple con una sola respuesta correcta, tres opciones y retroalimentación. Requisitos de diseño: objetividad, validez, confiabilidad y claridad; tres reactivos por lección, proporcionales a los contenidos.
 
@@ -49,7 +49,7 @@ Cuestionarios de opción múltiple con una sola respuesta correcta, tres opcione
 | 35 | ¿Cómo elijo a alguien que me ayude con impuestos? | En California, un preparador pagado que no es CPA, EA ni abogado debe registrarse en: | a) CTEC · b) DMV · c) El consulado | a | 2.38 |
 | 36 | ¿Cómo elijo a alguien que me ayude con impuestos? | ¿Es seguro firmar una declaración en blanco? | a) Sí · b) Sí, si es un preparador conocido · c) No | c | 2.38 |
 | 37 | ¿Qué debo saber antes de pedir un apoyo público? | ¿La regla de carga pública aplica a todos los trámites migratorios? | a) Sí · b) No · c) Solo a la ciudadanía | b | 2.38 |
-| 38 | ¿Qué debo saber antes de pedir un apoyo público? | Según la regla vigente, ¿CalFresh se considera para carga pública? | a) No · b) Sí · c) Sí, si lo usan los hijos | a | 2.38 |
+| 38 | ¿Qué debo saber antes de pedir un apoyo público? | Desde el 18 de septiembre de 2026, ¿cómo se revisa la carga pública? | a) Caso por caso, con todo el caso junto · b) Con una lista fija de apoyos que no cuentan · c) Ya no se revisa | a | 2.38 |
 | 39 | ¿Qué debo saber antes de pedir un apoyo público? | ¿Quién puede darte asesoría migratoria? | a) Un notario · b) Un consultor de inmigración con oficina y anuncios · c) Un abogado o un representante acreditado por el DOJ | c | 2.38 |
 | 40 | ¿Cómo convierto lo aprendido en algo que sí puedo hacer? | ¿Qué tiene una meta comprobable? | a) Solo un deseo · b) Acción, fecha y evidencia · c) Una lista de deseos para el año | b | 2.38 |
 | 41 | ¿Cómo convierto lo aprendido en algo que sí puedo hacer? | ¿"Necesito averiguar" puede ser una acción? | a) Sí, si tiene fecha · b) No · c) Solo si otra persona lo hace por ti | a | 2.38 |

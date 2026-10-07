@@ -1,6 +1,6 @@
 # Carta descriptiva de las sesiones presenciales (EC0217) · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Para cuando una organización pide acompañar el curso en línea con sesiones de grupo: una sesión por módulo (5 sesiones). La primera incluye el encuadre completo y la última el cierre completo. Grupo de 10 a 25 personas.
 

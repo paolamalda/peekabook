@@ -1,6 +1,6 @@
 # Detección de necesidades de capacitación por cliente · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Se llena con la organización que contrata (empresa, gobierno, fundación o cooperativa). **No se piden datos personales** de las personas participantes.
 

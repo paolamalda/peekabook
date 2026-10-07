@@ -1,6 +1,6 @@
 # Evaluación diagnóstica de conocimientos · Tu Dinero, Tu Familia, Tu Futuro
 
-Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 3.4
+Elabora: Paola Malda Arozarena · Desarrolla Talento · Fecha: 5 de octubre de 2026 · Versión 1.0
 
 Se aplica al inicio, junto con la encuesta de inicio. Explora lo que la persona ya sabe de cada módulo; **no cuenta para la calificación** y no se repite.
 

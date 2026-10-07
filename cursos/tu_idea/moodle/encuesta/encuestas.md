@@ -4,7 +4,7 @@ Tres encuestas con las mismas preguntas base para medir el cambio: **inicio** (a
 
 | Encuesta | Archivo | Preguntas |
 |---|---|---|
-| Inicio | `encuesta_inicio.xml` | 23 |
+| Inicio | `encuesta_inicio.xml` | 24 |
 | Final | `encuesta_final.xml` | 28 |
 | Seguimiento | `encuesta_seguimiento.xml` | 24 |
 
@@ -151,6 +151,20 @@ Promedio de los puntos de P1 a P8 (0 a 100). De 0 a 39: en riesgo · de 40 a 79:
 - 17 a 18
 - 19 o más
 - Prefiero no decir
+
+**D3.** ¿Cómo te enteraste de este programa? (opcional)
+- Facebook
+- Instagram
+- TikTok
+- Un mensaje de WhatsApp
+- Me lo recomendó un familiar, amigo o conocido
+- Una organización o grupo de mi comunidad
+- Un consulado
+- Mi escuela
+- Mi trabajo
+- Buscando en internet (Google u otro)
+- El sitio desarrollatalento.com
+- Otro
 
 ## Evaluación del programa (solo en la final)
 

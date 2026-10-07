@@ -2870,17 +2870,17 @@ Compara dos servicios y una opción sin costo. Anota qué confirmaste y qué fal
 
 ## M1 U13. ¿Qué debo saber antes de pedir un apoyo público?
 
-**Lo que lograrás:** Explicar qué es la "carga pública", qué apoyos existen y dónde confirmar tu caso antes de decidir.
+**Lo que lograrás:** Explicar qué es la "carga pública", qué cambió en 2026 y por qué conviene confirmar tu caso con una persona autorizada antes de pedir o dejar un apoyo.
 
-**Para empezar:** Daniela necesita ayuda para comprar comida para su hijo, pero una vecina le dijo que pedir cualquier apoyo podía afectarla. No sabe si es cierto. En esta lección aprenderás qué dice la regla y dónde confirmar tu caso sin arriesgarte.
+**Para empezar:** Daniela necesita ayuda para comprar comida para su hijo, pero una vecina le dijo que pedir cualquier apoyo podía afectarla. No sabe si es cierto. En esta lección aprenderás qué cambió en la regla y dónde confirmar tu caso antes de decidir.
 
 ### Lo esencial (5 minutos)
 
 #### Decidir con información, no con rumores
 
-Muchas familias no piden apoyos a los que tienen derecho por miedo a que les afecte en un trámite migratorio. Otras los piden sin saber si aplican.
+Muchas familias no piden apoyos por miedo a que les afecte en un trámite migratorio. Otras los piden sin saber cómo se toman en cuenta.
 
-Las dos cosas se resuelven igual: con información confiable sobre tu caso.
+Las dos cosas se resuelven igual: con información confiable sobre tu caso, antes de decidir.
 
 
 
@@ -2888,41 +2888,41 @@ Las dos cosas se resuelven igual: con información confiable sobre tu caso.
 
 La **carga pública** es una evaluación que se hace en algunos trámites migratorios, principalmente en ciertas solicitudes de residencia permanente.
 
-Solo aplica a ciertos trámites y solo considera ciertos apoyos.
+No aplica a todos los trámites ni a todas las personas.
 
 
 
-#### Qué considera la regla vigente desde 2022
+#### Qué cambió el 18 de septiembre de 2026
 
 | Tipo | Descripción | Qué significa para ti |
 |---|---|---|
-| Sí se considera | Asistencia en efectivo para mantener ingresos (como SSI o CalWORKs en efectivo) y cuidado de largo plazo pagado por el gobierno. | Consulta antes de pedirlo. |
-| No se considera | CalFresh, Medi-Cal (salvo cuidado de largo plazo), WIC, comidas escolares, vivienda, créditos fiscales como el CalEITC. | Puedes pedirlo sin que cuente. |
-| Apoyos de tu familia | Lo que reciben otros miembros, como hijos ciudadanos, no se cuenta como tuyo. | No se suma a tu caso. |
+| La regla cambió | El gobierno de EE. UU. canceló la regla de 2022. Para solicitudes presentadas desde el 18 de septiembre de 2026 ya no hay una lista fija de apoyos que "no cuentan". | Las guías anteriores pueden estar desactualizadas. |
+| Caso por caso | La oficina de migración revisa todo tu caso junto: edad, salud, familia, ingresos, estudios y los apoyos que recibas desde esa fecha. | Ningún apoyo se decide solo. |
+| Lo que recibiste antes | De los apoyos recibidos antes del 18 de septiembre de 2026, se toma en cuenta solo la asistencia en efectivo y el cuidado de largo plazo pagado por el gobierno. | Guarda tus fechas y comprobantes. |
 
 #### Tres pasos antes de decidir
 
-1. Identifica qué apoyo necesitas: comida, salud, vivienda o dinero.
-2. Averigua quién en tu hogar podría calificar.
-3. Confirma con una fuente confiable cómo aplica la regla a tu caso.
+1. Identifica qué apoyo necesitas (comida, salud, vivienda o dinero) y para quién en tu hogar.
+2. Averigua si tú o alguien de tu familia tiene o va a iniciar un trámite migratorio.
+3. Antes de pedir o dejar un apoyo, confirma tu caso con un abogado de inmigración o un representante acreditado.
 
-> **Idea clave:** las reglas pueden cambiar. Una propuesta no es regla hasta que se publica como final y entra en vigor.
+> **Idea clave:** las reglas cambian. Revisa siempre la fecha de la información que lees y pregunta antes de decidir.
 
 
 
 #### Un caso en un minuto
 
-Rosa vive en Fresno con su hija y sus nietos. Dejó de llevar a sus nietos a WIC por miedo a que le afectara. Su hija le comparte lo que aprendió: WIC no se considera en la regla vigente de carga pública, y los apoyos de los nietos no se cuentan como de Rosa.
+Rosa vive en Fresno con su hija y sus nietos. Escuchó que la regla cambió y pensó en dejar de llevar a sus nietos a WIC. Su hija le recomienda no decidir por un rumor.
 
-Rosa llama a una organización comunitaria para confirmarlo. Le explican lo mismo y le recomiendan revisar la regla cada año por si cambia.
+Rosa pide una cita en una organización de ayuda legal y lleva sus preguntas por escrito antes de cambiar nada.
 
-> **Antes de actuar, verifica:** el estado actual de la regla y de cada programa con un abogado o representante acreditado.
+> **Antes de actuar, verifica:** cómo aplica la regla a tu caso, con un abogado o representante acreditado.
 
 
 
 #### Hazlo esta semana
 
-1. Anota qué apoyo necesita tu hogar.
+1. Anota qué apoyo necesita tu hogar y desde cuándo lo reciben.
 2. Busca una organización de ayuda legal o un representante acreditado cerca de ti.
 3. Lleva tus preguntas por escrito.
 
@@ -2933,15 +2933,15 @@ Rosa llama a una organización comunitaria para confirmarlo. Le explican lo mism
 1. ¿La carga pública aplica a todos los trámites migratorios?
 *Respuesta:* No. Solo a ciertos trámites, principalmente algunas solicitudes de residencia.
 
-2. ¿Los apoyos que reciben tus hijos ciudadanos se cuentan como tuyos?
-*Respuesta:* No. Según la regla vigente, no se cuentan como tuyos.
+2. Desde el 18 de septiembre de 2026, ¿hay una lista fija de apoyos que "no cuentan"?
+*Respuesta:* No. Cada caso se revisa completo; por eso conviene preguntar antes de pedir o dejar un apoyo.
 
 
 #### Para recordar
 
-- La regla solo aplica a ciertos trámites y ciertos apoyos.
-- CalFresh, WIC y los créditos fiscales no se consideran en la regla vigente.
-- Confirma tu caso con un abogado o representante acreditado.
+- La regla cambió el 18 de septiembre de 2026: ahora cada caso se revisa completo.
+- Lo recibido antes de esa fecha se revisa con la regla anterior.
+- Antes de pedir o dejar un apoyo, confirma tu caso con un abogado o representante acreditado.
 
 
 
@@ -2949,26 +2949,26 @@ Rosa llama a una organización comunitaria para confirmarlo. Le explican lo mism
 
 #### A quién no aplica
 
-La regla no aplica a muchos trámites y categorías. Por ejemplo, a quienes ya son residentes permanentes y solicitan la ciudadanía, ni a personas refugiadas o asiladas.
+La carga pública no aplica a muchos trámites y categorías. Por ejemplo, no aplica a quienes ya son residentes permanentes y solicitan la ciudadanía, ni a personas refugiadas o asiladas, entre otras.
 
-Por eso la pregunta correcta no es "¿me afecta pedir apoyo?", sino "¿la regla aplica a mi trámite?".
+Por eso la primera pregunta es "¿la regla aplica a mi trámite?".
 
 
 
 #### Salud en California
 
-Medi-Cal amplió en años recientes la cobertura para personas sin estatus migratorio regular. El presupuesto estatal de 2025 aprobó cambios para adultos, como la pausa de nuevas inscripciones desde 2026 y otros ajustes.
+Desde el 1 de enero de 2026, los adultos de 19 años o más sin estatus migratorio regular ya no pueden inscribirse por primera vez en Medi-Cal completo. Quienes ya lo tienen pueden conservarlo si renuevan a tiempo. Niñas, niños y personas embarazadas tienen reglas distintas.
 
-Confirma las reglas vigentes antes de decidir. Los niños tienen reglas distintas.
+Hay otros cambios programados para adultos, como dejar de cubrir el dental de rutina (el de emergencia sigue) y una cuota mensual. Sus fechas y montos ya cambiaron más de una vez: confírmalos en la página de Medi-Cal (DHCS) o en tu condado.
 
-> **Dato adicional:** aunque haya cambios en Medi-Cal, tienes derecho a recibir atención médica. Los centros de salud comunitarios (llamados FQHC) atienden a cualquier persona sin importar su situación migratoria y cobran según tus ingresos. Puedes encontrar uno en [findahealthcenter.hrsa.gov](https://findahealthcenter.hrsa.gov).
+> **Dato adicional:** aunque haya cambios en Medi-Cal, puedes recibir atención médica. Los centros de salud comunitarios (llamados FQHC) atienden a cualquier persona sin importar su situación migratoria y cobran según tus ingresos. Puedes encontrar uno en [findahealthcenter.hrsa.gov](https://findahealthcenter.hrsa.gov).
 
 
 
 #### Dónde confirmar tu caso
 
 - Un abogado de inmigración o un representante acreditado por el Departamento de Justicia (DOJ).
-- Organizaciones como *Protecting Immigrant Families*, con materiales actualizados en español.
+- Organizaciones como *Protecting Immigrant Families*, que publican avisos cuando la regla cambia.
 - La oficina de servicios sociales de tu condado, para los requisitos de cada programa.
 
 
@@ -2981,34 +2981,27 @@ Este curso tampoco da asesoría migratoria: te ayuda a hacer las preguntas corre
 
 
 
-#### Programas comunes y cómo se consideran
+#### Apoyos de tu familia
 
-| Programa | ¿Se considera en la regla vigente? |
-|---|---|
-| CalFresh (alimentos) | No |
-| WIC | No |
-| Medi-Cal | No, salvo cuidado de largo plazo |
-| Comidas escolares | No |
-| Créditos fiscales (CalEITC, YCTC) | No |
-| SSI o asistencia en efectivo | Sí |
+En muchas familias, hijas o hijos ciudadanos reciben apoyos por derecho propio. La guía de 2026 no explica con detalle cómo se toman en cuenta los apoyos de otros miembros del hogar.
 
-Esta tabla resume la regla vigente desde 2022. Confirma siempre si cambió.
+Lleva esta pregunta a tu cita: "¿Los apoyos que reciben mis hijos se toman en cuenta en mi caso?". No le quites a tu familia un apoyo que necesita sin preguntar antes.
 
 
 
 #### Cómo preguntar sin exponerte
 
-Puedes hacer preguntas generales sin dar tu nombre ni tu situación. Por ejemplo: "¿Este programa se considera para carga pública?".
+Puedes hacer preguntas generales sin dar tu nombre ni tu situación. Por ejemplo: "¿Cómo se toma en cuenta este programa en la carga pública?".
 
 Las organizaciones de ayuda legal y los representantes acreditados guardan la confidencialidad de lo que les cuentas.
 
 
 
-#### Revisa la regla cada año
+#### Revisa la fecha de lo que lees
 
-Las reglas sobre carga pública y sobre los programas del estado pueden cambiar.
+La regla de carga pública cambió en 2019, en 2022 y en 2026. Muchas guías en internet todavía explican la regla de 2022.
 
-Pon una alerta en tu teléfono para revisar cada año, o antes de iniciar un trámite migratorio, si hubo cambios. Las organizaciones de ayuda legal publican avisos cuando algo cambia.
+Antes de decidir, revisa la fecha de la información y pregunta si sigue vigente. Las organizaciones de ayuda legal publican avisos cuando algo cambia.
 
 
 
@@ -3017,20 +3010,20 @@ Pon una alerta en tu teléfono para revisar cada año, o antes de iniciar un tr�
 
 **Caso 1. La comida del hijo de Daniela**
 
-El hijo de Daniela nació en California. Ella temía pedir ayuda para alimentos.
-- *¿Qué le explican en una organización comunitaria?* Que los apoyos de su hijo no se cuentan como suyos y que CalFresh no se considera en la regla vigente.
-- *¿Qué hace después?* Confirma su caso con un representante acreditado antes de decidir.
+El hijo de Daniela nació en California. Ella piensa pedir ayuda para alimentos y quiere iniciar su trámite de residencia el próximo año.
+- *¿Qué hace antes de decidir?* Lleva sus preguntas a un representante acreditado o a una organización de ayuda legal, porque desde 2026 cada caso se revisa completo.
+- *¿Qué pregunta lleva?* Si la regla aplica a su trámite y cómo se toman en cuenta los apoyos que recibiría ella y los de su hijo.
 
 
 **Caso 2. El rumor del vecino**
 
 Un vecino le dice a Alex que "cualquier apoyo te quita la residencia".
-- *¿Qué hace Alex?* Busca una fuente confiable antes de decidir, como Protecting Immigrant Families o un representante acreditado.
+- *¿Qué hace Alex?* Busca una fuente confiable y con fecha reciente antes de decidir, como un representante acreditado o una organización de ayuda legal.
 
 
 **Caso 3. La consulta de Mar**
 
-Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este año.
+Mar tiene 35 años, necesita atención médica y no sabe si puede inscribirse en Medi-Cal este año.
 - *¿Qué opciones tiene mientras confirma?* Acudir a un centro de salud comunitario que cobra según sus ingresos.
 
 
@@ -3038,9 +3031,9 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 
 | Error | Qué pasa | Qué hacer |
 |---|---|---|
-| Decidir por un rumor | Dejas de recibir apoyos a los que tienes derecho | Confirma con una fuente confiable |
+| Decidir por un rumor | Dejas un apoyo que necesitas o te expones sin saberlo | Confirma con una fuente confiable |
 | Pedir asesoría a un notario o "gestor" | Recibes información falsa y pagas de más | Busca un abogado o representante acreditado |
-| Creer que una propuesta ya es regla | Decides con información que no aplica | Revisa si la regla es final y está vigente |
+| Usar una guía con fecha vieja | Decides con una regla que ya cambió | Revisa la fecha y pregunta si sigue vigente |
 | Dejar de atenderte por miedo | Tu salud empeora | Usa un centro de salud comunitario |
 
 ### Practica
@@ -3054,41 +3047,42 @@ Mar necesita atención médica y no sabe si puede inscribirse en Medi-Cal este a
 #### Quiz
 
 1. ¿La regla de carga pública aplica a todos los trámites migratorios? a) Sí · b) No · c) Solo a la ciudadanía
-2. Según la regla vigente, ¿CalFresh se considera para carga pública? a) No · b) Sí · c) Sí, si lo usan los hijos
+2. Desde el 18 de septiembre de 2026, ¿cómo se revisa la carga pública? a) Caso por caso, con todo el caso junto · b) Con una lista fija de apoyos que no cuentan · c) Ya no se revisa
 3. ¿Quién puede darte asesoría migratoria? a) Un notario · b) Un consultor de inmigración con oficina y anuncios · c) Un abogado o un representante acreditado por el DOJ
-**Respuestas:** 1-b: solo a ciertos trámites. 2-a: no se considera. 3-c: solo ellos están autorizados.
+**Respuestas:** 1-b: solo a ciertos trámites. 2-a: cada caso se revisa completo. 3-c: solo ellos están autorizados.
 
 
 
 #### Ponlo en práctica
 
-Escribe tres preguntas para llevar a una organización de ayuda legal antes de solicitar un apoyo para tu familia.
-**Respuesta:** ¿La regla de carga pública aplica a mi trámite? ¿Este apoyo se considera? ¿Los apoyos de mis hijos afectan mi caso?
+Escribe tres preguntas para llevar a una organización de ayuda legal antes de pedir o dejar un apoyo para tu familia.
+**Respuesta:** ¿La regla de carga pública aplica a mi trámite? ¿Cómo se toma en cuenta este apoyo desde el 18 de septiembre de 2026? ¿Los apoyos de mis hijos se toman en cuenta en mi caso?
 
 
 
 #### A tu plan
 
-Anota qué apoyo necesita tu hogar, quién podría calificar y dónde confirmarás tu caso.
+Anota qué apoyo necesita tu hogar, quién lo recibiría y dónde confirmarás tu caso antes de decidir.
 
 
 
 ### Para saber más
 
-- **Carga pública: ¿aplica a mí?** (Protecting Immigrant Families · español e inglés): https://pifcoalition.org/resources/library/public-charge-does-this-apply-to-me/ — **Qué buscar:** la guía en español que explica qué apoyos cuentan y a quién aplica la regla.
-- **Medi-Cal** (DHCS de California · español e inglés): https://www.dhcs.ca.gov — **Qué buscar:** la sección de elegibilidad y los avisos sobre cambios para adultos en 2026.
+- **Guía de USCIS sobre carga pública** (USCIS · inglés): https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination — **Qué buscar:** la fecha del 18 de septiembre de 2026 y cómo se tratan los apoyos recibidos antes y después.
+- **Carga pública** (Protecting Immigrant Families · español e inglés): https://pifcoalition.org — **Qué buscar:** los avisos más recientes sobre la regla de 2026 y el directorio de ayuda legal.
+- **Medi-Cal** (DHCS de California · español e inglés): https://www.dhcs.ca.gov — **Qué buscar:** los avisos sobre cambios para adultos sin estatus migratorio regular y sus fechas.
 - **Buscador de centros de salud comunitarios** (HRSA · español e inglés): https://findahealthcenter.hrsa.gov — **Qué buscar:** escribe tu código postal para ver clínicas cercanas que cobran según tus ingresos.
 
 ### Palabras clave
 
-- *Carga pública:* evaluación en ciertos trámites migratorios sobre la dependencia de apoyos del gobierno.
+- *Carga pública:* evaluación en ciertos trámites migratorios sobre la posible dependencia de apoyos del gobierno.
 - *Representante acreditado:* persona autorizada por el DOJ para dar asesoría migratoria en una organización reconocida.
 - *CalFresh:* ayuda para alimentos en California.
 - *FQHC:* centro de salud comunitario que atiende sin importar la situación migratoria.
 
 ### Fuentes
 
-[R33] USCIS, carga pública · [R34] Protecting Immigrant Families · [R35] DHCS, Medi-Cal · HRSA, centros de salud.
+[R33] USCIS, carga pública (guía del 18 de agosto de 2026; consultada el 7 de octubre de 2026) · [R34] Protecting Immigrant Families · [R35] DHCS, Medi-Cal (consultado el 7 de octubre de 2026) · HRSA, centros de salud.
 
 ---
 
