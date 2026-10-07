@@ -75,7 +75,9 @@ def generar(D, CFG, lecciones):
     n = {m: len(lecciones(m)) for m in MODS}
     tot = sum(n.values()); nm = len(MODS)
     pts = (tot + 2 * nm) * 25
-    sec_sup, sec_eval = nm + 1, nm + 2
+    # Orden de secciones: temas, Cierre y constancia, Materiales de apoyo (Programas y apoyos se agrega después como extra).
+    sec_eval, sec_sup = nm + 1, nm + 2
+    nsec = nm + 2
     herr = "; and for your business: cost and price, break-even and 8-week cash flow" if (CFG.get("negocio") or CFG.get("hojas_negocio")) else ""
     _H = {"quincena_turnos": "your pay period with extra shifts", "pago_por_dia": "what you earn per day at each job", "ingreso_variable": "12 months of income and your dry-spell fund",
           "bienes": "your assets and who receives them", "envios": "the cost of each transfer", "adelantos": "advances to your team", "semana_apps": "what you really keep each week",
@@ -119,7 +121,7 @@ Rules:
 | Full name | {tit} |
 | Short name | {short} |
 | Visibility | **Show** |
-| Format | **Tiles** if installed; otherwise Topics. {sec_eval} sections |
+| Format | **Tiles** if installed; otherwise Topics. {nsec} sections |
 | Completion tracking | Yes |
 | Force language | English |
 
@@ -133,8 +135,8 @@ Rules:
 |---|---|---|
 | General | Welcome | «Welcome» book, "Questions and comments" forum, start survey, «Your starting point» and «My goal» |
 {rows_sec}
-| {sec_sup} | Support materials | "Cases, practice, glossary and where to get help." |
 | {sec_eval} | Closing and certificate | "What you achieved, your certificate and see you soon." |
+| {sec_sup} | Support materials | "Cases, practice, glossary and where to get help." |
 
 Description of the forum "Questions and comments": "{I['aviso_foro']}"
 
@@ -310,7 +312,7 @@ If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG[
 - Do not ask for real data to pass.
 - Do not tie badges or the certificate to buying services or products.
 """
-    if CFG.get("ux") == 3: readme, guide = ux3(readme, guide, CFG, MODS, n, tot, nm, sec_eval, cat)
+    if CFG.get("ux") == 3: readme, guide = ux3(readme, guide, CFG, MODS, n, tot, nm, nsec, cat)
     import programas as _PG
     _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), True)
     if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)

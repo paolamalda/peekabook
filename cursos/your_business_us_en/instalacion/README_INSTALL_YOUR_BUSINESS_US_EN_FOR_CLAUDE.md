@@ -76,8 +76,8 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Protect your business | `umbrella` | paraguas de protección |
 | Grow in an orderly way | `rocket` | cohete |
 | Your future | `hourglass-half` | reloj de arena |
-| Support materials | `book` | libro |
 | Closing and certificate | `flag-checkered` | bandera de meta |
+| Support materials | `book` | libro |
 | Programs and support (extra) | `life-buoy` | salvavidas |
 
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
@@ -98,8 +98,8 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | 7 | Protect your business | `M7_resumen.html` |
 | 8 | Grow in an orderly way | `M8_resumen.html` |
 | 9 | Your future | `M9_resumen.html` |
-| 10 | Support materials | "Cases, practice, glossary and where to get help." |
-| 11 | Closing and certificate | "What you achieved, your certificate and see you soon." |
+| 10 | Closing and certificate | "What you achieved, your certificate and see you soon." |
+| 11 | Support materials | "Cases, practice, glossary and where to get help." |
 
 Description of the forum "Questions and comments": "Do not share your SSN, ITIN, EIN, passwords, account numbers, your business's real amounts or your immigration status."
 
@@ -112,7 +112,7 @@ They are the first and last thing each person sees: don't skip them.
    Then the **"My goal"** assignment: type *Assignment*, submission "Online text" (60-word limit), **no grade**, no due date, no notifications to other participants; only the person and the course team can see submissions. Instructions: "In one sentence: what you expect from the program and what you want to achieve. Don't write personal data or real amounts. You'll open it again at the end of the course." Allow editing the submission at any time. Completion: "Submit".
 3. Below, the **Start survey** (section 8) and the **«Your starting point»**: import `4_questions/diagnostica.gift.txt` (it creates its own «Start» category), all questions, maximum grade 0 (doesn't count toward the grade), **one attempt**, 10-minute time limit, review with the correct answer at the end.
 4. **Restrict access** on the first lesson of Part 1: the `Welcome` book must be viewed.
-5. **Section 11, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
+5. **Section 10, at the very top:** create the book `Closing and farewell` with the same settings and import `1_books/Cierre_libro_Moodle.zip` (4 chapters: What you achieved, Your plan continues, Final survey and certificate, See you soon). Restrict access: the last part's self-assessment must be complete. The final survey and certificate go below it.
 6. **Guide to print or share:** `7_guides/Contact_and_community_guide.html`. Open it in a browser > Print > Save as PDF, and share it in the in-person session or by WhatsApp.
 
 ## 3. Lessons: one book per lesson
@@ -138,15 +138,15 @@ The full structure (names, order, files and minutes) is in `estructura_moodle.js
 
 ## 4. Support book
 
-In section 10, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
+In section 11, create the book `Support materials` with the same settings and import `1_books/Apoyo_libro_Moodle.zip` (6 chapters).
 
 Below it, create the book **`Further reading`** with the same settings and import `1_books/Fondo_libro_Moodle.zip` (10 chapters: "How to use further reading" and one per part). Description: "Optional. For people who want to read the official sources, rules and documents for each topic." **Completion: none** (it's optional and doesn't count toward finishing the course).
 
-In the same section 10, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; and for your business: cost and price, break-even and 8-week cash flow; plus: advances to your team. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
+In the same section 11, add a **File** resource named `Tools for your numbers (Excel)` with the file in `10_tools/`. Display: "Force download". Description: "Budget, debt list, emergency fund and compound-interest goal; and for your business: cost and price, break-even and 8-week cash flow; plus: advances to your team. Type only in the pink cells; the file is yours and isn't shared." Completion: "View".
 
 ## 5. Glossary
 
-In section 10, create the glossary `Course key words` and import `3_glossary/Glosario_curso_Moodle.xml`, destination "current glossary".
+In section 11, create the glossary `Course key words` and import `3_glossary/Glosario_curso_Moodle.xml`, destination "current glossary".
 
 ## 6. Question bank and self-assessments
 
@@ -178,9 +178,9 @@ The practice does **not** go as a separate activity in the section: it is embedd
 | Activity | Section | File | Completion |
 |---|---|---|---|
 | `Start survey` | General | `survey_start.xml` | Submit |
-| `Final survey` | 11 | `survey_final.xml` | Submit; required for the certificate |
-| `30-day follow-up` | 11 | `survey_follow_up.xml` | Submit |
-| `90-day follow-up` | 11 | `survey_follow_up.xml` | Submit |
+| `Final survey` | 10 | `survey_final.xml` | Submit; required for the certificate |
+| `30-day follow-up` | 10 | `survey_follow_up.xml` | Submit |
+| `90-day follow-up` | 10 | `survey_follow_up.xml` | Submit |
 
 Restrict the follow-ups by date: 30 and 90 days after the cohort's end date ("[TBD]"). The final survey is the program's evidence of results: don't skip it.
 

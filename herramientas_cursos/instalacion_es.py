@@ -74,7 +74,9 @@ def generar(D, CFG, lecciones):
     n = {m: len(lecciones(m)) for m in MODS}
     tot = sum(n.values()); nm = len(MODS)
     pts = (tot + 2 * nm) * 25
-    sec_apoyo, sec_eval = nm + 1, nm + 2
+    # Orden de secciones: temas, Cierre y constancia, Materiales de apoyo (Programas y apoyos se agrega después como extra).
+    sec_eval, sec_apoyo = nm + 1, nm + 2
+    nsec = nm + 2
     herr = "; y para tu negocio: costo y precio, punto de equilibrio y flujo de 8 semanas" if (CFG.get("negocio") or CFG.get("hojas_negocio")) else ""
     _H = {"quincena_turnos": "tu quincena con turnos extra", "pago_por_dia": "lo que ganas por día en cada casa", "ingreso_variable": "tus ingresos de 12 meses y tu fondo de sequía",
           "bienes": "tus bienes y quién los recibe", "envios": "el costo de cada envío", "adelantos": "adelantos a tu equipo", "semana_apps": "lo que te queda de verdad en la semana",
@@ -118,7 +120,7 @@ Reglas:
 | Nombre | {tit} |
 | Nombre corto | {corto} |
 | Visibilidad | **Mostrar** |
-| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. {sec_eval} secciones |
+| Formato | **Mosaicos** (Tiles) si está instalado; si no, Temas. {nsec} secciones |
 | Seguimiento de finalización | Sí |
 
 **Formato Mosaicos (si existe):** en la configuración del curso, *Mostrar progreso en los mosaicos*: **como porcentaje**; un ícono por módulo acorde a su tema; la sección General arriba de los mosaicos. Si Mosaicos no existe, usa Temas con "Mostrar una sección por página".
@@ -131,8 +133,8 @@ Reglas:
 |---|---|---|
 | General | Bienvenida | Libro «Bienvenida», foro "Dudas y comentarios", encuesta de inicio, «Tu punto de partida» y «Mi meta» |
 {filas_sec}
-| {sec_apoyo} | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
 | {sec_eval} | Cierre y constancia | "Lo que lograste, tu constancia y hasta pronto." |
+| {sec_apoyo} | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
 
 Descripción del foro "Dudas y comentarios": "{I['aviso_foro']}"
 
@@ -308,7 +310,7 @@ Si Certificado personalizado no está instalado, la insignia **{CFG["insignias"]
 - No pedir datos reales para aprobar.
 - No ligar insignias ni constancia a contratar servicios o productos.
 """
-    if CFG.get("ux") == 3: readme, guia = ux3(readme, guia, CFG, MODS, n, tot, nm, sec_eval, cat)
+    if CFG.get("ux") == 3: readme, guia = ux3(readme, guia, CFG, MODS, n, tot, nm, nsec, cat)
     import programas as _PG
     _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), False)
     if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)

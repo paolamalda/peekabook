@@ -77,8 +77,8 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Impuestos sin miedo | `file-text-o` | documento |
 | Patrimonio y familia | `home` | casa |
 | Tu plan | `list-alt` | lista |
-| Materiales de apoyo | `book` | libro |
 | Cierre y constancia | `flag-checkered` | bandera de meta |
+| Materiales de apoyo | `book` | libro |
 | Programas y apoyos (extra) | `life-buoy` | salvavidas |
 
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
@@ -101,8 +101,8 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | 9 | Impuestos sin miedo | `M9_resumen.html` |
 | 10 | Patrimonio y familia | `M10_resumen.html` |
 | 11 | Tu plan | `M11_resumen.html` |
-| 12 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
-| 13 | Cierre y constancia | "Lo que lograste, tu constancia y hasta pronto." |
+| 12 | Cierre y constancia | "Lo que lograste, tu constancia y hasta pronto." |
+| 13 | Materiales de apoyo | "Casos, prácticas, glosario y dónde pedir ayuda." |
 
 Descripción del foro "Dudas y comentarios": "No compartas números de cuenta, contraseñas, códigos, fotos de tarjetas ni montos reales. El equipo nunca te pedirá esos datos."
 
@@ -115,7 +115,7 @@ Son lo primero y lo último que ve la persona: no los omitas.
    Después, la tarea **"Mi meta"**: tipo *Tarea*, entrega "Texto en línea" (límite de 60 palabras), **sin calificación**, sin fecha límite, sin avisos a otros participantes; las entregas solo las ven la persona y el equipo del curso. Instrucciones: "En una frase: qué esperas del programa y qué quieres lograr. No escribas datos personales ni montos reales. Al final del curso la vuelves a abrir." Permite editar la entrega en cualquier momento. Finalización: "Enviar".
 3. Debajo, la **Encuesta de inicio** (sección 8) y el cuestionario **«Tu punto de partida»**: importa `4_preguntas/diagnostica.gift.txt` (crea su propia categoría «Diagnóstica»), todas las preguntas, calificación sobre 0 (no cuenta para la calificación), **un intento**, tiempo máximo 10 minutos, revisión con respuesta correcta al terminar.
 4. **Restringir acceso** de la primera lección de la Parte 1: el libro `Bienvenida` debe estar visto.
-5. **Sección 13, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.
+5. **Sección 12, arriba de todo:** crea el libro `Cierre y despedida` con la misma configuración e importa `1_libros/Cierre_libro_Moodle.zip` (4 capítulos: Lo que lograste, Tu plan sigue, Encuesta final y constancia, Hasta pronto). Restringir acceso: la autoevaluación de la última parte debe estar completa. Debajo van la encuesta final y la constancia.
 6. **Guía para imprimir o compartir:** `7_guias/Guia_de_contacto_y_comunidad.html`. Ábrela en el navegador > Imprimir > Guardar como PDF, y compártela en la sesión presencial o por WhatsApp.
 
 ## 3. Lecciones: un libro por lección
@@ -143,15 +143,15 @@ La estructura completa (nombres, orden, archivos y minutos) está en `estructura
 
 ## 4. Libro de apoyo
 
-En la sección 12, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos).
+En la sección 13, crea el libro `Materiales de apoyo` con la misma configuración e importa `1_libros/Apoyo_libro_Moodle.zip` (6 capítulos).
 
 Debajo, crea el libro **`Para ir a fondo`** con la misma configuración e importa `1_libros/Fondo_libro_Moodle.zip` (12 capítulos: «Cómo ir a fondo» y uno por parte). Descripción: "Opcional. Para quien quiere leer las fuentes oficiales, las reglas y los documentos de cada tema." **Finalización: ninguna** (es opcional y no cuenta para terminar el curso).
 
-En la misma sección 12, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto; además: tus bienes y quién los recibe. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
+En la misma sección 13, agrega un recurso **Archivo** llamado `Herramientas para tus cuentas (Excel)` con el archivo de `10_herramientas/`. Mostrar: "Forzar descarga". Descripción: "Presupuesto, lista de deudas, fondo de emergencia y meta con interés compuesto; además: tus bienes y quién los recibe. Escribe solo en las celdas rosas; el archivo es tuyo y no se comparte." Finalización: "Ver".
 
 ## 5. Glosario
 
-En la sección 12, crea el glosario `Palabras clave del curso` e importa `3_glosario/Glosario_curso_Moodle.xml`, destino "glosario actual".
+En la sección 13, crea el glosario `Palabras clave del curso` e importa `3_glosario/Glosario_curso_Moodle.xml`, destino "glosario actual".
 
 ## 6. Banco de preguntas y autoevaluaciones
 
@@ -183,9 +183,9 @@ En `8_encuestas/` están las encuestas y su documento `encuestas.md`. Usa el mó
 | Actividad | Sección | Archivo | Finalización |
 |---|---|---|---|
 | `Encuesta de inicio` | General | `encuesta_inicio.xml` | Enviar |
-| `Encuesta final` | 13 | `encuesta_final.xml` | Enviar; es requisito de la constancia |
-| `Seguimiento a 30 días` | 13 | `encuesta_seguimiento.xml` | Enviar |
-| `Seguimiento a 90 días` | 13 | `encuesta_seguimiento.xml` | Enviar |
+| `Encuesta final` | 12 | `encuesta_final.xml` | Enviar; es requisito de la constancia |
+| `Seguimiento a 30 días` | 12 | `encuesta_seguimiento.xml` | Enviar |
+| `Seguimiento a 90 días` | 12 | `encuesta_seguimiento.xml` | Enviar |
 
 Restringe los seguimientos por fecha: 30 y 90 días después de la fecha de fin de la cohorte ("[por definir]"). La encuesta final es la evidencia de resultados del programa: no la omitas.
 

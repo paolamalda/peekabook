@@ -1,0 +1,181 @@
+/* DT-MOSAICOS v2 — Desarrolla Talento. Se pega al final de Apariencia > Boost > SCSS en bruto, entre las marcas DT-MOSAICOS inicio / fin.
+   Aplica solo a cursos en formato Mosaicos de la categoría Desarrolla Talento (category-8).
+   Orden esperado de secciones: Bienvenida (0), temas 1..n, Cierre y constancia, Materiales de apoyo, Programas y apoyos (extra). */
+
+/* Fondo: deja ver la marca de agua */
+body.format-tiles.category-8 #topofscroll.main-inner{background:transparent !important;box-shadow:none;}
+body.format-tiles.category-8 #region-main, body.format-tiles.category-8 #region-main.card{background:rgba(255,255,255,.35) !important;}
+
+/* Encabezado del curso */
+body.format-tiles.category-8 #page-header{background:linear-gradient(120deg,#061F40 0%,#0A3161 70%,#14427E 100%);border-radius:18px;padding:26px 30px 22px;margin-top:14px;position:relative;overflow:hidden;box-shadow:none;}
+body.format-tiles.category-8 #page-header::after{content:"";position:absolute;right:-20px;bottom:-40px;width:220px;height:220px;opacity:.18;background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cg fill='none' stroke-width='9' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M10 52 L32 32 L54 52' stroke='%23FFFFFF'/%3E%3Cpath d='M10 32 L32 12 L54 32' stroke='%23FF4FA8'/%3E%3C/g%3E%3C/svg%3E");}
+body.format-tiles.category-8 #page-header h1{color:#fff !important;font-weight:800;font-size:2rem;}
+body.format-tiles.category-8 #page-header h1::after{content:"Programa de bienestar financiero · avanza a tu ritmo";display:block;font-family:Figtree,sans-serif;font-weight:600;font-size:.95rem;color:#FF8CC6;margin-top:6px;letter-spacing:0;}
+
+/* Bienvenida: «Por dónde empezar» en 4 pasos */
+body.format-tiles.category-8 #section-0{background:rgba(255,255,255,.78) !important;backdrop-filter:blur(3px);border:1px solid rgba(10,49,97,.12);border-left:6px solid #E4007C;border-radius:16px;padding:20px 22px;margin-bottom:24px;}
+body.format-tiles.category-8 #section-0 > h3{font-size:1.35rem;font-weight:800;color:#061F40;margin:0;}
+body.format-tiles.category-8 #section-0 > h3::after{content:"Por dónde empezar: 4 pasos cortos antes del Tema 1 (unos 20 minutos).";display:block;font-family:Figtree,sans-serif;font-size:.95rem;font-weight:600;color:#56627A;margin:4px 0 14px;}
+body.format-tiles.category-8 #sec-zero-cm-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:0;}
+@media (max-width:900px){body.format-tiles.category-8 #sec-zero-cm-list{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media (max-width:520px){body.format-tiles.category-8 #sec-zero-cm-list{grid-template-columns:1fr;}}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity{position:relative;background:#fff !important;border:1px solid #DFE5EF !important;border-radius:14px;padding:0;margin:0;min-width:0;box-shadow:0 2px 8px rgba(6,31,64,.06);}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity .activity-item{background:transparent !important;border:0 !important;padding:44px 14px 14px;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity::before{position:absolute;top:12px;left:14px;width:26px;height:26px;border-radius:50%;background:#E4007C;color:#fff;font-weight:800;font-size:.85rem;display:flex;align-items:center;justify-content:center;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity::after{position:absolute;top:15px;left:48px;font-size:.78rem;font-weight:700;color:#E4007C;text-transform:uppercase;letter-spacing:.04em;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_book{order:1;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_book::before{content:"1";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_book::after{content:"Empieza aquí";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_feedback{order:2;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_feedback::before{content:"2";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_feedback::after{content:"Cuéntanos de ti";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_quiz{order:3;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_quiz::before{content:"3";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_quiz::after{content:"Mira lo que ya sabes";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_assign{order:4;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_assign::before{content:"4";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_assign::after{content:"Elige a dónde llegar";}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_forum{order:5;grid-column:1 / -1;background:#E5ECF6 !important;border-style:dashed !important;box-shadow:none;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_forum .activity-item{padding:12px 14px 12px 48px;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_forum::before{content:"?";background:#0A3161;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_forum::after{content:none;}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-grid{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;}
+body.format-tiles.category-8 #sec-zero-cm-list .activityiconcontainer{display:none !important;}
+body.format-tiles.category-8 #sec-zero-cm-list .activityname a, body.format-tiles.category-8 #sec-zero-cm-list .instancename{color:#061F40;font-weight:800;font-size:1.05rem;}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-altcontent, body.format-tiles.category-8 #sec-zero-cm-list .description{font-size:.82rem;color:#56627A;flex-basis:100%;margin:0;padding:0;}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-completion{flex-basis:100%;}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-completion .btn{font-size:.75rem;padding:2px 10px;}
+
+/* Mosaicos de los temas y Materiales: blancos con ícono oscuro */
+body.format-tiles.category-8 ul.tiles{counter-reset:dtparte;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-clickable{background:rgba(255,255,255,.94) !important;border:1px solid #DFE5EF !important;border-top:1px solid #DFE5EF !important;border-radius:14px !important;box-shadow:0 4px 14px rgba(6,31,64,.08) !important;height:190px !important;transition:transform .15s, box-shadow .15s;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-clickable:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,31,64,.16) !important;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-bg{background:transparent !important;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-content{height:100% !important;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:14px 12px 12px;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-top{position:static;display:flex;justify-content:center;width:100%;height:auto;}
+body.format-tiles.category-8 ul.tiles > li.tile .tileiconcontainer{float:none;margin:0 auto;width:auto;height:auto;}
+body.format-tiles.category-8 ul.tiles > li.tile .tileiconcontainer i, body.format-tiles.category-8 ul.tiles > li.tile .tileiconcontainer .icon{color:#0B1220 !important;font-size:52px !important;width:auto;height:auto;margin:0;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-text{position:static;width:100%;height:auto;padding:0;display:flex;justify-content:center;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-textinner{position:static;transform:none;width:100%;text-align:center;}
+body.format-tiles.category-8 ul.tiles > li.tile .tile-textinner h3{color:#061F40 !important;font-weight:800 !important;font-size:1.1rem;line-height:1.15;margin:0;text-align:center;}
+body.format-tiles.category-8 ul.tiles > li.tile .tiletopright{position:absolute;top:10px;right:10px;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic-label{display:none !important;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic.percent.tiles-hide-if-complete{background:#E5ECF6;border-radius:99px;padding:0 8px 0 4px;display:flex;align-items:center;height:22px;width:auto;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic.percent svg{width:26px;height:26px;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic.percent svg circle{display:none;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic.percent svg text{fill:#0A3161;font-weight:700;font-size:17px;}
+body.format-tiles.category-8 ul.tiles > li.tile .progress-indic.percent.tiles-hide-if-complete::after{content:"%";color:#0A3161;font-weight:700;font-size:12px;margin-left:-2px;}
+body.format-tiles.category-8 ul.tiles > li.tile .tileallcomplete{color:#0A3161;}
+/* Número del tema (todos menos los 3 últimos) */
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)){counter-increment:dtparte;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))::before{content:"Tema " counter(dtparte);position:absolute;top:12px;left:14px;font-size:12px;font-weight:800;color:#E4007C;z-index:2;text-transform:uppercase;letter-spacing:.04em;}
+
+/* Cierre y constancia (antepenúltimo): blanco con ícono y título rosa */
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))){background:rgba(255,255,255,.94) !important;border:1px solid #DFE5EF !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .tileiconcontainer i{color:#E4007C !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) h3{color:#E4007C !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic.percent.tiles-hide-if-complete{background:#FDE4F1;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic svg text{fill:#E4007C;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic.percent.tiles-hide-if-complete::after{color:#E4007C;}
+/* Materiales de apoyo (penúltimo) y Programas y apoyos (último, extra): azul con ícono blanco */
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))), body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):not(:has(~ li.tile-clickable:not(.tile-hidden))){background:linear-gradient(160deg,#0A3161 0%,#061F40 100%) !important;border:0 !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) h3, body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):not(:has(~ li.tile-clickable:not(.tile-hidden))) h3{color:#fff !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .tileiconcontainer i, body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):not(:has(~ li.tile-clickable:not(.tile-hidden))) .tileiconcontainer i{color:#fff !important;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic.percent.tiles-hide-if-complete{background:rgba(255,255,255,.16);}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic svg text{fill:#fff;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):has(~ li.tile-clickable:not(.tile-hidden)):not(:has(~ li.tile-clickable:not(.tile-hidden) ~ li.tile-clickable:not(.tile-hidden))) .progress-indic.percent.tiles-hide-if-complete::after{color:#fff;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden):not(:has(~ li.tile-clickable:not(.tile-hidden)))::after{content:"Extra · opcional";position:absolute;top:10px;right:10px;font-size:12px;font-weight:700;padding:2px 9px;border-radius:99px;background:#E4007C;color:#fff;}
+/* Al abrir un mosaico */
+body.format-tiles.category-8 #format_tiles_overlay{background:rgba(6,31,64,.14) !important;}
+body.format-tiles.category-8 ul.tiles > li.section.state-visible{background:rgba(255,255,255,.92) !important;backdrop-filter:blur(4px);border:1px solid #DFE5EF;border-top:5px solid #E4007C;border-radius:14px;box-shadow:0 8px 24px rgba(6,31,64,.10);}
+body.format-tiles.category-8 ul.subtiles > li.subtile{background:#fff !important;border:1px solid #DFE5EF !important;border-radius:12px !important;box-shadow:none !important;transition:border-color .15s, transform .15s;}
+body.format-tiles.category-8 ul.subtiles > li.subtile:not(.dimmed):hover{border-color:#0A3161 !important;transform:translateY(-2px);}
+body.format-tiles.category-8 ul.subtiles > li.subtile .photo-overlay{background:transparent !important;}
+body.format-tiles.category-8 ul.subtiles > li.subtile .tileiconcontainer, body.format-tiles.category-8 ul.subtiles > li.subtile .activityiconcontainer{background:transparent !important;}
+body.format-tiles.category-8 ul.subtiles > li.subtile .tile-icon img{filter:brightness(0) saturate(100%) invert(14%) sepia(52%) saturate(2200%) hue-rotate(198deg) brightness(92%);}
+body.format-tiles.category-8 ul.subtiles > li.subtile .activityname h5{color:#061F40 !important;font-weight:700;}
+body.format-tiles.category-8 ul.subtiles > li.subtile.dimmed{opacity:.55;}
+body.format-tiles.category-8 ul.subtiles > li.subtile .badge-info{background:#E5ECF6 !important;color:#56627A !important;font-weight:600;}
+body.format-tiles.category-8 ul.subtiles > li.subtile .completioncheckbox{background:#fff !important;color:#0A3161 !important;border:1.5px solid #0A3161;}
+body.format-tiles.category-8 ul.subtiles > li.subtile .completioncheckbox.complete{background:#0A3161 !important;color:#fff !important;}
+body.format-tiles.category-8 ul.subtiles > li.subtile.modtype_quiz{background:linear-gradient(160deg,#0A3161,#061F40) !important;}
+body.format-tiles.category-8 ul.subtiles > li.subtile.modtype_quiz .activityname h5{color:#fff !important;}
+body.format-tiles.category-8 ul.subtiles > li.subtile.modtype_quiz .tile-icon img{filter:brightness(0) invert(1);}
+
+/* Menú lateral: solo el temario numerado, sin subtemas */
+body.format-tiles.category-8 #courseindex .courseindex-item-content{display:none !important;}
+body.format-tiles.category-8 #courseindex .courseindex-chevron{display:none !important;}
+body.format-tiles.category-8 #course-index{counter-reset:dttema;}
+body.format-tiles.category-8 #course-index > .courseindex-section .courseindex-section-title{padding:9px 10px;border-radius:10px;margin-bottom:2px;}
+body.format-tiles.category-8 #course-index > .courseindex-section .courseindex-section-title:hover{background:#E5ECF6;}
+body.format-tiles.category-8 #course-index > .courseindex-section a.courseindex-link{font-weight:700;color:#061F40;}
+body.format-tiles.category-8 #course-index > .courseindex-section:not(:first-child):has(~ .courseindex-section ~ .courseindex-section ~ .courseindex-section){counter-increment:dttema;}
+body.format-tiles.category-8 #course-index > .courseindex-section:not(:first-child):has(~ .courseindex-section ~ .courseindex-section ~ .courseindex-section) a.courseindex-link::before{content:counter(dttema);display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#0A3161;color:#fff;font-size:.75rem;margin-right:8px;}
+body.format-tiles.category-8 #course-index > .courseindex-section:first-child a.courseindex-link::before{content:"★";display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#E4007C;color:#fff;font-size:.7rem;margin-right:8px;}
+body.format-tiles.category-8 #course-index > .courseindex-section:nth-child(2)::before{content:"Temario";display:block;font-size:.72rem;font-weight:800;color:#E4007C;text-transform:uppercase;letter-spacing:.06em;margin:14px 0 4px 10px;}
+body.format-tiles.category-8 #course-index > .courseindex-section:has(~ .courseindex-section ~ .courseindex-section):not(:has(~ .courseindex-section ~ .courseindex-section ~ .courseindex-section))::before{content:"Para terminar y consultar";display:block;font-size:.72rem;font-weight:800;color:#56627A;text-transform:uppercase;letter-spacing:.06em;margin:14px 0 4px 10px;}
+body.format-tiles.category-8 #course-index > .courseindex-section:has(~ .courseindex-section ~ .courseindex-section):not(:has(~ .courseindex-section ~ .courseindex-section ~ .courseindex-section)) a.courseindex-link::before,
+body.format-tiles.category-8 #course-index > .courseindex-section:has(~ .courseindex-section):not(:has(~ .courseindex-section ~ .courseindex-section)) a.courseindex-link::before,
+body.format-tiles.category-8 #course-index > .courseindex-section:last-child a.courseindex-link::before{content:"•";display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#E5ECF6;color:#0A3161;margin-right:8px;}
+body.format-tiles.category-8 #course-index > .courseindex-section:last-child a.courseindex-link{color:#E4007C;}
+
+/* Avisos (foro de novedades) al final de la Bienvenida; ruta de navegación en blanco sobre la franja azul */
+body.format-tiles.category-8 #sec-zero-cm-list > li.modtype_forum:first-child{order:6;}
+body.format-tiles.category-8 #page-header #page-navbar .breadcrumb, body.format-tiles.category-8 #page-header #page-navbar .breadcrumb-item, body.format-tiles.category-8 #page-header #page-navbar a{color:rgba(255,255,255,.88) !important;}
+body.format-tiles.category-8 #page-header #page-navbar .breadcrumb-item + .breadcrumb-item::before{color:rgba(255,255,255,.6) !important;}
+body.format-tiles.category-8 #page-header #page-navbar a:hover{color:#FF8CC6 !important;}
+
+/* Toda la tarjeta de cada paso abre la actividad */
+body.format-tiles.category-8 #sec-zero-cm-list .activitytitle{position:static !important;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity{cursor:pointer;transition:border-color .15s, box-shadow .15s, transform .15s;}
+body.format-tiles.category-8 #sec-zero-cm-list > li.activity:hover{border-color:#E4007C !important;box-shadow:0 6px 16px rgba(228,0,124,.14);transform:translateY(-2px);}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-completion{position:relative;z-index:2;}
+
+/* DT-UX: complementos de la portada (va dentro del bloque DT-MOSAICOS del SCSS de Boost) */
+/* Contorno según avance (clases que pone dt-curso.js) */
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden).dt-hecho{outline:3px solid #E4007C;outline-offset:-3px;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden).dt-encurso{outline:3px dashed #E4007C;outline-offset:-3px;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden).dt-sigue{outline:3px solid #0A3161;outline-offset:-3px;}
+body.format-tiles.category-8 ul.tiles > li.tile-clickable:not(.tile-hidden).dt-encurso .tile-textinner h3::after{content:"Sigue aquí";display:block;margin-top:6px;font-family:Figtree,sans-serif;font-size:.72rem;font-weight:800;color:#E4007C;text-transform:uppercase;letter-spacing:.05em;}
+/* Avance general y botón Continuar dentro de la franja azul */
+body.format-tiles.category-8 #dt-avance{position:relative;z-index:1;display:flex;flex-wrap:wrap;align-items:center;gap:14px 24px;margin-top:16px;}
+body.format-tiles.category-8 #dt-avance .dt-avance-txt{color:#fff;min-width:220px;flex:1 1 260px;max-width:420px;}
+body.format-tiles.category-8 #dt-avance .dt-avance-txt span{display:block;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:#FF8CC6;}
+body.format-tiles.category-8 #dt-avance .dt-avance-txt strong{display:block;font-size:1.05rem;}
+body.format-tiles.category-8 #dt-avance .dt-avance-barra{height:8px;border-radius:99px;background:rgba(255,255,255,.2);margin-top:6px;overflow:hidden;}
+body.format-tiles.category-8 #dt-avance .dt-avance-barra i{display:block;height:100%;background:#FF4FA8;border-radius:99px;}
+body.format-tiles.category-8 #dt-avance a.dt-continuar{display:inline-flex;flex-direction:column;background:#fff;color:#061F40;border-radius:14px;padding:10px 18px;font-weight:800;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.18);}
+body.format-tiles.category-8 #dt-avance a.dt-continuar b{color:#E4007C;margin-right:6px;}
+body.format-tiles.category-8 #dt-avance a.dt-continuar small{font-weight:600;color:#56627A;font-size:.78rem;max-width:320px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+body.format-tiles.category-8 #dt-avance a.dt-continuar:hover{background:#FDE4F1;}
+body.format-tiles.category-8:has(#dt-avance) #tiles-overall-progress-outer{display:none !important;}
+/* Duración visible en las lecciones de los temas */
+body.format-tiles.category-8 ul.tiles > li.section:has(~ li.section ~ li.section ~ li.section) ul.subtiles > li.subtile.modtype_book .activityname::after{content:"10–15 min";display:block;margin-top:4px;font-size:.72rem;font-weight:700;color:#56627A;}
+
+/* Secciones ocultas (Avisos): franja discreta solo para quien administra */
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden{flex-basis:100% !important;width:100% !important;max-width:none !important;height:56px !important;background:rgba(255,255,255,.6) !important;border:1px dashed #56627A !important;box-shadow:none !important;outline:0 !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tile-content{flex-direction:row !important;gap:10px !important;padding:8px 16px !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tileiconcontainer i{font-size:20px !important;color:#56627A !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden h3{font-size:.95rem !important;color:#56627A !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tiletopright{display:none;}
+body.format-tiles.category-8 #course-index > .courseindex-section .courseindex-section-title.dimmed a.courseindex-link{color:#8A93A6 !important;font-weight:600;}
+
+/* Avisos con la apariencia de «Dudas y comentarios» */
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden{height:auto !important;min-height:52px;background:#E5ECF6 !important;border:1px dashed #C9D3E3 !important;border-radius:14px !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tile-content{justify-content:flex-start !important;align-items:center !important;padding:12px 16px 12px 52px !important;height:auto !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tile-top{display:none !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tile-text, body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden .tile-textinner{width:auto !important;text-align:left !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden h3{font-family:Figtree,sans-serif !important;font-size:1.05rem !important;font-weight:800 !important;color:#061F40 !important;text-align:left !important;}
+body.format-tiles.category-8 ul.tiles > li.tile.tile-hidden::before{content:"!";position:absolute;left:16px;top:50%;transform:translateY(-50%);width:26px;height:26px;border-radius:50%;background:#0A3161;color:#fff;font-weight:800;font-size:.85rem;display:flex;align-items:center;justify-content:center;z-index:2;}
+
+/* DT-PIE inicio: muestra siempre el pie (logo, enlaces y correo) que Moodle 4.x esconde en el botón "?". Aplica a todo el sitio. Para revertir, borra hasta DT-PIE fin. */
+#page-footer.footer-popover{background-color:#0A3161 !important;padding:0 !important;min-height:0 !important;}
+#page-footer.footer-popover .footer-content-popover{display:block !important;position:static !important;width:100% !important;max-width:none !important;background:transparent !important;border:0 !important;box-shadow:none !important;padding:.45rem 1.25rem !important;}
+#page-footer.footer-popover .footer-content-popover > :not(#dt-footer){display:none !important;}
+#page-footer.footer-popover #dt-footer{max-width:1100px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:.25rem 1.25rem;font-size:.8rem;line-height:1.2;}
+#page-footer.footer-popover #dt-footer img{height:22px !important;width:auto;}
+#page-footer.footer-popover #dt-footer .dt-links a{margin-right:1rem;}
+#page-footer.footer-popover #dt-footer .dt-copy{width:auto !important;margin:0 0 0 auto !important;opacity:.7;font-size:.75rem;}
+#page-footer.footer-popover #dt-footer a{color:#fff;}
+body.format-tiles.category-8 #sec-zero-cm-list .activity-completion .dropdown{display:none !important;}
+/* DT-PIE fin */

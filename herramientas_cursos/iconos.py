@@ -1,8 +1,8 @@
 # Íconos de cada mosaico (nombres de Font Awesome 4, los que usa el formato Mosaicos). Uno por parte, en orden,
 # más los tres mosaicos comunes. dollar, id-card-o, umbrella y life-buoy son los que sí trae el selector de Mosaicos en 4.5
 # (money, credit-card, shield y life-ring no aparecen). Si otro nombre no aparece, se usa el más parecido.
-COMUNES = [("Materiales de apoyo", "Support materials", "book", "libro"),
-           ("Cierre y constancia", "Closing and certificate", "flag-checkered", "bandera de meta"),
+COMUNES = [("Cierre y constancia", "Closing and certificate", "flag-checkered", "bandera de meta"),
+           ("Materiales de apoyo", "Support materials", "book", "libro"),
            ("Programas y apoyos (extra)", "Programs and support (extra)", "life-buoy", "salvavidas")]
 D = {"wallet": ("dollar", "signo de pesos"), "bank": ("university", "edificio de banco"), "card": ("id-card-o", "tarjeta"), "shield": ("umbrella", "paraguas de protección"),
      "home": ("home", "casa"), "future": ("hourglass-half", "reloj de arena"), "calc": ("calculator", "calculadora"), "chart": ("line-chart", "gráfica de línea"),
