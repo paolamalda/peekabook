@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Your Business US EN v2.0/M1
+$CATEGORY: $course$/Your Business US EN v1.0/M1
 
 ::M1 U01 P1::You sell $3,000 and your costs are $2,200. How much do you earn? {
 	=$800 #Correct! $3,000 minus $2,200.
@@ -108,7 +108,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M1
 	=The debt and the history are yours #Correct! Your name is on the line.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M2
+$CATEGORY: $course$/Your Business US EN v1.0/M2
 
 ::M2 U01 P1::Which of these is a variable cost? {
 	~Your online store subscription #Not the best option. It goes up with each sale.
@@ -182,7 +182,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M2
 	=If you sell it all before it expires #Correct! Otherwise it's expensive.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M3
+$CATEGORY: $course$/Your Business US EN v1.0/M3
 
 ::M3 U01 P1::You have $600, will collect $900 and will pay $1,700 this week. How do you end? {
 	~$200 left over #Not the best option. $600 plus $900 minus $1,700.
@@ -256,7 +256,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M3
 	~Take another loan to cover it #Not the best option. Be ready in case it rises.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M4
+$CATEGORY: $course$/Your Business US EN v1.0/M4
 
 ::M4 U01 P1::You take $5,000 a month in cards and the fee is 3%. How much do you pay? {
 	=$150 #Correct! 3% of $5,000.
@@ -312,7 +312,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M4
 	~A payment available for the exact amount #Not the best option. Rush is a hook.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M5
+$CATEGORY: $course$/Your Business US EN v1.0/M5
 
 ::M5 U01 P1::Which business form starts without company paperwork? {
 	=Sole proprietor #Correct! You start when you sell.
@@ -404,7 +404,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M5
 	~Keep it as a business reserve #Not the best option. It belongs to the state.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M6
+$CATEGORY: $course$/Your Business US EN v1.0/M6
 
 ::M6 U01 P1::Extra profit is $300 a month and the payment is $400. What happens? {
 	~The loan pays for itself #Not the best option. Payment higher than profit.
@@ -496,7 +496,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M6
 	~Give them your friend's family's details #Not the best option. They can't charge you.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M7
+$CATEGORY: $course$/Your Business US EN v1.0/M7
 
 ::M7 U01 P1::Where do you look for health insurance in California if you're self-employed? {
 	=Covered California and Medi-Cal #Correct! Official options.
@@ -624,7 +624,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M7
 	=$2 million #Correct! Physical damage or working capital.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M8
+$CATEGORY: $course$/Your Business US EN v1.0/M8
 
 ::M8 U01 P1::Someone works at your place, on your schedule and following your instructions. What are they usually? {
 	=An employee #Correct! You control the work.
@@ -752,7 +752,7 @@ $CATEGORY: $course$/Your Business US EN v2.0/M8
 	~Borrow to advance pay #Not the best option. So you aren't short for supplies.
 }
 
-$CATEGORY: $course$/Your Business US EN v2.0/M9
+$CATEGORY: $course$/Your Business US EN v1.0/M9
 
 ::M9 U01 P1::Where do you check your Social Security record? {
 	~At your bank #Not the best option. Official site.

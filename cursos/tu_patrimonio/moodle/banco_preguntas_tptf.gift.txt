@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Patrimonio v2.0/M1
+$CATEGORY: $course$/Tu Patrimonio v1.0/M1
 
 ::M1 U01 P1::¿Qué va en tu inventario? {
 	~Tus contraseñas, para tenerlas juntas #No es la mejor opción. Es el mapa básico.
@@ -90,7 +90,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M1
 	=Decides por lo que te conviene de hoy en adelante #¡Correcto! Lo pagado no se recupera.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M2
+$CATEGORY: $course$/Tu Patrimonio v1.0/M2
 
 ::M2 U01 P1::¿Qué hace la CONDUSEF? {
 	~Vende seguros y créditos a mejor precio que los bancos #No es la mejor opción. No tiene costo y defiende a los usuarios.
@@ -164,7 +164,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M2
 	~3,500 #No es la mejor opción. 350 por 12 meses son 4,200.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M3
+$CATEGORY: $course$/Tu Patrimonio v1.0/M3
 
 ::M3 U01 P1::¿Qué nunca te pide tu banco? {
 	~Que revises tus movimientos #No es la mejor opción. Los códigos son solo tuyos.
@@ -256,7 +256,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M3
 	~Le das la mitad de la contraseña #No es la mejor opción. Nadie más debe saberla.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M4
+$CATEGORY: $course$/Tu Patrimonio v1.0/M4
 
 ::M4 U01 P1::¿Qué gancho usa «tiene cinco minutos o pierde su dinero»? {
 	~Premio #No es la mejor opción. La prisa es el gancho.
@@ -402,7 +402,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M4
 	=Capturas, fechas, montos y folios #¡Correcto! Ayudan a tu reclamación.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M5
+$CATEGORY: $course$/Tu Patrimonio v1.0/M5
 
 ::M5 U01 P1::¿Qué indica la GAT real? {
 	~Lo que te cobra el banco cada mes por manejo #No es la mejor opción. Descuenta la inflación.
@@ -566,7 +566,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M5
 	~De la PROFECO #No es la mejor opción. Es lo que sobra de la venta.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M6
+$CATEGORY: $course$/Tu Patrimonio v1.0/M6
 
 ::M6 U01 P1::Una inversión gana 8% y la inflación es 5%. ¿Cuál es el rendimiento real aproximado? {
 	~13% #No es la mejor opción. 8 menos 5.
@@ -676,7 +676,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M6
 	~La CONDUSEF #No es la mejor opción. Para cuidar la inflación.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M7
+$CATEGORY: $course$/Tu Patrimonio v1.0/M7
 
 ::M7 U01 P1::Empezaste a cotizar en 1990. ¿Qué ley te puede aplicar? {
 	=La Ley 73 #¡Correcto! Cotizaste antes de julio de 1997.
@@ -786,7 +786,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M7
 	~Les pides un pagaré y listo #No es la mejor opción. Primero tu seguridad.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M8
+$CATEGORY: $course$/Tu Patrimonio v1.0/M8
 
 ::M8 U01 P1::¿Qué es el coaseguro? {
 	=El porcentaje que pagas después del deducible #¡Correcto! Tu parte después del deducible.
@@ -914,7 +914,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M8
 	~Nada, todo está cubierto #No es la mejor opción. Hay periodos de espera.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M9
+$CATEGORY: $course$/Tu Patrimonio v1.0/M9
 
 ::M9 U01 P1::Recibes rentas de un departamento. ¿Qué pasa? {
 	~Nunca declaras si eres pensionada #No es la mejor opción. Las rentas suelen obligarte.
@@ -970,7 +970,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M9
 	~Nada, se pierde #No es la mejor opción. Es tu dinero.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M10
+$CATEGORY: $course$/Tu Patrimonio v1.0/M10
 
 ::M10 U01 P1::¿Ante quién se hace un testamento? {
 	~Ante un abogado cualquiera #No es la mejor opción. Así es válido.
@@ -1152,7 +1152,7 @@ $CATEGORY: $course$/Tu Patrimonio v2.0/M10
 	=Que se descuente de su nómina #¡Correcto! Así llega completa.
 }
 
-$CATEGORY: $course$/Tu Patrimonio v2.0/M11
+$CATEGORY: $course$/Tu Patrimonio v1.0/M11
 
 ::M11 U01 P1::Te dicen «la oferta solo es hoy». ¿Qué haces? {
 	=Esperas y comparas #¡Correcto! La prisa es del vendedor.

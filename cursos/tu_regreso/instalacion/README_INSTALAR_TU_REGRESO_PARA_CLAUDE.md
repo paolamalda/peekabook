@@ -60,7 +60,24 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 **Formato Mosaicos:**
 - *Mostrar progreso en los mosaicos*: **como porcentaje**.
 - **Usar submosaicos para las actividades: Sí** (cada lección se ve como un mosaico dentro de su parte).
-- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.
+- La sección General (Bienvenida) va arriba de los mosaicos.
+
+**Íconos de los mosaicos** (se eligen en modo de edición, en cada mosaico; si un nombre no aparece en el selector, usa el más parecido):
+
+| Mosaico | Ícono | Qué se ve |
+|---|---|---|
+| Tus papeles | `id-card` | credencial |
+| Tu cuenta en México | `university` | edificio de banco |
+| Crédito desde cero | `credit-card` | tarjeta |
+| Lo que dejaste en Estados Unidos | `plane` | avión |
+| Tu Afore, tu IMSS y tus semanas | `hourglass-half` | reloj de arena |
+| Tus primeros 90 días | `calendar` | calendario |
+| Trabajo o negocio con lo que sabes hacer | `briefcase` | portafolio |
+| Que no te engañen al regresar | `shield` | escudo |
+| Materiales de apoyo | `book` | libro |
+| Cierre y constancia | `flag-checkered` | bandera de meta |
+| Programas y apoyos (extra) | `life-ring` | salvavidas |
+
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 
 **Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.

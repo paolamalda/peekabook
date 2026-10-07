@@ -61,7 +61,21 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 **Tiles format:**
 - *Show progress on tiles*: **as a percentage**.
 - **Use sub-tiles for activities: Yes** (each lesson shows as a tile inside its part).
-- One icon per part that fits its topic; the General section above the tiles.
+- The General section (Welcome) goes above the tiles.
+
+**Tile icons** (chosen in edit mode, on each tile; if a name isn't in the picker, use the closest one):
+
+| Tile | Icon | What it shows |
+|---|---|---|
+| Your money in order | `money` | billetes |
+| Banks and sending money home | `university` | edificio de banco |
+| Credit without surprises | `credit-card` | tarjeta |
+| Protect what's yours | `shield` | escudo |
+| Your future | `home` | casa |
+| Support materials | `book` | libro |
+| Closing and certificate | `flag-checkered` | bandera de meta |
+| Programs and support (extra) | `life-ring` | salvavidas |
+
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 
 **Enrolment:** *Enrolment methods* > enable **Self enrolment** with the **enrolment key** the person gives you (if you don't have it, leave "[TBD]" and report it). Turn off guest access.
@@ -124,9 +138,9 @@ In section 6, create the glossary `Course key words` and import `3_glossary/Glos
 
 ## 6. Question bank and self-assessments
 
-1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v4.0/M1* to *M5* are created, with 189 questions.
+1. *Question bank > Import*: GIFT format, `4_questions/banco_preguntas_v3_en.gift.txt`. Categories *Your Money v1.0/M1* to *M5* are created, with 189 questions.
 2. In each module section, create the quiz `Module N self-assessment`: grade to pass 70, unlimited attempts, highest grade, shuffle answers, review with correct answer and feedback, completion "Require passing grade".
-3. Add **all** questions from *Your Money v4.0/MN*, 10 per page:
+3. Add **all** questions from *Your Money v1.0/MN*, 10 per page:
 
 | M1 | M2 | M3 | M4 | M5 |
 |---|---|---|---|---|

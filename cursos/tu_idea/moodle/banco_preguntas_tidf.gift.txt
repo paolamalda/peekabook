@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Idea v2.0/M1
+$CATEGORY: $course$/Tu Idea v1.0/M1
 
 ::M1 U01 P1::¿Qué es poner el dinero a trabajar? {
 	~Esconderlo en tu cuarto para no gastarlo #No es la mejor opción. Es la idea de crecer.
@@ -72,7 +72,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M1
 	~2,000 #No es la mejor opción. 20% de 3,000.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M2
+$CATEGORY: $course$/Tu Idea v1.0/M2
 
 ::M2 U01 P1::Tienes 16 años. ¿Cómo abres una cuenta? {
 	~No puedes hasta los 21 #No es la mejor opción. Te acompañan.
@@ -146,7 +146,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M2
 	~Das la tarjeta de otra persona para que le cobren a ella #No es la mejor opción. Evitas cobros.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M3
+$CATEGORY: $course$/Tu Idea v1.0/M3
 
 ::M3 U01 P1::¿Por dónde empieza una buena idea de negocio? {
 	~Por lo que está de moda en redes #No es la mejor opción. Los negocios resuelven problemas.
@@ -238,7 +238,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M3
 	~Cierras el negocio porque ya ganaste lo que querías #No es la mejor opción. Así crece.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M4
+$CATEGORY: $course$/Tu Idea v1.0/M4
 
 ::M4 U01 P1::Ganas 1,000; te pagas 400 y guardas 150 de reserva. ¿Cuánto reinviertes? {
 	=450 #¡Correcto! 1,000 menos 550.
@@ -312,7 +312,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M4
 	~El RFC #No es la mejor opción. Está en el precio.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M5
+$CATEGORY: $course$/Tu Idea v1.0/M5
 
 ::M5 U01 P1::Quieres 4,800 en 12 meses. ¿Cuánto apartas al mes? {
 	~480 #No es la mejor opción. 4,800 entre 12.
@@ -386,7 +386,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M5
 	~Solo en línea #No es la mejor opción. Está prohibido.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M6
+$CATEGORY: $course$/Tu Idea v1.0/M6
 
 ::M6 U01 P1::Pagas 250 por semana durante 40 semanas por algo de 7,000. ¿Cuánto pagas de más? {
 	=3,000 #¡Correcto! 10,000 menos 7,000.
@@ -478,7 +478,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M6
 	=El total a pagar y cuántos meses te descuentan #¡Correcto! Así sabes cuánto cuesta.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M7
+$CATEGORY: $course$/Tu Idea v1.0/M7
 
 ::M7 U01 P1::¿Qué es transferir un riesgo? {
 	=Contratar un seguro #¡Correcto! Pagas poco para no perder mucho.
@@ -552,7 +552,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M7
 	~Tener más seguidores y amigos en tus redes sociales #No es la mejor opción. Pide un código extra.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M8
+$CATEGORY: $course$/Tu Idea v1.0/M8
 
 ::M8 U01 P1::¿Quién cuida el valor del peso y la inflación? {
 	~La PROFECO #No es la mejor opción. Es su trabajo.
@@ -626,7 +626,7 @@ $CATEGORY: $course$/Tu Idea v2.0/M8
 	~Nada #No es la mejor opción. Impuesto estatal y notario.
 }
 
-$CATEGORY: $course$/Tu Idea v2.0/M9
+$CATEGORY: $course$/Tu Idea v1.0/M9
 
 ::M9 U01 P1::¿Por qué estudiar se considera una inversión? {
 	~Porque no cuesta nada de tiempo ni de dinero #No es la mejor opción. Invertir en ti.

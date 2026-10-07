@@ -60,7 +60,21 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 **Formato Mosaicos:**
 - *Mostrar progreso en los mosaicos*: **como porcentaje**.
 - **Usar submosaicos para las actividades: Sí** (cada lección se ve como un mosaico dentro de su parte).
-- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.
+- La sección General (Bienvenida) va arriba de los mosaicos.
+
+**Íconos de los mosaicos** (se eligen en modo de edición, en cada mosaico; si un nombre no aparece en el selector, usa el más parecido):
+
+| Mosaico | Ícono | Qué se ve |
+|---|---|---|
+| Tu dinero en orden | `money` | billetes |
+| Bancos y envíos a casa | `university` | edificio de banco |
+| Crédito sin sustos | `credit-card` | tarjeta |
+| Protege lo tuyo | `shield` | escudo |
+| Tu futuro | `home` | casa |
+| Materiales de apoyo | `book` | libro |
+| Cierre y constancia | `flag-checkered` | bandera de meta |
+| Programas y apoyos (extra) | `life-ring` | salvavidas |
+
 - Oculta el bloque *Tabla de posiciones* o *Ranking* de Level Up si aparece en la columna derecha.
 
 **Inscripción:** *Métodos de inscripción* > activa **Autoinscripción** con la **clave de inscripción** que te dé la persona (si no la tienes, deja "[por definir]" y repórtalo). Desactiva el acceso de invitados.
@@ -123,9 +137,9 @@ En la sección 6, crea el glosario `Palabras clave del curso` e importa `3_glosa
 
 ## 6. Banco de preguntas y autoevaluaciones
 
-1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_v3_es.gift.txt`. Se crean *Tu Dinero v4.0/M1* a *M5*, con 189 preguntas.
+1. *Banco de preguntas > Importar*: formato GIFT, `4_preguntas/banco_preguntas_v3_es.gift.txt`. Se crean *Tu Dinero v1.0/M1* a *M5*, con 189 preguntas.
 2. En cada sección de módulo, crea el cuestionario `Autoevaluación del Módulo N`: aprobatoria 70, intentos ilimitados, calificación más alta, respuestas al azar, revisión con correcta y retroalimentación, finalización "Requiere calificación aprobatoria".
-3. Agrega **todas** las preguntas de *Tu Dinero v4.0/MN*, 10 por página:
+3. Agrega **todas** las preguntas de *Tu Dinero v1.0/MN*, 10 por página:
 
 | M1 | M2 | M3 | M4 | M5 |
 |---|---|---|---|---|

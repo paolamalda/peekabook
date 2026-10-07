@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Negocio MX v2.0/M1
+$CATEGORY: $course$/Tu Negocio MX v1.0/M1
 
 ::M1 U01 P1::Vendes 25,000 y tus costos son 19,000. ¿Cuánto ganas? {
 	=6,000 #¡Correcto! 25,000 menos 19,000.
@@ -108,7 +108,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M1
 	=La deuda y el historial son tuyos #¡Correcto! Tu nombre responde.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M2
+$CATEGORY: $course$/Tu Negocio MX v1.0/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
 	~La renta del local #No es la mejor opción. Sube con cada venta.
@@ -182,7 +182,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M2
 	=Si vendes todo antes de que caduque #¡Correcto! Si no, sale cara.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M3
+$CATEGORY: $course$/Tu Negocio MX v1.0/M3
 
 ::M3 U01 P1::Tienes 3,000, cobrarás 5,000 y pagarás 9,000 esta semana. ¿Cómo terminas? {
 	~Con 1,000 de sobra #No es la mejor opción. 3,000 más 5,000 menos 9,000.
@@ -256,7 +256,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M3
 	~Pides otro crédito para cubrirlo #No es la mejor opción. Prepárate por si sube.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M4
+$CATEGORY: $course$/Tu Negocio MX v1.0/M4
 
 ::M4 U01 P1::Cobras 6,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
 	=180 #¡Correcto! 3% de 6,000.
@@ -312,7 +312,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M4
 	~Un pago que ya está en tu cuenta #No es la mejor opción. La prisa es un gancho.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M5
+$CATEGORY: $course$/Tu Negocio MX v1.0/M5
 
 ::M5 U01 P1::¿Cuánto cobra el SAT por inscribirte en el RFC? {
 	~Depende del gestor #No es la mejor opción. No tiene costo.
@@ -404,7 +404,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M5
 	~Que no te diga cuánto pagaste #No es la mejor opción. Así sabes qué presentó.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M6
+$CATEGORY: $course$/Tu Negocio MX v1.0/M6
 
 ::M6 U01 P1::La ganancia extra es 2,000 al mes y el pago es 2,500. ¿Qué pasa? {
 	~El crédito se paga solo #No es la mejor opción. Pago mayor que ganancia.
@@ -496,7 +496,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M6
 	~Das los datos de tu amigo y los de su familia #No es la mejor opción. No pueden cobrar a referencias.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M7
+$CATEGORY: $course$/Tu Negocio MX v1.0/M7
 
 ::M7 U01 P1::¿Qué incluye la Modalidad 10 que no incluye la 40? {
 	~Retiro #No es la mejor opción. La 10 da servicio médico.
@@ -642,7 +642,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M7
 	=En el registro de contratos de Profeco #¡Correcto! Registro oficial.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M8
+$CATEGORY: $course$/Tu Negocio MX v1.0/M8
 
 ::M8 U01 P1::¿Qué es un costo de contratar además del sueldo? {
 	=El aguinaldo #¡Correcto! Es prestación de ley.
@@ -770,7 +770,7 @@ $CATEGORY: $course$/Tu Negocio MX v2.0/M8
 	~Pides prestado para adelantar #No es la mejor opción. Así no te falta para surtir.
 }
 
-$CATEGORY: $course$/Tu Negocio MX v2.0/M9
+$CATEGORY: $course$/Tu Negocio MX v1.0/M9
 
 ::M9 U01 P1::¿Dónde localizas tu AFORE? {
 	~En tu banco #No es la mejor opción. Sistema oficial.

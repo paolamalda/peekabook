@@ -1,4 +1,4 @@
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M1
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M1
 
 ::M1 U01 P1::Vendes $3,000 y tus costos son $2,200. ¿Cuánto ganas? {
 	=$800 #¡Correcto! $3,000 menos $2,200.
@@ -108,7 +108,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M1
 	=La deuda y el historial son tuyos #¡Correcto! Tu nombre responde.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M2
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M2
 
 ::M2 U01 P1::¿Cuál de estos es un costo variable? {
 	~La suscripción de tu tienda en línea #No es la mejor opción. Sube con cada venta.
@@ -182,7 +182,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M2
 	=Si vendes todo antes de que caduque #¡Correcto! Si no, sale cara.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M3
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M3
 
 ::M3 U01 P1::Tienes $600, cobrarás $900 y pagarás $1,700 esta semana. ¿Cómo terminas? {
 	~Con $200 de sobra #No es la mejor opción. $600 más $900 menos $1,700.
@@ -256,7 +256,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M3
 	~Pides otro crédito para cubrirlo #No es la mejor opción. Prepárate por si sube.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M4
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M4
 
 ::M4 U01 P1::Cobras $5,000 al mes con tarjeta y la comisión es 3%. ¿Cuánto pagas? {
 	=$150 #¡Correcto! 3% de $5,000.
@@ -312,7 +312,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M4
 	~Un pago disponible por el monto exacto #No es la mejor opción. La prisa es un gancho.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M5
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M5
 
 ::M5 U01 P1::¿Qué forma de negocio empieza sin trámite de empresa? {
 	=Dueño único #¡Correcto! Empiezas al vender.
@@ -404,7 +404,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M5
 	~Lo guardas como reserva del negocio #No es la mejor opción. Es del estado.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M6
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M6
 
 ::M6 U01 P1::La ganancia extra es $300 al mes y el pago es $400. ¿Qué pasa? {
 	~El crédito se paga solo #No es la mejor opción. Pago mayor que ganancia.
@@ -496,7 +496,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M6
 	~Das los datos de la familia de tu amigo #No es la mejor opción. No pueden cobrarte.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M7
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M7
 
 ::M7 U01 P1::¿Dónde revisas seguro médico en California si trabajas por tu cuenta? {
 	=En Covered California y Medi-Cal #¡Correcto! Opciones oficiales.
@@ -624,7 +624,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M7
 	=$2 millones #¡Correcto! Daños físicos o capital de trabajo.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M8
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M8
 
 ::M8 U01 P1::Alguien trabaja en tu local, con tu horario y tus instrucciones. ¿Qué suele ser? {
 	=Un empleado #¡Correcto! Tú controlas el trabajo.
@@ -752,7 +752,7 @@ $CATEGORY: $course$/Tu Negocio US ES v2.0/M8
 	~Pides prestado para adelantar #No es la mejor opción. Así no te falta para surtir.
 }
 
-$CATEGORY: $course$/Tu Negocio US ES v2.0/M9
+$CATEGORY: $course$/Tu Negocio US ES v1.0/M9
 
 ::M9 U01 P1::¿Dónde revisas tu historial del Seguro Social? {
 	~En tu banco #No es la mejor opción. Sitio oficial.

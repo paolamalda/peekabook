@@ -314,6 +314,9 @@ If Custom certificate is not installed, the **{CFG["insignias"][-1][2]} · {CFG[
     import programas as _PG
     _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), True)
     if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)
+    import iconos as _IC
+    _ti = _IC.tabla(os.path.basename(os.path.normpath(D)), [v["titulo"] for v in CFG.get("nombres", {}).values()], True)
+    if _ti: readme = readme.replace('- One icon per part that fits its topic; the General section above the tiles.', '- The General section (Welcome) goes above the tiles.' + "\n\n" + "**Tile icons** (chosen in edit mode, on each tile; if a name isn't in the picker, use the closest one):" + "\n\n" + _ti + "\n")
     from moodle45 import adaptar
     readme, guide = adaptar(readme, guide, en=True)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)

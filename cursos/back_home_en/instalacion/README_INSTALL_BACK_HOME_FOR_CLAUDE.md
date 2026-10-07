@@ -61,7 +61,24 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 **Tiles format:**
 - *Show progress on tiles*: **as a percentage**.
 - **Use sub-tiles for activities: Yes** (each lesson shows as a tile inside its part).
-- One icon per part that fits its topic; the General section above the tiles.
+- The General section (Welcome) goes above the tiles.
+
+**Tile icons** (chosen in edit mode, on each tile; if a name isn't in the picker, use the closest one):
+
+| Tile | Icon | What it shows |
+|---|---|---|
+| Your papers | `id-card` | credencial |
+| Your account in Mexico | `university` | edificio de banco |
+| Credit from scratch | `credit-card` | tarjeta |
+| What you left in the United States | `plane` | avión |
+| Your Afore, your IMSS and your weeks | `hourglass-half` | reloj de arena |
+| Your first 90 days | `calendar` | calendario |
+| Work or a business with what you know how to do | `briefcase` | portafolio |
+| Don't get scammed when you return | `shield` | escudo |
+| Support materials | `book` | libro |
+| Closing and certificate | `flag-checkered` | bandera de meta |
+| Programs and support (extra) | `life-ring` | salvavidas |
+
 - Hide the Level Up *Ladder* or *Leaderboard* block if it appears in the right column.
 
 **Enrolment:** *Enrolment methods* > enable **Self enrolment** with the **enrolment key** the person gives you (if you don't have it, leave "[TBD]" and report it). Turn off guest access.

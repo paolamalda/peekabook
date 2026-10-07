@@ -312,6 +312,9 @@ Si Certificado personalizado no está instalado, la insignia **{CFG["insignias"]
     import programas as _PG
     _bp = _PG.bloque_readme(os.path.basename(os.path.normpath(D)), False)
     if _bp: readme = re.sub(r"\n(## \d+\. (?:Revisión final|Final review))", lambda m: "\n" + _bp + m.group(1), readme, count=1)
+    import iconos as _IC
+    _ti = _IC.tabla(os.path.basename(os.path.normpath(D)), [v["titulo"] for v in CFG.get("nombres", {}).values()], False)
+    if _ti: readme = readme.replace('- Un ícono por parte acorde a su tema; la sección General arriba de los mosaicos.', '- La sección General (Bienvenida) va arriba de los mosaicos.' + "\n\n" + '**Íconos de los mosaicos** (se eligen en modo de edición, en cada mosaico; si un nombre no aparece en el selector, usa el más parecido):' + "\n\n" + _ti + "\n")
     from moodle45 import adaptar
     readme, guia = adaptar(readme, guia, en=False)
     os.makedirs(os.path.join(D, "instalacion"), exist_ok=True)

@@ -1,8 +1,8 @@
 {
  "sigla": "TTFF",
  "titulo": "Tu Trabajo, Tu Familia, Tu Futuro",
- "subtitulo": "Versión 2.0 · Desarrolla Talento · Octubre de 2026",
- "version": "2.0",
+ "subtitulo": "Versión 1.0 · Desarrolla Talento · Octubre de 2026",
+ "version": "1.0",
  "lang": "es",
  "intro": "Programa de bienestar financiero para trabajadoras del hogar en México, de entrada por salida o de planta: 9 módulos en microlecciones para el celular, para cobrar lo justo, ordenar el dinero de la semana, ayudar a la familia sin hundirse, protegerse y crecer.",
  "categoria": "Tu Trabajo",
@@ -112,7 +112,7 @@
  "comunidad": {
   "titulo": "Comunidad Tu Trabajo",
   "subtitulo": "Versión 1.0 · Desarrolla Talento · Septiembre de 2026",
-  "version": "2.0",
+  "version": "1.0",
   "intro": "Complemento del curso Tu Trabajo, Tu Familia, Tu Futuro: espacio aparte en Moodle para dudas, alertas de fraude, avisos y sesiones de acompañamiento por la tarde o en domingo. Se complementa con un canal de WhatsApp.",
   "leads": {
    "01": "Qué es la comunidad, qué encuentras y cómo empezar.",
@@ -124,7 +124,7 @@
   },
   "carpeta": {
    "nombre": "Comunidad_Tu_Trabajo",
-   "zip": "Comunidad_Tu_Trabajo_v2.0",
+   "zip": "Comunidad_Tu_Trabajo_v1.0",
    "descripciones": [
     "Manual del profesor (arranque, rutina, sesiones de acompañamiento, práctica guiada, bitácora y textos listos) y manual de la comunidad (espacios, canal y moderación).",
     "Libro «Guía de la comunidad» (6 capítulos) en .docx y .md.",
@@ -146,10 +146,10 @@
  },
  "carpeta": {
   "nombre": "Tu_Trabajo_Tu_Familia_Tu_Futuro",
-  "zip": "Tu_Trabajo_v2.0",
-  "manual": "Manual_del_programa_TTFF_v2.0",
-  "contenido": "Contenido_completo_TTFF_v2.0",
-  "guia": "Guia_implementacion_TTFF_v2.0",
+  "zip": "Tu_Trabajo_v1.0",
+  "manual": "Manual_del_programa_TTFF_v1.0",
+  "contenido": "Contenido_completo_TTFF_v1.0",
+  "guia": "Guia_implementacion_TTFF_v1.0",
   "descripciones": [
    "Manual del programa: público, reglas, módulos y lecciones, personajes, formato de microlecciones y datos verificados.",
    "Contenido completo: personajes, lecciones, libro de apoyo, H5P y banco de preguntas (.docx y .md).",

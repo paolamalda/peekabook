@@ -11,7 +11,7 @@ The goal is to motivate without competing. Points reward progress, not perfect s
 | One book per lesson (with the practice embedded) | 45 | View |
 | Quiz "Module N self-assessment" | 1 per part (9) | Passing grade of 70% |
 
-**Self-assessments:** use the bank of 135 three-option questions with feedback, in categories *Your Business US EN v2.0/M1* to *M9*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
+**Self-assessments:** use the bank of 135 three-option questions with feedback, in categories *Your Business US EN v1.0/M1* to *M9*. Passing grade 70%, unlimited attempts, shuffled answers and review with the correct answer and feedback at the end.
 
 ## 2. Level Up: levels and points
 
