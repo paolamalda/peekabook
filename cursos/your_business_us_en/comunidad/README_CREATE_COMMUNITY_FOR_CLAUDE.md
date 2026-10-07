@@ -16,7 +16,6 @@ Rules:
 2. Ask the person for:
    - the date and link of the first monthly live session;
    - the WhatsApp channel link;
-   - whether they want to enroll people with a cohort (created by the site administrator) or manually.
    If they don't have these, leave the text "[to be defined]" and report it.
 
 ## 1. Create the course
@@ -26,7 +25,7 @@ Rules:
 | Full name | Your Business Community · U.S. |
 | Short name | DT-NEGOCIO-US-EN-COM |
 | Visibility | **Show** |
-| Enrolment | Self enrolment with the enrolment key the person gives you ("[to be defined]" if you don't have it) |
+| Enrolment | Self enrolment with the community's own enrolment key (Paola or the Archivist gives it to you; never write it in any file or report) |
 | Format | Topics, 4 sections |
 | Completion tracking | No |
 | Show gradebook | No |
@@ -90,8 +89,7 @@ In the course **DT-NEGOCIO-US-EN**, General section, add a **URL** `Your Busines
 
 ## 4. Enrollment
 
-- If the person created the cohort "Your Business US EN": in both courses, *Participants > Enrollment methods > Add method > Cohort sync*, cohort "Your Business US EN", role Student.
-- If not: enable **Self enrolment** with the enrolment key the person gives you ("[to be defined]" if you don't have it) and report it.
+- Enable **Self enrolment** in the community, role Student, with the community's own enrolment key (Paola or the Archivist gives it to you; never write it in any file or report). Report that it is active, without the key.
 - Add the moderation team with the role **Non-editing teacher** (or Teacher, if the person asks).
 
 ## 5. Review (as a student)

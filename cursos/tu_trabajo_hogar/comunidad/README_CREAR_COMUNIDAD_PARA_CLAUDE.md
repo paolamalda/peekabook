@@ -16,7 +16,6 @@ Reglas:
 2. Pregunta a la persona:
    - la fecha y el lugar o enlace de la primera sesión de acompañamiento;
    - el enlace del canal de WhatsApp;
-   - si quiere inscribir a las personas con una cohorte (la crea la persona administradora del sitio) o de forma manual.
    Si no tiene esos datos, deja el texto "[por definir]" y repórtalo.
 
 ## 1. Crear el curso
@@ -26,7 +25,7 @@ Reglas:
 | Nombre | Comunidad Tu Trabajo |
 | Nombre corto | DT-TRABAJO-MX-ES-COM |
 | Visibilidad | **Mostrar** |
-| Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
+| Inscripción | Autoinscripción con la clave propia de la comunidad (te la da Paola o el Archivista; no la escribas en ningún archivo ni reporte) |
 | Formato | Temas, 4 secciones |
 | Seguimiento de finalización | No |
 | Mostrar calificaciones | No |
@@ -88,8 +87,7 @@ En el curso **DT-TRABAJO-MX-ES**, sección General, agrega una **URL** `Comunida
 
 ## 4. Inscripción
 
-- Si la persona creó la cohorte "Tu Trabajo": en ambos cursos, *Participantes > Métodos de inscripción > Agregar método > Sincronización de cohortes*, cohorte "Tu Trabajo", rol Estudiante.
-- Si no: activa la **Autoinscripción** con la clave que te dé la persona («[por definir]» si no la tienes) y repórtalo.
+- Activa la **Autoinscripción** en la comunidad, rol Estudiante, con la clave propia de la comunidad (te la da Paola o el Archivista; no la escribas en ningún archivo ni reporte). Reporta que quedó activa, sin la clave.
 - Agrega al equipo de moderación con rol **Profesor sin permiso de edición** (o Profesor, si lo pide la persona).
 
 ## 5. Revisión (con rol de estudiante)
