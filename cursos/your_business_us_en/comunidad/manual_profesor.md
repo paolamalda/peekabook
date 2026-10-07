@@ -14,7 +14,7 @@ Version 1.3 · September 2026 · Accompanies the course *Your Business, Your Mon
 
 The community is a **companion** to the course, not a separate course with its own content:
 
-| | Course (YBMF-US-EN) | Community (YBMF-US-EN-COM) |
+| | Course (DT-NEGOCIO-US-EN) | Community (DT-NEGOCIO-US-EN-COM) |
 |---|---|---|
 | Purpose | Learn: 9 modules, 43 lessons | Accompany: monthly session, questions, alerts, "Introduce your business" and wins |
 | Content | Lessons, H5P, self-assessments | Forums and the *Community guide*; no new topics taught |

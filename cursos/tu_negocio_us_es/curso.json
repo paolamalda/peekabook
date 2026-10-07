@@ -145,7 +145,7 @@
   }
  },
  "instalacion": {
-  "nombre_corto": "TNDF-US-ES",
+  "nombre_corto": "DT-NEGOCIO-US-ES",
   "readme": "README_INSTALAR_TU_NEGOCIO_US_ES_PARA_CLAUDE.md",
   "aviso_foro": "No compartas tu SSN, ITIN, EIN, contraseñas, números de cuenta, montos reales de tu negocio ni tu situación migratoria.",
   "niveles": [
@@ -214,7 +214,7 @@
     "Concluiste los nueve módulos del programa."
    ]
   ],
-  "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio EE. UU.** (`TNDF-US-ES-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
+  "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio EE. UU.** (`DT-NEGOCIO-US-ES-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
  },
  "carpeta": {
   "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_US_ES",

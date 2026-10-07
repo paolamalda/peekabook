@@ -1,6 +1,6 @@
 # Instructions for Claude: create "Your Business Community · U.S." (Moodle 3.10)
 
-You will create the course **Your Business Community · U.S.** on academia.desarrollatalento.com. It is a space separate from the course *Your Business, Your Money, Your Future · U.S.* (YBMF-US-EN). Don't touch other courses.
+You will create the course **Your Business Community · U.S.** on academia.desarrollatalento.com. It is a space separate from the course *Your Business, Your Money, Your Future · U.S.* (DT-NEGOCIO-US-EN). Don't touch other courses.
 
 Rules:
 
@@ -12,7 +12,7 @@ Rules:
 
 ## 0. Before you start
 
-1. Confirm that no course with the short name `YBMF-US-EN-COM` exists. If it does, stop and ask.
+1. Confirm that no course with the short name `DT-NEGOCIO-US-EN-COM` exists. If it does, stop and ask.
 2. Ask the person for:
    - the date and link of the first monthly live session;
    - the WhatsApp channel link;
@@ -24,7 +24,7 @@ Rules:
 | Field | Value |
 |---|---|
 | Full name | Your Business Community · U.S. |
-| Short name | YBMF-US-EN-COM |
+| Short name | DT-NEGOCIO-US-EN-COM |
 | Visibility | **Show** |
 | Enrolment | Self enrolment with the enrolment key the person gives you ("[to be defined]" if you don't have it) |
 | Format | Topics, 4 sections |
@@ -86,7 +86,7 @@ If your Moodle version doesn't show the "blog-like" type under that name, use "S
 
 ## 3. Link from the main course
 
-In the course **YBMF-US-EN**, General section, add a **URL** `Your Business Community · U.S.` to the new course, with the description: "Questions, tax dates, scam alerts, introduce your business and the monthly session."
+In the course **DT-NEGOCIO-US-EN**, General section, add a **URL** `Your Business Community · U.S.` to the new course, with the description: "Questions, tax dates, scam alerts, introduce your business and the monthly session."
 
 ## 4. Enrollment
 

@@ -119,7 +119,7 @@
   ]
  },
  "instalacion": {
-  "nombre_corto": "TDTF-CA-EN",
+  "nombre_corto": "DT-DINERO-CA-EN",
   "readme": "README_INSTALL_YOUR_MONEY_EN_FOR_CLAUDE.md",
   "aviso_foro": "Don't share account numbers, SSN, ITIN, passwords or your immigration status.",
   "niveles": [

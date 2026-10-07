@@ -43,7 +43,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TCMF-MX`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-COMUNIDAD-MX-ES`. Si existe, detente y pregunta.
 2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**. Anótalo para el reporte.
 3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
@@ -52,7 +52,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Campo | Valor |
 |---|---|
 | Nombre | Tu Comunidad, Tu Dinero, Tu Futuro |
-| Nombre corto | TCMF-MX |
+| Nombre corto | DT-COMUNIDAD-MX-ES |
 | Visibilidad | **Mostrar** |
 | Formato | **Mosaicos** (Tiles). 9 secciones |
 | Seguimiento de finalización | Sí |

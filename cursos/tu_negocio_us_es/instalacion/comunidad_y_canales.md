@@ -2,7 +2,7 @@
 
 ## 1. Comunidad Tu Negocio EE. UU. en Moodle
 
-Un curso aparte, **"Comunidad Tu Negocio EE. UU."** (nombre corto `TNDF-US-ES-COM`), complemento de este curso. Tiene avisos, foros de dudas por tema, alertas de fraude, el foro «Presenta tu negocio», logros, una sesión mensual en vivo y un foro separado de referencias comerciales. Su creación está en su propia carpeta.
+Un curso aparte, **"Comunidad Tu Negocio EE. UU."** (nombre corto `DT-NEGOCIO-US-ES-COM`), complemento de este curso. Tiene avisos, foros de dudas por tema, alertas de fraude, el foro «Presenta tu negocio», logros, una sesión mensual en vivo y un foro separado de referencias comerciales. Su creación está en su propia carpeta.
 
 Para inscribir al grupo de una vez, la persona administradora del sitio puede crear una **cohorte** "Tu Negocio US ES" y agregarla con "Sincronización de cohortes" en el curso y en la comunidad.
 

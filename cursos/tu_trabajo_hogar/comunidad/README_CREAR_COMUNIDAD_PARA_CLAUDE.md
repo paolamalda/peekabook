@@ -1,6 +1,6 @@
 # Instrucciones para Claude: crear "Comunidad Tu Trabajo" (Moodle 3.10)
 
-Vas a crear el curso **Comunidad Tu Trabajo** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Trabajo, Tu Familia, Tu Futuro* (TTFF-MX). No toques otros cursos.
+Vas a crear el curso **Comunidad Tu Trabajo** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Trabajo, Tu Familia, Tu Futuro* (DT-TRABAJO-MX-ES). No toques otros cursos.
 
 Reglas:
 
@@ -12,7 +12,7 @@ Reglas:
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TTFF-COM`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-TRABAJO-MX-ES-COM`. Si existe, detente y pregunta.
 2. Pregunta a la persona:
    - la fecha y el lugar o enlace de la primera sesión de acompañamiento;
    - el enlace del canal de WhatsApp;
@@ -24,7 +24,7 @@ Reglas:
 | Campo | Valor |
 |---|---|
 | Nombre | Comunidad Tu Trabajo |
-| Nombre corto | TTFF-COM |
+| Nombre corto | DT-TRABAJO-MX-ES-COM |
 | Visibilidad | **Mostrar** |
 | Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
 | Formato | Temas, 4 secciones |
@@ -84,7 +84,7 @@ Si en tu versión de Moodle el tipo "similar a un blog" no aparece con ese nombr
 
 ## 3. Enlazar desde el curso principal
 
-En el curso **TTFF-MX**, sección General, agrega una **URL** `Comunidad Tu Trabajo` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones de acompañamiento."
+En el curso **DT-TRABAJO-MX-ES**, sección General, agrega una **URL** `Comunidad Tu Trabajo` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones de acompañamiento."
 
 ## 4. Inscripción
 

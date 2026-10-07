@@ -145,7 +145,7 @@
   }
  },
  "instalacion": {
-  "nombre_corto": "TNDF-MX",
+  "nombre_corto": "DT-NEGOCIO-MX-ES",
   "readme": "README_INSTALAR_TU_NEGOCIO_MX_PARA_CLAUDE.md",
   "aviso_foro": "No compartas tu RFC, contraseñas del SAT, e.firma, números de cuenta ni montos reales de tu negocio.",
   "niveles": [
@@ -214,7 +214,7 @@
     "Concluiste los nueve módulos del programa."
    ]
   ],
-  "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`TNDF-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
+  "extra_readme": "\n## 9. Comunidad (opcional, pregunta antes)\n\nPregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio** (`DT-NEGOCIO-MX-ES-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.\n"
  },
  "carpeta": {
   "nombre": "Tu_Negocio_Tu_Dinero_Tu_Futuro_MX",

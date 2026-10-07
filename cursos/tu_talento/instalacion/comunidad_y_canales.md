@@ -2,7 +2,7 @@
 
 ## 1. Espacio de la comunidad en Moodle
 
-Un curso aparte, **"Comunidad Tu Talento"** (nombre corto `TTMF-COM`), con:
+Un curso aparte, **"Comunidad Tu Talento"** (nombre corto `DT-TALENTO-MX-ES-COM`), con:
 
 - Un foro **"Dudas de la comunidad"** (foro de uso general).
 - Un foro **"Avisos"** (solo el equipo publica).

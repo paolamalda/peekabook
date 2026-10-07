@@ -43,7 +43,7 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 
 ## 0. Before you start
 
-1. Confirm that no course with the short name `TRDF-MX-EN` exists. If it does, stop and ask.
+1. Confirm that no course with the short name `DT-REGRESO-MX-EN` exists. If it does, stop and ask.
 2. Check in *Site administration > Plugins > Plugins overview* whether **Custom certificate** and **Level Up** exist. Note it for the report.
 3. If the site has no H5P activities yet, the first one you upload installs its libraries: upload it with the administrator account. If a library error appears, stop and report the exact message.
 
@@ -52,7 +52,7 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Field | Value |
 |---|---|
 | Full name | Back Home, Your Money, Your Future |
-| Short name | TRDF-MX-EN |
+| Short name | DT-REGRESO-MX-EN |
 | Visibility | **Show** |
 | Format | **Tiles**. 10 sections |
 | Completion tracking | Yes |

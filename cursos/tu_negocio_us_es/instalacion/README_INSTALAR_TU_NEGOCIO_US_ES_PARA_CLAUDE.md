@@ -43,7 +43,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TNDF-US-ES`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-NEGOCIO-US-ES`. Si existe, detente y pregunta.
 2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**. Anótalo para el reporte.
 3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
@@ -52,7 +52,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Campo | Valor |
 |---|---|
 | Nombre | Tu Negocio, Tu Dinero, Tu Futuro · EE. UU. |
-| Nombre corto | TNDF-US-ES |
+| Nombre corto | DT-NEGOCIO-US-ES |
 | Visibilidad | **Mostrar** |
 | Formato | **Mosaicos** (Tiles). 11 secciones |
 | Seguimiento de finalización | Sí |
@@ -171,7 +171,7 @@ Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con
 
 ## 9. Comunidad (opcional, pregunta antes)
 
-Pregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio EE. UU.** (`TNDF-US-ES-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.
+Pregunta a la persona si quiere que crees el curso **Comunidad Tu Negocio EE. UU.** (`DT-NEGOCIO-US-ES-COM`, oculto). Tiene su propia carpeta y sus instrucciones: `README_CREAR_COMUNIDAD_PARA_CLAUDE.md`.
 
 ## Sección extra: Programas y apoyos
 

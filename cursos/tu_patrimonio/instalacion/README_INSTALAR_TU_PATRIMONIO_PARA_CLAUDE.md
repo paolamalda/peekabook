@@ -43,7 +43,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TPTF-MX`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-PATRIMONIO-MX-ES`. Si existe, detente y pregunta.
 2. Revisa en *Administración del sitio > Extensiones > Resumen de extensiones* si existen **Certificado personalizado** y **Level Up**. Anótalo para el reporte.
 3. Si el sitio todavía no tiene actividades H5P, la primera que subas instala sus librerías: súbela con la cuenta de administración. Si aparece un error de librerías, detente y reporta el mensaje exacto.
 
@@ -52,7 +52,7 @@ El sitio usa **Moodle 4.5**. Donde estas instrucciones nombran un menú, búscal
 | Campo | Valor |
 |---|---|
 | Nombre | Tu Patrimonio, Tu Tranquilidad, Tu Futuro |
-| Nombre corto | TPTF-MX |
+| Nombre corto | DT-PATRIMONIO-MX-ES |
 | Visibilidad | **Mostrar** |
 | Formato | **Mosaicos** (Tiles). 13 secciones |
 | Seguimiento de finalización | Sí |
@@ -175,7 +175,7 @@ Sigue `7_guias/guia_gamificacion.md`: secciones 2 (Level Up), 3 (8 insignias con
 
 ## 9. Comunidad y acompañamiento (pregunta antes)
 
-Este curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe "[por definir]" y repórtalo).
+Este curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`DT-PATRIMONIO-MX-ES-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe "[por definir]" y repórtalo).
 
 ## Sección extra: Programas y apoyos
 

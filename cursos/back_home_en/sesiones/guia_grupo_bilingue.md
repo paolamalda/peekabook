@@ -8,9 +8,9 @@ Muchas personas que regresan crecieron en Estados Unidos (como Memo) y leen mejo
 
 | Versión | Curso en Moodle | Cuándo se usa |
 |---|---|---|
-| Español | Tu Regreso, Tu Dinero, Tu Futuro (`TRDF-MX-ES`) | Todo el grupo prefiere español |
-| Inglés | Back Home, Your Money, Your Future (`TRDF-MX-EN`) | Todo el grupo prefiere inglés |
-| Bilingüe | Tu Regreso / Back Home (`TRDF-MX-BI`) | El grupo mezcla los dos idiomas |
+| Español | Tu Regreso, Tu Dinero, Tu Futuro (`DT-REGRESO-MX-ES`) | Todo el grupo prefiere español |
+| Inglés | Back Home, Your Money, Your Future (`DT-REGRESO-MX-EN`) | Todo el grupo prefiere inglés |
+| Bilingüe | Tu Regreso / Back Home (`DT-REGRESO-MX-BI`) | El grupo mezcla los dos idiomas |
 
 Las tres versiones tienen **las mismas 24 lecciones, los mismos códigos (M1 U01…), los mismos personajes, casos, cuentas y respuestas**. Por eso se pueden combinar sin perder nada.
 
@@ -18,7 +18,7 @@ Las tres versiones tienen **las mismas 24 lecciones, los mismos códigos (M1 U01
 
 Se usan los dos paquetes que ya existen; no hace falta generar nada nuevo.
 
-1. Crear el curso `TRDF-MX-BI` con formato Tiles y los mismos 8 mosaicos. Nombre de cada mosaico en los dos idiomas: «Tus papeles · Your papers».
+1. Crear el curso `DT-REGRESO-MX-BI` con formato Tiles y los mismos 8 mosaicos. Nombre de cada mosaico en los dos idiomas: «Tus papeles · Your papers».
 2. En cada mosaico, instalar **los libros de las dos versiones** (español primero, inglés después), con el idioma en el nombre: «Tus tarjetas de regreso (ES)» y «Your returnee cards (EN)».
 3. Instalar los H5P de las dos versiones del mismo modo. Los dos dan puntos en Level Up.
 4. Autoevaluación: una en cada idioma, con los bancos `banco_preguntas_trdf.gift.txt` y `banco_preguntas_trdf_en.gift.txt`. La persona contesta la que prefiera.
@@ -28,7 +28,7 @@ Se usan los dos paquetes que ya existen; no hace falta generar nada nuevo.
 8. Encuestas: instalar las dos (`encuesta_*.xml` y `survey_*.xml`); cada persona contesta una. Para medir, se juntan las respuestas: las preguntas y los puntajes son los mismos.
 9. Libro de apoyo y herramientas: los dos libros (ES y EN) y los dos archivos de Excel en el primer mosaico.
 
-Quien instale con Claude puede pedirle: «instala TRDF-MX-ES y TRDF-MX-EN en un solo curso TRDF-MX-BI siguiendo `cursos/back_home_en/sesiones/guia_grupo_bilingue.md`».
+Quien instale con Claude puede pedirle: «instala DT-REGRESO-MX-ES y DT-REGRESO-MX-EN en un solo curso DT-REGRESO-MX-BI siguiendo `cursos/back_home_en/sesiones/guia_grupo_bilingue.md`».
 
 ## La sesión presencial bilingüe
 

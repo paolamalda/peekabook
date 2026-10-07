@@ -2,7 +2,7 @@
 
 ## 1. Your Business Community in Moodle
 
-A separate course, **"Your Business Community · U.S."** (short name `YBMF-US-EN-COM`), that complements this course. It has announcements, question forums by topic, scam alerts, the "Introduce your business" forum, wins, a monthly live session and a separate commercial referrals forum. Its setup is in its own folder.
+A separate course, **"Your Business Community · U.S."** (short name `DT-NEGOCIO-US-EN-COM`), that complements this course. It has announcements, question forums by topic, scam alerts, the "Introduce your business" forum, wins, a monthly live session and a separate commercial referrals forum. Its setup is in its own folder.
 
 To enroll the group at once, the site administrator can create a **cohort** "Your Business US EN" and add it with "Cohort sync" in both the course and the community.
 

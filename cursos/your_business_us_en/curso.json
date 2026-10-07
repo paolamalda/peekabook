@@ -145,7 +145,7 @@
   }
  },
  "instalacion": {
-  "nombre_corto": "YBMF-US-EN",
+  "nombre_corto": "DT-NEGOCIO-US-EN",
   "readme": "README_INSTALL_YOUR_BUSINESS_US_EN_FOR_CLAUDE.md",
   "aviso_foro": "Do not share your SSN, ITIN, EIN, passwords, account numbers, your business's real amounts or your immigration status.",
   "niveles": [
@@ -214,7 +214,7 @@
     "You completed all nine modules of the program."
    ]
   ],
-  "extra_readme": "\n## 9. Community (optional, ask first)\n\nAsk the person whether they want you to create the course **Your Business Community · U.S.** (`YBMF-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.\n"
+  "extra_readme": "\n## 9. Community (optional, ask first)\n\nAsk the person whether they want you to create the course **Your Business Community · U.S.** (`DT-NEGOCIO-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.\n"
  },
  "carpeta": {
   "nombre": "Your_Business_Your_Money_Your_Future_US_EN",

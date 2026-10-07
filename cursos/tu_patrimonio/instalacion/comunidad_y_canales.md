@@ -2,7 +2,7 @@
 
 ## 1. Comunidad Tu Patrimonio en Moodle
 
-Un curso aparte, **"Comunidad Tu Patrimonio"** (nombre corto `TPTF-COM`), complemento de este curso. Tiene avisos, foros de dudas por tema, alertas de fraude, logros, sesiones de acompañamiento y un foro separado de referencias comerciales. Su creación está en su propia carpeta.
+Un curso aparte, **"Comunidad Tu Patrimonio"** (nombre corto `DT-PATRIMONIO-MX-ES-COM`), complemento de este curso. Tiene avisos, foros de dudas por tema, alertas de fraude, logros, sesiones de acompañamiento y un foro separado de referencias comerciales. Su creación está en su propia carpeta.
 
 Para inscribir al grupo de una vez, la persona administradora del sitio puede crear una **cohorte** "Tu Patrimonio" y agregarla con "Sincronización de cohortes" en el curso y en la comunidad.
 

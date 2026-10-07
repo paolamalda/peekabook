@@ -14,7 +14,7 @@ Versión 1.3 · Septiembre de 2026 · Acompaña al curso *Tu Negocio, Tu Dinero,
 
 La comunidad es un **complemento** del curso, no un curso aparte con contenido propio:
 
-| | Curso (TNDF-MX) | Comunidad (TNDF-COM) |
+| | Curso (DT-NEGOCIO-MX-ES) | Comunidad (DT-NEGOCIO-MX-ES-COM) |
 |---|---|---|
 | Para qué | Aprender: 9 módulos, 44 lecciones | Acompañar: sesión mensual, dudas, alertas, «Presenta tu negocio» y logros |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |

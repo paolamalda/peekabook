@@ -1,6 +1,6 @@
 # Instrucciones para Claude: crear "Comunidad Tu Talento" (Moodle 3.10)
 
-Vas a crear el curso **Comunidad Tu Talento** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Talento, Tu Marca, Tu Futuro* (TTMF-MX). No toques otros cursos.
+Vas a crear el curso **Comunidad Tu Talento** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Talento, Tu Marca, Tu Futuro* (DT-TALENTO-MX-ES). No toques otros cursos.
 
 Reglas:
 
@@ -12,7 +12,7 @@ Reglas:
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TTMF-COM`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-TALENTO-MX-ES-COM`. Si existe, detente y pregunta.
 2. Pregunta a la persona:
    - la fecha y el enlace de la primera sesión mensual (Zoom, Meet u otra herramienta que ella use);
    - el enlace del canal de WhatsApp;
@@ -24,7 +24,7 @@ Reglas:
 | Campo | Valor |
 |---|---|
 | Nombre | Comunidad Tu Talento |
-| Nombre corto | TTMF-COM |
+| Nombre corto | DT-TALENTO-MX-ES-COM |
 | Visibilidad | **Mostrar** |
 | Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
 | Formato | Temas, 4 secciones |
@@ -84,7 +84,7 @@ Si en tu versión de Moodle el tipo "similar a un blog" no aparece con ese nombr
 
 ## 3. Enlazar desde el curso principal
 
-En el curso **TTMF-MX**, sección General, agrega una **URL** `Comunidad Tu Talento` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones en vivo."
+En el curso **DT-TALENTO-MX-ES**, sección General, agrega una **URL** `Comunidad Tu Talento` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones en vivo."
 
 ## 4. Inscripción
 

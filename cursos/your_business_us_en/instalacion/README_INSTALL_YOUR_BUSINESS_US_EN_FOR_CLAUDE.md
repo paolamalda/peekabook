@@ -43,7 +43,7 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 
 ## 0. Before you start
 
-1. Confirm that no course with the short name `YBMF-US-EN` exists. If it does, stop and ask.
+1. Confirm that no course with the short name `DT-NEGOCIO-US-EN` exists. If it does, stop and ask.
 2. Check in *Site administration > Plugins > Plugins overview* whether **Custom certificate** and **Level Up** exist. Note it for the report.
 3. If the site has no H5P activities yet, the first one you upload installs its libraries: upload it with the administrator account. If a library error appears, stop and report the exact message.
 
@@ -52,7 +52,7 @@ The site runs **Moodle 4.5**. Where these instructions name a menu, look for it 
 | Field | Value |
 |---|---|
 | Full name | Your Business, Your Money, Your Future · U.S. |
-| Short name | YBMF-US-EN |
+| Short name | DT-NEGOCIO-US-EN |
 | Visibility | **Show** |
 | Format | **Tiles**. 11 sections |
 | Completion tracking | Yes |
@@ -172,7 +172,7 @@ Follow `7_guides/gamification_guide.md`: sections 2 (Level Up), 3 (8 badges with
 
 ## 9. Community (optional, ask first)
 
-Ask the person whether they want you to create the course **Your Business Community · U.S.** (`YBMF-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.
+Ask the person whether they want you to create the course **Your Business Community · U.S.** (`DT-NEGOCIO-US-EN-COM`, hidden). It has its own folder and instructions: `README_CREATE_COMMUNITY_FOR_CLAUDE.md`.
 
 ## Extra section: Programs and support
 

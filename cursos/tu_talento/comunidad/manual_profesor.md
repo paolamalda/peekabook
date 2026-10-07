@@ -14,7 +14,7 @@ Versión 1.3 · Septiembre de 2026 · Acompaña al curso *Tu Talento, Tu Marca, 
 
 La comunidad es un **complemento** del curso *Tu Talento, Tu Marca, Tu Futuro*, no un curso aparte con contenido propio:
 
-| | Curso Tu Talento (TTMF-MX) | Comunidad Tu Talento (TTMF-COM) |
+| | Curso Tu Talento (DT-TALENTO-MX-ES) | Comunidad Tu Talento (DT-TALENTO-MX-ES-COM) |
 |---|---|---|
 | Para qué | Aprender: 11 módulos, 79 lecciones | Acompañar: dudas, avisos, alertas, logros y sesión en vivo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |

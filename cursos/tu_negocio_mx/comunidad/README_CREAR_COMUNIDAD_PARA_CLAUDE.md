@@ -1,6 +1,6 @@
 # Instrucciones para Claude: crear "Comunidad Tu Negocio" (Moodle 3.10)
 
-Vas a crear el curso **Comunidad Tu Negocio** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Negocio, Tu Dinero, Tu Futuro* (TNDF-MX). No toques otros cursos.
+Vas a crear el curso **Comunidad Tu Negocio** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Negocio, Tu Dinero, Tu Futuro* (DT-NEGOCIO-MX-ES). No toques otros cursos.
 
 Reglas:
 
@@ -12,7 +12,7 @@ Reglas:
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TNDF-COM`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-NEGOCIO-MX-ES-COM`. Si existe, detente y pregunta.
 2. Pregunta a la persona:
    - la fecha y el enlace de la primera sesión mensual en vivo;
    - el enlace del canal de WhatsApp;
@@ -24,7 +24,7 @@ Reglas:
 | Campo | Valor |
 |---|---|
 | Nombre | Comunidad Tu Negocio |
-| Nombre corto | TNDF-COM |
+| Nombre corto | DT-NEGOCIO-MX-ES-COM |
 | Visibilidad | **Mostrar** |
 | Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
 | Formato | Temas, 4 secciones |
@@ -85,7 +85,7 @@ Si en tu versión de Moodle el tipo "similar a un blog" no aparece con ese nombr
 
 ## 3. Enlazar desde el curso principal
 
-En el curso **TNDF-MX**, sección General, agrega una **URL** `Comunidad Tu Negocio` al curso nuevo, con la descripción: "Dudas, fechas fiscales, alertas de fraude, presenta tu negocio y sesión mensual."
+En el curso **DT-NEGOCIO-MX-ES**, sección General, agrega una **URL** `Comunidad Tu Negocio` al curso nuevo, con la descripción: "Dudas, fechas fiscales, alertas de fraude, presenta tu negocio y sesión mensual."
 
 ## 4. Inscripción
 

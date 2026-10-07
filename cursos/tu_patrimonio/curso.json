@@ -179,7 +179,7 @@
   ]
  },
  "instalacion": {
-  "nombre_corto": "TPTF-MX",
+  "nombre_corto": "DT-PATRIMONIO-MX-ES",
   "readme": "README_INSTALAR_TU_PATRIMONIO_PARA_CLAUDE.md",
   "aviso_foro": "No compartas números de cuenta, contraseñas, códigos, fotos de tarjetas ni montos reales. El equipo nunca te pedirá esos datos.",
   "niveles": [
@@ -248,7 +248,7 @@
     "Concluiste los once módulos del programa."
    ]
   ],
-  "extra_readme": "\n## 9. Comunidad y acompañamiento (pregunta antes)\n\nEste curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`TPTF-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe \"[por definir]\" y repórtalo).\n"
+  "extra_readme": "\n## 9. Comunidad y acompañamiento (pregunta antes)\n\nEste curso se acompaña con sesiones en grupo y la **Comunidad Tu Patrimonio** (`DT-PATRIMONIO-MX-ES-COM`), que tiene su propia carpeta e instrucciones (`README_CREAR_COMUNIDAD_PARA_CLAUDE.md`). Pregunta a la persona si quieres crearla. En la sección General del curso agrega una **URL** `Comunidad Tu Patrimonio` y una etiqueta con el horario de la línea de apoyo que te indique la persona (si no lo tiene, escribe \"[por definir]\" y repórtalo).\n"
  },
  "encuesta": "mx",
  "negocio": false,

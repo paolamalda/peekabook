@@ -1,6 +1,6 @@
 # Instrucciones para Claude: crear "Comunidad Tu Patrimonio" (Moodle 3.10)
 
-Vas a crear el curso **Comunidad Tu Patrimonio** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Patrimonio, Tu Tranquilidad, Tu Futuro* (TPTF-MX). No toques otros cursos.
+Vas a crear el curso **Comunidad Tu Patrimonio** en academia.desarrollatalento.com. Es un espacio aparte del curso *Tu Patrimonio, Tu Tranquilidad, Tu Futuro* (DT-PATRIMONIO-MX-ES). No toques otros cursos.
 
 Reglas:
 
@@ -12,7 +12,7 @@ Reglas:
 
 ## 0. Antes de empezar
 
-1. Confirma que no existe un curso con nombre corto `TPTF-COM`. Si existe, detente y pregunta.
+1. Confirma que no existe un curso con nombre corto `DT-PATRIMONIO-MX-ES-COM`. Si existe, detente y pregunta.
 2. Pregunta a la persona:
    - la fecha y el lugar o enlace de la primera sesión de acompañamiento;
    - el horario y el número de la línea de apoyo;
@@ -25,7 +25,7 @@ Reglas:
 | Campo | Valor |
 |---|---|
 | Nombre | Comunidad Tu Patrimonio |
-| Nombre corto | TPTF-COM |
+| Nombre corto | DT-PATRIMONIO-MX-ES-COM |
 | Visibilidad | **Mostrar** |
 | Inscripción | Autoinscripción con la clave que te dé la persona («[por definir]» si no la tienes) |
 | Formato | Temas, 4 secciones |
@@ -85,7 +85,7 @@ Si en tu versión de Moodle el tipo "similar a un blog" no aparece con ese nombr
 
 ## 3. Enlazar desde el curso principal
 
-En el curso **TPTF-MX**, sección General, agrega una **URL** `Comunidad Tu Patrimonio` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones en vivo."
+En el curso **DT-PATRIMONIO-MX-ES**, sección General, agrega una **URL** `Comunidad Tu Patrimonio` al curso nuevo, con la descripción: "Dudas, avisos, alertas de fraude, logros y sesiones en vivo."
 
 ## 4. Inscripción
 

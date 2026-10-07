@@ -14,7 +14,7 @@ Versión 1.3 · Septiembre de 2026 · Acompaña al curso *Tu Patrimonio, Tu Tran
 
 La comunidad es un **complemento** del curso, no un curso aparte con contenido propio:
 
-| | Curso (TPTF-MX) | Comunidad (TPTF-COM) |
+| | Curso (DT-PATRIMONIO-MX-ES) | Comunidad (DT-PATRIMONIO-MX-ES-COM) |
 |---|---|---|
 | Para qué | Aprender: 11 módulos, 59 lecciones | Acompañar: sesiones, dudas, alertas, logros y línea de apoyo |
 | Contenido | Lecciones, H5P, autoevaluaciones | Foros y la *Guía de la comunidad*; no enseña temas nuevos |
